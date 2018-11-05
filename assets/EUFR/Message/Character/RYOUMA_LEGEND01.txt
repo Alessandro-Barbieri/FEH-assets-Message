@@ -1,0 +1,38 @@
+[Heroes Archive] (RYOUMA_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_RYOUMA_LEGEND01_HOME1: Quand on me dit que je suis un héros\nlégendaire, cela me gêne. Après tout,\nje ne suis pas sans défaut.$k$pLaissez donc à mon kinshi le soin\nde me porter aux nues...
+MID_RYOUMA_LEGEND01_HOME2: J'espère que mes frères et sœurs\nqui sont restés en Hoshido se\nportent bien.$k$pJe m'inquiète surtout pour Takumi.\nIl peut être très rancunier, même\npour de petites taquineries...
+MID_RYOUMA_LEGEND01_HOME3: Les guerriers savent qu'il ne faut\njamais passer à côté d'une occasion\nde se reposer.$k$pCela dit, il y a une différence entre le\nrepos et la paresse... N'oubliez pas\nde faire votre travail.
+MID_RYOUMA_LEGEND01_HOME4: Voudriez-vous méditer avec moi ?\nLa tranquillité de l'âme est la clé du\nsuccès.
+MID_RYOUMA_LEGEND01_HOME5: Voler au-dessus du royaume\nme permet de le redécouvrir.$k$pLes vastes champs, les hautes\nmontagnes... C'est à couper le\nsouffle.
+MID_RYOUMA_LEGEND01_FRIEND: Êtes-vous\n$Nu ?$k$pJ'ai été envoyé par\n$Nf pour\nvous transmettre ses salutations.
+MID_RYOUMA_LEGEND01_LEVEL1: Je me rapproche pas à pas\nde la perfection.
+MID_RYOUMA_LEGEND01_LEVEL2: Il ne faut jamais relâcher\nses efforts.
+MID_RYOUMA_LEGEND01_LEVEL3: La perfection est encore loin.
+MID_RYOUMA_LEGEND01_SKILL: Même avec cette aptitude, il me\nreste beaucoup de chemin à\nparcourir.
+MID_RYOUMA_LEGEND01_JOIN: Je m'appelle Ryoma. Mon kinshi et\nmoi sommes à votre service et\nprêts à combattre.$k$pEuh... Pardonnez-moi de ne pas\ndescendre pour vous saluer...
+MID_RYOUMA_LEGEND01_STRONGEST: Le fait d'être invoqué dans ce monde\net d'être appelé « héros » a fait\nnaître une flamme dans mon cœur.$k$pEn tant que guerrier, je suis heureux\nde combattre aux côtés de héros\nvenus de tant de mondes différents...$k$pEt je suis aussi fier de pouvoir me\nrendre utile sur de nombreux\nchamps de bataille.$k$pMais, depuis mon arrivée ici, j'ai\nsurtout compris à quel point la paix\net la tranquillité sont essentielles.$k$pAucune nation ne devrait avoir à\nvivre dans la violence en\npermanence.$k$pLe monde d'où je viens, Hoshido, a\nété libéré du fardeau de la guerre.\nNous devons faire la même chose ici.$k$pJe voudrais survoler Askr et voir des\nterres paisibles. Ensemble, nous\npouvons faire de ce rêve une réalité.$k$pMais pour le moment, nous devons\ncontinuer la lutte. En avant,\n$Nu !
+MID_RYOUMA_LEGEND01_VOICE01: ぬん！
+MID_RYOUMA_LEGEND01_VOICE02: せやぁっ！
+MID_RYOUMA_LEGEND01_VOICE03: うああっ！
+MID_RYOUMA_LEGEND01_VOICE04: 不覚…！
+MID_RYOUMA_LEGEND01_VOICE05: Mon nom est Ryoma !
+MID_RYOUMA_LEGEND01_VOICE06: Une brèche !
+MID_RYOUMA_LEGEND01_VOICE07: En garde !
+MID_RYOUMA_LEGEND01_VOICE08: Raijinto !
+MID_RYOUMA_LEGEND01_VOICE09: The future of Hoshido…
+MID_RYOUMA_LEGEND01_VOICE10: ははは
+MID_RYOUMA_LEGEND01_VOICE11: I am Ryoma, High Prince of Hoshido.
+MID_RYOUMA_LEGEND01_VOICE12: Can I help you? Ah, you must be here for a lesson on the sword.
+MID_RYOUMA_LEGEND01_VOICE13: A Legendary Hero? Hmm... I suppose I should be honored that my blade is known across worlds.
+MID_RYOUMA_LEGEND01_VOICE14: Prince Xander of Nohr... Tell me, is he here?
+MID_RYOUMA_LEGEND01_VOICE15: Peace was restored to my homeland. I promise we'll do the same for this world.
+MID_RYOUMA_LEGEND01_VOICE16: All I must do is fight in a manner befitting the way of the sword.
+MID_RYOUMA_LEGEND01_VOICE17: You stand for peace. Always. And together, you and I will bring this world into a new era.
+MID_RYOUMA_LEGEND01_VOICE18: Hmm...
+MID_RYOUMA_LEGEND01_VOICE19: On my blade!
+MID_RYOUMA_LEGEND01_VOICE20: I understand.

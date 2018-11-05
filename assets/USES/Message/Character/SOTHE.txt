@@ -1,0 +1,38 @@
+[Heroes Archive] (SOTHE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOTHE_HOME1: Cuando me di cuenta de\nque estaba en otro mundo\nme preparé para lo peor.$k$pPero solo echo de menos la comida.\nLa nuestra es mucho mejor.
+MID_SOTHE_HOME2: Vaya donde vaya y esté con quien\nesté, mi destino y mi forma de ser\nvan a seguir siendo los mismos.$k$pIgual que las cosas\nque más me importan.
+MID_SOTHE_HOME3: Basta una mirada para\nnotar tu cansancio.$k$pImagínate lo que pasaría con\nnuestra moral si quien está al mando\nse viniera abajo.$k$pAnda, ve a mojarte la cara con agua\nfresca. Eso debería bastar.
+MID_SOTHE_HOME4: Me da igual quien seas. Si le haces\ndaño a Micaiah, lo pagarás caro.\n¿Está claro?
+MID_SOTHE_HOME5: Estaba afilando mis dagas.\nHay que estar siempre preparado,\ny solo puedes confiar en ti mismo.
+MID_SOTHE_FRIEND: No sé por qué me eligieron a\nmí, pero traigo un mensaje de\n$Nf.
+MID_SOTHE_LEVEL1: Allá vamos.\nPuedo seguirte el ritmo.\n
+MID_SOTHE_LEVEL2: Me lo esperaba.\nSeguiré esforzándome.
+MID_SOTHE_LEVEL3: ¿Eso es todo?\nTengo que hacerme más fuerte.
+MID_SOTHE_SKILL: ¿Esto qué es? Supongo que\naprendí una lección.
+MID_SOTHE_JOIN: Soy Sothe. No tengo poderes\nespeciales, pero haré lo posible\npor proteger a quienes me importan.
+MID_SOTHE_STRONGEST: ¡Claro que Micaiah y yo no nos\nparecemos! No tenemos\nlazos de sangre.$k$pDe pequeño, Micaiah me tomó de la\nmano. Solo quería que yo dejara\nde llorar.$k$pMe abrazó fuerte y supe que íbamos\na ser una familia para siempre.$k$pLos lazos que nos unen son más\nfuertes que la sangre. Nos damos\napoyo y confianza sin condiciones.$k$pCuando te veo luchar con Alfonse y\nlos demás, sin pedir nada a cambio...$k$pEse es el tipo de vínculo que\ntenemos Micaiah y yo.$k$pAún no puedo decir que confíe\nen ti como lo hago en ella.$k$pPero tengo fe en ti porque te vi\nluchar por las personas.
+MID_SOTHE_VOICE01: はっ！
+MID_SOTHE_VOICE02: Stop
+MID_SOTHE_VOICE03: うああっ！
+MID_SOTHE_VOICE04: I messed up...
+MID_SOTHE_VOICE05: Ya me he decidido.
+MID_SOTHE_VOICE06: Tengo que luchar.
+MID_SOTHE_VOICE07: ¡Lucho para sobrevivir!
+MID_SOTHE_VOICE08: ¡Te derrotaré!
+MID_SOTHE_VOICE09: If I only...had power...
+MID_SOTHE_VOICE10: ふっ
+MID_SOTHE_VOICE11: I'm Sothe of the Dawn Brigade.
+MID_SOTHE_VOICE12: Wha--?! Sometimes, I just don't understand why you do the things you do...
+MID_SOTHE_VOICE13: I swore to protect Micaiah. Even if it means fighting Commander Ike...
+MID_SOTHE_VOICE14: If you hold strong to your feelings, you will get what you want.
+MID_SOTHE_VOICE15: I may not have any special powers, but I've been told I have a fire inside.
+MID_SOTHE_VOICE16: I owe Commander Ike my life... I want to be just like him.
+MID_SOTHE_VOICE17: Don't leave my side. I'll protect you with all I've got.
+MID_SOTHE_VOICE18: Sure.
+MID_SOTHE_VOICE19: What are you thinking?
+MID_SOTHE_VOICE20: Gotta stay on guard.

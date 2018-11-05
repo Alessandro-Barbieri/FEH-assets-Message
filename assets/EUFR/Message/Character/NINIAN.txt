@@ -1,0 +1,38 @@
+[Heroes Archive] (NINIAN)
+
+
+Heroes Message Name: Message
+
+
+MID_NINIAN_HOME1: Le vent... ce paysage...\nTout me semble si rafraîchissant, ici.
+MID_NINIAN_HOME2: Je sens que vous êtes... $Gdifférent,différente| de\nla plupart d'entre nous.
+MID_NINIAN_HOME3: Merci pour votre gentillesse,\n$Nu. Je saurai\nvous la rendre.
+MID_NINIAN_HOME4: Certaines danses se prêtent à toutes\nles occasions, d'autres sont réservées\nà des événements particuliers.$k$pVous voulez que je vous en montre\nquelques-unes ?
+MID_NINIAN_HOME5: J'ai le don de pressentir le danger,\nmais pour l'heure... je ne pressens\nrien.
+MID_NINIAN_FRIEND: $Nf vous envoie\nses salutations et vous offre cette\ndanse de l'amitié. Asseyez-vous...
+MID_NINIAN_LEVEL1: Si ça vous satisfait, alors ça me\nsatisfait aussi.
+MID_NINIAN_LEVEL2: Je sens que... je peux faire encore\nmieux que ça.
+MID_NINIAN_LEVEL3: Pardon... Ce n'est pas avec ça\nque je vais me rendre utile...
+MID_NINIAN_SKILL: Je sens qu'un nouveau potentiel vient\nde s'éveiller en moi.
+MID_NINIAN_JOIN: Je m'appelle Ninian, croyez-le ou non,\nje ne suis rien de plus qu'une artiste\nitinérante.
+MID_NINIAN_STRONGEST: Vous l'avez sûrement réalisé depuis\nle temps... Du sang de dragon coule\ndans mes veines.$k$pLes dragons n'ont pas toujours su\ncohabiter avec les humains... ou alors\nest-ce l'inverse ?$k$pEn tout cas, sachez qu'ici, j'ai le\nsentiment de pouvoir être moi-même,\nsans retenue, et c'est grâce à vous.$k$pVous ne jugez pas les gens sur leurs\ndifférences, vous voyez plutôt ce qui\nnous rassemble. C'est un don rare.$k$pCela me touche plus que vous ne\npouvez l'imaginer, sachez que mes\ndanses sont éternellement vôtres.
+MID_NINIAN_VOICE01: えい！
+MID_NINIAN_VOICE02: はぁっ！
+MID_NINIAN_VOICE03: きゃああっ！
+MID_NINIAN_VOICE04: No...
+MID_NINIAN_VOICE05: Contemplez ma puissance !
+MID_NINIAN_VOICE06: Assez !
+MID_NINIAN_VOICE07: J'espère faire la différence...
+MID_NINIAN_VOICE08: Je vais essayer !
+MID_NINIAN_VOICE09: Ahhh...
+MID_NINIAN_VOICE10: Heehee...
+MID_NINIAN_VOICE11: Que ma danse vous captive...
+MID_NINIAN_VOICE12: Laissez-moi vous aider.
+MID_NINIAN_VOICE13: What do you need of me?
+MID_NINIAN_VOICE14: You and I are...? Friends.
+MID_NINIAN_VOICE15: I hope you're not afraid of dragons.
+MID_NINIAN_VOICE16: Humans and dragons... Will they ever live in harmony?
+MID_NINIAN_VOICE17: You accept me as I am, don't you?
+MID_NINIAN_VOICE18: Yes?
+MID_NINIAN_VOICE19: Hmm?
+MID_NINIAN_VOICE20: Of course.

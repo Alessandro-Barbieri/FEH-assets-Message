@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: Combattez avec les bénédictions !
+MID_BLESSINGMAP_HELP_DIALOG_01: ◆ Jardins bénis ◆\nDans les légendes, ces jardins\nancestraux sont décrits comme\ndes lieux paradisiaques abritant\nde grands trésors. Seuls les\nhéros légendaires et les héros\nayant reçu une bénédiction\npeuvent y pénétrer.
+MID_BLESSINGMAP_HELP_DIALOG_02: ◆ Règles ◆\nSeuls les héros légendaires de\ntype Eau et les héros ayant reçu\nla bénédiction de l'eau peuvent\npénétrer dans le jardin de l'eau.\nLes jardins du vent, de la terre\net du feu fonctionnent de la\nmême manière.
+MID_BLESSINGMAP_HELP_DIALOG_03: ◆ Règles ◆\n・ L'équipe doit comporter\nquatre alliés.\n・ L'équipe ne peut pas contenir\nplusieurs exemplaires du même\nhéros.\n・ Il n'est pas possible d'utiliser\nune lumière protectrice.
+MID_BLESSINGMAP_HELP_DIALOG_04: ◆ Effets légendaires ◆\n・ Dans les jardins bénis, les\neffets des héros légendaires sont\ntoujours actifs, quelle que soit la\nsaison.\n・ Pour bénir un allié, touchez\nAlliés, puis Entraînement avancé\net enfin Bénédiction.
+MID_STAGE_SELECT_BLESSING_GARDEN: Jardins bénis
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: Jardin de l'eau
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: Jardin du vent
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: Jardin de la terre
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: Jardin du feu
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: Réservé aux héros légendaires et\nbénis de type Eau.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: Réservé aux héros légendaires et\nbénis de type Vent.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: Réservé aux héros légendaires et\nbénis de type Terre.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: Réservé aux héros légendaires et\nbénis de type Feu.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: Seuls les héros légendaires de\ntype Feu et les héros ayant reçu\nla bénédiction du feu peuvent\naccéder à cette carte.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: Seuls les héros légendaires de\ntype Eau et les héros ayant reçu\nla bénédiction de l'eau peuvent\naccéder à cette carte.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: Seuls les héros légendaires de\ntype Vent et les héros ayant reçu\nla bénédiction du vent peuvent\naccéder à cette carte.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: Seuls les héros légendaires de\ntype Terre et les héros ayant reçu\nla bénédiction de la terre peuvent\naccéder à cette carte.
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: Bonus de première visite (jardins bénis)
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $aProchaine carte dans $a0 min.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $aProchaine carte dans $a0 h.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $aProchaine carte dans $a0 j.
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: Vous avez débloqué les\njardins bénis.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: Vous devez utiliser quatre alliés, sans\nhéros en plusieurs exemplaires.
+MID_OCCUPATION_MAP_FORTRESS: Forteresse
+MID_OCCUPATION_MAP_HUB: Camp
+MID_OCCUPATION_MAP_SCORE_KILL: Défaite
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: Camps
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: PV fort.
+MID_OCCUPATION_MAP_SCORE_BONUS: Bonus
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: Domaines rivaux
+MID_OCCUPATION_STAGE_TELOP_RULE: $a$a0 tours
+MID_OCCUPATION_RESULT: Résultats
+MID_OCCUPATION_RESULT_KILL: Ennemis vaincus
+MID_OCCUPATION_RESULT_DEFENCE: Défense fort.
+MID_OCCUPATION_RESULT_OFFENCE: Attaque fort.
+MID_OCCUPATION_RESULT_DOMINATION: Camps gardés
+MID_OCCUPATION_RESULT_SCORE: Score
+MID_OCCUPATION_RESULT_SCORE_BORDER: Objectif
+MID_OCCUPATION_RESULT_BONUS: Bonus
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: Objectif atteint !
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: Points à marquer :
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: Vous avez gagné la récompense !
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: Vous avez déjà gagné la récompense.
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: Une récompense si vous atteignez l'objectif !
+MID_OCCUPATION_STAGE_SELECT_SCORE: Score
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: Score/Bonus
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: Record
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: Objectif
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: Atteignez l'objectif et terminez la\ncarte pour gagner une récompense.
+MID_OCCUPATION_BONUS_歩行: Ennemi éliminé par fantassin : +1
+MID_OCCUPATION_BONUS_重装: Ennemi éliminé par unité en armure : +1
+MID_OCCUPATION_BONUS_騎馬: Ennemi éliminé par cavalier : +1
+MID_OCCUPATION_BONUS_飛行: Ennemi éliminé par unité volante : +1
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: Niveau déjà terminé.\nAucune récompense.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: Impossible d'utiliser plusieurs\nexemplaires du même héros,\nou plus d'un allié avec\nl'aptitude Chant ou Danse.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: Cette brigade ne peut pas être utilisée.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: Partez à l'assaut avec une\nbrigade de 20 alliés !
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: ◆ Gérer brigades ◆\nLes brigades sont les équipes\nutilisées dans le mode Domaines\nrivaux. Vous pouvez choisir\njusqu'à 20 alliés issus de votre\narmée ou de celles de vos amis.\nLes emplacements vides seront\nautomatiquement remplis.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: ◆ Limitations ◆\n・ La brigade ne peut pas\ncontenir plus d'un allié avec\nl'aptitude Chant ou Danse.\n・ La brigade ne peut pas\ncontenir plusieurs exemplaires\ndu même héros.
+MID_CONQUER_HELP_DIALOG_00: Utilisez les alliés de vos amis !
+MID_CONQUER_HELP_DIALOG_01: ◆ Règles ◆\n・ Si un camp perd toutes ses\ntroupes, elles sont remplacées.\n・ La bataille prend fin après\n10 tours ou quand une forteresse\na été détruite.\n・ Vous ne gagnez pas d'EXP ou\nde PA.\n・ Les renforts ne bénéficient pas\ndes effets légendaires.
+MID_CONQUER_HELP_DIALOG_02: ◆ Forteresses ◆\n・ Il faut trois coups pour détruire\nune forteresse.\n・ Si vous contrôlez une forteresse,\nvous pouvez vous y téléporter.\n・ Dans une forteresse, les alliés\nrécupèrent 10 PV par tour.\n・ Une forteresse est une zone\ndéfensive.
+MID_CONQUER_HELP_DIALOG_03: ◆ Camp ◆\n・ Il faut deux coups pour vaincre\nun camp et en prendre le contrôle.\n・ Si vous contrôlez un camp,\nvous pouvez vous y téléporter.\n・ Dans un camp, les alliés\nrécupèrent 10 PV par tour.\n・ Un camp est une zone\ndéfensive.
+MID_CONQUER_HELP_DIALOG_04: ◆ Téléportation ◆\nLes alliés adjacents à un camp\nou une forteresse peuvent se\ntéléporter instantanément vers\nune case adjacente à un autre\ncamp ou forteresse que leur\néquipe contrôle.
+MID_CONQUER_HELP_DIALOG_05: ◆ Score ◆\nUn score vous sera attribué à\nla fin de la bataille.\n\nPour obtenir un meilleur score,\nprotégez votre forteresse et vos\ncamps, éliminez vos adversaires\net capturez la forteresse ennemie.
+MID_UNIT_EDIT_LARGE_FORCE: Gérer brigades
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $aBrigade $a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: Allié
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: Actualiser amis
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: Actualiser les amis ?
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: Vos alliés
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: Alliés de vos amis
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: Utiliser les caractéristiques les plus\nrécentes des alliés de vos amis ?
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: Les alliés de vos amis ont été\nactualisés.
+MID_UNIT_EDIT_FRIEND_BOX: Amis

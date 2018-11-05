@@ -1,0 +1,20 @@
+[Heroes Archive] (Menu_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MID_OCCUPATION_GAINED_REWARDTYPE_SUPERIORITY_SCORE: $aPremio punti zone GC: battaglia $a0
+MID_OCCUPATION_REWARD_SORT_SUPERIORITY_SCORE: Punti zone
+MID_OCCUPATION_SCORE_BOARD_TITLE: Punti zone attuali
+MID_OCCUPATION_SCORE_BOARD_OPERATION: $aTurno $a0
+MID_OCCUPATION_SCORE_BOARD_FINAL_AREA: Numero zone
+MID_OCCUPATION_SCORE_BOARD_TOTAL: Totale
+MID_OCCUPATION_SCORE_BOARD_AGGREGATING: Calcolo...
+MID_OCCUPATION_SCORE_BOARD_HELP_TITLE: Ottieni punti in base al numero\ndi zone che controlli a fine turno.
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_1: ・ 5-9 zone
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_2: ・ 10-14 zone
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_3: ・ 15+ zone
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_4: $aNel turno $a0, ogni zona controllata vale 1 punto.
+MID_PORTRAIT_TITLE_201808: Contro il destino
+MID_SUMMON_PULL_ONLY_ONCE_Summon_58_popularity03_Selected: La sessione termina scegliendo un eroe.

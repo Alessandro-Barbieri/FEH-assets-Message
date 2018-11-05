@@ -1,0 +1,38 @@
+[Heroes Archive] (EIRIK)
+
+
+Heroes Message Name: Message
+
+
+MID_EIRIK_HOME1: みんなが幸せで、争いのない世界…\nいつか、そんな未来が訪れるでしょうか？
+MID_EIRIK_HOME2: 元の世界では、私はいつも\n兄上に助けていただいてばかりで…\n…お恥ずかしいです。
+MID_EIRIK_HOME3: はい。私なら大丈夫です。\nいつもありがとうございます、\nあなたは優しい方ですね…
+MID_EIRIK_HOME4: あなたが元いた国にも、\nやはり戦はあるのでしょうか？\nそれとも、平和な国でしたか？
+MID_EIRIK_HOME5: 剣の素振りをしていました。\nちゃんと毎日訓練をしないと、\n兄上に叱られてしまいます。
+MID_EIRIK_FRIEND: $Nfさんのかわりに\nごあいさつに参りました。\nどうか仲良くさせてください。
+MID_EIRIK_LEVEL1: 兄上、見ていて\nくださいますか…？
+MID_EIRIK_LEVEL2: ふだんの訓練の\nおかげでしょうか。
+MID_EIRIK_LEVEL3: 兄上に叱られて\nしまいます…
+MID_EIRIK_SKILL: 私に足りない強さ…\n身についたでしょうか。
+MID_EIRIK_JOIN: 私はエイリークと申します。\n戦いは好きではありませんが…\nお役に立てるよう精一杯努めます。
+MID_EIRIK_STRONGEST: 私は強くなったのでしょうか…？\nあなたにそう認めていただけたなら、\nとても嬉しいです。$k$p私は優しい子だと…\n父や兄はよく褒めてくださいました。\nでも優しさでは…守れないものもあります。$k$p優しさは、弱さ…\n優しいだけでは、虐げられ、欺かれ…\n守りたい人も守れなくなってしまう…$k$pだから、私は強くなって…\nそして、人を思いやる優しさも\n忘れずにいたい…そう思ったのです。$k$p私がそうなれたのなら…\nきっと、あなたのおかげです。\nこれからは、そのお礼をさせてください。
+MID_EIRIK_VOICE01: えいっ！
+MID_EIRIK_VOICE02: やぁっ！
+MID_EIRIK_VOICE03: きゃああっ！
+MID_EIRIK_VOICE04: そんな…
+MID_EIRIK_VOICE05: こちらから！
+MID_EIRIK_VOICE06: 戦わなくては！
+MID_EIRIK_VOICE07: 許しません！
+MID_EIRIK_VOICE08: これが戦…
+MID_EIRIK_VOICE09: 兄上…
+MID_EIRIK_VOICE10: ふふっ
+MID_EIRIK_VOICE11: 優しいお言葉、感謝致します。
+MID_EIRIK_VOICE12: きゃっ！？　も、もう…怒りますよ！
+MID_EIRIK_VOICE13: 戦わずにすむのなら、それが一番よいのですが…
+MID_EIRIK_VOICE14: 剣の稽古を手伝っていただけませんか？
+MID_EIRIK_VOICE15: 不思議ですね。あなたといると…胸が暖かくなります
+MID_EIRIK_VOICE16: 兄上と、リオンと…昔語り合ったような未来を…
+MID_EIRIK_VOICE17: あなたは…どこかへ行ってしまったりしないでください。
+MID_EIRIK_VOICE18: はい
+MID_EIRIK_VOICE19: お願いします
+MID_EIRIK_VOICE20: 行きましょう！

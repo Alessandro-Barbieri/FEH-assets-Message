@@ -1,0 +1,38 @@
+[Heroes Archive] (GOHDON)
+
+
+Heroes Message Name: Message
+
+
+MID_GOHDON_HOME1: Tu arma es parecida a un arco, ¿no?\nEs decir, también dispara proyectiles...\n¡Quizá deberíamos practicar juntos!
+MID_GOHDON_HOME2: Sé que tengo un aspecto un poco\ninfantil. Ay, lo que daría por parecer\nun auténtico caballero...
+MID_GOHDON_HOME3: Contigo al mando todo resulta más\nsencillo, $Nu.\n¡No nos abandones nunca!
+MID_GOHDON_HOME4: Me encantaría ser capaz de motivar\na la gente con mi oratoria, pero,\ndesgraciadamente, no tengo ese don.
+MID_GOHDON_HOME5: Jeorge me enseñó a manejar el arco.\nNo solo es un gran maestro, sino\ntambién una persona entrañable.
+MID_GOHDON_FRIEND: ¿Tú eres $Nu?\n¡Pues te traigo saludos\nde $Nf!
+MID_GOHDON_LEVEL1: ¡Esto sí que es mejorar!\nNo me lo esperaba en absoluto...
+MID_GOHDON_LEVEL2: Bien, poquito a poco.
+MID_GOHDON_LEVEL3: Todavía estoy muy verde...
+MID_GOHDON_SKILL: ¡Gracias! Seguro que mi puntería\nhabrá mejorado muchísimo.
+MID_GOHDON_JOIN: Me llamo Gordin y soy arquero\nde Altea. ¡Será un placer ayudarte!
+MID_GOHDON_STRONGEST: Oye, quería darte las gracias por los\nánimos. No estaría esforzándome\ntanto de no ser por ti.$k$pMe diste la confianza que\nnecesitaba para creer en mí mismo\ny para ayudar a los demás.$k$pCreo que maduré bastante...\n¡aunque no se refleje en mi aspecto!\nJe, je...$k$pPor ahora, pienso seguir a tu lado\nmientras no te moleste. ¡Es obvio\nque me está sirviendo de ayuda!
+MID_GOHDON_VOICE01: えいっ！
+MID_GOHDON_VOICE02: やぁっ！
+MID_GOHDON_VOICE03: うああっ！
+MID_GOHDON_VOICE04: Drat...
+MID_GOHDON_VOICE05: ¡Sé que puedo hacerlo!
+MID_GOHDON_VOICE06: ¡Acerté en el blanco!
+MID_GOHDON_VOICE07: ¡Vamos, vamos!
+MID_GOHDON_VOICE08: ¡Cada día combato mejor!
+MID_GOHDON_VOICE09: I can't...
+MID_GOHDON_VOICE10: Haha
+MID_GOHDON_VOICE11: Oh, hey. Did you need me?
+MID_GOHDON_VOICE12: *chuckles* You checking up on everyone or just me?
+MID_GOHDON_VOICE13: I don't really look the part of an Altean knight, do I?
+MID_GOHDON_VOICE14: Let's train and improve together. Sound good?
+MID_GOHDON_VOICE15: If you had to guess, how old would you say I look?
+MID_GOHDON_VOICE16: I know, I know... I look young for my age.
+MID_GOHDON_VOICE17: Hey, I'm counting on you. Just thought you should know.
+MID_GOHDON_VOICE18: All right!
+MID_GOHDON_VOICE19: What now?
+MID_GOHDON_VOICE20: You got it!

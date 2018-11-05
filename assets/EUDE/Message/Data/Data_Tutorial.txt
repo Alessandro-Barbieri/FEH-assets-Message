@@ -1,0 +1,1575 @@
+[Heroes Archive] (Data_Tutorial)
+
+
+Heroes Message Name: Message
+
+
+MID_WEAPON: Waffenart
+MID_ATTRIBUTE: Typ
+MID_MOVE: Bewegung
+MID_RARITY: Seltenheit
+MID_RARITY2: $a$a0 ★
+MID_LEVEL: Level
+MID_LEVEL2: Lv.
+MID_EXP: Erf.
+MID_CAPABILITY: Macht
+MID_HP: KP
+MID_ATTACK: Agr.
+MID_AGILITY: Ges.
+MID_DEFENSE: Ver.
+MID_RESIST: Res.
+MID_MIGHT: Kft.
+MID_RANGE: Rw.
+MID_EFFECTIVE: Eff.
+MID_SKILL_POINT: FP
+MID_CAPABILITY_BASE: Grundwert
+MID_CAPABILITY_STRONG: Plus
+MID_CAPABILITY_WEAK: Minus
+MID_SKILL_ALL: Alle
+MID_STAMINA: Energie
+MID_H_LEVEL: Die generelle Kraft einer Einheit.\nSie steigt um 1, wenn die Einheit\neinen Level hinzugewinnt.
+MID_H_EXP: Erfahrungspunkte. Hat die Einheit\neine bestimmte Anzahl davon ge-\nsammelt, steigt sie einen Level auf.
+MID_H_HP: Sinken die KP auf 0, ist die\nEinheit besiegt.
+MID_H_ATTACK: Je höher der Angriffswert einer\nEinheit ist, desto mehr Schaden\nwird sie dem Gegner zufügen.
+MID_H_AGILITY: Eine Einheit greift 2-mal an,\nwenn ihre Ges. mindestens um\n5 höher ist als die des Gegners.
+MID_H_DEFENSE: Je höher die Ver. einer Einheit, desto\ngeringer d. Schaden durch physische\nAngriffe (Schwerter, Äxte, Lanzen etc.).
+MID_H_RESIST: Je höher die Res. einer Einheit, desto\ngeringer der Schaden durch magische\nAngriffe (Stäbe, Hauch-Effekte etc.).
+MID_H_SKILL_POINT: Fähigkeitspunkte. Werden eingesetzt\nund verbraucht, um Fähigkeiten zu\nerlangen.
+MID_H_COMPATIBILITY: Waffen-Dreieck/Vorteil: Angriff +20 %\nWaffen-Dreieck/Nachteil: Angriff -20 %
+MWID_H_剣: Schwert. Reichw.: 1 - Physische\nWaffe. Schaden wird durch Ver.\ndes Angriffsziels reduziert.
+MWID_H_槍: Lanze. Reichw.: 1 - Physische\nWaffe. Schaden wird durch\nVer. des Angriffsziels reduziert.
+MWID_H_斧: Axt. Reichw.: 1 - Physische Waffe.\nSchaden wird durch Ver. des\nAngriffsziels reduziert.
+MWID_H_弓: Bogen. Reichw.: 2 - Phys. Waffe. Ver.\ndes Angriffsziels reduziert Schaden.\nExtraschaden bei fliegenden Gegn.
+MWID_H_暗: Dolch. Reichw.: 2 - Phys. Waffe. Ver.\ndes Angriffsziels reduziert Schaden.\nKann gegn. Statuswerte zeitw. senken.
+MWID_H_赤魔: Rotes Buch. Reichw.: 2 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_青魔: Blaues Buch. Reichw.: 2 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_緑魔: Grünes Buch. Reichw.: 2 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_杖: Stab. Angr.-Reichweite: 2 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_赤竜: Roter Atem. Reichw.: 1 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_青竜: Blauer Atem. Reichw.: 1 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MWID_H_緑竜: Grüner Atem. Reichw.: 1 - Magische\nWaffe. Schaden wird durch Res.\ndes Angriffsziels reduziert.
+MMVID_H_歩行: Infanterieeinheit. Kann sich 2 Felder\nweit bewegen. Wälder etc. reduzieren\ndie Bewegung.
+MMVID_H_重装: Gepanzerte Einheit.\nKann sich 1 Feld weit bewegen.
+MMVID_H_騎馬: Reiter. Kann sich 3 Felder weit bewegen.\nKann nicht durch Wälder reiten.
+MMVID_H_飛行: Flugeinheit. Kann sich 2 Felder weit\nbewegen. Wälder, Berge, Flüsse\netc. spielen dabei keine Rolle.
+MID_HEROISM_POINT: HV
+MID_H_HEROISM_POINT: Verb. erhalten Heldenverdienst für überstan-\ndene Kämpfe. Haben sie genügend, geben\nsie dir im Startbildschirm Heldenfedern.
+MEID_ソードファイター: Schwertkämpfer
+MEID_ソードアーマー: Schwertritter
+MEID_ソードナイト: Schwertkavalier
+MEID_ソードペガサス: Schwertflieger
+MEID_ランスファイター: Lanzenkämpfer
+MEID_ランスアーマー: Lanzenritter
+MEID_ランスナイト: Lanzenkavalier
+MEID_ランスペガサス: Lanzenflieger
+MEID_アクスファイター: Axtkämpfer
+MEID_アクスアーマー: Axtritter
+MEID_アクスナイト: Axtkavalier
+MEID_アクスペガサス: Axtflieger
+MEID_ボウファイター: Bogenkämpfer
+MEID_ボウナイト: Bogenkavalier
+MEID_シーフ: Dieb
+MEID_レッドマージ: Roter Magier
+MEID_レッドナイト: Roter Kavalier
+MEID_ブルーマージ: Blauer Magier
+MEID_ブルーナイト: Blauer Kavalier
+MEID_グリーンマージ: Grüner Magier
+MEID_グリーンナイト: Grüner Kavalier
+MEID_シスター: Geistliche
+MEID_ロッドナイト: Troubadour
+MEID_ブルーノ: ???
+MEID_ヴェロニカ: Veronica
+MEID_H_ソードファイター: Fußsoldat, der ein Schwert führt.\nDurchschnittliche Fähigkeiten.
+MEID_H_ソードアーマー: Gepanzerter Ritter, geschickt im Umgang\nmit dem Schwert. Bewegt sich langsam.
+MEID_H_ソードナイト: Soldat zu Pferde, der ein Schwert führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
+MEID_H_ソードペガサス: Pegasusreiter, der ein Schwert führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_ランスファイター: Fußsoldat, der eine Lanze führt.\nDurchschnittliche Fähigkeiten.
+MEID_H_ランスアーマー: Gepanzerter Ritter, geschickt im Umgang\nmit der Lanze. Bewegt sich langsam.
+MEID_H_ランスナイト: Soldat zu Pferde, der eine Lanze führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
+MEID_H_ランスペガサス: Pegasusreiter, der eine Lanze führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_アクスファイター: Fußsoldat, der eine Axt führt.\nDurchschnittliche Fähigkeiten.
+MEID_H_アクスアーマー: Gepanzerter Ritter, geschickt im Umgang\nmit der Axt. Bewegt sich langsam.
+MEID_H_アクスナイト: Soldat zu Pferde, der eine Axt führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
+MEID_H_アクスペガサス: Pegasusreiter, der eine Axt führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_ボウファイター: Fußsoldat, der einen Bogen führt.\nDurchschnittliche Fähigkeiten.
+MEID_H_ボウナイト: Gepanzerter Ritter, geschickt im Umgang\nmit dem Bogen. Bewegt sich langsam.
+MEID_H_シーフ: Dieb zu Pferde, der den Bogen führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
+MEID_H_レッドマージ: Pegasusreiter, der rote Magie wirkt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_レッドナイト: Soldat zu Pferde, der rote Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
+MEID_H_ブルーマージ: Ein Anwender blauer Magie.\nDurchschnittliche Fähigkeiten.
+MEID_H_ブルーナイト: Soldat zu Pferde, der blaue Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber Wälder nicht betreten.
+MEID_H_グリーンマージ: Ein Anwender grüner Magie.\nDurchschnittliche Fähigkeiten.
+MEID_H_グリーンナイト: Soldat zu Pferde, der grüne Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber Wälder nicht betreten.
+MEID_H_シスター: Eine Einheit, die Stäbe zum\nHeilen und Hindern einsetzt.\nDurchschnittliche Fähigkeiten.
+MEID_H_ロッドナイト: Soldat zu Pferde. Heilt/hindert mit\nStäben. Hat einen großen Bewegungs-\nradius, kann aber Wälder nicht betreten.
+MEID_H_ブルーノ: Ein maskierter Ritter, dessen Identität\nund Motive mysteriös bleiben.
+MEID_H_ヴェロニカ: Prinzessin des Emblanischen Imperiums.\nSie nutzt Helden, um in Askr einzufallen.
+MEID_HONOR_ブルーノ: Maskierter Ritter
+MEID_HONOR_ヴェロニカ: Edle aus Embla
+MEID_VOICE_ブルーノ: T. Axelrod
+MEID_VOICE_ヴェロニカ: Wendee Lee
+MEID_ILLUST_ブルーノ: Kozaki Yusuke (コザキユースケ)
+MEID_ILLUST_ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MID_DAILY_LOGIN_BONUS_COMPENSATION: Wir bitten um Entschuldigung.
+MID_DAILY_LOGIN_BONUS_0001: App-Veröffentlichungsbonus
+MID_DAILY_LOGIN_BONUS_0002: Log-in-Bonus: 1 Million Downloads
+MID_DAILY_LOGIN_BONUS_0003: Log-in-Bonus: 2 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0004: Log-in-Bonus: 3 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0005: Log-in-Bonus: 4 Millionenen Downloads
+MID_DAILY_LOGIN_BONUS_0007: Log-in-Bonus: 5 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0008: Log-in-Bonus: 6 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0009: Log-in-Bonus: 7 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0010: Log-in-Bonus: 8 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0011: Log-in-Bonus: 9 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0012: Log-in-Bonus: 10 Millionen Downloads
+MID_DAILY_LOGIN_BONUS_0013: Log-in-Bonus: Zur Feier der Downloads
+MID_DAILY_LOGIN_BONUS_WEEK: Log-in-Bonus: Wochenende
+MID_DAILY_LOGIN_BONUS_WAR: Log-in-Bonus: Wahlturnier
+MID_DAILY_LOGIN_BONUS_SPECIAL: Log-in-Sonderbonus
+MID_DAILY_LOGIN_BONUS_ANDROID: Android exclusiver Log-in-Bonus
+MPID_マルス: Marth
+MPID_オグマ: Ogma
+MPID_ナバール: Nabarl
+MPID_ロイ: Roy
+MPID_フィル: Fir
+MPID_リン: Lyn
+MPID_クロム: Chrom
+MPID_ルキナ: Lucina
+MPID_ロンクー: Lon'zu
+MPID_オリヴィエ: Olivia
+MPID_カムイ男: Corrin
+MPID_リョウマ: Ryoma
+MPID_カザハナ: Hana
+MPID_ヒナタ: Hinata
+MPID_ラズワルド: Laslow
+MPID_ルーナ: Selena
+MPID_アルフォンス: Alfonse
+MPID_ドーガ: Edrag
+MPID_ゼフィール: Zephiel
+MPID_カイン: Kain
+MPID_エリウッド: Eliwood
+MPID_ソール: Stahl
+MPID_マークス: Xander
+MPID_シーダ: Shiida
+MPID_パオラ: Palla
+MPID_ドニ: Donnel
+MPID_オボロ: Oboro
+MPID_アクア: Azura
+MPID_シャロン: Sharena
+MPID_ウェンディ: Gwendolyn
+MPID_エルフィ: Effie
+MPID_ジェイガン: Jagen
+MPID_アベル: Abel
+MPID_カミュ: Camus
+MPID_ソワレ: Sully
+MPID_ピエリ: Peri
+MPID_カチュア: Catria
+MPID_エスト: Est
+MPID_シャニー: Shanna
+MPID_フロリーナ: Florina
+MPID_ティアモ: Cordelia
+MPID_ヒノカ: Hinoka
+MPID_ツバキ: Subaki
+MPID_バーツ: Barst
+MPID_バアトル: Bartre
+MPID_レイヴァン: Raven
+MPID_ホークアイ: Hawkeye
+MPID_ハロルド: Arthur
+MPID_アンナ: Anna
+MPID_シーマ: Sheena
+MPID_ヘクトル: Hector
+MPID_フレデリク: Frederick
+MPID_ギュンター: Gunter
+MPID_ミネルバ: Minerva
+MPID_ミシェイル: Michalis
+MPID_ナーシェン: Narcian
+MPID_セルジュ: Zelcher
+MPID_カミラ: Camilla
+MPID_ベルカ: Beruka
+MPID_ゴードン: Gordin
+MPID_ジョルジュ: Jeorge
+MPID_ヴィオール: Virion
+MPID_タクミ: Takumi
+MPID_セツナ: Setsuna
+MPID_ゼロ: Niles
+MPID_マシュー: Matthew
+MPID_ガイア: Gaius
+MPID_フェリシア: Felicia
+MPID_ジョーカー: Jakob
+MPID_サイゾウ: Saizo
+MPID_カゲロウ: Kagero
+MPID_リリーナ: Lilina
+MPID_レイ: Raigh
+MPID_ソフィーヤ: Sophia
+MPID_サーリャ: Tharja
+MPID_ヘンリー: Henry
+MPID_レオン: Leo
+MPID_リンダ: Linde
+MPID_ルフレ男: Daraen
+MPID_オーディン: Odin
+MPID_ウルスラ: Ursula
+MPID_マリク: Merric
+MPID_ニノ: Nino
+MPID_ルフレ女: Daraen
+MPID_セシリア: Cecilia
+MPID_リフ: Wrys
+MPID_マリア: Maria
+MPID_セーラ: Serra
+MPID_リズ: Lissa
+MPID_サクラ: Sakura
+MPID_アサマ: Azama
+MPID_クラリーネ: Clarine
+MPID_エリーゼ: Elise
+MPID_チキ: Tiki
+MPID_チキ覚醒: Tiki
+MPID_ノノ: Nowi
+MPID_カムイ女: Corrin
+MPID_ファ: Fae
+MPID_HONOR_マルス: Alteas Prinz
+MPID_HONOR_オグマ: Loyale Klinge
+MPID_HONOR_ナバール: Rote Klinge
+MPID_HONOR_ロイ: Junger Löwe
+MPID_HONOR_フィル: Schwertnovizin
+MPID_HONOR_リン: Dame der Ebene
+MPID_HONOR_クロム: Erhabener Prinz
+MPID_HONOR_ルキナ: Wissende
+MPID_HONOR_ロンクー: Einsame Klinge
+MPID_HONOR_オリヴィエ: Zarte Schönheit
+MPID_HONOR_カムイ男: Schicksalsherr
+MPID_HONOR_リョウマ: Ehrbarer Samurai
+MPID_HONOR_カザハナ: Die Disziplinierte
+MPID_HONOR_ヒナタ: Der Draufgänger
+MPID_HONOR_ラズワルド: Galanter Tänzer
+MPID_HONOR_ルーナ: Die Eigensinnige
+MPID_HONOR_アルフォンス: Prinz von Askr
+MPID_HONOR_ドーガ: Sanfter Riese
+MPID_HONOR_ゼフィール: Der Erretter
+MPID_HONOR_カイン: Der Stier
+MPID_HONOR_エリウッド: Ritter von Lycia
+MPID_HONOR_ソール: Grüner Ritter
+MPID_HONOR_マークス: Idealer Ritter
+MPID_HONOR_シーダ: Talysherz
+MPID_HONOR_パオラ: Erste Schwester
+MPID_HONOR_ドニ: Dörflerheld
+MPID_HONOR_オボロ: Die Dämonin
+MPID_HONOR_アクア: Herrin des Sees
+MPID_HONOR_シャロン: Askra. Prinzessin
+MPID_HONOR_ウェンディ: Holde Ritterin
+MPID_HONOR_エルフィ: Ein-Mann-Armee
+MPID_HONOR_ジェイガン: Altgedienter Ritter
+MPID_HONOR_アベル: Der Panther
+MPID_HONOR_カミュ: Der Schwarze
+MPID_HONOR_ソワレ: Roter Ritter
+MPID_HONOR_ピエリ: Verspielt tödlich
+MPID_HONOR_カチュア: Zweite Schwester
+MPID_HONOR_エスト: Kleine Schwester
+MPID_HONOR_シャニー: Topfitte Fliegerin
+MPID_HONOR_フロリーナ: Liebliche Fliegerin
+MPID_HONOR_ティアモ: Idealer Ritter
+MPID_HONOR_ヒノカ: Kriegerprinzessin
+MPID_HONOR_ツバキ: Perfekter Experte
+MPID_HONOR_バーツ: Die Hacke
+MPID_HONOR_バアトル: Kühner Krieger
+MPID_HONOR_レイヴァン: Brillanter Kämpfer
+MPID_HONOR_ホークアイ: Hüter der Wüste
+MPID_HONOR_ハロルド: Tragischer Held
+MPID_HONOR_アンナ: Kommandantin
+MPID_HONOR_シーマ: Prinzessin v. Gra
+MPID_HONOR_ヘクトル: General v. Ositia
+MPID_HONOR_フレデリク: Höflicher Ritter
+MPID_HONOR_ギュンター: Eiserne Hand
+MPID_HONOR_ミネルバ: Rote Dragonerin
+MPID_HONOR_ミシェイル: Der Ehrgeizige
+MPID_HONOR_ナーシェン: Wyverngeneral
+MPID_HONOR_セルジュ: Wyvernfreundin
+MPID_HONOR_カミラ: Die Sirene
+MPID_HONOR_ベルカ: Der leise Tod
+MPID_HONOR_ゴードン: Bogen von Altea
+MPID_HONOR_ジョルジュ: Der Schütze
+MPID_HONOR_ヴィオール: Edler Schütze
+MPID_HONOR_タクミ: Der ewige Zweite
+MPID_HONOR_セツナ: Tagträumerin
+MPID_HONOR_ゼロ: Gemeiner Freund
+MPID_HONOR_マシュー: Treuer Spion
+MPID_HONOR_ガイア: Kandisklauer
+MPID_HONOR_フェリシア: Chaoskönigin
+MPID_HONOR_ジョーカー: Ergebener Diener
+MPID_HONOR_サイゾウ: Barscher Ninja
+MPID_HONOR_カゲロウ: Ehrbare Ninja
+MPID_HONOR_リリーナ: Reizende Edle
+MPID_HONOR_レイ: Kind d. Finsternis
+MPID_HONOR_ソフィーヤ: Nabatas Künderin
+MPID_HONOR_サーリャ: Dunkler Schatten
+MPID_HONOR_ヘンリー: Verzerrter Geist
+MPID_HONOR_レオン: Hexenmeister
+MPID_HONOR_リンダ: Lichtmagier
+MPID_HONOR_ルフレ男: Der Befreier
+MPID_HONOR_オーディン: Mächtige Kraft
+MPID_HONOR_ウルスラ: Blaue Krähe
+MPID_HONOR_マリク: Windmagier
+MPID_HONOR_ニノ: Fromme Magierin
+MPID_HONOR_ルフレ女: Große Taktikerin
+MPID_HONOR_セシリア: Etrurias Generalin
+MPID_HONOR_リフ: Sanfter Priester
+MPID_HONOR_マリア: Kleine Prinzessin
+MPID_HONOR_セーラ: Die Redselige
+MPID_HONOR_リズ: Die Lebhafte
+MPID_HONOR_サクラ: Die Unsichere
+MPID_HONOR_アサマ: Sorgloser Mönch
+MPID_HONOR_クラリーネ: Kultiviert und edel
+MPID_HONOR_エリーゼ: Erblühende Rose
+MPID_HONOR_チキ: Die Göttin
+MPID_HONOR_チキ覚醒: Nagas Stimme
+MPID_HONOR_ノノ: Ewige Jugend
+MPID_HONOR_カムイ女: Schicksalsherrin
+MPID_HONOR_ファ: Wyrmgöttin
+MPID_H_マルス: Prinz von Altea, der für sein Heimatland kämpft\nund seine Freunde zutiefst schätzt. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_オグマ: Ein Söldner, der einst in Sklaverei als Gladiator\nauftreten musste. Er dient Prinzessin Shiida von\nTalys. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ナバール: Talentierter Kämpfer, bekannt unter dem\nNamen Rote Klinge. Er überlässt seiner\nKlinge das Reden. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ロイ: Der Sohn Eliwoods, des Marquis von Pherae,\nund talentierter Anführer der dortigen Armee.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_フィル: Eine Frau, die auf der Suche nach den besten\nGegnern im Schwertkampf die Welt bereist.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_リン: Eine Frau, die in den Ebenen aufwuchs, bevor\nsie erfuhr, dass sie zum Adel von Caelin\ngehört. Erscheint in FE: The Blazing Blade.
+MPID_H_クロム: Ein Prinz von Ylisse und Nachfahre\ndes Heldenkönigs. Führt die Hirten an.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ルキナ: Eine Prinzessin und Tochter von Chrom, die in\nihre Vergangenheit reiste, um eine Apokalypse\nzu verhindern.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ロンクー: Ein talentierter Schwertkämpfer aus Regna\nFerox, der in der Gegenwart von Frauen\nseltsam schüchtern ist. Erscheint in\nFire Emblem: Awakening.
+MPID_H_オリヴィエ: Eine Tänzerin, die weit gereist und überaus\ntalentiert, aber auch extrem schüchtern ist.\nErscheint in Fire Emblem: Awakening.
+MPID_H_カムイ男: Ein Prinz von Hoshido, aufgewachsen in Nohr.\nEr geht seinen gewählten Weg mit seinem\nheiligen Schwert Yato. Erscheint in FE Fates.
+MPID_H_リョウマ: Der älteste Prinz von Hoshido, der die\nlegendäre Klinge Raijinto führt.\nErscheint in Fire Emblem Fates.
+MPID_H_カザハナ: Eine Adlige, die talentiert im Umgang mit\ndem Katana ist. Eine von Sakuras Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_ヒナタ: Ein grobschlächtiger, aber doch fürsorglicher\nSamurai aus Hoshido. Einer von Takumis\nGetreuen. Erscheint in Fire Emblem Fates.
+MPID_H_ラズワルド: Ein geheimnisvoller Mann mit einem Faible\nfürs Tanzen und Flirten. Einer von Xanders\nGetreuen. Erscheint in Fire Emblem Fates.
+MPID_H_ルーナ: Eine geheimnisvolle Frau, die sich dem Dienen\nverschrieben hat. Eine von Camillas Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_アルフォンス: Ein Prinz aus dem Königreich Askr und\nMitglied der Wächter von Askr. Gütig und\nernsthaft. Möchte den Frieden erhalten.
+MPID_H_ドーガ: Ein gepanzerter Ritter aus Altea, der Schild\nvon Marth. Sehr aufrichtig. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ゼフィール: König von Biran. War einst ein warmherziger\nJunge, der von Menschen enttäuscht wurde.\nEr will, dass seine Welt von Drachen beherrscht\nwird. Erscheint in FE: The Binding Blade.
+MPID_H_カイン: Ein Kavalier aus Altea, der für seinen Wage-\nmut bekannt ist. Ritt mit Abel im Dienste von\nMarth. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_エリウッド: Ein aufrechter Adliger aus Pherae. Seine\nFreunde Lyn und Hector stehen ihm loyal\nzur Seite.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ソール: Ein netter, aber etwas schusseliger Ritter,\nder bei den Hirten dient.\nErscheint in Fire Emblem: Awakening.
+MPID_H_マークス: Der Kronprinz von Nohr, der aufgrund seiner\nmilitärischen Fähigkeiten hoch geachtet wird.\nEr führt die heilige Klinge Siegfried.\nErscheint in Fire Emblem Fates.
+MPID_H_シーダ: Die Prinzessin von Talys, die sowohl mit Talent\nals auch mit Anmut zu überzeugen weiß. Sie\nist mit Marth verlobt. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_パオラ: Älteste von drei Schwestern, die als\nPegasusritter in Medon dienen. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_ドニ: Ein Junge vom Lande aus dem Königreich\nvon Ylisse. Geschickt und ausdauernd.\nErscheint in Fire Emblem: Awakening.
+MPID_H_オボロ: Lanzenträgerin, die Mode liebt und Nohr\nhasst. Eine von Takumis Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_アクア: Eine bezaubernde Prinzessin, die in Hoshido\naufgewachsen ist. Singt in Schlachten, um\nden Verbündeten zu helfen. Erscheint in\nFire Emblem Fates.
+MPID_H_シャロン: Eine Prinzessin von Askr. Alfonse' Schwester.\nSie ist sehr fröhlich und liebt es, Freundschaften\nzu schließen, besonders mit Helden.
+MPID_H_ウェンディ: Gepanzerter Ritter aus Ositia. Sie will die\nVerteidigung meistern, auch wenn sie sich in\nder Rüstung merkwürdig vorkommt.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_エルフィ: Eine sanfte Ritterin mit enormer Kraft und\nebensolcher Hingabe. Eine von Elises\nGetreuen. Erscheint in Fire Emblem Fates.
+MPID_H_ジェイガン: Ein Veteran unter den Rittern von Altea.\nEr beschützte Marth seit seiner Jugend.\nErscheint in FE: Mystery of the Emblem.
+MPID_H_アベル: Kavalier aus Altea, bekannt für seine Sensi-\nbilität. Ritt mit Kain zusammen für Marth in\ndie Schlacht. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_カミュ: Ein Ritter, der seinem Heimatland Grust treu\nergeben ist. Er führt die Lanze Gradivus. Er-\nscheint in Fire Emblem: Mystery of the Emblem.
+MPID_H_ソワレ: Ein Mitglied der Hirten. Sie ist ernsthaft bemüht,\neine große Ritterin zu werden.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ピエリ: Kavalier aus Nohr. Sie tötet ihre Gegner mit\ngeradezu kindlichem Vergnügen. Eine von\nXanders Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_カチュア: Mittlere von drei Schwestern, die als\nPegasusritter in Medon dienen. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_エスト: Jüngste von drei Schwestern, die als\nPegasusritter in Medon dienen. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_シャニー: Ein Pegasusritter in Ausbildung aus Ilia.\nFröhlich und optimistisch.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_フロリーナ: Jüngste von drei Schwestern, die als\nPegasusritter in Ilia dienen. Ein schüch-\nternes, sanftes Mädchen, das Tiere liebt.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ティアモ: Einzige Überlebende der Pegasusritter von\nYlisse. Bescheiden und außerordentlich\ntalentiert. Erscheint in FE: Awakening.
+MPID_H_ヒノカ: Prinzessin von Hoshido, die einen Kampf dem\nHofleben vorzieht. Wächst über sich hinaus,\nwenn sie auf andere Acht geben kann.\nErscheint in Fire Emblem Fates.
+MPID_H_ツバキ: Luftritter aus Hoshido, der nach absoluter\nPerfektion strebt. Einer von Sakuras Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_バーツ: Kämpfer aus Talys, der für Ogma arbeitet und\nfrüher auch als Pirat und Holzfäller sein Brot\nverdiente.\nErscheint in FE: Mystery of the Emblem.
+MPID_H_バアトル: Ein Krieger auf einem der Außenposten,\nder sich auf die Suche nach seiner geliebten\nTochter, Fir, begab.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_レイヴァン: Ein Erbe aus adligem Hause, dessen wahrer\nName Raymond lautet. Arbeitet als Söldner,\num Rache nehmen zu können.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ホークアイ: Hüter der Wüste Nabata und Arcadias, wo\nDrachen und Menschen in Harmonie\nzusammenleben. Erscheint in\nFire Emblem: The Blazing Blade.
+MPID_H_ハロルド: Ein edler Streiter für die Gerechtigkeit und\ngroßer Pechvogel. Einer von Elises Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_アンナ: Eine Veteranin im Kampf, die die Wächter von\nAskr, und damit Alfonse und Sharena, anführt.
+MPID_H_シーマ: Prinzessin von Gra, einem schwindenden\nKönigreich. Sie spürt die ganze Macht ihrer\nVerantwortung. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ヘクトル: Eliwoods Freund und Bruder des Marquis von\nOsitia. Er handelt lieber, als sich in Formalitäten\nzu verlieren.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_フレデリク: Ein Ritter, der dem königlichen Haus von Ylisse\ndient und dabei hilft, Chroms Hirten zu leiten.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ギュンター: Ein Veteran unter den Rittern von Nohr.\nGehörte einst zu den Getreuen von Corrin.\nSehr streng. Erscheint in Fire Emblem Fates.
+MPID_H_ミネルバ: Die Prinzessin von Medon, die sich mit\nWaffen gegen ihren Bruder Michalis stellte.\nErscheint in Fire Emblem: Mystery of the Emblem.
+MPID_H_ミシェイル: Der König von Medon, der ehrgeizige Pläne für\nsein Reich hatte. Er ermordete seinen Vater.\nMinerva und Maria sind seine Schwestern. Er-\nscheint in Fire Emblem: Mystery of the Emblem.
+MPID_H_ナーシェン: Einer der drei Wyverngenerale von Biran.\nArrogant und aufgeblasen.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_セルジュ: Wyvernreiterin und Kämpferin im Adelshaus\nVirion. Findet ihren Wyvern Minerva einfach\nsüß und anbetungswürdig.\nErscheint in Fire Emblem: Awakening.
+MPID_H_カミラ: Prinzessin von Nohr, die Corrin vergöttert und\nverwöhnt, aber gnadenlos zu ihren Feinden ist.\nErscheint in Fire Emblem Fates.
+MPID_H_ベルカ: Assassine und Wyvernreiterin, die keinerlei\nGefühle zu haben scheint. Eine von Camillas\nGetreuen. Erscheint in Fire Emblem Fates.
+MPID_H_ゴードン: Bogenschütze aus Altea, der seinen Bogen\nmeisterhaft führt. Sieht jünger aus, als er\neigentlich ist.\nErscheint in FE: Mystery of the Emblem.
+MPID_H_ジョルジュ: Bogenschütze aus Akaneia. Man sagt,\ner sei der Beste seines Kontinents.\nEin fähiger Stratege. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ヴィオール: Rechtmäßiger Herrscher von Rosanne in Valm,\nder Wortspiele und übermäßiges Lobpreisen\nliebt. Erscheint in Fire Emblem: Awakening.
+MPID_H_タクミ: Prinz von Hoshido, der den heiligen Bogen,\nden Fujin Yumi, führt. Kann mitunter sehr\nempfindlich reagieren.\nErscheint in Fire Emblem Fates.
+MPID_H_セツナ: Bogenschützin aus Hoshido, die sich entweder\nfurchtlos in die Schlacht stürzt oder tag-\nträumend die Zeit verbringt. Eine von Hinokas\nGetreuen. Erscheint in Fire Emblem Fates.
+MPID_H_ゼロ: Gauner aus Nohr, der für seine spitze Zunge\nund seine Anzüglichkeiten gegenüber jeder-\nmann berühmt ist. Einer von Leos Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_マシュー: Unbekümmerter Spion, der eigentlich sehr\ngerissen ist. Dient Hector, dem Bruder des\nMarquis von Ositia.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ガイア: Dieb aus Ylisse, bekannt für seine geschickten\nHände und als Schleckermaul. Er hat ständig\nSüßigkeiten in seinen Taschen versteckt.\nErscheint in Fire Emblem: Awakening.
+MPID_H_フェリシア: Eine Dienerin aus Nohr, die darauf bedacht ist,\nihre Arbeit gut zu machen, aber oft ins\nStraucheln gerät. Eine von Corrins Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_ジョーカー: Ein Diener aus Nohr, der herausragende Arbeit\nleistet und es dennoch verabscheut, jemand\nanderen als Corrin zu bedienen.\nErscheint in Fire Emblem Fates.
+MPID_H_サイゾウ: Ein ernsthafter Ninja aus Hoshido. Er hat einen\nZwillingsbruder namens Kaze und ist einer der\nGetreuen Ryomas. Erscheint in FE Fates.
+MPID_H_カゲロウ: Eine Ninja aus Hoshido, die für ihren Herrn ihr\nLeben geben würde. Eine der Getreuen von\nRyoma. Erscheint in Fire Emblem Fates.
+MPID_H_リリーナ: Eine Adlige aus Ositia mit einem natürlichen\nTalent für Magie. Roys Freundin seit Kindheits-\ntagen. Erscheint in FE: The Binding Blade.
+MPID_H_レイ: Anwender der dunklen Magie. Ein spöttischer\nEinzelgänger, dessen harte Kindheit als Waise\nprägend war.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_ソフィーヤ: Eine Schamanin aus Nabata, die behütet und\nohne viel Kontakt zu anderen aufwuchs. Sie\nkann die Zukunft sehen.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_サーリャ: Eine Magierin aus Plegia mit einer dunklen\nSeite und einer besitzergreifenden Art,\nbesonders Daraen gegenüber.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ヘンリー: Ein Dunkelmagier aus Plegia mit einem\nstrahlendem Lächeln und einer Vorliebe\nfür Blutrünstiges.\nErscheint in Fire Emblem: Awakening.
+MPID_H_レオン: Ein talentierter Prinz von Nohr, der die\nheilige Schriftrolle Brynhildr beherrscht.\nErscheint in Fire Emblem Fates.
+MPID_H_リンダ: Tochter des Miloah von Akaneia, Erbin des\nLichtzaubers Aura. Möchte den Tod ihres\nVaters rächen. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_H_ルフレ男: Ein Taktiker aus Ylisse und Chroms enger\nVertrauter. Er hat keine Erinnerung an das\nLeben, dass er führte, bevor er Chrom traf.\nErscheint in Fire Emblem: Awakening.
+MPID_H_オーディン: Ein mysteriöser Mann, der dazu\nneigt, übertheatralisch aufzutreten.\nEiner von Leos Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_ウルスラ: Ein grausames Mitglied der "Black Fang"-\nAssassinen. Sie ist nur bereit, jemandem\nzu dienen, der wahrlich perfekt ist.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_マリク: Ein Windmagier, der in Khadein studiert hat,\nwelches für seine Magierschule berühmt ist.\nFreund von Marth seit Kindheitstagen. Er-\nscheint in Fire Emblem: Mystery of the Emblem.
+MPID_H_ニノ: Ein warmherziges Mitglied der Black Fang.\nSie sehnte sich danach, ihrer Mutter helfen\nzu können.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ルフレ女: Eine Taktikerin aus Ylisse und Chroms enge\nVertraute. Sie hat keine Erinnerung an das\nLeben, dass sie führte, bevor sie Chrom traf.\nErscheint in Fire Emblem: Awakening.
+MPID_H_セシリア: Magiergeneralin aus Etruria. Sie war einst die\nLehrerin von Roy und Lilina, als diese noch jung\nwaren.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_リフ: Bescheidener Priester aus Talys, der ein\nruhiges Leben mag. Er verabscheut das\nKämpfen und zieht Heilen vor. Erscheint in\nFE: Shadow Dragon and the Blade of Light.
+MPID_H_マリア: Prinzessin von Medon. Jüngere Schwester von\nMinerva und Michalis, die sie inniglich liebt. Er-\nscheint in Fire Emblem: Mystery of the Emblem.
+MPID_H_セーラ: Geistliche, die auf andere herabblickt. Dient\nHector, dem Bruder des Marquis von Ositia.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_リズ: Prinzessin aus dem Königshaus von Ylisse und\nChroms jüngere Schwester. Entschlossen, sich\nselbst zu beweisen.\nErscheint in Fire Emblem: Awakening.
+MPID_H_サクラ: Prinzessin von Hoshido. Sie ist eine einfühl-\nsame Heilerin, die mit ihrer Schüchternheit\nzu kämpfen hat.\nErscheint in Fire Emblem Fates.
+MPID_H_アサマ: Ein Mönch aus Hoshido mit einem seltsamen\nSinn für Humor. Einer von Hinokas Getreuen.\nErscheint in Fire Emblem Fates.
+MPID_H_クラリーネ: Adlige Tochter des Graf Reglay von Etruria.\nLiebt ihren Bruder, Klein. Hat ein privilegiertes\nLeben geführt.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_H_エリーゼ: Prinzessin von Nohr, die ihre Geschwister\nvergöttert. Sie ist ein bisschen kindlich, hat\naber ein reines Herz und wache Augen.\nErscheint in Fire Emblem Fates.
+MPID_H_チキ: Junge Wyrmgöttin, die einst in einen zeit-\nlosen Schlaf versetzt wurde, um ihre\nDrachennatur zu zähmen. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_チキ覚醒: Auch bekannt als Stimme der Wyrmgöttin. Sie\nlebt seit unendlichen Zeiten und war einst mit\nMarth befreundet.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ノノ: Manakete, die mit Chroms Truppe reist. Sie\nsieht sehr jung aus, ist in Wahrheit aber über\ntausend Jahre alt.\nErscheint in Fire Emblem: Awakening.
+MPID_H_カムイ女: Eine Prinzessin von Hoshido, aufgewachsen\nin Nohr. Sie geht ihren gewählten Weg mit\nihrem heiligen Schwert Yato.\nErscheint in Fire Emblem Fates.
+MPID_H_ファ: Eine überlebende Wyrmgöttin mit dem Wesen\neines Kindes und sehr wenig Lebenserfahrung.\nErscheint in Fire Emblem: The Binding Blade.
+MPID_VOICE_マルス: Yuri Lowenthal
+MPID_VOICE_オグマ: Travis Willingham
+MPID_VOICE_ナバール: T. Axelrod
+MPID_VOICE_ロイ: Ray Chase
+MPID_VOICE_フィル: Liv Strander
+MPID_VOICE_リン: Wendee Lee
+MPID_VOICE_クロム: Matt Mercer
+MPID_VOICE_ルキナ: —
+MPID_VOICE_ロンクー: Travis Willingham
+MPID_VOICE_オリヴィエ: Karen Strassman
+MPID_VOICE_カムイ男: Cam Clarke
+MPID_VOICE_リョウマ: Matt Mercer
+MPID_VOICE_カザハナ: Karen Strassman
+MPID_VOICE_ヒナタ: Delem Donaldson
+MPID_VOICE_ラズワルド: Mick Wingert
+MPID_VOICE_ルーナ: Julie Ann Taylor
+MPID_VOICE_アルフォンス: Ray Chase
+MPID_VOICE_ドーガ: Patrick Seitz
+MPID_VOICE_ゼフィール: Taylor Henry
+MPID_VOICE_カイン: T. Axelrod
+MPID_VOICE_エリウッド: Yuri Lowenthal
+MPID_VOICE_ソール: Sam Regal
+MPID_VOICE_マークス: George Spelvin
+MPID_VOICE_シーダ: Cherami Leigh
+MPID_VOICE_パオラ: —
+MPID_VOICE_ドニ: Sam Regal
+MPID_VOICE_オボロ: Marisha Ray
+MPID_VOICE_アクア: Rena Strober
+MPID_VOICE_シャロン: Julie Kliewer
+MPID_VOICE_ウェンディ: Cherami Leigh
+MPID_VOICE_エルフィ: Marisha Ray
+MPID_VOICE_ジェイガン: Walden James
+MPID_VOICE_アベル: Mick Wingert
+MPID_VOICE_カミュ: Travis Willingham
+MPID_VOICE_ソワレ: Amanda Miller
+MPID_VOICE_ピエリ: Cindy Robinson
+MPID_VOICE_カチュア: Connor Kelley
+MPID_VOICE_エスト: Brianna Knickerbocker
+MPID_VOICE_シャニー: Marisha Ray
+MPID_VOICE_フロリーナ: Julie Kliewer
+MPID_VOICE_ティアモ: Julie Ann Taylor
+MPID_VOICE_ヒノカ: Cindy Robinson
+MPID_VOICE_ツバキ: Walden James
+MPID_VOICE_バーツ: DC Douglas
+MPID_VOICE_バアトル: Kyle Hebert
+MPID_VOICE_レイヴァン: Bryce Papenbrook
+MPID_VOICE_ホークアイ: Taylor Henry
+MPID_VOICE_ハロルド: Cam Clarke
+MPID_VOICE_アンナ: Karen Strassman
+MPID_VOICE_シーマ: Lauren Landa
+MPID_VOICE_ヘクトル: Patrick Seitz
+MPID_VOICE_フレデリク: Kyle Hebert
+MPID_VOICE_ギュンター: DC Douglas
+MPID_VOICE_ミネルバ: Cindy Robinson
+MPID_VOICE_ミシェイル: David Vincent
+MPID_VOICE_ナーシェン: Kaiji Tang
+MPID_VOICE_セルジュ: Amanda Miller
+MPID_VOICE_カミラ: Misty Lee
+MPID_VOICE_ベルカ: Stephanie Sheh
+MPID_VOICE_ゴードン: Max Mittelman
+MPID_VOICE_ジョルジュ: Mick Wingert
+MPID_VOICE_ヴィオール: Taylor Henry
+MPID_VOICE_タクミ: Michael Sinterniklaas
+MPID_VOICE_セツナ: Connor Kelley
+MPID_VOICE_ゼロ: Michael Sinterniklaas
+MPID_VOICE_マシュー: Ben Diskin
+MPID_VOICE_ガイア: Ray Chase
+MPID_VOICE_フェリシア: Connor Kelley
+MPID_VOICE_ジョーカー: Ben Diskin
+MPID_VOICE_サイゾウ: Ben Diskin
+MPID_VOICE_カゲロウ: Sarah Blandy
+MPID_VOICE_リリーナ: Julie Kliewer
+MPID_VOICE_レイ: Sam Regal
+MPID_VOICE_ソフィーヤ: Wendee Lee
+MPID_VOICE_サーリャ: Stephanie Sheh
+MPID_VOICE_ヘンリー: Bryce Papenbrook
+MPID_VOICE_レオン: Max Mittelman
+MPID_VOICE_リンダ: Julie Ann Taylor
+MPID_VOICE_ルフレ男: David Vincent
+MPID_VOICE_オーディン: Kaiji Tang
+MPID_VOICE_ウルスラ: Misty Lee
+MPID_VOICE_マリク: Yuri Lowenthal
+MPID_VOICE_ニノ: Sarah Blandy
+MPID_VOICE_ルフレ女: Lauren Landa
+MPID_VOICE_セシリア: Cherami Leigh
+MPID_VOICE_リフ: DC Douglas
+MPID_VOICE_マリア: Wendee Lee
+MPID_VOICE_セーラ: Kate Davis
+MPID_VOICE_リズ: Kate Davis
+MPID_VOICE_サクラ: Brianna Knickerbocker
+MPID_VOICE_アサマ: Matt Mercer
+MPID_VOICE_クラリーネ: Hunter MacKenzie Austin
+MPID_VOICE_エリーゼ: Liv Strander
+MPID_VOICE_チキ: Mela Lee
+MPID_VOICE_チキ覚醒: Mela Lee
+MPID_VOICE_ノノ: Hunter MacKenzie Austin
+MPID_VOICE_カムイ女: Marcella Lentz-Pope
+MPID_VOICE_ファ: Sarah Blandy
+MPID_ILLUST_マルス: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_オグマ: Yamada Akihiro (山田章博)
+MPID_ILLUST_ナバール: Yura (由良)
+MPID_ILLUST_ロイ: BUNBUN
+MPID_ILLUST_フィル: kaya8
+MPID_ILLUST_リン: Yamada Kotaro (山田孝太郎)
+MPID_ILLUST_クロム: Ebila (えびら)
+MPID_ILLUST_ルキナ: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_ILLUST_ロンクー: AKIRA
+MPID_ILLUST_オリヴィエ: AKIRA
+MPID_ILLUST_カムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_ILLUST_リョウマ: Kita Senri (北千里)
+MPID_ILLUST_カザハナ: Fuzichoco (藤ちょこ)
+MPID_ILLUST_ヒナタ: Ueda Yumehito (上田夢人)
+MPID_ILLUST_ラズワルド: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_ルーナ: Zaza (ザザ)
+MPID_ILLUST_アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_ドーガ: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_ゼフィール: Yamada Akihiro (山田章博)
+MPID_ILLUST_カイン: Meka (めか)
+MPID_ILLUST_エリウッド: Miyuu (深遊)
+MPID_ILLUST_ソール: Mayo (まよ)
+MPID_ILLUST_マークス: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_シーダ: HAKO (羽公)
+MPID_ILLUST_パオラ: cuboon
+MPID_ILLUST_ドニ: Okaya (岡谷)
+MPID_ILLUST_オボロ: Ueda Yumehito (上田夢人)
+MPID_ILLUST_アクア: kaya8
+MPID_ILLUST_シャロン: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_ウェンディ: Masao Tsubasa (政尾翼)
+MPID_ILLUST_エルフィ: HACCAN
+MPID_ILLUST_ジェイガン: Yamada Akihiro (山田章博)
+MPID_ILLUST_アベル: Sasashima Suisei (笹島彗星)
+MPID_ILLUST_カミュ: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_ソワレ: Mayo (まよ)
+MPID_ILLUST_ピエリ: Takagi Masafumi (高木正文)
+MPID_ILLUST_カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_エスト: Miwabe Sakura (みわべさくら)
+MPID_ILLUST_シャニー: HAKO (羽公)
+MPID_ILLUST_フロリーナ: Zaza (ザザ)
+MPID_ILLUST_ティアモ: Ueda Yumehito (上田夢人)
+MPID_ILLUST_ヒノカ: HACCAN
+MPID_ILLUST_ツバキ: Yura (由良)
+MPID_ILLUST_バーツ: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_バアトル: Okaya (岡谷)
+MPID_ILLUST_レイヴァン: AKIRA
+MPID_ILLUST_ホークアイ: HACCAN
+MPID_ILLUST_ハロルド: Mendako (メンダコ) / INTELLIGENT SYSTEMS
+MPID_ILLUST_アンナ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_シーマ: Mayo (まよ)
+MPID_ILLUST_ヘクトル: AKIRA
+MPID_ILLUST_フレデリク: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_ギュンター: Yamada Akihiro (山田章博)
+MPID_ILLUST_ミネルバ: Daisuke Izuka
+MPID_ILLUST_ミシェイル: Daisuke Izuka
+MPID_ILLUST_ナーシェン: Yamada Kotaro (山田孝太郎)
+MPID_ILLUST_セルジュ: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_カミラ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ベルカ: lack
+MPID_ILLUST_ゴードン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_ジョルジュ: Mayo (まよ)
+MPID_ILLUST_ヴィオール: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_タクミ: Hino Shinnosuke (日野慎之助)
+MPID_ILLUST_セツナ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼロ: Yura (由良)
+MPID_ILLUST_マシュー: Okaya (岡谷)
+MPID_ILLUST_ガイア: Ichiiro Hako (一色箱)
+MPID_ILLUST_フェリシア: HAKO (羽公)
+MPID_ILLUST_ジョーカー: Fujisaka Kimihiko (藤坂公彦)
+MPID_ILLUST_サイゾウ: lack
+MPID_ILLUST_カゲロウ: lack
+MPID_ILLUST_リリーナ: BUNBUN
+MPID_ILLUST_レイ: Himukai Yuji (日向悠二)
+MPID_ILLUST_ソフィーヤ: Zaza (ザザ)
+MPID_ILLUST_サーリャ: ZIS
+MPID_ILLUST_ヘンリー: Kusugi Toku (久杉トク)
+MPID_ILLUST_レオン: Hino Shinnosuke (日野慎之助)
+MPID_ILLUST_リンダ: Kippu (切符)
+MPID_ILLUST_ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_オーディン: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_ウルスラ: Kotobuki Tsukasa (ことぶきつかさ)
+MPID_ILLUST_マリク: Mizuno Kana (水野加奈)
+MPID_ILLUST_ニノ: Amagaitaro (アマガイタロー)
+MPID_ILLUST_ルフレ女: Ueda Yumehito (上田夢人)
+MPID_ILLUST_セシリア: Kita Senri (北千里)
+MPID_ILLUST_リフ: pikomaro
+MPID_ILLUST_マリア: kaya8
+MPID_ILLUST_セーラ: Kusugi Toku (久杉トク)
+MPID_ILLUST_リズ: Zaza (ザザ)
+MPID_ILLUST_サクラ: Fuzichoco (藤ちょこ)
+MPID_ILLUST_アサマ: Okaya (岡谷)
+MPID_ILLUST_クラリーネ: Amagaitaro (アマガイタロー)
+MPID_ILLUST_エリーゼ: HAKO (羽公)
+MPID_ILLUST_チキ: Ito Noizi (いとうのいぢ)
+MPID_ILLUST_チキ覚醒: Ito Noizi (いとうのいぢ)
+MPID_ILLUST_ノノ: lack
+MPID_ILLUST_カムイ女: bthx
+MPID_ILLUST_ファ: Himukai Yuji (日向悠二)
+MSID_NONE: -
+MSID_H_NONE: Nichts
+MSID_鉄の剣: Eisenschwert
+MSID_鋼の剣: Stahlschwert
+MSID_銀の剣: Silberschwert
+MSID_銀の剣＋: Silberschwert+
+MSID_勇者の剣: Kriegerschwert
+MSID_勇者の剣＋: Kriegerschwert+
+MSID_キルソード: Schnitter
+MSID_キルソード＋: Schnitter+
+MSID_アーマーキラー: Panzerbrecher
+MSID_アーマーキラー＋: Panzerbrecher+
+MSID_旭日の剣: Rubinschwert
+MSID_旭日の剣＋: Rubinschwert+
+MSID_ファルシオン: Falchion
+MSID_ファルシオン覚醒: Falchion
+MSID_封印の剣: Binding Blade
+MSID_エッケザックス: Eckesachs
+MSID_デュランダル: Durandal
+MSID_ソールカティ: Sol Katti
+MSID_夜刀神: Yato
+MSID_雷神刀: Raijinto
+MSID_ジークフリート: Siegfried
+MSID_フォルクヴァング: Fólkvangr
+MSID_鉄の槍: Eisenlanze
+MSID_鋼の槍: Stahllanze
+MSID_銀の槍: Silberlanze
+MSID_銀の槍＋: Silberlanze+
+MSID_勇者の槍: Kriegerlanze
+MSID_勇者の槍＋: Kriegerlanze+
+MSID_キラーランス: Meisterlanze
+MSID_キラーランス＋: Meisterlanze+
+MSID_貫きの槍: Panzerspeer
+MSID_貫きの槍＋: Panzerspeer+
+MSID_蒼海の槍: Saphirlanze
+MSID_蒼海の槍＋: Saphirlanze+
+MSID_グラディウス: Gradivus
+MSID_フェンサリル: Fensalir
+MSID_鉄の斧: Eisenaxt
+MSID_鋼の斧: Stahlaxt
+MSID_銀の斧: Silberaxt
+MSID_銀の斧＋: Silberaxt+
+MSID_勇者の斧: Kriegeraxt
+MSID_勇者の斧＋: Kriegeraxt+
+MSID_キラーアクス: Meisteraxt
+MSID_キラーアクス＋: Meisteraxt+
+MSID_ハンマー: Hammer
+MSID_ハンマー＋: Hammer+
+MSID_深緑の斧: Smaragdaxt
+MSID_深緑の斧＋: Smaragdaxt+
+MSID_オートクレール: Hauteclaire
+MSID_アルマーズ: Armads
+MSID_ノーアトゥーン: Nóatún
+MSID_鉄の弓: Eisenbogen
+MSID_鋼の弓: Stahlbogen
+MSID_銀の弓: Silberbogen
+MSID_銀の弓＋: Silberbogen+
+MSID_勇者の弓: Kriegerbogen
+MSID_勇者の弓＋: Kriegerbogen+
+MSID_キラーボウ: Meisterbogen
+MSID_キラーボウ＋: Meisterbogen+
+MSID_暗器殺しの弓: Assassinenbogen
+MSID_暗器殺しの弓＋: Assassinenbog.+
+MSID_パルティア: Parthia
+MSID_風神弓: Fujin Yumi
+MSID_鉄の暗器: Eisendolch
+MSID_鋼の暗器: Stahldolch
+MSID_銀の暗器: Silberdolch
+MSID_銀の暗器＋: Silberdolch+
+MSID_紫煙の暗器: Rauchdolch
+MSID_紫煙の暗器＋: Rauchdolch+
+MSID_秘毒の暗器: Giftdolch
+MSID_秘毒の暗器＋: Giftdolch+
+MSID_盗賊の暗器: Schurkendolch
+MSID_盗賊の暗器＋: Schurkendolch+
+MSID_ファイアー: Feuer
+MSID_エルファイアー: Elfenlicht
+MSID_ボルガノン: Bolganone
+MSID_ボルガノン＋: Bolganone+
+MSID_ミィル: Flux
+MSID_ルイン: Verderben
+MSID_ノスフェラート: Fenrir
+MSID_ノスフェラート＋: Fenrir+
+MSID_スレッダラウア: Rauðrklinge
+MSID_スレッダラウア＋: Rauðrklinge+
+MSID_ウルファラウア: Rauðrwolf
+MSID_ウルファラウア＋: Rauðrwolf+
+MSID_ナートラウア: Rauðrrabe
+MSID_ナートラウア＋: Rauðrrabe+
+MSID_ブリュンヒルデ: Brynhildr
+MSID_エリヴァーガル: Élivágar
+MSID_サンダー: Donner
+MSID_エルサンダー: Elfendonner
+MSID_トロン: Thoron
+MSID_トロン＋: Thoron+
+MSID_スレッダブラー: Blárklinge
+MSID_スレッダブラー＋: Blárklinge+
+MSID_ウルファブラー: Blárwolf
+MSID_ウルファブラー＋: Blárwolf+
+MSID_ナートブラー: Blárrabe
+MSID_ナートブラー＋: Blárrabe+
+MSID_オーラ: Aura
+MSID_ヴラスキャルヴ: Valaskjálf
+MSID_ウインド: Wind
+MSID_エルウインド: Elfenwind
+MSID_レクスカリバー: Rexcalibur
+MSID_レクスカリバー＋: Rexcalibur+
+MSID_スレッダグラン: Gronnklinge
+MSID_スレッダグラン＋: Gronnklinge+
+MSID_ウルファグラン: Gronnwolf
+MSID_ウルファグラン＋: Gronnwolf+
+MSID_ナートグラン: Gronnrabe
+MSID_ナートグラン＋: Gronnrabe+
+MSID_エクスカリバー: Excalibur
+MSID_アサルト: Sturmlauf
+MSID_アブゾーブ: Absorbieren
+MSID_フィアー: Angst
+MSID_スロウ: Langsam
+MSID_グラビティ: Schwere
+MSID_ペイン: Schmerz
+MSID_パニック: Panik
+MSID_火のブレス: Feueratem
+MSID_火炎のブレス: Feueratem+
+MSID_灼熱のブレス: Feuerzunge
+MSID_灼熱のブレス＋: Feuerzunge+
+MSID_光のブレス: Heller Atem
+MSID_光のブレス＋: Heller Atem+
+MSID_闇のブレス: Dunkler Atem
+MSID_闇のブレス＋: Dunkler Atem+
+MSID_雷のブレス: Blitzatem
+MSID_雷のブレス＋: Blitzatem+
+MSID_ライブ: Heilung
+MSID_リライブ: Pflege
+MSID_リブロー: Purgativ
+MSID_リカバー: Erholung
+MSID_ヒール: Einklang
+MSID_セインツ: Aufopferung
+MSID_リバース: Neubeginn
+MSID_入れ替え: Rochade
+MSID_体当たり: Stoß
+MSID_ぶちかまし: Pein
+MSID_引き寄せ: Einfangen
+MSID_引き戻し: Verlegung
+MSID_回り込み: Drehung
+MSID_攻撃の応援: Angr. sammeln
+MSID_速さの応援: Ges. sammeln
+MSID_守備の応援: Ver. sammeln
+MSID_魔防の応援: Res. sammeln
+MSID_献身: Selbstopfer
+MSID_一喝: Harscher Befehl
+MSID_相互援助: Gegenseitig. Hilfe
+MSID_歌う: Singen
+MSID_踊る: Tanzen
+MSID_天空: Aithir
+MSID_星影: Nachthimmel
+MSID_凶星: Schimmer
+MSID_流星: Astra
+MSID_陽影: Tageslicht
+MSID_夕陽: Mittagszeit
+MSID_太陽: Sonne
+MSID_影月: Neumond
+MSID_月虹: Mondbogen
+MSID_月光: Mond
+MSID_雪辱: Rache
+MSID_血讐: Revanche
+MSID_復讐: Vergeltung
+MSID_伏竜: Drachenblick
+MSID_竜裂: Drachenaura
+MSID_竜穿: Drachenbiss
+MSID_蛍火: Aschenglut
+MSID_緋炎: Leuchtfeuer
+MSID_華炎: Ignus
+MSID_氷点: Eishauch
+MSID_氷蒼: Eisberg
+MSID_氷華: Glacies
+MSID_砕火: Starke Flamme
+MSID_爆火: Tosende Flamme
+MSID_烈火: Wütende Flamme
+MSID_砕風: Starker Wind
+MSID_爆風: Tosender Wind
+MSID_烈風: Wütender Wind
+MSID_砕雷: Starker Donner
+MSID_爆雷: Tosender Donner
+MSID_烈雷: Wütender Donner
+MSID_砕光: Starkes Licht
+MSID_爆光: Tosendes Licht
+MSID_烈光: Wütendes Licht
+MSID_小盾: Schutzschild
+MSID_長盾: Langschild
+MSID_大盾: Pavise
+MSID_聖衣: Heiliges Gewand
+MSID_聖兜: Sakralkutte
+MSID_聖盾: Aegis
+MSID_祈り: Arkanum
+MSID_治癒: Inspiration
+MSID_天照: Himmelslicht
+MSID_業火の祝福: Feuerbalsam
+MSID_疾風の祝福: Windbalsam
+MSID_大地の祝福: Erdbalsam
+MSID_静水の祝福: Wasserbalsam
+MSID_疾風迅雷: Wirbelwind
+MSID_HP1: KP +3
+MSID_HP2: KP +4
+MSID_HP3: KP +5
+MSID_攻撃1: Angriff +1
+MSID_攻撃2: Angriff +2
+MSID_攻撃3: Angriff +3
+MSID_速さ1: Ges. +1
+MSID_速さ2: Ges. +2
+MSID_速さ3: Ges. +3
+MSID_守備1: Verteidigung +1
+MSID_守備2: Verteidigung +2
+MSID_守備3: Verteidigung +3
+MSID_魔防1: Resistenz +1
+MSID_魔防2: Resistenz +2
+MSID_魔防3: Resistenz +3
+MSID_獅子奮迅1: Wildheit 1
+MSID_獅子奮迅2: Wildheit 2
+MSID_獅子奮迅3: Wildheit 3
+MSID_死線1: Lebensfaden 1
+MSID_死線2: Lebensfaden 2
+MSID_死線3: Lebensfaden 3
+MSID_鬼神の一撃1: Ins Schwarze 1
+MSID_鬼神の一撃2: Ins Schwarze 2
+MSID_鬼神の一撃3: Ins Schwarze 3
+MSID_飛燕の一撃1: Sturzflughieb 1
+MSID_飛燕の一撃2: Sturzflughieb 2
+MSID_飛燕の一撃3: Sturzflughieb 3
+MSID_金剛の一撃1: Defens. Hieb 1
+MSID_金剛の一撃2: Defens. Hieb 2
+MSID_金剛の一撃3: Defens. Hieb 3
+MSID_明鏡の一撃1: Bannhieb 1
+MSID_明鏡の一撃2: Bannhieb 2
+MSID_明鏡の一撃3: Bannhieb 3
+MSID_攻撃の覚醒1: Renitenter Agr. 1
+MSID_攻撃の覚醒2: Renitenter Agr. 2
+MSID_攻撃の覚醒3: Renitenter Agr. 3
+MSID_速さの覚醒1: Renitente Ges. 1
+MSID_速さの覚醒2: Renitente Ges. 2
+MSID_速さの覚醒3: Renitente Ges. 3
+MSID_守備の覚醒1: Renitente Ver. 1
+MSID_守備の覚醒2: Renitente Ver. 2
+MSID_守備の覚醒3: Renitente Ver. 3
+MSID_魔防の覚醒1: Renitente Res. 1
+MSID_魔防の覚醒2: Renitente Res. 2
+MSID_魔防の覚醒3: Renitente Res. 3
+MSID_相性激化1: Dreiecksadept 1
+MSID_相性激化2: Dreiecksadept 2
+MSID_相性激化3: Dreiecksadept 3
+MSID_近距離反撃: Nahkonter
+MSID_遠距離反撃: Fernkonter
+MSID_スヴェルの盾: Svalinnschild
+MSID_グラニの盾: Granis Schild
+MSID_アイオテの盾: Iotes Schild
+MSID_叩き込み: Niederschlagen
+MSID_切り込み: Ausfallschritt
+MSID_引き込み: Wegziehen
+MSID_すり抜け1: Passieren 1
+MSID_すり抜け2: Passieren 2
+MSID_すり抜け3: Passieren 3
+MSID_進軍阻止1: Blockieren 1
+MSID_進軍阻止2: Blockieren 2
+MSID_進軍阻止3: Blockieren 3
+MSID_救援の行路1: Gnadenflügel 1
+MSID_救援の行路2: Gnadenflügel 2
+MSID_救援の行路3: Gnadenflügel 3
+MSID_離脱の行路1: Fluchtroute 1
+MSID_離脱の行路2: Fluchtroute 2
+MSID_離脱の行路3: Fluchtroute 3
+MSID_待ち伏せ1: Vorteil 1
+MSID_待ち伏せ2: Vorteil 2
+MSID_待ち伏せ3: Vorteil 3
+MSID_攻め立て1: Verzweiflung 1
+MSID_攻め立て2: Verzweiflung 2
+MSID_攻め立て3: Verzweiflung 3
+MSID_差し違え1: Dreistigkeit 1
+MSID_差し違え2: Dreistigkeit 2
+MSID_差し違え3: Dreistigkeit 3
+MSID_切り返し1: Flinke Riposte 1
+MSID_切り返し2: Flinke Riposte 2
+MSID_切り返し3: Flinke Riposte 3
+MSID_守備隊形1: Wachsamkeit 1
+MSID_守備隊形2: Wachsamkeit 2
+MSID_守備隊形3: Wachsamkeit 3
+MSID_蛇毒1: Giftklinge 1
+MSID_蛇毒2: Giftklinge 2
+MSID_蛇毒3: Giftklinge 3
+MSID_回復1: Heilung 1
+MSID_回復2: Heilung 2
+MSID_回復3: Heilung 3
+MSID_ご奉仕の喜び1: Zu Diensten 1
+MSID_ご奉仕の喜び2: Zu Diensten 2
+MSID_ご奉仕の喜び3: Zu Diensten 3
+MSID_攻撃封じ1: Angr. rauben 1
+MSID_攻撃封じ2: Angr. rauben 2
+MSID_攻撃封じ3: Angr. rauben 3
+MSID_速さ封じ1: Ges. rauben 1
+MSID_速さ封じ2: Ges. rauben 2
+MSID_速さ封じ3: Ges. rauben 3
+MSID_守備封じ1: Ver. rauben 1
+MSID_守備封じ2: Ver. rauben 2
+MSID_守備封じ3: Ver. rauben 3
+MSID_魔防封じ1: Res. rauben 1
+MSID_魔防封じ2: Res. rauben 2
+MSID_魔防封じ3: Res. rauben 3
+MSID_剣殺し1: Schwertbrecher 1
+MSID_剣殺し2: Schwertbrecher 2
+MSID_剣殺し3: Schwertbrecher 3
+MSID_槍殺し1: Lanzenbrecher 1
+MSID_槍殺し2: Lanzenbrecher 2
+MSID_槍殺し3: Lanzenbrecher 3
+MSID_斧殺し1: Axtbrecher 1
+MSID_斧殺し2: Axtbrecher 2
+MSID_斧殺し3: Axtbrecher 3
+MSID_弓殺し1: Bogenbrecher 1
+MSID_弓殺し2: Bogenbrecher 2
+MSID_弓殺し3: Bogenbrecher 3
+MSID_暗器殺し1: Shurikenbrech. 1
+MSID_暗器殺し2: Shurikenbrech. 2
+MSID_暗器殺し3: Shurikenbrech. 3
+MSID_赤魔殺し1: R Zauberbrech. 1
+MSID_赤魔殺し2: R Zauberbrech. 2
+MSID_赤魔殺し3: R Zauberbrech. 3
+MSID_青魔殺し1: B Zauberbrech. 1
+MSID_青魔殺し2: B Zauberbrech. 2
+MSID_青魔殺し3: B Zauberbrech. 3
+MSID_緑魔殺し1: G Zaub.brech. 1
+MSID_緑魔殺し2: G Zaub.brech. 2
+MSID_緑魔殺し3: G Zaub.brech. 3
+MSID_生の息吹1: Lebensatem 1
+MSID_生の息吹2: Lebensatem 2
+MSID_生の息吹3: Lebensatem 3
+MSID_死の吐息1: Wilder Hieb 1
+MSID_死の吐息2: Wilder Hieb 2
+MSID_死の吐息3: Wilder Hieb 3
+MSID_攻撃の紋章1: Agr. anspornen 1
+MSID_攻撃の紋章2: Agr. anspornen 2
+MSID_攻撃の紋章3: Agr. anspornen 3
+MSID_速さの紋章1: Ges. ansporn. 1
+MSID_速さの紋章2: Ges. ansporn. 2
+MSID_速さの紋章3: Ges. ansporn. 3
+MSID_守備の紋章1: Ver. anspornen 1
+MSID_守備の紋章2: Ver. anspornen 2
+MSID_守備の紋章3: Ver. anspornen 3
+MSID_魔防の紋章1: Res. ansporn. 1
+MSID_魔防の紋章2: Res. ansporn. 2
+MSID_魔防の紋章3: Res. ansporn. 3
+MSID_重刃の紋章: Panzer+ (Angr.)
+MSID_重盾の紋章: Panzer+ (Vert.)
+MSID_騎刃の紋章: Reiter+ (Angr.)
+MSID_騎盾の紋章: Reiter+ (Vert.)
+MSID_飛刃の紋章: Flieger+ (Angr.)
+MSID_飛盾の紋章: Flieger+ (Vert.)
+MSID_攻撃の鼓舞1: Agr. verbesser. 1
+MSID_攻撃の鼓舞2: Agr. verbesser. 2
+MSID_攻撃の鼓舞3: Agr. verbesser. 3
+MSID_速さの鼓舞1: Ges. verbess. 1
+MSID_速さの鼓舞2: Ges. verbess. 2
+MSID_速さの鼓舞3: Ges. verbess. 3
+MSID_守備の鼓舞1: Ver. stärken 1
+MSID_守備の鼓舞2: Ver. stärken 2
+MSID_守備の鼓舞3: Ver. stärken 3
+MSID_魔防の鼓舞1: Res. stärken 1
+MSID_魔防の鼓舞2: Res. stärken 2
+MSID_魔防の鼓舞3: Res. stärken 3
+MSID_重刃の鼓舞: Panzer verbess.
+MSID_重盾の鼓舞: Panzer stärken
+MSID_騎刃の鼓舞: Reiterei verbess.
+MSID_騎盾の鼓舞: Reiterei stärken
+MSID_飛刃の鼓舞: Flieger verbess.
+MSID_飛盾の鼓舞: Flieger stärken
+MSID_攻撃の威嚇1: Angr. gefährd. 1
+MSID_攻撃の威嚇2: Angr. gefährd. 2
+MSID_攻撃の威嚇3: Angr. gefährd. 3
+MSID_速さの威嚇1: Ges. gefährden 1
+MSID_速さの威嚇2: Ges. gefährden 2
+MSID_速さの威嚇3: Ges. gefährden 3
+MSID_守備の威嚇1: Ver. gefährden 1
+MSID_守備の威嚇2: Ver. gefährden 2
+MSID_守備の威嚇3: Ver. gefährden 3
+MSID_魔防の威嚇1: Res. gefährden 1
+MSID_魔防の威嚇2: Res. gefährden 2
+MSID_魔防の威嚇3: Res. gefährden 3
+MSID_H_鉄の剣: 
+MSID_H_鋼の剣: 
+MSID_H_銀の剣: 
+MSID_H_銀の剣＋: 
+MSID_H_勇者の剣: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_勇者の剣＋: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_キルソード: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_キルソード＋: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_アーマーキラー: Effektiv gegen gepanzerte Gegner.
+MSID_H_アーマーキラー＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_旭日の剣: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_旭日の剣＋: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_ファルシオン: Effektiv gegen Drachen. Stellt zu Beginn\njedes dritten Zuges 10 KP wieder her.
+MSID_H_ファルシオン覚醒: Effektiv gegen Drachen. Stellt zu Beginn\njedes dritten Zuges 10 KP wieder her.
+MSID_H_封印の剣: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver./Res. +2 im Kampf.
+MSID_H_エッケザックス: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ver. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_デュランダル: Initiiert die Einheit den Kampf,\nerhält sie Angr. +4 im Kampf.
+MSID_H_ソールカティ: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≤ 50 %, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners angreifen.
+MSID_H_夜刀神: Initiiert die Einheit den Kampf,\nerhält sie Ges. +4 im Kampf.
+MSID_H_雷神刀: Ermöglicht Gegenangriff unabhängig\nvom Abstand zum Gegner.
+MSID_H_ジークフリート: Ermöglicht Gegenangriff unabhängig\nvom Abstand zum Gegner.
+MSID_H_フォルクヴァング: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Angr. +5 für 1 Zug.
+MSID_H_鉄の槍: 
+MSID_H_鋼の槍: 
+MSID_H_銀の槍: 
+MSID_H_銀の槍＋: 
+MSID_H_勇者の槍: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_勇者の槍＋: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_キラーランス: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_キラーランス＋: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_貫きの槍: Effektiv gegen gepanzerte Gegner.
+MSID_H_貫きの槍＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_蒼海の槍: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_蒼海の槍＋: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_グラディウス: Ermöglicht Gegenangriff unabhängig\nvom Abstand zum Gegner.
+MSID_H_フェンサリル: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Angr. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_鉄の斧: 
+MSID_H_鋼の斧: 
+MSID_H_銀の斧: 
+MSID_H_銀の斧＋: 
+MSID_H_勇者の斧: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_勇者の斧＋: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_キラーアクス: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_キラーアクス＋: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_ハンマー: Effektiv gegen gepanzerte Gegner.
+MSID_H_ハンマー＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_深緑の斧: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_深緑の斧＋: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_オートクレール: Beschleunigt Spezialangriffe.\n(Erholungszeit -1)
+MSID_H_アルマーズ: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 80 %, führt die\nEinheit garantiert einen Folgeangriff aus.
+MSID_H_ノーアトゥーン: Sind die KP der Einheit ≤ 40 %, kann\nsie sich neben einen beliebigen\nVerbündeten bewegen.
+MSID_H_鉄の弓: Effektiv gegen Flugeinheiten.
+MSID_H_鋼の弓: Effektiv gegen Flugeinheiten.
+MSID_H_銀の弓: Effektiv gegen Flugeinheiten.
+MSID_H_銀の弓＋: Effektiv gegen Flugeinheiten.
+MSID_H_勇者の弓: Effektiv gegen Flugeinheiten.\nVerursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal ein.
+MSID_H_勇者の弓＋: Effektiv gegen Flugeinheiten.\nVerursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal ein.
+MSID_H_キラーボウ: Effektiv gegen Flugeinheiten.\nBeschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_キラーボウ＋: Effektiv gegen Flugeinheiten.\nBeschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_暗器殺しの弓: Effektiv gg. Flugeinheiten. Hat der Gegner\neinen farblosen Dolch, wird der Anwender\nFolgeangriff ausführen, der Gegner nicht.
+MSID_H_暗器殺しの弓＋: Effektiv gegen Flugeinheiten.\nHat der Gegner einen farblosen Dolch,\nwird der Anwender einen Folgeangriff\nausführen, der Gegner nicht.
+MSID_H_パルティア: Effektiv gegen Flugeinheiten.\nInitiiert die Einheit den Kampf,\nerhält sie Res. +4 im Kampf.
+MSID_H_風神弓: Effektiv gegen Flugeinheiten. Sind die\nKP der Einheit ≥ 50 %, kann sie durch\nvon Gegnern besetzte Felder ziehen.
+MSID_H_鉄の暗器: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -3\nbis nach seiner nächsten Aktion.
+MSID_H_鋼の暗器: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -3\nbis nach seiner nächsten Aktion.
+MSID_H_銀の暗器: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -5\nbis nach seiner nächsten Aktion.
+MSID_H_銀の暗器＋: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -7\nbis nach seiner nächsten Aktion.
+MSID_H_紫煙の暗器: Hat die Einheit angegriffen, erleiden\nGegner im Umkreis von 2 Feldern des\nZiels nach dem Kampf Ver./Res. -4\nbis nach ihren nächsten Aktionen.
+MSID_H_紫煙の暗器＋: Hat die Einheit angegriffen, erleiden\nGegner im Umkreis von 2 Feldern des\nZiels nach dem Kampf Ver./Res. -6\nbis nach ihren nächsten Aktionen.
+MSID_H_秘毒の暗器: Effektiv gegen Infanterieeinheiten. Hat die\nEinheit angegriffen, erleidet die gegnerische\nInfanterieeinheit nach dem Kampf\nVer./Res. -4 bis nach ihrer nächsten Aktion.
+MSID_H_秘毒の暗器＋: Effektiv gegen Infanterieeinheiten. Hat die\nEinheit angegriffen, erleidet die gegnerische\nInfanterieeinheit nach dem Kampf\nVer./Res. -6 bis nach ihrer nächsten Aktion.
+MSID_H_盗賊の暗器: Verleiht Ver./Res. +3 für 1 Zug.\nHat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -3\nbis nach seiner nächsten Aktion.
+MSID_H_盗賊の暗器＋: Verleiht Ver./Res. +5 für 1 Zug.\nHat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ver./Res. -5\nbis nach seiner nächsten Aktion.
+MSID_H_ファイアー: 
+MSID_H_エルファイアー: 
+MSID_H_ボルガノン: 
+MSID_H_ボルガノン＋: 
+MSID_H_ミィル: 
+MSID_H_ルイン: 
+MSID_H_ノスフェラート: 
+MSID_H_ノスフェラート＋: 
+MSID_H_スレッダラウア: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_スレッダラウア＋: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_ウルファラウア: Effektiv gegen berittene Gegner.
+MSID_H_ウルファラウア＋: Effektiv gegen berittene Gegner.
+MSID_H_ナートラウア: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_ナートラウア＋: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_ブリュンヒルデ: Initiiert die Einheit den Kampf, erleidet der\nGegner einen negativen Statuseffekt, durch\nden seine Bewegung bis nach seiner\nnächsten Aktion auf 1 Feld beschränkt wird.
+MSID_H_サンダー: 
+MSID_H_エルサンダー: 
+MSID_H_トロン: 
+MSID_H_トロン＋: 
+MSID_H_スレッダブラー: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_スレッダブラー＋: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_ウルファブラー: Effektiv gegen berittene Gegner.
+MSID_H_ウルファブラー＋: Effektiv gegen berittene Gegner.
+MSID_H_ナートブラー: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_ナートブラー＋: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_オーラ: Initiiert die Einheit den Kampf,\nerhalten benachbarte Verbündete\nnach dem Kampf 5 KP.
+MSID_H_ヴラスキャルヴ: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≤ 50 %, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners angreifen.
+MSID_H_ウインド: 
+MSID_H_エルウインド: 
+MSID_H_レクスカリバー: 
+MSID_H_レクスカリバー＋: 
+MSID_H_スレッダグラン: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_スレッダグラン＋: Verzögert Spezialangriffe (Erholungszeit +1).\nErhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_ウルファグラン: Effektiv gegen berittene Gegner.
+MSID_H_ウルファグラン＋: Effektiv gegen berittene Gegner.
+MSID_H_ナートグラン: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_ナートグラン＋: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_エクスカリバー: Effektiv gegen Flugeinheiten.
+MSID_H_エリヴァーガル: Initiiert die Einheit den Kampf, werden Boni\nvon Gegnern im Umkreis von 2 Feldern des\nZiels bis nach ihren nächsten Aktionen ins\nGegenteil umgewandelt.
+MSID_H_アサルト: 
+MSID_H_アブゾーブ: Stellt KP um 50 % des zugefügten\nSchadens wieder her.
+MSID_H_フィアー: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Angr. -6\nbis nach seiner nächsten Aktion.
+MSID_H_スロウ: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf Ges. -6\nbis nach seiner nächsten Aktion.
+MSID_H_グラビティ: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf einen negativen\nStatuseffekt, durch den seine Bewegung\nbis nach seiner nächsten Aktion auf 1 Feld\nbeschränkt wird.
+MSID_H_ペイン: Hat die Einheit angegriffen, erleidet der\nGegner nach dem Kampf 10 Schaden.
+MSID_H_パニック: Hat die Einheit angegriffen, werden die\nBoni des Gegners bis nach seiner nächsten\nAktion ins Gegenteil umgewandelt.
+MSID_H_火のブレス: 
+MSID_H_火炎のブレス: 
+MSID_H_灼熱のブレス: 
+MSID_H_灼熱のブレス＋: 
+MSID_H_光のブレス: Initiiert die Einheit den Kampf, erhalten\nVerbündete auf benachbarten Feldern\nVer./Res. +4 für 1 Zug.
+MSID_H_光のブレス＋: Initiiert die Einheit den Kampf, erhalten\nVerbündete auf benachbarten Feldern\nVer./Res. +4 für 1 Zug.
+MSID_H_闇のブレス: Initiiert die Einheit den Kampf, erleiden\nGegner im Umkreis von 2 Feldern des\nZiels Angr./Ges. -5 bis nach ihren\nnächsten Aktionen.
+MSID_H_闇のブレス＋: Initiiert die Einheit den Kampf, erleiden\nGegner im Umkreis von 2 Feldern des\nZiels Angr./Ges. -5 bis nach ihren\nnächsten Aktionen.
+MSID_H_雷のブレス: Verzögert Spezialangriffe (Erholungszeit +1).\nErmöglicht Gegenangriff unabhängig von\nder Reichweite des Gegners.
+MSID_H_雷のブレス＋: Verzögert Spezialangriffe (Erholungszeit +1).\nErmöglicht Gegenangriff unabhängig von\nder Reichweite des Gegners.
+MSID_H_ライブ: Stellt bei einem Verbündeten\n5 KP wieder her.
+MSID_H_リライブ: Stellt bei einem Verbündeten\n10 KP wieder her.
+MSID_H_リブロー: Stellt bei einem Verbündeten\n8 KP wieder her. Rw.: 2.
+MSID_H_リカバー: Verzögert Spezialangriffe (Erholungszeit +1).\nStellt bei einem Verbündeten 15 KP wieder her.
+MSID_H_ヒール: Stellt beim Ziel und bei der\nEinheit je 7 KP wieder her.
+MSID_H_セインツ: Verzögert Spezialangriffe (Erholungszeit +1).\nHeilt das Ziel um den erlittenen Schaden der\nEinheit +7. Heilt die Einheit um die Hälfte\nihres erlittenen Schadens.
+MSID_H_リバース: Verzögert Spezialangriffe (Erholungszeit +1).\nSind die KP des Ziels ≤ 50 %, werden KP\nwiederhergestellt. (Je geringer die KP,\ndesto mehr KP werden wiederhergestellt,\nmindestens 7.)
+MSID_H_入れ替え: Die Einheit tauscht den Platz\nmit einem Verbündeten.
+MSID_H_体当たり: Schiebt einen Verbündeten\n1 Feld weit weg.
+MSID_H_ぶちかまし: Schiebt einen Verbündeten\n2 Felder weit weg.
+MSID_H_引き寄せ: Die Einheit entfernt sich 1 Feld vom\nVerbündeten, dieser bewegt sich auf\ndas freigewordene Feld.
+MSID_H_引き戻し: Bewegt benachbarten Verbündeten auf\ndie gegenüberliegende Seite der Einheit.
+MSID_H_回り込み: Die Einheit bewegt sich auf die\ngegenüberliegende Seite eines\nverbündeten Ziels.
+MSID_H_攻撃の応援: Verleiht einem Verbündeten\nAngr. +4 für 1 Zug.
+MSID_H_速さの応援: Verleiht einem Verbündeten\nGes. +4 für 1 Zug.
+MSID_H_守備の応援: Verleiht einem Verbündeten\nVer. +4 für 1 Zug.
+MSID_H_魔防の応援: Verleiht einem Verbündeten\nRes. +4 für 1 Zug.
+MSID_H_献身: Heilt bei einem Verbündeten 10 KP.\nDie Einheit verliert 10 KP. (KP können\ndadurch nicht auf 0 sinken.)
+MSID_H_一喝: Wandelt negative Effekte des Ziels\nin Boni um.
+MSID_H_相互援助: Die Einheit und das verbündete Ziel\ntauschen KP (Max. KP können nicht\nüberschritten werden.)
+MSID_H_歌う: Ermöglicht dem Ziel eine weitere Aktion.\nKann nicht auf Einheiten, die Tanz oder\nSingen beherrschen, angewandt werden.
+MSID_H_踊る: Ermöglicht dem Ziel eine weitere Aktion.\nKann nicht auf Einheiten, die Tanz oder\nSingen beherrschen, angewandt werden.
+MSID_H_天空: Der Kampf verläuft, als ob der Gegner\nVer./Res. -50 % erlitten hätte. KP\nder Einheit werden um 50 % des\nzugefügten Schadens wiederhergestellt.
+MSID_H_星影: Erhöht den zugefügten Schaden\num 50 %.
+MSID_H_凶星: Erhöht den zugefügten Schaden\num 50 %.
+MSID_H_流星: Erhöht den zugefügten Schaden\num 150 %.
+MSID_H_陽影: Heilt 30 % des zugefügten Schadens.
+MSID_H_夕陽: Heilt 30 % des zugefügten Schadens.
+MSID_H_太陽: Heilt 50 % des zugefügten Schadens.
+MSID_H_影月: Der Kampf verläuft, als ob der Gegner\nVer./Res. -30 % erlitten hätte.
+MSID_H_月虹: Der Kampf verläuft, als ob der Gegner\nVer./Res. -30 % erlitten hätte.
+MSID_H_月光: Der Kampf verläuft, als ob der Gegner\nVer./Res. -50 % erlitten hätte.
+MSID_H_雪辱: Erhöht den zugefügten Schaden um\n30 % des erlittenen Schadens.
+MSID_H_血讐: Erhöht den zugefügten Schaden um\n30 % des erlittenen Schadens.
+MSID_H_復讐: Erhöht den zugefügten Schaden um\n50 % des erlittenen Schadens.
+MSID_H_伏竜: Erhöht Angr. um 30 %.
+MSID_H_竜裂: Erhöht Angr. um 30 %.
+MSID_H_竜穿: Erhöht Angr. um 50 %.
+MSID_H_蛍火: Erhöht zugefügten Schaden um\n50 % des Verteidigungswerts der Einheit.
+MSID_H_緋炎: Erhöht zugefügten Schaden um\n50 % des Verteidigungswerts der Einheit.
+MSID_H_華炎: Erhöht zugefügten Schaden um\n80 % des Verteidigungswerts der Einheit.
+MSID_H_氷点: Erhöht zugefügten Schaden um\n50 % des Resistenzwerts der Einheit.
+MSID_H_氷蒼: Erhöht zugefügten Schaden um\n50 % des Resistenzwerts der Einheit.
+MSID_H_氷華: Erhöht zugefügten Schaden um\n80 % des Resistenzwerts der Einheit.
+MSID_H_砕火: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von Angr. der Einheit minus Ver. oder\nRes. des Gegners.
+MSID_H_爆火: Initiiert die Einheit den Kampf, erleiden Gegner\nin einem großen Umkreis des Ziels vor dem\nKampf Schaden in Höhe von Angr. der Einheit\nminus Ver. oder Res. des Gegners.
+MSID_H_烈火: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von 1,5 x (Angr. der Einheit minus Ver.\noder Res. des Gegners).
+MSID_H_砕風: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von Angr. der Einheit minus Ver. oder\nRes. des Gegners.
+MSID_H_爆風: Initiiert die Einheit den Kampf, erleiden Gegner\nin einem großen Umkreis des Ziels vor dem\nKampf Schaden in Höhe von Angr. der Einheit\nminus Ver. oder Res. des Gegners.
+MSID_H_烈風: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von 1,5 x (Angr. der Einheit minus Ver.\noder Res. des Gegners).
+MSID_H_砕雷: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von Angr. der Einheit minus Ver. oder\nRes. des Gegners.
+MSID_H_爆雷: Initiiert die Einheit den Kampf, erleiden Gegner\nin einem großen Umkreis des Ziels vor dem\nKampf Schaden in Höhe von Angr. der Einheit\nminus Ver. oder Res. des Gegners.
+MSID_H_烈雷: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von 1,5 x (Angr. der Einheit minus Ver.\noder Res. des Gegners).
+MSID_H_砕光: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von Angr. der Einheit minus Ver. oder\nRes. des Gegners.
+MSID_H_爆光: Initiiert die Einheit den Kampf, erleiden Gegner\nin einem großen Umkreis des Ziels vor dem\nKampf Schaden in Höhe von Angr. der Einheit\nminus Ver. oder Res. des Gegners.
+MSID_H_烈光: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von 1,5 x (Angr. der Einheit minus Ver.\noder Res. des Gegners).
+MSID_H_小盾: Reduziert Schaden durch Angriffe\nbenachbarter Gegner um 30 %.
+MSID_H_長盾: Reduziert Schaden durch Angriffe\nbenachbarter Gegner um 30 %.
+MSID_H_大盾: Reduziert Schaden durch Angriffe\nbenachbarter Gegner um 50 %.
+MSID_H_聖衣: Ist Rw. des Gegners = 2, wird der Schaden\ndurch seine Angriffe um 30 % reduziert.
+MSID_H_聖兜: Ist Rw. des Gegners = 2, wird der Schaden\ndurch seine Angriffe um 30 % reduziert.
+MSID_H_聖盾: Ist Rw. des Gegners = 2, wird der Schaden\ndurch seine Angriffe um 50 % reduziert.
+MSID_H_祈り: Sind die KP der Einheit > 1, überlebt sie einen\nansonsten tödlichen Angriff mit 1 KP.
+MSID_H_治癒: Beim Heilen eines Verbündeten mit\neinem Stab werden zusätzliche\n10 KP wiederhergestellt.
+MSID_H_天照: Beim Heilen eines Verbündeten\nmit einem Stab werden bei allen\nVerbündeten 10 KP wiederhergestellt.
+MSID_H_業火の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nAngr. +4 für 1 Zug.
+MSID_H_疾風の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nGes. +4 für 1 Zug.
+MSID_H_大地の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nVer. +4 für 1 Zug.
+MSID_H_静水の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nRes. +4 für 1 Zug.
+MSID_H_疾風迅雷: Initiiert die Einheit den Kampf, kann\nsie danach eine weitere Aktion\nim Kampf ausführen (1-mal pro Zug).
+MSID_H_HP1: Verleiht max. KP +3.
+MSID_H_HP2: Verleiht max. KP +4.
+MSID_H_HP3: Verleiht max. KP +5.
+MSID_H_攻撃1: Verleiht Angr. +1.
+MSID_H_攻撃2: Verleiht Angr. +2.
+MSID_H_攻撃3: Verleiht Angr. +3.
+MSID_H_速さ1: Verleiht Ges. +1.
+MSID_H_速さ2: Verleiht Ges. +2.
+MSID_H_速さ3: Verleiht Ges. +3.
+MSID_H_守備1: Verleiht Ver. +1.
+MSID_H_守備2: Verleiht Ver. +2.
+MSID_H_守備3: Verleiht Ver. +3.
+MSID_H_魔防1: Verleiht Res. +1.
+MSID_H_魔防2: Verleiht Res. +2.
+MSID_H_魔防3: Verleiht Res. +3.
+MSID_H_獅子奮迅1: Verleiht Angr./Ges./Ver./Res. +1.\nNach dem Kampf: Einheit erleidet\n2 Schaden.
+MSID_H_獅子奮迅2: Verleiht Angr./Ges./Ver./Res. +2.\nNach dem Kampf: Einheit erleidet\n4 Schaden.
+MSID_H_獅子奮迅3: Verleiht Angr./Ges./Ver./Res. +3.\nNach dem Kampf: Einheit erleidet\n6 Schaden.
+MSID_H_死線1: Verleiht Angr./Ges. +3.\nVerursacht Ver./Res. -3.
+MSID_H_死線2: Verleiht Angr./Ges. +4.\nVerursacht Ver./Res. -4.
+MSID_H_死線3: Verleiht Angr./Ges. +5.\nVerursacht Ver./Res. -5.
+MSID_H_鬼神の一撃1: Initiiert die Einheit den Kampf,\nerhält sie Angr. +2 im Kampf.
+MSID_H_鬼神の一撃2: Initiiert die Einheit den Kampf,\nerhält sie Angr. +4 im Kampf.
+MSID_H_鬼神の一撃3: Initiiert die Einheit den Kampf,\nerhält sie Angr. +6 im Kampf.
+MSID_H_飛燕の一撃1: Initiiert die Einheit den Kampf,\nerhält sie Ges. +2 im Kampf.
+MSID_H_飛燕の一撃2: Initiiert die Einheit den Kampf,\nerhält sie Ges. +4 im Kampf.
+MSID_H_飛燕の一撃3: Initiiert die Einheit den Kampf,\nerhält sie Ges. +6 im Kampf.
+MSID_H_金剛の一撃1: Initiiert die Einheit den Kampf,\nerhält sie Ver. +2 im Kampf.
+MSID_H_金剛の一撃2: Initiiert die Einheit den Kampf,\nerhält sie Ver. +4 im Kampf.
+MSID_H_金剛の一撃3: Initiiert die Einheit den Kampf,\nerhält sie Ver. +6 im Kampf.
+MSID_H_明鏡の一撃1: Initiiert die Einheit den Kampf,\nerhält sie Res. +2 im Kampf.
+MSID_H_明鏡の一撃2: Initiiert die Einheit den Kampf,\nerhält sie Res. +4 im Kampf.
+MSID_H_明鏡の一撃3: Initiiert die Einheit den Kampf,\nerhält sie Res. +6 im Kampf.
+MSID_H_攻撃の覚醒1: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Angr. +3 für 1 Zug.
+MSID_H_攻撃の覚醒2: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Angr. +5 für 1 Zug.
+MSID_H_攻撃の覚醒3: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Angr. +7 für 1 Zug.
+MSID_H_速さの覚醒1: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ges. +3 für 1 Zug.
+MSID_H_速さの覚醒2: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ges. +5 für 1 Zug.
+MSID_H_速さの覚醒3: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ges. +7 für 1 Zug.
+MSID_H_守備の覚醒1: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ver. +3 für 1 Zug.
+MSID_H_守備の覚醒2: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ver. +5 für 1 Zug.
+MSID_H_守備の覚醒3: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Ver. +7 für 1 Zug.
+MSID_H_魔防の覚醒1: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Res. +3 für 1 Zug.
+MSID_H_魔防の覚醒2: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Res. +5 für 1 Zug.
+MSID_H_魔防の覚醒3: Sind die KP der Einheit zu Beginn des Zuges\n≤ 50 %, erhält sie Res. +7 für 1 Zug.
+MSID_H_相性激化1: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +10 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -10 %.
+MSID_H_相性激化2: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +15 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -15 %.
+MSID_H_相性激化3: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_近距離反撃: Ermöglicht Gegenangriff unabhängig\nvon der Reichweite des Gegners.
+MSID_H_遠距離反撃: Ermöglicht Gegenangriff unabhängig\nvon der Reichweite des Gegners.
+MSID_H_スヴェルの盾: Neutralisiert "Effektiv gegen gepanzert"-Boni.
+MSID_H_グラニの盾: Neutralisiert "Effektiv gegen beritten"-Boni.
+MSID_H_アイオテの盾: Neutralisiert "Effektiv gegen fliegend"-Boni.
+MSID_H_叩き込み: Initiiert die Einheit den Kampf, wird der\nGegner nach dem Kampf 1 Feld weit\nweggeschoben.
+MSID_H_切り込み: Initiiert die Einheit den Kampf, tauscht\nsie nach dem Kampf mit ihrem Gegner\nden Platz.
+MSID_H_引き込み: Initiiert die Einheit den Kampf, weicht sie\nnach dem Kampf 1 Feld zurück und der\nGegner übernimmt ihren alten Platz.
+MSID_H_すり抜け1: Sind die KP der Einheit ≥ 75 %, kann\nsie durch von Gegnern besetzte\nFelder ziehen.
+MSID_H_すり抜け2: Sind die KP der Einheit ≥ 50 %, kann\nsie durch von Gegnern besetzte\nFelder ziehen.
+MSID_H_すり抜け3: Sind die KP der Einheit ≥ 25 %, kann\nsie durch von Gegnern besetzte\nFelder ziehen.
+MSID_H_進軍阻止1: Sind die KP der Einheit ≥ 90 %, können\nGegner nicht durch benachbarte Felder\nder Einheit ziehen. (Kein Effekt bei\nGegnern mit der Fähigkeit Passieren.)
+MSID_H_進軍阻止2: Sind die KP der Einheit ≥ 70 %, können\nGegner nicht durch benachbarte Felder\nder Einheit ziehen. (Kein Effekt bei\nGegnern mit der Fähigkeit Passieren.)
+MSID_H_進軍阻止3: Sind die KP der Einheit ≥ 50 %, können\nGegner nicht durch benachbarte Felder\nder Einheit ziehen. (Kein Effekt bei\nGegnern mit der Fähigkeit Passieren.)
+MSID_H_救援の行路1: Sind die KP eines Verbündeten ≤ 30 %,\nkann die Einheit auf ein benachbartes\nFeld dieses Verbündeten ziehen.
+MSID_H_救援の行路2: Sind die KP eines Verbündeten ≤ 40 %,\nkann die Einheit auf ein benachbartes\nFeld dieses Verbündeten ziehen.
+MSID_H_救援の行路3: Sind die KP eines Verbündeten ≤ 50 %,\nkann die Einheit auf ein benachbartes\nFeld dieses Verbündeten ziehen.
+MSID_H_離脱の行路1: Sind die KP der Einheit ≤ 30 %, kann sie\nauf ein benachbartes Feld eines\nbeliebigen Verbündeten ziehen.
+MSID_H_離脱の行路2: Sind die KP der Einheit ≤ 40 %, kann sie\nauf ein benachbartes Feld eines\nbeliebigen Verbündeten ziehen.
+MSID_H_離脱の行路3: Sind die KP der Einheit ≤ 50 %, kann sie\nauf ein benachbartes Feld eines\nbeliebigen Verbündeten ziehen.
+MSID_H_待ち伏せ1: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≤ 25 %, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners angreifen.
+MSID_H_待ち伏せ2: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≤ 50 %, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners angreifen.
+MSID_H_待ち伏せ3: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≤ 75 %, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners angreifen.
+MSID_H_攻め立て1: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 25 %, kann sie\neinen Folgeangriff ausführen, bevor\nder Gegner angreift.
+MSID_H_攻め立て2: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 50 %, kann sie\neinen Folgeangriff ausführen, bevor der\nGegner angreift.
+MSID_H_攻め立て3: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 75 %, kann sie\neinen Folgeangriff ausführen, bevor der\nGegner angreift.
+MSID_H_差し違え1: Initiiert die Einheit den Kampf gegen einen\nkonterfähigen Gegner und sind die KP der\nEinheit ≤ 30 %, führt die Einheit garantiert\neinen Folgeangriff aus.
+MSID_H_差し違え2: Initiiert die Einheit den Kampf gegen einen\nkonterfähigen Gegner und sind die KP der\nEinheit ≤ 40 %, führt die Einheit garantiert\neinen Folgeangriff aus.
+MSID_H_差し違え3: Initiiert die Einheit den Kampf gegen einen\nkonterfähigen Gegner und sind die KP der\nEinheit ≤ 50 %, führt die Einheit garantiert\neinen Folgeangriff aus.
+MSID_H_切り返し1: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≥ 90 %, führt die\nEinheit garantiert einen Folgeangriff aus.
+MSID_H_切り返し2: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≥ 80 %, führt die\nEinheit garantiert einen Folgeangriff aus.
+MSID_H_切り返し3: Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≥ 70 %, führt die\nEinheit garantiert einen Folgeangriff aus.
+MSID_H_守備隊形1: Sind die KP der Einheit ≥ 90 %,\nkönnen Einheit und Gegner\nkeinen Folgeangriff ausführen.
+MSID_H_守備隊形2: Sind die KP der Einheit ≥ 70 %,\nkönnen Einheit und Gegner\nkeinen Folgeangriff ausführen.
+MSID_H_守備隊形3: Sind die KP der Einheit ≥ 50 %,\nkönnen Einheit und Gegner\nkeinen Folgeangriff ausführen.
+MSID_H_蛇毒1: Initiiert die Einheit den Kampf,\nerleidet der Gegner 4 Schaden\nnach dem Kampf.
+MSID_H_蛇毒2: Initiiert die Einheit den Kampf,\nerleidet der Gegner 7 Schaden\nnach dem Kampf.
+MSID_H_蛇毒3: Initiiert die Einheit den Kampf,\nerleidet der Gegner 10 Schaden\nnach dem Kampf.
+MSID_H_回復1: Zu Beginn jedes vierten Zuges\nwerden 10 KP wiederhergestellt.
+MSID_H_回復2: Zu Beginn jedes dritten Zuges\nwerden 10 KP wiederhergestellt.
+MSID_H_回復3: Zu Beginn jedes zweiten Zuges\nwerden 10 KP wiederhergestellt.
+MSID_H_ご奉仕の喜び1: Beim Heilen eines Verbündeten mit\neinem Stab wird die Einheit um 50 %\nder beim Ziel wiederhergestellten\nKP geheilt.
+MSID_H_ご奉仕の喜び2: Beim Heilen eines Verbündeten mit\neinem Stab wird die Einheit um 75 %\nder beim Ziel wiederhergestellten\nKP geheilt.
+MSID_H_ご奉仕の喜び3: Beim Heilen eines Verbündeten mit\neinem Stab wird die Einheit um\ndie beim Ziel wiederhergestellten\nKP geheilt.
+MSID_H_攻撃封じ1: Verursacht Angr. -3 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_攻撃封じ2: Verursacht Angr. -5 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_攻撃封じ3: Verursacht Angr. -7 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_速さ封じ1: Verursacht Ges. -3 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_速さ封じ2: Verursacht Ges. -5 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_速さ封じ3: Verursacht Ges. -7 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_守備封じ1: Verursacht Ver. -3 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_守備封じ2: Verursacht Ver. -5 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_守備封じ3: Verursacht Ver. -7 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_魔防封じ1: Verursacht Res. -3 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_魔防封じ2: Verursacht Res. -5 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_魔防封じ3: Verursacht Res. -7 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_剣殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen\neinen Schwertkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_剣殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen\neinen Schwertkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_剣殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen\neinen Schwertkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_槍殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen\neinen Lanzenträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_槍殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen\neinen Lanzenträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_槍殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen\neinen Lanzenträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_斧殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen\neinen Axtkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_斧殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen\neinen Axtkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_斧殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen\neinen Axtkämpfer, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_弓殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen einen\nfarblosen Bogenschützen, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_弓殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen einen\nfarblosen Bogenschützen, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_弓殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen einen\nfarblosen Bogenschützen, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_暗器殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen einen\nfarblosen Dolchträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_暗器殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen einen\nfarblosen Dolchträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_暗器殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen einen\nfarblosen Dolchträger, führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_赤魔殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen einen\nBuchanwender (rot), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_赤魔殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen einen\nBuchanwender (rot), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_赤魔殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen einen\nBuchanwender (rot), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_青魔殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen einen\nBuchanwender (blau), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_青魔殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen einen\nBuchanwender (blau), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_青魔殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen einen\nBuchanwender (blau), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_緑魔殺し1: Kämpft die Einheit mit KP ≥ 90 % gegen einen\nBuchanwender (grün), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_緑魔殺し2: Kämpft die Einheit mit KP ≥ 70 % gegen einen\nBuchanwender (grün), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_緑魔殺し3: Kämpft die Einheit mit KP ≥ 50 % gegen einen\nBuchanwender (grün), führt sie garantiert\neinen Folgeangriff aus und der Gegner\nkann keinen Folgeangriff ausführen.
+MSID_H_生の息吹1: Initiiert die Einheit den Kampf, werden\nbei benachbarten Verbündeten 3 KP\nwiederhergestellt.
+MSID_H_生の息吹2: Initiiert die Einheit den Kampf, werden\nbei benachbarten Verbündeten 5 KP\nwiederhergestellt.
+MSID_H_生の息吹3: Initiiert die Einheit den Kampf, werden\nbei benachbarten Verbündeten 7 KP\nwiederhergestellt.
+MSID_H_死の吐息1: Initiiert die Einheit den Kampf,\nerleiden Gegner im Umkreis\nvon 2 Feldern 3 Schaden.
+MSID_H_死の吐息2: Initiiert die Einheit den Kampf,\nerleiden Gegner im Umkreis\nvon 2 Feldern 5 Schaden.
+MSID_H_死の吐息3: Initiiert die Einheit den Kampf,\nerleiden Gegner im Umkreis\nvon 2 Feldern 7 Schaden.
+MSID_H_攻撃の紋章1: Verleiht benachbarten Verbündeten\nAngr. +2 im Kampf.
+MSID_H_攻撃の紋章2: Verleiht benachbarten Verbündeten\nAngr. +3 im Kampf.
+MSID_H_攻撃の紋章3: Verleiht benachbarten Verbündeten\nAngr. +4 im Kampf.
+MSID_H_速さの紋章1: Verleiht benachbarten Verbündeten\nGes. +2 im Kampf.
+MSID_H_速さの紋章2: Verleiht benachbarten Verbündeten\nGes. +3 im Kampf.
+MSID_H_速さの紋章3: Verleiht benachbarten Verbündeten\nGes. +4 im Kampf.
+MSID_H_守備の紋章1: Verleiht benachbarten Verbündeten\nVer. +2 im Kampf.
+MSID_H_守備の紋章2: Verleiht benachbarten Verbündeten\nVer. +3 im Kampf.
+MSID_H_守備の紋章3: Verleiht benachbarten Verbündeten\nVer. +4 im Kampf.
+MSID_H_魔防の紋章1: Verleiht benachbarten Verbündeten\nRes. +2 im Kampf.
+MSID_H_魔防の紋章2: Verleiht benachbarten Verbündeten\nRes. +3 im Kampf.
+MSID_H_魔防の紋章3: Verleiht benachbarten Verbündeten\nRes. +4 im Kampf.
+MSID_H_重刃の紋章: Verleiht gepanzerten Verbündeten im\nUmkreis von 2 Feldern Ges./Angr. +4\nim Kampf.
+MSID_H_重盾の紋章: Verleiht gepanzerten Verbündeten im\nUmkreis von 2 Feldern Ver./Res. +4\nim Kampf.
+MSID_H_騎刃の紋章: Verleiht berittenen Verbündeten im\nUmkreis von 2 Feldern Ges./Angr. +4\nim Kampf.
+MSID_H_騎盾の紋章: Verleiht berittenen Verbündeten im\nUmkreis von 2 Feldern Ver./Res. +4\nim Kampf.
+MSID_H_飛刃の紋章: Verleiht fliegenden Verbündeten im\nUmkreis von 2 Feldern Ges./Angr. +4\nim Kampf.
+MSID_H_飛盾の紋章: Verleiht fliegenden Verbündeten im\nUmkreis von 2 Feldern Ver./Res. +4\nim Kampf.
+MSID_H_攻撃の鼓舞1: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Angr. +2 für 1 Zug.
+MSID_H_攻撃の鼓舞2: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Angr. +3 für 1 Zug.
+MSID_H_攻撃の鼓舞3: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Angr. +4 für 1 Zug.
+MSID_H_速さの鼓舞1: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ges. +2 für 1 Zug.
+MSID_H_速さの鼓舞2: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ges. +3 für 1 Zug.
+MSID_H_速さの鼓舞3: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ges. +4 für 1 Zug.
+MSID_H_守備の鼓舞1: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ver. +2 für 1 Zug.
+MSID_H_守備の鼓舞2: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ver. +3 für 1 Zug.
+MSID_H_守備の鼓舞3: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Ver. +4 für 1 Zug.
+MSID_H_魔防の鼓舞1: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Res. +2 für 1 Zug.
+MSID_H_魔防の鼓舞2: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Res. +3 für 1 Zug.
+MSID_H_魔防の鼓舞3: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Res. +4 für 1 Zug.
+MSID_H_重刃の鼓舞: Verleiht benachbarten gepanzerten\nVerbündeten zu Beginn des Zuges\nAngr./Ges. +6 für 1 Zug.
+MSID_H_重盾の鼓舞: Verleiht benachbarten gepanzerten\nVerbündeten zu Beginn des Zuges\nVer./Res. +6 für 1 Zug.
+MSID_H_騎刃の鼓舞: Verleiht benachbarten berittenen\nVerbündeten zu Beginn des Zuges\nAngr./Ges. +6 für 1 Zug.
+MSID_H_騎盾の鼓舞: Verleiht benachbarten berittenen\nVerbündeten zu Beginn des Zuges\nVer./Res. +6 für 1 Zug.
+MSID_H_飛刃の鼓舞: Verleiht benachbarten fliegenden\nVerbündeten zu Beginn des Zuges\nAngr./Ges. +6 für 1 Zug.
+MSID_H_飛盾の鼓舞: Verleiht benachbarten fliegenden\nVerbündeten zu Beginn des Zuges\nVer./Res. +6 für 1 Zug.
+MSID_H_攻撃の威嚇1: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Angr. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_攻撃の威嚇2: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Angr. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_攻撃の威嚇3: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Angr. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_速さの威嚇1: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ges. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_速さの威嚇2: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ges. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_速さの威嚇3: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ges. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_守備の威嚇1: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ver. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_守備の威嚇2: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ver. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_守備の威嚇3: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Ver. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_魔防の威嚇1: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Res. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_魔防の威嚇2: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Res. -4 bis nach\nihren nächsten Aktionen.
+MSID_H_魔防の威嚇3: Gegner im Umkreis von 2 Feldern erleiden\nzu Beginn des Zuges Res. -5 bis nach\nihren nächsten Aktionen.
+MID_CHAPTER_TITLE_C0001: Prolog
+MID_CHAPTER_TITLE_C0002: Kapitel 1
+MID_CHAPTER_TITLE_C0003: Kapitel 2
+MID_CHAPTER_TITLE_C0004: Kapitel 3
+MID_CHAPTER_TITLE_C0005: Kapitel 4
+MID_CHAPTER_TITLE_C0006: Kapitel 5
+MID_CHAPTER_TITLE_C0007: Kapitel 6
+MID_CHAPTER_TITLE_C0008: Kapitel 7
+MID_CHAPTER_TITLE_C0009: Kapitel 8
+MID_CHAPTER_TITLE_C0010: Kapitel 9
+MID_CHAPTER_C0001: Welt von Zenith
+MID_CHAPTER_C0002: Welt von Mystery
+MID_CHAPTER_C0003: Welt von Herrschaft
+MID_CHAPTER_C0004: Welt von Binding
+MID_CHAPTER_C0005: Welt von Awakening
+MID_CHAPTER_C0006: Zurück zu Mystery
+MID_CHAPTER_C0007: Welt v. Vermächtnis
+MID_CHAPTER_C0008: Welt von Blazing
+MID_CHAPTER_C0009: Zurück z. Awakening
+MID_CHAPTER_C0010: Invasion der Helden
+MID_STAGE_TITLE_S0001: Einleitung - Teil 1
+MID_STAGE_TITLE_S0002: Einleitung - Teil 2
+MID_STAGE_TITLE_S0101: Prolog - Teil 1
+MID_STAGE_TITLE_S0102: Prolog - Teil 2
+MID_STAGE_TITLE_S0103: Prolog - Teil 3
+MID_STAGE_TITLE_S0201: Kapitel 1 - Teil 1
+MID_STAGE_TITLE_S0202: Kapitel 1 - Teil 2
+MID_STAGE_TITLE_S0203: Kapitel 1 - Teil 3
+MID_STAGE_TITLE_S0204: Kapitel 1 - Teil 4
+MID_STAGE_TITLE_S0205: Kapitel 1 - Teil 5
+MID_STAGE_TITLE_S0301: Kapitel 2 - Teil 1
+MID_STAGE_TITLE_S0302: Kapitel 2 - Teil 2
+MID_STAGE_TITLE_S0303: Kapitel 2 - Teil 3
+MID_STAGE_TITLE_S0304: Kapitel 2 - Teil 4
+MID_STAGE_TITLE_S0305: Kapitel 2 - Teil 5
+MID_STAGE_TITLE_S0401: Kapitel 3 - Teil 1
+MID_STAGE_TITLE_S0402: Kapitel 3 - Teil 2
+MID_STAGE_TITLE_S0403: Kapitel 3 - Teil 3
+MID_STAGE_TITLE_S0404: Kapitel 3 - Teil 4
+MID_STAGE_TITLE_S0405: Kapitel 3 - Teil 5
+MID_STAGE_TITLE_S0501: Kapitel 4 - Teil 1
+MID_STAGE_TITLE_S0502: Kapitel 4 - Teil 2
+MID_STAGE_TITLE_S0503: Kapitel 4 - Teil 3
+MID_STAGE_TITLE_S0504: Kapitel 4 - Teil 4
+MID_STAGE_TITLE_S0505: Kapitel 4 - Teil 5
+MID_STAGE_TITLE_S0601: Kapitel 5 - Teil 1
+MID_STAGE_TITLE_S0602: Kapitel 5 - Teil 2
+MID_STAGE_TITLE_S0603: Kapitel 5 - Teil 3
+MID_STAGE_TITLE_S0604: Kapitel 5 - Teil 4
+MID_STAGE_TITLE_S0605: Kapitel 5 - Teil 5
+MID_STAGE_TITLE_S0701: Kapitel 6 - Teil 1
+MID_STAGE_TITLE_S0702: Kapitel 6 - Teil 2
+MID_STAGE_TITLE_S0703: Kapitel 6 - Teil 3
+MID_STAGE_TITLE_S0704: Kapitel 6 - Teil 4
+MID_STAGE_TITLE_S0705: Kapitel 6 - Teil 5
+MID_STAGE_TITLE_S0801: Kapitel 7 - Teil 1
+MID_STAGE_TITLE_S0802: Kapitel 7 - Teil 2
+MID_STAGE_TITLE_S0803: Kapitel 7 - Teil 3
+MID_STAGE_TITLE_S0804: Kapitel 7 - Teil 4
+MID_STAGE_TITLE_S0805: Kapitel 7 - Teil 5
+MID_STAGE_TITLE_S0901: Kapitel 8 - Teil 1
+MID_STAGE_TITLE_S0902: Kapitel 8 - Teil 2
+MID_STAGE_TITLE_S0903: Kapitel 8 - Teil 3
+MID_STAGE_TITLE_S0904: Kapitel 8 - Teil 4
+MID_STAGE_TITLE_S0905: Kapitel 8 - Teil 5
+MID_STAGE_TITLE_S1001: Kapitel 9 - Teil 1
+MID_STAGE_TITLE_S1002: Kapitel 9 - Teil 2
+MID_STAGE_TITLE_S1003: Kapitel 9 - Teil 3
+MID_STAGE_TITLE_S1004: Kapitel 9 - Teil 4
+MID_STAGE_TITLE_S1005: Kapitel 9 - Teil 5
+MID_STAGE_TITLE_DIFFICULTY0: Normal
+MID_STAGE_TITLE_DIFFICULTY1: Schwer
+MID_STAGE_TITLE_DIFFICULTY2: Extrem
+MID_STAGE_COMBINE: $a$a0
+MID_STAGE_COMBINE_ARENA_DIFFICULTY: $a$a1: $a0
+MID_STAGE_S0001: Ich rufe dich herbei!
+MID_STAGE_S0002: Die Legende
+MID_STAGE_S0101: Prinz der Goldschwingen
+MID_STAGE_S0102: Beweis der Macht
+MID_STAGE_S0103: Helden im Kampf
+MID_STAGE_S0201: Akaneia - Die Prüfung
+MID_STAGE_S0202: Unbeugsamer Krieger
+MID_STAGE_S0203: Wind und Licht
+MID_STAGE_S0204: Doppel-Kavaliere
+MID_STAGE_S0205: Alteas Prinz
+MID_STAGE_S0301: Nohr - Die Prüfung
+MID_STAGE_S0302: Liebliche Blume
+MID_STAGE_S0303: Gnadenloser Prinz
+MID_STAGE_S0304: Bezaubernde Prinzessin
+MID_STAGE_S0305: Der Prinz von Nohr
+MID_STAGE_S0401: Roys Prüfung
+MID_STAGE_S0402: Zwei Edeldamen
+MID_STAGE_S0403: Wüstendrachen
+MID_STAGE_S0404: Familienbande
+MID_STAGE_S0405: Adel von Pherae
+MID_STAGE_S0501: Ylisse - Die Prüfung
+MID_STAGE_S0502: Klinge und Tänzerin
+MID_STAGE_S0503: Der Hinterhalt
+MID_STAGE_S0504: Überraschender Dörfler
+MID_STAGE_S0505: Ylisses Prinz
+MID_STAGE_S0601: Rückkehr nach Akaneia
+MID_STAGE_S0602: Gefangene Prinzessin
+MID_STAGE_S0603: Ausweglos
+MID_STAGE_S0604: Schwestern der Lüfte
+MID_STAGE_S0605: Wyrmgöttin
+MID_STAGE_S0701: Hoshido - Die Prüfung
+MID_STAGE_S0702: Selbstgefälliger Prinz
+MID_STAGE_S0703: Geradlinige Prinzessin
+MID_STAGE_S0704: Schüchterne Prinzessin
+MID_STAGE_S0705: Der Prinz von Hoshido
+MID_STAGE_S0801: In der Hitze der Prüfung
+MID_STAGE_S0802: Zwei Edelmänner
+MID_STAGE_S0803: Verwirrendes Labyrinth
+MID_STAGE_S0804: Der Hüter
+MID_STAGE_S0805: Edelmänner aus Pherae
+MID_STAGE_S0901: Düsterer Schatten
+MID_STAGE_S0902: Schlummernder Drache
+MID_STAGE_S0903: Hinreißender Kampf
+MID_STAGE_S0904: Rückkehr d. Wyrmgöttin
+MID_STAGE_S0905: Zukünftige Prinzessin
+MID_STAGE_S1001: Loyalität und Ehrgeiz
+MID_STAGE_S1002: Adel und Eitelkeit
+MID_STAGE_S1003: Die Blaue Krähe
+MID_STAGE_S1004: Die Maske
+MID_STAGE_S1005: Prinzessin des Todes
+MID_STAGE_HONOR_T0003: Wyverngeneral
+MID_STAGE_T0003: Narcian
+MID_STAGE_HONOR_U0001: Chaoskönigin
+MID_STAGE_U0001: Felicia
+MID_STAGE_HONOR_U0002: Sanfter Priester
+MID_STAGE_U0002: Wrys
+MID_STAGE_HONOR_U0003: Zarte Schönheit
+MID_STAGE_U0003: Olivia
+MID_STAGE_HONOR_U0004: Grüner Ritter
+MID_STAGE_U0004: Stahl
+MID_STAGE_HONOR_U0005: Nabatas Künderin
+MID_STAGE_U0005: Sophia
+MID_STAGE_HONOR_U0006: Edler Schütze
+MID_STAGE_U0006: Virion
+MID_STAGE_HONOR_U0007: Die Disziplinierte
+MID_STAGE_U0007: Hana
+MID_STAGE_HONOR_U0008: Perfekter Experte
+MID_STAGE_U0008: Subaki
+MID_STAGE_HONOR_U0009: Dörflerheld
+MID_STAGE_U0009: Donnel
+MID_STAGE_HONOR_U0010: Die Lebhafte
+MID_STAGE_U0010: Lissa
+MID_STAGE_HONOR_U0011: Eiserne Hand
+MID_STAGE_U0011: Gunter
+MID_STAGE_HONOR_U0012: Etrurias Generalin
+MID_STAGE_U0012: Cecilia
+MID_STAGE_HONOR_V0001: Zur Veröffentlichung
+MID_STAGE_V0001: Teil 1
+MID_STAGE_HONOR_V0002: Zur Veröffentlichung
+MID_STAGE_V0002: Teil 2
+MID_STAGE_E0000: Eingangsstufe
+MID_STAGE_E0001: Erste Stufe
+MID_STAGE_E0002: Zweite Stufe
+MID_STAGE_E0003: Dritte Stufe
+MID_STAGE_E0004: Vierte Stufe
+MID_STAGE_E0005: Fünfte Stufe
+MID_STAGE_E0006: Sechste Stufe
+MID_STAGE_E0007: Siebte Stufe
+MID_STAGE_E0008: Achte Stufe
+MID_STAGE_E0009: Neunte Stufe
+MID_STAGE_E0010: Zehnte Stufe
+MID_Summon_00_first_A: Fokus: Legendäre Helden
+MID_Summon_00_first_B: Fokus: Tiefe Hingabe
+MID_TIPS_0001: Infanterie, Flieger, Reiter und gepanzerte\nEinheiten haben verschiedene\nBewegungsarten.\n\nInfanterie und gepanzerte Einheiten\nsehen ähnlich aus, können sich aber\nunterschiedlich weit bewegen.
+MID_TIPS_0002: Gepanzerte Einheiten haben eine\nausgezeichnete Verteidigung.\n\nSie können aber nur 1 Feld auf einmal\nzurücklegen.
+MID_TIPS_0003: Flieger können sich 2 Felder weit\nbewegen und auch über Wasser\nund Berge fliegen.\n\nSie sind aber schwach gegenüber\nPfeilen.
+MID_TIPS_0004: Reiter können sich 3 Felder weit\nbewegen.\n\nSie können aber nicht durch Wälder\nreiten.
+MID_TIPS_0005: Möchtest du, dass deine Einheiten\nautomatisch kämpfen? Benutze den\nAuto-Kampf.\n\nÖffne im Kampf das Menü unten links\nund wähle Auto-Kampf aus.
+MID_TIPS_0005_02: Mit der Auto-Kampf-Option kämpfen\ndeine Verbündeten automatisch.\n\nDrücke im Kampf die Schaltfläche\n"Auto-Kampf", um sie zu aktivieren.
+MID_TIPS_0006: Tippe unten auf dem Bildschirm\nauf "Tausch", um die Aufstellung\ndeiner Einheiten vor Kampfbeginn\nzu ändern.\n\nDu kannst weitere Änderungen\nvornehmen, bis jemand eine\nAktion abschließt.
+MID_TIPS_0007: Du kannst Sphären und andere Items\nverdienen, indem du Quests abschließt.\n\nBerühre den Brunnen rechts unten\nin deinem Schloss, um dir die\nneusten Quests anzusehen.
+MID_TIPS_0008: Mache deine Helden stärker, indem du\nFP sparst und neue Fähigkeiten damit\nlernst.\n\nWähle "Fähigkeiten lernen" unter "Einh."\naus, um neue Fähigkeiten zu lernen.
+MID_TIPS_0008_02: Mache deine Helden stärker, indem du\nFP sparst und neue Fähigkeiten damit\nlernst.\n\nWähle "Fähigkeiten lernen" unter\n"Einheiten-Training" im "Einh."-Menü\naus, um neue Fähigkeiten zu lernen.
+MID_TIPS_0009: Mit "Fähigkeit erben" kannst du deinen\nHelden auf eine andere Art Fähigkeiten\nbeibringen.\n\nDu findest diese Option im Menü "Einh."\nunter "Erweitertes Training".
+MID_TIPS_0009_02: Mit "Fähigkeit erben" kannst du deinen\nHelden auf eine andere Art Fähigkeiten\nbeibringen.\n\nDu findest diese Option im Menü "Einh."\nunter "Einheiten-Training".
+MID_TIPS_0010: Benutze "Potential freisetzen", um\ndeinen Verbündeten 5★ zu verleihen.\n\nDu findest diese Option im Menü "Einh."\nunter "Erweitertes Training".
+MID_TIPS_0010_02: Benutze "Potential freisetzen", um\ndeinen Verbündeten 5 ★ zu verleihen.\n\nDu findest diese Option im Menü "Einh."\nunter "Einheiten-Training".
+MID_TIPS_0011: Du kannst die Kampfanimationen\nauch deaktivieren.\n\nÖffne das Menü unten links im Kampf\nund wähle dann Einstellungen, um\nÄnderungen vorzunehmen.
+MID_TIPS_0012: Du kannst dein Schloss aufwerten!\nRenoviere sein Innenleben, um mehr\nErf. im Kampf zu erhalten.\n\nWähle "Schloss aufwerten" im\nLadenmenü aus, um dir die\nMöglichkeiten anzusehen.
+MID_TIPS_0013: Du wirst vom Team im Platz ganz links\nunter "Teams erstellen" repräsentiert.\nEs wird auch in der Arena verwendet.\n\nDie Einheit ganz links führt das Team\nan.
+MID_TIPS_0014: Du kannst mehr Schaden verursachen,\nwenn du einen Waffenvorteil hast. Die\nZahlen werden dann größer angezeigt.\n\nDu kannst dir im Kampf unten rechts die\nWaffenvorteile der drei Farbarten\nansehen.
+MID_TIPS_0015: Sei vorsichtig, wenn du ein Symbol über\neinem Gegner siehst, nachdem du einen\nVerbündeten im Kampf angetippt hast.\nEs zeigt die Effektivität des Verbündeten\ngegen diesen Gegner an.\n\nBögen sind zum Beispiel wirksam gegen\nFlieger. Andere Waffen, wie das\nFalchion, sind gut gegen andere Feinde.
+MID_TIPS_0016: Du musst einen Nintendo-Account\nverknüpfen, wenn du auf einem anderen\nGerät auf deine Daten zugreifen\nmöchtest. Wenn du die App ohne\nVerknüpfen löschst, gehen deine\nSpeicherdaten verloren. Du kannst\neinen Account über die Kontoverwaltung\nunter "Sonst." verknüpfen.
+MID_TIPS_0013_02: Der Übungsturm ist der beste\nOrt zum Aufleveln von Helden.\n\nDort kannst du mehr Erf. und\nFP verdienen als in der Arena\noder durch andere Karten.
+MID_TIPS_0017: Der Übungsturm ist der beste\nOrt zum Aufleveln von Helden.\nTippe links neben dem ? auf\nAktualisieren, um die Gegner\nzu ändern.\nÜberlege dir vor dem Kampf,\nwelchen Gegnern gegenüber\ndein Team im Vorteil ist.
+MID_TIPS_0018: Stärke Verbündete mit der\nVerbündetenhilfe! Die Werte\neinander zugewiesener Ver-\nbündeter werden erhöht,\nwenn diese auf dem Schlacht-\nfeld nebeneinander kämpfen.\nDie Verbündetenhilfe befindet\nsich unter Erweitertes Training\nim Verbündeten-Menü.
+MID_TIPS_0018_02: Stärke Verbündete mit der\nVerbündetenhilfe! Die Werte\neinander zugewiesener Ver-\nbündeter werden erhöht,\nwenn diese auf dem Schlacht-\nfeld nebeneinander kämpfen.\nDie Verbündetenhilfe befindet\nsich unter "Einheiten-Interaktion"\nim Verbündeten-Menü.

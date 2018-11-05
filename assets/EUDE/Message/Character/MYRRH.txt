@@ -1,0 +1,38 @@
+[Heroes Archive] (MYRRH)
+
+
+Heroes Message Name: Message
+
+
+MID_MYRRH_HOME1: Vater... Bruder... Ich vermisse euch.
+MID_MYRRH_HOME2: Der Düsterwald, in dem ich geboren\nwurde, ist ein sehr friedlicher Ort.\nNun, zumindest war er es damals...
+MID_MYRRH_HOME3: Geht es dir gut? Nein, nein...\nKeine Sorge. Du kamst mir\nnur gerade so traurig vor.
+MID_MYRRH_HOME4: Ähm... Ich hätte da eine Bitte...\nKönntest du auf mich aufpassen,\nwährend ich ein Nickerchen mache?$k$pIch schlafe nicht gern allein.
+MID_MYRRH_HOME5: Ich habe mir eben den\nHimmel angesehen. Was\nfür ein schönes Blau...$k$pIch frage mich, ob er bis zu\ndem Wald reicht, aus dem\nich komme.
+MID_MYRRH_FRIEND: Ich bin Myrrh. Ich bringe Grüße\nvon $Nf...$k$pAch ja, und von mir auch\neinen schönen Gruß.
+MID_MYRRH_LEVEL1: Das war gut von mir, oder? Du\nmusst mich aber nicht streicheln.
+MID_MYRRH_LEVEL2: Ich werde es weiter versuchen.
+MID_MYRRH_LEVEL3: Hm... Hat sich überhaupt\netwas geändert?
+MID_MYRRH_SKILL: Kommt diese Kraft von\ndir... oder von Bestien?
+MID_MYRRH_JOIN: Ich bin Myrrh aus dem Düsterwald.\nWas? Man fragt eine Frau nicht nach\nihrem Alter. Das hat Ephraim gesagt.$k$pDu bist ganz schön taktlos.
+MID_MYRRH_STRONGEST: Du machst dir oft Sorgen um\nmich, nicht wahr? Es geht mir\ngut. Wirklich.$k$pJeden Tag werden Leute geboren.\nSie lachen, sie weinen, und\nirgendwann... sterben sie.$k$pIch habe es so oft miterlebt...$k$pDrachen sind Bestien und Nicht-\nbestien zugleich. Und so gehören\nwir keiner Gemeinschaft wirklich an.$k$pFrüher hat mich das traurig gemacht,\naber jetzt nicht mehr. Ich glaube,\ndass es so am besten ist.$k$pIch werde über alle wachen, bis zum\nbitteren Ende... Und ich werde mit\nden Erinnerungen an sie leben.$k$pDu bemühst dich mehr als jeder\nandere, das freut mich zu sehen.$k$pIch verspreche dir, dass ich\ndich für immer in Erinnerung\nbehalten werde.
+MID_MYRRH_VOICE01: えい
+MID_MYRRH_VOICE02: それ
+MID_MYRRH_VOICE03: きゃああっ！
+MID_MYRRH_VOICE04: だめです…
+MID_MYRRH_VOICE05: Ich bin ein Drache!
+MID_MYRRH_VOICE06: Zum Schutze aller!
+MID_MYRRH_VOICE07: Ich werde sie beschützen.
+MID_MYRRH_VOICE08: Ich werde nicht verlieren.
+MID_MYRRH_VOICE09: I'm so sorry...
+MID_MYRRH_VOICE10: ふふ…
+MID_MYRRH_VOICE11: My name's Myrrh. I sensed something ominous, so I left home to pursue it.
+MID_MYRRH_VOICE12: Hmph. I think it's very rude to try and sneak up on a lady like that.
+MID_MYRRH_VOICE13: This stone is very important. I take great care not to lose it.
+MID_MYRRH_VOICE14: Sometimes, in war... We must take up arms against nice people... I grieve for them.
+MID_MYRRH_VOICE15: For some reason, when I see you speaking with other people, it makes my chest feel...funny...
+MID_MYRRH_VOICE16: What is this feeling?
+MID_MYRRH_VOICE17: Can you tell me how I'll know...if I'm in love?
+MID_MYRRH_VOICE18: Yes?
+MID_MYRRH_VOICE19: This way?
+MID_MYRRH_VOICE20: That way.

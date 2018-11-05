@@ -1,0 +1,38 @@
+[Heroes Archive] (SOIREE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOIREE_HOME1: Vuestra comandante parece una tipa\nbastante dura. ¡Me cae bien! Quizá\naprenda algo de ella y todo...
+MID_SOIREE_HOME2: Por mucho que cambie el mundo,\nal final siempre es la misma historia:\nhay que pelear para mantener la paz.
+MID_SOIREE_HOME3: Me han dicho que no participas en los\ncombates, pero eso no significa que\nno puedas aprender a defenderte.$k$pYo te enseñaré. Y no te preocupes...\n¡como mucho te romperé un par\nde costillas!
+MID_SOIREE_HOME4: Suelo ir en caballo al bosque para\nrelajarme un poco. Si te aburres,\nte dejo que vengas conmigo un día.
+MID_SOIREE_HOME5: ¡Menudo entrenamiento! Yo nací en\nel seno de una familia de caballeros,\npero ¡me queda mucho que aprender!
+MID_SOIREE_FRIEND: Buenas. Solo estoy aquí porque\nme ha pedido que venga a saludarte\n$Nf.
+MID_SOIREE_LEVEL1: ¡Bien! Ya decía yo que entrenar\ntanto tenía que servir para algo.
+MID_SOIREE_LEVEL2: No está mal, pero no me\nconformo.
+MID_SOIREE_LEVEL3: ¡Maldita sea! Tendría que haber\nentrenado más.
+MID_SOIREE_SKILL: ¡A quebrar huesos! ¿O ya no\nes esa mi labor?
+MID_SOIREE_JOIN: Buenas. Soy Sully y formo parte de\nlos Custodios. ¿Necesitas que le\narree un buen sopapo a alguien?
+MID_SOIREE_STRONGEST: ¡Mira a quién tenemos por aquí!\nOye, ¿volverás a apoyarnos hoy en\nla batalla? Bien, me alegra oírlo...$k$pPara mí lo de luchar y ponerme a\nprueba es una motivación, ¿sabes?\nMe gusta que mis rivales me teman.$k$pYa sé que tú no luchas cuerpo a\ncuerpo, pero aun así inspiras terror\nen las filas del enemigo.$k$pY eso levanta la moral de las tropas.\n¡Ojalá algún día puedan decir lo\nmismo de mí! Ese es mi sueño.$k$pPero para que se cumpla tendré que\naprender mucho de ti. ¡Ya verás\nla chapa que te voy a dar!
+MID_SOIREE_VOICE01: てやっ！
+MID_SOIREE_VOICE02: このおっ！
+MID_SOIREE_VOICE03: うわっ！
+MID_SOIREE_VOICE04: Damn!
+MID_SOIREE_VOICE05: ¡Te voy a dar lo tuyo!
+MID_SOIREE_VOICE06: ¡Vete al infierno!
+MID_SOIREE_VOICE07: ¡Lo llevas claro!
+MID_SOIREE_VOICE08: ¡Muere, maldita sea!
+MID_SOIREE_VOICE09: You beat me.
+MID_SOIREE_VOICE10: Haha
+MID_SOIREE_VOICE11: You ready to be my sparring partner?
+MID_SOIREE_VOICE12: A lot of guys have underestimated me. They're dead now.
+MID_SOIREE_VOICE13: Hey, come train with me! I'll go easy on ya.
+MID_SOIREE_VOICE14: Just so we're clear... I am not cut out for kitchen duty.
+MID_SOIREE_VOICE15: My horse is a beaut, right? Best partner I could ask for.
+MID_SOIREE_VOICE16: Gotta train hard if I'm gonna match the Bull. That guy was a legend.
+MID_SOIREE_VOICE17: I'll protect you on the field—you just focus on giving orders.
+MID_SOIREE_VOICE18: Yeah.
+MID_SOIREE_VOICE19: Got it.
+MID_SOIREE_VOICE20: Let's go.

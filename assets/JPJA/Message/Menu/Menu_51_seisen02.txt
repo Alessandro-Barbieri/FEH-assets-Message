@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: ◆スコア◆\n勝利すると、相手の強さに応じた\nスコアが入ります。\n\n連勝中は、直前の勝利スコアを\n連勝ボーナスとして加算できます。\n※連勝ボーナスは、\n　５連勝でリセットされます。
+MID_ARENA_DIALOG_HELP_04_51: ◆報酬◆\nシーズン終了後に\n階級に応じた\n報酬が与えられます。\n\nハイスコアが優れていると\n階級が上昇することがあります。
+MID_ARENA_DIALOG_HELP_06_51: ◆ボーナスキャラの能力アップ◆\nボーナスキャラは、闘技場の中でのみ、\n能力がアップします。\n（ＨＰ＋１０、攻撃速さ守備魔防＋４）\n\n※この能力アップは、マッチングする\n　敵のスコアには影響しません。\n※防衛時は、能力アップしません。
+MID_ARENA_DIALOG_HELP_3_00_51: ◆報酬確認◆\n今シーズンの報酬を確認できます。\n\nフィルタを切り替えると\n「防衛」、「階級」の\n報酬を確認できます。
+MID_ARENA_DIALOG_HELP_3_01_51: ◆防衛◆\n防衛のハイスコア報酬の一覧です。
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $a闘技場・初回$a0連勝報酬
+MID_ARENA_DESCRIPTION_51: 世界のライバルたちに挑戦し、\n報酬を得られる腕試しの場です。\n英雄と共に5連勝を目指しましょう。
+MID_ARENA_COMBO_CAPTION2: $a連勝数 $a0/$a2　連勝ボーナス＋$a1！
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: 戦闘を開始することができません。\n祝福付与メニューへ行きますか？
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: 「ファイアーエムブレム ヒーローズ」では\nお客様向けにカスタマイズされたサービスの提供\nおよび広告の配信ならびにクラッシュ情報の\n分析のためにお客様の本アプリの利用情報の\n取得を行うことがあります。\n\nお客様からの利用情報の送信は停止されています。\n\n※本アプリ外での広告の配信自体を停止するには\nお使いの端末の設定を変更してください。
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $a大制圧階級$a0で開放
+MID_SUMMON_ONLY_ONCE_DECIDE: 無料 ★５召喚
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: 召喚師をタップして攻撃！
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: ラインをタップして攻撃！
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: エクストラステージ
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $a$a0のボス
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a0 $a1
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ？？？
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: 曲名
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: エクストラステージ１
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: エクストラステージ２
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: エクストラステージ３
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $a解放まであと$a0分
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $a解放まであと$a0時間
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $a解放まであと$a0日
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a【$a0】\n$a1／$a2の\n全ステージで\nプレイ評価「Ｓ」を獲得しました！
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a【$a0】\n$a1／$a2の\n全エクストラステージで\nプレイ評価「Ｓ」を獲得しました！
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: １００階ダンジョンを\n第２０階層までクリアすると\nエクストラステージが遊べます。
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0は\nあと$a1分で出現！
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0は\nあと$a1時間で出現！
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0は\nあと$a1日で出現！
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: 継続感謝のプレゼント

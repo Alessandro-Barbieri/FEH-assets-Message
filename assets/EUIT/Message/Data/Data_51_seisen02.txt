@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: Esercizi: armi
+MID_MISSION_S201805ARM01_A1: Vinci con spada
+MID_MISSION_H_S201805ARM01_A1: Sconfiggi i nemici con un alleato armato\ndi spada.
+MID_MISSION_S201805ARM01_A2: Vinci con lancia
+MID_MISSION_H_S201805ARM01_A2: Sconfiggi i nemici con un alleato armato\ndi lancia.
+MID_MISSION_S201805ARM01_A3: Vinci con ascia
+MID_MISSION_H_S201805ARM01_A3: Sconfiggi i nemici con un alleato armato\ndi ascia.
+MID_MISSION_S201805ARM01_A4: Vinci con arco neutro
+MID_MISSION_H_S201805ARM01_A4: Sconfiggi i nemici con un alleato armato\ndi arco neutro.
+MID_MISSION_S201805ARM01_A5: Vinci con pugnale
+MID_MISSION_H_S201805ARM01_A5: Sconfiggi i nemici con un alleato armato\ndi pugnale.
+MID_MISSION_S201805ARM01_A6: Vinci con tomo rosso
+MID_MISSION_H_S201805ARM01_A6: Sconfiggi i nemici con un alleato armato\ndi tomo rosso.
+MID_MISSION_S201805ARM01_A7: Vinci con tomo blu
+MID_MISSION_H_S201805ARM01_A7: Sconfiggi i nemici con un alleato armato\ndi tomo blu.
+MID_MISSION_S201805ARM01_A8: Vinci con tomo verde
+MID_MISSION_H_S201805ARM01_A8: Sconfiggi i nemici con un alleato armato\ndi tomo verde.
+MID_MISSION_S201805ARM01_A9: Vinci con bastone
+MID_MISSION_H_S201805ARM01_A9: Sconfiggi i nemici con un alleato armato\ndi bastone.
+MID_MISSION_S201805ARM01_A10: Spada batte nem. 35+
+MID_MISSION_H_S201805ARM01_A10: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di spada.
+MID_MISSION_S201805ARM01_A11: Lancia batte nem. 35+
+MID_MISSION_H_S201805ARM01_A11: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di lancia.
+MID_MISSION_S201805ARM01_A12: Ascia batte nem. 35+
+MID_MISSION_H_S201805ARM01_A12: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di ascia.
+MID_MISSION_S201805ARM01_A13: Arco N batte nem. 35+
+MID_MISSION_H_S201805ARM01_A13: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di arco neutro.
+MID_MISSION_S201805ARM01_A14: Pugnale batte nem. 35+
+MID_MISSION_H_S201805ARM01_A14: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di pugnale.
+MID_MISSION_S201805ARM01_A15: Tomo R batte nem. 35+
+MID_MISSION_H_S201805ARM01_A15: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di tomo rosso.
+MID_MISSION_S201805ARM01_A16: Tomo B batte nem. 35+
+MID_MISSION_H_S201805ARM01_A16: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di tomo blu.
+MID_MISSION_S201805ARM01_A17: Tomo V batte nem. 35+
+MID_MISSION_H_S201805ARM01_A17: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di tomo verde.
+MID_MISSION_S201805ARM01_A18: Bastone batte nem. 35+
+MID_MISSION_H_S201805ARM01_A18: Sconfiggi nemici di livello 35 o superiore\ncon un alleato armato di bastone.
+MID_MISSION_S201805DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201805DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201805DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201805DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201805DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201805DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201805DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201805DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201805DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201805DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201805DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201805DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201805DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201805STORY01_TITLE: L'inferno in terra
+MID_MISSION_S201805STORY01_A1: Completa 9-1 folle
+MID_MISSION_H_S201805STORY01_A1: Completa il libro II, cap. 9-1 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY01_A2: Completa 9-2 folle
+MID_MISSION_H_S201805STORY01_A2: Completa il libro II, cap. 9-2 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY01_A3: Completa 9-3 folle
+MID_MISSION_H_S201805STORY01_A3: Completa il libro II, cap. 9-3 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY01_A4: Completa 9-4 folle
+MID_MISSION_H_S201805STORY01_A4: Completa il libro II, cap. 9-4 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY01_A5: Completa 9-5 folle
+MID_MISSION_H_S201805STORY01_A5: Completa il libro II, cap. 9-5 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201805TAPBTL01_D01_A1: Batti Elise
+MID_MISSION_H_S201805TAPBTL01_D01_A1: Sconfiggi il boss Elise alla difficoltà normale\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201805TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201805TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201805TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201805TAPBTL01_D02_A1: Batti Elise
+MID_MISSION_H_S201805TAPBTL01_D02_A1: Sconfiggi il boss Elise alla difficoltà difficile\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201805TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201805TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201805TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201805TAPBTL01_D03_A1: Batti Mae
+MID_MISSION_H_S201805TAPBTL01_D03_A1: Sconfiggi il boss Mae alla difficoltà normale\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201805TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201805TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201805TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201805TAPBTL01_D04_A1: Batti Mae
+MID_MISSION_H_S201805TAPBTL01_D04_A1: Sconfiggi il boss Mae alla difficoltà difficile\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201805TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201805TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201805TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201805TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201805TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201805TAPBTL02_A1: Batti boss
+MID_MISSION_H_S201805TAPBTL02_A1: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201805TAPBTL02_A2: Batti boss
+MID_MISSION_H_S201805TAPBTL02_A2: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201805TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201805TAPBTL02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201805TAPBTL02_A4: Supera fase extra 1
+MID_MISSION_H_S201805TAPBTL02_A4: Completa la fase extra 1 in Battaglia tattile.\nPuoi giocare la fase extra 1 dopo lo sblocco\ndelle fasi extra.
+MPID_ユルグ: Ylgr
+MPID_ヘルビンディ: Helbindi
+MEID_ヘルビンディ: Helbindi
+MEID_HONOR_ヘルビンディ: Il flagello ferino
+MEID_H_ヘルビンディ: Generale di Múspell, il regno del fuoco.\nRude e selvaggio. Nonostante le umili\norigini, ha scalato le gerarchie grazie\nal suo talento in battaglia.
+MEID_VOICE_ヘルビンディ: Raymond K. Essel
+MEID_ILLUST_ヘルビンディ: Maeshima Shigeki (前嶋重機)
+MPID_アレス: Ares
+MPID_イシュタル: Ishtar
+MPID_リーン: Lene
+MPID_ユリウス: Julius
+MPID_HONOR_アレス: Il nero erede
+MPID_HONOR_イシュタル: La dea del tuono
+MPID_HONOR_リーン: La musa del ballo
+MPID_HONOR_ユリウス: L'oscura progenie
+MPID_H_アレス: Figlio di Eldigan, da cui ha ereditato\nMystletainn. Dopo la morte dei genitori,\nsi è unito ai mercenari di Javarro. Compare\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_イシュタル: Ha ereditato Mjölnir, e il sangue della famiglia\nreale di Friege scorre in lei. Il suo amato Julius\nabbraccia le tenebre e ciò la turba. Compare\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_リーン: Danzatrice e discendente del gran sacerdote\nBragi. Sa come funziona il mondo e non ne\nè scoraggiata. Compare in Fire Emblem:\nGenealogy of the Holy War.
+MPID_H_ユリウス: Principe dell'Impero di Grannvale. L'animo\ngentile che aveva da bambino ha lasciato il\npasso a uno freddo e crudele. Compare in\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_アレス: Robbie Daymond
+MPID_VOICE_イシュタル: Ratana
+MPID_VOICE_リーン: Faye Mata
+MPID_VOICE_ユリウス: Griffin Burns
+MPID_ILLUST_アレス: PenekoR (п猫Ｒ)
+MPID_ILLUST_イシュタル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_リーン: Yoshiku (四々九)
+MPID_ILLUST_ユリウス: sachie (茶ちえ)
+MSID_ロムファイア: Romfaia
+MSID_カミラの艶斧: Ascia di Camilla
+MSID_第10迷宮の覇者1: Asso squadra J1
+MSID_第10迷宮の覇者2: Asso squadra J2
+MSID_第10迷宮の覇者3: Asso squadra J3
+MSID_魔剣ミストルティン: Lama demoniaca
+MSID_守りの剣: Salvaguardia
+MSID_守りの剣＋: Salvaguardia+
+MSID_ビューレイスト: Býleistr
+MSID_ロプトウス: Loptous
+MSID_トールハンマー: Mjölnir
+MSID_守備魔防封じ1: Sigilla Dif/Res 1
+MSID_守備魔防封じ2: Sigilla Dif/Res 2
+MSID_業火疾風の舞い1: Danza incendio 1
+MSID_業火疾風の舞い2: Danza incendio 2
+MSID_攻撃の波・奇数1: Att dispari 1
+MSID_攻撃の波・奇数2: Att dispari 2
+MSID_攻撃の波・奇数3: Att dispari 3
+MSID_H_ロムファイア: Efficace contro le unità corazzate e a cavallo.
+MSID_H_カミラの艶斧: Se l'unità si trova entro 2 spazi\nda un alleato a cavallo o volante,\nAtt/Vel +4 durante lo scontro.
+MSID_H_夜刀神改: Conferisce Att/Vel/Dif/Res +2.
+MSID_H_大紋章R騎飛刃3: Att/Vel +3 agli alleati a cavallo e volanti\nentro 2 spazi durante lo scontro.
+MSID_H_不思議な魅力R4: Se l'unità si trova entro 2 spazi dal partner,\nAtt/Vel/Dif/Res +4 a tale alleato durante\nlo scontro.
+MSID_H_第10迷宮の覇者1: Conferisce Att +1.
+MSID_H_第10迷宮の覇者2: Conferisce Att +2.
+MSID_H_第10迷宮の覇者3: Conferisce Att +3.
+MSID_H_魔剣ミストルティン: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'abilità speciale si attiva\nprima o durante il combattimento, contatore\n-2 dopo lo scontro.
+MSID_H_守りの剣: Se il nemico attacca per primo,\nDif +7 durante lo scontro.
+MSID_H_守りの剣＋: Se il nemico attacca per primo,\nDif +7 durante lo scontro.
+MSID_H_ビューレイスト: Att/Vel/Dif/Res +4 all'unità e agli alleati\nadiacenti all'inizio dei turni dispari per\n1 turno (se non ci sono alleati adiacenti,\nsolo all'unità).
+MSID_H_ロプトウス: Conferisce Res +3. L'unità è vulnerabile alle\nabilità efficaci contro i draghi. Se il nemico non\nha tali abilità, subisce Att -6 durante lo scontro.
+MSID_H_トールハンマー: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità attacca per prima,\nVel +6 durante lo scontro.
+MSID_H_守備魔防封じ1: Infligge Dif/Res -3 al nemico durante la sua\nprossima azione dopo lo scontro.
+MSID_H_守備魔防封じ2: Infligge Dif/Res -5 al nemico durante la sua\nprossima azione dopo lo scontro.
+MSID_H_業火疾風の舞い1: Se vengono usati Canto o Danza,\nAtt/Vel +2 al bersaglio.
+MSID_H_業火疾風の舞い2: Se vengono usati Canto o Danza,\nAtt/Vel +3 al bersaglio.
+MSID_H_攻撃の波・奇数1: Att +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_攻撃の波・奇数2: Att +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_攻撃の波・奇数3: Att +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MID_CHAPTER_TITLE_C0209: Libro II, cap. 9
+MID_CHAPTER_C0209: L'inferno in terra
+MID_STAGE_TITLE_S2091: Capitolo 9-1
+MID_STAGE_TITLE_S2092: Capitolo 9-2
+MID_STAGE_TITLE_S2093: Capitolo 9-3
+MID_STAGE_TITLE_S2094: Capitolo 9-4
+MID_STAGE_TITLE_S2095: Capitolo 9-5
+MID_STAGE_S2091: Il guardiano infernale
+MID_STAGE_S2092: La lama demoniaca
+MID_STAGE_S2093: La dea del tuono
+MID_STAGE_S2094: La danzatrice del fuoco
+MID_STAGE_S2095: Nella bocca degli inferi
+MID_STAGE_TITLE_SB_0010: 10º assalto
+MID_STAGE_HONOR_T0031: L'oscura progenie
+MID_STAGE_T0031: Julius
+MID_STAGE_HONOR_Q0010: Settimanali
+MID_STAGE_Q0010: Lotta di potere
+MID_STAGE_HONOR_Q0011: Settimanali
+MID_STAGE_Q0011: Lotta di potere
+MID_STAGE_HONOR_Q0012: Settimanali
+MID_STAGE_Q0012: Lotta di potere
+MID_STAGE_HONOR_Q0013: Settimanali
+MID_STAGE_Q0013: Lotta di potere
+MID_STAGE_TITLE_BG_WATER_0008: Acqua 8
+MID_STAGE_BG_WATER_0008: Ponte
+MID_STAGE_TITLE_BG_WIND_0007: Vento 7
+MID_STAGE_BG_WIND_0007: Colonnato
+MID_STAGE_TITLE_BG_EARTH_0007: Terra 7
+MID_STAGE_BG_EARTH_0007: Colonnato
+MID_STAGE_TITLE_BG_FIRE_0007: Fuoco 7
+MID_STAGE_BG_FIRE_0007: Colonnato
+MID_TAP_BATTLE_DATA_TITLE_0004: Santuario delle maghe
+MID_MUSIC_NAME_BGM_MAP_FE15_02: Benedetti da Mila
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: All'attacco!
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: Tuo è il destino, tua è la scelta

@@ -1,0 +1,38 @@
+[Heroes Archive] (THANY)
+
+
+Heroes Message Name: Message
+
+
+MID_THANY_HOME1: 我的老家伊利亞很冷。\n跟伊利亞比起來，\n這裡還算暖和吧～
+MID_THANY_HOME2: 我是三姊妹的老么！\n我上面有優諾姊姊，\n還有蒂特姊姊！
+MID_THANY_HOME3: 你想跟我講話啊？\n好啊，要聊什麼呢！？\n我想想喔……
+MID_THANY_HOME4: 你想騎我的飛馬？\n可以啊，請吧！\n騎起來很舒服喔！
+MID_THANY_HOME5: 不可以太超過前線！就像這樣，\n我以前老是惹人家生氣喔～\n如果我又犯了，先跟你說聲抱歉喔。
+MID_THANY_FRIEND: 啊，$Nu？\n是$Nf拜託我\n來跟你問候一聲的喔！
+MID_THANY_LEVEL1: 嗯，這樣的話，\n不管遇到敵人，好像都贏得了耶！
+MID_THANY_LEVEL2: 呵呵，我成功變得跟姐姐她們\n一樣了嗎？
+MID_THANY_LEVEL3: 這、這樣的話，我會永遠\n都只是個見習騎士……
+MID_THANY_SKILL: 我不想再被人家說\n我是見習天馬騎士了！
+MID_THANY_JOIN: 我是伊利亞天馬騎士團的夏妮。\n話是這麼說沒錯啦，但我還是見習騎士喔！\n耶嘿嘿！
+MID_THANY_STRONGEST: 我常被別人說很愛撒嬌，\n不過……$k$p自從跟你們作戰之後……\n我覺得我好像稍微成熟一點了。$k$p啊！你剛剛在想\n我看起來完全沒變對不對！？\n想裝蒜也沒用～！$k$p都寫在你臉上了啦……\n不過，既然如此……$k$p嘿嘿！我稍微……\n跟你撒嬌一下也沒關係吧？
+MID_THANY_VOICE01: 嘿～！
+MID_THANY_VOICE02: 喝！
+MID_THANY_VOICE03: 呀啊～！
+MID_THANY_VOICE04: 過分～
+MID_THANY_VOICE05: 我要上囉。
+MID_THANY_VOICE06: 必殺！
+MID_THANY_VOICE07: 沒事沒事。
+MID_THANY_VOICE08: 我才不會輸呢！
+MID_THANY_VOICE09: 姊姊……對不起……
+MID_THANY_VOICE10: 啊哈哈。
+MID_THANY_VOICE11: 有～！怎麼了怎麼了？
+MID_THANY_VOICE12: 呀！？嚇我一跳。
+MID_THANY_VOICE13: 啊！隊長！
+MID_THANY_VOICE14: 隊長，你有乖乖吃飯嗎？
+MID_THANY_VOICE15: 我的老家是個非常寒冷的地方。
+MID_THANY_VOICE16: 我好想帥氣地飛行看看喔～！
+MID_THANY_VOICE17: 隊長，改天帶我去你的老家吧。
+MID_THANY_VOICE18: 嗯！
+MID_THANY_VOICE19: 我知道囉！
+MID_THANY_VOICE20: 我會努力的。

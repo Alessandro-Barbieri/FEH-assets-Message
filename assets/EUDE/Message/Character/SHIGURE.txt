@@ -1,0 +1,38 @@
+[Heroes Archive] (SHIGURE)
+
+
+Heroes Message Name: Message
+
+
+MID_SHIGURE_HOME1: Hier versammeln sich so viele Leute\naus so vielen Welten... Wie sieht die\nLandschaft aus, wo du herkommst?
+MID_SHIGURE_HOME2: Ich wuchs im Geheimen Reich auf,\naber all meine Freunde und alle, die\nsich um mich gekümmert haben...$k$pSie alle verloren ihr Leben, als der\nFeind zuschlug.
+MID_SHIGURE_HOME3: Würdest du lieber mit mir auf meinem\nPegasus reiten, statt hier zu Fuß\ndeinen Rundgang zu machen?$k$pStell dir nur vor - ein Ausritt am\nHimmel! Außerdem ist der Wind\ndort oben sehr erfrischend.
+MID_SHIGURE_HOME4: Wollen wir uns gemeinsam ein wenig\ndie Landschaft ansehen?$k$pIch möchte mich später an alle Details\ndieser Welt erinnern können.
+MID_SHIGURE_HOME5: Ich habe gerade ein Bild gemalt.$k$pIch glaube, ich habe ein passendes\nMotiv gefunden - einen großen\nHelden aus einer anderen Welt...
+MID_SHIGURE_FRIEND: Ich bin hergeflogen, um dir schöne\nGrüße auszurichten - und zwar von\n$Nf.
+MID_SHIGURE_LEVEL1: Das ist ja wie auf\nWolke sieben!
+MID_SHIGURE_LEVEL2: Das schreit nach\neinem Lied!
+MID_SHIGURE_LEVEL3: Nicht gerade eine\nGlanzleistung...
+MID_SHIGURE_SKILL: Welch wunderschöne Macht...\nIch danke dir.
+MID_SHIGURE_JOIN: Es ist schön, dich zu treffen. Ich bin\nShigure, der Sohn von Azura.$k$pIch bin ein fähiger Sänger, aber auf\ndem Schlachtfeld helfe ich dir mit der\nLanze vom Rücken meines Pegasus.
+MID_SHIGURE_STRONGEST: Schön, dich zu sehen. Brauchst du\nmich für eine Mission? Oder willst du\nmit mir Regenbögen betrachten?$k$pIch bin gern allein, aber es ist auch\nsehr angenehm, Zeit mit dir zu\nverbringen. Vielleicht, weil...$k$pNun, du bist eben nicht sonderlich\ngesprächig.$k$pIch habe dich ins Herz geschlossen.$k$pHoffentlich vergisst du mich nicht,\nwenn sich unsere Wege einst\ngetrennt haben.$k$pNichts würde mich glücklicher\nmachen, als wenn du dich meiner\nerinnerst,$k$psobald du in den Himmel blickst\noder ein Lied hörst.$k$pVielleicht ist es etwas egoistisch, als\neinfacher Held so etwas von $Geinem,einer|\n$GBeschwörer,Beschwörerin| zu verlangen, aber...$k$pDies sind nun mal meine Gefühle,\nund ich wollte sie dir gern mitteilen.
+MID_SHIGURE_VOICE01: はいっ
+MID_SHIGURE_VOICE02: せいっ
+MID_SHIGURE_VOICE03: うあっ！
+MID_SHIGURE_VOICE04: This is bad...
+MID_SHIGURE_VOICE05: Vorhang auf!
+MID_SHIGURE_VOICE06: Eine Zugabe? Aber gerne.
+MID_SHIGURE_VOICE07: Die Vorstellung ist beendet!
+MID_SHIGURE_VOICE08: Zeit für meinen Auftritt.
+MID_SHIGURE_VOICE09: The sky, so beautiful...
+MID_SHIGURE_VOICE10: Heehee...
+MID_SHIGURE_VOICE11: You are the ocean's gray waves...
+MID_SHIGURE_VOICE12: Please...never forget me.
+MID_SHIGURE_VOICE13: When I gaze at the majesty of the open sky, I feel so free. Don't you?
+MID_SHIGURE_VOICE14: I'm not as skilled as my mother, but I do enjoy singing.
+MID_SHIGURE_VOICE15: The scenery here is so beautiful... I want to pick up my paintbrush again. It's inspirational.
+MID_SHIGURE_VOICE16: Tell me. When I leave here, will thousands of years have passed in my own world?
+MID_SHIGURE_VOICE17: Would you walk with me sometime? You could tell me more about this beautiful world and about yourself as well.
+MID_SHIGURE_VOICE18: All right.
+MID_SHIGURE_VOICE19: I'm Shigure.
+MID_SHIGURE_VOICE20: Shall we go?

@@ -1,0 +1,38 @@
+[Heroes Archive] (TAILTO)
+
+
+Heroes Message Name: Message
+
+
+MID_TAILTO_HOME1: 唉，大家好像總是\n在談一些很難懂的話題……\n好無聊喔。
+MID_TAILTO_HOME2: 那支奇怪的杖是什麼啊？\n咦？可以用那個把英雄叫出來嗎？\n好厲害～！
+MID_TAILTO_HOME3: 巡邏？好像會很辛苦耶。\n我也來幫忙，\n我們一起加油吧！
+MID_TAILTO_HOME4: 父親大人……對不起……\n都是我害的……\n讓家族的名聲……
+MID_TAILTO_HOME5: 我不喜歡聊太難懂的事情，\n不過我最喜歡開開心心聊天了！\n所以請多指教囉！
+MID_TAILTO_FRIEND: 嗨～，我是提爾透。\n是$Nf\n拜託我來的。
+MID_TAILTO_LEVEL1: 欸欸欸，我很厲害吧！？\n快誇獎我。
+MID_TAILTO_LEVEL2: 不錯吧？\n你會誇獎我嗎？
+MID_TAILTO_LEVEL3: 咦～？\n奇怪……
+MID_TAILTO_SKILL: 謝啦！\n我的精神變得超好的。
+MID_TAILTO_JOIN: 我是提爾透！\n我的祖先是魔法騎士托德……之類的，\n那些事情不重要，我們好好相處吧！
+MID_TAILTO_STRONGEST: 啊！\n$Nu，\n吶吶，要不要跟我聊天啊？$k$p謝啦！\n$Nu\n每次都對我這麼好。最喜歡你了！$k$p奇怪？\n你臉好紅喔？\n呵呵，好奇怪喔～$k$p雖然有些難懂的事情我不太明白，不過……\n我大概可以知道這個人是好人喔。$k$p我最喜歡那樣的人了。\n我想為了喜歡的人而努力。\n$k$p呵呵，聊一下天，精神就來了。\n接下來也一起努力吧，$Nu！
+MID_TAILTO_VOICE01: 嘿！
+MID_TAILTO_VOICE02: 看招！
+MID_TAILTO_VOICE03: 呀啊！
+MID_TAILTO_VOICE04: 過分……
+MID_TAILTO_VOICE05: 要上了喔！
+MID_TAILTO_VOICE06: 抱歉。
+MID_TAILTO_VOICE07: 討厭！
+MID_TAILTO_VOICE08: 再見！
+MID_TAILTO_VOICE09: 真是的，討厭死了……
+MID_TAILTO_VOICE10: 呵呵！
+MID_TAILTO_VOICE11: 吶，我有事情想問你。
+MID_TAILTO_VOICE12: 呀！？真是的，嚇我一大跳。
+MID_TAILTO_VOICE13: 那些很難懂的事情，我實在不明白。
+MID_TAILTO_VOICE14: 謝謝你，托你的福，我比較有精神了。
+MID_TAILTO_VOICE15: 我很欣賞你。
+MID_TAILTO_VOICE16: 對不起……父親大人……
+MID_TAILTO_VOICE17: 因為我很擔心你，所以就由我來保護你吧。
+MID_TAILTO_VOICE18: 好～……
+MID_TAILTO_VOICE19: 哼～
+MID_TAILTO_VOICE20: 快點快點。

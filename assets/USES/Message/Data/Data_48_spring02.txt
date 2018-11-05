@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: Bendición de tierra
+MID_MISSION_S201803BLESS01_A1: Victoria telúrica
+MID_MISSION_H_S201803BLESS01_A1: Vence a enemigos con un héroe\nque tenga la bendición de tierra.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A2: Victoria telúrica
+MID_MISSION_H_S201803BLESS01_A2: Vence a enemigos de nivel 20 o superior\ncon un héroe que tenga la bendición\nde tierra. (Héroes legendarios no incluidos.)
+MID_MISSION_S201803BLESS01_A3: Victoria telúrica
+MID_MISSION_H_S201803BLESS01_A3: Vence a enemigos de tipo rojo de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde tierra. (Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A4: Victoria telúrica
+MID_MISSION_H_S201803BLESS01_A4: Vence a enemigos de tipo azul de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde tierra. (Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A5: Victoria telúrica
+MID_MISSION_H_S201803BLESS01_A5: Vence a enemigos de tipo verde de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde tierra. (Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A6: T. de práctica - Estrato 1
+MID_MISSION_H_S201803BLESS01_A6: Supera el primer estrato de la torre de práctica\ncon un héroe que tenga la bendición de tierra.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A7: T. de práctica - Estrato 5
+MID_MISSION_H_S201803BLESS01_A7: Supera el quinto estrato de la torre de práctica\ncon un héroe que tenga la bendición de tierra.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201803BLESS01_A8: T. de práctica - Estrato 10
+MID_MISSION_H_S201803BLESS01_A8: Supera el décimo estrato de la torre de práctica\ncon un héroe que tenga la bendición de tierra.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201803KIZUNA01_TITLE: Batalla de vínculos
+MID_MISSION_S201803KIZUNA01_A1: Superar batalla
+MID_MISSION_H_S201803KIZUNA01_A1: Gana la batalla de vínculos contra Ninian\ny Hawkeye con Anna en tu batallón.
+MID_MISSION_S201803KIZUNA01_A2: Superar batalla
+MID_MISSION_H_S201803KIZUNA01_A2: Gana la batalla de vínculos contra Ninian\ny Hawkeye en modo extremo o superior\ncon Alfonse, Príncipe de Askr, en tu batallón.
+MID_MISSION_S201803KIZUNA01_A3: Derrotar a Ninian: 40+
+MID_MISSION_H_S201803KIZUNA01_A3: Con Anna, derrota a Ninian\nen su versión de nivel 40 o superior.
+MID_MISSION_S201803KIZUNA01_A4: Derrotar a Hawkeye: 40+
+MID_MISSION_H_S201803KIZUNA01_A4: Con Alfonse, Príncipe de Askr, derrota a\nHawkeye en su versión de nivel 40 o superior.
+MID_MISSION_S201803KIZUNA01_A5: Superar batalla
+MID_MISSION_H_S201803KIZUNA01_A5: Gana la batalla de vínculos contra Ninian\ny Hawkeye en modo extremo o superior\ncon un batallón de unidades de caballería.
+MID_MISSION_S201803SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201803SENKA02_DAILY_A1: La Tormenta
+MID_MISSION_H_S201803SENKA02_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201803SENKA02_DAILY_A2: La Tormenta
+MID_MISSION_H_S201803SENKA02_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201803SENKA02_DAILY_A3: La Tormenta
+MID_MISSION_H_S201803SENKA02_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201803SENKA02_DAILY_A4: La Tormenta
+MID_MISSION_H_S201803SENKA02_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201803STORY02_TITLE: Liebres vernales
+MID_MISSION_S201803STORY02_A1: Anexo 19-1: extremo
+MID_MISSION_H_S201803STORY02_A1: Supera la 1.ª parte del anexo 19 en modo\nextremo con un espadachín en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201803STORY02_A2: Anexo 19-2: extremo
+MID_MISSION_H_S201803STORY02_A2: Supera la 2.ª parte del anexo 19 en modo\nextremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201803STORY02_A3: Anexo 19-3: extremo
+MID_MISSION_H_S201803STORY02_A3: Supera la 3.ª parte del anexo 19 en modo\nextremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201803TAPBTL01_D01_TITLE: B. de toques (diaria)
+MID_MISSION_S201803TAPBTL01_D01_A1: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL01_D01_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D01_A2: Superar nivel
+MID_MISSION_H_S201803TAPBTL01_D01_A2: Supera un nivel en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D02_TITLE: B. de toques (diaria)
+MID_MISSION_S201803TAPBTL01_D02_A1: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL01_D02_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D02_A2: Superar nivel
+MID_MISSION_H_S201803TAPBTL01_D02_A2: Supera un nivel en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D03_TITLE: B. de toques (diaria)
+MID_MISSION_S201803TAPBTL01_D03_A1: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL01_D03_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D03_A2: Superar nivel
+MID_MISSION_H_S201803TAPBTL01_D03_A2: Supera un nivel en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D04_TITLE: B. de toques (diaria)
+MID_MISSION_S201803TAPBTL01_D04_A1: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL01_D04_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL01_D04_A2: Superar nivel
+MID_MISSION_H_S201803TAPBTL01_D04_A2: Supera un nivel en Batalla de toques.
+MID_MISSION_S201803TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201803TAPBTL02_A1: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL02_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL02_A2: Derrotar jefe
+MID_MISSION_H_S201803TAPBTL02_A2: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201803TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201803TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MPID_春祭アルフォンス: Alfonse
+MPID_春祭カゲロウ: Kagero
+MPID_春祭カチュア: Catria
+MPID_春祭シャロン: Sharena
+MPID_HONOR_春祭アルフォンス: Príncipe vernal
+MPID_HONOR_春祭カゲロウ: Ninja vernal
+MPID_HONOR_春祭カチュア: Ala blanca vernal
+MPID_HONOR_春祭シャロン: Princesa vernal
+MPID_H_春祭アルフォンス: Príncipe de Askr que es serio pero amable.\nParticipa en el festival primaveral como\nmiembro de la Orden de Héroes.
+MPID_H_春祭カゲロウ: Ninja hoshidana y vasalla de Ryoma.\nLe asignaron como misión el participar en\nel festival primaveral y ella cumple con su\ndeber. Aparece en Fire Emblem Fates.
+MPID_H_春祭カチュア: La mediana de las tres hermanas que forman las\nAlas Blancas, caballeros pegaso de Medonia. Se\ntoma el festival primaveral muy en serio. Aparece\nen Fire Emblem: Mystery of the Emblem.
+MPID_H_春祭シャロン: Princesa de Askr y hermana pequeña de Alfonse.\nConvenció a su hermano para que participara\ncon ella en el festival primaveral.
+MPID_VOICE_春祭アルフォンス: Ray Chase
+MPID_VOICE_春祭カゲロウ: Sarah Blandy
+MPID_VOICE_春祭カチュア: Connor Kelley
+MPID_VOICE_春祭シャロン: Julie Kliewer
+MPID_ILLUST_春祭アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_春祭シャロン: Kozaki Yusuke (コザキユースケ)
+MSID_ビッグスプーン: Gran cuchara
+MSID_ビッグスプーン＋: Gran cuchara +
+MSID_ベビーキャロット: Zanahoria letal
+MSID_ベビーキャロット＋: Zanahoria letal +
+MSID_フギンの魔卵: Huevo de Hugin
+MSID_ムニンの魔卵: Huevo de Munin
+MSID_飛燕の構え1: Postura dúplice 1
+MSID_飛燕明鏡の構え1: Postura veloz 1
+MSID_飛燕明鏡の構え2: Postura veloz 2
+MSID_速さ魔防の絆1: Lazo Vel./Res. 1
+MSID_速さ魔防の絆2: Lazo Vel./Res. 2
+MSID_速さ魔防の絆3: Lazo Vel./Res. 3
+MSID_魔防の封印1: Res. gélida 1
+MSID_魔防の封印2: Res. gélida 2
+MSID_魔防の封印3: Res. gélida 3
+MSID_守備の紫煙1: Humo de Def. 1
+MSID_守備の紫煙2: Humo de Def. 2
+MSID_守備の紫煙3: Humo de Def. 3
+MSID_H_ビッグスプーン: +10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_ビッグスプーン＋: +10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_ベビーキャロット: +10 de daño cuando se ejecutan habilidades\nespeciales. Tras un ataque, si la unidad ha\nacometido al rival, Def. y Res. -5 al rival y\na todos los enemigos en un radio de dos\ncasillas del rival en su próxima acción.
+MSID_H_ベビーキャロット＋: +10 de daño cuando se ejecutan habilidades\nespeciales. Tras un ataque, si la unidad ha\nacometido al rival, Def. y Res. -7 al rival y\na todos los enemigos en un radio de dos\ncasillas del rival en su próxima acción.
+MSID_H_フギンの魔卵: Otorga Res. +3. Al inicio del turno, si la unidad\ntiene PV ≥ 50 %, Atq. y Def. -5 al rival que\ntenga la menor Res. en su próxima acción.
+MSID_H_ムニンの魔卵: Otorga Res. +3. Al inicio del turno, si la unidad\ntiene PV ≥ 50 %, Atq. y Res. -5 al rival que\ntenga la menor Vel. en su próxima acción.
+MSID_H_飛燕の構え1: Vel. +2 durante un ataque\nsi lo inicia el rival.
+MSID_H_飛燕明鏡の構え1: Vel. y Res. +2 durante un ataque\nsi lo inicia el rival.
+MSID_H_飛燕明鏡の構え2: Vel. y Res. +4 durante un ataque\nsi lo inicia el rival.
+MSID_H_速さ魔防の絆1: Vel. y Res. +3 durante un ataque\nsi hay un aliado en una casilla\nadyacente a la de la unidad.
+MSID_H_速さ魔防の絆2: Vel. y Res. +4 durante un ataque\nsi hay un aliado en una casilla\nadyacente a la de la unidad.
+MSID_H_速さ魔防の絆3: Vel. y Res. +5 durante un ataque\nsi hay un aliado en una casilla\nadyacente a la de la unidad.
+MSID_H_魔防の封印1: Al inicio del turno, inflige Res. -3 al rival que\ntenga la mayor Res. en su próxima acción.
+MSID_H_魔防の封印2: Al inicio del turno, inflige Res. -5 al rival que\ntenga la mayor Res. en su próxima acción.
+MSID_H_魔防の封印3: Al inicio del turno, inflige Res. -7 al rival que\ntenga la mayor Res. en su próxima acción.
+MSID_H_守備の紫煙1: Tras un ataque, Def. -3 a todos los enemigos en\nun radio de dos casillas del rival en su próxima\nacción.
+MSID_H_守備の紫煙2: Tras un ataque, Def. -5 a todos los enemigos en\nun radio de dos casillas del rival en su próxima\nacción.
+MSID_H_守備の紫煙3: Tras un ataque, Def. -7 a todos los enemigos en\nun radio de dos casillas del rival en su próxima\nacción.
+MID_CHAPTER_TITLE_CX018: Anexo 19
+MID_CHAPTER_CX018: Liebres vernales
+MID_STAGE_TITLE_X0181: Anexo 19 - Parte 1
+MID_STAGE_TITLE_X0182: Anexo 19 - Parte 2
+MID_STAGE_TITLE_X0183: Anexo 19 - Parte 3
+MID_STAGE_X0181: Pareja leporina
+MID_STAGE_X0182: Deber de conejita
+MID_STAGE_X0183: Liebre charlatana
+MID_TAP_BATTLE_DATA_TITLE_0002: Recuerdos sombríos
+MID_MUSIC_NAME_BGM_MAP_FE12_01: Avanzando
+MID_MUSIC_NAME_BGM_MAP_FE07_01: Cosas maravillosas
+MID_MUSIC_NAME_BGM_MAP_FE15_05: El ocaso divino

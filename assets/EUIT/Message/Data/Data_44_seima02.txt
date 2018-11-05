@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: Tre eroi
+MID_MISSION_S201801CHARA01_A1: Vinci
+MID_MISSION_H_S201801CHARA01_A1: Sconfiggi un nemico.
+MID_MISSION_S201801CHARA01_A2: Vinci con Hinata
+MID_MISSION_H_S201801CHARA01_A2: Usa Hinata per sconfiggere un nemico.
+MID_MISSION_S201801CHARA01_A3: Vinci con Gwendolyn
+MID_MISSION_H_S201801CHARA01_A3: Usa Gwendolyn per sconfiggere un nemico.
+MID_MISSION_S201801CHARA01_B1: Batti nemico Liv 20+
+MID_MISSION_H_S201801CHARA01_B1: Sconfiggi un nemico di livello 20\no superiore con Hinata.
+MID_MISSION_S201801CHARA01_B2: Batti nemico Liv 20+
+MID_MISSION_H_S201801CHARA01_B2: Sconfiggi un nemico di livello 20\no superiore con Gwendolyn.
+MID_MISSION_S201801CHARA01_B3: Batti nemico Liv 20+
+MID_MISSION_H_S201801CHARA01_B3: Sconfiggi un nemico di livello 20\no superiore con Saizo.
+MID_MISSION_S201801CHARA01_C1: Batti nemico Liv 35+
+MID_MISSION_H_S201801CHARA01_C1: Sconfiggi un nemico di livello 35\no superiore con Hinata.
+MID_MISSION_S201801CHARA01_C2: Batti nemico Liv 35+
+MID_MISSION_H_S201801CHARA01_C2: Sconfiggi un nemico di livello 35\no superiore con Gwendolyn.
+MID_MISSION_S201801CHARA01_C3: Batti nemico Liv 35+
+MID_MISSION_H_S201801CHARA01_C3: Sconfiggi un nemico di livello 35\no superiore con Saizo.
+MID_MISSION_S201801STORY02_TITLE: Fermezza ardente
+MID_MISSION_S201801STORY02_A1: Completa 4-1 folle
+MID_MISSION_H_S201801STORY02_A1: Completa il libro II, cap. 4-1 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY02_A2: Completa 4-2 folle
+MID_MISSION_H_S201801STORY02_A2: Completa il libro II, cap. 4-2 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY02_A3: Completa 4-3 folle
+MID_MISSION_H_S201801STORY02_A3: Completa il libro II, cap. 4-3 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY02_A4: Completa 4-4 folle
+MID_MISSION_H_S201801STORY02_A4: Completa il libro II, cap. 4-4 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY02_A5: Completa 4-5 folle
+MID_MISSION_H_S201801STORY02_A5: Completa il libro II, cap. 4-5 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_エイリーク2: Erika
+MPID_ラーチェル: L'Arachel
+MPID_リオン: Lyon
+MPID_マリカ: Marisa
+MPID_ミルラ: Myrrh
+MPID_HONOR_エイリーク2: La nostalgica
+MPID_HONOR_ラーチェル: La dama radiante
+MPID_HONOR_リオン: Il principe del buio
+MPID_HONOR_マリカ: Il lampo cremisi
+MPID_HONOR_ミルラ: Il Grande Drago
+MPID_H_エイリーク2: Principessa di Renais, gemella di Ephraim\ne amica di Lyon. Insieme a loro ha passato\nla gioventù ad apprendere cose nuove.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_H_ラーチェル: Principessa di Raust che, scortata da Dozla\ne Rennac, si occupa di sconfiggere i mostri\nche imperversano nel continente di Magvel.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_H_リオン: Principe di Graze e amico d'infanzia di\nEphraim ed Erika. Non ama la violenza.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_H_マリカ: Una fredda spadaccina, parte dei mercenari\ndi Gerik. Tutti restano folgorati solo a sentire\nil suo nome di battaglia: lampo cremisi.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_H_ミルラ: Una timida manakete ben più vecchia\ndi quanto il suo aspetto suggerisca.\nÈ stranamente molto legata a Ephraim.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_VOICE_エイリーク2: Kira Buckland
+MPID_VOICE_ラーチェル: Carrie Keranen
+MPID_VOICE_リオン: Mark P. Whitten
+MPID_VOICE_マリカ: Connor Kelley
+MPID_VOICE_ミルラ: Erica Lindbeck
+MPID_ILLUST_エイリーク2: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_ラーチェル: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_リオン: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_マリカ: Fujikawa Akira (藤川祥)
+MPID_ILLUST_ミルラ: Amagaitaro (アマガイタロー)
+MID_SEQUENTIAL_MAP_TERM_201801_2: Avvolti dalla Tempesta
+MSID_グレイプニル: Gleipnir
+MSID_ナグルファル: Naglfar
+MSID_イーヴァルディ: Ivaldi
+MSID_神炎のブレス: Grande fiamma
+MSID_竜刃の鼓舞: Incita draghi
+MSID_魔防の指揮1: Tattica Res 1
+MSID_魔防の指揮2: Tattica Res 2
+MSID_魔防の指揮3: Tattica Res 3
+MSID_赤魔の経験1: Esp tomo R 1
+MSID_赤魔の経験2: Esp tomo R 2
+MSID_赤魔の経験3: Esp tomo R 3
+MSID_H_グレイプニル: Conferisce Res +3. Se il nemico ha tutti\ni PS all'inizio dello scontro, conferisce\nAtt/Vel +3 durante lo scontro.
+MSID_H_ナグルファル: Conferisce un vantaggio sui nemici\nequipaggiati con armi non previste\ndal triangolo delle armi.
+MSID_H_イーヴァルディ: Conferisce Dif +3. Se il nemico ha tutti i\nPS all'inizio dello scontro, conferisce\nAtt/Vel +3 durante lo scontro.
+MSID_H_神炎のブレス: Conferisce Att +3. Se l'unità ha almeno 5 Dif\nin più rispetto al nemico, questi non può eseguire\nun attacco doppio. Contro nemici con 2 di Rgg,\nil danno è calcolato usando Dif o Res del nemico\n(il valore più basso).
+MSID_H_竜刃の鼓舞: Att/Vel +6 agli alleati draghi adiacenti\nall'inizio del turno per 1 turno.
+MSID_H_魔防の指揮1: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nRes +2 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_魔防の指揮2: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nRes +4 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_魔防の指揮3: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nRes +6 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_赤魔の経験1: Se l'unità usa un tomo rosso, riceve Esp x1,5\nfinché rimane in vita. (Non cumulabile; si applica\nsolo il valore più alto.)
+MSID_H_赤魔の経験2: Tutti gli alleati con tomo rosso ricevono Esp x1,5\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MSID_H_赤魔の経験3: Tutti gli alleati con tomo rosso ricevono Esp x2\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MID_CHAPTER_TITLE_C0204: Libro II, cap. 4
+MID_CHAPTER_C0204: Fermezza ardente
+MID_STAGE_TITLE_S2041: Capitolo 4-1
+MID_STAGE_TITLE_S2042: Capitolo 4-2
+MID_STAGE_TITLE_S2043: Capitolo 4-3
+MID_STAGE_TITLE_S2044: Capitolo 4-4
+MID_STAGE_TITLE_S2045: Capitolo 4-5
+MID_STAGE_S2041: In difesa del popolo
+MID_STAGE_S2042: Il lampo cremisi
+MID_STAGE_S2043: Principesse ombra
+MID_STAGE_S2044: Il giovane drago
+MID_STAGE_S2045: Fermezza ardente
+MID_CHAPTER_ST_C0202: Capitoli 3 e 4
+MID_STAGE_TITLE_ST_S0203: Capitolo 3
+MID_STAGE_TITLE_ST_S0204: Capitolo 4
+MID_STAGE_TITLE_ST_S1204: Capitoli 3 e 4
+MID_STAGE_HONOR_T0024: Il principe del buio
+MID_STAGE_T0024: Lyon

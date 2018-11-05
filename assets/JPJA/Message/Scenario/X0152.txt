@@ -1,0 +1,9 @@
+[Heroes Archive] (X0152)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_冬祭サーリャ,ch04_10_Sallya_F_WinterFes17,Face|うふふ☆\nサーリャとっても嬉しいな。\n一緒に冬祭りを過ごせるなんて☆$k$p$WmMPID_冬祭ルフレ男,ch04_07_Reflet_M_WinterFes17,Face|あの、サーリャ…\n闘技の相手が\nもう来てるみたいなんだけど…$k$p$WmMPID_冬祭サーリャ,ch04_10_Sallya_F_WinterFes17,Face|私、昔はね、\n冬祭りでいちゃついてる恋人たちは、\nもれなく全員死ねって思ってたの☆$k$pでも今年は許してあげる。\nだって、こんなに幸せなんだもん☆$k$p$WmMPID_冬祭ルフレ男,ch04_07_Reflet_M_WinterFes17,Face|あの、サーリャ、聞いてる…？$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_冬祭サーリャ,ch04_10_Sallya_F_WinterFes17,Face|せっかく普通の女の子になってたのに…\n呪ってやる…いえ…\n祝ってやるわ…$k$p$WmMPID_冬祭ルフレ男,ch04_07_Reflet_M_WinterFes17,Face|サーリャ…その、色々大丈夫かい？\nここは退いて、\nクロムたちと合流しよう。$k$p$Sbs150|

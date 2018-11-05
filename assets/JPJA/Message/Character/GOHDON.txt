@@ -1,0 +1,38 @@
+[Heroes Archive] (GOHDON)
+
+
+Heroes Message Name: Message
+
+
+MID_GOHDON_HOME1: 君の武器も、ぼくの弓みたいに\n遠くの敵を撃つ武器なんだよね？\n今度、一緒に訓練できたらいいな。
+MID_GOHDON_HOME2: ぼく、顔は子供っぽいし、\n性格もこんなだから、\n騎士の威厳がないんだよね…
+MID_GOHDON_HOME3: あ、$Nu！\nいつもありがとう。君の指揮があれば\nぼくもがんばれる気がするんだ。
+MID_GOHDON_HOME4: みんなの前でためになる話が\nできたらいいんだけど…\nぼくはそういうのちょっと苦手かな…
+MID_GOHDON_HOME5: ぼくの弓は、ジョルジュさんに教わったんだ。\n大陸一の弓使いと呼ばれてる、\n本当にすごい人なんだよ。
+MID_GOHDON_FRIEND: やあ、君が$Nu？\n$Nfに頼まれて\n挨拶に来たんだ。
+MID_GOHDON_LEVEL1: ええっ！？　ぼくがこんなに\n成長できるなんて…！
+MID_GOHDON_LEVEL2: うん、この調子で\n一歩ずつがんばろう。
+MID_GOHDON_LEVEL3: これじゃいつまでも\n新入り扱いされちゃうなぁ…
+MID_GOHDON_SKILL: やったね！　これで弓の技量も\nすごく上がったはずだよ！
+MID_GOHDON_JOIN: ぼくはゴードン。\nアリティア王国騎士団の\nアーチャーだよ。よろしくね。
+MID_GOHDON_STRONGEST: いつもありがとう。\nぼくがここまでがんばれたのは、\n君のおかげだよ。$k$p君の指揮のおかげで、\nいろんな所で役に立てる自分がいて、\nすごくうれしかったよ。$k$pこれで見た目にも貫禄が出てくれたら\nいいんだけどなぁ…\nあはは、そんなのさすがに無理だよね。$k$pでも…君とならぼくはもっと成長できる、\nそんな気がしてるんだ。\nこれからもよろしくね。\n
+MID_GOHDON_VOICE01: えいっ！
+MID_GOHDON_VOICE02: やぁっ！
+MID_GOHDON_VOICE03: うああっ！
+MID_GOHDON_VOICE04: しまった…
+MID_GOHDON_VOICE05: ぼくだって
+MID_GOHDON_VOICE06: 負けないよ！
+MID_GOHDON_VOICE07: この矢で！
+MID_GOHDON_VOICE08: がんばるよ
+MID_GOHDON_VOICE09: ごめん…もう…
+MID_GOHDON_VOICE10: はは
+MID_GOHDON_VOICE11: ん？　何か用かな？
+MID_GOHDON_VOICE12: あはは、どうしたの？
+MID_GOHDON_VOICE13: こう見えて、騎士団の一員なんだよ。
+MID_GOHDON_VOICE14: 一緒にがんばろうね。
+MID_GOHDON_VOICE15: ぼくってどう見えるかな？
+MID_GOHDON_VOICE16: ぼく、顔が子供っぽいんだよね…
+MID_GOHDON_VOICE17: 君のこと、頼りにしてるよ。
+MID_GOHDON_VOICE18: うんっ
+MID_GOHDON_VOICE19: 迷うなあ…
+MID_GOHDON_VOICE20: がんばるよ

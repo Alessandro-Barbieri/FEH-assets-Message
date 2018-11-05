@@ -1,0 +1,38 @@
+[Heroes Archive] (NABARL)
+
+
+Heroes Message Name: Message
+
+
+MID_NABARL_HOME1: So this is where the greatest\nwarriors of all the worlds gather?
+MID_NABARL_HOME2: ...You're in my way.
+MID_NABARL_HOME3: Don't waste time talking to me.\nFocus on the next battle.
+MID_NABARL_HOME4: If you don't need anything, I'd like\nto be on my own.
+MID_NABARL_HOME5: This castle is filled with strange\npeople...yourself included.
+MID_NABARL_FRIEND: ...Greetings from\n$Nf.
+MID_NABARL_LEVEL1: Not bad.
+MID_NABARL_LEVEL2: Well, that's that.
+MID_NABARL_LEVEL3: ...
+MID_NABARL_SKILL: All I do is fight. I don't need\nrecognition.
+MID_NABARL_JOIN: Call me Navarre. I'm a mercenary,\nbut I don't come cheap.
+MID_NABARL_STRONGEST: I usually fight alone. However...$k$pI can imagine a future fighting with\nall of you.$k$pNever mind. Don't listen to anything\nI've said.$k$pIt's all nonsense, and I blame you\nfor my sentimentality,\n$Nu.
+MID_NABARL_VOICE01: はぁっ！
+MID_NABARL_VOICE02: せいっ！
+MID_NABARL_VOICE03: うああっ！
+MID_NABARL_VOICE04: Che...
+MID_NABARL_VOICE05: Time to die.
+MID_NABARL_VOICE06: Care to test me?
+MID_NABARL_VOICE07: You or me.
+MID_NABARL_VOICE08: Sorry, friend.
+MID_NABARL_VOICE09: This is it.
+MID_NABARL_VOICE10: ...sigh
+MID_NABARL_VOICE11: What?
+MID_NABARL_VOICE12: I don't work cheap.
+MID_NABARL_VOICE13: I'm busy right now.
+MID_NABARL_VOICE14: I'll help, but I don't "chat."
+MID_NABARL_VOICE15: I have vowed never to turn a blade on a woman.
+MID_NABARL_VOICE16: I doubt there is anyone who can cross blades with me and live.
+MID_NABARL_VOICE17: Don't die out there.
+MID_NABARL_VOICE18: All right.
+MID_NABARL_VOICE19: Now what?
+MID_NABARL_VOICE20: Done.

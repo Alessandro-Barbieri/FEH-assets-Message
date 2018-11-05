@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: Sharena
+MID_MISSION_S201712BRAVE01_A1: Tour : première strate
+MID_MISSION_H_S201712BRAVE01_A1: Terminer la 1re strate de la tour d'entraînement\navec Sharena dans votre équipe.
+MID_MISSION_S201712BRAVE01_A2: Tour : cinquième strate
+MID_MISSION_H_S201712BRAVE01_A2: Terminer la 5e strate de la tour d'entraînement\navec Sharena dans votre équipe.
+MID_MISSION_S201712BRAVE01_A3: Tour : neuvième strate
+MID_MISSION_H_S201712BRAVE01_A3: Terminer la 9e strate de la tour d'entraînement\navec Sharena dans votre équipe.
+MID_MISSION_S201712BRAVE01_A4: Tour : dixième strate
+MID_MISSION_H_S201712BRAVE01_A4: Terminer la 10e strate de la tour d'entraînement\navec Sharena dans une équipe de trois héros\net sans essuyer la moindre perte.
+MID_MISSION_S201712BRAVE01_A5: Victoire : Sharena
+MID_MISSION_H_S201712BRAVE01_A5: Vaincre des ennemis avec Sharena.
+MID_MISSION_S201712BRAVE01_A6: Cible : niveau ≥ 20
+MID_MISSION_H_S201712BRAVE01_A6: Vaincre des ennemis de niveau 20 ou supérieur\navec Sharena.
+MID_MISSION_S201712BRAVE01_A7: Cible : niveau ≥ 40
+MID_MISSION_H_S201712BRAVE01_A7: Vaincre des ennemis de niveau 40 ou supérieur\navec Sharena.
+MID_MISSION_S201712CHARA01_TITLE: Trois héros
+MID_MISSION_S201712CHARA01_A1: Victoire
+MID_MISSION_H_S201712CHARA01_A1: Vaincre un ennemi.
+MID_MISSION_S201712CHARA01_A2: Victoire : Laslow
+MID_MISSION_H_S201712CHARA01_A2: Vaincre des ennemis avec Laslow.
+MID_MISSION_S201712CHARA01_A3: Victoire : Florina
+MID_MISSION_H_S201712CHARA01_A3: Vaincre des ennemis avec Florina.
+MID_MISSION_S201712CHARA01_B1: Cible : niveau ≥ 20
+MID_MISSION_H_S201712CHARA01_B1: Vaincre des ennemis de niveau 20 ou supérieur\navec Laslow.
+MID_MISSION_S201712CHARA01_B2: Cible : niveau ≥ 20
+MID_MISSION_H_S201712CHARA01_B2: Vaincre des ennemis de niveau 20 ou supérieur\navec Florina.
+MID_MISSION_S201712CHARA01_B3: Cible : niveau ≥ 20
+MID_MISSION_H_S201712CHARA01_B3: Vaincre des ennemis de niveau 20 ou supérieur\navec Bartre.
+MID_MISSION_S201712CHARA01_C1: Cible : niveau ≥ 35
+MID_MISSION_H_S201712CHARA01_C1: Vaincre des ennemis de niveau 35 ou supérieur\navec Laslow.
+MID_MISSION_S201712CHARA01_C2: Cible : niveau ≥ 35
+MID_MISSION_H_S201712CHARA01_C2: Vaincre des ennemis de niveau 35 ou supérieur\navec Florina.
+MID_MISSION_S201712CHARA01_C3: Cible : niveau ≥ 35
+MID_MISSION_H_S201712CHARA01_C3: Vaincre des ennemis de niveau 35 ou supérieur\navec Bartre.
+MID_MISSION_S201712HERO02_TITLE: Grandes batailles
+MID_MISSION_S201712HERO02_A1: Nabarl
+MID_MISSION_H_S201712HERO02_A1: Remporter la grande bataille contre\nNabarl, l'épée taciturne, avec\nAlfonse dans votre équipe.
+MID_MISSION_S201712HERO02_A2: Nabarl
+MID_MISSION_H_S201712HERO02_A2: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Expert ou supérieur avec\nNabarl, l'épée taciturne, dans votre équipe.
+MID_MISSION_S201712HERO02_A3: Nabarl
+MID_MISSION_H_S201712HERO02_A3: Avec Alfonse, vaincre une version\nde niveau 40 ou supérieur de Nabarl,\nl'épée taciturne.
+MID_MISSION_S201712HERO02_A4: Nabarl
+MID_MISSION_H_S201712HERO02_A4: Avec Nabarl, l'épée taciturne, vaincre\nune version de niveau 40 ou supérieur\nde Nabarl, l'épée taciturne.
+MID_MISSION_S201712HERO02_A5: Nabarl
+MID_MISSION_H_S201712HERO02_A5: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Expert ou supérieur avec\nune équipe ne comportant que des fantassins.
+MID_MISSION_S201712SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201712SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201712SENKA01_DAILY_A1: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201712SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201712SENKA01_DAILY_A2: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201712SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201712SENKA01_DAILY_A3: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201712SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201712SENKA01_DAILY_A4: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201712STORY01_TITLE: Festival de l'hiver
+MID_MISSION_S201712STORY01_A1: Ann. 16 - Acte 1 (Expert)
+MID_MISSION_H_S201712STORY01_A1: Terminer l'acte 1 de l'annexe 16 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201712STORY01_A2: Ann. 16 - Acte 2 (Expert)
+MID_MISSION_H_S201712STORY01_A2: Terminer l'acte 2 de l'annexe 16 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201712STORY01_A3: Ann. 16 - Acte 3 (Expert)
+MID_MISSION_H_S201712STORY01_A3: Terminer l'acte 3 de l'annexe 16 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_冬祭クロム: Chrom
+MPID_冬祭リズ: Lissa
+MPID_冬祭ルフレ男: Daraen
+MPID_冬祭サーリャ: Tharja
+MPID_HONOR_冬祭クロム: Chef des fêtes
+MPID_HONOR_冬祭リズ: Joie immaculée
+MPID_HONOR_冬祭ルフレ男: Stratège d'hiver
+MPID_HONOR_冬祭サーリャ: Fille « ordinaire »
+MPID_H_冬祭クロム: Prince d'Ylisse et descendant d'un Roi-Héros\nlégendaire. A été invoqué alors qu'il assistait\nà un festival de l'hiver. Apparaît dans\nFire Emblem: Awakening.
+MPID_H_冬祭リズ: Princesse d'Ylisse et sœur de Chrom. Parmi\ntous les mets proposés lors du festival de\nl'hiver, son préféré est le gâteau. Apparaît\ndans Fire Emblem: Awakening.
+MPID_H_冬祭ルフレ男: Bras droit de Chrom et tacticien ayant perdu la\nmémoire. Passe ses journées à élaborer des\nstratégies pour profiter du festival de l'hiver.\nApparaît dans Fire Emblem: Awakening.
+MPID_H_冬祭サーリャ: Mage de Plegia habituellement sinistre, qui\nse comporte de manière joviale pour des\nraisons obscures. Apparaît dans\nFire Emblem: Awakening.
+MPID_VOICE_冬祭クロム: Matt Mercer
+MPID_VOICE_冬祭リズ: Kate Davis
+MPID_VOICE_冬祭ルフレ男: David Vincent
+MPID_VOICE_冬祭サーリャ: Stephanie Sheh
+MPID_ILLUST_冬祭クロム: Ebila (えびら)
+MPID_ILLUST_冬祭リズ: Umiu Geso (海鵜げそ)
+MPID_ILLUST_冬祭ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_冬祭サーリャ: Washimoto (わし元)
+MSID_聖樹: Sapin d'assaut
+MSID_聖樹＋: Sapin d'assaut +
+MSID_プレゼント袋: Sac à cadeaux
+MSID_プレゼント袋＋: Sac à cadeaux +
+MSID_ハンドベル: Cloche
+MSID_ハンドベル＋: Cloche +
+MSID_燭台: Candélabre
+MSID_燭台＋: Candélabre +
+MSID_攻撃速さの大覚醒1: Essor Atq/Vit 1
+MSID_攻撃速さの大覚醒2: Essor Atq/Vit 2
+MSID_攻撃速さの大覚醒3: Essor Atq/Vit 3
+MSID_攻撃守備の大覚醒1: Essor Atq/Déf 1
+MSID_攻撃守備の大覚醒2: Essor Atq/Déf 2
+MSID_攻撃守備の大覚醒3: Essor Atq/Déf 3
+MSID_攻撃隊形1: Audace 1
+MSID_攻撃隊形2: Audace 2
+MSID_攻撃隊形3: Audace 3
+MSID_迎撃隊形1: Rancune 1
+MSID_迎撃隊形2: Rancune 2
+MSID_迎撃隊形3: Rancune 3
+MSID_赤魔の技量1: Tech. tome (R) 1
+MSID_赤魔の技量2: Tech. tome (R) 2
+MSID_赤魔の技量3: Tech. tome (R) 3
+MSID_H_聖樹: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_聖樹＋: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_プレゼント袋: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_プレゼント袋＋: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ハンドベル: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ハンドベル＋: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_燭台: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_燭台＋: Si l'ennemi initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_攻撃速さの大覚醒1: Si PV ≤ 80 % au début du combat, confère\nAtq/Vit +3 pendant le combat.
+MSID_H_攻撃速さの大覚醒2: Si PV ≤ 80 % au début du combat, confère\nAtq/Vit +5 pendant le combat.
+MSID_H_攻撃速さの大覚醒3: Si PV ≤ 80 % au début du combat, confère\nAtq/Vit +7 pendant le combat.
+MSID_H_攻撃守備の大覚醒1: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +3 pendant le combat.
+MSID_H_攻撃守備の大覚醒2: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +5 pendant le combat.
+MSID_H_攻撃守備の大覚醒3: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +7 pendant le combat.
+MSID_H_攻撃隊形1: Si l'unité initie le combat et que PV = 100 %,\nelle effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_攻撃隊形2: Si l'unité initie le combat et que PV ≥ 50 %,\nelle effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_攻撃隊形3: Si l'unité initie le combat, elle effectue\nune double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_迎撃隊形1: Si l'ennemi initie le combat et que PV ≥ 90 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_迎撃隊形2: Si l'ennemi initie le combat et que PV ≥ 70 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_迎撃隊形3: Si l'ennemi initie le combat et que PV ≥ 50 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_赤魔の技量1: Si l'unité utilise un tome rouge et survit, elle reçoit\nPA x 1,5. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_赤魔の技量2: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent PA x 1,5. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MSID_H_赤魔の技量3: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent PA x 2. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MID_CHAPTER_TITLE_CX015: Annexe 16
+MID_CHAPTER_CX015: Festival de l'hiver
+MID_STAGE_TITLE_X0151: Ann. 16 - Acte 1
+MID_STAGE_TITLE_X0152: Ann. 16 - Acte 2
+MID_STAGE_TITLE_X0153: Ann. 16 - Acte 3
+MID_STAGE_X0151: Ruée sur les cadeaux
+MID_STAGE_X0152: De rouge vêtus
+MID_STAGE_X0153: Soyez sages
+MID_STAGE_TITLE_ST_X0014: Annexe 15
+MID_STAGE_TITLE_ST_X0015: Annexe 16
+MID_STAGE_TITLE_ST_X1015: Annexes 15 et 16
+MID_CHAPTER_ST_CX008: Annexes 15 et 16
+MID_STAGE_HONOR_V0121: Quotidien
+MID_STAGE_V0121: Phase 1
+MID_STAGE_HONOR_V0122: Quotidien
+MID_STAGE_V0122: Phase 2
+MID_STAGE_HONOR_V0123: Quotidien
+MID_STAGE_V0123: Phase 3
+MID_STAGE_HONOR_V0124: Quotidien
+MID_STAGE_V0124: Phase 4
+MID_STAGE_HONOR_V0125: Quotidien
+MID_STAGE_V0125: Phase 5
+MID_STAGE_HONOR_V0126: Quotidien
+MID_STAGE_V0126: Phase 6
+MID_STAGE_HONOR_V0127: Quotidien
+MID_STAGE_V0127: Phase 7
+MID_STAGE_HONOR_V0131: Quotidien
+MID_STAGE_V0131: Phase 8
+MID_STAGE_HONOR_V0132: Quotidien
+MID_STAGE_V0132: Phase 9
+MID_STAGE_HONOR_V0133: Quotidien
+MID_STAGE_V0133: Phase 10
+MID_STAGE_HONOR_V0134: Quotidien
+MID_STAGE_V0134: Phase 11
+MID_STAGE_HONOR_V0135: Nouvel An
+MID_STAGE_V0135: Phase 1
+MID_STAGE_HONOR_V0136: Nouvel An
+MID_STAGE_V0136: Phase 2
+MID_STAGE_HONOR_V0137: Nouvel An
+MID_STAGE_V0137: Phase 3

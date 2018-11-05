@@ -1,0 +1,38 @@
+[Heroes Archive] (WALTER)
+
+
+Heroes Message Name: Message
+
+
+MID_WALTER_HOME1: Vivo per combattere. Quindi il tuo\nobiettivo di portare la pace è...\nNon è facile da accettare.
+MID_WALTER_HOME2: Erika... Ephraim... Sono miei. Solo\nprede di tale calibro possono\nsaziare la mia sete di sangue.
+MID_WALTER_HOME3: Sei $Gstanco,stanca|? Allora riposati. La\nstanchezza rende una preda\nmeno appetibile.
+MID_WALTER_HOME4: Non so che farmene dei pesci piccoli.\nSono inutili. Ciò che bramo è una\npreda che sazi la mia sete di sangue.
+MID_WALTER_HOME5: Allenamento? Non farmi ridere.\nSolo uccidendo si impara ad\nuccidere.
+MID_WALTER_FRIEND: Quindi sei tu che\n$Nf mi ha\nmandato a salutare.$k$pSembri proprio una preda deliziosa,\n$Nu.\n
+MID_WALTER_LEVEL1: Da leccarsi i baffi...
+MID_WALTER_LEVEL2: Bene... ma non sono ancora\nsazio.
+MID_WALTER_LEVEL3: Ho ancora sete...
+MID_WALTER_SKILL: Bramo molto, molto di più!
+MID_WALTER_JOIN: Sono Valter, la pietra lunare, uno dei\nsei generali di Graze. Vuoi saziare la\nmia brama? Molti ci hanno provato...
+MID_WALTER_STRONGEST: Una volta un vecchio pazzo mi ha\ndefinito una miserabile bestia che\nvive solo per uccidere.$k$pUn giorno lo farò fuori. Naturalmente\nha ragione. Sono una belva spietata\ne sanguinaria.$k$pFaccio quel che voglio e prendo ciò\nche desidero da chiunque.$k$pAnche sapendo tutto ciò, mi hai\npreso al tuo servizio e donato\ngrandi poteri.$k$pNon comprendo le tue azioni.$k$pHai intenzione di controllarmi,\no desideri solo seguire il\nmio cammino, eh?$k$pAd ogni modo, sei la mia preda\npreferita e non lascerò che nessuno\nsazi la sua sete di sangue con te...$k$pTale onore spetta solo a me.
+MID_WALTER_VOICE01: いいぞ
+MID_WALTER_VOICE02: 楽しめ
+MID_WALTER_VOICE03: うああっ！
+MID_WALTER_VOICE04: 雑魚めが…！
+MID_WALTER_VOICE05: Che goduria!
+MID_WALTER_VOICE06: Sei già cadavere.
+MID_WALTER_VOICE07: Non hai scampo!
+MID_WALTER_VOICE08: Sazia la mia sete!
+MID_WALTER_VOICE09: Ughk... Graaaaaah!
+MID_WALTER_VOICE10: Keke
+MID_WALTER_VOICE11: I am Valter, the Moonstone, one of Grado's six generals.
+MID_WALTER_VOICE12: Hm? You desire to touch me?
+MID_WALTER_VOICE13: Never think that I am yours. If you displease me, you'll regret it.
+MID_WALTER_VOICE14: I will master you. Someday.
+MID_WALTER_VOICE15: Show me. Show me. Grovel like a dog.
+MID_WALTER_VOICE16: Ephraim. Eirika. Delicious prey.
+MID_WALTER_VOICE17: You are mine now. Entertain me! More!
+MID_WALTER_VOICE18: Entertain me!
+MID_WALTER_VOICE19: I hunger!
+MID_WALTER_VOICE20: A feast!

@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: Legendäre Effekte:\n・ In den Gesegneten Gärten sind\ndie Effekte Legendärer Helden\nunabhängig von der aktuellen\nSaison immer aktiv.\n・ Tippe auf "Einh.", "Einheiten-\nTraining" und dann "Segnen",\num einen Segen zu verwenden.
+MID_INFO_TITLE: Mitteilungen
+MID_ITEM_GAIN_DRESS_ACCESSORY: Accessoire erhalten!
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $aDu kannst von jedem Accessoire\nnur ein Exemplar haben. Duplikate\nwerden in $a0 Heldenfedern\numgewandelt.
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $aDu kannst von jedem Heiligen Siegel\noder Accessoire nur ein Exemplar\nhaben. Duplikate werden in\n$a0 Heldenfedern umgewandelt.
+MID_CHAIN_ARENA_HELP_DIALOG_09: Segen-Bonus:\nJedes Mal, wenn du einen\nLegendären oder gesegneten\nHelden der aktuellen Saison\nkämpfen lässt, erhältst du\nnach dem Kampf einen\nPunktebonus von +1.\n(Dies gilt ab der Saison, die\nnach der Veröffentlichung\nvon Ver. 2.6.0 beginnt.)
+MID_SEQUENTIAL_MAP_TERM_201806: Gefährliche Fehde
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: Abgeschlossen!
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: Extrastufe freigeschaltet!
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: Ein herrliches, sommerliches\nMeer... Alle scheinen darin den\nSpaß ihres Lebens zu haben!
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: Accessoires anlegen
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: Wähle das anzulegende Accessoire.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: Wähle den auszurüstenden Helden.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: Accessoire wählen
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: Verbündeten wählen
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: Accessoire anlegen?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: Accessoire ablegen?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 trägt dieses\nAccessoire. Accessoires\ntauschen und dieses anlegen?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 kann das\ngetauschte Accessoire nicht\nanlegen. Es wird abgelegt.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: Bestätigen
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Abgeschlossen.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: Vorgang abbrechen?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: Alle Änderungen werden verworfen.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: Abbrechen
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: Keine Accessoires.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: Wähle eine Sortierung.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: Erhalten
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: Typ
+MID_DRESSACCESSORY_HELP_DIALOG_00: Lege Accessoires an!
+MID_DRESSACCESSORY_HELP_DIALOG_01: Accessoires anlegen:\nDu kannst deine Verbündeten\nmit Accessoires ausrüsten,\ndie du erhalten hast.\n\nEin Accessoire kann nicht von\nmehreren Helden gleichzeitig\nangelegt werden.
+MID_DRESSACCESSORY_HELP_DIALOG_02: Accessoire-Typ:\nEs gibt verschiedene Kategorien\nvon Accessoires, die durch das\nrosa Symbol angezeigt werden.
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: ----------
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: Es ist kein Accessoire angelegt.
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: Dieses Accessoire kann nicht\nangelegt werden.
+MID_UNIT_EDIT_EQUIP: Ausrüstung wechseln
+MID_UNIT_EDIT_UNIT_ENFORCE: Einheiten-Training
+MID_UNIT_EDIT_UNIT_COMMUNICATE: Einheiten-Interaktion
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ① Einheit zum Tauschen antippen\n② Einheit zum Verwenden antippen
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: Passe deine Helden an!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: Segeneffekte 1:\nGesegnete Verbündete erhalten\nim Kampf die doppelte Menge\nan FP und Erf.\n\nLegendäre Helden können nicht\ngesegnet werden, erhalten aber\nim Kampf immer doppelt so viele\nFP und Erf. wie gewöhnlich.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: Auto-Lernen
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: Diese Fähigkeiten automatisch\nlernen und ausrüsten?
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: Die Einheit hat nicht genug FP für\ndie nächste empfohlene Fähigkeit.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: Diese Einheit hat bereits alle\nempfohlenen Fähigkeiten gelernt.
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: Accessoire

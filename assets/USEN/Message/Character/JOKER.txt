@@ -1,0 +1,38 @@
+[Heroes Archive] (JOKER)
+
+
+Heroes Message Name: Message
+
+
+MID_JOKER_HOME1: I must say, Summoner, that there's\nsomething about you...that I can't\nquite put my finger on.$k$pI serve a master elsewhere, and\nyet I find that I'm thoroughly\ncompelled to serve you.
+MID_JOKER_HOME2: I've dedicated my life to serving\nmy liege, Corrin. Though a butler,\nI am treated almost like family.
+MID_JOKER_HOME3: It seems that you're too important\nto deal with these pesky patrols.\nCouldn't someone else do it?
+MID_JOKER_HOME4: I'm forever trying to master the art\nof making tea, and I'm often in\ndesperate need of a taster.$k$pIf your taste is anywhere near as\nrefined as my master Corrin's,\nyou'd be of great help to me!
+MID_JOKER_HOME5: This kingdom makes such exquisite\nteakettles. Prince Alfonse lent me one.\nI owe him thanks for such a kindness.
+MID_JOKER_FRIEND: I come bearing a greeting from\n$Nf.$k$pNow with that done, I must get\nto my next task.
+MID_JOKER_LEVEL1: Permission to celebrate?
+MID_JOKER_LEVEL2: My liege needs me to be yet\nstronger.
+MID_JOKER_LEVEL3: Well, that won't do at all.
+MID_JOKER_SKILL: Any butler worth his salt will\nmaster any and all abilities.
+MID_JOKER_JOIN: My name is Jakob. I am a Nohrian\nbutler, loyal to my liege, Corrin. I offer\nyou my service, if not my devotion.
+MID_JOKER_STRONGEST: Oh. Did you need something?\nYou've brought me tea?\nI'm not thirsty at the moment...$k$pBut I shall drink it nonetheless.\nI wouldn't want to waste tea.$k$pIt's a bit cold. And too bitter. I\nwould never have served it. But...\nI sense the effort that went into it.$k$pRegardless of skill, there is flavor\nin devotion, a taste in affection.\nYou thought of me in making this.$k$pNext time, I shall make the tea for\nyou, and it will taste better than\nanything you have ever known.
+MID_JOKER_VOICE01: せやっ
+MID_JOKER_VOICE02: はあっ
+MID_JOKER_VOICE03: Drat
+MID_JOKER_VOICE04: Of all the—
+MID_JOKER_VOICE05: Time to take out the trash.
+MID_JOKER_VOICE06: You are excused.
+MID_JOKER_VOICE07: I could do no less.
+MID_JOKER_VOICE08: I'll show you the door!
+MID_JOKER_VOICE09: Done in...
+MID_JOKER_VOICE10: Hmmm.
+MID_JOKER_VOICE11: Care for a cup of tea?
+MID_JOKER_VOICE12: My master is the kindest person you could ever imagine.
+MID_JOKER_VOICE13: Pardon my immodesty, but you see a master butler standing before you.
+MID_JOKER_VOICE14: I dearly hope this realm grows tea plants.
+MID_JOKER_VOICE15: I hate to carry on about my master, Corrin, but you've never met a finer person!
+MID_JOKER_VOICE16: I keep a kettle handy to brew tea for my master, Corrin. I do hope you like tea?
+MID_JOKER_VOICE17: I have to confess... Though I have pledged my service to my master back home, I'm drawn to serve you too.
+MID_JOKER_VOICE18: Yes?
+MID_JOKER_VOICE19: Your orders.
+MID_JOKER_VOICE20: You rang?

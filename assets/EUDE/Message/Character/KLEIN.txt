@@ -1,0 +1,38 @@
+[Heroes Archive] (KLEIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KLEIN_HOME1: Einige nennen mich den Bogengene-\nral, aber ich habe das Gefühl, dass\nich einem Königreich als Verwalter$k$pviel besser dienen kann denn als\nGeneral.
+MID_KLEIN_HOME2: Ich glaube, ich habe ein sehr\ngenaues Bild von mir.$k$pMir fehlt der Scharfsinn meiner\nEltern für den Kampf. Also mache\nich mich auf andere Weise nützlich.
+MID_KLEIN_HOME3: Ich bin froh, dass ich Euch ein paar\nAufgaben im Schloss abnehmen\nkann.$k$pEure Last ist schon groß genug.\nDaher bin ich glücklich, einen Teil\ndavon für euch zu tragen.
+MID_KLEIN_HOME4: Ich habe eine jüngere Schwester\nnamens Clarine. Habt Ihr sie erst\neinmal kennengelernt, ist sie nett.$k$pClarine lebt allerdings etwas zu sehr\nin ihrer eigenen Welt. Aber sie ist\nauf ihre Art wirklich niedlich.
+MID_KLEIN_HOME5: Ich habe in meiner Welt alles über\ndie Etikette bei Hofe gelernt.$k$pIch hoffe nur, dass einiges davon\nauch hier anwendbar ist.
+MID_KLEIN_FRIEND: Ich grüße Euch. Ich komme im Auf-\ntrag von $Nf,\num Hallo zu sagen.
+MID_KLEIN_LEVEL1: Was für eine Überraschung!\nDas ist ungewöhnlich für mich.
+MID_KLEIN_LEVEL2: Ich denke, ich entwickle mich in\nangemessener Geschwindigkeit.
+MID_KLEIN_LEVEL3: Hmm. Eine Erinnerung an\nmeine Unzulänglichkeiten.
+MID_KLEIN_SKILL: Ich danke Euch. Ich tue alles, um\nEure Erwartungen zu erfüllen.
+MID_KLEIN_JOIN: Ich bin Klein, Sohn des Grafen\nReglay von Etruria. Es ist mir eine\nFreude, mich Euch anzuschließen!
+MID_KLEIN_STRONGEST: Dank meiner adligen Herkunft hatte\nich das große Glück, in meinem\nLeben den unterschiedlichsten$k$pMenschen begegnen zu dürfen.\nIch denke, das hat mich zu einem\nguten Menschenkenner gemacht.$k$pSo lassen jene, die viel reden, ihren\nWorten selten Taten folgen. Oft\nergreifen sie die Flucht.$k$pUnd dann gibt es andere, die kaum\nein Wort über die Lippen bringen\nund niemals prahlen, doch sind sie$k$pschnell zur Stelle, sollte Hilfe von-\nnöten sein. Als Kind wurde ich von\nso einer Person gerettet.$k$pDaher weiß ich, dass ich Euch\nvoll und ganz vertrauen kann.$k$pIch verschreibe meine Fähigkeiten\nEurer Sache, jetzt und in der Zukunft.\nEs ist mir eine Ehre, Euch zu dienen.
+MID_KLEIN_VOICE01: はっ！
+MID_KLEIN_VOICE02: ふっ！
+MID_KLEIN_VOICE03: うああっ！
+MID_KLEIN_VOICE04: Drat...
+MID_KLEIN_VOICE05: Ich treffe immer.
+MID_KLEIN_VOICE06: Solch Narrheit.
+MID_KLEIN_VOICE07: Aus dieser Entfernung...
+MID_KLEIN_VOICE08: Ich bin dran.
+MID_KLEIN_VOICE09: Fall here...?
+MID_KLEIN_VOICE10: Heh
+MID_KLEIN_VOICE11: Anything I can do for you? Please, name it.
+MID_KLEIN_VOICE12: What?! Oh, you. Caught me off guard.
+MID_KLEIN_VOICE13: I'm always worried about my younger sister. Can't help it!
+MID_KLEIN_VOICE14: Let us stay vigilant, for your sake and that of your family.
+MID_KLEIN_VOICE15: They call me the Archer General, for what that's worth.
+MID_KLEIN_VOICE16: Wouldn't going with the flow be bliss? But in time, what becomes of such a life?
+MID_KLEIN_VOICE17: Please, stay close to me. I want to keep you out of harm's way.
+MID_KLEIN_VOICE18: OK.
+MID_KLEIN_VOICE19: Hmm.
+MID_KLEIN_VOICE20: Of course.

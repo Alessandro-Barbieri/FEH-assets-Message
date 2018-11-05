@@ -1,0 +1,38 @@
+[Heroes Archive] (JORJUE)
+
+
+Heroes Message Name: Message
+
+
+MID_JORJUE_HOME1: この世界の人々は、純粋で良い人間が多いな。\n王侯貴族の陰湿な宮廷劇を観てきた\nオレには眩しいくらいだ。
+MID_JORJUE_HOME2: 大陸一の弓使い、なんて噂は忘れてくれ。\nオレの一族の連中が\n名声欲しさに流したものだ。
+MID_JORJUE_HOME3: ありがとう、$Nu。\nいつもお前には助けられているからな。\nたまには礼くらい言わせてくれ。
+MID_JORJUE_HOME4: オレは結構な名門貴族の出でな。一族連中は\n武才はないが、権謀術数だけは長けていた…\nつまりまあ、嫌な奴らってことだ。
+MID_JORJUE_HOME5: 正確な射撃は、どんな妨害にも\n動揺しない強い心が求められる。\nどうだ？　ひとつ試してみるか？
+MID_JORJUE_FRIEND: $Nfの依頼で\n挨拶に来た。\nこれからもよろしく頼む。
+MID_JORJUE_LEVEL1: こいつは予想外だな…\n嬉しい誤算ってやつか。
+MID_JORJUE_LEVEL2: まあ、こんなものだろう。\n妥当な結果だな。
+MID_JORJUE_LEVEL3: こいつは参った…\nやってられないな…
+MID_JORJUE_SKILL: ここまでオレに期待されると、\n応えないわけにはいかないな。
+MID_JORJUE_JOIN: オレはアカネイアの弓騎士ジョルジュ。\n役に立てるかどうかはわからんが、\nまあ、よろしく頼む。
+MID_JORJUE_STRONGEST: オレの浮いた話をいくつも聞いた？\n…参ったな、\n秘密にしてたつもりだったんだが…$k$pこういう噂は広まるのが早いな。\nまあ事実かどうかは、\n置いておくとして…$k$pざっくばらんに話ができるのは、\nここの連中が心の底から\n信頼し合ってるから…なんだろうな。$k$pああ、ここの居心地…\nそんなに悪くないぜ。$k$pオレももうしばらく\nここにいさせてもらうことにしよう。\nああ、よろしく頼む。
+MID_JORJUE_VOICE01: はっ！
+MID_JORJUE_VOICE02: ふっ！
+MID_JORJUE_VOICE03: うああっ！
+MID_JORJUE_VOICE04: 読み違えたな…
+MID_JORJUE_VOICE05: 外しはしない
+MID_JORJUE_VOICE06: 悪いな
+MID_JORJUE_VOICE07: 止まれ
+MID_JORJUE_VOICE08: 計算通り…
+MID_JORJUE_VOICE09: 見誤った…か…
+MID_JORJUE_VOICE10: ふっ…
+MID_JORJUE_VOICE11: なんだ？　俺が気になるのか？
+MID_JORJUE_VOICE12: そう来るとは、予想外だな
+MID_JORJUE_VOICE13: 立派なのは家柄だけだ
+MID_JORJUE_VOICE14: 大陸一、などと呼ばれてはいるが
+MID_JORJUE_VOICE15: ふっ、お前のすることは読めないな
+MID_JORJUE_VOICE16: これも、打算、か…
+MID_JORJUE_VOICE17: お前に好意を持っている…といったら信じるか？
+MID_JORJUE_VOICE18: ああ
+MID_JORJUE_VOICE19: どんな手を打つ？
+MID_JORJUE_VOICE20: この一手だ

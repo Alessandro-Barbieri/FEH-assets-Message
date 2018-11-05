@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: Sharena
+MID_MISSION_S201712BRAVE01_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_S201712BRAVE01_A1: Supera el primer nivel de la\ntorre de práctica con Sharena\nen tu batallón.
+MID_MISSION_S201712BRAVE01_A2: Torre de práctica - Nivel 5
+MID_MISSION_H_S201712BRAVE01_A2: Supera el quinto nivel de la\ntorre de práctica con Sharena\nen tu batallón.
+MID_MISSION_S201712BRAVE01_A3: Torre de práctica - Nivel 9
+MID_MISSION_H_S201712BRAVE01_A3: Supera el noveno nivel de la\ntorre de práctica con Sharena\nen tu batallón.
+MID_MISSION_S201712BRAVE01_A4: Torre de práctica - Nivel 10
+MID_MISSION_H_S201712BRAVE01_A4: Supera el décimo nivel de la\ntorre de práctica con 3 unidades,\nincluyendo a Sharena, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201712BRAVE01_A5: Vencer con Sharena
+MID_MISSION_H_S201712BRAVE01_A5: Vence a enemigos con Sharena.
+MID_MISSION_S201712BRAVE01_A6: Objetivo: nivel 20+
+MID_MISSION_H_S201712BRAVE01_A6: Vence a enemigos de nivel 20\no superior con Sharena.
+MID_MISSION_S201712BRAVE01_A7: Objetivo: nivel 40+
+MID_MISSION_H_S201712BRAVE01_A7: Vence a enemigos de nivel 40\no superior con Sharena.
+MID_MISSION_S201712CHARA01_TITLE: Tres héroes
+MID_MISSION_S201712CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201712CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201712CHARA01_A2: Vencer con Laslow
+MID_MISSION_H_S201712CHARA01_A2: Vence a enemigos con Laslow.
+MID_MISSION_S201712CHARA01_A3: Vencer con Florina
+MID_MISSION_H_S201712CHARA01_A3: Vence a enemigos con Florina.
+MID_MISSION_S201712CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201712CHARA01_B1: Vence a enemigos de nivel 20\no superior con Laslow.
+MID_MISSION_S201712CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201712CHARA01_B2: Vence a enemigos de nivel 20\no superior con Florina.
+MID_MISSION_S201712CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201712CHARA01_B3: Vence a enemigos de nivel 20\no superior con Bartre.
+MID_MISSION_S201712CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201712CHARA01_C1: Vence a enemigos de nivel 35\no superior con Laslow.
+MID_MISSION_S201712CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201712CHARA01_C2: Vence a enemigos de nivel 35\no superior con Florina.
+MID_MISSION_S201712CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201712CHARA01_C3: Vence a enemigos de nivel 35\no superior con Bartre.
+MID_MISSION_S201712HERO02_TITLE: Grandes batallas
+MID_MISSION_S201712HERO02_A1: Derrotar a Nabarl: Alfonse
+MID_MISSION_H_S201712HERO02_A1: Gana la gran batalla contra\nNabarl, la Espada Escarlata,\ncon Alfonse en tu batallón.
+MID_MISSION_S201712HERO02_A2: Derrotar a Nabarl: extr.
+MID_MISSION_H_S201712HERO02_A2: Gana la gran batalla contra Nabarl, la Espada\nEscarlata, en modo extremo o superior\ncon Nabarl, la Espada Escarlata, en tu batallón.
+MID_MISSION_S201712HERO02_A3: Derrotar a Nabarl: 40+
+MID_MISSION_H_S201712HERO02_A3: Con Alfonse, derrota a Nabarl,\nla Espada Escarlata, en su versión\nde nivel 40 o superior.
+MID_MISSION_S201712HERO02_A4: Derrotar a Nabarl: Nabarl
+MID_MISSION_H_S201712HERO02_A4: Con Nabarl, la Espada Escarlata, derrota\na Nabarl, la Espada Escarlata, en su\nversión de nivel 40 o superior.
+MID_MISSION_S201712HERO02_A5: Derrotar a Nabarl: infant.
+MID_MISSION_H_S201712HERO02_A5: Gana la gran batalla contra Nabarl, la Espada\nEscarlata, en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201712SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201712SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201712SENKA01_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201712SENKA01_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201712SENKA01_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201712SENKA01_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712STORY01_TITLE: Enviado invernal
+MID_MISSION_S201712STORY01_A1: Desvío 16 - 1 / Extremo
+MID_MISSION_H_S201712STORY01_A1: Supera la 1.ª parte del desvío 16 en modo\nextremo con 4 unidades, incluyendo un\nespadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712STORY01_A2: Desvío 16 - 2 / Extremo
+MID_MISSION_H_S201712STORY01_A2: Supera la 2.ª parte del desvío 16 en modo\nextremo con 4 unidades, incluyendo un\nlancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712STORY01_A3: Desvío 16 - 3 / Extremo
+MID_MISSION_H_S201712STORY01_A3: Supera la 3.ª parte del desvío 16 en modo\nextremo con 4 unidades, incluyendo una\ncon hacha, en tu batallón y sin sufrir bajas.
+MPID_冬祭クロム: Chrom
+MPID_冬祭リズ: Lissa
+MPID_冬祭ルフレ男: Daraen
+MPID_冬祭サーリャ: Tharja
+MPID_HONOR_冬祭クロム: Líder generoso
+MPID_HONOR_冬祭リズ: Felicidad pura
+MPID_HONOR_冬祭ルフレ男: Estratega festivo
+MPID_HONOR_冬祭サーリャ: Chica "normal"
+MPID_H_冬祭クロム: Príncipe de Ylisse y descendiente del rey\nheroico. La invocación tuvo lugar mientras\nestaba celebrando un festival de invierno.\nAparece en Fire Emblem: Awakening.
+MPID_H_冬祭リズ: Princesa de Ylisse y hermana de Chrom.\nDe entre toda la comida típica de\nlas fiestas, su favorita es la tarta.\nAparece en Fire Emblem: Awakening.
+MPID_H_冬祭ルフレ男: Estratega y mano derecha de Chrom que\npadece amnesia. Se pasa el día planeando\nactividades para el festival de invierno.\nAparece en Fire Emblem: Awakening.
+MPID_H_冬祭サーリャ: Maga plegiana que suele actuar de forma\ninquietante pero que, por algún motivo,\nahora se muestra de lo más jovial.\nAparece en Fire Emblem: Awakening.
+MPID_VOICE_冬祭クロム: Matt Mercer
+MPID_VOICE_冬祭リズ: Kate Davis
+MPID_VOICE_冬祭ルフレ男: David Vincent
+MPID_VOICE_冬祭サーリャ: Stephanie Sheh
+MPID_ILLUST_冬祭クロム: Ebila (えびら)
+MPID_ILLUST_冬祭リズ: Umiu Geso (海鵜げそ)
+MPID_ILLUST_冬祭ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_冬祭サーリャ: Washimoto (わし元)
+MSID_聖樹: Árbol explosivo
+MSID_聖樹＋: Árbol explosivo +
+MSID_プレゼント袋: Saco sorpresa
+MSID_プレゼント袋＋: Saco sorpresa +
+MSID_ハンドベル: Campanitas
+MSID_ハンドベル＋: Campanitas +
+MSID_燭台: Candelabro
+MSID_燭台＋: Candelabro +
+MSID_攻撃速さの大覚醒1: Altivez Ata/Vel 1
+MSID_攻撃速さの大覚醒2: Altivez Ata/Vel 2
+MSID_攻撃速さの大覚醒3: Altivez Ata/Vel 3
+MSID_攻撃守備の大覚醒1: Altivez Ata/Def 1
+MSID_攻撃守備の大覚醒2: Altivez Ata/Def 2
+MSID_攻撃守備の大覚醒3: Altivez Ata/Def 3
+MSID_攻撃隊形1: Osado 1
+MSID_攻撃隊形2: Osado 2
+MSID_攻撃隊形3: Osado 3
+MSID_迎撃隊形1: Vengativo 1
+MSID_迎撃隊形2: Vengativo 2
+MSID_迎撃隊形3: Vengativo 3
+MSID_赤魔の技量1: Gr. heroico R 1
+MSID_赤魔の技量2: Gr. heroico R 2
+MSID_赤魔の技量3: Gr. heroico R 3
+MSID_H_聖樹: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_聖樹＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_プレゼント袋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_プレゼント袋＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_ハンドベル: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_ハンドベル＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_燭台: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_燭台＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_攻撃速さの大覚醒1: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 3 durante el enfrentamiento.
+MSID_H_攻撃速さの大覚醒2: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 5 durante el enfrentamiento.
+MSID_H_攻撃速さの大覚醒3: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 7 durante el enfrentamiento.
+MSID_H_攻撃守備の大覚醒1: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Def + 3 durante el enfrentamiento.
+MSID_H_攻撃守備の大覚醒2: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Def + 5 durante el enfrentamiento.
+MSID_H_攻撃守備の大覚醒3: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Def + 7 durante el enfrentamiento.
+MSID_H_攻撃隊形1: Si la unidad inicia el ataque y tiene el 100 %\nde los PV, ejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_攻撃隊形2: Si la unidad inicia el ataque y tiene PV ≥ 50 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_攻撃隊形3: Si la unidad inicia el ataque,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_迎撃隊形1: Si la unidad inicia el ataque y tiene PV ≥ 90 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_迎撃隊形2: Si la unidad inicia el ataque y tiene PV ≥ 70 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_迎撃隊形3: Si la unidad inicia el ataque y tiene PV ≥ 50 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_赤魔の技量1: Mientras la unidad viva, si usa un grimorio rojo,\nrecibe un 50 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_赤魔の技量2: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 50 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_赤魔の技量3: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 100 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)
+MID_CHAPTER_TITLE_CX015: Desvío 16
+MID_CHAPTER_CX015: Enviado invernal
+MID_STAGE_TITLE_X0151: Desv. 16 - Parte 1
+MID_STAGE_TITLE_X0152: Desv. 16 - Parte 2
+MID_STAGE_TITLE_X0153: Desv. 16 - Parte 3
+MID_STAGE_X0151: Regalos a tutiplén
+MID_STAGE_X0152: Oropel escarlata
+MID_STAGE_X0153: Si te portas bien
+MID_STAGE_TITLE_ST_X0014: Desvío 15
+MID_STAGE_TITLE_ST_X0015: Desvío 16
+MID_STAGE_TITLE_ST_X1015: Desvíos 15 y 16
+MID_CHAPTER_ST_CX008: Desvíos 15 y 16
+MID_STAGE_HONOR_V0121: Diaria
+MID_STAGE_V0121: Parte 1
+MID_STAGE_HONOR_V0122: Diaria
+MID_STAGE_V0122: Parte 2
+MID_STAGE_HONOR_V0123: Diaria
+MID_STAGE_V0123: Parte 3
+MID_STAGE_HONOR_V0124: Diaria
+MID_STAGE_V0124: Parte 4
+MID_STAGE_HONOR_V0125: Diaria
+MID_STAGE_V0125: Parte 5
+MID_STAGE_HONOR_V0126: Diaria
+MID_STAGE_V0126: Parte 6
+MID_STAGE_HONOR_V0127: Diaria
+MID_STAGE_V0127: Parte 7
+MID_STAGE_HONOR_V0131: Diaria
+MID_STAGE_V0131: Parte 8
+MID_STAGE_HONOR_V0132: Diaria
+MID_STAGE_V0132: Parte 9
+MID_STAGE_HONOR_V0133: Diaria
+MID_STAGE_V0133: Parte 10
+MID_STAGE_HONOR_V0134: Diaria
+MID_STAGE_V0134: Parte 11
+MID_STAGE_HONOR_V0135: Año Nuevo
+MID_STAGE_V0135: Parte 1
+MID_STAGE_HONOR_V0136: Año Nuevo
+MID_STAGE_V0136: Parte 2
+MID_STAGE_HONOR_V0137: Año Nuevo
+MID_STAGE_V0137: Parte 3

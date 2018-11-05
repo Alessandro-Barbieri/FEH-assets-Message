@@ -1,0 +1,38 @@
+[Heroes Archive] (ELFI)
+
+
+Heroes Message Name: Message
+
+
+MID_ELFI_HOME1: We've got to defeat all of the Heroes\nthat we can if it frees them from\nbeing forced to serve.
+MID_ELFI_HOME2: I work for Lady Elise. My job is to be\na wall between her and enemies.\nSo I bulk up—as much as I can.
+MID_ELFI_HOME3: You're always working. If you need\nmy strength, know that I can crush\nrocks to dust with my bare hands!
+MID_ELFI_HOME4: Takes a lot of food to keep me bulky\nenough to be a good wall. So we\nshould hit all the feasts we can.
+MID_ELFI_HOME5: I keep stones in my armor to weigh\nme down. That way, I can train even\nwhen I'm just standing around.
+MID_ELFI_FRIEND: Going around in armor makes a girl\nhungry. Worth it to deliver a hello\nfrom $Nf.
+MID_ELFI_LEVEL1: I feel like I could take on anyone!
+MID_ELFI_LEVEL2: Strict training is the trick!
+MID_ELFI_LEVEL3: I'll have to work even harder\ntomorrow.
+MID_ELFI_SKILL: Thanks. Every brick makes me a\nbetter wall.
+MID_ELFI_JOIN: The name's Effie. I'm a knight from\nNohr. Need protection? I'll crush\nanyone that gets in your way.
+MID_ELFI_STRONGEST: *munch munch* Tasty... Oh, hey,\n$Nu!\nIs it snack time for you, too?$k$pYou brought me a sandwich?\nThanks! Nice of you to hand-\ndeliver it and everything!$k$pI've been eating even more since\nI got here. Got to be ready to\nprotect Lady Elise and...$k$pyou know...protect you as well.$k$pI need to eat a lot and train even\nmore so I can be the shield that\nkeeps you safe.$k$pThanks again for the sandwich.\n*munch munch* That was great—\npacked with kindness.
+MID_ELFI_VOICE01: せいっ！
+MID_ELFI_VOICE02: でりゃあ！
+MID_ELFI_VOICE03: ううっ！
+MID_ELFI_VOICE04: I've been outdone?!
+MID_ELFI_VOICE05: No more holding back!
+MID_ELFI_VOICE06: Time to say good-bye.
+MID_ELFI_VOICE07: Coming through!
+MID_ELFI_VOICE08: I'll crush you to dust!
+MID_ELFI_VOICE09: My training...
+MID_ELFI_VOICE10: Heehee
+MID_ELFI_VOICE11: Takes a lot of bricks to make this wall. That means training, food, and lots of both.
+MID_ELFI_VOICE12: One, two, three—! Heh. Always training. Always counting.
+MID_ELFI_VOICE13: Fish or fowl? Either one's just fine. Long as I get a pile on my plate.
+MID_ELFI_VOICE14: Need any boulders moved? No problem for me.
+MID_ELFI_VOICE15: Quite a weapon you've got there. Afraid I'd break it if I touched it.
+MID_ELFI_VOICE16: Where's Lady Elise? She and I like to grab snacks when we can.
+MID_ELFI_VOICE17: You leave the heavy stuff to me. I'd lift a cow for you, friend.
+MID_ELFI_VOICE18: Hmm?
+MID_ELFI_VOICE19: Let's go.
+MID_ELFI_VOICE20: Who to crush?

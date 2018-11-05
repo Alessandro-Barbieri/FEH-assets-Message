@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: Waffenübungen
+MID_MISSION_S201805ARM01_A1: Schwert gewinnt
+MID_MISSION_H_S201805ARM01_A1: Lass einen Verbündeten mit Schwert\nGegner besiegen.
+MID_MISSION_S201805ARM01_A2: Lanze gewinnt
+MID_MISSION_H_S201805ARM01_A2: Lass einen Verbündeten mit Lanze\nGegner besiegen.
+MID_MISSION_S201805ARM01_A3: Axt gewinnt
+MID_MISSION_H_S201805ARM01_A3: Lass einen Verbündeten mit Axt\nGegner besiegen.
+MID_MISSION_S201805ARM01_A4: Farbloser Bogen gewinnt
+MID_MISSION_H_S201805ARM01_A4: Lass einen farblosen Verbündeten\nmit Bogen Gegner besiegen.
+MID_MISSION_S201805ARM01_A5: Dolch gewinnt
+MID_MISSION_H_S201805ARM01_A5: Lass einen Verbündeten mit Dolch\nGegner besiegen.
+MID_MISSION_S201805ARM01_A6: Rotes Buch gewinnt
+MID_MISSION_H_S201805ARM01_A6: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen.
+MID_MISSION_S201805ARM01_A7: Blaues Buch gewinnt
+MID_MISSION_H_S201805ARM01_A7: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen.
+MID_MISSION_S201805ARM01_A8: Grünes Buch gewinnt
+MID_MISSION_H_S201805ARM01_A8: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen.
+MID_MISSION_S201805ARM01_A9: Stab gewinnt
+MID_MISSION_H_S201805ARM01_A9: Lass einen Verbündeten mit Stab\nGegner besiegen.
+MID_MISSION_S201805ARM01_A10: Schwert gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A10: Lass einen Verbündeten mit Schwert\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201805ARM01_A11: Lanze gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A11: Lass einen Verbündeten mit Lanze\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201805ARM01_A12: Axt gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A12: Lass einen Verbündeten mit Axt\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201805ARM01_A13: F. Bogen gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A13: Lass einen farblosen Verbündeten mit\nBogen Gegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201805ARM01_A14: Dolch gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A14: Lass einen Verbündeten mit Dolch\nGegner besiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_S201805ARM01_A15: R. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A15: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201805ARM01_A16: B. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A16: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201805ARM01_A17: G. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A17: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201805ARM01_A18: Stab gewinnt/Lv. 35+
+MID_MISSION_H_S201805ARM01_A18: Lass einen Verbündeten mit Stab\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201805DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201805DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201805DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201805DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201805DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201805DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201805DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201805DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201805DAISEIATU01_A4: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201805DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201805DAISEIATU01_A5: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201805DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201805DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201805STORY01_TITLE: Flammenhölle
+MID_MISSION_S201805STORY01_A1: Kap. 9 Tl. 1 - Extrem
+MID_MISSION_H_S201805STORY01_A1: Bewältige Buch II: Kap. 9/Tl. 1 auf Extrem\nmit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201805STORY01_A2: Kap. 9 Tl. 2 - Extrem
+MID_MISSION_H_S201805STORY01_A2: Bewältige Buch II: Kap. 9/Tl. 2 auf Extrem\nmit einem Axtkämpfer im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201805STORY01_A3: Kap. 9 Tl. 3 - Extrem
+MID_MISSION_H_S201805STORY01_A3: Bewältige Buch II: Kap. 9/Tl. 3 auf Extrem\nmit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201805STORY01_A4: Kap. 9 Tl. 4 - Extrem
+MID_MISSION_H_S201805STORY01_A4: Bewältige Buch II: Kap. 9/Tl. 4 auf Extrem\nmit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201805STORY01_A5: Kap. 9 Tl. 5 - Extrem
+MID_MISSION_H_S201805STORY01_A5: Bewältige Buch II: Kap. 9/Tl. 5 auf Extrem\nmit einem Axtkämpfer im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201805TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201805TAPBTL01_D01_A1: Elise besiegen
+MID_MISSION_H_S201805TAPBTL01_D01_A1: Besiege den Boss Elise auf den Ebenen\n-15 bis -19 auf Normal im Tipp-Kampf.
+MID_MISSION_S201805TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201805TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201805TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201805TAPBTL01_D02_A1: Elise besiegen
+MID_MISSION_H_S201805TAPBTL01_D02_A1: Besiege den Boss Elise auf den Ebenen\n-15 bis -19 auf Schwer im Tipp-Kampf.
+MID_MISSION_S201805TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201805TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201805TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201805TAPBTL01_D03_A1: Mae besiegen
+MID_MISSION_H_S201805TAPBTL01_D03_A1: Besiege den Boss Mae auf den Ebenen\n-35 bis -39 auf Normal im Tipp-Kampf.
+MID_MISSION_S201805TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201805TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201805TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201805TAPBTL01_D04_A1: Mae besiegen
+MID_MISSION_H_S201805TAPBTL01_D04_A1: Besiege den Boss Mae auf den Ebenen\n-35 bis -39 auf Schwer im Tipp-Kampf.
+MID_MISSION_S201805TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201805TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201805TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201805TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201805TAPBTL02_A1: Boss besiegen
+MID_MISSION_H_S201805TAPBTL02_A1: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201805TAPBTL02_A2: Boss besiegen
+MID_MISSION_H_S201805TAPBTL02_A2: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201805TAPBTL02_A3: Stufe abschließen
+MID_MISSION_H_S201805TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201805TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201805TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MPID_ユルグ: Ylgr
+MPID_ヘルビンディ: Helbindi
+MEID_ヘルビンディ: Helbindi
+MEID_HONOR_ヘルビンディ: Wilde Geißel
+MEID_H_ヘルビンディ: Ungestümer General von Múspell, dem\nFeuerkönigreich. Stammt aus ärmlichen\nVerhältnissen und verdankt seinen\nrasanten Aufstieg seinem Kampftalent.
+MEID_VOICE_ヘルビンディ: Raymond K. Essel
+MEID_ILLUST_ヘルビンディ: Maeshima Shigeki (前嶋重機)
+MPID_アレス: Ares
+MPID_イシュタル: Ishtar
+MPID_リーン: Lene
+MPID_ユリウス: Julius
+MPID_HONOR_アレス: Dunkler Ritter
+MPID_HONOR_イシュタル: Donnergöttin
+MPID_HONOR_リーン: Einsame Tänzerin
+MPID_HONOR_ユリウス: Erbe d. Finsternis
+MPID_H_アレス: Eldigans Sohn und Erbe von Misteltein.\nNach dem Tod seiner Eltern schloss er\nsich dem Söldner Javarro an. Erscheint in\nFire Emblem: Genealogy of the Holy War.
+MPID_H_イシュタル: Die Erbin Mjölnirs aus der Adelsfamilie von\nFriege. Der Abstieg ihres Geliebten Julius in\ndie Dunkelheit bereitet ihr Sorgen. Erscheint\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_リーン: Tänzerin und Nachfahrin des Hohepriesters\nBragi. Versteht, wie die Welt funktioniert, aber\nbewahrt sich ihren Optimismus. Erscheint in\nFire Emblem: Genealogy of the Holy War.
+MPID_H_ユリウス: Prinz von Grannvale. War einst ein\nliebenswerter Junge und nahm plötzlich\neine finstere Gestalt an. Erscheint in\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_アレス: Robbie Daymond
+MPID_VOICE_イシュタル: Ratana
+MPID_VOICE_リーン: Faye Mata
+MPID_VOICE_ユリウス: Griffin Burns
+MPID_ILLUST_アレス: PenekoR (п猫Ｒ)
+MPID_ILLUST_イシュタル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_リーン: Yoshiku (四々九)
+MPID_ILLUST_ユリウス: sachie (茶ちえ)
+MSID_ロムファイア: Romphaea
+MSID_カミラの艶斧: Camillas Axt
+MSID_第10迷宮の覇者1: Überfall-Ass J 1
+MSID_第10迷宮の覇者2: Überfall-Ass J 2
+MSID_第10迷宮の覇者3: Überfall-Ass J 3
+MSID_魔剣ミストルティン: Dämonenschwert
+MSID_守りの剣: Abschirmung
+MSID_守りの剣＋: Abschirmung+
+MSID_ビューレイスト: Býleistr
+MSID_ロプトウス: Loptous
+MSID_トールハンマー: Mjölnir
+MSID_守備魔防封じ1: Ver./Res.-Raub 1
+MSID_守備魔防封じ2: Ver./Res.-Raub 2
+MSID_業火疾風の舞い1: Feuriger Tanz 1
+MSID_業火疾風の舞い2: Feuriger Tanz 2
+MSID_攻撃の波・奇数1: Ungrader Angr. 1
+MSID_攻撃の波・奇数2: Ungrader Angr. 2
+MSID_攻撃の波・奇数3: Ungrader Angr. 3
+MSID_H_ロムファイア: Effektiv gegen gepanzerte und\nberittene Gegner.
+MSID_H_カミラの艶斧: Befindet sich die Einheit im Umkreis\nvon 2 Feldern eines fliegenden oder\nberittenen Verbündeten, erhält sie\nAngr./Ges. +4 im Kampf.
+MSID_H_夜刀神改: Verleiht Angr./Ges./Ver./Res. +2.
+MSID_H_大紋章R騎飛刃3: Verleiht berittenen und fliegenden\nVerbündeten im Umkreis von\n2 Feldern Angr./Ges. +3.
+MSID_H_不思議な魅力R4: Verleiht Unterstützungspartnern\nim Umkreis von 2 Feldern\nAngr./Ges./Ver./Res. +4.
+MSID_H_第10迷宮の覇者1: Verleiht Angr. +1.
+MSID_H_第10迷宮の覇者2: Verleiht Angr. +2.
+MSID_H_第10迷宮の覇者3: Verleiht Angr. +3.
+MSID_H_魔剣ミストルティン: Beschleunigt Spezialangriffe (Erholungszeit -1).\nWird der Spezialangriff vor oder nach dem\nAngriff ausgelöst, erhält die Einheit danach\n(Erholungszeit -2).
+MSID_H_守りの剣: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver. +7 im Kampf.
+MSID_H_守りの剣＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver. +7 im Kampf.
+MSID_H_ビューレイスト: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nAngr./Ges./Ver./Res. +4 für 1 Zug.\n(Bonus wird auch ohne benachbarte\nVerbündete gewährt.)
+MSID_H_ロプトウス: Verleiht Res. +3. Fähigkeiten, die effektiv\ngegen Drachen sind, sind effektiv gegen\ndiese Einheit. Hat der Gegner keine\nFähigkeit, die effektiv gegen Drachen\nist, erleidet er Angr. -6.
+MSID_H_トールハンマー: Beschleunigt Spezialangriffe (Erholungszeit -1).\nInitiiert die Einheit den Kampf, erhält sie\nGes. +6 im Kampf.
+MSID_H_守備魔防封じ1: Verursacht Ver./Res. -3 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_守備魔防封じ2: Verursacht Ver./Res. -5 beim Gegner\nbis nach seiner nächsten Aktion.
+MSID_H_業火疾風の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Angr./Ges. +2.
+MSID_H_業火疾風の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Angr./Ges. +3.
+MSID_H_攻撃の波・奇数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nAngr. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_攻撃の波・奇数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nAngr. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_攻撃の波・奇数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nAngr. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MID_CHAPTER_TITLE_C0209: Buch II: Kapitel 9
+MID_CHAPTER_C0209: Flammenhölle
+MID_STAGE_TITLE_S2091: Kapitel 9 - Teil 1
+MID_STAGE_TITLE_S2092: Kapitel 9 - Teil 2
+MID_STAGE_TITLE_S2093: Kapitel 9 - Teil 3
+MID_STAGE_TITLE_S2094: Kapitel 9 - Teil 4
+MID_STAGE_TITLE_S2095: Kapitel 9 - Teil 5
+MID_STAGE_S2091: Auge des Feuerkerkers
+MID_STAGE_S2092: Der Dunkle Ritter
+MID_STAGE_S2093: Göttin des Donners
+MID_STAGE_S2094: Flammentänzerin
+MID_STAGE_S2095: Die Tiefen der Hölle
+MID_STAGE_TITLE_SB_0010: 10. Überfall
+MID_STAGE_HONOR_T0031: Erbe d. Finsternis
+MID_STAGE_T0031: Julius
+MID_STAGE_HONOR_Q0010: Wöchentlich
+MID_STAGE_Q0010: Revierkampf
+MID_STAGE_HONOR_Q0011: Wöchentlich
+MID_STAGE_Q0011: Revierkampf
+MID_STAGE_HONOR_Q0012: Wöchentlich
+MID_STAGE_Q0012: Revierkampf
+MID_STAGE_HONOR_Q0013: Wöchentlich
+MID_STAGE_Q0013: Revierkampf
+MID_STAGE_TITLE_BG_WATER_0008: Wasser 8
+MID_STAGE_BG_WATER_0008: Brücke
+MID_STAGE_TITLE_BG_WIND_0007: Wind 7
+MID_STAGE_BG_WIND_0007: Windsäulen
+MID_STAGE_TITLE_BG_EARTH_0007: Erde 7
+MID_STAGE_BG_EARTH_0007: Erdsäulen
+MID_STAGE_TITLE_BG_FIRE_0007: Feuer 7
+MID_STAGE_BG_FIRE_0007: Feuersäulen
+MID_TAP_BATTLE_DATA_TITLE_0004: Heiligtum der Magier
+MID_MUSIC_NAME_BGM_MAP_FE15_02: Milas Segen
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: Attacke!
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: Dies ist dein Weg

@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_HOME1: Me resulta increíble que, en un mundo\ncomo este, pueda conocer a mi\npadre... ¡cuando tenía mi edad!
+MID_LILINA_HOME2: Roy y yo nos conocemos desde hace\nmuchísimo tiempo. Hasta fuimos a la\nescuela juntos. ¡Era muy aplicado!
+MID_LILINA_HOME3: Te esfuerzas tanto que consigues\nmotivarnos a todos. ¡Me siento capaz\nde cualquier cosa a tu lado!
+MID_LILINA_HOME4: Practico sin parar desde que Cecilia\ndijo que tenía un don para la magia.\nViniendo de ella es todo un halago.
+MID_LILINA_HOME5: ¿Cómo puedes hacer invocaciones\ntan poderosas sin haber estudiado\nmagia? Ha de ser un talento innato.
+MID_LILINA_FRIEND: Saludos, $Nu.\nSolo pasaba a saludarte. ¡Espero\nque tú y yo hagamos buenas migas!
+MID_LILINA_LEVEL1: ¡Genial! A partir de ahora seré\naún de más ayuda.
+MID_LILINA_LEVEL2: ¡Esto marcha! Pero no\nnos confiemos...
+MID_LILINA_LEVEL3: Tanto esfuerzo para esto...
+MID_LILINA_SKILL: ¡Menuda mejoría! Si mi padre\nme viese ahora...
+MID_LILINA_JOIN: Soy Lilina, hija del marqués de Ositia,\nHector. Domino la magia de fuego,\na pesar de ser todavía una aprendiz.
+MID_LILINA_STRONGEST: N-no sé si te lo he contado, pero hay\nuna persona en mi vida por la que\nlo daría absolutamente todo.$k$pPor eso me esfuerzo tanto en cada\nmeta que me propongo. Aunque hay\ncosas que una no puede lograr sola.$k$pEso lo he aprendido de ti. Siempre\nte rodeas de los mejores aliados,\nque acuden gustosos en tu ayuda.$k$pAsí resultas invencible... En ese\naspecto me recuerdas mucho\na Roy.$k$pEn fin, solo quería agradecerte\ntodo lo que haces por mí y decirte\nque jamás dejaré de apoyarte.
+MID_LILINA_VOICE01: はいっ！
+MID_LILINA_VOICE02: えいっ！
+MID_LILINA_VOICE03: きゃああっ！
+MID_LILINA_VOICE04: No...
+MID_LILINA_VOICE05: ¡El fracaso no es una opción!
+MID_LILINA_VOICE06: ¡Invoco el poder del fuego!
+MID_LILINA_VOICE07: ¡La magia fluye en mi interior!
+MID_LILINA_VOICE08: ¡Ya he tenido bastante!
+MID_LILINA_VOICE09: Please win...
+MID_LILINA_VOICE10: Uhuhu
+MID_LILINA_VOICE11: OH! Ah, hello there, friend!
+MID_LILINA_VOICE12: Oh, you...! You're such a curious one!
+MID_LILINA_VOICE13: Shall we chat? Just for a while. I know you have plenty to do.
+MID_LILINA_VOICE14: I must really apply myself to studying magic!
+MID_LILINA_VOICE15: I admire your abilities with magic. Really and truly!
+MID_LILINA_VOICE16: What I want most is for the children of all worlds to live in peace. Oh, and to laugh, of course!
+MID_LILINA_VOICE17: I have a good feeling that you and I will be fast friends!
+MID_LILINA_VOICE18: Yes?
+MID_LILINA_VOICE19: OK.
+MID_LILINA_VOICE20: All right.

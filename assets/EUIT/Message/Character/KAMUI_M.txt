@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_HOME1: Quali scelte farà questo regno? Non\nsta a me decidere. Mostra loro la via,\n$Nu.
+MID_KAMUI_M_HOME2: Combattere a fianco del regno che mi\nha dato i natali o di quello che mi ha\ncresciuto? È stata dura scegliere.
+MID_KAMUI_M_HOME3: Mi rassicura vederti di pattuglia.\nFacevo lo stesso nel mio castello.\nMi riporta alla mente tanti ricordi...
+MID_KAMUI_M_HOME4: Vorrei poterti mostrare il mio castello.\nC'è sempre tanto da fare e ospita\nperfino una casa sull'albero. Dormo lì.
+MID_KAMUI_M_HOME5: Pensavo alla mia famiglia. Ai miei tanti\nfratelli e sorelle. E tu? Hai un fratello\no una sorella?
+MID_KAMUI_M_FRIEND: Ti porto i saluti di\n$Nf. Il castello\ndi questo regno è davvero regale!
+MID_KAMUI_M_LEVEL1: Sono diventato così potente\ngrazie all'aiuto dei miei alleati.
+MID_KAMUI_M_LEVEL2: Bene. Ora potrò\naiutare di più gli altri.
+MID_KAMUI_M_LEVEL3: Non mi sembra di essere\ndiventato molto più potente...
+MID_KAMUI_M_SKILL: Vediamo cosa sono\nin grado di fare!
+MID_KAMUI_M_JOIN: Sono Corrin, nato in Hoshido e\ncresciuto in Nohr. Ti offro la mia spada\nYato e la mia potenza draconica!
+MID_KAMUI_M_STRONGEST: Mi fa piacere vederti. Abbiamo\npassato così tanto tempo insieme che\nnon mi sento a mio agio se non ci sei.$k$pVorrei poter sapere sempre dove sei,\nma la gente finirebbe per dire che\nsono iperprotettivo.$k$pE sarebbe davvero strano, dato che\nper tutta la vita io stesso mi sono\nsentito... fin troppo protetto.$k$pSei senza dubbio una componente\nindispensabile per la nostra difesa,\nperciò è naturale volerti proteggere.$k$pCiò che voglio dirti è che siamo con\nte. Non preoccuparti di quale percorso\nscegliere, lo percorreremo insieme.
+MID_KAMUI_M_VOICE01: はっ！
+MID_KAMUI_M_VOICE02: でやっ！
+MID_KAMUI_M_VOICE03: うああっ
+MID_KAMUI_M_VOICE04: No...
+MID_KAMUI_M_VOICE05: Non ci arrenderemo!
+MID_KAMUI_M_VOICE06: Ho fatto la mia scelta!
+MID_KAMUI_M_VOICE07: Ho deciso. Ti fermerò!
+MID_KAMUI_M_VOICE08: La mia strada è segnata!
+MID_KAMUI_M_VOICE09: This can't be...
+MID_KAMUI_M_VOICE10: Heehee
+MID_KAMUI_M_VOICE11: Thank you very much for looking out for everyone.
+MID_KAMUI_M_VOICE12: Between friends, even the smallest gestures can mean so much.
+MID_KAMUI_M_VOICE13: I have so many siblings. I'm very fortunate.
+MID_KAMUI_M_VOICE14: Ever made a choice that, either way, meant losing something you loved?
+MID_KAMUI_M_VOICE15: I grew up in a fortress, where I was...never allowed outside.
+MID_KAMUI_M_VOICE16: I'm certain that you've chosen the path of peace.
+MID_KAMUI_M_VOICE17: You can lean on me if you're weary. My brothers may be bigger, but I can shoulder more than my share.
+MID_KAMUI_M_VOICE18: All right.
+MID_KAMUI_M_VOICE19: Let's go.
+MID_KAMUI_M_VOICE20: Of course.

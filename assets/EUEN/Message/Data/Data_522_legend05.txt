@@ -1,0 +1,195 @@
+[Heroes Archive] (Data_522_legend05)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201806A_TITLE: Jun Quests (1)
+MID_MISSION_M201806A_A1: KO Foes w/Blue
+MID_MISSION_H_M201806A_A1: Use blue-type allies to defeat enemies.
+MID_MISSION_M201806A_A2: KO Foes w/Infantry
+MID_MISSION_H_M201806A_A2: Use infantry allies to defeat enemies.
+MID_MISSION_M201806A_A3: KO Green Foes
+MID_MISSION_H_M201806A_A3: Defeat green-type enemies.
+MID_MISSION_M201806A_A4: KO Flying Foes
+MID_MISSION_H_M201806A_A4: Defeat flying enemies.
+MID_MISSION_M201806A_A5: Win Arena Duels
+MID_MISSION_H_M201806A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201806A_A6: KO Lvl. 20+ Foes w/Red
+MID_MISSION_H_M201806A_A6: Defeat enemies that are level 20\nor higher with red-type allies.
+MID_MISSION_M201806A_A7: KO Lvl. 20+ Foes w/Flying
+MID_MISSION_H_M201806A_A7: Defeat enemies that are level 20\nor higher with flying allies.
+MID_MISSION_M201806A_A8: KO Lvl. 20+ Blue Foes
+MID_MISSION_H_M201806A_A8: Defeat blue-type enemies\nthat are level 20 or higher.
+MID_MISSION_M201806A_A9: KO Lvl. 20+ Infantry Foes
+MID_MISSION_H_M201806A_A9: Defeat infantry enemies\nthat are level 20 or higher.
+MID_MISSION_M201806A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201806A_A10: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_M201806A_A11: KO Lvl. 35+ Foes w/Green
+MID_MISSION_H_M201806A_A11: Defeat enemies that are level 35\nor higher with green-type allies.
+MID_MISSION_M201806A_A12: KO Lvl. 35+ Foes w/Cavalry
+MID_MISSION_H_M201806A_A12: Defeat enemies that are level 35\nor higher with cavalry-type allies.
+MID_MISSION_M201806A_A13: KO Lvl. 35+ Red Foes
+MID_MISSION_H_M201806A_A13: Defeat red-type enemies\nthat are level 35 or higher.
+MID_MISSION_M201806A_A14: KO Lvl. 35+ Cavalry Foes
+MID_MISSION_H_M201806A_A14: Defeat cavalry enemies that\nare level 35 or higher.
+MID_MISSION_M201806A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201806A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201806B_TITLE: Jun Quests (2)
+MID_MISSION_M201806B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201806B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201806B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201806B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201806B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201806B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201806B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201806B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201806B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201806B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201806B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201806B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201806B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201806B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201806B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201806B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201806B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201806B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201806B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201806C_TITLE: Jun Quests (3)
+MID_MISSION_M201806C_A1: Clear 3-1
+MID_MISSION_H_M201806C_A1: Clear Chapter 3: Part 1. All\nfour allies must survive.
+MID_MISSION_M201806C_A2: Clear 3-2
+MID_MISSION_H_M201806C_A2: Clear Chapter 3: Part 2 with a\nred-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A3: Clear 3-3
+MID_MISSION_H_M201806C_A3: Clear Chapter 3: Part 3 with a\nblue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A4: Clear 3-4
+MID_MISSION_H_M201806C_A4: Clear Chapter 3: Part 4 with a\ngreen-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A5: Clear 3-5
+MID_MISSION_H_M201806C_A5: Clear Chapter 3: Part 5 with a\ncolorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A6: Clear 6-1 on Hard+
+MID_MISSION_H_M201806C_A6: Clear Chapter 6: Part 1 on Hard\nor higher difficulty. All four\nallies must survive.
+MID_MISSION_M201806C_A7: Clear 6-2 on Hard+
+MID_MISSION_H_M201806C_A7: Clear Chapter 6: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A8: Clear 6-3 on Hard+
+MID_MISSION_H_M201806C_A8: Clear Chapter 6: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201806C_A9: Clear 6-4 on Hard+
+MID_MISSION_H_M201806C_A9: Clear Chapter 6: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201806C_A10: Clear 6-5 on Hard+
+MID_MISSION_H_M201806C_A10: Clear Chapter 6: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201806C_A11: Clear 9-1 on Lunatic
+MID_MISSION_H_M201806C_A11: Clear Chapter 9: Part 1 on Lunatic\ndifficulty. All four allies must survive.
+MID_MISSION_M201806C_A12: Clear 9-2 on Lunatic
+MID_MISSION_H_M201806C_A12: Clear Chapter 9: Part 2 on Lunatic\ndifficulty with a red-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201806C_A13: Clear 9-3 on Lunatic
+MID_MISSION_H_M201806C_A13: Clear Chapter 9: Part 3 on Lunatic\ndifficulty with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201806C_A14: Clear 9-4 on Lunatic
+MID_MISSION_H_M201806C_A14: Clear Chapter 9: Part 4 on Lunatic\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201806C_A15: Clear 9-5 on Lunatic
+MID_MISSION_H_M201806C_A15: Clear Chapter 9: Part 5 on Lunatic\ndifficulty with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201806VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201806VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201806VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201806VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201806VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201806VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201806VOTE01_A6: Tower: Second Stratum
+MID_MISSION_H_S201806VOTE01_A6: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201806VOTE01_A7: Tower: Fifth Stratum
+MID_MISSION_H_S201806VOTE01_A7: Clear the Fifth Stratum\nof the Training Tower.
+MID_MISSION_S201806VOTE01_A8: Tower: Eighth Stratum
+MID_MISSION_H_S201806VOTE01_A8: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201806VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201806VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201806VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201806VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201806VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201806VOTE01_A11: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201806VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201806VOTE01_A12: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201806VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A13: Win a battle in the Voting Gauntlet\nwith a red-type ally on your team.
+MID_MISSION_S201806VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A14: Win a battle in the Voting Gauntlet\nwith a blue-type ally on your team.
+MID_MISSION_S201806VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A15: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201806VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A16: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MID_MISSION_S201806VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A17: Win a battle in the Voting Gauntlet with\na red-type ally on your team.
+MID_MISSION_S201806VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A18: Win a battle in the Voting Gauntlet with\na blue-type ally on your team.
+MID_MISSION_S201806VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A19: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201806VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201806VOTE01_A20: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MID_MISSION_S201806BRAVE01_TITLE: Heroes & Legends
+MID_MISSION_S201806BRAVE01_A1: KO Red Foe
+MID_MISSION_H_S201806BRAVE01_A1: Use Alfonse: Prince of Askr to defeat a\nred-type foe.
+MID_MISSION_S201806BRAVE01_A2: KO Lvl. 20+ Foe
+MID_MISSION_H_S201806BRAVE01_A2: Use Alfonse: Prince of Askr to defeat a level 20\nor higher green-type foe.
+MID_MISSION_S201806BRAVE01_A3: KO Lvl. 30+ Foe
+MID_MISSION_H_S201806BRAVE01_A3: Use Alfonse: Prince of Askr to defeat a level\n30 or higher red-type foe.
+MID_MISSION_S201806BRAVE01_A4: KO Lvl. 40+ Foe
+MID_MISSION_H_S201806BRAVE01_A4: Use Alfonse: Prince of Askr to defeat a level 40\nor higher green-type foe.
+MID_MISSION_S201806BRAVE01_A5: KO Blue Foe
+MID_MISSION_H_S201806BRAVE01_A5: Use Sharena: Princess of Askr to defeat a\nblue-type foe.
+MID_MISSION_S201806BRAVE01_A6: KO Lvl. 20+ Foe
+MID_MISSION_H_S201806BRAVE01_A6: Use Sharena: Princess of Askr to defeat a level\n20 or higher red-type foe.
+MID_MISSION_S201806BRAVE01_A7: KO Lvl. 30+ Foe
+MID_MISSION_H_S201806BRAVE01_A7: Use Sharena: Princess of Askr to defeat a level\n30 or higher blue-type foe.
+MID_MISSION_S201806BRAVE01_A8: KO Lvl. 40+ Foe
+MID_MISSION_H_S201806BRAVE01_A8: Use Sharena: Princess of Askr to defeat a level\n40 or higher red-type foe.
+MID_MISSION_S201806BRAVE01_A9: KO Green Foe
+MID_MISSION_H_S201806BRAVE01_A9: Use Anna to defeat a green-type foe.
+MID_MISSION_S201806BRAVE01_A10: KO Lvl. 20+ Foe
+MID_MISSION_H_S201806BRAVE01_A10: Use Anna to defeat a level 20 or higher\nblue-type foe.
+MID_MISSION_S201806BRAVE01_A11: KO Lvl. 30+ Foe
+MID_MISSION_H_S201806BRAVE01_A11: Use Anna to defeat a level 30 or higher\ngreen-type foe.
+MID_MISSION_S201806BRAVE01_A12: KO Lvl. 40+ Foe
+MID_MISSION_H_S201806BRAVE01_A12: Use Anna to defeat a level 40 or higher\nblue-type foe.
+MID_MISSION_S201806BRAVE01_A13: KO Blue Foe
+MID_MISSION_H_S201806BRAVE01_A13: Use Fjorm to defeat a blue-type foe.
+MID_MISSION_S201806BRAVE01_A14: KO Lvl. 20+ Foe
+MID_MISSION_H_S201806BRAVE01_A14: Use Fjorm to defeat a level 20 or higher\nred-type foe.
+MID_MISSION_S201806BRAVE01_A15: KO Lvl. 30+ Foe
+MID_MISSION_H_S201806BRAVE01_A15: Use Fjorm to defeat a level 30 or higher\nblue-type foe.
+MID_MISSION_S201806BRAVE01_A16: KO Lvl. 40+ Foe
+MID_MISSION_H_S201806BRAVE01_A16: Use Fjorm to defeat a level 40 or higher\nred-type foe.
+MID_MISSION_S201806BRAVE01_A17: KO Red Foe
+MID_MISSION_H_S201806BRAVE01_A17: Use Ike: Vanguard Legend to defeat a\nred-type foe.
+MID_MISSION_S201806BRAVE01_A18: KO Lvl. 20+ Foe
+MID_MISSION_H_S201806BRAVE01_A18: Use Ike: Vanguard Legend to defeat a level 20\nor higher green-type foe.
+MID_MISSION_S201806BRAVE01_A19: KO Lvl. 30+ Foe
+MID_MISSION_H_S201806BRAVE01_A19: Use Ike: Vanguard Legend to defeat a level 30\nor higher red-type foe.
+MID_MISSION_S201806BRAVE01_A20: KO Lvl. 40+ Foe
+MID_MISSION_H_S201806BRAVE01_A20: Use Ike: Vanguard Legend to defeat a level 40\nor higher green-type foe.
+MPID_伝承リョウマ: Ryoma
+MPID_HONOR_伝承リョウマ: Supreme Samurai
+MPID_H_伝承リョウマ: The eldest brother of the Hoshidan\nroyal siblings. Rules from the heavens\non the back of a legendary kinshi.\nAppears in Fire Emblem Fates.
+MPID_VOICE_伝承リョウマ: Matt Mercer
+MPID_ILLUST_伝承リョウマ: Kita Senri (北千里)
+MPID_LEGEND_伝承リョウマ: Legendary Effect: Water\nAlly Boost: HP+3, Def+4\n\nGrants allies this Legendary Effect\nduring Water season, if the Water\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_鬼神飛燕の構え1: Kestrel Stance 1
+MSID_鬼神飛燕の構え2: Kestrel Stance 2
+MSID_武士道: Bushido
+MSID_H_鬼神飛燕の構え1: If foe initiates combat, grants Atk/Spd+2\nduring combat.
+MSID_H_鬼神飛燕の構え2: If foe initiates combat, grants Atk/Spd+4\nduring combat.
+MSID_H_武士道: Deals +10 damage when Special triggers.
+MID_STAGE_HONOR_T0032: Bound Hero Battle
+MID_STAGE_T0032: S & J
+MID_STAGE_HONOR_L0003: Supreme Samurai
+MID_STAGE_L0003: Ryoma

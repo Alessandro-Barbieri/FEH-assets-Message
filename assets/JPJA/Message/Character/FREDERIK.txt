@@ -1,0 +1,38 @@
+[Heroes Archive] (FREDERIK)
+
+
+Heroes Message Name: Message
+
+
+MID_FREDERIK_HOME1: ああ…特務機関の白いマント、\nとても魅惑的ですね…\n絶対死守の刺繍を施したくなります…
+MID_FREDERIK_HOME2: 私は昔からイーリス王家に仕え、\n王家の皆様のために尽くして参りました。\nこれからも、その生き方は変えません。
+MID_FREDERIK_HOME3: いつもお気遣いありがとうございます。\n私の忠誠はイーリス王家にありますが\n貴方のことも無碍にはいたしませんよ。
+MID_FREDERIK_HOME4: 今度、共に雑草抜きをいたしませんか。\n貴方はアルフォンス様とシャロン様、\n私はクロム様とリズ様のために！
+MID_FREDERIK_HOME5: いつ主君が寒がってもいいように、\n襟巻きを編んでおりました。\nくしゃみひとつすれば、首にかけますよ。
+MID_FREDERIK_FRIEND: どうも、お邪魔しております。\n$Nfさんより、\n貴方にご挨拶を依頼されました。
+MID_FREDERIK_LEVEL1: この力で、\n皆様をお守り致します！
+MID_FREDERIK_LEVEL2: このくらいの成長は\n騎士として当然です。
+MID_FREDERIK_LEVEL3: すみません、\nもっと精進しますね。
+MID_FREDERIK_SKILL: この力を試したいので、\nさっそく小石拾いに行って参ります。
+MID_FREDERIK_JOIN: フレデリクと申します。\nクロム自警団の副長にして王城騎士です。\n以後、どうぞお見知りおきを。
+MID_FREDERIK_STRONGEST: おや、$Nuさん。\n今日も任務に励まれているのですね、\n見回りなら私もお手伝いしましょう。$k$p貴方の進行方向を予測し、\n道中の小石と雑草をすべて\n取り払って差し上げますよ。$k$p私の使命はもちろんイーリス王家の方を\nお守りすることが第一。\nそこは揺らぎません。ですが…$k$p少しなら貴方にも目を配って良いかなと、\nそう思うようになってきました。\n情でもわいてしまったのでしょうかね。$k$pああ、つい話し込んでしまいました。\nさっそく私は石を拾って参ります。\n貴方はどうぞ、見回りの続きを！\n
+MID_FREDERIK_VOICE01: せいっ！
+MID_FREDERIK_VOICE02: はああっ！
+MID_FREDERIK_VOICE03: ぐあっ！
+MID_FREDERIK_VOICE04: 不覚です…
+MID_FREDERIK_VOICE05: 覚悟はいいですか！
+MID_FREDERIK_VOICE06: 行きますよ…！
+MID_FREDERIK_VOICE07: 絶対死守します！
+MID_FREDERIK_VOICE08: クロム様のために！
+MID_FREDERIK_VOICE09: 戦線を…離脱します…
+MID_FREDERIK_VOICE10: ふっ…
+MID_FREDERIK_VOICE11: 騎士としての鍛錬は怠りませんよ
+MID_FREDERIK_VOICE12: 王族をお守りすることが私の務めです
+MID_FREDERIK_VOICE13: 本日も早朝に起床し、小石拾いを行っておりました
+MID_FREDERIK_VOICE14: 足元に雑草が多いですね…あとで抜いておきましょう
+MID_FREDERIK_VOICE15: く、熊肉を食べろと…！？　衛生兵、衛生へーい！
+MID_FREDERIK_VOICE16: クロム様はどちらにいらっしゃるのでしょうか…
+MID_FREDERIK_VOICE17: 火起こしは得意ですので、行軍の際はぜひお任せください
+MID_FREDERIK_VOICE18: はい
+MID_FREDERIK_VOICE19: 承知しました
+MID_FREDERIK_VOICE20: 参りましょう

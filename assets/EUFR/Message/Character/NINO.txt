@@ -1,0 +1,38 @@
+[Heroes Archive] (NINO)
+
+
+Heroes Message Name: Message
+
+
+MID_NINO_HOME1: Dites, $GInvocateur,Invocatrice|, vous voulez bien\nme lire une histoire ? Je suis en train\nd'apprendre à lire, vous savez !
+MID_NINO_HOME2: Oh, Lloyd... Linus...\nOncle Legault...
+MID_NINO_HOME3: Merci de prendre si bien soin de\nnous, $GInvocateur,Invocatrice|. Mais n'oubliez\npas de vous reposer, d'accord ?
+MID_NINO_HOME4: Si un jour j'ai la chance de\nfonder une famille, j'aimerais\navoir des jumeaux !
+MID_NINO_HOME5: Vous pensez qu'il y a de quoi\ncuisiner un bon gâteau par ici ?\nJ'adore les sucreries !
+MID_NINO_FRIEND: Bonjour, $Nu !\nMoi c'est Nino ! On m'a demandé\nde vous rendre une petite visite.
+MID_NINO_LEVEL1: Je peux tout faire, maintenant !\nJe le sens !
+MID_NINO_LEVEL2: Je pourrai mieux vous aider,\nmaintenant.
+MID_NINO_LEVEL3: Oh non... Je ne veux pas être un\nfardeau...
+MID_NINO_SKILL: Je faisais partie du Black Fang, vous\nsavez. Je suis très douée !
+MID_NINO_JOIN: Moi c'est Nino. Je faisais partie du\nBlack Fang, mais maintenant je\nne suis plus qu'une simple mage.
+MID_NINO_STRONGEST: Je me plais beaucoup ici, vous\nsavez. Je me suis fait plein d'amis\net je m'amuse énormément !$k$pÇa me rappelle ma vie d'avant...\nentourée de gens que j'aimais.$k$pC'était merveilleux... mais ça n'a\npas duré. Il ne me reste plus que\nmes souvenirs.$k$pAvant, quand j'y repensais, cela\nme rendait très triste... Mais vous\nm'avez aidée à tourner la page.$k$pJe vous remercie, $GInvocateur,Invocatrice| !\nJe vais travailler dur pour vous\nprouver ma gratitude. Promis !
+MID_NINO_VOICE01: はいっ！
+MID_NINO_VOICE02: えいっ！
+MID_NINO_VOICE03: きゃああっ！
+MID_NINO_VOICE04: I-I gotta stay strong...
+MID_NINO_VOICE05: Aaahh !
+MID_NINO_VOICE06: Je n'échouerai pas !
+MID_NINO_VOICE07: Je peux le faire !
+MID_NINO_VOICE08: Je ferai de mon mieux !
+MID_NINO_VOICE09: I'm sorry...
+MID_NINO_VOICE10: Heehee
+MID_NINO_VOICE11: What do you need? To talk? I'm always up for that!
+MID_NINO_VOICE12: Aaah! Whew! Got scared for a second.
+MID_NINO_VOICE13: I never learned to read very well. You'll help me with that, right?
+MID_NINO_VOICE14: I'll work really hard for you. Cross my heart and hope to die!
+MID_NINO_VOICE15: You can't imagine how happy I am to be here!
+MID_NINO_VOICE16: The Black Fang was my family. I...wonder how the rest of them are doing.
+MID_NINO_VOICE17: I love baked dumplings more than anything! We should find some!
+MID_NINO_VOICE18: OK!
+MID_NINO_VOICE19: Yes?
+MID_NINO_VOICE20: Do my best!

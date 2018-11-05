@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_HOME1: Les membres des familles royales\nde ce monde ne semblent pas\nemployer de vassaux.$k$pN'ont-ils besoin de personne\npour assurer leur protection ?\nC'est... intéressant.
+MID_KAGEROU_HOME2: Mon seigneur, Messire Ryoma,\nbrille par sa force physique autant\nque par sa noblesse d'esprit.$k$pJe suis honorée de pouvoir\nle servir.
+MID_KAGEROU_HOME3: Vous êtes si $Gconsciencieux,consciencieuse|...\nLaissez-moi vous servir le thé,\ncela vous détendra.$k$pJe prépare un thé vert un peu\namer qui se marie à merveille\navec quelques sucreries.
+MID_KAGEROU_HOME4: Que faites-vous pour vous assurer\nde conserver les souvenirs des\nmoments passés ici ?$k$pJe vous conseille de tout noter dans\nun carnet. J'aime d'ailleurs décorer\nle mien avec de jolies illustrations...
+MID_KAGEROU_HOME5: J'aime peindre des paysages, mais\non me dit qu'ils ressemblent plutôt\nà des scènes de torture...
+MID_KAGEROU_FRIEND: $Nf m'a\nchargée de vous dire bonjour.\nBien. Je m'en vais, à présent.
+MID_KAGEROU_LEVEL1: Un ninja ne doit pas montrer\nd'émotions.
+MID_KAGEROU_LEVEL2: Ça suffira.
+MID_KAGEROU_LEVEL3: J'en attendais plus...
+MID_KAGEROU_SKILL: Ce nouveau pouvoir m'aidera\nassurément. Je vous remercie.
+MID_KAGEROU_JOIN: Je suis Kagero, kunoichi d'Hoshido.\nDonnez-moi une mission, et je\nla remplirai tapie dans l'ombre.
+MID_KAGEROU_STRONGEST: Regardez, $GInvocateur,Invocatrice|. J'ai préparé\nune composition florale avec ce que\nj'ai pu cueillir dans les environs.$k$pQu'en pensez-vous ?\n... On la croirait sortie tout\ndroit d'un cauchemar ?$k$pEh bien, j'apprécie votre honnêteté...$k$pDire que si je n'étais pas venue dans\nce monde, je n'aurais pas pu utiliser\nces fleurs dans mes créations...$k$pQuand on y pense, vous avez autant\ncréé cette composition que moi.$k$pJe vous remercie de passer tant de\ntemps avec moi, et de travailler dur\nà notre protection à tous.$k$pJe vous fais la promesse de toujours\nrester à vos côtés, dans les bons\nmoments comme dans les mauvais.
+MID_KAGEROU_VOICE01: せいっ
+MID_KAGEROU_VOICE02: はあっ
+MID_KAGEROU_VOICE03: くっ…！
+MID_KAGEROU_VOICE04: It doesn't hurt...
+MID_KAGEROU_VOICE05: Votre vie s'achève.
+MID_KAGEROU_VOICE06: Vous n'êtes déjà plus.
+MID_KAGEROU_VOICE07: Finissons-en.
+MID_KAGEROU_VOICE08: Annihilation !
+MID_KAGEROU_VOICE09: Defeated...
+MID_KAGEROU_VOICE10: Hmm.
+MID_KAGEROU_VOICE11: Have you known many ninja? We are a...unique breed.
+MID_KAGEROU_VOICE12: I always carry out my mission. No matter how grave the stakes.
+MID_KAGEROU_VOICE13: I value activities that require quiet and focus. Flower arranging. Tea ceremonies.
+MID_KAGEROU_VOICE14: My paintings, my flower arrangements... I'm afraid they're not to everyone's taste.
+MID_KAGEROU_VOICE15: A ninja should remain in shadow. Until she is summoned.
+MID_KAGEROU_VOICE16: Where is Lord Ryoma? I have a duty to protect him!
+MID_KAGEROU_VOICE17: I am often nowhere to be seen in times of war. That's when I'm doing my...best work.
+MID_KAGEROU_VOICE18: Hmm?
+MID_KAGEROU_VOICE19: Say the word.
+MID_KAGEROU_VOICE20: Let's go.

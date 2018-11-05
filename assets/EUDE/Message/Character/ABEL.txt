@@ -1,0 +1,38 @@
+[Heroes Archive] (ABEL)
+
+
+Heroes Message Name: Message
+
+
+MID_ABEL_HOME1: Ich betrog einst Prinz Marth, als\nEst als Geisel genommen war.\nDas werde ich mir nie verzeihen.
+MID_ABEL_HOME2: Mir gehört ein kleiner Laden in\nAltea. Benötigst du irgendwann\netwas, musst du nur fragen.
+MID_ABEL_HOME3: Hier, nimm diese Fackel mit dir\nauf Patrouille. Sie hilft dir auf\ndem Weg durch das Ungewisse.
+MID_ABEL_HOME4: Die Läden in der Stadt wecken\nmein Interesse. Würdest du mich\nbegleiten, wenn ich sie besuche?
+MID_ABEL_HOME5: Est bereitet die wunderbarsten\nSpeisen zu. Ich wünschte, du\nkönntest von ihnen kosten.
+MID_ABEL_FRIEND: Du bist $Nu,\nrichtig? $Nf\nbat mich, dir Grüße auszurichten.
+MID_ABEL_LEVEL1: Für meine Heimat! Und für\ndie, die mir am Herzen liegen!
+MID_ABEL_LEVEL2: Ich bin erfreut, dass ich noch\nnicht ganz eingerostet bin!
+MID_ABEL_LEVEL3: Oh nein! Ich habe meine\nÜbungen schleifen lassen!
+MID_ABEL_SKILL: Dank sei dir! Ich werde immer\nein stolzer Ritter Alteas sein.
+MID_ABEL_JOIN: Ich bin Abel, Ritter von Altea...\noder ich war es. Jetzt bin ich\nein einfacher Händler.
+MID_ABEL_STRONGEST: Prinz Marth und meine geliebte Est\nbedeuten mir beide so unglaublich\nviel.$k$pDie Loyalität gegenüber meinem\nHerrn, die Zuneigung zu meiner\nGeliebten...$k$pBeide Gefühle sind hell und stark.$k$pMeine Gefühle dir gegenüber aber...\nLoyalität, weil du mich gerufen hast?$k$pOder echte, wachsende\nFreundschaft?$k$pIch weiß es nicht. Nur eins ist klar:\nEs gibt nun eine weitere Person,\ndie wichtig für mich ist.$k$pIch hoffe, du zählst weiter auf mich,\nso wie du es bisher getan hast.
+MID_ABEL_VOICE01: はっ！
+MID_ABEL_VOICE02: せいっ！
+MID_ABEL_VOICE03: うああっ！
+MID_ABEL_VOICE04: You're...strong...
+MID_ABEL_VOICE05: Mach deinen Frieden mit der Welt!
+MID_ABEL_VOICE06: Zurück mit dir!
+MID_ABEL_VOICE07: Keine Gnade!
+MID_ABEL_VOICE08: Du hast mich unterschätzt!
+MID_ABEL_VOICE09: Apologies...
+MID_ABEL_VOICE10: Haha
+MID_ABEL_VOICE11: What's wrong?
+MID_ABEL_VOICE12: I fear that I've grown soft since leaving the knights.
+MID_ABEL_VOICE13: I run a small shop. Perhaps you can visit someday.
+MID_ABEL_VOICE14: Let me know if you need anything—anything at all.
+MID_ABEL_VOICE15: I was once known as...Abel the Panther.
+MID_ABEL_VOICE16: When there are two precious things in your life, you must choose between them.
+MID_ABEL_VOICE17: I swear on my life never to betray you.
+MID_ABEL_VOICE18: Of course.
+MID_ABEL_VOICE19: Advance?
+MID_ABEL_VOICE20: Yes.

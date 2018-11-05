@@ -1,0 +1,38 @@
+[Heroes Archive] (WENDY)
+
+
+Heroes Message Name: Message
+
+
+MID_WENDY_HOME1: Ce château a été construit pour\nrésister aux attaques ennemies.\nSes défenses sont admirables.
+MID_WENDY_HOME2: D'où je viens, rares sont les femmes\nqui portent une armure lourde, mais\nj'ai voulu suivre les pas de mon frère.
+MID_WENDY_HOME3: J'aimerais vous accompagner lors de\nvos rondes, mais je crains que je ne\nfasse que vous ralentir...
+MID_WENDY_HOME4: Ne le dites à personne, mais\ncette armure me fait terriblement\nmal au dos !
+MID_WENDY_HOME5: Je dois suivre un entraînement\nrigoureux, ne serait-ce que pour\npouvoir marcher avec cette armure.
+MID_WENDY_FRIEND: Enchantée ! J'ai été envoyée\npar $Nf\npour vous saluer. Alors, salut !
+MID_WENDY_LEVEL1: Parfait ! Vous pouvez encore plus\ncompter sur moi !
+MID_WENDY_LEVEL2: C'est ce qu'on attend d'un chevalier\nd'Ositia.
+MID_WENDY_LEVEL3: Je ne veux pas ralentir les autres...
+MID_WENDY_SKILL: Je n'aurais jamais imaginé devenir\naussi forte !
+MID_WENDY_JOIN: Je suis Gwendolyn, chevalier d'Ositia.\nJe vous prouverai que je suis digne\nde porter cette armure !
+MID_WENDY_STRONGEST: J'apprécie votre soutien sur le\nchamp de bataille, $GInvocateur,Invocatrice|...$k$pMais j'ai parfois l'impression que\nvous cherchez un peu trop à me\nprotéger.$k$pLorsque vous vous inquiétez pour\nmoi, je me demande si je remplis\nbien mon rôle de chevalier...$k$pCraignez-vous que je n'attire trop\nl'attention à cause de mon armure\ncolorée ?$k$pC'est pourtant exactement ce que\nje recherche : attirer l'ennemi pour\nqu'il ne puisse nuire à mes alliés !$k$pJe sais que vous tenez à tous nous\nprotéger, mais mon rôle au combat\nest de prendre ce genre de risque.$k$pCela me touche, en tout cas. Je sais\nque vous veillez sur moi, et cela me\ndonne le courage d'aller de l'avant.
+MID_WENDY_VOICE01: えいっ！
+MID_WENDY_VOICE02: はぁっ！
+MID_WENDY_VOICE03: きゃああっ！
+MID_WENDY_VOICE04: I can't...be a burden...
+MID_WENDY_VOICE05: Je refuse d'échouer !
+MID_WENDY_VOICE06: L'échec n'est pas permis !
+MID_WENDY_VOICE07: À l'assaut !
+MID_WENDY_VOICE08: C'est à moi !
+MID_WENDY_VOICE09: Sorry...
+MID_WENDY_VOICE10: Heehee
+MID_WENDY_VOICE11: Oh MY! Whew...what a surprise. Next time, maybe just say hi.
+MID_WENDY_VOICE12: Please don't let me fall over in this armor. It'd be impossible to get up again.
+MID_WENDY_VOICE13: A truly loyal knight is ever glad to bear the heaviest of armor.
+MID_WENDY_VOICE14: This armor adds a tremendous amount of bulk! Really, you wouldn't believe it.
+MID_WENDY_VOICE15: I offer my gratitude for your kindness and your consideration.
+MID_WENDY_VOICE16: One, TWO! And one, TWO! Whew!
+MID_WENDY_VOICE17: I give you my solemn vow—to defend you, even at the cost of my life.
+MID_WENDY_VOICE18: Yes?
+MID_WENDY_VOICE19: Certainly.
+MID_WENDY_VOICE20: My turn?

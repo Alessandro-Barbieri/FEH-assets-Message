@@ -1,0 +1,39 @@
+[Heroes Archive] (TAKUMI)
+
+
+Heroes Message Name: Message
+
+
+MID_TAKUMI_HOME1: へえ、あんたの神器も撃つものなんだ。\n最初は狙いを定めるのに苦労するよね…\n…ってそれ、実戦じゃ使えないんだっけ。
+MID_TAKUMI_HOME2: 僕の臣下はヒナタとオボロっていうんだ。\n真面目で気のいい奴らだから…\nいつもつい、甘えてしまうんだよね。
+MID_TAKUMI_HOME3: あんたは戦えないって聞いたから、\n戦場では守ってあげてもいいよ。\nな、なんだよ。僕なんかじゃ頼りない？
+MID_TAKUMI_HOME4: この世界に味噌汁ってないのかな。\n故郷の味が懐かしくなっちゃってさ…\n興味があるなら一緒に作らないか？
+MID_TAKUMI_HOME5: 風神弓の手入れをしてたんだ。\n僕の実力はこいつ頼みだからね…\n壊れてもらうわけにはいかないんだよ。
+MID_TAKUMI_FRIEND: $Nfからの挨拶、\nちゃんと伝えたからね。\nせいぜい仲良くしなよ？
+MID_TAKUMI_LEVEL1: ここまで強くなれば\n文句ないだろ？
+MID_TAKUMI_LEVEL2: 兄さんや姉さんたちより\n強くなれるかな…
+MID_TAKUMI_LEVEL3: …なんだよ。\nたまにはこういうこともあるよ。
+MID_TAKUMI_SKILL: 新しい力を身につけたよ。\n僕のこと、見直した？
+MID_TAKUMI_JOIN: 白夜王国の王子、タクミだ。\n一応…風神弓を継承してるよ。\n僕だって強いんだからな。
+MID_TAKUMI_STRONGEST: あのさ、$Nu。\nあんたにとって僕はどんな英雄？\n少しは思い入れがあったりするの？$k$p…別に、ちょっと聞いてみただけ。\nただの自惚れかもしれないけど、\nあんたは僕を認めてくれてるみたいだから。$k$pそうじゃないとここまで僕のこと、\n傍に置いて手をかけたりしないだろ？\n…感謝してるんだよ、一応。$k$pあんたは僕の欲しかったものをくれたから。\n悔しいけど…思い入れがあるのは\n僕のほうなのかもね。$k$pたぶんこの先ずっと忘れないぐらい…\n僕はあんたを特別に思ってる。\nどんな英雄より強くなるから、見ていて。\n
+MID_TAKUMI_VOICE01: せやっ！
+MID_TAKUMI_VOICE02: 当たれっ！
+MID_TAKUMI_VOICE03: うわっ！
+MID_TAKUMI_VOICE04: よくもやったね…
+MID_TAKUMI_VOICE05: 調子に乗るなよ
+MID_TAKUMI_VOICE06: 目障りなんだけど
+MID_TAKUMI_VOICE07: 射ち落としてやる
+MID_TAKUMI_VOICE08: 的になりなよ
+MID_TAKUMI_VOICE09: お前…なんかに…
+MID_TAKUMI_VOICE10: ええと…
+MID_TAKUMI_VOICE11: ふふっ、あんたヒマなんだろ
+MID_TAKUMI_VOICE12: 昔からさ、夢見がよくないんだよね
+MID_TAKUMI_VOICE13: 鬱陶しい相手なんて、この僕がぶっ潰してあげるよ
+MID_TAKUMI_VOICE14: ねえ、僕が来たとき…嬉しいって思ってくれた？
+MID_TAKUMI_VOICE15: 強くなりたいんだ、他のきょうだいたちよりも…
+MID_TAKUMI_VOICE16: ヒナタとオボロはいる？　別に…いないと落ち着かないってだけ
+MID_TAKUMI_VOICE17: こうやって頼られると、悪い気しないな。\nまた褒めてくれるなら、頑張ってあげてもいいよ。
+MID_TAKUMI_VOICE18: うん
+MID_TAKUMI_VOICE19: 僕がやるよ
+MID_TAKUMI_VOICE20: 行こう
+MID_TAKUMI_VOICE21: 僕の力が必要なの？　まったく、仕方ないね

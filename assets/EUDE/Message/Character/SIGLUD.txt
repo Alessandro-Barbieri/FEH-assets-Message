@@ -1,0 +1,38 @@
+[Heroes Archive] (SIGLUD)
+
+
+Heroes Message Name: Message
+
+
+MID_SIGLUD_HOME1: Ich liebe Deirdre so sehr, dass ich sie\nauch dann noch ohne Reue lieben\nwürde, wenn es ein Verbrechen wäre.
+MID_SIGLUD_HOME2: Eldigan, mein lieber Freund... warum\nwar es Euch bestimmt zu sterben?
+MID_SIGLUD_HOME3: Ich weiß, dass es viel zu tun gibt, und\nviele verlassen sich auf Euch.$k$pAber Ihr könnt sicherlich andere\nfinden, die sich um diese Aufgaben\nkümmern. Ich würde gerne helfen.
+MID_SIGLUD_HOME4: Mein Sohn Seliph ist sicher. Nichts\nkönnte mich glücklicher machen.
+MID_SIGLUD_HOME5: Wenn das Kämpfen beendet ist,\nwerde ich mich wieder meinem Sohn\nSeliph anschließen.$k$pDas habe ich ihm versprochen.
+MID_SIGLUD_FRIEND: Seid Ihr $Nu?$k$pGut, ich habe einen Brief für Euch\nvon $Nf.
+MID_SIGLUD_LEVEL1: Als Baldos Nachfahre werde ich\nEuer Vertrauen nicht verraten.
+MID_SIGLUD_LEVEL2: Ich muss stärker werden. Meine\nLandsleute brauchen mich.
+MID_SIGLUD_LEVEL3: Ich bin ein schlechtes Vorbild.
+MID_SIGLUD_SKILL: Ich werde Euch Euer Vertrauen\nin mich zurückzahlen.
+MID_SIGLUD_JOIN: Ich bin Sigurd. Ich bin der Erbe des\nHerzogtums Chalphy und Nachfahre\ndes Heiligen Ritters Baldo.
+MID_SIGLUD_STRONGEST: Als andere Intrigen gegen uns\nschmiedeten, wurden mein Vater und\nich als Verräter gebrandmarkt.$k$pUnsere Familie verlor ihre Ehre. Ich\nkämpfte dafür, sie wiederherzustellen\nund die Wahrheit ans Licht zu$k$pbringen, aber ich habe versagt.\nSeliph bemühte sich trotz seines\nAlters so sehr dafür, mein Bedauern$k$pzu zerstreuen... Der Nachkomme des\nLichts, der die Dunkelheit vertreibt\nund seinen Vater rächt - so müssen$k$pdie Leute ihn wahrnehmen. Natürlich\ngibt es mehr als eine Sichtweise. Das\nBöse kann für das Gute gehalten$k$pwerden und das Gute für das Böse.\nDas habe ich leider zu spät gelernt.\nIch muss es Seliph erklären.$k$pEs ist meine Pflicht, ihn zu einem\nwahren König zu machen.
+MID_SIGLUD_VOICE01: はっ！
+MID_SIGLUD_VOICE02: せいっ！
+MID_SIGLUD_VOICE03: うああっ！
+MID_SIGLUD_VOICE04: くっ…だが…
+MID_SIGLUD_VOICE05: Nehmt Euch in Acht!
+MID_SIGLUD_VOICE06: Ein alles entscheidender Angriff!
+MID_SIGLUD_VOICE07: Ich lasse es nicht zu.
+MID_SIGLUD_VOICE08: Zieht Euer Schwert!
+MID_SIGLUD_VOICE09: Deirdre, I'm sorry.
+MID_SIGLUD_VOICE10: (light chuckle)
+MID_SIGLUD_VOICE11: I'd be honored to have you as an advisor, if you're willing.
+MID_SIGLUD_VOICE12: Hm? My apologies. Did you call for me?
+MID_SIGLUD_VOICE13: Your kindness and concern for others is the reason so many people look up to you. I'm sure of it.
+MID_SIGLUD_VOICE14: I hope I can always count on your strength. It's true. I need your help.
+MID_SIGLUD_VOICE15: If my love for Deirdre is a crime, please punish me, and only me!
+MID_SIGLUD_VOICE16: Seliph, I hope that you can forgive me one day. Please... Grow into a strong man. One people look up to.
+MID_SIGLUD_VOICE17: I swear that I will use every ounce of my strength to protect you.
+MID_SIGLUD_VOICE18: Very well.
+MID_SIGLUD_VOICE19: I trust you.
+MID_SIGLUD_VOICE20: I swear it.

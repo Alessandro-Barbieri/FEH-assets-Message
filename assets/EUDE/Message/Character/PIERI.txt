@@ -1,0 +1,38 @@
+[Heroes Archive] (PIERI)
+
+
+Heroes Message Name: Message
+
+
+MID_PIERI_HOME1: Die Kommandantin ist hübsch.\nWoher hat sie nur diese tollen,\nroten Haare?$k$pOb die mit Feindesblut gefärbt\nsind?
+MID_PIERI_HOME2: Mylord Xander ist mein Herr.$k$pEr ist ein bisschen furchterregend,\naber ich mag ihn trotzdem.\nEr lässt mich gaaanz oft kämpfen!
+MID_PIERI_HOME3: Gute Arbeit beim Rundgang!\nSolltet Ihr mal müde werden,\nkommt zu mir.$k$pBei mir gibt es die Knuddel-\nDrück-Kopftätschel-Pause!
+MID_PIERI_HOME4: Ich mache ganz fantastische Eintöpfe.\nIch besorge mir aber auch immer nur\ndas beste Fleisch vom besten$k$pMetzger.\nUnd je blutiger es ist, umso besser.
+MID_PIERI_HOME5: Ich denke oft an meine Mami. Sie ist\nweg, für immer. Aber genau wie sie\nkann ich gut kochen.$k$pUnd das heißt, irgendwie lebt sie\ndurch mich weiter.
+MID_PIERI_FRIEND: Ooooh! Ich hab Euch gefunden! Ich\nhab Euch gefunden! Ihr seid doch\n$Nu, oder?$k$pJemand Superfreundliches hat mich\nhierhergeschickt, um Hallo zu sagen.\nEs war... $Nf!
+MID_PIERI_LEVEL1: Toll! Kann ich jetzt\nweiter Leute töten?
+MID_PIERI_LEVEL2: Aus welchem Holz\nwohl böse Jungs sind!
+MID_PIERI_LEVEL3: Argh! Das ist ja\nfast gar nichts.
+MID_PIERI_SKILL: Ihr habt mich stark gemacht.\nAlso, wen soll ich jetzt töten?
+MID_PIERI_JOIN: Ich bin Peri! P wie Perforieren,\nE wie Enthaupten, R wie Rädern,\nI wie...?$k$pWie: Ins Jenseits! Ich bin von den\nnohrischen Kavalieren. Zeigt mir\ndie Richtung und ich leg los!
+MID_PIERI_STRONGEST: Oh, ich habe Euch schon gesucht.\nIch habe etwas Schmatzleckeres\nfür Euch gemacht!$k$pIch hab es wirklich selbst gekocht. Oh,\nich habe das Fleisch geschnitten und\ngehackt, das Gemüse natürlich auch!$k$pEsst, solange es noch heiß ist.\nSchmeckt es Euch? Lecker, ja?\nJUCHHU!$k$pMeine Mami war supergut im Kochen.\nDeshalb will ich auch gut darin sein.\nDann ist es, als sei sie noch bei mir!$k$pAber noch besser ist, dass ich nun\nweiß, wie ich Euch glücksfröhlich\nmachen kann!$k$pAlso, zählt von nun an auf Eure Peri,\nwenn es im Kampf UND in der Küche\nheiß hergehen soll!
+MID_PIERI_VOICE01: それっ！
+MID_PIERI_VOICE02: えーいなの！
+MID_PIERI_VOICE03: ふええ…！
+MID_PIERI_VOICE04: That hurts!
+MID_PIERI_VOICE05: Genau da wollte ich dich haben!
+MID_PIERI_VOICE06: Tschüss, Eingeweide!
+MID_PIERI_VOICE07: Zeit zum Spielen!
+MID_PIERI_VOICE08: Tötung... erfolgt jetzt!
+MID_PIERI_VOICE09: Not me!
+MID_PIERI_VOICE10: Kee hee!
+MID_PIERI_VOICE11: I get stabby if people make me mad.
+MID_PIERI_VOICE12: I can cook up food like you wouldn't believe!
+MID_PIERI_VOICE13: The outfits in the Order of Heroes are so cute!
+MID_PIERI_VOICE14: Why's your outfit so white? To make the blood spatters more spattery, right?
+MID_PIERI_VOICE15: You work so hard! You deserve a huggy-wuggy!
+MID_PIERI_VOICE16: Where's my Lord Xander! Where is he?! I need to protect him!
+MID_PIERI_VOICE17: So, I'll get stabbity-stab with enemies, and you'll thank me. Deal?
+MID_PIERI_VOICE18: OK!
+MID_PIERI_VOICE19: Who's next?
+MID_PIERI_VOICE20: It's time.

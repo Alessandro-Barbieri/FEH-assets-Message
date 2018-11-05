@@ -1,0 +1,38 @@
+[Heroes Archive] (MARC_F)
+
+
+Heroes Message Name: Message
+
+
+MID_MARC_F_HOME1: Scusa, vuoi dire che sono venuta fuori\ndalla tua arma divina? Ingrossare i tuoi\nranghi dev'essere una quisquilia!$k$pApparentemente non dovrei mai\nsottovalutare gli Evocatori di altri\nmondi.
+MID_MARC_F_HOME2: Non ricordo molto della mia vita prima\ndi arrivare qui. Non che me ne importi\ntanto, comunque!
+MID_MARC_F_HOME3: Oh, tocca a te la ronda oggi? Uh, mi\nè giunta voce che qualcuno possa\naver, ecco, come dire...$k$p... scavato una trappola sulla via\nda pattugliare. Quindi, dunque...\nFai attenzione, va bene?
+MID_MARC_F_HOME4: Vorresti condividere qualcuna delle\ntue tattiche con me?$k$pVoglio capire cosa passa per la testa\ndi $Gun esperto,un'esperta| stratega dei Guardiani\ndi Askr!
+MID_MARC_F_HOME5: Visto che sono la figlia dello stratega\npiù brillante, so fare un sacco di cose\ndiverse!$k$pGuardami! Adesso sono una cavaliera\narcana!
+MID_MARC_F_FRIEND: Ah! Il mio piano di spuntare dal nulla\nper obbligarti a chiacchierare con me\nha funzionato alla perfezione!$k$pEh eh eh, ti porto i saluti di\n$Nf.
+MID_MARC_F_LEVEL1: Bene. Sto recuperando\npiù in fretta che posso!
+MID_MARC_F_LEVEL2: Bello! Divento più forte\npasso dopo passo.
+MID_MARC_F_LEVEL3: Non dimenticherò questo\nfallimento tanto facilmente.
+MID_MARC_F_SKILL: È come quando mio padre mi\nregalò quel manuale di strategia!
+MID_MARC_F_JOIN: Sono Linfan. Cercavi la figlia dello\nstrepitoso stratega Daraen?\nEccomi, l'hai trovata!$k$pAnche mio padre è qua in giro,\nnon è forse così?
+MID_MARC_F_STRONGEST: $Nu... Ho un\nfavore immenso da chiederti\noggi... Ti prego...$k$pFammi diventare la tua\napprendista!$k$pPensi a strategie talmente pazzesche\nda fare quasi invidia a mio padre!$k$pE lui è un genio, come probabilmente\nho già menzionato sei o sette volte.$k$pFarò anche le tue faccende! Ti laverò\ni vestiti, ti luciderò Breidablik, farò\ntutto quello che vuoi!$k$pDavvero? Posso essere la tua\napprendista? Oh, grazie! Imparerò\ncosì tanto da te...$k$pEh eh eh... Tra l'altro, qualcosa nel\ntuo sorriso mi fa pensare a mio\npadre... È un sorriso molto dolce.$k$pDa quando ti ho conosciuto, sapevo\nche avrei fatto bene a seguirti.$k$pMi hai evocato tu, il che ti rende\nspeciale, ma anche in caso contrario\navremmo avuto un ottimo rapporto!$k$pIn ogni caso, se me lo permetterai,\nti seguirò fino alla fine dei tempi!
+MID_MARC_F_VOICE01: えいっ！
+MID_MARC_F_VOICE02: Here I go!
+MID_MARC_F_VOICE03: ひゃあっ！
+MID_MARC_F_VOICE04: I messed up...
+MID_MARC_F_VOICE05: Scacco matto!
+MID_MARC_F_VOICE06: Dilettante.
+MID_MARC_F_VOICE07: Vedrai!
+MID_MARC_F_VOICE08: Tocca a me!
+MID_MARC_F_VOICE09: Tough one...
+MID_MARC_F_VOICE10: Eheehee
+MID_MARC_F_VOICE11: My father is the greatest tactician who's ever lived, you know.
+MID_MARC_F_VOICE12: A blow to the head from a big tome is no joke, let me tell you.
+MID_MARC_F_VOICE13: Up for a game of chess?
+MID_MARC_F_VOICE14: Give me time, and I'll be your best piece on the board.
+MID_MARC_F_VOICE15: You wouldn't know it to look at me, but I have almost total amnesia!
+MID_MARC_F_VOICE16: Someday, I hope to be able to beat my father in tactics...
+MID_MARC_F_VOICE17: I like it here with you. I hope you find my strategies useful!
+MID_MARC_F_VOICE18: OK.
+MID_MARC_F_VOICE19: What's next?
+MID_MARC_F_VOICE20: Let's go!

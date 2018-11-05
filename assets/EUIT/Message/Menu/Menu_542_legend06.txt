@@ -1,0 +1,11 @@
+[Heroes Archive] (Menu_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_FIRE: Non hai abbastanza alleati con il\nDono del fuoco o eroi leggendari\ndi tipo fuoco. Ogni squadra deve\navere 4 eroi unici, senza duplicati.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WATER: Non hai abbastanza alleati con il\nDono dell'acqua o eroi leggendari\ndi tipo acqua. Ogni squadra deve\navere 4 eroi unici, senza duplicati.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WIND: Non hai abbastanza alleati con il\nDono del vento o eroi leggendari\ndi tipo vento. Ogni squadra deve\navere 4 eroi unici, senza duplicati.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_EARTH: Non hai abbastanza alleati con il\nDono della terra o eroi leggendari\ndi tipo terra. Ogni squadra deve\navere 4 eroi unici, senza duplicati.
+MID_VOTE_TERM_201807: Duelli predestinati

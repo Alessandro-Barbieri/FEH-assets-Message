@@ -1,0 +1,39 @@
+[Heroes Archive] (MARTH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_HOME1: 不思議だね。君のことは\nずっと一緒に過ごした半身のように\n感じるんだ…
+MID_MARTH_HOME2: ぼくは英雄王なんかじゃないよ。\nたくさんの仲間たちがいてくれたから、\n戦争を終わらせることができたんだ。
+MID_MARTH_HOME3: いつもぼくたちのためにありがとう。\n困ったことがあったら、いつでも\nぼくたちのことを頼って欲しい。
+MID_MARTH_HOME4: この世界は美しいね…\nぼくの故郷の景色を思い出すよ。
+MID_MARTH_HOME5: ぼくは仲間を一人も死なせたくない。\n君と一緒に…\nみんなでこの戦いを乗り越えたいんだ。
+MID_MARTH_FRIEND: こんにちは。ここは良いところだね。\n$Nfに頼まれて、\n挨拶にお邪魔したんだ。
+MID_MARTH_LEVEL1: 皆の往く先を照らす\n希望の光になりたい…！
+MID_MARTH_LEVEL2: うん。この調子で\nこれからもがんばるよ。
+MID_MARTH_LEVEL3: ごめん、なんだか\n調子が出ないみたいだ…
+MID_MARTH_SKILL: この希望の光で…\n戦いを終わらせてみせるよ。
+MID_MARTH_JOIN: ぼくはアリティアの王子マルス。\nぼくも、平和を望む君たちと共にいたい。\nこれからよろしくね。
+MID_MARTH_STRONGEST: これまで幾度も激戦を重ねてきて…\nぼくは自分の非力さを思い知った。$k$pでもそんなとき、君が傍にいてくれた事、\n本当に心強かったよ…$k$pぼくは独りでは何もできないけれど、\n君と一緒ならどんな困難にも\n立ち向かっていける…そんな気がするんだ。$k$pだからこれからも…\n共に戦い続けていこう。$k$pうん、ありがとう。\nこれからもよろしくね。
+MID_MARTH_VOICE01: せいっ
+MID_MARTH_VOICE02: はあっ
+MID_MARTH_VOICE03: うっ
+MID_MARTH_VOICE04: うわああ！
+MID_MARTH_VOICE05: みんな見ていてくれ！
+MID_MARTH_VOICE06: 許してくれ…！
+MID_MARTH_VOICE07: せめて一撃で…！
+MID_MARTH_VOICE08: ぼくの手で…！
+MID_MARTH_VOICE09: しまっ…た……
+MID_MARTH_VOICE10: ふふっ
+MID_MARTH_VOICE11: どうしたんだい？
+MID_MARTH_VOICE12: きみの闘い、いつも見ているよ
+MID_MARTH_VOICE13: きみにも、素晴らしい仲間がたくさんいるんだね
+MID_MARTH_VOICE14: この髪飾りは、ある女性からもらったものなんだ
+MID_MARTH_VOICE15: どこの世界でも、戦乱はあるんだね…
+MID_MARTH_VOICE16: ぼくは、誰一人も死なせたくはない。君も、同じことを考えているんだろう？
+MID_MARTH_VOICE17: きみとこうしているのは、とても楽しいよ。\n辛いことも全て、癒されていくような気がする。
+MID_MARTH_VOICE18: さあ、行こう
+MID_MARTH_VOICE19: 大丈夫だ
+MID_MARTH_VOICE20: きみを守るよ
+MID_MARTH_VOICE21: どうか、きみの力にならせてくれ。

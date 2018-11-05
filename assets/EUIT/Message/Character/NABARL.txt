@@ -1,0 +1,38 @@
+[Heroes Archive] (NABARL)
+
+
+Heroes Message Name: Message
+
+
+MID_NABARL_HOME1: Quindi è qui che si incontrano i più\ngrandi guerrieri di tutti i mondi?
+MID_NABARL_HOME2: Stai bloccando la mia visuale.
+MID_NABARL_HOME3: Non perdere tempo a parlare con\nme. Concentrati sulla prossima\nbattaglia.
+MID_NABARL_HOME4: Se non hai bisogno di nulla,\npreferirei restare solo.
+MID_NABARL_HOME5: Questo castello è pieno di persone\nstrane... come te del resto.
+MID_NABARL_FRIEND: Saluti da\n$Nf.
+MID_NABARL_LEVEL1: Non male.
+MID_NABARL_LEVEL2: Beh, finisce qui.
+MID_NABARL_LEVEL3: ...
+MID_NABARL_SKILL: Io combatto e basta. Non mi\nservono riconoscimenti.
+MID_NABARL_JOIN: Chiamami Nabarl. Sono un\nmercenario e anche piuttosto caro.
+MID_NABARL_STRONGEST: Combatto da solo, in genere, ma...$k$p... non escludo di combattere insieme\na tutti voi in futuro.$k$pLascia stare. Non fare caso a quello\nche ho detto.$k$pMi sono lasciato prendere dalle\nemozioni. Dev'essere per colpa tua,\n$Nu.
+MID_NABARL_VOICE01: はぁっ！
+MID_NABARL_VOICE02: せいっ！
+MID_NABARL_VOICE03: うああっ！
+MID_NABARL_VOICE04: Che...
+MID_NABARL_VOICE05: È tempo di morire.
+MID_NABARL_VOICE06: Vuoi mettermi alla prova?
+MID_NABARL_VOICE07: Morte tua, vita mia.
+MID_NABARL_VOICE08: Spiacente...
+MID_NABARL_VOICE09: This is it.
+MID_NABARL_VOICE10: ...sigh
+MID_NABARL_VOICE11: What?
+MID_NABARL_VOICE12: I don't work cheap.
+MID_NABARL_VOICE13: I'm busy right now.
+MID_NABARL_VOICE14: I'll help, but I don't "chat."
+MID_NABARL_VOICE15: I have vowed never to turn a blade on a woman.
+MID_NABARL_VOICE16: I doubt there is anyone who can cross blades with me and live.
+MID_NABARL_VOICE17: Don't die out there.
+MID_NABARL_VOICE18: All right.
+MID_NABARL_VOICE19: Now what?
+MID_NABARL_VOICE20: Done.

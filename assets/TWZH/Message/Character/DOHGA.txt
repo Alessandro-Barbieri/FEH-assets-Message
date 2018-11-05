@@ -1,0 +1,38 @@
+[Heroes Archive] (DOHGA)
+
+
+Heroes Message Name: Message
+
+
+MID_DOHGA_HOME1: 你不穿鎧甲嗎？\n很危險喔，單靠那件奇怪的\n衣服，沒辦法保命吧？
+MID_DOHGA_HOME2: 我在阿利提亞騎士團，\n一直以這副厚重的鎧甲\n守護著馬爾斯殿下。
+MID_DOHGA_HOME3: 你好像總是很忙呢。\n不過，別逞強喔。\n偶爾也要好好休息才行。
+MID_DOHGA_HOME4: 如果你願意穿上我這種鎧甲，\n那我就放心了……\n……會重到無法動彈嗎？
+MID_DOHGA_HOME5: 嗯……\n最近總覺得\n鎧甲好像越來越緊了……
+MID_DOHGA_FRIEND: 打擾了，你是城主嗎？\n我是來替$Nf\n傳達表示友好的問候的喔。
+MID_DOHGA_LEVEL1: 這下子防守就萬無一失了！
+MID_DOHGA_LEVEL2: 太好了。就照這股氣勢\n堅守防備吧。
+MID_DOHGA_LEVEL3: 嗯……這樣的話\n無法守護大家……
+MID_DOHGA_SKILL: 這樣就能守護更多夥伴了。\n希望大家都能放心戰鬥。
+MID_DOHGA_JOIN: 我是阿利提亞的重騎士多加。\n我要用這副鎧甲好好守護夥伴。
+MID_DOHGA_STRONGEST: 比起打倒敵人，\n我更重視如何在\n戰鬥中守護夥伴……$k$p正因為如此，\n我自認為\n很清楚你的為人。$k$p我知道你是多麼地看重夥伴，\n為了守護大家付出多少心力……$k$p只要有你跟我在，\n想必就能守護更多夥伴吧。\n今後也請你多多指教囉。
+MID_DOHGA_VOICE01: 哼！
+MID_DOHGA_VOICE02: 嘿！
+MID_DOHGA_VOICE03: 嗚啊～！
+MID_DOHGA_VOICE04: 什、什麼……！？
+MID_DOHGA_VOICE05: 別想越雷池一步！
+MID_DOHGA_VOICE06: 給我讓開！
+MID_DOHGA_VOICE07: 以一當千！
+MID_DOHGA_VOICE08: 為主君而戰！
+MID_DOHGA_VOICE09: 武運……昌隆……
+MID_DOHGA_VOICE10: 哈哈！
+MID_DOHGA_VOICE11: 有事嗎？
+MID_DOHGA_VOICE12: 傷腦筋……
+MID_DOHGA_VOICE13: 我有沾到什麼嗎？
+MID_DOHGA_VOICE14: 我今後也想和你並肩作戰。
+MID_DOHGA_VOICE15: 這副鎧甲是我最可靠的搭檔。
+MID_DOHGA_VOICE16: 我有必須守護的事物。
+MID_DOHGA_VOICE17: 我就用這副鎧甲守護你吧。
+MID_DOHGA_VOICE18: 瞭解。
+MID_DOHGA_VOICE19: 嗯……
+MID_DOHGA_VOICE20: 以己身為盾。

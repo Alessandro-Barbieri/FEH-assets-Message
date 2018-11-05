@@ -1,0 +1,38 @@
+[Heroes Archive] (SAKURA)
+
+
+Heroes Message Name: Message
+
+
+MID_SAKURA_HOME1: と、特務機関にはその…杖使いというか、\n衛生兵はいらっしゃらないんですよね？\nそれなら私、もっと頑張ります…
+MID_SAKURA_HOME2: 私の臣下はカザハナさんとツバキさんです…\n二人とも本当に強くて、頼りになって…\n私には勿体無いほどの方たちなんですよ。
+MID_SAKURA_HOME3: み、見回りですか？　お疲れさまです…！\nちょうど私も、同じことをしていたんです…\n皆さんの無事、確かめておきたいですよね。
+MID_SAKURA_HOME4: も、もし宜しければ…お時間のある時に、\n甘味屋に案内してくださいませんか…？\n気になるんです、この国のおいしいもの…
+MID_SAKURA_HOME5: その、訓練をしていました…\n兄様や姉様にばかり頼らずに、\n私一人でもあなたのお役に立てるように…
+MID_SAKURA_FRIEND: こ、こんにちは…！\n$Nfさんから、\n挨拶をお預かりして来ました…！
+MID_SAKURA_LEVEL1: 私だって、立派に\n戦ってみせます…！
+MID_SAKURA_LEVEL2: つ、強くなれて\n嬉しいです…！
+MID_SAKURA_LEVEL3: す、すみません…！\nもっと頑張ります…！
+MID_SAKURA_SKILL: 強くしてくださったんですか？\nありがとうございます…！
+MID_SAKURA_JOIN: わ、私は白夜王国の王女…\nサクラと申しますっ！\nよ、よろしくお願いします…！
+MID_SAKURA_STRONGEST: $Nuさん…！\nは、はい…今日も怪我なんてしていません。\n心配してくださって、優しいんですね。$k$pあなたは大英雄と呼ばれる方ですから、\n本当は、最初はとっても緊張してたんです。\nでも、こうして傍にいてくださって…$k$p今ではまるで兄様や姉様といる時のように\n心が落ち着くんですよ。\nあなたとおしゃべりする時間、大好きです。$k$pわ、わがままかもしれませんけど…\n良かったらこれからもこうして、\n仲良くしていただけますか…！？$k$p…ふふ、頷いてくださって、嬉しいです。\n私、あなたに呼ばれて良かった…！\nこれからも…あなたの力になりますね。\n
+MID_SAKURA_VOICE01: はいっ
+MID_SAKURA_VOICE02: それっ
+MID_SAKURA_VOICE03: きゃあっ！
+MID_SAKURA_VOICE04: どうしましょう…！
+MID_SAKURA_VOICE05: 勝たせてください…！
+MID_SAKURA_VOICE06: 来ないで…！
+MID_SAKURA_VOICE07: すみませんっ
+MID_SAKURA_VOICE08: し、失礼しますっ
+MID_SAKURA_VOICE09: ごめん…なさい…
+MID_SAKURA_VOICE10: ふふ…
+MID_SAKURA_VOICE11: が、頑張りましょうね…！
+MID_SAKURA_VOICE12: 怪我には気をつけてください…
+MID_SAKURA_VOICE13: あ、あの…その…すみません、私、口下手で…！
+MID_SAKURA_VOICE14: 白夜王国もこの国のような、美しいところなんですよ。
+MID_SAKURA_VOICE15: 私も兄様や姉様たちのように、強くなりたいです…
+MID_SAKURA_VOICE16: カザハナさんとツバキさんを見かけませんでしたか？
+MID_SAKURA_VOICE17: えっと…私、この国のこと色々知りたいですっ。\nよかったら教えてください…あなたのことも。
+MID_SAKURA_VOICE18: はい
+MID_SAKURA_VOICE19: 傍にいます
+MID_SAKURA_VOICE20: 行きましょう

@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRango $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromozione dal $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rango mantenuto!
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRetrocessione dal $a0
+MID_ARENA_DIALOG_HELP_07: ◆+1 per gli eroi bonus◆\nPer ogni nemico sconfitto usando\nun eroe bonus, ottieni tre punti\nextra ai fini del tuo punteggio.\n\n(Questo bonus entrerà in vigore\ndalla prima stagione dopo\nl'uscita della versione 2.8.0.)
+MID_ARENA_RANK21: Grande Evocatore
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Parchi
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: Tenute
+MID_BLESSINGMAP_HELP_DIALOG_05: ◆Tenute◆\n・ Combatti usando più squadre.\n・ Gli eroi che lottano in una\nbattaglia (e i loro duplicati) non\npossono combattere in altri\nscontri della stessa sfida.
+MID_ITEM_ARENA_CROWN: Corona dell'arena
+MID_ITEM_HELP_ARENA_CROWN: Una corona vinta da un leggendario Evocatore.
+MID_SEQUENTIAL_MAP_TERM_201808: Il caos rivelato
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: ◆Bonus dei Doni◆\nOgni volta che schieri un eroe\nleggendario o con un Dono\ndella stagione in corso,\nal termine dello scontro ricevi\nun bonus di +1 al punteggio.
+MID_SUMMON_WEAPON_TYPE: Tipi di arma per gli eroi disponibili
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: La sessione termina scegliendo un eroe.\nLyn (tipo neutro) è l'eroina più popolare!
+MID_TAP_BATTLE_CONFIG_SPEED: Velocità
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: ×1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: ×1,5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: ×2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: ×2,5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: ×3
+MID_CONQUER_HELP_DIALOG_06_02: ◆Altre regole di Lotta di potere◆\n・ I rinforzi non godranno\ndegli effetti leggendari.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: Tutte
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: Nessuna
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: Ordina per numero
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: Modifica/Attiva set
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: Attiva set di abilità
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: Scegli l'unità di cui vuoi cambiare i set di abilità.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: Modifica e attiva qui le abilità.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: Seleziona un'abilità.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: Seleziona un sigillo sacro.
+MID_UNIT_EDIT_SKILL_SET_EDIT: Modifica
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: Seleziona abilità
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: Selez. sigillo sacro
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: Usa selezione attuale
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: Eliminare set di abilità per l'eroe?
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: Elimina
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: Salvare le abilità e il sigillo sacro\nselezionati in un set di abilità?
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: Salva
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: Attivare ora questo set di abilità?
+MID_UNIT_EDIT_SKILL_SET_EQUIP: Attiva
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: Non attivare
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: Annullare le modifiche?
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: Le modifiche non saranno salvate.
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: Annulla
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: Prima
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: Dopo
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: Attivare questo set di abilità?
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: Modifica nome set
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aSet abilità: $a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: Scegli nome del set
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: Inserisci un nome per questo set.
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: Questo nome sarà usato per tutte le unità\nche usano questo set di abilità.
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: Scegli un nome di massimo 12 caratteri.\nAlcuni simboli non sono validi.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: Per unità
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: Per squadra
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: Per squadra
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: Per brigata
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: Non hai gruppi di unità di questo tipo.
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: Attivare questo set di abilità?
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: Le unità senza abilità selezionate per\nquesto set di abilità manterranno\nle abilità attualmente attive.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: Seleziona un'unità su cui attivare un set di abilità.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: Seleziona una squadra su cui attivare un set di abilità.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: Scegli un set di abilità da attivare.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: Eventuali sigilli sacri attualmente\nattivi su altre unità verranno rimossi.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: Lo stesso sigillo sacro appare più\nvolte in questo set. Verrà attivato\nsu una sola unità.
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: ◆Modifica/Attiva set di abilità◆\nI set di abilità ti permettono di\ncambiare rapidamente abilità\ne sigilli sacri.\n\nPuoi salvare fino a cinque set\ndi abilità per unità.
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: ◆Modifica set di abilità◆\nSeleziona le abilità e i sigilli\nsacri che vuoi salvare nel set\ndi abilità.\n\n◆Attiva set di abilità◆\nAttiva in un solo passaggio\nabilità e sacri sigilli selezionati.
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: ◆Modifica nome del set◆\nPuoi modificare il nome dei set di\nabilità che registri. Il nome del set\nsarà lo stesso per tutte le unità.
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: ◆Attiva set di abilità◆\nAttiva un set di abilità registrato\nsu una o più unità utilizzando\nil menu Modifica/Attiva set.
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: ◆Seleziona per unità◆\nSeleziona un'unità alla volta\ne attiva individualmente i set\ndi abilità.
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: ◆Seleziona per squadra◆\nPuoi selezionare diversi tipi di\nsquadre e assegnare set di abilità\na tutti i membri della squadra.\n\nLe brigate che non includono\nnessuna unità del tuo esercito\nnon saranno visualizzate.
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: ◆Attiva sigilli sacri◆\nSe l'attivazione di un set di abilità\ncomporta l'uso dello stesso sigillo\nsacro da parte di più unità, verrà\ndata la priorità alla prima\ndell'elenco.

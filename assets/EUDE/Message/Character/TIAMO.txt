@@ -1,0 +1,38 @@
+[Heroes Archive] (TIAMO)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMO_HOME1: Deine Truppe erinnert mich an meine\nalte Einheit.$k$pIch hoffe, ich erfülle sie mit Stolz...\nwo immer sie auch sein mögen.
+MID_TIAMO_HOME2: Einst gehörte ich zu den Pegasus-\nrittern von Ylisse. Die anderen sind\nalle tot. Aber ihr Geist lebt in mir fort.
+MID_TIAMO_HOME3: Dein Fleiß ist bewundernswert,\naber überanstreng dich nicht.$k$pDu weißt ja, nur du bist des\nBeschwörens fähig!
+MID_TIAMO_HOME4: Kann ich dir einmal zusehen, wenn du\nneue Helden herbeirufst? Ich würde\ngern erfahren, wie ich hierherkam...
+MID_TIAMO_HOME5: Ich habe gerade die Waffenkammer\ninspiziert.$k$pAls Nächstes werde ich das\nKasino, die Ställe und die\nLatrinen untersuchen.
+MID_TIAMO_FRIEND: Schön, dass ich dich hier treffe.\n$Nf bat mich,\ndir Grüße auszurichten.
+MID_TIAMO_LEVEL1: Harte Arbeit ist sich selbst\nLohn genug!
+MID_TIAMO_LEVEL2: Das war durchaus\nzu erwarten.
+MID_TIAMO_LEVEL3: Verzeiht! Beim nächsten Mal\nenttäusche ich Euch nicht.
+MID_TIAMO_SKILL: Danke für dein Vertrauen. Ich\nwerde mich als würdig erweisen.
+MID_TIAMO_JOIN: Ich bin Cordelia und diene in der\nArmee von Ylisse unter Mylord\nChrom.$k$pIch werde mein Bestes geben,\ndeine Erwartungen zu erfüllen.
+MID_TIAMO_STRONGEST: Also... Um Helden herbeizurufen,\nwerfe ich mich erst in Pose, schieße\ndann so und...$k$pJa, die Bewegung ist perfe--$k$pAAAAH! $Nu!\nHast du das etwa gesehen? Wieso\nhast du nicht eher etwas gesagt?$k$pWas? Weil ich meine Deckung fallen-\ngelassen habe? Trotzdem, es ist nicht\nnett, mir so hinterherzuspionieren!$k$pAber ich bin froh, dass du mich auch\nso sehen kannst und nicht einfach als\n"Naturtalent", so wie alle anderen.$k$pIn der Schlacht lasse ich jedenfalls\nnicht die Deckung fallen!$k$pDu bist mir kostbar, und ich gelobe\ndich zu beschützen!
+MID_TIAMO_VOICE01: はっ！
+MID_TIAMO_VOICE02: ええいっ！
+MID_TIAMO_VOICE03: きゃっ…！
+MID_TIAMO_VOICE04: I can bear this...!
+MID_TIAMO_VOICE05: Ich kann das schaffen...
+MID_TIAMO_VOICE06: Jetzt hast du mich verärgert!
+MID_TIAMO_VOICE07: Ich muss siegen!
+MID_TIAMO_VOICE08: Ich sehe eine Lücke in der Deckung!
+MID_TIAMO_VOICE09: Too...weak...
+MID_TIAMO_VOICE10: Heehee
+MID_TIAMO_VOICE11: I know what they say, but please don't call me a genius.
+MID_TIAMO_VOICE12: I wonder if there is any feeling worse than unrequited love?
+MID_TIAMO_VOICE13: I would like to join the Order of Heroes.
+MID_TIAMO_VOICE14: *sigh* Oh! Was I sighing again? I must work on that.
+MID_TIAMO_VOICE15: I do not appreciate being stared at. May I help you?
+MID_TIAMO_VOICE16: I must do my utmost...for myself and for those who protected me...
+MID_TIAMO_VOICE17: I want to learn more about this realm. About you as well.
+MID_TIAMO_VOICE18: Yes?
+MID_TIAMO_VOICE19: OK.
+MID_TIAMO_VOICE20: Understood.

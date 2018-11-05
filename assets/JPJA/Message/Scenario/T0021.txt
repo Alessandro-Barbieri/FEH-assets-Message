@@ -1,0 +1,8 @@
+[Heroes Archive] (T0021)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ターナ,ch08_05_Turner_F_Normal,Face|$w0|行きましょう、アメリア。\n二人一緒ならきっとうまくいくわ。\nさあ、こっちよー。$k$p$WmMPID_アメリア,ch08_04_Amelia_F_Normal,Face|$w0|うん。\n二人とも捕虜にされちゃわないように\nがんばらないと…！$k$p$Sbs1000|

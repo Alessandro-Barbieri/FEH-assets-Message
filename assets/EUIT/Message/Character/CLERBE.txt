@@ -1,0 +1,38 @@
+[Heroes Archive] (CLERBE)
+
+
+Heroes Message Name: Message
+
+
+MID_CLERBE_HOME1: Reali che lottano in prima linea? È\ncosì che dovrebbe comportarsi un\nsovrano. In Zofia, invece...
+MID_CLERBE_HOME2: Faccio parte dei Liberatori:\nstrapperemo Zofia dalle grinfie\ndi Desaix, ad ogni costo.
+MID_CLERBE_HOME3: Hai molto a cuore i tuoi compagni e\nsei una persona diligente e di buon\ncuore. Posso contare anch'io su di te?
+MID_CLERBE_HOME4: Se hai tempo, vorrei saperne di più su\nquesto mondo. Il tuo punto di vista mi\nsarebbe davvero utile.
+MID_CLERBE_HOME5: Sto strigliando il mio destriero. Qui\nnon ho attendenti, quindi tocca a me.\nÈ dura, ma ci sto prendendo gusto.
+MID_CLERBE_FRIEND: $Nu, giusto?$k$pTi porto gli ossequi di\n$Nf.
+MID_CLERBE_LEVEL1: Grazie a questo potere\nrealizzeremo i nostri ideali!
+MID_CLERBE_LEVEL2: Devo dedicare anima e corpo\nall'allenamento...
+MID_CLERBE_LEVEL3: Chiedo venia. Ho deluso\nle tue aspettative.
+MID_CLERBE_SKILL: Abbraccerò questo potere\ne ti consegnerò la vittoria!
+MID_CLERBE_JOIN: Sono Clive. Credo che noi nobili\nabbiamo il dovere di usare il nostro\npotere per portare la pace.
+MID_CLERBE_STRONGEST: È strano. Appena ti vedo, tutta la\ntensione accumulata scema in\nun istante.$k$pCome primo cavaliere, mi sono\nsempre sforzato di incarnare i valori\ndi un condottiero esemplare.$k$pChe rimanga tra noi, ma... ammetto\ndi provare a volte la tentazione di\nliberarmi di questo fardello.$k$pSappi che non l'ho mai confidato\na nessuno.$k$pNon so perché, ma ho piena fiducia\nin te e sento di poterti confidare tutto.$k$pMagari sarà perché veniamo da\nmondi e situazioni alquanto diversi...$k$pC'è verità nelle mie parole, o parte\ndi essa almeno...$k$pLa vera ragione è il tuo carisma. Ci\nhai stregati, e siamo tutti pronti a\nseguirti sempre e comunque.
+MID_CLERBE_VOICE01: せやあっ
+MID_CLERBE_VOICE02: Take this!
+MID_CLERBE_VOICE03: っあっ…
+MID_CLERBE_VOICE04: Well look at you!
+MID_CLERBE_VOICE05: Niente rancore.
+MID_CLERBE_VOICE06: Nel nome di Zofia!
+MID_CLERBE_VOICE07: Muori in pace!
+MID_CLERBE_VOICE08: A mai più!
+MID_CLERBE_VOICE09: Sorry...
+MID_CLERBE_VOICE10: Hmph...
+MID_CLERBE_VOICE11: Hmm? Oh, come now.
+MID_CLERBE_VOICE12: Ah. You're a...curious one.
+MID_CLERBE_VOICE13: Well then, you want my attention? You have it.
+MID_CLERBE_VOICE14: As a knight of Zofia, I sense the stakes accutely.
+MID_CLERBE_VOICE15: Win or lose, there is something to be gained from every battle.
+MID_CLERBE_VOICE16: Did I make the right choice? Time will tell.
+MID_CLERBE_VOICE17: You are worthy of my trust. I pledge my life to you.
+MID_CLERBE_VOICE18: All right.
+MID_CLERBE_VOICE19: Hmm.
+MID_CLERBE_VOICE20: On my honor.

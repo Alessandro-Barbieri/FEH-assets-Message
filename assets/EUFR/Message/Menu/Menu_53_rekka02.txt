@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: ◆ Effets légendaires ◆\n・ Dans les jardins bénis, les\neffets des héros légendaires sont\ntoujours actifs, quelle que soit la\nsaison.\n・ Pour bénir un allié, touchez\nAlliés, puis Entraînement et enfin\nBénédiction.
+MID_INFO_TITLE: Notifications
+MID_ITEM_GAIN_DRESS_ACCESSORY: Vous avez obtenu un accessoire !
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $aVous ne pouvez avoir qu'un exemplaire de\nchaque accessoire. Les doubles seront\nconvertis en $a0 plumes de héros.
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $aVous ne pouvez avoir qu'un exemplaire de\nchaque sceau sacré et accessoire. Les\ndoubles seront convertis en $a0 plumes\nde héros.
+MID_CHAIN_ARENA_HELP_DIALOG_09: ◆ Bonus de bénédiction ◆\nLorsque vous utilisez un héros\nlégendaire ou béni correspondant\nà la saison en cours, vous\nmarquez un point supplémentaire\nà la fin de la bataille.\n\n(Effectif à partir de la première\nsaison de la version 2.6.0.)
+MID_SEQUENTIAL_MAP_TERM_201806: Guerre des Fangs
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: Terminé !
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: Niveau Extra débloqué !
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: Un bel océan baigné de soleil...\nOn dirait que tout le monde passe\nun bon moment !
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: Assigner accessoires
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: Sélectionnez l'accessoire à assigner.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: Sélectionnez l'allié qui recevra un accessoire ou en changera.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: Sélectionner accessoire
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: Sélectionner allié
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: Assigner cet accessoire ?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: Retirer cet accessoire ?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $aCet accessoire est utilisé par\n$a0. Voulez-vous\néchanger avec l'allié sélectionné ?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 ne peut pas utiliser\nl'accessoire sélectionné.\nCelui-ci va être retiré.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: Modifier
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Modification effectuée.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: Renoncer à la modification ?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: Toutes les modifications seront annulées.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: Renoncer
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: Aucun accessoire.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: Sélectionnez un critère de tri.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: Obtention
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: Type
+MID_DRESSACCESSORY_HELP_DIALOG_00: Parez-vous d'accessoires !
+MID_DRESSACCESSORY_HELP_DIALOG_01: ◆ Accessoires ◆\nVous pouvez relooker vos alliés\nen leur assignant les accessoires\nque vous avez obtenus.\n\nChaque accessoire ne peut être\nutilisé que par un allié à la fois.
+MID_DRESSACCESSORY_HELP_DIALOG_02: ◆ Types d'accessoires ◆\nIl y a trois types d'accessoires\ndifférents, qui sont indiqués\npar l'icône rose.
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: ----------
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: Aucun accessoire n'est assigné.
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: Cet accessoire ne peut\npas être assigné.
+MID_UNIT_EDIT_EQUIP: Modifier l'équipement
+MID_UNIT_EDIT_UNIT_ENFORCE: Entraînement
+MID_UNIT_EDIT_UNIT_COMMUNICATE: Interagir
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ① Touchez l'allié à remplacer.\n② Touchez l'allié remplaçant.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: Personnalisez vos héros !
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: ◆ Effets des bénédictions - 1 ◆\nLes alliés qui ont été bénis\nreçoivent deux fois plus de PA\net d'EXP en combattant.\n\nBien qu'ils ne puissent pas être\nbénis, les héros légendaires\nreçoivent toujours deux fois plus\nde PA et d'EXP que la normale.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: Aptitudes auto
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: Voulez-vous apprendre et équiper\nles aptitudes automatiquement ?
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: Cet allié n'a pas assez de PA pour\nl'aptitude recommandée suivante.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: Cet allié connaît déjà toutes\nles aptitudes recommandées.
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: Accessoire

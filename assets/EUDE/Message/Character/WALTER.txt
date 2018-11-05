@@ -1,0 +1,38 @@
+[Heroes Archive] (WALTER)
+
+
+Heroes Message Name: Message
+
+
+MID_WALTER_HOME1: Ich lebe für den Kampf. Der von\nEuch angestrebte Frieden ist also...\nproblematisch für mich.
+MID_WALTER_HOME2: Eirika... Ephraim... Diese beiden sind\nmeine Beute. Und nur die fetteste\nBeute stillt meinen Bluthunger.
+MID_WALTER_HOME3: Seid Ihr müde? Dann solltet Ihr\nEuch ausruhen. Erschöpfte Beute\nist weniger... appetitlich.
+MID_WALTER_HOME4: Mit blutleeren Winzlingen kann ich\nnichts anfangen. Ich suche Beute,\ndie meinen Bluthunger stillt...
+MID_WALTER_HOME5: Trainieren? Machen wir uns nichts\nvor - das Töten lernt man nicht\ndurch Trockenübungen.
+MID_WALTER_FRIEND: Ihr seid also $Gderjenige,diejenige|, $Gden,die| ich\nvon $Nf\ngrüßen soll.$k$pIhr seht nach leckerer Beute\naus, $Nu.
+MID_WALTER_LEVEL1: Köstlich... Einfach nur köstlich.
+MID_WALTER_LEVEL2: Gut... Aber ich bin immer\nnoch hungrig.
+MID_WALTER_LEVEL3: Mein Hunger ist nicht einmal\nannähernd gestillt...
+MID_WALTER_SKILL: Ich habe Hunger auf\nmehr... mehr... mehr!
+MID_WALTER_JOIN: Ich bin Valter, der Mondstein, einer\nder sechs Generäle von Grado.$k$pWollt Ihr meinen Hunger stillen, wie\nes bereits viele zuvor getan haben?
+MID_WALTER_STRONGEST: Ein seniler alter Dummkopf hat mich\neinmal eine verkommene Bestie\ngenannt, die nur für das Töten lebt.$k$pEines Tages werde ich ihn töten.\nAber er hatte natürlich recht. Ich bin\neine Bestie mit scharfen Reißzähnen.$k$pIch nehme mir alles, was ich will.\nVon wem ich will.$k$pIhr seid Euch dessen bewusst - und\ndoch vertraut Ihr mir und stattet mich\nmit so viel Macht aus...$k$pIch verstehe Euer Handeln nicht.$k$pWollt Ihr mich im Zaum halten? Oder\nseht Ihr in mir den Meister, nach dem\nIhr Euch sehnt?$k$pWie dem auch sei, Ihr seid meine\nbeste Beute. Ich erlaube niemandem,\nseinen Bluthunger an Euch zu stillen.$k$pDas bleibt allein mir vorbehalten.
+MID_WALTER_VOICE01: いいぞ
+MID_WALTER_VOICE02: 楽しめ
+MID_WALTER_VOICE03: うああっ！
+MID_WALTER_VOICE04: 雑魚めが…！
+MID_WALTER_VOICE05: Was für ein Spaß!
+MID_WALTER_VOICE06: Ihr seid nur ein Leichnam.
+MID_WALTER_VOICE07: Ihr wollt fliehen? Ha!
+MID_WALTER_VOICE08: Stillt meinen Bluthunger!
+MID_WALTER_VOICE09: Ughk... Graaaaaah!
+MID_WALTER_VOICE10: Keke
+MID_WALTER_VOICE11: I am Valter, the Moonstone, one of Grado's six generals.
+MID_WALTER_VOICE12: Hm? You desire to touch me?
+MID_WALTER_VOICE13: Never think that I am yours. If you displease me, you'll regret it.
+MID_WALTER_VOICE14: I will master you. Someday.
+MID_WALTER_VOICE15: Show me. Show me. Grovel like a dog.
+MID_WALTER_VOICE16: Ephraim. Eirika. Delicious prey.
+MID_WALTER_VOICE17: You are mine now. Entertain me! More!
+MID_WALTER_VOICE18: Entertain me!
+MID_WALTER_VOICE19: I hunger!
+MID_WALTER_VOICE20: A feast!

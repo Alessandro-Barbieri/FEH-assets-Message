@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: Héroes benditos, ¡al ataque!
+MID_BLESSINGMAP_HELP_DIALOG_01: -Jardines benditos-\nLas leyendas los describen\ncomo un paraíso donde aguarda\nun gran tesoro, pero solo pueden\nacceder a ellos los héroes\nlegendarios o los que hayan\nrecibido una bendición.
+MID_BLESSINGMAP_HELP_DIALOG_02: -Reglas de los jardines benditos-\nSolo podrán entrar en el jardín\nde agua los héroes legendarios\nde agua o aquellos que hayan\nrecibido la bendición de agua.\nLa misma regla se aplica\na los jardines de viento,\ntierra y fuego.
+MID_BLESSINGMAP_HELP_DIALOG_03: -Reglas de los jardines benditos-\n・ Tu batallón debe incluir\ncuatro unidades.\n・ No puedes usar héroes\nduplicados.\n・ No podrás usar auxilios\nradiantes.
+MID_BLESSINGMAP_HELP_DIALOG_04: -Efectos legendarios-\n・ En los jardines benditos, los\nefectos de héroes legendarios\nsiempre estarán activos,\nsea la temporada que sea.\n・ Para conferir bendiciones,\nve al menú "Aliados", selecciona\n"Opciones avanzadas" y luego\n"Conferir bendiciones".
+MID_STAGE_SELECT_BLESSING_GARDEN: Jardines benditos
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: Jardín de agua
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: Jardín de viento
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: Jardín de tierra
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: Jardín de fuego
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: Solo pueden entrar los héroes que\ncuenten con la bendición de agua.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: Solo pueden entrar los héroes que\ncuenten con la bendición de viento.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: Solo pueden entrar los héroes que\ncuenten con la bendición de tierra.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: Solo pueden entrar los héroes que\ncuenten con la bendición de fuego.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: Solo pueden acceder a este mapa los\nhéroes legendarios de fuego o los que\ncuenten con la bendición de fuego.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: Solo pueden acceder a este mapa los\nhéroes legendarios de agua o los que\ncuenten con la bendición de agua.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: Solo pueden acceder a este mapa los\nhéroes legendarios de viento o los que\ncuenten con la bendición de viento.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: Solo pueden acceder a este mapa los\nhéroes legendarios de tierra o los que\ncuenten con la bendición de tierra.
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: Bonificación de 1.ª visita: Jardines benditos
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $aPróximo mapa: $a0 m.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $aPróximo mapa: $a0 h.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $aPróximo mapa: $a0 d.
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: Desbloqueaste los jardines benditos.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: Tu equipo debe estar formado por\n4 unidades distintas, sin duplicados.
+MID_OCCUPATION_MAP_FORTRESS: Fuerte
+MID_OCCUPATION_MAP_HUB: Campamento
+MID_OCCUPATION_MAP_SCORE_KILL: Derrotados
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: Campamentos
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: PV de fuerte
+MID_OCCUPATION_MAP_SCORE_BONUS: Bonif.
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: Dominios rivales
+MID_OCCUPATION_STAGE_TELOP_RULE: $aTurnos: $a0
+MID_OCCUPATION_RESULT: Resultados
+MID_OCCUPATION_RESULT_KILL: Enem. derrotados
+MID_OCCUPATION_RESULT_DEFENCE: Fuerte: Defensa
+MID_OCCUPATION_RESULT_OFFENCE: Fuerte: Ataque
+MID_OCCUPATION_RESULT_DOMINATION: Camp. tomados
+MID_OCCUPATION_RESULT_SCORE: Puntuación
+MID_OCCUPATION_RESULT_SCORE_BORDER: Objetivo
+MID_OCCUPATION_RESULT_BONUS: Bonif.
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: ¡Objetivo alcanzado!
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: Puntos hasta el objetivo:
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: ¡Recomp. por superar el mapa conseguida!
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: Ya conseguiste la recompensa de este mapa.
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: ¡Logra el objetivo y llévate una recompensa!
+MID_OCCUPATION_STAGE_SELECT_SCORE: Puntuación
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: Puntuación/Bonif.
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: Récord
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: Objetivo
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: Logra el objetivo y llévate una\nrecompensa por superar el mapa.
+MID_OCCUPATION_BONUS_歩行: Bonif. +1 por vencer con ud. infantería.
+MID_OCCUPATION_BONUS_重装: Bonif. +1 por vencer con ud. acorazada.
+MID_OCCUPATION_BONUS_騎馬: Bonif. +1 por vencer con ud. caballería.
+MID_OCCUPATION_BONUS_飛行: Bonif. +1 por vencer con ud. aérea.
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: Ya has superado este nivel.\nNo hay recompensas disponibles.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: Tu brigada solo puede incluir\nun personaje con "Cantar"\no "Bailar", y no puede haber\nhéroes duplicados.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: Tu brigada contiene personajes\nque no se pueden usar juntos.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: ¡Enfréntate a dominios rivales\ncon una brigada de 20 unidades!
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: -Editar brigadas-\nLas brigadas son los equipos\nque se usan en Dominios rivales.\nPueden incluir hasta 20 unidades\nde tu ejército o de los de amigos.\nLos espacios vacíos se llenarán\nautomáticamente.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: -Límites de las brigadas-\n・ Solo se puede incluir\nuna unidad que pueda usar\nCantar o Bailar.\n・ No se pueden incluir\nhéroes duplicados.
+MID_CONQUER_HELP_DIALOG_00: ¡Usa héroes tuyos o de amigos!
+MID_CONQUER_HELP_DIALOG_01: -Reglas de Dominios rivales-\n・ Si un bando se queda sin\nunidades, aparecerán más\ny la batalla continuará.\n・ La batalla terminará luego de\n10 turnos o cuando se destruya\nel fuerte del otro bando.\n・ No se ganará Exp. ni PH.\n・ Los refuerzos no recibirán\nmejoras de efectos legendarios.
+MID_CONQUER_HELP_DIALOG_02: -Fuertes-\n・ Se destruyen en tres ataques.\n・ Puedes teletransportarte\na un fuerte tuyo.\n・ En ellos, las unidades\nrecuperan 10 PV por turno.\n・ Se consideran terreno\ndefensivo.
+MID_CONQUER_HELP_DIALOG_03: -Campamentos-\n・ Se destruyen en dos ataques.\nEntonces se vuelven tuyos.\n・ Puedes teletransportarte\na un campamento tuyo.\n・ En ellos, las unidades\nrecuperan 10 PV por turno.\n・ Se consideran terreno\ndefensivo.
+MID_CONQUER_HELP_DIALOG_04: -Teletransporte-\nLas unidades adyacentes a un\nfuerte o un campamento que\ncontrole su bando pueden\nteletransportarse a un espacio\nadyacente a otro fuerte o\ncampamento bajo su control.
+MID_CONQUER_HELP_DIALOG_05: -Puntuación de Dominios rivales-\nAl terminar la batalla, recibirás\nuna puntuación.\n\nPuedes conseguir una puntuación\nmayor protegiendo tu fuerte y tus\ncampamentos, tomando el fuerte\nrival y derrotando enemigos.
+MID_UNIT_EDIT_LARGE_FORCE: Editar brigadas
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $aBrigada $a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: Aliado
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: Actualizar amigos
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: Actualizar
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: Tus unidades
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: Unidades de amigos
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: ¿Quieres actualizar las unidades de\ntus amigos a su estado más reciente?
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: Se actualizarán todas las\nunidades de tus amigos.
+MID_UNIT_EDIT_FRIEND_BOX: Amigos

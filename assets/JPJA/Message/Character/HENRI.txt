@@ -1,0 +1,38 @@
+[Heroes Archive] (HENRI)
+
+
+Heroes Message Name: Message
+
+
+MID_HENRI_HOME1: ここに屍兵がいないの、つまんないな～。\n腕をもいだり、足をもいだりして遊べる敵が\nこの世界にはいないんだもん～。
+MID_HENRI_HOME2: 僕、小さい頃は施設にいたんだ～。\nそこの教育は厳しくて痛かったけど、\nおかげでこんな明るい性格になれたよ～。
+MID_HENRI_HOME3: $Nu、大丈夫～？\n戦場で怪我とかしてないよね～？\n僕、君が死んじゃったらやだな～。
+MID_HENRI_HOME4: ねえ、呪術の実験に付き合ってよ～！\n僕、早く完成させたいんだよね～、\n百人を一気に殺せちゃう呪い～！
+MID_HENRI_HOME5: カラスの羽を集めてたよ～。\nあはは、これだけいっぱいあったら\n空も飛べちゃうかもしれないね～。
+MID_HENRI_FRIEND: 君が$Nu～？\n$Nfが君にね、\nよろしく～って言ってたよ～！
+MID_HENRI_LEVEL1: 今なら何だって\n呪えちゃうよ～。
+MID_HENRI_LEVEL2: やった～。\n強くなったよ～。
+MID_HENRI_LEVEL3: あはは、あんまり\n変わってないや～。
+MID_HENRI_SKILL: 僕を強くしてくれたの～？\n誰か呪って欲しいのかな～？
+MID_HENRI_JOIN: あはは！　僕はヘンリーだよ～！\nペレジア出身の呪術師なんだ～！\n君の呪いたい人は誰～？
+MID_HENRI_STRONGEST: あ、$Nuだ～！\nまた僕を戦場に出してくれるんだね、\nあはは、嬉しいよ～！$k$p今日は誰をやっちゃえばいいの～？\n英雄？　エンブラ兵？　それとも…\n特務機関の誰かを殺しちゃう～？$k$p…え、仲間を殺すことは絶対にない？\nそうなんだ、変なの～。\n仲間同士でも殺しあうことはあるのに～。$k$pでも僕、ここが気に入ったから…\n誰かがいなくなるのは嫌かもね～。\n特に君が死んじゃったら、すごく嫌～。$k$pもし君が戦場で死んじゃったら、\n殺した奴にすごい呪いをかけちゃうかも。\nだから…絶対に生き残ってよね～。\n
+MID_HENRI_VOICE01: そーれっ
+MID_HENRI_VOICE02: あははっ
+MID_HENRI_VOICE03: うわっ
+MID_HENRI_VOICE04: いたた…
+MID_HENRI_VOICE05: 死んじゃえ～
+MID_HENRI_VOICE06: 楽しいな～
+MID_HENRI_VOICE07: ちょっと痛いよ～？
+MID_HENRI_VOICE08: 呪っちゃうよ～
+MID_HENRI_VOICE09: あは…強いんだね…
+MID_HENRI_VOICE10: ふふっ
+MID_HENRI_VOICE11: 一緒に遊ぶ～？
+MID_HENRI_VOICE12: 誰か呪ってほしいの～？
+MID_HENRI_VOICE13: 僕、カラスとお友達なんだよ～
+MID_HENRI_VOICE14: 君たちのマントは真っ白だね～あはは、僕は真っ黒～
+MID_HENRI_VOICE15: 僕は明るい呪術師だから、怖くないでしょ～？
+MID_HENRI_VOICE16: 死ぬ時は楽に死にたいよね～
+MID_HENRI_VOICE17: 戦うのはだいすきだよ～\n戦場では、君の気に入らないやつを誰でも殺してあげる～
+MID_HENRI_VOICE18: は～い
+MID_HENRI_VOICE19: えへへ
+MID_HENRI_VOICE20: 誰を殺す～？

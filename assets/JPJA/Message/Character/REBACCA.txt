@@ -1,0 +1,38 @@
+[Heroes Archive] (REBACCA)
+
+
+Heroes Message Name: Message
+
+
+MID_REBACCA_HOME1: いつ見てもすごいお城ですね。\n圧倒されちゃいます。\nわたしの故郷の村より広いです…
+MID_REBACCA_HOME2: 故郷では、狩りが得意だったんです。\n作物が不作の年は、村のみんなに\nとても感謝されたんですよ。
+MID_REBACCA_HOME3: あ、いつも見回り、ありがとうございます。\n城の外にお出かけでしたら、\nわたしも一緒に行かせてください。
+MID_REBACCA_HOME4: あなたのその不思議な武器は…\n狩りでも使えるんでしょうか？\n今度、一緒に森に行ってみませんか？
+MID_REBACCA_HOME5: うーん、うーん…\n弓の弦がゆるくなってしまって…\n直してるとこなんです。
+MID_REBACCA_FRIEND: わたし、レベッカです。\n$Nfさんの\nおつかいで挨拶に来ました！
+MID_REBACCA_LEVEL1: わっ、すごいです！\nわたしがこんなに…
+MID_REBACCA_LEVEL2: 弓の腕前が\n上がった気がします。
+MID_REBACCA_LEVEL3: あ、あれ…？\n弓の弦の調子が…
+MID_REBACCA_SKILL: ありがとうございます！\nもっと弓の腕をみがきますね！
+MID_REBACCA_JOIN: わたし、レベッカといいます。\n毎日狩りをしていますので\n弓には、少し自信があります！
+MID_REBACCA_STRONGEST: わたし、ここにいられて嬉しいです。\n大勢の人たちがいて、\nみんな仲間で、にぎやかで…$k$p寂しいのって…苦手なんです。\n昔、おにいちゃんが\n黙って村を出て行っちゃって…$k$pずっと帰りを待ってたんです。\nでも、何年経っても…\n帰って来なくて……わたし……$k$pえへへ…ごめんなさい。\n大丈夫です、泣いたりしません。\nだって今は、みんなと一緒ですから。$k$pあなたは…急に\nいなくなったりしないでくださいね。\nお願い、です…
+MID_REBACCA_VOICE01: えいっ！
+MID_REBACCA_VOICE02: それっ！
+MID_REBACCA_VOICE03: きゃああっ！
+MID_REBACCA_VOICE04: や、やだっ！
+MID_REBACCA_VOICE05: すー、はー…
+MID_REBACCA_VOICE06: 落ち着いて…！
+MID_REBACCA_VOICE07: 集中、集中！
+MID_REBACCA_VOICE08: えーいっ！
+MID_REBACCA_VOICE09: ごめん…ね…
+MID_REBACCA_VOICE10: ふふ
+MID_REBACCA_VOICE11: あっ、私に御用でしたか？
+MID_REBACCA_VOICE12: ひゃっ！？　もう、びっくりしました…
+MID_REBACCA_VOICE13: 今、お弁当つくってるんです
+MID_REBACCA_VOICE14: 干した果物と、あぶった鶏肉と…
+MID_REBACCA_VOICE15: 弓の調子は…うん！　良い感じです！
+MID_REBACCA_VOICE16: 狩りはちょっと自信あります
+MID_REBACCA_VOICE17: あの、好きな食べ物ってありますか？
+MID_REBACCA_VOICE18: はいっ！
+MID_REBACCA_VOICE19: どうしますか？
+MID_REBACCA_VOICE20: 行きますっ

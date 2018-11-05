@@ -1,0 +1,38 @@
+[Heroes Archive] (OLIVIE_DANCE)
+
+
+Heroes Message Name: Message
+
+
+MID_OLIVIE_DANCE_HOME1: 特務機関で踊るの…すごく楽しいです。\nこの世界で経験したことはみんな、\n私の踊りに役立てていきますね。
+MID_OLIVIE_DANCE_HOME2: 舞踏祭はイーリスで開かれていたんです。\n旅をしていた頃の友人にも会えて…\nみんなで踊って、素敵な時間でした。
+MID_OLIVIE_DANCE_HOME3: いつも見回り、ありがとうございます。\nもし元気がなくなってしまったら…\nいつでも私の踊りを見に来てください。
+MID_OLIVIE_DANCE_HOME4: この世界の踊り、もし知っていたら\n私にも教えてください。\n振り付けは、一度見たら忘れません…
+MID_OLIVIE_DANCE_HOME5: 衣装や扇子のお手入れをしていました。\n破れたり汚れたりしてしまうと、\n踊りの魅力も半減してしまいますから…
+MID_OLIVIE_DANCE_FRIEND: $Nuさんに、\n挨拶を届けに来ました…！\nあの、帰る前に踊ってもいいですか？
+MID_OLIVIE_DANCE_LEVEL1: 踊っていたらこんなに\n強くなれました…！
+MID_OLIVIE_DANCE_LEVEL2: 次の舞踏祭までにもっと\n実力をつけたいですね…
+MID_OLIVIE_DANCE_LEVEL3: ううっ…！\n踊りの練習してきます…！
+MID_OLIVIE_DANCE_SKILL: 素敵な力…嬉しいです。\n私の踊りの糧になります…！
+MID_OLIVIE_DANCE_JOIN: こ、こんにちは。私はオリヴィエです。\n舞踏祭で踊っていたはずなんですが…\nここは一体どこですか…！？
+MID_OLIVIE_DANCE_STRONGEST: らんらんらん…♪\nあ、あの…今の踊り、如何でしたか？\n次の舞踏祭で踊ろうと思っているんです…$k$pお祭りでは珍しい異国の踊りが喜ばれます。\nだから私、アスク王国の…いえ、\nあなたの動きを踊りに取り入れてみました。$k$pいつも見ているから覚えたんです。\n召喚の時の動作、戦場での振る舞い、\nそれに…英雄たちに向ける優しい眼差しを。$k$pいつか元の世界に戻った時…\nあなたという素敵な人がいたことを、\nいろんな国の人に伝えたくて。$k$pふふ…微笑んでくれて嬉しいです。\n私、あなたの笑顔が大好きですよ。\nこれからもあなたは、私の大切な人です…
+MID_OLIVIE_DANCE_VOICE01: せいっ！
+MID_OLIVIE_DANCE_VOICE02: いきます！
+MID_OLIVIE_DANCE_VOICE03: うう…！
+MID_OLIVIE_DANCE_VOICE04: 痛いです…！
+MID_OLIVIE_DANCE_VOICE05: 踊りましょう
+MID_OLIVIE_DANCE_VOICE06: 一曲いかがです？
+MID_OLIVIE_DANCE_VOICE07: お相手願います
+MID_OLIVIE_DANCE_VOICE08: エンディングです
+MID_OLIVIE_DANCE_VOICE09: もっと、練習してきます…
+MID_OLIVIE_DANCE_VOICE10: えへへ…
+MID_OLIVIE_DANCE_VOICE11: が、がんばります…！
+MID_OLIVIE_DANCE_VOICE12: さあ、踊りの時間です
+MID_OLIVIE_DANCE_VOICE13: ここに来る前は、歌と踊りのお祭りを楽しんでいました
+MID_OLIVIE_DANCE_VOICE14: 踊っている時だけは、気弱な自分がいなくなるんですよ
+MID_OLIVIE_DANCE_VOICE15: いつもと違う衣装…少しだけ、恥ずかしいです
+MID_OLIVIE_DANCE_VOICE16: ここでターンして、ステップ。…よし、今日も調子がいいです。
+MID_OLIVIE_DANCE_VOICE17: 私、あなたが見てくださっているから頑張れるんですよ。\nこんなこと、あなたにしか言えません…
+MID_OLIVIE_DANCE_VOICE18: そうですね
+MID_OLIVIE_DANCE_VOICE19: 次の動きは…
+MID_OLIVIE_DANCE_VOICE20: ここが舞台です

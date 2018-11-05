@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: Arco rosso. Rgg: 2. I danni inflitti da\nquest'arma fisica sono ridotti dalla\nDif dell'avversario. Le unità volanti\nsubiscono danni extra.
+MWID_H_青弓: Arco blu. Rgg: 2. I danni inflitti da\nquest'arma fisica sono ridotti dalla\nDif dell'avversario. Le unità volanti\nsubiscono danni extra.
+MWID_H_緑弓: Arco verde. Rgg: 2. I danni inflitti da\nquest'arma fisica sono ridotti dalla\nDif dell'avversario. Le unità volanti\nsubiscono danni extra.
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: Non puoi acquistare quest'offerta\nperché non è più disponibile.
+MID_MISSION_S201804DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201804DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804MOVE01_TITLE: Movimento
+MID_MISSION_S201804MOVE01_A1: Fanteria batte rosso
+MID_MISSION_H_S201804MOVE01_A1: Sconfiggi nemici di tipo rosso con unità\ndi fanteria.
+MID_MISSION_S201804MOVE01_A2: Fanteria batte blu
+MID_MISSION_H_S201804MOVE01_A2: Sconfiggi nemici di tipo blu con unità\ndi fanteria.
+MID_MISSION_S201804MOVE01_A3: Fanteria batte verde
+MID_MISSION_H_S201804MOVE01_A3: Sconfiggi nemici di tipo verde con unità\ndi fanteria.
+MID_MISSION_S201804MOVE01_A4: Fanteria batte neutro
+MID_MISSION_H_S201804MOVE01_A4: Sconfiggi nemici di tipo neutro con unità\ndi fanteria.
+MID_MISSION_S201804MOVE01_A5: Corazzato batte rosso
+MID_MISSION_H_S201804MOVE01_A5: Sconfiggi nemici di tipo rosso con unità\ncorazzate.
+MID_MISSION_S201804MOVE01_A6: Corazzato batte blu
+MID_MISSION_H_S201804MOVE01_A6: Sconfiggi nemici di tipo blu con unità\ncorazzate.
+MID_MISSION_S201804MOVE01_A7: Corazzato batte verde
+MID_MISSION_H_S201804MOVE01_A7: Sconfiggi nemici di tipo verde con unità\ncorazzate.
+MID_MISSION_S201804MOVE01_A8: Corazzato batte neutro
+MID_MISSION_H_S201804MOVE01_A8: Sconfiggi nemici di tipo neutro con unità\ncorazzate.
+MID_MISSION_S201804MOVE01_A9: Cavalleria batte rosso
+MID_MISSION_H_S201804MOVE01_A9: Sconfiggi nemici di tipo rosso con unità\na cavallo.
+MID_MISSION_S201804MOVE01_A10: Cavalleria batte blu
+MID_MISSION_H_S201804MOVE01_A10: Sconfiggi nemici di tipo blu con unità\na cavallo.
+MID_MISSION_S201804MOVE01_A11: Cavalleria batte verde
+MID_MISSION_H_S201804MOVE01_A11: Sconfiggi nemici di tipo verde con unità\na cavallo.
+MID_MISSION_S201804MOVE01_A12: Cavalleria batte neutro
+MID_MISSION_H_S201804MOVE01_A12: Sconfiggi nemici di tipo neutro con unità\na cavallo.
+MID_MISSION_S201804MOVE01_A13: Volante batte rosso
+MID_MISSION_H_S201804MOVE01_A13: Sconfiggi nemici di tipo rosso con unità\nvolanti.
+MID_MISSION_S201804MOVE01_A14: Volante batte blu
+MID_MISSION_H_S201804MOVE01_A14: Sconfiggi nemici di tipo blu con unità\nvolanti.
+MID_MISSION_S201804MOVE01_A15: Volante batte verde
+MID_MISSION_H_S201804MOVE01_A15: Sconfiggi nemici di tipo verde con unità\nvolanti.
+MID_MISSION_S201804MOVE01_A16: Volante batte neutro
+MID_MISSION_H_S201804MOVE01_A16: Sconfiggi nemici di tipo neutro con unità\nvolanti.
+MID_MISSION_S201804SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201804SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201804SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201804SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201804SENKA01_DAILY_A3: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201804SENKA01_DAILY_A4: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804YEAR01_TITLE: GB d'élite 2
+MID_MISSION_S201804YEAR01_A1: Batti Legion
+MID_MISSION_H_S201804YEAR01_A1: Vinci la Grande battaglia contro Legion,\nla maschera ilare.
+MID_MISSION_S201804YEAR01_A2: Batti Legion
+MID_MISSION_H_S201804YEAR01_A2: Vinci la Grande battaglia contro Legion,\nla maschera ilare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A3: Batti Legion
+MID_MISSION_H_S201804YEAR01_A3: Vinci la Grande battaglia contro Legion,\nla maschera ilare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A4: Batti Legion
+MID_MISSION_H_S201804YEAR01_A4: Vinci la Grande battaglia contro Legion,\nla maschera ilare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A5: Batti Legion
+MID_MISSION_H_S201804YEAR01_A5: Vinci la Grande battaglia contro Legion,\nla maschera ilare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A6: Batti Clarisse
+MID_MISSION_H_S201804YEAR01_A6: Vinci la Grande battaglia contro Clarisse,\nla tiratrice solinga.
+MID_MISSION_S201804YEAR01_A7: Batti Clarisse
+MID_MISSION_H_S201804YEAR01_A7: Vinci la Grande battaglia contro Clarisse,\nla tiratrice solinga, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A8: Batti Clarisse
+MID_MISSION_H_S201804YEAR01_A8: Vinci la Grande battaglia contro Clarisse,\nla tiratrice solinga, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A9: Batti Clarisse
+MID_MISSION_H_S201804YEAR01_A9: Vinci la Grande battaglia contro Clarisse,\nla tiratrice solinga, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A10: Batti Clarisse
+MID_MISSION_H_S201804YEAR01_A10: Vinci la Grande battaglia contro Clarisse,\nla tiratrice solinga, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A11: Batti Berkut
+MID_MISSION_H_S201804YEAR01_A11: Vinci la Grande battaglia contro Berkut,\nil fiero signore.
+MID_MISSION_S201804YEAR01_A12: Batti Berkut
+MID_MISSION_H_S201804YEAR01_A12: Vinci la Grande battaglia contro Berkut,\nil fiero signore, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A13: Batti Berkut
+MID_MISSION_H_S201804YEAR01_A13: Vinci la Grande battaglia contro Berkut,\nil fiero signore, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A14: Batti Berkut
+MID_MISSION_H_S201804YEAR01_A14: Vinci la Grande battaglia contro Berkut,\nil fiero signore, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A15: Batti Berkut
+MID_MISSION_H_S201804YEAR01_A15: Vinci la Grande battaglia contro Berkut,\nil fiero signore, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A16: Batti Valter
+MID_MISSION_H_S201804YEAR01_A16: Vinci la Grande battaglia contro Valter,\nla pietra lunare.
+MID_MISSION_S201804YEAR01_A17: Batti Valter
+MID_MISSION_H_S201804YEAR01_A17: Vinci la Grande battaglia contro Valter,\nla pietra lunare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A18: Batti Valter
+MID_MISSION_H_S201804YEAR01_A18: Vinci la Grande battaglia contro Valter,\nla pietra lunare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A19: Batti Valter
+MID_MISSION_H_S201804YEAR01_A19: Vinci la Grande battaglia contro Valter,\nla pietra lunare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A20: Batti Valter
+MID_MISSION_H_S201804YEAR01_A20: Vinci la Grande battaglia contro Valter,\nla pietra lunare, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A21: Batti Arvis
+MID_MISSION_H_S201804YEAR01_A21: Vinci la Grande battaglia contro Arvis,\nil sovrano focoso.
+MID_MISSION_S201804YEAR01_A22: Batti Arvis
+MID_MISSION_H_S201804YEAR01_A22: Vinci la Grande battaglia contro Arvis,\nil sovrano focoso, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A23: Batti Arvis
+MID_MISSION_H_S201804YEAR01_A23: Vinci la Grande battaglia contro Arvis,\nil sovrano focoso, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A24: Batti Arvis
+MID_MISSION_H_S201804YEAR01_A24: Vinci la Grande battaglia contro Arvis,\nil sovrano focoso, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A25: Batti Arvis
+MID_MISSION_H_S201804YEAR01_A25: Vinci la Grande battaglia contro Arvis,\nil sovrano focoso, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A26: Batti Zephiel
+MID_MISSION_H_S201804YEAR01_A26: Vinci la Grande battaglia contro Zephiel,\nil re liberatore.
+MID_MISSION_S201804YEAR01_A27: Batti Zephiel
+MID_MISSION_H_S201804YEAR01_A27: Vinci la Grande battaglia contro Zephiel,\nil re liberatore, al livello di difficoltà folle\no superiore con una squadra di soli eroi\na cui hai conferito il Dono dell'acqua o\ndi eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A28: Batti Zephiel
+MID_MISSION_H_S201804YEAR01_A28: Vinci la Grande battaglia contro Zephiel,\nil re liberatore, al livello di difficoltà folle\no superiore con una squadra di soli eroi\na cui hai conferito il Dono del vento o di\neroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A29: Batti Zephiel
+MID_MISSION_H_S201804YEAR01_A29: Vinci la Grande battaglia contro Zephiel,\nil re liberatore, al livello di difficoltà folle\no superiore con una squadra di soli eroi\na cui hai conferito il Dono della terra o di\neroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A30: Batti Zephiel
+MID_MISSION_H_S201804YEAR01_A30: Vinci la Grande battaglia contro Zephiel,\nil re liberatore, al livello di difficoltà folle\no superiore con una squadra di soli eroi\na cui hai conferito il Dono del fuoco o di\neroi leggendari di tipo fuoco.
+MID_MISSION_S201804YEAR01_A31: Batti Camus
+MID_MISSION_H_S201804YEAR01_A31: Vinci la Grande battaglia contro Camus,\nlo Zibellino Nero.
+MID_MISSION_S201804YEAR01_A32: Batti Camus
+MID_MISSION_H_S201804YEAR01_A32: Vinci la Grande battaglia contro Camus,\nlo Zibellino Nero, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono dell'acqua\no di eroi leggendari di tipo acqua.
+MID_MISSION_S201804YEAR01_A33: Batti Camus
+MID_MISSION_H_S201804YEAR01_A33: Vinci la Grande battaglia contro Camus,\nlo Zibellino Nero, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del vento\no di eroi leggendari di tipo vento.
+MID_MISSION_S201804YEAR01_A34: Batti Camus
+MID_MISSION_H_S201804YEAR01_A34: Vinci la Grande battaglia contro Camus,\nlo Zibellino Nero, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono della terra\no di eroi leggendari di tipo terra.
+MID_MISSION_S201804YEAR01_A35: Batti Camus
+MID_MISSION_H_S201804YEAR01_A35: Vinci la Grande battaglia contro Camus,\nlo Zibellino Nero, al livello di difficoltà\nfolle o superiore con una squadra di soli\neroi a cui hai conferito il Dono del fuoco\no di eroi leggendari di tipo fuoco.
+MID_MISSION_S201804STORY01_TITLE: Neve e cenere
+MID_MISSION_S201804STORY01_A1: Completa 7-1 folle
+MID_MISSION_H_S201804STORY01_A1: Completa il libro II, cap. 7-1 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY01_A2: Completa 7-2 folle
+MID_MISSION_H_S201804STORY01_A2: Completa il libro II, cap. 7-2 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY01_A3: Completa 7-3 folle
+MID_MISSION_H_S201804STORY01_A3: Completa il libro II, cap. 7-3 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY01_A4: Completa 7-4 folle
+MID_MISSION_H_S201804STORY01_A4: Completa il libro II, cap. 7-4 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY01_A5: Completa 7-5 folle
+MID_MISSION_H_S201804STORY01_A5: Completa il libro II, cap. 7-5 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_H_OCCUPATION_RULE_歩行能力強化: Att/Vel/Dif/Res +4 alle unità di\nfanteria alleate.
+MID_H_OCCUPATION_RULE_歩行奥義: Anticipa l'attivazione dell'abilità speciale\n(contatore -1) alla fanteria alleata durante\nlo scontro. Non cumulabile; si applica solo\nil valore più alto.
+MID_H_OCCUPATION_RULE_重装能力強化: Att/Vel/Dif/Res +4 alle unità\ncorazzate alleate.
+MID_H_OCCUPATION_RULE_重装移動強化: All'inizio del turno, gli alleati corazzati\nhanno 1 spazio di movimento extra\n(solo per 1 turno e non cumulabile).
+MID_H_OCCUPATION_RULE_騎馬能力強化: Att/Vel/Dif/Res +4 alle unità\na cavallo alleate.
+MID_H_OCCUPATION_RULE_騎馬追撃: Se un alleato a cavallo attacca per\nprimo, le unità alleate eseguono un\nattacco doppio.
+MID_H_OCCUPATION_RULE_飛行能力強化: Att/Vel/Dif/Res +4 alle unità\nvolanti alleate.
+MID_H_OCCUPATION_RULE_飛行先導: Le unità alleate si possono spostare in uno\nspazio adiacente a un alleato volante entro\n2 spazi.
+MPID_サイアス: Saias
+MPID_フィン: Finn
+MPID_リーフ: Leif
+MPID_ナンナ: Nanna
+MPID_オルエン2: Olwen
+MPID_ラインハルト2: Reinhardt
+MPID_HONOR_サイアス: L'arcivescovo
+MPID_HONOR_フィン: La lancia del mito
+MPID_HONOR_リーフ: Il lord di Leonster
+MPID_HONOR_ナンナ: La lady di Nordion
+MPID_HONOR_オルエン2: La cav. virtuosa
+MPID_HONOR_ラインハルト2: La lama del tuono
+MPID_H_サイアス: Sacerdote di Velthomer e tra gli strateghi\npiù rinomati. Nelle sue vene scorre il sangue\ndi Fjalar, una dei crociati. Compare in\nFire Emblem: Thracia 776.
+MPID_H_フィン: Servo di Leonster che ha giurato lealtà al\npadre di Leif, Quan. Lo scopo della sua vita\nè proteggere Leif. Compare in Fire Emblem:\nThracia 776.
+MPID_H_リーフ: Figlio di Quan. Si nascondeva a Fiana,\nma uscì all'aperto dopo un attacco\ndelle forze imperiali. Compare in\nFire Emblem: Thracia 776.
+MPID_H_ナンナ: Figlia di Lachesis. Giovane donna piena di\ncarisma, ha ereditato il portamento elegante\nda sua madre. Compare in Fire Emblem:\nThracia 776.
+MPID_H_オルエン2: Maga cavaliera dell'esercito di Friege. Ha\nlasciato il suo amato fratello Reinhardt e\nora percorre la sua strada. Compare in\nFire Emblem: Thracia 776.
+MPID_H_ラインハルト2: Formidabile mago cavaliere dell'esercito\ndi Friege e fratello maggiore di Olwen. Fu\nsconfitto dal principe Leif. Compare in\nFire Emblem: Thracia 776.
+MPID_VOICE_サイアス: Ben Lepley
+MPID_VOICE_フィン: Robert Clotworthy
+MPID_VOICE_リーフ: Nicolas Roye
+MPID_VOICE_ナンナ: Alicia Stratten
+MPID_VOICE_オルエン2: Tara Sands
+MPID_VOICE_ラインハルト2: Chris Smith
+MPID_ILLUST_サイアス: Teita (悌太)
+MPID_ILLUST_フィン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_リーフ: Aoji (あおじ)
+MPID_ILLUST_ナンナ: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: Il pugno del tuono
+MID_SEQUENTIAL_MAP_BOOST_49: $aPunti x$a1 + bonus alleati (oggi ancora $a0)
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: ◆Bonus a punti+parametri alleati◆\nDue volte al giorno otterrai il\ntriplo del punteggio e tutti i\ntuoi alleati riceveranno\nPS +10 e Att/Vel/Dif/Res +4.\n\nRiceverai anche Esp e PA doppi!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $aPunteggio\n+$a0%
+MID_SEQUENTIAL_MAP_RECOMMENDED: Prova!
+MSID_無銘の一門の剣: Lama ignota
+MSID_フォルブレイズ: Vampa
+MSID_第9迷宮の覇者1: Asso squadra I 1
+MSID_第9迷宮の覇者2: Asso squadra I 2
+MSID_第9迷宮の覇者3: Asso squadra I 3
+MSID_マスターソード: Meisterschwert
+MSID_光の剣: Spada di luce
+MSID_軍神の書: Tomo di guerra
+MSID_雷旋トルネード: Nube tonante
+MSID_レスト: Ripristino
+MSID_レスト＋: Ripristino+
+MSID_Ｓドリンク: Elisir speciale
+MSID_攻撃守備の紋章1: Migliora Att/Dif 1
+MSID_攻撃守備の紋章2: Migliora Att/Dif 2
+MSID_緑魔の経験1: Esp tomo V 1
+MSID_緑魔の経験2: Esp tomo V 2
+MSID_緑魔の経験3: Esp tomo V 3
+MSID_H_無銘の一門の剣: Anticipa l'attivazione dell'abilità speciale\n(contatore -1).
+MSID_H_フォルブレイズ: Infligge Res -7 al nemico con la Res\nmaggiore all'inizio del turno durante\nla sua prossima azione.
+MSID_H_封印の剣改: Efficace contro i draghi. Se il nemico attacca\nper primo, Dif/Res +4 durante lo scontro.
+MSID_H_リガルブレイド改: Se il nemico ha tutti i PS all'inizio dello\nscontro, conferisce Att/Vel +3 durante\nlo scontro.
+MSID_H_切り返しR50: Se l'unità ha il 50% o più dei PS e il nemico\nattacca per primo, l'unità esegue un attacco\ndoppio.
+MSID_H_絆R歩行魔法: Se l'unità si trova entro 2 spazi da\nun alleato di fanteria che usa magia,\nAtt/Vel/Dif/Res +3 durante lo scontro.
+MSID_H_第9迷宮の覇者1: Conferisce Vel +1.
+MSID_H_第9迷宮の覇者2: Conferisce Vel +2.
+MSID_H_第9迷宮の覇者3: Conferisce Vel +3.
+MSID_H_マスターソード: Infligge Vel -5. L'unità colpisce due volte,\nanche se il nemico attacca per primo.
+MSID_H_光の剣: Conferisce Dif +3. Se il nemico ha Dif superiore\nrispetto alla Res di almeno 5, aumenta il danno\ninflitto di +7.
+MSID_H_軍神の書: Att/Res -4 a tutti i nemici nei punti cardinali\ncon Res inferiore rispetto all'unità all'inizio\ndel turno durante le loro prossime azioni.
+MSID_H_雷旋トルネード: Aggiunge ai danni inflitti la somma\ndi eventuali bonus dell'unità.
+MSID_H_レスト: Ripristina 8 PS. Rimuove penalità dall'alleato\n(da abilità come Panico e Mina Att) ed effetti\ndi stato negativi (come incapacità di\ncontrattaccare e movimenti limitati) che\ndurano fino alla sua prossima azione.
+MSID_H_レスト＋: Ripristina PS pari ad Att/2. Minimo 8 PS.\nRimuove penalità dall'alleato (da abilità come\nPanico e Mina Att) ed effetti di stato negativi\n(come incapacità di contrattaccare e\nmovimenti limitati) che durano fino alla\nsua prossima azione.
+MSID_H_Ｓドリンク: Contatore dell'abilità speciale -1 e ripristina\n99 PS all'inizio del turno 1.
+MSID_H_攻撃守備の紋章1: Att/Dif +2 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_攻撃守備の紋章2: Att/Dif +3 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_緑魔の経験1: Se l'unità usa un tomo verde, riceve Esp x1,5\nfinché rimane in vita. (Non cumulabile; si\napplica solo il valore più alto.)
+MSID_H_緑魔の経験2: Tutti gli alleati con tomo verde ricevono Esp x1,5\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MSID_H_緑魔の経験3: Tutti gli alleati con tomo verde ricevono Esp x2\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MID_CHAPTER_TITLE_C0207: Libro II, cap. 7
+MID_CHAPTER_C0207: Neve e cenere
+MID_STAGE_TITLE_S2071: Capitolo 7-1
+MID_STAGE_TITLE_S2072: Capitolo 7-2
+MID_STAGE_TITLE_S2073: Capitolo 7-3
+MID_STAGE_TITLE_S2074: Capitolo 7-4
+MID_STAGE_TITLE_S2075: Capitolo 7-5
+MID_STAGE_S2071: L'eco dei sogni
+MID_STAGE_S2072: La lama del mago cavaliere
+MID_STAGE_S2073: Spiriti indomiti
+MID_STAGE_S2074: Il libro e la spada
+MID_STAGE_S2075: Neve e cenere
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: ◆Rotazione Grandi battaglie (2)◆\nQuesti eroi appaiono giornalmente\na rotazione: Zephiel, il re liberatore;\nCamus, lo Zibellino Nero; Legion,\nla maschera ilare; Clarisse, la\ntiratrice solinga; Berkut, il fiero\nsignore; Valter, la pietra lunare;\nArvis, il sovrano focoso.
+MID_STAGE_TITLE_SB_0009: 9º assalto
+MID_STAGE_HONOR_V0231: Mappa premio
+MID_STAGE_V0231: vs Xander
+MID_STAGE_HONOR_V0232: Mappa premio
+MID_STAGE_V0232: vs Camilla
+MID_STAGE_HONOR_V0233: Mappa premio
+MID_STAGE_V0233: vs Azura
+MID_STAGE_HONOR_V0234: Mappa premio
+MID_STAGE_V0234: vs Ike
+MID_STAGE_HONOR_V0235: Mappa premio
+MID_STAGE_V0235: vs Roy
+MID_STAGE_HONOR_V0236: Mappa premio
+MID_STAGE_V0236: vs Daraen M
+MID_STAGE_HONOR_V0237: Mappa premio
+MID_STAGE_V0237: vs Takumi
+MID_STAGE_HONOR_V0238: Mappa premio
+MID_STAGE_V0238: vs Daraen F
+MID_STAGE_HONOR_V0239: Mappa premio
+MID_STAGE_V0239: vs Lucina
+MID_STAGE_HONOR_V0240: Mappa premio
+MID_STAGE_V0240: vs Chrom
+MID_STAGE_HONOR_V0241: Mappa premio
+MID_STAGE_V0241: vs Lyn
+MID_STAGE_HONOR_T0029: L'arcivescovo
+MID_STAGE_T0029: Saias
+MID_STAGE_HONOR_Q0006: Settimanali
+MID_STAGE_Q0006: Lotta di potere
+MID_STAGE_HONOR_Q0007: Settimanali
+MID_STAGE_Q0007: Lotta di potere
+MID_STAGE_HONOR_Q0008: Settimanali
+MID_STAGE_Q0008: Lotta di potere
+MID_STAGE_HONOR_Q0009: Settimanali
+MID_STAGE_Q0009: Lotta di potere
+MID_STAGE_TITLE_BG_WATER_0007: Acqua 7
+MID_STAGE_BG_WATER_0007: Colonnato
+MID_STAGE_TITLE_BG_WIND_0006: Vento 6
+MID_STAGE_BG_WIND_0006: Santuario
+MID_STAGE_TITLE_BG_EARTH_0006: Terra 6
+MID_STAGE_BG_EARTH_0006: Santuario
+MID_STAGE_TITLE_BG_FIRE_0006: Fuoco 6
+MID_STAGE_BG_FIRE_0006: Santuario

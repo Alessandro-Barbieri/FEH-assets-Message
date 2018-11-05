@@ -1,0 +1,38 @@
+[Heroes Archive] (AMELIA)
+
+
+Heroes Message Name: Message
+
+
+MID_AMELIA_HOME1: Ich bin aus einem kleinen Dorf\nnamens Silva. Das ist in Grado.$k$pIch kämpfe für mein Land. Ich\nhoffe nur, dass es den Leuten\nin meiner Heimat gut geht.
+MID_AMELIA_HOME2: Ich glaube an die Gerechtigkeit.\nIch will sichergehen, dass ich\ndas Richtige tue.
+MID_AMELIA_HOME3: Wenn Ihr müde seid, lasst mich\nEuch helfen. Ich bin schließlich\nauch eine Art Soldatin.
+MID_AMELIA_HOME4: Hört Ihr diesen Singvogel? Was für\neine schöne Stimme er hat! Lasst\nuns näher hingehen und zuhören!
+MID_AMELIA_HOME5: Ich bewundere General Duenell.\nIch trainiere täglich, um eines Tages\nvielleicht ein bisschen wie er zu sein.
+MID_AMELIA_FRIEND: Jemand, den Ihr kennt, hat mich\nhergeschickt. Ich meine natürlich\n$Nf!$k$pIch hoffe, Ihr beide bleibt\nweiterhin gut befreundet,\n$Nu.
+MID_AMELIA_LEVEL1: Ich habe großes Potenzial,\nnicht wahr?
+MID_AMELIA_LEVEL2: Langsam, aber sicher werde ich\nzu einer echten Soldatin!
+MID_AMELIA_LEVEL3: Vielleicht bin ich einfach\nnicht gut genug...
+MID_AMELIA_SKILL: Ich werde stärker?\nDas ist so aufregend!
+MID_AMELIA_JOIN: Oh, hallo! Ich bin eine Soldatin aus\nGrado. Ich gebe immer mein Bestes!\nMein Name? Ach ja, richtig. Amelia.
+MID_AMELIA_STRONGEST: Bin ich stärker geworden, seit ich\nhierherkam? Glaubt Ihr, dass ich\ninzwischen eine echte Soldatin bin?$k$pEin Soldat ist für mich jemand, der\ndie Leute beschützen kann, die ihm\netwas bedeuten.$k$pWisst Ihr, als ich klein war... haben\nBanditen unser Dorf überfallen und\nmeine Mutter entführt.$k$pUnd ich konnte ihr nicht helfen. Vor\nlauter Angst habe ich mich versteckt.\nIch konnte sie nicht beschützen.$k$pDeshalb muss ich stärker werden.\nIch will diejenigen beschützen\nkönnen, die mir wichtig sind.$k$pDanke, dass Ihr mir zugehört habt,\n$Nu.$k$pIch schwöre, dass ich meine Liebsten\num jeden Preis beschützen werde.
+MID_AMELIA_VOICE01: えいっ！
+MID_AMELIA_VOICE02: うんしょっ！
+MID_AMELIA_VOICE03: きゃああっ！
+MID_AMELIA_VOICE04: 捕虜にされちゃう…
+MID_AMELIA_VOICE05: Ich gebe mein Bestes!
+MID_AMELIA_VOICE06: Ich beschütze alle!
+MID_AMELIA_VOICE07: Ich habe keine Angst!
+MID_AMELIA_VOICE08: Hjaaa...? Ha!
+MID_AMELIA_VOICE09: Did I...give it my all?
+MID_AMELIA_VOICE10: Haha
+MID_AMELIA_VOICE11: I have to get stronger, to protect the people I care about.
+MID_AMELIA_VOICE12: AAAGH! ...Don't do that! My heart skipped a beat!
+MID_AMELIA_VOICE13: This armor is SO heavy. I feel like I'm going to tip over.
+MID_AMELIA_VOICE14: Take that! And that! Hyaah!\n\nAh! Were you watching me the whole time?
+MID_AMELIA_VOICE15: This is making me a little self-conscious.
+MID_AMELIA_VOICE16: Oh, Mother. If only... If only I had been stronger.
+MID_AMELIA_VOICE17: I want to become the shield that protects you.
+MID_AMELIA_VOICE18: Yep!
+MID_AMELIA_VOICE19: Allllll right!
+MID_AMELIA_VOICE20: I'm ready...

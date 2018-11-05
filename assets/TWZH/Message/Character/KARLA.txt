@@ -1,0 +1,38 @@
+[Heroes Archive] (KARLA)
+
+
+Heroes Message Name: Message
+
+
+MID_KARLA_HOME1: 哥哥……\n儘管內心了解無法再像從前一樣，\n但我還是……
+MID_KARLA_HOME2: 能夠繼承我族劍術的只有一人。\n現在除了哥哥以外的人都已經喪命，\n總有一天我也會被斬殺吧……但……
+MID_KARLA_HOME3: 每天忠於自己的勤務，真是辛苦你了。\n雖然這份勤勉十分值得敬佩，\n但也別讓自己太操勞囉。
+MID_KARLA_HOME4: 我在旅途中已經見識過不少東西，\n但這裡有更多珍奇的事物。\n你不介意的話，可以帶我去看看嗎？
+MID_KARLA_HOME5: 我剛剛在練劍。\n原本想說服自己再也沒必要這麼做了，\n但習慣還是很難改掉呢。
+MID_KARLA_FRIEND: 我是卡菈，前來問候你。\n還請多多關照\n$Nf了。
+MID_KARLA_LEVEL1: 身體好輕……\n這就是所謂的人劍合一嗎？
+MID_KARLA_LEVEL2: 這樣是不是能多少追上哥哥一點了呢？
+MID_KARLA_LEVEL3: 這表示我還不夠格嗎……
+MID_KARLA_SKILL: 如此強大的力量……\n嗯，我會好好運用的，謝謝你。
+MID_KARLA_JOIN: 我叫卡菈。\n這裡真是個詭異的地方……\n還有，你又是何方神聖？
+MID_KARLA_STRONGEST: 我們是為劍而生的一族。\n一生只懂得磨練劍術、斬殺敵人，\n就連面對自己的家人也毫不留情。$k$p但當我離開草原開始旅行之後，\n才發現真正的強大沒有那麼簡單，\n而劍也只不過是區區的武器罷了。$k$p某個男人告訴我如何追求強大，\n而哥哥也發現……\n所謂劍術之路並不只有斬殺一切……$k$p但是，當我看著你……\n卻感受到一股截然不同的強大。\n該說是只有無力戰鬥之人才具備的力量嗎？$k$p現在的我，對這一點非常感興趣。\n在我理解這份強大的真面目之前，\n就請你奉陪一下吧。
+MID_KARLA_VOICE01: 喝！
+MID_KARLA_VOICE02: 哼！
+MID_KARLA_VOICE03: 呀啊啊！
+MID_KARLA_VOICE04: 修練還不夠……
+MID_KARLA_VOICE05: 我來當你的對手。
+MID_KARLA_VOICE06: 正合我意。
+MID_KARLA_VOICE07: 雖然不喜歡訴諸武力……
+MID_KARLA_VOICE08: 會死喔？
+MID_KARLA_VOICE09: これでは到底…兄者には…
+MID_KARLA_VOICE10: ふぅむ…
+MID_KARLA_VOICE11: 剣を継ぐのは、一人…それが、我らの掟。
+MID_KARLA_VOICE12: っ！？　隙があったな…今、斬られても文句は言えぬ。
+MID_KARLA_VOICE13: 私は兄者を捜して旅をしていた…未練だな。だが断ち切れぬ。
+MID_KARLA_VOICE14: 兄者は強者（つわもの）のもとに現れる…
+MID_KARLA_VOICE15: 我らは人ではない…この刃と何も変わらぬ。
+MID_KARLA_VOICE16: 兄者…かなうものなら、ずっとあのままでいたかった…
+MID_KARLA_VOICE17: 私は世の中を知らぬのでな…そなたに教えてもらいたい。
+MID_KARLA_VOICE18: 承知
+MID_KARLA_VOICE19: 兄者…
+MID_KARLA_VOICE20: ほう、なるほど

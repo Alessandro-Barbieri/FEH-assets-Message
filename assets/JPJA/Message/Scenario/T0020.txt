@@ -1,0 +1,8 @@
+[Heroes Archive] (T0020)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヒノカ,ch05_26_Hinoka_F_Normal,Face|$w0|タクミ、いいか？\n事前に話した通り、\nきょうだいで連携して戦うぞ。$k$p$WmMPID_タクミ,ch05_09_Takumi_M_Normal,Face|$w0|わかったよ、姉さん。\n僕一人で無茶はしない…\n力を合わせるよ。$k$p$Sbs1000|

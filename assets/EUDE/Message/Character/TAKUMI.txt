@@ -1,0 +1,39 @@
+[Heroes Archive] (TAKUMI)
+
+
+Heroes Message Name: Message
+
+
+MID_TAKUMI_HOME1: So, du hast also auch eine Heilige\nWaffe? Sieht aus, als könnte man\ndamit nicht sehr gut zielen.$k$pAber die ist auch gar nicht für den\nKampf bestimmt, oder?
+MID_TAKUMI_HOME2: Meine Getreuen sind Hinata und\nOboro.$k$pSie arbeiten hart, aber ich bin froh,\ndass sie wissen, wie sie sich\nerholen können.$k$pEhrlich gesagt muss ich die\nbeiden manchmal einfach\nverwöhnen.
+MID_TAKUMI_HOME3: Ich habe gehört, dass du gar nicht\nkämpfen kannst, daher kannst du\nauf mich zählen.$k$pEgal, was die anderen hinter\nmeinem Rücken über mich\nerzählen.
+MID_TAKUMI_HOME4: Ich liebe das Essen meiner Heimat,\nbesonders Misosuppe!$k$pVielleicht können wir beide ja\nzusammen etwas kochen.
+MID_TAKUMI_HOME5: Ich sorge immer dafür, dass mein\nFujin Yumi gut gepflegt ist. Schließlich\nist man nur so gut wie seine Waffe.$k$pDa pflegt man sie besser so gut man\nkann.
+MID_TAKUMI_FRIEND: $Nf meinte,\nich soll dich grüßen. Nun sieh\nzu, dass ihr in Kontakt bleibt!
+MID_TAKUMI_LEVEL1: Puh! Das hat sich gelohnt!\nDa bin ich erleichtert.
+MID_TAKUMI_LEVEL2: Nicht schlecht. Nein.\nWirklich nicht schlecht.
+MID_TAKUMI_LEVEL3: Was?!? Es passiert!
+MID_TAKUMI_SKILL: Hah! Schön, dass du dich\nwirklich für mich interessierst.
+MID_TAKUMI_JOIN: Ich bin Takumi, ein Prinz aus\nHoshido. Meine Waffe ist der\nheilige Fujin Yumi.$k$pIch denke, meine Waffe macht\nmich zu einem wertvollen Kämpfer.
+MID_TAKUMI_STRONGEST: Ich frage mich die ganze Zeit... Wie\ndenkst du eigentlich über mich?\nBin ich einfach nur ein weiterer$k$pHeld für dich?\nNicht, dass mich das stören würde.\nIch bin nur neugierig.$k$pAber ich fühle, dass du mich und\nmeine Fähigkeiten anerkennst.$k$pWürdest du das nicht tun, warum\nsolltest du dann so viel Zeit darauf\nverwenden, auf mich aufzupassen?$k$p...Ich weiß das übrigens zu schätzen.$k$pIch glaube, das ist es, was ich immer\nwollte - aufgrund meiner Fähigkeiten\nanerkannt zu werden. Ich danke dir.$k$pAber pass gut auf - ich werde der\nmächtigste Held, den du jemals\ngesehen hast!
+MID_TAKUMI_VOICE01: せやっ！
+MID_TAKUMI_VOICE02: Hit!
+MID_TAKUMI_VOICE03: うわっ！
+MID_TAKUMI_VOICE04: How dare you?
+MID_TAKUMI_VOICE05: Oh, das ist es!
+MID_TAKUMI_VOICE06: Jetzt stirb schon!
+MID_TAKUMI_VOICE07: Ich schieß dich ab!
+MID_TAKUMI_VOICE08: Dies Ziel triffst du nie!
+MID_TAKUMI_VOICE09: By you?!
+MID_TAKUMI_VOICE10: Hmmm.
+MID_TAKUMI_VOICE11: Must be nice to have free time. Ugh. Sorry, I didn't mean that.
+MID_TAKUMI_VOICE12: I have nightmares that you wouldn't believe. I wish they'd go away.\n\n
+MID_TAKUMI_VOICE13: Don't worry. I'll obliterate anyone who gets in our way!
+MID_TAKUMI_VOICE14: Were you happy to see me when I showed up? Hope so.
+MID_TAKUMI_VOICE15: I have to get stronger! Way stronger! More than my siblings, anyway.
+MID_TAKUMI_VOICE16: Are Hinata and Oboro around? Not that I need them to relax or anything.
+MID_TAKUMI_VOICE17: Heh, nice to be needed. But nice to get compliments too.
+MID_TAKUMI_VOICE18: Yes?
+MID_TAKUMI_VOICE19: On it.
+MID_TAKUMI_VOICE20: Let's go.
+MID_TAKUMI_VOICE21: Need me? All right. I'll help.

@@ -1,0 +1,493 @@
+[Heroes Archive] (Data_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201712A_TITLE: Retos: diciembre (1)
+MID_MISSION_M201712A_A1: Victoria cerúlea
+MID_MISSION_H_M201712A_A1: Vence a enemigos con\nunidades de tipo azul.
+MID_MISSION_M201712A_A2: Victoria pedestre
+MID_MISSION_H_M201712A_A2: Vence a enemigos con\nunidades de infantería.
+MID_MISSION_M201712A_A3: Objetivo: verde
+MID_MISSION_H_M201712A_A3: Vence a enemigos de tipo verde.
+MID_MISSION_M201712A_A4: Poder antiaéreo
+MID_MISSION_H_M201712A_A4: Derrota unidades aéreas.
+MID_MISSION_M201712A_A5: Gladiador
+MID_MISSION_H_M201712A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201712A_A6: Poderío carmesí
+MID_MISSION_H_M201712A_A6: Vence a enemigos de nivel 20\no superior con unidades de\ntipo rojo.
+MID_MISSION_M201712A_A7: Poderío aéreo
+MID_MISSION_H_M201712A_A7: Vence a enemigos de nivel 20 o\nsuperior con unidades aéreas.
+MID_MISSION_M201712A_A8: Objetivo: nivel 20+ azul
+MID_MISSION_H_M201712A_A8: Vence a enemigos de tipo azul\nde nivel 20 o superior.
+MID_MISSION_M201712A_A9: Objetivo: nivel 20+ a pie
+MID_MISSION_H_M201712A_A9: Vence a unidades de infantería\nde nivel 20 o superior.
+MID_MISSION_M201712A_A10: Gladiador curtido
+MID_MISSION_H_M201712A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201712A_A11: Gloria glauca
+MID_MISSION_H_M201712A_A11: Vence a enemigos de nivel 35\no superior con unidades de\ntipo verde.
+MID_MISSION_M201712A_A12: Gloria ecuestre
+MID_MISSION_H_M201712A_A12: Vence a enemigos de nivel 35 o\nsuperior con unidades de caballería.
+MID_MISSION_M201712A_A13: Sublimación carmesí
+MID_MISSION_H_M201712A_A13: Vence a enemigos de tipo rojo\nde nivel 35 o superior.
+MID_MISSION_M201712A_A14: Sublimación ecuestre
+MID_MISSION_H_M201712A_A14: Vence a unidades de caballería\nde nivel 35 o superior.
+MID_MISSION_M201712A_A15: Maestro gladiador
+MID_MISSION_H_M201712A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_S201712ARENA01_TITLE: Coliseo
+MID_MISSION_S201712ARENA01_A1: Gladiador
+MID_MISSION_H_S201712ARENA01_A1: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A2: Gladiador
+MID_MISSION_H_S201712ARENA01_A2: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A3: Gladiador
+MID_MISSION_H_S201712ARENA01_A3: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A4: Asalto del coliseo: 3 mapas
+MID_MISSION_H_S201712ARENA01_A4: Gana tres batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201712ARENA01_A5: Gladiador
+MID_MISSION_H_S201712ARENA01_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A6: Gladiador
+MID_MISSION_H_S201712ARENA01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A7: Gladiador
+MID_MISSION_H_S201712ARENA01_A7: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A8: Asalto del coliseo: 5 mapas
+MID_MISSION_H_S201712ARENA01_A8: Gana cinco batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201712ARENA01_A9: Gladiador
+MID_MISSION_H_S201712ARENA01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A10: Gladiador
+MID_MISSION_H_S201712ARENA01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A11: Gladiador
+MID_MISSION_H_S201712ARENA01_A11: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712ARENA01_A12: Asalto del coliseo: 7 mapas
+MID_MISSION_H_S201712ARENA01_A12: Gana siete batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_M201712B_TITLE: Retos: diciembre (2)
+MID_MISSION_M201712B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201712B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201712B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201712B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201712B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201712B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201712B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201712B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201712B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201712B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201712B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201712B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201712B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201712B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201712B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201712B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201712B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201712B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201712B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201712C_TITLE: Retos: diciembre (3)
+MID_MISSION_M201712C_A1: Cap. 4 - Parte 1
+MID_MISSION_H_M201712C_A1: Supera la 1.ª parte del capítulo 4\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201712C_A2: Cap. 4 - Parte 2
+MID_MISSION_H_M201712C_A2: Supera la 2.ª parte del capítulo 4 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A3: Cap. 4 - Parte 3
+MID_MISSION_H_M201712C_A3: Supera la 3.ª parte del capítulo 4 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A4: Cap. 4 - Parte 4
+MID_MISSION_H_M201712C_A4: Supera la 4.ª parte del capítulo 4 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A5: Cap. 4 - Parte 5
+MID_MISSION_H_M201712C_A5: Supera la 5.ª parte del capítulo 4 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A6: Cap. 7 - Parte 1 / Difícil+
+MID_MISSION_H_M201712C_A6: Supera la 1.ª parte del capítulo 7\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201712C_A7: Cap. 7 - Parte 2 / Difícil+
+MID_MISSION_H_M201712C_A7: Supera la 2.ª parte del capítulo 7 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201712C_A8: Cap. 7 - Parte 3 / Difícil+
+MID_MISSION_H_M201712C_A8: Supera la 3.ª parte del capítulo 7 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201712C_A9: Cap. 7 - Parte 4 / Difícil+
+MID_MISSION_H_M201712C_A9: Supera la 4.ª parte del capítulo 7 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201712C_A10: Cap. 7 - Parte 5 / Difícil+
+MID_MISSION_H_M201712C_A10: Supera la 5.ª parte del capítulo 7 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201712C_A11: Cap. 10 - Parte 1 / Extr.
+MID_MISSION_H_M201712C_A11: Supera la 1.ª parte del capítulo 10 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201712C_A12: Cap. 10 - Parte 2 / Extr.
+MID_MISSION_H_M201712C_A12: Supera la 2.ª parte del capítulo 10 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A13: Cap. 10 - Parte 3 / Extr.
+MID_MISSION_H_M201712C_A13: Supera la 3.ª parte del capítulo 10 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A14: Cap. 10 - Parte 4 / Extr.
+MID_MISSION_H_M201712C_A14: Supera la 4.ª parte del capítulo 10 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201712C_A15: Cap. 10 - Parte 5 / Extr.
+MID_MISSION_H_M201712C_A15: Supera la 5.ª parte del capítulo 10 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712RENSEI01_TITLE: Refinería de armas
+MID_MISSION_S201712RENSEI01_A1: Vencer enemigos
+MID_MISSION_H_S201712RENSEI01_A1: Vence a un enemigo.
+MID_MISSION_S201712RENSEI01_A2: Victoria carmesí
+MID_MISSION_H_S201712RENSEI01_A2: Vence a enemigos con\nunidades de tipo rojo.
+MID_MISSION_S201712RENSEI01_A3: Victoria cerúlea
+MID_MISSION_H_S201712RENSEI01_A3: Vence a enemigos con\nunidades de tipo azul.
+MID_MISSION_S201712RENSEI01_A4: Victoria glauca
+MID_MISSION_H_S201712RENSEI01_A4: Vence a enemigos con\nunidades de tipo verde.
+MID_MISSION_S201712RENSEI01_A5: Victoria gris
+MID_MISSION_H_S201712RENSEI01_A5: Vence a enemigos con\nunidades de tipo gris.
+MID_MISSION_S201712RENSEI01_A6: Victoria pedestre
+MID_MISSION_H_S201712RENSEI01_A6: Vence a enemigos con\nunidades de infantería.
+MID_MISSION_S201712RENSEI01_A7: Victoria acorazada
+MID_MISSION_H_S201712RENSEI01_A7: Vence a enemigos con\nunidades acorazadas.
+MID_MISSION_S201712RENSEI01_A8: Victoria ecuestre
+MID_MISSION_H_S201712RENSEI01_A8: Vence a enemigos con\nunidades de caballería.
+MID_MISSION_S201712RENSEI01_A9: Victoria aérea
+MID_MISSION_H_S201712RENSEI01_A9: Vence a enemigos con\nunidades aéreas.
+MID_MISSION_S201712RENSEI01_A10: Gladiador
+MID_MISSION_H_S201712RENSEI01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712RENSEI01_A11: Asalto del coliseo: 7 mapas
+MID_MISSION_H_S201712RENSEI01_A11: Gana siete batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201712RENSEI01_A12: Vencer con Fjorm
+MID_MISSION_H_S201712RENSEI01_A12: Vence a enemigos con Fjorm.
+MID_MISSION_S201712RENSEI01_A13: Objetivo: nivel 20+
+MID_MISSION_H_S201712RENSEI01_A13: Vence a enemigos de nivel 20\no superior con Fjorm.
+MID_MISSION_S201712RENSEI01_A14: Objetivo: nivel 40+
+MID_MISSION_H_S201712RENSEI01_A14: Vence a enemigos de nivel 40\no superior con Fjorm.
+MID_MISSION_S201712RENSEI01_A15: Torre de práctica - Nivel 1
+MID_MISSION_H_S201712RENSEI01_A15: Supera el primer nivel de la torre\nde práctica con Fjorm en tu batallón.
+MID_MISSION_S201712RENSEI01_A16: Torre de práctica - Nivel 5
+MID_MISSION_H_S201712RENSEI01_A16: Supera el quinto nivel de la torre\nde práctica con Fjorm en tu batallón.
+MID_MISSION_S201712RENSEI01_A17: Torre de práctica - Nivel 9
+MID_MISSION_H_S201712RENSEI01_A17: Supera el noveno nivel de la torre\nde práctica con Fjorm en tu batallón.
+MID_MISSION_S201712RENSEI01_A18: Torre de práctica - Nivel 10
+MID_MISSION_H_S201712RENSEI01_A18: Supera el décimo nivel de la\ntorre de práctica con 3 unidades,\nincluyendo a Fjorm, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201711SENKA03_DAILY_TITLE: La Tormenta
+MID_MISSION_S201711SENKA03_DAILY_A1: Superar mapa
+MID_MISSION_H_S201711SENKA03_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201711SENKA03_DAILY_A2: Superar mapa
+MID_MISSION_H_S201711SENKA03_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201711SENKA03_DAILY_A3: Superar mapa
+MID_MISSION_H_S201711SENKA03_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201711SENKA03_DAILY_A4: Superar mapa
+MID_MISSION_H_S201711SENKA03_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201711STORY02_TITLE: La llama
+MID_MISSION_S201711STORY02_A1: Cap. 1 - Parte 1 / Extr.
+MID_MISSION_H_S201711STORY02_A1: Supera la 1.ª parte del capítulo 1 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY02_A2: Cap. 1 - Parte 2 / Extr.
+MID_MISSION_H_S201711STORY02_A2: Supera la 2.ª parte del capítulo 1 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY02_A3: Cap. 1 - Parte 3 / Extr.
+MID_MISSION_H_S201711STORY02_A3: Supera la 3.ª parte del capítulo 1 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY02_A4: Cap. 1 - Parte 4 / Extr.
+MID_MISSION_H_S201711STORY02_A4: Supera la 4.ª parte del capítulo 1 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY02_A5: Cap. 1 - Parte 5 / Extr.
+MID_MISSION_H_S201711STORY02_A5: Supera la 5.ª parte del capítulo 1 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY03_TITLE: Princesa glacial
+MID_MISSION_S201711STORY03_A1: Cap. 2 - Parte 1 / Extr.
+MID_MISSION_H_S201711STORY03_A1: Supera la 1.ª parte del capítulo 2 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY03_A2: Cap. 2 - Parte 2 / Extr.
+MID_MISSION_H_S201711STORY03_A2: Supera la 2.ª parte del capítulo 2 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY03_A3: Cap. 2 - Parte 3 / Extr.
+MID_MISSION_H_S201711STORY03_A3: Supera la 3.ª parte del capítulo 2 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY03_A4: Cap. 2 - Parte 4 / Extr.
+MID_MISSION_H_S201711STORY03_A4: Supera la 4.ª parte del capítulo 2 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201711STORY03_A5: Cap. 2 - Parte 5 / Extr.
+MID_MISSION_H_S201711STORY03_A5: Supera la 5.ª parte del capítulo 2 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712HERO01_TITLE: Grandes batallas
+MID_MISSION_S201712HERO01_A1: Derrotar a Berkut: Sharena
+MID_MISSION_H_S201712HERO01_A1: Gana la gran batalla contra\nBerkut, Príncipe altivo,\ncon Sharena en tu batallón.
+MID_MISSION_S201712HERO01_A2: Derrotar a Berkut: extremo
+MID_MISSION_H_S201712HERO01_A2: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior\ncon Berkut, Príncipe altivo, en tu batallón.
+MID_MISSION_S201712HERO01_A3: Derrotar a Berkut: 40+
+MID_MISSION_H_S201712HERO01_A3: Con Sharena, derrota a Berkut,\nPríncipe altivo, en su versión\nde nivel 40 o superior.
+MID_MISSION_S201712HERO01_A4: Derrotar a Berkut: Berkut
+MID_MISSION_H_S201712HERO01_A4: Con Berkut, Príncipe altivo, derrota\na Berkut, Príncipe altivo, en su\nversión de nivel 40 o superior.
+MID_MISSION_S201712HERO01_A5: Derrotar a Berkut: infant.
+MID_MISSION_H_S201712HERO01_A5: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201712VMAP01_TITLE: ¡Gracias por jugar!
+MID_MISSION_S201712VMAP01_A1: Effie, la forzuda
+MID_MISSION_H_S201712VMAP01_A1: Supera "Effie, la forzuda", de Shingoroid,\ncon 4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712VMAP01_A2: Arcoíris oscuro
+MID_MISSION_H_S201712VMAP01_A2: Supera "Arcoíris oscuro", de Taroimo,\ncon 4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712VMAP01_A3: Cuatro partidazos
+MID_MISSION_H_S201712VMAP01_A3: Supera "Cuatro partidazos", de Rokumoji,\ncon 4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712VMAP01_A4: Chicas cándidas
+MID_MISSION_H_S201712VMAP01_A4: Supera "Chicas cándidas", de Arayang,\ncon 4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712VMAP01_A5: Muro férreo
+MID_MISSION_H_S201712VMAP01_A5: Supera "Muro férreo", de ryo,\ncon 4 unidades en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201712VMAP01_A6: Effie, la forzuda / Extremo
+MID_MISSION_H_S201712VMAP01_A6: Supera "Effie, la forzuda", de Shingoroid, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_S201712VMAP01_A7: Arcoíris oscuro / Extremo
+MID_MISSION_H_S201712VMAP01_A7: Supera "Arcoíris oscuro", de Taroimo, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_S201712VMAP01_A8: Cuatro partidazos / Extr.
+MID_MISSION_H_S201712VMAP01_A8: Supera "Cuatro partidazos", de Rokumoji, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_S201712VMAP01_A9: Chicas cándidas / Extremo
+MID_MISSION_H_S201712VMAP01_A9: Supera "Chicas cándidas", de Arayang, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_S201712VMAP01_A10: Muro férreo / Extremo
+MID_MISSION_H_S201712VMAP01_A10: Supera "Muro férreo", de ryo, en modo\nextremo con 4 unidades en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201712VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201712VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201712VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201712VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201712VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201712VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201712VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201712VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201712VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201712VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201712VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201712VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201712VOTE01_A9: Gladiador
+MID_MISSION_H_S201712VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712VOTE01_A10: Gladiador
+MID_MISSION_H_S201712VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201712VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201712VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201712VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201712VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201712VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201712VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201712VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201712VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201712VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201712VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201712VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201712VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201712VOTE01_A17: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201712VOTE01_A18: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201712VOTE01_A19: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201712VOTE01_A20: Torneo de votos
+MID_MISSION_H_S201712VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MEID_ラウアマムクート: Manakete rojo
+MEID_ブラーマムクート: Manakete azul
+MEID_グルンマムクート: Manakete verde
+MEID_ソードドラゴン: Wyvern espada
+MEID_ランスドラゴン: Wyvern lanza
+MEID_アクスドラゴン: Wyvern hacha
+MEID_H_ラウアマムクート: Manakete de tipo rojo.\nPuede transformarse en dragón en combate.
+MEID_H_ブラーマムクート: Manakete de tipo azul.\nPuede transformarse en dragón en combate.
+MEID_H_グルンマムクート: Manakete de tipo verde.\nPuede transformarse en dragón en combate.
+MEID_H_ソードドラゴン: Jinete wyvern armado con una espada.\nPuede sobrevolar ríos y montañas, pero\nes vulnerable a los arcos.
+MEID_H_ランスドラゴン: Jinete wyvern armado con una lanza.\nPuede sobrevolar ríos y montañas, pero\nes vulnerable a los arcos.
+MEID_H_アクスドラゴン: Jinete wyvern armado con un hacha.\nPuede sobrevolar ríos y montañas, pero\nes vulnerable a los arcos.
+MEID_スルト: Surtr
+MEID_レーヴァテイン: Laevatein
+MEID_ロキ: Loki
+MPID_スルト: Surtr
+MPID_フィヨルム: Fjorm
+MPID_レーヴァテイン: Laevatein
+MPID_ロキ: Loki
+MPID_スリーズ声: Gunnthrá
+MPID_ソレイユ: Soleil
+MPID_シャラ: Rhajat
+MPID_シノノメ: Shiro
+MPID_ジークベルト: Siegbert
+MEID_HONOR_スルト: Rey ígneo
+MPID_HONOR_フィヨルム: Princesa glacial
+MEID_HONOR_レーヴァテイン: Acero ardiente
+MEID_HONOR_ロキ: La embaucadora
+MPID_HONOR_ソレイユ: Fan de lo mono
+MPID_HONOR_シャラ: Maga tenebrosa
+MPID_HONOR_シノノメ: Talento puro
+MPID_HONOR_ジークベルト: Futuro rey
+MEID_H_スルト: Rey de Múspell, el reino del fuego. Por sus\nvenas corre la sangre del dragón ígneo.\nEs un déspota cuyo afán por la conquista\nes implacable.
+MPID_H_フィヨルム: Amable segunda princesa de Nifl, el\nreino del hielo. Quiere vengarse de Surtr.
+MEID_H_レーヴァテイン: Segunda princesa de Múspell, el reino del\nfuego. En su mente, la hoja que blande y\nella misma son parte del mismo ser.\nMantiene sus emociones a raya.
+MEID_H_ロキ: Estratega de Múspell, el reino del fuego.\nLe gusta engañar y manipular a la gente.
+MPID_H_ソレイユ: Hija de Laslow. Alegre y para nada tímida.\nAdmira a las mujeres audaces y atrevidas.\nAparece en Fire Emblem Fates.
+MPID_H_シャラ: Hija de Hayato. Tiende a ser obsesiva\ny tiene un carácter de mil demonios.\nAparece en Fire Emblem Fates.
+MPID_H_シノノメ: Hijo de Ryoma. Nunca deja a un lado el\nentrenamiento. Es extrovertido y resulta\nfácil llevarse bien con él.\nAparece en Fire Emblem Fates.
+MPID_H_ジークベルト: Hijo de Xander, serio y amable. Como\nfuturo rey, recibió una buena educación.\nAparece en Fire Emblem Fates.
+MEID_VOICE_スルト: —
+MPID_VOICE_フィヨルム: Heather Watson
+MEID_VOICE_レーヴァテイン: Sarah Williams
+MEID_VOICE_ロキ: Erika Ishii
+MPID_VOICE_ソレイユ: Michelle Ruff
+MPID_VOICE_シャラ: Stephanie Sheh
+MPID_VOICE_シノノメ: Kaiji Tang
+MPID_VOICE_ジークベルト: Todd Haberkorn
+MEID_ILLUST_スルト: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_フィヨルム: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_レーヴァテイン: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_ロキ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ソレイユ: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_シャラ: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MPID_ILLUST_シノノメ: Arai Teruko (新井テル子)
+MPID_ILLUST_ジークベルト: Arai Teruko (新井テル子)
+MPID_LEGEND_フィヨルム: Efecto legendario: Agua\nMejora de aliados: PV + 3, Vel + 3\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de agua si se\nha otorgado la bendición de agua.
+MSID_アーマーキラー2: Destrozacorazas
+MSID_アーマーキラー2＋: Destrozacorazas +
+MSID_貫きの槍2: Pica ejecutora
+MSID_貫きの槍2＋: Pica ejecutora +
+MSID_ハンマー2: Martillo ejecutor
+MSID_ハンマー2＋: Martillo ejecutor +
+MSID_遠距離防御の弓: Arco protector
+MSID_遠距離防御の弓＋: Arco protector +
+MSID_ラウアウルフ2: Lobo c. agudo
+MSID_ラウアウルフ2＋: Lobo c. agudo +
+MSID_ブラーウルフ2: Lobo z. agudo
+MSID_ブラーウルフ2＋: Lobo z. agudo +
+MSID_グルンウルフ2: Lobo g. agudo
+MSID_グルンウルフ2＋: Lobo g. agudo +
+MSID_アブゾーブ＋: Absorción +
+MSID_フィアー＋: Terror +
+MSID_スロウ＋: Lentitud +
+MSID_グラビティ＋: Gravedad +
+MSID_ペイン＋: Dolor +
+MSID_パニック＋: Pánico +
+MSID_キャンドル＋: Luz de vela +
+MSID_リブロー＋: Sanar +
+MSID_リカバー＋: Recuperar +
+MSID_セインツ＋: Ofrendar +
+MSID_リバース＋: Rehabilitar +
+MSID_第5迷宮の覇者1: As del asalto E 1
+MSID_第5迷宮の覇者2: As del asalto E 2
+MSID_第5迷宮の覇者3: As del asalto E 3
+MSID_レーヴァテイン: Laevatein
+MSID_レイプト: Leiptr
+MSID_シンモラ: Sinmore
+MSID_セック: Thökk
+MSID_氷の聖鏡: Espejo gélido
+MSID_攻撃守備の絆1: Lazo Ata/Def 1
+MSID_攻撃守備の絆2: Lazo Ata/Def 2
+MSID_攻撃守備の絆3: Lazo Ata/Def 3
+MSID_火薙ぎの剣: Espada Vulcano
+MSID_火薙ぎの剣＋: Esp. Vulcano +
+MSID_黒き血の大剣: Mandoble oscuro
+MSID_白き血の薙刀: Naginata brillante
+MSID_攻撃守備の応援: Potenc. Ata/Def
+MSID_攻撃の指揮1: Estrategia Ata 1
+MSID_攻撃の指揮2: Estrategia Ata 2
+MSID_攻撃の指揮3: Estrategia Ata 3
+MSID_守備の指揮1: Estrategia Def 1
+MSID_守備の指揮2: Estrategia Def 2
+MSID_守備の指揮3: Estrategia Def 3
+MSID_ムスペルの炎: Llama de Múspell
+MSID_H_アーマーキラー2: Eficaz contra unidades acorazadas.
+MSID_H_アーマーキラー2＋: Eficaz contra unidades acorazadas.
+MSID_H_貫きの槍2: Eficaz contra unidades acorazadas.
+MSID_H_貫きの槍2＋: Eficaz contra unidades acorazadas.
+MSID_H_ハンマー2: Eficaz contra unidades acorazadas.
+MSID_H_ハンマー2＋: Eficaz contra unidades acorazadas.
+MSID_H_遠距離防御の弓: Eficaz contra unidades aéreas. Si el rival\ninicia el ataque y usa arco, daga, grimorio\no bastón, la unidad obtiene Def y Res + 6\ndurante el enfrentamiento.
+MSID_H_遠距離防御の弓＋: Eficaz contra unidades aéreas. Si el rival\ninicia el ataque y usa arco, daga, grimorio\no bastón, la unidad obtiene Def y Res + 6\ndurante el enfrentamiento.
+MSID_H_ラウアウルフ2: Eficaz contra unidades de caballería.
+MSID_H_ラウアウルフ2＋: Eficaz contra unidades de caballería.
+MSID_H_ブラーウルフ2: Eficaz contra unidades de caballería.
+MSID_H_ブラーウルフ2＋: Eficaz contra unidades de caballería.
+MSID_H_グルンウルフ2: Eficaz contra unidades de caballería.
+MSID_H_グルンウルフ2＋: Eficaz contra unidades de caballería.
+MSID_H_アブゾーブ＋: La unidad recupera PV iguales al 50 %\ndel daño infligido. Tras un ataque,\nsi la unidad actúa, devuelve 7 PV\na los aliados en un radio de dos casillas.
+MSID_H_フィアー＋: Tras un ataque, si la unidad actúa,\ninflige Ata - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_スロウ＋: Tras un ataque, si la unidad actúa,\ninflige Vel - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_グラビティ＋: Tras un ataque, si la unidad actúa, restringe\nel movimiento del rival y de los enemigos\nadyacentes a él a un radio máximo\nde una casilla en su próxima acción.
+MSID_H_ペイン＋: Tras un ataque, si la unidad actúa, inflige\n10 de daño al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor.
+MSID_H_パニック＋: Tras un ataque, si la unidad actúa,\nlas bonificaciones del rival y de todos\nlos enemigos situados en un radio\nde dos casillas a su alrededor se vuelven\npenalizaciones en su próxima acción.
+MSID_H_キャンドル＋: Tras un ataque, si la unidad actúa, el rival\ny los enemigos en un radio de dos casillas\na su alrededor sufren un estado alterado\nque les impide contratacar en su próxima\nacción.
+MSID_H_リブロー＋: Devuelve PV iguales al 50 % del Ata.\n(Mínimo de 8 PV. Alcance: 2.)
+MSID_H_リカバー＋: Devuelve PV iguales al 50 % del Ata + 10.\n(Mínimo de 15 PV.)
+MSID_H_セインツ＋: Devuelve PV iguales al 50 % del Ata\nmás todo el daño sufrido por la unidad.\n(Mínimo de 7 PV.) La unidad también\nrecupera la mitad del daño sufrido.
+MSID_H_リバース＋: Devuelve PV iguales al 50 % del Ata - 10.\n(Mínimo de 7 PV.) Si el objetivo tiene\nPV ≤ 50 %, cuantos menos tenga,\nmás recuperará.
+MSID_H_第5迷宮の覇者1: Otorga Ata + 1.
+MSID_H_第5迷宮の覇者2: Otorga Ata + 2.
+MSID_H_第5迷宮の覇者3: Otorga Ata + 3.
+MSID_H_ソールカティ改: Si la unidad inicia el ataque con PV ≤ 75 %\ny es capaz de realizar un ataque doble,\neste tendrá lugar antes de que el rival\npueda contratacar.
+MSID_H_ジークムント改: Al inicio del turno, los aliados adyacentes\nobtienen Ata + 4 hasta el final del turno.
+MSID_H_風神弓改: Eficaz contra unidades aéreas. Si la\nunidad tiene PV ≥ 50 %, no se verá\nralentizada por los efectos del terreno.\n(No se aplica a las casillas infranqueables.)
+MSID_H_死神の暗器改: Tras un ataque, si la unidad actúa, inflige\n10 de daño al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\ny también les inflige Def y Res - 7\nen su próxima acción.
+MSID_H_銀の暗器＋改: Tras un ataque, si la unidad actúa, inflige\nDef y Res - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_紫煙の暗器＋改: Tras un ataque, si la unidad actúa, inflige\nAta, Vel, Def y Res - 6 al rival y a todos\nlos enemigos en un radio de dos casillas\na su alrededor en su próxima acción.
+MSID_H_盗賊の暗器＋改: Tras un ataque, si la unidad actúa, inflige\nDef y Res - 6 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción y otorga Def y Res + 6\na la unidad y a los aliados en un radio\nde dos casillas hasta el final del turno.
+MSID_H_灼熱のブレス＋改: Contra enemigos con alcance de 2,\nel daño se calcula a partir de la Def\no la Res del enemigo (la que tenga\nel valor más bajo).
+MSID_H_光のブレス＋改: Tras un ataque, si la unidad actúa, Ata, Vel,\nDef y Res + 5 a la unidad y los aliados en un\nradio de dos casillas hasta el final del turno.\nContra enemigos con alcance de 2, el daño\nse calcula a partir de la Def o la Res del\nenemigo (la que tenga el valor más bajo).
+MSID_H_闇のブレス＋改: Tras un ataque, si la unidad actúa,\nAta y Vel - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción. Contra enemigos con\nalcance de 2, el daño se calcula a partir de la\nDef o Res del enemigo (el valor más bajo).
+MSID_H_雷のブレス＋改: Dificulta habilidades especiales: + 1 a la\ncuenta atrás. Permite contratacar\nindependientemente de lo lejos que esté el\nenemigo. Contra enemigos con alcance de 2,\nel daño se calcula a partir de la Def o la Res\ndel enemigo (la que tenga el valor más bajo).
+MSID_H_ローローの斧＋改: Tras un ataque, si la unidad actúa,\nlas bonificaciones del rival y de todos\nlos enemigos en un radio de dos casillas\na su alrededor se vuelven penalizaciones\nen su próxima acción.
+MSID_H_クライネの弓＋改: Eficaz contra unidades aéreas.\nTras un ataque, si la unidad actúa, inflige\nAta y Vel - 5 al rival y a los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_ベルクトの槍＋改: Si el rival inicia el ataque, la unidad\nobtiene Res + 7 durante el enfrentamiento.
+MSID_H_ニンジンの槍＋改: Tras un ataque, si la unidad actúa,\nrecupera 4 PV.
+MSID_H_ニンジンの斧＋改: Tras un ataque, si la unidad actúa,\nrecupera 4 PV.
+MSID_H_青の卵＋改: Tras un ataque, si la unidad actúa,\nrecupera 4 PV.
+MSID_H_緑の卵＋改: Tras un ataque, si la unidad actúa,\nrecupera 4 PV.
+MSID_H_ファーストバイト＋改: Tras un ataque, si la unidad actúa, otorga\nDef y Res + 5 a la unidad y a los aliados\nen un radio de dos casillas hasta el final\ndel turno.
+MSID_H_キューピッドの矢＋改: Eficaz contra unidades aéreas.\nTras un ataque, si la unidad actúa, otorga\nDef y Res + 5 a la unidad y a los aliados\nen un radio de dos casillas hasta el final\ndel turno.
+MSID_H_聖なるブーケ＋改: Tras un ataque, si la unidad actúa, otorga\nDef y Res + 5 a la unidad y a los aliados\nen un radio de dos casillas hasta el final\ndel turno.
+MSID_H_貝殻＋改: Tras un ataque, si la unidad actúa, inflige\nDef y Res - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción. Si la unidad tiene el 100 %\nde PV, obtiene Ata, Vel, Def y Res + 2 al inicio\ndel ataque y, si actúa, sufre 2 de daño después.
+MSID_H_扇子＋改: Si la unidad inicia el ataque, los aliados\nadyacentes recuperan 7 PV. Tras el ataque,\nsi la unidad actúa, inflige Def y Res - 7 al rival\ny a los enemigos en un radio de dos casillas\na su alrededor en su próxima acción.
+MSID_H_骨の弓＋改: Eficaz contra unidades aéreas. Tras un\nataque, si la unidad actúa, las bonificaciones\ndel rival y de los enemigos en un radio de\ndos casillas a su alrededor se vuelven\npenalizaciones en su próxima acción.
+MSID_H_ゴーストの魔道書＋改: Tras un ataque, si la unidad actúa,\nlas bonificaciones del rival y de los\nenemigos en un radio de dos casillas\na su alrededor se vuelven penalizaciones\nen su próxima acción.
+MSID_H_差し違えR75: Si la unidad inicia el ataque con PV ≤ 75 %\ncontra un rival que pueda contratacar,\nejecuta un ataque doble garantizado.
+MSID_H_追撃攻R90: Si la unidad inicia el ataque con PV ≥ 90 %,\nejecuta un ataque doble garantizado.
+MSID_H_追従R50: Si la unidad tiene el 50 % de PV o más,\npodrá moverse a una casilla adyacente\na un aliado en un radio de dos casillas.
+MSID_H_奥義ダメージR10: Inflige + 10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_反撃抑制R魔: Los enemigos que usen grimorio\nno pueden contratacar.
+MSID_H_強化無効R重装: Si el enemigo es una unidad acorazada,\nsus bonificaciones de habilidades\n(p. ej. Potenciar, Impulso, etc.) se anulan\ndurante el ataque.
+MSID_H_強化無効R騎馬: Si el enemigo es una unidad de\ncaballería, sus bonificaciones de\nhabilidades (p. ej., Potenciar, Impulso,\netc.) se anulan durante el ataque.
+MSID_H_レーヴァテイン: Otorga Ata + 3. Convierte la cantidad\ntotal de bonificaciones de la unidad\nen daño adicional.
+MSID_H_レイプト: Permite contratacar independientemente\nde lo lejos que esté el enemigo.
+MSID_H_シンモラ: Otorga Def + 3. Al inicio del turno,\ninflige 20 de daño a los enemigos\nen un radio de dos casillas.
+MSID_H_セック: El daño del bastón se calcula como el de\nlas demás armas. Al inicio del turno, los\nenemigos en cruz respecto a la unidad con\nal menos 3 PV menos que ella y con arco,\ndaga, grimorio o bastón tienen un movimiento\nmáximo de 1 casilla en su próxima acción.
+MSID_H_氷の聖鏡: Reduce en un 30 % el daño infligido por\nenemigos a dos casillas de distancia. Si se\nactiva, se potencia el daño del siguiente\nataque según el reducido (cualquier origen,\nincluso habilidades). El efecto se reinicia\nal final del ataque. (No se puede legar.)
+MSID_H_攻撃守備の絆1: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nAta y Def + 3 en combate.
+MSID_H_攻撃守備の絆2: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nAta y Def + 4 en combate.
+MSID_H_攻撃守備の絆3: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nAta y Def + 5 en combate.
+MSID_H_火薙ぎの剣: Ni la unidad ni los enemigos pueden\ncontratacar.
+MSID_H_火薙ぎの剣＋: Ni la unidad ni los enemigos pueden\ncontratacar.
+MSID_H_黒き血の大剣: Si la unidad inicia el ataque, obtiene\nAta y Vel + 4 durante el enfrentamiento.
+MSID_H_白き血の薙刀: Si el rival inicia el ataque, la unidad obtiene\nAta y Def + 4 durante el enfrentamiento.
+MSID_H_攻撃守備の応援: Ata y Def + 3 a un aliado adyacente\nhasta el final del turno.
+MSID_H_攻撃の指揮1: Al inicio del turno, otorga Ata + 2\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_攻撃の指揮2: Al inicio del turno, otorga Ata + 4\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_攻撃の指揮3: Al inicio del turno, otorga Ata + 6\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_守備の指揮1: Al inicio del turno, otorga Def + 2\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_守備の指揮2: Al inicio del turno, otorga Def + 4\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_守備の指揮3: Al inicio del turno, otorga Def + 6\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_ムスペルの炎: La unidad no sufre daño.
+MID_CHAPTER_TITLE_C0016: Intermedio
+MID_CHAPTER_C0016: Rito de espadas
+MID_STAGE_TITLE_S1601: Intermedio 1
+MID_STAGE_S1601: Rito de espadas
+MID_CHAPTER_TITLE_C0201: Libro II - Cap. 1
+MID_CHAPTER_C0201: La llama
+MID_STAGE_TITLE_S2011: Cap. 1 - Parte 1
+MID_STAGE_TITLE_S2012: Cap. 1 - Parte 2
+MID_STAGE_TITLE_S2013: Cap. 1 - Parte 3
+MID_STAGE_TITLE_S2014: Cap. 1 - Parte 4
+MID_STAGE_TITLE_S2015: Cap. 1 - Parte 5
+MID_STAGE_S2011: Llama eterna
+MID_STAGE_S2012: Montañas en llamas
+MID_STAGE_S2013: Nubes de humo
+MID_STAGE_S2014: Ceniza de estrellas
+MID_STAGE_S2015: Hechicera de la niebla
+MID_CHAPTER_TITLE_C0202: Libro II - Cap. 2
+MID_CHAPTER_C0202: Princesa glacial
+MID_STAGE_TITLE_S2021: Cap. 2 - Parte 1
+MID_STAGE_TITLE_S2022: Cap. 2 - Parte 2
+MID_STAGE_TITLE_S2023: Cap. 2 - Parte 3
+MID_STAGE_TITLE_S2024: Cap. 2 - Parte 4
+MID_STAGE_TITLE_S2025: Cap. 2 - Parte 5
+MID_STAGE_S2021: Señora nívea
+MID_STAGE_S2022: Hijos de la luz
+MID_STAGE_S2023: Hijos de la sombra
+MID_STAGE_S2024: Luces y sombras
+MID_STAGE_S2025: Rey ígneo
+MID_STAGE_TITLE_SB_0005: 5.º asalto
+MID_CHAPTER_ST_C0201: Capítulos 1 y 2
+MID_STAGE_TITLE_ST_S0201: Capítulo 1
+MID_STAGE_TITLE_ST_S0202: Capítulo 2
+MID_STAGE_TITLE_ST_S1202: Capítulos 1 y 2
+MID_STAGE_HONOR_T0021: Batalla de vínculos
+MID_STAGE_T0021: A y T
+MID_STAGE_HONOR_V0141: Effie, la forzuda
+MID_STAGE_V0141: Shingoroid
+MID_STAGE_HONOR_V0142: Arcoíris oscuro
+MID_STAGE_V0142: Taroimo
+MID_STAGE_HONOR_V0143: Cuatro partidazos
+MID_STAGE_V0143: Rokumoji
+MID_STAGE_HONOR_V0144: Chicas cándidas
+MID_STAGE_V0144: Arayang
+MID_STAGE_HONOR_V0145: Muro férreo
+MID_STAGE_V0145: ryo

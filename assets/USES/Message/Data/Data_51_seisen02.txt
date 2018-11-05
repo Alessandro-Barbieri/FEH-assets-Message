@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: Práctica de armas
+MID_MISSION_S201805ARM01_A1: Victoria con espada
+MID_MISSION_H_S201805ARM01_A1: Vence a enemigos con\nunidades con espada.
+MID_MISSION_S201805ARM01_A2: Victoria con lanza
+MID_MISSION_H_S201805ARM01_A2: Vence a enemigos con\nunidades con lanza.
+MID_MISSION_S201805ARM01_A3: Victoria con hacha
+MID_MISSION_H_S201805ARM01_A3: Vence a enemigos con\nunidades con hacha.
+MID_MISSION_S201805ARM01_A4: Victoria con arco gris
+MID_MISSION_H_S201805ARM01_A4: Vence a enemigos con unidades\nde tipo gris con arco.
+MID_MISSION_S201805ARM01_A5: Victoria con daga
+MID_MISSION_H_S201805ARM01_A5: Vence a enemigos con\nunidades con daga.
+MID_MISSION_S201805ARM01_A6: Victoria con grimorio rojo
+MID_MISSION_H_S201805ARM01_A6: Vence a enemigos con\nunidades con grimorio rojo.
+MID_MISSION_S201805ARM01_A7: Victoria con grimorio azul
+MID_MISSION_H_S201805ARM01_A7: Vence a enemigos con\nunidades con grimorio azul.
+MID_MISSION_S201805ARM01_A8: Victoria con grimorio verde
+MID_MISSION_H_S201805ARM01_A8: Vence a enemigos con\nunidades con grimorio verde.
+MID_MISSION_S201805ARM01_A9: Victoria con bastón
+MID_MISSION_H_S201805ARM01_A9: Vence a enemigos con\nunidades con bastón.
+MID_MISSION_S201805ARM01_A10: Gloria con espada
+MID_MISSION_H_S201805ARM01_A10: Vence a enemigos de nivel 35\no superior con unidades con espada.
+MID_MISSION_S201805ARM01_A11: Gloria con lanza
+MID_MISSION_H_S201805ARM01_A11: Vence a enemigos de nivel 35\no superior con unidades con lanza.
+MID_MISSION_S201805ARM01_A12: Gloria con hacha
+MID_MISSION_H_S201805ARM01_A12: Vence a enemigos de nivel 35\no superior con unidades con hacha.
+MID_MISSION_S201805ARM01_A13: Gloria con arco gris
+MID_MISSION_H_S201805ARM01_A13: Vence a enemigos de nivel 35 o superior\ncon unidades de tipo gris con arco.
+MID_MISSION_S201805ARM01_A14: Gloria con daga
+MID_MISSION_H_S201805ARM01_A14: Vence a enemigos de nivel 35\no superior con unidades con daga.
+MID_MISSION_S201805ARM01_A15: Gloria con grimorio rojo
+MID_MISSION_H_S201805ARM01_A15: Vence a enemigos de nivel 35\no superior con unidades con grimorio rojo.
+MID_MISSION_S201805ARM01_A16: Gloria con grimorio azul
+MID_MISSION_H_S201805ARM01_A16: Vence a enemigos de nivel 35\no superior con unidades con grimorio azul.
+MID_MISSION_S201805ARM01_A17: Gloria con grimorio verde
+MID_MISSION_H_S201805ARM01_A17: Vence a enemigos de nivel 35\no superior con unidades con grimorio verde.
+MID_MISSION_S201805ARM01_A18: Gloria con bastón
+MID_MISSION_H_S201805ARM01_A18: Vence a enemigos de nivel 35\no superior con unidades con bastón.
+MID_MISSION_S201805DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201805DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201805DAISEIATU01_A1: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201805DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201805DAISEIATU01_A2: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201805DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201805DAISEIATU01_A3: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201805DAISEIATU01_A4: T. de práctica - Estrato 2
+MID_MISSION_H_S201805DAISEIATU01_A4: Supera el segundo estrato\nde la torre de práctica.
+MID_MISSION_S201805DAISEIATU01_A5: T. de práctica - Estrato 8
+MID_MISSION_H_S201805DAISEIATU01_A5: Supera el octavo estrato de\nla torre de práctica.
+MID_MISSION_S201805DAISEIATU01_A6: Gladiador
+MID_MISSION_H_S201805DAISEIATU01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201805STORY01_TITLE: Llamas infernales
+MID_MISSION_S201805STORY01_A1: Cap. 9 - Parte 1: Extremo
+MID_MISSION_H_S201805STORY01_A1: En el libro II, supera la 1.ª parte del capítulo 9\nen modo extremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201805STORY01_A2: Cap. 9 - Parte 2: Extremo
+MID_MISSION_H_S201805STORY01_A2: En el libro II, supera la 2.ª parte del capítulo 9 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201805STORY01_A3: Cap. 9 - Parte 3: Extremo
+MID_MISSION_H_S201805STORY01_A3: En el libro II, supera la 3.ª parte del capítulo 9\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201805STORY01_A4: Cap. 9 - Parte 4: Extremo
+MID_MISSION_H_S201805STORY01_A4: En el libro II, supera la 4.ª parte del capítulo 9\nen modo extremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201805STORY01_A5: Cap. 9 - Parte 5: Extremo
+MID_MISSION_H_S201805STORY01_A5: En el libro II, supera la 5.ª parte del capítulo 9 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201805TAPBTL01_D01_TITLE: B. de toques (diaria)
+MID_MISSION_S201805TAPBTL01_D01_A1: Derrotar a Elise
+MID_MISSION_H_S201805TAPBTL01_D01_A1: Derrota a la jefa Elise en los pisos 16-20\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D01_A2: Superar pisos 21-25
+MID_MISSION_H_S201805TAPBTL01_D01_A2: Supera los pisos 21-25 en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D01_A3: Superar nivel
+MID_MISSION_H_S201805TAPBTL01_D01_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D02_TITLE: B. de toques (diaria)
+MID_MISSION_S201805TAPBTL01_D02_A1: Derrotar a Elise
+MID_MISSION_H_S201805TAPBTL01_D02_A1: Derrota a la jefa Elise en los pisos 16-20\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D02_A2: Superar pisos 41-45
+MID_MISSION_H_S201805TAPBTL01_D02_A2: Supera los pisos 41-45 en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D02_A3: Superar nivel
+MID_MISSION_H_S201805TAPBTL01_D02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D03_TITLE: B. de toques (diaria)
+MID_MISSION_S201805TAPBTL01_D03_A1: Derrotar a Mae
+MID_MISSION_H_S201805TAPBTL01_D03_A1: Derrota a la jefa Mae en los pisos 36-40\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D03_A2: Superar pisos 61-65
+MID_MISSION_H_S201805TAPBTL01_D03_A2: Supera los pisos 61-65 en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D03_A3: Superar nivel
+MID_MISSION_H_S201805TAPBTL01_D03_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D04_TITLE: B. de toques (diaria)
+MID_MISSION_S201805TAPBTL01_D04_A1: Derrotar a Mae
+MID_MISSION_H_S201805TAPBTL01_D04_A1: Derrota a la jefa Mae en los pisos 36-40\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D04_A2: Superar pisos 81-85
+MID_MISSION_H_S201805TAPBTL01_D04_A2: Supera los pisos 81-85 en Batalla de toques.
+MID_MISSION_S201805TAPBTL01_D04_A3: Superar nivel
+MID_MISSION_H_S201805TAPBTL01_D04_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201805TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201805TAPBTL02_A1: Derrotar jefe
+MID_MISSION_H_S201805TAPBTL02_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201805TAPBTL02_A2: Derrotar jefe
+MID_MISSION_H_S201805TAPBTL02_A2: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201805TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201805TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201805TAPBTL02_A4: Superar nivel extra 1
+MID_MISSION_H_S201805TAPBTL02_A4: Supera el nivel extra 1 en Batalla de toques.\n(El nivel extra 1 estará disponible cuando\ndesbloquees los niveles extras).
+MPID_ユルグ: Ylgr
+MPID_ヘルビンディ: Helbindi
+MEID_ヘルビンディ: Helbindi
+MEID_HONOR_ヘルビンディ: Azote salvaje
+MEID_H_ヘルビンディ: Brusco y violento general de Múspell, el reino\ndel fuego. Es de origen humilde, pero logró\nascender rápidamente en el ejército gracias\na su talento para la guerra.
+MEID_VOICE_ヘルビンディ: Raymond K. Essel
+MEID_ILLUST_ヘルビンディ: Maeshima Shigeki (前嶋重機)
+MPID_アレス: Ares
+MPID_イシュタル: Ishtar
+MPID_リーン: Lene
+MPID_ユリウス: Julius
+MPID_HONOR_アレス: Caballero oscuro
+MPID_HONOR_イシュタル: Diosa del trueno
+MPID_HONOR_リーン: Bailarina deseosa
+MPID_HONOR_ユリウス: Príncipe oscuro
+MPID_H_アレス: Hijo de Eldigan y heredero de Mistilteinn.\nLuego de la muerte de sus padres, se alió con\nun jefe mercenario llamado Javarro. Aparece\nen Fire Emblem: Genealogy of the Holy War.
+MPID_H_イシュタル: Heredera de Mjölnir y miembro de la familia\nreal de Friege. Teme por Julius, su amado,\nque se adentró en las tinieblas. Aparece en\nFire Emblem: Genealogy of the Holy War.
+MPID_H_リーン: Bailarina y descendiente del sumo sacerdote\nBragi. Comprende cómo funciona el mundo,\npero no deja que eso la afecte. Aparece\nen Fire Emblem: Genealogy of the Holy War.
+MPID_H_ユリウス: Príncipe del imperio de Grannvale.\nEra un muchacho amable, pero desarrolló\nuna personalidad despiadada. Aparece\nen Fire Emblem: Genealogy of the Holy War.
+MPID_VOICE_アレス: Robbie Daymond
+MPID_VOICE_イシュタル: Ratana
+MPID_VOICE_リーン: Faye Mata
+MPID_VOICE_ユリウス: Griffin Burns
+MPID_ILLUST_アレス: PenekoR (п猫Ｒ)
+MPID_ILLUST_イシュタル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_リーン: Yoshiku (四々九)
+MPID_ILLUST_ユリウス: sachie (茶ちえ)
+MSID_ロムファイア: Rhomphaia
+MSID_カミラの艶斧: Hacha Camilla
+MSID_第10迷宮の覇者1: As del asalto J 1
+MSID_第10迷宮の覇者2: As del asalto J 2
+MSID_第10迷宮の覇者3: As del asalto J 3
+MSID_魔剣ミストルティン: Mistilteinn oscura
+MSID_守りの剣: Salvaguardia
+MSID_守りの剣＋: Salvaguardia +
+MSID_ビューレイスト: Býleistr
+MSID_ロプトウス: Loptous
+MSID_トールハンマー: Mjölnir
+MSID_守備魔防封じ1: Sellar Def./Res. 1
+MSID_守備魔防封じ2: Sellar Def./Res. 2
+MSID_業火疾風の舞い1: Siroco bailarín 1
+MSID_業火疾風の舞い2: Siroco bailarín 2
+MSID_攻撃の波・奇数1: Ola Atq. impar 1
+MSID_攻撃の波・奇数2: Ola Atq. impar 2
+MSID_攻撃の波・奇数3: Ola Atq. impar 3
+MSID_H_ロムファイア: Eficaz contra unidades\nacorazadas y de caballería.
+MSID_H_カミラの艶斧: Atq. y Vel. +4 durante ataques si la unidad\nse encuentra en un radio de dos casillas\nde un aliado aéreo o de caballería.
+MSID_H_夜刀神改: Otorga Atq., Vel., Def. y Res. +2
+MSID_H_大紋章R騎飛刃3: Atq. y Vel. +3 a tus unidades aéreas\ny de caballería en un radio de dos\ncasillas durante ataques.
+MSID_H_不思議な魅力R4: Si la unidad se encuentra en un radio\nde dos casillas de un aliado con el que\ncomparte una relación de apoyo, le otorga\nAtq., Vel., Def. y Res. +4 durante ataques.
+MSID_H_第10迷宮の覇者1: Otorga Atq. +1.
+MSID_H_第10迷宮の覇者2: Otorga Atq. +2.
+MSID_H_第10迷宮の覇者3: Otorga Atq. +3.
+MSID_H_魔剣ミストルティン: Facilita la ejecución de habilidades\nespeciales: -1 a la cuenta regresiva.\nSi se activa la habilidad especial antes\no durante el combate, -2 a la cuenta\nregresiva después del ataque.
+MSID_H_守りの剣: Def. +7 durante un ataque si lo inicia el rival.
+MSID_H_守りの剣＋: Def. +7 durante un ataque si lo inicia el rival.
+MSID_H_ビューレイスト: Al inicio de los turnos impares, otorga\nAtq., Vel., Def. y Res. +4 a la unidad y\na los aliados adyacentes durante el resto\ndel turno. (La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_ロプトウス: Otorga Res. +3. La unidad se vuelve\nvulnerable a habilidades eficaces contra\ndragones. Atq. -6 al rival durante el ataque\nsi no tiene ninguna habilidad de ese tipo.
+MSID_H_トールハンマー: Facilita la ejecución de habilidades\nespeciales: -1 a la cuenta regresiva. Vel. +6\ndurante un ataque si lo inicia la unidad.
+MSID_H_守備魔防封じ1: Tras un ataque, Def. y Res. -3 al enemigo\nen su próxima acción.
+MSID_H_守備魔防封じ2: Tras un ataque, Def. y Res. -5 al enemigo\nen su próxima acción.
+MSID_H_業火疾風の舞い1: Con Cantar o Bailar, Atq. y Vel. +2 al objetivo.
+MSID_H_業火疾風の舞い2: Con Cantar o Bailar, Atq. y Vel. +3 al objetivo.
+MSID_H_攻撃の波・奇数1: Al inicio de los turnos impares, otorga\nAtq. +2 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_攻撃の波・奇数2: Al inicio de los turnos impares, otorga\nAtq. +4 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_攻撃の波・奇数3: Al inicio de los turnos impares, otorga\nAtq. +6 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MID_CHAPTER_TITLE_C0209: Libro II - Cap. 9
+MID_CHAPTER_C0209: Llamas infernales
+MID_STAGE_TITLE_S2091: Cap. 9 - Parte 1
+MID_STAGE_TITLE_S2092: Cap. 9 - Parte 2
+MID_STAGE_TITLE_S2093: Cap. 9 - Parte 3
+MID_STAGE_TITLE_S2094: Cap. 9 - Parte 4
+MID_STAGE_TITLE_S2095: Cap. 9 - Parte 5
+MID_STAGE_S2091: El carcelero infernal
+MID_STAGE_S2092: La Hoja Diabólica
+MID_STAGE_S2093: La diosa del trueno
+MID_STAGE_S2094: La bailarina de fuego
+MID_STAGE_S2095: En el infierno
+MID_STAGE_TITLE_SB_0010: Asalto 10
+MID_STAGE_HONOR_T0031: Príncipe oscuro
+MID_STAGE_T0031: Julius
+MID_STAGE_HONOR_Q0010: Semanalmente
+MID_STAGE_Q0010: Dominios rivales
+MID_STAGE_HONOR_Q0011: Semanalmente
+MID_STAGE_Q0011: Dominios rivales
+MID_STAGE_HONOR_Q0012: Semanalmente
+MID_STAGE_Q0012: Dominios rivales
+MID_STAGE_HONOR_Q0013: Semanalmente
+MID_STAGE_Q0013: Dominios rivales
+MID_STAGE_TITLE_BG_WATER_0008: Agua 8
+MID_STAGE_BG_WATER_0008: Puente
+MID_STAGE_TITLE_BG_WIND_0007: Viento 7
+MID_STAGE_BG_WIND_0007: Galería
+MID_STAGE_TITLE_BG_EARTH_0007: Tierra 7
+MID_STAGE_BG_EARTH_0007: Galería
+MID_STAGE_TITLE_BG_FIRE_0007: Fuego 7
+MID_STAGE_BG_FIRE_0007: Galería
+MID_TAP_BATTLE_DATA_TITLE_0004: Santuario de magas
+MID_MUSIC_NAME_BGM_MAP_FE15_02: Protección de Mila
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: ¡Ataque!
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: Alba lejana (Vendaval)

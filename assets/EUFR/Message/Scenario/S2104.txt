@@ -1,0 +1,8 @@
+[Heroes Archive] (S2104)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_カアラ,ch03_19_Karla_F_Normal,Face|Je ne suis pas venue jusqu'ici\npour me battre, mais mon contrat\nm'y oblige.$k$pAlors, battons-nous.$k$p$Sbs1000|

@@ -1,0 +1,12 @@
+[Heroes Archive] (X0123)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_03_2
+MID_SCENARIO_MAP_BEGIN: $WmMEID_ヴェロニカ,ch00_04_Veronica_F_Normal,Face_Anger|$w0|Hermano...$k$p$WmMPID_ディアドラ,ch06_07_Diadora_F_Normal,Face|$w0|Princesa Verónica, estás muy pálida.\n¿Te encuentras bien?$k$p$WmMEID_ヴェロニカ,ch00_04_Veronica_F_Normal,Face|$w0|Mi hermano se fue de viaje.\nDijo que quería buscar una\ncura para los dos...$k$pPero no entiendo a qué se refiere.\nNi él ni yo estamos enfermos...$k$p$WmMPID_ディアドラ,ch06_07_Diadora_F_Normal,Face|$w0|Ah, princesa...$k$p¿No te pasará lo mismo que a mí?$k$p$WmMEID_ヴェロニカ,ch00_04_Veronica_F_Normal,Face|$w0|¿A qué te refieres?$k$p$WmMPID_ディアドラ,ch06_07_Diadora_F_Normal,Face|$w0|A sentirte atada por la sangre que\ncorre por tus venas... y sentir que\nno puedes pensar por ti misma.$k$pA no poder estar junto a quienes\nquieres. Entiendo tu sufrimiento.$k$p$WmMEID_ヴェロニカ,ch00_04_Veronica_F_Normal,Face|$w0|(...)$k$pMi hermano me pidió que le pusiera\nfin a toda esta violencia... pero no sé\ncómo hacerlo.$k$pOigo una voz que me susurra una\ny otra vez que debo acabar con\nAskr...$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_02,0|$WmMPID_シグルド,ch06_04_Siglud_M_Normal,Face|$w0|Fue una buena demostración\nde fuerza. Te doy las gracias;\nnos liberaste.$k$p$WmMPID_ディアドラ,ch06_07_Diadora_F_Normal,Face|$w0|Señor Sigurd...$k$p$WmMPID_シグルド,ch06_04_Siglud_M_Normal,Face|$w0|Deirdre... Volvamos a casa.\nJuro que nunca más volveré\na separarme de ti.$k$p$WmMPID_ディアドラ,ch06_07_Diadora_F_Normal,Face|$w0|Gracias...$k$p$Sbs150|
+MID_SCENARIO_ENDING_IMAGE: 005_Castle
+MID_SCENARIO_ENDING_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_ENDING: $WmMEID_ヴェロニカ,ch00_04_Veronica_F_Normal,Face|$w0|¿Funcionó?$k$p$WmMPID_ロキアンナ,ch00_03_Anna_F_Normal,Face|$w0|Sí, gracias. Tuve mucho tiempo\npara preparar el rito.$k$pEl puente arcoíris se hará realidad...\nMuy pronto, nuestro rey vendrá con\nel ejército y atacará.$k$p$EFace_Smile|¡Je, je! ¿Te lo imaginas?\nSerá magnífico.$k$p$Sbs150|

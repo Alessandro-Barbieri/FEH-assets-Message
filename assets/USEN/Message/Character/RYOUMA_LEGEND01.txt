@@ -1,0 +1,38 @@
+[Heroes Archive] (RYOUMA_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_RYOUMA_LEGEND01_HOME1: Please, don't flatter me with titles\nsuch as Legendary Hero. I'm well\naware of my own shortcomings.$k$pLet's leave it to my kinshi to elevate\nme to such grand heights, shall we?
+MID_RYOUMA_LEGEND01_HOME2: I wonder if my siblings back in\nHoshido are doing well... I hope they\naren't getting into any trouble.$k$pI'm especially worried about Takumi.\nHe knows how to hold a grudge, even\nfor something like harmless teasing...
+MID_RYOUMA_LEGEND01_HOME3: Anyone who's spent time on the\nbattlefield knows you must claim\nrest whenever you are able.$k$pThat said, there is a difference\nbetween resting and slacking off...\nMake sure you get your work done.
+MID_RYOUMA_LEGEND01_HOME4: Would you care to meditate with me?\nA tranquil soul is the key to achieving\nyour goals.
+MID_RYOUMA_LEGEND01_HOME5: Soaring through the sky above this\nkingdom allows me to appreciate it\non a whole new level.$k$pThe vast fields, the towering\nmountains... It's simply breathtaking.
+MID_RYOUMA_LEGEND01_FRIEND: Are you $Nu?$k$pI come carrying a greeting from\n$Nf.
+MID_RYOUMA_LEGEND01_LEVEL1: Perhaps this has brought me one\nstep closer to mastery.
+MID_RYOUMA_LEGEND01_LEVEL2: Daily devotion is the only way.
+MID_RYOUMA_LEGEND01_LEVEL3: The road to true mastery remains\na long and winding one.
+MID_RYOUMA_LEGEND01_SKILL: No matter how many skills I gain,\nI still have a long way to go.
+MID_RYOUMA_LEGEND01_JOIN: My name is Ryoma. My kinshi and I\nare in your service, ready to fight.$k$pI...apologize for greeting you from all\nthe way up here...
+MID_RYOUMA_LEGEND01_STRONGEST: I must admit, being summoned to this\nworld and called a Hero has lit a fire\ninside me.$k$pThe warrior within me feels joy at\nfighting alongside Heroes from so\nmany other worlds...$k$pAnd also pride at being able to lend\nmy skills on so many different\nbattlefields.$k$pHowever, what I've felt most keenly\nsince arriving is just how precious\npeace and tranquility truly are.$k$pEndless fighting should by no means\nbe the norm for any country.$k$pWe must restore peace to this\nkingdom, just as we once did for my\nhomeland Hoshido.$k$pI wish to one day soar through the\npeaceful skies of Askr. You and I can\nachieve this goal together.$k$pBut for now, we must continue to soar\ninto battle... Let's fly,\n$Nu!
+MID_RYOUMA_LEGEND01_VOICE01: ぬん！
+MID_RYOUMA_LEGEND01_VOICE02: せやぁっ！
+MID_RYOUMA_LEGEND01_VOICE03: うああっ！
+MID_RYOUMA_LEGEND01_VOICE04: 不覚…！
+MID_RYOUMA_LEGEND01_VOICE05: My name is Ryoma!
+MID_RYOUMA_LEGEND01_VOICE06: An opening!
+MID_RYOUMA_LEGEND01_VOICE07: We duel!
+MID_RYOUMA_LEGEND01_VOICE08: Raijinto!
+MID_RYOUMA_LEGEND01_VOICE09: The future of Hoshido…
+MID_RYOUMA_LEGEND01_VOICE10: ははは
+MID_RYOUMA_LEGEND01_VOICE11: I am Ryoma, High Prince of Hoshido.
+MID_RYOUMA_LEGEND01_VOICE12: Can I help you? Ah, you must be here for a lesson on the sword.
+MID_RYOUMA_LEGEND01_VOICE13: A Legendary Hero? Hmm... I suppose I should be honored that my blade is known across worlds.
+MID_RYOUMA_LEGEND01_VOICE14: Prince Xander of Nohr... Tell me, is he here?
+MID_RYOUMA_LEGEND01_VOICE15: Peace was restored to my homeland. I promise we'll do the same for this world.
+MID_RYOUMA_LEGEND01_VOICE16: All I must do is fight in a manner befitting the way of the sword.
+MID_RYOUMA_LEGEND01_VOICE17: You stand for peace. Always. And together, you and I will bring this world into a new era.
+MID_RYOUMA_LEGEND01_VOICE18: Hmm...
+MID_RYOUMA_LEGEND01_VOICE19: On my blade!
+MID_RYOUMA_LEGEND01_VOICE20: I understand.

@@ -1,0 +1,38 @@
+[Heroes Archive] (FIR)
+
+
+Heroes Message Name: Message
+
+
+MID_FIR_HOME1: このお城でお見かけするのは\n歴戦の英雄の方々ばかり…\nぜひ手合せをお願いしたいです！
+MID_FIR_HOME2: 伯父上と母上は\n剣の道を究めた剣聖でした。\n私もいつかはあんなふうに…
+MID_FIR_HOME3: 見回りお疲れ様です！\n私も見習わないと…\n剣の稽古がんばります！
+MID_FIR_HOME4: たのもー！\n…え？　二人で稽古する時に\n言うのは変ですか？
+MID_FIR_HOME5: せやぁっ！\n…あっ、すみません。\n今稽古中で…近づくと危ないですよ？
+MID_FIR_FRIEND: たのもー！\n$Nfさんからあなたへの\n挨拶を預かってきました！
+MID_FIR_LEVEL1: 見えました。\nこれが…剣聖への道！
+MID_FIR_LEVEL2: 手ごたえありです。\nこの調子でがんばります！
+MID_FIR_LEVEL3: これでは…伯父上や\n母上に追いつけません…
+MID_FIR_SKILL: いただいたこの力、\n必ず花開かせます！
+MID_FIR_JOIN: 私は旅の剣士フィル。\n修行を兼ねて諸国を旅しています。\n一手、お頼み申します！
+MID_FIR_STRONGEST: 旅の中で様々な戦いを重ねて…\n私は、私なりに強くなれたと\n思っていました。$k$pでも、あなたと…\n$Nuさんと出会って…$k$p本当の強さとは戦場にはないもの…\n常に仲間を守り、平和を守る強さだって…\n気づくことができた気がします。$k$pあなたのおかげです。\nこれからもあなたのお傍で、\n強さの本質をもっと学びたいです。$k$p戦いのことだけじゃなく、\nもっといろんなことを教えてください。\nよろしくお願いします！
+MID_FIR_VOICE01: はっ！
+MID_FIR_VOICE02: やぁっ！
+MID_FIR_VOICE03: きゃああっ！
+MID_FIR_VOICE04: なっ…こんな…
+MID_FIR_VOICE05: いざ、勝負！
+MID_FIR_VOICE06: 手加減無用です！
+MID_FIR_VOICE07: 剣の道を！
+MID_FIR_VOICE08: 真剣にいきます！
+MID_FIR_VOICE09: …道は…遠いのに…
+MID_FIR_VOICE10: ふふっ
+MID_FIR_VOICE11: はいっ、私の出番ですか？
+MID_FIR_VOICE12: ひゃっ！？　か、からかわないでください！
+MID_FIR_VOICE13: 手合せ願います！
+MID_FIR_VOICE14: 私、騙されやすいみたいです…
+MID_FIR_VOICE15: 剣の修行をしてたんです
+MID_FIR_VOICE16: 私も、いつか母上のように…
+MID_FIR_VOICE17: あなたといると、良い修行になります
+MID_FIR_VOICE18: はいっ！
+MID_FIR_VOICE19: いざ！
+MID_FIR_VOICE20: 参ります！

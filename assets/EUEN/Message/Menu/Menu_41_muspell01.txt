@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: Book II opening movie
+MID_ITEM_REFINE_STONE: Refining Stone
+MID_ITEM_HELP_REFINE_STONE: Used in the Weapon Refinery to\nrefine normal weapons.
+MID_ITEM_GOD_REFINE_STONE: Divine Dew
+MID_ITEM_HELP_GOD_REFINE_STONE: Used in the Weapon Refinery to refine\nsome special weapons.
+MID_ITEM_ARENA_MEDAL: Arena Medal
+MID_ITEM_HELP_ARENA_MEDAL: Used in the Weapon Refinery.
+MID_ITEM_BLESSING_FIRE: Fire Blessing
+MID_ITEM_HELP_BLESSING_FIRE: Used in Confer Blessing. Confers\nthe fire blessing on an ally.
+MID_ITEM_BLESSING_WATER: Water Blessing
+MID_ITEM_HELP_BLESSING_WATER: Used in Confer Blessing. Confers\nthe water blessing on an ally.
+MID_ITEM_BLESSING_WIND: Wind Blessing
+MID_ITEM_HELP_BLESSING_WIND: Used in Confer Blessing. Confers\nthe wind blessing on an ally.
+MID_ITEM_BLESSING_EARTH: Earth Blessing
+MID_ITEM_HELP_BLESSING_EARTH: Used in Confer Blessing. Confers\nthe earth blessing on an ally.
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: Other Material Information
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: Book I
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: Book II
+MID_STAGE_OPEN_WEAPON_REFINE: The Weapon Refinery\nhas been unlocked.
+MID_SUMMON_SEASON2_DAYS: $a$a1 Ends in $a0 day(s).
+MID_SUMMON_SEASON2_HOURS: $a$a1 Ends in $a0 hr(s).
+MID_SUMMON_SEASON2_MINUTES: $a$a1 Ends in $a0 min(s).
+MID_SUMMON_LIMITED_BEGINNER: Beginners Only!
+MID_SUMMON_ONE_TIME_FREE: One Free Summon!
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: One Free Summon,\nBeginners Only!
+MID_SUMMON_ONE_TIME_FREE_DECIDE: Redeem
+MID_UNIT_EDIT_WEAPON_REFINE: Weapon Refinery
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: Refine the skill shown below?
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: Refine
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: Select a character with a skill you want to refine.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: Please select a skill.
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: This refined skill cannot be inherited.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: Refine weapons for more power!
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: Weapon Refinery:\nYou can refine weapons to make\nthem more powerful.\n\nRefining requires Refining\nStones, Arena Medals, and SP.\nArena Medals can be obtained in\nthe Arena.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: Divine Dew:\nTo refine some weapons, you will\nneed Divine Dew instead of\nRefining Stones.\n\nDivine Dew can be created in the\nWeapon Refinery by using Refining\nStones.
+MID_UNIT_EDIT_BLESSING: Confer Blessing
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: Blessed by Legendary Heroes!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: Conferring Blessings:\nUse a Blessing item to confer\na blessing on your allies.\n\nBlessings cannot be conferred on\nFjorm or other Legendary Heroes.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: Blessing Effects #1:\nBlessed allies receive double\nthe usual amount of SP.\n\nPlease note that while blessings\ncannot be conferred on\nLegendary Heroes, Legendary\nHeroes will always earn double\nthe usual amount of SP in battle.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: Blessing Effects #2:\nMatch a Legendary Hero, the\ncurrent season's type, and your\nallies' blessings to earn a bonus.\n\nFor example, go into battle with\nthe Water-type Legendary Hero\nFjorm during Water season with\nWater-blessed allies to earn\na bonus of HP+3 and Spd+3.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: Season Schedule:\nYou can check the top of the\nBattle screen and other locations\nfor info on the current season.\n\nLegendary Heroes:\nLegendary Heroes have a special\nicon on their profile screen. Tap\nthe icon to check what type of\nLegendary Effect they have.
+MID_UNIT_EDIT_SORT_BLESSING: Blessings
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・Obtain double EXP & SP from battles.\n・During Fire season, gain a special\nboost from a Fire-type Legendary\nHero when you go into battle with\nthat Legendary Hero.
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・Obtain double EXP & SP from battles.\n・During Water season, gain a special\nboost from a Water-type Legendary\nHero when you go into battle with\nthat Legendary Hero.
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・Obtain double EXP & SP from battles.\n・During Wind season, gain a special\nboost from a Wind-type Legendary\nHero when you go into battle with\nthat Legendary Hero.
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・Obtain double EXP & SP from battles.\n・During Earth season, gain a special\nboost from an Earth-type Legendary\nHero when you go into battle with\nthat Legendary Hero.
+MID_UNIT_EDIT_BLESSING_HELP1: Please select a character to bless.
+MID_UNIT_EDIT_BLESSING_HELP2: Please select a blessing.
+MID_UNIT_EDIT_BLESSING_APPLIED: In Use
+MID_UNIT_EDIT_BLESSING_SELECTED: Selected
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: Unavailable
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: Confer the Fire blessing?\n\nThe blessed ally will gain a\nboost if they go into battle with\na Fire-type Legendary Hero\nduring Fire season.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: Confer the Water blessing?\n\nThe blessed ally will gain a\nboost if they go into battle with\na Water-type Legendary Hero\nduring Water season.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: Confer the Wind blessing?\n\nThe blessed ally will gain a\nboost if they go into battle with\na Wind-type Legendary Hero\nduring Wind season.
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: Confer the Earth blessing?\n\nThe blessed ally will gain a\nboost if they go into battle with\nan Earth-type Legendary Hero\nduring Earth season.
+MID_UNIT_EDIT_BLESSING_WARNING: If you confer a new blessing, any existing\nblessing and its effects will be canceled.
+MID_UNIT_EDIT_BLESSING_DECIDE: Confer This Blessing
+MID_SEASON_HELP_FIRE: Fire Season:\nAllies blessed with Fire gain a boost\nwhen they go into battle with a\nFire-type Legendary Hero.
+MID_SEASON_HELP_WATER: Water Season:\nAllies blessed with Water gain a boost\nwhen they go into battle with a\nWater-type Legendary Hero.
+MID_SEASON_HELP_WIND: Wind Season:\nAllies blessed with Wind gain a boost\nwhen they go into battle with a\nWind-type Legendary Hero.
+MID_SEASON_HELP_EARTH: Earth Season:\nAllies blessed with Earth gain a boost\nwhen they go into battle with an\nEarth-type Legendary Hero.
+MID_SEASON_HELP_FIREWATER: Fire & Water Season:\nAllies blessed with Fire gain a boost\nwhen they go into battle with a\nFire-type Legendary Hero.\nAllies blessed with Water gain a boost\nwhen they go into battle with a\nWater-type Legendary Hero.
+MID_SEASON_HELP_FIREWIND: Fire & Wind Season:\nAllies blessed with Fire gain a boost\nwhen they go into battle with a\nFire-type Legendary Hero.\nAllies blessed with Wind gain a boost\nwhen they go into battle with a\nWind-type Legendary Hero.
+MID_SEASON_HELP_FIREEARTH: Fire & Earth Season:\nAllies blessed with Fire gain a boost\nwhen they go into battle with a\nFire-type Legendary Hero.\nAllies blessed with Earth gain a boost\nwhen they go into battle with an\nEarth-type Legendary Hero.
+MID_SEASON_HELP_WATERWIND: Water & Wind Season:\nAllies blessed with Water gain a boost\nwhen they go into battle with a\nWater-type Legendary Hero.\nAllies blessed with Wind gain a boost\nwhen they go into battle with a\nWind-type Legendary Hero.
+MID_SEASON_HELP_WATEREARTH: Water & Earth Season:\nAllies blessed with Water gain a boost\nwhen they go into battle with a\nWater-type Legendary Hero.\nAllies blessed with Earth gain a boost\nwhen they go into battle with an\nEarth-type Legendary Hero.
+MID_SEASON_HELP_WINDEARTH: Wind & Earth Season:\nAllies blessed with Wind gain a boost\nwhen they go into battle with a\nWind-type Legendary Hero.\nAllies blessed with Earth gain a boost\nwhen they go into battle with an\nEarth-type Legendary Hero.

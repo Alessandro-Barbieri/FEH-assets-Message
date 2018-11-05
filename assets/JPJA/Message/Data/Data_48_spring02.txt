@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: 地の祝福
+MID_MISSION_S201803BLESS01_A1: 地の祝福の味方で撃破
+MID_MISSION_H_S201803BLESS01_A1: 地の祝福を付与された英雄で、敵を撃破。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A2: 特殊：地の祝福の味方で撃破
+MID_MISSION_H_S201803BLESS01_A2: 地の祝福を付与された英雄で、\nレベル２０以上の敵を撃破。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A3: 特殊：地の祝福の味方で撃破
+MID_MISSION_H_S201803BLESS01_A3: 地の祝福を付与された英雄で、\nレベル３５以上の赤属性の敵を撃破。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A4: 特殊：地の祝福の味方で撃破
+MID_MISSION_H_S201803BLESS01_A4: 地の祝福を付与された英雄で、\nレベル３５以上の青属性の敵を撃破。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A5: 特殊：地の祝福の味方で撃破
+MID_MISSION_H_S201803BLESS01_A5: 地の祝福を付与された英雄で、\nレベル３５以上の緑属性の敵を撃破。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A6: 特殊：修練の塔・第１階層突破
+MID_MISSION_H_S201803BLESS01_A6: 地の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１階層をクリア。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A7: 特殊：修練の塔・第５階層突破
+MID_MISSION_H_S201803BLESS01_A7: 地の祝福を付与された英雄を自軍に入れて、\n修練の塔・第５階層をクリア。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803BLESS01_A8: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_S201803BLESS01_A8: 地の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１０階層をクリア。\n（地の伝承英雄は、\n　地の祝福を付与された英雄とは異なる）
+MID_MISSION_S201803KIZUNA01_TITLE: 絆英雄戦
+MID_MISSION_S201803KIZUNA01_A1: 特殊：絆英雄戦突破
+MID_MISSION_H_S201803KIZUNA01_A1: アンナを自軍に入れて、\n絆英雄戦・ニニアン＆ホークアイをクリア。
+MID_MISSION_S201803KIZUNA01_A2: 特殊：絆英雄戦突破
+MID_MISSION_H_S201803KIZUNA01_A2: アスク王国の王子アルフォンスを自軍に入れて、\n絆英雄戦・ニニアン＆ホークアイ\nルナティック以上をクリア。
+MID_MISSION_S201803KIZUNA01_A3: 特殊：ニニアンを撃破
+MID_MISSION_H_S201803KIZUNA01_A3: アンナで、\nレベル４０以上のニニアンを撃破。
+MID_MISSION_S201803KIZUNA01_A4: 特殊：ホークアイを撃破
+MID_MISSION_H_S201803KIZUNA01_A4: アスク王国の王子アルフォンスで、\nレベル４０以上のホークアイを撃破。
+MID_MISSION_S201803KIZUNA01_A5: 特殊：絆英雄戦突破
+MID_MISSION_H_S201803KIZUNA01_A5: 全員騎馬の仲間で、\n絆英雄戦・ニニアン＆ホークアイ\nルナティック以上をクリア。
+MID_MISSION_S201803SENKA02_DAILY_TITLE: 戦渦の連戦
+MID_MISSION_S201803SENKA02_DAILY_A1: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201803SENKA02_DAILY_A1: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201803SENKA02_DAILY_A2: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201803SENKA02_DAILY_A2: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201803SENKA02_DAILY_A3: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201803SENKA02_DAILY_A3: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201803SENKA02_DAILY_A4: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201803SENKA02_DAILY_A4: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201803STORY02_TITLE: 兎たちの春祭り
+MID_MISSION_S201803STORY02_A1: 特殊：外伝１９－１節ルナ突破
+MID_MISSION_H_S201803STORY02_A1: 剣の仲間を自軍に入れて、\n外伝１９－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201803STORY02_A2: 特殊：外伝１９－２節ルナ突破
+MID_MISSION_H_S201803STORY02_A2: 槍の仲間を自軍に入れて、\n外伝１９－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201803STORY02_A3: 特殊：外伝１９－３節ルナ突破
+MID_MISSION_H_S201803STORY02_A3: 斧の仲間を自軍に入れて、\n外伝１９－３節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201803TAPBTL01_D01_TITLE: タップバトル・デイリー
+MID_MISSION_S201803TAPBTL01_D01_A1: ボスを撃破
+MID_MISSION_H_S201803TAPBTL01_D01_A1: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL01_D01_A2: ステージクリア
+MID_MISSION_H_S201803TAPBTL01_D01_A2: タップバトルで、ステージをクリア。
+MID_MISSION_S201803TAPBTL01_D02_TITLE: タップバトル・デイリー
+MID_MISSION_S201803TAPBTL01_D02_A1: ボスを撃破
+MID_MISSION_H_S201803TAPBTL01_D02_A1: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL01_D02_A2: ステージクリア
+MID_MISSION_H_S201803TAPBTL01_D02_A2: タップバトルで、ステージをクリア。
+MID_MISSION_S201803TAPBTL01_D03_TITLE: タップバトル・デイリー
+MID_MISSION_S201803TAPBTL01_D03_A1: ボスを撃破
+MID_MISSION_H_S201803TAPBTL01_D03_A1: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL01_D03_A2: ステージクリア
+MID_MISSION_H_S201803TAPBTL01_D03_A2: タップバトルで、ステージをクリア。
+MID_MISSION_S201803TAPBTL01_D04_TITLE: タップバトル・デイリー
+MID_MISSION_S201803TAPBTL01_D04_A1: ボスを撃破
+MID_MISSION_H_S201803TAPBTL01_D04_A1: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL01_D04_A2: ステージクリア
+MID_MISSION_H_S201803TAPBTL01_D04_A2: タップバトルで、ステージをクリア。
+MID_MISSION_S201803TAPBTL02_TITLE: タップバトル
+MID_MISSION_S201803TAPBTL02_A1: ボスを撃破
+MID_MISSION_H_S201803TAPBTL02_A1: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL02_A2: ボスを撃破
+MID_MISSION_H_S201803TAPBTL02_A2: タップバトルで、ボスを撃破。
+MID_MISSION_S201803TAPBTL02_A3: ステージクリア
+MID_MISSION_H_S201803TAPBTL02_A3: タップバトルで、ステージをクリア。
+MPID_春祭アルフォンス: アルフォンス
+MPID_春祭カゲロウ: カゲロウ
+MPID_春祭カチュア: カチュア
+MPID_春祭シャロン: シャロン
+MPID_HONOR_春祭アルフォンス: 春色のアスク王子
+MPID_HONOR_春祭カゲロウ: 春色のくの一
+MPID_HONOR_春祭カチュア: 春色の白騎士
+MPID_HONOR_春祭シャロン: 春色のアスク王女
+MPID_H_春祭アルフォンス: アスク王国の王子。優しく真面目な性格。\n特務機関の一員として、春祭りに参加している。
+MPID_H_春祭カゲロウ: 白夜王国の忍。リョウマの臣下。\n忠義に厚く、とある密命を受けて春祭りに参加。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_H_春祭カチュア: マケドニア王国のペガサス三姉妹の次女。\n真面目な性格で、任務を果たすために春祭りに参加。\n（登場：『ファイアーエムブレム　紋章の謎』）
+MPID_H_春祭シャロン: アスク王国の王女。アルフォンスの妹。\n渋る兄を誘って、春祭りに参加している。
+MPID_VOICE_春祭アルフォンス: 鈴木達央
+MPID_VOICE_春祭カゲロウ: 村川梨衣
+MPID_VOICE_春祭カチュア: 生天目仁美
+MPID_VOICE_春祭シャロン: 内田真礼
+MPID_ILLUST_春祭アルフォンス: コザキユースケ
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: アマガイタロー
+MPID_ILLUST_春祭シャロン: コザキユースケ
+MSID_ビッグスプーン: ビッグスプーン
+MSID_ビッグスプーン＋: ビッグスプーン＋
+MSID_ベビーキャロット: ベビーキャロット
+MSID_ベビーキャロット＋: ベビーキャロット＋
+MSID_フギンの魔卵: フギンの魔卵
+MSID_ムニンの魔卵: ムニンの魔卵
+MSID_飛燕の構え1: 飛燕の構え１
+MSID_飛燕明鏡の構え1: 飛燕明鏡の構え１
+MSID_飛燕明鏡の構え2: 飛燕明鏡の構え２
+MSID_速さ魔防の絆1: 速さ魔防の絆１
+MSID_速さ魔防の絆2: 速さ魔防の絆２
+MSID_速さ魔防の絆3: 速さ魔防の絆３
+MSID_魔防の封印1: 魔防の封印１
+MSID_魔防の封印2: 魔防の封印２
+MSID_魔防の封印3: 魔防の封印３
+MSID_守備の紫煙1: 守備の紫煙１
+MSID_守備の紫煙2: 守備の紫煙２
+MSID_守備の紫煙3: 守備の紫煙３
+MSID_H_ビッグスプーン: 奥義発動時、奥義によるダメージ＋１０
+MSID_H_ビッグスプーン＋: 奥義発動時、奥義によるダメージ＋１０
+MSID_H_ベビーキャロット: 奥義発動時、奥義によるダメージ＋１０\n戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの敵の\n守備、魔防－５（敵の次回行動終了まで）
+MSID_H_ベビーキャロット＋: 奥義発動時、奥義によるダメージ＋１０\n戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの敵の\n守備、魔防－７（敵の次回行動終了まで）
+MSID_H_フギンの魔卵: 魔防＋３\nターン開始時、自分のＨＰが５０％以上なら、\n敵軍内で最も魔防が低い敵の攻撃、守備－５\n（敵の次回行動終了まで）
+MSID_H_ムニンの魔卵: 魔防＋３\nターン開始時、自分のＨＰが５０％以上なら、\n敵軍内で最も速さが低い敵の攻撃、魔防－５\n（敵の次回行動終了まで）
+MSID_H_飛燕の構え1: 敵から攻撃された時、戦闘中、\n速さ＋２
+MSID_H_飛燕明鏡の構え1: 敵から攻撃された時、戦闘中、\n速さ、魔防＋２
+MSID_H_飛燕明鏡の構え2: 敵から攻撃された時、戦闘中、\n速さ、魔防＋４
+MSID_H_速さ魔防の絆1: 味方と隣接している時、\n戦闘中、自身の速さ、魔防＋３
+MSID_H_速さ魔防の絆2: 味方と隣接している時、\n戦闘中、自身の速さ、魔防＋４
+MSID_H_速さ魔防の絆3: 味方と隣接している時、\n戦闘中、自身の速さ、魔防＋５
+MSID_H_魔防の封印1: ターン開始時、\n敵軍内で最も魔防が高い敵の魔防－３\n（敵の次回行動終了まで）
+MSID_H_魔防の封印2: ターン開始時、\n敵軍内で最も魔防が高い敵の魔防－５\n（敵の次回行動終了まで）
+MSID_H_魔防の封印3: ターン開始時、\n敵軍内で最も魔防が高い敵の魔防－７\n（敵の次回行動終了まで）
+MSID_H_守備の紫煙1: 戦闘後、敵の周囲２マスの敵の守備－３\n（敵の次回行動終了まで）
+MSID_H_守備の紫煙2: 戦闘後、敵の周囲２マスの敵の守備－５\n（敵の次回行動終了まで）
+MSID_H_守備の紫煙3: 戦闘後、敵の周囲２マスの敵の守備－７\n（敵の次回行動終了まで）
+MID_CHAPTER_TITLE_CX018: 外伝１９
+MID_CHAPTER_CX018: 兎たちの春祭り
+MID_STAGE_TITLE_X0181: 外伝１９－１節
+MID_STAGE_TITLE_X0182: 外伝１９－２節
+MID_STAGE_TITLE_X0183: 外伝１９－３節
+MID_STAGE_X0181: 兎の兄妹たち
+MID_STAGE_X0182: 任務のために
+MID_STAGE_X0183: わたしとわたし
+MID_TAP_BATTLE_DATA_TITLE_0002: 黒の追懐
+MID_MUSIC_NAME_BGM_MAP_FE12_01: 進撃
+MID_MUSIC_NAME_BGM_MAP_FE07_01: 大切なもの
+MID_MUSIC_NAME_BGM_MAP_FE15_05: 神よ、その黄昏よ

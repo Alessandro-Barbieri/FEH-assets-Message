@@ -1,0 +1,38 @@
+[Heroes Archive] (BARTR)
+
+
+Heroes Message Name: Message
+
+
+MID_BARTR_HOME1: Je veux bien vous prendre sous\nmon aile, si ça vous dit ! On n'a\nqu'à dire que je suis votre père.
+MID_BARTR_HOME2: Fir ? Où es-tu, ma fille ?\nFir ? Tu m'entends ? FIIIR !!!
+MID_BARTR_HOME3: Vous voulez un conseil pour\nle combat ? OK, écoutez bien :\nil faut rentrer dans le lard. Voilà.
+MID_BARTR_HOME4: Vous avez besoin d'aide ?\nS'il y a un truc lourd à porter,\nvous pouvez compter sur moi.
+MID_BARTR_HOME5: Une arme ? Je n'ai pas besoin\nd'arme, moi. Vous avez vu tous\nces muscles ? Ha ha ha !
+MID_BARTR_FRIEND: Ah, vous voilà ! Vous êtes\nbien $Nu ?\nRavi de vous rencontrer !
+MID_BARTR_LEVEL1: Ça c'est de la puissance !
+MID_BARTR_LEVEL2: Ah ouais ! Voilà qui me plaît !
+MID_BARTR_LEVEL3: Quoi ?! Mais c'est ridicule... Pff.
+MID_BARTR_SKILL: Un vrai guerrier se doit de viser\ntoujours plus haut !
+MID_BARTR_JOIN: Moi, c'est Bartre.\nUn guerrier, un vrai !
+MID_BARTR_STRONGEST: Alors comme ça, vous pensez que\nje devrais faire plus attention sur le\nchamp de bataille ?$k$pQue je devrais pas me contenter\nde frapper ce qu'il y a devant moi\nsans réfléchir ? Bah !$k$pC'est n'importe quoi ! Un coup à\ndroite, un coup à gauche. Il faut\nrien de plus !$k$pJe m'embête pas avec toutes\nces tactiques pleines de mots,\net c'est très bien comme ça.$k$pÇa vous va ? Bien sûr que ça vous\nva ! Depuis le temps, on a appris à\nse comprendre, vous et moi !
+MID_BARTR_VOICE01: ふぅん！
+MID_BARTR_VOICE02: ぬぅん！
+MID_BARTR_VOICE03: うおおっ！
+MID_BARTR_VOICE04: Not bad.
+MID_BARTR_VOICE05: Imbécile !
+MID_BARTR_VOICE06: Tu croyais quoi ?!
+MID_BARTR_VOICE07: Je vais t'écraser !
+MID_BARTR_VOICE08: Du nerf !
+MID_BARTR_VOICE09: Not here...
+MID_BARTR_VOICE10: Bwahaha!
+MID_BARTR_VOICE11: What, my turn? It's my turn, right?
+MID_BARTR_VOICE12: Check out these arms! Bwaaah! Yaaah!
+MID_BARTR_VOICE13: Ready to train? Then punch me hard, right in the gut.
+MID_BARTR_VOICE14: You worried about something? C'mon, out with it.
+MID_BARTR_VOICE15: Say no more. That look in your eyes says it all. You're a fighter.
+MID_BARTR_VOICE16: A true warrior needs only his muscles—nothing else!
+MID_BARTR_VOICE17: I'll take care of you. Like a father, I will!
+MID_BARTR_VOICE18: Hmm!
+MID_BARTR_VOICE19: Got it.
+MID_BARTR_VOICE20: All right!

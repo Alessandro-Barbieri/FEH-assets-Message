@@ -1,0 +1,39 @@
+[Heroes Archive] (LUCINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_HOME1: Padre... Madre... Quando anche\nl'ultima battaglia sarà finita, spero che\nriposerete in pace. Ovunque voi siate.
+MID_LUCINA_HOME2: Il mio mondo è stato annientato da\nGrima, il Drago Maligno. Impedirò\nche quel futuro si verifichi.
+MID_LUCINA_HOME3: Ti dai continuamente da fare, lo vedo.\nSe la stanchezza si fa sentire posso\nsostituirti. Riposarsi è importante.
+MID_LUCINA_HOME4: Mi faresti un favore? Verresti con me a\nfare compere uno di questi giorni?\nSono negata per la moda...
+MID_LUCINA_HOME5: C-Chiedo scusa. Ero così concentrata\nad allenarmi che... ho distrutto il\nfantoccio da allenamento.
+MID_LUCINA_FRIEND: $Nf mi ha\nchiesto di passare a salutarti. La vostra\ndev'essere una bella amicizia.
+MID_LUCINA_LEVEL1: Non sarà versato altro\nsangue innocente!
+MID_LUCINA_LEVEL2: Questa forza è per\nil bene di tutti.
+MID_LUCINA_LEVEL3: Questo è solo l'inizio!
+MID_LUCINA_SKILL: Userò il potere che mi hai\nconferito per cambiare il destino.
+MID_LUCINA_JOIN: Sono Lucina, la figlia di Chrom\nd'Ylisse. Sono convinta che sia\npossibile modificare il destino.$k$pHo lasciato un futuro tetro per\ncombattere al fianco di mio padre e\ncambiare il passato. Ora... sono qua.\n
+MID_LUCINA_STRONGEST: Questo mondo è magnifico. Il candore\ndel castello, il cielo così terso e tutti\nquesti fiori...$k$pSono davvero... unici. Dobbiamo\nproteggere questo mondo a ogni\ncosto, $Nu.$k$pLa mia patria è stata distrutta dalla\nguerra, non posso permettere che lo\nstesso accada ad altri.$k$pCome? Ti ringrazio per le tue gentili\nparole di conforto...$k$pLa tua gentilezza è molto toccante.\nSpero davvero che resteremo\ninsieme, qualunque cosa accada.
+MID_LUCINA_VOICE01: やっ！
+MID_LUCINA_VOICE02: はあっ！
+MID_LUCINA_VOICE03: うあっ！
+MID_LUCINA_VOICE04: 不覚です…
+MID_LUCINA_VOICE05: Cambierò il destino!
+MID_LUCINA_VOICE06: Non mi fermerai!
+MID_LUCINA_VOICE07: Il legame ci rafforza!
+MID_LUCINA_VOICE08: Non mi darò per vinta!
+MID_LUCINA_VOICE09: Not here...
+MID_LUCINA_VOICE10: Heehee
+MID_LUCINA_VOICE11: Talking with you puts me at ease. Thank you for that.
+MID_LUCINA_VOICE12: You have wonderful friends. They remind me of my own.
+MID_LUCINA_VOICE13: I must say, I admire your outfit. Is it typical where you're from?
+MID_LUCINA_VOICE14: Every day, I must fight against the despair I was born into.
+MID_LUCINA_VOICE15: If I had to choose between peace and the lives of my friends...? Hmm.
+MID_LUCINA_VOICE16: I wonder if Father is here somewhere. Perhaps training?
+MID_LUCINA_VOICE17: I swear by this sacred blade, Falchion, I will do my utmost.
+MID_LUCINA_VOICE18: OK.
+MID_LUCINA_VOICE19: Let's go.
+MID_LUCINA_VOICE20: All right.
+MID_LUCINA_VOICE21: I will honor your memory, Father.

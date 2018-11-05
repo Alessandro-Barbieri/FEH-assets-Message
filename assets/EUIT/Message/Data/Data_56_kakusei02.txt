@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: Forcina floreale
+MDAID_H_花占いの髪飾り: Una forcina di Sumia. È realizzata con\nun fiore da lei usato per la divinazione,\nche emana un rinfrescante profumo.
+MDAID_花占いの髪飾り・極: Forcina floreale+
+MDAID_H_花占いの髪飾り・極: Una forcina di Sumia. È realizzata con\nun fiore da lei usato per la divinazione,\nche emana un raffinato profumo.
+MDAID_令嬢のリボン: Fiocco della rosa
+MDAID_H_令嬢のリボン: Un fiocco per capelli di Maribelle. È\nfatto con i tessuti più pregiati.
+MDAID_令嬢のリボン・極: Fiocco della rosa+
+MDAID_H_令嬢のリボン・極: Un fiocco per capelli di Maribelle. È\nfatto con i tessuti più pregiati e con\nuna goccia di profumo.
+MDAID_踊り子のマスク: Maschera danzatrice
+MDAID_H_踊り子のマスク: Una maschera di Olivia. Permette a chi\nla indossa di proiettare un'aura mistica\ndurante la danza.
+MDAID_踊り子のマスク・極: Maschera danzatrice+
+MDAID_H_踊り子のマスク・極: Una maschera di Olivia. Permette a chi\nla indossa di proiettare un'aura\nseduttiva durante la danza.
+MDAID_聖職者の帽子: Mitria del monaco
+MDAID_H_聖職者の帽子: Un cappello di Libra. Indossato in\nluoghi sacri, induce calma interiore.
+MDAID_聖職者の帽子・極: Mitria del monaco+
+MDAID_H_聖職者の帽子・極: Un cappello di Libra. Indossato in\nluoghi sacri, ispira solennità e maestà.
+MID_MISSION_S201807ARENA01_TITLE: Arena
+MID_MISSION_S201807ARENA01_A1: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A1: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A2: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A2: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A3: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A3: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A4: Assalto arena: 3 di fila
+MID_MISSION_H_S201807ARENA01_A4: Vinci tre battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201807ARENA01_A5: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A6: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A7: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A7: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A8: Assalto arena: 5 di fila
+MID_MISSION_H_S201807ARENA01_A8: Vinci cinque battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201807ARENA01_A9: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A10: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A11: Arena: vinci duelli
+MID_MISSION_H_S201807ARENA01_A11: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807ARENA01_A12: Assalto arena: 7 di fila
+MID_MISSION_H_S201807ARENA01_A12: Vinci sette battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201807SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201807SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201807SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201807SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201807SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201807SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201807SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201807SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201807SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201807STORY02_TITLE: Principe del gelo
+MID_MISSION_S201807STORY02_A1: Completa 11-1 folle
+MID_MISSION_H_S201807STORY02_A1: Completa il libro II, cap. 11-1 al livello folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201807STORY02_A2: Completa 11-2 folle
+MID_MISSION_H_S201807STORY02_A2: Completa il libro II, cap. 11-2 al livello folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201807STORY02_A3: Completa 11-3 folle
+MID_MISSION_H_S201807STORY02_A3: Completa il libro II, cap. 11-3 al livello folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201807STORY02_A4: Completa 11-4 folle
+MID_MISSION_H_S201807STORY02_A4: Completa il libro II, cap. 11-4 al livello folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201807STORY02_A5: Completa 11-5 folle
+MID_MISSION_H_S201807STORY02_A5: Completa il libro II, cap. 11-5 al livello folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_オリヴィエ2: Olivia
+MPID_スミア: Sumia
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ヴァルハルト: Walhart
+MPID_フリーズ: Hríd
+MPID_HONOR_オリヴィエ2: La ballerina aerea
+MPID_HONOR_スミア: Ragazza in fiore
+MPID_HONOR_マリアベル: La rosa spinosa
+MPID_HONOR_リベラ: Il bel monaco
+MPID_HONOR_ヴァルハルト: Il Conquistatore
+MPID_H_オリヴィエ2: Una danzatrice che gira il mondo. È molto\ncapace, nonostante un'incredibile timidezza.\nDanzare nei cieli le ha dato un po' di coraggio.\nCompare in Fire Emblem: Awakening.
+MPID_H_スミア: Una dei Pastori, esperta in divinazione con\ni fiori. Mostra grande talento nel collaborare\ncon gli animali. Compare in\nFire Emblem: Awakening.
+MPID_H_マリアベル: Fiera ed esigente nobildonna di uno\ndei casati più importanti d'Ylisse. È una\ndei Pastori e la migliore amica di Lissa.\nCompare in Fire Emblem: Awakening.
+MPID_H_リベラ: Un sacerdote ylissiano dal carattere\ntranquillo. È così armonioso nei lineamenti\nche spesso gli altri lo scambiano per una\ndonna. Compare in Fire Emblem: Awakening.
+MPID_H_ヴァルハルト: Lo spietato imperatore valmeo.\nLa sua tracotanza lo spinge a conquistare\ne assoggettare. Compare in\nFire Emblem: Awakening.
+MPID_VOICE_オリヴィエ2: Karen Strassman
+MPID_VOICE_スミア: —
+MPID_VOICE_マリアベル: Melissa Fahn
+MPID_VOICE_リベラ: Cindy Robinson
+MPID_VOICE_ヴァルハルト: Richard Epcar
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: Kousei Horiguchi (恒星ホリグチ)
+MPID_ILLUST_リベラ: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_ヴァルハルト: Soeda Ippei (添田一平)
+MSID_スクルド: Skuld
+MSID_反攻の槍: Lancia punitiva
+MSID_反攻の槍＋: Lancia punitiva+
+MSID_ヴォルフベルグ: Wolf Berg
+MSID_倭棍: Wo Gùn
+MSID_倭棍＋: Wo Gùn+
+MSID_トリレンマ: Trilemma
+MSID_トリレンマ＋: Trilemma+
+MSID_金剛明鏡の構え1: Posa tonica 1
+MSID_金剛明鏡の構え2: Posa tonica 2
+MSID_攻撃守備の連携1: Combo Att/Dif 1
+MSID_攻撃守備の連携2: Combo Att/Dif 2
+MSID_攻撃守備の連携3: Combo Att/Dif 3
+MSID_攻撃魔防の紋章1: Migl. Att/Res 1
+MSID_攻撃魔防の紋章2: Migl. Att/Res 2
+MSID_杖の技量1: Erois. bastone 1
+MSID_杖の技量2: Erois. bastone 2
+MSID_杖の技量3: Erois. bastone 3
+MSID_H_スクルド: Se vengono usati Canto o Danza, conferisce\nall'obiettivo anche Att/Vel/Dif/Res +3.
+MSID_H_反攻の槍: Se il nemico attacca per primo, Att +6\ndurante lo scontro.
+MSID_H_反攻の槍＋: Se il nemico attacca per primo, Att +6\ndurante lo scontro.
+MSID_H_ヴォルフベルグ: Conferisce Dif +3. Se entro 2 spazi il numero\ndi nemici (bersaglio escluso) è maggiore o\nuguale al numero di alleati (unità esclusa),\nAtt/Vel/Dif/Res +4 durante lo scontro.
+MSID_H_倭棍: Aumenta il danno inflitto di +10\nall'attivazione dell'abilità speciale.
+MSID_H_倭棍＋: Aumenta il danno inflitto di +10\nall'attivazione dell'abilità speciale.
+MSID_H_トリレンマ: Se l'unità ha attaccato, il nemico ottiene\n"Att +20% in caso di vantaggio nel triangolo\ndelle armi e Att -20% in caso di svantaggio"\ndopo lo scontro durante la sua prossima azione.
+MSID_H_トリレンマ＋: Se l'unità ha attaccato, il bersaglio e i nemici\nentro 2 spazi dal bersaglio ottengono\n"Att +20% in caso di vantaggio nel triangolo\ndelle armi e Att -20% in caso di svantaggio"\ndopo lo scontro durante le loro prossime azioni.
+MSID_H_金剛明鏡の構え1: Se il nemico attacca per primo, Dif/Res +2\ndurante lo scontro.
+MSID_H_金剛明鏡の構え2: Se il nemico attacca per primo, Dif/Res +4\ndurante lo scontro.
+MSID_H_攻撃守備の連携1: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Dif +2 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃守備の連携2: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Dif +4 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃守備の連携3: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Dif +6 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃魔防の紋章1: Att/Res +2 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_攻撃魔防の紋章2: Att/Res +3 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_杖の技量1: Finché l'unità rimane in vita e usa un bastone,\nriceve PA x1,5 dopo il combattimento o dopo\naver usato un'abilità di aiuto curativa. (Non\ncumulabile; si applica solo il valore più alto.)
+MSID_H_杖の技量2: Finché l'unità rimane in vita, tutti gli alleati\nche usano un bastone ricevono PA x1,5 dopo\nil combattimento o dopo aver usato un'abilità\ndi aiuto curativa. (Non cumulabile; si applica\nsolo il valore più alto.)
+MSID_H_杖の技量3: Finché l'unità rimane in vita, tutti gli alleati\nche usano un bastone ricevono PA x2 dopo\nil combattimento o dopo aver usato un'abilità\ndi aiuto curativa. (Non cumulabile; si applica\nsolo il valore più alto.)
+MID_CHAPTER_TITLE_C0211: Libro II, cap. 11
+MID_CHAPTER_C0211: Il principe del gelo
+MID_STAGE_TITLE_S2111: Capitolo 11-1
+MID_STAGE_TITLE_S2112: Capitolo 11-2
+MID_STAGE_TITLE_S2113: Capitolo 11-3
+MID_STAGE_TITLE_S2114: Capitolo 11-4
+MID_STAGE_TITLE_S2115: Capitolo 11-5
+MID_STAGE_S2111: Il nemico del mio nemico
+MID_STAGE_S2112: Divinazione con i fiori
+MID_STAGE_S2113: Dalle profondità infernali
+MID_STAGE_S2114: Danze aeree
+MID_STAGE_S2115: Valle delle Ossa Bruciate
+MID_STAGE_HONOR_T0035: Battaglia legame
+MID_STAGE_T0035: L. ed E.
+MID_STAGE_HONOR_T0036: Il Conquistatore
+MID_STAGE_T0036: Walhart
+MID_STAGE_TITLE_PB020: Le abilità: 20
+MID_STAGE_PB020: Trucco del Trilemma

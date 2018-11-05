@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICA)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICA_HOME1: 乾いた風…\nジャハナの砂漠を思い出す。
+MID_MARICA_HOME2: 隊長、傭兵団のみんな…\n元気にしているだろうか。
+MID_MARICA_HOME3: 手…マメができてる。\n武器の握りが合ってない。\nなめした皮を巻いておく。
+MID_MARICA_HOME4: 私は…剣を振ることしか能がない。\nだから、手合わせがしたい時だけ\n声をかけてくれればいい。
+MID_MARICA_HOME5: …何か用件があるのか？\nじろじろ見られていると、\n落ち着かない。
+MID_MARICA_FRIEND: $Nuか？\nこれ、$Nfから。
+MID_MARICA_LEVEL1: いい感じだ。\nでも、剣の極みは\nまだずっと先。
+MID_MARICA_LEVEL2: 可もなく…不可もない。\n私の望むものには遠い。
+MID_MARICA_LEVEL3: こんなみっともない姿、\n隊長に見せられない…
+MID_MARICA_SKILL: 新しい技か…\n父の剣に少しでも\n近づけているだろうか。
+MID_MARICA_JOIN: 私はマリカ。\nジスト傭兵団の剣士。\n剣が必要なら、お前の力になれる。
+MID_MARICA_STRONGEST: …お前に見られることには慣れた。\nただ剣を振っているだけの私を見て、\n何が楽しいのかわからないが。$k$p私はこうして一日一万回は剣を振り、\n千人以上と手合わせをしてきた。\n敵にも、自分にも負けないためだ。$k$p戦いは一度きり。\nそして、勝負に試し合いはない。\n勝ち負けは明確で…残酷なもの。$k$pお前が目指す道はわからない。\nだけど、いつか、自分と戦わなければ\nならない日がくるだろう。$k$pその時、頼れるのは自分だけ。だから\n$Nu、強くなれ。\nお前が自分の道を極める、その時まで。\n
+MID_MARICA_VOICE01: ふっ…！
+MID_MARICA_VOICE02: …斬る
+MID_MARICA_VOICE03: きゃああっ！
+MID_MARICA_VOICE04: 怪我した…
+MID_MARICA_VOICE05: 一瞬でいい
+MID_MARICA_VOICE06: 本気で行く
+MID_MARICA_VOICE07: すぐ斬る
+MID_MARICA_VOICE08: 命をかける
+MID_MARICA_VOICE09: 負け…た…
+MID_MARICA_VOICE10: ふ…
+MID_MARICA_VOICE11: マリカ。…名前。私の。
+MID_MARICA_VOICE12: …！？　…私に不意打ちは無駄。
+MID_MARICA_VOICE13: 別に、怒ってない…いつもこう。
+MID_MARICA_VOICE14: 何か話して欲しい…あなたと話すの、嫌いじゃない。
+MID_MARICA_VOICE15: あなたは…私が何したら嬉しい？
+MID_MARICA_VOICE16: …人は死んだら終わり。だから、精一杯戦う。
+MID_MARICA_VOICE17: あなたが……してくれたら、もっとがんばる。
+MID_MARICA_VOICE18: いい。
+MID_MARICA_VOICE19: …どっちを斬る？
+MID_MARICA_VOICE20: …行く。

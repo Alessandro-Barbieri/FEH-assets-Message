@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_コウモリの耳: Orecchie da pipistrello
+MDAID_H_コウモリの耳: Non sono adorabili?
+MDAID_悪魔のツノ: Corna da diavoletto
+MDAID_H_悪魔のツノ: Donano un'aura minacciosa.
+MDAID_謎の剣士の仮面・金: Masc. criptica d'oro
+MDAID_H_謎の剣士の仮面・金: Un trofeo per la vittoria contro\nil Grande eroe Narcian.
+MDAID_黄色いアヒル・金: Paperella d'oro
+MDAID_H_黄色いアヒル・金: Un trofeo per la vittoria contro\nil Grande eroe Navarre.
+MDAID_温泉手ぬぐい・金: Asciugamanino d'oro
+MDAID_H_温泉手ぬぐい・金: Un trofeo per la vittoria contro\nla Grande eroina Daraen.
+MDAID_花占いの髪飾り・金: Forcina floreale d'oro
+MDAID_H_花占いの髪飾り・金: Un trofeo per la vittoria contro\nla Grande eroina Ursula.
+MDAID_令嬢のリボン・金: Fiocco della rosa d'oro
+MDAID_H_令嬢のリボン・金: Un trofeo per la vittoria contro\nil Grande eroe Lloyd.
+MDAID_踊り子のマスク・金: Masc. danzatrice d'oro
+MDAID_H_踊り子のマスク・金: Un trofeo per la vittoria contro\nil Grande eroe Michalis.
+MDAID_聖職者の帽子・金: Mitria monaco d'oro
+MDAID_H_聖職者の帽子・金: Un trofeo per la vittoria contro\nil Grande eroe Xander.
+MID_MISSION_S201810DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201810DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201810DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201810DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201810DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201810DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201810DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201810DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201810DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201810DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201810DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201810DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201810DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201810HERO01_TITLE: Grandi battaglie
+MID_MISSION_S201810HERO01_A1: Batti Kana
+MID_MISSION_H_S201810HERO01_A1: Con Anna nella tua squadra, vinci la Grande\nbattaglia contro Kana, l'erede del drago.
+MID_MISSION_S201810HERO01_A2: Batti Kana
+MID_MISSION_H_S201810HERO01_A2: Con Kana, l'erede del drago, nella tua squadra,\nvinci la Grande battaglia contro Kana, l'erede\ndel drago, alla difficoltà folle o superiore.
+MID_MISSION_S201810HERO01_A3: Batti Kana
+MID_MISSION_H_S201810HERO01_A3: Batti Kana, l'erede del drago, di livello 40 o\nsuperiore con Anna.
+MID_MISSION_S201810HERO01_A4: Batti Kana
+MID_MISSION_H_S201810HERO01_A4: Batti Kana, l'erede del drago, di livello 40 o\nsuperiore con Kana, l'erede del drago.
+MID_MISSION_S201810HERO01_A5: Batti Kana
+MID_MISSION_H_S201810HERO01_A5: Vinci la Grande battaglia contro Kana, l'erede\ndel drago, al livello di difficoltà folle o superiore\ncon una squadra di sole unità corazzate.
+MID_MISSION_S201810SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201810SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201810SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201810SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201810SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201810SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201810SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201810SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201810SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201810SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201810SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201810STORY01_TITLE: I frutti della terra
+MID_MISSION_S201810STORY01_A1: Completa app. 25-1 folle
+MID_MISSION_H_S201810STORY01_A1: Completa l'app. 25, parte 1 alla difficoltà folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201810STORY01_A2: Completa app. 25-2 folle
+MID_MISSION_H_S201810STORY01_A2: Completa l'app. 25, parte 2 alla difficoltà folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201810STORY01_A3: Completa app. 25-3 folle
+MID_MISSION_H_S201810STORY01_A3: Completa l'app. 25, parte 3 alla difficoltà folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201810TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201810TAPBTL01_D01_A1: Batti Leif
+MID_MISSION_H_S201810TAPBTL01_D01_A1: Sconfiggi il boss Leif alla difficoltà normale\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201810TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201810TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201810TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201810TAPBTL01_D02_A1: Batti Leif
+MID_MISSION_H_S201810TAPBTL01_D02_A1: Sconfiggi il boss Leif alla difficoltà difficile\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201810TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201810TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201810TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201810TAPBTL01_D03_A1: Batti Lene
+MID_MISSION_H_S201810TAPBTL01_D03_A1: Sconfiggi il boss Lene alla difficoltà normale\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201810TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201810TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201810TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201810TAPBTL01_D04_A1: Batti Lene
+MID_MISSION_H_S201810TAPBTL01_D04_A1: Sconfiggi il boss Lene alla difficoltà difficile\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201810TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201810TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201810TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201810TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201810TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201810TAPBTL02_A1: Supera fasi boss
+MID_MISSION_H_S201810TAPBTL02_A1: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201810TAPBTL02_A2: Supera fasi boss
+MID_MISSION_H_S201810TAPBTL02_A2: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201810TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201810TAPBTL02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201810TAPBTL02_A4: Supera fase extra 1
+MID_MISSION_H_S201810TAPBTL02_A4: Completa la fase extra 1 in Battaglia tattile.\nPuoi giocare la fase extra 1 dopo lo sblocco\ndelle fasi extra.
+MPID_ハロワユ: Mia
+MPID_ハロミルラ: Myrrh
+MPID_ハロカゲロウ: Kagero
+MPID_ハロゼロ: Niles
+MPID_ハロドルカス: Dorcas
+MPID_HONOR_ハロワユ: La strega lunare
+MPID_HONOR_ハロミルラ: La mostriciattola
+MPID_HONOR_ハロカゲロウ: La ninja assetata
+MPID_HONOR_ハロゼロ: L'allusivo
+MPID_HONOR_ハロドルカス: Lo spaccazucche
+MPID_H_ハロワユ: Una mercenaria che combatte per migliorare\nle sue abilità con la spada. Non vede l'ora di\npartecipare alla festa dell'autunno. Compare\nin Fire Emblem: Radiant Dawn.
+MPID_H_ハロミルラ: Una timida manakete ben più vecchia di quanto\nil suo aspetto suggerisca. Adora i dolcetti, ma\nsi vergogna a chiederli. Compare in Fire\nEmblem: The Sacred Stones.
+MPID_H_ハロカゲロウ: Una ninja dell'Hoshido e attendente di Ryoma\npronta a dare la vita per ottenere dei dolcetti.\nCompare in Fire Emblem Fates.
+MPID_H_ハロゼロ: Furfante nohriano e attendente di Leo che\ncolpisce tutti con la sua lingua tagliente. Spera\ndi passare una bella notte alla festa dell'autunno.\nCompare in Fire Emblem Fates.
+MPID_H_ハロドルカス: Un mercenario che ha bisogno di soldi per\ncurare la moglie malata. Vorrebbe approfittare\ndella festa per portarle dei dolcetti. Compare in\nFire Emblem: The Blazing Blade.
+MPID_VOICE_ハロワユ: Lani Minella
+MPID_VOICE_ハロミルラ: Erica Lindbeck
+MPID_VOICE_ハロカゲロウ: Sarah Blandy
+MPID_VOICE_ハロゼロ: Michael Sinterniklaas
+MPID_VOICE_ハロドルカス: Kirk Thornton
+MPID_ILLUST_ハロワユ: Yoneyama Mai (米山舞)
+MPID_ILLUST_ハロミルラ: Amagaitaro (アマガイタロー)
+MPID_ILLUST_ハロカゲロウ: cuboon
+MPID_ILLUST_ハロゼロ: Yura (由良)
+MPID_ILLUST_ハロドルカス: Soeda Ippei (添田一平)
+MSID_孤高の剣: Lama solitaria
+MSID_第15迷宮の覇者1: Asso squadra O1
+MSID_第15迷宮の覇者2: Asso squadra O2
+MSID_第15迷宮の覇者3: Asso squadra O3
+MSID_カボチャの斧: Ascia zucca
+MSID_カボチャの斧＋: Ascia zucca+
+MSID_コウモリの弓: Arco sadico
+MSID_コウモリの弓＋: Arco sadico+
+MSID_果汁のボトル: Succo vermiglio
+MSID_果汁のボトル＋: Succo vermiglio+
+MSID_キャンディの杖: Bacchetta
+MSID_キャンディの杖＋: Bacchetta+
+MSID_精霊のブレス: Soffio d'anima
+MSID_守備魔防1: Dif/Res 1
+MSID_守備魔防2: Dif/Res 2
+MSID_攻撃速さの連携1: Combo Att/Vel 1
+MSID_攻撃速さの連携2: Combo Att/Vel 2
+MSID_攻撃速さの連携3: Combo Att/Vel 3
+MSID_攻撃の波・偶数1: Att pari 1
+MSID_攻撃の波・偶数2: Att pari 2
+MSID_攻撃の波・偶数3: Att pari 3
+MSID_H_孤高の剣: Anticipa l'attivazione dell'abilità speciale\n(contatore -1).
+MSID_H_翼槍ヴィドフニル改: Se il nemico attacca per primo e usa spada,\nlancia, ascia o pietra drago, l'unità riceve\nDif/Res +7 durante lo scontro.
+MSID_H_攻撃速さの絆R歩重: Se l'unità si trova entro 2 spazi da un alleato\ndi fanteria o corazzato, Att/Vel +4 durante\nlo scontro.
+MSID_H_反撃抑制R魔竜: Se il nemico usa la magia o è un drago, non\npuò contrattaccare.
+MSID_H_第15迷宮の覇者1: Conferisce Att +1.
+MSID_H_第15迷宮の覇者2: Conferisce Att +2.
+MSID_H_第15迷宮の覇者3: Conferisce Att +3.
+MSID_H_カボチャの斧: Ritarda l'attivazione dell'abilità speciale del\nnemico (contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.)
+MSID_H_カボチャの斧＋: Ritarda l'attivazione dell'abilità speciale del\nnemico (contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.)
+MSID_H_コウモリの弓: Efficace contro le unità volanti. Ritarda\nl'attivazione dell'abilità speciale del nemico\n(contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.)
+MSID_H_コウモリの弓＋: Efficace contro le unità volanti. Ritarda\nl'attivazione dell'abilità speciale del nemico\n(contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.)
+MSID_H_果汁のボトル: Ritarda l'attivazione dell'abilità speciale del\nnemico (contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.) Dopo lo scontro, se l'unità\nha attaccato, Dif/Res -5 al bersaglio e ai\nnemici entro 2 spazi dal bersaglio durante\nle loro prossime azioni.
+MSID_H_果汁のボトル＋: Ritarda l'attivazione dell'abilità speciale del\nnemico (contatore +1) a ogni attacco durante\nlo scontro. (Non cumulabile; si applica solo\nil valore più alto.) Dopo lo scontro, se l'unità\nha attaccato, Dif/Res -7 al bersaglio e ai\nnemici entro 2 spazi dal bersaglio durante\nle loro prossime azioni.
+MSID_H_キャンディの杖: Dopo lo scontro, se l'unità ha attaccato, azzera\nil contatore del nemico e gli infligge il seguente\nstato durante la sua prossima azione: "Infligge\ncontatore +1 a ogni attacco durante lo scontro.\n(Non cumulabile; si applica solo il valore più\nalto)". (Annulla le modifiche al contatore dopo\nlo scontro, ma le abilità che anticipano e\nritardano l'attivazione dell'abilità speciale\nrestano attive.)
+MSID_H_キャンディの杖＋: Dopo lo scontro, se l'unità ha attaccato, azzera\nil contatore di bersaglio e nemici entro 2 spazi\nda esso e infligge al bersaglio e ai nemici entro\n2 spazi da esso il seguente stato durante la loro\nprossima azione: "Infligge contatore +1 a ogni\nattacco durante lo scontro. (Non cumulabile;\nsi applica solo il valore più alto)". (Annulla\nle modifiche al contatore dopo lo scontro, ma\nle abilità che anticipano/ritardano l'attivazione\ndell'abilità speciale restano attive.)
+MSID_H_精霊のブレス: Conferisce Dif +3. Se l'unità attacca per prima\ne ha almeno 5 Dif più del nemico, esegue\nun attacco doppio. Contro nemici con 2 di Rgg,\nil danno è calcolato usando Dif o Res del\nnemico (il valore più basso).
+MSID_H_守備魔防1: Conferisce Dif/Res +1.
+MSID_H_守備魔防2: Conferisce Dif/Res +2.
+MSID_H_攻撃速さの連携1: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Vel +2 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃速さの連携2: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Vel +4 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃速さの連携3: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Vel +6 all'unità e\nall'alleato per 1 turno.
+MSID_H_攻撃の波・偶数1: Att +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_攻撃の波・偶数2: Att +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_攻撃の波・偶数3: Att +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MID_CHAPTER_TITLE_CX024: Appendice 25
+MID_CHAPTER_CX024: I frutti della terra
+MID_STAGE_TITLE_X0241: Appendice 25-1
+MID_STAGE_TITLE_X0242: Appendice 25-2
+MID_STAGE_TITLE_X0243: Appendice 25-3
+MID_STAGE_X0241: Il trio terrificante
+MID_STAGE_X0242: Due mostri in più
+MID_STAGE_X0243: Caccia alle zucche!
+MID_STAGE_TITLE_BG_FIRE_0012: Fuoco 2
+MID_STAGE_TITLE_BG_WATER_0013: Acqua 3
+MID_STAGE_TITLE_BG_WIND_0013: Vento 3
+MID_STAGE_TITLE_BG_EARTH_0013: Terra 3
+MID_STAGE_TITLE_SB_0015: 15º assalto
+MID_STAGE_TITLE_PB031: Le abilità: 31
+MID_STAGE_PB031: La Sacra Coppia di Frelia
+MID_STAGE_TITLE_PC015: Per veterani: 15
+MID_STAGE_PC015: Si può sempre migliorare
+MID_STAGE_HONOR_T0041: Battaglia legame
+MID_STAGE_T0041: E. e M.
+MID_TAP_BATTLE_DATA_TITLE_0009: L'erede della luce
+MID_MUSIC_NAME_BGM_MAP_FE04_01: Prologo\nGenesi del sacro cavaliere
+MID_MUSIC_NAME_BGM_MAP_FE04_05: Capitolo 3\nEldigan, Cuor di leone
+MID_MUSIC_NAME_BGM_MAP_BRAVE_02: Lo splendore dell'Askr

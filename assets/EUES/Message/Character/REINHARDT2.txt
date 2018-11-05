@@ -1,0 +1,38 @@
+[Heroes Archive] (REINHARDT2)
+
+
+Heroes Message Name: Message
+
+
+MID_REINHARDT2_HOME1: He visto personas con una pasión\nardiente. Tanto, que las llamas\nacaban por consumirlas.$k$pYo carezco de esa capacidad,\ny lo considero una debilidad.
+MID_REINHARDT2_HOME2: Mi señora Ishtar tiene un poder\nmágico inalcanzable para alguien\ncomo yo.$k$pPor algo la llaman la diosa del trueno.
+MID_REINHARDT2_HOME3: Cuídate. Tu salud es muy importante.\nMientras estés bien, será muy difícil\nque nuestro ejército caiga derrotado.
+MID_REINHARDT2_HOME4: Leif era mi enemigo. Pero ahora\nque estoy aquí, en un sitio y una era\ndistintos, tal vez no tenga que serlo.
+MID_REINHARDT2_HOME5: Cuando se habla de estrategas sin\nparangón, solo se pueden mencionar\ndos nombres: el de Saias... y el tuyo.
+MID_REINHARDT2_FRIEND: Es posible que pienses que es\nde mala educación que no me\nbaje del caballo, y tienes razón.$k$pEn cualquier caso, traigo saludos de\nparte de $Nf.$k$pY ahora, si me disculpas, debo\nencargarme de una misión urgente.
+MID_REINHARDT2_LEVEL1: Los enemigos de Friege acaban\nfulminados por los relámpagos.
+MID_REINHARDT2_LEVEL2: Ser un jinete mago significa\ndominar la espada y el grimorio.
+MID_REINHARDT2_LEVEL3: Por favor..., permíteme resarcir\nmi honor mancillado.
+MID_REINHARDT2_SKILL: Siempre te estaré agradecido.\nTe juro que no te arrepentirás.
+MID_REINHARDT2_JOIN: Soy Reinhardt, el jinete mago\nde Friege.$k$pTal vez pienses que mi talento se\nlimita a la magia. Permíteme que te\nmuestre mi habilidad con la espada.
+MID_REINHARDT2_STRONGEST: Hace tiempo, me enfrenté al príncipe\nLeif y a su ejército en el río Thracia.$k$pMi bando tenía las de ganar.\nContábamos con un ejército mayor\ny con una posición ventajosa.$k$pA pesar de eso, nos vencieron.\nPero ¿por qué? ¿En qué me\nequivoqué?$k$pPensándolo ahora, creo que\nes cuestión de motivación.$k$pAunque las probabilidades de éxito\nfueran escasas, las tropas del\npríncipe Leif no se amedrentaban.$k$pEsa determinación les logró\nla victoria, y a mí me costó la derrota.\nSupongo que es mi punto débil.$k$pSin embargo, luchar a tu lado\nme ha permitido subsanar\nesta debilidad.$k$pAhora estoy decidido a ganar,\ny te prometo que te llevaré\nhasta la victoria.
+MID_REINHARDT2_VOICE01: はぁっ！
+MID_REINHARDT2_VOICE02: Sorry!
+MID_REINHARDT2_VOICE03: うああっ！
+MID_REINHARDT2_VOICE04: A blunder...
+MID_REINHARDT2_VOICE05: Perdóname.
+MID_REINHARDT2_VOICE06: Pido disculpas.
+MID_REINHARDT2_VOICE07: Así es como se hace.
+MID_REINHARDT2_VOICE08: ¡Adelante!
+MID_REINHARDT2_VOICE09: My regrets...
+MID_REINHARDT2_VOICE10: Chuckle
+MID_REINHARDT2_VOICE11: I am Reinhardt, a knight of Friege.
+MID_REINHARDT2_VOICE12: Eh? You have the mischievous heart of a child.
+MID_REINHARDT2_VOICE13: In battle, a mage-knight should be equipped with more than just magic, my friend.
+MID_REINHARDT2_VOICE14: I can fight at my utmost thanks to you.
+MID_REINHARDT2_VOICE15: Your stratagems... It's almost as though you can espy the battlefield as a whole.
+MID_REINHARDT2_VOICE16: Olwen... It seems you've chosen your own path, my sister.
+MID_REINHARDT2_VOICE17: Perhaps the person I ought to serve...is you.
+MID_REINHARDT2_VOICE18: Understood.
+MID_REINHARDT2_VOICE19: You are good.
+MID_REINHARDT2_VOICE20: As you planned.

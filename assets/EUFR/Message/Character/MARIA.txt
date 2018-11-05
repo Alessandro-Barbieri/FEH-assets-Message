@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIA)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIA_HOME1: Prince Alfonse et Princesse Sharena\nsont si proches... J'ai un peu honte\nde l'avouer, mais ça me rend jalouse.
+MID_MARIA_HOME2: Michalis, Minerva... Si seulement\nnous pouvions vivre ensemble à\nnouveau...
+MID_MARIA_HOME3: Pensez à vous reposer, $GInvocateur,Invocatrice| !\nEt n'oubliez pas qu'en cas de besoin,\nje peux m'occuper de vous.
+MID_MARIA_HOME4: Vous voulez bien m'accompagner\npour une promenade ? Anna dit que\nje suis trop jeune pour sortir seule...
+MID_MARIA_HOME5: Ce château est immense !\nOn devrait y organiser une\npartie de cache-cache.
+MID_MARIA_FRIEND: Bonjour, $Nu !\nJe m'appelle Maria. On m'a\nenvoyée vous rendre visite !
+MID_MARIA_LEVEL1: Encore quelques efforts, et je serai\naussi forte que mon frère !
+MID_MARIA_LEVEL2: Petit à petit, je deviens aussi forte que\nma sœur !
+MID_MARIA_LEVEL3: Oh non... C'est très décevant.
+MID_MARIA_SKILL: Merci de m'aider à devenir plus forte.\nJe ne serai pas un fardeau, promis !
+MID_MARIA_JOIN: Je suis Maria, une vraie princesse\nvenue de Medon. Je vais faire tout\nmon possible pour vous aider !
+MID_MARIA_STRONGEST: Je crois bien que je n'ai jamais été\naussi forte ! Qu'en pensez-vous ?$k$pMon frère et ma sœur m'ont toujours\nprotégée, et je savais que je devrais\ndevenir forte un jour, moi aussi...$k$pMais grâce à vous, j'ai compris qu'il\nfaut que je le sois maintenant !$k$pÇa ne me fait pas plaisir de me\nbattre, mais au moins je peux me\ndéfendre toute seule, maintenant !$k$pMerci de m'y avoir aidée !
+MID_MARIA_VOICE01: えいっ！
+MID_MARIA_VOICE02: えーいっ！
+MID_MARIA_VOICE03: きゃああっ！
+MID_MARIA_VOICE04: Owie...
+MID_MARIA_VOICE05: Je ne perdrai pas !
+MID_MARIA_VOICE06: Un, deux, TROIS !
+MID_MARIA_VOICE07: Comme Michalis !
+MID_MARIA_VOICE08: Comme Minerva !
+MID_MARIA_VOICE09: Minerva...
+MID_MARIA_VOICE10: Ahaha
+MID_MARIA_VOICE11: Je suis là.
+MID_MARIA_VOICE12: Je fais de mon mieux !
+MID_MARIA_VOICE13: Oh! What? What is it?
+MID_MARIA_VOICE14: Someday I want to grow up big like my sister.
+MID_MARIA_VOICE15: Wait! Have more time to talk?
+MID_MARIA_VOICE16: Michalis... Minerva...
+MID_MARIA_VOICE17: I'll stay with you. I can, right?
+MID_MARIA_VOICE18: OK!
+MID_MARIA_VOICE19: Hmmm...
+MID_MARIA_VOICE20: Come on!

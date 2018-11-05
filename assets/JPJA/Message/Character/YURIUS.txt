@@ -1,0 +1,38 @@
+[Heroes Archive] (YURIUS)
+
+
+Heroes Message Name: Message
+
+
+MID_YURIUS_HOME1: チッ、ユリアのやつ…\nそんな目で僕を見るな！\n忌々しい、どこかへいってしまえ！
+MID_YURIUS_HOME2: どうして子供狩りなんかしていたのかって？\n単に臣民に相応しい教育を施しただけだよ。\nそう、優れた、選ばれた者にね…
+MID_YURIUS_HOME3: 君はよくみんなを観察してるね。\n裏切者でも探しているのかな…？\nふふふ…冗談だよ、冗談。
+MID_YURIUS_HOME4: ねえ、僕と一緒に遊ばない？\nほら、そこの花壇でお花を眺めたり\n虫ケラを踏みつぶしたりしてさ！
+MID_YURIUS_HOME5: あまり僕を退屈させるなよ？\n力を持て余して、うっかりこの城を\n壊してしまうかもしれないからね。
+MID_YURIUS_FRIEND: やあ、僕はユリウス。\n$Nfのせいで\nこんなつまらない所まで来ちゃったよ。
+MID_YURIUS_LEVEL1: ハハハ！\nこれからもっと愉快になりそうだ！
+MID_YURIUS_LEVEL2: まあまあ、といったところだね。
+MID_YURIUS_LEVEL3: …つまらないな。
+MID_YURIUS_SKILL: 力の使い方を知っているね。\nああ、ありがたく使わせてもらうよ。
+MID_YURIUS_JOIN: 僕はユリウス。グランベル帝国の皇子さ。\nここはなかなか騒がしそうな所だね！\nフフフ…退屈せずに過ごせそうだ。
+MID_YURIUS_STRONGEST: おや、$Nu。\n殺戮に明け暮れているようで何よりだよ。\n次は誰を倒す？　何を壊そうか？$k$p好きで戦っているわけじゃない？\nいやいや。誤魔化す必要はないよ。\n君は戦いを心から楽しんでいるはずさ。$k$p人は常に倒し、奪い、その上に生きている。\n戦えない者に生きる価値など無い。\nそうだろう？$k$pえっ、そんなことはない？\n人の優しさだって…？\nまだそんな欺瞞を口に出来るとはね…$k$pまあいいさ。きっと君も思い知るだろう。\n戦いの果てにあるものが何であるか。\nその時を楽しみにしているよ、フフフ…
+MID_YURIUS_VOICE01: ふん…
+MID_YURIUS_VOICE02: 死ね
+MID_YURIUS_VOICE03: うああっ！
+MID_YURIUS_VOICE04: なんだと…
+MID_YURIUS_VOICE05: 絶望せよ
+MID_YURIUS_VOICE06: 相手にならぬ
+MID_YURIUS_VOICE07: 殺さねばな
+MID_YURIUS_VOICE08: 血祭りだ
+MID_YURIUS_VOICE09: ぐ…おぉぉぉっ！
+MID_YURIUS_VOICE10: ふっ
+MID_YURIUS_VOICE11: セリスは光の皇子…ふっ、そして私は闇の皇子というわけだ。
+MID_YURIUS_VOICE12: ！？　私に悪ふざけとは、血迷ったか？
+MID_YURIUS_VOICE13: ユリアは我が妹…そして我が宿敵。
+MID_YURIUS_VOICE14: ラインハルト…奴は気に食わん。次に目の前に現れた時は殺す。
+MID_YURIUS_VOICE15: くっ…頭が…痛む…！　私の邪魔をするな…！
+MID_YURIUS_VOICE16: …私が優しかっただと？　ユリアめ、くだらぬことを…
+MID_YURIUS_VOICE17: お前は生かしてやろう…今のところはな。
+MID_YURIUS_VOICE18: いいぞ
+MID_YURIUS_VOICE19: 何が望みだ？
+MID_YURIUS_VOICE20: 遊ぶとしよう

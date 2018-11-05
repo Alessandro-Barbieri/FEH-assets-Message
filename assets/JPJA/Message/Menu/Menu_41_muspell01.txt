@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: 第２部オープニング
+MID_ITEM_REFINE_STONE: 錬成石
+MID_ITEM_HELP_REFINE_STONE: 「武器錬成」で使用する\n通常の武器を錬成する
+MID_ITEM_GOD_REFINE_STONE: 神錬の雫
+MID_ITEM_HELP_GOD_REFINE_STONE: 「武器錬成」で使用する\n一部の特別な武器を錬成する
+MID_ITEM_ARENA_MEDAL: 闘技のメダル
+MID_ITEM_HELP_ARENA_MEDAL: 「武器錬成」で使用する
+MID_ITEM_BLESSING_FIRE: 火の祝福
+MID_ITEM_HELP_BLESSING_FIRE: 「祝福付与」で使用する\n仲間に火の祝福を付与する
+MID_ITEM_BLESSING_WATER: 水の祝福
+MID_ITEM_HELP_BLESSING_WATER: 「祝福付与」で使用する\n仲間に水の祝福を付与する
+MID_ITEM_BLESSING_WIND: 風の祝福
+MID_ITEM_HELP_BLESSING_WIND: 「祝福付与」で使用する\n仲間に風の祝福を付与する
+MID_ITEM_BLESSING_EARTH: 地の祝福
+MID_ITEM_HELP_BLESSING_EARTH: 「祝福付与」で使用する\n仲間に地の祝福を付与する
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: 第１部
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: 第２部
+MID_STAGE_OPEN_WEAPON_REFINE: 武器錬成が\n開放されました。
+MID_SUMMON_SEASON2_DAYS: $a$a1終了まであと$a0日
+MID_SUMMON_SEASON2_HOURS: $a$a1終了まであと$a0時間
+MID_SUMMON_SEASON2_MINUTES: $a$a1終了まであと$a0分
+MID_SUMMON_LIMITED_BEGINNER: 初心者限定！
+MID_SUMMON_ONE_TIME_FREE: 初回無料！
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: 初回無料！初心者限定！
+MID_SUMMON_ONE_TIME_FREE_DECIDE: 初回無料 召喚
+MID_UNIT_EDIT_WEAPON_REFINE: 武器錬成
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: 以下のスキルを錬成しますか？
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: 錬成する
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: スキルを錬成するキャラクターを選択してください。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: 錬成するスキルを選択してください。
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: 錬成スキルのため、継承できません。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: 武器を錬成し、さらに強力に！
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: ◆武器錬成◆\n武器を錬成し、強化できます。\n\n錬成石、闘技のメダル、\nＳＰを消費します。\n\n闘技のメダルは、\n闘技場で入手できます。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: ◆一部武器の武器錬成◆\n一部武器の錬成は、\n錬成石のかわりに\n神錬の雫を消費します。\n\n神錬の雫は、\n武器錬成で錬成石を\n消費すると入手できます。
+MID_UNIT_EDIT_BLESSING: 祝福付与
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: 祝福を付与し、伝承英雄と共に出撃！
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: ◆祝福の付与◆\n「祝福」アイテムを消費して、\n仲間に祝福を付与できます。\n\nフィヨルムなどの伝承英雄には、\n祝福を付与することはできません。
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: ◆祝福の効果１◆\n戦闘で入手ＳＰが、\n常に２倍になります。\n\n（伝承英雄には祝福を付与できませんが、\n　伝承英雄は最初から\n　戦闘で入手ＳＰが２倍になります）
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: ◆祝福の効果２◆\n現在のシーズンと同じ祝福の仲間は、\n同種の伝承英雄と出撃すると特別効果。\n（例）…\n「水」のシーズンの時、\n「水」の祝福を付与された仲間は、\n「水」の伝承英雄フィヨルムと共に\n出撃すると、ＨＰ＋３、速さ＋３。
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: ◆現在のシーズン◆\nバトル画面トップ等の左上に\n現在のシーズンは表示されます。\n\n◆伝承英雄◆\n伝承英雄は、ステータス画面に\n特別なアイコンがついており、\nタッチすると伝承効果を確認できます。
+MID_UNIT_EDIT_SORT_BLESSING: 祝福
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・戦闘で入手する経験値、ＳＰが２倍\n・「火」のシーズンの時、\n　「火」の伝承英雄と共に出撃すると、\n　その伝承英雄の伝承効果を受けることができる
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・戦闘で入手する経験値、ＳＰが２倍\n・「水」のシーズンの時、\n　「水」の伝承英雄と共に出撃すると、\n　その伝承英雄の伝承効果を受けることができる
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・戦闘で入手する経験値、ＳＰが２倍\n・「風」のシーズンの時、\n　「風」の伝承英雄と共に出撃すると、\n　その伝承英雄の伝承効果を受けることができる
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・戦闘で入手する経験値、ＳＰが２倍\n・「地」のシーズンの時、\n　「地」の伝承英雄と共に出撃すると、\n　その伝承英雄の伝承効果を受けることができる
+MID_UNIT_EDIT_BLESSING_HELP1: 祝福を付与したいキャラクターを選択してください。
+MID_UNIT_EDIT_BLESSING_HELP2: 付与したい祝福を選択してください。
+MID_UNIT_EDIT_BLESSING_APPLIED: 適用中
+MID_UNIT_EDIT_BLESSING_SELECTED: 選択中
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: 未所持
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: 「火の祝福」を付与しますか？\n\n付与された英雄は\n「火」のシーズンの時、\n「火」の伝承英雄と共に出撃すると、\n能力がアップします。
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: 「水の祝福」を付与しますか？\n\n付与された英雄は\n「水」のシーズンの時、\n「水」の伝承英雄と共に出撃すると、\n能力がアップします。
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: 「風の祝福」を付与しますか？\n\n付与された英雄は\n「風」のシーズンの時、\n「風」の伝承英雄と共に出撃すると、\n能力がアップします。
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: 「地の祝福」を付与しますか？\n\n付与された英雄は\n「地」のシーズンの時、\n「地」の伝承英雄と共に出撃すると、\n能力がアップします。
+MID_UNIT_EDIT_BLESSING_WARNING: 新たに別の祝福を付与すると、\n過去の祝福効果は消滅します。
+MID_UNIT_EDIT_BLESSING_DECIDE: 祝福を付与する
+MID_SEASON_HELP_FIRE: ◆シーズン：「火」◆\n・「火」の祝福を付与された仲間は、\n　「火」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_WATER: ◆シーズン：「水」◆\n・「水」の祝福を付与された仲間は、\n　「水」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_WIND: ◆シーズン：「風」◆\n・「風」の祝福を付与された仲間は、\n　「風」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_EARTH: ◆シーズン：「地」◆\n・「地」の祝福を付与された仲間は、\n　「地」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_FIREWATER: ◆シーズン：「火」「水」◆\n・「火」の祝福を付与された仲間は、\n　「火」の伝承英雄と共に出撃した時、強くなる\n・「水」の祝福を付与された仲間は、\n　「水」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_FIREWIND: ◆シーズン：「火」「風」◆\n・「火」の祝福を付与された仲間は、\n　「火」の伝承英雄と共に出撃した時、強くなる\n・「風」の祝福を付与された仲間は、\n　「風」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_FIREEARTH: ◆シーズン：「火」「地」◆\n・「火」の祝福を付与された仲間は、\n　「火」の伝承英雄と共に出撃した時、強くなる\n・「地」の祝福を付与された仲間は、\n　「地」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_WATERWIND: ◆シーズン：「水」「風」◆\n・「水」の祝福を付与された仲間は、\n　「水」の伝承英雄と共に出撃した時、強くなる\n・「風」の祝福を付与された仲間は、\n　「風」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_WATEREARTH: ◆シーズン：「水」「地」◆\n・「水」の祝福を付与された仲間は、\n　「水」の伝承英雄と共に出撃した時、強くなる\n・「地」の祝福を付与された仲間は、\n　「地」の伝承英雄と共に出撃した時、強くなる
+MID_SEASON_HELP_WINDEARTH: ◆シーズン：「風」「地」◆\n・「風」の祝福を付与された仲間は、\n　「風」の伝承英雄と共に出撃した時、強くなる\n・「地」の祝福を付与された仲間は、\n　「地」の伝承英雄と共に出撃した時、強くなる

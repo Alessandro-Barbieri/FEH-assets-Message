@@ -1,0 +1,39 @@
+[Heroes Archive] (AQUA_DANCE)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_DANCE_HOME1: この姿でいると楽だわ…\n誰も私を私だと気づかない。\n余計な詮索もされないもの。
+MID_AQUA_DANCE_HOME2: アミュージアのショーはとても盛大なの。\n各国の王侯貴族が見に訪れるから…\n見初められて王妃になる歌姫もいるそうよ。
+MID_AQUA_DANCE_HOME3: 特務機関のみんなは働き者ね。\n夜はしっかり眠れているかしら？\n子守歌が必要なら言ってちょうだい。
+MID_AQUA_DANCE_HOME4: シャロン王女に歌を教えてほしいと\n頼まれたのだけれど…折角だから、\nあなたも一緒に教わる気はない？
+MID_AQUA_DANCE_HOME5: …新しい歌を考えていたわ。\n元いた国に戻っても、この世界のことを\n歌い継げたら素敵だと思ったの。
+MID_AQUA_DANCE_FRIEND: $Nfから挨拶よ。\nそれを伝えに来ただけだから…\nあまりじろじろ見ないでちょうだい。
+MID_AQUA_DANCE_LEVEL1: あなたの期待に沿えたなら\n私も嬉しいわ。
+MID_AQUA_DANCE_LEVEL2: 成長できたのなら良かったわ。
+MID_AQUA_DANCE_LEVEL3: …今回は残念だったわね。
+MID_AQUA_DANCE_SKILL: そんな貴重な力を私に？\nそう…ありがとう。
+MID_AQUA_DANCE_JOIN: 私は異界の歌姫…\n名乗るほどの者ではないの。\n来た以上は役目を果たすことにするわ。
+MID_AQUA_DANCE_STRONGEST: $Nu。\n私、ショー会場であなたの声を聴いたわ。\n私を必要とする、強く澄んだ呼び声…$k$p行かなきゃいけないって、そう思ったの。\n召喚師だなんて最初は戸惑ったけれど、\n今はあなたの役に立てることが嬉しいわ。$k$pけれど、ここに長くはいられない。\n私は暗き道を往く途中…\n戻れば本当の仲間たちが待っているから。$k$p道の先がどうなるかはわからないわ。\n無事でいられるかどうかさえ。\nもしそうなってしまったら…$k$p泡となった私をもう一度ここへ呼んで。\nあなたなら…例え私がどんな姿になっても\n違わずに形を与えてくれると信じているわ。
+MID_AQUA_DANCE_VOICE01: せやっ
+MID_AQUA_DANCE_VOICE02: いくわよ
+MID_AQUA_DANCE_VOICE03: くっ…！
+MID_AQUA_DANCE_VOICE04: 油断したわ…
+MID_AQUA_DANCE_VOICE05: 歌いましょう
+MID_AQUA_DANCE_VOICE06: レクイエムよ
+MID_AQUA_DANCE_VOICE07: メロディを頂戴
+MID_AQUA_DANCE_VOICE08: 幕を下ろすわ
+MID_AQUA_DANCE_VOICE09: 歌の…終わりね…
+MID_AQUA_DANCE_VOICE10: ええ
+MID_AQUA_DANCE_VOICE11: 精一杯歌うわ
+MID_AQUA_DANCE_VOICE12: どうか無事でいて
+MID_AQUA_DANCE_VOICE13: 黒い色は、姿を偽るときに便利だわ
+MID_AQUA_DANCE_VOICE14: 特務機関にも、歌が好きな人はいるかしら？
+MID_AQUA_DANCE_VOICE15: ここに来る前…アミュージアのショーに参加していたの
+MID_AQUA_DANCE_VOICE16: 英雄たちに歌を教わったの。異世界の旋律…美しいわね
+MID_AQUA_DANCE_VOICE17: 歌は素直に気持ちを表現できるから好きだわ。\nねえ、私の気持ちはあなたに伝わっている？
+MID_AQUA_DANCE_VOICE18: わかったわ
+MID_AQUA_DANCE_VOICE19: はじめましょう
+MID_AQUA_DANCE_VOICE20: 歌いきるわ
+MID_AQUA_DANCE_VOICE21: 私の歌で…この世界を救ってみせるわ

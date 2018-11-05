@@ -1,0 +1,38 @@
+[Heroes Archive] (SYALLA)
+
+
+Heroes Message Name: Message
+
+
+MID_SYALLA_HOME1: Ich interessiere mich sehr für deine\nFähigkeiten im Beschwören... Bei mir\nsind immer nur Monster erschienen.
+MID_SYALLA_HOME2: Ich wuchs im Geheimen Reich auf. Es\nwar schön. Dunkel, bedrückend... Der\nperfekte Ort für meine Forschung.
+MID_SYALLA_HOME3: Oh, $Nu. Sag\nes mir, wenn du müde wirst.$k$pWarum? Oh, du bist meine\nTestperson für einen Fluch. Er soll\ndich nett und fröhlich machen.
+MID_SYALLA_HOME4: Normalerweise finde ich weiß zu grell,\naber deine Aufmachung ist erstaunlich\nerträglich... Vielleicht können wir uns$k$pwieder einmal unterhalten.
+MID_SYALLA_HOME5: Ich bin an einem Ort aufgewachsen,\nan dem die Zeit anders verläuft. In\ndieser Welt wäre ich noch ein Kind.
+MID_SYALLA_FRIEND: $Nf hat mich\ndamit beauftragt, dich zu grüßen.$k$pIch betrachte eine Nachricht als eine\nArt Zauber. Sie kann zwei Herzen\nmiteinander verbinden.
+MID_SYALLA_LEVEL1: Oh, das könnte nützlich sein...
+MID_SYALLA_LEVEL2: Wie langweilig.
+MID_SYALLA_LEVEL3: Ich muss verflucht sein.
+MID_SYALLA_SKILL: Hm, gute Wahl... Du kennst\nmich so gut.
+MID_SYALLA_JOIN: Schön, dich kennenzulernen. Ich bin\nRhajat... Tochter des Wahrsagers\nHayato.$k$pIch habe nichts dagegen, jemandem\nwie dir zu helfen...
+MID_SYALLA_STRONGEST: Hihi... du sprichst erneut mit mir. Ich\nzähle mit, wie oft wir uns unterhalten\nhaben.$k$pAber die genaue Zahl ist natürlich\nmein kleines Geheimnis...$k$pEs ist eine Weile her, seit ich in diese\nWelt kam, und ich werde ehrlich sein:\nIch musste mich daran gewöhnen.$k$pDie Sonne ist zu grell und alles sieht\neinfach so... hübsch aus.$k$pAber seit du Zeit mit mir verbringst,\nscheine ich mit einem Fluch belegt zu\nsein, der Güte hervorruft.$k$pIrgendwie gefällt mir dieser Ort jetzt.\nDeswegen werde ich an deiner Seite\nkämpfen, um diese Welt zu schützen.$k$pNa ja, und weil ich über dich wachen\nmöchte...$k$pDas ist alles, was ich sagen wollte.\nJetzt werde ich wieder darauf warten,\ndass du mich besuchen kommst...$k$pAlso sei nicht schüchtern.\nWir sehen uns... Hihi...
+MID_SYALLA_VOICE01: Take that...
+MID_SYALLA_VOICE02: Like this?
+MID_SYALLA_VOICE03: ううっ…
+MID_SYALLA_VOICE04: I'll curse you...
+MID_SYALLA_VOICE05: Mal sehen, wozu dies gut ist!
+MID_SYALLA_VOICE06: Ins Jenseits mit Euch!
+MID_SYALLA_VOICE07: Ihr habt es verdient.
+MID_SYALLA_VOICE08: Ihr seid noch hier?
+MID_SYALLA_VOICE09: I won't forget this...
+MID_SYALLA_VOICE10: Uhuhu...
+MID_SYALLA_VOICE11: It must be fate that brought me here.
+MID_SYALLA_VOICE12: My father is such a child...
+MID_SYALLA_VOICE13: I was raised in a Deeprealm...but I'm also a member of the Wind Tribe.
+MID_SYALLA_VOICE14: Is there anybody here I can experiment on? Uh, I mean any FACELESS here. Right.
+MID_SYALLA_VOICE15: You...remind me of someone. Definitely.
+MID_SYALLA_VOICE16: I wish it were more comfortable around here.\nIt's too bright, and too...dry.
+MID_SYALLA_VOICE17: I have an idea for a new hex. If you want, I'll make it for you. I'm not sure why, but I want to help you.
+MID_SYALLA_VOICE18: It's Rhajat.
+MID_SYALLA_VOICE19: My turn?
+MID_SYALLA_VOICE20: All right...

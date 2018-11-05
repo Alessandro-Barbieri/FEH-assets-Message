@@ -1,0 +1,39 @@
+[Heroes Archive] (MARTH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_HOME1: Strano. Mi sento come se tu fossi una\nparte di me. Come se ci conoscessimo\nda sempre.
+MID_MARTH_HOME2: Non sono un re eroico. Sono riuscito\na porre fine alla guerra solo grazie\nai miei molti alleati.
+MID_MARTH_HOME3: Grazie per tutto quello che fai. Se\nmai ti trovassi in difficoltà, sappi\nche puoi contare su di noi.
+MID_MARTH_HOME4: Questo posto è meraviglioso... Mi\nricorda la mia terra natia.
+MID_MARTH_HOME5: Non permetterò che nemmeno uno\ndei miei amici muoia. Insieme, tu, io\ne gli altri, vinceremo la guerra.
+MID_MARTH_FRIEND: Scusa l'intrusione.\n$Nf mi ha\nchiesto di passare a salutarti.
+MID_MARTH_LEVEL1: Che questo momento ci doni\nun barlume di speranza!
+MID_MARTH_LEVEL2: Farò del mio meglio per\nmigliorare sempre.
+MID_MARTH_LEVEL3: Le mie scuse. Non mi sento\nme stesso, oggi.
+MID_MARTH_SKILL: Che questo barlume di\nsperanza mi guidi.
+MID_MARTH_JOIN: Sono Marth, principe di Altea. Mi fa\npiacere fare la tua conoscenza. Come\nte, desidero la pace più di ogni cosa.
+MID_MARTH_STRONGEST: Durante tutte le battaglie che abbiamo\ncombattutto insieme ho dovuto\nriconoscere la mia impotenza.$k$pDa solo, non sono in grado di\nraggiungere un obiettivo. Insieme,\npossiamo affrontare ogni cosa.$k$pEcco perchè averti al mio fianco\nmi dà coraggio. Più di quanto tu\npossa immaginare.$k$pContinuerò a combattere al tuo\nfianco finché me lo permetterai.$k$pE sarò per sempre grato di averti\nincontrato e della cieca fiducia che\normai ci lega.
+MID_MARTH_VOICE01: せいっ
+MID_MARTH_VOICE02: はあっ
+MID_MARTH_VOICE03: うっ
+MID_MARTH_VOICE04: うわああ！
+MID_MARTH_VOICE05: Pregherò per te.
+MID_MARTH_VOICE06: Perdonami.
+MID_MARTH_VOICE07: Devo finirti.
+MID_MARTH_VOICE08: Il destino ci ha portati qui.
+MID_MARTH_VOICE09: Farewell...
+MID_MARTH_VOICE10: Heh
+MID_MARTH_VOICE11: What's wrong? And how may I help?
+MID_MARTH_VOICE12: I admire how you lead your troops in battle.
+MID_MARTH_VOICE13: You, too, are blessed with wonderful allies.
+MID_MARTH_VOICE14: The circlet I wear? A gift from...someone dear to me.
+MID_MARTH_VOICE15: It seems every world is war torn...
+MID_MARTH_VOICE16: I don't want anyone to die. Surely you feel the same way.
+MID_MARTH_VOICE17: I enjoy this time with you. My troubles seem to melt away.
+MID_MARTH_VOICE18: Understood.
+MID_MARTH_VOICE19: Together.
+MID_MARTH_VOICE20: As you say.
+MID_MARTH_VOICE21: If you will allow me, I can be your strength.

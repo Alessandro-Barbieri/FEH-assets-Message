@@ -1,0 +1,8 @@
+[Heroes Archive] (T0018)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ミネルバ,ch01_21_Minerba_F_Normal,Face|$w0|真的不要緊嗎，瑪莉亞？\n就算只是訓練，\n我也不想讓妳遭遇危險……$k$p$WmMPID_マリア,ch01_08_Maria_F_Normal,Face|$w0|不要緊的。\n我想要變強幫助姐姐。\n所以拜託妳，讓我一起去吧。$k$p$Sbs1000|

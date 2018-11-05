@@ -1,0 +1,38 @@
+[Heroes Archive] (SOLEIL)
+
+
+Heroes Message Name: Message
+
+
+MID_SOLEIL_HOME1: もしかして今日も召喚に行くの？\n可愛い英雄たちをたくさん連れてきてね！\nあたし、心の底から応援してるから！
+MID_SOLEIL_HOME2: あたしは秘境ってとこで育ったんだよ。\nでも早く父さんたちと戦いたくて…\n外の世界で自警団をやってたんだ！
+MID_SOLEIL_HOME3: 特務機関のお仕事、忙しくない？\nあんまり無理しないようにしてね。\nあなたの笑顔が曇っちゃうと悲しいからさ！
+MID_SOLEIL_HOME4: いつもいつもお疲れさま。\nたまには一緒にお茶でも行こ！\nたくさん笑顔にして、楽しませちゃうよ！
+MID_SOLEIL_HOME5: わわーっ！　もしかして今の見てた！？\n歌と踊りの練習をしてたんだけど…\n父さんみたいにうまくいかないんだよね。
+MID_SOLEIL_FRIEND: $Nfさんから、\nあなたに挨拶だよ。こんにちわーっ！\nここにも可愛い子いっぱいいそうだね！
+MID_SOLEIL_LEVEL1: みんな見て見てー！\nまた強くなったよー！
+MID_SOLEIL_LEVEL2: かっこいい女性に一歩\n近づけたかな！
+MID_SOLEIL_LEVEL3: うわー、こればっかりは\n恥ずかしいかも！
+MID_SOLEIL_SKILL: 前より強くかっこよくなったって？\nわーい、ありがとー！
+MID_SOLEIL_JOIN: はじめまして、あたしはソレイユ！\n父さんはラズワルドっていうんだ。\n女の子たちのために、かっこよく戦うよ！
+MID_SOLEIL_STRONGEST: あ、$Nuさん！\nいつも話しかけてくれて嬉しいなあ。\n今日はこのままデートでも行っちゃう？$k$pあはは、うそうそ、冗談だよ。\nあなたは特務機関の任務で忙しいのに、\nそんなの誘っちゃダメだってわかってる。$k$p告白みたいで恥ずかしいんだけど…\nあたし、あなたが任務に励んでるのを\n見るのがすっごく好きなんだ。$k$pみんなのために頑張る姿、ホントに素敵だよ。\nそのかっこいい姿をこれからも\nあたしにたくさん見せてほしいな。$k$pでもね、気が向いたらたまには…\nあなたを独り占めさせてよね？\n素敵なお店を探して、待ってるからさ！
+MID_SOLEIL_VOICE01: えいっ！
+MID_SOLEIL_VOICE02: それっ！
+MID_SOLEIL_VOICE03: ひゃあ！
+MID_SOLEIL_VOICE04: やったね！？
+MID_SOLEIL_VOICE05: 踊らせてあげる！
+MID_SOLEIL_VOICE06: あたしを見て！
+MID_SOLEIL_VOICE07: ビビってるのー？
+MID_SOLEIL_VOICE08: かっこよくいくよ！
+MID_SOLEIL_VOICE09: かっこわるい…なあ…
+MID_SOLEIL_VOICE10: えへへ
+MID_SOLEIL_VOICE11: かわいい女の子、いないかなー
+MID_SOLEIL_VOICE12: 辛い時こそ笑うのが、あたしのやり方だよ
+MID_SOLEIL_VOICE13: 任務が終わったら一緒にお茶しに行こうよ！
+MID_SOLEIL_VOICE14: ふう、暑いから着替えようっと…え、ここじゃダメなの？
+MID_SOLEIL_VOICE15: あなた、そのフード脱がないの？　せっかく綺麗な顔してるのにー！
+MID_SOLEIL_VOICE16: 父さん、ここでもフラれてたらどうしよう…
+MID_SOLEIL_VOICE17: 戦うならあたしにどーんと任せてよ！\nあなたのこと、かーっこよく守ってみせるからさ！
+MID_SOLEIL_VOICE18: うん
+MID_SOLEIL_VOICE19: ソレイユだよ！
+MID_SOLEIL_VOICE20: デートする？

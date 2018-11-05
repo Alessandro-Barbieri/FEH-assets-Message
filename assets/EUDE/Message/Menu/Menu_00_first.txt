@@ -1,0 +1,464 @@
+[Heroes Archive] (Menu_00_first)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_HEROISM_LIST: Heldenverdienst-Liste
+MID_EXTRA_HEROISM_LIST_INFO: Heldenverdienst Verbündeter ansehen.
+MID_HOME_FRIEND_TALK_HEROISM: $aGeschenk von $a0.
+MID_ITEM_GAIN_ACCESSORY: Heiliges Siegel erhalten!
+MID_ITEM_GAIN_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_ACCESSORY_WARNING: $aDu kannst nur ein Exemplar desselben\nHeiligen Siegels besitzen. Duplikate werden\nin $a0 Heldenfedern umgewandelt.
+MID_ITEM_HELP_STAMINA_50: Gibt +99 Energie.
+MID_MAP_BATTLE_START: Kämpfen!
+MID_SHOP_STAMINA_CONFIRM_ITEM_50: 1 Energietrank einsetzen, um\n99 Energie wiederherzustellen?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM_50: Du hast nicht genug Energie.\n1 Energietrank einsetzen, um\n99 Energie wiederherzustellen?
+MID_SHOP_STAMINA_CONFIRM_ORB_50: 1 Sphäre zahlen, um 99 Energie\nwiederherzustellen?
+MID_SHOP_STAMINA_NOTENOUGH_ORB_50: Du hast nicht genug Energie.\n1 Sphäre zahlen, um 99 Energie\nwiederherzustellen?
+MID_STAGE_SELECT_DETAIL_REINFORCEMENT: Verstärkung wird eintreffen!
+MID_STAGE_SELECT_RULE_TURN_SURVIVAL: $aZüge zum Verteidigen: $a0
+MID_UNIT_EDIT_ACCESSORY_EQUIP: Siegel ausrüsten
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP1: Wähle, wer ein Siegel ausrüsten/tauschen soll.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP2: Wähle das Siegel, das ausgerüstet werden soll.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CONFIRM: Dieses Siegel ausrüsten?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_UNSET_CONFIRM: Dieses Siegel entfernen?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 hat dieses Siegel\nausgerüstet. Siegel tauschen\nund dieses ausrüsten?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 kann das getauschte\nSiegel nicht ausrüsten.\nEs wird entfernt.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_DECIDE: Tauschen
+MID_UNIT_EDIT_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Tausch abgeschlossen.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_CONFIRM: Siegeltausch abbrechen?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_WARNING: Alle Änderungen werden abgebrochen.
+MID_UNIT_EDIT_ACCESSORY_WARNING_WEAPON: Dieses Siegel kann aufgrund von Waffentyp-\nBeschränkungen nicht ausgerüstet werden.
+MID_UNIT_EDIT_ACCESSORY_WARNING_MOVE: Dieses Siegel kann aufgrund von Bewegungstyp-\nBeschränkungen nicht ausgerüstet werden.
+MID_UNIT_EDIT_ACCESSORY_EMPTY: Keine Siegel.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_00: Stärke Helden mit Heiligen Siegeln!
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_01: Heilige Siegel ausrüsten:\nDu kannst Verbündete mit\nerhaltenen Siegeln ausrüsten.\nJeder Verbündete kann ein\nSiegel ausrüsten.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_02: Beschränkung Heiliger Siegel:\nDu kannst nur ein Exemplar\ndesselben Siegels besitzen.\nDuplikate werden in\nHeldenfedern umgewandelt.
+MID_RELOCATION_TUTORIAL_DIALOG_00: Neupositionierung via Platztausch.
+MID_RELOCATION_BUTTON: Tausch
+MID_UNIT_EDIT_ACCESSORY_STATUS_EQUIP: Ausger.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_DECIDE: Abbrechen
+MID_UNIT_NAME_WITH_HONOR: $a$a1: $a0
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM_NO_COST: Ausgerüstete Fähigkeiten ändern?
+MID_UNIT_EDIT_SKILL_WARNING_RARITY: $aDiese Fähigkeit können Einheiten ab $a0★ erlernen.
+MID_VOTE_ROUND1: Runde 1
+MID_VOTE_ROUND2: Runde 2
+MID_VOTE_ROUND3: Letzte Rd.
+MID_VOTE_TITLE: Wahlturnier
+MID_VOTE_REWARD_TITLE: Prämien
+MID_VOTE_RANKING_TITLE: Aktueller Stand
+MID_VOTE_BUTTON_RANKING_RX: $aRang ($a0)
+MID_VOTE_INVESTMENT_TITLE: Angriffskraft
+MID_VOTE_CLOSED: Turniere sind geschlossen.
+MID_VOTE_AGGREGATING: Berechnung... Bitte versuche es später erneut.
+MID_VOTE_SALLY_MINS: $aNächstes Turnier in $a0 Min.
+MID_VOTE_SALLY_BUTTON: Turnierstart
+MID_VOTE_ROUND1_MINS: $aRunde 1 endet in $a0 Min.
+MID_VOTE_ROUND1_HOURS: $aRunde 1 endet in $a0 Std.
+MID_VOTE_ROUND2_MINS: $aRunde 2 endet in $a0 Min.
+MID_VOTE_ROUND2_HOURS: $aRunde 2 endet in $a0 Std.
+MID_VOTE_ROUND3_MINS: $aLetzte Runde endet in $a0 Min.
+MID_VOTE_ROUND3_HOURS: $aLetzte Runde endet in $a0 Std.
+MID_VOTE_FINALRESULT: Endergebnisse des Turniers!
+MID_VOTE_BUTTON_TO2R: Zu Runde 2
+MID_VOTE_BUTTON_TO3R: Zur letzten Runde
+MID_VOTE_BUTTON_TOFR: Endergebnisse
+MID_VOTE_GUILDWIN_REWARD: Armee-Siegesprämie
+MID_VOTE_RANK_IN_GUILD: Armeerang
+MID_VOTE_TOTAL_SELF_SCORE: Gesamtergebnis
+MID_VOTE_TOTAL_RANK: Gesamtrang
+MID_VOTE_REWARDTYPE_ROUNDWINNER: $aWahlturnier - $a0\nArmeesieg
+MID_VOTE_REWARDTYPE_ROUNDRANK: $aWahlturnier - $a0\nArmeerang: Rang $a1
+MID_VOTE_REWARDTYPE_TOTALRANK: $aWahlturnier\nGesamtrang: Rang $a1
+MID_VOTE_RUSHDEMO_RATIO: $ax$a0!
+MID_VOTE_ARMY_NAME: $a$a0
+MID_VOTE_PLAYER: Du
+MID_VOTE_OPPONENT: Rivale
+MID_VOTE_PLAYER_SCORE: Deine Pkt.
+MID_VOTE_SCORE: Punkte
+MID_VOTE_JOIN: Kämpfen
+MID_VOTE_JOIN_CONFIRM: Willst du für diesen Helden kämpfen?
+MID_VOTE_JOIN_EPITHET_AND_NAME: :_
+MID_VOTE_RANK: Rang
+MID_VOTE_VIEW_RANK_RANGE: Option wählen
+MID_VOTE_VIEW_RANK_PLAYER: Eigen. Rang
+MID_VOTE_VIEW_RANK_TOP: Beste Spieler
+MID_VOTE_RANKING_TOP_UNCALCULATED: Platzierungen werden berechnet.
+MID_VOTE_RANKING_AME_UNCALCULATED: Du bist nicht platziert.
+MID_VOTE_REWARD_SORT_ROUND: Aktuelle Runde
+MID_VOTE_REWARD_SORT_TOURNAMENT: Gesamt
+MID_VOTE_ROUND1_END: Runde 1 ist beendet.
+MID_VOTE_ROUND2_END: Runde 2 ist beendet.
+MID_VOTE_ROUND3_END: Die letzte Runde ist beendet.
+MID_VOTE_ROUND1_RESULT: Runde 1 - Endergebnis
+MID_VOTE_ROUND2_RESULT: Runde 2 - Endergebnis
+MID_VOTE_ROUND3_RESULT: Letzte R. - Endergebnis
+MID_VOTE_SITUATION: Aktuelle Situation
+MID_VOTE_ATTACK_MAX: Max. Angriff
+MID_VOTE_ATTACK_1X: x1
+MID_VOTE_ATTACK_NX: $ax$a0
+MID_VOTE_SUPERIOR: Stärker
+MID_VOTE_INFERIOR: Schwächer
+MID_VOTE_EQUAL: Ebenbürtig
+MID_VOTE_WIN: Sieg
+MID_VOTE_LOSE: Niederlage
+MID_VOTE_TOURNAMENT_BOTTOM_CAPTION: Welchen Charakter unterstützt du?
+MID_VOTE_TOURNAMENT_TOP_CAPTION: Erhalte Prämien für Siege deiner Armee,\nhohe Platzierungen und mehr!
+MID_VOTE_DIALOG_WIN_TEXT: Deine unterstützte Armee hat gesiegt.
+MID_VOTE_DIALOG_WIN_WARNING: Du kämpfst mit dieser Armee weiter.
+MID_VOTE_DIALOG_LOSE_TEXT: Deine unterstützte Armee hat verloren.
+MID_VOTE_DIALOG_LOSE_WARNING: Wähle eine neue Armee.
+MID_VOTE_DIALOG_GO_TEXT: Einen Kampf beginnen?
+MID_VOTE_DIALOG_GO_WARNING: $aNach dem Kampf $a0 Min. bis zum nächsten.
+MID_VOTE_DIALOG_GO_YES: Turnierstart
+MID_VOTE_DIALOG_GO_NO: Zurück
+MID_VOTE_DIALOG_INVESTMENT_TEXT: Bereit zum Angriff?
+MID_VOTE_DIALOG_INVESTMENT_TEXT_X: $aMit x$a1 angreifen?
+MID_VOTE_DIALOG_INVESTMENT_WARNING: $aEs werden $a0 Kampfflaggen verwendet.
+MID_VOTE_DIALOG_INVESTMENT_YES: Angreifen!
+MID_VOTE_DIALOG_LAST10MINS_TEXT: $a$a0 endet bald.
+MID_VOTE_DIALOG_LAST10MINS_WARNING: Ergebnisse nach Rundenende zählen nicht.
+MID_VOTE_DIALOG_ROUND_END_TEXT: $a$a0 ist vorbei. Du kannst\nnicht mehr weitermachen.
+MID_VOTE_DIALOG_ROUND_END_WARNING: Du kehrst nun zur Weltkarte zurück.
+MID_VOTE_DIALOG_JOIN_ERROR_TEXT: Du konntest der Armee nicht beitreten.
+MID_VOTE_DIALOG_JOIN_ERROR_WRNING: Bitte versuche es später erneut.
+MID_VOTE_DIALOG_HELP_00: Sporne deinen Helden zum Sieg an!
+MID_VOTE_DIALOG_HELP_01: Wahlturnier:\nWähle zunächst einen von acht\nHelden, den du unterstützen\nmöchtest. Du trittst der Armee\ndieses Helden bei, um gegen\neine andere Heldenarmee in\neiner "Team vs. Team"-\nFormation anzutreten.
+MID_VOTE_DIALOG_HELP_02: Siegbedingungen:\nDie Armee, die die meisten\nPunkte erworben hat, wenn\ndie Zeit abgelaufen ist, wird\nzum Sieger erklärt.
+MID_VOTE_DIALOG_HELP_03: Kämpfe:\nNach dem Kampf musst du eine\nbestimmte Zeit warten, bevor du\nerneut die Armee deines Helden\nim Kampf unterstützen kannst.
+MID_VOTE_DIALOG_HELP_04: Kampfformation:\nDies sind 3-gegen-3-Kämpfe. So\nsetzt sich dein Team zusammen:\n・ Dein Anführer\n・ Ein Freund, sofern du\nwelche registriert hast\n・ Ein Spieler, der nicht\nals Freund registriert ist
+MID_VOTE_DIALOG_HELP_05: Auswahl Angriffskraft:\nNachdem du einen Kampf\ngewonnen hast, kannst du\ndeine Punktzahl mithilfe von\nKampfflaggen vervielfachen.\nJe mehr du einsetzt, desto mehr\nPunkte kannst du zur Armee\ndeines Helden beisteuern.
+MID_VOTE_DIALOG_HELP_REWARD_00: Prämien ansehen:\nDu kannst dir die aktuellen\nPrämien ansehen. Wechsle\nmithilfe des Filters zwischen\nder aktuellen Runde und den\nGesamtergebnissen.
+MID_VOTE_DIALOG_HELP_REWARD_01: Rang:\nDies ist dein momentaner Rang.\nZu jeder vollen Stunde wird die\nRangliste neu berechnet.\nBitte beachte, dass es einige\nZeit dauern kann, bis die\naktualisierten Platzierungen\nsichtbar werden.
+MID_UNIT_EDIT_SKILL_INHERIT_DESTINATION: Erben
+MID_UNIT_EDIT_SKILL_INHERIT_SOURCE: Geber
+MID_UNIT_EDIT_SKILL_INHERIT_HELP1: Wähle, wer eine Fähigkeit abgibt und wer sie erbt.
+MID_UNIT_EDIT_SKILL_TALENT_CONFIRM: Diese Auswahl erben?
+MID_UNIT_EDIT_SKILL_INHERIT_WARNING: Der Charakter, der die Fähigkeit\nabgibt, wird danach entschwinden.
+MID_UNIT_EDIT_SKILL_INHERIT_DECIDE: Erben
+MID_UNIT_EDIT_SKILL_TALENT: Fähigkeit erben
+MID_UNIT_EDIT_SKILL_TALENT_HELP2: Wähle bis zu 3 Fähigkeiten, die vererbt werden.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00: Fähigkeiten erben:\nEin Verbündeter kann von\neinem anderen bis zu drei\nFähigkeiten gleichzeitig\nerben. Du verlierst jedoch\nden Geber-Verbündeten.\nVererbte Fähigkeiten werden\nzu den Fähigkeiten des\nEmpfängers hinzugefügt\nund können wie alle Fähig-\nkeiten gelernt werden, es\nwerden jedoch 1,5-mal\nso viele FP benötigt.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_01: Achtung! Verbündete, die\nals Favoriten markiert wurden,\nkönnen Fähigkeiten nicht an\nandere vererben. Um einen\nFavoriten zu verwenden,\nberühre und halte das\nSymbol des Verbündeten\nund entferne den Favoriten-\nStatus aus seinem Profil.
+MID_UNIT_EDIT_SKILL_STATUS_TALENT: Im Besitz
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT1: $aBenötigte Fähigkeit:\n$a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT2: $aEine dieser Fähigkeiten wird benötigt:\n$a0 oder $a1.
+MID_ARENA_SORT_GRADE: Rangbewertung
+MID_ARENA_SORT_REWARDTYPE_GRADE: Punkte: Arena-Rang
+MID_ARENA_GAINED_REWARDTYPE_GRADE: $aArena-Prämienrang: $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_CHANGE: $aArena-Prämienrang: $a1 → $a0
+MID_ARENA_DIALOG_HELP_04_1103: Prämien:\nAm Ende einer Saison erhältst\ndu Prämien basierend auf\nHighscore und Rang.\nIst dein Highscore hoch genug,\nkannst du einen höheren\nRang in der Arena erreichen.
+MID_ARENA_DIALOG_HELP_05_1103: Charakterbonus:\nDu kannst die Punktzahl für deine\noffensiven und defensiven Teams\nin jeder Saison verdoppeln, indem\ndu bestimmte Charaktere einsetzt.
+MID_ARENA_DIALOG_HELP_3_00_1103: Die Prämien:\nDu kannst dir die Prämien der\naktuellen Saison ansehen.\nÄndere den Filter, um die\nPrämien für Offensive,\nDefensive und den Rang\naufzurufen.
+MID_ARENA_DIALOG_HELP_3_02_1103: Rangprämien:\nDiese Liste zeigt die Belohnungen\nfür deinen aktuellen Rang und\nnahe Ränge. Die Platzierungen\nwerden zu jeder vollen Stunde\nneu berechnet. Achtung:\nEs kann einige Zeit dauern,\nbis die neu berechneten\nErgebnisse zu sehen sind.
+MID_VOTE_INFERIOR_BOOST_RATE: $aPunkte ×$a1 für $a0 Min.
+MID_SEQUENTIAL_MAP_TERM_201707: Echo der Fangzähne
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT_BIND: $aTeams: $a0, Kämpfe: $a1
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_00: Kämpfe mit Verbündeten weiter!
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_01: Gruppenüberfall:\nNach Abschluss einer Karte\ngelangst du direkt zur nächsten.\n\nAm Kampf teilnehmende Helden\nwerden nach einer Karte\ngefangen genommen und\nkönnen nicht mehr eingreifen.
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_02: Vier Helden pro Karte:\nJede Karte erfordert vier Helden.\nDu musst genug Helden haben,\num alle Karten abzuschließen.\n\nFür fünf Kämpfe werden zum\nBeispiel 20 Helden benötigt.\n(Duplikate zählen nicht.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_03: Die Regeln:\n・ Ein Held kann nicht mit seinem\nDuplikat im selben Team sein.\n\n・ An einem Kampf teilnehmende\nHelden können an späteren\nKarten nicht mehr teilnehmen.\n(auch deren Duplikate nicht.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_04: Helden befreien:\nSobald du eine Kartenserie\nabschließt oder scheiterst,\nsind alle Helden wieder frei.\n\nDas heißt, dass alle Helden\nwieder kämpfen können.
+MID_STAGE_OPEN_FIRST_TRIAL: Serienprüfung wurde freigeschaltet.
+MID_STAGE_OPEN_NEW_TRIAL: Weitere Kämpfe wurden zur\nSerienprüfung hinzugefügt.
+MID_STAGE_OPEN_FIRST_BIND: Gruppenüberfall wurde freigeschaltet.
+MID_STAGE_OPEN_NEW_BIND: Weitere Kämpfe wurden zum\nGruppenüberfall hinzugefügt.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT: Ein Held kann nicht mehrfach\nin einem Team sein.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL: Du hast nicht genug Verbündete.\nIn jedem Team müssen vier\nVerbündete sein (keine Duplikate).
+MID_STAGE_SELECT_TRIAL: Serienprüfung
+MID_STAGE_SELECT_TRIAL_INFO: Spiele mehrere Karten hintereinander.
+MID_STAGE_SELECT_BIND: Gruppenüberfall
+MID_STAGE_SELECT_BIND_INFO: Eine verheerende Herausforderung.
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO_SHORT: Spiele durch die Hauptstory.
+MID_STAGE_SELECT_SCENARIO_SUB_INFO_SHORT: Entdecke weitere Hauptkarten.
+MID_SUMMON_INFORMATION: Mehr Infos
+MID_SUMMON_SEASON_DAYS: $aÜbrige Tage: $a0
+MID_SUMMON_SEASON_HOURS: $aÜbrige Stunden: $a0
+MID_SUMMON_SEASON_MINUTES: $aÜbrige Minuten: $a0
+MID_EXTENDED_SORT: Erweitert
+MID_UNIT_EDIT_SORT_GOTO_EXTENDED: Erweiterte Optionen
+MID_UNIT_EDIT_SORT_GOTO_SIMPLE: Einfache Sortierung
+MID_UNIT_EDIT_EXTENDED_SORT_INFO: Bitte wähle Optionen für die\nSortierung und Prioritäten.
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITIONS: $a$a0:
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_ASCENDING: ↑
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_DESCENDING: ↓
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITION_NONE: —
+MID_UNIT_EDIT_EXTENDED_SORT_CLEAR: Zurücksetzen
+MID_VOTE_OVERALL_SITUATION: Aktuelle Details
+MID_CHAIN_ARENA_TITLE: Arenaüberfall
+MID_CHAIN_ARENA_HEADLINE: $aDu musst unterschiedliche Helden einsetzen.\nErreiche eine Serie von $a0 Siegen!
+MID_CHAIN_ARENA_ITEMHELP: Wähle bis zu drei Items. Nicht ver-\nwendete bleiben erhalten. Manchmal\nerscheinen neue Items in der Arena.
+MID_CHAIN_ARENA_SPECIALITEM: Spezialitems
+MID_CHAIN_ARENA_WINCOUNT: $aSiege in Folge: $a0/$a1
+MID_CHAIN_ARENA_CURRENT_SCORE: Aktuelle Punkte
+MID_CHAIN_ARENA_1WIN: $a$a0 Sieg!
+MID_CHAIN_ARENA_2WINS: $a$a0 Siege in Folge!
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Fortfahren?
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: Hierfür wird kein Duellschwert benötigt.\n\nDu kannst täglich nur für den ersten\nKampf Erf., FP und HV verdienen.
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING_TWICE: Hierfür wird kein Duellschwert benötigt.\n\nHinweis: Ab dem zweiten Kampf eines Tages\nerhältst du keine Erf., FP und HV mehr.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_TEXT: Willst du aufgeben? Du kannst\nden Kampf nicht fortsetzen.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_WARNING: Wenn du aufgibst, richten sich\ndeine Punkte danach, wie viele\nKarten du diesmal bewältigt hast.
+MID_CHAIN_ARENA_DIALOG_BACK_TEXT: Zum vorherigen Bildschirm?
+MID_CHAIN_ARENA_DIALOG_BACK_NO: Nein
+MID_ARENA_DESCRIPTION: Miss dich mit Rivalen aus aller Welt\nund verdiene Prämien. Versuche,\nsieben Siege in Folge zu erzielen!
+MID_CHAIN_ARENA_DESCRIPTION: $aDieser besondere Arenakampf für fort-\ngeschrittene Spieler erfordert mehrere\nTeams. Dein Ziel: $a0 Siege in Folge!
+MID_CHAIN_ARENA_GAINED_REWARDTYPE_RANK: $aArenaüberfall: Platzierungsprämie - Nr.\n$a0
+MID_CHARACTER_PICTORIAL_BOOK_TITLE: Heldenkatalog
+MID_CHARACTER_PICTORIAL_BOOK_TOTAL: Helden
+MID_CHARACTER_PICTORIAL_BOOK_TALK: Zitate
+MID_CHARACTER_PICTORIAL_BOOK_SUMMON_TALK: Rufen
+MID_CHARACTER_PICTORIAL_BOOK_STRONGEST_TALK: 5★ Lv. 40
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_00: Heldenprofile:\nTippe auf einen Helden für\nInformationen. Helden, gegen\ndie du gekämpft hast, werden\nals Silhouetten angezeigt.\nDeine Verbündeten haben\nvollständige Profile.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_01: Zitate:\nHier kannst du sehen, was\nder Held bei der ersten\nBeschwörung und beim\nErreichen der maximalen\nSterne sagt. Verbündete\nmit maximalen Sternen sind\nin der Liste heller umrandet.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_02: Illustrationen:\nTippe auf die Lupe, um das\nBild des Charakters in voller\nGröße zu sehen.\n\nMiniatur-Einheit:\nTippe auf die Miniatur-Einheit,\num eine Animation zu sehen.
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_BUTTON: Als gesehen markieren
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DIALOG: Dadurch wird das "!" von neuen\nVerbündeten entfernt. Fortfahren?
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DECIDE: "!" entfernen
+MID_PRESENT_LIST_TIME_LIMIT: Angenommene Geschenke\nder letzten 14 Tage.
+MID_YEAR_MONTH_DAY: $a$a2.$a1.$a0
+MID_COUNT_UP_LOGIN_BONUS_PERIOD: $a$a0 bis $a1
+MID_ITEM_HOLY_COIN: Heilige Münze
+MID_ITEM_HELP_HOLY_COIN: Eine wertvolle Münze für\nZeremonien vergangener Zeiten.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_DECIDE: Verwenden
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_WARNING: Das Item hätte jetzt keine Wirkung\nund kann nicht verwendet werden.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_HELP: Bitte wähle das Item, das\ndu verwenden möchtest.
+MID_SEQUENTIAL_MAP_TERM_201708: Endlich vereint
+MID_SEQUENTIAL_MAP_BOOST: $aBonus: $a1-fache Punkte! Heute noch $a0-mal.
+MID_CHAIN_ARENA_HELP_DIALOG_00: Erreiche Siege mit deinen Teams!
+MID_CHAIN_ARENA_HELP_DIALOG_01: Arenaüberfall:\nEine Kampfarena für Fortge-\nschrittene. Das Ziel ist, mit\nmehreren Teams viele Karten\nabzuschließen. Verwende\nSpezialitems zur richtigen\nZeit und besiege anspruchs-\nvolle Gegner!
+MID_CHAIN_ARENA_HELP_DIALOG_02: Duellschwerter:\nFür diesen Modus brauchst\ndu keine Duellschwerter, also\nversuche es immer wieder!\nGegnerstärke:\nDie Stärke deiner Gegner für\njede Runde richtet sich nach\nder Stärke deines Startteams.
+MID_CHAIN_ARENA_HELP_DIALOG_03: Spezialitems verdienen:\nBesiege Teams mit Gegnern\nauf Level 35 oder höher, um\nItems zu verdienen:\n\n3 Siege in Folge: 1 Item\n5 Siege in Folge: 2 Items\n7 Siege in Folge: 3 Items
+MID_CHAIN_ARENA_HELP_DIALOG_04: Items mitnehmen:\nWenn du dich an einer\nSerie von Schlachten beim\nArenaüberfall versuchst,\nkannst du Items mit in den\nKampf nehmen.\n\nNutze sie zu deinem Vorteil!
+MID_CHAIN_ARENA_HELP_DIALOG_05: Die Regeln:\n・ Ein Held und sein Duplikat\nkönnen nicht im selben Team sein.\n\n・ Helden können nur an einem\nKampf einer Serie teilnehmen.\n(Auch Duplikate können später\nnicht mehr eingesetzt werden.)
+MID_CHAIN_ARENA_HELP_DIALOG_06: Helden freilassen:\nBewältigst du eine Serie von\nKarten oder scheiterst du\nbeim Arenaüberfall, werden\nalle Helden freigelassen.\n\nDas bedeutet, dass alle Helden\nwieder eingesetzt werden können.
+MID_CHAIN_ARENA_HELP_DIALOG_07: Punkte:\nDeine Punkte richten sich nach\nder Stärke der Gegner, die du\nbesiegt hast.\n\nWährend einer Siegesserie\nerhältst du einen Serienbonus.
+MID_CHAIN_ARENA_HELP_DIALOG_08: Rekord:\nDies ist die höchste Punktzahl,\ndie du erreicht hast. Sie wird\nfür jede Saison zurückgesetzt.\n\nPrämien:\nNach jeder Saison kannst du\nPrämien entsprechend deiner\nPlatzierung erhalten.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_05_1106: Höhere Werte für Bonushelden:\nWenn Bonushelden bei der\nSturmprüfung eingesetzt\nwerden, erhalten sie KP +10\nund Agr./Ges./Ver./Res. +4.
+MID_CHAIN_ARENA_DIALOG_HELP_3_00: Die Prämien:\nDu kannst dir die Prämien\nder aktuellen Saison ansehen.
+MID_CHAIN_ARENA_DIALOG_HELP_3_01: Prämien erhalten:\nHole in der vorigen Saison ver-\ndiente Arenaüberfall-Prämien\nab, indem du den Arenaüberfall\nnach Berechnung der Ergeb-\nnisse jener Saison, aber vor Ende\nder aktuellen Saison betrittst.
+MID_SUMMON_PULL_ONLY_ONCE: Sitzung endet, wenn du einen Helden\nwählst. Lyn ist am beliebtesten!
+MID_SUMMON_HERO_CONFIRM: Diesen Helden beschwören?
+MID_SUMMON_GRANT_CONFIRM: Beschwören?
+MID_SUMMON_GRANT_WARNING: Wähle einen Helden zum Beschwören.\n(Du kannst jetzt nur einen wählen.)
+MID_SUMMON_ONE_TIME_FREE_WARNING: Du kannst einmal kostenlos beschwören.\nDanach musst du Sphären verwenden.
+MID_SUMMON_LIMITED_BEGINNER_DAYS: $aNeulingshilfe: noch $a0 Tage!
+MID_SUMMON_LIMITED_BEGINNER_HOURS: $aNeulingshilfe: noch $a0 Stunden!
+MID_SUMMON_LIMITED_BEGINNER_MINUTES: $aNeulingshilfe: noch $a0 Minuten!
+MID_SUMMON_PAY_FREE: Beschwören
+MID_UNIT_EDIT_SKILL_WARNING_SAME: Einige Fähigkeiten können nicht mit\n"Fähigkeit erben" geerbt werden.\n\nWenn du "Verbündete verbinden"\nauf doppelte Helden anwendest,\nkannst du alle Fähigkeiten erben.\n\nMöchtest du wirklich fortfahren?
+MID_SEQUENTIAL_MAP_LOAD_TROOP_INFO: Team zum Rufen wählen. Ersatzteams\nsind für Kämpfe auf mehreren Karten.
+MID_SEQUENTIAL_MAP_LOAD_TROOP_BUTTON: Dieses Team rufen
+MID_SEQUENTIAL_MAP_LOAD_TROOP_EDIT: Ändern
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_NORMAL: Hauptteams
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_RESERVE: Ersatzteams
+MID_SEQUENTIAL_MAP_LOAD_TROOP_ORGANIZE_RESERVE: Ersatzteam ändern
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE: Ersatzteam ändern
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_DECIDE: Zur Teamliste
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM: Team verwenden?
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_DECIDE: Dieses Team rufen
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_CANCEL: Zurück
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_00: Erstelle Ersatzteams!
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01: Ersatzteams sind eine spezielle\nArt von Teams. Sie können nur\nbeim Spielen von Modi mit\nKämpfen auf mehreren Karten\nerstellt oder bearbeitet werden.
+MID_UNIT_EDIT_TROOP_LIST_INFO: Zu bearbeitendes Team wählen.
+MID_UNIT_EDIT_RESERVE_TROOP_LIST_INFO: Zu bearbeitendes Ersatzteam wählen.
+MID_UNIT_EDIT_TROOP_LIST_SELECT: Dieses Team wählen
+MID_SEQUENTIAL_MAP_TERM_201709: In der Schlacht sterben
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH: Fähigkeitensuche
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_CURRENT: Suche nach:
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_HELP: Wähle die zu suchende Fähigkeit.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_WARNING_RARITY: Zum Erben ★-Bewertung des Verb. erhöhen.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_RESET: Auswahl löschen
+MID_UNIT_EDIT_RELIANCE_RANK_1: C
+MID_UNIT_EDIT_RELIANCE_RANK_2: B
+MID_UNIT_EDIT_RELIANCE_RANK_3: A
+MID_UNIT_EDIT_RELIANCE_RANK_4: S
+MID_UNIT_EDIT_RELIANCE_RANK_PAIR: Hilferang
+MID_UNIT_EDIT_RELIANCE_RANK_PLAYER: Bindungsrang
+MID_UNIT_EDIT_RELIANCE_PARTNER: Partner
+MID_UNIT_EDIT_RELIANCE: Verbündetenhilfe
+MID_UNIT_EDIT_RELIANCE_PLAYER: Beschwörerhilfe
+MID_UNIT_EDIT_RELIANCE_SORT: Nach welchem Kriterium sortieren?
+MID_UNIT_EDIT_RELIANCE_SORT_CHARACTER: Herkunft
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_ASCENDING: Hilfe (niedrig)
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_DESCENDING: Hilfe (hoch)
+MID_UNIT_EDIT_RELIANCE_CONFIRM: $aPartner erhalten erhöhte Werte für\nden Kampf. Möchtest du, dass\n$a0 und $a1\nsich helfen?
+MID_UNIT_EDIT_RELIANCE_WARNING: Verbündete können nur einen Partner\nzur Zeit haben. Beim Wechsel des\nPartners wird der Hilferang zum\naktuellen Partner zurückgesetzt.
+MID_UNIT_EDIT_RELIANCE_DECIDE: Hilfe festlegen
+MID_UNIT_EDIT_RELIANCE_HELP1: Wähle einen Verbündeten als Partner aus.
+MID_UNIT_EDIT_RELIANCE_HELP2: Beim Wechsel des Partners wird der Hilferang zurückgesetzt.
+MID_UNIT_EDIT_RELIANCE_CHARACTER_NAME_EMPTY: ------
+MID_UNIT_EDIT_PERSON_TOTAL: Verb.
+MID_UNIT_EDIT_RELIANCE_PLAYER_CONFIRM: $aWenn ein Verbündeter Hilfe\nbekommt, werden seine Werte\nerhöht. Möchtest du\n$a0 helfen?
+MID_UNIT_EDIT_RELIANCE_PLAYER_WARNING: Du kannst nur einem Verbündeten\nzur Zeit helfen. Wenn du die Auswahl\nänderst, wird der Hilferang zum\nVerbündeten zurückgesetzt.
+MID_UNIT_EDIT_RELIANCE_PLAYER_DECIDE: Verbündetem helfen
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP: Du kannst nur einem Verbündeten zur Zeit helfen.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C: Die Verbündeten respektieren sich.\nIhre Werte werden im Kampf erhöht.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C_WITH_USER: Ihr respektiert euch.\nDer Verbündete hat erhöhte Werte.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B: Die Verbündeten teilen Trainingstechniken.\nIhre Werte werden im Kampf stärker erhöht.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B_WITH_USER: Ihr teilt Trainingstechniken.\nDer Verbündete hat stärker erhöhte Werte.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1: Die Verbündeten unterhalten sich viel.\nIhre Werte werden im Kampf stärker erhöht.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1_WITH_USER: Ihr unterhaltet euch viel.\nDer Verbündete hat stärker erhöhte Werte.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2: Die Verbündeten vertrauen sich alles an.\nIhre Werte werden im Kampf stärker erhöht.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2_WITH_USER: Ihr vertraut euch alles an.\nDer Verbündete hat noch höhere Werte.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S: Die Verbündeten sind unzertrennlich.\nIhre Werte werden im Kampf stärker erhöht.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_WITH_USER: Ihr seid unzertrennlich.\nDer Verbündete hat stärker erhöhte Werte.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_00: Knüpfe neue Bande!
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_01: Verbündetenhilfe:\nVerbündete bilden Bindungen,\nindem sie Partnerschaften\nmiteinander eingehen.\n\nWenn Partner nah beisammen\nkämpfen, erhalten sie einen\nVorteil auf dem Schlachtfeld.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_02: Bindungen bilden:\nBilde Bindungen, indem du zwei\nVerbündete auswählst, die\nPartner werden sollen.\n\nIhr Hilferang beginnt mit C.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_03: Erhöhen von Hilferängen:\nDie Bindung von Partnern wird\nstärker, wenn sie nicht mehr als\n2 Felder entfernt sind und Gegner\nder Stufe 35+ bekämpfen.\n\nIhr Hilferang erhöht sich, wenn\ndie Bindung stark genug wird.\nDie möglichen Ränge sind C,\nB, A und S.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_04: Hilfeeffekte 1:\nPartner mit Rang C oder höher\nerhalten erhöhte Werte, wenn sie\ndirekt nebeneinander kämpfen.\n\nC: Res. +2\nB: Ver./Res. +2\nA: Ges./Ver./Res. +2\nS: Agr./Ges./Ver./Res. +2
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_05: Hilfeeffekte 2:\nDie Werte der Partner erhöhen\nsich auch, wenn sie ein Feld\nvoneinander entfernt sind,\naber mit schwächerem Effekt.\n\nC: Res. +1\nB: Ver./Res. +1\nA: Ges./Ver./Res. +1\nS: Agr./Ges./Ver./Res. +1
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_06: Hilfebeschränkungen:\nEin Verbündeter kann nur einen\nPartner zur Zeit haben. Beim\nWechsel des Partners wird der\nHilferang zum aktuellen Partner\nzurückgesetzt.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_00: Gehe eine Bindung ein!
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_01: Beschwörerhilfe:\nAls Beschwörer kannst du eine\nBindung mit einem Verbündeten\neingehen.\n\nDer gewählte Verbündete erhält\nerhöhte Werte.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_02: Eine Bindung eingehen:\nWähle einen Verbündeten, mit\ndem du eine Bindung eingehen\nmöchtest.\n\nDer Hilferang beginnt mit C.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_03: Erhöhen des Hilferangs:\nWenn der gewählte Verbündete\nGegner der Stufe 35 oder höher\nbekämpft, wird eure Bindung\nstärker.\n\nDer Hilferang erhöht sich, wenn\ndie Bindung stark genug wird.\nDie möglichen Ränge sind C,\nB, A und S.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_04: Effekte der Beschwörerhilfe:\nWenn der Hilferang C oder höher\nist, erhöhen sich die Werte des\nVerbündeten dauerhaft.\n\nC: KP +3, Res. +2\nB: KP +4, Ver./Res. +2\nA: KP +4, Ges./Ver./Res. +2\nS: KP +5, Agr./Ges./Ver./Res. +2
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_05: Grenzen der Beschwörerhilfe:\nDu kannst nur einem Verbündeten\nzur Zeit helfen. Du kannst einen\nneuen Verbündeten auswählen,\naber dabei geht der Hilferang zum\naktuellen Verbündeten verloren.
+MID_UNIT_EDIT_RELIANCE_SORT_ATTRIBUTE: Typ
+MID_UNIT_EDIT_RELIANCE_SORT_WEAPON: Waffenart
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_1: Rang C ansehen
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_2: Rang B ansehen
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_3: Rang A ansehen
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_4: Rang S ansehen
+MID_UNIT_EDIT_RELIANCE_SUMMONER_NAME: Du
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_TEXT: Der Kampf konnte nicht starten.
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_WARNING: Dein Team hat nicht genug Mitglieder.
+MID_PRESENT_LIST_CONFIRM_ALL_RECEIVE: Alles Folgende auf einmal annehmen?
+MID_MISSION_CONFIRM_ALL_RECEIVE: Alle folgenden Belohnungen annehmen?
+MID_ITEM_HELP_PROMOTION_RED1_1108: Setzt Potential der Verbündeten frei. Erhöht\n★ für roten Verbündeten mit 3 ★ o. weniger.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_RED2_1108: Setzt Potential der Verbündeten frei. Erhöht\neinen roten Verbündeten mit 4 ★ auf 5 ★.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_BLUE1_1108: Setzt Potential der Verbündeten frei. Erhöht\n★ für blauen Verbündeten mit 3 ★ o. weniger.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_BLUE2_1108: Setzt Potential der Verbündeten frei. Erhöht\neinen blauen Verbündeten mit 4 ★ auf 5 ★.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_GREEN1_1108: Setzt Potential der Verbündeten frei. Erhöht\n★ für grünen Verbündeten mit 3 ★ o. weniger.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_GREEN2_1108: Setzt Potential der Verbündeten frei. Erhöht\neinen grünen Verbündeten mit 4 ★ auf 5 ★.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_NEUTRAL1_1108: Setzt Potential der Verbündeten frei. Erhöht\n★ für farbl. Verbündeten mit 3 ★ o. weniger.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_PROMOTION_NEUTRAL2_1108: Setzt Potential der Verbündeten frei. Erhöht\neinen farbl. Verbündeten mit 4 ★ auf 5 ★.\nWird in der Hl.-Siegel-Schmiede verwendet.
+MID_ITEM_HELP_HOLY_COIN_1108: Eine wertvolle Münze für Zeremonien\nvergangener Zeiten für die\nHl.-Siegel-Schmiede.
+MID_MISSION_JUMP_UNAVAILABLE: Du hast derzeit keinen Zugriff\nauf die benötigte Karte.
+MID_MISSION_JUMP_CONFIRM: Bist du bereit für diese Quest?
+MID_MISSION_JUMP_DECIDE: Los!
+MID_STAGE_OPEN_SKILL_ACCESSORY_PROMOTION: Erstellen und Verbessern von Heiligen\nSiegeln wurde freigeschaltet.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_1: KP +3, Res. +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_2: KP +4, Ver./Res +2.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_3: KP +4, Ges./Ver./Res. +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_4: KP +5, Agr./Ges./Ver./Res. +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_1: Unterstützungspartner auf benachbarten\nFeldern erhalten Res. +2 im Kampf.\nWenn 1 Feld zwischen ihnen ist, erhalten\nsie Res. +1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_2: Unterstützungspartner auf benachbarten\nFeldern erhalten Ver./Res. +2 im Kampf.\nWenn 1 Feld zwischen ihnen ist, erhalten\nsie Ver./Res. +1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_3: Unterstützungspartner auf benachbarten\nFeldern erhalten Ges./Ver./Res. +2 im\nKampf. Wenn 1 Feld zwischen ihnen ist,\nerhalten sie Ges./Ver./Res. +1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_4: Unterstützungspartner auf benachbarten\nFeldern erhalten Agr./Ges./Ver./Res. +2\nim Kampf. Wenn 1 Feld zwischen ihnen\nist, erhalten sie Agr./Ges./Ver./Res. +1.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_AND_PROMOTION: Hl.-Siegel-Schmiede
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION: Erstellen
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION: Verbessern
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_HELP: Wähle ein Heiliges Siegel zum Erstellen.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_NO_TARGET: Es können keine Hl. Siegel erstellt werden.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_CONFIRM: Dieses Heilige Siegel erstellen?
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE: Erstellen
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE_SUCCESS: Das Heilige Siegel wurde erstellt.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_HELP: Wähle ein Heiliges Siegel zum Verbessern.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_NO_TARGET: Es können keine Hl. Siegel verbessert werden.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_CONFIRM: Dieses Heilige Siegel verbessern?
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE: Verbessern
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_ARROW: →
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE_SUCCESS: Das Heilige Siegel wurde verbessert.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_00: Verbessere deine Heiligen Siegel!
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_01: Heilige Siegel erstellen:\nDu kannst Heilige Siegel erstellen,\ndie du derzeit nicht hast.\n\nOrden, Große Orden und Heilige\nMünzen werden zum Erstellen\nvon Heiligen Siegeln benutzt.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_02: Heilige Siegel verbessern:\nDu kannst die verborgene Kraft\nHeiliger Siegel entfesseln, indem\ndu sie Rang für Rang verbesserst.\n\nOrden, Große Orden und Heilige\nMünzen werden zum Verbessern\nvon Heiligen Siegeln benutzt.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_TEXT: Du kannst nicht kämpfen.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_WARNING: Bitte bestimme einen Anführer.
+MID_SEQUENTIAL_MAP_TERM_201709_2: Schicksalswende
+MID_SEQUENTIAL_MAP_TERM_201710: Ahnen des Lichts
+MID_SEQUENTIAL_MAP_TERM_201711: Wenig heldenhaft
+MID_ARENA_RANK_CALCULATING: Berechnung...
+MID_ARENA_DIALOG_HELP_2_02_701: Defensivteam:\nUnter "Teams erstellen" kannst\ndu ein Team für Verteidigungs-\nschlachten festlegen.
+MID_SPRINKLES_GIFT_RECEIVED: Ein Google Play-Geschenkkartenbonus\nwurde an deine Geschenkliste\ngesendet!
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED: Es sind keine neuen Google Play-\nGeschenkkartenboni für dich\nverfügbar. *Sieh bitte in deiner\nGeschenkliste nach, ob du deinen\nBonus bereits erhalten hast.
+MID_SPRINKLES_INVENTORY_MESSAGE: Google Play-Geschenkkartenbonus
+MID_LOAD_OUT_OF_TERM_CONFIRM: Du kannst den Kampf nicht fortsetzen,\nda der Zeitraum dafür beendet ist. Die\nLesezeichendaten werden gelöscht.
+MID_MISSION_ALL_RECEIVE_COMPLETED: Alle Prämien durch bewältigte\nQuests wurden abgeholt.
+MID_MISSION_APPEAR_STRATUM_LIST: Neue Schwierigkeitsstufen wurden\nfür folgende Quests hinzugefügt.
+MID_SEQUENTIAL_MAP: Sturmprüfung
+MID_SEQUENTIAL_MAP_CLOSED: Kämpfe sind geschlossen.
+MID_SEQUENTIAL_MAP_AGGREGATING: Ergebnis wird berechnet.
+MID_SEQUENTIAL_MAP_REMAINING_DAYS: $aÜbrige Tage: $a0
+MID_SEQUENTIAL_MAP_REMAINING_HOURS: $aÜbrige Stunden: $a0
+MID_SEQUENTIAL_MAP_REMAINING_MINUTES: $aÜbrige Minuten: $a0
+MID_SEQUENTIAL_MAP_ENTER_STAGE_SELECT: Stufe wählen
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT: $aTeams: $a0, Kämpfe: $a1
+MID_SEQUENTIAL_MAP_STAGE_SELECT_WARNING: Setze 1 Bonushelden für mehr Punkte ein.
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_WIN: Prämie für Sieg
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_LOSE: Prämie bei Niederlage
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_TITLE: $aStufe $a0
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_NUM: $a(von $a1)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_TROOP_NUM: $aTeam $a0 (von $a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_STAGE_NUM: $aStufe $a0 (von $a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_TROOP_NUM: $aTeam $a0 (von $a2)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_RULE_TITLE: Sieg
+MID_SEQUENTIAL_MAP_REWARD: Prämien ansehen
+MID_SEQUENTIAL_MAP_REWARD_RANK: Platzierung
+MID_SEQUENTIAL_MAP_OUT_OF_RANGE: - keine -
+MID_SEQUENTIAL_MAP_RANK_AGGREGATING: Berechnung...
+MID_SEQUENTIAL_MAP_REWARD_POINT: Gesamtpunkte
+MID_SEQUENTIAL_MAP_REWARD_POINT_SHORT: Punkte
+MID_SEQUENTIAL_MAP_REWARD_SORT: $aBewertung: $a0
+MID_SEQUENTIAL_MAP_REWARD_SORT_POINT: Punkte
+MID_SEQUENTIAL_MAP_REWARD_SORT_RANK: Platzierung
+MID_SEQUENTIAL_MAP_REWARD_SORT_DIALOG: Bewertung
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER: Derzeitige Bonushelden
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_1: Setze einen ein, um deine Punkte zu erhöhen!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_2: (Nur ein Verbündetenbonus zählt.)
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO: $a+$a0%
+MID_SEQUENTIAL_MAP_REORGANIZE: Team erstellen
+MID_SEQUENTIAL_MAP_REORGANIZE_TROOP_INFO: $aTeam $a0 (von $a1)
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER: Aufgeben
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CONFIRM: Willst du aufgeben? Du kannst\nden Kampf nicht fortsetzen.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_WARNING: Wenn du aufgibst, richten sich\ndeine Punkte danach, wie viele\nKarten du diesmal bewältigt hast.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_DECIDE: Aufgeben
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CANCEL: Zurück
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START: Kämpfen!
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CONFIRM: Willst du mit dem erstellten\nTeam den Kampf beginnen?
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_DECIDE: Kämpfen!
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CANCEL: Zurück
+MID_SEQUENTIAL_MAP_REORGANIZE_VIEW_MAP: Karte ansehen
+MID_SEQUENTIAL_MAP_REORGANIZE_BONUS_CHARACTER: Bonushelden ansehen
+MID_SEQUENTIAL_MAP_RESULT: Aktuelles Ergebnis
+MID_SEQUENTIAL_MAP_RESULT_BASIC_POINT: Grundpunkte
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP: Bewältigte Karten
+MID_SEQUENTIAL_MAP_RESULT_ALIVE_EVALUATION: Überleben
+MID_SEQUENTIAL_MAP_RESULT_SPEED_EVALUATION: Tempo
+MID_SEQUENTIAL_MAP_RESULT_BONUS_CHARACTER: Bonusheld
+MID_SEQUENTIAL_MAP_RESULT_ADDED_POINT: Punkte
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_A: A
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_B: B
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_C: C
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_D: D
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_E: E
+MID_SEQUENTIAL_MAP_RESULT_RATE: $a× $a0
+MID_SEQUENTIAL_MAP_RESULT_RATE_NONE: —
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP_NUM: $a$a0/$a1
+MID_SEQUENTIAL_MAP_RESULT_DETAIL: $a($a0)
+MID_SEQUENTIAL_MAP_DIALOG_END_OF_TERM: Das Ergebnis wird nicht\ngezählt, weil der Kampf\nüber das Saisonende ging.
+MID_SEQUENTIAL_MAP_TERM_EXPIRED: Aktuelle Saison ist beendet.
+MID_SEQUENTIAL_MAP_TERM_201706: Sturmwolken über Awakening
+MID_SEQUENTIAL_MAP_HELP_DIALOG_00: Führ deine Teams zum Sieg!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_01: Sturmprüfung:\nIn diesem Modus kämpfen\nsich deine Verbündeten durch\nmehrere Karten, die direkt\naufeinanderfolgen. Sie erhalten\nzwischen Kämpfen keine KP.\n\nDein Ziel: Alle Karten bewältigen!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_02: Teams wechseln:\nSind alle deine Verbündeten\nbesiegt, kannst du ein neues\nTeam wählen und es erneut\nversuchen.\n\nVerliert ihr jedoch zu viele\nKämpfe, ist das Spiel vorbei!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_03: Punkte:\nDeine Punkte richten sich\ndanach, wie gut deine\nVerbündeten sich auf den\nKarten schlagen.\nPrämien erhältst du je nach\ndeiner Gesamtpunktzahl\nwährend des Events.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_04: Bonushelden:\nMit einem Bonushelden im\nTeam kannst du deine\nPunktzahl erhöhen.\n\nWenn du mehr als einen\nBonushelden einsetzt, zählt\nnur der höchste Bonus.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_00: Prämien ansehen:\nHier kannst du dir die\naktuellen Prämien ansehen.\n\nMit den Bewertungsoptionen\nsiehst du Prämien je nach\nPunkten oder Platzierung.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_01: Punkteprämien:\nSieh dir die Prämien für\ndiesen Event je nach\nGesamtpunktzahl an.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_02: Platzierungsprämien:\nSieh dir die Prämien je\nnach Platzierung an. Die\nbesten 500.000 Punktzahlen\nplatzieren sich.\n\nDie Berechnung kann etwas\nZeit in Anspruch nehmen.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_03: Prämien erhalten:\nErreiche das Punkteziel für\neine Punkteprämie. Du\nkannst Platzierungsprämien\nerhalten, wenn du die\nSturmprüfung nach der\nBerechnung und vor dem\nSaisonende beginnst.
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK: $aSturmprüfung - Platzierungsprämie: $a0
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK_OUT_OF_RANGE: Sturmprüfung - Platzierungsprämie: Keine
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_POINT: $aSturmprüfung - Punkteprämie: $a0
+MID_STAGE_TITLE_DIFFICULTY3: Höllisch
+MID_UNIT_EDIT_TROOP_INDEX: $aTeam $a0
+MID_UNIT_EDIT_TROOP_NAME_EDIT: Team benennen
+MID_UNIT_EDIT_TROOP_NAME_PLACE_HOLDER: Teamname eingeben
+MID_UNIT_EDIT_TROOP_NAME_ASK: Bitte gib einen Namen für das Team ein.
+MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: Verwende bitte höchstens 12 Zeichen.\nSymbole sind nicht zugelassen.
+MID_UNIT_EDIT_TROOP_SET_DEFENSE: Def. Team festlegen
+MID_UNIT_EDIT_TROOP_NAME_EMPTY: ----------
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_04_701: Team benennen:\nMit dieser Option kannst du\ndeine Teams benennen.\n\nDef. Team festlegen:\nLege fest, welches Team in\nder Arena verteidigt. Dieses\nerhält ein Schildsymbol.

@@ -1,0 +1,38 @@
+[Heroes Archive] (SHEEDA)
+
+
+Heroes Message Name: Message
+
+
+MID_SHEEDA_HOME1: あっ、こんにちは。\nマルス様を見かけなかった？
+MID_SHEEDA_HOME2: いちおう王女ではあるけど、\nタリスは小さな島国だから…\nそんな大層なものじゃないわ。
+MID_SHEEDA_HOME3: いつも忙しくて大変そう…\nわたしがお手伝いできることがあったら\nなんでも言ってね？
+MID_SHEEDA_HOME4: 今は敵側にいる人たちとも、\nいつかきっと仲良くなれるわ。\nそうなったらとても幸せだと思わない？
+MID_SHEEDA_HOME5: ふふっ、お料理はけっこう得意なの。\nあったかいシチュー、\n良かったら一口いかが？
+MID_SHEEDA_FRIEND: $Nfから\nあなたに挨拶を頼まれたの。\nあなたは大切な友達だから、って。
+MID_SHEEDA_LEVEL1: わたしだって…\nこれくらい強くなれるんだから！
+MID_SHEEDA_LEVEL2: これで、もっと\nお役に立てるかしら？
+MID_SHEEDA_LEVEL3: ごめんなさい。\n今日は調子が良くないみたい…
+MID_SHEEDA_SKILL: この新しい力…\nきっと役立ててみせるわ。
+MID_SHEEDA_JOIN: わたしはタリスの王女シーダ。\nあっ、こう見えても\n天馬騎士でもあるのよ。
+MID_SHEEDA_STRONGEST: あなたって本当に強いのね。\nわたしは非力で…いつも\n誰かに守ってもらってばかりだから…$k$pあなたのような強さが欲しい、\n羨ましいって思ってたの…\nでも…$k$pあなたの本当の強さは、心の強さ。\n仲間のことを信じられる\n想いの強さなのね。$k$pもっと傍で、あなたのその強さを\n見習いたいと思っているの。\n…いいかしら？$k$pふふっ、ありがとう。\nじゃあ近くで色々と教えて、ね？
+MID_SHEEDA_VOICE01: はいっ！
+MID_SHEEDA_VOICE02: えいっ！
+MID_SHEEDA_VOICE03: きゃああっ！
+MID_SHEEDA_VOICE04: 負けたりなんか…
+MID_SHEEDA_VOICE05: 武器を捨てて！
+MID_SHEEDA_VOICE06: お願いどいて！
+MID_SHEEDA_VOICE07: わたしだって
+MID_SHEEDA_VOICE08: 傷つけたくないの！
+MID_SHEEDA_VOICE09: だめ…なの…？
+MID_SHEEDA_VOICE10: ふふっ
+MID_SHEEDA_VOICE11: どうしたの？　何か御用？
+MID_SHEEDA_VOICE12: きゃっ…もう、からかわないで。
+MID_SHEEDA_VOICE13: とっても優しい人ね、あなたは
+MID_SHEEDA_VOICE14: あなたは愛を信じますか？
+MID_SHEEDA_VOICE15: お話できてうれしいわ
+MID_SHEEDA_VOICE16: 私、お転婆なのかしら…？
+MID_SHEEDA_VOICE17: これからも、傍にいて。
+MID_SHEEDA_VOICE18: わかったわ
+MID_SHEEDA_VOICE19: どうしようかしら？
+MID_SHEEDA_VOICE20: 行きましょう

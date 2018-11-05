@@ -1,0 +1,38 @@
+[Heroes Archive] (JHOSUA)
+
+
+Heroes Message Name: Message
+
+
+MID_JHOSUA_HOME1: Ich habe eine schwierige Aufgabe vor\nmir. Man könnte sagen, dass ich mit\nden Glücksspielen meine Bereitschaft$k$pdafür auf die Probe gestellt habe.
+MID_JHOSUA_HOME2: Als Wanderbursche bin ich viel\nherumgekommen. Damals habe ich\nals Söldner gearbeitet.$k$pAußerdem habe ich viel Geld bei\nGlücksspielen in Kneipen verdient!
+MID_JHOSUA_HOME3: Dieser Ort unterscheidet sich stark\nvon meinem Land, aber es ist ganz\nnett hier.$k$pEr könnte aber ein Glücksspielhaus\ngebrauchen...
+MID_JHOSUA_HOME4: Du möchtest also mit mir wetten?\nHa, keine Sorge. Du bist unerfahren,\nalso werde ich Nachsicht haben.
+MID_JHOSUA_HOME5: Ich denke, man kann Glücksspiele\nauf zwei Arten betrachten. Ja, man\nkönnte all sein Geld verlieren...$k$pAber man könnte es auch als\nLehrgeld ansehen! Verlieren ist doch\neine wertvolle Lektion, oder?
+MID_JHOSUA_FRIEND: $Nf bat mich,\ndir dies zu geben, und bestand\ndarauf, dass ich es nicht verzocke.
+MID_JHOSUA_LEVEL1: Hm. Das nennt man wohl\n"Anfängerglück".
+MID_JHOSUA_LEVEL2: Mit meinem Glück ist es noch\nnicht vorbei.
+MID_JHOSUA_LEVEL3: Nicht mein Glückstag...
+MID_JHOSUA_SKILL: Ich nutze diese Stärke für meine\nMutter, für Jehanna... und alle.
+MID_JHOSUA_JOIN: Ich bin Joshua, ein Söldner. Hat ein\nMünzwurf mich hierher gebracht? Tja,\njedenfalls diene ich jetzt wohl dir.
+MID_JHOSUA_STRONGEST: Ich habe mein Heim früh verlassen,\num zu reisen. Ich bin lange nur\nherumgewandert.$k$pIm Nachhinein war es vielleicht nicht\ndie klügste Entscheidung... aber\nsie hat mich zu dir geführt.$k$pIch werde irgendwann heimkehren.\nDann besteige ich den Thron und\nwidme mich ganz meinem Reich.$k$pOh, habe ich es schon erwähnt? Ich\nbin der Kronprinz von Jehanna. Und\nwenn ich zurückgehe, möchte ich,$k$pdass du mich begleitest. Du kannst\nnoch eine Weile darüber nachdenken.\nOder wirf eine Münze.
+MID_JHOSUA_VOICE01: はっ！
+MID_JHOSUA_VOICE02: 悪いな
+MID_JHOSUA_VOICE03: うああっ！
+MID_JHOSUA_VOICE04: ついてねえ…
+MID_JHOSUA_VOICE05: Bitte tragt mir das nicht nach.
+MID_JHOSUA_VOICE06: Tut mir leid.
+MID_JHOSUA_VOICE07: Kleine Wette gefällig?
+MID_JHOSUA_VOICE08: Beweist Euren Wert!
+MID_JHOSUA_VOICE09: All outta luck...
+MID_JHOSUA_VOICE10: Heh.
+MID_JHOSUA_VOICE11: Care to test your luck? Heads, I win—tails, you lose.
+MID_JHOSUA_VOICE12: Hm? Guess you caught me cheating, huh?
+MID_JHOSUA_VOICE13: How about a small wager on the toss of a coin? I choose tails.
+MID_JHOSUA_VOICE14: Hm, it's heads. Today must be your lucky day.
+MID_JHOSUA_VOICE15: Oops, that's tails. Looks like I win this one.
+MID_JHOSUA_VOICE16: Mother, forgive me. One day, I will return to our country, just as I promised. I swear it...
+MID_JHOSUA_VOICE17: I could use your help. If I win our next bet, lend me your aid.
+MID_JHOSUA_VOICE18: Lucky me.
+MID_JHOSUA_VOICE19: Heads or tails?
+MID_JHOSUA_VOICE20: Decided?

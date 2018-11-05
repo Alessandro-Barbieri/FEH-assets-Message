@@ -1,0 +1,239 @@
+[Heroes Archive] (Data_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り: Tocado marino
+MDAID_H_貝殻の髪飾り: Un accesorio para el cabello, hecho con\nuna preciosa caracola y estrellas de mar.
+MDAID_水中ゴーグル: Gafas de buceo
+MDAID_H_水中ゴーグル: Úsalas para ver con nitidez bajo\nel agua. Gracias al tubo\nincorporado, podrás observar\nla fauna marina tranquilamente.
+MDAID_アスクの髪飾り: Tocado de Askr
+MDAID_H_アスクの髪飾り: Un accesorio para el cabello,\nadornado con el emblema\ndel reino de Askr.
+MDAID_謎の男のマスク: Máscara extraña
+MDAID_H_謎の男のマスク: Esta máscara se parece mucho\na la que usaba cierto hombre\nmisterioso... ¡Quizás era suya!
+MDAID_フェーの人形: Peluche de Feh
+MDAID_H_フェーの人形: Un peluche idéntico a Feh, la lechuza\nmensajera de la Orden de Héroes.\nEs tan suave como la real.
+MDAID_春うさぎの帽子: Gorro de conejito
+MDAID_H_春うさぎの帽子: Un gorro que en su día llevó\nun héroe, para protegerse del sol\nprimaveral. La cara del conejo\ntiene personalidad.
+MDAID_謎の剣士の仮面: Máscara oscura
+MDAID_H_謎の剣士の仮面: Una máscara que en su día llevó\nun espadachín, haciéndose pasar\npor Marth, el rey heroico.
+MID_MISSION_S201806ARENA01_TITLE: Coliseo
+MID_MISSION_S201806ARENA01_A1: Gladiador
+MID_MISSION_H_S201806ARENA01_A1: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A2: Gladiador
+MID_MISSION_H_S201806ARENA01_A2: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A3: Gladiador
+MID_MISSION_H_S201806ARENA01_A3: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A4: Gladiador
+MID_MISSION_H_S201806ARENA01_A4: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A5: Gladiador
+MID_MISSION_H_S201806ARENA01_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A6: Gladiador
+MID_MISSION_H_S201806ARENA01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A7: Gladiador
+MID_MISSION_H_S201806ARENA01_A7: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A8: Gladiador
+MID_MISSION_H_S201806ARENA01_A8: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806ARENA01_A9: Gladiador
+MID_MISSION_H_S201806ARENA01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806HERO01_TITLE: Batallas míticas
+MID_MISSION_S201806HERO01_A1: Derrotar a Oliver
+MID_MISSION_H_S201806HERO01_A1: Gana la batalla mítica contra\nOliver, Adalid de lo bello,\ncon Anna en tu batallón.
+MID_MISSION_S201806HERO01_A2: Derrotar a Oliver
+MID_MISSION_H_S201806HERO01_A2: Gana la batalla mítica contra Oliver, Adalid\nde lo bello, en modo extremo o superior con\nOliver, Adalid de lo bello, en tu batallón.
+MID_MISSION_S201806HERO01_A3: Derrotar a Oliver
+MID_MISSION_H_S201806HERO01_A3: Con Anna, derrota a Oliver, Adalid de lo bello,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201806HERO01_A4: Derrotar a Oliver
+MID_MISSION_H_S201806HERO01_A4: Con Oliver, Adalid de lo bello,\nderrota a Oliver, Adalid de lo bello,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201806HERO01_A5: Derrotar a Oliver
+MID_MISSION_H_S201806HERO01_A5: Gana la batalla mítica contra Oliver, Adalid\nde lo bello, en modo extremo o superior,\ncon un batallón de unidades de caballería.
+MID_MISSION_S201806SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201806SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201806SENKA01_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201806SENKA01_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201806SENKA01_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201806SENKA01_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806ACCE01_TITLE: ¡Accesorios! ¡Bien!
+MID_MISSION_S201806ACCE01_A1: Vencer enemigos
+MID_MISSION_H_S201806ACCE01_A1: Vence a un enemigo.
+MID_MISSION_S201806ACCE01_A2: Logro con lanza
+MID_MISSION_H_S201806ACCE01_A2: Vence a enemigos de nivel 10\no superior con unidades con lanza.
+MID_MISSION_S201806ACCE01_A3: Triunfo ecuestre
+MID_MISSION_H_S201806ACCE01_A3: Vence a enemigos de nivel 30\no superior con unidades de caballería.
+MID_MISSION_S201806STORY01_TITLE: La muerte del rey
+MID_MISSION_S201806STORY01_A1: Cap. 10 - Parte 1: Extremo
+MID_MISSION_H_S201806STORY01_A1: En el libro II, supera la 1.ª parte del capítulo 10 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY01_A2: Cap. 10 - Parte 2: Extremo
+MID_MISSION_H_S201806STORY01_A2: En el libro II, supera la 2.ª parte del capítulo 10\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY01_A3: Cap. 10 - Parte 3: Extremo
+MID_MISSION_H_S201806STORY01_A3: En el libro II, supera la 3.ª parte del capítulo 10\nen modo extremo con un lancero en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY01_A4: Cap. 10 - Parte 4: Extremo
+MID_MISSION_H_S201806STORY01_A4: En el libro II, supera la 4.ª parte del capítulo 10 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY01_A5: Cap. 10 - Parte 5: Extremo
+MID_MISSION_H_S201806STORY01_A5: En el libro II, supera la 5.ª parte del capítulo 10\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201806TAPBTL01_D01_TITLE: B. de toques (diaria)
+MID_MISSION_S201806TAPBTL01_D01_A1: Derrotar a Fjorm
+MID_MISSION_H_S201806TAPBTL01_D01_A1: Derrota a la jefa Fjorm en los pisos 16-20\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D01_A2: Superar pisos 21-25
+MID_MISSION_H_S201806TAPBTL01_D01_A2: Supera los pisos 21-25 en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D01_A3: Superar nivel
+MID_MISSION_H_S201806TAPBTL01_D01_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D02_TITLE: B. de toques (diaria)
+MID_MISSION_S201806TAPBTL01_D02_A1: Derrotar a Fjorm
+MID_MISSION_H_S201806TAPBTL01_D02_A1: Derrota a la jefa Fjorm en los pisos 16-20\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D02_A2: Superar pisos 41-45
+MID_MISSION_H_S201806TAPBTL01_D02_A2: Supera los pisos 41-45 en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D02_A3: Superar nivel
+MID_MISSION_H_S201806TAPBTL01_D02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D03_TITLE: B. de toques (diaria)
+MID_MISSION_S201806TAPBTL01_D03_A1: Derrotar a Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D03_A1: Derrota a la jefa Gunnthrá en los pisos 36-40\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D03_A2: Superar pisos 61-65
+MID_MISSION_H_S201806TAPBTL01_D03_A2: Supera los pisos 61-65 en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D03_A3: Superar nivel
+MID_MISSION_H_S201806TAPBTL01_D03_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D04_TITLE: B. de toques (diaria)
+MID_MISSION_S201806TAPBTL01_D04_A1: Derrotar a Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D04_A1: Derrota a la jefa Gunnthrá en los pisos 36-40\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D04_A2: Superar pisos 81-85
+MID_MISSION_H_S201806TAPBTL01_D04_A2: Supera los pisos 81-85 en Batalla de toques.
+MID_MISSION_S201806TAPBTL01_D04_A3: Superar nivel
+MID_MISSION_H_S201806TAPBTL01_D04_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201806TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201806TAPBTL02_A1: Derrotar jefe
+MID_MISSION_H_S201806TAPBTL02_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201806TAPBTL02_A2: Derrotar jefe
+MID_MISSION_H_S201806TAPBTL02_A2: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201806TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201806TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201806TAPBTL02_A4: Superar nivel extra 1
+MID_MISSION_H_S201806TAPBTL02_A4: Supera el nivel extra 1 en Batalla de toques.\n(El nivel extra 1 estará disponible cuando\ndesbloquees los niveles extras).
+MID_MISSION_S201806TAPBTL02_A5: Superar pisos 6-10
+MID_MISSION_H_S201806TAPBTL02_A5: Supera los pisos 6-10 en Batalla de toques.
+MID_MISSION_S201806TAPBTL02_A6: Superar pisos 81-85
+MID_MISSION_H_S201806TAPBTL02_A6: Supera los pisos 81-85 en Batalla de toques.
+MPID_スルト名前: Surtr
+MPID_カナス: Canas
+MPID_カアラ: Karla
+MPID_ラガルト: Legault
+MPID_ライナス: Linus
+MPID_ニノ2: Nino
+MPID_HONOR_カナス: El Ilustrado
+MPID_HONOR_カアラ: Espadachina leal
+MPID_HONOR_ラガルト: El Huracán
+MPID_HONOR_ライナス: Perro Loco
+MPID_HONOR_ニノ2: Flor pálida
+MPID_H_カナス: El cuarto hijo de Niime, la eremita montañesa,\nse dedica en cuerpo y alma a la investigación\ny la lectura.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_カアラ: Una espadachina que viaja en busca de su\nhermano. Sus impresionantes habilidades y su\nbelleza sin parangón atraen todas las miradas.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_ラガルト: Antiguo Colmillo Negro al que llamaban\n"el limpiador". Fue uno de sus fundadores,\npero se marchó tras descarriarse el grupo.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_ライナス: El Perro Loco es hermano de Lloyd y miembro\ndel Colmillo Negro. Se encarga de condenar a\nquienes considera merecedores de su castigo.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_ニノ2: Esta joven perteneció al grupo de asesinos\nconocido como el Colmillo Negro, pero ahora\nayuda a sus aliados a lomos de un pegaso.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_VOICE_カナス: Joe Zieja
+MPID_VOICE_カアラ: Allegra Clark
+MPID_VOICE_ラガルト: Christopher Bevins
+MPID_VOICE_ライナス: Joe Brogie
+MPID_VOICE_ニノ2: Sarah Blandy
+MPID_ILLUST_カナス: Tobi
+MPID_ILLUST_カアラ: Kita Senri (北千里)
+MPID_ILLUST_ラガルト: PenekoR (п猫Ｒ)
+MPID_ILLUST_ライナス: Meka (めか)
+MPID_ILLUST_ニノ2: Amagaitaro (アマガイタロー)
+MSID_霧のブレス: Soplo brumoso
+MSID_第11迷宮の覇者1: As del asalto K 1
+MSID_第11迷宮の覇者2: As del asalto K 2
+MSID_第11迷宮の覇者3: As del asalto K 3
+MSID_剣姫の刀: Espada leal
+MSID_粛清の暗器: Limpiador
+MSID_粛清の暗器＋: Limpiador +
+MSID_ギガスカリバー: Gigaexcalibur
+MSID_曲技飛行1: Acrobacia 1
+MSID_曲技飛行2: Acrobacia 2
+MSID_曲技飛行3: Acrobacia 3
+MSID_速さの波・偶数1: Ola Vel. par 1
+MSID_速さの波・偶数2: Ola Vel. par 2
+MSID_速さの波・偶数3: Ola Vel. par 3
+MSID_H_霧のブレス: Eficaz contra dragones. La unidad recupera\n10 PV cada dos turnos. Contra enemigos\ncon alcance de 2, el daño se calcula a partir\nde la Def. o la Res. del enemigo (la que tenga\nel valor más bajo).
+MSID_H_オーラ改: Al inicio del turno, otorga Atq. +6\na los aliados adyacentes que usen\ngrimorio o bastón hasta el final del turno.
+MSID_H_エクスカリバー改: Eficaz contra unidades aéreas. Facilita\nla ejecución de habilidades especiales\n(-1 a la cuenta regresiva).
+MSID_H_攻撃守備の絆R剣竜: Si la unidad se encuentra en un radio de dos\ncasillas de un aliado que use espada o piedra\ndragón, obtiene Atq. y Def. +5 en combate.
+MSID_H_攻撃速さの絆R魔杖: Si la unidad se encuentra en un radio de\ndos casillas de un aliado que use grimorio\no bastón, obtiene Atq. y Vel. +5 en combate.
+MSID_H_第11迷宮の覇者1: Otorga PV +3.
+MSID_H_第11迷宮の覇者2: Otorga PV +4.
+MSID_H_第11迷宮の覇者3: Otorga PV +5.
+MSID_H_剣姫の刀: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Si supera la Vel. del\nenemigo en 1 punto o más, convierte un 70 %\nde la diferencia de atributos en daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
+MSID_H_粛清の暗器: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef. y Res. -5 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
+MSID_H_粛清の暗器＋: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef. y Res. -7 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
+MSID_H_ギガスカリバー: Otorga Vel. +3. Si supera la Vel. del enemigo\nen 1 punto o más, convierte un 70 % de la\ndiferencia de atributos en daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
+MSID_H_曲技飛行1: Si la unidad tiene PV = 100 %, podrá\nmoverse a una casilla adyacente a un\naliado de infantería, acorazado, o de\ncaballería en un radio de dos casillas.
+MSID_H_曲技飛行2: Si la unidad tiene PV ≥ 50 %, podrá\nmoverse a una casilla adyacente a un\naliado de infantería, acorazado, o de\ncaballería en un radio de dos casillas.
+MSID_H_曲技飛行3: La unidad podrá moverse a una casilla\nadyacente a un aliado de infantería, acorazado,\no de caballería en un radio de dos casillas.
+MSID_H_速さの波・偶数1: Al inicio de los turnos pares, otorga\nVel. +2 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_速さの波・偶数2: Al inicio de los turnos pares, otorga\nVel. +4 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_速さの波・偶数3: Al inicio de los turnos pares, otorga\nVel. +6 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MID_CHAPTER_TITLE_C0210: Libro II - Cap. 10
+MID_CHAPTER_C0210: La muerte del rey
+MID_STAGE_TITLE_S2101: Cap. 10 - Parte 1
+MID_STAGE_TITLE_S2102: Cap. 10 - Parte 2
+MID_STAGE_TITLE_S2103: Cap. 10 - Parte 3
+MID_STAGE_TITLE_S2104: Cap. 10 - Parte 4
+MID_STAGE_TITLE_S2105: Cap. 10 - Parte 5
+MID_STAGE_S2101: Al castillo
+MID_STAGE_S2102: Ilustrado fuera de lugar
+MID_STAGE_S2103: Familia de Colmillos
+MID_STAGE_S2104: Espadachina leal
+MID_STAGE_S2105: La muerte del rey
+MID_STAGE_HONOR_T0033: Perro Loco
+MID_STAGE_T0033: Linus
+MID_STAGE_TITLE_SB_0011: Asalto 11
+MID_CHAPTER_ST_C0205: Capítulos 9 y 10
+MID_STAGE_TITLE_ST_S0209: Capítulo 9
+MID_STAGE_TITLE_ST_S0210: Capítulo 10
+MID_STAGE_TITLE_ST_S1210: Capítulos 9 y 10
+MID_STAGE_HONOR_V0251: Cuatro héroes
+MID_STAGE_V0251: Roy
+MID_STAGE_HONOR_V0252: Cuatro héroes
+MID_STAGE_V0252: Tailtiu
+MID_STAGE_HONOR_V0253: Cuatro héroes
+MID_STAGE_V0253: Barst
+MID_STAGE_HONOR_V0254: Cuatro héroes
+MID_STAGE_V0254: Kaze
+MID_STAGE_HONOR_Q0014: Semanalmente
+MID_STAGE_Q0014: Dominios rivales
+MID_STAGE_HONOR_Q0015: Semanalmente
+MID_STAGE_Q0015: Dominios rivales
+MID_STAGE_HONOR_Q0016: Semanalmente
+MID_STAGE_Q0016: Dominios rivales
+MID_STAGE_HONOR_Q0017: Semanalmente
+MID_STAGE_Q0017: Dominios rivales
+MID_STAGE_HONOR_Q0018: Semanalmente
+MID_STAGE_Q0018: Dominios rivales
+MID_STAGE_TITLE_BG_WIND_0008: Viento 8
+MID_STAGE_BG_WIND_0008: Puente
+MID_STAGE_TITLE_BG_EARTH_0008: Tierra 8
+MID_STAGE_BG_EARTH_0008: Puente
+MID_STAGE_TITLE_BG_FIRE_0008: Fuego 8
+MID_STAGE_BG_FIRE_0008: Puente
+MID_STAGE_TITLE_BG_WATER_0009: Agua 9
+MID_STAGE_BG_WATER_0009: Fuente
+MID_STAGE_TITLE_BG_WIND_0009: Viento 9
+MID_STAGE_BG_WIND_0009: Fuente
+MID_STAGE_TITLE_BG_EARTH_0009: Tierra 9
+MID_STAGE_BG_EARTH_0009: Fuente
+MID_STAGE_TITLE_BG_FIRE_0009: Fuego 9
+MID_STAGE_BG_FIRE_0009: Fuente
+MID_STAGE_TITLE_BG_WATER_0010: Agua 10
+MID_STAGE_BG_WATER_0010: Terraza
+MID_STAGE_TITLE_BG_WIND_0010: Viento 10
+MID_STAGE_BG_WIND_0010: Terraza
+MID_STAGE_TITLE_BG_EARTH_0010: Tierra 10
+MID_STAGE_BG_EARTH_0010: Terraza
+MID_STAGE_TITLE_BG_FIRE_0010: Fuego 10
+MID_STAGE_BG_FIRE_0010: Terraza
+MID_TAP_BATTLE_DATA_TITLE_0005: Héroes legendarios
+MID_MUSIC_NAME_BGM_MAP_BRAVE_04: Regreso a Nifl
+MID_MUSIC_NAME_BGM_MAP_FE09_02: Los mercenarios de Greil
+MID_MUSIC_NAME_BGM_MAP_FE14_01: Alba lejana (Vendaval)

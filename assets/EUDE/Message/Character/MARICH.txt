@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICH_HOME1: Darf ich Euch etwas zu Eurer\nBeschwörungsmagie fragen?\nIhr verbindet die Sphären des$k$pHimmels, oder? Ähnelt das wohl\nder Windmagie, die ich selbst nutze?
+MID_MARICH_HOME2: Studiert habe ich in Khadein, der\nStadt der Magie. Eine bemerkens-\nwerte Stadt!$k$pDer Wüstensand erstreckt sich um\nsie herum, so weit das Auge reicht.
+MID_MARICH_HOME3: Danke für das, was Ihr tut. Eure\nFührung spornt uns zu Leistung an\nund gewährleistet unsere Sicherheit.
+MID_MARICH_HOME4: Ich kenne Prinz Marth und seine\nSchwester, Prinzessin Elice, schon\nseit vielen Jahren.$k$pSie sind wirklich gute Menschen.
+MID_MARICH_HOME5: Ich war immer schwächlich. Aber ich\nwollte die Menschen schützen, die\nmir wichtig sind.$k$pDas ist der Grund, warum ich das\nStudium der Magie begonnen habe.
+MID_MARICH_FRIEND: Ihr seid $Nu,\nja? Ich bin Merric. Ich soll Euch von\n$Nf grüßen.
+MID_MARICH_LEVEL1: Das Buch des Excalibur\nhat mich wohl geleitet!
+MID_MARICH_LEVEL2: Ich fühle mich so leicht! Ich\nbewege mich wie der Wind.
+MID_MARICH_LEVEL3: Mein Training war vergebens!\nIch muss also von vorn beginnen.
+MID_MARICH_SKILL: Ich will diese Kraft nutzen, um die\nzu schützen, die mir viel bedeuten.
+MID_MARICH_JOIN: Ich bin Merric, Magier aus Altea.\nWas ich in Khadein über Windmagie\nlernte, stelle ich in Eure Dienste.
+MID_MARICH_STRONGEST: Nun kämpfen wir schon seit längerem\nSeite an Seite, aber Ihr schafft es\nimmer noch, mich zu überraschen.$k$pIch meine das nicht negativ! Ihr seid\neinfach nur eine sehr... mysteriöse\nPerson.$k$pIhr seid anders als alle, die ich bisher\ngetroffen habe. Die Dinge, die ihr uns\nvorschlagt...$k$pEs sind Dinge, die der Rest von uns\nsich nicht einmal im Traum hätte\nvorstellen können.$k$pIhr seid wie ein Wind, der durch unsere\nLeben weht und das Schicksal jedes\nEinzelnen von uns verändert.$k$pLasst Euch gesagt sein: Ich glaube an\nEuch und Eure Fähigkeiten.$k$pUnd bleibe an Eurer Seite, solange\nIhr mich wollt.
+MID_MARICH_VOICE01: えいっ！
+MID_MARICH_VOICE02: はぁっ！
+MID_MARICH_VOICE03: うああっ！
+MID_MARICH_VOICE04: Drat...
+MID_MARICH_VOICE05: Winde, folgt mir!
+MID_MARICH_VOICE06: Jetzt geht's los!
+MID_MARICH_VOICE07: Das hast du nun davon.
+MID_MARICH_VOICE08: Ich werde nicht scheitern!
+MID_MARICH_VOICE09: Be safe...
+MID_MARICH_VOICE10: Heehee
+MID_MARICH_VOICE11: Is something the matter?
+MID_MARICH_VOICE12: Er, could you perhaps find another way to get my attention?
+MID_MARICH_VOICE13: Ah, what a pleasant breeze...
+MID_MARICH_VOICE14: I've been reading the most fascinating tome!
+MID_MARICH_VOICE15: If you don't mind, I would like to chat with you.
+MID_MARICH_VOICE16: The magic I have learned must protect everyone.
+MID_MARICH_VOICE17: I enjoy spending time with you. It puts me at ease.
+MID_MARICH_VOICE18: Understood.
+MID_MARICH_VOICE19: Hmm...
+MID_MARICH_VOICE20: Indeed.

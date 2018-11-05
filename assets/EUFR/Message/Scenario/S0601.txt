@@ -1,0 +1,9 @@
+[Heroes Archive] (S0601)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ナバール,ch01_02_Nabarl_M_Normal,Face|$w0|Vous voilà, je vous attendais.$k$pRien de personnel, mais j'ai un travail\nà accomplir.$k$pPréparez-vous à mourir.$k$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_ナバール,ch01_02_Nabarl_M_Normal,Face|$w0|Vous êtes forts, ça ne fait aucun\ndoute.$k$pHmm... Peut-être même assez forts\npour vous mesurer à lui ?$k$pÇa promet d'être intéressant.\nNous nous reverrons.$k$Sbs150|

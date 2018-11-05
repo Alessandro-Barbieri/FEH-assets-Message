@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_VALENTINE01_HOME1: Ihr feiert in dieser Welt ebenfalls\nein Festival der Zuneigung?$k$pDas zeigt, dass die Leute einander\nam Herzen liegen, unabhängig von\nihrer Herkunft.
+MID_ELIWOD_VALENTINE01_HOME2: Hm? Ihr wollt meinen Rat, was\nman einer Dame schenkt, die\neinem etwas bedeutet?$k$pNun... Ich denke, ich würde\nihr Blumen schicken.
+MID_ELIWOD_VALENTINE01_HOME3: Seid Ihr auf der Suche nach einem\nGeschenk für jemanden? Ihr könnt\nmich jederzeit um Rat fragen.
+MID_ELIWOD_VALENTINE01_HOME4: Um diese Zeit des Jahres scheinen\nsich sämtliche Geschäfte in\nSüßwarenläden zu verwandeln...$k$pSollen wir gemeinsam ein paar\nSüßigkeiten einkaufen?
+MID_ELIWOD_VALENTINE01_HOME5: Hector ist seit unserer Kindheit ein\nguter Freund von mir. Und ich bin\nihm immer noch dankbar dafür.$k$pVielleicht wäre jetzt eine gute\nGelegenheit, ihm ein Geschenk\nzu machen...
+MID_ELIWOD_VALENTINE01_FRIEND: Ich überbringe schöne Grüße von\n$Nf. Ich habe\nauch ein kleines Geschenk dabei.
+MID_ELIWOD_VALENTINE01_LEVEL1: Habe ich jetzt die Kraft, meine\nGefühle auszudrücken?
+MID_ELIWOD_VALENTINE01_LEVEL2: Ha. Glaubt Ihr, das wird meine\nBeliebtheit steigern?
+MID_ELIWOD_VALENTINE01_LEVEL3: Es tut mir leid... Ich war wohl\netwas nachlässig.
+MID_ELIWOD_VALENTINE01_SKILL: Diejenigen, die ich liebe, machen\nmich noch stärker.
+MID_ELIWOD_VALENTINE01_JOIN: Ich bin Eliwood von Pherae. Falls Ihr\nZeit habt, würdet Ihr mich zum\nFestival der Zuneigung begleiten?
+MID_ELIWOD_VALENTINE01_STRONGEST: Viele sagen, dass man den Tag der\nLiebe denjenigen widmen sollte, für\ndie man romantische Gefühle hegt.$k$pAber ich finde, das ist zu kurz\ngegriffen. Es geht auch um die\nLiebe zu Freunden und zur Familie.$k$pWenn die Leute mehr Wertschätzung\nfüreinander hätten, würde es weniger\nKonflikte geben. Und irgendwann...$k$pIrgendwann könnte die Welt zu einem\nfriedlichen Ort werden.$k$pIch glaube, dass dem Tag der Liebe\nauch die Sehnsucht nach Frieden\nzugrunde liegt.$k$pDanke für alles,\n$Nu.$k$pMein Geschenk an Euch ist meine\ngrenzenlose Dankbarkeit.
+MID_ELIWOD_VALENTINE01_VOICE01: それっ！
+MID_ELIWOD_VALENTINE01_VOICE02: えいっ！
+MID_ELIWOD_VALENTINE01_VOICE03: うああっ！
+MID_ELIWOD_VALENTINE01_VOICE04: At this rate...
+MID_ELIWOD_VALENTINE01_VOICE05: Hier, ein Geschenk.
+MID_ELIWOD_VALENTINE01_VOICE06: Das ist für Euch.
+MID_ELIWOD_VALENTINE01_VOICE07: Ich werde nicht verlieren.
+MID_ELIWOD_VALENTINE01_VOICE08: Nicht so süß, wie Ihr denkt.
+MID_ELIWOD_VALENTINE01_VOICE09: I...misjudged...
+MID_ELIWOD_VALENTINE01_VOICE10: ええと
+MID_ELIWOD_VALENTINE01_VOICE11: Festivals are just wonderful, aren't they? Seeing everybody smile makes me smile too.
+MID_ELIWOD_VALENTINE01_VOICE12: Oops, pardon me. I almost ran right into you!
+MID_ELIWOD_VALENTINE01_VOICE13: Hector and I have sparred for many years, and we continue to this day.
+MID_ELIWOD_VALENTINE01_VOICE14: It seems Roy and Lilina have become rather close. Hector won't like that...
+MID_ELIWOD_VALENTINE01_VOICE15: What do I want? Your friendship is enough.
+MID_ELIWOD_VALENTINE01_VOICE16: Do you think flowers alone make a good present?
+MID_ELIWOD_VALENTINE01_VOICE17: I'd like to get to know you better.
+MID_ELIWOD_VALENTINE01_VOICE18: Yes.
+MID_ELIWOD_VALENTINE01_VOICE19: Something you want?
+MID_ELIWOD_VALENTINE01_VOICE20: Find your courage!

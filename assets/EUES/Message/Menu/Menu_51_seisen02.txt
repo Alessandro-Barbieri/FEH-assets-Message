@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: -Cálculo de la puntuación-\nSi vences, ganarás puntos en\nfunción del nivel de tu oponente.\nSi encadenas varias victorias,\nganarás una bonificación extra.\nDicha bonificación se reinicia\ntras encadenar cinco victorias.
+MID_ARENA_DIALOG_HELP_04_51: -Premios-\nAl acabar la temporada recibirás\npremios según tu puesto en la\nclasificación.\n\nSi consigues muchos puntos,\npodrías mejorar tu rango (Rg.).
+MID_ARENA_DIALOG_HELP_06_51: -Bonificaciones de personaje-\nSi usas héroes de la temporada\nen el coliseo, recibirán PV + 10\ny Ata, Vel, Def y Res + 4.\n\nEsta mejora de atributos no\nafecta a la puntuación de tus\nenemigos ni a tu batallón\ndefensivo.
+MID_ARENA_DIALOG_HELP_3_00_51: -Ver premios-\nPuedes comprobar los premios\nque se otorgan en esta\ntemporada. Cambia el criterio\npara filtrar por defensas y puesto.
+MID_ARENA_DIALOG_HELP_3_01_51: -Premios por defensas-\nSe ganan en función de los\npuntos obtenidos al repeler\nlos ataques de otros usuarios.
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $aPrimera victoria en el coliseo: Recompensa\npor $a0 victorias seguidas
+MID_ARENA_DESCRIPTION_51: Pon a prueba tus habilidades contra\nrivales de todo el mundo y gana premios.\n¡Trata de lograr 5 victorias seguidas!
+MID_ARENA_COMBO_CAPTION2: $aRacha de victorias: $a0/$a2. Bonif. cadena: + $a1.
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: No se ha podido iniciar la batalla.\n¿Quieres ir a Conferir bendiciones?
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: Fire Emblem Heroes recopila datos\nsobre el uso de la aplicación con tal\nde mejorar nuestros productos\ny servicios, además de personalizar\nlas ofertas y recomendaciones\nsegún la política de privacidad.\n\nHemos dejado de recopilar datos\nde tu uso de la aplicación en base\na la información de tu cuenta.\n\nPara dejar de recibir notificaciones\nfuera de la aplicación, cambia\nlos ajustes de tu dispositivo.
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $aRango de GC $a0 necesario
+MID_SUMMON_ONLY_ONCE_DECIDE: Invocación 5 ★ gratis
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: Toca al invocador para atacar.
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: Toca la fila que quieres atacar.
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: Niveles extras
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $aJefe de $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a1: $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ???
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: Tema:
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: Nivel extra 1
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: Nivel extra 2
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: Nivel extra 3
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $aSe desbloquea en $a0 min.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $aSe desbloquea en $a0 h.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $aSe desbloquea en $a0 d.
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a$a0\nHas ganado una S en todos\nlos niveles jugando en\nmodo $a2 / $a1.
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a$a0\nHas ganado una S en todos\nlos niveles extras jugando\nen modo $a2 / $a1.
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: Supera la planta 20 en la\nmazmorra de 100 plantas\npara ver los niveles extras.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0 disponible en\n$a1 min.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0 disponible en\n$a1 h.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0 disponible en\n$a1 d.
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: Regalo de agradecimiento por jugar

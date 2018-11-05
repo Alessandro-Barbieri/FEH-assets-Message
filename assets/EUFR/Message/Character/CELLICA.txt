@@ -1,0 +1,38 @@
+[Heroes Archive] (CELLICA)
+
+
+Heroes Message Name: Message
+
+
+MID_CELLICA_HOME1: Le royaume d'Askr est si beau.\nJe suis triste de savoir qu'il est\nlui aussi secoué par un conflit.
+MID_CELLICA_HOME2: J'ai reçu une formation de prêtresse\ndans un prieuré. Avant cela, j'ai vécu\ndans un petit village appelé Ram.$k$pEt avant tout cela, j'habitais dans un\nchâteau. Mais gardez ça pour vous,\ns'il vous plaît !
+MID_CELLICA_HOME3: Si vous fatiguez, dites-le-moi.\nNous prendrons une pause autour\nd'une bonne tasse de thé.
+MID_CELLICA_HOME4: Je vais offrir une prière à Mila.\nVoulez-vous m'accompagner ?\nJe pense que cela vous relaxera.
+MID_CELLICA_HOME5: Je pensais à un ami d'enfance...\nJ'ignore pourquoi, mais nous\nn'arrivons pas à nous retrouver.$k$pEst-ce le destin qui nous sépare ?
+MID_CELLICA_FRIEND: Vous êtes\n$Nu ?$k$p$Nf m'envoie\nvous saluer.
+MID_CELLICA_LEVEL1: Moi aussi, je peux combattre !
+MID_CELLICA_LEVEL2: Le travail porte toujours\nses fruits.
+MID_CELLICA_LEVEL3: Oh... Quelle déception.
+MID_CELLICA_SKILL: Je ferai bon usage de la force\nque vous m'avez donnée.
+MID_CELLICA_JOIN: Je m'appelle Celica. En tant que\nprêtresse, je n'aime pas la violence,\nmais je me battrai si c'est nécessaire.
+MID_CELLICA_STRONGEST: Il y a quelque chose dont j'aimerais\nvous parler. Avez-vous le temps\nde m'écouter ?$k$pComme vous le savez, on m'appelle\nCelica. Et pourtant... mon véritable\nnom est Anthiese.$k$pJe dois le garder secret. Si le peuple\nde Zofia l'apprenait, cela\ndéclencherait une guerre inutile.$k$pMais je n'ai pas peur de vous le dire.\nVous êtes $Gimportant,importante| pour moi, et\nj'ai une confiance absolue en vous.$k$pSi je devais retourner dans mon\nmonde, souvenez-vous des\nmoments que nous avons partagés.$k$pPensez à Celica... et à Anthiese.\n
+MID_CELLICA_VOICE01: せやあっ
+MID_CELLICA_VOICE02: ええいっ
+MID_CELLICA_VOICE03: Drat!
+MID_CELLICA_VOICE04: What?!
+MID_CELLICA_VOICE05: C'est terminé !
+MID_CELLICA_VOICE06: Pardonnez-moi.
+MID_CELLICA_VOICE07: Je ne vais pas m'arrêter là !
+MID_CELLICA_VOICE08: Donnez-moi la force !
+MID_CELLICA_VOICE09: So sorry...
+MID_CELLICA_VOICE10: Uhuhu
+MID_CELLICA_VOICE11: Oh? What is it that you need?
+MID_CELLICA_VOICE12: All right, all right...
+MID_CELLICA_VOICE13: May the goddess Mila protect us all.
+MID_CELLICA_VOICE14: I take my duties, as princess of Zofia, quite seriously.
+MID_CELLICA_VOICE15: Tell me, is there anyone in your life who is essential to you?
+MID_CELLICA_VOICE16: I wonder if Alm...is doing well?
+MID_CELLICA_VOICE17: Being here, with you, restores my spirit.
+MID_CELLICA_VOICE18: Of course.
+MID_CELLICA_VOICE19: Oh?
+MID_CELLICA_VOICE20: Let's go.

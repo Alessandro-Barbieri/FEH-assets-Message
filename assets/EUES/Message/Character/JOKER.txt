@@ -1,0 +1,38 @@
+[Heroes Archive] (JOKER)
+
+
+Heroes Message Name: Message
+
+
+MID_JOKER_HOME1: Noto algo en vos... No sabría decir\nqué exactamente, pero, sea lo que\nfuere, me compele a serviros.$k$pTanto que por momentos olvido\nque debo mi lealtad a otra persona\ny a otro reino...
+MID_JOKER_HOME2: Toda mi vida he sido el mayordomo\nde Corrin, pero siempre me ha tratado\ncomo si formara parte de la familia.
+MID_JOKER_HOME3: ¿Por qué malgastáis vuestro tiempo\nhaciendo rondas? Delegad en alguien\nde menor rango, os lo ruego.
+MID_JOKER_HOME4: Me he propuesto perfeccionar el viejo\narte de la preparación del té. ¿Os\narriesgaríais a probar el resultado?$k$pSi tenéis un gusto tan refinado como\nimagino, vuestra opinión me resultará\nde lo más valiosa.
+MID_JOKER_HOME5: Las teteras de este reino son una\nverdadera delicia. El príncipe Alfonse\nme ha regalado una. Qué detalle...
+MID_JOKER_FRIEND: Traigo saludos para vos de parte\nde $Nf.\nY he de dejaros ya. Hasta la próxima.
+MID_JOKER_LEVEL1: ¿Me permitís celebrarlo?
+MID_JOKER_LEVEL2: Esto lo hago por vos.
+MID_JOKER_LEVEL3: Bah, ¡qué decepción!
+MID_JOKER_SKILL: Un buen mayordomo debe\nafanarse siempre por mejorar.
+MID_JOKER_JOIN: Soy Jakob, mayordomo de Nohr\ny siempre leal a Corrin. Os ofrezco\nmis servicios, pero no mi devoción.
+MID_JOKER_STRONGEST: ¿Puedo ayudaros en algo?\nAh... ¿Me habéis preparado un té?\nAhora mismo no tengo sed...$k$pLo cual no significa que no lo vaya\na probar, por supuesto. No puedo\nconsentir que se eche a perder.$k$pMmm... Está un poco frío... y no es\nmuy fragrante, que digamos. Yo\njamás serviría semejante brebaje...$k$p¿Qué estoy diciendo? ¡Perdonadme!\nEs obvio que habéis puesto un gran\nempeño en prepararlo. ¡Me honráis!$k$pJamás osaría criticar esta generosa\natención, por desagradable que sea\nel resultado. Y amargo...$k$pPero dejad que la próxima vez sea\nyo quien os prepare el té a vos,\n¿de acuerdo?
+MID_JOKER_VOICE01: せやっ
+MID_JOKER_VOICE02: はあっ
+MID_JOKER_VOICE03: Drat
+MID_JOKER_VOICE04: Of all the—
+MID_JOKER_VOICE05: Habrá que limpiar el polvo...
+MID_JOKER_VOICE06: ¡La hora del té!
+MID_JOKER_VOICE07: Siempre estoy dispuesto.
+MID_JOKER_VOICE08: ¡Aquí tienes la puerta!
+MID_JOKER_VOICE09: Done in...
+MID_JOKER_VOICE10: Hmmm.
+MID_JOKER_VOICE11: Care for a cup of tea?
+MID_JOKER_VOICE12: My master is the kindest person you could ever imagine.
+MID_JOKER_VOICE13: Pardon my immodesty, but you see a master butler standing before you.
+MID_JOKER_VOICE14: I dearly hope this realm grows tea plants.
+MID_JOKER_VOICE15: I hate to carry on about my master, Corrin, but you've never met a finer person!
+MID_JOKER_VOICE16: I keep a kettle handy to brew tea for my master, Corrin. I do hope you like tea?
+MID_JOKER_VOICE17: I have to confess... Though I have pledged my service to my master back home, I'm drawn to serve you too.
+MID_JOKER_VOICE18: Yes?
+MID_JOKER_VOICE19: Your orders.
+MID_JOKER_VOICE20: You rang?

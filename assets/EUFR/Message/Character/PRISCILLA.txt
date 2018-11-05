@@ -1,0 +1,38 @@
+[Heroes Archive] (PRISCILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_PRISCILLA_HOME1: J'ai entendu dire que mon frère,\nRaymond, se fait désormais\nappeler Raven.$k$pJ'ai entendu dire qu'il travaillait\ncomme mercenaire. Que lui est-il\narrivé pour qu'il change autant ?
+MID_PRISCILLA_HOME2: Je suis la fille du comte de Caerleon.\nMais, voyez-vous, mes véritables\norigines sont plutôt complexes.
+MID_PRISCILLA_HOME3: Oh Raymond... Mon cher Raymond...\nQue vous est-il arrivé, mon frère ?
+MID_PRISCILLA_HOME4: Je ne suis pas taillée pour le combat,\nje trouve ça vulgaire et effrayant.\nÀ choisir, je préfère rester au château.
+MID_PRISCILLA_HOME5: Que diriez-vous de partager une tasse\nde thé ? J'ai aussi quelques douceurs\nqu'on m'a gentiment offertes !
+MID_PRISCILLA_FRIEND: Je me nomme Priscilla.\n$Nf vous\ntransmet ses amitiés.
+MID_PRISCILLA_LEVEL1: Est-ce un résultat exceptionnel ?\nJe n'en ai pas la moindre idée !
+MID_PRISCILLA_LEVEL2: Est-ce une progression acceptable ?\nJe l'espère en tout cas.
+MID_PRISCILLA_LEVEL3: J'ai bien peur que ce soit loin d'être\nassez.
+MID_PRISCILLA_SKILL: Quelle curieuse idée que de vouloir\nme rendre puissante !
+MID_PRISCILLA_JOIN: Je me nomme Priscilla. Puis-je rester\nquelque temps parmi vous si vous n'y\nvoyez pas d'inconvénient ?
+MID_PRISCILLA_STRONGEST: Pardon de vous déranger, mais j'ai\nune question... Pensez-vous que je\nsuis devenue plus forte ?$k$pAprès tout ce temps passé ici, c'est\nà peine si je reconnais mon reflet\ndans le miroir.$k$pAvant mon arrivée, je ne connaissais\nrien du... des mondes, et que dire de\nmon expérience du combat !$k$pSi j'ai tant changé, c'est je pense,\nen grande partie grâce à vous, et\npuis aussi un petit peu grâce à moi !$k$pNous faisons une belle équipe, vous\net moi. Espérons que ça dure !
+MID_PRISCILLA_VOICE01: はいっ
+MID_PRISCILLA_VOICE02: それっ
+MID_PRISCILLA_VOICE03: きゃああっ！
+MID_PRISCILLA_VOICE04: ...It can't...
+MID_PRISCILLA_VOICE05: C'est parti !
+MID_PRISCILLA_VOICE06: Pourquoi en arriver là ?!
+MID_PRISCILLA_VOICE07: Alors non !
+MID_PRISCILLA_VOICE08: Je vais m'occuper de vous...
+MID_PRISCILLA_VOICE09: Brother...!
+MID_PRISCILLA_VOICE10: Heehee...
+MID_PRISCILLA_VOICE11: Le devoir m'appelle.
+MID_PRISCILLA_VOICE12: Je vais m'occuper de vous.
+MID_PRISCILLA_VOICE13: If you find yourself injured? Please find me. I'll heal you immediately.
+MID_PRISCILLA_VOICE14: What an exceptional individual you are.
+MID_PRISCILLA_VOICE15: Someone once made me a very important promise.
+MID_PRISCILLA_VOICE16: I'd like to say I'm above jealousy. But there have been occasions.
+MID_PRISCILLA_VOICE17: I will stay by your side for as long as you need me.
+MID_PRISCILLA_VOICE18: Yes?
+MID_PRISCILLA_VOICE19: As you will.
+MID_PRISCILLA_VOICE20: Onward.

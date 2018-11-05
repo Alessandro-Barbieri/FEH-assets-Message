@@ -1,0 +1,38 @@
+[Heroes Archive] (SOTHE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOTHE_HOME1: When I heard I was in another world,\nwell... I prepared for the worst.\nTruth is, it doesn't seem so different.$k$pAbout the only thing I miss is the\ncooking. Ours is better.
+MID_SOTHE_HOME2: No matter where I end up, no matter\nwho I'm with...it won't change who I\nam or what I have to do.$k$pIt doesn't change what matters to me,\neither.
+MID_SOTHE_HOME3: One look at you and I can see that\nyou're exhausted.$k$pIf our tactician is about to keel over...\nWhat does that do for morale?$k$pGo and splash your face with some\ncold water. That should do the trick.
+MID_SOTHE_HOME4: I don't care who you are. If you do\nanything to hurt Micaiah, you'll\nanswer to me. Got it?
+MID_SOTHE_HOME5: I was just sharpening my knives.\nYou've got to be ready for anything,\nand you can only rely on yourself.
+MID_SOTHE_FRIEND: Don't ask me why they picked me, out\nof everybody, but I have a message\nfrom $Nf.
+MID_SOTHE_LEVEL1: There we go. I'll be able to keep\nup the pace.
+MID_SOTHE_LEVEL2: That's about what I expected. I'll\nkeep working hard.
+MID_SOTHE_LEVEL3: That's it? I need to get stronger!
+MID_SOTHE_SKILL: What's this? Guess I learned\nsomething. Hope it's useful.
+MID_SOTHE_JOIN: I'm Sothe. I may not have any special\npowers, but I'll do my best. We need\nto protect those who matter to us.
+MID_SOTHE_STRONGEST: Micaiah and I don't really look alike?\nWell, of course we don't. We're not\nrelated by blood.$k$pWhen I was a kid, Micaiah took me\nby the hand. All she wanted was for\nme to not have to cry anymore...$k$pShe held me tight. That's when we\nbecame a family.$k$pOur bond is thicker than blood. No\nmatter what, we support one another.\nWe trust each other completely.$k$pWhen I see you fight alongside\nAlfonse and the others, never asking\nfor any kind of reward...$k$pWell, if I squint, it's almost like looking\nat Micaiah.$k$pI can't say I really trust you just yet.\nNot like I trust her.$k$pThat said, I've come to believe in you.\nWhy? Because you fight for the\npeople. I can trust in that.
+MID_SOTHE_VOICE01: はっ！
+MID_SOTHE_VOICE02: Stop
+MID_SOTHE_VOICE03: うああっ！
+MID_SOTHE_VOICE04: I messed up...
+MID_SOTHE_VOICE05: I've made up my mind.
+MID_SOTHE_VOICE06: I have to fight!
+MID_SOTHE_VOICE07: I'm fighting for survival!
+MID_SOTHE_VOICE08: I'll defeat you!
+MID_SOTHE_VOICE09: If I only...had power...
+MID_SOTHE_VOICE10: ふっ
+MID_SOTHE_VOICE11: I'm Sothe of the Dawn Brigade.
+MID_SOTHE_VOICE12: Wha--?! Sometimes, I just don't understand why you do the things you do...
+MID_SOTHE_VOICE13: I swore to protect Micaiah. Even if it means fighting Commander Ike...
+MID_SOTHE_VOICE14: If you hold strong to your feelings, you will get what you want.
+MID_SOTHE_VOICE15: I may not have any special powers, but I've been told I have a fire inside.
+MID_SOTHE_VOICE16: I owe Commander Ike my life... I want to be just like him.
+MID_SOTHE_VOICE17: Don't leave my side. I'll protect you with all I've got.
+MID_SOTHE_VOICE18: Sure.
+MID_SOTHE_VOICE19: What are you thinking?
+MID_SOTHE_VOICE20: Gotta stay on guard.

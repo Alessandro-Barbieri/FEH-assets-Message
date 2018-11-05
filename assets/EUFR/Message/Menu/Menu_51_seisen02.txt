@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: ◆ Score ◆\nSi vous gagnez, vous marquez\ndes points en fonction de la\npuissance de votre adversaire.\nSi vous enchaînez les victoires,\nvous obtenez un bonus, qui est\nréinitialisé au bout de cinq\nvictoires à la suite.
+MID_ARENA_DIALOG_HELP_04_51: ◆ Récompenses ◆\nUne fois la saison terminée, vous\nrecevrez des récompenses en\nfonction de votre rang.\n\nSi votre score est assez élevé,\nvous pourrez passer au rang\nd'arène supérieur.
+MID_ARENA_DIALOG_HELP_06_51: ◆ Appel aux armes ◆\nLorsque vous utilisez des héros\nconcernés par Appel aux armes\ndans l'arène, ils bénéficient de\nPV +10 et Atq/Vit/Déf/Rés +4.\n\nCe boost ne modifie pas le\nscore de vos adversaires et\nne s'applique pas à votre\néquipe de défense.
+MID_ARENA_DIALOG_HELP_3_00_51: ◆ Consulter les récompenses ◆\nVous pouvez consulter les\nrécompenses en jeu pour\nla saison en cours.\n\nUtilisez les filtres pour afficher\nles récompenses de la catégorie\nde votre choix.
+MID_ARENA_DIALOG_HELP_3_01_51: ◆ Récompenses de défense ◆\nElles sont octroyées en fonction\ndu score de défense de votre\néquipe.
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $aMeilleure série de victoires : $a0
+MID_ARENA_DESCRIPTION_51: Mesurez-vous à des rivaux du monde\nentier et gagnez des récompenses.\nVisez les cinq victoires consécutives !
+MID_ARENA_COMBO_CAPTION2: $aVictoires en série : $a0/$a2 - Bonus de série : + $a1
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: Impossible de lancer la bataille.\nAller au menu Bénédiction ?
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: Fire Emblem Heroes recueille les\ndonnées d'utilisation de l'application\nafin d'améliorer nos produits et\nservices et de proposer des\noffres et recommandations\npersonnalisées conformément\nà la politique de confidentialité.\n\nLa collecte de vos données\nd'utilisation a été arrêtée en raison\ndes informations de votre compte.\n\nPour ne plus recevoir de\nnotifications en dehors de\nl'application, modifiez le réglage\ncorrespondant dans les paramètres\nde votre appareil.
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $aRequis : palier GC $a0
+MID_SUMMON_ONLY_ONCE_DECIDE: Invocation 5★ gratuite
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: Touchez l'invocateur pour attaquer !
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: Touchez une rangée pour attaquer !
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: Niveaux Extra
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $aBoss - $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a1 : $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ???
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: Titre de la chanson :
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: Extra 1
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: Extra 2
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: Extra 3
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $aDisponible dans $a0 min
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $aDisponible dans $a0 h
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $aDisponible dans $a0 j
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a$a0\nVous avez obtenu un rang S\nà chaque niveau en mode\n$a2 / $a1 !
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a$a0\nVous avez obtenu un rang S à\nchaque niveau Extra en mode\n$a2 / $a1 !
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: Terminez le niveau 20\npour débloquer les\nniveaux Extra.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0\ndisponible dans $a1 min !
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0\ndisponible dans $a1 h !
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0\ndisponible dans $a1 j !
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: Cadeau de remerciement

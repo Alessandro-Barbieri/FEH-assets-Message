@@ -1,0 +1,38 @@
+[Heroes Archive] (GRAY)
+
+
+Heroes Message Name: Message
+
+
+MID_GRAY_HOME1: Dieser Ort ist wirklich schön. Fast\nschon beängstigend schön... Ehrlich\ngesagt beunruhigt mich das.
+MID_GRAY_HOME2: Als das Dorf Ram angegriffen wurde,\nkonnte ich nicht einfach untätig sein.
+MID_GRAY_HOME3: Bist du auf Patrouille? Du siehst\ngestresst aus. Wenn du eine Pause\nbrauchst, sag mir Bescheid.
+MID_GRAY_HOME4: Gibt es hier irgendwo einen\nOrt, an dem sich die Leute\namüsieren können?$k$pDu musst mich unbedingt mal\nein bisschen herumführen. Der\nSpaß sollte nie zu kurz kommen.
+MID_GRAY_HOME5: Dieser Ort macht mich ganz verrückt.\nEr lässt meine Heimatwelt auf einmal\nso... unbedeutend erscheinen.
+MID_GRAY_FRIEND: Hey, $Nu!\nSchönen Gruß von\n$Nf.
+MID_GRAY_LEVEL1: Ich fühle mich unbesiegbar!
+MID_GRAY_LEVEL2: Das sollte fürs Erste genügen.
+MID_GRAY_LEVEL3: Verdammt... Das war nichts.
+MID_GRAY_SKILL: Wenn du mir so sehr vertraust,\nsollte ich lieber nicht faulenzen.
+MID_GRAY_JOIN: Ich bin Gray, ein Durchnittskerl aus\neinem Dorf mitten im Nirgendwo. Ich\nhelfe gern, wenn du mich brauchst.
+MID_GRAY_STRONGEST: Hey, $Nu...\nIch muss dich was fragen. Warum\nhast du mich hierhergerufen?$k$pSieh dich mal um. Hier sind überall\nPrinzen und Prinzessinnen, sogar\nwelche aus anderen Welten!$k$pSchon witzig... Dir ist doch klar, dass\nich nur irgendein Typ aus einem\nunbedeutenden Dorf bin, oder?$k$pDu brauchst meine Hilfe, sagst du?\nDu hast mich gerufen, weil ich...\nein Held bin wie die anderen auch?$k$pHahaha! Ich wusste, dass du das\nsagen würdest - aber nicht, dass du\ndabei so ernst bleiben würdest.$k$pAber wenn du mich wirklich als einen\nHelden siehst, fühle ich mich jedem\ngewachsen - selbst einem König!
+MID_GRAY_VOICE01: せやあっ
+MID_GRAY_VOICE02: おらよっ
+MID_GRAY_VOICE03: うわあああーっ！！
+MID_GRAY_VOICE04: Wai-Seriously?!
+MID_GRAY_VOICE05: Was für ein Spaß!
+MID_GRAY_VOICE06: Okay!
+MID_GRAY_VOICE07: Sag Tschüss!
+MID_GRAY_VOICE08: 'tschuldigung!
+MID_GRAY_VOICE09: Are you kidding me?
+MID_GRAY_VOICE10: Huh?
+MID_GRAY_VOICE11: You got me! Well done.
+MID_GRAY_VOICE12: Man... This whole situation just does not feel real.
+MID_GRAY_VOICE13: We're from the middle of nowhere. I'm talking middle of NOWHERE.
+MID_GRAY_VOICE14: Work hard, reap the rewards. You know I'm right.
+MID_GRAY_VOICE15: I'm handsome, I know. But there's no need to stare.
+MID_GRAY_VOICE16: Always lookin' for the ladies.
+MID_GRAY_VOICE17: There's never a dull moment with you around.
+MID_GRAY_VOICE18: Sure thing.
+MID_GRAY_VOICE19: Let's see...
+MID_GRAY_VOICE20: Alrighty!

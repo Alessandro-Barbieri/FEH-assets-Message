@@ -1,0 +1,38 @@
+[Heroes Archive] (URSULA)
+
+
+Heroes Message Name: Message
+
+
+MID_URSULA_HOME1: 這座城堡毫無戒備呢。\n明明常常有來自異界的……旅人？\n那之中如果有刺客的話，可要怎麼辦才好呢。
+MID_URSULA_HOME2: 我曾奉命暗殺\n費雷勳爵艾利烏德。\n……不過很可惜，有人來礙事。
+MID_URSULA_HOME3: 如果你累了，就先去休息吧。\n如果你因為疲勞，而跟完美\n背道而馳的話，會很讓人困擾的……
+MID_URSULA_HOME4: 我是【黑牙】中的【四牙】之一，不過……\n如果正面對上【四牙】其他人，我是最弱的。\n我是這麼評價我自己的。
+MID_URSULA_HOME5: 只要你比我更優秀，\n我就會發誓對你絕對服從。\n任何命令都甘之如飴……
+MID_URSULA_FRIEND: 我是受人之託前來問候你的……\n嗯……如果這裡的軍隊跟我們\n廝殺起來，不知道哪方會贏呢……？
+MID_URSULA_LEVEL1: 呵呵……完美。
+MID_URSULA_LEVEL2: 呵呵……還不壞呢。
+MID_URSULA_LEVEL3: 派不上用場……\n就該死……
+MID_URSULA_SKILL: 呵呵！謝謝你。\n我要殺多少人來答謝你才好……？
+MID_URSULA_JOIN: 我是【蒼鴉】烏爾斯拉……\n你會是讓我服從的完美人選嗎……？
+MID_URSULA_STRONGEST: $Nu，\n你記得嗎？\n我希望我的主人是完美的。$k$p我討厭半吊子的夥伴遊戲。\n我之所以服從你，\n只是因為你是優秀的存在。$k$p雖然你沒有戰鬥力，\n但你絕對不會輸給任何人。\n這是我對你的評價。$k$p不過……\n如果我對這點產生了疑慮……\n你應該知道我會怎麼做吧？$k$p呵呵！所以，\n你也要好好努力，\n讓自己配得上我喔……
+MID_URSULA_VOICE01: 喝！
+MID_URSULA_VOICE02: 呵呵！
+MID_URSULA_VOICE03: 呀啊～！
+MID_URSULA_VOICE04: ……真是……厲害……
+MID_URSULA_VOICE05: 死亡很可怕嗎？
+MID_URSULA_VOICE06: 長眠吧。
+MID_URSULA_VOICE07: 永別了。
+MID_URSULA_VOICE08: 吶，你……
+MID_URSULA_VOICE09: ……嗚……怎麼會……
+MID_URSULA_VOICE10: 哦呵呵。
+MID_URSULA_VOICE11: 有事找我嗎？
+MID_URSULA_VOICE12: 呵呵！真是大膽啊。
+MID_URSULA_VOICE13: 【蒼鴉】……藍色烏鴉就是我的名字。
+MID_URSULA_VOICE14: 只要是命令，不管是誰我都殺。
+MID_URSULA_VOICE15: 我不喜歡有陽光的地方……
+MID_URSULA_VOICE16: ……失敗者死……是理所當然的。
+MID_URSULA_VOICE17: 侍奉你並不是件壞事。
+MID_URSULA_VOICE18: 嗯。
+MID_URSULA_VOICE19: 請下令。
+MID_URSULA_VOICE20: 儘管吩咐。

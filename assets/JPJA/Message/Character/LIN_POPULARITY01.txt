@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_POPULARITY01_HOME1: 母さんは貴族の生まれだったけど、\n草原の民の父さんと駆け落ちしたの。\nそして、私が生まれた…
+MID_LIN_POPULARITY01_HOME2: 父さんはロルカ族の族長だったの。\n私は父さんのかわりに部族を\n守りたかったけど…でも、だめだった。\n
+MID_LIN_POPULARITY01_HOME3: あなたが休めるように\n私に何か手伝えたらいいんだけど…\n…朝起こしてあげる、とか？
+MID_LIN_POPULARITY01_HOME4: これは、疾風の弓【ミュルグレ】…\n神将器と呼ばれる特別な武器。\n使い手はハノンという女性だったそうよ。
+MID_LIN_POPULARITY01_HOME5: 動く馬上から\n動く的を狙って…射つ。\n草原の民ならこれくらいは、ね。
+MID_LIN_POPULARITY01_FRIEND: $Nfから挨拶よ。\nこれからも…あ、礼儀作法が\n変だったらごめんなさい。
+MID_LIN_POPULARITY01_LEVEL1: 父さん、母さん、\n見ていてね…
+MID_LIN_POPULARITY01_LEVEL2: この弓が、\n私を導いてくれるみたい…
+MID_LIN_POPULARITY01_LEVEL3: 馬から落ちないように\n気をつけるわ…
+MID_LIN_POPULARITY01_SKILL: 嬉しいわ。\nあなたの期待に応えたい。
+MID_LIN_POPULARITY01_JOIN: 私はリンディス。\nサカ部族に伝わるこの弓で、\n役に立ってみせるわ。
+MID_LIN_POPULARITY01_STRONGEST: 私には二つの血が流れている。\n侯爵家の貴族の血と…\n草原の部族の血…$k$pどちらも、私…私にとって大切なもの。\n父さんと母さんが、私をずっと\n見守っていてくれる…そう感じるの。$k$pいつか、私が誰かと結ばれて、\n子供ができたら…\nその子を見守ってあげたい…$k$p…なんてね。\n明日死ぬかもしれない戦争中に、\n変なこと考えちゃった。$k$pでも、こんな時だから、考えるの。\nこの血を継ぐ未来の子…\nその子の幸せのこと…
+MID_LIN_POPULARITY01_VOICE01: ええいっ！
+MID_LIN_POPULARITY01_VOICE02: そこよ！
+MID_LIN_POPULARITY01_VOICE03: きゃああっ！
+MID_LIN_POPULARITY01_VOICE04: ま、まだよ…！
+MID_LIN_POPULARITY01_VOICE05: 覚悟しなさい！
+MID_LIN_POPULARITY01_VOICE06: 外さないわ！
+MID_LIN_POPULARITY01_VOICE07: サカの弓よ！
+MID_LIN_POPULARITY01_VOICE08: 当たって！
+MID_LIN_POPULARITY01_VOICE09: 父さん…母さん…
+MID_LIN_POPULARITY01_VOICE10: うーん
+MID_LIN_POPULARITY01_VOICE11: この格好、似合ってる？　ありがと。
+MID_LIN_POPULARITY01_VOICE12: 弓を使う時は、心静かに、体の力を抜いて…
+MID_LIN_POPULARITY01_VOICE13: 夢を見たの。あなたが、私を助けてくれる夢…
+MID_LIN_POPULARITY01_VOICE14: あなたやっぱり、私の知ってる軍師に似てるわ…
+MID_LIN_POPULARITY01_VOICE15: 馬の乗り方も、弓も、父さんはすごく上手だったわ。
+MID_LIN_POPULARITY01_VOICE16: 父さん…母さん…見ていてくれる？
+MID_LIN_POPULARITY01_VOICE17: ずっと前から…あなたは私の大切な人よ。
+MID_LIN_POPULARITY01_VOICE18: ええ
+MID_LIN_POPULARITY01_VOICE19: 敵はどこ？
+MID_LIN_POPULARITY01_VOICE20: 傍にいてね

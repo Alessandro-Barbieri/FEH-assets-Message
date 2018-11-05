@@ -1,0 +1,38 @@
+[Heroes Archive] (MIST)
+
+
+Heroes Message Name: Message
+
+
+MID_MIST_HOME1: Dieser Ort ist fantastisch. Auch die\nLuft ist so... frisch! Wir befinden\nuns bestimmt in großer Höhe!
+MID_MIST_HOME2: Ich kämpfe nicht allzu gern, aber ich\nfreue mich, wenn ich helfen kann.\nWeißt du, was ich lieber mache?$k$pPutzen und Wäsche waschen - ob\ndu es glaubst oder nicht!
+MID_MIST_HOME3: Du solltest dich eine Weile ausruhen,\n$Nu.$k$pIch hole dir ein Glas Wasser.
+MID_MIST_HOME4: Oh, Vater... Mutter...\nPass auf dich auf, Bruder...
+MID_MIST_HOME5: Hier weht teilweise ein starker\nWind - da kann einem schon mal\ndie Wäsche von der Leine flattern!
+MID_MIST_FRIEND: Hallo! Oh, richtig. Ich wollte dir\nschöne Grüße ausrichten - von\n$Nf!
+MID_MIST_LEVEL1: Ich werde stärker! Schließlich bin\nich die Tochter meines Vaters!
+MID_MIST_LEVEL2: Anscheinend werde ich langsam\nbesser in diesen Dingen!
+MID_MIST_LEVEL3: Siehst du? Ich gehöre einfach\nnicht auf ein Schlachtfeld!
+MID_MIST_SKILL: Das ist nett von dir, aber bist du\nsicher, dass es das wert ist?
+MID_MIST_JOIN: Hallo, ich bin Alja. Aber wo bin ich?\nAlles ging so schnell! Du hilfst mir\ndoch, mich zurechtzufinden, oder?
+MID_MIST_STRONGEST: Oh, $Nu!$k$pIch war gerade dabei, mich um die\nWäsche zu kümmern. Dabei kann\nich mich am besten entspannen.$k$pWeißt du, ich fühle mich beim\nKämpfen nicht besonders wohl,\naber ich will trotzdem helfen.$k$pInzwischen mag ich es, mit so vielen\nanderen Leuten hier zu sein. Weißt\ndu noch, wie nervös ich anfangs war?$k$pVon einigen der Helden war ich\nrichtig eingeschüchtert! Aber ich\nwusste, dass ich dir vertrauen kann.$k$pIch weiß nicht warum, aber das habe\nich von Anfang an gespürt. Jedenfalls\nbin ich froh, für dich zu arbeiten.$k$pHmmm... Was wollte ich jetzt eigentlich\nsagen? Ach ja. Danke! Und verlass dich\ndrauf, dass ich mein Bestes gebe!
+MID_MIST_VOICE01: えいっ！
+MID_MIST_VOICE02: Stay away!
+MID_MIST_VOICE03: きゃああっ！
+MID_MIST_VOICE04: あ…うっ！
+MID_MIST_VOICE05: Ich... Ich werde mein Bestes geben!
+MID_MIST_VOICE06: Ich leiste meinen Beitrag!
+MID_MIST_VOICE07: Ich muss es einfach tun!
+MID_MIST_VOICE08: Mach dich auf was gefasst!
+MID_MIST_VOICE09: Sorry...
+MID_MIST_VOICE10: Heeheehee
+MID_MIST_VOICE11: Bitte pass auf.
+MID_MIST_VOICE12: Wir machen das zusammen!
+MID_MIST_VOICE13: Oh! You surprised me!
+MID_MIST_VOICE14: Do you know my brother? He can be...a bit of an odd one.
+MID_MIST_VOICE15: Always glad when you have time for me. Thank you so much!
+MID_MIST_VOICE16: Father... Mother... Ike...
+MID_MIST_VOICE17: You know I will never forgive you if you—you know—die on me. Please remember that.
+MID_MIST_VOICE18: OK!
+MID_MIST_VOICE19: What next?
+MID_MIST_VOICE20: Time to shine.

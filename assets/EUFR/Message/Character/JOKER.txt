@@ -1,0 +1,38 @@
+[Heroes Archive] (JOKER)
+
+
+Heroes Message Name: Message
+
+
+MID_JOKER_HOME1: Quelque chose m'intrigue\nà votre sujet, $GInvocateur,Invocatrice|...$k$pJ'ai juré allégeance à quelqu'un\nd'autre, et pourtant, j'éprouve le\ndésir de vous accorder ma loyauté.
+MID_JOKER_HOME2: Je suis le fidèle vassal de Corrin.\nBien que majordome, j'ai toujours été\ntraité comme un membre de sa famille.
+MID_JOKER_HOME3: Ne pensez-vous pas que vous\ndevriez déléguer l'ingrate tâche\ndes patrouilles à un subordonné ?
+MID_JOKER_HOME4: J'essaie de perfectionner ma\ntechnique de préparation du\nthé... Voudriez-vous m'aider ?$k$pSi votre palais est aussi raffiné\nque celui de Corrin, votre avis\nme sera très précieux !
+MID_JOKER_HOME5: Le prince Alfonse m'a prêté une\nthéière resplendissante. Je lui en\nsuis profondément reconnaissant.
+MID_JOKER_FRIEND: $Nf vous\nsalue. Bien, je peux maintenant\npasser à la tâche suivante.
+MID_JOKER_LEVEL1: Puis-je m'en réjouir ?
+MID_JOKER_LEVEL2: Je dois être plus fort pour\nSon Altesse.
+MID_JOKER_LEVEL3: Bon, ça ne va pas du tout.
+MID_JOKER_SKILL: C'est le devoir d'un majordome de\ntoujours chercher à s'améliorer.
+MID_JOKER_JOIN: Je m'appelle Jakob, majordome venu\nde Nohr. Je vous offre mes services,\nmais ma loyauté appartient à Corrin.
+MID_JOKER_STRONGEST: Puis-je vous aider ? Oh, vous m'avez\napporté une tasse de thé. Hmm,\nje n'ai pas soif pour le moment...$k$pEnfin, je vais la boire, ne vous\nen faites pas. Le thé, ça ne se\ngâche pas.$k$pHmm... un peu froid. Et trop amer.\nJe n'aurais jamais osé le servir, mais\nvous y avez mis du cœur, c'est sûr.$k$pVotre technique est perfectible, mais\nvotre dévouement transparaît dans\nchaque goutte de ce breuvage.$k$pMerci, $GInvocateur,Invocatrice|. La prochaine fois,\nje préparerai le thé le plus délicieux\nque vous n'ayez jamais goûté.
+MID_JOKER_VOICE01: せやっ
+MID_JOKER_VOICE02: はあっ
+MID_JOKER_VOICE03: Drat
+MID_JOKER_VOICE04: Of all the—
+MID_JOKER_VOICE05: Du balai !
+MID_JOKER_VOICE06: Vous pouvez disposer.
+MID_JOKER_VOICE07: Et voilà le travail.
+MID_JOKER_VOICE08: Quittez ces lieux !
+MID_JOKER_VOICE09: Done in...
+MID_JOKER_VOICE10: Hmmm.
+MID_JOKER_VOICE11: Care for a cup of tea?
+MID_JOKER_VOICE12: My master is the kindest person you could ever imagine.
+MID_JOKER_VOICE13: Pardon my immodesty, but you see a master butler standing before you.
+MID_JOKER_VOICE14: I dearly hope this realm grows tea plants.
+MID_JOKER_VOICE15: I hate to carry on about my master, Corrin, but you've never met a finer person!
+MID_JOKER_VOICE16: I keep a kettle handy to brew tea for my master, Corrin. I do hope you like tea?
+MID_JOKER_VOICE17: I have to confess... Though I have pledged my service to my master back home, I'm drawn to serve you too.
+MID_JOKER_VOICE18: Yes?
+MID_JOKER_VOICE19: Your orders.
+MID_JOKER_VOICE20: You rang?

@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: 第２部開頭影片
+MID_ITEM_REFINE_STONE: 鍊成石
+MID_ITEM_HELP_REFINE_STONE: 用於「武器鍊成」\n可以鍊成一般的武器
+MID_ITEM_GOD_REFINE_STONE: 神鍊水滴
+MID_ITEM_HELP_GOD_REFINE_STONE: 用於「武器鍊成」\n可以鍊成部份特別的武器
+MID_ITEM_ARENA_MEDAL: 鬥技獎牌
+MID_ITEM_HELP_ARENA_MEDAL: 用於「武器鍊成」
+MID_ITEM_BLESSING_FIRE: 火之祝福
+MID_ITEM_HELP_BLESSING_FIRE: 用於「賦予祝福」\n賦予夥伴火之祝福
+MID_ITEM_BLESSING_WATER: 水之祝福
+MID_ITEM_HELP_BLESSING_WATER: 用於「賦予祝福」\n賦予夥伴水之祝福
+MID_ITEM_BLESSING_WIND: 風之祝福
+MID_ITEM_HELP_BLESSING_WIND: 用於「賦予祝福」\n賦予夥伴風之祝福
+MID_ITEM_BLESSING_EARTH: 地之祝福
+MID_ITEM_HELP_BLESSING_EARTH: 用於「賦予祝福」\n賦予夥伴地之祝福
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: 第１部
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: 第２部
+MID_STAGE_OPEN_WEAPON_REFINE: 已開放\n武器鍊成。
+MID_SUMMON_SEASON2_DAYS: $a距離$a1結束還有$a0天
+MID_SUMMON_SEASON2_HOURS: $a距離$a1結束還有$a0小時
+MID_SUMMON_SEASON2_MINUTES: $a距離$a1結束還有$a0分
+MID_SUMMON_LIMITED_BEGINNER: 新手限定！
+MID_SUMMON_ONE_TIME_FREE: 初次免費！
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: 初次免費！新手限定！
+MID_SUMMON_ONE_TIME_FREE_DECIDE: 初次免費　召喚
+MID_UNIT_EDIT_WEAPON_REFINE: 武器鍊成
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: 要鍊成以下的技能嗎？
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: 鍊成
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: 請選擇要鍊成技能的角色。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: 請選擇要鍊成的技能。
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: 因為是鍊成技能，所以無法繼承。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: 鍊成更強的武器！
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: ◆武器鍊成◆\n可以透過鍊成強化武器。\n\n會消費ＳＰ、\n鍊成石、鬥技獎牌。\n\n鬥技獎牌\n可以在鬥技場獲得。
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: ◆部份武器的鍊成◆\n部份武器的鍊成\n需要消費神鍊水滴，\n而非鍊成石。\n\n神鍊水滴可以在\n消費鍊成石\n進行武器鍊成時獲得。
+MID_UNIT_EDIT_BLESSING: 賦予祝福
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: 賦予祝福，和傳承英雄一起出擊！
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: ◆賦予祝福◆\n可以消費道具「祝福」，\n將祝福賦予給夥伴。\n\n無法將祝福賦予給\n菲約爾姆等傳承英雄。
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: ◆祝福的效果１◆\n透過戰鬥獲得的ＳＰ\n會變為２倍。\n\n(雖然無法賦予祝福給傳承英雄，\n但傳承英雄一開始\n透過戰鬥獲得的ＳＰ即為２倍)
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: ◆祝福的效果２◆\n受到與目前季節相同祝福的夥伴，\n若和同種類的傳承英雄一同出擊，\n可得到特別效果。\n（例）…\n在「水」的季節時，\n被賦予「水」之祝福的夥伴，\n若與「水」之傳承英雄菲約爾姆一起\n出擊，則ＨＰ＋３、速度＋３。
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: ◆目前季節◆\n目前季節會顯示於\n會戰首頁畫面的左上方。\n\n◆傳承英雄◆\n傳承英雄在狀態畫面\n帶有特別的圖示，\n點觸圖示就可確認傳承效果。
+MID_UNIT_EDIT_SORT_BLESSING: 祝福
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・透過戰鬥獲得的經驗值、ＳＰ為２倍\n・在「火」的季節，\n　與「火」的傳承英雄一同出擊，\n　將獲得該位英雄的傳承效果加持
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・透過戰鬥獲得的經驗值、ＳＰ為２倍\n・在「水」的季節，\n　與「水」的傳承英雄一同出擊，\n　將獲得該位英雄的傳承效果加持
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・透過戰鬥獲得的經驗值、ＳＰ為２倍\n・在「風」的季節，\n　與「風」的傳承英雄一同出擊，\n　將獲得該位英雄的傳承效果加持
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・透過戰鬥獲得的經驗值、ＳＰ為２倍\n・在「地」的季節，\n　與「地」的傳承英雄一同出擊，\n　將獲得該位英雄的傳承效果加持
+MID_UNIT_EDIT_BLESSING_HELP1: 請選擇想賦予祝福的角色。
+MID_UNIT_EDIT_BLESSING_HELP2: 請選擇想賦予的祝福。
+MID_UNIT_EDIT_BLESSING_APPLIED: 已被賦予
+MID_UNIT_EDIT_BLESSING_SELECTED: 選擇中
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: 未持有
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: 要賦予「火之祝福」嗎？\n\n受到祝福的英雄\n若是在「火」的季節\n與「火」的傳承英雄一同出擊，\n會提升能力。
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: 要賦予「水之祝福」嗎？\n\n受到祝福的英雄\n若是在「水」的季節\n與「水」的傳承英雄一同出擊，\n會提升能力。
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: 要賦予「風之祝福」嗎？\n\n受到祝福的英雄\n若是在「風」的季節\n與「風」的傳承英雄一同出擊，\n會提升能力。
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: 要賦予「地之祝福」嗎？\n\n受到祝福的英雄\n若是在「地」的季節\n與「地」的傳承英雄一同出擊，\n會提升能力。
+MID_UNIT_EDIT_BLESSING_WARNING: 若賦予別的新祝福，\n過去受到的祝福效果將消失。
+MID_UNIT_EDIT_BLESSING_DECIDE: 賦予祝福
+MID_SEASON_HELP_FIRE: ◆季節：「火」◆\n・受到「火」之祝福的夥伴\n　與「火」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_WATER: ◆季節：「水」◆\n・受到「水」之祝福的夥伴\n　與「水」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_WIND: ◆季節：「風」◆\n・受到「風」之祝福的夥伴\n　與「風」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_EARTH: ◆季節：「地」◆\n・受到「地」之祝福的夥伴\n　與「地」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_FIREWATER: ◆季節：「火」「水」◆\n・受到「火」之祝福的夥伴\n　與「火」的傳承英雄一同出擊時將會變強\n・受到「水」之祝福的夥伴\n　與「水」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_FIREWIND: ◆季節：「火」「風」◆\n・受到「火」之祝福的夥伴\n　與「火」的傳承英雄一同出擊時將會變強\n・受到「風」之祝福的夥伴\n　與「風」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_FIREEARTH: ◆季節：「火」「地」◆\n・受到「火」之祝福的夥伴\n　與「火」的傳承英雄一同出擊時將會變強\n・受到「地」之祝福的夥伴\n　與「地」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_WATERWIND: ◆季節：「水」「風」◆\n・受到「水」之祝福的夥伴\n　與「水」的傳承英雄一同出擊時將會變強\n・受到「風」之祝福的夥伴\n　與「風」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_WATEREARTH: ◆季節：「水」「地」◆\n・受到「水」之祝福的夥伴\n　與「水」的傳承英雄一同出擊時將會變強\n・受到「地」之祝福的夥伴\n　與「地」的傳承英雄一同出擊時將會變強
+MID_SEASON_HELP_WINDEARTH: ◆季節：「風」「地」◆\n・受到「風」之祝福的夥伴\n　與「風」的傳承英雄一同出擊時將會變強\n・受到「地」之祝福的夥伴\n　與「地」的傳承英雄一同出擊時將會變強

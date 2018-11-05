@@ -1,0 +1,38 @@
+[Heroes Archive] (NABARL)
+
+
+Heroes Message Name: Message
+
+
+MID_NABARL_HOME1: Conque es aquí donde se reúnen\nlos mejores guerreros de todos\nlos mundos, ¿eh? Interesante...
+MID_NABARL_HOME2: ¿Por qué me miras?
+MID_NABARL_HOME3: No pierdas el tiempo hablando con\nla gente. Es mejor concentrarse\npara la batalla.
+MID_NABARL_HOME4: ¿Necesitas algo? Si no es así,\nprefiero estar solo.
+MID_NABARL_HOME5: Este castillo está lleno de sujetos\nextraños. Te incluyo en el grupo, sí.
+MID_NABARL_FRIEND: Saludos de\n$Nf...
+MID_NABARL_LEVEL1: No está mal.
+MID_NABARL_LEVEL2: En fin, algo es algo.
+MID_NABARL_LEVEL3: (...)
+MID_NABARL_SKILL: No necesito ayuda para combatir.\nAl fin y al cabo, es mi trabajo.
+MID_NABARL_JOIN: Soy Nabarl, mercenario.\nY de los caros.
+MID_NABARL_STRONGEST: Normalmente lucho solo, pero...$k$pCreo que vería con buenos ojos que\nmi futuro siguiese ligado al vuestro.$k$pNo me hagas caso.\nNo sé lo que digo.$k$pHe tenido un arrebato sentimental.\nDebe de ser culpa tuya,\n$Nu.
+MID_NABARL_VOICE01: はぁっ！
+MID_NABARL_VOICE02: せいっ！
+MID_NABARL_VOICE03: うああっ！
+MID_NABARL_VOICE04: Che...
+MID_NABARL_VOICE05: Ha llegado tu hora.
+MID_NABARL_VOICE06: ¿Me pones a prueba?
+MID_NABARL_VOICE07: Tú te lo has buscado.
+MID_NABARL_VOICE08: Lo siento por ti.
+MID_NABARL_VOICE09: This is it.
+MID_NABARL_VOICE10: ...sigh
+MID_NABARL_VOICE11: What?
+MID_NABARL_VOICE12: I don't work cheap.
+MID_NABARL_VOICE13: I'm busy right now.
+MID_NABARL_VOICE14: I'll help, but I don't "chat."
+MID_NABARL_VOICE15: I have vowed never to turn a blade on a woman.
+MID_NABARL_VOICE16: I doubt there is anyone who can cross blades with me and live.
+MID_NABARL_VOICE17: Don't die out there.
+MID_NABARL_VOICE18: All right.
+MID_NABARL_VOICE19: Now what?
+MID_NABARL_VOICE20: Done.

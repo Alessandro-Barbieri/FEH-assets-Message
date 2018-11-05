@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: I had Prince Alfonse try on this outfit.\nIt annoys me how much better it suits\nhim than it suits me.
+MID_CHROM_WINTER01_HOME2: When the winter festival comes, we\nfestoon the castle at Ylisstol in red\nand green.$k$pDo you think you'd like to do the same\nhere?
+MID_CHROM_WINTER01_HOME3: Aren't you cold? I wouldn't be much\nof a Hero if I let our summoner\ncollapse. Here, take my cape.
+MID_CHROM_WINTER01_HOME4: Can you show me to town after our\nnext mission? I'd like to buy presents\nfor all of these hardworking Heroes.
+MID_CHROM_WINTER01_HOME5: I took a look inside this sack... Turns\nout it's full of presents for the entire\narmy. I better not lose it, eh?
+MID_CHROM_WINTER01_FRIEND: Season's greetings! I bring glad\ntidings and presents, too... If you've\nbeen good, that is.
+MID_CHROM_WINTER01_LEVEL1: I've been graced with a present\nmyself, it seems.
+MID_CHROM_WINTER01_LEVEL2: It's pretty tough to fight while\nlugging this sack around.
+MID_CHROM_WINTER01_LEVEL3: I guess I lost my holiday spirit for\na moment there.
+MID_CHROM_WINTER01_SKILL: Is this your gift to me? I thank\nyou!
+MID_CHROM_WINTER01_JOIN: Season's greetings! I'm Prince Chrom\nof the Halidom of Ylisse. Naughty or\nnice—which is it? Speak up!
+MID_CHROM_WINTER01_STRONGEST: Here for a chat? I appreciate that you\nbraved the cold to come and find me,\nbut spare a thought for your health.$k$pIf you caught a cold, you wouldn't be\nable to enjoy the winter celebrations.$k$pIn Ylisse, we have a tradition... On the\nday of the winter festival, we give gifts\nto our family and our closest friends.$k$pNormally, I'd be giving out the gifts.\nBut hear me out, no matter how odd\nthis sounds...$k$pIt seems to me that, ever since I\narrived in Askr, it's been you that's\nbeen giving gifts to me.$k$pDoes that make any sense?$k$pGifts aren't just things. You spend\ntime with me. You're by my side,\ncheering me on.$k$pYou make me stronger.$k$pThat...makes me happier than you\ncan guess. I'm truly grateful. I'll do\nwhat I can to do the same for you.
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: Hey! Cut it out!
+MID_CHROM_WINTER01_VOICE05: Here's your present!
+MID_CHROM_WINTER01_VOICE06: Look what I got!
+MID_CHROM_WINTER01_VOICE07: Parties give me strength!
+MID_CHROM_WINTER01_VOICE08: I can hardly wait!
+MID_CHROM_WINTER01_VOICE09: Going home...
+MID_CHROM_WINTER01_VOICE10: Heehee...
+MID_CHROM_WINTER01_VOICE11: Lissa made me wear this.
+MID_CHROM_WINTER01_VOICE12: I wonder what kind of present you would like?
+MID_CHROM_WINTER01_VOICE13: This is apparently a winter-celebration outfit from another world.
+MID_CHROM_WINTER01_VOICE14: Red is not my color.
+MID_CHROM_WINTER01_VOICE15: I suppose Falchion CAN be used to slice cake...
+MID_CHROM_WINTER01_VOICE16: Change outfits ONCE and I get summoned...?
+MID_CHROM_WINTER01_VOICE17: I suggest you hang a stocking somewhere tonight.
+MID_CHROM_WINTER01_VOICE18: OK.
+MID_CHROM_WINTER01_VOICE19: On it.
+MID_CHROM_WINTER01_VOICE20: Party?

@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_VALENTINE01_HOME1: Entonces, ¿en tu mundo también\nse celebra un festival de la devoción?\n¿Te hicieron muchos regalos?
+MID_LIN_VALENTINE01_HOME2: No estoy acostumbrada a llevar\nropa tan elegante... No me deja\nmoverme a mi antojo.
+MID_LIN_VALENTINE01_HOME3: Oye, $Nu...\n¿A ti qué tipo de cosas...?\nBueno, nada. ¡Olvídalo!
+MID_LIN_VALENTINE01_HOME4: Para la gente de las llanuras, las\ncelebraciones y los regalos a otras\ntribus son muy importantes.$k$pLas tribus viven separadas,\npero estos detalles ayudan\na sentirse siempre cerca.
+MID_LIN_VALENTINE01_HOME5: Ojalá Hector y Eliwood me dejaran\nentrenar con ellos... Quiero darle\nlas gracias a Hector por su ayuda.
+MID_LIN_VALENTINE01_FRIEND: Este regalo es de parte\nde $Nf.\n¿Qué será?
+MID_LIN_VALENTINE01_LEVEL1: No pensaba que me fueran a ir\ntan bien las cosas vestida así.
+MID_LIN_VALENTINE01_LEVEL2: En la guerra y en el amor,\nhay que darlo siempre todo.
+MID_LIN_VALENTINE01_LEVEL3: Me habré despistado por estar\nplaneando el regalo perfecto...
+MID_LIN_VALENTINE01_SKILL: Te lo agradezco, y te prometo\nque te devolveré el favor.
+MID_LIN_VALENTINE01_JOIN: Soy Lyn. Dicen que este atuendo es\nideal para un festival del amor, pero...\nvestida así, es difícil moverse.
+MID_LIN_VALENTINE01_STRONGEST: $Nu...\n¿Hay algún regalo en concreto...\nque te gustaría que te hicieran?$k$pDiscúlpame por preguntar algo así\ntan de repente. Debe de haber\nsonado un poco raro.$k$pMe has ayudado mucho, y quería\ndarte las gracias..., pero no sé\ncuál sería la mejor forma.$k$pHe pensado en regalarte algo.\nCualquier cosa que esté en mi mano.$k$pAsí que... ¿Qué quieres?\nPuedes pedir lo que te apetezca.
+MID_LIN_VALENTINE01_VOICE01: それっ！
+MID_LIN_VALENTINE01_VOICE02: あげるわ
+MID_LIN_VALENTINE01_VOICE03: いやぁっ！
+MID_LIN_VALENTINE01_VOICE04: そんな…！
+MID_LIN_VALENTINE01_VOICE05: Toma este regalo.
+MID_LIN_VALENTINE01_VOICE06: ¡Toma!
+MID_LIN_VALENTINE01_VOICE07: ¡Con todo mi amor!
+MID_LIN_VALENTINE01_VOICE08: No soy dulce.
+MID_LIN_VALENTINE01_VOICE09: Broken...hearted.
+MID_LIN_VALENTINE01_VOICE10: あ…
+MID_LIN_VALENTINE01_VOICE11: My tribe also has a festival where we give each other presents.
+MID_LIN_VALENTINE01_VOICE12: Hya! Grr... You almost made me drop these presents.
+MID_LIN_VALENTINE01_VOICE13: I wonder what I should give my grandfather...
+MID_LIN_VALENTINE01_VOICE14: It's said that if you give a present to someone you love during this festival, you just may wind up as a couple.
+MID_LIN_VALENTINE01_VOICE15: What do I want? I'd need time to think about it.
+MID_LIN_VALENTINE01_VOICE16: How could I express my feelings with a gift?
+MID_LIN_VALENTINE01_VOICE17: So, um... Is there anything you want?
+MID_LIN_VALENTINE01_VOICE18: Wonderful.
+MID_LIN_VALENTINE01_VOICE19: A tough choice...
+MID_LIN_VALENTINE01_VOICE20: Which do you like?

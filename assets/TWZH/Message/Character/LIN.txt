@@ -1,0 +1,39 @@
+[Heroes Archive] (LIN)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_HOME1: 今天的風……\n吹起來好舒服啊。
+MID_LIN_HOME2: 劍勢並不是單純的攻擊而已，\n還代表著那個人的心境。\n你現在的心情是……
+MID_LIN_HOME3: 老是勞煩你呢。\n你是不是累得想睡了？\n休息也很重要喔。
+MID_LIN_HOME4: 欸，要不要一起爬上那座山丘，\n在上面欣賞景色？\n應該會很漂亮喔。
+MID_LIN_HOME5: 放輕鬆，保持平靜……\n雖然看起來只是靜靜地不動，\n但這也是鍛鍊劍術的一種方式。
+MID_LIN_FRIEND: $Nf\n託我來向你致意。\n今後也要跟他好好相處喔。
+MID_LIN_LEVEL1: 故鄉的風聲……\n在祝福著我……
+MID_LIN_LEVEL2: 呵呵！\n大概就是這樣吧。
+MID_LIN_LEVEL3: 唉……完全不行呢。\n我得更努力精進才行。
+MID_LIN_SKILL: 謝謝你。\n這樣一來，我就能變得更強了。
+MID_LIN_JOIN: 我是草原之民琳迪絲，\n姑且算是基亞蘭的女爵……\n不過你用不著放在心上。
+MID_LIN_STRONGEST: 今天我想再次鄭重向你道謝。$k$p啊，不是什麼大事啦。\n只是……\n因為我一直受到你的幫助。$k$p你不僅給了我勇氣，\n還貼心地關懷我……\n我真的很高興。$k$p你就像是……\n在塞迦的大地上\n溫柔吹拂的一陣風……$k$p呵呵，不好意思。\n沒什麼啦。\n總之……今後也請你多多指教囉。
+MID_LIN_VOICE01: 喝！
+MID_LIN_VOICE02: 呀！
+MID_LIN_VOICE03: 呀啊～！
+MID_LIN_VOICE04: 別因為我是女人就……
+MID_LIN_VOICE05: 一決勝負！
+MID_LIN_VOICE06: 我才不會輸呢！
+MID_LIN_VOICE07: 看劍！
+MID_LIN_VOICE08: 看招！
+MID_LIN_VOICE09: 我……還沒……
+MID_LIN_VOICE10: 呵呵！
+MID_LIN_VOICE11: 叫我嗎？
+MID_LIN_VOICE12: 呀！？真是的……亂開玩笑的話，我會生氣喔。
+MID_LIN_VOICE13: 欸，我有點事情想跟你說。
+MID_LIN_VOICE14: 討厭啦，你睡迷糊了嗎？
+MID_LIN_VOICE15: 我出身於草原……所以不太熟悉禮儀。
+MID_LIN_VOICE16: 真懷念啊……草原之風……
+MID_LIN_VOICE17: 你可別離開我身邊喔。
+MID_LIN_VOICE18: 知道了。
+MID_LIN_VOICE19: 請給我指示。
+MID_LIN_VOICE20: 我們走吧！
+MID_LIN_VOICE21: 你是誰？告訴我你的名字吧？

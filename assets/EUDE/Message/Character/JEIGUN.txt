@@ -1,0 +1,38 @@
+[Heroes Archive] (JEIGUN)
+
+
+Heroes Message Name: Message
+
+
+MID_JEIGUN_HOME1: Das ist ein schönes Schloss, voller\nGeschichte und Eleganz. Vielleicht\nnicht ganz so großartig wie Schloss$k$pAltea, aber die Messlatte wäre auch\netwas hoch angesetzt...
+MID_JEIGUN_HOME2: König Cornelius, wenn Ihr nur sehen\nkönntet, dass Prinz Marth zu einem\nwackeren jungen Mann herangereift ist!
+MID_JEIGUN_HOME3: Beispielhafte Arbeit auf Patrouille!\nNächstes Mal werde ich Euch\nbegleiten.$k$pDenkt nicht, ich könne nicht mehr\nmit Euch mithalten!
+MID_JEIGUN_HOME4: Ich könnte Euch viel über alteanische\nGeschichte und Prinz Marth erzählen.\nAber das würde mehrere Tage dauern!
+MID_JEIGUN_HOME5: Ich habe mich wohl am Rücken\nverletzt. Könntet Ihr vielleicht hier\nso fest drücken, wie Ihr könnt?
+MID_JEIGUN_FRIEND: Ihr seid $Nu?\n$Nf sendet\nEuch die wärmsten Grüße.
+MID_JEIGUN_LEVEL1: Hmpf... Scheint, als wäre ich\nnoch zu etwas zu gebrauchen.
+MID_JEIGUN_LEVEL2: Das ist nur normal für einen\nRittmeister von Altea.
+MID_JEIGUN_LEVEL3: Ich bringe Schande über mein\nLand und über meinesgleichen.
+MID_JEIGUN_SKILL: Unglaublich, dass sogar ich noch\nneue Tricks lernen kann...
+MID_JEIGUN_JOIN: Ich bin Jagen, einer der Ritter von\nAltea, Leibwache von Prinz Marth.\nBehandelt mich nicht wie einen Greis!
+MID_JEIGUN_STRONGEST: Viele Jahre habe ich als Ritter gedient,\naber nie bin ich jemandem begegnet,\nder so wie Ihr gewesen wäre.$k$pFolgen wir alle Euch nur, weil Ihr\nuns gerufen habt? Ich denke nicht!\nZumindest nicht allein deshalb.$k$pIhr habt etwas an Euch, das andere\ndazu inspiriert, für Euch zu kämpfen.\nMir fehlen die Worte dafür...$k$pEs erinnert mich ein wenig an Prinz\nMarth, der auch ganz selbstverständ-\nlich Helden für seine Sache gewinnt.$k$pIn jedem Fall ist es mein Wunsch, die\nZeit, die mir noch bleibt, im Kampf an\nEurer Seite zu verbringen.
+MID_JEIGUN_VOICE01: ふんっ！
+MID_JEIGUN_VOICE02: ぬぅんっ！
+MID_JEIGUN_VOICE03: ぬおおっ！
+MID_JEIGUN_VOICE04: Not good!
+MID_JEIGUN_VOICE05: Aus dem Weg!
+MID_JEIGUN_VOICE06: Ich bin noch nicht fertig!
+MID_JEIGUN_VOICE07: Wende dich nicht von mir ab!
+MID_JEIGUN_VOICE08: Für Prinz Marth!
+MID_JEIGUN_VOICE09: Pitiful...
+MID_JEIGUN_VOICE10: Hm
+MID_JEIGUN_VOICE11: Did you need something of me?
+MID_JEIGUN_VOICE12: I will never understand the young...
+MID_JEIGUN_VOICE13: You are young, but I see wisdom in your eyes.
+MID_JEIGUN_VOICE14: These old bones can be of service to you yet.
+MID_JEIGUN_VOICE15: I won't be outdone by any of those young striplings!
+MID_JEIGUN_VOICE16: I wonder how many more battles I have in me...
+MID_JEIGUN_VOICE17: Take care not to worry your elders. We know best.
+MID_JEIGUN_VOICE18: Hmm.
+MID_JEIGUN_VOICE19: Your servant.
+MID_JEIGUN_VOICE20: Hya!

@@ -1,0 +1,38 @@
+[Heroes Archive] (MARC_M)
+
+
+Heroes Message Name: Message
+
+
+MID_MARC_M_HOME1: ¡Tu túnica blanca es una pasada!\nPero no esperaba menos de ti,\n¡$Gel estratega,la estratega| de los Guardianes!$k$p¿Me dejarías... probármela?\nSolo será un momento.
+MID_MARC_M_HOME2: No recuerdo nada de mi mundo...\nSolo recuerdo mi nombre, y algunas\ncosas sobre mi madre...$k$p¡Pero seguro que lo recordaré\ntodo muy pronto!
+MID_MARC_M_HOME3: ¿Estás de guardia? ¡Gracias por\ntrabajar duro! A veces, dar un paseo\npuede inspirar nuevas estrategias.$k$p¿Alguna vez se te ha ocurrido alguna\ntécnica increíble mientras estabas\nde guardia?
+MID_MARC_M_HOME4: Tú también vienes de otro mundo,\n¿verdad? Saber que estamos en la\nmisma situación me hace sentir mejor.$k$pAprendamos más sobre este mundo\njuntos.
+MID_MARC_M_HOME5: Estaba fuera del castillo, explorando.\n¡La geografía de este mundo\nes nueva y emocionante!$k$pCuando me acerqué a las ruinas,\nsentí que estaba a punto de recordar\nalgo...
+MID_MARC_M_FRIEND: ¿Eres $Nu?\n¡$Nf te\nmanda saludos!
+MID_MARC_M_LEVEL1: Fiu... ¡Voy tan rápido\ncomo puedo, madre!
+MID_MARC_M_LEVEL2: ¡Cada vez estoy más\ncerca de mi gran sueño!
+MID_MARC_M_LEVEL3: Vaya... Eso ha resultado\nalgo decepcionante...
+MID_MARC_M_SKILL: Me recuerda a cuando mi madre\nme dio un libro de estrategia.
+MID_MARC_M_JOIN: Me llamo Linfan, y soy hijo\nde Daraen, ¡la brillante estratega!\n¿Has visto a mi madre por aquí?
+MID_MARC_M_STRONGEST: Uy, ¡me has pillado! Te estaba\nmirando desde allí y esperaba\nque no te dieras cuenta...$k$pAunque no debería sorprenderme:\neres $Gel segundo mejor,la segunda mejor| estratega\nque conozco.$k$pMi madre es la mejor, claro.\n¡Aunque tú podrías ser su rival!$k$pPor eso quería preguntarte\nsi podría ser tu aprendiz.$k$p¡Uy! Se me ha escapado el plan.\nSeguro que ahora no querrás\nque lo sea...$k$p¿Eh? ¿Sí que quieres? ¿De verdad?\n¡Muchas gracias! ¡Eres una pasada!\nY tan amable como mi madre.$k$pMe muero por aprender estrategia\nde ti. ¡Ahora sí que no me voy\na apartar de tu lado!$k$pPorque, pase lo que pase,\n¡siempre confiaré en ti!
+MID_MARC_M_VOICE01: はいっ！
+MID_MARC_M_VOICE02: Here I go!
+MID_MARC_M_VOICE03: うあっ！
+MID_MARC_M_VOICE04: N-no...
+MID_MARC_M_VOICE05: ¡Jaque mate!
+MID_MARC_M_VOICE06: Principiante.
+MID_MARC_M_VOICE07: ¡Mi plan da sus frutos!
+MID_MARC_M_VOICE08: ¡Así no podrás ganar!
+MID_MARC_M_VOICE09: Bad move...
+MID_MARC_M_VOICE10: Heehee
+MID_MARC_M_VOICE11: My mother is the greatest tactician who's ever lived, you know.
+MID_MARC_M_VOICE12: I've learned a lot watching your tactical style.
+MID_MARC_M_VOICE13: Would it be OK for me to browse through the Order's library?
+MID_MARC_M_VOICE14: Heh. I dug a pitfall nearby—don't tell anyone!
+MID_MARC_M_VOICE15: Huh? How'd I wind up with two copies of this strategy book?
+MID_MARC_M_VOICE16: Someday, I hope to be a strategist to rival my mother...
+MID_MARC_M_VOICE17: I'm glad to be able to help out, even if I've got a lot to learn.
+MID_MARC_M_VOICE18: OK!
+MID_MARC_M_VOICE19: Hmmm...
+MID_MARC_M_VOICE20: What's the plan?

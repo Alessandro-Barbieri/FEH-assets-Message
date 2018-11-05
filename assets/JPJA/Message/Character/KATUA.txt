@@ -1,0 +1,38 @@
+[Heroes Archive] (KATUA)
+
+
+Heroes Message Name: Message
+
+
+MID_KATUA_HOME1: パオラ姉様、私、エスト…\n三姉妹全員が天馬騎士なの。
+MID_KATUA_HOME2: マケドニアには飛竜に乗る竜騎士団と\nペガサスに乗る白騎士団があるの。\n私が所属するのは白騎士団の方ね。
+MID_KATUA_HOME3: はぁ……　あっ、ごめんなさい。\n物思いなんて…恥ずかしいところを\n見せてしまったわね…
+MID_KATUA_HOME4: パオラ姉様からよく言われるの。\nカチュアは頭が良いのに頭が固いって…\nどっちなのよ、もう…
+MID_KATUA_HOME5: ええ、これから訓練よ。\n私にはパオラ姉様やエストほどの\n才能はないから…その分努力しないと。
+MID_KATUA_FRIEND: $Nfの\n遣いで参りました。\nどうかこれからも変わらぬ友情を。
+MID_KATUA_LEVEL1: 好調の時こそ、\n気を引き締めないと。
+MID_KATUA_LEVEL2: ゆっくりでも着実に\n成長を重ねて…
+MID_KATUA_LEVEL3: こんな姿…\n見せられない…
+MID_KATUA_SKILL: 積み重ねてきた結果が\nやっと形になって嬉しいわ。
+MID_KATUA_JOIN: マケドニア白騎士団\n三姉妹の次女、カチュアです。\nミネルバ王女にお仕えしています。
+MID_KATUA_STRONGEST: 私はいつも遠くを見ているように\n見えていた…ですって？$k$pふふっ、あなたからそういう風に\n見えていたのなら…\nそうなのかもしれないわね。$k$pでも…もう大丈夫。\n今はあなたとの絆を…\n確かに感じることができるから。$k$pええ、私はこれから…\n強く、気高く、前を見て、\n闘うことができると思うわ。$k$pあなたが…\n傍にいてくれたら…
+MID_KATUA_VOICE01: はいっ！
+MID_KATUA_VOICE02: せいっ！
+MID_KATUA_VOICE03: きゃああっ！
+MID_KATUA_VOICE04: くっ…こんな…
+MID_KATUA_VOICE05: いきます
+MID_KATUA_VOICE06: これでとどめ
+MID_KATUA_VOICE07: この技なら…
+MID_KATUA_VOICE08: 命に代えても
+MID_KATUA_VOICE09: ああ…
+MID_KATUA_VOICE10: ふふっ
+MID_KATUA_VOICE11: どんな任務でも務めてみせるわ
+MID_KATUA_VOICE12: きゃっ！？　な、何のつもり…？
+MID_KATUA_VOICE13: 白騎士団の名に恥じないように
+MID_KATUA_VOICE14: あなたのことは尊敬してるわ
+MID_KATUA_VOICE15: 仲間同士、助け合いましょう
+MID_KATUA_VOICE16: これは、抱いてはいけない気持ち…
+MID_KATUA_VOICE17: 傍にいてくれて、ありがとう…
+MID_KATUA_VOICE18: わかったわ
+MID_KATUA_VOICE19: 慎重に
+MID_KATUA_VOICE20: 行きます

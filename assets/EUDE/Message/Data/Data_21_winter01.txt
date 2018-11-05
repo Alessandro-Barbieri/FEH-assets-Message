@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: Sharena
+MID_MISSION_S201712BRAVE01_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_S201712BRAVE01_A1: Bewältige die erste Stufe\ndes Übungsturms mit\nSharena in deinem Team.
+MID_MISSION_S201712BRAVE01_A2: Übungsturm: 5. Stufe
+MID_MISSION_H_S201712BRAVE01_A2: Bewältige die fünfte Stufe\ndes Übungsturms mit\nSharena in deinem Team.
+MID_MISSION_S201712BRAVE01_A3: Übungsturm: 9. Stufe
+MID_MISSION_H_S201712BRAVE01_A3: Bewältige die neunte Stufe\ndes Übungsturms mit\nSharena in deinem Team.
+MID_MISSION_S201712BRAVE01_A4: Übungsturm: 10. Stufe
+MID_MISSION_H_S201712BRAVE01_A4: Bewältige die 10. Stufe des Übungs-\nturms mit Sharena und zwei Verb.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712BRAVE01_A5: Sharena siegt
+MID_MISSION_H_S201712BRAVE01_A5: Lass Sharena einige\nGegner besiegen.
+MID_MISSION_S201712BRAVE01_A6: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201712BRAVE01_A6: Lass Sharena einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201712BRAVE01_A7: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201712BRAVE01_A7: Lass Sharena einige Gegner\nbesiegen, die Level 40\noder höher sind.
+MID_MISSION_S201712CHARA01_TITLE: Drei Helden
+MID_MISSION_S201712CHARA01_A1: Gegner besiegen
+MID_MISSION_H_S201712CHARA01_A1: Besiege einen Gegner.
+MID_MISSION_S201712CHARA01_A2: Laslow greift an
+MID_MISSION_H_S201712CHARA01_A2: Lass Laslow einige\nGegner besiegen.
+MID_MISSION_S201712CHARA01_A3: Florina greift an
+MID_MISSION_H_S201712CHARA01_A3: Lass Florina einige\nGegner besiegen.
+MID_MISSION_S201712CHARA01_B1: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201712CHARA01_B1: Lass Laslow einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201712CHARA01_B2: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201712CHARA01_B2: Lass Florina einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201712CHARA01_B3: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201712CHARA01_B3: Lass Bartre einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201712CHARA01_C1: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201712CHARA01_C1: Lass Laslow einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201712CHARA01_C2: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201712CHARA01_C2: Lass Florina einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201712CHARA01_C3: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201712CHARA01_C3: Lass Bartre einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201712HERO02_TITLE: Große Heldenkämpfe
+MID_MISSION_S201712HERO02_A1: Nabarl besiegen
+MID_MISSION_H_S201712HERO02_A1: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge mit\nAlfonse im Team.
+MID_MISSION_S201712HERO02_A2: Nabarl besiegen
+MID_MISSION_H_S201712HERO02_A2: Gewinne den Gr. Heldenkampf gg.\nNabarl: Rote Klinge mit Nabarl:\nRote Klinge auf Extrem o. höher.
+MID_MISSION_S201712HERO02_A3: Nabarl besiegen
+MID_MISSION_H_S201712HERO02_A3: Setze Alfonse ein und besiege\nNabarl: Rote Klinge, der\nLevel 40 oder höher ist.
+MID_MISSION_S201712HERO02_A4: Nabarl besiegen
+MID_MISSION_H_S201712HERO02_A4: Setze Nabarl: Rote Klinge ein und\nbesiege Nabarl: Rote Klinge, der\nLevel 40 oder höher ist.
+MID_MISSION_S201712HERO02_A5: Nabarl besiegen
+MID_MISSION_H_S201712HERO02_A5: Gewinne d. Großen Heldenkampf gg.\nNabarl: Rote Klinge auf Extrem o. höher\nmit einem Team aus Infanterieeinheiten.
+MID_MISSION_S201712SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201712SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201712SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201712SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201712SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201712SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712STORY01_TITLE: Bote des Winters
+MID_MISSION_S201712STORY01_A1: Nebenq. 16-1 - Extrem
+MID_MISSION_H_S201712STORY01_A1: Bewältige Nebenquest 16 - Tl. 1 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712STORY01_A2: Nebenq. 16-2 - Extrem
+MID_MISSION_H_S201712STORY01_A2: Bewältige Nebenquest 16 - Tl. 2 im Modus\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712STORY01_A3: Nebenq. 16-3 - Extrem
+MID_MISSION_H_S201712STORY01_A3: Bewältige Nebenquest 16 - Tl. 3 im Modus\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MPID_冬祭クロム: Chrom
+MPID_冬祭リズ: Lissa
+MPID_冬祭ルフレ男: Daraen
+MPID_冬祭サーリャ: Tharja
+MPID_HONOR_冬祭クロム: Der Großzügige
+MPID_HONOR_冬祭リズ: Reine Freude
+MPID_HONOR_冬祭ルフレ男: Wintertaktiker
+MPID_HONOR_冬祭サーリャ: "Normale Frau"
+MPID_H_冬祭クロム: Ein Prinz von Ylisse und Nachfahre\ndes Heldenkönigs. Er wurde während\neiner Feier für ein Winterfest gerufen.\nErscheint in Fire Emblem: Awakening.
+MPID_H_冬祭リズ: Eine Prinzessin von Ylisse und Chroms\nSchwester. Von allen Genüssen des\nWinterfests mag sie Kuchen am liebsten.\nErscheint in Fire Emblem: Awakening.
+MPID_H_冬祭ルフレ男: Chroms rechte Hand und ein Taktiker mit\nGedächtnisverlust. Denkt viel darüber nach,\nwie er das Winterfest genießen kann.\nErscheint in Fire Emblem: Awakening.
+MPID_H_冬祭サーリャ: Eine für gewöhnlich unheimliche Magierin aus\nPlegia, die sich aus unerfindlichen Gründen\nfröhlich gibt...\nErscheint in Fire Emblem: Awakening.
+MPID_VOICE_冬祭クロム: Matt Mercer
+MPID_VOICE_冬祭リズ: Kate Davis
+MPID_VOICE_冬祭ルフレ男: David Vincent
+MPID_VOICE_冬祭サーリャ: Stephanie Sheh
+MPID_ILLUST_冬祭クロム: Ebila (えびら)
+MPID_ILLUST_冬祭リズ: Umiu Geso (海鵜げそ)
+MPID_ILLUST_冬祭ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_冬祭サーリャ: Washimoto (わし元)
+MSID_聖樹: Tannenbumm!
+MSID_聖樹＋: Tannenbumm!+
+MSID_プレゼント袋: Geschenksack
+MSID_プレゼント袋＋: Geschenksack+
+MSID_ハンドベル: Handglocke
+MSID_ハンドベル＋: Handglocke+
+MSID_燭台: Kronleuchter
+MSID_燭台＋: Kronleuchter+
+MSID_攻撃速さの大覚醒1: Agr./Ges. erh. 1
+MSID_攻撃速さの大覚醒2: Agr./Ges. erh. 2
+MSID_攻撃速さの大覚醒3: Agr./Ges. erh. 3
+MSID_攻撃守備の大覚醒1: Agr./Ver. erh. 1
+MSID_攻撃守備の大覚醒2: Agr./Ver. erh. 2
+MSID_攻撃守備の大覚醒3: Agr./Ver. erh. 3
+MSID_攻撃隊形1: Tapferkeit 1
+MSID_攻撃隊形2: Tapferkeit 2
+MSID_攻撃隊形3: Tapferkeit 3
+MSID_迎撃隊形1: Rachsucht 1
+MSID_迎撃隊形2: Rachsucht 2
+MSID_迎撃隊形3: Rachsucht 3
+MSID_赤魔の技量1: Ro. Buch Mut 1
+MSID_赤魔の技量2: Ro. Buch Mut 2
+MSID_赤魔の技量3: Ro. Buch Mut 3
+MSID_H_聖樹: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_聖樹＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_プレゼント袋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_プレゼント袋＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_ハンドベル: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_ハンドベル＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_燭台: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_燭台＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_攻撃速さの大覚醒1: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ges. +3 im Kampf.
+MSID_H_攻撃速さの大覚醒2: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ges. +5 im Kampf.
+MSID_H_攻撃速さの大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ges. +7 im Kampf.
+MSID_H_攻撃守備の大覚醒1: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +3 im Kampf.
+MSID_H_攻撃守備の大覚醒2: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +5 im Kampf.
+MSID_H_攻撃守備の大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +7 im Kampf.
+MSID_H_攻撃隊形1: Initiiert die Einheit den Kampf und\nsind KP der Einheit = 100 %, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_攻撃隊形2: Initiiert die Einheit den Kampf und\nsind die KP der Einheit ≥ 50 %, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_攻撃隊形3: Initiiert die Einheit den Kampf, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_迎撃隊形1: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 90 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_迎撃隊形2: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 70 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_迎撃隊形3: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 50 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_赤魔の技量1: Überlebt die Einheit und verwendet\nein rotes Buch, erhält sie FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_赤魔の技量2: Überlebt die Einheit, erhalten alle\nBuchanwender (rot) im Team FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_赤魔の技量3: Überlebt die Einheit, erhalten alle\nBuchanwender (rot) im Team FP x 2.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MID_CHAPTER_TITLE_CX015: Nebenquest 16
+MID_CHAPTER_CX015: Bote des Winters
+MID_STAGE_TITLE_X0151: Nebenq. 16: Tl. 1
+MID_STAGE_TITLE_X0152: Nebenq. 16: Tl. 2
+MID_STAGE_TITLE_X0153: Nebenq. 16: Tl. 3
+MID_STAGE_X0151: Hol dir die Geschenke!
+MID_STAGE_X0152: Lamettatrubel
+MID_STAGE_X0153: Wenn du artig bist...
+MID_STAGE_TITLE_ST_X0014: Nebenquest 15
+MID_STAGE_TITLE_ST_X0015: Nebenquest 16
+MID_STAGE_TITLE_ST_X1015: Nebenq. 15 & 16
+MID_CHAPTER_ST_CX008: Nebenq. 15 & 16
+MID_STAGE_HONOR_V0121: Täglich
+MID_STAGE_V0121: Teil 1
+MID_STAGE_HONOR_V0122: Täglich
+MID_STAGE_V0122: Teil 2
+MID_STAGE_HONOR_V0123: Täglich
+MID_STAGE_V0123: Teil 3
+MID_STAGE_HONOR_V0124: Täglich
+MID_STAGE_V0124: Teil 4
+MID_STAGE_HONOR_V0125: Täglich
+MID_STAGE_V0125: Teil 5
+MID_STAGE_HONOR_V0126: Täglich
+MID_STAGE_V0126: Teil 6
+MID_STAGE_HONOR_V0127: Täglich
+MID_STAGE_V0127: Teil 7
+MID_STAGE_HONOR_V0131: Täglich
+MID_STAGE_V0131: Teil 8
+MID_STAGE_HONOR_V0132: Täglich
+MID_STAGE_V0132: Teil 9
+MID_STAGE_HONOR_V0133: Täglich
+MID_STAGE_V0133: Teil 10
+MID_STAGE_HONOR_V0134: Täglich
+MID_STAGE_V0134: Teil 11
+MID_STAGE_HONOR_V0135: Neujahr
+MID_STAGE_V0135: Teil 1
+MID_STAGE_HONOR_V0136: Neujahr
+MID_STAGE_V0136: Teil 2
+MID_STAGE_HONOR_V0137: Neujahr
+MID_STAGE_V0137: Teil 3

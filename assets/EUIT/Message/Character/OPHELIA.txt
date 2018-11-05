@@ -1,0 +1,38 @@
+[Heroes Archive] (OPHELIA)
+
+
+Heroes Message Name: Message
+
+
+MID_OPHELIA_HOME1: Così tu saresti l'$GEvocatore,Evocatrice|, vero?\n$GUn grande eroe,Una grande eroina| senza alcun\nequivalente tra tutti i reami...$k$pUffa! Sembri proprio un personaggio\nda leggenda, $Gun prescelto,una prescelta|! Sono\ninvidiosa!
+MID_OPHELIA_HOME2: Sono cresciuta nel grande mare di\nstelle... Un luogo noto anche come\nRegno Etereo.$k$pNon avevo molte occasioni di vedere\ni miei genitori, per cui imploravo\ngli astri di tenerli al sicuro.
+MID_OPHELIA_HOME3: Ho inventato un nuovo e incredibile\nincantesimo! L'ho trascritto nel mio\ndiario... Ma non ricordo a che pagina!
+MID_OPHELIA_HOME4: Mi porteresti con te in quel maestoso\nportale che trascende i confini dei\nmondi?$k$pIntendo le rovine per le evocazioni,\novviamente! Al solo pensiero di quel\nluogo il mio cuore di pulzella palpita!
+MID_OPHELIA_HOME5: Stavo lustrando una pietra sacra.$k$pUna profezia non penetra un cuore\noffuscato... e il bagliore delle stelle\nnon risplende in una pietra opaca.
+MID_OPHELIA_FRIEND: Così come una stessa luce brilla su\nregni diversi, anche una profezia può\nraggiungere mondi differenti.$k$pStavolta la profezia è un saluto per te!
+MID_OPHELIA_LEVEL1: Spero che tu mi stia guardando,\npadre!
+MID_OPHELIA_LEVEL2: Percepisco la luce delle stelle. Nulla\ndi strano, per una prescelta.
+MID_OPHELIA_LEVEL3: Uffa, speravo di diventare più forte in\nun battibaleno!
+MID_OPHELIA_SKILL: Un luminoso potere risiede in me...\nOphelia l'Ombrosa è rinata!
+MID_OPHELIA_JOIN: Sono Ophelia, una guerriera scelta\ndalle stelle. Immagino di doverti dire\nche è un piacere incontrarti. Dimmi...$k$pMio padre Odin risiede forse in\nquesta florida terra?
+MID_OPHELIA_STRONGEST: Cercavo proprio te, $Gil prescelto,la prescelta| che\nporta il titolo di $GEvocatore,Evocatrice|.$k$pOggi, ti faccio dono di una luce!\nTa-daaa! Ecco la pietra sacra\ndell'amicizia!$k$pL'ho trovata poco dopo essere giunta\nin questo mondo. È dello stesso\ncolore dei tuoi occhi!$k$pL'ho lustrata un po' alla volta, giorno\ndopo giorno, durante le nostre\nconversazioni e le nostre battaglie.$k$pQueste memorie condivise brillano\ncome le stelle e ora sono racchiuse\nper sempre in questa pietra.$k$pQuesto la rende abbastanza luminosa\nda essere degna del nome di pietra\nsacra!$k$pEcco perché questo è il momento\nperfetto per regalartela.$k$pSpero che tu dia a questa pietra\nun bel nome. Risplende di tutti\ni ricordi che hai di me.$k$pSpero anche che continueremo ad\nandare d'accordo per sempre, fino\nalla fine dei tempi.
+MID_OPHELIA_VOICE01: はあっ！
+MID_OPHELIA_VOICE02: えーい！
+MID_OPHELIA_VOICE03: きゃあっ！
+MID_OPHELIA_VOICE04: Nooo!
+MID_OPHELIA_VOICE05: Guarda di cosa sono capace!
+MID_OPHELIA_VOICE06: Montante dell'Illuminazione!
+MID_OPHELIA_VOICE07: La mia passione risplende!
+MID_OPHELIA_VOICE08: Benedizioni celestiali!
+MID_OPHELIA_VOICE09: So many...stars...
+MID_OPHELIA_VOICE10: Well met!
+MID_OPHELIA_VOICE11: This land's beauty is as great as that of the stars sparkling in the sky.
+MID_OPHELIA_VOICE12: My tome? It's a divine weapon given to me by my father. Its name is Missiletainn.
+MID_OPHELIA_VOICE13: The Order of Heroes is the best! You're all... Pow! And Ka-blam!
+MID_OPHELIA_VOICE14: Ah! I was just transmitting my thoughts to the stars. Did you need me for something?
+MID_OPHELIA_VOICE15: I have an unusual mark on my arm. Would you like to see it?
+MID_OPHELIA_VOICE16: I wonder when I'll truly become a chosen one. Like my father.
+MID_OPHELIA_VOICE17: Ta-da! I found a beautiful gemstone, and it's begging for a name. Will you assist me in thinking of one?
+MID_OPHELIA_VOICE18: Mm-hmm!
+MID_OPHELIA_VOICE19: Ophelia Dusk!
+MID_OPHELIA_VOICE20: By the stars!

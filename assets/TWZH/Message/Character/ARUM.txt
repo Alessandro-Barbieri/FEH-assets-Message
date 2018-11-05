@@ -1,0 +1,38 @@
+[Heroes Archive] (ARUM)
+
+
+Heroes Message Name: Message
+
+
+MID_ARUM_HOME1: 這裡全是從沒見過的事物，\n還有許多不同的人……\n真是太震撼了。
+MID_ARUM_HOME2: 解放軍的戰鬥目的，是為了\n解放遭宰相多哲篡奪的索菲亞。\n這場硬仗還沒結束喔。
+MID_ARUM_HOME3: 你在巡視大家的狀況啊？\n真是了不起。\n身為解放軍的領袖，我得向你看齊才行。
+MID_ARUM_HOME4: 嘿，能聊一聊你的事情嗎？\n我對這裡的事物很陌生……\n不管聊什麼，我都會很興奮喔。
+MID_ARUM_HOME5: 我剛剛在練劍。\n因為我只要待著不動就會心神不寧……\n真懷念瑪伊森爺爺的怒吼聲啊。
+MID_ARUM_FRIEND: $Nf要我來\n向你致意。\n哦，這裡就是異界的亞斯克王國啊……
+MID_ARUM_LEVEL1: 全身湧出力量……\n的確有變強的感覺。
+MID_ARUM_LEVEL2: 我會用這股力量\n給你更多的協助。\n
+MID_ARUM_LEVEL3: 狀況不太好……\n抱歉，$Nu。\n
+MID_ARUM_SKILL: 是你給了我力量嗎？\n謝謝你，我一定不會辜負你的期望！\n
+MID_ARUM_JOIN: 我是阿雷武。\n是索菲亞解放軍的領袖。\n這把劍一定能助你一臂之力！
+MID_ARUM_STRONGEST: 嗨，$Nu。\n如果不介意的話，\n我想跟你好好聊一聊。$k$p我一直聽從撫養我長大的爺爺的話，\n從未踏出過拉姆村一步。\n所以，我從來不知道世界是如此廣大。$k$p因為你把我召喚到這個世界來，\n我才能得知各種事物，認識形形色色的人，\n每天都充滿了驚奇和感動。$k$p此外，你還讓我感到一種……\n和村裡的朋友不同的奇異羈絆。\n只要待在你身邊就很安心……$k$p你是第二個讓我有這種感覺的人。\n不只是知識和經驗而已。\n和你的邂逅，本身就是一個驚喜。
+MID_ARUM_VOICE01: 嘿！
+MID_ARUM_VOICE02: 看招！
+MID_ARUM_VOICE03: 糟了……！
+MID_ARUM_VOICE04: 你說什麼……？！
+MID_ARUM_VOICE05: 就用這招決勝負！
+MID_ARUM_VOICE06: 要上了！
+MID_ARUM_VOICE07: 我不會輸的！
+MID_ARUM_VOICE08: 接招吧！
+MID_ARUM_VOICE09: 各位，對不起……
+MID_ARUM_VOICE10: 哈哈！
+MID_ARUM_VOICE11: 這裡還真是個神奇的地方啊。
+MID_ARUM_VOICE12: 我幾乎從來沒有踏出過村子一步。
+MID_ARUM_VOICE13: 必須更努力去了解這世界才行呢。
+MID_ARUM_VOICE14: 我的朋友都是些有趣的好傢伙。
+MID_ARUM_VOICE15: 雖然辛苦，但還比不上爺爺的鍛鍊。
+MID_ARUM_VOICE16: 賽莉卡，妳現在在做什麼呢……？
+MID_ARUM_VOICE17: 如果能幫上你的忙，我也會很欣慰喔。
+MID_ARUM_VOICE18: 好！
+MID_ARUM_VOICE19: 呃……
+MID_ARUM_VOICE20: 包在我身上。

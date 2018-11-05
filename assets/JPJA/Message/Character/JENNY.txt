@@ -1,0 +1,38 @@
+[Heroes Archive] (JENNY)
+
+
+Heroes Message Name: Message
+
+
+MID_JENNY_HOME1: このお城、とってもきれいね。\nわたしもお姫さまになったみたい……！\nずっとここにいられたらいいのにな。
+MID_JENNY_HOME2: わたしはね、修道院で育ったの。\nいまは会えないけどお父さんがいるのよ。\n会いたいな……
+MID_JENNY_HOME3: あなたって、いつも動き回ってばかりで\n心配になっちゃう……\nたまにはいっしょにお昼寝しよ？
+MID_JENNY_HOME4: わたし、自分で作ったお話を書いているの。\n誰かに読んでほしいんだけど……\nねえ、今度お願いしていい？
+MID_JENNY_HOME5: …………は！　ごめんなさい。\nいまねえ、お話を考えてたの。\nうふふ……聞きたい？
+MID_JENNY_FRIEND: あ、あの……\n$Nfさんが\nあなたにご挨拶したいんだって。
+MID_JENNY_LEVEL1: わあい……！\nわたし、とっても強くなったでしょ？
+MID_JENNY_LEVEL2: えへへ、うれしいな。
+MID_JENNY_LEVEL3: そんなあ……\nつまんないの。
+MID_JENNY_SKILL: なんだかふわふわしちゃう……\nわたし、変わったのかな？
+MID_JENNY_JOIN: わたし、ジェニーっていうの。\n知らない人ばっかりで心細いな……\nやさしくしてね？
+MID_JENNY_STRONGEST: $Nuさあん……\nわたしのお願い、聞いてくれる？\nもっとあなたといっしょにいたいの。$k$pお休みのときはふたりでお茶を飲んだり、\n森や湖をお散歩したり……\nだから、もっと会いに来てほしいの。$k$pいまでもいっぱい来てくれてるけど……\nこんな甘えん坊のわたしは嫌い？\n……えへへ、ありがとう。$k$pうん。妹みたいってよく言われるよ。\nでもわたし、妹じゃやだな……\nあなたの特別になりたいの。$k$pそのためにも、甘えてばっかりじゃなくて\nもっと強くなれるようにがんばるよ。\nね、だから……ちゃんと見ててね？
+MID_JENNY_VOICE01: よいしょっ
+MID_JENNY_VOICE02: えーいっ
+MID_JENNY_VOICE03: きゃああああーっ！
+MID_JENNY_VOICE04: うそ、なんでえ…？
+MID_JENNY_VOICE05: どいてよ
+MID_JENNY_VOICE06: 怒ったよ！
+MID_JENNY_VOICE07: あなた、嫌い…
+MID_JENNY_VOICE08: ごめんね？
+MID_JENNY_VOICE09: やだよお……
+MID_JENNY_VOICE10: えへへ……
+MID_JENNY_VOICE11: はい、大丈夫？
+MID_JENNY_VOICE12: 元気になってね
+MID_JENNY_VOICE13: えっ、なあに？
+MID_JENNY_VOICE14: やだあ、くすぐったいよ。
+MID_JENNY_VOICE15: うふふ、甘えん坊さんだね。
+MID_JENNY_VOICE16: お父さんに会いたいな……
+MID_JENNY_VOICE17: あのね、わたし……あなたのためなら、なんでもするよ。
+MID_JENNY_VOICE18: うん、いいよ。
+MID_JENNY_VOICE19: ええっと……
+MID_JENNY_VOICE20: 見ててね！

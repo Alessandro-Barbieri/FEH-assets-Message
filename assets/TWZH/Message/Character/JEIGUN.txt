@@ -1,0 +1,38 @@
+[Heroes Archive] (JEIGUN)
+
+
+Heroes Message Name: Message
+
+
+MID_JEIGUN_HOME1: 哦……這座城堡真不錯。\n散發著悠久歷史的厚重與風格。\n雖然不及我們的阿利提亞城……
+MID_JEIGUN_HOME2: 康尼留斯王啊……\n馬爾斯殿下已經\n成長為優秀的王者了……
+MID_JEIGUN_HOME3: 勞煩殿下巡邏了。\n下次我也一起去吧。\n……可別把我當成老人家喔。
+MID_JEIGUN_HOME4: 談起馬爾斯殿下的豐功偉業，\n以及我們的阿利提亞王國，\n就算三天三夜也講不完啊。
+MID_JEIGUN_HOME5: 唔唔……\n好像閃到腰了啊。\n你能幫我壓一下這裡嗎？
+MID_JEIGUN_FRIEND: 你就是$Nu嗎？\n我是來替$Nf\n向你致意的。
+MID_JEIGUN_LEVEL1: 呼……我也還\n派得上用場啊。
+MID_JEIGUN_LEVEL2: 身為阿利提亞聖騎士，\n這是當然的。
+MID_JEIGUN_LEVEL3: 阿利提亞王國騎士團長的名聲\n可要掃地了……
+MID_JEIGUN_SKILL: 沒想到我還保有\n這樣的潛力啊。
+MID_JEIGUN_JOIN: 我是阿利提亞王國騎士傑剛，\n馬爾斯殿下的守護者。\n可別把我當成老人家喔。
+MID_JEIGUN_STRONGEST: 我以騎士的身分活了這麼久，\n然而……\n像你這種人，我還是第一次看到。$k$p我們之所以服從你，\n難道是因為契約之故？\n不，並不只是如此。$k$p是因為你有某種特質，\n讓我們願意和你並肩奮戰。\n雖然無法用言語表達……$k$p但你或許和馬爾斯殿下一樣……\n有著某種能吸引英雄的\n超凡魅力啊……$k$p我雖已垂垂老矣，卻仍想與你\n一同出生入死，直到命喪沙場為止。\n這是真心話喔。
+MID_JEIGUN_VOICE01: 哼！
+MID_JEIGUN_VOICE02: 唔！
+MID_JEIGUN_VOICE03: 唔喔～！
+MID_JEIGUN_VOICE04: 不行……！
+MID_JEIGUN_VOICE05: 退下！
+MID_JEIGUN_VOICE06: 我還沒輸！
+MID_JEIGUN_VOICE07: 別小看我！
+MID_JEIGUN_VOICE08: 為王子而戰！
+MID_JEIGUN_VOICE09: 真是……窩囊……
+MID_JEIGUN_VOICE10: 呵！
+MID_JEIGUN_VOICE11: 找我有事嗎？
+MID_JEIGUN_VOICE12: 我實在搞不懂年輕人的行為……
+MID_JEIGUN_VOICE13: 你這麼年輕……眼神卻很有勁。
+MID_JEIGUN_VOICE14: 讓我這老頭來幫你吧。
+MID_JEIGUN_VOICE15: 我可不會輸給年輕人喔。
+MID_JEIGUN_VOICE16: 我還能戰鬥到幾時呢……？
+MID_JEIGUN_VOICE17: 可別讓老人家太擔心啊。
+MID_JEIGUN_VOICE18: 嗯。
+MID_JEIGUN_VOICE19: 無須迷惘。
+MID_JEIGUN_VOICE20: 出征！

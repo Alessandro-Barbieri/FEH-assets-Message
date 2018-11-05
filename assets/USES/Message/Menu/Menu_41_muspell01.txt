@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: Sec. inicial (libro II)
+MID_ITEM_REFINE_STONE: Piedra de refinado
+MID_ITEM_HELP_REFINE_STONE: Se usa en la refinería de armas\npara mejorar armas normales.
+MID_ITEM_GOD_REFINE_STONE: Rocío divino
+MID_ITEM_HELP_GOD_REFINE_STONE: Se usa en la refinería de armas\npara mejorar armas especiales.
+MID_ITEM_ARENA_MEDAL: Medalla del coliseo
+MID_ITEM_HELP_ARENA_MEDAL: Se usa en la refinería de armas.
+MID_ITEM_BLESSING_FIRE: Bendición de fuego
+MID_ITEM_HELP_BLESSING_FIRE: Se usa en Conferir bendiciones\npara bendecir con fuego a un aliado.
+MID_ITEM_BLESSING_WATER: Bendición de agua
+MID_ITEM_HELP_BLESSING_WATER: Se usa en Conferir bendiciones\npara bendecir con agua a un aliado.
+MID_ITEM_BLESSING_WIND: Bendición de viento
+MID_ITEM_HELP_BLESSING_WIND: Se usa en Conferir bendiciones\npara bendecir con viento a un aliado.
+MID_ITEM_BLESSING_EARTH: Bendición de tierra
+MID_ITEM_HELP_BLESSING_EARTH: Se usa en Conferir bendiciones\npara bendecir con tierra a un aliado.
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: Libro I
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: Libro II
+MID_STAGE_OPEN_WEAPON_REFINE: Se ha desbloqueado\nla refinería de armas.
+MID_SUMMON_SEASON2_DAYS: $a$a1 Termina en $a0 d.
+MID_SUMMON_SEASON2_HOURS: $a$a1 Termina en $a0 h.
+MID_SUMMON_SEASON2_MINUTES: $a$a1 Termina en $a0 m.
+MID_SUMMON_LIMITED_BEGINNER: ¡Solo para principiantes!
+MID_SUMMON_ONE_TIME_FREE: ¡Primera invocación gratuita!
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: ¡Primera invocación gratuita, solo para\nprincipiantes!
+MID_SUMMON_ONE_TIME_FREE_DECIDE: Invocar
+MID_UNIT_EDIT_WEAPON_REFINE: Refinería de armas
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: ¿Quieres refinar la habilidad de abajo?
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: Refinar
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: Elige un personaje con la habilidad que quieres refinar.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: Elige una habilidad.
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: Esta habilidad refinada no se puede legar.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: ¡Refina armas y aumenta su poder!
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: -Refinería de armas-\nAquí puedes refinar armas para\naumentar su poder.\n\nPara ello necesitarás piedras de\nrefinado, PH y medallas del coliseo\n(que se consiguen en el coliseo).
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: -Rocío divino-\nPara refinar algunas armas,\nnecesitarás rocío divino\nen vez de piedras de refinado.\n\nPuedes crearlo en la refinería\nde armas con piedras de refinado.
+MID_UNIT_EDIT_BLESSING: Conferir bendiciones
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: ¡Bendición de héroes legendarios!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: -Conferir bendiciones-\nPuedes conferir bendiciones\na tus aliados usando objetos\nde bendición.\n\nNo se pueden conferir a Fjorm\nu otros héroes legendarios.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: -Efectos de bendiciones 1-\nLos aliados bendecidos reciben\nel doble de PH de lo normal.\n\nAunque no se pueden conferir\nbendiciones a los héroes\nlegendarios, estos siempre\nganarán el doble de PH\nen las batallas.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: -Efectos de bendiciones 2-\nSi haces que coincidan el tipo\nde héroe legendario, de temporada\ny de bendición, ganarás una\nbonificación.\n\nPor ejemplo, lucha con Fjorm,\nla heroína legendaria de agua\ndurante la temporada de agua y\ncon aliados con bendición de agua\ny ganarás PV +3 y Vel. +3.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: -Horarios de temporada-\nLee información de la temporada\nen la parte superior de la pantalla\nde combate y otras ubicaciones.\n\n-Héroes legendarios-\nLos héroes legendarios tienen\nun ícono especial en su perfil.\nTócalo para ver el tipo de efecto\nlegendario que tienen.
+MID_UNIT_EDIT_SORT_BLESSING: Bendiciones
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・Recibe el doble de Exp. y PH en\nlas batallas.\n・Durante la temporada de fuego,\nlos héroes legendarios de este tipo\nte dan mejoras de atributos si ambas\nunidades participan en una batalla.
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・Recibe el doble de Exp. y PH en\nlas batallas.\n・Durante la temporada de agua,\nlos héroes legendarios de este tipo\nte dan mejoras de atributos si ambas\nunidades participan en una batalla.
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・Recibe el doble de Exp. y PH en\nlas batallas.\n・Durante la temporada de viento,\nlos héroes legendarios de este tipo\nte dan mejoras de atributos si ambas\nunidades participan en una batalla.
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・Recibe el doble de Exp. y PH en\nlas batallas.\n・Durante la temporada de tierra,\nlos héroes legendarios de este tipo\nte dan mejoras de atributos si ambas\nunidades participan en una batalla.
+MID_UNIT_EDIT_BLESSING_HELP1: Elige el personaje al que quieras bendecir.
+MID_UNIT_EDIT_BLESSING_HELP2: Elige una bendición.
+MID_UNIT_EDIT_BLESSING_APPLIED: En uso
+MID_UNIT_EDIT_BLESSING_SELECTED: Elegida
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: No dsp.
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: -Bendición de fuego-\n\nLos atributos del aliado elegido\nmejorarán al luchar junto a un\nhéroe legendario de este tipo\ndurante la temporada de fuego.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: -Bendición de agua-\n\nLos atributos del aliado elegido\nmejorarán al luchar junto a un\nhéroe legendario de este tipo\ndurante la temporada de agua.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: -Bendición de viento-\n\nLos atributos del aliado elegido\nmejorarán al luchar junto a un\nhéroe legendario de este tipo\ndurante la temporada de viento.
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: -Bendición de tierra-\n\nLos atributos del aliado elegido\nmejorarán al luchar junto a un\nhéroe legendario de este tipo\ndurante la temporada de tierra.
+MID_UNIT_EDIT_BLESSING_WARNING: Al conferir una bendición nueva, se\nanularán las anteriores y sus efectos.
+MID_UNIT_EDIT_BLESSING_DECIDE: Conferir bendición
+MID_SEASON_HELP_FIRE: -Temporada de fuego-\nAl luchar junto a un héroe legendario\nde fuego, mejoran los atributos de\nlos aliados bendecidos con fuego.
+MID_SEASON_HELP_WATER: -Temporada de agua-\nAl luchar junto a un héroe legendario\nde agua, mejoran los atributos de\nlos aliados bendecidos con agua.
+MID_SEASON_HELP_WIND: -Temporada de viento-\nAl luchar junto a un héroe legendario\nde viento, mejoran los atributos de\nlos aliados bendecidos con viento.
+MID_SEASON_HELP_EARTH: -Temporada de tierra-\nAl luchar junto a un héroe legendario\nde tierra, mejoran los atributos de\nlos aliados bendecidos con tierra.
+MID_SEASON_HELP_FIREWATER: -Temporada de fuego y agua-\nAl luchar junto a un héroe legendario\nde fuego, mejoran los atributos de\nlos aliados bendecidos con fuego.\nAl luchar junto a un héroe legendario\nde agua, mejoran los atributos de\nlos aliados bendecidos con agua.
+MID_SEASON_HELP_FIREWIND: -Temporada de fuego y viento-\nAl luchar junto a un héroe legendario\nde fuego, mejoran los atributos de\nlos aliados bendecidos con fuego.\nAl luchar junto a un héroe legendario\nde viento, mejoran los atributos de\nlos aliados bendecidos con viento.
+MID_SEASON_HELP_FIREEARTH: -Temporada de fuego y tierra-\nAl luchar junto a un héroe legendario\nde fuego, mejoran los atributos de\nlos aliados bendecidos con fuego.\nAl luchar junto a un héroe legendario\nde tierra, mejoran los atributos de\nlos aliados bendecidos con tierra.
+MID_SEASON_HELP_WATERWIND: -Temporada de agua y viento-\nAl luchar junto a un héroe legendario\nde agua, mejoran los atributos de\nlos aliados bendecidos con agua.\nAl luchar junto a un héroe legendario\nde viento, mejoran los atributos de\nlos aliados bendecidos con viento.
+MID_SEASON_HELP_WATEREARTH: -Temporada de agua y tierra-\nAl luchar junto a un héroe legendario\nde agua, mejoran los atributos de\nlos aliados bendecidos con agua.\nAl luchar junto a un héroe legendario\nde tierra, mejoran los atributos de\nlos aliados bendecidos con tierra.
+MID_SEASON_HELP_WINDEARTH: -Temporada de viento y tierra-\nAl luchar junto a un héroe legendario\nde viento, mejoran los atributos de\nlos aliados bendecidos con viento.\nAl luchar junto a un héroe legendario\nde tierra, mejoran los atributos de\nlos aliados bendecidos con tierra.

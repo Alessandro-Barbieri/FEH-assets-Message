@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: ◆+3 per gli eroi bonus◆\nPer ogni nemico sconfitto usando\nun eroe bonus, ottieni tre punti\nextra ai fini del tuo punteggio.
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: Sconfitti + sopravvissuti
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: Sconfitti + sopravvissuti
+MID_OCCUPATION_RESULT_DEFENCE_HUB: Difesa campi
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aLa battaglia $a0 termina tra poco.
+MID_OCCUPATION_LEFT_TIME_WARNING: I risultati alla fine del rnd non sono contati.
+MID_PORTRAIT_DAILY_BONUS_INFO_59: Ottieni 2 sfere al giorno completando\nuna mappa (massimo 7 giorni).
+MID_PORTRAIT_HELP_DIALOG_03_02: ◆Ricompensa sfere giornaliera◆\nOttieni 2 sfere al giorno\ncompletando una mappa\n(massimo 7 giorni).
+MID_SEQUENTIAL_MAP_TERM_201809: La porta del fato
+MID_TAP_BATTLE_CONFIG_REVERSE: Cambia\nsinistra/destra
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: ◆Cambia sinistra/destra◆\nAttiva questa opzione per\ncambiare la direzione da cui\nentrano nemici e alleati.\n\n◆Velocità◆\nPuoi aumentare la velocità\ndei nemici fino a 3 volte.\nLa velocità dei boss rimane\ninvariata.
+MID_RELAY_HELP_DIALOG_00: Dopo due turni, arrivano i rinforzi!
+MID_RELAY_HELP_DIALOG_01: ◆Difesa alterna◆\n・ 5 alleati, dei 20 che formano\nla tua brigata, si uniranno alla\nbattaglia.\n・ Nei turni 3, 5 e 7, la tua\nsquadra attuale di 5 alleati\nlascia il posto a quella successiva.\n・ La battaglia termina al turno 8\no con la distruzione del fortino.
+MID_RELAY_HELP_DIALOG_02: ◆I fortini◆\n・ Servono 3 colpi per distruggere\ni fortini.\n・ Se li controlli, puoi trasferirti\nda un fortino all'altro.\n・ Gli alleati dentro a un fortino\nrecuperano 10 PS a inizio turno.\n・ I fortini sono considerati\nterreno difensivo.
+MID_RELAY_HELP_DIALOG_03: ◆I campi◆\n・ Servono 2 colpi per distruggere\ni campi.\n・ Se li controlli, puoi trasferirti\nda un campo all'altro.\n・ Gli alleati dentro a un campo\nrecuperano 10 PS a inizio turno.\n・ I campi sono considerati\nterreno difensivo.
+MID_RELAY_HELP_DIALOG_04: ◆I trasferimenti◆\nGli alleati adiacenti ai fortini e\nai campi che controlli possono\nistantaneamente trasferirsi su\nuno spazio adiacente a un altro\nterreno difensivo posto sotto\nil tuo controllo.
+MID_RELAY_HELP_DIALOG_05: ◆Punteggi di Difesa alterna◆\nAlla fine della battaglia riceverai\nun punteggio.\n\nPuoi aumentare il tuo punteggio\nproteggendo i tuoi fortini e i tuoi\ncampi mentre aiuti gli alleati a\nsopravvivere finché non escono.
+MID_RELAY_HELP_DIALOG_06: ◆Altre regole di Difesa alterna◆\n・ Arriveranno rinforzi nemici.\n・ Non puoi ottenere valore eroe.
+MID_UNIT_EDIT_DISPOSE: Gestisci alleati
+MID_UNIT_EDIT_STOCK_GENERATE: Crea manuale di lotta
+MID_UNIT_EDIT_STOCK_SELL: Scambia manuali
+MID_UNIT_EDIT_STOCK_LIST: I tuoi manuali
+MID_UNIT_EDIT_STOCK_EMPTY: Non hai manuali di lotta.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: Scegli un eroe e crea un manuale di lotta.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: Congeda i personaggi selezionati\nper ottenere un manuale di lotta.
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: Crea
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: Vuoi creare un manuale di lotta?
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: I personaggi che usi per creare\nun manuale di lotta saranno\neliminati dalla tua base.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: I seguenti elementi non saranno\ninclusi nel manuale di lotta:
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・ Livelli ed Esp
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・ Abilità apprese
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・ Abilità ereditate o perfezionate
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・ Numero di fusioni
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・ Doni conferiti
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: Perderai per sempre gli alleati\nche vengono eliminati dalla base.\nVuoi creare lo stesso un manuale\ndi lotta?
+MID_UNIT_EDIT_STOCK_SELL_LABEL: Scambia
+MID_UNIT_EDIT_STOCK_SELL_HELP1: Scegli il manuale da scambiare.
+MID_UNIT_EDIT_STOCK_SELL_HELP2: Conferma i manuali da scambiare.
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a×$a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: Scambia
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: Vuoi scambiare i manuali di lotta\nselezionati?
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: Se scambi un manuale di lotta,\nlo perderai per sempre.
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: Non puoi recuperare un manuale\ndi lotta una volta che lo scambi.\n\nConferma la tua scelta.
+MID_UNIT_EDIT_STOCK_LIST_HELP: Ecco l'elenco dei tuoi manuali di lotta.
+MID_UNIT_EDIT_STOCK_HELP: Manuale di lotta:\nPuoi usarlo al posto di un alleato\nin Eredita abilità, Fondi alleati\ne altre modalità.
+MID_UNIT_EDIT_PROMOTION_HELP1_2: Scegli un eroe e aumenta le ★.
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: Scegli il numero di manuali di lotta da migliorare.
+MID_UNIT_EDIT_SELL_WARNING_1: I personaggi che congedi saranno\neliminati dalla base.
+MID_UNIT_EDIT_SELL_WARNING_2: Perderai per sempre gli alleati\nche vengono eliminati dalla base.\nVuoi congedarli lo stesso?
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $ax$a0/$a1
+MID_STOCK_HELP_DIALOG_00: I manuali migliorano gli alleati!
+MID_STOCK_HELP_DIALOG_01: ◆Creare manuali di lotta◆\nPuoi scegliere di congedare\nun alleato e in cambio ricevi\nil suo manuale di lotta.\nNota: perderai gli alleati di cui\nottieni il manuale.
+MID_STOCK_HELP_DIALOG_02: ◆Usare i manuali di lotta 1◆\nUsa un manuale di lotta per\nFondi alleati, Eredita abilità o in\naltre occasioni in cui si usano\ngli eroi.\n\nUn manuale, come gli eroi, ha\nun livello di ★ che puoi aumentare\ntramite Sblocca potenziale.
+MID_STOCK_HELP_DIALOG_03: ◆Usare i manuali di lotta 2◆\nI seguenti elementi non saranno\ninclusi nel manuale di lotta:\n\n・ Livelli ed Esp\n・ Abilità apprese\n・ Abilità ereditate\no perfezionate\n・ Numero di fusioni\n・ Doni conferiti
+MID_STOCK_SELL_HELP_DIALOG_00: ◆Scambiare i manuali di lotta◆\nPuoi scambiare un manuale di\nlotta per delle penne dell'eroe.\nNota: perderai il manuale che\ndecidi di scambiare, quindi fai\nattenzione.
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: Hai raggiunto il limite di manuali\ndi lotta. Non puoi crearne altri.
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: Hai raggiunto il limite di manuali\ndi lotta. Non puoi potenziarne\naltri.
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: Priorità
+MID_UNIT_EDIT_SKILL_SET_RESET: Azzera set abilità
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: Eliminare il contenuto del set abilità?
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: ◆Sbloccare il potenziale◆\nUsando determinati oggetti puoi\nsbloccare il potenziale e\naumentare le ★ degli alleati.\n\nIl livello dell'alleato tornerà a 1,\nma con più ★ avrà parametri\nmigliori e potrà usare abilità più\npotenti.
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: Hai creato un manuale di lotta.\n\nPer vedere l'elenco completo,\ntocca I tuoi manuali.
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: Scambio completato.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: ◆Modifica brigate◆\nLa brigata è una squadra che usi\nin Lotta di potere e Difesa alterna.\nPuoi scegliere fino a 20 unità\ndalla tua base o da quella\ndei tuoi amici. Se ti mancano eroi,\nti verranno assegnati\nautomaticamente.

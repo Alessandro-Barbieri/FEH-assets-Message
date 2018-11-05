@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: Wind Blessing
+MID_MISSION_S201804BLESS01_A1: KO w/Wind Blessed Hero
+MID_MISSION_H_S201804BLESS01_A1: Defeat a foe using a Hero that has the\nWind Blessing conferred on them.\n(Note: This is not a wind-type Legendary Hero.)
+MID_MISSION_S201804BLESS01_A2: KO w/Wind Blessed Hero
+MID_MISSION_H_S201804BLESS01_A2: Defeat a level 20+ foe using a Hero that has\nthe Wind Blessing conferred on them.\n(Note: This is not a wind-type Legendary Hero.)
+MID_MISSION_S201804BLESS01_A3: KO w/Wind Blessed Hero
+MID_MISSION_H_S201804BLESS01_A3: Defeat a level 35+ red foe using a Hero that\nhas the Wind Blessing conferred on them.\n(Note: This is not a wind-type Legendary Hero.)
+MID_MISSION_S201804BLESS01_A4: KO w/Wind Blessed Hero
+MID_MISSION_H_S201804BLESS01_A4: Defeat a level 35+ blue foe using a Hero that\nhas the Wind Blessing conferred on them.\n(Note: This is not a wind-type Legendary Hero.)
+MID_MISSION_S201804BLESS01_A5: KO w/Wind Blessed Hero
+MID_MISSION_H_S201804BLESS01_A5: Defeat a level 35+ green foe using a Hero that\nhas the Wind Blessing conferred on them.\n(Note: This is not a wind-type Legendary Hero.)
+MID_MISSION_S201804BLESS01_A6: Tower: 1st Stratum
+MID_MISSION_H_S201804BLESS01_A6: Clear the First Stratum of the Training Tower\nusing a Hero that has the Wind Blessing\nconferred on them. (Note: This is not a wind-\ntype Legendary Hero.)
+MID_MISSION_S201804BLESS01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201804BLESS01_A7: Clear the Fifth Stratum of the Training Tower\nusing a Hero that has the Wind Blessing\nconferred on them. (Note: This is not a wind-\ntype Legendary Hero.)
+MID_MISSION_S201804BLESS01_A8: Tower: 10th Stratum
+MID_MISSION_H_S201804BLESS01_A8: Clear the Tenth Stratum of the Training Tower\nusing a Hero that has the Wind Blessing\nconferred on them. (Note: This is not a wind-\ntype Legendary Hero.)
+MID_MISSION_S201804GW01_TITLE: Golden Week
+MID_MISSION_S201804GW01_A1: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A1: Defeat green-type foes that are level 10 or\nhigher with red-type allies.
+MID_MISSION_S201804GW01_A2: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A2: Defeat red-type foes that are level 10 or higher\nwith blue-type allies.
+MID_MISSION_S201804GW01_A3: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A3: Defeat blue-type foes that are level 10 or higher\nwith green-type allies.
+MID_MISSION_S201804GW01_A4: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A4: Defeat axe foes that are level 10 or higher with\nred-type allies.
+MID_MISSION_S201804GW01_A5: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A5: Defeat sword foes that are level 10 or higher\nwith blue-type allies.
+MID_MISSION_S201804GW01_A6: KO Lvl. 10+ Foes
+MID_MISSION_H_S201804GW01_A6: Defeat lance foes that are level 10 or higher\nwith green-type allies.
+MID_MISSION_S201804GW01_A7: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A7: Defeat green-type foes that are level 20 or\nhigher with red-type allies.
+MID_MISSION_S201804GW01_A8: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A8: Defeat red-type foes that are level 20 or higher\nwith blue-type allies.
+MID_MISSION_S201804GW01_A9: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A9: Defeat blue-type foes that are level 20 or higher\nwith green-type allies.
+MID_MISSION_S201804GW01_A10: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A10: Defeat green magic foes that are level 20 or\nhigher with red-type allies.
+MID_MISSION_S201804GW01_A11: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A11: Defeat red magic foes that are level 20 or\nhigher with blue-type allies.
+MID_MISSION_S201804GW01_A12: KO Lvl. 20+ Foes
+MID_MISSION_H_S201804GW01_A12: Defeat blue magic foes that are level 20 or\nhigher with green-type allies.
+MID_MISSION_S201804GW01_A13: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A13: Defeat green-type foes that are level 35 or\nhigher with red-type allies.
+MID_MISSION_S201804GW01_A14: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A14: Defeat red-type foes that are level 35 or higher\nwith blue-type allies.
+MID_MISSION_S201804GW01_A15: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A15: Defeat blue-type foes that are level 35 or higher\nwith green-type allies.
+MID_MISSION_S201804GW01_A16: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A16: Defeat colorless-type foes that are level 35 or\nhigher with colorless-type allies.
+MID_MISSION_S201804GW01_A17: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A17: Defeat staff foes that are level 35 or higher with\nred-type allies.
+MID_MISSION_S201804GW01_A18: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A18: Defeat bow foes that are level 35 or higher with\nblue-type allies.
+MID_MISSION_S201804GW01_A19: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A19: Defeat dagger foes that are level 35 or higher\nwith green-type allies.
+MID_MISSION_S201804GW01_A20: KO Lvl. 35+ Foes
+MID_MISSION_H_S201804GW01_A20: Defeat sword foes that are level 35 or higher\nwith colorless-type allies.
+MID_MISSION_S201804KIZUNA02_TITLE: Bound Hero Battle
+MID_MISSION_S201804KIZUNA02_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201804KIZUNA02_A1: With Fjorm on your team, clear the Bound Hero\nBattle against Takumi & Hinoka.
+MID_MISSION_S201804KIZUNA02_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201804KIZUNA02_A2: With Anna on your team, clear the Bound Hero\nBattle against Takumi & Hinoka on Lunatic or\nhigher.
+MID_MISSION_S201804KIZUNA02_A3: Defeat Takumi
+MID_MISSION_H_S201804KIZUNA02_A3: Defeat level 40 or higher Takumi: Wild Card with\nFjorm.
+MID_MISSION_S201804KIZUNA02_A4: Defeat Hinoka
+MID_MISSION_H_S201804KIZUNA02_A4: Defeat level 40 or higher Hinoka: Warrior\nPrincess with Anna.
+MID_MISSION_S201804KIZUNA02_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201804KIZUNA02_A5: With an all-infantry team, clear the Bound Hero\nBattle against Takumi & Hinoka on Lunatic or\nhigher.
+MID_MISSION_S201804SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201804SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201804SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201804SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201804SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201804SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804STORY02_TITLE: Rite of Frost
+MID_MISSION_S201804STORY02_A1: Clear 8-1 on Lunatic
+MID_MISSION_H_S201804STORY02_A1: Clear Book II, Chapter 8: Part 1 on Lunatic with\na sword user on your team. All four allies must\nsurvive.
+MID_MISSION_S201804STORY02_A2: Clear 8-2 on Lunatic
+MID_MISSION_H_S201804STORY02_A2: Clear Book II, Chapter 8: Part 2 on Lunatic with\na lance user on your team. All four allies must\nsurvive.
+MID_MISSION_S201804STORY02_A3: Clear 8-3 on Lunatic
+MID_MISSION_H_S201804STORY02_A3: Clear Book II, Chapter 8: Part 3 on Lunatic with\nan axe user on your team. All four allies must\nsurvive.
+MID_MISSION_S201804STORY02_A4: Clear 8-4 on Lunatic
+MID_MISSION_H_S201804STORY02_A4: Clear Book II, Chapter 8: Part 4 on Lunatic with\na sword user on your team. All four allies must\nsurvive.
+MID_MISSION_S201804STORY02_A5: Clear 8-5 on Lunatic
+MID_MISSION_H_S201804STORY02_A5: Clear Book II, Chapter 8: Part 5 on Lunatic with\na lance user on your team. All four allies must\nsurvive.
+MID_MISSION_S201804TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201804TAPBTL01_D01_A1: Defeat Hector
+MID_MISSION_H_S201804TAPBTL01_D01_A1: Defeat the boss Hector on Normal difficulty in\nTap Battle.
+MID_MISSION_S201804TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201804TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201804TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201804TAPBTL01_D02_A1: Defeat Hector
+MID_MISSION_H_S201804TAPBTL01_D02_A1: Defeat the boss Hector on Hard difficulty in\nTap Battle.
+MID_MISSION_S201804TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201804TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201804TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201804TAPBTL01_D03_A1: Defeat Ike
+MID_MISSION_H_S201804TAPBTL01_D03_A1: Defeat the boss Ike on Normal difficulty in\nTap Battle.
+MID_MISSION_S201804TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201804TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201804TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201804TAPBTL01_D04_A1: Defeat Ike
+MID_MISSION_H_S201804TAPBTL01_D04_A1: Defeat the boss Ike on Hard difficulty in\nTap Battle.
+MID_MISSION_S201804TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201804TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201804TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201804TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201804TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201804TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201804TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201804TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201804TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201804TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201804TAPBTL02_A3: Clear a stage in Tap Battle.
+MPID_ヒノカ2: Hinoka
+MPID_カンナ女: Kana
+MPID_カンナ男: Kana
+MPID_シグレ: Shigure
+MPID_スズカゼ: Kaze
+MPID_HONOR_ヒノカ2: Blue Sky Warrior
+MPID_HONOR_カンナ女: Dragon Princess
+MPID_HONOR_カンナ男: Dragon Spawn
+MPID_HONOR_シグレ: Uplifting Artist
+MPID_HONOR_スズカゼ: Easygoing Ninja
+MPID_H_ヒノカ2: Princess of Hoshido. Soars higher\nand higher upon the back of a\nlegendary kinshi. Appears in\nFire Emblem Fates.
+MPID_H_カンナ女: Corrin's daughter. Cheerful and honest but\nhas lived a lonely life so far. Appears in Fire\nEmblem Fates.
+MPID_H_カンナ男: Corrin's son. Cheerful and honest but has\nlived a lonely life so far. Appears in Fire\nEmblem Fates.
+MPID_H_シグレ: Azura's son. A sensitive, gentle artist with\na voice to rival his mother's. Appears in Fire\nEmblem Fates.
+MPID_H_スズカゼ: A serious and disciplined ninja from Hoshido.\nHas a twin brother, Saizo. Popular with women.\nAppears in Fire Emblem Fates.
+MPID_VOICE_ヒノカ2: Cindy Robinson
+MPID_VOICE_カンナ女: Claudia Lenz
+MPID_VOICE_カンナ男: Sandy Fox
+MPID_VOICE_シグレ: Matt Mercer
+MPID_VOICE_スズカゼ: Xander Mobus
+MPID_ILLUST_ヒノカ2: Chiko (チーコ)
+MPID_ILLUST_カンナ女: Miwabe Sakura (みわべさくら)
+MPID_ILLUST_カンナ男: kawasumi (かわすみ)
+MPID_ILLUST_シグレ: Yura (由良)
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: Harmonic Lance
+MSID_倭鉾＋: Harmonic Lance+
+MSID_戦姫の和弓: Warrior Princess
+MSID_暗殺手裏剣: Barb Shuriken
+MSID_暗殺手裏剣＋: Barb Shuriken+
+MSID_水のブレス: Water Breath
+MSID_水のブレス＋: Water Breath+
+MSID_飛燕の構え2: Darting Stance 2
+MSID_飛燕の構え3: Darting Stance 3
+MSID_竜刃の紋章: Goad Dragons
+MSID_飛行の先導1: Flier Guidance 1
+MSID_飛行の先導2: Flier Guidance 2
+MSID_飛行の先導3: Flier Guidance 3
+MSID_H_倭鉾: Deals +10 damage when Special triggers.
+MSID_H_倭鉾＋: Deals +10 damage when Special triggers.
+MSID_H_戦姫の和弓: Effective against flying and armored foes.\nGrants Spd+3. Grants Atk+3 to allies within\n2 spaces during combat.
+MSID_H_暗殺手裏剣: Accelerates Special trigger (cooldown count-1).\nAfter combat, if unit attacked, inflicts Def/Res-5\non target and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_暗殺手裏剣＋: Accelerates Special trigger (cooldown count-1).\nAfter combat, if unit attacked, inflicts Def/Res-7\non target and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_水のブレス: If foe initiates combat, grants Def/Res+4\nduring combat. If foe's Range = 2, calculates\ndamage using the lower of foe's Def or Res.
+MSID_H_水のブレス＋: If foe initiates combat, grants Def/Res+4\nduring combat. If foe's Range = 2, calculates\ndamage using the lower of foe's Def or Res.
+MSID_H_飛燕の構え2: If foe initiates combat, grants Spd+4 during\ncombat.
+MSID_H_飛燕の構え3: If foe initiates combat, grants Spd+6 during\ncombat.
+MSID_H_竜刃の紋章: Grants Atk/Spd+4 to dragon allies\nwithin 2 spaces during combat.
+MSID_H_飛行の先導1: If unit's HP = 100%, flying allies within 2\nspaces can move to a space adjacent to unit.
+MSID_H_飛行の先導2: If unit's HP ≥ 50%, flying allies within 2\nspaces can move to a space adjacent\nto unit.
+MSID_H_飛行の先導3: Flying allies within 2 spaces can move\nto a space adjacent to unit.
+MID_CHAPTER_TITLE_C0208: Book II, Chapter 8
+MID_CHAPTER_C0208: Rite of Frost
+MID_STAGE_TITLE_S2081: Chapter 8: Part 1
+MID_STAGE_TITLE_S2082: Chapter 8: Part 2
+MID_STAGE_TITLE_S2083: Chapter 8: Part 3
+MID_STAGE_TITLE_S2084: Chapter 8: Part 4
+MID_STAGE_TITLE_S2085: Chapter 8: Part 5
+MID_STAGE_S2081: Prayer of the Child of Ice
+MID_STAGE_S2082: Tame the Savage Flame
+MID_STAGE_S2083: Unquenchable, Undying
+MID_STAGE_S2084: Vessel Filled with Power
+MID_STAGE_S2085: Rite of Frost
+MID_CHAPTER_ST_C0204: Chapters 7 & 8
+MID_STAGE_TITLE_ST_S0207: Chapter 7
+MID_STAGE_TITLE_ST_S0208: Chapter 8
+MID_STAGE_TITLE_ST_S1208: Chapters 7 & 8
+MID_STAGE_HONOR_T0030: Dragon Spawn
+MID_STAGE_T0030: Kana
+MID_TAP_BATTLE_DATA_TITLE_0003: Formidable Foes
+MID_MUSIC_NAME_BGM_MAP_FE07_02: Winds across the Plains
+MID_MUSIC_NAME_BGM_MAP_FE14_02: Dusk Falls (Fire)
+MID_MUSIC_NAME_BGM_MAP_FES_01: Fan Fest

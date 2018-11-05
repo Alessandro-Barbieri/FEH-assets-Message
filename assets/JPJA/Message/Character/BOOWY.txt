@@ -1,0 +1,38 @@
+[Heroes Archive] (BOOWY)
+
+
+Heroes Message Name: Message
+
+
+MID_BOOWY_HOME1: 異世界とか特務機関とか……\nなんか、夢みたいな話で\nいまだに信じられないんだよな。
+MID_BOOWY_HOME2: 俺はノーヴァっていう島の漁師の息子だよ。\n兄弟多くて大変だから、\n修道院に奉公に出されたんだ。
+MID_BOOWY_HOME3: あんたって働き者だよな。\nでも、ほどほどにしときなよ。\n体壊しちゃなんにもならねえよ。
+MID_BOOWY_HOME4: 俺、海を見るとほっとするんだ。\nこの世界の海にはどうやって行くんだ？\nよかったら連れてってくれよ。
+MID_BOOWY_HOME5: 魔道書を読み返してたんだよ。\nちゃんと勉強しとかないと\nノーマさまに叱られちまう。
+MID_BOOWY_FRIEND: $Nfから\n挨拶を届けにきたんだ。\n受け取ってくれよ。
+MID_BOOWY_LEVEL1: へへ……\nちょっとは浮かれてもいいよな？
+MID_BOOWY_LEVEL2: 贅沢は言わねえよ。\n\n
+MID_BOOWY_LEVEL3: 修行、やり直しだな……
+MID_BOOWY_SKILL: あんたが俺を信じてくれるなら\n俺、もっと強くなれる気がするよ。
+MID_BOOWY_JOIN: 俺はボーイ。魔道士だ。\n面倒なことは嫌いだけど、\n呼ばれちまったもんは仕方ないよな。
+MID_BOOWY_STRONGEST: 俺んちって、なんつーか貧乏でさ。\n俺だけ修道院に預けられてたんだ。\n魔道の素質があったってのもあるけど。$k$p別に辛かった訳じゃねえよ？\nでも、たまに違う場所に生まれていたら\nどうだったんだろうって、考えたりしたぜ。$k$pまあ、小さいうちだけだったけど……\n考えても仕方ないってわかったからな。\nなのに、それが起きちまった。$k$p召喚されて、生きる世界が違う人たちと\nいっしょに戦うなんて、すげえ体験だよな。\nあんたには感謝してるよ。$k$pそれにあんたのこと、他人に思えなくてさ。\nずっといっしょにいるせいかな？\nもう家族みたいな……そんな感じだよ。
+MID_BOOWY_VOICE01: たあっ
+MID_BOOWY_VOICE02: そこだ！
+MID_BOOWY_VOICE03: ちくしょう…！
+MID_BOOWY_VOICE04: うわあああーっ！！
+MID_BOOWY_VOICE05: そらよ！
+MID_BOOWY_VOICE06: 悪いな
+MID_BOOWY_VOICE07: どけよ！
+MID_BOOWY_VOICE08: 終わりだ！
+MID_BOOWY_VOICE09: いってえなあ……
+MID_BOOWY_VOICE10: へへっ
+MID_BOOWY_VOICE11: な、なんだよ。
+MID_BOOWY_VOICE12: やめろって！　子供じゃねえんだぞ。
+MID_BOOWY_VOICE13: はあ……、もう好きにしろよ。
+MID_BOOWY_VOICE14: 島のみんなはどうしてっかな……
+MID_BOOWY_VOICE15: メイとはただの腐れ縁だよ。
+MID_BOOWY_VOICE16: 俺は俺のやるべきことをやる。それだけさ。
+MID_BOOWY_VOICE17: よくわからねえけど、あんたといるのは悪くない気分だぜ。
+MID_BOOWY_VOICE18: おう。
+MID_BOOWY_VOICE19: うーん……
+MID_BOOWY_VOICE20: 行くぜ！

@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_JUMP: Ir ahora
+MID_HOME_TALK_NAVIGATION_LATER: Ir más tarde
+MID_HOME_TALK_NAVIGATION_NEVER: No volver a mostrar
+MID_STAGE_SELECT_SEASONAL_EVENT: Eventos
+MID_STAGE_SELECT_SEASONAL_EVENT_ENDED: Este evento ha finalizado.
+MID_STAGE_SELECT_SEASONAL_EVENT_INTERVAL: Calculando...
+MID_TAP_BATTLE_TITLE: Batalla de toques
+MID_TAP_BATTLE_ENVIRONMENT_INFO: Aquí puedes cambiar los ajustes.
+MID_TAP_BATTLE_STAGE_SELECT_DIFFICULTY: $aDificult.: $a0
+MID_TAP_BATTLE_STAGE_SELECT_MODE: $aModo: $a0
+MID_TAP_BATTLE_DIFFICULTY0: Normal
+MID_TAP_BATTLE_DIFFICULTY1: Difícil
+MID_TAP_BATTLE_MODE_0: Novato
+MID_TAP_BATTLE_MODE_1: Experto
+MID_TAP_BATTLE_ENVIRONMENT: Ajustes
+MID_TAP_BATTLE_CONFIG_MUTE: Silenciar
+MID_TAP_BATTLE_CONFIG_SE: Efectos
+MID_TAP_BATTLE_CONFIG_VOICE: Voces
+MID_TAP_BATTLE_CONFIG_TIMING: Ajustar ritmo
+MID_TAP_BATTLE_CONFIG_ADJUST: Ajustar ritmo
+MID_TAP_BATTLE_CLEAR_RANK: $aResultado: $a0
+MID_TAP_BATTLE_CLEAR_RANK_0: C
+MID_TAP_BATTLE_CLEAR_RANK_1: B
+MID_TAP_BATTLE_CLEAR_RANK_2: A
+MID_TAP_BATTLE_CLEAR_RANK_3: S
+MID_TAP_BATTLE_CLEAR_RANK_NONE: —
+MID_TAP_BATTLE_ENTER_STAGE_SELECT: Seleccionar nivel
+MID_TAP_BATTLE_SUBTITLE: Calabozo ilusorio
+MID_TAP_BATTLE_ENTRANCE_HELP: ¡Toca la pantalla para vencer!\nSigue el ritmo y gana más puntos.
+MID_TAP_BATTLE_ENTRANCE_SETTING: Ajustes
+MID_TAP_BATTLE_START: ¡Adelante!
+MID_TAP_BATTLE_BOSS: ¡Jefe!
+MID_TAP_BATTLE_VERSUS_BOSS: $a$a1:\n$a0
+MID_TAP_BATTLE_START_BOSS: ¡Prepárate!
+MID_TAP_BATTLE_DEFEAT_BOSS: ¡Victoria!
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE: $aRecibiste una S en todos\nlos niveles jugando en\nmodo $a1/$a0.
+MID_TAP_BATTLE_STAGE_SELECT_REWARD: Recompensa por primera victoria:
+MID_TAP_BATTLE_STAGE_SELECT_REWARD_WARNING: Solo se puede recibir una vez.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING: Ya has superado este nivel.\nNo hay recompensas disponibles.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING_OTHER: Ya has superado este nivel\nen otro modo o dificultad.\nNo hay recompensas disponibles.
+MID_TAP_BATTLE_MUSIC_DETAIL_BPM: $aPPM: $a0
+MID_TAP_BATTLE_MUSIC_DETAIL_AUTHORITY: Juego:
+MID_TAP_BATTLE_PAUSE_SURRENDER: Abandonar
+MID_TAP_BATTLE_PAUSE_RETRY: Reiniciar
+MID_TAP_BATTLE_PAUSE_SURRENDER_DECIDE: Sí
+MID_TAP_BATTLE_PAUSE_SURRENDER_TEXT: ¿Abandonar?
+MID_TAP_BATTLE_PAUSE_RETRY_DECIDE: Sí
+MID_TAP_BATTLE_PAUSE_RETRY_TEXT: ¿Reiniciar?
+MID_TAP_BATTLE_GAME_OVER_TEXT: ¿Volver a jugar?
+MID_TAP_BATTLE_GAME_OVER_RETRY_FIRST: Reintentar
+MID_TAP_BATTLE_GAME_OVER_RETRY_BOSS: Reintentar jefe
+MID_TAP_BATTLE_GAME_OVER_QUIT: Rendirse
+MID_TAP_BATTLE_GAME_OVER_TIMING: Ajustar ritmo
+MID_TAP_BATTLE_RESULT_CURRENT: Resultados
+MID_TAP_BATTLE_RESULT_DIFFICULTY_MODE: $a$a1 / $a0
+MID_TAP_BATTLE_RESULT_CONFIRM: Aceptar
+MID_TAP_BATTLE_RESULT_REPLAY: Reintentar nivel
+MID_TAP_BATTLE_RESULT_COMMENT_GAME_OVER: La próxima vez, intenta superar\nel nivel entero a la primera.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_FULL: $a¡Perfecto! Conseguiste\nun combo de $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT: $a¡Casi perfecto! Te faltaron\n$a0 toques críticos más.
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING: Puedes ajustar el ritmo del\njuego en la opción "Ajustes".
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO: $aTu mejor combo\nfue de $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_NEW_RECORD: $aTu mejor combo\nfue de $a0.\n¡Es tu nuevo récord!
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO: $a¡$a0 más y habría sido\nun nivel perfecto! Tu mejor\ncombo fue de $a1.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO_NEW_RECORD: $a¡$a0 más y habría sido\nun nivel perfecto! Tu mejor\ncombo fue de $a1.\n¡Es tu nuevo récord!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO: $aTu mejor combo fue de $a0.\nPuedes ajustar el ritmo en\nla pantalla de ajustes de\nBatalla de toques.
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO_NEW_RECORD: $aTu mejor combo fue de $a0.\n¡Es tu nuevo récord! Puedes ajustar\nel ritmo en la pantalla de ajustes de\nBatalla de toques.
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT: Aquí puedes ajustar el ritmo\ndel juego. Toca la pantalla\nsiguiendo el ritmo.
+MID_TAP_BATTLE_TIMING_FRAME_INFOMATION: Toca la pantalla cuando oigas\nlas pulsaciones más fuertes.
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST: Ajustar ritmo
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST_MANUALLY: Ajuste manual
+MID_TAP_BATTLE_TIMING_DIALOG_COMPLETE: Se ha ajustado el ritmo.\n¿Guardar cambios?
+MID_TAP_BATTLE_TIMING_DIALOG_DECIDE: Sí
+MID_TAP_BATTLE_TIMING_DIALOG_REVERT: No
+MID_TAP_BATTLE_TIMING_DIALOG_READJUST: Volver a ajustar
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT_ADJUST_MANUALLY: Puedes ajustar el ritmo manualmente.
+MID_TAP_BATTLE_TIMING_TEST: Prueba
+MID_TAP_BATTLE_CLOSED: No hay batallas en curso.
+MID_TAP_BATTLE_STAGE_SELECT_FAILED: No se pudo iniciar la batalla.
+MID_TAP_BATTLE_STAGE_SELECT_EXPIRED: El calabozo ya no está disponible.
+MID_TAP_BATTLE_STAGE_SELECT_INSUFFICIENT_UNIT: Tu batallón no tiene suficientes miembros.
+MID_TAP_BATTLE_STAGE_SELECT_RELOAD: Sal de este modo y regresa.
+MID_TAP_BATTLE_REMAINING_MINUTES: $aDesaparece en $a0 min.
+MID_TAP_BATTLE_REMAINING_HOURS: $aDesaparece en $a0 h.
+MID_TAP_BATTLE_REMAINING_DAYS: $aDesaparece en $a0 d.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_MINUTES: $aNuevo nivel en $a0 min.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_HOURS: $aNuevo nivel en $a0 h.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_DAYS: $aNuevo nivel en $a0 d.
+MID_TAP_BATTLE_DATA_TOP_FLOOR: ¡Unas termas! Todo el mundo\nla está pasando genial charlando\nen el agua calentita.
+MID_TAP_BATTLE_HELP_DIALOG_00: ¡Toca la pantalla y vence!
+MID_TAP_BATTLE_HELP_DIALOG_01: -Batalla de toques-\nUn juego en el se vence a los\nenemigos tocando la pantalla.\n\nIntenta jugar con la música\ny las voces de personajes.
+MID_TAP_BATTLE_HELP_DIALOG_02: -Cómo se juega-\nToca el ícono del invocador de la\nparte inferior de la pantalla para\natacar. Si lo haces a tiempo,\ninfligirás un ataque crítico y tus\nenemigos saldrán despedidos.\nPuedes acumular un combo\nencadenando toques críticos.
+MID_TAP_BATTLE_HELP_DIALOG_03: En modo Experto, ¡toca las filas!
+MID_TAP_BATTLE_HELP_DIALOG_04: -Modo Experto-\nEn modo Novato, solo hay que\ntocar el ícono de invocador de la\nparte inferior de la pantalla. En\nExperto, puedes tocar cada fila\nde aliados para que ataquen.
+MID_TAP_BATTLE_HELP_DIALOG_05: -Niveles-\nNo estarán disponibles todos\nlos niveles desde el principio\ndel evento.\n\nHabrá más niveles disponibles\nuna vez que haya pasado una\ncantidad de tiempo específica.
+MID_TAP_BATTLE_HELP_DIALOG_06: -Ajustes-\nSi crees que el ritmo del juego\nno está bien sincronizado,\npuedes ajustarlo.\n\nTal vez te resulte más fácil jugar\najustando el ritmo o desactivando\nel sonido o las voces.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_00: -Ajustes-\nPuedes cambiar el juego a tu\nmedida en los ajustes.\n\nSi crees que el ritmo del juego\nno está bien sincronizado,\npuedes ajustarlo en este menú.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_01: -Ajustar el ritmo-\nToca la pantalla siguiendo\nel ritmo para ajustarlo.\nSi aún no te convence, puedes\nhacer ajustes manualmente.\nAumenta el valor si es\ndemasiado rápido, y redúcelo\nsi es demasiado lento.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_02: -Efectos de sonido y voces-\nSe pueden desactivar los\nefectos de sonido y las voces de\nlos personajes. Los cambios de\nlos ajustes de Batalla de toques\nsolo se aplicarán a este modo.
+MID_VOTE_TERM_201801: Guerra de festivales

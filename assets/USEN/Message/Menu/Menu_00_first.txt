@@ -1,0 +1,464 @@
+[Heroes Archive] (Menu_00_first)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_HEROISM_LIST: Hero Merit List
+MID_EXTRA_HEROISM_LIST_INFO: See allies' Hero Merit.
+MID_HOME_FRIEND_TALK_HEROISM: $aGift from $a0.
+MID_ITEM_GAIN_ACCESSORY: You got a Sacred Seal!
+MID_ITEM_GAIN_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_ACCESSORY_WARNING: $aYou cannot have more than one of the\nsame Sacred Seal. Any duplicates will\nbe converted into $a0 Hero Feathers.
+MID_ITEM_HELP_STAMINA_50: Grants stamina +99.
+MID_MAP_BATTLE_START: Fight!
+MID_SHOP_STAMINA_CONFIRM_ITEM_50: Use 1 Stamina Potion to\nrestore 99 stamina?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM_50: You don't have enough stamina.\nUse 1 Stamina Potion to\nrestore 99 stamina?
+MID_SHOP_STAMINA_CONFIRM_ORB_50: Redeem an Orb to restore\n99 stamina?
+MID_SHOP_STAMINA_NOTENOUGH_ORB_50: You don't have enough stamina.\nRedeem an Orb to restore\n99 stamina?
+MID_STAGE_SELECT_DETAIL_REINFORCEMENT: Enemy reinforcements will appear!
+MID_STAGE_SELECT_RULE_TURN_SURVIVAL: $aTurns to defend: $a0
+MID_UNIT_EDIT_ACCESSORY_EQUIP: Equip Seals
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP1: Select ally who will equip/change a Sacred Seal.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP2: Select the seal you want to equip.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CONFIRM: Equip this seal?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_UNSET_CONFIRM: Remove this seal?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 has this seal equipped.\nSwap seals and equip this one?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 cannot equip the\nswapped seal. It will be removed.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_DECIDE: Change
+MID_UNIT_EDIT_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Change complete.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_CONFIRM: Cancel changing seals?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_WARNING: All changes will be canceled.
+MID_UNIT_EDIT_ACCESSORY_WARNING_WEAPON: This seal cannot be equipped due\nto weapon-type limitations.
+MID_UNIT_EDIT_ACCESSORY_WARNING_MOVE: This seal cannot be equipped due\nto movement-type limitations.
+MID_UNIT_EDIT_ACCESSORY_EMPTY: No seals.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_00: Empower Allies with Sacred Seals!
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_01: Equipping Sacred Seals:\nYou can equip allies with seals\nyou've received. Each ally can\nequip one seal.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_02: Sacred Seal Limitation:\nYou cannot have more than one\nof the same Sacred Seal. Any\nduplicates will be converted into\nHero Feathers automatically.
+MID_RELOCATION_TUTORIAL_DIALOG_00: Reposition to swap spaces.
+MID_RELOCATION_BUTTON: Swap\nSpaces
+MID_UNIT_EDIT_ACCESSORY_STATUS_EQUIP: Equipped
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_DECIDE: Cancel Equipping
+MID_UNIT_NAME_WITH_HONOR: $a$a1: $a0
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM_NO_COST: Change the equipped skills?
+MID_UNIT_EDIT_SKILL_WARNING_RARITY: $aThis skill can be learned by units $a0★ and higher.
+MID_VOTE_ROUND1: Round 1
+MID_VOTE_ROUND2: Round 2
+MID_VOTE_ROUND3: Final Round
+MID_VOTE_TITLE: Voting Gauntlet
+MID_VOTE_REWARD_TITLE: Check Rewards
+MID_VOTE_RANKING_TITLE: Current Standing
+MID_VOTE_BUTTON_RANKING_RX: $a$a0 Rank
+MID_VOTE_INVESTMENT_TITLE: Select Attack Power
+MID_VOTE_CLOSED: Battles are now closed.
+MID_VOTE_AGGREGATING: Calculating... Please try again later.
+MID_VOTE_SALLY_MINS: $aYou can battle again in $a0 min(s).
+MID_VOTE_SALLY_BUTTON: Battle
+MID_VOTE_ROUND1_MINS: $aRound 1 - minutes left: $a0
+MID_VOTE_ROUND1_HOURS: $aRound 1 - hours left: $a0
+MID_VOTE_ROUND2_MINS: $aRound 2 - minutes left: $a0
+MID_VOTE_ROUND2_HOURS: $aRound 2 - hours left: $a0
+MID_VOTE_ROUND3_MINS: $aFinal Round - minutes left: $a0
+MID_VOTE_ROUND3_HOURS: $aFinal Round - hours left: $a0
+MID_VOTE_FINALRESULT: Final results of the gauntlet!
+MID_VOTE_BUTTON_TO2R: To Round 2
+MID_VOTE_BUTTON_TO3R: To Final Round
+MID_VOTE_BUTTON_TOFR: Final Results
+MID_VOTE_GUILDWIN_REWARD: Army Victory Reward
+MID_VOTE_RANK_IN_GUILD: Rank in Army
+MID_VOTE_TOTAL_SELF_SCORE: Your Total Score
+MID_VOTE_TOTAL_RANK: Total Rank
+MID_VOTE_REWARDTYPE_ROUNDWINNER: $aVoting Gauntlet - $a0\nArmy Victory
+MID_VOTE_REWARDTYPE_ROUNDRANK: $aVoting Gauntlet - $a0\nRank in Army: #$a1
+MID_VOTE_REWARDTYPE_TOTALRANK: $aVoting Gauntlet\nTotal Rank: #$a1
+MID_VOTE_RUSHDEMO_RATIO: $ax$a0!
+MID_VOTE_ARMY_NAME: $a$a0's Army
+MID_VOTE_PLAYER: You
+MID_VOTE_OPPONENT: Rival
+MID_VOTE_PLAYER_SCORE: Your Score
+MID_VOTE_SCORE: Score
+MID_VOTE_JOIN: Support
+MID_VOTE_JOIN_CONFIRM: Support this character?
+MID_VOTE_JOIN_EPITHET_AND_NAME: :_
+MID_VOTE_RANK: Rank
+MID_VOTE_VIEW_RANK_RANGE: Select option.
+MID_VOTE_VIEW_RANK_PLAYER: Your Rank
+MID_VOTE_VIEW_RANK_TOP: Top Players
+MID_VOTE_RANKING_TOP_UNCALCULATED: Now calculating rankings.
+MID_VOTE_RANKING_AME_UNCALCULATED: You are unranked.
+MID_VOTE_REWARD_SORT_ROUND: Current Round
+MID_VOTE_REWARD_SORT_TOURNAMENT: Cumulative
+MID_VOTE_ROUND1_END: Round 1 is over.
+MID_VOTE_ROUND2_END: Round 2 is over.
+MID_VOTE_ROUND3_END: The final round is over.
+MID_VOTE_ROUND1_RESULT: Round 1 Final Results
+MID_VOTE_ROUND2_RESULT: Round 2 Final Results
+MID_VOTE_ROUND3_RESULT: Final Round Results
+MID_VOTE_SITUATION: Current Situation
+MID_VOTE_ATTACK_MAX: Max Attack
+MID_VOTE_ATTACK_1X: x1
+MID_VOTE_ATTACK_NX: $ax$a0
+MID_VOTE_SUPERIOR: Stronger
+MID_VOTE_INFERIOR: Weaker
+MID_VOTE_EQUAL: Same
+MID_VOTE_WIN: Victory
+MID_VOTE_LOSE: Defeat
+MID_VOTE_TOURNAMENT_BOTTOM_CAPTION: Which character will you support?
+MID_VOTE_TOURNAMENT_TOP_CAPTION: Get rewards if your army wins,\nfor high-ranking scores, and more!
+MID_VOTE_DIALOG_WIN_TEXT: The army you supported won.
+MID_VOTE_DIALOG_WIN_WARNING: You'll keep fighting with this army.
+MID_VOTE_DIALOG_LOSE_TEXT: The army you supported lost.
+MID_VOTE_DIALOG_LOSE_WARNING: Choose a new army to support.
+MID_VOTE_DIALOG_GO_TEXT: Begin a battle?
+MID_VOTE_DIALOG_GO_WARNING: $aAfter battle, minutes until next one: $a0.
+MID_VOTE_DIALOG_GO_YES: Go into Battle
+MID_VOTE_DIALOG_GO_NO: Back
+MID_VOTE_DIALOG_INVESTMENT_TEXT: Ready to attack?
+MID_VOTE_DIALOG_INVESTMENT_TEXT_X: $aAttack at x$a1?
+MID_VOTE_DIALOG_INVESTMENT_WARNING: $aThis will use $a0 Battle Flags.
+MID_VOTE_DIALOG_INVESTMENT_YES: Attack!
+MID_VOTE_DIALOG_LAST10MINS_TEXT: $a$a0 will end soon.
+MID_VOTE_DIALOG_LAST10MINS_WARNING: Results after round ends aren't counted.
+MID_VOTE_DIALOG_ROUND_END_TEXT: $a$a0 is over. You cannot\nmove on at this point.
+MID_VOTE_DIALOG_ROUND_END_WARNING: You'll now return to the world map.
+MID_VOTE_DIALOG_JOIN_ERROR_TEXT: You were unable to join the army.
+MID_VOTE_DIALOG_JOIN_ERROR_WRNING: Please try again later.
+MID_VOTE_DIALOG_HELP_00: Cheer your favorite Hero to victory!
+MID_VOTE_DIALOG_HELP_01: Voting Gauntlet:\nBegin by selecting 1 of 8 Heroes\nto support. You'll join that Hero's\narmy to battle another Hero's\narmy in a team vs. team format.
+MID_VOTE_DIALOG_HELP_02: Victory Conditions:\nThe army with the most points\nwhen time runs out will be\ndeclared the winner.
+MID_VOTE_DIALOG_HELP_03: Battles:\nAfter you battle, you won't be able\nto battle again in support of your\nHero's army for a set period\nof time.
+MID_VOTE_DIALOG_HELP_04: Battle Format:\nThe battles are 3-on-3. The\nfollowing will be on your team.\n\n・Your leader\n・A friend, if you have friends\nregistered\n・A player you have not\nregistered as a friend
+MID_VOTE_DIALOG_HELP_05: Attack Power Selection:\nAfter you win a battle, you can\nmultiply your score by using\nBattle Flags.\n\nThe more you use, the more\npoints you contribute to your\nHero's army.
+MID_VOTE_DIALOG_HELP_REWARD_00: Check Rewards:\nYou can check the current\nrewards. Change the filter\nto see rewards for the current\nround and cumulative results.
+MID_VOTE_DIALOG_HELP_REWARD_01: Rank:\nThis is your current rank. Ranks\nare calculated at the top of every\nhour. Note that it may take time\nfor updated placement\ninformation to be reflected.
+MID_UNIT_EDIT_SKILL_INHERIT_DESTINATION: Inherit
+MID_UNIT_EDIT_SKILL_INHERIT_SOURCE: Lose
+MID_UNIT_EDIT_SKILL_INHERIT_HELP1: Select a source and recipient for skill inheritance.
+MID_UNIT_EDIT_SKILL_TALENT_CONFIRM: Inherit this selection?
+MID_UNIT_EDIT_SKILL_INHERIT_WARNING: If inherited, the source character\nwill vanish.
+MID_UNIT_EDIT_SKILL_INHERIT_DECIDE: Inherit
+MID_UNIT_EDIT_SKILL_TALENT: Inherit Skill
+MID_UNIT_EDIT_SKILL_TALENT_HELP2: Select up to three skills to inherit.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00: Inheriting Skills:\nAn ally can inherit up to three\nskills at a time from another\nally. You'll lose the ally\ndonating any skills.\n\nInherited skills are added to\nthe recipient's skill list. They\nare learned like any other skill\nbut require 1.5x the usual SP.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_01: Note that any ally marked as a\nfavorite can't be used as a\nsource for inheriting skills.\n\nTo remove a favorite mark,\nhold down on the ally's icon\nand then tap the favorite mark\non the ally's profile screen.
+MID_UNIT_EDIT_SKILL_STATUS_TALENT: Have
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT1: $aThis skill is required:\n$a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT2: $aOne of these skills is required:\n$a0 or $a1.
+MID_ARENA_SORT_GRADE: Rank in Tier
+MID_ARENA_SORT_REWARDTYPE_GRADE: Score Type: Tier
+MID_ARENA_GAINED_REWARDTYPE_GRADE: $aArena Reward Tier: $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_CHANGE: $aArena Reward Tier: $a1 → $a0
+MID_ARENA_DIALOG_HELP_04_1103: Rewards:\nAfter the season ends, you'll get\nrewards based on your high\nscore and tier. If your score\nis high enough, your Arena tier\nmay go up.
+MID_ARENA_DIALOG_HELP_05_1103: Character Bonus:\nYou can double the score you\nearn for your offensive and\ndefensive teams each season by\nusing certain characters.
+MID_ARENA_DIALOG_HELP_3_00_1103: Checking Rewards:\nYou can check the rewards that\nwill be given out for the current\nseason. Change the filter to see\nrewards given for your offense,\ndefense, and tier.
+MID_ARENA_DIALOG_HELP_3_02_1103: Tier Rewards:\nThis reward list shows rewards\nfor your current tier as well as\ntiers close to yours. Placements\nare calculated at the start of\nevery hour. Note that it may take\nsome time to reflect changes\nafter the calculations begin.
+MID_VOTE_INFERIOR_BOOST_RATE: $aPoints × $a1 for $a0 min.
+MID_SEQUENTIAL_MAP_TERM_201707: Resonating Fangs
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT_BIND: $aTeams: $a0, Battles: $a1
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_00: Keep fighting! Use many allies.
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_01: Squad Assault:\nAfter clearing one map, you'll\nimmediately continue to the\nnext map.\n\nHeroes who participate in battle\nare captured after one map and\ncannot join the fight later.
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_02: Four Heroes per Map:\nEach map requires four Heroes.\nYou must have enough Heroes\nto complete all maps in a set.\n\nFor example, for five battles, you\nwill need 20 unique Heroes.\n(Duplicates do not count.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_03: The Rules:\n・ You cannot place a Hero and\ntheir duplicate on the same team.\n\n・ Heroes who participate in one\nbattle cannot participate in later\nmaps in a set. (Duplicate Heroes\ncannot be used later either.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_04: Releasing Heroes:\nOnce you clear a set of maps or\nget a game over, all Heroes will\nbe released.\n\nThis means that all your Heroes\nwill be free to battle once again.
+MID_STAGE_OPEN_FIRST_TRIAL: Chain Challenge has been unlocked.
+MID_STAGE_OPEN_NEW_TRIAL: More battles have been added to\nChain Challenge.
+MID_STAGE_OPEN_FIRST_BIND: Squad Assault has been unlocked.
+MID_STAGE_OPEN_NEW_BIND: More battles have been added to\nSquad Assault.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT: You cannot use two or more\nof the same Hero on a team.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL: You do not have enough allies.\nEach team must have four\nunique allies with no duplicates.
+MID_STAGE_SELECT_TRIAL: Chain Challenge
+MID_STAGE_SELECT_TRIAL_INFO: Play several maps in a row.
+MID_STAGE_SELECT_BIND: Squad Assault
+MID_STAGE_SELECT_BIND_INFO: Face a devastating challenge.
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO_SHORT: Play through the main story.
+MID_STAGE_SELECT_SCENARIO_SUB_INFO_SHORT: Discover more story maps.
+MID_SUMMON_INFORMATION: More Info
+MID_SUMMON_SEASON_DAYS: $aDays left: $a0
+MID_SUMMON_SEASON_HOURS: $aHours left: $a0
+MID_SUMMON_SEASON_MINUTES: $aMinutes left: $a0
+MID_EXTENDED_SORT: Advanced
+MID_UNIT_EDIT_SORT_GOTO_EXTENDED: Advanced Options
+MID_UNIT_EDIT_SORT_GOTO_SIMPLE: Use Basic Sort
+MID_UNIT_EDIT_EXTENDED_SORT_INFO: Please select options for\nsorting and set priority.
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITIONS: $a$a0:
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_ASCENDING: ↑
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_DESCENDING: ↓
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITION_NONE: —
+MID_UNIT_EDIT_EXTENDED_SORT_CLEAR: Clear Options
+MID_VOTE_OVERALL_SITUATION: Current Details
+MID_CHAIN_ARENA_TITLE: Arena Assault
+MID_CHAIN_ARENA_HEADLINE: $aYou can't use duplicate Heroes in battle.\nLead your allies to a $a0-streak victory!
+MID_CHAIN_ARENA_ITEMHELP: Select up to three items to bring into battle.\nUnused items will not be consumed. New\nitems will sometimes appear in the Arena.
+MID_CHAIN_ARENA_SPECIALITEM: Special Items
+MID_CHAIN_ARENA_WINCOUNT: $aChain Wins: $a0/$a1
+MID_CHAIN_ARENA_CURRENT_SCORE: Current Score
+MID_CHAIN_ARENA_1WIN: $a$a0 win!
+MID_CHAIN_ARENA_2WINS: $a$a0 wins in a row!
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Proceed?
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: This does not require a Dueling Sword.\n\nYou can earn EXP, SP, and HM for the\nfirst battle each day only.
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING_TWICE: This does not require a Dueling Sword.\n\nNote: You will not earn EXP, SP, or HM\nfrom the second battle onward each day.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_TEXT: Do you want to surrender?\nYou won't be able to continue.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_WARNING: If you surrender, your score\nwill be based on the number of\nmaps you've cleared this time.
+MID_CHAIN_ARENA_DIALOG_BACK_TEXT: Return to the previous screen?
+MID_CHAIN_ARENA_DIALOG_BACK_NO: No
+MID_ARENA_DESCRIPTION: Test your skills against rivals from\naround the world, and earn rewards.\nAim for seven consecutive victories!
+MID_CHAIN_ARENA_DESCRIPTION: $aThis special Arena requires multiple\nteams and is designed for advanced\nplayers. Your goal: $a0 victories in a row!
+MID_CHAIN_ARENA_GAINED_REWARDTYPE_RANK: $aArena Assault:\nRank Reward - #$a0
+MID_CHARACTER_PICTORIAL_BOOK_TITLE: Catalog of Heroes
+MID_CHARACTER_PICTORIAL_BOOK_TOTAL: Heroes
+MID_CHARACTER_PICTORIAL_BOOK_TALK: Quotes
+MID_CHARACTER_PICTORIAL_BOOK_SUMMON_TALK: Summon
+MID_CHARACTER_PICTORIAL_BOOK_STRONGEST_TALK: 5★ LV. 40
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_00: Hero Profiles:\nTap a Hero for info. Heroes you\nhave fought will be silhouetted.\nYour allies have full profiles.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_01: Quotes:\nYou can view the Hero's dialogue\nhere—what they say both when\nthey were first summoned and\nwhen they reach maximum stars.\nAllies with maximum stars also\nhave a brighter border in the list\nscreen.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_02: Illustrations:\nTap the magnifying glass icon to\nview full-size character artwork.\n\nMini Unit:\nYou can tap the mini unit to\ntrigger an animation.
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_BUTTON: Mark as Viewed
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DIALOG: This will remove the ! icon from\nany newly allied Heroes. Proceed?
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DECIDE: Remove ! Icon
+MID_PRESENT_LIST_TIME_LIMIT: Now showing presents accepted in the last 14 days.
+MID_YEAR_MONTH_DAY: $a$a1/$a2/$a0
+MID_COUNT_UP_LOGIN_BONUS_PERIOD: $a$a0 to $a1
+MID_ITEM_HOLY_COIN: Sacred Coin
+MID_ITEM_HELP_HOLY_COIN: A valuable ceremonial coin\nused in antiquity.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_DECIDE: Use
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_WARNING: This item would have no effect if used\nnow, so the item cannot be used.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_HELP: Please select the item\nyou would like to use.
+MID_SEQUENTIAL_MAP_TERM_201708: Reunited at Last
+MID_SEQUENTIAL_MAP_BOOST: $aBONUS: $a1x points! Times left today: $a0
+MID_CHAIN_ARENA_HELP_DIALOG_00: Use your teams and keep winning!
+MID_CHAIN_ARENA_HELP_DIALOG_01: Arena Assault:\nA battle arena for advanced\nplayers. The goal is to use\nmultiple teams to clear many\nmaps in a row.\nFigure out the best time to use\nyour special items, and defeat\nchallenging foes who lie in wait!
+MID_CHAIN_ARENA_HELP_DIALOG_02: Dueling Swords:\nNo Dueling Swords are required\nfor this mode, so keep on trying!\n\nOpponent Strength:\nThe strength of your opponents\nfor each round is based on the\nstrength of your starting team.
+MID_CHAIN_ARENA_HELP_DIALOG_03: Earn Special Items:\nDefeat teams that include level\n35+ enemies, and you'll get items\nbased on consecutive wins:\n\n3 consecutive wins: 1 item\n5 consecutive wins: 2 items\n7 consecutive wins: 3 items
+MID_CHAIN_ARENA_HELP_DIALOG_04: Bring Items Along:\nWhen you attempt a series of\nbattles in Arena Assault, you'll\nbe able to bring items into battle.\n\nYou can then use the items\nto your advantage during battle!
+MID_CHAIN_ARENA_HELP_DIALOG_05: The Rules:\n・ You cannot place a Hero and\ntheir duplicate on the same team.\n\n・ Heroes who participate in one\nbattle cannot participate in later\nmaps in a set. (Duplicate Heroes\ncannot be used later either.)
+MID_CHAIN_ARENA_HELP_DIALOG_06: Releasing Heroes:\nOnce you clear a set of maps or\nget a game over, all Heroes will\nbe released.\n\nThis means that all your Heroes\nwill be free to battle once again.
+MID_CHAIN_ARENA_HELP_DIALOG_07: Score:\nYour score will be based on the\nstrength of the opponents you've\nbeaten.\n\nDuring a winning streak, you'll get\na chain bonus.
+MID_CHAIN_ARENA_HELP_DIALOG_08: High Score:\nThis is the highest score you've\nearned. It will reset each season.\n\nRewards:\nAfter each season ends, you\ncan receive rewards based on\nyour rank.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_05_1106: Bonus Character Stat Boost:\nWhen bonus characters are used\nwithin Tempest Trials, they'll be\ngranted HP+10 and Atk/Spd/\nDef/Res+4.
+MID_CHAIN_ARENA_DIALOG_HELP_3_00: Checking Rewards:\nYou can check the rewards that\nwill be given out for the current\nseason.
+MID_CHAIN_ARENA_DIALOG_HELP_3_01: Receiving Rewards:\nYou can receive Arena Assault\nrewards you earned in the\nprevious season by entering\nArena Assault after that season's\nresults have been calculated but\nbefore the current season ends.
+MID_SUMMON_PULL_ONLY_ONCE: The session ends when you select a Hero.\nThe colorless Hero Lyn is most popular!
+MID_SUMMON_HERO_CONFIRM: Summon this Hero?
+MID_SUMMON_GRANT_CONFIRM: Summon?
+MID_SUMMON_GRANT_WARNING: Choose one Hero to summon.\n(You can only choose one now.)
+MID_SUMMON_ONE_TIME_FREE_WARNING: You can summon one time for free.\nAfterward, you'll have to use Orbs.
+MID_SUMMON_LIMITED_BEGINNER_DAYS: $aStarter Support days left: $a0
+MID_SUMMON_LIMITED_BEGINNER_HOURS: $aStarter Support hours left: $a0
+MID_SUMMON_LIMITED_BEGINNER_MINUTES: $aStarter Support minutes left: $a0
+MID_SUMMON_PAY_FREE: Redeem
+MID_UNIT_EDIT_SKILL_WARNING_SAME: Some skills cannot be inherited\nthrough Inherit Skill.\n\nUsing Merge Allies on duplicate\nHeroes will allow you to inherit\nall skills.\n\nAre you sure you wish to proceed?
+MID_SEQUENTIAL_MAP_LOAD_TROOP_INFO: Please select a team to call. Reserve\nteams are used in multi-map battles.
+MID_SEQUENTIAL_MAP_LOAD_TROOP_BUTTON: Call This Team
+MID_SEQUENTIAL_MAP_LOAD_TROOP_EDIT: Edit
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_NORMAL: Primary Teams
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_RESERVE: Reserve Teams
+MID_SEQUENTIAL_MAP_LOAD_TROOP_ORGANIZE_RESERVE: Edit Reserve Team
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE: Edit Reserve Team
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_DECIDE: Back to Team List
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM: Use this team?
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_DECIDE: Call This Team
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_CANCEL: Back
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_00: Create Reserve Teams!
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01: Reserve teams are a special kind\nof team. These teams can only be\ncreated or edited while playing\nmodes that feature multi-map\nbattles.
+MID_UNIT_EDIT_TROOP_LIST_INFO: Select the team you wish to edit.
+MID_UNIT_EDIT_RESERVE_TROOP_LIST_INFO: Select the reserve team you wish to edit.
+MID_UNIT_EDIT_TROOP_LIST_SELECT: Select This Team
+MID_SEQUENTIAL_MAP_TERM_201709: To Die on the Battlefield
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH: Skill Search
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_CURRENT: Skill Search:
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_HELP: Select the skill you'd like to find.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_WARNING_RARITY: Skill inheritable if ally's ★ rating is raised.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_RESET: Clear Selection
+MID_UNIT_EDIT_RELIANCE_RANK_1: C
+MID_UNIT_EDIT_RELIANCE_RANK_2: B
+MID_UNIT_EDIT_RELIANCE_RANK_3: A
+MID_UNIT_EDIT_RELIANCE_RANK_4: S
+MID_UNIT_EDIT_RELIANCE_RANK_PAIR: Support Rank
+MID_UNIT_EDIT_RELIANCE_RANK_PLAYER: Bond Rank
+MID_UNIT_EDIT_RELIANCE_PARTNER: Partner
+MID_UNIT_EDIT_RELIANCE: Ally Support
+MID_UNIT_EDIT_RELIANCE_PLAYER: Summoner Support
+MID_UNIT_EDIT_RELIANCE_SORT: Select a sort order.
+MID_UNIT_EDIT_RELIANCE_SORT_CHARACTER: Origin
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_ASCENDING: Support (Low)
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_DESCENDING: Support (High)
+MID_UNIT_EDIT_RELIANCE_CONFIRM: $aPartners will gain a stat boost for\nfighting together. Do you want\n$a0 and $a1\nto support each other?
+MID_UNIT_EDIT_RELIANCE_WARNING: An ally can have only one partner at\na time. Changing an ally's partner will\nreset the Support Rank with their\ncurrent partner.
+MID_UNIT_EDIT_RELIANCE_DECIDE: Set Support
+MID_UNIT_EDIT_RELIANCE_HELP1: Choose the ally you'd like to partner with.
+MID_UNIT_EDIT_RELIANCE_HELP2: Changing partners will reset the Support Rank.
+MID_UNIT_EDIT_RELIANCE_CHARACTER_NAME_EMPTY: ------
+MID_UNIT_EDIT_PERSON_TOTAL: Allies
+MID_UNIT_EDIT_RELIANCE_PLAYER_CONFIRM: $aSupporting an ally will boost their\nstats. Do you want to support\n$a0?
+MID_UNIT_EDIT_RELIANCE_PLAYER_WARNING: You can support only one ally at a\ntime. If you change which ally you're\nsupporting, the Support Rank with\nyour current ally will reset.
+MID_UNIT_EDIT_RELIANCE_PLAYER_DECIDE: Support Ally
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP: You can support just one ally at a time.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C: The allies share a mutual respect.\nFighting together will yield a stat boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C_WITH_USER: You share a mutual respect.\nYour ally's stats have increased.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B: The allies share training techniques.\nFighting together will yield a higher stat boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B_WITH_USER: You share training techniques.\nYour ally's stats are further increased.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1: The allies share long and varied chats.\nFighting together will yield a higher stat boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1_WITH_USER: You share long and varied chats.\nYour ally's stats are further increased.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2: The allies share their hopes and dreams.\nFighting together will yield a higher stat boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2_WITH_USER: You share your hopes and dreams.\nYour ally's stats are further increased.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S: The allies share a bond stronger than steel.\nFighting together will yield a higher stat boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_WITH_USER: You share a bond stronger than steel.\nYour ally's stats are further increased.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_00: Form bonds between allies!
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_01: Ally Support:\nAllies can create bonds by\nforming partnerships with one\nanother.\n\nWhen partners fight near each\nother, they'll gain an advantage\non the battlefield.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_02: Creating Bonds:\nCreate a bond by selecting two\nallies to become partners.\n\nTheir Support Rank will start at C.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_03: Increasing Support Ranks:\nIf partners are within at least two\nspaces of each other and battle\nfoes level 35 or higher, their bond\nwill grow stronger.\n\nTheir Support Rank will increase\nonce their bond grows strong\nenough. The possible ranks are C,\nB, A, and S.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_04: Support Effects 1:\nPartners at Support Rank C or\nhigher will gain a stat boost when\nthey fight right next to each other.\n\nC: Res+2\nB: Def/Res+2\nA: Spd/Def/Res+2\nS: Atk/Spd/Def/Res+2
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_05: Support Effects 2:\nPartners will also receive a stat\nboost when there's one space\nbetween them, but the boost\nwill not be as strong.\n\nC: Res+1\nB: Def/Res+1\nA: Spd/Def/Res+1\nS: Atk/Spd/Def/Res+1
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_06: Ally Support Limits:\nEach ally can have only one\npartner at a time. It is possible\nto change an ally's partner, but\ndoing so will reset the Support\nRank with their current partner.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_00: Bond with an ally!
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_01: Summoner Support:\nAs the Summoner, you can\nchoose an ally to form a bond\nwith.\n\nThe ally you choose to support\nwill gain a stat boost.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_02: Forming a Bond:\nSelect an ally to support to start\nforming your bond.\n\nYour Support Rank will start at C.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_03: Increasing Support Rank:\nWhen your chosen ally battles\nfoes level 35 or higher, the bond\nbetween you and the ally will\ngrow stronger.\n\nYour Support Rank will increase\nonce your bond grows strong\nenough. The possible ranks are\nC, B, A, and S.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_04: Summoner Support Effects:\nWhen your Support Rank is C or\nhigher, your chosen ally will\nreceive a persistent stat boost.\n\nC: HP+3, Res+2\nB: HP+4, Def/Res+2\nA: HP+4, Spd/Def/Res+2\nS: HP+5, Atk/Spd/Def/Res+2
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_05: Summoner Support Limits:\nYou can support only one ally at\na time. It is possible to change\nwhich ally you're supporting, but\ndoing so will reset the Support\nRank with your current ally.
+MID_UNIT_EDIT_RELIANCE_SORT_ATTRIBUTE: Type
+MID_UNIT_EDIT_RELIANCE_SORT_WEAPON: Weapon Type
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_1: View Rank C
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_2: View Rank B
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_3: View Rank A
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_4: View Rank S
+MID_UNIT_EDIT_RELIANCE_SUMMONER_NAME: You
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_TEXT: The battle could not be started.
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_WARNING: Your team does not have enough members.
+MID_PRESENT_LIST_CONFIRM_ALL_RECEIVE: Accept all of the below at once?
+MID_MISSION_CONFIRM_ALL_RECEIVE: Accept all of the rewards below?
+MID_ITEM_HELP_PROMOTION_RED1_1108: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower red-type ally.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_RED2_1108: Used to unlock potential in allies.\nIncrease a 4★ red-type ally to 5★.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_BLUE1_1108: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower blue-type ally.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_BLUE2_1108: Used to unlock potential in allies.\nIncrease a 4★ blue-type ally to 5★.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_GREEN1_1108: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower green-type ally.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_GREEN2_1108: Used to unlock potential in allies.\nIncrease a 4★ green-type ally to 5★.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_NEUTRAL1_1108: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower colorless ally.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_PROMOTION_NEUTRAL2_1108: Used to unlock potential in allies.\nIncrease a 4★ colorless ally to 5★.\nUsed in the Sacred Seal Forge.
+MID_ITEM_HELP_HOLY_COIN_1108: A valuable ceremonial coin for the Sacred\nSeal Forge used in antiquity.
+MID_MISSION_JUMP_UNAVAILABLE: You can't currently access the\nrequired map.
+MID_MISSION_JUMP_CONFIRM: Ready to attempt this quest?
+MID_MISSION_JUMP_DECIDE: Go!
+MID_STAGE_OPEN_SKILL_ACCESSORY_PROMOTION: Sacred Seal creation and enhancement\nhave been unlocked.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_1: HP+3, Res+2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_2: HP+4, Def/Res+2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_3: HP+4, Spd/Def/Res+2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_4: HP+5, Atk/Spd/Def/Res+2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_1: Support partners in adjacent spaces\ngain Res+2 during combat. If there is\n1 space between them, they gain\nRes+1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_2: Support partners in adjacent spaces\ngain Def/Res+2 during combat. If\nthere is 1 space between them, they\ngain Def/Res+1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_3: Support partners in adjacent spaces\ngain Spd/Def/Res+2 during combat.\nIf there is 1 space between them,\nthey gain Spd/Def/Res+1.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_4: Support partners in adjacent spaces\ngain Atk/Spd/Def/Res+2 during\ncombat. If there is 1 space between\nthem, they gain Atk/Spd/Def/Res+1.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_AND_PROMOTION: Sacred Seal Forge
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION: Creation
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION: Enhancement
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_HELP: Select a Sacred Seal to create.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_NO_TARGET: No Sacred Seals can be created at this time.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_CONFIRM: Create this Sacred Seal?
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE: Create
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE_SUCCESS: The Sacred Seal has been created.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_HELP: Select a Sacred Seal to enhance.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_NO_TARGET: No Sacred Seals can be enhanced at this time.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_CONFIRM: Enhance this Sacred Seal?
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE: Enhance
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_ARROW: →
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE_SUCCESS: The Sacred Seal has been enhanced.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_00: Enhance Your Sacred Seals!
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_01: Sacred Seal Creation\nHere you can create Sacred\nSeals you don't currently have.\n\nBadges, Great Badges, and\nSacred Coins are used to\ncreate Sacred Seals.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_02: Sacred Seal Enhancement\nYou can release the power hidden\nin Sacred Seals by enhancing\nthem one rank at a time.\n\nBadges, Great Badges, and\nSacred Coins are used to\nenhance Sacred Seals.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_TEXT: You cannot go into battle.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_WARNING: Please set a team leader.
+MID_SEQUENTIAL_MAP_TERM_201709_2: Moment of Fate
+MID_SEQUENTIAL_MAP_TERM_201710: Genealogy of Light
+MID_SEQUENTIAL_MAP_TERM_201711: Less Than Heroic
+MID_ARENA_RANK_CALCULATING: Calculating
+MID_ARENA_DIALOG_HELP_2_02_701: Defense Team:\nYou can set a team to use for\ndefensive battles under\nEdit Teams.
+MID_SPRINKLES_GIFT_RECEIVED: You got a Google Play gift card bonus!\nIt has been sent to your Present List.
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED: There aren't any new Google Play\ngift card bonuses available\nfor you at this time. *Please check\nyour Present List, as you may have\nalready received your bonus.
+MID_SPRINKLES_INVENTORY_MESSAGE: Google Play Gift Card Bonus
+MID_LOAD_OUT_OF_TERM_CONFIRM: You cannot resume your battle\nas the active period is over. Your\nbookmark data will be deleted.
+MID_MISSION_ALL_RECEIVE_COMPLETED: All rewards from cleared quests\nhave been accepted.
+MID_MISSION_APPEAR_STRATUM_LIST: New difficulty modes have been\nadded for the following quests.
+MID_SEQUENTIAL_MAP: Tempest Trials
+MID_SEQUENTIAL_MAP_CLOSED: Battles are now closed.
+MID_SEQUENTIAL_MAP_AGGREGATING: Calculating result.
+MID_SEQUENTIAL_MAP_REMAINING_DAYS: $aDays left: $a0
+MID_SEQUENTIAL_MAP_REMAINING_HOURS: $aHours left: $a0
+MID_SEQUENTIAL_MAP_REMAINING_MINUTES: $aMinutes left: $a0
+MID_SEQUENTIAL_MAP_ENTER_STAGE_SELECT: Select Stage
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT: $aTeams: $a0, Battles: $a1
+MID_SEQUENTIAL_MAP_STAGE_SELECT_WARNING: Use a bonus ally to get a higher score.
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_WIN: Reward for Victory
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_LOSE: Reward If Defeated
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_TITLE: $aStage $a0
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_NUM: $a(of $a1)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_TROOP_NUM: $aTeam $a0 (of $a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_STAGE_NUM: $aStage $a0 (of $a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_TROOP_NUM: $aTeam $a0 (of $a2)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_RULE_TITLE: Victory
+MID_SEQUENTIAL_MAP_REWARD: Check Rewards
+MID_SEQUENTIAL_MAP_REWARD_RANK: Rank
+MID_SEQUENTIAL_MAP_OUT_OF_RANGE: unranked
+MID_SEQUENTIAL_MAP_RANK_AGGREGATING: Calculating
+MID_SEQUENTIAL_MAP_REWARD_POINT: Cumulative Score
+MID_SEQUENTIAL_MAP_REWARD_POINT_SHORT: Score
+MID_SEQUENTIAL_MAP_REWARD_SORT: $aScore Type: $a0
+MID_SEQUENTIAL_MAP_REWARD_SORT_POINT: Score
+MID_SEQUENTIAL_MAP_REWARD_SORT_RANK: Rank
+MID_SEQUENTIAL_MAP_REWARD_SORT_DIALOG: Score Type
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER: Current Bonus Allies
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_1: Put one on your team to raise your score!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_2: (Only one ally bonus will apply.)
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO: $a+$a0%
+MID_SEQUENTIAL_MAP_REORGANIZE: Edit Team
+MID_SEQUENTIAL_MAP_REORGANIZE_TROOP_INFO: $aTeam $a0 (of $a1)
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER: Surrender
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CONFIRM: Do you want to surrender?\nYou won't be able to continue.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_WARNING: If you surrender, your score\nwill be based on the number of\nmaps you've cleared this time.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_DECIDE: Surrender
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CANCEL: Return to Edit Team
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START: Fight!
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CONFIRM: Would you like to start the battle\nwith the team you created?
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_DECIDE: Fight!
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CANCEL: Return to Edit Team
+MID_SEQUENTIAL_MAP_REORGANIZE_VIEW_MAP: Check Map
+MID_SEQUENTIAL_MAP_REORGANIZE_BONUS_CHARACTER: View Bonus Allies
+MID_SEQUENTIAL_MAP_RESULT: Current Results
+MID_SEQUENTIAL_MAP_RESULT_BASIC_POINT: Base Score
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP: Maps Cleared
+MID_SEQUENTIAL_MAP_RESULT_ALIVE_EVALUATION: Survival
+MID_SEQUENTIAL_MAP_RESULT_SPEED_EVALUATION: Speed
+MID_SEQUENTIAL_MAP_RESULT_BONUS_CHARACTER: Bonus Ally
+MID_SEQUENTIAL_MAP_RESULT_ADDED_POINT: Score
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_A: A
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_B: B
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_C: C
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_D: D
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_E: E
+MID_SEQUENTIAL_MAP_RESULT_RATE: $a× $a0
+MID_SEQUENTIAL_MAP_RESULT_RATE_NONE: —
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP_NUM: $a$a0/$a1
+MID_SEQUENTIAL_MAP_RESULT_DETAIL: $a($a0)
+MID_SEQUENTIAL_MAP_DIALOG_END_OF_TERM: Because the battle lasted past the\nend of the season, the results were\nnot counted.
+MID_SEQUENTIAL_MAP_TERM_EXPIRED: The current season has ended.
+MID_SEQUENTIAL_MAP_TERM_201706: Dark Clouds over Awakening
+MID_SEQUENTIAL_MAP_HELP_DIALOG_00: Use your teams to clear the maps!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_01: Tempest Trials:\nIn this mode, you'll battle through\nmultiple maps in a row. After\nyou clear one, the next will\nappear immediately. Your allies\nwill not gain HP between battles.\n\nYour goal: clear all of the maps!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_02: Changing Teams:\nIf all of the allies you start with\nare defeated, you can choose\na new set of allies and try again.\n\nHowever, it's game over if you\nlose too many battles!
+MID_SEQUENTIAL_MAP_HELP_DIALOG_03: About Your Score:\nYour score is based on how well\nyou battled through a set of\nmaps.\n\nRewards are based on the\ncumulative score earned during\nthe event period.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_04: Bonus Allies:\nIf you include a bonus ally on your\nteam, you can increase your\nscore.\n\nIf you add multiple bonus allies,\nonly the highest bonus will apply.\nBonuses do not stack.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_00: Check Rewards:\nYou can select Check Rewards if\nyou want to see the current\nrewards.\n\nUse the score options to view\nrewards based on score or rank.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_01: Rewards by Score:\nYou can view the rewards\nfor this event based on\nyour cumulative score.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_02: Rewards by Rank:\nYou can view the rewards\nbased on rank. The top 500,000\nscores are ranked.\n\nNote that it may take some\ntime to reflect changes after the\ncalculations begin.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_03: Receiving Rewards:\nIf you clear the score goal, you'll\nqualify for a cumulative reward.\nIf earned, you can receive rank\nrewards by entering Tempest\nTrials after results have been\ncalculated but before the current\nseason ends.
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK: $aTempest Trials - Rank Reward: $a0
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK_OUT_OF_RANGE: Tempest Trials - Rank Reward: Unranked
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_POINT: $aTempest Trials - Score Reward: $a0
+MID_STAGE_TITLE_DIFFICULTY3: Infernal
+MID_UNIT_EDIT_TROOP_INDEX: $aTeam $a0
+MID_UNIT_EDIT_TROOP_NAME_EDIT: Edit Team Name
+MID_UNIT_EDIT_TROOP_NAME_PLACE_HOLDER: Enter Team Name
+MID_UNIT_EDIT_TROOP_NAME_ASK: Please enter a name for this team.
+MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: Please choose a name 12 characters or less.\nNote that some symbols cannot be used.
+MID_UNIT_EDIT_TROOP_SET_DEFENSE: Set Defensive Team
+MID_UNIT_EDIT_TROOP_NAME_EMPTY: ----------
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_04_701: Edit Team Name:\nUsing this option, you can name\nyour teams.\n\nSet Defensive Team:\nYou can set which team will\ndefend in the Arena. The team\nwill be marked by a shield icon.

@@ -1,0 +1,38 @@
+[Heroes Archive] (MIST)
+
+
+Heroes Message Name: Message
+
+
+MID_MIST_HOME1: 這裡待起來真舒服呢。\n是因為地勢高，所以空氣才這麼清新嗎？\n感覺真是清爽。
+MID_MIST_HOME2: 我雖然不擅長戰鬥，\n但希望能透過洗衣或是打掃\n來幫上大家的忙。
+MID_MIST_HOME3: 啊！$Nu，\n每次都辛苦你了。\n水在這裡，請用。
+MID_MIST_HOME4: 爸爸……媽媽……\n哥哥……
+MID_MIST_HOME5: 啊～！曬的衣服被風吹走了……！\n等等～！\n等等我啦～！
+MID_MIST_FRIEND: 啊，你好～\n我代替$Nf\n來問候你了。
+MID_MIST_LEVEL1: 我會變強的。\n因為有其父必有其女嘛。
+MID_MIST_LEVEL2: 我現在也擁有一點點的\n戰鬥能力了嗎？
+MID_MIST_LEVEL3: 果然，戰鬥對我來說\n還是太強人所難了吧……
+MID_MIST_SKILL: 我很高興你這麼照顧我，\n但這麼照顧我真的好嗎？
+MID_MIST_JOIN: 你好，我叫做密絲特。\n呃……這裡是哪裡呀？\n因為事出突然，我有點不知所措……
+MID_MIST_STRONGEST: 啊！$Nu！\n嗯，我正在晾大家的衣服。\n洗衣服真讓人神清氣爽呢。$k$p我雖然一直無法習慣戰鬥，\n但已經很習慣在這個城堡裡的生活囉～$k$p……其實，我本來很不安。\n因為城堡裡的英雄們，\n有些人看起來很強又很兇……$k$p可是，在我被召喚到這個世界，\n遇見$Nu時……\n就突然有種莫名的安心感。$k$p我自己也不是很清楚……\n但就是覺得我可以信任你。\n所以，我才能努力到現在喔。$k$p嗯，謝謝你。\n今後也請多多關照囉！
+MID_MIST_VOICE01: 嘿！
+MID_MIST_VOICE02: 別過來！
+MID_MIST_VOICE03: 呀啊～！
+MID_MIST_VOICE04: 啊……嗚！
+MID_MIST_VOICE05: ……雖然很害怕，可是……！
+MID_MIST_VOICE06: ……我也要戰鬥！
+MID_MIST_VOICE07: 我已經搞不懂了啦！
+MID_MIST_VOICE08: 覺悟吧！
+MID_MIST_VOICE09: 對不起……
+MID_MIST_VOICE10: 耶嘿嘿！
+MID_MIST_VOICE11: 別受傷囉。
+MID_MIST_VOICE12: 我們一起加油吧。
+MID_MIST_VOICE13: 哇！嚇我一跳……怎麼突然這樣嚇我呢？
+MID_MIST_VOICE14: 我哥哥他有點奇怪吧？
+MID_MIST_VOICE15: 耶嘿嘿，你在稱讚我嗎？謝謝。
+MID_MIST_VOICE16: 爸爸……媽媽……哥哥……
+MID_MIST_VOICE17: 你要是隨便送死的話，我可不饒你喔……
+MID_MIST_VOICE18: 嗯！
+MID_MIST_VOICE19: 該怎麼辦呢……？
+MID_MIST_VOICE20: 我會努力的！

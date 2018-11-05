@@ -1,0 +1,38 @@
+[Heroes Archive] (SAKURA)
+
+
+Heroes Message Name: Message
+
+
+MID_SAKURA_HOME1: ¿N-nadie en la Orden de Héroes usa\nvaras para ayudar a sus aliados en\nbatalla? Voy a tener mucho trabajo...
+MID_SAKURA_HOME2: No sé si merezco vasallos tan fuertes\ny capaces como Hana y Subaki.\n¡Qué suerte tuve al encontrarlos!
+MID_SAKURA_HOME3: ¿M-me deja ayudarle con las\npatrullas? Quiero asegurarme\nde que todos se encuentren bien.
+MID_SAKURA_HOME4: ¿Sabe si hay alguna pastelería\npor los alrededores? Es que me\ngustan mucho los dulces.
+MID_SAKURA_HOME5: P-perdone, estaba practicando\ncon mi vara. Quiero ser tan útil\nen batalla como mis hermanos.
+MID_SAKURA_FRIEND: ¡Ah, hola! Vengo en nombre\nde $Nf.\n¡Le envía saludos!
+MID_SAKURA_LEVEL1: ¡Ahora verán lo v-valiente\nque soy!
+MID_SAKURA_LEVEL2: ¡Yuju! Creo que mejoré\nun poco...
+MID_SAKURA_LEVEL3: ¡Uy! ¡P-prometo hacerlo mejor!
+MID_SAKURA_SKILL: ¡Gracias! M-me siento mucho\nmás fuerte.
+MID_SAKURA_JOIN: Soy princesa del reino de Hoshido,\npero p-puede llamarme Sakura.\n¡Haré lo posible por ayudarle!
+MID_SAKURA_STRONGEST: ¡Oh, qué amable! Muchísimas\ngracias por venir a interesarse por\nmí, $Nu.$k$pEstoy bien, gracias... ¿Sabe qué?\nCuando llegué aquí, no sabía cómo\ncomportarme en su presencia.$k$pTodos le llamaban "$GGran Héroe,Gran Heroína|" y\neso me infundía un gran respeto. Por\neso trataba de guardar las distancias.$k$pAhora que le conozco veo que logra\nque todo el mundo se sienta a gusto...\nal menos es lo que me ocurre a mí.$k$pEs como si fuera parte de mi familia.\nY mírenos ahora, charlando de\nnuestras cosas como si nada.$k$pP-por eso me gustaría pedirle un\nfavor. ¿Le importaría a partir de\nahora considerarme como...?$k$p¿Una amiga?$k$p¿Qué? ¿Ya me considera su amiga?\n¡Fantástico! ¡Qué suerte que nuestros\ndestinos se hayan cruzado!$k$pPrometo ayudarle en todo lo que esté\nen mi mano, $Gamigo mío,amiga mía|.
+MID_SAKURA_VOICE01: はいっ
+MID_SAKURA_VOICE02: それっ
+MID_SAKURA_VOICE03: きゃあっ！
+MID_SAKURA_VOICE04: どうしましょう…！
+MID_SAKURA_VOICE05: No fallaré.
+MID_SAKURA_VOICE06: ¡N-no den un paso más!
+MID_SAKURA_VOICE07: ¡M-mil perdones!
+MID_SAKURA_VOICE08: ¡De verdad que lo siento!
+MID_SAKURA_VOICE09: Don't be sad...
+MID_SAKURA_VOICE10: Heehee...
+MID_SAKURA_VOICE11: ¡Me esforzaré por usted!
+MID_SAKURA_VOICE12: ¡T-tenga mucho cuidado!
+MID_SAKURA_VOICE13: I'm still finding my voice...but I like speaking with you!
+MID_SAKURA_VOICE14: This realm is so beautiful, much like my homeland, Hoshido.
+MID_SAKURA_VOICE15: I hope to grow every bit as strong as my siblings.
+MID_SAKURA_VOICE16: Have you seen my retainers? Hana? Or Subaki?
+MID_SAKURA_VOICE17: I'd like to learn everything about this realm. And...you too.
+MID_SAKURA_VOICE18: Yes?
+MID_SAKURA_VOICE19: As you wish.
+MID_SAKURA_VOICE20: Let's go.

@@ -1,0 +1,38 @@
+[Heroes Archive] (BOOWY)
+
+
+Heroes Message Name: Message
+
+
+MID_BOOWY_HOME1: Les Gardiens d'Askr, un nouveau\nmonde... Ça dépasse l'entendement.\nJ'ai l'impression d'être dans un rêve.
+MID_BOOWY_HOME2: J'ai grandi sur une petite île appelée\nNovis. Mon père était pêcheur,\net j'avais deux frères.$k$pMa famille n'avait pas une vie facile,\nalors j'ai été envoyé au prieuré.
+MID_BOOWY_HOME3: Je vois que vous travaillez dur,\nmais faites attention.$k$pSi vous en faites trop, vous finirez\npar être trop $Gépuisé,épuisée| pour accomplir\nquoi que ce soit.\n
+MID_BOOWY_HOME4: Quand j'ai besoin de calme,\nje contemple la mer, mais je ne sais\npas où la trouver dans ce monde.$k$pVous pourriez peut-être m'y emmener.
+MID_BOOWY_HOME5: J'étais en train de lire mon grimoire.\nSi je délaisse mes études, Nomah\nva me remonter les bretelles.
+MID_BOOWY_FRIEND: $Nf m'envoie\nvous saluer.$k$pVoilà, c'est tout !
+MID_BOOWY_LEVEL1: Formidable ! Je peux prendre\nun instant pour me réjouir, non ?
+MID_BOOWY_LEVEL2: Acceptable, mais sans plus.
+MID_BOOWY_LEVEL3: Il faut que j'étudie plus\npour la prochaine fois.
+MID_BOOWY_SKILL: La confiance que vous\nm'accordez me rend plus fort.
+MID_BOOWY_JOIN: Je m'appelle Boey et je suis mage.\nD'habitude, j'évite les situations\népineuses, mais vous m'avez appelé.
+MID_BOOWY_STRONGEST: Ma famille... Pour tout vous dire,\nnous étions très pauvres. Alors,\nj'ai été envoyé au prieuré.$k$pIls disaient que j'avais un don pour\nla magie. Oh, je n'en ai pas souffert,\nmais je me suis demandé...$k$pQuelle aurait été ma vie si j'étais né\nailleurs ? J'ai arrêté de me poser\ncette question. Cela ne mène à rien.$k$pEt puis, vous m'avez invoqué dans\nce monde. J'y ai rencontré de\nnouveaux frères d'armes.$k$pJe tiens à vous remercier pour cela.\nDepuis tout ce temps, vous êtes bien\nplus qu'une simple connaissance.$k$pMaintenant... Je considère que vous\nfaites partie de ma famille.\n
+MID_BOOWY_VOICE01: たあっ
+MID_BOOWY_VOICE02: There!
+MID_BOOWY_VOICE03: Darn it!
+MID_BOOWY_VOICE04: うわあああーっ！！
+MID_BOOWY_VOICE05: Prenez ça !
+MID_BOOWY_VOICE06: Désolé...
+MID_BOOWY_VOICE07: Hors de mon chemin !
+MID_BOOWY_VOICE08: C'est terminé !
+MID_BOOWY_VOICE09: That...hurt.
+MID_BOOWY_VOICE10: Hehheh
+MID_BOOWY_VOICE11: Looking for something?
+MID_BOOWY_VOICE12: Cut it out! What are we, kids?
+MID_BOOWY_VOICE13: I see how it's going to be.
+MID_BOOWY_VOICE14: I wonder how everyone's doing back at home.
+MID_BOOWY_VOICE15: Me and Mae? We're just stuck with each other. We've been together since we were kids.
+MID_BOOWY_VOICE16: I do what needs to be done. That's all there is to it.
+MID_BOOWY_VOICE17: Now that I think about it, spending time with you isn't so bad.\n
+MID_BOOWY_VOICE18: OK.
+MID_BOOWY_VOICE19: Huh...
+MID_BOOWY_VOICE20: Let's go!

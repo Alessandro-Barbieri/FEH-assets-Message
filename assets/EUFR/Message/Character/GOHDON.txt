@@ -1,0 +1,38 @@
+[Heroes Archive] (GOHDON)
+
+
+Heroes Message Name: Message
+
+
+MID_GOHDON_HOME1: Votre arme fonctionne un peu\ncomme un arc, non ? On devrait\ns'entraîner ensemble, à l'occasion !
+MID_GOHDON_HOME2: J'ai l'air jeune et j'agis de façon un\npeu immature... Je n'ai pas encore\nl'étoffe d'un véritable chevalier.
+MID_GOHDON_HOME3: Sous votre supervision, j'ai le\nsentiment de donner le meilleur\nde moi-même. Merci.
+MID_GOHDON_HOME4: Un jour, j'aimerais avoir le charisme\nnécessaire pour donner un discours\nqui motiverait tout le monde !
+MID_GOHDON_HOME5: Mon mentor s'appelle Jeorge.\nC'est un archer hors pair et\nun homme exceptionnel.
+MID_GOHDON_FRIEND: $Nu ?\n$Nf m'a\ndemandé de vous passer le bonjour !
+MID_GOHDON_LEVEL1: Je ne savais pas que je pouvais\ndevenir si fort !
+MID_GOHDON_LEVEL2: Pas à pas, je deviens plus fort !
+MID_GOHDON_LEVEL3: Je serai toujours un débutant...
+MID_GOHDON_SKILL: Ouah, j'ai hâte d'essayer ce nouveau\npouvoir !
+MID_GOHDON_JOIN: Je suis Gordin, archer des\nchevaliers d'Altea. Ravi de\nservir sous vos ordres !
+MID_GOHDON_STRONGEST: Je n'aurais jamais réussi à travailler\naussi dur si vous ne m'aviez pas\nautant encouragé, $GInvocateur,Invocatrice|.$k$pGrâce à vous, j'ai pu aider mes alliés à\nde nombreuses reprises. Je suis si\nheureux de pouvoir me rendre utile !$k$pJ'ai l'impression d'être devenu\nun adulte, même si cela ne se\nvoit pas sur mon visage !$k$pEn tout cas, je sais que je continuerai\nà grandir tant que je serai à vos côtés.\nMerci infiniment !
+MID_GOHDON_VOICE01: えいっ！
+MID_GOHDON_VOICE02: やぁっ！
+MID_GOHDON_VOICE03: うああっ！
+MID_GOHDON_VOICE04: Drat...
+MID_GOHDON_VOICE05: Je peux le faire !
+MID_GOHDON_VOICE06: Dans le mille !
+MID_GOHDON_VOICE07: Allez... Allez !!!
+MID_GOHDON_VOICE08: J'y arriverai !
+MID_GOHDON_VOICE09: I can't...
+MID_GOHDON_VOICE10: Haha
+MID_GOHDON_VOICE11: Oh, hey. Did you need me?
+MID_GOHDON_VOICE12: *chuckles* You checking up on everyone or just me?
+MID_GOHDON_VOICE13: I don't really look the part of an Altean knight, do I?
+MID_GOHDON_VOICE14: Let's train and improve together. Sound good?
+MID_GOHDON_VOICE15: If you had to guess, how old would you say I look?
+MID_GOHDON_VOICE16: I know, I know... I look young for my age.
+MID_GOHDON_VOICE17: Hey, I'm counting on you. Just thought you should know.
+MID_GOHDON_VOICE18: All right!
+MID_GOHDON_VOICE19: What now?
+MID_GOHDON_VOICE20: You got it!

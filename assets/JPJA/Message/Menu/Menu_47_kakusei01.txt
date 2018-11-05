@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: 祝福されし英雄や、伝承英雄で挑戦！
+MID_BLESSINGMAP_HELP_DIALOG_01: ◆四天の庭園◆\n『莫大な財宝眠る楽園』…\n伝承にそう記されていた\n古代の空中庭園です。\n\n祝福を付与された英雄や、\n伝承英雄だけがその姿を目にし、\n中に入ることができます。
+MID_BLESSINGMAP_HELP_DIALOG_02: ◆四天の庭園の制限１◆\n・水の庭園は、\n　水の祝福を付与された英雄か、\n　水の伝承英雄のみが出撃可能です。\n\n・風、地、火も同様になります。
+MID_BLESSINGMAP_HELP_DIALOG_03: ◆四天の庭園の制限２◆\n・４人の英雄が必要です。\n\n・部隊に、同じ英雄を\n　複数入れることはできません。\n\n・光の加護は使用できません。
+MID_BLESSINGMAP_HELP_DIALOG_04: ◆四天の庭園の伝承効果◆\n四天の庭園では、シーズンに関わらず、\n伝承英雄の伝承効果は常に発生します。\n\n◆祝福付与の方法◆\n「祝福付与」は「仲間」メニューの\n「特別強化」の中にあります。
+MID_STAGE_SELECT_BLESSING_GARDEN: 四天の庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: 水の庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: 風の庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: 地の庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: 火の庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: 水の祝福を付与された英雄か、\n水の伝承英雄だけが入れる庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: 風の祝福を付与された英雄か、\n風の伝承英雄だけが入れる庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: 地の祝福を付与された英雄か、\n地の伝承英雄だけが入れる庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: 火の祝福を付与された英雄か、\n火の伝承英雄だけが入れる庭園
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: このマップでは、火の伝承英雄か、\n火の祝福を付与された英雄のみ\n部隊に入れることができます。
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: このマップでは、水の伝承英雄か、\n水の祝福を付与された英雄のみ\n部隊に入れることができます。
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: このマップでは、風の伝承英雄か、\n風の祝福を付与された英雄のみ\n部隊に入れることができます。
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: このマップでは、地の伝承英雄か、\n地の祝福を付与された英雄のみ\n部隊に入れることができます。
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: 四天の庭園　初入場ボーナス
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $a新マップ追加まであと$a0分
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $a新マップ追加まであと$a0時間
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $a新マップ追加まであと$a0日
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: 四天の庭園が開放されました。
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: ４人の英雄が必要です。部隊に\n同じ英雄を複数入れることはできません。
+MID_OCCUPATION_MAP_FORTRESS: 本拠地
+MID_OCCUPATION_MAP_HUB: 陣地
+MID_OCCUPATION_MAP_SCORE_KILL: 撃破数
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: 陣地数
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: 本拠地HP
+MID_OCCUPATION_MAP_SCORE_BONUS: ボーナス
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: 制圧戦
+MID_OCCUPATION_STAGE_TELOP_RULE: $a$a0ターン戦闘
+MID_OCCUPATION_RESULT: 今回の結果
+MID_OCCUPATION_RESULT_KILL: 撃破評価
+MID_OCCUPATION_RESULT_DEFENCE: 本拠地防衛評価
+MID_OCCUPATION_RESULT_OFFENCE: 本拠地攻撃評価
+MID_OCCUPATION_RESULT_DOMINATION: 陣地占拠評価
+MID_OCCUPATION_RESULT_SCORE: 今回のスコア
+MID_OCCUPATION_RESULT_SCORE_BORDER: 目標のスコア
+MID_OCCUPATION_RESULT_BONUS: ボーナス
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: 目標達成！
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: 目標スコアまであと
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: クリア報酬獲得！
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: クリア報酬は受取済です。
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: 目標スコアに到達するとクリア報酬獲得！
+MID_OCCUPATION_STAGE_SELECT_SCORE: スコア
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: スコア/ボーナス
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: 最高スコア
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: 目標スコア
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: クリア報酬は目標スコア達成で入手できます。
+MID_OCCUPATION_BONUS_歩行: 歩行で撃破するとボーナス＋１
+MID_OCCUPATION_BONUS_重装: 重装で撃破するとボーナス＋１
+MID_OCCUPATION_BONUS_騎馬: 騎馬で撃破するとボーナス＋１
+MID_OCCUPATION_BONUS_飛行: 飛行で撃破するとボーナス＋１
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: クリア済みのため\n報酬は獲得できません。
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: 歌う、踊るが可能な英雄は、全体で\n１人までしか入れることはできません。\n\n部隊に、同じ英雄を\n複数入れることはできません。
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: 同時に編成できないキャラクターが\n含まれています。
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: ２０人の大部隊で、制圧戦に挑戦！
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: ◆大部隊編成◆\n「制圧戦」を遊ぶための編成です。\n\n自軍またはフレンドから\n最大２０人を選択できます。\n選択しない枠は、援軍が登場します。
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: ◆大部隊編成の制限◆\n・歌う、踊るが可能な英雄は、全体で\n　１人までしか入れることはできません。\n\n・部隊に、同じ英雄を\n　複数入れることはできません。
+MID_CONQUER_HELP_DIALOG_00: 自分やフレンドの英雄で、制圧戦に挑戦
+MID_CONQUER_HELP_DIALOG_01: ◆制圧戦のルール◆\n・一方が全滅しても決着しません。\n　増援が登場して戦いを続けます。\n・１０ターン経過、または\n　どちらかの本拠地破壊で決着です。\n\n・経験値、ＳＰは入手できません。\n・増援には伝承効果は発生しません。
+MID_CONQUER_HELP_DIALOG_02: ◆本拠地◆\n・３回の攻撃で破壊できます。\n・自軍の本拠地には移動可能です。\n・本拠地にいる仲間は、\n　ターン開始時にＨＰ１０回復します。\n・本拠地は防御地形になります。
+MID_CONQUER_HELP_DIALOG_03: ◆陣地◆\n・２回の攻撃で破壊し、\n　自軍の陣地にできます。\n・自軍の陣地には移動可能です。\n・陣地にいる仲間は、\n　ターン開始時にＨＰ１０回復します。\n・陣地は防御地形になります。
+MID_CONQUER_HELP_DIALOG_04: ◆本拠地、陣地間のワープ◆\n自軍の本拠地や陣地と\nその周囲１マス以内の仲間は、\n他の自軍の本拠地や陣地と\nその周囲１マスへ\n一気に移動できます。
+MID_CONQUER_HELP_DIALOG_05: ◆制圧戦のスコア◆\n決着後、スコアを獲得します。\n\n自軍本拠地・陣地をなるべく攻撃されず、\n敵軍本拠地・陣地・敵を多く撃破して、\n高いスコアを目指しましょう。
+MID_UNIT_EDIT_LARGE_FORCE: 大部隊編成
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $a大部隊編成　部隊$a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: 援軍
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: フレンドを更新
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: フレンドを更新する
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: 自軍から編成
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: フレンドから編成
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: フレンドのキャラクターを\n最新の状態に更新しますか？
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: 全ての部隊の\nフレンドのキャラクターが更新されます。
+MID_UNIT_EDIT_FRIEND_BOX: フレンド

@@ -1,0 +1,38 @@
+[Heroes Archive] (CYAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CYAS_HOME1: Es ist eine Schande, dass der Wind\nden Gestank des Krieges selbst in\nein friedliches Land wie dieses trägt.
+MID_CYAS_HOME2: Die Leute schmeicheln mir gern,\ndeshalb nennen sie mich einen\nTaktiker.$k$pIch bin zwar nicht gerade ehrgeizig,\naber ich hasse es, wenn eine Aktion\nkeinen Nutzen bringt.
+MID_CYAS_HOME3: Auf Patrouille? Richtig so. Die\nSituation zu erfassen ist der erste\nSchritt zu einer guten Strategie.$k$pMan sollte nie vergessen, dass\nGründlichkeit eine Tugend ist.
+MID_CYAS_HOME4: Ihr habt aber einen ernsten\nGesichtsausdruck!$k$pIch bin zwar nur ein bescheidener\nMann der Kirche, aber Ihr dürft\nmich jederzeit um Rat fragen.
+MID_CYAS_HOME5: Kennt ihr die Schlossbibliothek? Was\nfür eine Sammlung! Ich kann es kaum\nerwarten, all die Bücher zu studieren.
+MID_CYAS_FRIEND: Ich überbringe einen Gruß von\n$Nf...$k$pMöge Euch Bragi beschützen!
+MID_CYAS_LEVEL1: Bragi, oh Herr, ich danke Euch.
+MID_CYAS_LEVEL2: Möge der heilige Schutz meines\nHerrn uns allen zugutekommen.
+MID_CYAS_LEVEL3: Ich bin unwürdig...
+MID_CYAS_SKILL: Welch Macht... Ich bin bestrebt,\nEure Erwartungen zu erfüllen.
+MID_CYAS_JOIN: Ich bin Saias von Velthomer.$k$pMöge Bragi mich leiten, damit meine\nbescheidenen Fähigkeiten Euch\nnützlich sein können.
+MID_CYAS_STRONGEST: Wie geht es Euch? Euer Gesicht ist\nzu einer höchst seltsamen Miene\nverzogen...$k$pEs scheint fast, als läge die Zukunft\nwie ein offenes Buch vor Euch.$k$pIch überschätze Euch? Doch nur wer\naußergewöhnlich ist, muss darauf\nbeharren, gewöhnlich zu sein...$k$pMein Blut hat mir wahrlich Türen\ngeöffnet. Ich bemühe mich redlich,\nmich dessen als würdig zu erweisen.$k$pDoch dasselbe Blut macht es mir\nunmöglich, in Frieden zu leben. Dies\nhabe ich von meiner Mutter gelernt...$k$pSolange Ihr nicht von Eurem Weg\nabkommt, habt Ihr mein Wissen und\nmeine Fähigkeiten zur Verfügung.$k$pIch schwöre es auf die Flamme, mit\nder meine Haut gebrandmarkt ist.
+MID_CYAS_VOICE01: はっ！
+MID_CYAS_VOICE02: せいっ！
+MID_CYAS_VOICE03: うああっ！
+MID_CYAS_VOICE04: As expected...
+MID_CYAS_VOICE05: All dies war unvermeidbar.
+MID_CYAS_VOICE06: Ihr solltet Euch ergeben.
+MID_CYAS_VOICE07: Ihr besiegt mich nicht.
+MID_CYAS_VOICE08: Alles läuft nach Plan.
+MID_CYAS_VOICE09: I can do no more...
+MID_CYAS_VOICE10: (Sigh)
+MID_CYAS_VOICE11: I can't discuss the topic of my lineage, I'm afraid.
+MID_CYAS_VOICE12: Eh? My, you aren't shy, are you?
+MID_CYAS_VOICE13: A thousand pegasi led by one dragon can defeat a thousand dragons led by one pegasus.
+MID_CYAS_VOICE14: The Heroes gathered here are as dragons. I suppose that you, too, could be called a dragon.
+MID_CYAS_VOICE15: Lord Julius was once kindhearted. Since that fateful day, however...
+MID_CYAS_VOICE16: As the descendant of Fjalar, I must live on.
+MID_CYAS_VOICE17: It would pain me to leave you...so I shall accompany you a while longer.
+MID_CYAS_VOICE18: Yes.
+MID_CYAS_VOICE19: What do you need?
+MID_CYAS_VOICE20: I'll hear your plan.

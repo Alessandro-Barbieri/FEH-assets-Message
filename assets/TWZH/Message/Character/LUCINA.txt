@@ -1,0 +1,39 @@
+[Heroes Archive] (LUCINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_HOME1: 父親大人、母親大人……\n當所有戰事都結束的那一刻，\n請在天上誇獎我喔……
+MID_LUCINA_HOME2: 在我原本的世界，國家及人民……\n都遭到邪龍津利無情毀滅。\n我絕不會讓那樣的未來再次降臨。
+MID_LUCINA_HOME3: 你在巡邏陣營嗎？\n如果累了，我可以接手，\n所以請你別太逞強。
+MID_LUCINA_HOME4: 下次要不要一起去逛街呢？\n既然都來了，\n我也想穿穿看這個世界的漂亮洋裝。
+MID_LUCINA_HOME5: 對、對不起……我剛剛在鍛鍊，\n結果力道太猛……\n把牆壁打出一個大洞了……
+MID_LUCINA_FRIEND: 是$Nf\n拜託我前來向你致意的……\n兩位的感情真好呢。
+MID_LUCINA_LEVEL1: 我再也不會……\n讓任何人殞命……！
+MID_LUCINA_LEVEL2: 就照這氣勢，\n變得更強更強……
+MID_LUCINA_LEVEL3: 我必須變得\n更強才行啊……！
+MID_LUCINA_SKILL: 謝謝你。\n我一定能用這股力量開拓命運。
+MID_LUCINA_JOIN: 我叫做露琪娜，是未來的伊里斯公主……\n來自絕望未來的庫洛武之女。\n我要用這份力量改變命運！
+MID_LUCINA_STRONGEST: 這個世界真是美麗呢。\n純白的城堡、清澈的藍空……\n以及繁盛的花草樹木。$k$p……這些都是無可替代的寶物。\n$Nu……\n我們一定要守護好這個世界。$k$p我的故鄉已毀於戰火之中，\n但是，我不會讓這裡重蹈覆轍。\n我不想再讓任何人嘗到同樣的痛楚……$k$p……咦？別露出這種表情？\n你是在安慰我吧。\n謝謝你……$k$p每次都因為你的溫柔和堅強\n讓我獲得幫助。\n今後也請讓我陪伴在你身邊喔。\n
+MID_LUCINA_VOICE01: 呀！
+MID_LUCINA_VOICE02: 喝！
+MID_LUCINA_VOICE03: 嗚啊！
+MID_LUCINA_VOICE04: 失算了……
+MID_LUCINA_VOICE05: 我要改變命運！
+MID_LUCINA_VOICE06: 我要拿出真本事了！
+MID_LUCINA_VOICE07: 這就是羈絆！
+MID_LUCINA_VOICE08: 我不會絕望的！
+MID_LUCINA_VOICE09: 怎能……死在這裡……
+MID_LUCINA_VOICE10: 呵呵！
+MID_LUCINA_VOICE11: 我想和你多聊聊。
+MID_LUCINA_VOICE12: 我也有很棒的夥伴喔。
+MID_LUCINA_VOICE13: 你都是在哪買衣服的呢？
+MID_LUCINA_VOICE14: 在我出生的世界，充斥著絕望……
+MID_LUCINA_VOICE15: 若將世界和平與夥伴的生命放在天秤上衡量，我……
+MID_LUCINA_VOICE16: 父親大人是否又在鍛鍊了呢……
+MID_LUCINA_VOICE17: 我一定會用這把法爾西昂，幫上你的忙。
+MID_LUCINA_VOICE18: 是。
+MID_LUCINA_VOICE19: 我們走吧。
+MID_LUCINA_VOICE20: 我不要緊。
+MID_LUCINA_VOICE21: 父親大人，我也會努力的。

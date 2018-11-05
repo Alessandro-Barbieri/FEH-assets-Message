@@ -1,0 +1,108 @@
+[Heroes Archive] (Data_62_popularity04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_ペレジアの冠: Corona plegiana
+MDAID_H_ペレジアの冠: Una corona che pare venga indossata\ndai seguaci di Grima. Apparteneva\nad Aversa.
+MDAID_ペレジアの冠・極: Corona plegiana+
+MDAID_H_ペレジアの冠・極: Una maestosa corona d'oro massiccio.\nApparteneva ad Aversa.
+MDAID_軍師の帽子: Cappello da stratega
+MDAID_H_軍師の帽子: Chi indossa questo cappello acquisisce\nun carisma che spinge i compagni a\neseguirne gli ordini. Appartiene a Loki.
+MDAID_軍師の帽子・極: Cappello da stratega+
+MDAID_H_軍師の帽子・極: Chi indossa questo cappello sembra\nessere capace di piegare tutti al\nproprio volere. Appartiene a Loki.
+MDAID_探検帽: Cappello da pioniere
+MDAID_H_探検帽: Kliff ha ricevuto in dono questo\ncappello in vista del suo viaggio verso\nsconosciuti reami.
+MDAID_探検帽・極: Cappello da pioniere+
+MDAID_H_探検帽・極: Quando Kliff era solo un bambino, suo\npadre trovò questo cappello mentre\nera in viaggio in una terra remota.
+MDAID_ダークネスウィング: Ali di tenebra
+MDAID_H_ダークネスウィング: Ali possedute da Owain. La leggenda\nnarra che abbiano un potere unico,\nperfetto per contrastare le tenebre.
+MDAID_ダークネスウィング・極: Ali di tenebra+
+MDAID_H_ダークネスウィング・極: Ali possedute da Owain. Lui sostiene\nche siano stati dei sacri poteri a farle\ndiventare di un bianco immacolato.
+MID_MISSION_S201810BLESS01_TITLE: Dono dell'acqua
+MID_MISSION_S201810BLESS01_A1: Vinci con Dono dell'acqua
+MID_MISSION_H_S201810BLESS01_A1: Sconfiggi un nemico usando un eroe a cui\nhai conferito il Dono dell'acqua (non un\neroe leggendario d'acqua).
+MID_MISSION_S201810BLESS01_A2: Vinci con Dono dell'acqua
+MID_MISSION_H_S201810BLESS01_A2: Sconfiggi un nemico di livello 20 o superiore\nusando un eroe a cui hai conferito il Dono\ndell'acqua (non un eroe leggendario d'acqua).
+MID_MISSION_S201810BLESS01_A3: Vinci con Dono dell'acqua
+MID_MISSION_H_S201810BLESS01_A3: Sconfiggi un nemico di tipo rosso di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201810BLESS01_A4: Vinci con Dono dell'acqua
+MID_MISSION_H_S201810BLESS01_A4: Sconfiggi un nemico di tipo blu di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201810BLESS01_A5: Vinci con Dono dell'acqua
+MID_MISSION_H_S201810BLESS01_A5: Sconfiggi un nemico di tipo verde di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201810BLESS01_A6: Torre: vinci al 1º piano
+MID_MISSION_H_S201810BLESS01_A6: Completa il primo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201810BLESS01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201810BLESS01_A7: Completa il quinto piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201810BLESS01_A8: Torre: vinci al 10º piano
+MID_MISSION_H_S201810BLESS01_A8: Completa il decimo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201810STORY02_TITLE: Ritorno impavidi
+MID_MISSION_S201810STORY02_A1: Completa app. 26-1 folle
+MID_MISSION_H_S201810STORY02_A1: Completa l'app. 26, parte 1 alla difficoltà folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201810STORY02_A2: Completa app. 26-2 folle
+MID_MISSION_H_S201810STORY02_A2: Completa l'app. 26, parte 2 alla difficoltà folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201810STORY02_A3: Completa app. 26-3 folle
+MID_MISSION_H_S201810STORY02_A3: Completa l'app. 26, parte 3 alla difficoltà folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_ウード: Owain
+MPID_インバース: Aversa
+MPID_ロキ味方: Loki
+MPID_クリフ: Kliff
+MPID_HONOR_ウード: Il prescelto
+MPID_HONOR_インバース: L'oscura signora
+MPID_HONOR_ロキ味方: L'ingannatrice
+MPID_HONOR_クリフ: Il genio mai pago
+MPID_H_ウード: Figlio di Lissa dai modi estremamente teatrali.\nAdora dare nomi originali alle sue armi.\nCompare in Fire Emblem: Awakening.
+MPID_H_インバース: Un'astuta maga al servizio di Gangrel di Plegia.\nUsa i suoi incantesimi per disarmare il nemico\ne dargli il colpo di grazia. Compare in Fire\nEmblem: Awakening.
+MPID_H_ロキ味方: È la stratega di Múspell, il regno del fuoco.\nNon fa che ingannare e manipolare la gente.
+MPID_H_クリフ: Nel villaggio di Ram era amico d'infanzia di\nAlm. La sua sete di conoscenza lo sprona a\nesplorare ogni angolo del mondo. Compare in\nFire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_ウード: Kaiji Tang
+MPID_VOICE_インバース: Cindy Robinson
+MPID_VOICE_ロキ味方: Erika Ishii
+MPID_VOICE_クリフ: Christopher Patton
+MPID_ILLUST_ウード: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_インバース: PenekoR (п猫Ｒ)
+MPID_ILLUST_ロキ味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_クリフ: Tobi
+MSID_ミステルトィン: Misseltein
+MSID_インバースの暗闇: Notte di Aversa
+MSID_アロー: Sagittae
+MSID_ブルーフレイム: Fiamma blu
+MSID_大地静水の祝福: Balsamo fango
+MSID_大地静水の祝福＋: Balsamo fango+
+MSID_守備魔防の城塞1: Forte Dif/Res 1
+MSID_守備魔防の城塞2: Forte Dif/Res 2
+MSID_守備魔防の城塞3: Forte Dif/Res 3
+MSID_無の死闘・歩行1: Sfida fanteria N1
+MSID_無の死闘・歩行2: Sfida fanteria N2
+MSID_無の死闘・歩行3: Sfida fanteria N3
+MSID_H_ミステルトィン: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). A ogni attacco nemico anticipa\nl'attivazione dell'abilità speciale (contatore -1)\ndurante lo scontro. (Non cumulabile; si applica\nsolo il valore più alto. Contatore -1 conferito\nanche se l'attacco nemico infligge 0 danni.)
+MSID_H_インバースの暗闇: Conferisce Res +3. Se un nemico ha almeno 3\nPS in meno dell'unità ed è adiacente a un altro\nnemico all'inizio del turno, Att/Vel/Dif/Res -3 al\nprimo nemico e i suoi bonus diventano penalità\ndurante la sua prossima azione.
+MSID_H_アロー: Conferisce Dif +3. Se il nemico ha almeno\n5 Att più dell'unità all'inizio dello scontro,\nAtt/Vel/Dif/Res +5 durante il combattimento.
+MSID_H_ブルーフレイム: Aumenta i danni di 10. Se l'unità è adiacente\na un alleato, aumenta invece i danni di 25.
+MSID_H_大地静水の祝福: Quando viene utilizzato un bastone curativo,\nconferisce Dif/Res +4 a tutti gli alleati\nper 1 turno.
+MSID_H_大地静水の祝福＋: Quando viene utilizzato un bastone curativo,\nconferisce Dif/Res +6 a tutti gli alleati\nper 1 turno.
+MSID_H_守備魔防の城塞1: Conferisce Dif/Res +3. Infligge Att -3.
+MSID_H_守備魔防の城塞2: Conferisce Dif/Res +4. Infligge Att -3.
+MSID_H_守備魔防の城塞3: Conferisce Dif/Res +6. Infligge Att -2.
+MSID_H_無の死闘・歩行1: Conferisce PS +3. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 160,\nconsidera i suoi parametri pari a 160\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_無の死闘・歩行2: Conferisce PS +4. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 165,\nconsidera i suoi parametri pari a 165\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_無の死闘・歩行3: Conferisce PS +5. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 170,\nconsidera i suoi parametri pari a 170\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MID_CHAPTER_TITLE_CX025: Appendice 26
+MID_CHAPTER_CX025: Ritorno impavidi
+MID_STAGE_TITLE_X0251: Appendice 26-1
+MID_STAGE_TITLE_X0252: Appendice 26-2
+MID_STAGE_TITLE_X0253: Appendice 26-3
+MID_STAGE_X0251: Oscurità e inganno
+MID_STAGE_X0252: Terreno e ultraterreno
+MID_STAGE_X0253: L'adunata
+MID_STAGE_HONOR_T0042: L'oscura signora
+MID_STAGE_T0042: Aversa
+MID_STAGE_TITLE_ST_X0024: Appendice 25
+MID_STAGE_TITLE_ST_X0025: Appendice 26
+MID_STAGE_TITLE_ST_X1025: App. 25 e 26
+MID_CHAPTER_ST_CX013: App. 25 e 26
+MID_STAGE_TITLE_PB032: Le abilità: 32
+MID_STAGE_PB032: Misseltein!
+MID_STAGE_TITLE_PC016: Per veterani: 16
+MID_STAGE_PC016: Guida sicura

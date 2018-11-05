@@ -1,0 +1,188 @@
+[Heroes Archive] (Data_462_legend02)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0002: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|Un eroe è stato evocato con un\nrito tenutosi in un mondo lontano.\nForza... Andiamo a presentarci.$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0002: Ottieni un nuovo eroe completando\nCronache 3, L'eroe del popolo!
+MID_MISSION_M201803A_TITLE: Imprese marzo (1)
+MID_MISSION_M201803A_A1: Vinci con unità blu
+MID_MISSION_H_M201803A_A1: Sconfiggi i nemici con unità\ndi tipo blu.
+MID_MISSION_M201803A_A2: Vinci con unità di fanteria
+MID_MISSION_H_M201803A_A2: Sconfiggi i nemici con unità di fanteria.
+MID_MISSION_M201803A_A3: Batti nemici verdi
+MID_MISSION_H_M201803A_A3: Sconfiggi nemici di tipo verde.
+MID_MISSION_M201803A_A4: Batti unità volanti
+MID_MISSION_H_M201803A_A4: Sconfiggi nemici volanti.
+MID_MISSION_M201803A_A5: Arena: vinci duelli
+MID_MISSION_H_M201803A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201803A_A6: Rosso batte nem. Liv 20+
+MID_MISSION_H_M201803A_A6: Sconfiggi nemici di livello 20 o superiore\ncon unità di tipo rosso.
+MID_MISSION_M201803A_A7: Volant. batte nem. Liv 20+
+MID_MISSION_H_M201803A_A7: Sconfiggi nemici di livello 20 o superiore\ncon unità volanti.
+MID_MISSION_M201803A_A8: Batti nemici blu Liv 20+
+MID_MISSION_H_M201803A_A8: Sconfiggi nemici di tipo blu\ndi livello 20 o superiore.
+MID_MISSION_M201803A_A9: Batti fanteria Liv 20+
+MID_MISSION_H_M201803A_A9: Sconfiggi unità di fanteria\ndi livello 20 o superiore.
+MID_MISSION_M201803A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201803A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201803A_A11: Verde batte nem. Liv 35+
+MID_MISSION_H_M201803A_A11: Sconfiggi nemici di livello 35 o superiore\ncon unità di tipo verde.
+MID_MISSION_M201803A_A12: Cavall. batte nem. Liv 35+
+MID_MISSION_H_M201803A_A12: Sconfiggi nemici di livello 35 o superiore\ncon unità a cavallo.
+MID_MISSION_M201803A_A13: Batti nemici rossi Liv 35+
+MID_MISSION_H_M201803A_A13: Sconfiggi nemici di tipo rosso\ndi livello 35 o superiore.
+MID_MISSION_M201803A_A14: Batti cavalleria Liv 35+
+MID_MISSION_H_M201803A_A14: Sconfiggi nemici a cavallo\ndi livello 35 o superiore.
+MID_MISSION_M201803A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201803A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_M201803B_TITLE: Imprese marzo (2)
+MID_MISSION_M201803B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201803B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201803B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201803B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201803B_A4: Completa il quarto piano della\ntorre di allenamento. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201803B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201803B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201803B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201803B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201803B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201803B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201803B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201803B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201803B_A12: Completa il decimo piano della torre di\nallenamento con soli alleati corazzati.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201803B_A13: Completa il decimo piano della torre di\nallenamento con soli alleati a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201803B_A14: Completa il decimo piano della torre di\nallenamento con soli alleati volanti. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_TITLE: Imprese marzo (3)
+MID_MISSION_M201803C_A1: Completa 7-1
+MID_MISSION_H_M201803C_A1: Completa il cap. 7, parte 1. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A2: Completa 7-2
+MID_MISSION_H_M201803C_A2: Completa il cap. 7, parte 2 con\nun'unità rossa in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A3: Completa 7-3
+MID_MISSION_H_M201803C_A3: Completa il cap. 7, parte 3 con\nun'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803C_A4: Completa 7-4
+MID_MISSION_H_M201803C_A4: Completa il cap. 7, parte 4 con\nun'unità verde in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A5: Completa 7-5
+MID_MISSION_H_M201803C_A5: Completa il cap. 7, parte 5 con\nun'unità neutra in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A6: Completa 10-1 difficile+
+MID_MISSION_H_M201803C_A6: Completa il cap. 10, parte 1 al livello di\ndifficoltà difficile o superiore. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803C_A7: Completa 10-2 difficile+
+MID_MISSION_H_M201803C_A7: Completa il cap. 10, parte 2 con un'unità rossa in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A8: Completa 10-3 difficile+
+MID_MISSION_H_M201803C_A8: Completa il cap. 10, parte 3 con un'unità blu in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A9: Completa 10-4 difficile+
+MID_MISSION_H_M201803C_A9: Completa il cap. 10, parte 4 con un'unità verde in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A10: Completa 10-5 difficile+
+MID_MISSION_H_M201803C_A10: Completa il cap. 10, parte 5 con un'unità neutra in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A11: Completa 13-1 folle
+MID_MISSION_H_M201803C_A11: Completa il cap. 13, parte 1 al livello di difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201803C_A12: Completa 13-2 folle
+MID_MISSION_H_M201803C_A12: Completa il cap. 13, parte 2 al livello di difficoltà\nfolle con un'unità rossa in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803C_A13: Completa 13-3 folle
+MID_MISSION_H_M201803C_A13: Completa il cap. 13, parte 3 al livello di difficoltà\nfolle con un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803C_A14: Completa 13-4 folle
+MID_MISSION_H_M201803C_A14: Completa il cap. 13, parte 4 al livello di difficoltà\nfolle con un'unità verde in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201803C_A15: Completa 13-5 folle
+MID_MISSION_H_M201803C_A15: Completa il cap. 13, parte 5 al livello di difficoltà\nfolle con un'unità neutra in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201803CHARA01_TITLE: Tre eroi
+MID_MISSION_S201803CHARA01_A1: Vinci
+MID_MISSION_H_S201803CHARA01_A1: Sconfiggi nemici.
+MID_MISSION_S201803CHARA01_A2: Vinci con Zelcher
+MID_MISSION_H_S201803CHARA01_A2: Usa Zelcher per sconfiggere nemici.
+MID_MISSION_S201803CHARA01_A3: Vinci con Gordin
+MID_MISSION_H_S201803CHARA01_A3: Usa Gordin per sconfiggere nemici.
+MID_MISSION_S201803CHARA01_B1: Batti nemici Liv 20+
+MID_MISSION_H_S201803CHARA01_B1: Sconfiggi nemici di livello 20\no superiore con Zelcher.
+MID_MISSION_S201803CHARA01_B2: Batti nemici Liv 20+
+MID_MISSION_H_S201803CHARA01_B2: Sconfiggi nemici di livello 20\no superiore con Gordin.
+MID_MISSION_S201803CHARA01_B3: Batti nemici Liv 20+
+MID_MISSION_H_S201803CHARA01_B3: Sconfiggi nemici di livello 20\no superiore con Serra.
+MID_MISSION_S201803CHARA01_C1: Batti nemici Liv 35+
+MID_MISSION_H_S201803CHARA01_C1: Sconfiggi nemici di livello 35\no superiore con Zelcher.
+MID_MISSION_S201803CHARA01_C2: Batti nemici Liv 35+
+MID_MISSION_H_S201803CHARA01_C2: Sconfiggi nemici di livello 35\no superiore con Gordin.
+MID_MISSION_S201803CHARA01_C3: Batti nemici Liv 35+
+MID_MISSION_H_S201803CHARA01_C3: Sconfiggi nemici di livello 35\no superiore con Serra.
+MID_MISSION_S201803HERO00_TITLE: Grandi battaglie
+MID_MISSION_S201803HERO00_A1: Batti Arvis
+MID_MISSION_H_S201803HERO00_A1: Con Alfonse nella tua squadra,\nvinci la Grande battaglia contro\nArvis, il sovrano focoso.
+MID_MISSION_S201803HERO00_A2: Batti Arvis
+MID_MISSION_H_S201803HERO00_A2: Con Arvis, il sovrano focoso, nella tua squadra,\nvinci la Grande battaglia contro Arvis, il\nsovrano focoso, al livello folle o superiore.
+MID_MISSION_S201803HERO00_A3: Batti Arvis
+MID_MISSION_H_S201803HERO00_A3: Batti Arvis, il sovrano focoso, di\nlivello 40 o superiore con Alfonse.
+MID_MISSION_S201803HERO00_A4: Batti Arvis
+MID_MISSION_H_S201803HERO00_A4: Batti Arvis, il sovrano focoso, di\nlivello 40 o superiore con Arvis,\nil sovrano focoso.
+MID_MISSION_S201803HERO00_A5: Batti Arvis
+MID_MISSION_H_S201803HERO00_A5: Vinci la Grande battaglia contro Arvis, il sovrano\nfocoso, al livello di difficoltà folle o superiore\ncon una squadra di sole unità di fanteria.
+MID_MISSION_S201803VOTE01_TITLE: Sfida ai voti
+MID_MISSION_S201803VOTE01_A1: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A1: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201803VOTE01_A2: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A2: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201803VOTE01_A3: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A3: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201803VOTE01_A4: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A4: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201803VOTE01_A5: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A5: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201803VOTE01_A6: Torre: vinci al 2º piano
+MID_MISSION_H_S201803VOTE01_A6: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201803VOTE01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201803VOTE01_A7: Vinci al quinto piano della torre\ndi allenamento.
+MID_MISSION_S201803VOTE01_A8: Torre: vinci all'8º piano
+MID_MISSION_H_S201803VOTE01_A8: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201803VOTE01_A9: Arena: vinci duelli
+MID_MISSION_H_S201803VOTE01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201803VOTE01_A10: Arena: vinci duelli
+MID_MISSION_H_S201803VOTE01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201803VOTE01_A11: Arena: vinci duelli int.+
+MID_MISSION_H_S201803VOTE01_A11: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201803VOTE01_A12: Arena: vinci duelli int.+
+MID_MISSION_H_S201803VOTE01_A12: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201803VOTE01_A13: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A13: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201803VOTE01_A14: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A14: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201803VOTE01_A15: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A15: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201803VOTE01_A16: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A16: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MID_MISSION_S201803VOTE01_A17: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A17: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201803VOTE01_A18: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A18: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201803VOTE01_A19: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A19: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201803VOTE01_A20: Sfida ai voti
+MID_MISSION_H_S201803VOTE01_A20: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MPID_伝承エフラム: Ephraim
+MPID_HONOR_伝承エフラム: Il principe mitico
+MPID_H_伝承エフラム: Principe di Renais e gemello di Erika. Si dice\nche abbia distrutto l'antico Re Demone e abbia\ncosì salvato il mondo. Compare in\nFire Emblem: The Sacred Stones.
+MPID_VOICE_伝承エフラム: Greg Chun
+MPID_ILLUST_伝承エフラム: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エフラム: Effetto leggendario: fuoco\nIncremento alleato: PS +3, Dif +4\n\nSe quest'unità scende in battaglia durante\nla stagione del fuoco con alleati che hanno\nil Dono del fuoco, questi alleati ricevono\nquest'effetto leggendario.
+MSID_炎槍ジークムント: Siegmund fuoco
+MSID_鬼神金剛の構え1: Posa ferrea 1
+MSID_鬼神金剛の構え2: Posa ferrea 2
+MSID_太陽の腕輪: Bracciale solare
+MSID_H_炎槍ジークムント: Conferisce Att +3. Se entro 2 spazi il numero\ndi nemici (bersaglio escluso) è maggiore o\nuguale al numero di alleati (unità esclusa),\nl'unità esegue un attacco doppio.
+MSID_H_鬼神金剛の構え1: Se il nemico attacca per primo,\nAtt/Dif +2 durante lo scontro.
+MSID_H_鬼神金剛の構え2: Se il nemico attacca per primo,\nAtt/Dif +4 durante lo scontro.
+MSID_H_太陽の腕輪: Ripristina PS pari al 30% dei danni inflitti\nall'attivazione dell'abilità speciale (cumulabile\ncon gli effetti delle abilità come Sole).
+MID_CHAPTER_TITLE_CXX03: Cronache 3
+MID_CHAPTER_CXX03: L'eroe del popolo
+MID_STAGE_TITLE_XX003: Cronache 3
+MID_STAGE_XX003: L'eroe del popolo

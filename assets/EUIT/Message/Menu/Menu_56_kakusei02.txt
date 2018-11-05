@@ -1,0 +1,58 @@
+[Heroes Archive] (Menu_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION_PORTRAIT: Confidenze
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_OPENING: $a$a0 - Introduzione
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_C: $a$a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_B: $a$a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_A: $a$a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_C: $a$a1, $a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_B: $a$a1, $a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_A: $a$a1, $a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_S: $a$a1, $a0 - S
+MID_OCCUPATION_ENEMY_RULE_ENHANCE: I nemici sono potenziati!
+MID_OCCUPATION_ENEMY_RULE_ATTACK_AFTER_WARP: I nemici possono attaccare dopo trasf.
+MID_PORTRAIT: Confidenze
+MID_PORTRAIT_REMAINING_DAYS: $aAncora $a0 g
+MID_PORTRAIT_REMAINING_HOURS: $aAncora $a0 h
+MID_PORTRAIT_REMAINING_MINUTES: $aAncora $a0 m
+MID_PORTRAIT_BONUS_TERM_REMAINING_DAYS: $aAncora $a0 g
+MID_PORTRAIT_BONUS_TERM_REMAINING_HOURS: $aAncora $a0 h
+MID_PORTRAIT_BONUS_TERM_REMAINING_MINUTES: $aAncora $a0 m
+MID_PORTRAIT_BONUS_TERM_INFO_DROP_POINT: : probabilità aumentata!
+MID_PORTRAIT_BONUS_TERM_INFO_POINT: $a: amicizia x$a0
+MID_PORTRAIT_EVENT_CHARACTER_INFO: Vinci battaglie per rafforzare il legame\ncon i personaggi di questo evento.
+MID_PORTRAIT_BONUS_ACCESSORY_INFO: Fai indossare questi accessori alla tua squadra\nper far crescere di più la vostra amicizia!
+MID_PORTRAIT_EVENT_CHARACTER: Personaggi evento attuale
+MID_PORTRAIT_REWARD: Ricompense
+MID_PORTRAIT_CHARACTER_REWARD: $aPersonaggio: $a0
+MID_PORTRAIT_CHARACTER_REWARD_TALK_C: $a$a0 - Conversazione C
+MID_PORTRAIT_CHARACTER_REWARD_TALK_B: $a$a0 - Conversazione B
+MID_PORTRAIT_CHARACTER_REWARD_TALK_A: $a$a0 - Conversazione A
+MID_PORTRAIT_CHARACTER_REWARD_TALK_S: $a$a0 - Conversazione S
+MID_PORTRAIT_REWARD_POINT_SHORT: Amicizia
+MID_PORTRAIT_REWARD_CHANGE_DIALOG: Ricompense pers.
+MID_PORTRAIT_ENTER_STAGE_SELECT: Seleziona fase
+MID_PORTRAIT_STAGE_LEVEL0: Facile
+MID_PORTRAIT_STAGE_LEVEL1: Intermedio
+MID_PORTRAIT_STAGE_LEVEL2: Avanzato
+MID_PORTRAIT_STAGE_SELECT_POINT_WIN: Ricompensa vittoria
+MID_PORTRAIT_STAGE_SELECT_DIALOG: Non puoi scegliere il personaggio con\ncui rafforzare il legame né di quanto\ncresce l'amicizia. Usare accessori\nbonus sugli alleati della tua squadra\nti farà procedere più in fretta!
+MID_PORTRAIT_DIALOG_GET_POINT_NAME: Amicizia
+MID_PORTRAIT_DIALOG_GET_POINT_DIGIT: $a +$a0!
+MID_PORTRAIT_TITLE_201807: A difesa d'Ylisse
+MID_PORTRAIT_TERM_EXPIRED: La stagione attuale è terminata.
+MID_PORTRAIT_CLOSED: Nessuna battaglia in corso.
+MID_PORTRAIT_GAINED_REWARDTYPE_POINT: $aRicompensa per aver raggiunto $a0 pt.\ncon $a1:
+MID_PORTRAIT_DIALOG_END_OF_TERM: Poiché la battaglia si è protratta\noltre il termine della stagione,\nl'esito è nullo.
+MID_PORTRAIT_HELP_DIALOG_00: Rafforza il legame con gli eroi!
+MID_PORTRAIT_HELP_DIALOG_01: ◆Confidenze◆\nCompleta le mappe per spingere\ngli eroi a confidarsi con te.\n\nProcedendo nel gioco,\ncondivideranno con te dialoghi\nspeciali o perfino accessori.
+MID_PORTRAIT_HELP_DIALOG_02: ◆Diario eventi◆\nDopo aver sbloccato un dialogo\nspeciale, questo sarà aggiunto\nal diario eventi, dove potrai\nrileggerlo ogni volta che vuoi.
+MID_PORTRAIT_HELP_DIALOG_03: ◆Ricompensa sfere giornaliera◆\nNei primi 7 giorni, ottieni 2 sfere\nal giorno completando una mappa.
+MID_PORTRAIT_GAINED_REWARDTYPE_MISSION: Ricompensa prima vittoria giornaliera
+MID_PORTRAIT_MAX_POINT: Tutti gli eroi hanno già raggiunto\nil massimo livello di amicizia.
+MID_PORTRAIT_DIALOG_AFTER_ENDING: Anche dopo aver visto il finale, puoi\ncontinuare a partecipare all'evento.
+MID_PORTRAIT_DAILY_BONUS_INFO: Nei primi 7 giorni, ottieni 2 sfere\nal giorno completando una mappa.

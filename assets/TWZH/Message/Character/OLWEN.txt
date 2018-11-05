@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN_HOME1: 阿爾馮斯王子跟夏蓉公主……\n看到他們倆感情這麼融洽，\n我也覺得心情非常祥和。
+MID_OLWEN_HOME2: 我哥哥叫做萊茵哈特，\n是位傑出的武人，被譽為\n【聖戰士托德再世】。
+MID_OLWEN_HOME3: 魔道的話，我略知一二。\n如果您想要鍛鍊的話，\n就讓我陪您吧。
+MID_OLWEN_HOME4: 哥哥……\n我要走我所選擇的道路。\n即使會與哥哥為敵……
+MID_OLWEN_HOME5: 孩子是國家的寶物，\n將來會成為國家的棟樑。\n而且還非常惹人憐愛……
+MID_OLWEN_FRIEND: 我叫做歐爾玟。\n我代替$Nf\n前來向您致意。
+MID_OLWEN_LEVEL1: 真令人驚訝。\n我居然如此幸運……
+MID_OLWEN_LEVEL2: 雖然遠不及哥哥，\n但我多少有點成長了。
+MID_OLWEN_LEVEL3: 怎麼會這樣……\n我無法原諒自己……
+MID_OLWEN_SKILL: 我將為您獻上戰功，\n絕不讓這份力量蒙羞。
+MID_OLWEN_JOIN: 我叫做歐爾玟。\n若不嫌棄的話，\n可以讓我與您同行嗎？
+MID_OLWEN_STRONGEST: 我哥哥是位傑出的人物……\n他總是幫助我、引導我。\n只要有哥哥在，我就能放心。$k$p但是有一天，我決定脫離哥哥的庇護，\n自己決定自己的生存之道。$k$p也就是由自己承擔一切的責任。\n我偶爾也會覺得\n自己快被這份重擔給壓垮了……$k$p自從跟您在一起之後，我才明白，\n您同樣也是時而迷惘、時而煩惱，\n但依舊能找出自己的答案……$k$p這個事實給了我很大的勇氣。\n想到今後也能跟您攜手同行……\n我就覺得十分榮幸。\n
+MID_OLWEN_VOICE01: 喝！
+MID_OLWEN_VOICE02: 嘿！
+MID_OLWEN_VOICE03: 呀啊～！
+MID_OLWEN_VOICE04: 卑鄙……
+MID_OLWEN_VOICE05: ……可惡……
+MID_OLWEN_VOICE06: 不可饒恕！
+MID_OLWEN_VOICE07: 我會保護大家。
+MID_OLWEN_VOICE08: 休想出手！
+MID_OLWEN_VOICE09: 怎能死在這裡……
+MID_OLWEN_VOICE10: 呵呵。
+MID_OLWEN_VOICE11: 感謝您抽空前來。
+MID_OLWEN_VOICE12: 呀！……真是的，請不要嚇唬我！
+MID_OLWEN_VOICE13: 我一不小心就會陷入煩惱……
+MID_OLWEN_VOICE14: 我想守護孩子們的笑容。
+MID_OLWEN_VOICE15: 我想想，該從哪裡說起才好……
+MID_OLWEN_VOICE16: 假如哥哥阻擋在我們的前方……
+MID_OLWEN_VOICE17: 如果您允許的話……請讓我陪伴在您左右。
+MID_OLWEN_VOICE18: 是。
+MID_OLWEN_VOICE19: 要怎麼做……？
+MID_OLWEN_VOICE20: 我下定決心了。

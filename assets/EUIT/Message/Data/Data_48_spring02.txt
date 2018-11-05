@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: Dono della terra
+MID_MISSION_S201803BLESS01_A1: Vinci con Dono della terra
+MID_MISSION_H_S201803BLESS01_A1: Sconfiggi un nemico usando un eroe a cui\nhai conferito il Dono della terra (non un\neroe leggendario di tipo terra).
+MID_MISSION_S201803BLESS01_A2: Vinci con Dono della terra
+MID_MISSION_H_S201803BLESS01_A2: Sconfiggi nemici di livello 20 o superiore\nusando un eroe a cui hai conferito il Dono della\nterra (non un eroe leggendario di tipo terra).
+MID_MISSION_S201803BLESS01_A3: Vinci con Dono della terra
+MID_MISSION_H_S201803BLESS01_A3: Sconfiggi nemici di tipo rosso di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono della terra (non un eroe leggendario\ndi tipo terra).
+MID_MISSION_S201803BLESS01_A4: Vinci con Dono della terra
+MID_MISSION_H_S201803BLESS01_A4: Sconfiggi nemici di tipo blu di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono della terra (non un eroe leggendario\ndi tipo terra).
+MID_MISSION_S201803BLESS01_A5: Vinci con Dono della terra
+MID_MISSION_H_S201803BLESS01_A5: Sconfiggi nemici di tipo verde di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono della terra (non un eroe leggendario\ndi tipo terra).
+MID_MISSION_S201803BLESS01_A6: Torre: vinci al 1º piano
+MID_MISSION_H_S201803BLESS01_A6: Completa il primo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono della terra (non un eroe\nleggendario di tipo terra).
+MID_MISSION_S201803BLESS01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201803BLESS01_A7: Completa il quinto piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono della terra (non un eroe\nleggendario di tipo terra).
+MID_MISSION_S201803BLESS01_A8: Torre: vinci al 10º piano
+MID_MISSION_H_S201803BLESS01_A8: Completa il decimo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono della terra (non un eroe\nleggendario di tipo terra).
+MID_MISSION_S201803KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201803KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201803KIZUNA01_A1: Con Anna nella tua squadra, vinci la\nBattaglia legame contro Ninian e Tronk.
+MID_MISSION_S201803KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201803KIZUNA01_A2: Con Alfonse, il principe di Askr, in squadra,\nvinci la Battaglia legame contro Ninian e\nTronk al livello di difficoltà folle o superiore.
+MID_MISSION_S201803KIZUNA01_A3: Batti Ninian
+MID_MISSION_H_S201803KIZUNA01_A3: Batti Ninian di livello 40 o superiore\ncon Anna.
+MID_MISSION_S201803KIZUNA01_A4: Batti Tronk
+MID_MISSION_H_S201803KIZUNA01_A4: Batti Tronk di livello 40 o superiore\ncon Alfonse, il principe di Askr.
+MID_MISSION_S201803KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201803KIZUNA01_A5: Vinci la Battaglia legame contro Ninian e\nTronk al livello di difficoltà folle o superiore\ncon una squadra di sole unità a cavallo.
+MID_MISSION_S201803SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201803SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201803SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201803SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201803SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201803SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201803SENKA02_DAILY_A3: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201803SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201803SENKA02_DAILY_A4: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201803STORY02_TITLE: Coniglietti in festa
+MID_MISSION_S201803STORY02_A1: Completa app. 19-1 folle
+MID_MISSION_H_S201803STORY02_A1: Completa l'app. 19, parte 1 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201803STORY02_A2: Completa app. 19-2 folle
+MID_MISSION_H_S201803STORY02_A2: Completa l'app. 19, parte 2 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201803STORY02_A3: Completa app. 19-3 folle
+MID_MISSION_H_S201803STORY02_A3: Completa l'app. 19, parte 3 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201803TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201803TAPBTL01_D01_A1: Batti boss
+MID_MISSION_H_S201803TAPBTL01_D01_A1: Sconfiggi un boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D01_A2: Supera fasi
+MID_MISSION_H_S201803TAPBTL01_D01_A2: Completa fasi in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201803TAPBTL01_D02_A1: Batti boss
+MID_MISSION_H_S201803TAPBTL01_D02_A1: Sconfiggi un boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D02_A2: Supera fasi
+MID_MISSION_H_S201803TAPBTL01_D02_A2: Completa fasi in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201803TAPBTL01_D03_A1: Batti boss
+MID_MISSION_H_S201803TAPBTL01_D03_A1: Sconfiggi un boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D03_A2: Supera fasi
+MID_MISSION_H_S201803TAPBTL01_D03_A2: Completa fasi in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201803TAPBTL01_D04_A1: Batti boss
+MID_MISSION_H_S201803TAPBTL01_D04_A1: Sconfiggi un boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL01_D04_A2: Supera fasi
+MID_MISSION_H_S201803TAPBTL01_D04_A2: Completa fasi in Battaglia tattile.
+MID_MISSION_S201803TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201803TAPBTL02_A1: Batti boss
+MID_MISSION_H_S201803TAPBTL02_A1: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL02_A2: Batti boss
+MID_MISSION_H_S201803TAPBTL02_A2: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201803TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201803TAPBTL02_A3: Completa fasi in Battaglia tattile.
+MPID_春祭アルフォンス: Alfonse
+MPID_春祭カゲロウ: Kagero
+MPID_春祭カチュア: Catria
+MPID_春祭シャロン: Sharena
+MPID_HONOR_春祭アルフォンス: Princ. primaverile
+MPID_HONOR_春祭カゲロウ: Ninja primaverile
+MPID_HONOR_春祭カチュア: L'ala primaverile
+MPID_HONOR_春祭シャロン: Princ. primaverile
+MPID_H_春祭アルフォンス: Un principe di Askr serio e cortese.\nPartecipa alla festa di primavera\ncome membro dei Guardiani.
+MPID_H_春祭カゲロウ: Una ninja dell'Hoshido e attendente di Ryoma.\nHa ricevuto la missione di partecipare alla festa\ndi primavera, e la porterà a compimento.\nCompare in Fire Emblem Fates.
+MPID_H_春祭カチュア: La mediana delle tre sorelle e cavalieri pegaso\ndi Medonia. Prende molto sul serio l'impegno\ndi partecipare alla festa di primavera. Compare\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_春祭シャロン: Principessa di Askr e sorella minore di Alfonse.\nÈ riuscita a convincere suo fratello\na partecipare alla festa di primavera.
+MPID_VOICE_春祭アルフォンス: Ray Chase
+MPID_VOICE_春祭カゲロウ: Sarah Blandy
+MPID_VOICE_春祭カチュア: Connor Kelley
+MPID_VOICE_春祭シャロン: Julie Kliewer
+MPID_ILLUST_春祭アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_春祭シャロン: Kozaki Yusuke (コザキユースケ)
+MSID_ビッグスプーン: Cucchiaione
+MSID_ビッグスプーン＋: Cucchiaione+
+MSID_ベビーキャロット: Carotina
+MSID_ベビーキャロット＋: Carotina+
+MSID_フギンの魔卵: Uovo di Huginn
+MSID_ムニンの魔卵: Uovo di Muninn
+MSID_飛燕の構え1: Posa saetta 1
+MSID_飛燕明鏡の構え1: Posa rapida 1
+MSID_飛燕明鏡の構え2: Posa rapida 2
+MSID_速さ魔防の絆1: Vincolo Vel/Res1
+MSID_速さ魔防の絆2: Vincolo Vel/Res2
+MSID_速さ魔防の絆3: Vincolo Vel/Res3
+MSID_魔防の封印1: Res gelante 1
+MSID_魔防の封印2: Res gelante 2
+MSID_魔防の封印3: Res gelante 3
+MSID_守備の紫煙1: Dif in fumo 1
+MSID_守備の紫煙2: Dif in fumo 2
+MSID_守備の紫煙3: Dif in fumo 3
+MSID_H_ビッグスプーン: Infligge +10 danni all'attivazione dell'abilità\nspeciale.
+MSID_H_ビッグスプーン＋: Infligge +10 danni all'attivazione dell'abilità\nspeciale.
+MSID_H_ベビーキャロット: Infligge +10 danni all'attivazione dell'abilità\nspeciale. Se l'unità ha attaccato, Dif/Res -5\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_ベビーキャロット＋: Infligge +10 danni all'attivazione dell'abilità\nspeciale. Se l'unità ha attaccato, Dif/Res -7\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_フギンの魔卵: Conferisce Res +3. Se l'unità ha il 50% o più\ndei PS all'inizio del turno, infligge Att/Dif -5\nal nemico con la Res minore durante la sua\nprossima azione.
+MSID_H_ムニンの魔卵: Conferisce Res +3. Se l'unità ha il 50% o più\ndei PS all'inizio del turno, infligge Att/Res -5\nal nemico con la Vel minore durante la sua\nprossima azione.
+MSID_H_飛燕の構え1: Se il nemico attacca per primo,\nVel +2 durante lo scontro.
+MSID_H_飛燕明鏡の構え1: Se il nemico attacca per primo,\nVel/Res +2 durante lo scontro.
+MSID_H_飛燕明鏡の構え2: Se il nemico attacca per primo,\nVel/Res +4 durante lo scontro.
+MSID_H_速さ魔防の絆1: Se l'unità è adiacente a un alleato,\nVel/Res +3 durante lo scontro.
+MSID_H_速さ魔防の絆2: Se l'unità è adiacente a un alleato,\nVel/Res +4 durante lo scontro.
+MSID_H_速さ魔防の絆3: Se l'unità è adiacente a un alleato,\nVel/Res +5 durante lo scontro.
+MSID_H_魔防の封印1: Infligge Res -3 al nemico con la Res maggiore\nall'inizio del turno durante la sua prossima azione.
+MSID_H_魔防の封印2: Infligge Res -5 al nemico con la Res maggiore\nall'inizio del turno durante la sua prossima azione.
+MSID_H_魔防の封印3: Infligge Res -7 al nemico con la Res maggiore\nall'inizio del turno durante la sua prossima azione.
+MSID_H_守備の紫煙1: Infligge Dif -3 ai nemici entro 2 spazi dal bersaglio\ndopo lo scontro durante le loro prossime azioni.
+MSID_H_守備の紫煙2: Infligge Dif -5 ai nemici entro 2 spazi dal bersaglio\ndopo lo scontro durante le loro prossime azioni.
+MSID_H_守備の紫煙3: Infligge Dif -7 ai nemici entro 2 spazi dal bersaglio\ndopo lo scontro durante le loro prossime azioni.
+MID_CHAPTER_TITLE_CX018: Appendice 19
+MID_CHAPTER_CX018: Coniglietti in festa
+MID_STAGE_TITLE_X0181: Appendice 19-1
+MID_STAGE_TITLE_X0182: Appendice 19-2
+MID_STAGE_TITLE_X0183: Appendice 19-3
+MID_STAGE_X0181: Fratelli leprotti
+MID_STAGE_X0182: Conigliette per dovere
+MID_STAGE_X0183: Loquacità leprina
+MID_TAP_BATTLE_DATA_TITLE_0002: Ricordi ombrosi
+MID_MUSIC_NAME_BGM_MAP_FE12_01: Avanzata
+MID_MUSIC_NAME_BGM_MAP_FE07_01: Cose preziose
+MID_MUSIC_NAME_BGM_MAP_FE15_05: Tramonto delle divinità

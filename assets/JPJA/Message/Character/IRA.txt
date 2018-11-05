@@ -1,0 +1,38 @@
+[Heroes Archive] (IRA)
+
+
+Heroes Message Name: Message
+
+
+MID_IRA_HOME1: この城の者たちは腕が立つな。\n立ち居振る舞いをみればわかる。\n頼もしいことだ。
+MID_IRA_HOME2: 私の祖国は滅びの危機にある…\n兄王の子を守ることこそ、\n私の至上の務めだ。
+MID_IRA_HOME3: 私は最後までシグルド殿と共に戦い、\nそして敗れた…\nそのことに後悔はない。
+MID_IRA_HOME4: 剣を覚えたいのなら、付き合おう。\nただし、やるなら\n一切手加減するつもりはないぞ。
+MID_IRA_HOME5: 花を愛で、服を着飾るような\n女らしさは私には無縁だ。\nそんな暇があれば剣を振るう。
+MID_IRA_FRIEND: 私はアイラ。\n$Nfの使者だ。\n挨拶に来させてもらった。
+MID_IRA_LEVEL1: これは…\nオードの血がなせるものか…！
+MID_IRA_LEVEL2: 剣の道は深い…\n私はまだ道半ばだ。
+MID_IRA_LEVEL3: 心に乱れがあるのか…
+MID_IRA_SKILL: 恩には報いるのがイザークの掟。\nこの恩は、戦場で返そう。
+MID_IRA_JOIN: 私はイザークの王女アイラ。\n剣聖オードの血を引く者だ。
+MID_IRA_STRONGEST: 私はかつて、仲間たちと共に\n大きな戦に挑み…\nそして敗れ去った。$k$pだが、それで良い。\nもしもう一度、\nあの時、あの場所に戻ったとしても…$k$p私はあの時と同じく、\n最後まで共に戦うだろう。\nそのことに迷いはない。$k$p大切なのは、\nどのように生きるかだ。$k$pお前と共に過ごす今は…\n私にとって悪くないものだ。\nできることなら、ずっとこうありたい…$k$pいつかは失われるかもしれない…\nだが、だからこそ、\n今この時は、何より貴いものだ。
+MID_IRA_VOICE01: はぁっ！
+MID_IRA_VOICE02: やぁっ！
+MID_IRA_VOICE03: きゃああっ！
+MID_IRA_VOICE04: ゆ、許さん…
+MID_IRA_VOICE05: 哀れだな…
+MID_IRA_VOICE06: 生かしてはおかぬ
+MID_IRA_VOICE07: 死んでもらうぞ
+MID_IRA_VOICE08: 受けてみよ！
+MID_IRA_VOICE09: すまない…
+MID_IRA_VOICE10: ふっ
+MID_IRA_VOICE11: …何か用か？　用がないなら行くぞ。
+MID_IRA_VOICE12: っ！？　こ、この…今度やったらただではおかない！
+MID_IRA_VOICE13: 贈り物なら他の女にやれ。私はそんなものに興味はない。
+MID_IRA_VOICE14: お前の策に助けられた…その礼は言っておこう。
+MID_IRA_VOICE15: 私が女らしい…？　…な、なにをばかなことを。
+MID_IRA_VOICE16: イザークが再びよみがえるまで…私は死ぬわけにはいかない。
+MID_IRA_VOICE17: 恩には報いるのがイザークの戦士の掟…だから、あなたにこの剣をささげる。
+MID_IRA_VOICE18: ああ。
+MID_IRA_VOICE19: 約束は守る。
+MID_IRA_VOICE20: …指示を頼む。

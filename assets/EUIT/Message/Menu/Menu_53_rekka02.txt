@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: ◆Effetti leggendari◆\n・ Nei Parchi dei Doni, gli effetti\nderivanti dagli eroi leggendari\nsaranno sempre attivi, a\nprescindere dalla stagione.\n・ Per conferire un Dono, tocca\nUnità, poi Crescita e infine\nConferisci Dono.
+MID_INFO_TITLE: Notifiche
+MID_ITEM_GAIN_DRESS_ACCESSORY: 1 accessorio ricevuto!
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $aNon puoi avere più di 1 accessorio dello\nstesso tipo. Tutti i duplicati saranno\nconvertiti in $a0 penne dell'eroe.
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $aNon puoi avere più di 1 sigillo sacro\no accessorio dello stesso tipo.\nTutti i duplicati saranno convertiti\nin $a0 penne dell'eroe.
+MID_CHAIN_ARENA_HELP_DIALOG_09: ◆Bonus dei Doni◆\nOgni volta che schieri un eroe\nleggendario o con un Dono\ndella stagione in corso, al\ntermine dello scontro ricevi\nun bonus di +1 al punteggio.\n\n(Questo bonus entrerà in vigore\ndalla prima stagione dopo\nl'uscita della versione 2.6.0.)\n
+MID_SEQUENTIAL_MAP_TERM_201806: Faide nel Fang
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: Completata!
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: Fase extra sbloccata!
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: È un oceano d'estate... Basta\nun bel tuffo e tutti quanti si\nsentono al settimo cielo!
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: Usa accessori
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: Scegli l'accessorio che vuoi usare.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: Scegli alleato che userà/cambierà 1 accessorio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: Scegli accessorio
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: Scegli alleato
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: Usare questo accessorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: Rimuovere questo accessorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 sta usando questo\naccessorio. Vuoi cambiare\ne usarlo con quest'altro?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 non può usare\nl'accessorio cambiato,\nche sarà rimosso.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: Conferma
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Fatto.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: Annullare quest'operazione?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: Ogni cambiamento sarà annullato.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: Annulla
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: Nessun accessorio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: Scegli un criterio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: Ottenuti
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: Tipo
+MID_DRESSACCESSORY_HELP_DIALOG_00: Agghindati con gli accessori!
+MID_DRESSACCESSORY_HELP_DIALOG_01: ◆Usare gli accessori◆\nPuoi far indossare agli alleati\ngli accessori che hai ottenuto.\n\nDue alleati non possono avere\nlo stesso accessorio in\ncontemporanea.
+MID_DRESSACCESSORY_HELP_DIALOG_02: ◆Tipo di accessorio◆\nCi sono diverse categorie di\naccessori, come evidenziato\ndall'icona rosa.
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: ----------
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: Nessun accessorio presente.
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: Impossibile equipaggiare\nquest'accessorio.
+MID_UNIT_EDIT_EQUIP: Cambia oggetto
+MID_UNIT_EDIT_UNIT_ENFORCE: Crescita
+MID_UNIT_EDIT_UNIT_COMMUNICATE: Interagisci
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ① Tocca l'alleato da rimpiazzare.\n② Tocca l'unità da far subentrare.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: Crea gli eroi a modo tuo!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: ◆1º effetto dei Doni◆\nGli alleati con un Dono ottengono\nil doppio di PA ed Esp rispetto\nal solito.\n\nRicorda che anche se gli eroi\nleggendari non possono\nricevere Doni, in battaglia\nottengono sempre PA ed Esp\ndoppi rispetto al solito.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: Apprend. autom.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: Vuoi far imparare e attivare\nle abilità in automatico?
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: Quest'unità non ha abbastanza\nPA per apprendere la prossima\nabilità consigliata.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: Quest'unità ha già appreso\ntutte le abilità consigliate.
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: Accessorio

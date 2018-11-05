@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKUT)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKUT_HOME1: ¿Por qué iba a tragarme mi orgullo\ny juntarme con estos plebeyos?\nMe niego a humillarme de esa forma.
+MID_BERKUT_HOME2: He perfeccionado mis habilidades sin\ncesar desde mi infancia, pues ese es\nmi deber como heredero al trono.$k$pMe enorgullezco del poder que\ntanto esfuerzo me costó lograr.
+MID_BERKUT_HOME3: ¿Ya estás trabajando en otra tarea?\nEres diligente como una hormiga,\npodrías servirme muy bien.
+MID_BERKUT_HOME4: Eh, tú. Llévame a una joyería. No es\npara mí, que lo sepas. Aunque no\ntengo por qué darte explicaciones.
+MID_BERKUT_HOME5: ¿Que qué estoy haciendo? Estoy\npuliendo un anillo, obviamente.\nY no es asunto tuyo. ¡Fuera!
+MID_BERKUT_FRIEND: ¿Quién se habrá atrevido a enviarme\na hacer recados? Pues fue\n$Nf.
+MID_BERKUT_LEVEL1: ¡Ja, ja! Ahora entiendes de\nlo que estoy hecho.
+MID_BERKUT_LEVEL2: Esperaba algo mejor.
+MID_BERKUT_LEVEL3: ¡Me niego a aceptarlo!
+MID_BERKUT_SKILL: Sabia elección. Te ganaste\nalgo de mi respeto.
+MID_BERKUT_JOIN: Soy Berkut, el futuro emperador de\nRigel. Da las gracias a los dioses\npor tenerme a tu lado.
+MID_BERKUT_STRONGEST: Ah, eres tú. Eres una criatura de lo\nmás inquieta. Qué indecoroso.\nCálmate un poco y siéntate.$k$pTe he visto en el campo de batalla,\ny sé que tienes aptitudes de líder.\nCuesta admitirlo, pero es la verdad.$k$pCuando regrese a Rigel, podrías\nconvertirte en mi comandante.\n¿Qué te parecería?$k$p¡Ja, ja! Qué "no" tan rápido y rotundo.\nClaro que esperaba esa respuesta.$k$pTienes suerte de no estar en Rigel.\nTu cabeza ya estaría rodando por\nel suelo. ¿Qué le vamos a hacer?$k$pEl destino de un gran hombre es no\ntener amigos. Pero tú... ¿Acaso es\neso lo que somos? Tal vez.
+MID_BERKUT_VOICE01: てえい！
+MID_BERKUT_VOICE02: Drop dead!
+MID_BERKUT_VOICE03: ぬうっ…
+MID_BERKUT_VOICE04: You worm!
+MID_BERKUT_VOICE05: ¡Te llegó la hora!
+MID_BERKUT_VOICE06: ¡Muere, gusano!
+MID_BERKUT_VOICE07: ¡No estás a mi altura!
+MID_BERKUT_VOICE08: ¡Apártate de mi camino!
+MID_BERKUT_VOICE09: Never...
+MID_BERKUT_VOICE10: Hmph
+MID_BERKUT_VOICE11: Ugh. What are you doing?
+MID_BERKUT_VOICE12: Again? How infantile.
+MID_BERKUT_VOICE13: Enough of that. State your purpose, if you have one.\n
+MID_BERKUT_VOICE14: My uncle is owed all of the respect in the world.
+MID_BERKUT_VOICE15: I must gather my might. I will need it.
+MID_BERKUT_VOICE16: I will rule Valentia in due course.
+MID_BERKUT_VOICE17: You do intrigue me. I should keep my eye on you.
+MID_BERKUT_VOICE18: All right.
+MID_BERKUT_VOICE19: Hmpf.
+MID_BERKUT_VOICE20: I'll do it.

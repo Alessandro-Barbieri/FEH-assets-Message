@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_VALENTINE01_HOME1: Dans votre monde aussi, il y a une\njournée consacrée à l'amour ?$k$pCela prouve que quelle que soit notre\norigine, nous sommes tous unis par\nnos sentiments.
+MID_ELIWOD_VALENTINE01_HOME2: Vous voulez faire un cadeau à une\nfemme qui compte beaucoup pour\nvous ?$k$pSi vous voulez moi avis... Moi, je\nlui offrirais des fleurs.
+MID_ELIWOD_VALENTINE01_HOME3: Si vous avez envie de faire un\ncadeau à quelqu'un, vous pouvez\ntoujours me demander conseil.
+MID_ELIWOD_VALENTINE01_HOME4: À cette époque de l'année, la ville\nse remplit de magasins de bonbons...\nVous voulez aller y faire un tour ?
+MID_ELIWOD_VALENTINE01_HOME5: Hector et moi sommes amis depuis\nl'enfance. Après toutes ces années,\nje chéris encore cette relation.$k$pC'est peut-être l'occasion de lui\nenvoyer un cadeau...
+MID_ELIWOD_VALENTINE01_FRIEND: $Nf m'envoie\nvous transmettre ses salutations,\nainsi qu'un petit cadeau.
+MID_ELIWOD_VALENTINE01_LEVEL1: Aurai-je enfin la force d'exprimer\nmes sentiments ?
+MID_ELIWOD_VALENTINE01_LEVEL2: Ah. Vais-je devenir plus\npopulaire, à présent ?
+MID_ELIWOD_VALENTINE01_LEVEL3: Pardonnez-moi. Je n'ai pas été\nà la hauteur.
+MID_ELIWOD_VALENTINE01_SKILL: Ce sont les gens que j'aime qui\nme rendent plus fort.
+MID_ELIWOD_VALENTINE01_JOIN: Je suis Eliwood de Pherae. Me\nferiez-vous l'honneur de célébrer\nle jour de l'amour avec moi ?
+MID_ELIWOD_VALENTINE01_STRONGEST: Beaucoup pensent que le jour\nde l'amour n'est consacré qu'à\nl'amour romantique...$k$pEn réalité, c'est bien plus que cela.\nC'est aussi l'occasion d'exprimer son\namour pour sa famille et ses amis.$k$pSi les gens avait un peu plus de\ncompassion, il y aurait peut-être\nmoins de violence. Et un jour...$k$pLe monde pourrait être véritablement\nen paix.$k$pPour moi, le jour de l'amour est\naussi celui de la paix.$k$pMerci pour tout ce que vous faites,\n$Nu.$k$pMon cadeau pour vous aujourd'hui,\nc'est ma gratitude éternelle.
+MID_ELIWOD_VALENTINE01_VOICE01: それっ！
+MID_ELIWOD_VALENTINE01_VOICE02: えいっ！
+MID_ELIWOD_VALENTINE01_VOICE03: うああっ！
+MID_ELIWOD_VALENTINE01_VOICE04: At this rate...
+MID_ELIWOD_VALENTINE01_VOICE05: Voici un petit cadeau.
+MID_ELIWOD_VALENTINE01_VOICE06: Voilà pour vous.
+MID_ELIWOD_VALENTINE01_VOICE07: Je ne perdrai pas.
+MID_ELIWOD_VALENTINE01_VOICE08: Je ne suis pas si tendre.
+MID_ELIWOD_VALENTINE01_VOICE09: I...misjudged...
+MID_ELIWOD_VALENTINE01_VOICE10: ええと
+MID_ELIWOD_VALENTINE01_VOICE11: Festivals are just wonderful, aren't they? Seeing everybody smile makes me smile too.
+MID_ELIWOD_VALENTINE01_VOICE12: Oops, pardon me. I almost ran right into you!
+MID_ELIWOD_VALENTINE01_VOICE13: Hector and I have sparred for many years, and we continue to this day.
+MID_ELIWOD_VALENTINE01_VOICE14: It seems Roy and Lilina have become rather close. Hector won't like that...
+MID_ELIWOD_VALENTINE01_VOICE15: What do I want? Your friendship is enough.
+MID_ELIWOD_VALENTINE01_VOICE16: Do you think flowers alone make a good present?
+MID_ELIWOD_VALENTINE01_VOICE17: I'd like to get to know you better.
+MID_ELIWOD_VALENTINE01_VOICE18: Yes.
+MID_ELIWOD_VALENTINE01_VOICE19: Something you want?
+MID_ELIWOD_VALENTINE01_VOICE20: Find your courage!

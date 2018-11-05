@@ -1,0 +1,38 @@
+[Heroes Archive] (CANAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CANAS_HOME1: Davvero affascinante! Ciò implica...\nMa certo! Fammi controllare se...$k$pOh! Non badare a me. Ero immerso\nnella lettura, come al solito...
+MID_CANAS_HOME2: Sembra che in questo mondo risieda\n$Gun Evocatore,un'Evocatrice|, capace di richiamare\neroi da altri regni...$k$pTi sarebbe possibile $Gpresentarmelo,presentarmela|?
+MID_CANAS_HOME3: Non pensare che non abbia notato\ncome pattugli il castello\nsenza sosta...$k$pMa ricorda che lavorare troppo\nnon è sano. Anche prendersi una\npausa ogni tanto è un dovere.
+MID_CANAS_HOME4: Sai che leggere aiuta a tirare su\nil morale e a mettere in ordine\ni propri pensieri?$k$pPosso consigliarti qualche titolo.\nQuesto libro, per esempio, è molto\nscorrevole da leggere.
+MID_CANAS_HOME5: Questa biblioteca è un gioiello...\nCosì tanti libri! Spero di poter\nrestare per sempre...
+MID_CANAS_FRIEND: Sono Canas. Ti porto i saluti\ndi $Nf.
+MID_CANAS_LEVEL1: Eccellente! Con ogni passo mi\navvicino alle intrinseche verità...
+MID_CANAS_LEVEL2: Un risultato nella media...\nquesta volta.
+MID_CANAS_LEVEL3: Ulteriore evidenza della mia\nmancanza di talento, temo...
+MID_CANAS_SKILL: Fantastico! Non fai che\naccrescere la mia curiosità...
+MID_CANAS_JOIN: Che luogo affascinante... Oh, quasi\ndimentico le buone maniere! Sono\nCanas, un semplice studioso.
+MID_CANAS_STRONGEST: Perdonami... Ero completamente\ndistratto, del tutto immerso\nin questo libro...$k$pNon puoi immaginare quanto\nsia interessante! Davvero!$k$pVuoi sapere perché non faccio\nche leggere? Si può dire che sia\nper curiosità...$k$pQuando mi interesso a un\nargomento, devo studiarlo da\ntutte le prospettive.$k$pA volte mi chiedo dove mi\nporterà quest'abitudine...$k$pSe penso al tragico destino a cui i\nmiei fratelli sono stati condotti\ndai loro studi sulla magia, io...$k$pMa devo ammettere l'evidenza.\nNon posso frenare la mia sete\ndi sapere.$k$pÈ un mio difetto. La si potrebbe\nperfino definire ingordigia...$k$pLa risposta più semplice è questa:\nper me leggere è come respirare.$k$pOra, visto che sei qui, ho io una\ndomanda di cui forse conosci la\nrisposta...$k$pGuarda i disegni su questa pagina.\nSono del tutto alieni per me, quasi\nfossero di un altro mondo. Dimmi...
+MID_CANAS_VOICE01: ええと
+MID_CANAS_VOICE02: すみません…
+MID_CANAS_VOICE03: うああっ！
+MID_CANAS_VOICE04: 面目ない…
+MID_CANAS_VOICE05: La curiosità mi spinge.
+MID_CANAS_VOICE06: Al di là dell'oscurità.
+MID_CANAS_VOICE07: Ciò mi spaventa.
+MID_CANAS_VOICE08: Questo libro è la chiave.
+MID_CANAS_VOICE09: What a shame.
+MID_CANAS_VOICE10: *sigh*
+MID_CANAS_VOICE11: Ah, hello there. My name is Canas.
+MID_CANAS_VOICE12: What? What? What is it? I must be in your way! I'm so sorry!
+MID_CANAS_VOICE13: I read for the thrill of new knowledge.\nThis book is a rather fascinating\nexcursion.
+MID_CANAS_VOICE14: I'm currently reading "Roland the Hero."\nHe was a hero who fought dragons a\nlong time ago.
+MID_CANAS_VOICE15: To use this magic, I must invite the dark\nforces within me. The temptation to submit\nto the darkness...will be great.
+MID_CANAS_VOICE16: The darkness took my brothers.
+MID_CANAS_VOICE17: I somehow get the feeling that you could understand me.
+MID_CANAS_VOICE18: Y-yes?
+MID_CANAS_VOICE19: Oh, yes.
+MID_CANAS_VOICE20: This book, you see...

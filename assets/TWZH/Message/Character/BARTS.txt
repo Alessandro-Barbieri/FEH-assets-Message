@@ -1,0 +1,38 @@
+[Heroes Archive] (BARTS)
+
+
+Heroes Message Name: Message
+
+
+MID_BARTS_HOME1: 這座城堡真壯觀啊。\n蓋這樣一座城堡，\n到底要用掉多少石材啊……？
+MID_BARTS_HOME2: 薩吉、瑪吉……\n不知道他們過得好不好……
+MID_BARTS_HOME3: 柴火不夠的話就跟我說吧。\n我馬上到山上去\n砍一大堆回來。
+MID_BARTS_HOME4: 工作之後就是要喝酒！\n少了這怎麼行呢！？\n你也要來一杯嗎？
+MID_BARTS_HOME5: 奧古馬隊長的恩情，\n我終身難以報答……\n他才是男人中的男人。
+MID_BARTS_FRIEND: 你就是$Nu啊！\n$Nf要我來跟你打招呼，\n那傢伙真的囉唆耶！
+MID_BARTS_LEVEL1: 我就讓你見識一下\n我的鐵腕吧！
+MID_BARTS_LEVEL2: 我的實力\n遠遠不只如此喔！
+MID_BARTS_LEVEL3: 這可不行……\n還是回去老實當個樵夫吧……
+MID_BARTS_SKILL: 力量湧現出來了。\n需要什麼，儘管吩咐！
+MID_BARTS_JOIN: 我叫做巴茲。\n雖然也曾當過傭兵……\n但現在只是個平凡的樵夫。
+MID_BARTS_STRONGEST: 我不幹傭兵後，\n加入了阿卡奈亞的軍隊……\n後來還幹過海盜之類的。$k$p最後想說當個樵夫，\n老實過完人生……\n結果沒想到居然又回到了戰場……$k$p哈哈……或許是我命中註定如此吧。$k$p換句話說，\n會遇到你也是命運的指引。\n哈哈，今後也請你多多指教囉。$k$p不過，我畢竟飄泊慣了，\n可不知道會在這裡待到幾時喔！
+MID_BARTS_VOICE01: 嘿！
+MID_BARTS_VOICE02: 喝啊！
+MID_BARTS_VOICE03: 嗚啊～！
+MID_BARTS_VOICE04: 給我記住。
+MID_BARTS_VOICE05: 要上了。
+MID_BARTS_VOICE06: 就從你開始！
+MID_BARTS_VOICE07: 喝啊喝啊喝啊！
+MID_BARTS_VOICE08: 你找死是吧！
+MID_BARTS_VOICE09: 混帳……東西……
+MID_BARTS_VOICE10: 哈哈！
+MID_BARTS_VOICE11: 找我有事嗎？
+MID_BARTS_VOICE12: 喔哇！？別、別突然出聲叫我啦。
+MID_BARTS_VOICE13: 我只是個普通樵夫而已。
+MID_BARTS_VOICE14: 嗨，最近好嗎？
+MID_BARTS_VOICE15: 我以前也當過海盜啊。
+MID_BARTS_VOICE16: 只要你一聲令下，要上刀山也不怕。
+MID_BARTS_VOICE17: 我的命就交給你啦。
+MID_BARTS_VOICE18: 好。
+MID_BARTS_VOICE19: 輪到我啦。
+MID_BARTS_VOICE20: 來大鬧一場吧。

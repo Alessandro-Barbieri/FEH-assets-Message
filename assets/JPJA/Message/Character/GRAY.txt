@@ -1,0 +1,38 @@
+[Heroes Archive] (GRAY)
+
+
+Heroes Message Name: Message
+
+
+MID_GRAY_HOME1: ここ、たしかに綺麗なところだけどさ。\n綺麗すぎて落ち着かねえっていうか……\nなんかむずむずするんだよな。
+MID_GRAY_HOME2: 俺はラムの村にいたんだけどよ。\nリゲルが攻めて来たり魔物が出たり……\nのんびりできなくなっちまったのさ。
+MID_GRAY_HOME3: よう、見回りか？\nあんま真面目ぶるんじゃねえぞ。\n息抜きしたくなったら俺を呼べよ！
+MID_GRAY_HOME4: なあなあ、ここって遊ぶところねえの？\n今度案内してくれよ！\nどんな遊びって……そりゃいろいろだよ。
+MID_GRAY_HOME5: なんか、ぼーっと……\nいろんな人がいるのを見てたんだ。\n俺の世界なんてちっぽけだよなあ……
+MID_GRAY_FRIEND: よっ、$Nu！\n$Nfが\nよろしく伝えてくれってさ。
+MID_GRAY_LEVEL1: 誰にも負ける気がしねえな！
+MID_GRAY_LEVEL2: ま、こんなもんか。
+MID_GRAY_LEVEL3: あっちゃ～\nいまいちだなあ……
+MID_GRAY_SKILL: へへっ、こんなに期待されちゃあ\n頑張らねえわけにはいかねえな。
+MID_GRAY_JOIN: 俺はグレイ。ただの村人さ。\nあんたが力を貸してほしいってんなら\n手伝ってやってもいいぜ。
+MID_GRAY_STRONGEST: なあ、$Nu。\n俺、聞きたいことがあったんだけどよ。\nお前、なんで俺なんて呼び出したんだ？$k$pだってよお、ここにいる人たちって\nみんなどこそこの王子だとか姫だとか、\nすげえ奴ばっかりじゃねえか！$k$p俺、ただの村人だぜ？　笑っちまうよなー。\nえ？　俺も英雄だから……？\nお前に必要だから呼び出されたって……$k$p……よくそういうこと真顔で言えるよな。\nいや、薄々わかっちゃいたけど。\nこんだけいっしょにいりゃあなあ……$k$pでも、そうだな。お前が俺を\n英雄だと信じてくれるなら……\n王さまよりも強くなれそうな気がするぜ。
+MID_GRAY_VOICE01: せやあっ
+MID_GRAY_VOICE02: おらよっ
+MID_GRAY_VOICE03: うわあああーっ！！
+MID_GRAY_VOICE04: ちょっ、まじかよ？！
+MID_GRAY_VOICE05: そーれっと！
+MID_GRAY_VOICE06: いくぜ！
+MID_GRAY_VOICE07: おしまいだ！
+MID_GRAY_VOICE08: 悪いな
+MID_GRAY_VOICE09: うわ、まじかよ……
+MID_GRAY_VOICE10: んん？
+MID_GRAY_VOICE11: お前もよくやるよな。
+MID_GRAY_VOICE12: はあ……、なんだか実感ねえなあ。
+MID_GRAY_VOICE13: 俺たちの村、すげえ田舎なんだよ。
+MID_GRAY_VOICE14: がんばったら、ご褒美くれるんだろ？
+MID_GRAY_VOICE15: いい男だからって、じろじろ見るなよ。
+MID_GRAY_VOICE16: どっかに可愛い子いねえかなあ？
+MID_GRAY_VOICE17: お前といると退屈しねえな。
+MID_GRAY_VOICE18: はいよ。
+MID_GRAY_VOICE19: そうだな……
+MID_GRAY_VOICE20: よっしゃ。

@@ -1,0 +1,8 @@
+[Heroes Archive] (T0020)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヒノカ,ch05_26_Hinoka_F_Normal,Face|$w0|¿Listo, Takumi? Lucharemos como\ndijimos. ¡Demostremos el poder de\nlos hermanos que entrenan juntos!$k$p$WmMPID_タクミ,ch05_09_Takumi_M_Normal,Face|$w0|Te oí la primera vez, Hinoka.\nNo haré nada temerario.\n¡Lucharemos unidos!$k$p$Sbs1000|

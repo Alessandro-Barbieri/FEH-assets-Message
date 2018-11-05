@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: ◆四天の庭園の伝承効果◆\n四天の庭園では、シーズンに関わらず、\n伝承英雄の伝承効果は常に発生します。\n\n◆祝福付与の方法◆\n「祝福付与」は「仲間」メニューの\n「仲間の強化」の中にあります。
+MID_INFO_TITLE: お知らせ
+MID_ITEM_GAIN_DRESS_ACCESSORY: 【アクセサリー】を入手した！
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: ※
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $a同じアクセサリーは複数所持できません。\n同じアクセサリーを複数入手した場合、\n英雄の翼×$a0に自動的に置き換わります。
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $a同じ聖印・アクセサリーは\n複数所持できません。同じ\n聖印・アクセサリーを複数入手した場合、\n英雄の翼×$a0に自動的に置き換わります。
+MID_CHAIN_ARENA_HELP_DIALOG_09: ◆祝福ボーナス◆\n現在のシーズンの伝承英雄か、\n現在のシーズンの祝福付与された英雄が\n１体出撃するごとに、\n勝利時のスコアに＋１が加算されます。\n\n（ver 2.6.0配信時のシーズンが終了し、\n　その次に開始されるシーズンから）
+MID_SEQUENTIAL_MAP_TERM_201806: 四牙相食む
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: ステージクリア！
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: エクストラステージ解放！
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: なんと！ダンジョンの奥に夏の海を発見！\n皆で飛び込んだら、気分最高！
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: アクセサリー装備変更
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: 装備するアクセサリーを選択してください。
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: 装備を変更するキャラクターを選択してください。
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: アクセサリーから選ぶ
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: キャラクターから選ぶ
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: 以下のアクセサリーを装備しますか？
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: 以下のアクセサリーを外しますか？
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0が\nすでに装備しています。\nアクセサリーを交換して装備しますか？
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0は\n交換するアクセサリーを装備できません。\n装備できないアクセサリーは外れます。
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: 装備を変更する
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: 装備の変更が完了しました。
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: アクセサリー装備の変更を中止しますか？
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: 編集内容は破棄されます。
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: 中止する
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: アクセサリーを所持していません。
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: ソート順を選択してください。
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: 入手順
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: カテゴリー
+MID_DRESSACCESSORY_HELP_DIALOG_00: アクセサリーで、ドレスアップ！
+MID_DRESSACCESSORY_HELP_DIALOG_01: ◆アクセサリー装備変更◆\n手に入れたアクセサリーを\n仲間に装備させ、\nドレスアップすることができます。\n\nアクセサリーは、\n仲間一人につき、一つだけ装備できます。
+MID_DRESSACCESSORY_HELP_DIALOG_02: ◆アクセサリーのカテゴリー◆\nアクセサリーにはカテゴリーがあり、\nピンク色のアイコンで表しています。
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: －－－－－－－－－－－－
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: アクセサリーを装備していません。
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: このアクセサリーは装備不可です。
+MID_UNIT_EDIT_EQUIP: 装備の変更
+MID_UNIT_EDIT_UNIT_ENFORCE: 仲間の強化
+MID_UNIT_EDIT_UNIT_COMMUNICATE: 仲間との交流
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ①外したいキャラをタッチ\n②かわりに入れたいキャラをタッチ
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: スキルを継承し、特別な英雄に！
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: ◆祝福の効果１◆\n戦闘で入手できる経験値、ＳＰが、\n常に２倍になります。\n\n伝承英雄には祝福を付与できませんが、\n伝承英雄は最初から、戦闘で入手できる\n経験値、ＳＰが２倍になります。
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: おまかせ習得
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: おまかせでスキルを習得、装備しますか？
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: おすすめスキルを習得するための\nＳＰが不足しています。
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: おすすめスキルは全て習得済みです。
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: アクセサリー

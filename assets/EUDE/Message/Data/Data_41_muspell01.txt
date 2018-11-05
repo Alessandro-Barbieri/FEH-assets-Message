@@ -1,0 +1,493 @@
+[Heroes Archive] (Data_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201712A_TITLE: Dez.-Quests (1)
+MID_MISSION_M201712A_A1: Blau besiegt Gegner
+MID_MISSION_H_M201712A_A1: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_M201712A_A2: Infanterie besiegt Gegner
+MID_MISSION_H_M201712A_A2: Lass Infanterieeinheiten\ndie Gegner besiegen.
+MID_MISSION_M201712A_A3: Besiege grüne Gegner
+MID_MISSION_H_M201712A_A3: Besiege grüne Gegner.
+MID_MISSION_M201712A_A4: Besiege Flugeinheiten
+MID_MISSION_H_M201712A_A4: Besiege Flugeinheiten.
+MID_MISSION_M201712A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201712A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201712A_A6: Rot besiegt Geg. Lv. 20+
+MID_MISSION_H_M201712A_A6: Lass rote Verbündete Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201712A_A7: Flieger besiegt Lv. 20+
+MID_MISSION_H_M201712A_A7: Lass fliegende Einheiten\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_M201712A_A8: Besiege Blau Level 20+
+MID_MISSION_H_M201712A_A8: Besiege blaue Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201712A_A9: Besiege Infanterie Lv. 20+
+MID_MISSION_H_M201712A_A9: Besiege Infanterieeinheiten,\ndie Level 20 oder höher sind.
+MID_MISSION_M201712A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201712A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201712A_A11: Grün besiegt Level 35+
+MID_MISSION_H_M201712A_A11: Lass grüne Verbündete Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201712A_A12: Reiter besiegt Level 35+
+MID_MISSION_H_M201712A_A12: Lass berittene Einheiten Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201712A_A13: Besiege Rot Level 35+
+MID_MISSION_H_M201712A_A13: Besiege rote Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201712A_A14: Besiege Reiter Lv. 35+
+MID_MISSION_H_M201712A_A14: Besiege berittene Einheiten,\ndie Level 35 oder höher sind.
+MID_MISSION_M201712A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201712A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_S201712ARENA01_TITLE: Arena
+MID_MISSION_S201712ARENA01_A1: Gewinne Arenaduell
+MID_MISSION_H_S201712ARENA01_A1: Gewinne ein Arenaduell eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A2: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A2: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A3: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A3: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A4: Arenaüberfall: 3 Siege
+MID_MISSION_H_S201712ARENA01_A4: Gewinne beim Arenaüberfall\ndrei Kämpfe in Folge.
+MID_MISSION_S201712ARENA01_A5: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A7: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A7: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A8: Arenaüberfall: 5 Siege
+MID_MISSION_H_S201712ARENA01_A8: Gewinne beim Arenaüberfall\nfünf Kämpfe in Folge.
+MID_MISSION_S201712ARENA01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A11: Gewinne Arenaduelle
+MID_MISSION_H_S201712ARENA01_A11: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712ARENA01_A12: Arenaüberfall: 7 Siege
+MID_MISSION_H_S201712ARENA01_A12: Gewinne beim Arenaüberfall\nsieben Kämpfe in Folge.
+MID_MISSION_M201712B_TITLE: Dez.-Quests (2)
+MID_MISSION_M201712B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201712B_A1: Bewältige die erste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201712B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201712B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201712B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201712B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201712B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201712B_A7: Bewältige die siebte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201712B_A8: Bewältige die achte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201712B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201712B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201712B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201712B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201712B_A12: Bewältige die zehnte Stufe des Übungs-\nturms nur mit gepanzerten Einheiten.\nAlle vier Verbündeten müssen überleben.
+MID_MISSION_M201712B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201712B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201712B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201712B_A14: Bewältige die zehnte Stufe des Übungs-\nturms nur mit fliegenden Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201712C_TITLE: Dez.-Quests (3)
+MID_MISSION_M201712C_A1: Kap. 4 Tl. 1
+MID_MISSION_H_M201712C_A1: Bewältige Kapitel 4 - Teil 1.\nAlle vier Verbündeten\nmüssen überleben.
+MID_MISSION_M201712C_A2: Kap. 4 Tl. 2
+MID_MISSION_H_M201712C_A2: Bewältige Kap. 4/Tl. 2 mit einem\nroten Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A3: Kap. 4 Tl. 3
+MID_MISSION_H_M201712C_A3: Bewältige Kap. 4/Tl. 3 mit einem\nblauen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A4: Kap. 4 Tl. 4
+MID_MISSION_H_M201712C_A4: Bewältige Kap. 4/Tl. 4 mit einem\ngrünen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A5: Kap. 4 Tl. 5
+MID_MISSION_H_M201712C_A5: Bewältige Kap. 4/Tl. 5 mit einem\nfarblosen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A6: Kap. 7 Tl. 1 - Schwer+
+MID_MISSION_H_M201712C_A6: Bewältige Kap. 7/Tl. 1 im Modus\nSchwer oder höher. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A7: Kap. 7 Tl. 2 - Schwer+
+MID_MISSION_H_M201712C_A7: Kap. 7/Tl. 2 mit 1 roten Verb. im\nModus Schwer o. höher bewälti-\ngen. 4 Verb. müssen überleben.
+MID_MISSION_M201712C_A8: Kap. 7 Tl. 3 - Schwer+
+MID_MISSION_H_M201712C_A8: Kap. 7/Tl. 3 mit 1 blauen Verb. im\nModus Schwer o. höher bewälti-\ngen. 4 Verb. müssen überleben.
+MID_MISSION_M201712C_A9: Kap. 7 Tl. 4 - Schwer+
+MID_MISSION_H_M201712C_A9: Kap. 7/Tl. 4 mit 1 grünen Verb. im\nModus Schwer o. höher bewälti-\ngen. 4 Verb. müssen überleben.
+MID_MISSION_M201712C_A10: Kap. 7 Tl. 5 - Schwer+
+MID_MISSION_H_M201712C_A10: Kap. 7/Tl. 5 mit 1 farbl. Verb. im\nModus Schwer o. höher bewälti-\ngen. 4 Verb. müssen überleben.
+MID_MISSION_M201712C_A11: Kap. 10 Tl. 1 - Extrem
+MID_MISSION_H_M201712C_A11: Bewältige Kapitel 10 - Teil 1 im\nModus Extrem. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201712C_A12: Kap. 10 Tl. 2 - Extrem
+MID_MISSION_H_M201712C_A12: Bewältige Kap. 10/Tl. 2 im Modus\nExtrem mit 1 roten Verbündeten.\nAlle 4 Verbünd. müssen überleben.
+MID_MISSION_M201712C_A13: Kap. 10 Tl. 3 - Extrem
+MID_MISSION_H_M201712C_A13: Bewältige Kap. 10/Tl. 3 im Modus\nExtrem mit 1 blauen Verbündeten.\nAlle 4 Verbünd. müssen überleben.
+MID_MISSION_M201712C_A14: Kap. 10 Tl. 4 - Extrem
+MID_MISSION_H_M201712C_A14: Bewältige Kap. 10/Tl. 4 im Modus\nExtrem mit 1 grünen Verbündeten.\nAlle 4 Verbünd. müssen überleben.
+MID_MISSION_M201712C_A15: Kap. 10 Tl. 5 - Extrem
+MID_MISSION_H_M201712C_A15: Bewältige Kap. 10/Tl. 5 im Modus\nExtrem mit 1 farbl. Verbündeten.\nAlle 4 Verbünd. müssen überleben.
+MID_MISSION_S201712RENSEI01_TITLE: Waffenveredelung
+MID_MISSION_S201712RENSEI01_A1: Gegner besiegen
+MID_MISSION_H_S201712RENSEI01_A1: Besiege einige Gegner.
+MID_MISSION_S201712RENSEI01_A2: Rot besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A2: Lass rote Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A3: Blau besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A3: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A4: Grün besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A4: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A5: Farblos besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A5: Lass farblose Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A6: Infanterie besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A6: Lass Infanterieeinheiten\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A7: Gepanzert besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A7: Lass gepanzerte Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A8: Reiter besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A8: Lass berittene Einheiten\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A9: Flieger besiegt Gegner
+MID_MISSION_H_S201712RENSEI01_A9: Lass Flugeinheiten\ndie Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201712RENSEI01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712RENSEI01_A11: Arenaüberfall: 7 Siege
+MID_MISSION_H_S201712RENSEI01_A11: Gewinne beim Arenaüberfall\nsieben Kämpfe in Folge.
+MID_MISSION_S201712RENSEI01_A12: Fjorm greift an
+MID_MISSION_H_S201712RENSEI01_A12: Lass Fjorm die Gegner besiegen.
+MID_MISSION_S201712RENSEI01_A13: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201712RENSEI01_A13: Lass Fjorm einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201712RENSEI01_A14: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201712RENSEI01_A14: Lass Fjorm einige Gegner\nbesiegen, die Level 40\noder höher sind.
+MID_MISSION_S201712RENSEI01_A15: Übungsturm: 1. Stufe
+MID_MISSION_H_S201712RENSEI01_A15: Bewältige die erste Stufe des Übungs-\nturms mit Fjorm in deinem Team.
+MID_MISSION_S201712RENSEI01_A16: Übungsturm: 5. Stufe
+MID_MISSION_H_S201712RENSEI01_A16: Bewältige die fünfte Stufe des Übungs-\nturms mit Fjorm in deinem Team.
+MID_MISSION_S201712RENSEI01_A17: Übungsturm: 9. Stufe
+MID_MISSION_H_S201712RENSEI01_A17: Bewältige die neunte Stufe des Übungs-\nturms mit Fjorm in deinem Team.
+MID_MISSION_S201712RENSEI01_A18: Übungsturm: 10. Stufe
+MID_MISSION_H_S201712RENSEI01_A18: Bewältige die zehnte Stufe des Übungs-\nturms mit Fjorm und zwei anderen Verb.\nAlle 3 Verbündeten müssen überleben.
+MID_MISSION_S201711SENKA03_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201711SENKA03_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201711SENKA03_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201711SENKA03_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201711SENKA03_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201711SENKA03_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201711SENKA03_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201711SENKA03_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201711SENKA03_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201711STORY02_TITLE: Die Flamme
+MID_MISSION_S201711STORY02_A1: Kap. 1 Tl. 1 - Extrem
+MID_MISSION_H_S201711STORY02_A1: Bewältige Buch II, Kap. 1 - Tl. 1 im Modus\nExtrem mit einem Axtkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY02_A2: Kap. 1 Tl. 2 - Extrem
+MID_MISSION_H_S201711STORY02_A2: Bewältige Buch II, Kap. 1 - Tl. 2 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY02_A3: Kap. 1 Tl. 3 - Extrem
+MID_MISSION_H_S201711STORY02_A3: Bewältige Buch II, Kap. 1 - Tl. 3 im Modus\nExtrem mit einem Lanzenkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY02_A4: Kap. 1 Tl. 4 - Extrem
+MID_MISSION_H_S201711STORY02_A4: Bewältige Buch II, Kap. 1 - Tl. 4 im Modus\nExtrem mit einem Axtkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY02_A5: Kap. 1 Tl. 5 - Extrem
+MID_MISSION_H_S201711STORY02_A5: Bewältige Buch II, Kap. 1 - Tl. 5 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY03_TITLE: Eisprinzessin
+MID_MISSION_S201711STORY03_A1: Kap. 2 Tl. 1 - Extrem
+MID_MISSION_H_S201711STORY03_A1: Bewältige Buch II, Kap. 2 - Tl. 1 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY03_A2: Kap. 2 Tl. 2 - Extrem
+MID_MISSION_H_S201711STORY03_A2: Bewältige Buch II, Kap. 2 - Tl. 2 im Modus\nExtrem mit einem Lanzenkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY03_A3: Kap. 2 Tl. 3 - Extrem
+MID_MISSION_H_S201711STORY03_A3: Bewältige Buch II, Kap. 2 - Tl. 3 im Modus\nExtrem mit einem Axtkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY03_A4: Kap. 2 Tl. 4 - Extrem
+MID_MISSION_H_S201711STORY03_A4: Bewältige Buch II, Kap. 2 - Tl. 4 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201711STORY03_A5: Kap. 2 Tl. 5 - Extrem
+MID_MISSION_H_S201711STORY03_A5: Bewältige Buch II, Kap. 2 - Tl. 5 im Modus\nExtrem mit einem Lanzenkämpfer.\nAlle 4 Verbündeten müssen überleben.
+MID_MISSION_S201712HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201712HERO01_A1: Berkut besiegen
+MID_MISSION_H_S201712HERO01_A1: Gewinne den Großen Helden-\nkampf gg. Berkut, den Stolzen\nPrinzen, mit Sharena im Team.
+MID_MISSION_S201712HERO01_A2: Berkut besiegen
+MID_MISSION_H_S201712HERO01_A2: Gewinne d. Gr. Heldenkampf gg.\nBerkut: Stolzer Prinz auf Extrem o. höher\nmit Berkut: Stolzer Prinz im Team.
+MID_MISSION_S201712HERO01_A3: Berkut besiegen
+MID_MISSION_H_S201712HERO01_A3: Setze Sharena ein und besiege\nBerkut: Stolzer Prinz, der\nLevel 40 oder höher ist.
+MID_MISSION_S201712HERO01_A4: Berkut besiegen
+MID_MISSION_H_S201712HERO01_A4: Setze Berkut: Stolzer Prinz ein und\nbesiege Berkut: Stolzer Prinz, der\nLevel 40 oder höher ist.
+MID_MISSION_S201712HERO01_A5: Berkut besiegen
+MID_MISSION_H_S201712HERO01_A5: Gewinne den Großen Heldenkampf gegen\nBerkut: Stolzer Prinz auf Extrem o. höher\nmit einem Team aus Infanterieeinheiten.
+MID_MISSION_S201712VMAP01_TITLE: Dank vom Entwickler
+MID_MISSION_S201712VMAP01_A1: Effie die Starke
+MID_MISSION_H_S201712VMAP01_A1: Bewältige Effie die Starke von\nShingoroid mit 1 roten Verb. im\nTeam. Alle Verb. müssen überleben.
+MID_MISSION_S201712VMAP01_A2: Farbkontrast
+MID_MISSION_H_S201712VMAP01_A2: Bewältige Farbkontrast von Taroimo\nmit 1 blauen Verb. im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A3: Vier Verführer
+MID_MISSION_H_S201712VMAP01_A3: Bewältige Vier Verführer von\nRokumoji mit 1 grünen Verb. im\nTeam. Alle Verb. müssen überleben.
+MID_MISSION_S201712VMAP01_A4: Leichte Brise
+MID_MISSION_H_S201712VMAP01_A4: Bewältige Leichte Brise von Arayang\nmit 1 farblosen Verb. im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A5: Die Eisenmauer
+MID_MISSION_H_S201712VMAP01_A5: Bewältige Die Eisenmauer von ryo.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A6: Effie die Starke
+MID_MISSION_H_S201712VMAP01_A6: Bewältige Effie die Starke v. Shingoroid\nauf Extrem mit 1 roten Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A7: Farbkontrast
+MID_MISSION_H_S201712VMAP01_A7: Bewältige Farbkontrast v. Taroimo auf\nExtrem mit 1 blauen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A8: Vier Verführer
+MID_MISSION_H_S201712VMAP01_A8: Bewältige Vier Verführer v. Rokumoji\nauf Extrem mit 1 grünen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A9: Leichte Brise
+MID_MISSION_H_S201712VMAP01_A9: Bewältige Leichte Brise v. Arayang auf\nExtrem mit 1 farblosen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712VMAP01_A10: Die Eisenmauer
+MID_MISSION_H_S201712VMAP01_A10: Bewältige Die Eisenmauer v. ryo\nauf Extrem. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201712VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201712VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201712VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A2: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201712VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A3: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201712VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A4: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201712VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A5: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201712VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201712VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201712VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201712VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201712VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201712VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201712VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201712VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201712VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201712VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201712VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201712VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201712VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201712VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201712VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201712VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201712VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201712VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A17: Gewinne einige Kämpfe im\nWahlturnier mit einem roten\nVerbündeten im Team.
+MID_MISSION_S201712VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A18: Gewinne einige Kämpfe im\nWahlturnier mit einem blauen\nVerbündeten im Team.
+MID_MISSION_S201712VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A19: Gewinne einige Kämpfe im\nWahlturnier mit einem grünen\nVerbündeten im Team.
+MID_MISSION_S201712VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201712VOTE01_A20: Gewinne einige Kämpfe im\nWahlturnier mit einem farb-\nlosen Verbündeten im Team.
+MEID_ラウアマムクート: Roter Manakete
+MEID_ブラーマムクート: Blauer Manakete
+MEID_グルンマムクート: Grüner Manakete
+MEID_ソードドラゴン: Schwertdrache
+MEID_ランスドラゴン: Lanzendrache
+MEID_アクスドラゴン: Axtdrache
+MEID_H_ラウアマムクート: Ein roter Manakete. Kann sich im\nKampf in einen Drachen verwandeln.
+MEID_H_ブラーマムクート: Ein blauer Manakete. Kann sich im\nKampf in einen Drachen verwandeln.
+MEID_H_グルンマムクート: Ein grüner Manakete. Kann sich im\nKampf in einen Drachen verwandeln.
+MEID_H_ソードドラゴン: Wyvernritter, der ein Schwert führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_ランスドラゴン: Wyvernritter, der eine Lanze führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_H_アクスドラゴン: Wyvernritter, der eine Axt führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
+MEID_スルト: Surtr
+MEID_レーヴァテイン: Laevatein
+MEID_ロキ: Loki
+MPID_スルト: Surtr
+MPID_フィヨルム: Fjorm
+MPID_レーヴァテイン: Laevatein
+MPID_ロキ: Loki
+MPID_スリーズ声: Gunnthrá
+MPID_ソレイユ: Soleil
+MPID_シャラ: Rhajat
+MPID_シノノメ: Shiro
+MPID_ジークベルト: Siegbert
+MEID_HONOR_スルト: Feuerherrscher
+MPID_HONOR_フィヨルム: Eisprinzessin
+MEID_HONOR_レーヴァテイン: Sengender Stahl
+MEID_HONOR_ロキ: Die Gaunerin
+MPID_HONOR_ソレイユ: Frauenverehrerin
+MPID_HONOR_シャラ: Dunkle Magierin
+MPID_HONOR_シノノメ: Der Ehrgeizige
+MPID_HONOR_ジークベルト: Kronprinz
+MEID_H_スルト: König von Múspell, dem Feuerkönigreich.\nTrägt das Blut des Feuerdrachen in sich.\nEin strenger, eroberungswütiger Herrscher.
+MPID_H_フィヨルム: Die sanfte zweite Prinzessin von Nifl, dem\nEiskönigreich. Möchte sich an Surtr rächen.
+MEID_H_レーヴァテイン: Die zweite Prinzessin von Múspell, dem\nFeuerkönigreich. Sie sieht sich selbst und\nihre Waffe als Einheit an und kontrolliert\nihre Gefühle.
+MEID_H_ロキ: Strategin für Múspell, das Feuerkönigreich.\nManipuliert gerne und spielt Streiche.
+MPID_H_ソレイユ: Laslows Tochter. Lebensfroh und gar nicht\nschüchtern. Bewundert tolle Frauen.\nErscheint in Fire Emblem Fates.
+MPID_H_シャラ: Hayatos Tochter. Hat zwanghafte Züge und\nein Furcht einflößendes Temperament.\nErscheint in Fire Emblem Fates.
+MPID_H_シノノメ: Ryomas Sohn. Lässt beim Üben nicht\nlocker. Aufgeschlossen und umgänglich.\nErscheint in Fire Emblem Fates.
+MPID_H_ジークベルト: Xanders Sohn. Als zukünftiger König erhielt\ner die beste Ausbildung. Ernst und nett.\nErscheint in Fire Emblem Fates.
+MEID_VOICE_スルト: —
+MPID_VOICE_フィヨルム: Heather Watson
+MEID_VOICE_レーヴァテイン: Sarah Williams
+MEID_VOICE_ロキ: Erika Ishii
+MPID_VOICE_ソレイユ: Michelle Ruff
+MPID_VOICE_シャラ: Stephanie Sheh
+MPID_VOICE_シノノメ: Kaiji Tang
+MPID_VOICE_ジークベルト: Todd Haberkorn
+MEID_ILLUST_スルト: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_フィヨルム: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_レーヴァテイン: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_ロキ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ソレイユ: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_シャラ: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MPID_ILLUST_シノノメ: Arai Teruko (新井テル子)
+MPID_ILLUST_ジークベルト: Arai Teruko (新井テル子)
+MPID_LEGEND_フィヨルム: Legendärer Effekt: Wasser\nVerbündetenbonus: KP +3, Ges. +3\n\nGewährt Verbündeten diesen legendären\nEffekt in der Wassersaison, wenn sie mit\nWasser gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_アーマーキラー2: Panzerspalter
+MSID_アーマーキラー2＋: Panzerspalter+
+MSID_貫きの槍2: Gnadenspeer
+MSID_貫きの槍2＋: Gnadenspeer+
+MSID_ハンマー2: Gnadenhammer
+MSID_ハンマー2＋: Gnadenhammer+
+MSID_遠距離防御の弓: Wächterbogen
+MSID_遠距離防御の弓＋: Wächterbogen+
+MSID_ラウアウルフ2: Eifr. Rauðrwolf
+MSID_ラウアウルフ2＋: Eifr. Rauðrwolf+
+MSID_ブラーウルフ2: Eifr. Blárwolf
+MSID_ブラーウルフ2＋: Eifr. Blárwolf+
+MSID_グルンウルフ2: Eifr. Gronnwolf
+MSID_グルンウルフ2＋: Eifr. Gronnwolf+
+MSID_アブゾーブ＋: Absorbieren+
+MSID_フィアー＋: Angst+
+MSID_スロウ＋: Langsam+
+MSID_グラビティ＋: Schwere+
+MSID_ペイン＋: Schmerz+
+MSID_パニック＋: Panik+
+MSID_キャンドル＋: Kerzenlicht+
+MSID_リブロー＋: Purgativ+
+MSID_リカバー＋: Erholung+
+MSID_セインツ＋: Aufopferung+
+MSID_リバース＋: Neubeginn+
+MSID_第5迷宮の覇者1: Überfall-Ass E 1
+MSID_第5迷宮の覇者2: Überfall-Ass E 2
+MSID_第5迷宮の覇者3: Überfall-Ass E 3
+MSID_レーヴァテイン: Laevatein
+MSID_レイプト: Leiptr
+MSID_シンモラ: Sinmara
+MSID_セック: Thökk
+MSID_氷の聖鏡: Eisspiegel
+MSID_攻撃守備の絆1: Agr./Ver.-Band 1
+MSID_攻撃守備の絆2: Agr./Ver.-Band 2
+MSID_攻撃守備の絆3: Agr./Ver.-Band 3
+MSID_火薙ぎの剣: Feuerfegerschw.
+MSID_火薙ぎの剣＋: Feuerfegersch.+
+MSID_黒き血の大剣: Dunk. Großschw.
+MSID_白き血の薙刀: Lichtnaginata
+MSID_攻撃守備の応援: Agr./Ver. sam.
+MSID_攻撃の指揮1: Angriffstaktik 1
+MSID_攻撃の指揮2: Angriffstaktik 2
+MSID_攻撃の指揮3: Angriffstaktik 3
+MSID_守備の指揮1: Verteidig.taktik 1
+MSID_守備の指揮2: Verteidig.taktik 2
+MSID_守備の指揮3: Verteidig.taktik 3
+MSID_ムスペルの炎: Múspellflamme
+MSID_H_アーマーキラー2: Effektiv gegen gepanzerte Gegner.
+MSID_H_アーマーキラー2＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_貫きの槍2: Effektiv gegen gepanzerte Gegner.
+MSID_H_貫きの槍2＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_ハンマー2: Effektiv gegen gepanzerte Gegner.
+MSID_H_ハンマー2＋: Effektiv gegen gepanzerte Gegner.
+MSID_H_遠距離防御の弓: Effektiv gegen Flugeinheiten.\nInitiiert der Gegner den Kampf und\nverwendet Bogen, Dolch, Magie oder\nStab, erhält die Einheit Ver./Res. +6\nim Kampf.
+MSID_H_遠距離防御の弓＋: Effektiv gegen Flugeinheiten.\nInitiiert der Gegner den Kampf und\nverwendet Bogen, Dolch, Magie oder\nStab, erhält die Einheit Ver./Res. +6\nim Kampf.
+MSID_H_ラウアウルフ2: Effektiv gegen berittene Gegner.
+MSID_H_ラウアウルフ2＋: Effektiv gegen berittene Gegner.
+MSID_H_ブラーウルフ2: Effektiv gegen berittene Gegner.
+MSID_H_ブラーウルフ2＋: Effektiv gegen berittene Gegner.
+MSID_H_グルンウルフ2: Effektiv gegen berittene Gegner.
+MSID_H_グルンウルフ2＋: Effektiv gegen berittene Gegner.
+MSID_H_アブゾーブ＋: Stellt KP um 50 % des zugefügten\nSchadens wieder her. Hat die Einheit\nangegriffen, werden bei Verbündeten\nim Umkreis von 2 Feldern nach dem\nKampf 7 KP wiederhergestellt.
+MSID_H_フィアー＋: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf Angr. -7 bis\nnach ihren nächsten Aktionen.
+MSID_H_スロウ＋: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf Ges. -7 bis\nnach ihren nächsten Aktionen.
+MSID_H_グラビティ＋: Hat die Einheit angegriffen, können Ziel\nund Gegner im Umkreis von 1 Feld des\nZiels sich nach dem Kampf bis nach ihren\nnächsten Aktionen nur 1 Feld bewegen.
+MSID_H_ペイン＋: Ziel und Gegner im Umkreis von\n2 Feldern des Ziels erleiden nach\ndem Kampf 10 Schaden.
+MSID_H_パニック＋: Hat die Einheit angegriffen, werden Boni\nvon Ziel und Gegnern im Umkreis von 2\nFeldern des Ziels nach dem Kampf bis\nnach ihren nächsten Aktionen ins Gegenteil\numgewandelt.
+MSID_H_キャンドル＋: Hat die Einheit angegriffen, können Ziel und\nGegner innerhalb von 2 Feldern des Ziels\nnach dem Kampf bis nach ihren nächsten\nAktionen keinen Gegenangriff durchführen.
+MSID_H_リブロー＋: Stellt KP um 50 % von Angr. wieder\nher (mindestens 8 KP). Rw. 2.
+MSID_H_リカバー＋: Stellt KP um 50 % von Angr. +10\nwieder her (mindestens 15 KP).
+MSID_H_セインツ＋: Stellt KP um (von dieser Einheit erlittenen\nSchaden) + (50 % von Angr.) wieder her\n(mindestens 7 KP). KP der Einheit werden\nzudem um die Hälfte des erlittenen\nSchadens geheilt.
+MSID_H_リバース＋: Stellt KP um 50 % von Angr. -10 wieder her\n(mindestens 7 KP). Sind die KP des Ziels\n≤ 50 %, werden mehr KP wiederhergestellt.\n(Je geringer die KP, desto mehr KP\nwerden wiederhergestellt.)
+MSID_H_第5迷宮の覇者1: Verleiht Angr. +1.
+MSID_H_第5迷宮の覇者2: Verleiht Angr. +2.
+MSID_H_第5迷宮の覇者3: Verleiht Angr. +3.
+MSID_H_ソールカティ改: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 75 %, kann sie\neinen Folgeangriff ausführen, bevor der\nGegner angreift.
+MSID_H_ジークムント改: Verleiht benachbarten Verbündeten\nzu Beginn des Zuges Angr. +4 bis\nnach ihren nächsten Aktionen.
+MSID_H_風神弓改: Effektiv gegen Flugeinheiten.\nSind die KP der Einheit ≥ 50 %, wird sie\nnicht durch die Geländebeschaffenheit\nverlangsamt. (Dies gilt nicht für\nunpassierbares Gelände.)
+MSID_H_死神の暗器改: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner im Umkreis von 2 Feldern\ndes Ziels 10 Schaden und Ver./Res. -7\nbis nach ihren nächsten Aktionen.
+MSID_H_銀の暗器＋改: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner im Umkreis von 2 Feldern\ndes Ziels Ver./Res. -7 bis nach ihren\nnächsten Aktionen.
+MSID_H_紫煙の暗器＋改: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner im Umkreis von 2 Feldern\ndes Ziels Angr./Ges./Ver./Res. -6 bis\nnach ihren nächsten Aktionen.
+MSID_H_盗賊の暗器＋改: Hat die Einheit angegriffen, erleiden Ziel und\nGegner im Umkreis von 2 Feldern des Ziels\nnach dem Kampf Ver./Res. -6 bis nach ihren\nnächsten Aktionen. Einheit und Verbündete\nim Umkreis von 2 Feldern erhalten\nVer./Res. +6 für 1 Zug.
+MSID_H_灼熱のブレス＋改: Ist Rw. des Gegners = 2, wird Schaden\ndurch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_光のブレス＋改: Hat die Einheit angegriffen, erhalten Einheit\nund Verbündete im Umkreis von 2 Feldern\nnach dem Kampf Angr./Ges./Ver./Res. +5\nfür 1 Zug. Ist Rw. des Gegners = 2, wird\nSchaden durch Ver. oder Res. des\nGegners berechnet (geringerer Wert gilt).
+MSID_H_闇のブレス＋改: Hat die Einheit angegriffen, erleiden Ziel und\nGegner im Umkreis von 2 Feldern des Ziels\nnach d. Kampf Angr./Ges. -7 bis nach ihren\nnächsten Aktionen. Ist Rw. d. Gegners = 2,\nwird Schaden durch Ver. oder Res. des\nGegners berechnet (geringerer Wert gilt).
+MSID_H_雷のブレス＋改: Verzögert Spezialangriffe (Erholungszeit +1).\nErmöglicht Gegenangriff unabhängig von der\nReichweite des Gegners. Ist Rw. des Gegners\n= 2, wird Schaden durch Ver. oder Res. des\nGegners berechnet (geringerer Wert gilt).
+MSID_H_ローローの斧＋改: Hat die Einheit angegriffen, werden Boni\nvon Gegnern im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf bis nach\nihren nächsten Aktionen ins Gegenteil\numgewandelt.
+MSID_H_クライネの弓＋改: Effektiv gegen Flugeinheiten. Hat die\nEinheit angegriffen, erleiden Ziel und\nGegner im Umkreis von 2 Feldern des\nZiels nach dem Kampf Angr./Ges. -5\nbis nach ihren nächsten Aktionen.
+MSID_H_ベルクトの槍＋改: Initiiert der Gegner den Kampf, erhält\ndie Einheit Res. +7 im Kampf.
+MSID_H_ニンジンの槍＋改: Hat die Einheit angegriffen, erhält\nsie nach dem Kampf 4 KP.
+MSID_H_ニンジンの斧＋改: Hat die Einheit angegriffen, erhält\nsie nach dem Kampf 4 KP.
+MSID_H_青の卵＋改: Hat die Einheit angegriffen, erhält\nsie nach dem Kampf 4 KP.
+MSID_H_緑の卵＋改: Hat die Einheit angegriffen, erhält\nsie nach dem Kampf 4 KP.
+MSID_H_ファーストバイト＋改: Hat die Einheit angegriffen, erhalten Einheit\nund Verbündete im Umkreis von 2 Feldern\nnach dem Kampf Ver./Res. +5 für 1 Zug.
+MSID_H_キューピッドの矢＋改: Effektiv gegen Flugeinheiten. Hat die\nEinheit angegriffen, erhalten Einheit und\nVerbündete im Umkreis von 2 Feldern\nnach dem Kampf Ver./Res. +5 für 1 Zug.
+MSID_H_聖なるブーケ＋改: Hat die Einheit angegriffen, erhalten Einheit\nund Verbündete im Umkreis von 2 Feldern\nnach dem Kampf Ver./Res. +5 für 1 Zug.
+MSID_H_貝殻＋改: Sind die KP d. Einheit zu Beginn d. Kampfes\n= 100 %, erhält sie Angr./Ges./Ver./Res.\n+2. Nach d. Kampf: Hat Einheit den Kampf\ninitiiert, erleidet sie 2 Schaden. Ziel u. Geg-\nner im Umkreis von 2 Feldern erleiden Ver./\nRes. -7 bis nach ihren nächsten Aktionen.
+MSID_H_扇子＋改: Initiiert die Einheit den Kampf, erhalten\nbenachbarte Verbündete nach dem\nKampf 7 KP. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels Ver./Res. -7 bis nach\nihren nächsten Aktionen.
+MSID_H_骨の弓＋改: Effektiv gegen Flugeinheiten. Hat\ndie Einheit angegriffen, werden Boni\nvon Gegnern im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf bis nach\nihren nächsten Aktionen ins Gegenteil\numgewandelt.
+MSID_H_ゴーストの魔道書＋改: Hat die Einheit angegriffen, werden\nBoni von Gegnern im Umkreis von\n2 Feldern des Ziels nach dem Kampf\nbis nach ihren nächsten Aktionen\nins Gegenteil umgewandelt.
+MSID_H_差し違えR75: Initiiert die Einheit den Kampf gegen einen\nkonterfähigen Gegner und sind die KP der\nEinheit ≤ 75 %, führt sie garantiert\neinen Folgeangriff aus.
+MSID_H_追撃攻R90: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≥ 90 %, führt sie\ngarantiert einen Folgeangriff aus.
+MSID_H_追従R50: Sind die KP der Einheit ≥ 50 %, kann sie\nsich auf ein benachbartes Feld eines Verb.\nim Umkreis von 2 Feldern bewegen.
+MSID_H_奥義ダメージR10: Gewährt +10 auf Schaden, wenn\nSpezialangriff ausgelöst wird.
+MSID_H_反撃抑制R魔: Wendet der Gegner Magie an, kann\ner keinen Gegenangriff ausführen.
+MSID_H_強化無効R重装: Boni gepanzerter Gegner (z. B.\ndurch Stärken oder Sammeln)\nwerden im Kampf aufgehoben.
+MSID_H_強化無効R騎馬: Boni berittener Gegner (z. B.\ndurch Stärken oder Sammeln)\nwerden im Kampf aufgehoben.
+MSID_H_レーヴァテイン: Verleiht Angr. +3. Erhöht zugefügten\nSchaden um die Anzahl der Boni\nder Einheit.
+MSID_H_レイプト: Ermöglicht Konter unabhängig von\nDistanz, wenn diese Einheit ange-\ngriffen wird.
+MSID_H_シンモラ: Verleiht Ver. +3. Gegner innerhalb von\n2 Feldern der Einheit erleiden zu Beginn\ndes Zuges 20 Schaden.
+MSID_H_セック: Stabangriffe verursachen gleichen Schaden\nwie andere Waffen. Gegner in Himmelsrich-\ntungen mit Bogen, Dolch, Magie oder Stab,\ndie zu Beginn d. Zuges mind. 3 KP weniger\nhaben als die Einheit, können bis nach\nihren nächsten Aktionen nur 1 Feld ziehen.
+MSID_H_氷の聖鏡: Gegner mit Reichweite = 2 verursachen\n30 % weniger Schaden. Nächster Angriff\nd. Einheit wird nach Spezialangriff um red.\nSchaden (auch durch andere Fähigkeiten)\nerhöht. Wird nach Kampf zurückgesetzt.\n(Fähigkeit kann nicht geerbt werden.)
+MSID_H_攻撃守備の絆1: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ver. +3 im Kampf.
+MSID_H_攻撃守備の絆2: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ver. +4 im Kampf.
+MSID_H_攻撃守備の絆3: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ver. +5 im Kampf.
+MSID_H_火薙ぎの剣: Einheit und Gegner können\nkeine Gegenangriffe ausführen.
+MSID_H_火薙ぎの剣＋: Einheit und Gegner können\nkeine Gegenangriffe ausführen.
+MSID_H_黒き血の大剣: Initiiert die Einheit den Kampf, erhält\nsie Angr./Ges. +4 im Kampf.
+MSID_H_白き血の薙刀: Initiiert die Einheit den Kampf, erhält\nsie Angr./Ver. +4 im Kampf.
+MSID_H_攻撃守備の応援: Verleiht einem Verbündeten\nAngr./Ver. +3 für 1 Zug.
+MSID_H_攻撃の指揮1: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nAngr. +2 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_攻撃の指揮2: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nAngr. +4 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_攻撃の指揮3: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nAngr. +6 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_守備の指揮1: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nVer. +2 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_守備の指揮2: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nVer. +4 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_守備の指揮3: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nVer. +6 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_ムスペルの炎: Einheit erleidet keinen Schaden.
+MID_CHAPTER_TITLE_C0016: Zwischenakt
+MID_CHAPTER_C0016: Das Ritual d. Klingen
+MID_STAGE_TITLE_S1601: Zwischenakt 1
+MID_STAGE_S1601: Das Ritual der Klingen
+MID_CHAPTER_TITLE_C0201: Buch II: Kapitel 1
+MID_CHAPTER_C0201: Die Flamme
+MID_STAGE_TITLE_S2011: Kapitel 1 - Teil 1
+MID_STAGE_TITLE_S2012: Kapitel 1 - Teil 2
+MID_STAGE_TITLE_S2013: Kapitel 1 - Teil 3
+MID_STAGE_TITLE_S2014: Kapitel 1 - Teil 4
+MID_STAGE_TITLE_S2015: Kapitel 1 - Teil 5
+MID_STAGE_S2011: Ewige Flamme
+MID_STAGE_S2012: Brennende Berge
+MID_STAGE_S2013: Dampfschwaden
+MID_STAGE_S2014: Ausgebrannte Sterne
+MID_STAGE_S2015: Nebelzauberin
+MID_CHAPTER_TITLE_C0202: Buch II: Kapitel 2
+MID_CHAPTER_C0202: Eisprinzessin
+MID_STAGE_TITLE_S2021: Kapitel 2 - Teil 1
+MID_STAGE_TITLE_S2022: Kapitel 2 - Teil 2
+MID_STAGE_TITLE_S2023: Kapitel 2 - Teil 3
+MID_STAGE_TITLE_S2024: Kapitel 2 - Teil 4
+MID_STAGE_TITLE_S2025: Kapitel 2 - Teil 5
+MID_STAGE_S2021: Schneeherrin
+MID_STAGE_S2022: Kinder des Lichts
+MID_STAGE_S2023: Kinder des Schattens
+MID_STAGE_S2024: Schatten und Licht
+MID_STAGE_S2025: Feuerherrscher
+MID_STAGE_TITLE_SB_0005: 5. Überfall
+MID_CHAPTER_ST_C0201: Kapitel 1 & 2
+MID_STAGE_TITLE_ST_S0201: Kapitel 1
+MID_STAGE_TITLE_ST_S0202: Kapitel 2
+MID_STAGE_TITLE_ST_S1202: Kapitel 1 & 2
+MID_STAGE_HONOR_T0021: Treue-Heldenk.
+MID_STAGE_T0021: A & T
+MID_STAGE_HONOR_V0141: Effie die Starke
+MID_STAGE_V0141: Shingoroid
+MID_STAGE_HONOR_V0142: Farbkontrast
+MID_STAGE_V0142: Taroimo
+MID_STAGE_HONOR_V0143: Vier Verführer
+MID_STAGE_V0143: Rokumoji
+MID_STAGE_HONOR_V0144: Leichte Brise
+MID_STAGE_V0144: Arayang
+MID_STAGE_HONOR_V0145: Die Eisenmauer
+MID_STAGE_V0145: ryo

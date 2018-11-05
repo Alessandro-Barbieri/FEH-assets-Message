@@ -1,0 +1,188 @@
+[Heroes Archive] (Data_462_legend02)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0002: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|Ha llegado un héroe, el resultado de\nun rito de invocación realizado en un\nmundo lejano. ¡Vamos a conocerlo!$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0002: Gana un aliado superando la\nEpopeya 3: Héroe del pueblo.
+MID_MISSION_M201803A_TITLE: Retos: marzo (1)
+MID_MISSION_M201803A_A1: Victoria cerúlea
+MID_MISSION_H_M201803A_A1: Vence a enemigos con\nunidades de tipo azul.
+MID_MISSION_M201803A_A2: Victoria pedestre
+MID_MISSION_H_M201803A_A2: Vence a enemigos con\nunidades de infantería.
+MID_MISSION_M201803A_A3: Objetivo: verde
+MID_MISSION_H_M201803A_A3: Vence a enemigos de tipo verde.
+MID_MISSION_M201803A_A4: Objetivo: aéreos
+MID_MISSION_H_M201803A_A4: Derrota unidades aéreas.
+MID_MISSION_M201803A_A5: Gladiador
+MID_MISSION_H_M201803A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201803A_A6: Poderío carmesí
+MID_MISSION_H_M201803A_A6: Vence a enemigos de nivel 20\no superior con unidades de\ntipo rojo.
+MID_MISSION_M201803A_A7: Poderío aéreo
+MID_MISSION_H_M201803A_A7: Vence a enemigos de nivel 20 o\nsuperior con unidades aéreas.
+MID_MISSION_M201803A_A8: Objetivo: nivel 20+ azul
+MID_MISSION_H_M201803A_A8: Vence a enemigos de tipo azul\nde nivel 20 o superior.
+MID_MISSION_M201803A_A9: Objetivo: nivel 20+ a pie
+MID_MISSION_H_M201803A_A9: Vence a unidades de infantería\nde nivel 20 o superior.
+MID_MISSION_M201803A_A10: Gladiador curtido
+MID_MISSION_H_M201803A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201803A_A11: Gloria glauca
+MID_MISSION_H_M201803A_A11: Vence a enemigos de nivel 35\no superior con unidades de\ntipo verde.
+MID_MISSION_M201803A_A12: Gloria ecuestre
+MID_MISSION_H_M201803A_A12: Vence a enemigos de nivel 35 o\nsuperior con unidades de caballería.
+MID_MISSION_M201803A_A13: Sublimación carmesí
+MID_MISSION_H_M201803A_A13: Vence a enemigos de tipo rojo\nde nivel 35 o superior.
+MID_MISSION_M201803A_A14: Sublimación ecuestre
+MID_MISSION_H_M201803A_A14: Vence a unidades de caballería\nde nivel 35 o superior.
+MID_MISSION_M201803A_A15: Maestro gladiador
+MID_MISSION_H_M201803A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201803B_TITLE: Retos: marzo (2)
+MID_MISSION_M201803B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201803B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201803B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201803B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201803B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201803B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201803B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201803B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201803B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201803B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201803B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201803B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201803B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201803B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201803B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201803B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201803B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201803B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201803B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201803C_TITLE: Retos: marzo (3)
+MID_MISSION_M201803C_A1: Cap. 7 - Parte 1
+MID_MISSION_H_M201803C_A1: Supera la 1.ª parte del capítulo 7\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201803C_A2: Cap. 7 - Parte 2
+MID_MISSION_H_M201803C_A2: Supera la 2.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A3: Cap. 7 - Parte 3
+MID_MISSION_H_M201803C_A3: Supera la 3.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A4: Cap. 7 - Parte 4
+MID_MISSION_H_M201803C_A4: Supera la 4.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A5: Cap. 7 - Parte 5
+MID_MISSION_H_M201803C_A5: Supera la 5.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A6: Cap. 10 - Parte 1 / Difícil+
+MID_MISSION_H_M201803C_A6: Supera la 1.ª parte del capítulo 10\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201803C_A7: Cap. 10 - Parte 2 / Difícil+
+MID_MISSION_H_M201803C_A7: Supera la 2.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201803C_A8: Cap. 10 - Parte 3 / Difícil+
+MID_MISSION_H_M201803C_A8: Supera la 3.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201803C_A9: Cap. 10 - Parte 4 / Difícil+
+MID_MISSION_H_M201803C_A9: Supera la 4.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201803C_A10: Cap. 10 - Parte 5 / Difícil+
+MID_MISSION_H_M201803C_A10: Supera la 5.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201803C_A11: Cap. 13 - Parte 1 / Extr.
+MID_MISSION_H_M201803C_A11: Supera la 1.ª parte del capítulo 13 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201803C_A12: Cap. 13 - Parte 2 / Extr.
+MID_MISSION_H_M201803C_A12: Supera la 2.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A13: Cap. 13 - Parte 3 / Extr.
+MID_MISSION_H_M201803C_A13: Supera la 3.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A14: Cap. 13 - Parte 4 / Extr.
+MID_MISSION_H_M201803C_A14: Supera la 4.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201803C_A15: Cap. 13 - Parte 5 / Extr.
+MID_MISSION_H_M201803C_A15: Supera la 5.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201803CHARA01_TITLE: Tres héroes
+MID_MISSION_S201803CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201803CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201803CHARA01_A2: Vencer con Zelcher
+MID_MISSION_H_S201803CHARA01_A2: Vence a enemigos con Zelcher.
+MID_MISSION_S201803CHARA01_A3: Vencer con Gordin
+MID_MISSION_H_S201803CHARA01_A3: Vence a enemigos con Gordin.
+MID_MISSION_S201803CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201803CHARA01_B1: Vence a enemigos de nivel 20\no superior con Zelcher.
+MID_MISSION_S201803CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201803CHARA01_B2: Vence a enemigos de nivel 20\no superior con Gordin.
+MID_MISSION_S201803CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201803CHARA01_B3: Vence a enemigos de nivel 20\no superior con Serra.
+MID_MISSION_S201803CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201803CHARA01_C1: Vence a enemigos de nivel 35\no superior con Zelcher.
+MID_MISSION_S201803CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201803CHARA01_C2: Vence a enemigos de nivel 35\no superior con Gordin.
+MID_MISSION_S201803CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201803CHARA01_C3: Vence a enemigos de nivel 35\no superior con Serra.
+MID_MISSION_S201803HERO00_TITLE: Grandes batallas
+MID_MISSION_S201803HERO00_A1: Derrotar a Arvis
+MID_MISSION_H_S201803HERO00_A1: Gana la gran batalla contra\nArvis, Señor del fuego,\ncon Alfonse en tu batallón.
+MID_MISSION_S201803HERO00_A2: Derrotar a Arvis: extremo
+MID_MISSION_H_S201803HERO00_A2: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior con\nArvis, Señor del fuego en tu batallón.
+MID_MISSION_S201803HERO00_A3: Derrotar a Arvis: 40+
+MID_MISSION_H_S201803HERO00_A3: Con Alfonse, derrota a Arvis,\nSeñor del fuego, en su versión\nde nivel 40 o superior.
+MID_MISSION_S201803HERO00_A4: Derrotar a Arvis: Arvis
+MID_MISSION_H_S201803HERO00_A4: Con Arvis, Señor del fuego, derrota\na Arvis, Señor del fuego, en su\nversión de nivel 40 o superior.
+MID_MISSION_S201803HERO00_A5: Derrotar a Arvis: infantería
+MID_MISSION_H_S201803HERO00_A5: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201803VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201803VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201803VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201803VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201803VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201803VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201803VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201803VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201803VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201803VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201803VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201803VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201803VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201803VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201803VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201803VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201803VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201803VOTE01_A9: Gladiador
+MID_MISSION_H_S201803VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201803VOTE01_A10: Gladiador
+MID_MISSION_H_S201803VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201803VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201803VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201803VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201803VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201803VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201803VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201803VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201803VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201803VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201803VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201803VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201803VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201803VOTE01_A17: Torneo de votos: rojo
+MID_MISSION_H_S201803VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201803VOTE01_A18: Torneo de votos: azul
+MID_MISSION_H_S201803VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201803VOTE01_A19: Torneo de votos: verde
+MID_MISSION_H_S201803VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201803VOTE01_A20: Torneo de votos: gris
+MID_MISSION_H_S201803VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MPID_伝承エフラム: Ephraim
+MPID_HONOR_伝承エフラム: Rey legendario
+MPID_H_伝承エフラム: El soberano de Renais es el gemelo de\nEirika. Se dice que venció al Rey Demonio\nde la antigüedad y salvó el mundo.\nAparece en Fire Emblem: The Sacred Stones.
+MPID_VOICE_伝承エフラム: Greg Chun
+MPID_ILLUST_伝承エフラム: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エフラム: Efecto legendario: Fuego\nMejora de aliados: PV + 3, Def + 4\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de fuego si se\nha otorgado la bendición de fuego.
+MSID_炎槍ジークムント: Siegmund ígnea
+MSID_鬼神金剛の構え1: Postura dura 1
+MSID_鬼神金剛の構え2: Postura dura 2
+MSID_太陽の腕輪: Brazalete solar
+MSID_H_炎槍ジークムント: Otorga Ata + 3. Si en un radio de dos casillas\nel número de enemigos es superior o igual\nal de aliados (sin contar a la unidad ni al\nrival), la unidad ejecuta un ataque doble\ngarantizado.
+MSID_H_鬼神金剛の構え1: Si el rival inicia el ataque, la unidad obtiene\nAta y Def + 2 durante el enfrentamiento.
+MSID_H_鬼神金剛の構え2: Si el rival inicia el ataque, la unidad obtiene\nAta y Def + 4 durante el enfrentamiento.
+MSID_H_太陽の腕輪: La unidad recupera un 30 % del daño\ninfligido cuando se ejecutan habilidades\nespeciales en combate. (Se acumula\ncon efectos de habilidades como Helios.)
+MID_CHAPTER_TITLE_CXX03: Epopeya 3
+MID_CHAPTER_CXX03: Héroe del pueblo
+MID_STAGE_TITLE_XX003: Epopeya 3
+MID_STAGE_XX003: Héroe del pueblo

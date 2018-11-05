@@ -1,0 +1,38 @@
+[Heroes Archive] (GUIRE)
+
+
+Heroes Message Name: Message
+
+
+MID_GUIRE_HOME1: I miei spuntini di emergenza si sono\nsbriciolati nell'ultima battaglia. Devo\nrimpolpare le mie scorte di dolci.
+MID_GUIRE_HOME2: Un tempo avrei fatto qualsiasi lavoro,\npurché la paga fosse buona. Sono più\nselettivo da quando sono un Pastore.
+MID_GUIRE_HOME3: Hai fatto un buon lavoro,\n$Nu.\nCi meritiamo un lecca-lecca.
+MID_GUIRE_HOME4: Ehi tu, mi sai dire per caso dove sono\ngli alveari più buoni della zona? Sto\nfinendo le mie scorte di miele.
+MID_GUIRE_HOME5: Ti va di assaggiare un pezzo di torta?\nL'ho fatta io. Credo manchi qualcosa,\nma non ho ancora capito cosa.
+MID_GUIRE_FRIEND: $Nu, giusto?\n$Nf voleva\nche ti salutassi. Ed eccomi qui.
+MID_GUIRE_LEVEL1: Forse mi merito\nun dolcetto?
+MID_GUIRE_LEVEL2: Un po' di zucchero\ne tanta energia!
+MID_GUIRE_LEVEL3: Un po' di zucchero\nnon guasta mai.
+MID_GUIRE_SKILL: Ben fatto. Mi mancava questa\nciliegina sulla torta.
+MID_GUIRE_JOIN: Sono Gaius. Se ti serve un ladro, hai\ntrovato la persona giusta. E se hai un\ncalo di zuccheri, sai dove trovarmi.
+MID_GUIRE_STRONGEST: Ehi, $Nu!$k$pCi siamo visti molto spesso di recente.\nVuoi un'altra caramella, eh?$k$pQuesta però non posso dartela.\nÈ la mia preferita. Piena zeppa di\ndolcissimo miele...$k$pCome? Non ti interessano i dolci?\nSi tratta di lavoro, allora. No?$k$pNon sarai mica qui solo per passare\ndel tempo con me! Ciò farebbe di\nte un cuore tenero.$k$pSolo i teneroni stringono amicizie\nsenza secondi fini. E mi sa che tu\nhai il cuore di zucchero filato.$k$pBeh. Ho cambiato idea. Tieni questa\ncaramella al miele. Non c'è un motivo,\nsolo il mio modo di dirti grazie.
+MID_GUIRE_VOICE01: ふん！
+MID_GUIRE_VOICE02: せやっ！
+MID_GUIRE_VOICE03: Sugar!
+MID_GUIRE_VOICE04: I was a sucker...
+MID_GUIRE_VOICE05: Arriva... la ciliegina!
+MID_GUIRE_VOICE06: Come rubare caramelle...
+MID_GUIRE_VOICE07: Pronto per il dessert?
+MID_GUIRE_VOICE08: Ti va un dolcetto?
+MID_GUIRE_VOICE09: Suckered...
+MID_GUIRE_VOICE10: Hmm...
+MID_GUIRE_VOICE11: Sugar...
+MID_GUIRE_VOICE12: You got orders for me or something?
+MID_GUIRE_VOICE13: You can leave the dirty work to me.
+MID_GUIRE_VOICE14: Spying, assassination, and burglary are my specialties. Decent lockpick, too.
+MID_GUIRE_VOICE15: Wanna try this coconut brittle? It's crunchy in all the right ways.
+MID_GUIRE_VOICE16: I've got sweet little treasures in every pocket and fold of this outfit.
+MID_GUIRE_VOICE17: Glad you summoned me here. It's a chance to scrounge up more sweets.
+MID_GUIRE_VOICE18: Yeah?
+MID_GUIRE_VOICE19: What now?
+MID_GUIRE_VOICE20: I hear ya.

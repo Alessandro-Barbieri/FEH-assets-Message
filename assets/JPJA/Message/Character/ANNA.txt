@@ -1,0 +1,62 @@
+[Heroes Archive] (ANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_ANNA_HOME1: アルフォンスは昔、仲良しの英雄がいたの。\nでもその子は戦場で散ってしまったわ。\nそれからかしら…彼が少し変わったのは。
+MID_ANNA_HOME2: 散った英雄は、召喚師さえいれば蘇るわ。\nでも覚えておいて…いくら死を迎えなくとも\nその傷は人と同じように痛いということを。
+MID_ANNA_HOME3: あら、皆の様子を見て回ってくれているの？\nありがとう、助かるわ。\n何か変わったことがあれば教えてね。
+MID_ANNA_HOME4: 今から訓練に付き合わない？\nあなたのことをビシバシ鍛えて\n屈強な召喚師にしてあげるわよ？
+MID_ANNA_HOME5: ちょうどいいところに来たわね。\n特務機関印の新商品を作ったの！\nねえ、これ売れると思う？
+MID_ANNA_FRIEND: $Nfから挨拶よ。\nこの隊もなかなかに活気があるわね。\n私たちも負けていられないわ。
+MID_ANNA_LEVEL1: これまで以上に\nビシバシいくわよ！
+MID_ANNA_LEVEL2: 上官として、\nこれぐらいはね？
+MID_ANNA_LEVEL3: そりゃあ新兵ほどの\n伸びしろはないわよ。
+MID_ANNA_SKILL: 強くしてくれてありがと☆\n元はとらせてあげちゃうわよ。
+MID_ANNA_STRONGEST: あなた最近、頼もしくなったわね。\n最初はあんなに危なっかしかったのに、\n今じゃ立派にみんなを率いてる。$k$p…私、謝らなくちゃ。\nあなたが初めてこの世界に来た時、\n大英雄には見えないって言ったこと。$k$p人や英雄は見かけで判断できない。\n私も昔、上官からそう教わったのに…\n悪いことを言ってごめんなさいね。$k$pでも、いくら大英雄様といっても\n特務機関の一員である以上、\nこれからもビシバシ指導させてもらうわよ？$k$pあなたがいつか本当にこの世界の\n救世主となるその日まで…\n傍で見守って、支え続けると誓うわ。\n
+MID_ANNA_VOICE01: はっ！
+MID_ANNA_VOICE02: せいっ！
+MID_ANNA_VOICE03: くっ…！
+MID_ANNA_VOICE04: なによぉ！
+MID_ANNA_VOICE05: サービスしちゃうわ！
+MID_ANNA_VOICE06: オマケしてあげる
+MID_ANNA_VOICE07: 任務遂行！
+MID_ANNA_VOICE08: 先手必勝！
+MID_ANNA_VOICE09: 撤退…するわ…
+MID_ANNA_VOICE10: ふふっ
+MID_ANNA_VOICE11: 特務機関の掟その一、英雄とは対等であれ
+MID_ANNA_VOICE12: 特務機関の掟その二、扉は死守すべし
+MID_ANNA_VOICE13: 私に似た人を知ってるって、それ本当？
+MID_ANNA_VOICE14: あなたの神器、使える人がいないからホコリかぶってたのよ。…なんてね。
+MID_ANNA_VOICE15: 英雄たちと仲良くなりたい？　それとも深入りはしない？　あなたはどちらかしらね。
+MID_ANNA_VOICE16: はあ…パーッとお金儲けの話でも転がってないかしら。
+MID_ANNA_VOICE17: あなたがこの世界に来てくれて良かったわ。\n私は上官として、必ずあなたを守るから。
+MID_ANNA_VOICE18: ええ
+MID_ANNA_VOICE19: 行くわよ
+MID_ANNA_VOICE20: 出撃よ
+MID_ANNA_VOICE21: ファイアーエムブレム
+MID_ANNA_VOICE22: 暗黒竜と光の剣
+MID_ANNA_VOICE23: 外伝
+MID_ANNA_VOICE24: 紋章の謎
+MID_ANNA_VOICE25: 聖戦の系譜
+MID_ANNA_VOICE26: トラキア７７６
+MID_ANNA_VOICE27: 封印の剣
+MID_ANNA_VOICE28: 烈火の剣
+MID_ANNA_VOICE29: 聖魔の光石
+MID_ANNA_VOICE30: 蒼炎の軌跡
+MID_ANNA_VOICE31: 暁の女神
+MID_ANNA_VOICE32: 新・暗黒竜と光の剣
+MID_ANNA_VOICE33: 新・紋章の謎
+MID_ANNA_VOICE34: 覚醒
+MID_ANNA_VOICE35: ｉｆ
+MID_ANNA_VOICE36: イベントが始まったわよ
+MID_ANNA_VOICE37: 大戦が始まっているみたいね
+MID_ANNA_VOICE38: 強敵が現れたわ
+MID_ANNA_VOICE39: 新しい英雄が現れたわよ
+MID_ANNA_VOICE40: 少し待っててちょうだいね
+MID_ANNA_VOICE41: 移動しましょう
+MID_ANNA_VOICE42: さあ、攻撃よ！
+MID_ANNA_VOICE43: 弓は、１マス離れた敵を攻撃できるわ
+MID_ANNA_VOICE_BRAVE: ブレイヴ
+MID_ANNA_VOICE_HEROES: ヒーローズ

@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: Weapon Workout
+MID_MISSION_S201805ARM01_A1: KO Foe w/Sword
+MID_MISSION_H_S201805ARM01_A1: Use a sword ally to defeat foes.
+MID_MISSION_S201805ARM01_A2: KO Foe w/Lance
+MID_MISSION_H_S201805ARM01_A2: Use a lance ally to defeat foes.
+MID_MISSION_S201805ARM01_A3: KO Foe w/Axe
+MID_MISSION_H_S201805ARM01_A3: Use an axe ally to defeat foes.
+MID_MISSION_S201805ARM01_A4: KO Foe w/Colorless Bow
+MID_MISSION_H_S201805ARM01_A4: Use a colorless bow ally to defeat foes.
+MID_MISSION_S201805ARM01_A5: KO Foe w/Dagger
+MID_MISSION_H_S201805ARM01_A5: Use a dagger ally to defeat foes.
+MID_MISSION_S201805ARM01_A6: KO Foe w/Red Tome
+MID_MISSION_H_S201805ARM01_A6: Use a red tome ally to defeat foes.
+MID_MISSION_S201805ARM01_A7: KO Foe w/Blue Tome
+MID_MISSION_H_S201805ARM01_A7: Use a blue tome ally to defeat foes.
+MID_MISSION_S201805ARM01_A8: KO Foe w/Green Tome
+MID_MISSION_H_S201805ARM01_A8: Use a green tome ally to defeat foes.
+MID_MISSION_S201805ARM01_A9: KO Foe w/Staff
+MID_MISSION_H_S201805ARM01_A9: Use a staff ally to defeat enemies.
+MID_MISSION_S201805ARM01_A10: KO Lvl. 35+ Foe w/Sword
+MID_MISSION_H_S201805ARM01_A10: Use sword ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A11: KO Lvl. 35+ Foe w/Lance
+MID_MISSION_H_S201805ARM01_A11: Use lance ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A12: KO Lvl. 35+ Foe w/Axe
+MID_MISSION_H_S201805ARM01_A12: Use axe ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A13: KO Lvl. 35+ Foe w/C Bow
+MID_MISSION_H_S201805ARM01_A13: Use colorless bow ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A14: KO Lvl. 35+ Foe w/Dagger
+MID_MISSION_H_S201805ARM01_A14: Use dagger ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A15: KO Lvl. 35+ Foe w/R Tome
+MID_MISSION_H_S201805ARM01_A15: Use red tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A16: KO Lvl. 35+ Foe w/B Tome
+MID_MISSION_H_S201805ARM01_A16: Use blue tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A17: KO Lvl. 35+ Foe w/G Tome
+MID_MISSION_H_S201805ARM01_A17: Use green tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805ARM01_A18: KO Lvl. 35+ Foe w/Staff
+MID_MISSION_H_S201805ARM01_A18: Use staff ally to defeat foes level 35\nor higher.
+MID_MISSION_S201805DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201805DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201805DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201805DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201805DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201805DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201805DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201805DAISEIATU01_A4: Tower: Second Stratum
+MID_MISSION_H_S201805DAISEIATU01_A4: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201805DAISEIATU01_A5: Tower: Eighth Stratum
+MID_MISSION_H_S201805DAISEIATU01_A5: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201805DAISEIATU01_A6: Win Arena Duels
+MID_MISSION_H_S201805DAISEIATU01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201805STORY01_TITLE: Hellfire
+MID_MISSION_S201805STORY01_A1: Clear 9-1 on Lunatic
+MID_MISSION_H_S201805STORY01_A1: Clear Book II, Chapter 9: Part 1 on Lunatic with\na lance user on your team. All four allies must\nsurvive.
+MID_MISSION_S201805STORY01_A2: Clear 9-2 on Lunatic
+MID_MISSION_H_S201805STORY01_A2: Clear Book II, Chapter 9: Part 2 on Lunatic with\nan axe user on your team. All four allies must\nsurvive.
+MID_MISSION_S201805STORY01_A3: Clear 9-3 on Lunatic
+MID_MISSION_H_S201805STORY01_A3: Clear Book II, Chapter 9: Part 3 on Lunatic with\na sword user on your team. All four allies must\nsurvive.
+MID_MISSION_S201805STORY01_A4: Clear 9-4 on Lunatic
+MID_MISSION_H_S201805STORY01_A4: Clear Book II, Chapter 9: Part 4 on Lunatic with\na lance user on your team. All four allies must\nsurvive.
+MID_MISSION_S201805STORY01_A5: Clear 9-5 on Lunatic
+MID_MISSION_H_S201805STORY01_A5: Clear Book II, Chapter 9: Part 5 on Lunatic with\nan axe user on your team. All four allies must\nsurvive.
+MID_MISSION_S201805TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201805TAPBTL01_D01_A1: Defeat Elise
+MID_MISSION_H_S201805TAPBTL01_D01_A1: Defeat the boss Elise on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201805TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201805TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201805TAPBTL01_D02_A1: Defeat Elise
+MID_MISSION_H_S201805TAPBTL01_D02_A1: Defeat the boss Elise on Floors 16-20 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201805TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201805TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201805TAPBTL01_D03_A1: Defeat Mae
+MID_MISSION_H_S201805TAPBTL01_D03_A1: Defeat the boss Mae on Floors 36-40 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201805TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201805TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201805TAPBTL01_D04_A1: Defeat Mae
+MID_MISSION_H_S201805TAPBTL01_D04_A1: Defeat the boss Mae on Floors 36-40 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201805TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201805TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201805TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201805TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201805TAPBTL02_A1: Defeat Boss
+MID_MISSION_H_S201805TAPBTL02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201805TAPBTL02_A2: Defeat Boss
+MID_MISSION_H_S201805TAPBTL02_A2: Defeat a boss in Tap Battle.
+MID_MISSION_S201805TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201805TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201805TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201805TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MPID_ユルグ: Ylgr
+MPID_ヘルビンディ: Helbindi
+MEID_ヘルビンディ: Helbindi
+MEID_HONOR_ヘルビンディ: Savage Scourge
+MEID_H_ヘルビンディ: Rough and tumble general of Múspell, the\nKingdom of Flame. Came from nothing and\nrose through the ranks thanks to his talent\nin battle.
+MEID_VOICE_ヘルビンディ: Raymond K. Essel
+MEID_ILLUST_ヘルビンディ: Maeshima Shigeki (前嶋重機)
+MPID_アレス: Ares
+MPID_イシュタル: Ishtar
+MPID_リーン: Lene
+MPID_ユリウス: Julius
+MPID_HONOR_アレス: Black Knight
+MPID_HONOR_イシュタル: Thunder Goddess
+MPID_HONOR_リーン: Yearning Dancer
+MPID_HONOR_ユリウス: Scion of Darkness
+MPID_H_アレス: Eldigan's son and heir to Mystletainn. After\nhis parents passed away, he joined up with\na mercenary captain called Javarro. Appears\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_イシュタル: The heir to Mjölnir, she carries the blood of the\nroyal family of Friege. The descent of her love,\nJulius, into the darkness troubles her. Appears\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_リーン: A dancer and descendant of the high priest\nBragi. She understands how the world works,\nbut she doesn't let it get her down. Appears in\nFire Emblem: Genealogy of the Holy War.
+MPID_H_ユリウス: Prince of the Grannvale Empire. Was once a\nkind boy but suddenly came to have a cruel\nnature. Appears in Fire Emblem: Genealogy\nof the Holy War.
+MPID_VOICE_アレス: Robbie Daymond
+MPID_VOICE_イシュタル: Ratana
+MPID_VOICE_リーン: Faye Mata
+MPID_VOICE_ユリウス: Griffin Burns
+MPID_ILLUST_アレス: PenekoR (п猫Ｒ)
+MPID_ILLUST_イシュタル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_リーン: Yoshiku (四々九)
+MPID_ILLUST_ユリウス: sachie (茶ちえ)
+MSID_ロムファイア: Rhomphaia
+MSID_カミラの艶斧: Camilla's Axe
+MSID_第10迷宮の覇者1: Squad Ace J 1
+MSID_第10迷宮の覇者2: Squad Ace J 2
+MSID_第10迷宮の覇者3: Squad Ace J 3
+MSID_魔剣ミストルティン: Dark Mystletainn
+MSID_守りの剣: Safeguard
+MSID_守りの剣＋: Safeguard+
+MSID_ビューレイスト: Býleistr
+MSID_ロプトウス: Loptous
+MSID_トールハンマー: Mjölnir
+MSID_守備魔防封じ1: Seal Def/Res 1
+MSID_守備魔防封じ2: Seal Def/Res 2
+MSID_業火疾風の舞い1: Firestorm Dance 1
+MSID_業火疾風の舞い2: Firestorm Dance 2
+MSID_攻撃の波・奇数1: Odd Atk Wave 1
+MSID_攻撃の波・奇数2: Odd Atk Wave 2
+MSID_攻撃の波・奇数3: Odd Atk Wave 3
+MSID_H_ロムファイア: Effective against armored and cavalry foes.
+MSID_H_カミラの艶斧: If unit is within 2 spaces of a cavalry or flying\nally, grants Atk/Spd+4 during combat.
+MSID_H_夜刀神改: Grants Atk/Spd/Def/Res+2.
+MSID_H_大紋章R騎飛刃3: Grants Atk/Spd+3 to cavalry and flying allies\nwithin 2 spaces during combat.
+MSID_H_不思議な魅力R4: If unit is within 2 spaces of support partner,\ngrants Atk/Spd/Def/Res+4 to that ally during\ncombat.
+MSID_H_第10迷宮の覇者1: Grants Atk+1.
+MSID_H_第10迷宮の覇者2: Grants Atk+2.
+MSID_H_第10迷宮の覇者3: Grants Atk+3.
+MSID_H_魔剣ミストルティン: Accelerates Special trigger (cooldown\ncount-1). If Special triggers before or during\ncombat, grants Special cooldown count-2\nafter combat.
+MSID_H_守りの剣: If foe initiates combat, grants Def+7 during\ncombat.
+MSID_H_守りの剣＋: If foe initiates combat, grants Def+7 during\ncombat.
+MSID_H_ビューレイスト: At start of odd-numbered turns, grants\nAtk/Spd/Def/Res+4 to unit and adjacent\nallies for 1 turn. (Bonus granted to unit\neven if no allies are adjacent.)
+MSID_H_ロプトウス: Grants Res+3. Skills with "effective against\ndragons" are effective against unit. If foe has\nno skills with "effective against dragons,"\ninflicts Atk-6 on foe during combat.
+MSID_H_トールハンマー: Accelerates Special trigger (cooldown\ncount-1). If unit initiates combat, grants\nSpd+6 during combat.
+MSID_H_守備魔防封じ1: Inflicts Def/Res-3 on foe through its next\naction after combat.
+MSID_H_守備魔防封じ2: Inflicts Def/Res-5 on foe through its next\naction after combat.
+MSID_H_業火疾風の舞い1: If Sing or Dance is used, grants Atk/Spd+2\nto target.
+MSID_H_業火疾風の舞い2: If Sing or Dance is used, grants Atk/Spd+3\nto target.
+MSID_H_攻撃の波・奇数1: At start of odd-numbered turns, grants Atk+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_攻撃の波・奇数2: At start of odd-numbered turns, grants Atk+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_攻撃の波・奇数3: At start of odd-numbered turns, grants Atk+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MID_CHAPTER_TITLE_C0209: Book II, Chapter 9
+MID_CHAPTER_C0209: Hellfire
+MID_STAGE_TITLE_S2091: Chapter 9: Part 1
+MID_STAGE_TITLE_S2092: Chapter 9: Part 2
+MID_STAGE_TITLE_S2093: Chapter 9: Part 3
+MID_STAGE_TITLE_S2094: Chapter 9: Part 4
+MID_STAGE_TITLE_S2095: Chapter 9: Part 5
+MID_STAGE_S2091: The Infernal Jailer
+MID_STAGE_S2092: The Demon Sword
+MID_STAGE_S2093: The Goddess of Thunder
+MID_STAGE_S2094: Dancer of Flames
+MID_STAGE_S2095: Into the Blaze
+MID_STAGE_TITLE_SB_0010: 10th Assault
+MID_STAGE_HONOR_T0031: Scion of Darkness
+MID_STAGE_T0031: Julius
+MID_STAGE_HONOR_Q0010: Weekly
+MID_STAGE_Q0010: Rival Domains
+MID_STAGE_HONOR_Q0011: Weekly
+MID_STAGE_Q0011: Rival Domains
+MID_STAGE_HONOR_Q0012: Weekly
+MID_STAGE_Q0012: Rival Domains
+MID_STAGE_HONOR_Q0013: Weekly
+MID_STAGE_Q0013: Rival Domains
+MID_STAGE_TITLE_BG_WATER_0008: Water 8
+MID_STAGE_BG_WATER_0008: Bridge
+MID_STAGE_TITLE_BG_WIND_0007: Wind 7
+MID_STAGE_BG_WIND_0007: Colonnade
+MID_STAGE_TITLE_BG_EARTH_0007: Earth 7
+MID_STAGE_BG_EARTH_0007: Colonnade
+MID_STAGE_TITLE_BG_FIRE_0007: Fire 7
+MID_STAGE_BG_FIRE_0007: Colonnade
+MID_TAP_BATTLE_DATA_TITLE_0004: Sanctuary of the Mages
+MID_MUSIC_NAME_BGM_MAP_FE15_02: With Mila's Divine Protection
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: Attack!
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: The Path Is Yours to Climb

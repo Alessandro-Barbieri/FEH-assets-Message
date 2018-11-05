@@ -1,0 +1,38 @@
+[Heroes Archive] (OBORO)
+
+
+Heroes Message Name: Message
+
+
+MID_OBORO_HOME1: Heureusement que vous portez\ndu blanc, les vêtements sombres\nme rendent... furieuse.$k$pSi un jour vous me voyez grimacer,\nvous saurez pourquoi.
+MID_OBORO_HOME2: Je suis la vassale de Messire Takumi.\nJe ne connais pas d'homme plus fort,\nbeau et noble que lui...
+MID_OBORO_HOME3: On m'a dit que vous n'étiez pas\n$Géquipé,équipée| pour le combat. Mais ne vous\nen faites pas, je vous protégerai !
+MID_OBORO_HOME4: Je me demande bien ce qui est à la\nmode, par ici. Ça vous dirait qu'on\nfasse les boutiques ensemble ?
+MID_OBORO_HOME5: Je parie que vous n'avez pas de\ntenue de rechange, vous non plus.\nJe vais vous coudre quelque chose.
+MID_OBORO_FRIEND: $Nf vous\nsalue. Quant à moi, je dois\ndire que j'aime votre style !
+MID_OBORO_LEVEL1: Voilà qui va faire la différence !
+MID_OBORO_LEVEL2: Chaque chose en son temps !
+MID_OBORO_LEVEL3: Pardonnez-moi, ça manquait un peu\nd'élégance...
+MID_OBORO_SKILL: Il va me falloir une nouvelle tenue\npour fêter ça !
+MID_OBORO_JOIN: Je m'appelle Oboro. Je manie\nla lance et l'aiguille à coudre\navec la même dextérité !
+MID_OBORO_STRONGEST: Tiens, $Nu.\nQuelque chose ne va pas ?$k$pDites-moi tout. J'espère que vous\nn'avez pas déchiré vos vêtements !\nOu renversé de la soupe dessus !$k$pJe plaisante, bien sûr ! Je ne pense\npas que vous venez uniquement me\nvoir pour que je reprise votre tenue.$k$pCela dit, j'avoue que j'aime quand\nvotre uniforme est tout beau, tout\npropre. Il vous va si bien !$k$pC'est encore mieux quand il n'est pas\ntaché de sang, parce que ça veut dire\nque vous n'êtes pas $Gblessé,blessée| !$k$pOn peut toujours remplacer des\nvêtements, mais vous, vous êtes\nunique ! Et terriblement $Gprécieux,précieuse|...$k$pVous pouvez compter sur moi pour\nprendre soin de vous... et de votre\nuniforme, bien sûr !
+MID_OBORO_VOICE01: どう？
+MID_OBORO_VOICE02: せいやぁ！
+MID_OBORO_VOICE03: ひゃっ！
+MID_OBORO_VOICE04: My clothes!
+MID_OBORO_VOICE05: Oh, assez !
+MID_OBORO_VOICE06: Ça va piquer !
+MID_OBORO_VOICE07: Il est temps d'en découdre !
+MID_OBORO_VOICE08: Me voilà !
+MID_OBORO_VOICE09: What...?
+MID_OBORO_VOICE10: Haha
+MID_OBORO_VOICE11: Oh, did you need something?
+MID_OBORO_VOICE12: The clothing you and your friends wear here is very stylish. Impressed!
+MID_OBORO_VOICE13: I love to make clothing when I'm off duty. So, I'd kill for some good fabric. Have any?
+MID_OBORO_VOICE14: You would not believe the scary face I make when I get really, really angry!
+MID_OBORO_VOICE15: I'm particular about my clothes. But when it's time to fight...? I get dressed in a flash!
+MID_OBORO_VOICE16: Oh, Lord Takumi... Where are you? I should be with you!
+MID_OBORO_VOICE17: I like to keep my stitching abilities in top shape. So I'll mend everyone's clothing after battle!
+MID_OBORO_VOICE18: OK.
+MID_OBORO_VOICE19: Ready.
+MID_OBORO_VOICE20: Do my best.

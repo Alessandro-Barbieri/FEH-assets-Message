@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: 水之祝福
+MID_MISSION_S201802BLESS01_A1: 以水之祝福的我方擊敗
+MID_MISSION_H_S201802BLESS01_A1: 以被賦予水之祝福的英雄擊敗敵人。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A2: 特殊:以水之祝福的我方擊敗
+MID_MISSION_H_S201802BLESS01_A2: 以被賦予水之祝福的英雄，\n擊敗等級20以上的敵人。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A3: 特殊:以水之祝福的我方擊敗
+MID_MISSION_H_S201802BLESS01_A3: 以被賦予水之祝福的英雄，\n擊敗等級35以上的赤屬性敵人。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A4: 特殊:以水之祝福的我方擊敗
+MID_MISSION_H_S201802BLESS01_A4: 以被賦予水之祝福的英雄，\n擊敗等級35以上的青屬性敵人。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A5: 特殊:以水之祝福的我方擊敗
+MID_MISSION_H_S201802BLESS01_A5: 以被賦予水之祝福的英雄，\n擊敗等級35以上的綠屬性敵人。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A6: 特殊:突破修練之塔・第1層
+MID_MISSION_H_S201802BLESS01_A6: 我軍內有被賦予水之祝福的英雄，\n過關修練之塔・第1層。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A7: 特殊:突破修練之塔・第5層
+MID_MISSION_H_S201802BLESS01_A7: 我軍內有被賦予水之祝福的英雄，\n過關修練之塔・第5層。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802BLESS01_A8: 特殊:突破修練之塔・第10層
+MID_MISSION_H_S201802BLESS01_A8: 我軍內有被賦予水之祝福的英雄，\n過關修練之塔・第10層。\n(水的傳承英雄與被賦予水之祝福的英雄不同)
+MID_MISSION_S201802STORY02_TITLE: 如血般飄零之雪
+MID_MISSION_S201802STORY02_A1: 特殊:突破第5章-第1節(超難)
+MID_MISSION_H_S201802STORY02_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第5章-第1節(超難)。
+MID_MISSION_S201802STORY02_A2: 特殊:突破第5章-第2節(超難)
+MID_MISSION_H_S201802STORY02_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第5章-第2節(超難)。
+MID_MISSION_S201802STORY02_A3: 特殊:突破第5章-第3節(超難)
+MID_MISSION_H_S201802STORY02_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第5章-第3節(超難)。
+MID_MISSION_S201802STORY02_A4: 特殊:突破第5章-第4節(超難)
+MID_MISSION_H_S201802STORY02_A4: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第5章-第4節(超難)。
+MID_MISSION_S201802STORY02_A5: 特殊:突破第5章-第5節(超難)
+MID_MISSION_H_S201802STORY02_A5: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第5章-第5節(超難)。
+MEID_レーギャルン: 瑞瓦伽倫
+MPID_レーギャルン: 瑞瓦伽倫
+MEID_HONOR_レーギャルン: 炎劍之鞘
+MEID_H_レーギャルン: 炎之王國穆斯貝爾的第一公主。瑞瓦提恩的姊姊。\n為人高風亮節，是率領穆斯貝爾軍的將軍。
+MEID_VOICE_レーギャルン: 田村ゆかり(Yukari Tamura)
+MEID_ILLUST_レーギャルン: 前嶋重機(Shigeki Maeshima)
+MPID_魔女セリカ: 賽莉卡
+MPID_HONOR_魔女セリカ: 被困的靈魂
+MPID_H_魔女セリカ: 將靈魂獻給邪神多瑪，化身為魔女的賽莉卡。\n過去的記憶偶有甦醒之時。\n（登場：『ファイアーエムブレム　Echoes』）
+MPID_VOICE_魔女セリカ: 東山奈央(Nao Toyama)
+MPID_ILLUST_魔女セリカ: 藤川祥(Akira Fujikawa)
+MPID_暗黒ハーディン: 哈汀
+MPID_HONOR_暗黒ハーディン: 暗黑皇帝
+MPID_H_暗黒ハーディン: 阿卡奈亞神聖帝國的皇帝。\n殺害了無數人類，是人們所懼怕的【暗黑皇帝】。\n（登場：『ファイアーエムブレム　紋章の謎』）
+MPID_VOICE_暗黒ハーディン: 中谷一博(Kazuhiro Nakaya)
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: 魯弗萊
+MPID_HONOR_邪竜ルフレ男: 邪龍現身
+MPID_H_邪竜ルフレ男: 伊里斯聖王國的軍師魯弗萊，\n其身心皆被邪龍津利支配的姿態。\n（登場：『ファイアーエムブレム　覚醒』）
+MPID_VOICE_邪竜ルフレ男: 細谷佳正(Yoshimasa Hosoya)
+MPID_ILLUST_邪竜ルフレ男: 大熊ゆうご(Okuma Yugo)
+MPID_眷属タクミ: 拓海
+MPID_HONOR_眷属タクミ: 水之眷屬
+MPID_H_眷属タクミ: 白夜王國的王子。魔弓【斯卡蒂】的使用者。\n懷抱著對祖國的懷念，化身為神祖龍的眷屬。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_VOICE_眷属タクミ: 梶裕貴(Yuki Kaji)
+MPID_ILLUST_眷属タクミ: 日野慎之助(Shinnosuke Hino)
+MSID_ニーウ: 尼烏
+MSID_宝剣ソフィア: 寶劍索菲亞
+MSID_スカディ: 斯卡蒂
+MSID_邪竜のブレス: 邪龍吐息
+MSID_守備魔防の大覚醒1: 防守魔防大覺醒１
+MSID_守備魔防の大覚醒2: 防守魔防大覺醒２
+MSID_守備魔防の大覚醒3: 防守魔防大覺醒３
+MSID_速さの封印1: 速度封殺１
+MSID_速さの封印2: 速度封殺２
+MSID_速さの封印3: 速度封殺３
+MSID_竜盾の紋章: 龍盾紋章
+MSID_H_ニーウ: 速度＋３\n戰鬥中，將敵人受到的強化狀態合計值５０％\n計入自己的攻擊、速度、防守及魔防
+MSID_H_宝剣ソフィア: 防守＋３\n若戰鬥開始時，自身ＨＰ為１００％，\n攻擊、速度、防守及魔防＋４\n以此狀態攻擊時，戰鬥後自己受到４傷害
+MSID_H_スカディ: 速度＋３　克制飛行\n第３回合開始時，位於自身縱向３列內的敵人，\n強化狀態由＋轉－（直到敵人下次行動結束）\n且給予敵人１０傷害
+MSID_H_邪竜のブレス: 受到敵人攻擊時，可無視距離進行反擊\n敵人攻擊射程為２格時，以其防守及魔防中較低方計算傷害
+MSID_H_守備魔防の大覚醒1: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的防守及魔防＋３
+MSID_H_守備魔防の大覚醒2: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的防守及魔防＋５
+MSID_H_守備魔防の大覚醒3: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的防守及魔防＋７
+MSID_H_速さの封印1: 回合開始時，\n敵軍內速度最快的敵人速度－３\n（直到敵人下次行動結束）
+MSID_H_速さの封印2: 回合開始時，\n敵軍內速度最快的敵人速度－５\n（直到敵人下次行動結束）
+MSID_H_速さの封印3: 回合開始時，\n敵軍內速度最快的敵人速度－７\n（直到敵人下次行動結束）
+MSID_H_竜盾の紋章: 周圍２格內的我方龍單位，\n戰鬥中的防守及魔防＋４
+MID_CHAPTER_TITLE_C0205: 第２部　第５章
+MID_CHAPTER_C0205: 如血般飄零之雪
+MID_STAGE_TITLE_S2051: 第５章—第１節
+MID_STAGE_TITLE_S2052: 第５章—第２節
+MID_STAGE_TITLE_S2053: 第５章—第３節
+MID_STAGE_TITLE_S2054: 第５章—第４節
+MID_STAGE_TITLE_S2055: 第５章—第５節
+MID_STAGE_S2051: 雪原的追跡者
+MID_STAGE_S2052: 灰空中飛舞的魔女
+MID_STAGE_S2053: 邪龍甦醒之時
+MID_STAGE_S2054: 暗黑皇帝
+MID_STAGE_S2055: 炎之狩獵者
+MID_STAGE_HONOR_T0026: 水之眷屬
+MID_STAGE_T0026: 拓海
+MID_STAGE_HONOR_V0181: 每日更換
+MID_STAGE_V0181: 其之２１
+MID_STAGE_HONOR_V0182: 每日更換
+MID_STAGE_V0182: 其之２２
+MID_STAGE_HONOR_V0183: 每日更換
+MID_STAGE_V0183: 其之２３
+MID_STAGE_HONOR_V0184: 每日更換
+MID_STAGE_V0184: 其之２４
+MID_STAGE_HONOR_V0185: 每日更換
+MID_STAGE_V0185: 其之２５

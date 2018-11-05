@@ -1,0 +1,8 @@
+[Heroes Archive] (L0002)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_伝承リン,ch03_00_Lin_F_Legend01,Face|$w0|Moi, une héroïne légendaire ? Je ne\npense pas mériter ce titre... Que\ndiriez-vous d'une bataille ?$k$p$Sbs1000|

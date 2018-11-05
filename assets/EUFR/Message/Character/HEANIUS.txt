@@ -1,0 +1,38 @@
+[Heroes Archive] (HEANIUS)
+
+
+Heroes Message Name: Message
+
+
+MID_HEANIUS_HOME1: Je dois l'admettre, accueillir les héros\nétrangers est un acte bienveillant.\nC'est également très naïf. $k$pFaites attention à ne pas créer\nd'ouverture pour les royaumes rivaux.\nIls pourraient en profiter.
+MID_HEANIUS_HOME2: Ce royaume est aussi beau que les\ncieux. Ça ne veut pas dire qu'il est\nplus beau que Frelia, bien sûr.$k$pQuand les pégases de Frelia se\nrassemblent dans la Forêt de Walles,\nc'est un spectacle d'une rare beauté.
+MID_HEANIUS_HOME3: Vous devez vous reposer. Nous ne\npouvons pas être vaincus, et vos\nstratégies n'ont pas le droit à l'échec.$k$pN'oubliez pas qu'il est de votre\nresponsabilité d'être toujours\napte au combat.
+MID_HEANIUS_HOME4: Votre réputation de $Gtacticien,tacticienne| vous\nprécède. J'ai moi-même quelques\nconnaissances sur le sujet.$k$pQue diriez-vous d'utiliser ces pièces\net ce plateau pour comparer nos\ncapacités ?
+MID_HEANIUS_HOME5: Oui, je lisais un livre d'histoire. En tant\nque membre de la royauté, je me dois\nd'être versé dans de nombreux sujets.
+MID_HEANIUS_FRIEND: Je suis le Prince Innes de Frelia.\n$Nf m'a demandé\nde vous transmettre un message.
+MID_HEANIUS_LEVEL1: Les personnalités royales se doivent\nd'être parfaites en tout temps.
+MID_HEANIUS_LEVEL2: Il n'y a rien que mes flèches\nne puissent percer.
+MID_HEANIUS_LEVEL3: C'est tout à fait inacceptable.\nJe me rattraperai la prochaine fois.
+MID_HEANIUS_SKILL: Les gens de noble naissance ne\nreculent jamais devant le devoir.\n
+MID_HEANIUS_JOIN: Je suis Innes, prince de Frelia.$k$pPuis-je me permettre de demander...\nY a-t-il un homme du nom\nd'Ephraim ici ?
+MID_HEANIUS_STRONGEST: Un jour, j'hériterai du trône de\nFrelia. Et une chose me préoccupe...\nUn roi se doit d'être parfait.$k$pC'est pour cette raison que je donne\nle maximum dans mes études et\nma précision à l'arc.$k$pPlus j'en apprends, plus je réalise\nl'ampleur et la quantité de savoir\nque je dois atteindre.$k$pJ'ai fini par réaliser à quel point mon\nobjectif de perfection est éloigné.$k$pPrenez ma sœur. En toute franchise,\nce n'est qu'une enfant. Il lui manque\nma force et mes connaissances.$k$pSon innocence me fait néanmoins\ndéfaut. Les gens lui font naturellement\nplus confiance qu'à moi.$k$pMais il m'est impossible de retrouver\ncette pureté d'esprit. J'en sais bien\ntrop sur les champs de bataille.$k$pIl me faut pourtant devenir un homme\nà qui les gens pourront faire confiance\nsans la moindre hésitation.$k$pC'est là ma lutte pour la perfection...\nEn tant que futur roi, je dois trouver\nun moyen d'y arriver.$k$pJe sais, cela peut être dur à\ncomprendre... Mais c'est là ma façon\nde vous prêter allégeance.$k$pJ'étudierai avec vous, combattrai\npour vous, pour devenir un jour\nle souverain idéal.
+MID_HEANIUS_VOICE01: はっ！
+MID_HEANIUS_VOICE02: ふん
+MID_HEANIUS_VOICE03: うああっ！
+MID_HEANIUS_VOICE04: 馬鹿な…！？
+MID_HEANIUS_VOICE05: Admirez mes capacités !
+MID_HEANIUS_VOICE06: Vous auriez dû m'écouter.
+MID_HEANIUS_VOICE07: Vous manquez d'entraînement.
+MID_HEANIUS_VOICE08: Merci pour cette opportunité.
+MID_HEANIUS_VOICE09: Je vais... continuer...
+MID_HEANIUS_VOICE10: Hmph
+MID_HEANIUS_VOICE11: I am no ordinary archer. I am Prince Innes of Frelia.
+MID_HEANIUS_VOICE12: Eh? That was...that was your attempt at greeting me? I see.
+MID_HEANIUS_VOICE13: As long as I am here, you will not be in danger. I shall see to that.
+MID_HEANIUS_VOICE14: You and I are not the same. You are a commoner. I am the heir to Frelia.
+MID_HEANIUS_VOICE15: We of noble birth do not shirk the duties to which we are born.
+MID_HEANIUS_VOICE16: There is one man I could never stand to lose to. Ephraim.
+MID_HEANIUS_VOICE17: One day, I will be crowned king. When that day comes, I will welcome you to my kingdom.
+MID_HEANIUS_VOICE18: I'll keep you safe.
+MID_HEANIUS_VOICE19: What next?
+MID_HEANIUS_VOICE20: Your plan?

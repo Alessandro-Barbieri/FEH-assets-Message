@@ -1,0 +1,38 @@
+[Heroes Archive] (KANNA_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KANNA_M_HOME1: Du bist $Gder Beste,die Beste|, $GBeschwörer,Beschwörerin|!\nDu kannst doch alle möglichen\nHelden herbeirufen, oder?$k$pKannst du mir einen Freund rufen,\nder mit mir spielt? Der sich in einen\nDrachen verwandeln kann wie ich?
+MID_KANNA_M_HOME2: Ich wohnte an einem Ort irgendwo\nim Geheimen Reich.$k$pIch konnte fast die ganze Zeit nicht\nkämpfen, aber jetzt habe ich ein\nSchwert. Und einen Drachenstein!
+MID_KANNA_M_HOME3: Schön, dass du vorbeikommst. Lass\nuns spielen, wenn du mit der Arbeit\nfertig bist. Ich hole noch die anderen!
+MID_KANNA_M_HOME4: Im nächsten Kampf solltest du mal\nauf meinen Rücken klettern, wenn\nich in Drachengestalt bin.$k$pIch weiß, du kommst normalerweise\nnicht mit aufs Schlachtfeld, aber so\nwären wir unbesiegbar!
+MID_KANNA_M_HOME5: Sag Mama nicht, dass ich mit\nmeinem Drachenstein\nAuffangen spiele.$k$pSiehst du? Er funkelt richtig schön,\nwenn ich ihn in die Luft werfe!
+MID_KANNA_M_FRIEND: Oh, he! Du bist es wirklich,\n$Nu!$k$pIch bin gekommen, um von\n$Nf Hallo zu\nsagen!
+MID_KANNA_M_LEVEL1: Ob ich wohl jemals so\ngut werde wie Mama?
+MID_KANNA_M_LEVEL2: Schau mal! War das richtig so?
+MID_KANNA_M_LEVEL3: Ich werde mich mehr\nanstrengen. Versprochen.
+MID_KANNA_M_SKILL: Danke dafür. Du bist echt nett,\ngenau wie meine Mama.
+MID_KANNA_M_JOIN: Hallo. Schön, dich kennenzulernen.\nIch bin Kana. Meine Mama ist Corrin\nund ich habe auch Drachenkräfte!
+MID_KANNA_M_STRONGEST: Mama! Guck mal, was ich--\nOh, du bist ja gar nicht meine Mama,\nsondern $Nu!$k$pSo ein lustiger Irrtum! Warum ich dich\nwohl für meine Mama gehalten\nhabe? Du siehst ihr gar nicht ähnlich.$k$pWahrscheinlich, weil ich dich\ngenauso lieb habe wie sie! Wusstest\ndu das schon? Es stimmt wirklich!$k$pDu willst immer mit mir spielen und\nzeigst mir, was ich im Kampf\nmachen soll.$k$pIch übe die ganze Zeit, um noch\nbesser kämpfen zu können. Hast\ndu das gemerkt?$k$pHast du gesehen, wie stark ich\nschon bin?$k$pGuck genau hin - mit meinen\nDrachenkräften kann ich dich\nfür immer beschützen!
+MID_KANNA_M_VOICE01: えいっ！
+MID_KANNA_M_VOICE02: でえいっ！
+MID_KANNA_M_VOICE03: わあっ！
+MID_KANNA_M_VOICE04: Ow ow ow!!
+MID_KANNA_M_VOICE05: Wir geben nicht auf!
+MID_KANNA_M_VOICE06: Du hältst mich nicht auf!
+MID_KANNA_M_VOICE07: Ich beschütze alle!
+MID_KANNA_M_VOICE08: Genau wie Mama!
+MID_KANNA_M_VOICE09: Mama...
+MID_KANNA_M_VOICE10: Heehee
+MID_KANNA_M_VOICE11: Thanks for coming to play with me!
+MID_KANNA_M_VOICE12: I'm really good at using my dragon powers. I'll show you soon!
+MID_KANNA_M_VOICE13: This whole place is kinda weird, isn't it?
+MID_KANNA_M_VOICE14: My Mama is really strong. I wanna be just like her.
+MID_KANNA_M_VOICE15: You have one of those div...divine weapons? Oh, neat!
+MID_KANNA_M_VOICE16: I wonder where Mama is... Wait, she hasn't gotten lost, has she?
+MID_KANNA_M_VOICE17: You just watch. I'm going to grow into the strongest one around here. And then I'll keep you safe!
+MID_KANNA_M_VOICE18: OK!
+MID_KANNA_M_VOICE19: Do my best!
+MID_KANNA_M_VOICE20: Hi!

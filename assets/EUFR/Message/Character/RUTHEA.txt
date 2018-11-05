@@ -1,0 +1,38 @@
+[Heroes Archive] (RUTHEA)
+
+
+Heroes Message Name: Message
+
+
+MID_RUTHEA_HOME1: Ce royaume est béni de mille grâces !\nRares sont ceux qui doivent souffrir\nen son sein.
+MID_RUTHEA_HOME2: Si quelqu'un vous interroge à ce sujet,\nn'hésitez pas à bien préciser que je\nsuis bel et bien un homme.$k$pBien que la question soit déplacée,\nelle m'a tant suivie que je préfère\ndésormais prendre les devants.
+MID_RUTHEA_HOME3: Je me suis mis au service de Lord\nRaym... de Raven. Je n'ai jamais\ncessé de m'inquiéter pour lui.
+MID_RUTHEA_HOME4: Mon bâton me sert à soigner mais je\npeux aussi frapper avec. Seulement\nen cas d'absolue nécessité, bien sûr.
+MID_RUTHEA_HOME5: J-Je vais bien... N-Ne vous...\nen faites pas...$k$pAh... ça va mieux. J'ai parfois des\ncrises, mais elles sont toujours\npassagères.
+MID_RUTHEA_FRIEND: $Nu ?\n$Nf vous\ntransmet ses salutations.
+MID_RUTHEA_LEVEL1: Je ne me sens pas digne de ceci.
+MID_RUTHEA_LEVEL2: J'ai bien progressé, je ferai en sorte\nque cela profite aux autres.
+MID_RUTHEA_LEVEL3: Excusez-moi... Ce n'est qu'une\nfaiblesse passagère...
+MID_RUTHEA_SKILL: J'espère avoir grandi à la fois de\ncorps et d'esprit.
+MID_RUTHEA_JOIN: Je m'appelle Lucius et je peux soigner\nvos blessés, je vous prie donc de me\nmener au plus vite jusqu'à eux.
+MID_RUTHEA_STRONGEST: Vous avez gagné ma confiance,\nje vais donc vous raconter mon\nhistoire.$k$pEnfant, j'ai vécu dans un orphelinat où\nj'ai terriblement souffert.$k$pJe souffre également de ce que l'on\nappelle une « maladie de l'âme »,\nfaute de meilleur terme pour la définir.$k$pAujourd'hui encore, quand je repense\nà mon enfance... à cet orphelinat...\nje suis sujet à des crises.$k$pPardonnez-moi de ne pas vous avoir\nrévélé ceci plus tôt mais c'est un sujet\ndélicat à aborder.$k$pJe craignais de perdre votre respect\nou pire encore, de vous inspirer du\ndégoût.$k$pJe sais que je ne devrais pas donner\ntant d'importance à ce que les gens\npensent, mais avec vous...$k$pQuoi qu'il en soit, peu importe votre\nopinion de moi désormais, sachez que\nma loyauté vous est acquise.
+MID_RUTHEA_VOICE01: はっ！
+MID_RUTHEA_VOICE02: えいっ！
+MID_RUTHEA_VOICE03: うああっ！
+MID_RUTHEA_VOICE04: No...
+MID_RUTHEA_VOICE05: Je me sens... sale !
+MID_RUTHEA_VOICE06: Oh... quelle douleur !
+MID_RUTHEA_VOICE07: Que ma foi me guide !
+MID_RUTHEA_VOICE08: Mes mains... tachées !
+MID_RUTHEA_VOICE09: Into the light...!
+MID_RUTHEA_VOICE10: Heehee
+MID_RUTHEA_VOICE11: Bannissons les ténèbres.
+MID_RUTHEA_VOICE12: Soyez en paix.
+MID_RUTHEA_VOICE13: Hmm. What is troubling you?
+MID_RUTHEA_VOICE14: You may hear it questioned whether I am a man. I say the question...is a wrong one.
+MID_RUTHEA_VOICE15: Those who mock the way others look cause great suffering in the world. I have suffered...considerably.
+MID_RUTHEA_VOICE16: I hope always for my soul to soar. But sometimes I am weak. For that, I am sorry.
+MID_RUTHEA_VOICE17: If ever your mind is troubled, please speak with me.
+MID_RUTHEA_VOICE18: Yes?
+MID_RUTHEA_VOICE19: Of course.
+MID_RUTHEA_VOICE20: Shall we?

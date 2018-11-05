@@ -1,0 +1,38 @@
+[Heroes Archive] (JORJUE)
+
+
+Heroes Message Name: Message
+
+
+MID_JORJUE_HOME1: Percibo la nobleza en tu reino, lo que\nme devuelve la fe en mi propia patria,\na pesar de sus intrigas palaciegas...
+MID_JORJUE_HOME2: Sé que corren rumores sobre mi\ndestreza con el arco... Pero parte de\nlo que se dice es pura exageración.
+MID_JORJUE_HOME3: Siempre que te necesito estás\na mi lado, $Nu.\nNunca te lo agradeceré lo suficiente.
+MID_JORJUE_HOME4: Provengo de una familia noble cuyo\núnico talento reside en su facilidad\npara fabricar intrigas. Son escoria.
+MID_JORJUE_HOME5: Para tener buena puntería hace falta\nun pulso firme que no tiemble ante la\nadversidad. ¿Qué tal es el tuyo?
+MID_JORJUE_FRIEND: Es un placer para mí saludarte de\nparte de $Nf.
+MID_JORJUE_LEVEL1: Esto supera con creces\ntodas mis expectativas.
+MID_JORJUE_LEVEL2: Hum, no está mal...
+MID_JORJUE_LEVEL3: Vaya, qué mala suerte...
+MID_JORJUE_SKILL: ¡Trataré de no decepcionarte!
+MID_JORJUE_JOIN: Soy Jeorge, arquero akaneo.\nNo tengo mucho que ofrecerte,\npero estoy a tu servicio.
+MID_JORJUE_STRONGEST: ¿Dices que has oído historias sobre\nmí? Me extraña, aunque no he tratado\nde mantener mi vida en secreto.$k$pNo tiene sentido tratar de acallar los\nrumores. Haga lo que haga uno, se\npropagan como el fuego.$k$pAdemás, en este lugar se respira\ntanta camaradería que no me\nimporta ser como un libro abierto.$k$pCreo que es precisamente esa\nconfianza lo que saca lo mejor\nde nosotros mismos.$k$pAsí que gracias por haberme traído.\nSeguiré a tu lado mientras\nno te canses de mí.
+MID_JORJUE_VOICE01: はっ！
+MID_JORJUE_VOICE02: ふっ！
+MID_JORJUE_VOICE03: うああっ！
+MID_JORJUE_VOICE04: I misread you...
+MID_JORJUE_VOICE05: Me temo que no voy a fallar...
+MID_JORJUE_VOICE06: Lo siento por ti.
+MID_JORJUE_VOICE07: Será rápido e indoloro.
+MID_JORJUE_VOICE08: Mi pulso es firme.
+MID_JORJUE_VOICE09: Off...target.
+MID_JORJUE_VOICE10: Heh...
+MID_JORJUE_VOICE11: Curious about me? What would you like to know?
+MID_JORJUE_VOICE12: I wasn't expecting you to just walk up and start chatting with me.
+MID_JORJUE_VOICE13: The only thing noble about me is my much-vaunted lineage.
+MID_JORJUE_VOICE14: I am supposedly the best archer on the continent.
+MID_JORJUE_VOICE15: I can't seem to get a read on you.
+MID_JORJUE_VOICE16: Are you just being calculating? Or am I?
+MID_JORJUE_VOICE17: If I said I'd taken an interest in you...would you believe me?
+MID_JORJUE_VOICE18: All right.
+MID_JORJUE_VOICE19: What's next?
+MID_JORJUE_VOICE20: Of course.

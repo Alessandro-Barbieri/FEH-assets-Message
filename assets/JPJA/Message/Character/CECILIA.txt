@@ -1,0 +1,38 @@
+[Heroes Archive] (CECILIA)
+
+
+Heroes Message Name: Message
+
+
+MID_CECILIA_HOME1: アンナ隊長は、優秀な教師のようね。\n私の教え方と同じではないけれど、\n彼女とは話が合いそうだわ。
+MID_CECILIA_HOME2: 私はロイとリリーナの\n教師を務めていたこともあるの。\nふふっ、二人とも可愛い生徒だったわ。
+MID_CECILIA_HOME3: いつもお疲れ様。\n一軍を指揮する立場はとても大変ね。\n良かったら、ご一緒に紅茶でもいかが？
+MID_CECILIA_HOME4: あなたはこの軍を指揮する立場。\nあなたと親しくなれるのは嬉しいけど、\n戦場では冷徹に命令を下せるようにしてね。
+MID_CECILIA_HOME5: 私はロイの戦術の教師だったけど…\nあなたに対しては生徒になりたいわ。\nあなたの戦術、詳しく教えてくれるかしら？
+MID_CECILIA_FRIEND: ごきげんよう。\nあなたが$Nuさんね。\n私はセシリア、ご挨拶に来ました。
+MID_CECILIA_LEVEL1: ふふっ、まだこんなに\n成長できるなんて。
+MID_CECILIA_LEVEL2: 成長するのは嬉しいものね。\n歳を取るのは嬉しくないけど…
+MID_CECILIA_LEVEL3: 魔道軍将の称号を\n返上しないといけないかしら…
+MID_CECILIA_SKILL: あら、私で本当に良いの？\nあなたの期待には応えないとね。
+MID_CECILIA_JOIN: 私はセシリア。\nエトルリアの【魔道軍将】です。\nあなたがこの軍の指揮官かしら？
+MID_CECILIA_STRONGEST: 最初あなたと出会った時はね、\nロイやリリーナのように\n色々と教えてあげるつもりだったの。$k$pでも…あなたは驚くほどの成長で、\nあっと言う間に私を追い越してしまった…\nふふっ、なんだか寂しいわね。$k$pまだまだ私が必要…？\nふふっ、そう言ってくれると\n少しホッとしちゃうわ。$k$pそうね、まだ私が教えて\nあげられることもありそうだし…ね。\nこれからもよろしくね。ふふっ。
+MID_CECILIA_VOICE01: はっ！
+MID_CECILIA_VOICE02: はぁっ！
+MID_CECILIA_VOICE03: きゃああっ！
+MID_CECILIA_VOICE04: 油断したわね…
+MID_CECILIA_VOICE05: 今なら…
+MID_CECILIA_VOICE06: 甘く見たわね
+MID_CECILIA_VOICE07: 近づけば死にます
+MID_CECILIA_VOICE08: 好機！
+MID_CECILIA_VOICE09: …未来に…光を…
+MID_CECILIA_VOICE10: ふふっ
+MID_CECILIA_VOICE11: ごきげんよう、指揮官殿
+MID_CECILIA_VOICE12: ふふっ、おふざけはいけませんわ
+MID_CECILIA_VOICE13: あなたには天賦（てんぷ）の才を感じるわ
+MID_CECILIA_VOICE14: 戦術について語り合いましょうか
+MID_CECILIA_VOICE15: 知りたいことがあれば、おっしゃって
+MID_CECILIA_VOICE16: 役割にふさわしい私にならないと…
+MID_CECILIA_VOICE17: あなたからは、学ぶことがたくさんありそうね
+MID_CECILIA_VOICE18: ええ
+MID_CECILIA_VOICE19: どう動けばいいかしら？
+MID_CECILIA_VOICE20: ご命令を

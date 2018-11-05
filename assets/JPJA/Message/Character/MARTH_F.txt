@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_F)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_F_HOME1: この国は、イーリスではないのですか…\nではナーガ様は転移の時に手違いを…？\nあ…い、いや、今のはなんでもない。
+MID_MARTH_F_HOME2: 僕のいた世界では戦乱が起きていて、\n生き残った兵たちで必死に戦っていた。\nそんな絶望の未来を変えるために、僕は…
+MID_MARTH_F_HOME3: 兵の無事を確かめているんだね。\nその気持ちはわかるよ…\n一人ひとり欠けていくのを見る辛さも。
+MID_MARTH_F_HOME4: アルフォンス王子は剣の腕が立つようだね。\nいつか一戦交えてみたいな…\nえ、頼んで来てくれるって？　ありがとう。
+MID_MARTH_F_HOME5: …故郷と、仲間のことを考えていたよ。\n僕がここに来た意味はまだわからないが、\nいつか君に全て話せる時が来ればいい…
+MID_MARTH_F_FRIEND: $Nuだね？\n$Nfから君に、\nあいさつが届いているよ。
+MID_MARTH_F_LEVEL1: この調子で、\n父のように強く…！
+MID_MARTH_F_LEVEL2: 良かった。\n腕が上がったようだよ。
+MID_MARTH_F_LEVEL3: す、すまない…！
+MID_MARTH_F_SKILL: この力は無駄にはしないよ。\nどうか見守っていてくれ。
+MID_MARTH_F_JOIN: 僕の名はマルスだ。\n今はそれ以上を語ることはできない。\n必要ならば、手を貸そう…
+MID_MARTH_F_STRONGEST: 君に召喚されてから、もう随分経ったね…\n本来、僕はここにいるべきでない存在だ。\n英雄と呼ばれるにもきっと値しないだろう。$k$p…けれど、君には感謝している。\n君は僕をこんなに強くしてくれた。\nこの力があれば使命も果たせるはずだ。$k$p$Nu。\n僕はいつか、行かなくてはいけない…\n懐かしいあの国。皆で目指した約束の地に。$k$pそして必ず、運命を変えてみせる。\nその時こそ僕の…いや、\n私の本当の言葉で、あなたと話せるでしょう。$k$p私は他の英雄と違って、\n心を全て許すことはできませんが…\n時が満ちるまで、この剣はあなたのために。
+MID_MARTH_F_VOICE01: はっ！
+MID_MARTH_F_VOICE02: せやあっ！
+MID_MARTH_F_VOICE03: ぐっ…！
+MID_MARTH_F_VOICE04: しまった…！
+MID_MARTH_F_VOICE05: 運命を変える！
+MID_MARTH_F_VOICE06: 本気でいくぞ！
+MID_MARTH_F_VOICE07: これで終わりだ！
+MID_MARTH_F_VOICE08: 僕は負けない！
+MID_MARTH_F_VOICE09: つ、強い…っ
+MID_MARTH_F_VOICE10: ふっ…
+MID_MARTH_F_VOICE11: 探している人がいるんだ
+MID_MARTH_F_VOICE12: 腕には自信がある…試してみるかい？
+MID_MARTH_F_VOICE13: すまない、仮面を外すことはできないんだ
+MID_MARTH_F_VOICE14: 僕の剣や技は、幼い頃…父から習ったんだ
+MID_MARTH_F_VOICE15: 飛んでくる場所を間違えてしまったのでしょうか…
+MID_MARTH_F_VOICE16: お父様や皆はどこにいるんでしょう…
+MID_MARTH_F_VOICE17: 僕にはこれから果たすべき使命があるんだ。\nでも今は…君に手を貸そう。
+MID_MARTH_F_VOICE18: ああ
+MID_MARTH_F_VOICE19: ふむ…
+MID_MARTH_F_VOICE20: どうする？

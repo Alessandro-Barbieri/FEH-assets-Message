@@ -1,0 +1,38 @@
+[Heroes Archive] (ISHTAR)
+
+
+Heroes Message Name: Message
+
+
+MID_ISHTAR_HOME1: Prinz Alfonse ist so vernünftig, so\nzuvorkommend... Er erinnert mich\nan... ach, vergesst es.$k$pIch möchte Euch nicht langweilen.
+MID_ISHTAR_HOME2: Das Imperium ruht auf Pfeilern der\nUnterdrückung.$k$pIch wusste es, und kämpfte dennoch\ngegen die Befreiungsarmee.
+MID_ISHTAR_HOME3: Euer Gewand ist ganz zerzaust! Als\n$GAnführer,Anführerin| solltet Ihr auch wie $Geiner,eine|\naussehen.
+MID_ISHTAR_HOME4: Ihr seid ganz verspannt. Wenn Ihr\nEuch nicht ausruht, werdet Ihr im\nwichtigsten Moment versagen.$k$pWarum legt Ihr nicht eine kleine\nPause ein?
+MID_ISHTAR_HOME5: Mylord Julius... Vergebt mir... Ich...
+MID_ISHTAR_FRIEND: Ich bin Ishtar. Ich hoffe, Ihr führt\nEure herzliche Freundschaft mit\n$Nf fort.
+MID_ISHTAR_LEVEL1: Ich bin Ishtar die Donnergöttin.\nSeht, wozu ich fähig bin!
+MID_ISHTAR_LEVEL2: Stück für Stück werde ich stärker...
+MID_ISHTAR_LEVEL3: Vergebt mir meine Inkompetenz.\nDafür gibt es keine Ausflüchte.
+MID_ISHTAR_SKILL: Danke. Ich gebe mein Bestes,\nIhr werdet sehen.
+MID_ISHTAR_JOIN: Ich bin Ishtar von Friege. Mein\nWissen über die Magie wird\nEuch dienlich sein.
+MID_ISHTAR_STRONGEST: Sagt, $Nu...\nHegt Ihr für jemanden Gefühle?$k$pOb diese Person Eure Gefühle\nerwidert oder nicht...$k$pIch weiß, die Frage kommt plötzlich.\nAber ich muss etwas verstehen...$k$pVor nicht allzu langer Zeit kämpfte\nich für jemanden, den ich liebte.$k$pIch kämpfte als Kriegerin und als\nFrau. Obwohl ich wusste, dass es\nder falsche Weg war.$k$pEs mag ein Tag kommen, an dem\nIhr ebenfalls Euren Weg wählen\nmüsst...$k$pVersprecht mir eines. Wenn die\nZeit kommt, trefft eine Wahl, die Ihr\nnicht bereuen werdet.
+MID_ISHTAR_VOICE01: はぁっ！
+MID_ISHTAR_VOICE02: せいっ！
+MID_ISHTAR_VOICE03: きゃああっ！
+MID_ISHTAR_VOICE04: Wh..what...!
+MID_ISHTAR_VOICE05: Es tut mir leid.
+MID_ISHTAR_VOICE06: Es ist alles gesagt.
+MID_ISHTAR_VOICE07: Ihr sterbt hier.
+MID_ISHTAR_VOICE08: Mjölnirs Zorn!
+MID_ISHTAR_VOICE09: Lord Julius... I...
+MID_ISHTAR_VOICE10: Hehe
+MID_ISHTAR_VOICE11: I am Ishtar, known as the goddess of thunder.
+MID_ISHTAR_VOICE12: Ah! What do you want?
+MID_ISHTAR_VOICE13: Sacrifice children to that dark god? I cannot do it.
+MID_ISHTAR_VOICE14: Lord Julius... Please forgive me.
+MID_ISHTAR_VOICE15: Reinhardt served me ever since I was a child...
+MID_ISHTAR_VOICE16: Perhaps... Perhaps I was in the wrong.
+MID_ISHTAR_VOICE17: When I'm with you, I feel my doubts melt away.
+MID_ISHTAR_VOICE18: Yes.
+MID_ISHTAR_VOICE19: Your orders?
+MID_ISHTAR_VOICE20: Send me.

@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_HOME1: Quelle direction prendra ce monde ?\nVous $Gseul,seule| avez le pouvoir d'influer\nsur son cours.
+MID_KAMUI_M_HOME2: J'ai jadis dû faire un choix difficile\nentre le royaume qui m'a vu naître\net celui qui m'a vu grandir...
+MID_KAMUI_M_HOME3: Je ressens une vague de nostalgie\nlorsque je vous vois parcourir le\nchâteau et interagir avec vos alliés.
+MID_KAMUI_M_HOME4: J'aimerais tant vous faire visiter\nmon château ! Je vous ai dit que\nje dormais dans un arbre ?
+MID_KAMUI_M_HOME5: J'étais en train de penser à tous\nmes frères et sœurs... Est-ce que\nvous en avez, vous aussi ?
+MID_KAMUI_M_FRIEND: $Nf m'a\ndemandé de vous passer le bonjour.\nJe suis ravi de visiter votre château !
+MID_KAMUI_M_LEVEL1: Les efforts de mes compagnons\nm'aident à devenir plus fort.
+MID_KAMUI_M_LEVEL2: Bien. Je pourrai aider encore plus\nde gens.
+MID_KAMUI_M_LEVEL3: Ce n'est pas ce que j'espérais...
+MID_KAMUI_M_SKILL: J'ai hâte de voir de quoi je suis\ncapable !
+MID_KAMUI_M_JOIN: Je m'appelle Corrin. Je suis né\ndans le royaume d'Hoshido, mais\nj'ai grandi dans celui de Nohr.$k$pJe mets mon pouvoir dragunaire\net Yato, mon épée, à votre service !
+MID_KAMUI_M_STRONGEST: Ravi de vous revoir. Votre absence\nme rend toujours un peu nerveux.$k$pJ'aimerais vous avoir toujours dans\nmon champ de vision, mais je suis\nsans doute trop protecteur.$k$pC'est amusant. Je me suis toujours\nsenti trop protégé... et voilà que\nmaintenant, j'inverse les rôles.$k$pCela dit, vous êtes $Gessentiel,essentielle| à la\nprotection de ce monde. Il est tout\nnaturel de veiller à votre sécurité.$k$pCe que je veux dire, c'est... suivez\nvotre voie. Quoi qu'il arrive, nous\nveillerons sur vous.
+MID_KAMUI_M_VOICE01: はっ！
+MID_KAMUI_M_VOICE02: でやっ！
+MID_KAMUI_M_VOICE03: うああっ
+MID_KAMUI_M_VOICE04: No...
+MID_KAMUI_M_VOICE05: Abandonner ? Jamais !
+MID_KAMUI_M_VOICE06: J'ai fait mon choix !
+MID_KAMUI_M_VOICE07: Je dois vous arrêter !
+MID_KAMUI_M_VOICE08: Mon choix est clair !
+MID_KAMUI_M_VOICE09: This can't be...
+MID_KAMUI_M_VOICE10: Heehee
+MID_KAMUI_M_VOICE11: Thank you very much for looking out for everyone.
+MID_KAMUI_M_VOICE12: Between friends, even the smallest gestures can mean so much.
+MID_KAMUI_M_VOICE13: I have so many siblings. I'm very fortunate.
+MID_KAMUI_M_VOICE14: Ever made a choice that, either way, meant losing something you loved?
+MID_KAMUI_M_VOICE15: I grew up in a fortress, where I was...never allowed outside.
+MID_KAMUI_M_VOICE16: I'm certain that you've chosen the path of peace.
+MID_KAMUI_M_VOICE17: You can lean on me if you're weary. My brothers may be bigger, but I can shoulder more than my share.
+MID_KAMUI_M_VOICE18: All right.
+MID_KAMUI_M_VOICE19: Let's go.
+MID_KAMUI_M_VOICE20: Of course.

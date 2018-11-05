@@ -1,0 +1,38 @@
+[Heroes Archive] (TURNER)
+
+
+Heroes Message Name: Message
+
+
+MID_TURNER_HOME1: お兄さまはとっても賢い人だけど、\nエフラムのことになると意地っ張りなの。\nライバルだと思ってるのね。
+MID_TURNER_HOME2: わたしったら、お父様に無断で\nお城を出てきちゃったの…\nお父様…怒ってらっしゃるかしら？
+MID_TURNER_HOME3: あなた、大丈夫？\n困ったときはなんでも言ってね。\nふふっ、だってわたしたち友達でしょ？
+MID_TURNER_HOME4: ねえねえ、どこかに遊びに行かない？\n戦いの最中だって気晴らしは必要だわ。\n息もつまっちゃうでしょ！
+MID_TURNER_HOME5: 訓練以外だと…友達作りかな？\nふふっ、やっぱり同じ目的を持つ者同士\n仲良くしたいもの！
+MID_TURNER_FRIEND: あっ、あなたが$Nuね！\n$Nfといつも\n仲良くしてくれてありがとう！
+MID_TURNER_LEVEL1: これなら、きっとお兄さまも\n認めてくださるわ！
+MID_TURNER_LEVEL2: エイリークやエフラムみたいに\nなれるかしら？
+MID_TURNER_LEVEL3: これじゃあお兄さまに\n怒られちゃう…
+MID_TURNER_SKILL: みんなと肩を並べて戦えるわ！\n嬉しい…！
+MID_TURNER_JOIN: わたしは天馬騎士のターナよ。\nいちおうフレリア王国の王女だけど…\nそんなの気にしないで仲良くしてね。
+MID_TURNER_STRONGEST: わたしが見て来た世界はとても狭いって、\n王宮を旅立ったときに\n理解してたつもりだったけど…$k$pここに来て、\nまだまだ知らないことが\nたくさんあるんだってわかったわ。$k$pうん、あなたと一緒に旅ができて\nわたし、また一つ\n成長できた気がしてるの。$k$pわたしの一番の友達はエイリーク。\nでも、あなたも\n同じくらい大切な人…$k$pエイリークもエフラムも、\nお兄さまも…そしてあなたも、\nみんな大好きよ！
+MID_TURNER_VOICE01: えーいっ！
+MID_TURNER_VOICE02: もうっ！
+MID_TURNER_VOICE03: きゃああっ！
+MID_TURNER_VOICE04: けだもの…
+MID_TURNER_VOICE05: わたしだって！
+MID_TURNER_VOICE06: ひどいわ
+MID_TURNER_VOICE07: 乱暴はやめて！
+MID_TURNER_VOICE08: フレリア騎士だもの！
+MID_TURNER_VOICE09: 覚悟は…できてたもの…
+MID_TURNER_VOICE10: ふふふっ
+MID_TURNER_VOICE11: いっしょにお話しましょう？　良いの？　嬉しい！
+MID_TURNER_VOICE12: きゃあっ！？　も、もう。からかわないで。
+MID_TURNER_VOICE13: お兄様ったらひどいの。わたしのこと、子供だって言うのよ。
+MID_TURNER_VOICE14: ほんとはね、もっと、あなたのこと助けたいの。
+MID_TURNER_VOICE15: わたし、まだ未熟で…うまくできなくて、ごめんなさい。
+MID_TURNER_VOICE16: わたし、ちょっとだけ強くなれたかな…？
+MID_TURNER_VOICE17: あなたはわたしの気持ちをわかってくれてる…うれしいわ。
+MID_TURNER_VOICE18: わかったわ。
+MID_TURNER_VOICE19: わたしに教えて。
+MID_TURNER_VOICE20: お願いね。

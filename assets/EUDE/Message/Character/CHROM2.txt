@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM2)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM2_HOME1: Es ist höchste Zeit für mein tägliches\nTraining. Wenn ich faulenze, wird mich\ngarantiert ein gewisser Jemand tadeln.
+MID_CHROM2_HOME2: Ich stehe gern mit beiden Füßen auf\nfestem Boden. Aber die Aussicht von\ndiesem Kerlchen ist auch ganz nett...$k$pUnd diese angenehme Brise\nhier oben!
+MID_CHROM2_HOME3: Was treibt dich gerade um? Du\nsiehst nachdenklich aus...$k$pWie wär's mit einem Rennen zu dem\nHügel da drüben? Ein wenig frische\nLuft hat noch niemandem geschadet.
+MID_CHROM2_HOME4: Hm? Dieser Apfel? Also... ich wollte\nihn meinem Kumpel hier geben,\naber er sah so lecker aus...$k$pWillst du auch mal beißen? Nur zu,\nsei nicht schüchtern!
+MID_CHROM2_HOME5: Oh, $Nu! Ich\nstriegle gerade mein Pferd.\nStreichle ihn ruhig, er beißt nicht.
+MID_CHROM2_FRIEND: Das ist also dein Schloss,\n$Nu...$k$pEs ist genauso beeindruckend wie\ndas von $Nf.
+MID_CHROM2_LEVEL1: Wir zähmen das Chaos. Kommt\nunter meiner Fahne zusammen!
+MID_CHROM2_LEVEL2: Ich schwöre hier und jetzt,\nnoch besser zu werden!
+MID_CHROM2_LEVEL3: Das war's? Hm, das ist wohl\nmeine Schuld. Tut mir leid.
+MID_CHROM2_SKILL: Ich schwöre, dass diese Macht\nauch deine Stärke sein wird!
+MID_CHROM2_JOIN: Ich bin Chrom, Prinz des Königreichs\nvon Ylisse. Keine Sorge, ich weiß,\nwie man mit einem Pferd umgeht.
+MID_CHROM2_STRONGEST: Ich habe eine Frage an dich.\nWas stellst du dir unter einem\n"Ritter" vor?$k$pEine edle Person, die sich selbst\nfür ihre Verbündeten opfert?$k$pEinen stolzen Krieger, der vor\nkeiner Schlacht zurückschreckt?$k$pIch denke ein bisschen\nanders darüber.$k$pDie Bereitschaft, sich für jemand\nanderen zu opfern, ist natürlich\nbewundernswert, keine Frage.$k$pAber andererseits... Wenn man sich\nselbst opfert, verletzt man diejenigen,\ndie einem nahestehen, oder nicht?$k$pJa, du hast mich richtig verstanden,\n$Nu. Ich\nspreche über dich.$k$pDu hast schwierige Entscheidungen\nzu treffen. Wenn du andere schützen\nwillst, schütze dich zuallererst selbst.$k$pWir können einander helfen, indem\nwir über unsere Sorgen sprechen\nund unsere Ideale teilen...$k$pWir sind jetzt Kameraden. Diese\nVerbindung kann uns keiner\nmehr nehmen - niemals!
+MID_CHROM2_VOICE01: はぁっ！
+MID_CHROM2_VOICE02: むんっ！
+MID_CHROM2_VOICE03: うああっ！
+MID_CHROM2_VOICE04: しまった…！
+MID_CHROM2_VOICE05: Ich bin eine große Hilfe!
+MID_CHROM2_VOICE06: Hier komme ich!
+MID_CHROM2_VOICE07: Ich kann es nicht zügeln!
+MID_CHROM2_VOICE08: Ich bin eins mit meinem Pferd!
+MID_CHROM2_VOICE09: I'm sorry...everyone...
+MID_CHROM2_VOICE10: はははっ
+MID_CHROM2_VOICE11: Don't worry. I took a lesson on mounted combat a few years ago.
+MID_CHROM2_VOICE12: Did you call for me?
+MID_CHROM2_VOICE13: Mobility is one of the many strengths of being on horseback. If your friends need help, you can reach them in an instant.
+MID_CHROM2_VOICE14: If you want to learn how to make friends with a horse, just ask Frederick. His best friend is a horse!
+MID_CHROM2_VOICE15: Mastering different combat styles is sure to make me stronger.
+MID_CHROM2_VOICE16: Now that I've been charging around on horseback, the amount of training dummies I've been able to break has increased nearly tenfold...
+MID_CHROM2_VOICE17: If you're ever in trouble, just call for me. Wherever you are, I'll come running with the wind at my back.
+MID_CHROM2_VOICE18: Be right there.
+MID_CHROM2_VOICE19: What now?
+MID_CHROM2_VOICE20: Here to help!

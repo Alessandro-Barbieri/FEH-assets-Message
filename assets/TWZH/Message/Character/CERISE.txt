@@ -1,0 +1,38 @@
+[Heroes Archive] (CERISE)
+
+
+Heroes Message Name: Message
+
+
+MID_CERISE_HOME1: 和冰天雪地的祖國相較下，\n這個國家很溫暖……讓人容易出汗。\n請問我可以去沖個澡嗎？
+MID_CERISE_HOME2: 尼福爾王國的冬天相當寒冷。\n小時候，\n我經常和妹妹們互相依偎著入睡。
+MID_CERISE_HOME3: 您如果累了，要不要稍微休息一下？\n呵呵，我經常像這樣哄妹妹們上床睡覺呢。
+MID_CERISE_HOME4: 啊……不好意思。\n這裡是如此溫暖、安逸……\n一不小心就打起瞌睡了。
+MID_CERISE_HOME5: 我會連妹妹的份一起，\n竭盡所能地侍奉您。\n如果有任何需要請告訴我。
+MID_CERISE_FRIEND: 我是$Nf殿下的僕人──\n出身於尼福爾王國的斯利茲。\n今天前來向您打聲招呼。\n
+MID_CERISE_LEVEL1: 哇，真棒呢。
+MID_CERISE_LEVEL2: 太好了，這樣我就安心了。
+MID_CERISE_LEVEL3: 哎呀，該怎麼辦呢……？
+MID_CERISE_SKILL: 呵呵，我很開心……\n您有念及我呢。
+MID_CERISE_JOIN: 我是尼福爾王國的斯利茲。\n啊，殿下……\n您就是我在夢中殷殷盼著的人……
+MID_CERISE_STRONGEST: $Nu殿下……\n$Nu殿下……$k$p沒錯，我是斯利茲。\n我記得您和我第一次見面……\n是在您的夢境中。$k$p在那場夢中的儀式裡，\n並不是隨便一個人……\n都能與我相見。$k$p相見之人在我生命中僅有一人……\n我只能見到自己將發自內心，\n立誓向其獻上一切的人物……$k$p是的……我在當時，\n就已經對素昧平生的您，\n立下了獻上全副身心的誓言。$k$p呵呵，請您放心。\n我不會要您負起任何責任……$k$p只要能成為您的助力，\n對我而言就無比地幸福。\n今後也請您多多指教。
+MID_CERISE_VOICE01: 看招！
+MID_CERISE_VOICE02: 不能這樣。
+MID_CERISE_VOICE03: 呀啊～！
+MID_CERISE_VOICE04: 不能、這樣……
+MID_CERISE_VOICE05: 請不要動。
+MID_CERISE_VOICE06: 請恕罪。
+MID_CERISE_VOICE07: 請不要這樣。
+MID_CERISE_VOICE08: 哎呀，真糟糕。
+MID_CERISE_VOICE09: 對不起……菲約爾姆……
+MID_CERISE_VOICE10: 呵呵……
+MID_CERISE_VOICE11: 我是斯利茲……是尼福爾的第一公主。
+MID_CERISE_VOICE12: 呀！？嚇到我了……
+MID_CERISE_VOICE13: 感謝您救了我的妹妹。
+MID_CERISE_VOICE14: 您的雙手……感覺非常溫柔，並且溫暖……
+MID_CERISE_VOICE15: 您一定累了吧？請在我的身旁稍微休息一下吧。
+MID_CERISE_VOICE16: 要是我們兄弟姊妹……都能相處融洽……幸福地……
+MID_CERISE_VOICE17: 請讓我成為您的助力。\n只要是我能做到的事，都請儘管吩咐我。
+MID_CERISE_VOICE18: 我知道了。
+MID_CERISE_VOICE19: 該怎麼做呢？
+MID_CERISE_VOICE20: 哎呀……

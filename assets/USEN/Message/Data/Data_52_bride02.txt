@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201805KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201805KIZUNA01_A1: With Anna on your team, win the Bound Hero\nBattle against Amelia & Tana.
+MID_MISSION_S201805KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201805KIZUNA01_A2: With Alfonse: Prince of Askr on your team, win\nthe Bound Hero Battle against Amelia & Tana\non Lunatic or higher.
+MID_MISSION_S201805KIZUNA01_A3: Defeat Tana
+MID_MISSION_H_S201805KIZUNA01_A3: Defeat level 40 or higher Tana with Anna.
+MID_MISSION_S201805KIZUNA01_A4: Defeat Amelia
+MID_MISSION_H_S201805KIZUNA01_A4: Defeat level 40 or higher Amelia with Alfonse:\nPrince of Askr.
+MID_MISSION_S201805KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201805KIZUNA01_A5: Win the Bound Hero Battle against Amelia &\nTana on Lunatic or higher using an all-armored\nteam.
+MID_MISSION_S201805SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201805SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201805SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201805SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201805SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201805SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201805SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201805SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201805SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201805SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201805SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201805STORY02_TITLE: Bridal Bloom
+MID_MISSION_S201805STORY02_A1: Clr. P20-1 on Lunatic
+MID_MISSION_H_S201805STORY02_A1: Clear Paralogue 20: Part 1 on Lunatic difficulty\nwith an axe user on your team. All four allies\nmust survive.
+MID_MISSION_S201805STORY02_A2: Clr. P20-2 on Lunatic
+MID_MISSION_H_S201805STORY02_A2: Clear Paralogue 20: Part 2 on Lunatic difficulty\nwith a sword user on your team. All four allies\nmust survive.
+MID_MISSION_S201805STORY02_A3: Clr. P20-3 on Lunatic
+MID_MISSION_H_S201805STORY02_A3: Clear Paralogue 20: Part 3 on Lunatic difficulty\nwith a lance user on your team. All four allies\nmust survive.
+MPID_花婿マルス: Marth
+MPID_花嫁ニニアン: Ninian
+MPID_花嫁サーリャ: Tharja
+MPID_花嫁サナキ: Sanaki
+MPID_HONOR_花婿マルス: Altean Groom
+MPID_HONOR_花嫁ニニアン: Bright-Eyed Bride
+MPID_HONOR_花嫁サーリャ: Obsessive Bride
+MPID_HONOR_花嫁サナキ: Apostle in White
+MPID_H_花婿マルス: Prince of Altea who fights for his homeland.\nDressed as a groom to participate in a festival.\nAppears in Fire Emblem: Mystery of the Emblem.
+MPID_H_花嫁ニニアン: A young dancer who has a serene and mystical\npresence. Her travels took her on a path that\nled to a festival celebrating brides. Appears in\nFire Emblem: The Blazing Blade.
+MPID_H_花嫁サーリャ: A mage from Plegia with a dark side and a\npossessive streak. Determined to get her hands\non the festival's prize, a bouquet. Appears in\nFire Emblem Awakening.
+MPID_H_花嫁サナキ: Empress of Begnion. Known as the Apostle,\nvoice of the goddess. Curiosity led her to\nparticipate in a festival about brides.\nAppears in Fire Emblem: Path of Radiance.
+MPID_VOICE_花婿マルス: Yuri Lowenthal
+MPID_VOICE_花嫁ニニアン: Brianna Knickerbocker
+MPID_VOICE_花嫁サーリャ: Stephanie Sheh
+MPID_VOICE_花嫁サナキ: Sara Beth
+MPID_ILLUST_花婿マルス: Mayo (まよ)
+MPID_ILLUST_花嫁ニニアン: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_花嫁サーリャ: Sencha (煎茶)
+MPID_ILLUST_花嫁サナキ: Tomioka Jiro (富岡二郎)
+MID_SEQUENTIAL_MAP_TERM_201805: Loki's Flames
+MSID_愛のケーキサーバ: Ardent Service
+MSID_愛のケーキサーバ＋: Ardent Service+
+MSID_ムスペルの炎花: Múspell Fireposy
+MSID_清らかなブーケ: Fresh Bouquet
+MSID_清らかなブーケ＋: Fresh Bouquet+
+MSID_ニフルの氷花: Nifl Frostflowers
+MSID_攻撃の封印1: Chill Atk 1
+MSID_攻撃の封印2: Chill Atk 2
+MSID_攻撃の封印3: Chill Atk 3
+MSID_守備魔防の連携1: Def/Res Link 1
+MSID_守備魔防の連携2: Def/Res Link 2
+MSID_守備魔防の連携3: Def/Res Link 3
+MSID_速さの共謀1: Spd Feint 1
+MSID_速さの共謀2: Spd Feint 2
+MSID_速さの共謀3: Spd Feint 3
+MSID_H_愛のケーキサーバ: At start of turn, if unit is adjacent to an ally,\ngrants Atk+4 to unit and adjacent allies for\n1 turn.
+MSID_H_愛のケーキサーバ＋: At start of turn, if unit is adjacent to an ally,\ngrants Atk+4 to unit and adjacent allies for\n1 turn.
+MSID_H_ムスペルの炎花: Grants Spd+3. During combat, boosts\nunit's Atk/Spd by number of allies within\n2 spaces × 2. (Maximum bonus of +6\nto each stat.)
+MSID_H_清らかなブーケ: At start of turn, if unit is adjacent to an ally,\ngrants Spd+4 to unit and adjacent allies for\n1 turn.
+MSID_H_清らかなブーケ＋: At start of turn, if unit is adjacent to an ally,\ngrants Spd+4 to unit and adjacent allies for\n1 turn.
+MSID_H_ニフルの氷花: Grants Atk+3. During combat, boosts\nunit's Atk/Spd by number of allies within\n2 spaces × 2. (Maximum bonus of +6\nto each stat.)
+MSID_H_攻撃の封印1: At start of turn, inflicts Atk-3 on foe on the\nenemy team with the highest Atk through its\nnext action.
+MSID_H_攻撃の封印2: At start of turn, inflicts Atk-5 on foe on the\nenemy team with the highest Atk through its\nnext action.
+MSID_H_攻撃の封印3: At start of turn, inflicts Atk-7 on foe on the\nenemy team with the highest Atk through its\nnext action.
+MSID_H_守備魔防の連携1: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Def/Res+2 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_守備魔防の連携2: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Def/Res+4 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_守備魔防の連携3: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Def/Res+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_速さの共謀1: If a Rally Assist skill is used by unit or targets\nunit, inflicts Spd-3 on foes in cardinal directions\nof unit through their next actions.
+MSID_H_速さの共謀2: If a Rally Assist skill is used by unit or targets\nunit, inflicts Spd-5 on foes in cardinal directions\nof unit through their next actions.
+MSID_H_速さの共謀3: If a Rally Assist skill is used by unit or targets\nunit, inflicts Spd-7 on foes in cardinal directions\nof unit through their next actions.
+MID_CHAPTER_TITLE_CX019: Paralogue 20
+MID_CHAPTER_CX019: Bridal Bloom
+MID_STAGE_TITLE_X0191: Paralogue 20-1
+MID_STAGE_TITLE_X0192: Paralogue 20-2
+MID_STAGE_TITLE_X0193: Paralogue 20-3
+MID_STAGE_X0191: Here Comes the Groom
+MID_STAGE_X0192: Veiled Insecurities
+MID_STAGE_X0193: Love and War
+MID_STAGE_TITLE_ST_X0018: Paralogue 19
+MID_STAGE_TITLE_ST_X0019: Paralogue 20
+MID_STAGE_TITLE_ST_X1019: P. 19 & 20
+MID_CHAPTER_ST_CX010: P. 19 & 20

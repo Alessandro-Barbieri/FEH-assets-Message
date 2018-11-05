@@ -1,0 +1,38 @@
+[Heroes Archive] (NANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_NANNA_HOME1: Es un poco raro encontrarme de\nrepente rodeada de tanta gente...\nDebería estar contenta, ¿no?
+MID_NANNA_HOME2: Madre... ¿Podré volverte a ver\nen este mundo?
+MID_NANNA_HOME3: Me alivia verte patrullar por el\ncastillo como siempre. Pero no te\nexijas demasiado. ¡Te necesitamos!
+MID_NANNA_HOME4: ¿Necesitas algo? Ah, ¿quieres ver\ncómo trabajo? Qué curioso. Aunque\ntodo el mundo hace cosas curiosas.
+MID_NANNA_HOME5: Este castillo es muy sereno y\ntranquilo... Por eso me encanta.\nEspero que siga así para siempre.
+MID_NANNA_FRIEND: ¡Estoy encantada de conocerte!\nTe traigo saludos de parte\nde $Nf.
+MID_NANNA_LEVEL1: Qué sensación tan agradable.
+MID_NANNA_LEVEL2: ¡Espero que sea suficiente!
+MID_NANNA_LEVEL3: ¡No puede ser!
+MID_NANNA_SKILL: Con esto podré ayudar a todo\nel mundo.
+MID_NANNA_JOIN: Soy Nanna, descendiente de la\nCasa de Nordion. Es un placer.
+MID_NANNA_STRONGEST: Parece que pensaste mucho en mis\nnecesidades. Siempre tengo que\nestar dependiendo de los demás...$k$pEn mi mundo, resultaron heridas\npersonas muy importantes para mí,\ny yo no fui capaz de hacer nada.$k$pMi impotencia me causó\nuna gran frustración.$k$pPero a tu lado me di cuenta\nde que luchar es mucho más\nque intercambiar espadazos.$k$pMe esforzaré al máximo por ser\nde ayuda. Tanto a ti como al\nresto de personas de aquí.$k$pY así, tal vez, un día seré capaz\nde plantar cara y proteger\na mis seres queridos.
+MID_NANNA_VOICE01: はい
+MID_NANNA_VOICE02: それっ
+MID_NANNA_VOICE03: きゃああっ！
+MID_NANNA_VOICE04: No...!
+MID_NANNA_VOICE05: Espero que me perdones.
+MID_NANNA_VOICE06: ¡Déjame pasar!
+MID_NANNA_VOICE07: No hay alternativa...
+MID_NANNA_VOICE08: ¡Ni te atrevas!
+MID_NANNA_VOICE09: Leif... Never give up...
+MID_NANNA_VOICE10: giggle
+MID_NANNA_VOICE11: ¿Te han herido?
+MID_NANNA_VOICE12: Permite que te cure.
+MID_NANNA_VOICE13: I am Nanna, daughter of Lachesis, and niece to Lord Eldigan.
+MID_NANNA_VOICE14: Aah! Don't DO that!
+MID_NANNA_VOICE15: Leif has always been so kind to me. We're as close as brother and sister...
+MID_NANNA_VOICE16: Now that I'm older, I understand how my mother felt...
+MID_NANNA_VOICE17: I've been praying for your safety.
+MID_NANNA_VOICE18: Yes?
+MID_NANNA_VOICE19: What should I do?
+MID_NANNA_VOICE20: Show me the way.

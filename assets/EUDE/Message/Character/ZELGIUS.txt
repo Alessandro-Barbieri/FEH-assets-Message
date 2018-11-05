@@ -1,0 +1,38 @@
+[Heroes Archive] (ZELGIUS)
+
+
+Heroes Message Name: Message
+
+
+MID_ZELGIUS_HOME1: Wir befinden uns im Krieg - doch\nin diesem Schloss bleibt es\nweiterhin friedlich.$k$pDa könnte man fast vergessen,\nwarum wir alle hier sind.
+MID_ZELGIUS_HOME2: Auch in meiner Welt gab es viel\nLeid, aber wir hatten ein Licht,\ndas uns den Weg zeigte.$k$pDiesem Licht habe ich mein\nLeben und meine Ehre\nverschrieben.
+MID_ZELGIUS_HOME3: Wenn die Überzeugungen eines\nMannes unerschütterlich sind,\nbricht stattdessen sein Geist.$k$pEs ist die Aufgabe eines Generals,\ndiesen Schaden zu reparieren.
+MID_ZELGIUS_HOME4: Ich respektiere jeden, der hart\ntrainiert. Gern stelle ich mich für\neinen Schaukampf zur Verfügung.
+MID_ZELGIUS_HOME5: Ich bin Zelgius. Einst verbarg ich\nmeinen Namen, aber das ist\njetzt nicht mehr nötig.$k$pDie Zeiten haben sich geändert,\nebenso wie ich mich geändert habe.
+MID_ZELGIUS_FRIEND: Ich überbringe beste Wünsche\nfür Eure Gesundheit von\n$Nf.
+MID_ZELGIUS_LEVEL1: So fühlt sich wahres Glück an.
+MID_ZELGIUS_LEVEL2: Gut genug.
+MID_ZELGIUS_LEVEL3: Erbärmlich.
+MID_ZELGIUS_SKILL: Mehr Macht schürt Erwartungen...\nUnd ich werde sie erfüllen.
+MID_ZELGIUS_JOIN: Ich bin Zelgius.\nAls General kämpfte ich für\nzwei verschiedene Reiche.$k$pNun diene ich Euch. Wir werden\nsehen, wie lange dies sein wird.
+MID_ZELGIUS_STRONGEST: Erkundigt Ihr Euch, wie es mir geht?\nEs überrascht mich, dass Ihr Euch\nfür jemanden wie mich Zeit nehmt.$k$pIhr dringt stets zum Kern des\nProblems vor und erteilt ohne zu\nzögern die grausamsten Befehle...$k$pEure rationale Denkweise ist eine\nwahre Stärke auf dem Schlachtfeld,\n$Nu. Aber...$k$pIhr seid noch jung. Brecht nichts übers\nKnie. Ergebnisse sind nicht alles.\nFindet Eure eigenen Antworten.$k$pManchmal weiß man den Wert einer\nSache erst dann zu schätzen, wenn\nman sie verloren hat.$k$pMacht aus diesem Ratschlag was Ihr\nwollt. Wenn Ihr jedoch irgendwann\nnicht mehr weiterwisst...$k$pDann werde ich Euch mit meiner\nKlinge einen Weg öffnen - direkt\ndurch die Armeen Eurer Feinde.$k$pDas schwöre ich auf meinen\nKontrakt mit Euch und auf mein\nheiliges Schwert.
+MID_ZELGIUS_VOICE01: はぁっ！
+MID_ZELGIUS_VOICE02: ...Pointless.
+MID_ZELGIUS_VOICE03: うああっ！
+MID_ZELGIUS_VOICE04: Impressive...
+MID_ZELGIUS_VOICE05: Sprecht Eure Gebete.
+MID_ZELGIUS_VOICE06: Wie wäre es hiermit?
+MID_ZELGIUS_VOICE07: Kein Entkommen.
+MID_ZELGIUS_VOICE08: Einer lebt. Einer stirbt.
+MID_ZELGIUS_VOICE09: That...settles it...
+MID_ZELGIUS_VOICE10: ふふっ
+MID_ZELGIUS_VOICE11: My name is Zelgius. I have been a general for two different countries in my time.
+MID_ZELGIUS_VOICE12: I've lived a long life, and have experienced much... But I've never met someone quite as unpredictable as you.
+MID_ZELGIUS_VOICE13: I'm a soldier. I am in no position to question the orders of my superiors.
+MID_ZELGIUS_VOICE14: I have spent most of my life shrouded in darkness... But at least I had a purpose.
+MID_ZELGIUS_VOICE15: We should focus on winning this war.
+MID_ZELGIUS_VOICE16: Ike... We will soon meet again.
+MID_ZELGIUS_VOICE17: I will become your shield. The enemy will not lay a finger on you.
+MID_ZELGIUS_VOICE18: Your orders.
+MID_ZELGIUS_VOICE19: What's your plan?
+MID_ZELGIUS_VOICE20: I'll keep you alive.

@@ -1,0 +1,38 @@
+[Heroes Archive] (LAGARTO)
+
+
+Heroes Message Name: Message
+
+
+MID_LAGARTO_HOME1: Ein schöner Ort. Am besten ist, dass\nLeute meines Berufsstands hier wohl\nnicht so häufig gebraucht werden.
+MID_LAGARTO_HOME2: Die Black Fang wurden mit dem Ziel\ngegründet, diejenigen von der Welt\nzu tilgen, die es verdient haben...$k$pAber die Dinge haben sich geändert.\nUnd ich weiß nur zu gut, wer dafür\nverantwortlich ist.
+MID_LAGARTO_HOME3: Bist du auf Patrouille? Vergiss\nnicht, dir hin und wieder eine\nAuszeit zu gönnen.
+MID_LAGARTO_HOME4: Ich kenne einen guten Ort zum\nEntspannen. Willst du mitkommen?$k$pEs ist ein ziemlicher Luxus, sich nicht\num die nächste Mahlzeit oder den\nSchlafplatz sorgen zu müssen.
+MID_LAGARTO_HOME5: Assassinen sind im Grunde\nSchwächlinge. Sie können nicht fair\ngewinnen, also verwenden sie Tricks.$k$pIch würde dir raten, stets auf\nder Hut zu sein.
+MID_LAGARTO_FRIEND: Entschuldigung, dass ich mich\nangeschlichen habe. Die Macht\nder Gewohnheit...$k$pIch bin nur hier, weil ich Grüße\nvon $Nf\nüberbringen soll.
+MID_LAGARTO_LEVEL1: Man nennt mich nicht\numsonst den Hurrikan.
+MID_LAGARTO_LEVEL2: Ich gehöre noch nicht\nzum alten Eisen.
+MID_LAGARTO_LEVEL3: Ich bin nicht ganz ich selbst...
+MID_LAGARTO_SKILL: Du setzt deine Hoffnungen in\nmich? Na, dann will ich mal...
+MID_LAGARTO_JOIN: Ich? Ich bin nur ein gewöhnlicher\nDieb. Du kannst mich Legault\nnennen.$k$pIch werde versuchen, deine\nErwartungen zu erfüllen... wenn\nsie nicht zu abgehoben sind.
+MID_LAGARTO_STRONGEST: Hallo, $Nu.$k$pDu hast heute gute Arbeit geleistet.\nUnd ich... Na ja, ich habe meine\nSache ganz ordentlich gemacht.$k$pDu hast es sicher schon gemerkt:\nIch bin niemand, dem man so\nleicht Angst einjagt.$k$pAber in diese Welt gerufen worden\nzu sein, hat mir ganz schön zu\nschaffen gemacht.$k$pIch habe mich gefragt, welche\nSchurken jemanden wie mich\nbeschwören, um für sie zu kämpfen.$k$pAber inzwischen haben wir einiges\ndurchgestanden und ich weiß, dass\ndu nichts Böses im Schilde führst.$k$pGanz im Gegenteil - dich umgibt eine\nAura des Guten. Das erinnert mich an\nalte Zeiten...$k$pGehe deinen Weg unbeirrt weiter. Ich\nwürde ungern erneut dabei zusehen,\nwie noch etwas in die Brüche geht.
+MID_LAGARTO_VOICE01: ほらよっ
+MID_LAGARTO_VOICE02: 悪いね
+MID_LAGARTO_VOICE03: うああっ！
+MID_LAGARTO_VOICE04: 参ったね…
+MID_LAGARTO_VOICE05: Bald bist du tot.
+MID_LAGARTO_VOICE06: Fiese Tricks sind gefragt.
+MID_LAGARTO_VOICE07: Wie fühlt sich das an?
+MID_LAGARTO_VOICE08: Genau hier.
+MID_LAGARTO_VOICE09: I guess it's time...
+MID_LAGARTO_VOICE10: Haha
+MID_LAGARTO_VOICE11: I'm Legault, former Black Fang. Now I'm just a humble thief.
+MID_LAGARTO_VOICE12: I’m your new hobby, is that it? You falling for me?
+MID_LAGARTO_VOICE13: Don't get the wrong idea. As a rule, assassins are weaklings.
+MID_LAGARTO_VOICE14: I can't win in a fair fight, so I use trickery.
+MID_LAGARTO_VOICE15: Catch your target unaware. Poison them. Take hostages. That's the way I fight.
+MID_LAGARTO_VOICE16: Being an assassin's not a job to brag about, but everyone had a kind of pride in what they did.
+MID_LAGARTO_VOICE17: Why do I stick with you? Well, it's a little thing they call love.
+MID_LAGARTO_VOICE18: Nice.
+MID_LAGARTO_VOICE19: Hm?
+MID_LAGARTO_VOICE20: Who next?

@@ -1,0 +1,9 @@
+[Heroes Archive] (S1203)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|$w0|Ein Hinterhalt! Denkt daran - wenn\nwir standhaft verteidigen, wird der\nFeind sich irgendwann zurückziehen.$k$pSeid vorsichtig und tut nichts\nUnüberlegtes. Hier ist unsere\nGeduld gefragt!$k$p$Sbs1000|

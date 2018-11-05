@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICH_HOME1: May I ask about your summoning\nmagic? You tie the skies together?\nIs that wind magic like my own?
+MID_MARICH_HOME2: I studied in Khadein, the City of\nMagic. It was a remarkable place,\nwith desert sand to the horizons...
+MID_MARICH_HOME3: Thank you for what you do. Your\nguidance keeps everyone motivated\nand safe.
+MID_MARICH_HOME4: I've known Prince Marth and his\nsister Princess Elice for many\nyears. They are truly good people.
+MID_MARICH_HOME5: I've always been physically weak.\nBut I wanted to protect...people\nprecious to me, so I studied magic.
+MID_MARICH_FRIEND: Let's see now... You must be\n$Nu, right?$k$pI'm Merric—here with a hello\nfrom $Nf!
+MID_MARICH_LEVEL1: It seems the Excalibur tome has\nguided me well.
+MID_MARICH_LEVEL2: My body feels so light! I can move\nlike the wind itself!
+MID_MARICH_LEVEL3: It seems I haven't trained enough.\nI will begin again with the basics.
+MID_MARICH_SKILL: I will use this new power to\nprotect those precious to me.
+MID_MARICH_JOIN: I am Merric, a mage from Altea.\nWhat I learned of wind magic in\nKhadein is at your disposal.
+MID_MARICH_STRONGEST: It's been some time since we began\nto fight side by side, yet you still\nfind ways to surprise me.$k$pI don't mean that in a bad way!\nYou're just...a very mysterious\nperson.$k$pYou're not like anyone I've met.\nThe things you come up with...the\nrest of us have never dreamed of.$k$pYou are like a wind that blows\nthrough each of our lives and\nchanges our fates.$k$pSo please know that I believe in\nyou and your abilities. I will work\nwith you as long as you'll have me.
+MID_MARICH_VOICE01: えいっ！
+MID_MARICH_VOICE02: はぁっ！
+MID_MARICH_VOICE03: うああっ！
+MID_MARICH_VOICE04: Drat...
+MID_MARICH_VOICE05: Winds, heed me!
+MID_MARICH_VOICE06: Here it comes!
+MID_MARICH_VOICE07: Now you've done it.
+MID_MARICH_VOICE08: I will not fail!
+MID_MARICH_VOICE09: Be safe...
+MID_MARICH_VOICE10: Heehee
+MID_MARICH_VOICE11: Is something the matter?
+MID_MARICH_VOICE12: Er, could you perhaps find another way to get my attention?
+MID_MARICH_VOICE13: Ah, what a pleasant breeze...
+MID_MARICH_VOICE14: I've been reading the most fascinating tome!
+MID_MARICH_VOICE15: If you don't mind, I would like to chat with you.
+MID_MARICH_VOICE16: The magic I have learned must protect everyone.
+MID_MARICH_VOICE17: I enjoy spending time with you. It puts me at ease.
+MID_MARICH_VOICE18: Understood.
+MID_MARICH_VOICE19: Hmm...
+MID_MARICH_VOICE20: Indeed.

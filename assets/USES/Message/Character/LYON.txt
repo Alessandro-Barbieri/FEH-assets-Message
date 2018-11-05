@@ -1,0 +1,38 @@
+[Heroes Archive] (LYON)
+
+
+Heroes Message Name: Message
+
+
+MID_LYON_HOME1: Ephraim es fuerte y bastante\ngalante. Sin embargo, estudiar\nno es lo suyo.$k$pAunque siempre pudo contar\nconmigo para eso. Y yo nunca\ndudé en ayudarlo.
+MID_LYON_HOME2: Mi reino, Grado, puede ser un lugar\ninhóspito y hostil. Pero es mi patria,\ny la amo.
+MID_LYON_HOME3: Veo que te esfuerzas mucho, pero\nquiero que sepas que no pasa nada\npor llorar si te hace falta.$k$pSolo tú puedes saber\npor lo que has pasado.
+MID_LYON_HOME4: Soy malísimo con la espada.\nEirika me desarma sin esfuerzo.\nQué vergüenza...
+MID_LYON_HOME5: Hace un rato tropecé.\nTodavía me duele la pierna,\npero sigo de buen humor.$k$p¿A que es curioso?\nLa vida es maravillosa.
+MID_LYON_FRIEND: Soy Lyon.\nEncantado de conocerte,\n$Nu.$k$pEspero que esta visita\nafiance tu relación con\n$Nf.
+MID_LYON_LEVEL1: Siento un poder en mi interior...\nCon él, puedo ser de ayuda.
+MID_LYON_LEVEL2: Creo que he mejorado un poco.\nSí, estoy seguro.
+MID_LYON_LEVEL3: No voy a desanimarme.\n¡Me esforzaré más aún!
+MID_LYON_SKILL: Esto no se aprende en los libros.\nEste poder me satisface,\npero también me asusta.
+MID_LYON_JOIN: Encantado de conocerte. Soy Lyon,\npríncipe de Grado. Espero que nos\nconvirtamos en buenos amigos.
+MID_LYON_STRONGEST: A decir verdad..., olvidé\nmuchas cosas de antes\nde venir a este mundo.$k$pEs como si mis recuerdos estuvieran\nrodeados de niebla. Y algunos están\nperdidos del todo...$k$pTengo la sensación de que hice algo\nque puso muy triste a las personas\nque me importan.$k$p$Nu... Eres\ndemasiado amable. No me mires con\nesa cara. Quiero que sonrías siempre.$k$pEn mi mundo tenía amigos que se\npreocupaban de mí como lo haces tú.\nEran buenos amigos.$k$pEphraim, Eirika... Espero poder\nreunirme con ustedes algún día\ny conversar largo y tendido...
+MID_LYON_VOICE01: はっ！
+MID_LYON_VOICE02: いくよ…
+MID_LYON_VOICE03: うああっ！
+MID_LYON_VOICE04: いけない…
+MID_LYON_VOICE05: Soy el Rey Demonio.
+MID_LYON_VOICE06: Nadie se interpondrá en mi camino.
+MID_LYON_VOICE07: Intenta detenerme.
+MID_LYON_VOICE08: Ya no sigo mi corazón.
+MID_LYON_VOICE09: Ephraim... Eirika...
+MID_LYON_VOICE10: あはは
+MID_LYON_VOICE11: Death was coming for us all. I just wanted to save everyone.
+MID_LYON_VOICE12: Do not attempt to startle me.
+MID_LYON_VOICE13: Ephraim is strong. I have always admired him...
+MID_LYON_VOICE14: Eirika is so kind. Even to someone like me...
+MID_LYON_VOICE15: The weight of the crown...is immense.
+MID_LYON_VOICE16: Where... Where did I go wrong?
+MID_LYON_VOICE17: I have no right to be alive... But I shall remain here for as long as you wish.
+MID_LYON_VOICE18: Yes?
+MID_LYON_VOICE19: What's next?
+MID_LYON_VOICE20: You lead, I follow.

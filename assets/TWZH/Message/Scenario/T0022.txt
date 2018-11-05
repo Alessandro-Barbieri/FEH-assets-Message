@@ -1,0 +1,8 @@
+[Heroes Archive] (T0022)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_レイヴァン,ch03_09_Leyvan_M_Normal,Face|$w0|魯塞亞，這次輪到你留守了。\n在結束之前，\n你就乖乖待在後方吧。$k$p$WmMPID_ルセア,ch03_11_Ruthea_M_Normal,Face|$w0|咦？\n我不要，怎麼這樣……\n請等一下，我也要一同隨行……！$k$p$Sbs1000|

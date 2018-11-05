@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: 武器類型
+MID_MISSION_S201805ARM01_A1: 以劍擊敗敵人
+MID_MISSION_H_S201805ARM01_A1: 以劍的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A2: 以槍擊敗敵人
+MID_MISSION_H_S201805ARM01_A2: 以槍的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A3: 以斧擊敗敵人
+MID_MISSION_H_S201805ARM01_A3: 以斧的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A4: 以無屬性弓擊敗敵人
+MID_MISSION_H_S201805ARM01_A4: 以無屬性弓的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A5: 以暗器擊敗敵人
+MID_MISSION_H_S201805ARM01_A5: 以暗器的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A6: 以赤魔擊敗敵人
+MID_MISSION_H_S201805ARM01_A6: 以赤魔的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A7: 以青魔擊敗敵人
+MID_MISSION_H_S201805ARM01_A7: 以青魔的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A8: 以綠魔擊敗敵人
+MID_MISSION_H_S201805ARM01_A8: 以綠魔的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A9: 以杖擊敗敵人
+MID_MISSION_H_S201805ARM01_A9: 以杖的我方擊敗敵人。
+MID_MISSION_S201805ARM01_A10: 以劍擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A10: 以劍的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A11: 以槍擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A11: 以槍的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A12: 以斧擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A12: 以斧的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A13: 以無屬性弓擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A13: 以無屬性弓的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A14: 以暗器擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A14: 以暗器的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A15: 以赤魔擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A15: 以赤魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A16: 以青魔擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A16: 以青魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A17: 以綠魔擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A17: 以綠魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805ARM01_A18: 以杖擊敗LV35以上
+MID_MISSION_H_S201805ARM01_A18: 以杖的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201805DAISEIATU01_TITLE: 大壓制戰
+MID_MISSION_S201805DAISEIATU01_A1: 於大壓制戰中獲得得分
+MID_MISSION_H_S201805DAISEIATU01_A1: 於大壓制戰中獲得得分。
+MID_MISSION_S201805DAISEIATU01_A2: 於大壓制戰中獲得得分
+MID_MISSION_H_S201805DAISEIATU01_A2: 於大壓制戰中獲得得分。
+MID_MISSION_S201805DAISEIATU01_A3: 於大壓制戰中獲得得分
+MID_MISSION_H_S201805DAISEIATU01_A3: 於大壓制戰中獲得得分。
+MID_MISSION_S201805DAISEIATU01_A4: 突破修練之塔・第2層
+MID_MISSION_H_S201805DAISEIATU01_A4: 過關修練之塔・第2層。
+MID_MISSION_S201805DAISEIATU01_A5: 突破修練之塔・第8層
+MID_MISSION_H_S201805DAISEIATU01_A5: 過關修練之塔・第8層。
+MID_MISSION_S201805DAISEIATU01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201805DAISEIATU01_A6: 在鬥技場獲勝。
+MID_MISSION_S201805STORY01_TITLE: 炎之地獄
+MID_MISSION_S201805STORY01_A1: 特殊:突破第9章-第1節(超難)
+MID_MISSION_H_S201805STORY01_A1: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第9章-第1節(超難)。
+MID_MISSION_S201805STORY01_A2: 特殊:突破第9章-第2節(超難)
+MID_MISSION_H_S201805STORY01_A2: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第9章-第2節(超難)。
+MID_MISSION_S201805STORY01_A3: 特殊:突破第9章-第3節(超難)
+MID_MISSION_H_S201805STORY01_A3: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第9章-第3節(超難)。
+MID_MISSION_S201805STORY01_A4: 特殊:突破第9章-第4節(超難)
+MID_MISSION_H_S201805STORY01_A4: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第9章-第4節(超難)。
+MID_MISSION_S201805STORY01_A5: 特殊:突破第9章-第5節(超難)
+MID_MISSION_H_S201805STORY01_A5: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第9章-第5節(超難)。
+MID_MISSION_S201805TAPBTL01_D01_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201805TAPBTL01_D01_A1: 特殊:擊敗艾麗澤
+MID_MISSION_H_S201805TAPBTL01_D01_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・艾麗澤。
+MID_MISSION_S201805TAPBTL01_D01_A2: 過關第21～25層
+MID_MISSION_H_S201805TAPBTL01_D01_A2: 於一「觸」即發點觸大戰中\n過關第21～25層的關卡。
+MID_MISSION_S201805TAPBTL01_D01_A3: 過關關卡
+MID_MISSION_H_S201805TAPBTL01_D01_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201805TAPBTL01_D02_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201805TAPBTL01_D02_A1: 特殊:擊敗艾麗澤
+MID_MISSION_H_S201805TAPBTL01_D02_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・艾麗澤。
+MID_MISSION_S201805TAPBTL01_D02_A2: 過關第41～45層
+MID_MISSION_H_S201805TAPBTL01_D02_A2: 於一「觸」即發點觸大戰中\n過關第41～45層的關卡。
+MID_MISSION_S201805TAPBTL01_D02_A3: 過關關卡
+MID_MISSION_H_S201805TAPBTL01_D02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201805TAPBTL01_D03_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201805TAPBTL01_D03_A1: 特殊:擊敗梅伊
+MID_MISSION_H_S201805TAPBTL01_D03_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・梅伊。
+MID_MISSION_S201805TAPBTL01_D03_A2: 過關第61～65層
+MID_MISSION_H_S201805TAPBTL01_D03_A2: 於一「觸」即發點觸大戰中\n過關第61～65層的關卡。
+MID_MISSION_S201805TAPBTL01_D03_A3: 過關關卡
+MID_MISSION_H_S201805TAPBTL01_D03_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201805TAPBTL01_D04_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201805TAPBTL01_D04_A1: 特殊:擊敗梅伊
+MID_MISSION_H_S201805TAPBTL01_D04_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・梅伊。
+MID_MISSION_S201805TAPBTL01_D04_A2: 過關第81～85層
+MID_MISSION_H_S201805TAPBTL01_D04_A2: 於一「觸」即發點觸大戰中\n過關第81～85層的關卡。
+MID_MISSION_S201805TAPBTL01_D04_A3: 過關關卡
+MID_MISSION_H_S201805TAPBTL01_D04_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201805TAPBTL02_TITLE: 點觸大戰
+MID_MISSION_S201805TAPBTL02_A1: 擊敗BOSS
+MID_MISSION_H_S201805TAPBTL02_A1: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201805TAPBTL02_A2: 擊敗BOSS
+MID_MISSION_H_S201805TAPBTL02_A2: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201805TAPBTL02_A3: 過關關卡
+MID_MISSION_H_S201805TAPBTL02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201805TAPBTL02_A4: 過關特別關卡1
+MID_MISSION_H_S201805TAPBTL02_A4: 過關一「觸」即發點觸大戰中的特別關卡1。\n(特別關卡1可於特別關卡開放後遊玩)
+MPID_ユルグ: 優爾格
+MPID_ヘルビンディ: 赫爾賓迪
+MEID_ヘルビンディ: 赫爾賓迪
+MEID_HONOR_ヘルビンディ: 來自地獄深淵
+MEID_H_ヘルビンディ: 炎之王國穆斯貝爾的將軍，出生在最底層的貧民區。\n盼望能憑藉自己的勇猛出人頭地的粗暴將領。
+MEID_VOICE_ヘルビンディ: 中井和哉(Kazuya Nakai)
+MEID_ILLUST_ヘルビンディ: 前嶋重機(Shigeki Maeshima)
+MPID_アレス: 阿瑞斯
+MPID_イシュタル: 伊修達爾
+MPID_リーン: 琳恩
+MPID_ユリウス: 尤利烏斯
+MPID_HONOR_アレス: 黑騎士
+MPID_HONOR_イシュタル: 雷神
+MPID_HONOR_リーン: 達納的舞孃
+MPID_HONOR_ユリウス: 暗之皇子
+MPID_H_アレス: 艾爾多尚之子，【米斯特汀】的繼承者。\n在雙親離世後，被傭兵隊長賈瓦羅收留。\n（登場作品：『ファイアーエムブレム　聖戦の系譜』）
+MPID_H_イシュタル: 弗立吉的血族，【雷神之槌】的繼承者。\n因心愛的尤利烏斯的改變而心痛不已。\n（登場作品：『ファイアーエムブレム　聖戦の系譜』）
+MPID_H_リーン: 繼承大祭司布拉吉血脈的少女舞者。\n意志堅定的現實主義者。與黑騎士阿瑞斯很親近。\n（登場作品：『ファイアーエムブレム　聖戦の系譜』）
+MPID_H_ユリウス: 格蘭貝魯帝國的皇子，曾是個溫柔的少年。\n一夕之間像換了個人似的，性情變得相當殘忍。\n（登場作品：『ファイアーエムブレム　聖戦の系譜』）
+MPID_VOICE_アレス: 興津和幸(Kazuyuki Okitsu)
+MPID_VOICE_イシュタル: 門脇舞以(Mai Kadowaki)
+MPID_VOICE_リーン: 高橋美佳子(Mikako Takahashi)
+MPID_VOICE_ユリウス: 櫻井孝宏(Takahiro Sakurai)
+MPID_ILLUST_アレス: п猫Ｒ(PenekoR)
+MPID_ILLUST_イシュタル: スエカネクミコ(Kumiko Suekane)
+MPID_ILLUST_リーン: 四々九(Yoshiku)
+MPID_ILLUST_ユリウス: 茶ちえ(sachie)
+MSID_ロムファイア: 羅姆菲亞
+MSID_カミラの艶斧: 卡美拉的豔斧
+MSID_第10迷宮の覇者1: 第１０迷宮的霸王１
+MSID_第10迷宮の覇者2: 第１０迷宮的霸王２
+MSID_第10迷宮の覇者3: 第１０迷宮的霸王３
+MSID_魔剣ミストルティン: 魔劍米斯特汀
+MSID_守りの剣: 守護之劍
+MSID_守りの剣＋: 守護之劍＋
+MSID_ビューレイスト: 貝萊斯特
+MSID_ロプトウス: 羅普托烏斯
+MSID_トールハンマー: 雷神之槌
+MSID_守備魔防封じ1: 防守魔防封印１
+MSID_守備魔防封じ2: 防守魔防封印２
+MSID_業火疾風の舞い1: 業火疾風之舞１
+MSID_業火疾風の舞い2: 業火疾風之舞２
+MSID_攻撃の波・奇数1: 攻擊之波・奇數１
+MSID_攻撃の波・奇数2: 攻擊之波・奇數２
+MSID_攻撃の波・奇数3: 攻擊之波・奇數３
+MSID_H_ロムファイア: 克制重裝、騎馬
+MSID_H_カミラの艶斧: 周圍２格内有我方騎馬或飛行單位時，\n自己在戰鬥中的攻擊及速度＋４
+MSID_H_夜刀神改: 攻擊、速度、防守、魔防＋２
+MSID_H_大紋章R騎飛刃3: 周圍２格內的我方騎馬、飛行單位，\n戰鬥中的攻擊及速度＋３
+MSID_H_不思議な魅力R4: 周圍２格內的我方中\n與自己締結支援的對象於\n戰鬥中的攻擊、速度、防守、魔防＋４
+MSID_H_第10迷宮の覇者1: 攻擊＋１
+MSID_H_第10迷宮の覇者2: 攻擊＋２
+MSID_H_第10迷宮の覇者3: 攻擊＋３
+MSID_H_魔剣ミストルティン: 容易發動奧義（發動計量－１）\n若於戰鬥中（或是戰鬥前）發動奧義，\n戰鬥後，奧義發動計量－２
+MSID_H_守りの剣: 受到敵人攻擊時，戰鬥中的防守＋７
+MSID_H_守りの剣＋: 受到敵人攻擊時，戰鬥中的防守＋７
+MSID_H_ビューレイスト: 奇數回合開始時，自己和周圍１格內的我方單位\n攻擊、速度、防守、魔防＋４（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_ロプトウス: 魔防＋３　自身會受到克制龍技能影響\n當敵人並未裝備克制龍的技能時，\n戰鬥中敵人攻撃－６
+MSID_H_トールハンマー: 容易發動奧義（發動計量－１）\n由自己發動攻擊時，戰鬥中的速度＋６
+MSID_H_守備魔防封じ1: 戰鬥後，敵人的防守及魔防－３\n（直到敵人下次行動結束）
+MSID_H_守備魔防封じ2: 戰鬥後，敵人的防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_業火疾風の舞い1: 使用「歌唱」、「起舞」時，\n指定目標的攻擊速度＋２
+MSID_H_業火疾風の舞い2: 使用「歌唱」、「起舞」時，\n指定目標的攻擊速度＋３
+MSID_H_攻撃の波・奇数1: 奇數回合開始時，自己和周圍１格內的我方單位\n攻擊＋２（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_攻撃の波・奇数2: 奇數回合開始時，自己和周圍１格內的我方單位\n攻擊＋４（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_攻撃の波・奇数3: 奇數回合開始時，自己和周圍１格內的我方單位\n攻擊＋６（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MID_CHAPTER_TITLE_C0209: 第２部　第９章
+MID_CHAPTER_C0209: 炎之地獄
+MID_STAGE_TITLE_S2091: 第９章—第１節
+MID_STAGE_TITLE_S2092: 第９章—第２節
+MID_STAGE_TITLE_S2093: 第９章—第３節
+MID_STAGE_TITLE_S2094: 第９章—第４節
+MID_STAGE_TITLE_S2095: 第９章—第５節
+MID_STAGE_S2091: 炎獄的守衛
+MID_STAGE_S2092: 魔劍的黑騎士
+MID_STAGE_S2093: 雷神降臨
+MID_STAGE_S2094: 炎之舞孃
+MID_STAGE_S2095: 地獄深淵
+MID_STAGE_TITLE_SB_0010: 第１０迷宮
+MID_STAGE_HONOR_T0031: 暗之皇子
+MID_STAGE_T0031: 尤利烏斯
+MID_STAGE_HONOR_Q0010: 每週更新
+MID_STAGE_Q0010: 壓制戰
+MID_STAGE_HONOR_Q0011: 每週更新
+MID_STAGE_Q0011: 壓制戰
+MID_STAGE_HONOR_Q0012: 每週更新
+MID_STAGE_Q0012: 壓制戰
+MID_STAGE_HONOR_Q0013: 每週更新
+MID_STAGE_Q0013: 壓制戰
+MID_STAGE_TITLE_BG_WATER_0008: 水之庭園８
+MID_STAGE_BG_WATER_0008: 水之橋
+MID_STAGE_TITLE_BG_WIND_0007: 風之庭園７
+MID_STAGE_BG_WIND_0007: 風之柱廊
+MID_STAGE_TITLE_BG_EARTH_0007: 地之庭園７
+MID_STAGE_BG_EARTH_0007: 地之柱廊
+MID_STAGE_TITLE_BG_FIRE_0007: 火之庭園７
+MID_STAGE_BG_FIRE_0007: 火之柱廊
+MID_TAP_BATTLE_DATA_TITLE_0004: 魔法少女的聖域
+MID_MUSIC_NAME_BGM_MAP_FE15_02: 與美拉的加護同在
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: Attack！
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: 那雙手所開拓的未來

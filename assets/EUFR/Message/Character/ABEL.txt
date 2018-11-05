@@ -1,0 +1,38 @@
+[Heroes Archive] (ABEL)
+
+
+Heroes Message Name: Message
+
+
+MID_ABEL_HOME1: J'ai autrefois trahi le prince Marth\nalors qu'Est était retenue en otage.\nJe ne me le pardonnerai jamais...
+MID_ABEL_HOME2: Je possède une boutique à Altea.\nN'hésitez pas à m'y rendre visite.
+MID_ABEL_HOME3: Prenez cette torche. Elle vous\nsera utile pour vous repérer lors\nde vos rondes nocturnes.
+MID_ABEL_HOME4: Les boutiques en ville attisent\nma curiosité. Souhaitez-vous\nm'y accompagner ?
+MID_ABEL_HOME5: Les plats de ma chère Est sont\nexceptionnels. J'espère que vous\naurez la chance d'y goûter, un jour !
+MID_ABEL_FRIEND: $Nu ?\n$Nf vous\ntransmet ses salutations.
+MID_ABEL_LEVEL1: Pour ma patrie et ma bien-aimée.
+MID_ABEL_LEVEL2: Je suis ravi de constater que je n'ai\npas perdu la main.
+MID_ABEL_LEVEL3: Argh... Je n'aurais pas dû négliger\nmon entraînement.
+MID_ABEL_SKILL: Merci. Je serai toujours un fier\nchevalier d'Altea.
+MID_ABEL_JOIN: Je suis Abel, chevalier... enfin,\nancien chevalier d'Altea. Je ne\nsuis plus qu'un humble marchand.
+MID_ABEL_STRONGEST: Le prince Marth et ma chère Est\nsont tous deux très importants à\nmes yeux.$k$pMes sentiments d'affection et de\nloyauté envers eux ne souffrent\nd'aucune équivoque.$k$pMais envers vous... Est-ce de la\nloyauté parce que vous m'avez\ninvoqué ? Ou une réelle amitié ?$k$pTout ce dont je suis sûr, c'est que\nvous aussi êtes $Gimportant,importante| à mes\nyeux, désormais.$k$pJ'espère que vous continuerez\nà m'accorder votre confiance.
+MID_ABEL_VOICE01: はっ！
+MID_ABEL_VOICE02: せいっ！
+MID_ABEL_VOICE03: うああっ！
+MID_ABEL_VOICE04: You're...strong...
+MID_ABEL_VOICE05: Faites vos prières.
+MID_ABEL_VOICE06: Arrière !
+MID_ABEL_VOICE07: Je serai sans pitié.
+MID_ABEL_VOICE08: Ne me sous-estimez pas.
+MID_ABEL_VOICE09: Apologies...
+MID_ABEL_VOICE10: Haha
+MID_ABEL_VOICE11: What's wrong?
+MID_ABEL_VOICE12: I fear that I've grown soft since leaving the knights.
+MID_ABEL_VOICE13: I run a small shop. Perhaps you can visit someday.
+MID_ABEL_VOICE14: Let me know if you need anything—anything at all.
+MID_ABEL_VOICE15: I was once known as...Abel the Panther.
+MID_ABEL_VOICE16: When there are two precious things in your life, you must choose between them.
+MID_ABEL_VOICE17: I swear on my life never to betray you.
+MID_ABEL_VOICE18: Of course.
+MID_ABEL_VOICE19: Advance?
+MID_ABEL_VOICE20: Yes.

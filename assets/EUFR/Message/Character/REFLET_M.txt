@@ -1,0 +1,39 @@
+[Heroes Archive] (REFLET_M)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_HOME1: Sommes-nous tous des « héros »\nvenus d'autres mondes ?
+MID_REFLET_M_HOME2: Je n'ai aucun souvenir datant d'avant\nma rencontre avec Chrom...$k$pPourtant, je suis un bon tacticien et\nj'arrive à jauger mes adversaires d'un\nseul coup d'œil. Oh, vous aussi ?
+MID_REFLET_M_HOME3: Je vous comprends, $GInvocateur,Invocatrice|.\nMoi aussi je ressens le besoin de\nm'assurer que mes alliés vont bien.
+MID_REFLET_M_HOME4: Lorsque vous aurez un instant,\nj'aimerais vous présenter le plan\nd'attaque que j'ai mis au point.
+MID_REFLET_M_HOME5: J'ai trouvé des livres passionnants\ndans les archives ! Oh, j'aurais dû\nvous demander la permission...
+MID_REFLET_M_FRIEND: Enchanté, je m'appelle\nDaraen. J'ai été envoyé\npar $Nf.
+MID_REFLET_M_LEVEL1: Je ne m'y attendais pas du tout !
+MID_REFLET_M_LEVEL2: Tout se passe comme prévu.
+MID_REFLET_M_LEVEL3: C'est... C'est tout ?
+MID_REFLET_M_SKILL: Je suis ravi que mes talents de\nstratège vous soient utiles.
+MID_REFLET_M_JOIN: Enchanté, je suis Daraen, stratège\nau sein des Veilleurs. Je suis sûr\nque mes talents vous seront utiles.
+MID_REFLET_M_STRONGEST: Je vous suis reconnaissant de me\ndonner l'opportunité de vous\nobserver à l'œuvre, $Gami,amie| stratège.$k$pJe suis également honoré d'avoir pu\nvous accompagner tant de fois sur\nle champ de bataille.$k$pCela dit, j'espère que le temps que\nnous passons ensemble ne nuit pas\nà votre relation avec Alfonse.$k$pJ'ai le sentiment qu'un lien fort s'est\ncréé entre vous deux... Un lien très\nsimilaire à celui que j'ai avec Chrom.$k$pEnfin, il est bien sûr normal que deux\nstratèges cherchent à partager leurs\nconnaissances. Comptez sur moi !
+MID_REFLET_M_VOICE01: えい！
+MID_REFLET_M_VOICE02: はあっ！
+MID_REFLET_M_VOICE03: うあっ！
+MID_REFLET_M_VOICE04: Part of the plan...
+MID_REFLET_M_VOICE05: La roue tourne !
+MID_REFLET_M_VOICE06: Admirez le travail !
+MID_REFLET_M_VOICE07: Dommage !
+MID_REFLET_M_VOICE08: L'union fait la force !
+MID_REFLET_M_VOICE09: Oops.
+MID_REFLET_M_VOICE10: Heehee
+MID_REFLET_M_VOICE11: We'll win our next battle—I guarantee it.
+MID_REFLET_M_VOICE12: Did you say something? I was just planning...
+MID_REFLET_M_VOICE13: Odd to think I came out of that divine...thing.
+MID_REFLET_M_VOICE14: I don't know why, but I feel a strange kinship with you.
+MID_REFLET_M_VOICE15: Oh, good—I've still got my memories of being in Ylisse.
+MID_REFLET_M_VOICE16: I wonder if Chrom is around here...
+MID_REFLET_M_VOICE17: I want you to know you can count on me out in the field.
+MID_REFLET_M_VOICE18: Hmm.
+MID_REFLET_M_VOICE19: Lead on.
+MID_REFLET_M_VOICE20: Let's go.
+MID_REFLET_M_VOICE21: Where did I wake up this time?

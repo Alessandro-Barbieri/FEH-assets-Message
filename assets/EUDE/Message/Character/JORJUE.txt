@@ -1,0 +1,38 @@
+[Heroes Archive] (JORJUE)
+
+
+Heroes Message Name: Message
+
+
+MID_JORJUE_HOME1: Euer Reich ist wirklich einzigartig!\nEs gibt mir den Glauben an die\nMenschheit zurück...$k$pNachdem dieser Glaube durch\ndie höfischen Intrigen zunichte\ngemacht wurde.
+MID_JORJUE_HOME2: All der Unsinn, den Ihr über\nmeine Fähigkeiten gehört habt,\nwird nur von denen verbreitet,$k$pdie den Ruhm meiner Familie\nmehren wollen.
+MID_JORJUE_HOME3: $Nu, Ihr\nkommt mir immer zu Hilfe.\nDafür muss ich Euch einfach danken.
+MID_JORJUE_HOME4: Ich entstamme einer noblen Familie.\nAber ihr Mut erstreckt sich nur auf\nIntrigen, und sonst auf nichts.$k$pSie sind ein verabscheuungswürdiger\nHaufen Abschaum.
+MID_JORJUE_HOME5: Ein starkes Herz, das auch angesichts\nvon Hindernissen nicht schwankt, ist\ndas Geheimnis des sicheren$k$pSchützen. Welcher Art ist Euer Herz?
+MID_JORJUE_FRIEND: Ich kam, um Grüße von\n$Nf\nauszurichten. Es ist mir eine Ehre!
+MID_JORJUE_LEVEL1: Das habe ich nicht erwartet...\nEin glücklicher Zufall, in der Tat.
+MID_JORJUE_LEVEL2: Hmmm. Das fühlt sich\ngut an...
+MID_JORJUE_LEVEL3: Nun... nun ja... Ärgerlich.
+MID_JORJUE_SKILL: Ich darf Eure hohen Erwartungen\nauf keinen Fall enttäuschen.
+MID_JORJUE_JOIN: Ich bin Jeorge, Bogenschütze\naus Akaneia.$k$pOb ich Euch unterstützen kann,\nweiß ich nicht, doch will ich es\nversuchen.
+MID_JORJUE_STRONGEST: Ihr habt vor mir reden gehört? Nun, ich\nversuche wohl auch nicht, aus mei-\nnem Leben ein Geheimnis zu machen.$k$pOb wahr oder nicht, Gerüchte breiten\nsich wie Brände aus. Sie zu korrigie-\nren oder widerlegen lohnt sich nicht.$k$pEs ist erfrischend, so offen zu reden.\nWunderbar ist es, dass sich alle hier\nso bedingungslos vertrauen.$k$pIn solcher Gesellschaft befinde ich\nmich wirklich gern. Danke, dass Ihr\nmich hierher gebracht habt.$k$pIch denke, ich werde bleiben, wenn\nes Euch nicht stört.
+MID_JORJUE_VOICE01: はっ！
+MID_JORJUE_VOICE02: ふっ！
+MID_JORJUE_VOICE03: うああっ！
+MID_JORJUE_VOICE04: I misread you...
+MID_JORJUE_VOICE05: Ich werde wohl kaum danebenschießen.
+MID_JORJUE_VOICE06: Verzeih mir.
+MID_JORJUE_VOICE07: Das wird nicht wehtun.
+MID_JORJUE_VOICE08: Genau wie vorherberechnet.
+MID_JORJUE_VOICE09: Off...target.
+MID_JORJUE_VOICE10: Heh...
+MID_JORJUE_VOICE11: Curious about me? What would you like to know?
+MID_JORJUE_VOICE12: I wasn't expecting you to just walk up and start chatting with me.
+MID_JORJUE_VOICE13: The only thing noble about me is my much-vaunted lineage.
+MID_JORJUE_VOICE14: I am supposedly the best archer on the continent.
+MID_JORJUE_VOICE15: I can't seem to get a read on you.
+MID_JORJUE_VOICE16: Are you just being calculating? Or am I?
+MID_JORJUE_VOICE17: If I said I'd taken an interest in you...would you believe me?
+MID_JORJUE_VOICE18: All right.
+MID_JORJUE_VOICE19: What's next?
+MID_JORJUE_VOICE20: Of course.

@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_HOME1: Lorsque je vois votre relation\navec Alfonse, la nostalgie me\nsubmerge...
+MID_CHROM_HOME2: D'où je viens, les Veilleurs luttent\ncontre monstres et bandits. Ici, il\ns'agit plutôt de héros. Étrange...
+MID_CHROM_HOME3: Votre abnégation me rappelle\nquelqu'un. N'oubliez pas de\nvous reposer de temps à autre !
+MID_CHROM_HOME4: Ça vous dit, un entraînement ?\nJe vous promets d'essayer de\nne rien casser, cette fois-ci.
+MID_CHROM_HOME5: Pardon, $Nu.\nJe n'ai pas fait exprès de briser\nce vase, lors de l'entraînement.
+MID_CHROM_FRIEND: Ce château vous appartient-il ?\n$Nf vous\ntransmet ses salutations.
+MID_CHROM_LEVEL1: Plus personne ne peut m'arrêter\nà présent !
+MID_CHROM_LEVEL2: L'acharnement dans l'effort rend\nplus fort !
+MID_CHROM_LEVEL3: C'était vraiment décevant...
+MID_CHROM_SKILL: Je vous promets de faire bon usage\nde ce pouvoir !
+MID_CHROM_JOIN: Je suis Chrom, capitaine\ndes Veilleurs et prince du\nSaint-Royaume d'Ylisse.
+MID_CHROM_STRONGEST: J'ai l'impression qu'une éternité\ns'est écoulée depuis que nous\nnous sommes rencontrés.$k$pGrâce à votre soutien, je suis\ndevenu plus fort que jamais.$k$pVous me rappelez tant Daraen...\nVos talents de stratège et votre\ndévouement sont inégalables.$k$pJe suis honoré de me battre à vos\ncôtés, $Nu.$k$pLe lien que nous avons forgé\nne se brisera jamais.
+MID_CHROM_VOICE01: はっ！
+MID_CHROM_VOICE02: せやあっ！
+MID_CHROM_VOICE03: ぐあっ！
+MID_CHROM_VOICE04: Damn!
+MID_CHROM_VOICE05: Tout peut changer !
+MID_CHROM_VOICE06: Je n'échouerai pas !
+MID_CHROM_VOICE07: L'union fait la force !
+MID_CHROM_VOICE08: C'est terminé !
+MID_CHROM_VOICE09: ...Gods!
+MID_CHROM_VOICE10: whew
+MID_CHROM_VOICE11: Our bonds are far stronger than destiny.
+MID_CHROM_VOICE12: That's an unusual weapon you have.
+MID_CHROM_VOICE13: Is your Order of Heroes something akin to my Shepherds?
+MID_CHROM_VOICE14: I hope things are well in Ylisse...
+MID_CHROM_VOICE15: I miss the advice of my tactician.
+MID_CHROM_VOICE16: Damn it... Broke another training dummy...
+MID_CHROM_VOICE17: The bonds we forge are forever. I will always come to your aid, friend.
+MID_CHROM_VOICE18: Yes?
+MID_CHROM_VOICE19: All right.
+MID_CHROM_VOICE20: Let's go.

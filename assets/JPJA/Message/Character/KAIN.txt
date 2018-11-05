@@ -1,0 +1,38 @@
+[Heroes Archive] (KAIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KAIN_HOME1: アリティア王国騎士団の\n名に恥じぬ戦いをしてみせよう！
+MID_KAIN_HOME2: おれにはアベルという相棒がいた。\n暴走しがちなおれを、\nアベルは冷静に補佐してくれていたな。
+MID_KAIN_HOME3: そうやって城を見回り、\n仲間全員を気にかけているのか。\nさすがだな！
+MID_KAIN_HOME4: 訓練ならおれもつきあおう！\nこう見えて、騎士見習いたちの\n訓練教官を務めていたこともある。
+MID_KAIN_HOME5: はぁっ！\n今は訓練中だ！　用は後で聞こう！\nはぁっ！
+MID_KAIN_FRIEND: $Nu殿！\nいずこにおわす！\nわが主からの挨拶の言葉を届けに来た！
+MID_KAIN_LEVEL1: よし！\nこれからもやれそうだ！
+MID_KAIN_LEVEL2: まあまあだな。\nもっとやれるはずだ…！
+MID_KAIN_LEVEL3: これでは\nマルス様に顔向けできん…！
+MID_KAIN_SKILL: これがおれの真の力…！\n赤き猛牛の底力、見せてやる！
+MID_KAIN_JOIN: おれの名はカイン！\nアリティア王国騎士カインだ！
+MID_KAIN_STRONGEST: ジェイガン様に\nよく言われていたのだが…$k$pおれには猪突猛進の\nきらいがあるらしい。$k$pだが、お前がいてくれれば\nおれは戦いの中でも自分を見失わず、\nしっかりと役目を果たせる。$k$pこれもお前のおかげだ。\nありがとう、$Nu。$k$p熱く、そして平静さも失わずに、\nこれからも戦い抜いてみせる…\nそれがおれの望みだ！
+MID_KAIN_VOICE01: ふんっ！
+MID_KAIN_VOICE02: せぇいっ！
+MID_KAIN_VOICE03: うああっ！
+MID_KAIN_VOICE04: くそっ…！
+MID_KAIN_VOICE05: 突撃する！
+MID_KAIN_VOICE06: 道を開けろ！
+MID_KAIN_VOICE07: 我こそは！
+MID_KAIN_VOICE08: 騎士は退かん！
+MID_KAIN_VOICE09: 無念…だ…
+MID_KAIN_VOICE10: はははっ
+MID_KAIN_VOICE11: どうかしたか？
+MID_KAIN_VOICE12: お、おい…何を
+MID_KAIN_VOICE13: 一緒に訓練するか？
+MID_KAIN_VOICE14: もっと、己を鍛えなければ
+MID_KAIN_VOICE15: 【猛牛】カイン、と呼ばれていたな
+MID_KAIN_VOICE16: 俺は俺の全力を尽くす
+MID_KAIN_VOICE17: 俺が、お前の道を切り拓こう
+MID_KAIN_VOICE18: 突撃！
+MID_KAIN_VOICE19: 前進あるのみ！
+MID_KAIN_VOICE20: 行くぞ！

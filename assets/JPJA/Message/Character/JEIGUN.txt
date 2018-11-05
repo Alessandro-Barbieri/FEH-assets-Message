@@ -1,0 +1,38 @@
+[Heroes Archive] (JEIGUN)
+
+
+Heroes Message Name: Message
+
+
+MID_JEIGUN_HOME1: ほう…なかなかの城だ。\n歴史の重みと風格を感じさせる。\n我らのアリティア城ほどではないが…
+MID_JEIGUN_HOME2: コーネリアス王よ…\nマルス様は立派に\nご成長なされましたぞ…
+MID_JEIGUN_HOME3: 見回り、御苦労であったな。\n次はわしも共に行こう。\n…年寄り扱いするでないぞ。
+MID_JEIGUN_HOME4: マルス様の偉業と、\n我らのアリティア王国について語るならば、\nゆうに三日はかかるであろうな。
+MID_JEIGUN_HOME5: ううむ…\n腰を痛めてしまったようでな。\nそなた、ここを押さえてくれぬか。
+MID_JEIGUN_FRIEND: そなたが$Nuか？\n$Nfよりの\n挨拶を届けに参った。
+MID_JEIGUN_LEVEL1: ふっ…わしもまだ\n捨てたものではないな。
+MID_JEIGUN_LEVEL2: アリティア聖騎士ならば、\n当然のこと。
+MID_JEIGUN_LEVEL3: アリティア王国騎士団長の名も\n落ちぶれたものよ…
+MID_JEIGUN_SKILL: まだわしにこのような力が\n残っていたとはな。
+MID_JEIGUN_JOIN: アリティア王国騎士ジェイガン。\nマルス様をお守りする者である。\n年寄り扱いするでないぞ。
+MID_JEIGUN_STRONGEST: わしも長年\n騎士として生きてきたが…\nそなたのような者は初めてだ。$k$p我らが皆\nそなたに従うのは契約ゆえか？\nいや、それだけではない。$k$pそなたには、\n共に戦いたいと思える何かがある。\nうまく言葉にはできぬが…$k$pあのマルス様に近しい何か…\n英雄を引きつける魅力を、\nそなたは持っておるのやもしれぬな…$k$p老いぼれの身だが、わしも\n命尽きる時までそなたと共にありたい。\nそう思っておるぞ。
+MID_JEIGUN_VOICE01: ふんっ！
+MID_JEIGUN_VOICE02: ぬぅんっ！
+MID_JEIGUN_VOICE03: ぬおおっ！
+MID_JEIGUN_VOICE04: いかん…！
+MID_JEIGUN_VOICE05: 退くがいい！
+MID_JEIGUN_VOICE06: まだまだ負けぬぞ！
+MID_JEIGUN_VOICE07: 侮るな！
+MID_JEIGUN_VOICE08: 王子のために！
+MID_JEIGUN_VOICE09: 情け…ない…
+MID_JEIGUN_VOICE10: ふっ
+MID_JEIGUN_VOICE11: わしに何か用か？
+MID_JEIGUN_VOICE12: 若い者のすることはわからぬ…
+MID_JEIGUN_VOICE13: まだ若いが…良い目をしておる。
+MID_JEIGUN_VOICE14: この老骨が力となろう。
+MID_JEIGUN_VOICE15: まだまだ若い者には負けぬぞ。
+MID_JEIGUN_VOICE16: 後、どれだけ戦えるものか…
+MID_JEIGUN_VOICE17: あまり年寄を心配させぬようにな
+MID_JEIGUN_VOICE18: うむ
+MID_JEIGUN_VOICE19: 迷いは無用
+MID_JEIGUN_VOICE20: いざ！

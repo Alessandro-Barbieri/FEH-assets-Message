@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_POPULARITY01_HOME1: Vater... Mutter... Ich werde\nalles dafür tun, um dieses\nKämpfen zu beenden.
+MID_LUCINA_POPULARITY01_HOME2: Mein Vater bedeutet mir alles. Wenn\njemand ihm etwas antun wollte,\nhätte ich keine andere Wahl, als...
+MID_LUCINA_POPULARITY01_HOME3: Ihr habt etwas Ruhe verdient. Gibt\nes etwas, das ich Euch abnehmen\nkann? Botengänge vielleicht?
+MID_LUCINA_POPULARITY01_HOME4: Diese Lanze, Geirskögul genannt,\nstammt aus einer anderen Welt.$k$pDiese Waffe liegt normalerweise\naußerhalb meiner Reichweite.
+MID_LUCINA_POPULARITY01_HOME5: Es tut mir leid, aber... ich habe aus\nVersehen eine weitere Übungspuppe\nzerstört. Lanzen sind mir noch neu.
+MID_LUCINA_POPULARITY01_FRIEND: $Nf hat mich\ngebeten, Euch zu grüßen. Ihr müsst\nEure Verbindung in Ehren halten.
+MID_LUCINA_POPULARITY01_LEVEL1: Für meinen Vater!
+MID_LUCINA_POPULARITY01_LEVEL2: Allmählich beherrsche ich die\nylisseanische Lanzentechnik.
+MID_LUCINA_POPULARITY01_LEVEL3: Vielleicht muss ich die Lanze\nfester in der Hand halten...
+MID_LUCINA_POPULARITY01_SKILL: Vielen Dank. Ich werde diese\nMacht nicht verschwenden.
+MID_LUCINA_POPULARITY01_JOIN: Ich bin Lucina aus Ylisse. Ich schwöre\nEuch meine Treue mit Geirskögul in\nder Hand!
+MID_LUCINA_POPULARITY01_STRONGEST: All meine Schwerttechniken habe\nich von meinem Vater gelernt.$k$pVater begann mich die Schwertkunst\nzu lehren, als ich noch sehr klein war.$k$pZu Beginn war unser "Training" eher\nein Spiel. Das sind kostbare\nErinnerungen...$k$pAber trotz all unserer Zeit zusammen\nhatte er nie die Gelegenheit, mir den\nUmgang mit der Lanze zu zeigen.$k$pDiese Welt hat einen merkwürdigen\nEffekt auf mich... Sie gibt mir neue\nHoffnung.$k$pSie gibt mir die Chance, jene wieder-\nzusehen, die ich verloren habe.\nDie, die mir am wichtigsten sind...$k$pZwischen den Welten zu reisen ist\nmir nicht neu, ich werde diese\nGelegenheit also gut nutzen.
+MID_LUCINA_POPULARITY01_VOICE01: せいっ！
+MID_LUCINA_POPULARITY01_VOICE02: いきます！
+MID_LUCINA_POPULARITY01_VOICE03: きゃああっ！
+MID_LUCINA_POPULARITY01_VOICE04: こんなことって…
+MID_LUCINA_POPULARITY01_VOICE05: Für meinen Vater!
+MID_LUCINA_POPULARITY01_VOICE06: Mein Weg steht fest!
+MID_LUCINA_POPULARITY01_VOICE07: Mit dieser Lanze!
+MID_LUCINA_POPULARITY01_VOICE08: Führt meine Hand!
+MID_LUCINA_POPULARITY01_VOICE09: Father...I'm sorry...
+MID_LUCINA_POPULARITY01_VOICE10: Heehee
+MID_LUCINA_POPULARITY01_VOICE11: Maybe it's a bit silly, but...I feel a little closer to my father now.
+MID_LUCINA_POPULARITY01_VOICE12: My father taught me the sword. I hope he'll teach me all about the lance as well.
+MID_LUCINA_POPULARITY01_VOICE13: Was there some kind of...contest in your world?
+MID_LUCINA_POPULARITY01_VOICE14: I dreamt that heroes from another world brought hope to a dark future.
+MID_LUCINA_POPULARITY01_VOICE15: This weapon was entrusted to me by people from another world. I'm certain of it.
+MID_LUCINA_POPULARITY01_VOICE16: Father... I hope I can fight by your side in this world, too.
+MID_LUCINA_POPULARITY01_VOICE17: Our bond... gives me strength!
+MID_LUCINA_POPULARITY01_VOICE18: Understood.
+MID_LUCINA_POPULARITY01_VOICE19: What's next?
+MID_LUCINA_POPULARITY01_VOICE20: Your orders?

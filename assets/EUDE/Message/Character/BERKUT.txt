@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKUT)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKUT_HOME1: Warum sollte ich meinen Stolz\naufgeben und mich mit dem\ngemeinen Volk verbrüdern?$k$pDas wäre die reinste\nDemütigung!
+MID_BERKUT_HOME2: Seit meiner Jugend verbessere ich\nunablässig meine Fähigkeiten. Als\nnächster Kaiser ist dies meine Pflicht.$k$pIch bin stolz auf meine Stärke, die\nich mir so hart erarbeitet habe.
+MID_BERKUT_HOME3: Bist du schon wieder bei der Arbeit?\nDu bist wirklich tüchtig. Du würdest\n$Geinen guten Diener,eine gute Dienerin| abgeben.
+MID_BERKUT_HOME4: Du da. Bring mich zu einem Juwelier.\nIch schulde dir zwar keine Erklärung,\naber es ist nicht für mich selbst.
+MID_BERKUT_HOME5: Was ich tue? Ich poliere einen Ring,\nwie du siehst. Aber das geht dich\nnichts an. Los, hinfort mit dir!
+MID_BERKUT_FRIEND: Wer hat die Unverfrorenheit, mich zu\neinem Grußboten zu degradieren?$k$pNiemand anderes als\n$Nf.
+MID_BERKUT_LEVEL1: Ha! Jetzt kann jeder sehen, aus\nwelchem Holz ich geschnitzt bin.
+MID_BERKUT_LEVEL2: Ich hätte etwas Besseres\nerwartet.
+MID_BERKUT_LEVEL3: Ich weigere mich, das\nzu akzeptieren!
+MID_BERKUT_SKILL: Eine kluge Wahl. Dadurch hast\ndu dir etwas Respekt verdient.
+MID_BERKUT_JOIN: Ich bin Berkut. Eines Tages werde\nich das rigelische Reich regieren.\nDanke den Göttern, dass ich hier bin.
+MID_BERKUT_STRONGEST: Oh, du bist es. Deine Rastlosigkeit ist\nwürdelos. Ruhe dich wenigstens für\neinen Moment aus und setz dich.$k$pIch gebe es nicht gern zu, aber nach\nso vielen Kämpfen muss ich deine\nFührungsqualitäten anerkennen.$k$pNach meiner Rückkehr nach Rigel\nkönnte ich dich als $GKommandant,Kommandantin|\ngebrauchen. Was hältst du davon?$k$pHa! Dieses "Nein" kam schnell und\nunmissverständlich. Natürlich hatte\nich diese Antwort von dir erwartet.$k$pSei froh, dass wir nicht in Rigel sind.\nDein Kopf würde auf dem Boden\nherumrollen.$k$pDas Schicksal eines großen Mannes\nist es, niemanden einen Freund zu\nnennen.$k$pAber du... Bist du vielleicht so etwas\nwie $Gein Freund,eine Freundin| für mich? Es ist\nzumindest eine Möglichkeit.
+MID_BERKUT_VOICE01: てえい！
+MID_BERKUT_VOICE02: Drop dead!
+MID_BERKUT_VOICE03: ぬうっ…
+MID_BERKUT_VOICE04: You worm!
+MID_BERKUT_VOICE05: Das ist dein Ende!
+MID_BERKUT_VOICE06: Stirb, du Wurm!
+MID_BERKUT_VOICE07: Werde bloß nicht übermütig!
+MID_BERKUT_VOICE08: Geh mir aus den Augen!
+MID_BERKUT_VOICE09: Never...
+MID_BERKUT_VOICE10: Hmph
+MID_BERKUT_VOICE11: Ugh. What are you doing?
+MID_BERKUT_VOICE12: Again? How infantile.
+MID_BERKUT_VOICE13: Enough of that. State your purpose, if you have one.\n
+MID_BERKUT_VOICE14: My uncle is owed all of the respect in the world.
+MID_BERKUT_VOICE15: I must gather my might. I will need it.
+MID_BERKUT_VOICE16: I will rule Valentia in due course.
+MID_BERKUT_VOICE17: You do intrigue me. I should keep my eye on you.
+MID_BERKUT_VOICE18: All right.
+MID_BERKUT_VOICE19: Hmpf.
+MID_BERKUT_VOICE20: I'll do it.

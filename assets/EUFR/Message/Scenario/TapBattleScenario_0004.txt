@@ -1,0 +1,11 @@
+[Heroes Archive] (TapBattleScenario_0004)
+
+
+Heroes Message Name: Message
+
+
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0004_03_00: $WmMPID_エリーゼ,ch05_25_Elise_F_Normal,Face|$w0|Oh, on dirait que vous n'avez pas été\ntrès sages... Je vais vous donner une\nbonne leçon !$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0004_07_00: $WmMPID_メイ,ch10_16_May_F_Normal,Face|$w0|Je peux faire tomber de gros éclairs\nqui font mal, alors préparez-vous\nà rôtir !$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0004_11_00: $WmMPID_ティルテュ,ch06_08_Tailto_F_Normal,Face|$w0|Il y a beaucoup de choses qui\nm'ennuient...$k$pPar contre, ce qui m'intéresse\ntoujours, c'est de terrasser mes\nennemis avec la magie !$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0004_15_00: $WmMPID_ニノ,ch03_03_Nino_F_Normal,Face|$w0|J'aimerais tant être plus forte et\nplus utile... C'est pour cela que je\ndois faire de mon mieux !$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0004_19_00: $WmMPID_サーリャ,ch04_10_Sallya_F_Normal,Face|$w0|Le bien, le mal, tout cela n'a pas\nd'importance pour moi. Je suis\nlibre de détester qui je veux !$k$p

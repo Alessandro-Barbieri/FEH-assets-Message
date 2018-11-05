@@ -1,0 +1,38 @@
+[Heroes Archive] (DORCAS)
+
+
+Heroes Message Name: Message
+
+
+MID_DORCAS_HOME1: Sembra passata una vita da quando\nero un mercenario in Biran. Spero\nche Natalie se la stia cavando bene...
+MID_DORCAS_HOME2: Quando ero un mercenario, ho\nconosciuto una ragazza di nome\nLyn. Mi ha aperto gli occhi.$k$pE ora eccomi qui...\n
+MID_DORCAS_HOME3: Hai la faccia sfinita. Un buon guerriero\nsa sempre quando è l'ora di rifiatare.\nVatti a riposare un po'.
+MID_DORCAS_HOME4: Vuoi che ti parli di mia moglie? Non\nho molti aneddoti interessanti...\nma va bene.
+MID_DORCAS_HOME5: Tra un esercizio e l'altro mi piace\nguardare l'autoritratto che Natalie\nha fatto per me.
+MID_DORCAS_FRIEND: Sei $Nu?\nMi raccomando, prenditi cura di\n$Nf.
+MID_DORCAS_LEVEL1: Quando mi sento così bene\ninizio sempre a preoccuparmi.
+MID_DORCAS_LEVEL2: Niente male.
+MID_DORCAS_LEVEL3: Devo migliorare, per Natalie.
+MID_DORCAS_SKILL: Ancora non ci credo che stia\nsuccedendo veramente.
+MID_DORCAS_JOIN: Mi chiamo Dorcas. Ero un\nmercenario in Biran, ma...\nè acqua passata.
+MID_DORCAS_STRONGEST: Sono diventato un mercenario per\ncurare mia moglie. È un lavoro che\nmi ha allontanato dalla retta via.$k$pMa poi ho incontrato Lyn e gli altri...\nMi hanno aiutato a ritornare sui miei\npassi.$k$pVoglio ripagarli per tutto quello che\nhanno fatto per me e Natalie.$k$pSo che lotti per una giusta causa,\ncome Lyn... E poi non sono il tipo che\ncommette due volte lo stesso errore.$k$pSpero che continuerai a permettermi\ndi lottare al tuo fianco finché avrò\nfiato.
+MID_DORCAS_VOICE01: ふんっ！
+MID_DORCAS_VOICE02: すまんな…
+MID_DORCAS_VOICE03: うああっ！
+MID_DORCAS_VOICE04: 死にはしない…
+MID_DORCAS_VOICE05: Per Natalie!
+MID_DORCAS_VOICE06: Non mi ucciderai.
+MID_DORCAS_VOICE07: Tornerò a casa!
+MID_DORCAS_VOICE08: Costi quel che costi!
+MID_DORCAS_VOICE09: Natalie...I'm sorry...
+MID_DORCAS_VOICE10: Haha
+MID_DORCAS_VOICE11: I'm no Hero. It takes all I have just to survive.
+MID_DORCAS_VOICE12: How's my health? Well, I had some bad mutton earlier, but I feel fine otherwise...
+MID_DORCAS_VOICE13: I was a mercenary once. But it was only for the money.
+MID_DORCAS_VOICE14: My wife's sick... She can't walk. But the medicine she needs is so expensive.
+MID_DORCAS_VOICE15: I keep one of Natalie's pictures on me.
+MID_DORCAS_VOICE16: I will make it home at all costs. She's waiting for me...
+MID_DORCAS_VOICE17: If my skills are useful to you, use them as you see fit.
+MID_DORCAS_VOICE18: Got it.
+MID_DORCAS_VOICE19: What's next?
+MID_DORCAS_VOICE20: Give me an order.

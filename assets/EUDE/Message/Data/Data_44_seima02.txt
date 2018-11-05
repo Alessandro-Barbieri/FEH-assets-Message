@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: Drei Helden
+MID_MISSION_S201801CHARA01_A1: Gegner besiegen
+MID_MISSION_H_S201801CHARA01_A1: Besiege einen Gegner.
+MID_MISSION_S201801CHARA01_A2: Hinata greift an
+MID_MISSION_H_S201801CHARA01_A2: Lass Hinata einige\nGegner besiegen.
+MID_MISSION_S201801CHARA01_A3: Gwendolyn greift an
+MID_MISSION_H_S201801CHARA01_A3: Lass Gwendolyn einige\nGegner besiegen.
+MID_MISSION_S201801CHARA01_B1: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201801CHARA01_B1: Lass Hinata einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201801CHARA01_B2: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201801CHARA01_B2: Lass Gwendolyn einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201801CHARA01_B3: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201801CHARA01_B3: Lass Saizo einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201801CHARA01_C1: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201801CHARA01_C1: Lass Hinata einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201801CHARA01_C2: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201801CHARA01_C2: Lass Gwendolyn einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201801CHARA01_C3: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201801CHARA01_C3: Lass Saizo einige Gegner\nbesiegen, die Level 35\noder höher sind.
+MID_MISSION_S201801STORY02_TITLE: Glühender Entschluss
+MID_MISSION_S201801STORY02_A1: Kap. 4 Tl. 1 - Extrem
+MID_MISSION_H_S201801STORY02_A1: Bewältige Buch II: Kap. 4/Tl. 1 auf Extrem\nmit einem Axtkämpfer im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201801STORY02_A2: Kap. 4 Tl. 2 - Extrem
+MID_MISSION_H_S201801STORY02_A2: Bewältige Buch II: Kap. 4/Tl. 2 auf Extrem\nmit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY02_A3: Kap. 4 Tl. 3 - Extrem
+MID_MISSION_H_S201801STORY02_A3: Bewältige Buch II: Kap. 4/Tl. 3 auf Extrem\nmit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY02_A4: Kap. 4 Tl. 4 - Extrem
+MID_MISSION_H_S201801STORY02_A4: Bewältige Buch II: Kap. 4/Tl. 4 auf Extrem\nmit einem Axtkämpfer im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201801STORY02_A5: Kap. 4 Tl. 5 - Extrem
+MID_MISSION_H_S201801STORY02_A5: Bewältige Buch II: Kap. 4/Tl. 5 auf Extrem\nmit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MPID_エイリーク2: Eirika
+MPID_ラーチェル: L'Arachel
+MPID_リオン: Lyon
+MPID_マリカ: Marisa
+MPID_ミルラ: Myrrh
+MPID_HONOR_エイリーク2: Nostalgikerin
+MPID_HONOR_ラーチェル: Lichtprinzessin
+MPID_HONOR_リオン: Schattenprinz
+MPID_HONOR_マリカ: Blutroter Blitz
+MPID_HONOR_ミルラ: Großer Drache
+MPID_H_エイリーク2: Prinzessin von Renais, Ephraims Zwilling\nund Lyons Freundin. Zusammen haben die\ndrei in ihrer Jugend viel gelernt. Erscheint\nin Fire Emblem: The Sacred Stones.
+MPID_H_ラーチェル: Prinzessin von Rausten. Auf ihrer Mission,\ndie Monster um Magvel zu besiegen, wird\nsie von Dozla und Rennac begleitet. Er-\nscheint in Fire Emblem: The Sacred Stones.
+MPID_H_リオン: Prinz von Grado. Kämpft nur\nsehr ungern. Ein Kindheitsfreund\nvon Ephraim und Eirika. Erscheint\nin Fire Emblem: The Sacred Stones.
+MPID_H_マリカ: Eine überhebliche Schwertkämpferin in Geriks\nSöldnerbande. Bekannt als Blutroter Blitz\nverbreitet sie Angst und Schrecken.\nErscheint in Fire Emblem: The Sacred Stones.
+MPID_H_ミルラ: Eine Manakete hohen Alters. Ihr Aussehen\ntrügt. Sie ist schüchtern, fühlt sich aber\nEphraim verbunden. Erscheint in\nFire Emblem: The Sacred Stones.
+MPID_VOICE_エイリーク2: Kira Buckland
+MPID_VOICE_ラーチェル: Carrie Keranen
+MPID_VOICE_リオン: Mark P. Whitten
+MPID_VOICE_マリカ: Connor Kelley
+MPID_VOICE_ミルラ: Erica Lindbeck
+MPID_ILLUST_エイリーク2: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_ラーチェル: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_リオン: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_マリカ: Fujikawa Akira (藤川祥)
+MPID_ILLUST_ミルラ: Amagaitaro (アマガイタロー)
+MID_SEQUENTIAL_MAP_TERM_201801_2: Vom Sturm verhüllt
+MSID_グレイプニル: Gleipnir
+MSID_ナグルファル: Naglfar
+MSID_イーヴァルディ: Ivaldi
+MSID_神炎のブレス: Erzflamme
+MSID_竜刃の鼓舞: Drachen verb.
+MSID_魔防の指揮1: Res.-Taktik 1
+MSID_魔防の指揮2: Res.-Taktik 2
+MSID_魔防の指揮3: Res.-Taktik 3
+MSID_赤魔の経験1: Buch-Erf. (rot) 1
+MSID_赤魔の経験2: Buch-Erf. (rot) 2
+MSID_赤魔の経験3: Buch-Erf. (rot) 3
+MSID_H_グレイプニル: Verleiht Res. +3. Sind die KP des Gegners\nzu Beginn des Kampfes = 100 %, erhält\ndie Einheit Angr./Ges. +3 im Kampf.
+MSID_H_ナグルファル: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
+MSID_H_イーヴァルディ: Verleiht Res. +3. Sind die KP des Gegners\nzu Beginn des Kampfes = 100 %, erhält\ndie Einheit Angr./Ges. +3 im Kampf.
+MSID_H_神炎のブレス: Verleiht Angr. +3. Ist Ver. der Einheit um\nmind. 5 höher als Ver. des Gegners, kann\nder Gegner keinen Folgeangriff ausführen.\nIst Rw. des Gegners = 2, wird der Schaden\ndurch Ver. oder Res. des Gegners berechnet\n(geringerer Wert gilt).
+MSID_H_竜刃の鼓舞: Verleiht benachbarten Drachen-\nverbündeten zu Beginn des Zuges\nAngr./Ges. +6 für 1 Zug.
+MSID_H_魔防の指揮1: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nRes. +2 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_魔防の指揮2: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nRes. +4 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_魔防の指揮3: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nRes. +6 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MSID_H_赤魔の経験1: Überlebt die Einheit und verwendet ein\nrotes Buch, erhält sie Erf. x 1,5. (Bei\nmehreren ähnlichen Effekten wird nur\nder höchste angewandt.)
+MSID_H_赤魔の経験2: Überlebt die Einheit, erhalten alle Ver-\nbündeten mit roten Büchern Erf. x 1,5.\n(Bei mehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
+MSID_H_赤魔の経験3: Überlebt die Einheit und verwendet ein\nrotes Buch, erhalten alle Verbündeten\nmit roten Büchern Erf. x 2. (Bei mehreren\nähnlichen Effekten wird nur der höchste\nangewandt.)
+MID_CHAPTER_TITLE_C0204: Buch II: Kapitel 4
+MID_CHAPTER_C0204: Glühend. Entschluss
+MID_STAGE_TITLE_S2041: Kapitel 4 - Teil 1
+MID_STAGE_TITLE_S2042: Kapitel 4 - Teil 2
+MID_STAGE_TITLE_S2043: Kapitel 4 - Teil 3
+MID_STAGE_TITLE_S2044: Kapitel 4 - Teil 4
+MID_STAGE_TITLE_S2045: Kapitel 4 - Teil 5
+MID_STAGE_S2041: Gebührender Schutz
+MID_STAGE_S2042: Blutroter Blitz
+MID_STAGE_S2043: Schattenprinzessinnen
+MID_STAGE_S2044: Der junge Drache
+MID_STAGE_S2045: Glühender Entschluss
+MID_CHAPTER_ST_C0202: Kapitel 3 & 4
+MID_STAGE_TITLE_ST_S0203: Kapitel 3
+MID_STAGE_TITLE_ST_S0204: Kapitel 4
+MID_STAGE_TITLE_ST_S1204: Kapitel 3 & 4
+MID_STAGE_HONOR_T0024: Schattenprinz
+MID_STAGE_T0024: Lyon

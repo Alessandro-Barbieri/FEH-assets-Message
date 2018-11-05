@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: Gunnthrá
+MPID_HONOR_スリーズ: Voz de ensueño
+MPID_H_スリーズ: Primera princesa de Nifl, el reino del\nhielo. Tiene un corazón dulce y amable,\ncon fuertes instintos maternales.
+MPID_VOICE_スリーズ: Carrie Keranen
+MPID_ILLUST_スリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_スリーズ: Efecto legendario: Viento\nMejora de aliados: PV +3, Res. +4\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de viento si se\nha otorgado la bendición de viento.
+MSID_ブリザード: Ventisca
+MSID_氷の封印: Hechizo gélido
+MSID_H_ブリザード: Otorga Res. +3. La unidad recibe\nuna bonificación de Atq. igual a la\npenalización total sufrida por el rival.
+MSID_H_氷の封印: Al comienzo de cada turno, si la unidad\ntiene PV ≥ 50 %, Atq. y Vel. -6 al enemigo\nque tenga menos Def. en su próxima acción.\n(No se puede legar).

@@ -1,0 +1,38 @@
+[Heroes Archive] (LEON)
+
+
+Heroes Message Name: Message
+
+
+MID_LEON_HOME1: ¿Es cierto que me invocaste\ncon ese artilugio esperpéntico?\nCómo te atreves...
+MID_LEON_HOME2: Niles y Odín son mis vasallos. Seguro\nque los encuentras... peculiares, pero\nen el fondo son buenas personas.
+MID_LEON_HOME3: Patrullar es un trabajo duro,\npero te mantiene despierto. Si\nnecesitas ayuda, aquí me tienes.
+MID_LEON_HOME4: ¿Hay biblioteca en este castillo?\nMe encantaría enfrascarme en una\nbuena lectura. Algo de historia, quizás.
+MID_LEON_HOME5: Usé un hechizo para hacer\ncaer fruta de un árbol y... Bueno,\ndigamos que tengo fruta guisada.
+MID_LEON_FRIEND: Hola, vengo a transmitirte saludos\nde $Nf.\nY eso es todo, así que hasta otra.
+MID_LEON_LEVEL1: ¡Excelente! Aunque debo\ndecir que me lo merezco.
+MID_LEON_LEVEL2: Mejorar siempre es bueno.
+MID_LEON_LEVEL3: No es lo que esperaba,\npero es mejor que nada...
+MID_LEON_SKILL: Te agradezco que me concedas\neste poder.
+MID_LEON_JOIN: Soy Leo, príncipe de Nohr y portador\ndel grimorio divino Brynhildr, con el\nque controlo el poder de la gravedad.$k$pSolo tengo que chascar los dedos\npara reducir a cenizas a cualquier\nrufián que me importune.
+MID_LEON_STRONGEST: ¡Qué raro! Ya estás aquí otra vez.\nY supongo que querrás charlar,\ncomo de costumbre...$k$pPor muy desabrido que sea contigo,\ntú solo tienes palabras amables para\nmí y te preocupas por mi bienestar.$k$pMal que me pese, debo reconocer que\ntus atenciones me hicieron más fuerte.$k$pMe cuesta mucho admitirlo, y más\nen voz alta, pero... haces que me\nsienta valorado. Por primera vez.$k$pPor eso... siento que puedo poner\nmi vida en tus manos y deseo\npermanecer siempre a tu lado.$k$pAh, me puse tan sentimental que\nno me aguanto ni yo. ¡La culpa\nes tuya!
+MID_LEON_VOICE01: せやっ！
+MID_LEON_VOICE02: ほら…
+MID_LEON_VOICE03: うわっ！
+MID_LEON_VOICE04: I can take it...
+MID_LEON_VOICE05: No hay escapatoria.
+MID_LEON_VOICE06: ¡Te reduciré a cenizas!
+MID_LEON_VOICE07: Grave error...
+MID_LEON_VOICE08: ¡Que la oscuridad te lleve!
+MID_LEON_VOICE09: What disgrace...
+MID_LEON_VOICE10: Heh...
+MID_LEON_VOICE11: Care to chat? I'm always up for stimulating discussion.
+MID_LEON_VOICE12: I rarely while away the time. But glad to do so with you.
+MID_LEON_VOICE13: I have achieved mastery over gravity, thanks to my divine tome, Brynhildr.
+MID_LEON_VOICE14: You'd never guess what vegetable really catches my fancy. Tomatoes.
+MID_LEON_VOICE15: If you ever see my collar inside out, please tell me. Not that it ever happens.
+MID_LEON_VOICE16: Where are Niles and Odin? Those two, always gallivanting off...
+MID_LEON_VOICE17: I'll expect clear orders in battle. Ugh, I'm sorry. I know you're on top of things.
+MID_LEON_VOICE18: Yes?
+MID_LEON_VOICE19: Ready.
+MID_LEON_VOICE20: All right.

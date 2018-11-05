@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIABELL)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIABELL_HOME1: Sharena è una persona deliziosa, non\ntrovi? Forse dovrei invitare lei e Lissa\nper un tè...
+MID_MARIABELL_HOME2: Faccio parte di un gruppo noto come\ni Pastori. Una nobildonna come me\nha il dovere di preservare la pace.
+MID_MARIABELL_HOME3: Ti dai sempre così tanto da fare.\nLascia che sia io a pattugliare.$k$pDarò una sonora lezione a qualsiasi\nseccatore che osi incrociare il mio\ncammino.
+MID_MARIABELL_HOME4: Bella lì! Come butta? Io ci sto dentro\nda paura.$k$pPerché mi guardi così? Sto solo\nesercitandomi a parlare come\nla gente comune del mio paese.
+MID_MARIABELL_HOME5: Studiare è un mio dovere in quanto\nnobildonna, ma lo faccio anche\nperché sogno di diventare magistrato.
+MID_MARIABELL_FRIEND: Tieni la schiena dritta! Sono qui per\nportarti un segno di amicizia da parte\ndi $Nf.$k$pIl minimo che tu possa fare è avere\nuna postura decorosa mentre\nlo accetti.
+MID_MARIABELL_LEVEL1: Nessuno è alla mia altezza.
+MID_MARIABELL_LEVEL2: Risultati di questo livello sono\nsemplici da ottenere per me.
+MID_MARIABELL_LEVEL3: Assolutamente inaccettabile.
+MID_MARIABELL_SKILL: Sarò ancora più brillante d'ora in poi.
+MID_MARIABELL_JOIN: Sono Maribelle, una dei Pastori. Ti\noffro il mio aiuto, se lo desideri.
+MID_MARIABELL_STRONGEST: Non ci siamo. Questo tuo aspetto\nsciatto non va proprio bene. Ti pare\nadatto a $Gun famoso eroe,una famosa eroina|?$k$pÈ importante che tu abbia un aspetto\nadeguato.$k$pDevi tenere il collo dritto e il petto\norgogliosamente in fuori. No, no,\nnon ci siamo proprio!$k$pImmagina di essere $Glegato,legata| a un palo\nche ti costringe a star $Gdritto,dritta| dalla\ntesta ai piedi.$k$pBene! Vedi che puoi riuscirci se solo\nti impegni? Direi che ora hai buone\nbasi per esercitarti...$k$pAnche solo un piccolo miglioramento\npuò fare la differenza.$k$pIn quanto nobildonna, non potrei mai\ndichiarare fedeltà a qualcuno privo di\nbuone maniere. Ma nel tuo caso...$k$pNonostante le tue carenze, resterei\nal tuo fianco fino alla fine.$k$pOra che ne dici di fare una pausa e\nsorseggiare del tè? Io uso soltanto\nle più raffinate infusioni.$k$pE visto che hai fatto tanti progressi\ncon la postura, non ti sgriderò per\nil tuo modo scomposto di bere il tè!
+MID_MARIABELL_VOICE01: はいっ！
+MID_MARIABELL_VOICE02: それっ！
+MID_MARIABELL_VOICE03: きゃあ！
+MID_MARIABELL_VOICE04: なんと野蛮な…！
+MID_MARIABELL_VOICE05: Errore imperdonabile.
+MID_MARIABELL_VOICE06: Sarò la tua rovina.
+MID_MARIABELL_VOICE07: Spiacente, ma ti farò a pezzi.
+MID_MARIABELL_VOICE08: Mi hai fatto arrabbiare!
+MID_MARIABELL_VOICE09: You brute.
+MID_MARIABELL_VOICE10: うふふ
+MID_MARIABELL_VOICE11: Occhio a quel che fai!
+MID_MARIABELL_VOICE12: Ti voglio al meglio!
+MID_MARIABELL_VOICE13: Tell me, is Lissa here? She's a dear friend of mine.
+MID_MARIABELL_VOICE14: You touched me! Without saying a thing! Do people in your world consider that some sort of greeting?
+MID_MARIABELL_VOICE15: Your summoning skills are so valuable. I have to admit—they're very impressive!
+MID_MARIABELL_VOICE16: Hmm. Perhaps a tea party is just the thing!
+MID_MARIABELL_VOICE17: If you have a sincere desire to improve your bearing, I'll take it on myself to instruct you.
+MID_MARIABELL_VOICE18: Yes.
+MID_MARIABELL_VOICE19: Onward!
+MID_MARIABELL_VOICE20: I'll do it!

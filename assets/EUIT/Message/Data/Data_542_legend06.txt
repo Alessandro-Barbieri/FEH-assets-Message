@@ -1,0 +1,180 @@
+[Heroes Archive] (Data_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201807A_TITLE: Imprese luglio (1)
+MID_MISSION_M201807A_A1: Vinci con unità verdi
+MID_MISSION_H_M201807A_A1: Sconfiggi un nemico con unità di tipo verde.
+MID_MISSION_M201807A_A2: Vinci con unità a cavallo
+MID_MISSION_H_M201807A_A2: Sconfiggi un nemico con unità a cavallo.
+MID_MISSION_M201807A_A3: Batti nemici rossi
+MID_MISSION_H_M201807A_A3: Sconfiggi un nemico di tipo rosso.
+MID_MISSION_M201807A_A4: Batti unità di fanteria
+MID_MISSION_H_M201807A_A4: Sconfiggi un'unità di fanteria nemica.
+MID_MISSION_M201807A_A5: Arena: vinci duelli
+MID_MISSION_H_M201807A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201807A_A6: Blu batte nem. Liv 20+
+MID_MISSION_H_M201807A_A6: Sconfiggi un nemico di livello 20 o superiore\ncon unità di tipo blu.
+MID_MISSION_M201807A_A7: Fanter. batte nem. Liv 20+
+MID_MISSION_H_M201807A_A7: Sconfiggi un nemico di livello 20 o superiore\ncon unità di fanteria.
+MID_MISSION_M201807A_A8: Batti nemici verdi Liv 20+
+MID_MISSION_H_M201807A_A8: Sconfiggi un nemico di tipo verde\ndi livello 20 o superiore.
+MID_MISSION_M201807A_A9: Batti cavalleria Liv 20+
+MID_MISSION_H_M201807A_A9: Sconfiggi un nemico a cavallo\ndi livello 20 o superiore.
+MID_MISSION_M201807A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201807A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201807A_A11: Rosso batte nem. Liv 35+
+MID_MISSION_H_M201807A_A11: Sconfiggi un nemico di livello 35 o superiore\ncon unità di tipo rosso.
+MID_MISSION_M201807A_A12: Volan. batte nem. Liv 35+
+MID_MISSION_H_M201807A_A12: Sconfiggi un nemico di livello 35 o superiore\ncon unità volanti.
+MID_MISSION_M201807A_A13: Batti nemici blu Liv 35+
+MID_MISSION_H_M201807A_A13: Sconfiggi un nemico di tipo blu di livello 35\no superiore.
+MID_MISSION_M201807A_A14: Batti nem. volanti Liv 35+
+MID_MISSION_H_M201807A_A14: Sconfiggi un nemico volante di livello 35\no superiore.
+MID_MISSION_M201807A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201807A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_M201807B_TITLE: Imprese luglio (2)
+MID_MISSION_M201807B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201807B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201807B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201807B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201807B_A4: Completa il quarto piano della\ntorre di allenamento. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201807B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201807B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201807B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201807B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201807B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201807B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201807B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201807B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201807B_A12: Completa il decimo piano della torre di\nallenamento con sole unità corazzate.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201807B_A13: Completa il decimo piano della torre di\nallenamento con sole unità a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201807B_A14: Completa il decimo piano della torre di\nallenamento con sole unità volanti.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_TITLE: Imprese luglio (3)
+MID_MISSION_M201807C_A1: Completa 4-1
+MID_MISSION_H_M201807C_A1: Completa il cap. 4, parte 1. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807C_A2: Completa 4-2
+MID_MISSION_H_M201807C_A2: Completa il cap. 4, parte 2 con un'unità\nrossa in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807C_A3: Completa 4-3
+MID_MISSION_H_M201807C_A3: Completa il cap. 4, parte 3 con un'unità\nblu in squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201807C_A4: Completa 4-4
+MID_MISSION_H_M201807C_A4: Completa il cap. 4, parte 4 con un'unità\nverde in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807C_A5: Completa 4-5
+MID_MISSION_H_M201807C_A5: Completa il cap. 4, parte 5 con un'unità\nneutra in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201807C_A6: Completa 7-1 difficile+
+MID_MISSION_H_M201807C_A6: Completa il cap. 7, parte 1 al livello di\ndifficoltà difficile o superiore. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201807C_A7: Completa 7-2 difficile+
+MID_MISSION_H_M201807C_A7: Completa il cap. 7, parte 2 con un'unità rossa\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A8: Completa 7-3 difficile+
+MID_MISSION_H_M201807C_A8: Completa il cap. 7, parte 3 con un'unità blu\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A9: Completa 7-4 difficile+
+MID_MISSION_H_M201807C_A9: Completa il cap. 7, parte 4 con un'unità verde\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A10: Completa 7-5 difficile+
+MID_MISSION_H_M201807C_A10: Completa il cap. 7, parte 5 con un'unità neutra\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A11: Completa 10-1 folle
+MID_MISSION_H_M201807C_A11: Completa il cap. 10, parte 1 alla difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A12: Completa 10-2 folle
+MID_MISSION_H_M201807C_A12: Completa il cap. 10, parte 2 alla difficoltà\nfolle con un'unità rossa in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A13: Completa 10-3 folle
+MID_MISSION_H_M201807C_A13: Completa il cap. 10, parte 3 alla difficoltà\nfolle con un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201807C_A14: Completa 10-4 folle
+MID_MISSION_H_M201807C_A14: Completa il cap. 10, parte 4 alla difficoltà\nfolle con un'unità verde in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201807C_A15: Completa 10-5 folle
+MID_MISSION_H_M201807C_A15: Completa il cap. 10, parte 5 alla difficoltà\nfolle con un'unità neutra in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806HERO02_TITLE: Grandi battaglie
+MID_MISSION_S201806HERO02_A1: Batti Lyon
+MID_MISSION_H_S201806HERO02_A1: Con Sharena, la principessa di Askr, nella\ntua squadra, vinci la Grande battaglia\ncontro Lyon, il principe del buio.
+MID_MISSION_S201806HERO02_A2: Batti Lyon
+MID_MISSION_H_S201806HERO02_A2: Con Lyon, il principe del buio, nella tua\nsquadra, vinci la Grande battaglia contro Lyon,\nil principe del buio, al livello folle o superiore.
+MID_MISSION_S201806HERO02_A3: Batti Lyon
+MID_MISSION_H_S201806HERO02_A3: Batti Lyon, il principe del buio, di livello 40\no superiore con Sharena, la principessa\ndi Askr.
+MID_MISSION_S201806HERO02_A4: Batti Lyon
+MID_MISSION_H_S201806HERO02_A4: Batti Lyon, il principe del buio, di livello 40\no superiore con Lyon, il principe del buio.
+MID_MISSION_S201806HERO02_A5: Batti Lyon
+MID_MISSION_H_S201806HERO02_A5: Vinci la Grande battaglia contro Lyon,\nil principe del buio, al livello di difficoltà folle o\nsuperiore con una squadra di sole unità volanti.
+MID_MISSION_S201807BLESS01_TITLE: Dono del fuoco
+MID_MISSION_S201807BLESS01_A1: Vinci con Dono del fuoco
+MID_MISSION_H_S201807BLESS01_A1: Sconfiggi un nemico usando un eroe a cui\nhai conferito il Dono del fuoco (non un eroe\nleggendario di tipo fuoco).
+MID_MISSION_S201807BLESS01_A2: Vinci con Dono del fuoco
+MID_MISSION_H_S201807BLESS01_A2: Sconfiggi un nemico di livello 20 o superiore\nusando un eroe a cui hai conferito il Dono del\nfuoco (non un eroe leggendario di tipo fuoco).
+MID_MISSION_S201807BLESS01_A3: Vinci con Dono del fuoco
+MID_MISSION_H_S201807BLESS01_A3: Sconfiggi un nemico di tipo rosso di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono del fuoco (non un eroe leggendario\ndi tipo fuoco).
+MID_MISSION_S201807BLESS01_A4: Vinci con Dono del fuoco
+MID_MISSION_H_S201807BLESS01_A4: Sconfiggi un nemico di tipo blu di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono del fuoco (non un eroe leggendario\ndi tipo fuoco).
+MID_MISSION_S201807BLESS01_A5: Vinci con Dono del fuoco
+MID_MISSION_H_S201807BLESS01_A5: Sconfiggi un nemico di tipo verde di livello 35\no superiore usando un eroe a cui hai conferito\nil Dono del fuoco (non un eroe leggendario\ndi tipo fuoco).
+MID_MISSION_S201807BLESS01_A6: Torre: vinci al 1º piano
+MID_MISSION_H_S201807BLESS01_A6: Completa il primo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del fuoco (non un eroe\nleggendario di tipo fuoco).
+MID_MISSION_S201807BLESS01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201807BLESS01_A7: Completa il quinto piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del fuoco (non un eroe\nleggendario di tipo fuoco).
+MID_MISSION_S201807BLESS01_A8: Torre: vinci al 10º piano
+MID_MISSION_H_S201807BLESS01_A8: Completa il decimo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del fuoco (non un eroe\nleggendario di tipo fuoco).
+MID_MISSION_S201807VOTE01_TITLE: Sfida ai voti
+MID_MISSION_S201807VOTE01_A1: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A1: Vinci una battaglia nella sfida ai voti.
+MID_MISSION_S201807VOTE01_A2: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A2: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201807VOTE01_A3: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A3: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201807VOTE01_A4: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A4: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201807VOTE01_A5: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A5: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201807VOTE01_A6: Torre: vinci al 2º piano
+MID_MISSION_H_S201807VOTE01_A6: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201807VOTE01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201807VOTE01_A7: Vinci al quinto piano della torre\ndi allenamento.
+MID_MISSION_S201807VOTE01_A8: Torre: vinci all'8º piano
+MID_MISSION_H_S201807VOTE01_A8: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201807VOTE01_A9: Arena: vinci duelli
+MID_MISSION_H_S201807VOTE01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807VOTE01_A10: Arena: vinci duelli
+MID_MISSION_H_S201807VOTE01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201807VOTE01_A11: Arena: vinci duelli int.+
+MID_MISSION_H_S201807VOTE01_A11: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201807VOTE01_A12: Arena: vinci duelli int.+
+MID_MISSION_H_S201807VOTE01_A12: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201807VOTE01_A13: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A13: Vinci una battaglia nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201807VOTE01_A14: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A14: Vinci una battaglia nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201807VOTE01_A15: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A15: Vinci una battaglia nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201807VOTE01_A16: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A16: Vinci una battaglia nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MID_MISSION_S201807VOTE01_A17: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A17: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201807VOTE01_A18: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A18: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201807VOTE01_A19: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A19: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201807VOTE01_A20: Sfida ai voti
+MID_MISSION_H_S201807VOTE01_A20: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MPID_伝承ヘクトル: Hector
+MPID_HONOR_伝承ヘクトル: Il neomarchese
+MPID_H_伝承ヘクトル: Hector, in qualità di nuovo marchese di\nOsitia, impugna Fragore e guida il popolo\ncon rinnovata determinazione. Compare in\nFire Emblem: The Blazing Blade.
+MPID_VOICE_伝承ヘクトル: Patrick Seitz
+MPID_ILLUST_伝承ヘクトル: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承ヘクトル: Effetto leggendario: fuoco\nIncremento alleato: PS +3, Att +2\n\nSe quest'unità scende in battaglia durante\nla stagione del fuoco con alleati che hanno\nil Dono del fuoco, questi alleati ricevono\nquest'effetto leggendario.
+MSID_天雷アルマーズ: Fragore tuono
+MSID_オスティアの鼓動: Battito d'Ositia
+MSID_H_天雷アルマーズ: Conferisce Dif +3. Se entro 2 spazi vi sono\npiù alleati (unità esclusa) che nemici\n(bersaglio escluso), il nemico non può\neseguire un attacco doppio.
+MSID_H_オスティアの鼓動: Se nella squadra ci sono al massimo 2 unità con\nlo stesso tipo di movimento, anticipa l'attivazione\ndell'abilità speciale (contatore -1) a tutti gli alleati\nall'inizio del turno 1.
+MID_STAGE_HONOR_T0034: Battaglia legame
+MID_STAGE_T0034: M. e H.
+MID_STAGE_HONOR_L0004: Il neomarchese
+MID_STAGE_L0004: Hector

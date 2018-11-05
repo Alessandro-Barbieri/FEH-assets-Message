@@ -1,0 +1,63 @@
+[Heroes Archive] (ALFONS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_HOME1: 你對召喚出來的英雄產生感情了嗎？\n不過，可別跟英雄們走得太近喔。\n要是產生了感情，離別時會很痛苦的。
+MID_ALFONS_HOME2: 剛開始的時候，大家都反對我加入機關。\n不過，我仍然很想為祖國而戰。\n大家都說我不像個王子呢。
+MID_ALFONS_HOME3: 要巡視的話，也讓我同行吧。\n畢竟你上次還迷路過嘛……\n呵呵，所以我沒辦法放著你不管啊。
+MID_ALFONS_HOME4: 下次要不要去書庫看看呢？\n應該會有不少你有興趣的文獻。\n例如異世界的英雄傳說之類的。
+MID_ALFONS_HOME5: 我剛剛在保養劍。\n我很喜歡研磨這顆鑲嵌在劍柄上的石頭。\n你看，在石頭裡搖曳的白色火焰很漂亮吧？
+MID_ALFONS_FRIEND: 你是$Nf的朋友吧。\n這裡就是異界的亞斯克王國……\n另一個我也在這個世界的某處嗎？
+MID_ALFONS_LEVEL1: 都是多虧了$Nu。\n謝謝你。
+MID_ALFONS_LEVEL2: 我好像變強了呢。\n這樣我就能繼續戰鬥了。
+MID_ALFONS_LEVEL3: 下次一定要……
+MID_ALFONS_SKILL: 每當你像這樣幫助我的時候，\n都讓我覺得很高興喔。
+MID_ALFONS_STRONGEST: 你總是會來找我呢。\n我已經很習慣有你在身邊了，\n要是沒看到你，都會讓我心神不寧呢。$k$p老實說，我原本不想跟召喚師……\n不，是不打算跟你變得如此親近。\n珍惜的事物越多，失去時越痛苦。$k$p我因為身分的緣故，必須保護自己，\n所以才會覺得跟別人保持距離，\n不對其他人產生感情，是非常合理的。$k$p不過……那卻行不通。\n我已經產生了無法離開你的念頭，\n希望能像這樣，一直待在你身旁。$k$p……你也有同樣的感覺？謝謝你。\n我一定會守護你，絕對不會失去你的。\n我的搭檔，$Nu……
+MID_ALFONS_VOICE01: 嘿！
+MID_ALFONS_VOICE02: 喝！
+MID_ALFONS_VOICE03: 唔……！
+MID_ALFONS_VOICE04: 糟了……！
+MID_ALFONS_VOICE05: 別妨礙我的任務。
+MID_ALFONS_VOICE06: 讓我通過。
+MID_ALFONS_VOICE07: 抱歉了。
+MID_ALFONS_VOICE08: 我要打開前進的道路讓你看看。
+MID_ALFONS_VOICE09: 我、我輸了嗎……？
+MID_ALFONS_VOICE10: 呵呵……
+MID_ALFONS_VOICE11: 要不要聊聊？
+MID_ALFONS_VOICE12: 召喚師是像你這樣的人，真是太好了。
+MID_ALFONS_VOICE13: 希望這個國家……能讓人民綻放笑容、安居樂業。
+MID_ALFONS_VOICE14: 我刻意不讓自己跟其他人深交，尤其是跟英雄們。
+MID_ALFONS_VOICE15: 希望你不要什麼都沒說，就默默地消失……
+MID_ALFONS_VOICE16: 身為王子，身為特務機關的一員，必須更努力才行……
+MID_ALFONS_VOICE17: 能跟你並肩作戰，我真的很開心。\n我希望有一天可以開啟門扉……去看看你誕生的世界。
+MID_ALFONS_VOICE18: 好。
+MID_ALFONS_VOICE19: 請給我指示。
+MID_ALFONS_VOICE20: 走吧。
+MID_ALFONS_VOICE21: ファイアーエムブレム
+MID_ALFONS_VOICE22: 暗黒竜と光の剣
+MID_ALFONS_VOICE23: 外伝
+MID_ALFONS_VOICE24: 紋章の謎
+MID_ALFONS_VOICE25: 聖戦の系譜
+MID_ALFONS_VOICE26: トラキア７７６
+MID_ALFONS_VOICE27: 封印の剣
+MID_ALFONS_VOICE28: 烈火の剣
+MID_ALFONS_VOICE29: 聖魔の光石
+MID_ALFONS_VOICE30: 蒼炎の軌跡
+MID_ALFONS_VOICE31: 暁の女神
+MID_ALFONS_VOICE32: 新・暗黒竜と光の剣
+MID_ALFONS_VOICE33: 新・紋章の謎
+MID_ALFONS_VOICE34: 覚醒
+MID_ALFONS_VOICE35: ｉｆ
+MID_ALFONS_VOICE36: 活動開始囉。
+MID_ALFONS_VOICE37: 大戰似乎開始了。
+MID_ALFONS_VOICE38: 強敵出現了嗎……？
+MID_ALFONS_VOICE39: 有新英雄現身囉。
+MID_ALFONS_VOICE40: 稍等一下。
+MID_ALFONS_VOICE41: 注意武器的互克。
+MID_ALFONS_VOICE42: 可以用攻擊破壞崩塌的牆壁喔。
+MID_ALFONS_VOICE43: 在天上飛行的兵種很怕弓箭喔。
+MID_ALFONS_VOICE44: 只要將我方夥伴重疊，就能發動輔助技能喔。
+MID_ALFONS_VOICE_BRAVE: ブレイヴ
+MID_ALFONS_VOICE_HEROES: ヒーローズ

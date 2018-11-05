@@ -1,0 +1,216 @@
+[Heroes Archive] (Data_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_無竜: Farbloser Atem. Magische Waffe. Rw.: 1.\nSchaden um Res. des Ziels verringert.
+MID_MISSION_S201803ARM01_TITLE: Waffenübungen
+MID_MISSION_S201803ARM01_A1: Schwert gewinnt
+MID_MISSION_H_S201803ARM01_A1: Lass einen Verbündeten mit Schwert\nGegner besiegen.
+MID_MISSION_S201803ARM01_A2: Lanze gewinnt
+MID_MISSION_H_S201803ARM01_A2: Lass einen Verbündeten mit Lanze\nGegner besiegen.
+MID_MISSION_S201803ARM01_A3: Axt gewinnt
+MID_MISSION_H_S201803ARM01_A3: Lass einen Verbündeten mit Axt\nGegner besiegen.
+MID_MISSION_S201803ARM01_A4: Bogen gewinnt
+MID_MISSION_H_S201803ARM01_A4: Lass einen Verbündeten mit Bogen\nGegner besiegen.
+MID_MISSION_S201803ARM01_A5: Dolch gewinnt
+MID_MISSION_H_S201803ARM01_A5: Lass einen Verbündeten mit Dolch\nGegner besiegen.
+MID_MISSION_S201803ARM01_A6: Rotes Buch gewinnt
+MID_MISSION_H_S201803ARM01_A6: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen.
+MID_MISSION_S201803ARM01_A7: Blaues Buch gewinnt
+MID_MISSION_H_S201803ARM01_A7: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen.
+MID_MISSION_S201803ARM01_A8: Grünes Buch gewinnt
+MID_MISSION_H_S201803ARM01_A8: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen.
+MID_MISSION_S201803ARM01_A9: Stab gewinnt
+MID_MISSION_H_S201803ARM01_A9: Lass einen Verbündeten mit Stab\nGegner besiegen.
+MID_MISSION_S201803ARM01_A10: Schwert gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A10: Lass einen Verbündeten mit Schwert\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201803ARM01_A11: Lanze gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A11: Lass einen Verbündeten mit Lanze\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201803ARM01_A12: Axt gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A12: Lass einen Verbündeten mit Axt\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201803ARM01_A13: Bogen gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A13: Lass einen Verbündeten mit Bogen\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201803ARM01_A14: Dolch gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A14: Lass einen Verbündeten mit Dolch\nGegner besiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_S201803ARM01_A15: R. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A15: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201803ARM01_A16: B. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A16: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201803ARM01_A17: G. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A17: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201803ARM01_A18: Stab gewinnt/Lv. 35+
+MID_MISSION_H_S201803ARM01_A18: Lass einen Verbündeten mit Stab\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201803HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201803HERO01_A1: Zephiel besiegen
+MID_MISSION_H_S201803HERO01_A1: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter,\nmit Alfonse im Team.
+MID_MISSION_S201803HERO01_A2: Zephiel besiegen
+MID_MISSION_H_S201803HERO01_A2: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter, auf Extrem\noder höher mit Zephiel im Team.
+MID_MISSION_S201803HERO01_A3: Zephiel besiegen
+MID_MISSION_H_S201803HERO01_A3: Setze Alfonse ein und besiege\nZephiel: Der Erretter, der\nmindestens Level 40 ist.
+MID_MISSION_S201803HERO01_A4: Zephiel besiegen
+MID_MISSION_H_S201803HERO01_A4: Setze Zephiel ein und besiege\nZephiel: Der Erretter, der\nmindestens Level 40 ist.
+MID_MISSION_S201803HERO01_A5: Zephiel besiegen
+MID_MISSION_H_S201803HERO01_A5: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter, auf Extrem\no. höher nur mit gepanzerten Einheiten.
+MID_MISSION_S201803SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201803SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201803SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201803SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201803SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201803SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803STORY01_TITLE: Die wahre Beute
+MID_MISSION_S201803STORY01_A1: Kap. 6 Tl. 1 - Extrem
+MID_MISSION_H_S201803STORY01_A1: Bewältige Buch II, Kap. 6 - Tl. 1 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY01_A2: Kap. 6 Tl. 2 - Extrem
+MID_MISSION_H_S201803STORY01_A2: Bewältige Buch II, Kap. 6 - Tl. 2 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY01_A3: Kap. 6 Tl. 3 - Extrem
+MID_MISSION_H_S201803STORY01_A3: Bewältige Buch II, Kap. 6 - Tl. 3 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY01_A4: Kap. 6 Tl. 4 - Extrem
+MID_MISSION_H_S201803STORY01_A4: Bewältige Buch II, Kap. 6 - Tl. 4 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY01_A5: Kap. 6 Tl. 5 - Extrem
+MID_MISSION_H_S201803STORY01_A5: Bewältige Buch II, Kap. 6 - Tl. 5 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MPID_クロム2: Chrom
+MPID_ジェローム: Gerome
+MPID_マーク女: Linfan
+MPID_マーク男: Linfan
+MPID_HONOR_クロム2: Erhabener Ritter
+MPID_HONOR_ジェローム: Maskenreiter
+MPID_HONOR_マーク女: Tochter der Ferne
+MPID_HONOR_マーク男: Sohn der Ferne
+MPID_H_クロム2: Der Prinz von Ylisse, der zu neuer Kraft\nerwacht ist. Reitet auf seinem treuen\nRoss tapfer in die Schlacht. Erscheint in\nFire Emblem: Awakening.
+MPID_H_ジェローム: Zelchers Sohn, der soziale Interaktionen nicht\ngewohnt ist. Seine Wyvern Minerva gehörte\nseiner verstorbenen Mutter. Erscheint in\nFire Emblem: Awakening.
+MPID_H_マーク女: Daraens Tochter. Eine aufstrebende\nTaktikerin ohne Gedächtnis. Ist\nlebenslustig und liebt das Studieren.\nErscheint in Fire Emblem: Awakening.
+MPID_H_マーク男: Daraens Sohn. Ein aufstrebender\nTaktiker ohne Gedächtnis. Ist\nlebenslustig und liebt das Studieren.\nErscheint in Fire Emblem: Awakening.
+MPID_VOICE_クロム2: Matt Mercer
+MPID_VOICE_ジェローム: Orion Acaba
+MPID_VOICE_マーク女: Nicole Balick
+MPID_VOICE_マーク男: Todd Haberkorn
+MPID_ILLUST_クロム2: Yamada Kotaro (山田孝太郎)
+MPID_ILLUST_ジェローム: Meka (めか)
+MPID_ILLUST_マーク女: Tobi
+MPID_ILLUST_マーク男: Tobi
+MID_SEQUENTIAL_MAP_TERM_201803: Unsichtbare Bande
+MSID_深き印の風: Mal des Windes
+MSID_第8迷宮の覇者1: Überfall-Ass H 1
+MSID_第8迷宮の覇者2: Überfall-Ass H 2
+MSID_第8迷宮の覇者3: Überfall-Ass H 3
+MSID_封剣ファルシオン: Sigilliert. Falchion
+MSID_ポールアクス: Stabaxt
+MSID_ポールアクス＋: Stabaxt+
+MSID_魔書ギムレー: Grimas Wahrheit
+MSID_ブラーサーペント: Blárschlange
+MSID_ブラーサーペント＋: Blárschlange+
+MSID_鬼神明鏡の構え1: Spiegelstand 1
+MSID_鬼神明鏡の構え2: Spiegelstand 2
+MSID_守備の封印1: Ver.-Bremse 1
+MSID_守備の封印2: Ver.-Bremse 2
+MSID_守備の封印3: Ver.-Bremse 3
+MSID_強化無効・遠距離1: Anti-Fernkampf 1
+MSID_強化無効・遠距離2: Anti-Fernkampf 2
+MSID_強化無効・遠距離3: Anti-Fernkampf 3
+MSID_H_深き印の風: Der Gegner mit dem höchsten Angr.\nerleidet zu Beginn des Zuges Angr. -7\nbis nach seiner nächsten Aktion.
+MSID_H_ジークリンデ改: Verleiht benachbarten Verbündeten zu\nBeginn des Zuges Angr. +4 für 1 Zug.
+MSID_H_ブリュンヒルデ改: Im Kampf gegen Magieanwender erleidet\ndie Einheit 30 % weniger Schaden durch\nden ersten Angriff.
+MSID_H_アウルR: Verstärkt Angr./Ges./Ver./Res.\nim Kampf um die Anzahl der\nbenachbarten Verbündeten x 2.
+MSID_H_強化共有R: Gewährt im Kampf Bonus auf\nAngr./Ges./Ver./Res. = höchster\nBonus für Verbündete im Umkreis\nvon 2 Feldern. Jeder Wertebonus\nwird einzeln berechnet.
+MSID_H_追撃不可R遠守備1: Gegner mit Bogen, Dolch, Magie oder Stab,\nderen Ver. geringer ist als Ver. der Einheit,\nkönnen keine Folgeangriffe durchführen.
+MSID_H_第8迷宮の覇者1: Verleiht Res. +1.
+MSID_H_第8迷宮の覇者2: Verleiht Res. +2.
+MSID_H_第8迷宮の覇者3: Verleiht Res. +3.
+MSID_H_封剣ファルシオン: Effektiv gegen Drachen. Sind die KP der\nEinheit zu Beginn des Kampfes < 100 %,\nerhält sie Angr./Ges./Ver./Res. +5 im Kampf.
+MSID_H_ポールアクス: Effektiv gegen Kavallerie.
+MSID_H_ポールアクス＋: Effektiv gegen Kavallerie.
+MSID_H_魔書ギムレー: Verleiht Ver. +3. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von 2\nFeldern des Ziels nach dem Angriff Angr./\nGes. -5 bis nach ihren nächsten Aktionen\n+ Einheit und Verbündete im Umkreis von\n2 Feldern erhalten Angr./Ges. +5 für 1 Zug.
+MSID_H_ブラーサーペント: Initiiert der Gegner den Kampf und nutzt\nBogen, Dolch, Magie oder Stab, erhält\ndie Einheit Ver./Res. +6 im Kampf.
+MSID_H_ブラーサーペント＋: Initiiert der Gegner den Kampf und nutzt\nBogen, Dolch, Magie oder Stab, erhält\ndie Einheit Ver./Res. +6 im Kampf.
+MSID_H_鬼神明鏡の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Res. +2 im Kampf.
+MSID_H_鬼神明鏡の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Res. +4 im Kampf.
+MSID_H_守備の封印1: Der Gegner mit der höchsten Ver.\nerleidet zu Beginn des Zuges Ver. -3\nbis nach seiner nächsten Aktion.
+MSID_H_守備の封印2: Der Gegner mit der höchsten Ver.\nerleidet zu Beginn des Zuges Ver. -5\nbis nach seiner nächsten Aktion.
+MSID_H_守備の封印3: Der Gegner mit der höchsten Ver.\nerleidet zu Beginn des Zuges Ver. -7\nbis nach seiner nächsten Aktion.
+MSID_H_強化無効・遠距離1: Sind die KP der Einheit zu Beginn des Kampfes\n= 100 % und der Gegner nutzt Bogen, Dolch,\nMagie oder Stab, werden seine Boni (etwa\ndurch Stärkungs- und Sammelfähigkeiten)\nim Kampf aufgehoben.
+MSID_H_強化無効・遠距離2: Sind die KP der Einheit zu Beginn des Kampfes\n≥ 50 % und der Gegner nutzt Bogen, Dolch,\nMagie oder Stab, werden Boni des Gegners\n(etwa durch Stärkungs- und Sammelfähig-\nkeiten) im Kampf aufgehoben.
+MSID_H_強化無効・遠距離3: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MID_CHAPTER_TITLE_C0206: Buch II: Kapitel 6
+MID_CHAPTER_C0206: Die wahre Beute
+MID_STAGE_TITLE_S2061: Kapitel 6 - Teil 1
+MID_STAGE_TITLE_S2062: Kapitel 6 - Teil 2
+MID_STAGE_TITLE_S2063: Kapitel 6 - Teil 3
+MID_STAGE_TITLE_S2064: Kapitel 6 - Teil 4
+MID_STAGE_TITLE_S2065: Kapitel 6 - Teil 5
+MID_STAGE_S2061: Ein ferner Traum
+MID_STAGE_S2062: Der gezeichnete Ritter
+MID_STAGE_S2063: Tochter des Taktikers
+MID_STAGE_S2064: Sohn der Taktikerin
+MID_STAGE_S2065: Besonnener Stahl
+MID_HEADQUARTERS_TUTORIAL_DIALOG_00: Zerstöre die gegnerische Festung!
+MID_WARPBASE_TUTORIAL_DIALOG_00: Teleportiere auf eigenem Gebiet!
+MID_STAGE_TITLE_SB_0008: 8. Überfall
+MID_CHAPTER_ST_C0203: Kapitel 5 & 6
+MID_STAGE_TITLE_ST_S0205: Kapitel 5
+MID_STAGE_TITLE_ST_S0206: Kapitel 6
+MID_STAGE_TITLE_ST_S1206: Kapitel 5 & 6
+MID_STAGE_HONOR_T0027: Treue-Heldenkampf
+MID_STAGE_T0027: Chrom/Lissa
+MID_STAGE_HONOR_V0221: Awakening
+MID_STAGE_V0221: Tharja
+MID_STAGE_HONOR_V0222: Awakening
+MID_STAGE_V0222: Olivia
+MID_STAGE_HONOR_V0223: Fates
+MID_STAGE_V0223: Odin
+MID_STAGE_HONOR_Q0001: Wöchentlich
+MID_STAGE_Q0001: Revierkampf
+MID_STAGE_HONOR_Q0002: Wöchentlich
+MID_STAGE_Q0002: Revierkampf
+MID_STAGE_HONOR_Q0003: Wöchentlich
+MID_STAGE_Q0003: Revierkampf
+MID_STAGE_HONOR_Q0004: Wöchentlich
+MID_STAGE_Q0004: Revierkampf
+MID_STAGE_HONOR_Q0005: Wöchentlich
+MID_STAGE_Q0005: Revierkampf
+MID_STAGE_TITLE_BG_WATER_0001: Wasser 1
+MID_STAGE_BG_WATER_0001: Haupttor
+MID_STAGE_TITLE_BG_WATER_0002: Wasser 2
+MID_STAGE_BG_WATER_0002: Pfad
+MID_STAGE_TITLE_BG_WATER_0003: Wasser 3
+MID_STAGE_BG_WATER_0003: Statue
+MID_STAGE_TITLE_BG_WATER_0004: Wasser 4
+MID_STAGE_BG_WATER_0004: Laube
+MID_STAGE_TITLE_BG_WATER_0005: Wasser 5
+MID_STAGE_BG_WATER_0005: Höhle
+MID_STAGE_TITLE_BG_WATER_0006: Wasser 6
+MID_STAGE_BG_WATER_0006: Heiligtum
+MID_STAGE_TITLE_BG_WIND_0001: Wind 1
+MID_STAGE_BG_WIND_0001: Haupttor
+MID_STAGE_TITLE_BG_WIND_0002: Wind 2
+MID_STAGE_BG_WIND_0002: Pfad
+MID_STAGE_TITLE_BG_WIND_0003: Wind 3
+MID_STAGE_BG_WIND_0003: Statue
+MID_STAGE_TITLE_BG_WIND_0004: Wind 4
+MID_STAGE_BG_WIND_0004: Laube
+MID_STAGE_TITLE_BG_WIND_0005: Wind 5
+MID_STAGE_BG_WIND_0005: Höhle
+MID_STAGE_TITLE_BG_EARTH_0001: Erde 1
+MID_STAGE_BG_EARTH_0001: Haupttor
+MID_STAGE_TITLE_BG_EARTH_0002: Erde 2
+MID_STAGE_BG_EARTH_0002: Pfad
+MID_STAGE_TITLE_BG_EARTH_0003: Erde 3
+MID_STAGE_BG_EARTH_0003: Statue
+MID_STAGE_TITLE_BG_EARTH_0004: Erde 4
+MID_STAGE_BG_EARTH_0004: Laube
+MID_STAGE_TITLE_BG_EARTH_0005: Erde 5
+MID_STAGE_BG_EARTH_0005: Höhle
+MID_STAGE_TITLE_BG_FIRE_0001: Feuer 1
+MID_STAGE_BG_FIRE_0001: Haupttor
+MID_STAGE_TITLE_BG_FIRE_0002: Feuer 2
+MID_STAGE_BG_FIRE_0002: Pfad
+MID_STAGE_TITLE_BG_FIRE_0003: Feuer 3
+MID_STAGE_BG_FIRE_0003: Statue
+MID_STAGE_TITLE_BG_FIRE_0004: Feuer 4
+MID_STAGE_BG_FIRE_0004: Laube
+MID_STAGE_TITLE_BG_FIRE_0005: Feuer 5
+MID_STAGE_BG_FIRE_0005: Höhle

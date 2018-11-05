@@ -1,0 +1,38 @@
+[Heroes Archive] (JHOSUA)
+
+
+Heroes Message Name: Message
+
+
+MID_JHOSUA_HOME1: 俺には近い将来成すべきことがある。\n賭けはその時のための、\n運試しってやつだな。
+MID_JHOSUA_HOME2: 世界を渡り歩いてたさ。\nこの剣の腕で傭兵をしたり、\n酒場で賭けをして稼いだりしてな。
+MID_JHOSUA_HOME3: 俺の祖国とはまるで違うが、\nここもなかなか良い国だな。\n賭場でもあればもっと良いんだが…
+MID_JHOSUA_HOME4: なあ、俺と賭けをしないか？\nはは、大丈夫だって。\n素人相手にサマはやらねえよ。
+MID_JHOSUA_HOME5: 賭けってのはなかなか奥深いもんだぜ。\n有り金全部すっちまったこともあるが…\nそれも授業料ってやつさ。
+MID_JHOSUA_FRIEND: $Nfに頼まれて\n挨拶に来たぜ。ところで、\nここらに賭場はあるかい？
+MID_JHOSUA_LEVEL1: こいつは驚いた。\nバカヅキってやつだな。
+MID_JHOSUA_LEVEL2: ツキが回ってきたようだぜ。
+MID_JHOSUA_LEVEL3: ツキに逃げられちまったぜ…
+MID_JHOSUA_SKILL: この力は…母上、ジャハナ、\nそして世界のために…
+MID_JHOSUA_JOIN: 俺はヨシュア、傭兵だ。\nあんたが俺の雇い主かい？\nよろしく頼むぜ。
+MID_JHOSUA_STRONGEST: 俺はガキの頃に\n窮屈な家を飛び出してな…\n長い間、諸国を放浪してきた。$k$p今思えばバカな真似をしたもんだが…\nおかげで俺は多くを学ぶことができた。\nこうして、あんたとも出会えたしな。$k$p俺はいずれ国に戻る。\nそして王位を継ぎ、\nこの身を祖国に捧げるつもりだ。$k$pああ、俺はジャハナって国の王子だ。\n俺が戻る時は、$Nu、\nあんたにも一緒に来て欲しい。$k$pすぐに良い返事をくれとは言わねえよ。\nま、ゆっくり考えといてくれ。
+MID_JHOSUA_VOICE01: はっ！
+MID_JHOSUA_VOICE02: 悪いな
+MID_JHOSUA_VOICE03: うああっ！
+MID_JHOSUA_VOICE04: ついてねえ…
+MID_JHOSUA_VOICE05: 俺を恨むなよ？
+MID_JHOSUA_VOICE06: あんたを斬るんだが…
+MID_JHOSUA_VOICE07: 賭けなよ
+MID_JHOSUA_VOICE08: しのぎ切れるか？
+MID_JHOSUA_VOICE09: ツキが…なかったな…
+MID_JHOSUA_VOICE10: ふっ
+MID_JHOSUA_VOICE11: あんたのツキがどれほどか、見せてもらうぜ。
+MID_JHOSUA_VOICE12: ！？　おっと、イカサマがばれちまったか。
+MID_JHOSUA_VOICE13: 表か、裏か…賭けるかい？　俺は裏だ。
+MID_JHOSUA_VOICE14: お、表だ。あんた、今日はついてるな。
+MID_JHOSUA_VOICE15: おっと、裏だ。悪いな、おれの勝ちだ。
+MID_JHOSUA_VOICE16: 母上…お許しください。俺が、必ず国を…
+MID_JHOSUA_VOICE17: あんたが欲しい。俺が賭けに勝ったら、力を貸してくれ。
+MID_JHOSUA_VOICE18: ああ
+MID_JHOSUA_VOICE19: 表か、裏か…
+MID_JHOSUA_VOICE20: 腹は決まったか？

@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: Sharena
+MID_MISSION_S201712BRAVE01_A1: Tower: 1st Stratum
+MID_MISSION_H_S201712BRAVE01_A1: Clear First Stratum of the\nTraining Tower with Sharena\non your team.
+MID_MISSION_S201712BRAVE01_A2: Tower: 5th Stratum
+MID_MISSION_H_S201712BRAVE01_A2: Clear Fifth Stratum of the\nTraining Tower with Sharena\non your team.
+MID_MISSION_S201712BRAVE01_A3: Tower: 9th Stratum
+MID_MISSION_H_S201712BRAVE01_A3: Clear Ninth Stratum of the\nTraining Tower with Sharena\non your team.
+MID_MISSION_S201712BRAVE01_A4: Tower: 10th Stratum
+MID_MISSION_H_S201712BRAVE01_A4: Clear Tenth Stratum of the Training Tower\nwith Sharena and two allies on your team.\nAll three allies must survive.
+MID_MISSION_S201712BRAVE01_A5: KO with Sharena
+MID_MISSION_H_S201712BRAVE01_A5: Use Sharena to defeat an enemy.
+MID_MISSION_S201712BRAVE01_A6: KO Level 20+ Foe
+MID_MISSION_H_S201712BRAVE01_A6: Defeat an enemy that is level 20\nor higher with Sharena.
+MID_MISSION_S201712BRAVE01_A7: KO Level 40+ Foe
+MID_MISSION_H_S201712BRAVE01_A7: Defeat an enemy that is level 40\nor higher with Sharena.
+MID_MISSION_S201712CHARA01_TITLE: Three Heroes
+MID_MISSION_S201712CHARA01_A1: KO Foe
+MID_MISSION_H_S201712CHARA01_A1: Defeat an enemy.
+MID_MISSION_S201712CHARA01_A2: KO with Laslow
+MID_MISSION_H_S201712CHARA01_A2: Use Laslow to defeat an enemy.
+MID_MISSION_S201712CHARA01_A3: KO with Florina
+MID_MISSION_H_S201712CHARA01_A3: Use Florina to defeat an enemy.
+MID_MISSION_S201712CHARA01_B1: KO Level 20+ Foe
+MID_MISSION_H_S201712CHARA01_B1: Defeat an enemy that is level 20\nor higher with Laslow.
+MID_MISSION_S201712CHARA01_B2: KO Level 20+ Foe
+MID_MISSION_H_S201712CHARA01_B2: Defeat an enemy that is level 20\nor higher with Florina.
+MID_MISSION_S201712CHARA01_B3: KO Level 20+ Foe
+MID_MISSION_H_S201712CHARA01_B3: Defeat an enemy that is level 20 or\nhigher with Bartre.
+MID_MISSION_S201712CHARA01_C1: KO Level 35+ Foe
+MID_MISSION_H_S201712CHARA01_C1: Defeat an enemy that is level 35\nor higher with Laslow.
+MID_MISSION_S201712CHARA01_C2: KO Level 35+ Foe
+MID_MISSION_H_S201712CHARA01_C2: Defeat an enemy that is level 35\nor higher with Florina.
+MID_MISSION_S201712CHARA01_C3: KO Level 35+ Foe
+MID_MISSION_H_S201712CHARA01_C3: Defeat an enemy that is level 35 or\nhigher with Bartre.
+MID_MISSION_S201712HERO02_TITLE: Grand Hero Battles
+MID_MISSION_S201712HERO02_A1: Defeat Navarre
+MID_MISSION_H_S201712HERO02_A1: With Alfonse on your team, win\nthe Grand Hero Battle against\nNavarre: Scarlet Sword.
+MID_MISSION_S201712HERO02_A2: Defeat Navarre
+MID_MISSION_H_S201712HERO02_A2: With Navarre: Scarlet Sword on your team,\nwin the Grand Hero Battle against Navarre:\nScarlet Sword on Lunatic or harder.
+MID_MISSION_S201712HERO02_A3: Defeat Navarre
+MID_MISSION_H_S201712HERO02_A3: Use Alfonse to defeat a level 40 or\nhigher Navarre: Scarlet Sword.
+MID_MISSION_S201712HERO02_A4: Defeat Navarre
+MID_MISSION_H_S201712HERO02_A4: Use Navarre: Scarlet Sword\nto defeat a level 40 or higher\nNavarre: Scarlet Sword.
+MID_MISSION_S201712HERO02_A5: Defeat Navarre
+MID_MISSION_H_S201712HERO02_A5: Win the Grand Hero Battle against\nNavarre: Scarlet Sword on Lunatic\nor higher with an all-infantry team.
+MID_MISSION_S201712SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201712SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201712SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201712SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201712SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201712SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712STORY01_TITLE: Winter's Envoy
+MID_MISSION_S201712STORY01_A1: Clear P16-1 on Lunatic
+MID_MISSION_H_S201712STORY01_A1: Clear Paralogue 16: Part 1 on Lunatic\ndifficulty with a sword ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712STORY01_A2: Clear P16-2 on Lunatic
+MID_MISSION_H_S201712STORY01_A2: Clear Paralogue 16: Part 2 on Lunatic\ndifficulty with a lance ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712STORY01_A3: Clear P16-3 on Lunatic
+MID_MISSION_H_S201712STORY01_A3: Clear Paralogue 16: Part 3 on Lunatic\ndifficulty with an axe ally on your\nteam. All four allies must survive.
+MPID_冬祭クロム: Chrom
+MPID_冬祭リズ: Lissa
+MPID_冬祭ルフレ男: Robin
+MPID_冬祭サーリャ: Tharja
+MPID_HONOR_冬祭クロム: Gifted Leader
+MPID_HONOR_冬祭リズ: Pure Joy
+MPID_HONOR_冬祭ルフレ男: Festive Tactician
+MPID_HONOR_冬祭サーリャ: "Normal Girl"
+MPID_H_冬祭クロム: A prince of Ylisse and descendant of the\nHero-King. He was summoned in the middle\nof a party for a winter festival. Appears\nin Fire Emblem Awakening.
+MPID_H_冬祭リズ: A princess of Ylisse and Chrom's sister. Of\nall the winter-festival party foods, she loves\ncake the most. Appears in Fire Emblem\nAwakening.
+MPID_H_冬祭ルフレ男: Chrom's right-hand man and a tactician who\nhas amnesia. Spends all day thinking of plans\nfor enjoying the winter festival. Appears in\nFire Emblem Awakening.
+MPID_H_冬祭サーリャ: A mage from Plegia who, while usually creepy,\nis acting bright and cheerful...for some reason.\nAppears in Fire Emblem Awakening.
+MPID_VOICE_冬祭クロム: Matt Mercer
+MPID_VOICE_冬祭リズ: Kate Davis
+MPID_VOICE_冬祭ルフレ男: David Vincent
+MPID_VOICE_冬祭サーリャ: Stephanie Sheh
+MPID_ILLUST_冬祭クロム: Ebila (えびら)
+MPID_ILLUST_冬祭リズ: Umiu Geso (海鵜げそ)
+MPID_ILLUST_冬祭ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_冬祭サーリャ: Washimoto (わし元)
+MSID_聖樹: Tannenboom!
+MSID_聖樹＋: Tannenboom!+
+MSID_プレゼント袋: Sack o' Gifts
+MSID_プレゼント袋＋: Sack o' Gifts+
+MSID_ハンドベル: Handbell
+MSID_ハンドベル＋: Handbell+
+MSID_燭台: Candelabra
+MSID_燭台＋: Candelabra+
+MSID_攻撃速さの大覚醒1: Brazen Atk/Spd 1
+MSID_攻撃速さの大覚醒2: Brazen Atk/Spd 2
+MSID_攻撃速さの大覚醒3: Brazen Atk/Spd 3
+MSID_攻撃守備の大覚醒1: Brazen Atk/Def 1
+MSID_攻撃守備の大覚醒2: Brazen Atk/Def 2
+MSID_攻撃守備の大覚醒3: Brazen Atk/Def 3
+MSID_攻撃隊形1: Bold Fighter 1
+MSID_攻撃隊形2: Bold Fighter 2
+MSID_攻撃隊形3: Bold Fighter 3
+MSID_迎撃隊形1: Vengeful Fighter 1
+MSID_迎撃隊形2: Vengeful Fighter 2
+MSID_迎撃隊形3: Vengeful Fighter 3
+MSID_赤魔の技量1: R Tome Valor 1
+MSID_赤魔の技量2: R Tome Valor 2
+MSID_赤魔の技量3: R Tome Valor 3
+MSID_H_聖樹: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_聖樹＋: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_プレゼント袋: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_プレゼント袋＋: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_ハンドベル: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_ハンドベル＋: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_燭台: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_燭台＋: If foe initiates combat, grants Atk/Spd/Def/Res+2\nduring combat.
+MSID_H_攻撃速さの大覚醒1: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Spd+3 during combat.
+MSID_H_攻撃速さの大覚醒2: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Spd+5 during combat.
+MSID_H_攻撃速さの大覚醒3: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Spd+7 during combat.
+MSID_H_攻撃守備の大覚醒1: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+3 during combat.
+MSID_H_攻撃守備の大覚醒2: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+5 during combat.
+MSID_H_攻撃守備の大覚醒3: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+7 during combat.
+MSID_H_攻撃隊形1: If unit's HP = 100% and unit initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_攻撃隊形2: If unit's HP ≥ 50% and unit initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_攻撃隊形3: If unit initiates combat, unit makes a guaranteed\nfollow-up attack. Grants Special cooldown\ncharge +1 per attack. (Does not stack.)
+MSID_H_迎撃隊形1: If unit's HP ≥ 90% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_迎撃隊形2: If unit's HP ≥ 70% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_迎撃隊形3: If unit's HP ≥ 50% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_赤魔の技量1: While unit lives and uses a red tome, unit gets\n1.5x SP. (Only highest value applied. Does not\nstack.)
+MSID_H_赤魔の技量2: While unit lives, all red tome allies on team get\n1.5x SP. (Only highest value applied. Does not\nstack.)
+MSID_H_赤魔の技量3: While unit lives, all red tome allies on team get\n2x SP. (Only highest value applied. Does not\nstack.)
+MID_CHAPTER_TITLE_CX015: Paralogue 16
+MID_CHAPTER_CX015: Winter's Envoy
+MID_STAGE_TITLE_X0151: Paralogue 16-1
+MID_STAGE_TITLE_X0152: Paralogue 16-2
+MID_STAGE_TITLE_X0153: Paralogue 16-3
+MID_STAGE_X0151: Get Those Gifts!
+MID_STAGE_X0152: Tinsel Tussle
+MID_STAGE_X0153: If You're Good...
+MID_STAGE_TITLE_ST_X0014: Paralogue 15
+MID_STAGE_TITLE_ST_X0015: Paralogue 16
+MID_STAGE_TITLE_ST_X1015: P. 15 & 16
+MID_CHAPTER_ST_CX008: P. 15 & 16
+MID_STAGE_HONOR_V0121: Daily
+MID_STAGE_V0121: Part 1
+MID_STAGE_HONOR_V0122: Daily
+MID_STAGE_V0122: Part 2
+MID_STAGE_HONOR_V0123: Daily
+MID_STAGE_V0123: Part 3
+MID_STAGE_HONOR_V0124: Daily
+MID_STAGE_V0124: Part 4
+MID_STAGE_HONOR_V0125: Daily
+MID_STAGE_V0125: Part 5
+MID_STAGE_HONOR_V0126: Daily
+MID_STAGE_V0126: Part 6
+MID_STAGE_HONOR_V0127: Daily
+MID_STAGE_V0127: Part 7
+MID_STAGE_HONOR_V0131: Daily
+MID_STAGE_V0131: Part 8
+MID_STAGE_HONOR_V0132: Daily
+MID_STAGE_V0132: Part 9
+MID_STAGE_HONOR_V0133: Daily
+MID_STAGE_V0133: Part 10
+MID_STAGE_HONOR_V0134: Daily
+MID_STAGE_V0134: Part 11
+MID_STAGE_HONOR_V0135: New Year's
+MID_STAGE_V0135: Part 1
+MID_STAGE_HONOR_V0136: New Year's
+MID_STAGE_V0136: Part 2
+MID_STAGE_HONOR_V0137: New Year's
+MID_STAGE_V0137: Part 3

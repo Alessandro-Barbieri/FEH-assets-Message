@@ -1,0 +1,38 @@
+[Heroes Archive] (LAZWARD)
+
+
+Heroes Message Name: Message
+
+
+MID_LAZWARD_HOME1: Glaubt Ihr, ich hätte mehr Erfolg\nbei den Damen, wenn ich den\nWächtern von Askr beitreten würde?$k$pWeiß steht mir allerdings nicht\nbesonders gut, fürchte ich.
+MID_LAZWARD_HOME2: Ich diene Mylord Xander und werde\nihn um jeden Preis verteidigen. Auch,\nwenn er mich stets rügt und tadelt.
+MID_LAZWARD_HOME3: Ihr schaut nach dem Rechten?\nSehr freundlich!$k$pWollen wir eine Tasse Tee trinken,\nwenn Eure Aufgaben hier erledigt\nsind?
+MID_LAZWARD_HOME4: Wir sollten einmal zusammen die\nUmgebung erforschen.$k$pEs gibt ein paar Dinge, die ich\nEuch gern zeigen würde.
+MID_LAZWARD_HOME5: Ah! Ihr habt mich beim Tanzen\nerwischt! Ich übe zwar noch...$k$pAber Ihr werdet unter den Ersten\nsein, die meinen Tanz sehen\nwerden, wenn es so weit ist.
+MID_LAZWARD_FRIEND: Verzeiht! Darf ich stören? Ich möchte\nEuch nur kurz Grüße übermitteln\nvon $Nf.
+MID_LAZWARD_LEVEL1: Ich bin so stark, das\ngibt's gar nicht!
+MID_LAZWARD_LEVEL2: Bald liegen mir alle\nFrauen zu Füßen!
+MID_LAZWARD_LEVEL3: S-schau nicht so! Das\nnächste Mal dann...
+MID_LAZWARD_SKILL: Ihr habt mich stärker gemacht.\nDafür danke ich Euch.
+MID_LAZWARD_JOIN: Ich bin Laslow, Söldner aus Nohr.\nWollen wir einen Tee trinken? Dabei\nlernt man sich auch besser kennen.
+MID_LAZWARD_STRONGEST: Nun, das muss wohl Schicksal sein!$k$pIch habe gerade an Euch gedacht\nund schon seid Ihr da,\n$Nu.$k$pAber verratet das keinem.$k$pDies ist nicht das erste Mal, dass ich\nvon einer Welt in eine andere gerufen\nwurde. Nein, wahrlich nicht.$k$pSeht Ihr, ich kam aus Nohr in diese\nWelt, aber ich KOMME gar nicht aus\nNohr.$k$pIch wurde aus einer weiteren Welt\ndorthin gerufen.$k$pIch habe mein Aussehen und meinen\nNamen für meinen Aufenthalt in\nNohr geändert.$k$pIch musste Euch dies erzählen, da ich\nnicht möchte, dass es zwischen uns\nirgendwelche Geheimnisse gibt.$k$pMein wahrer Name ist Íñigo, und Ihr\nhabt mein Versprechen, dass ich stets\nfür Euch kämpfen werde - mit einem$k$pLächeln im Gesicht! ...Nun, wie wäre\nes, wenn wir uns jetzt eine Tasse Tee\nholen würden, $Gmein Freund,meine Freundin|?
+MID_LAZWARD_VOICE01: はっ！
+MID_LAZWARD_VOICE02: でぇい！
+MID_LAZWARD_VOICE03: うあっ！
+MID_LAZWARD_VOICE04: That hurts...
+MID_LAZWARD_VOICE05: Genau, wo ich dich haben wollte!
+MID_LAZWARD_VOICE06: Wollen wir tanzen?
+MID_LAZWARD_VOICE07: Bis demnächst!
+MID_LAZWARD_VOICE08: Bring mich nicht zum Lachen!
+MID_LAZWARD_VOICE09: Sweet home—!
+MID_LAZWARD_VOICE10: Heehee
+MID_LAZWARD_VOICE11: I'm rather skilled as a dancer, you know.
+MID_LAZWARD_VOICE12: I have to admit, I shy from a steady gaze.
+MID_LAZWARD_VOICE13: I find that a smile brightens the darkest of days. Don't you?
+MID_LAZWARD_VOICE14: Join me in a laugh? It's the best medicine. Ha ha!
+MID_LAZWARD_VOICE15: The Order of Heroes has a fair share of exquisite creatures!
+MID_LAZWARD_VOICE16: Where is my Lord Xander? He gets so cross if he thinks I'm lazing about.
+MID_LAZWARD_VOICE17: How I enjoy our little tête-à-têtes. I hope to never leave your side.
+MID_LAZWARD_VOICE18: OK!
+MID_LAZWARD_VOICE19: Shall we?
+MID_LAZWARD_VOICE20: I'll do my best.

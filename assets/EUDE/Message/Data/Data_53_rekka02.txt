@@ -1,0 +1,239 @@
+[Heroes Archive] (Data_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り: Muschelnadel
+MDAID_H_貝殻の髪飾り: Aus einer schönen Muschel\ngefertigter Haarschmuck.
+MDAID_水中ゴーグル: Taucherbrille
+MDAID_H_水中ゴーグル: Ermöglicht unter Wasser klare Sicht.\nDank des Schnorchels kann man die\nUnterwasserwelt in Ruhe betrachten.
+MDAID_アスクの髪飾り: Askr-Haarnadel
+MDAID_H_アスクの髪飾り: Haarschmuck, der mit dem Wappen\ndes Königreichs von Askr verziert ist.
+MDAID_謎の男のマスク: Geheimnismaske
+MDAID_H_謎の男のマスク: Diese Maske sieht aus wie die eines\ngeheimnisvollen Mannes. Vielleicht\nist es seine Ersatzmaske...
+MDAID_フェーの人形: Feh-Puppe
+MDAID_H_フェーの人形: Diese Puppe wurde Feh, der Boteneule\nder Wächter von Askr, nachempfunden.\nDie Flauschigkeit sucht ihresgleichen!
+MDAID_春うさぎの帽子: Hasenohren
+MDAID_H_春うさぎの帽子: Diese Kopfbedeckung wurde einst von\neinem Helden getragen, der dem\nFrühlingshimmel zugeneigt war.
+MDAID_謎の剣士の仮面: Rätselmaske
+MDAID_H_謎の剣士の仮面: Diese Maske wurde einst von einem\nSchwertkämpfer getragen, der sich\nals der Heldenkönig Marth vorstellte.
+MID_MISSION_S201806ARENA01_TITLE: Arena
+MID_MISSION_S201806ARENA01_A1: Gewinne Arenaduell
+MID_MISSION_H_S201806ARENA01_A1: Gewinne ein Arenaduell eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A2: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A2: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A3: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A3: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A4: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A4: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A5: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A7: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A7: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A8: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A8: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806ARENA01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201806ARENA01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201806HERO01_A1: Oliver besiegen
+MID_MISSION_H_S201806HERO01_A1: Gewinne den Großen Heldenkampf\ngegen Oliver: Ästhet mit Anna im Team.
+MID_MISSION_S201806HERO01_A2: Oliver besiegen
+MID_MISSION_H_S201806HERO01_A2: Gewinne den Großen Heldenkampf\ngegen Oliver: Ästhet auf Extrem\noder höher mit Oliver: Ästhet im Team.
+MID_MISSION_S201806HERO01_A3: Oliver besiegen
+MID_MISSION_H_S201806HERO01_A3: Setze Anna ein und besiege\nOliver: Ästhet, der Level 40\noder höher ist.
+MID_MISSION_S201806HERO01_A4: Oliver besiegen
+MID_MISSION_H_S201806HERO01_A4: Setze Oliver: Ästhet ein und besiege\nOliver: Ästhet, der Level 40 oder\nhöher ist.
+MID_MISSION_S201806HERO01_A5: Oliver besiegen
+MID_MISSION_H_S201806HERO01_A5: Gewinne den Großen Heldenkampf\ngegen Oliver: Ästhet auf Extrem\nnur mit Berittenen.
+MID_MISSION_S201806SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201806SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201806SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201806SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201806SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201806SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806ACCE01_TITLE: Juhu, Accessoires!
+MID_MISSION_S201806ACCE01_A1: Gegner besiegen
+MID_MISSION_H_S201806ACCE01_A1: Besiege einen Gegner.
+MID_MISSION_S201806ACCE01_A2: Lanze gewinnt/Lv. 10+
+MID_MISSION_H_S201806ACCE01_A2: Lass einen Verbündeten mit Lanze\nGegner besiegen, die Level 10\noder höher sind.
+MID_MISSION_S201806ACCE01_A3: Reiter gewinnt/Lv. 30+
+MID_MISSION_H_S201806ACCE01_A3: Lass einen berittenen Verbündeten\nGegner besiegen, die Level 30\noder höher sind.
+MID_MISSION_S201806STORY01_TITLE: Des Königs Sturz
+MID_MISSION_S201806STORY01_A1: Kap. 10 Tl. 1 - Extrem
+MID_MISSION_H_S201806STORY01_A1: Bewältige Buch II, Kap. 10 - Tl. 1 im Modus\nExtrem mit einem Axtkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201806STORY01_A2: Kap. 10 Tl. 2 - Extrem
+MID_MISSION_H_S201806STORY01_A2: Bewältige Buch II, Kap. 10 - Tl. 2 im Modus\nExtrem mit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201806STORY01_A3: Kap. 10 Tl. 3 - Extrem
+MID_MISSION_H_S201806STORY01_A3: Bewältige Buch II, Kap. 10 - Tl. 3 im Modus\nExtrem mit einem Lanzenkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201806STORY01_A4: Kap. 10 Tl. 4 - Extrem
+MID_MISSION_H_S201806STORY01_A4: Bewältige Buch II, Kap. 10 - Tl. 4 im Modus\nExtrem mit einem Axtkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201806STORY01_A5: Kap. 10 Tl. 5 - Extrem
+MID_MISSION_H_S201806STORY01_A5: Bewältige Buch II, Kap. 10 - Tl. 5 im Modus\nExtrem mit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201806TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201806TAPBTL01_D01_A1: Fjorm besiegen
+MID_MISSION_H_S201806TAPBTL01_D01_A1: Besiege den Boss Fjorm auf den Ebenen\n-15 bis -19 auf Normal im Tipp-Kampf.
+MID_MISSION_S201806TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201806TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201806TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201806TAPBTL01_D02_A1: Fjorm besiegen
+MID_MISSION_H_S201806TAPBTL01_D02_A1: Besiege den Boss Fjorm auf den Ebenen\n-15 bis -19 auf Schwer im Tipp-Kampf.
+MID_MISSION_S201806TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201806TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201806TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201806TAPBTL01_D03_A1: Gunnthrá besiegen
+MID_MISSION_H_S201806TAPBTL01_D03_A1: Besiege den Boss Gunnthrá\nauf den Ebenen -35 bis -39\nauf Normal im Tipp-Kampf.
+MID_MISSION_S201806TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201806TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201806TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201806TAPBTL01_D04_A1: Gunnthrá besiegen
+MID_MISSION_H_S201806TAPBTL01_D04_A1: Besiege den Boss Gunnthrá\nauf den Ebenen -35 bis -39\nauf Schwer im Tipp-Kampf.
+MID_MISSION_S201806TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201806TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201806TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201806TAPBTL02_A1: Boss besiegen
+MID_MISSION_H_S201806TAPBTL02_A1: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201806TAPBTL02_A2: Boss besiegen
+MID_MISSION_H_S201806TAPBTL02_A2: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201806TAPBTL02_A3: Stufe abschließen
+MID_MISSION_H_S201806TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201806TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201806TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MID_MISSION_S201806TAPBTL02_A5: Ebenen -5 bis -9
+MID_MISSION_H_S201806TAPBTL02_A5: Schließe die Ebenen -5 bis -9\nim Tipp-Kampf ab.
+MID_MISSION_S201806TAPBTL02_A6: Ebenen -80 bis -84
+MID_MISSION_H_S201806TAPBTL02_A6: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MPID_スルト名前: Surtr
+MPID_カナス: Canas
+MPID_カアラ: Karla
+MPID_ラガルト: Legault
+MPID_ライナス: Linus
+MPID_ニノ2: Nino
+MPID_HONOR_カナス: Wissenssucher
+MPID_HONOR_カアラ: Schwertvasallin
+MPID_HONOR_ラガルト: Der Hurrikan
+MPID_HONOR_ライナス: Wilder Hund
+MPID_HONOR_ニノ2: Blasse Blüte
+MPID_H_カナス: Der vierte Sohn von Niime, der Eremitin.\nHat sich voll und ganz dem Studieren\nund Lesen verschrieben. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_H_カアラ: Eine reisende Schwertkämpferin, die nach\nihrem Bruder sucht. Ihr Können und gutes\nAussehen sind weithin bekannt. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_H_ラガルト: Ehemaliges Mitglied der Black Fang. Er\nwar eines der Gründungsmitglieder und\nals der "Säuberer" bekannt. Erscheint in\nFire Emblem: The Blazing Blade.
+MPID_H_ライナス: Mitglied der Black Fang und als "Wilder Hund"\nbekannt. Er ist Lloyds Bruder und richtet über\njene, die er für böse hält.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_ニノ2: Gehörte der Assassinengruppe Black Fang an.\nJetzt hält sie Zwiesprache mit einem Pegasus,\num ihren Verbündeten zu helfen. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_VOICE_カナス: Joe Zieja
+MPID_VOICE_カアラ: Allegra Clark
+MPID_VOICE_ラガルト: Christopher Bevins
+MPID_VOICE_ライナス: Joe Brogie
+MPID_VOICE_ニノ2: Sarah Blandy
+MPID_ILLUST_カナス: Tobi
+MPID_ILLUST_カアラ: Kita Senri (北千里)
+MPID_ILLUST_ラガルト: PenekoR (п猫Ｒ)
+MPID_ILLUST_ライナス: Meka (めか)
+MPID_ILLUST_ニノ2: Amagaitaro (アマガイタロー)
+MSID_霧のブレス: Nebelatem
+MSID_第11迷宮の覇者1: Überfall-Ass K 1
+MSID_第11迷宮の覇者2: Überfall-Ass K 2
+MSID_第11迷宮の覇者3: Überfall-Ass K 3
+MSID_剣姫の刀: Vasallenklinge
+MSID_粛清の暗器: Säuberer
+MSID_粛清の暗器＋: Säuberer+
+MSID_ギガスカリバー: Giga-Excalibur
+MSID_曲技飛行1: Luftakrobatik 1
+MSID_曲技飛行2: Luftakrobatik 2
+MSID_曲技飛行3: Luftakrobatik 3
+MSID_速さの波・偶数1: Gerade Ges. 1
+MSID_速さの波・偶数2: Gerade Ges. 2
+MSID_速さの波・偶数3: Gerade Ges. 3
+MSID_H_霧のブレス: Effektiv gegen Drachen. Stellt zu Beginn\njedes 2. Zuges 10 KP wieder her. Ist\nRw. des Gegners = 2, wird Schaden\ndurch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_オーラ改: Verleiht benachbarten Verbündeten mit\nMagie und Stäben Angr. +6 für 1 Zug.
+MSID_H_エクスカリバー改: Effektiv gegen Flugeinheiten.\nBeschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_攻撃守備の絆R剣竜: Befindet sich die Einheit im Umkreis\nvon 2 Feldern eines verbündeten\nSchwertkämpfers oder Drachen,\nerhält sie Angr./Ver. +5 im Kampf.
+MSID_H_攻撃速さの絆R魔杖: Befindet sich die Einheit im Umkreis\nvon 2 Feldern eines Verbündeten mit\nMagie oder Stab, erhält sie\nAngr./Ges. +5 im Kampf.
+MSID_H_第11迷宮の覇者1: Verleiht KP +3.
+MSID_H_第11迷宮の覇者2: Verleiht KP +4.
+MSID_H_第11迷宮の覇者3: Verleiht KP +5.
+MSID_H_剣姫の刀: Beschleunigt Spezialangriffe (Erholungszeit -1).\nIst Ges. der Einheit höher als Ges. des Gegners,\nwird der Schaden um 70 % des Wertunterschieds\nerhöht. (Maximal +7 Schaden. Kann mit\nPhantom-Ges. kombiniert werden.)
+MSID_H_粛清の暗器: Erhöht den verursachten Schaden im\nKampf um Boni des Gegners. Nach dem\nKampf: Hat die Einheit den Kampf initiiert,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels Ver./Res. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_粛清の暗器＋: Erhöht den verursachten Schaden im\nKampf um Boni des Gegners. Nach dem\nKampf: Hat die Einheit den Kampf initiiert,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels Ver./Res. -7 bis nach\nihren nächsten Aktionen.
+MSID_H_ギガスカリバー: Verleiht Ges. +3. Ist Ges. der Einheit\nhöher als Ges. des Gegners, wird der\nSchaden um 70 % des Wertunterschieds\nerhöht. (Maximal +7 Schaden. Kann mit\nPhantom-Ges. kombiniert werden.)
+MSID_H_曲技飛行1: Sind die KP der Einheit = 100 %, kann sie\nsich auf ein benachbartes Feld einer\nbeliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit\nim Umkreis von 2 Feldern bewegen.
+MSID_H_曲技飛行2: Sind die KP der Einheit ≥ 50 %, kann sie\nsich auf ein benachbartes Feld einer\nbeliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit\nim Umkreis von 2 Feldern bewegen.
+MSID_H_曲技飛行3: Einheit kann sich auf ein benachbartes Feld\neiner beliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit im\nUmkreis von 2 Feldern bewegen.
+MSID_H_速さの波・偶数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nGes. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_速さの波・偶数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nGes. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_速さの波・偶数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nGes. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MID_CHAPTER_TITLE_C0210: Buch II: Kapitel 10
+MID_CHAPTER_C0210: Des Königs Sturz
+MID_STAGE_TITLE_S2101: Kap. 10 - Teil 1
+MID_STAGE_TITLE_S2102: Kap. 10 - Teil 2
+MID_STAGE_TITLE_S2103: Kap. 10 - Teil 3
+MID_STAGE_TITLE_S2104: Kap. 10 - Teil 4
+MID_STAGE_TITLE_S2105: Kap. 10 - Teil 5
+MID_STAGE_S2101: Auf zum Schloss
+MID_STAGE_S2102: Sucher auf Abwegen
+MID_STAGE_S2103: Black-Fang-Familie
+MID_STAGE_S2104: Schwertvasallin
+MID_STAGE_S2105: Des Königs Sturz
+MID_STAGE_HONOR_T0033: Wilder Hund
+MID_STAGE_T0033: Linus
+MID_STAGE_TITLE_SB_0011: 11. Überfall
+MID_CHAPTER_ST_C0205: Kapitel 9 & 10
+MID_STAGE_TITLE_ST_S0209: Kapitel 9
+MID_STAGE_TITLE_ST_S0210: Kapitel 10
+MID_STAGE_TITLE_ST_S1210: Kapitel 9 & 10
+MID_STAGE_HONOR_V0251: Vier Helden
+MID_STAGE_V0251: Roy
+MID_STAGE_HONOR_V0252: Vier Helden
+MID_STAGE_V0252: Tailtiu
+MID_STAGE_HONOR_V0253: Vier Helden
+MID_STAGE_V0253: Barst
+MID_STAGE_HONOR_V0254: Vier Helden
+MID_STAGE_V0254: Kaze
+MID_STAGE_HONOR_Q0014: Wöchentlich
+MID_STAGE_Q0014: Revierkampf
+MID_STAGE_HONOR_Q0015: Wöchentlich
+MID_STAGE_Q0015: Revierkampf
+MID_STAGE_HONOR_Q0016: Wöchentlich
+MID_STAGE_Q0016: Revierkampf
+MID_STAGE_HONOR_Q0017: Wöchentlich
+MID_STAGE_Q0017: Revierkampf
+MID_STAGE_HONOR_Q0018: Wöchentlich
+MID_STAGE_Q0018: Revierkampf
+MID_STAGE_TITLE_BG_WIND_0008: Wind 8
+MID_STAGE_BG_WIND_0008: Brücke
+MID_STAGE_TITLE_BG_EARTH_0008: Erde 8
+MID_STAGE_BG_EARTH_0008: Brücke
+MID_STAGE_TITLE_BG_FIRE_0008: Feuer 8
+MID_STAGE_BG_FIRE_0008: Brücke
+MID_STAGE_TITLE_BG_WATER_0009: Wasser 9
+MID_STAGE_BG_WATER_0009: Brunnen
+MID_STAGE_TITLE_BG_WIND_0009: Wind 9
+MID_STAGE_BG_WIND_0009: Brunnen
+MID_STAGE_TITLE_BG_EARTH_0009: Erde 9
+MID_STAGE_BG_EARTH_0009: Brunnen
+MID_STAGE_TITLE_BG_FIRE_0009: Feuer 9
+MID_STAGE_BG_FIRE_0009: Brunnen
+MID_STAGE_TITLE_BG_WATER_0010: Wasser 10
+MID_STAGE_BG_WATER_0010: Terrasse
+MID_STAGE_TITLE_BG_WIND_0010: Wind 10
+MID_STAGE_BG_WIND_0010: Terrasse
+MID_STAGE_TITLE_BG_EARTH_0010: Erde 10
+MID_STAGE_BG_EARTH_0010: Terrasse
+MID_STAGE_TITLE_BG_FIRE_0010: Feuer 10
+MID_STAGE_BG_FIRE_0010: Terrasse
+MID_TAP_BATTLE_DATA_TITLE_0005: Legendäre Helden
+MID_MUSIC_NAME_BGM_MAP_BRAVE_04: Rückkehr nach Nifl
+MID_MUSIC_NAME_BGM_MAP_FE09_02: Greils Söldner
+MID_MUSIC_NAME_BGM_MAP_FE14_01: Ferner Morgen (Sturm)

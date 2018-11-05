@@ -1,0 +1,38 @@
+[Heroes Archive] (JAFFAR)
+
+
+Heroes Message Name: Message
+
+
+MID_JAFFAR_HOME1: 特務機関…？\nよくわからないが…\n祖国のために敵を殺す組織か…？
+MID_JAFFAR_HOME2: …元の世界で、俺は死体だった。\n生まれた時から、死んでいたも同然だった。\nだが、ニノと出会って…俺は変わった。
+MID_JAFFAR_HOME3: …見回りか。\n暗殺者や密偵を\n防ぐには有効だ…
+MID_JAFFAR_HOME4: 眠っている相手は殺しやすい。\n食事している相手も殺しやすい。\n…俺にできるのはこんな話だけだ。
+MID_JAFFAR_HOME5: 殺す訓練だ。\n赤子の頃に教わった。\n他に時間の過ごし方を知らない…
+MID_JAFFAR_FRIEND: 動くな…お前を殺しに来たのではない。\n$Nfからの挨拶を\n伝えに来ただけだ。
+MID_JAFFAR_LEVEL1: …運が良かっただけだ。
+MID_JAFFAR_LEVEL2: …悪くない。
+MID_JAFFAR_LEVEL3: …鈍ったか。
+MID_JAFFAR_SKILL: これでもっと上手く、もっと多く\n標的を消せるだろう…
+MID_JAFFAR_JOIN: 俺はジャファル…\n【黒い牙】では【死神】と呼ばれていた。
+MID_JAFFAR_STRONGEST: …$Nu、\nお前は優しすぎる。\nそれは、お前の弱さだ。$k$p俺を仲間などと考えるな。\nお前は、俺を道具として使えばいい。$k$p自分を守るために、俺を使い捨てろ。\nお前にそれが\nできないというのなら…$k$p……。…俺は生きて帰ろう。\nどんな過酷な任務だろうと、必ず。\nお前の元に戻ろう。$k$pだから、余計な気は使うな。
+MID_JAFFAR_VOICE01: はっ
+MID_JAFFAR_VOICE02: ふっ
+MID_JAFFAR_VOICE03: うああっ！
+MID_JAFFAR_VOICE04: …仕損じた
+MID_JAFFAR_VOICE05: 「死」を
+MID_JAFFAR_VOICE06: 始末する
+MID_JAFFAR_VOICE07: 標的か
+MID_JAFFAR_VOICE08: 任務を果たす
+MID_JAFFAR_VOICE09: …終わりか
+MID_JAFFAR_VOICE10: ふっ
+MID_JAFFAR_VOICE11: …任務か？
+MID_JAFFAR_VOICE12: …お前のすることは理解できん
+MID_JAFFAR_VOICE13: 【死神】…俺の名だ
+MID_JAFFAR_VOICE14: 喜びも悲しみも、俺は知らない
+MID_JAFFAR_VOICE15: 俺には心がない
+MID_JAFFAR_VOICE16: 死体の山で…俺は生まれた
+MID_JAFFAR_VOICE17: …お前は、生きろ…
+MID_JAFFAR_VOICE18: …ああ
+MID_JAFFAR_VOICE19: 指示を出せ
+MID_JAFFAR_VOICE20: わかった

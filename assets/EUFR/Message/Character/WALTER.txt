@@ -1,0 +1,38 @@
+[Heroes Archive] (WALTER)
+
+
+Heroes Message Name: Message
+
+
+MID_WALTER_HOME1: Je vis pour le combat. Alors votre\nobjectif d'atteindre la paix s'avère...\nproblématique... pour moi.
+MID_WALTER_HOME2: Eirika... Ephraim... Ces deux-là, ce sont\nmes proies. Et seules les meilleures\nproies apaiseront ma soif de sang.
+MID_WALTER_HOME3: Êtes-vous $Gfatigué,fatiguée| ? Alors\nreposez-vous. L'épuisement prive les\nproies de leurs meilleures qualités.
+MID_WALTER_HOME4: Le menu fretin n'a aucun intérêt pour\nmoi. Je veux des proies qui\napaiseront ma soif de sang.
+MID_WALTER_HOME5: L'entraînement ? Je ne fais\njamais semblant. Le seul moyen\nd'apprendre à tuer est de tuer.
+MID_WALTER_FRIEND: Alors c'est vous que\n$Nf\nm'a envoyé saluer.$k$pVous avez l'air d'une proie\ndélicieuse, $Nu.
+MID_WALTER_LEVEL1: Délicieux... Vraiment délicieux.
+MID_WALTER_LEVEL2: Bien... Mais j'ai encore faim.
+MID_WALTER_LEVEL3: Je suis loin d'être rassasié...
+MID_WALTER_SKILL: J'ai... encore faim !
+MID_WALTER_JOIN: Je suis Valter, la Pierre de lune,\nl'un des six généraux de Grado.$k$pCherchez-vous à apaiser ma faim ?\nNombreux sont ceux qui ont essayé...
+MID_WALTER_STRONGEST: Un vieux fou sénile m'a jadis traité de\nbête. Une bête qui ne vit que pour\ntuer et piller.$k$pUn jour, je tuerai cet homme... bien\nqu'il ait raison. Je suis une bête aux\ncrocs bien aiguisés.$k$pJ'agis à ma guise. Je prends ce que\nje veux. Peu importe qui se trouve\nsur ma route.$k$pVous savez cela, mais vous avez\nréussi à m'utiliser en m'offrant\ntant de puissance...$k$pJe ne comprends pas vos actions.$k$pVoulez-vous me contrôler ou\nattendez-vous que je devienne\nvotre maître ?$k$pPeu importe, vous êtes MA proie.\nJe ne laisserai personne épancher\nleur soif de sang avec vous....$k$pSeul moi en ai le droit.
+MID_WALTER_VOICE01: いいぞ
+MID_WALTER_VOICE02: 楽しめ
+MID_WALTER_VOICE03: うああっ！
+MID_WALTER_VOICE04: 雑魚めが…！
+MID_WALTER_VOICE05: Ça, c'est du sport !
+MID_WALTER_VOICE06: Vous n'êtes qu'un cadavre.
+MID_WALTER_VOICE07: Vous voulez vous enfuir ? Hah !
+MID_WALTER_VOICE08: Épanchez ma soif de sang !
+MID_WALTER_VOICE09: Ughk... Graaaaaah !
+MID_WALTER_VOICE10: Keke
+MID_WALTER_VOICE11: I am Valter, the Moonstone, one of Grado's six generals.
+MID_WALTER_VOICE12: Hm? You desire to touch me?
+MID_WALTER_VOICE13: Never think that I am yours. If you displease me, you'll regret it.
+MID_WALTER_VOICE14: I will master you. Someday.
+MID_WALTER_VOICE15: Show me. Show me. Grovel like a dog.
+MID_WALTER_VOICE16: Ephraim. Eirika. Delicious prey.
+MID_WALTER_VOICE17: You are mine now. Entertain me! More!
+MID_WALTER_VOICE18: Entertain me!
+MID_WALTER_VOICE19: I hunger!
+MID_WALTER_VOICE20: A feast!

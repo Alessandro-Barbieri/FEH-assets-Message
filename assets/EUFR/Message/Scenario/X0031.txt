@@ -1,0 +1,12 @@
+[Heroes Archive] (X0031)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Smile|$w0|Dépêchez-vous,\n$Nu ! Le\nfestival du printemps va commencer !$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|Allons, Sharena, tu pourrais\nprendre le temps d'expliquer\nles choses à notre $Gami,amie|.$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$w0|Oh, tu as raison,\noù avais-je la tête ?$k$p$EFace_Smile|Il s'agit d'un festival qui a lieu\nà la belle saison,\n$Nu.$k$pD'où son nom...\nC'est l'un de mes\névénements préférés !$k$pIl n'y a pas de temps à perdre.\nIl faut que nous battions\ntout le monde à plates coutures.$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|$w0|Sh... Sharena, attends ! Ah...\nLa voilà partie.$k$p$EFace|Rattrapons-la. Je vous donnerai\ndes explications quand nous serons\narrivés, $Nu.$k$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|Bienvenue dans le monde\nd'Awakening.$k$pÀ chaque printemps, ce village\norganise un festival dans l'espoir\nde favoriser les récoltes.$k$pIls décorent des œufs,\nils se déguisent en lapins...$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$w0|Et ils se battent à coups\nde carottes et d'œufs !$k$p$WmMPID_春祭クロム,ch04_00_Chrom_M_SpringFes17,Face|$w0|Bienvenue. Êtes-vous venus pour\nparticiper à la compétition ?$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Pain|$w0|Oh ! Le prince Chrom,\ndu Saint-Royaume d'Ylisse,\nhabillé pour la bataille du printemps...$k$p$EFace|Mais cette fois, nous sommes\ncertains de gagner, grâce à\n$Nu.$k$pAh, le festival commence !\nLe printemps est arrivé,\net la victoire nous attend !$k
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_春祭クロム,ch04_00_Chrom_M_SpringFes17,Face|$w0|Vous êtes de vaillants adversaires,\nmais rien n'est encore joué.$k$p$WmMPID_春祭カミラ,ch05_28_Camilla_F_SpringFes17,Face|$w0|Si nous mangeons nos carottes,\nnous aurons peut-être plus d'énergie\npour le prochain combat.$k$pÀ bientôt !$k$Sbs150|

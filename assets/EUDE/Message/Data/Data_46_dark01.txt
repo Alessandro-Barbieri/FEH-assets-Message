@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: Wassersegen
+MID_MISSION_S201802BLESS01_A1: Sieg mit Wassersegen
+MID_MISSION_H_S201802BLESS01_A1: Besiege Gegner mit einem Helden mit\nWassersegen. (Bezieht sich nicht auf\nlegendäre Helden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A2: Sieg mit Wassersegen
+MID_MISSION_H_S201802BLESS01_A2: Besiege Gegner, die mind. Lv. 20 sind,\nmit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A3: Sieg mit Wassersegen
+MID_MISSION_H_S201802BLESS01_A3: Besiege rote Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A4: Sieg mit Wassersegen
+MID_MISSION_H_S201802BLESS01_A4: Besiege blaue Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A5: Sieg mit Wassersegen
+MID_MISSION_H_S201802BLESS01_A5: Besiege grüne Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A6: Übungsturm: 1. Stufe
+MID_MISSION_H_S201802BLESS01_A6: Schließe die erste Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201802BLESS01_A7: Schließe die fünfte Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802BLESS01_A8: Übungsturm: 10. Stufe
+MID_MISSION_H_S201802BLESS01_A8: Schließe die zehnte Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201802STORY02_TITLE: Blut und Schnee
+MID_MISSION_S201802STORY02_A1: Kap. 5 Tl. 1 - Extrem
+MID_MISSION_H_S201802STORY02_A1: Bewältige Buch II, Kap. 5 - Tl. 1 im Modus\nExtrem mit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802STORY02_A2: Kap. 5 Tl. 2 - Extrem
+MID_MISSION_H_S201802STORY02_A2: Bewältige Buch II, Kap. 5 - Tl. 2 im Modus\nExtrem mit einem Lanzenkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802STORY02_A3: Kap. 5 Tl. 3 - Extrem
+MID_MISSION_H_S201802STORY02_A3: Bewältige Buch II, Kap. 5 - Tl. 3 im Modus\nExtrem mit einem Axtkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802STORY02_A4: Kap. 5 Tl. 4 - Extrem
+MID_MISSION_H_S201802STORY02_A4: Bewältige Buch II, Kap. 5 - Tl. 4 im Modus\nExtrem mit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802STORY02_A5: Kap. 5 Tl. 5 - Extrem
+MID_MISSION_H_S201802STORY02_A5: Bewältige Buch II, Kap. 5 - Tl. 5 im Modus\nExtrem mit einem Lanzenkämpfer. Alle\nVerbündeten müssen überleben.
+MEID_レーギャルン: Laegjarn
+MPID_レーギャルン: Laegjarn
+MEID_HONOR_レーギャルン: Besonnener Stahl
+MEID_H_レーギャルン: Die älteste Prinzessin von Múspell, dem\nFeuerkönigreich, und Laevateins ältere\nSchwester. Als Generalin leitet sie\nwürdevoll die Armee von Múspell.
+MEID_VOICE_レーギャルン: Alicia Stratten
+MEID_ILLUST_レーギャルン: Maeshima Shigeki (前嶋重機)
+MPID_魔女セリカ: Celica
+MPID_HONOR_魔女セリカ: Gefangene Seele
+MPID_H_魔女セリカ: Celicas Hexengestalt, nachdem sie ihre\nSeele an Duma übergab. Ab und zu werden\nihre alten Erinnerungen wach. Erscheint in\nFire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_魔女セリカ: Erica Lindbeck
+MPID_ILLUST_魔女セリカ: Fujikawa Akira (藤川祥)
+MPID_暗黒ハーディン: Hardin
+MPID_HONOR_暗黒ハーディン: Dunkler Herrscher
+MPID_H_暗黒ハーディン: Herrscher des heiligen Reiches Akaneia.\nWegen seiner blutigen Regentschaft als\nder Dunkle Herrscher bekannt. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_VOICE_暗黒ハーディン: Richard Epcar
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: Daraen
+MPID_HONOR_邪竜ルフレ男: Dämonengefäß
+MPID_H_邪竜ルフレ男: Der Taktiker Daraen, dessen Körper\nund Seele vom Dämonendrachen\nGrima kontrolliert werden. Erscheint\nin Fire Emblem: Awakening.
+MPID_VOICE_邪竜ルフレ男: David Vincent
+MPID_ILLUST_邪竜ルフレ男: Okuma Yugo (大熊ゆうご)
+MPID_眷属タクミ: Takumi
+MPID_HONOR_眷属タクミ: Leeres Gefäß
+MPID_H_眷属タクミ: Prinz von Hoshido, der den finsteren Bogen\nSkadi führt. Liebt seine Heimat, wurde aber\ngezwungen, einem der Ersten Drachen zu\ndienen. Erscheint in Fire Emblem Fates.
+MPID_VOICE_眷属タクミ: Michael Sinterniklaas
+MPID_ILLUST_眷属タクミ: Hino Shinnosuke (日野慎之助)
+MSID_ニーウ: Níu
+MSID_宝剣ソフィア: Zofias Glanz
+MSID_スカディ: Skadi
+MSID_邪竜のブレス: Verfall
+MSID_守備魔防の大覚醒1: Ver./Res. erh. 1
+MSID_守備魔防の大覚醒2: Ver./Res. erh. 2
+MSID_守備魔防の大覚醒3: Ver./Res. erh. 3
+MSID_速さの封印1: Ges.-Bremse 1
+MSID_速さの封印2: Ges.-Bremse 2
+MSID_速さの封印3: Ges.-Bremse 3
+MSID_竜盾の紋章: Drachenbund
+MSID_H_ニーウ: Verleiht Ges. +3. Erhöht im Kampf\nAngr./Ges./Ver./Res. der Einheit um\n50 % der gesamten Boni des Gegners.
+MSID_H_宝剣ソフィア: Verleiht Ver. +3. Sind die KP der Einheit zu\nBeginn des Kampfes = 100 %, erhält\nsie Angr./Ges./Ver./Res. +4. Hat die\nEinheit angegriffen, erleidet sie nach\ndem Kampf 4 Schaden.
+MSID_H_スカディ: Effektiv gegen Flugeinheiten.\nVerleiht Ges. +3. Gegner innerhalb von\n3 Spalten um die Einheit erleiden zu\nBeginn des 3. Zuges 10 Schaden und\nihre Boni werden bis nach ihrer nächsten\nAktion ins Gegenteil umgewandelt.
+MSID_H_邪竜のブレス: Ermöglicht Gegenangriff unabhängig\nvom Abstand zum Gegner. Ist Rw.\ndes Gegners = 2, wird Schaden\ndurch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_守備魔防の大覚醒1: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nVer./Res. +3 im Kampf.
+MSID_H_守備魔防の大覚醒2: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nVer./Res. +5 im Kampf.
+MSID_H_守備魔防の大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nVer./Res. +7 im Kampf.
+MSID_H_速さの封印1: Verursacht zu Beginn des Zuges Ges. -3\nbeim Gegner mit der höchsten Ges. bis\nnach seiner nächsten Aktion.
+MSID_H_速さの封印2: Verursacht zu Beginn des Zuges Ges. -5\nbeim Gegner mit der höchsten Ges. bis\nnach seiner nächsten Aktion.
+MSID_H_速さの封印3: Verursacht zu Beginn des Zuges Ges. -7\nbeim Gegner mit der höchsten Ges. bis\nnach seiner nächsten Aktion.
+MSID_H_竜盾の紋章: Verleiht verbündeten Drachen\nim Umkreis von 2 Feldern\nVer./Res. +4 im Kampf.
+MID_CHAPTER_TITLE_C0205: Buch II: Kapitel 5
+MID_CHAPTER_C0205: Blut und Schnee
+MID_STAGE_TITLE_S2051: Kapitel 5 - Teil 1
+MID_STAGE_TITLE_S2052: Kapitel 5 - Teil 2
+MID_STAGE_TITLE_S2053: Kapitel 5 - Teil 3
+MID_STAGE_TITLE_S2054: Kapitel 5 - Teil 4
+MID_STAGE_TITLE_S2055: Kapitel 5 - Teil 5
+MID_STAGE_S2051: Verfolgung im Schnee
+MID_STAGE_S2052: Tanz der Hexe
+MID_STAGE_S2053: Der Dämonendrache
+MID_STAGE_S2054: Der Dunkle Herrscher
+MID_STAGE_S2055: Von Flammen gejagt
+MID_STAGE_HONOR_T0026: Leeres Gefäß
+MID_STAGE_T0026: Takumi
+MID_STAGE_HONOR_V0181: Täglich
+MID_STAGE_V0181: Teil 21
+MID_STAGE_HONOR_V0182: Täglich
+MID_STAGE_V0182: Teil 22
+MID_STAGE_HONOR_V0183: Täglich
+MID_STAGE_V0183: Teil 23
+MID_STAGE_HONOR_V0184: Täglich
+MID_STAGE_V0184: Teil 24
+MID_STAGE_HONOR_V0185: Täglich
+MID_STAGE_V0185: Teil 25

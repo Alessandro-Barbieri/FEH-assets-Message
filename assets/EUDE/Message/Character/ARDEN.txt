@@ -1,0 +1,38 @@
+[Heroes Archive] (ARDEN)
+
+
+Heroes Message Name: Message
+
+
+MID_ARDEN_HOME1: Dieses Schloss ist schön und solide.\nSie hatten mir die Verteidigung\nunseres Schlosses übertragen, also$k$pkönnt Ihr mir trauen - ich kenne mich\nmit Schlössern aus!
+MID_ARDEN_HOME2: In meiner Welt läuft es momentan\nnicht so gut. Ich bleibe einfach bei\nmeinem Herren Sigurd. Ich werde$k$pihm bis zum bitteren Ende dienen.
+MID_ARDEN_HOME3: Ich möchte einfach nur heiraten,\nKinder kriegen und hart für meine\nFamilie arbeiten. Eines Tages...
+MID_ARDEN_HOME4: Ihr möchtet meine Rüstung\nanprobieren? Das ist lustig. Ihr\nkönntet nicht einmal aufstehen!
+MID_ARDEN_HOME5: Wenn Ihr Schutz braucht, seid Ihr bei\nmir richtig.$k$pAber tut mir einen Gefallen und ruft\nmich so bald wie möglich, ja? Ich\nwerde eine Weile brauchen.
+MID_ARDEN_FRIEND: Ich bin Arden! Ich schätze, Ihr seid\n$Nu.$k$pIch habe eine Nachricht von\n$Nf.
+MID_ARDEN_LEVEL1: Ich bin stark, ich bin zäh...\nund ich bin nicht langsam!
+MID_ARDEN_LEVEL2: Meine Rüstung fühlt sich ein\nwenig leichter an!
+MID_ARDEN_LEVEL3: Mir lastet ein schweres Gewicht\nauf den Schultern. Ich spüre es.
+MID_ARDEN_SKILL: Ich passe besser auf mich auf,\nda Ihr so viel von mir erwartet!
+MID_ARDEN_JOIN: Mein Name ist Arden! Ich bin einer\nder Männer meines Herren, Sigurd\nvon Chalphy.$k$pSchön, Euch kennenzulernen!
+MID_ARDEN_STRONGEST: Warum werde ich immer von allen\nzurückgelassen? Ich schwöre...$k$pNein, ich verstehe. Meine Rüstung ist\nschwer. Sie macht mich langsam und\nich kann nicht mithalten.$k$pAber das ist meine Aufgabe! Ich bin\nein gepanzerter Ritter. Nehmt mir die\nRüstung und ich könnte niemanden$k$pbeschützen! Ich werde nicht aufhören,\nmeine Aufgabe zu erfüllen, also habe\nich mich damit abgefunden.$k$pHört Euch mein Murren an! Das habt\nIhr wohl gerade, wenn ich so darüber\nnachdenke. Ich fühle mich schon viel$k$pbesser, danke!
+MID_ARDEN_VOICE01: ふんっ！
+MID_ARDEN_VOICE02: おりゃっ！
+MID_ARDEN_VOICE03: うああっ！
+MID_ARDEN_VOICE04: This ain't good...
+MID_ARDEN_VOICE05: Ich bin stark und Ihr seid erledigt.
+MID_ARDEN_VOICE06: Ich bin stark und ich bin zäh!
+MID_ARDEN_VOICE07: Hnn... ngh!
+MID_ARDEN_VOICE08: Ich werde nicht sterben!
+MID_ARDEN_VOICE09: I lived like I wanted...
+MID_ARDEN_VOICE10: Ahaha!
+MID_ARDEN_VOICE11: Hey! Don't forget to put me on the front line!
+MID_ARDEN_VOICE12: Huh? You want to try on my armor? You pulling my leg?
+MID_ARDEN_VOICE13: Strong and tough is good. I like that. But I'm beggin' ya... Don't call me slow.
+MID_ARDEN_VOICE14: Phew! So damn tired. This is some heavy armor.
+MID_ARDEN_VOICE15: If I was a little bit quicker, I might have more luck with the ladies.
+MID_ARDEN_VOICE16: It's a cryin' shame. I'm strong and I'm tough, but...
+MID_ARDEN_VOICE17: I like fighting with you! I do a lot better than I normally would.
+MID_ARDEN_VOICE18: I'm beat!
+MID_ARDEN_VOICE19: My turn?
+MID_ARDEN_VOICE20: Full power!

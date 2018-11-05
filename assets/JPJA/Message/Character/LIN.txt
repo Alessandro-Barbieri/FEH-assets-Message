@@ -1,0 +1,39 @@
+[Heroes Archive] (LIN)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_HOME1: 今日は…\n風が心地良いわね。
+MID_LIN_HOME2: 剣の一閃はただの攻撃じゃない。\nその人の心模様を表すのよ。\nあなたの今の気持ちは…
+MID_LIN_HOME3: いつもお疲れ様。\n疲れて眠くなったりしてない？\n休むことも大切よ。
+MID_LIN_HOME4: ねえ、あそこの丘に登って、\n一緒に景色を見に行かない？\nすごく綺麗みたいよ。
+MID_LIN_HOME5: 力を抜いて、心を静かに…\nじっとしてるように見えるけど、\nこれも剣の稽古なの。
+MID_LIN_FRIEND: $Nfから、\nあなたへの挨拶を頼まれたの。\nこれからも仲良くしてあげて。
+MID_LIN_LEVEL1: 故郷の風の声が…\n私を祝福してくれているわ…
+MID_LIN_LEVEL2: ふふっ、\nざっとこんなものよ。
+MID_LIN_LEVEL3: ううん…全然だめね。\nもっと精進しないと。
+MID_LIN_SKILL: ありがとう。\nこれで私はもっと強くなれる。
+MID_LIN_JOIN: 私は草原の民リンディス。\nいちおうキアラン侯公女…なんだけど、\nああ、あまり気にしないで。
+MID_LIN_STRONGEST: 今日は改めてあなたに\nお礼を言いたかったの。$k$pああ、そんな大したことじゃないのよ。\nでも…これまで何度も\nあなたには助けられたから。$k$pそして勇気づけてもらったことや、\n優しく労わってもらったこと…\n本当に嬉しかった。$k$pあなたはまるで…\nサカの大地に吹く、\n優しい風みたい…$k$pふふっ、ごめんね。\nなんでもないの。\nだから…これからもよろしくね。
+MID_LIN_VOICE01: はっ！
+MID_LIN_VOICE02: やぁっ！
+MID_LIN_VOICE03: きゃああっ！
+MID_LIN_VOICE04: 女だからって…
+MID_LIN_VOICE05: 勝負よ！
+MID_LIN_VOICE06: 負けるもんですか！
+MID_LIN_VOICE07: この剣で！
+MID_LIN_VOICE08: 見てなさい！
+MID_LIN_VOICE09: 私は…まだ…
+MID_LIN_VOICE10: ふふっ
+MID_LIN_VOICE11: 私を呼んだ？
+MID_LIN_VOICE12: きゃっ！？　もう…ふざけてると怒るわよ。
+MID_LIN_VOICE13: ね、ちょっと話があるんだけど。
+MID_LIN_VOICE14: やーね、ねぼけてるの？
+MID_LIN_VOICE15: 草原育ちだから…礼儀作法はちょっとね
+MID_LIN_VOICE16: 懐かしい…草原の風…
+MID_LIN_VOICE17: あなたは私から離れないでね。
+MID_LIN_VOICE18: わかったわ
+MID_LIN_VOICE19: 指示をお願い
+MID_LIN_VOICE20: 行きましょう！
+MID_LIN_VOICE21: あなたは？　あなたの名前を教えて？

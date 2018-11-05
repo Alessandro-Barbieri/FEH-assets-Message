@@ -1,0 +1,38 @@
+[Heroes Archive] (BLACKKNIGHT)
+
+
+Heroes Message Name: Message
+
+
+MID_BLACKKNIGHT_HOME1: Je n'aurais jamais imaginé qu'un tel\nmonde puisse exister... Peut-être\nqu'ici, ma vie serait différente...\n
+MID_BLACKKNIGHT_HOME2: Puisque je suis ici, je vous prêterai\nmain-forte, mais sachez que vous ne\nremplacerez jamais mon maître.
+MID_BLACKKNIGHT_HOME3: Je n'ai qu'un objectif : surpasser\nle général Gawain à l'épée.
+MID_BLACKKNIGHT_HOME4: J'utilise les mêmes techniques qu'Ike,\ndes mercenaires de Greil... Nous\navons eu le même maître.
+MID_BLACKKNIGHT_HOME5: Mon maître m'a appris à manier\nl'épée. Mais maintenant...$k$pNon... Je ne veux pas en parler.\n
+MID_BLACKKNIGHT_FRIEND: $Nu ?\n$Nf a\nun message pour vous.\n
+MID_BLACKKNIGHT_LEVEL1: Je n'ai qu'un désir : dépasser\nmon maître.
+MID_BLACKKNIGHT_LEVEL2: L'épée de mon maître était plus\npuissante, plus rapide...
+MID_BLACKKNIGHT_LEVEL3: ...
+MID_BLACKKNIGHT_SKILL: Je mets mon épée à votre\nservice.
+MID_BLACKKNIGHT_JOIN: Je suis l'un des Quatre Cavaliers\nde Daein.
+MID_BLACKKNIGHT_STRONGEST: C'est Gawain qui m'a appris à manier\nl'épée. Il faisait partie des Quatre\nCavaliers, comme moi...$k$pJ'ai affronté mon maître, et j'ai gagné.\nMais à cette époque, il avait déjà\nrenoncé à son véritable talent.$k$pJe ne l'ai donc pas réellement\nsurpassé.$k$pPour y parvenir, je dois vaincre\nun adversaire aussi puissant\nque lui.$k$pCela fait bien longtemps que\nj'attends un tel combat.$k$pPour beaucoup, cela peut sembler\nétrange... Mais vous, qui vivez\npour le combat, comme moi...$k$pPeut-être me comprenez-vous...
+MID_BLACKKNIGHT_VOICE01: ふんっ！
+MID_BLACKKNIGHT_VOICE02: ...Move.
+MID_BLACKKNIGHT_VOICE03: うああっ！
+MID_BLACKKNIGHT_VOICE04: You're...good...
+MID_BLACKKNIGHT_VOICE05: Ne vous surestimez pas.
+MID_BLACKKNIGHT_VOICE06: Pensez-vous survivre ?
+MID_BLACKKNIGHT_VOICE07: Imbécile.
+MID_BLACKKNIGHT_VOICE08: Ne me décevez pas.
+MID_BLACKKNIGHT_VOICE09: Can't move...
+MID_BLACKKNIGHT_VOICE10: Hmph...
+MID_BLACKKNIGHT_VOICE11: Curious as to who I am? You're better off not knowing, or perhaps even asking.
+MID_BLACKKNIGHT_VOICE12: Your method for wresting my attention is...perplexing.
+MID_BLACKKNIGHT_VOICE13: This armor I wear is blessed by the goddess.
+MID_BLACKKNIGHT_VOICE14: Pray that you never make a miscalculation.
+MID_BLACKKNIGHT_VOICE15: Know your strength to know when to exercise discretion.
+MID_BLACKKNIGHT_VOICE16: The son of Gawain... Ike... He, now, is my prey.
+MID_BLACKKNIGHT_VOICE17: I am here to protect you.
+MID_BLACKKNIGHT_VOICE18: Understood.
+MID_BLACKKNIGHT_VOICE19: Onward.
+MID_BLACKKNIGHT_VOICE20: Here I go.

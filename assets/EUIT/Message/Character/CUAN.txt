@@ -1,0 +1,38 @@
+[Heroes Archive] (CUAN)
+
+
+Heroes Message Name: Message
+
+
+MID_CUAN_HOME1: La sensazione di pace che provo\nqui mi riporta ai giorni dell'accademia.$k$pIn quell'epoca, io e miei amici ci\nfacemmo una solenne promessa...
+MID_CUAN_HOME2: Il regno di Leonster è piccolo, ma\nnelle nostre vene scorre il sangue\ndi Njörun, una dei 12 crociati.$k$pMio padre credeva nella causa per\ncui lotto, e anche i miei antenati\napproverebbero. Tuttavia...
+MID_CUAN_HOME3: Non ti fermi un istante! Lascia che\nprenda il tuo posto, pattuglierò io\nil castello per te.
+MID_CUAN_HOME4: È un grande svantaggio muoversi per\nil campo di battaglia senza poter\ncontare su un fido destriero.$k$pSe vuoi imparare a cavalcare,\nsarò felice di darti delle lezioni.
+MID_CUAN_HOME5: Stavo sistemando le mie cose, ormai\nè un'abitudine. Se c'è confusione, la\nmia sposa mi fa una bella ramanzina.$k$pNaturalmente questo mio commento\nè solo per le tue orecchie.
+MID_CUAN_FRIEND: Sono Quan, e ti porto i saluti\ndi $Nf.$k$pSpero che la vostra amicizia\nnon mostri mai delle crepe.
+MID_CUAN_LEVEL1: Discendo da una dei crociati.\nLa mia stirpe è contraddistinta\ndalla forza.
+MID_CUAN_LEVEL2: Devo rimanere attento\ne procedere oltre.
+MID_CUAN_LEVEL3: La debolezza è l'anticamera\ndella sconfitta.
+MID_CUAN_SKILL: Giuro su questa lancia che darò\ntutto me stesso per la tua causa.
+MID_CUAN_JOIN: Sono Quan, principe di Leonster. Il\nsangue della crociata Njörun scorre in\nme e impugno la sua lancia, Gáe Bolg.
+MID_CUAN_STRONGEST: È da un po' ormai che lottiamo\ninsieme... E posso dire per certo\nche le tue abilità sono impressionanti.$k$pSe quella volta avessi potuto\ncontare su di te...$k$pMa non importa, il passato è passato.\nQuello che voglio sapere è cosa ti\nspinge a lottare.$k$pPerché lo fai?$k$pHo conosciuto la sconfitta\ne ho perso tutto quanto...$k$pE tuttavia continuo a credere\nche le mie azioni influenzeranno\nil futuro.$k$pCerto, non so che effetto avranno\nsul risultato finale...$k$pMa non posso che aggrapparmi alla\nvolontà di combattere, perché non\nvedo altra alternativa.$k$pFinché nel tuo cuore albergherà\nla giustizia, io e Gáe Bolg ti\nsosterremo.$k$pAndiamo avanti senza esitare,\n$Gamico mio,amica mia|.
+MID_CUAN_VOICE01: はっ！
+MID_CUAN_VOICE02: せいっ！
+MID_CUAN_VOICE03: うああっ！
+MID_CUAN_VOICE04: Damn it...!
+MID_CUAN_VOICE05: Gáe Bolg!
+MID_CUAN_VOICE06: Non perderò.
+MID_CUAN_VOICE07: Te ne pentirai.
+MID_CUAN_VOICE08: Per gli alleati!
+MID_CUAN_VOICE09: Ethlyn... I'm sorry...
+MID_CUAN_VOICE10: Sigh
+MID_CUAN_VOICE11: My bond of friendship with Sigurd is unbreakable. Now that I have wed Ethlyn, we are brothers!
+MID_CUAN_VOICE12: Our Leonster may be a small country, but it is ruled by the descendants of the crusader Njörun.
+MID_CUAN_VOICE13: Even if I fall into ruin, I will never regret my choice -- as long as I fight for what is right.
+MID_CUAN_VOICE14: When we were just boys studying together, Sigurd, Eldigan, and I shared our dreams for the future.
+MID_CUAN_VOICE15: Have you ever made a mistake? One that haunts you, even now?
+MID_CUAN_VOICE16: As long as I have the Gáe Bolg, I will not lose.
+MID_CUAN_VOICE17: You must not lose your life here. If you were to be placed in danger, I would do everything I could to save you.
+MID_CUAN_VOICE18: Yes.
+MID_CUAN_VOICE19: Ready to go?
+MID_CUAN_VOICE20: My strength.

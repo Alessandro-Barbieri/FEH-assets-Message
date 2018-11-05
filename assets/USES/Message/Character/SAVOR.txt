@@ -1,0 +1,38 @@
+[Heroes Archive] (SAVOR)
+
+
+Heroes Message Name: Message
+
+
+MID_SAVOR_HOME1: ¿Qué dices? ¿Que me reclutaste\npara la "Orden de Héroes"?$k$pNo te lo tomes mal, pero esto de\nórdenes y héroes... no es lo mío.
+MID_SAVOR_HOME2: Una extraña dama me contrató cuando\nestaba en el gran puerto de Novis\nofreciendo mi espada al mejor postor.
+MID_SAVOR_HOME3: ¿Ya estás trabajando? Esto\nde trabajar día y noche nunca\nes bueno.$k$pCuando vuelvas, te enseñaré a\nrelajarte para variar.
+MID_SAVOR_HOME4: Eh... oye. ¿Sabes adónde puede ir\nuno a pasar un buen rato? Pásame\nla información... pero con discreción.
+MID_SAVOR_HOME5: Estaba puliendo mi espada.\nEs con lo que me gano la vida.\nEs una preciosidad, ¿no crees?
+MID_SAVOR_FRIEND: Te traigo saludos de\n$Nf.$k$pMmm... No está mal este sitio.\nPuede que me dé un paseo\npor aquí antes de volver.
+MID_SAVOR_LEVEL1: Je, je. No está nada mal.
+MID_SAVOR_LEVEL2: Hoy tengo la mente despierta.
+MID_SAVOR_LEVEL3: Eso no me lo esperaba.
+MID_SAVOR_SKILL: Te compensaré haciendo buen\nuso de esta habilidad.
+MID_SAVOR_JOIN: Me llamo Saber. Soy mercenario.\nMientras me sigas pagando, yo\nseguiré luchando.
+MID_SAVOR_STRONGEST: Llegas en buen momento,\n$Nu.$k$pEstaba a punto de salir a divertirme.\n¿Quieres venir conmigo?$k$p¿No tienes tiempo? La vida no es\nsolo trabajo. Nunca sabes cuándo\nva a ser tu último día.$k$p¡Come, bebe y no te preocupes por\nnada! Bien, bien... No me mires con\nesa cara y con los brazos cruzados.$k$pEl mercenario más duro, derrotado\ncon una mirada... Mi reputación\nquedará arruinada.$k$pEn fin, no pasa nada. Ahora estamos\nbien, así que ningún problema.\nNos vemos por ahí, ¿de acuerdo?
+MID_SAVOR_VOICE01: せやあっ
+MID_SAVOR_VOICE02: おらよっ
+MID_SAVOR_VOICE03: Hey, that HURT!
+MID_SAVOR_VOICE04: うわあああーっ！！
+MID_SAVOR_VOICE05: No sabes cuándo rendirte.
+MID_SAVOR_VOICE06: ¡Aparta!
+MID_SAVOR_VOICE07: ¡No puedes ganar!
+MID_SAVOR_VOICE08: Te voy a dar una lección.
+MID_SAVOR_VOICE09: Botched it.
+MID_SAVOR_VOICE10: Haha
+MID_SAVOR_VOICE11: Whoa, hey now. Messin' with me?
+MID_SAVOR_VOICE12: Hmm. Think twice before gettin' on my bad side.
+MID_SAVOR_VOICE13: Long as this stays lively, I don't give a damn about the details.
+MID_SAVOR_VOICE14: Lookin' for a good time here! C'mon! ...Anyone? Hello?
+MID_SAVOR_VOICE15: Piece of advice. Dealin' with a fancy lass is always a bad idea.
+MID_SAVOR_VOICE16: Everyone has a past. Remember that.
+MID_SAVOR_VOICE17: You ain't half-bad. Ha! Not half-good either.
+MID_SAVOR_VOICE18: All right.
+MID_SAVOR_VOICE19: Huh...
+MID_SAVOR_VOICE20: On it.

@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201806DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201806DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201806DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201806DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201806DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201806DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201806DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201806DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201806DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201806DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201806DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201806DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201806SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201806SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201806SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201806SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201806SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806STORY02_TITLE: Avvento estivo
+MID_MISSION_S201806STORY02_A1: Completa app. 21-1 folle
+MID_MISSION_H_S201806STORY02_A1: Completa l'app. 21, parte 1 alla difficoltà folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY02_A2: Completa app. 21-2 folle
+MID_MISSION_H_S201806STORY02_A2: Completa l'app. 21, parte 2 alla difficoltà folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY02_A3: Completa app. 21-3 folle
+MID_MISSION_H_S201806STORY02_A3: Completa l'app. 21, parte 3 alla difficoltà folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_水着ヒーニアス: Innes
+MPID_水着ターナ: Dana
+MPID_水着ティアモ: Cordelia
+MPID_水着ノワール: Noire
+MPID_HONOR_水着ヒーニアス: Il nuotatore
+MPID_HONOR_水着ターナ: La princ. estiva
+MPID_HONOR_水着ティアモ: La cav. estiva
+MPID_HONOR_水着ノワール: La lieta all'ombra
+MPID_H_水着ヒーニアス: Principe di Frelia e fratello di Dana. Vuole\napprofittare delle vacanze per affinare le\nsue abilità. Compare in Fire Emblem:\nThe Sacred Stones.
+MPID_H_水着ターナ: Principessa di Frelia e sorella di Innes.\nPasserà le vacanze a rilassarsi sulla spiaggia.\nCompare in Fire Emblem: The Sacred Stones.
+MPID_H_水着ティアモ: Unica superstite dei cavalieri pegaso d'Ylisse,\ndal talento sopraffino. Scegliere il costume\nda bagno non è il suo forte. Compare in\nFire Emblem: Awakening.
+MPID_H_水着ノワール: Figlia di Tharja. Quando è sotto pressione,\nemerge il suo lato oscuro. Odia prendere\nil sole. Compare in Fire Emblem: Awakening.
+MPID_VOICE_水着ヒーニアス: Xander Mobus
+MPID_VOICE_水着ターナ: Joie Marlowe
+MPID_VOICE_水着ティアモ: Julie Ann Taylor
+MPID_VOICE_水着ノワール: Michelle Ruff
+MPID_ILLUST_水着ヒーニアス: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: Mayo (まよ)
+MPID_ILLUST_水着ノワール: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: Lancia conchiglia
+MSID_貝殻の槍＋: Lancia conch.+
+MSID_ビーチフラッグ: Bandiera estiva
+MSID_ビーチフラッグ＋: Bandiera estiva+
+MSID_ヤシの実の弓: Arcocco
+MSID_ヤシの実の弓＋: Arcocco+
+MSID_イズンの果実: Frutto di Iðunn
+MSID_攻撃速さの渾身1: Slancio Att/Vel 1
+MSID_攻撃速さの渾身2: Slancio Att/Vel 2
+MSID_攻撃速さの渾身3: Slancio Att/Vel 3
+MSID_強化無効・近距離1: Anti-mischia 1
+MSID_強化無効・近距離2: Anti-mischia 2
+MSID_強化無効・近距離3: Anti-mischia 3
+MSID_守備の共謀1: Finta Dif 1
+MSID_守備の共謀2: Finta Dif 2
+MSID_守備の共謀3: Finta Dif 3
+MSID_歩行の剛撃1: Impeto fanteria 1
+MSID_歩行の剛撃2: Impeto fanteria 2
+MSID_歩行の剛撃3: Impeto fanteria 3
+MSID_H_貝殻の槍: Se l'unità attacca per prima,\nAtt/Vel/Dif/Res +2 durante lo scontro.
+MSID_H_貝殻の槍＋: Se l'unità attacca per prima,\nAtt/Vel/Dif/Res +2 durante lo scontro.
+MSID_H_ビーチフラッグ: Se l'unità attacca per prima,\nAtt/Vel/Dif/Res +2 durante lo scontro.
+MSID_H_ビーチフラッグ＋: Se l'unità attacca per prima,\nAtt/Vel/Dif/Res +2 durante lo scontro.
+MSID_H_ヤシの実の弓: Efficace contro le unità volanti. Se l'unità\nattacca per prima, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_ヤシの実の弓＋: Efficace contro le unità volanti. Se l'unità\nattacca per prima, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_イズンの果実: Conferisce Vel +3. Se l'unità ha il 50% o più\ndei PS, gli alleati entro 2 spazi si possono\nspostare in uno spazio adiacente all'unità.
+MSID_H_攻撃速さの渾身1: Se l'unità ha tutti i PS all'inizio dello scontro\nriceve Att/Vel +3, ma se ha attaccato perde\n1 PS dopo lo scontro.
+MSID_H_攻撃速さの渾身2: Se l'unità ha tutti i PS all'inizio dello scontro\nriceve Att/Vel +4, ma se ha attaccato perde\n1 PS dopo lo scontro.
+MSID_H_攻撃速さの渾身3: Se l'unità ha tutti i PS all'inizio dello scontro\nriceve Att/Vel +5, ma se ha attaccato perde\n1 PS dopo lo scontro.
+MSID_H_強化無効・近距離1: Se l'unità ha tutti i PS all'inizio dello scontro\ne il nemico usa spada, lancia, ascia o pietra\ndrago, i bonus da abilità come Fortifica o\nSprone del nemico sono annullati durante\nlo scontro.
+MSID_H_強化無効・近距離2: Se l'unità ha il 50% o più dei PS all'inizio\ndello scontro e il nemico usa spada, lancia,\nascia o pietra drago, i bonus da abilità come\nFortifica o Sprone del nemico sono annullati\ndurante lo scontro.
+MSID_H_強化無効・近距離3: Se il nemico usa spada, lancia, ascia o\npietra drago, i suoi bonus da abilità come\nFortifica o Sprone sono annullati durante\nlo scontro.
+MSID_H_守備の共謀1: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Dif -3\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MSID_H_守備の共謀2: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Dif -5\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MSID_H_守備の共謀3: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Dif -7\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MSID_H_歩行の剛撃1: Gli alleati di fanteria entro 2 spazi ottengono:\n"Se l'unità ha almeno 5 Att più del nemico,\nanticipa l'attivazione dell'abilità speciale\n(contatore -1) a ogni proprio attacco. (Non\ncumulabile; si applica solo il valore più alto.)"
+MSID_H_歩行の剛撃2: Gli alleati di fanteria entro 2 spazi ottengono:\n"Se l'unità ha almeno 3 Att più del nemico,\nanticipa l'attivazione dell'abilità speciale\n(contatore -1) a ogni proprio attacco. (Non\ncumulabile; si applica solo il valore più alto.)"
+MSID_H_歩行の剛撃3: Gli alleati di fanteria entro 2 spazi ottengono:\n"Se l'unità ha Att superiore rispetto al nemico,\nanticipa l'attivazione dell'abilità speciale\n(contatore -1) a ogni proprio attacco. (Non\ncumulabile; si applica solo il valore più alto.)"
+MID_CHAPTER_TITLE_CX020: Appendice 21
+MID_CHAPTER_CX020: Avvento estivo
+MID_STAGE_TITLE_X0201: Appendice 21-1
+MID_STAGE_TITLE_X0202: Appendice 21-2
+MID_STAGE_TITLE_X0203: Appendice 21-3
+MID_STAGE_X0201: Una famiglia agguerrita
+MID_STAGE_X0202: Sotto il sole splendente
+MID_STAGE_X0203: I rumori dell'oceano

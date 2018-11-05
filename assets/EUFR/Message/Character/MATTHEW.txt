@@ -1,0 +1,38 @@
+[Heroes Archive] (MATTHEW)
+
+
+Heroes Message Name: Message
+
+
+MID_MATTHEW_HOME1: Mon travail pour les Gardiens d'Askr\nest assez similaire à ce que je faisais\navant d'arriver ici.
+MID_MATTHEW_HOME2: Vous voulez en savoir plus sur moi ?\nD'accord, je vais vous raconter mon\nhistoire. Tout sera presque vrai...
+MID_MATTHEW_HOME3: Vous faites une ronde ? Bonne idée.\nComptez sur moi : si quelqu'un se\nfaufile dans le château, je le verrai.
+MID_MATTHEW_HOME4: Les lois de ce monde semblent\nsi étranges... Qui sait ? Peut-être\npourrai-je y retrouver Leila ?
+MID_MATTHEW_HOME5: Bien sûr que les espions s'entraînent\naussi, mais jamais en public. On ne\nsait jamais qui nous observe...
+MID_MATTHEW_FRIEND: $Nu ?\nOn m'a envoyé vous saluer\nen gage d'amitié.
+MID_MATTHEW_LEVEL1: Qui aurait cru qu'un espion comme\nmoi pouvait devenir si puissant ?
+MID_MATTHEW_LEVEL2: J'étais déjà bon, je deviens encore\nmeilleur !
+MID_MATTHEW_LEVEL3: Je ferais mieux de rester dans\nl'ombre...
+MID_MATTHEW_SKILL: Je préfère rester dans l'ombre, mais\nje ferai bon usage de ce pouvoir.
+MID_MATTHEW_JOIN: Je m'appelle Matthew. Je sers\nle jeune maître... je veux dire,\nLord Hector. Enchanté.
+MID_MATTHEW_STRONGEST: Dites-moi, je dois toujours rester sur\nmes gardes, avec vous ! Au moins,\non ne s'ennuie pas.$k$pVous savez, en tant qu'espion, je n'ai\npas pour habitude de me faire des\namis... Je préfère rester en retrait.$k$pC'est logique, quand on y pense.\nJe dois à tout moment être prêt à\nfaire ce qui doit être fait.$k$pL'amitié, les sentiments, tout ça...\nÇa ne crée que des problèmes.$k$pMais avec vous... C'est un peu\nplus compliqué. J'ai du mal à ne\npas m'investir dans notre relation.$k$pOh, j'y arriverai, ne vous en faites\npas. En attendant, faites comme si\nje n'avais rien dit. D'accord ?
+MID_MATTHEW_VOICE01: はっ！
+MID_MATTHEW_VOICE02: そらっ！
+MID_MATTHEW_VOICE03: うああっ！
+MID_MATTHEW_VOICE04: Well, well...
+MID_MATTHEW_VOICE05: Trop facile !
+MID_MATTHEW_VOICE06: C'est fini pour toi !
+MID_MATTHEW_VOICE07: Réglons ça !
+MID_MATTHEW_VOICE08: Bonjour !
+MID_MATTHEW_VOICE09: Ugh, sorry...
+MID_MATTHEW_VOICE10: Heh
+MID_MATTHEW_VOICE11: Oh! Have a new mission for me? Let's hear it!
+MID_MATTHEW_VOICE12: No need for a shakedown. I never hide my weapons.
+MID_MATTHEW_VOICE13: I sense no enemies here, not even in the shadows.
+MID_MATTHEW_VOICE14: Need me to pry into someone's secrets? I'm your man!
+MID_MATTHEW_VOICE15: Glad to chat, but I'm really more of a behind-the-scenes kind of guy.
+MID_MATTHEW_VOICE16: We all have a place in our hearts that we'd...prefer...that no one goes poking around in.
+MID_MATTHEW_VOICE17: You...have caught my interest!
+MID_MATTHEW_VOICE18: All right.
+MID_MATTHEW_VOICE19: And now?
+MID_MATTHEW_VOICE20: Let's go.

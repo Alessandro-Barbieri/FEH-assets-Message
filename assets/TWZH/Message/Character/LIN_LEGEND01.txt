@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_LEGEND01_HOME1: 亞斯克王國真是個神奇的地方。\n明明跟故鄉的草原或基亞蘭都不同……\n但是……卻給我一種懷念的感覺。
+MID_LIN_LEGEND01_HOME2: 草原之民在狩獵時不會胡亂放箭。\n為了不讓獵物痛苦太久，\n一擊就會命中要害。
+MID_LIN_LEGEND01_HOME3: 為了減輕你的負擔，\n我能夠做些什麼呢……\n像是揉揉肩膀之類的？
+MID_LIN_LEGEND01_HOME4: 這把弓寄宿著精靈的加護。\n你輕輕地摸摸看……\n能夠感受到草原的風吧？
+MID_LIN_LEGEND01_HOME5: 呀啊！？\n不、不要在我冥想的時候突然拍我肩膀啊！
+MID_LIN_LEGEND01_FRIEND: $Nf捎來了問候。\n若是今後也能維持良好關係，\n我會很高興的。
+MID_LIN_LEGEND01_LEVEL1: 好厲害……\n這都得感謝精靈們呢。
+MID_LIN_LEGEND01_LEVEL2: 現在是順風，\n感覺箭能夠飛很遠呢。
+MID_LIN_LEGEND01_LEVEL3: 現在吹著逆風呢……\n不過，請期待我下次的表現吧。
+MID_LIN_LEGEND01_SKILL: 因為有你在，\n我才能夠奮力戰鬥。
+MID_LIN_LEGEND01_JOIN: 我是琳迪絲，讓我來助你一臂之力吧。\n我想為了消除折磨人們的災害而戰。
+MID_LIN_LEGEND01_STRONGEST: 我、艾利烏德及海克托爾三人，\n曾經一起經歷過一場大戰……\n並且成功消除了籠罩世界的災害。$k$p大賢者亞托思大人曾說過，當凶星來臨時，\n這片大地將再次被鮮血染紅……\n我很害怕這一天的到來。$k$p但是……我現在已經不害怕了。\n既然曾經拯救過世界，那麼下次也一定……\n只要待在你身邊，我就能這麼想。$k$p無論是一個人待在草原的時候……\n還是內心被不安給盤據的時候……\n都是因為有你在……我才能……$k$p謝謝你，$Nu。\n你是我很重要的人……
+MID_LIN_LEGEND01_VOICE01: 喝！
+MID_LIN_LEGEND01_VOICE02: 風啊……
+MID_LIN_LEGEND01_VOICE03: 呀啊啊！
+MID_LIN_LEGEND01_VOICE04: 我不會輸……！
+MID_LIN_LEGEND01_VOICE05: 用這招作個了斷！
+MID_LIN_LEGEND01_VOICE06: 無需特地瞄準。
+MID_LIN_LEGEND01_VOICE07: 一箭一殺！
+MID_LIN_LEGEND01_VOICE08: 一箭必中！
+MID_LIN_LEGEND01_VOICE09: みんな…許して…
+MID_LIN_LEGEND01_VOICE10: ふふふ
+MID_LIN_LEGEND01_VOICE11: リンよ。伝承の英雄…？　私はそんな大それた人間じゃないわ。
+MID_LIN_LEGEND01_VOICE12: きゃあっ！？　…だから、怒るって言ったでしょ！
+MID_LIN_LEGEND01_VOICE13: すぅぅぅ…はぁぁぁ…
+MID_LIN_LEGEND01_VOICE14: 感じる…？　肌を撫でるこの風に…矢を乗せるの。
+MID_LIN_LEGEND01_VOICE15: 撃てば、狙った場所に行く。ずっと鍛錬してたら、そうなってたわ。
+MID_LIN_LEGEND01_VOICE16: 一つの世界を救えたのなら、この世界も…
+MID_LIN_LEGEND01_VOICE17: ずっと傍にいてね。大切な人を…失いたくないから…
+MID_LIN_LEGEND01_VOICE18: いくわ
+MID_LIN_LEGEND01_VOICE19: 策を考えてるの？
+MID_LIN_LEGEND01_VOICE20: 射抜いてみせるわ

@@ -1,0 +1,38 @@
+[Heroes Archive] (PAORA)
+
+
+Heroes Message Name: Message
+
+
+MID_PAORA_HOME1: Je me demande comment vont Catria\net Est... Je suis leur sœur aînée, c'est\nmon rôle de m'inquiéter à leur sujet.
+MID_PAORA_HOME2: Je pense que grâce à mes sœurs,\nj'ai appris à m'occuper des autres.\nC'est ce qu'on me dit, en tout cas...
+MID_PAORA_HOME3: Lorsque vous aurez terminé votre\nronde, reposez-vous un peu.\nVous l'avez amplement mérité.
+MID_PAORA_HOME4: Comment allez-vous, $GInvocateur,Invocatrice| ?\nJe peux vous masser les épaules,\nsi vous voulez. Ça vous détendra.
+MID_PAORA_HOME5: Oh ! Je viens de me rappeler que je\ndois aller m'occuper des montures.
+MID_PAORA_FRIEND: C'est un honneur de vous rencontrer !\n$Nf m'a\ndemandé de vous saluer.
+MID_PAORA_LEVEL1: Voilà qui me donne le sourire !
+MID_PAORA_LEVEL2: Oh, je sais que je peux faire mieux\nque ça !
+MID_PAORA_LEVEL3: Quel malheur...
+MID_PAORA_SKILL: Je vous remercie. Je promets de\ncontinuer à faire de mon mieux.
+MID_PAORA_JOIN: Je suis Palla, chevalier pégase\ndes Ailes-blanches de Medon.\nC'est un honneur de vous servir.
+MID_PAORA_STRONGEST: Oh, bien sûr, je serai toujours loyale à\nla princesse Minerva...$k$pEt je tiens à mes sœurs plus que tout\nau monde, c'est une évidence...$k$pCela dit, je ne peux cacher que j'ai\nrencontré quelqu'un qui occupe de\nplus en plus mes pensées...$k$pJe... J'espère continuer à vous rendre\n$Gfier,fière| en me battant à vos côtés !$k$pOui ? Oh, merci infiniment !\nVous me rendez si heureuse !
+MID_PAORA_VOICE01: はいっ！
+MID_PAORA_VOICE02: ええいっ！
+MID_PAORA_VOICE03: きゃああっ！
+MID_PAORA_VOICE04: Oh no...!
+MID_PAORA_VOICE05: Mes excuses.
+MID_PAORA_VOICE06: Allons-y !
+MID_PAORA_VOICE07: Je n'aurai aucune pitié.
+MID_PAORA_VOICE08: Une petite démonstration ?
+MID_PAORA_VOICE09: I'm sorry.
+MID_PAORA_VOICE10: Heehee
+MID_PAORA_VOICE11: Is something the matter?
+MID_PAORA_VOICE12: AH! Oh, you startled me, you trickster you.
+MID_PAORA_VOICE13: We must all strive to do our best out there.
+MID_PAORA_VOICE14: You aren't hurt, are you?
+MID_PAORA_VOICE15: I can't help but take care of you and the others.
+MID_PAORA_VOICE16: Please, make sure you take time to rest. We need you!
+MID_PAORA_VOICE17: If you need my help with anything, please let me know.
+MID_PAORA_VOICE18: Yes?
+MID_PAORA_VOICE19: Here we go.
+MID_PAORA_VOICE20: Onward.

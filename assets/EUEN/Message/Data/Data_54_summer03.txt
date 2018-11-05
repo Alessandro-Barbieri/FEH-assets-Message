@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201806DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201806DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201806DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201806DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201806DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201806DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201806DAISEIATU01_A4: Tower: Second Stratum
+MID_MISSION_H_S201806DAISEIATU01_A4: Clear the Second Stratum of the Training\nTower.
+MID_MISSION_S201806DAISEIATU01_A5: Tower: Eighth Stratum
+MID_MISSION_H_S201806DAISEIATU01_A5: Clear the Eighth Stratum of the Training Tower.
+MID_MISSION_S201806DAISEIATU01_A6: Win Arena Duels
+MID_MISSION_H_S201806DAISEIATU01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201806SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201806SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201806SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201806SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201806SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201806SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201806SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201806SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201806SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201806STORY02_TITLE: Summer's Arrival
+MID_MISSION_S201806STORY02_A1: Clear P21-1 on Lunatic
+MID_MISSION_H_S201806STORY02_A1: Clear Paralogue 21: Part 1 on Lunatic difficulty\nwith a sword user on your team. All four allies\nmust survive.
+MID_MISSION_S201806STORY02_A2: Clear P21-2 on Lunatic
+MID_MISSION_H_S201806STORY02_A2: Clear Paralogue 21: Part 2 on Lunatic difficulty\nwith a lance user on your team. All four allies\nmust survive.
+MID_MISSION_S201806STORY02_A3: Clear P21-3 on Lunatic
+MID_MISSION_H_S201806STORY02_A3: Clear Paralogue 21: Part 3 on Lunatic difficulty\nwith an axe user on your team. All four allies\nmust survive.
+MPID_水着ヒーニアス: Innes
+MPID_水着ターナ: Tana
+MPID_水着ティアモ: Cordelia
+MPID_水着ノワール: Noire
+MPID_HONOR_水着ヒーニアス: Flawless Form
+MPID_HONOR_水着ターナ: Noble and Nimble
+MPID_HONOR_水着ティアモ: Knight Paradise
+MPID_HONOR_水着ノワール: Shade Seeker
+MPID_H_水着ヒーニアス: The prince of Frelia. Tana's brother. Determined\nto use his vacation to hone his skills rather than\nplay around. Appears in Fire Emblem: The\nSacred Stones.
+MPID_H_水着ターナ: The princess of Frelia. Innes's sister. She's\nenjoying her break on a summer beach.\nAppears in Fire Emblem: The Sacred Stones.
+MPID_H_水着ティアモ: The sole survivor of Ylisse's pegasus knights.\nSupremely talented, but not so sure about\nswimwear. Appears in Fire Emblem Awakening.
+MPID_H_水着ノワール: Tharja's daughter. Turns into a terrifying\nalter ego when pushed too far. The summer\nsun has made her a bit dizzy. Appears in\nFire Emblem Awakening.
+MPID_VOICE_水着ヒーニアス: Xander Mobus
+MPID_VOICE_水着ターナ: Joie Marlowe
+MPID_VOICE_水着ティアモ: Julie Ann Taylor
+MPID_VOICE_水着ノワール: Michelle Ruff
+MPID_ILLUST_水着ヒーニアス: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: Mayo (まよ)
+MPID_ILLUST_水着ノワール: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: Shell Lance
+MSID_貝殻の槍＋: Shell Lance+
+MSID_ビーチフラッグ: Beach Banner
+MSID_ビーチフラッグ＋: Beach Banner+
+MSID_ヤシの実の弓: Cocobow
+MSID_ヤシの実の弓＋: Cocobow+
+MSID_イズンの果実: Fruit of Iðunn
+MSID_攻撃速さの渾身1: Atk/Spd Push 1
+MSID_攻撃速さの渾身2: Atk/Spd Push 2
+MSID_攻撃速さの渾身3: Atk/Spd Push 3
+MSID_強化無効・近距離1: Dull Close 1
+MSID_強化無効・近距離2: Dull Close 2
+MSID_強化無効・近距離3: Dull Close 3
+MSID_守備の共謀1: Def Feint 1
+MSID_守備の共謀2: Def Feint 2
+MSID_守備の共謀3: Def Feint 3
+MSID_歩行の剛撃1: Infantry Rush 1
+MSID_歩行の剛撃2: Infantry Rush 2
+MSID_歩行の剛撃3: Infantry Rush 3
+MSID_H_貝殻の槍: If unit initiates combat, grants Atk/Spd/Def/\nRes+2 during combat.
+MSID_H_貝殻の槍＋: If unit initiates combat, grants Atk/Spd/Def/\nRes+2 during combat.
+MSID_H_ビーチフラッグ: If unit initiates combat, grants Atk/Spd/Def/\nRes+2 during combat.
+MSID_H_ビーチフラッグ＋: If unit initiates combat, grants Atk/Spd/Def/\nRes+2 during combat.
+MSID_H_ヤシの実の弓: Effective against flying foes. If unit initiates\ncombat, grants Atk/Spd/Def/Res+2 during\ncombat.
+MSID_H_ヤシの実の弓＋: Effective against flying foes. If unit initiates\ncombat, grants Atk/Spd/Def/Res+2 during\ncombat.
+MSID_H_イズンの果実: Grants Spd+3. If unit's HP ≥ 50%, allies\nwithin 2 spaces can move to a space\nadjacent to unit.
+MSID_H_攻撃速さの渾身1: At start of combat, if unit's HP = 100%,\ngrants Atk/Spd+3, but if unit attacked, deals\n1 damage to unit after combat.
+MSID_H_攻撃速さの渾身2: At start of combat, if unit's HP = 100%,\ngrants Atk/Spd+4, but if unit attacked, deals\n1 damage to unit after combat.
+MSID_H_攻撃速さの渾身3: At start of combat, if unit's HP = 100%,\ngrants Atk/Spd+5, but if unit attacked, deals\n1 damage to unit after combat.
+MSID_H_強化無効・近距離1: At start of combat, if unit's HP = 100% and\nfoe uses sword, lance, axe, or dragonstone,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_強化無効・近距離2: At start of combat, if unit's HP ≥ 50% and\nfoe uses sword, lance, axe, or dragonstone,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_強化無効・近距離3: If foe uses sword, lance, axe, or\ndragonstone, neutralizes foe's bonuses\n(from skills like Fortify, Rally, etc.) during\ncombat.
+MSID_H_守備の共謀1: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-3 on foes in cardinal directions\nof unit through their next actions.
+MSID_H_守備の共謀2: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-5 on foes in cardinal directions\nof unit through their next actions.
+MSID_H_守備の共謀3: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-7 on foes in cardinal directions\nof unit through their next actions.
+MSID_H_歩行の剛撃1: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+5, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
+MSID_H_歩行の剛撃2: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+3, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
+MSID_H_歩行の剛撃3: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+1, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
+MID_CHAPTER_TITLE_CX020: Paralogue 21
+MID_CHAPTER_CX020: Summer's Arrival
+MID_STAGE_TITLE_X0201: Paralogue 21-1
+MID_STAGE_TITLE_X0202: Paralogue 21-2
+MID_STAGE_TITLE_X0203: Paralogue 21-3
+MID_STAGE_X0201: A Fighting Family
+MID_STAGE_X0202: Shimmering in the Sun
+MID_STAGE_X0203: Sounds of the Ocean

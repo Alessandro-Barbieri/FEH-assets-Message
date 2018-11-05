@@ -1,0 +1,38 @@
+[Heroes Archive] (JEIGUN)
+
+
+Heroes Message Name: Message
+
+
+MID_JEIGUN_HOME1: Ce château n'est pas aussi\nmajestueux que celui d'Altea,\nmais comment le pourrait-il ?
+MID_JEIGUN_HOME2: Ô roi Cornelius... Sachez que\nMarth est devenu un homme\nqui inspire le respect.
+MID_JEIGUN_HOME3: Laissez-moi vous accompagner lors\nde votre prochaine patrouille. N'ayez\ncrainte, je peux tenir le rythme.
+MID_JEIGUN_HOME4: Je pourrais conter l'histoire d'Altea\net les innombrables exploits du\nprince Marth des jours durant !
+MID_JEIGUN_HOME5: Je crains m'être blessé le dos.\nAuriez-vous l'extrême amabilité\nd'appuyer juste ici ?
+MID_JEIGUN_FRIEND: Mes hommages,\n$Nf vous\nenvoie ses salutations.
+MID_JEIGUN_LEVEL1: Manifestement, j'ai encore de la\nressource.
+MID_JEIGUN_LEVEL2: C'est la moindre des choses pour un\npaladin d'Altea.
+MID_JEIGUN_LEVEL3: Quel déshonneur pour mon titre et ma\npatrie...
+MID_JEIGUN_SKILL: Qui aurait cru que j'avais encore à\napprendre...
+MID_JEIGUN_JOIN: Je suis Jagen, chevalier d'Altea\net protecteur du prince Marth. Ne\nvous fiez pas à mon âge avancé.
+MID_JEIGUN_STRONGEST: Je n'ai jamais rencontré quelqu'un\ncomme vous, malgré mes longues\nannées de service.$k$pJe ne pense pas que nous vous\nsuivions uniquement parce que\nvous nous avez invoqués.$k$pPour une raison que je ne saurais\nexpliquer, vous donnez aux gens\nl'envie de se battre à vos côtés.$k$pC'est une qualité que le prince Marth\npossède également. De nombreux\nhéros se sont ralliés à sa cause.$k$pQuoi qu'il en soit, je mettrai mon\nexpérience à votre service aussi\nlongtemps que possible.
+MID_JEIGUN_VOICE01: ふんっ！
+MID_JEIGUN_VOICE02: ぬぅんっ！
+MID_JEIGUN_VOICE03: ぬおおっ！
+MID_JEIGUN_VOICE04: Not good!
+MID_JEIGUN_VOICE05: Allez-vous-en !
+MID_JEIGUN_VOICE06: Je n'ai pas fini !
+MID_JEIGUN_VOICE07: Ne me tournez pas le dos !
+MID_JEIGUN_VOICE08: Pour le prince Marth !
+MID_JEIGUN_VOICE09: Pitiful...
+MID_JEIGUN_VOICE10: Hm
+MID_JEIGUN_VOICE11: Did you need something of me?
+MID_JEIGUN_VOICE12: I will never understand the young...
+MID_JEIGUN_VOICE13: You are young, but I see wisdom in your eyes.
+MID_JEIGUN_VOICE14: These old bones can be of service to you yet.
+MID_JEIGUN_VOICE15: I won't be outdone by any of those young striplings!
+MID_JEIGUN_VOICE16: I wonder how many more battles I have in me...
+MID_JEIGUN_VOICE17: Take care not to worry your elders. We know best.
+MID_JEIGUN_VOICE18: Hmm.
+MID_JEIGUN_VOICE19: Your servant.
+MID_JEIGUN_VOICE20: Hya!

@@ -1,0 +1,38 @@
+[Heroes Archive] (ROY_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_VALENTINE01_HOME1: Welche Art von Geschenken verteilt\nIhr am Tag der Liebe?$k$pOder gehört Ihr zu denjenigen,\ndie sich lieber beschenken\nlassen?
+MID_ROY_VALENTINE01_HOME2: Hier gibt es also auch ein Festival zur\nFeier der Zuneigung...$k$pNennt sich das bei Euch etwa auch\n"Tag der Liebe"?
+MID_ROY_VALENTINE01_HOME3: Lilina und ich sind seit der Kindheit\nbefreundet. In Ositia hat sie mir alles\nüber Hofmanieren beigebracht.$k$pAußerdem habe ich es vor allem\nihr zu verdanken, dass ich\nvorzeigbar aussehe.
+MID_ROY_VALENTINE01_HOME4: Manchmal wünsche ich mir eine\nfreundschaftliche Rivalität, die mich\nzu neuen Höchstleistungen anspornt.$k$pSo wie die zwischen meinem\nVater und Lord Hector.
+MID_ROY_VALENTINE01_HOME5: Am Tag der Liebe wirken alle\nimmer ein wenig nervös.$k$pVielleicht machen sie sich Sorgen,\nob sich ihre Liebsten über ihre\nGeschenke freuen.
+MID_ROY_VALENTINE01_FRIEND: Seid Ihr $Nu?\nIch habe ein Geschenk für Euch\nvon $Nf.
+MID_ROY_VALENTINE01_LEVEL1: Es gibt Leute, die ich\nbeschützen möchte!
+MID_ROY_VALENTINE01_LEVEL2: Das verdanke ich alles meinem\nVater und Lord Hector.
+MID_ROY_VALENTINE01_LEVEL3: Hmmm... Nächstes Mal werde\nich mich mehr anstrengen.
+MID_ROY_VALENTINE01_SKILL: Danke. Gibt es etwas, was ich\nEuch dafür geben kann?
+MID_ROY_VALENTINE01_JOIN: Ich bin Roy. Ich habe gerade mit den\nanderen den Tag der Liebe gefeiert.\nMöchtet Ihr jemanden beschenken?
+MID_ROY_VALENTINE01_STRONGEST: Meine Eltern haben mir das Leben\ngeschenkt und alle in Pherae haben\nmitgeholfen, mich aufzuziehen.$k$pAls ich in Ositia studierte, brachte mir\nCecilia vieles bei. Auch Lilina hat mir\nauf so viele Arten geholfen.$k$pUnd dank Euch bin ich jetzt\nnoch stärker geworden.$k$pNur dank der Liebe, die ich von allen\nempfangen habe, wurde ich zu dem,\nder ich heute bin.$k$pIch möchte mich bei allen bedanken,\ndie mich unterstützt haben.$k$pUnd mit Euch fange ich an,\n$Nu.
+MID_ROY_VALENTINE01_VOICE01: せいっ！
+MID_ROY_VALENTINE01_VOICE02: それっ！
+MID_ROY_VALENTINE01_VOICE03: うああっ！
+MID_ROY_VALENTINE01_VOICE04: The present!
+MID_ROY_VALENTINE01_VOICE05: Ich habe ein Geschenk für Euch!
+MID_ROY_VALENTINE01_VOICE06: Von ganzem Herzen.
+MID_ROY_VALENTINE01_VOICE07: Das ist für Euch!
+MID_ROY_VALENTINE01_VOICE08: Jetzt wird es ernst!
+MID_ROY_VALENTINE01_VOICE09: I was...naive...
+MID_ROY_VALENTINE01_VOICE10: Hmmm....
+MID_ROY_VALENTINE01_VOICE11: My name's Roy. I was at a festival packed with people, but now... Well, I'm here.
+MID_ROY_VALENTINE01_VOICE12: Wha--?! You scared me!
+MID_ROY_VALENTINE01_VOICE13: The most important part of a gift is the thought you put into choosing it.
+MID_ROY_VALENTINE01_VOICE14: Something for my father, something for Lilina... Oh, and I can't forget...
+MID_ROY_VALENTINE01_VOICE15: What do I want? I'm just happy that you thought to ask.
+MID_ROY_VALENTINE01_VOICE16: Hmm... What kind of gift would make a girl like her happy?
+MID_ROY_VALENTINE01_VOICE17: Nothing would make me happier than being your friend.
+MID_ROY_VALENTINE01_VOICE18: Great!
+MID_ROY_VALENTINE01_VOICE19: Worried?
+MID_ROY_VALENTINE01_VOICE20: Let's give it to 'em!

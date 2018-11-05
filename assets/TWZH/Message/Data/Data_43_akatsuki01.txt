@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: 無法購買。\n可購買數量已達上限。
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$Nu！\n你終於來找我了。\n我好開心！$k$p你沒事真是太好了。\n我一直擔心是不是你遇到了什麼事情……$k$p$EFace_Smile|欸嘿嘿，但現在我就放心了。\n接下來也請多多指教！$k$p
+MID_MISSION_S201801ARENA01_TITLE: 鬥技場
+MID_MISSION_S201801ARENA01_A1: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A1: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A2: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A2: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A3: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A3: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A4: 在縛鎖鬥技場達成3連勝
+MID_MISSION_H_S201801ARENA01_A4: 在縛鎖鬥技場達成3連勝。
+MID_MISSION_S201801ARENA01_A5: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A5: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A6: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A7: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A7: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A8: 在縛鎖鬥技場達成5連勝
+MID_MISSION_H_S201801ARENA01_A8: 在縛鎖鬥技場達成5連勝。
+MID_MISSION_S201801ARENA01_A9: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A9: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A10: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A10: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A11: 在鬥技場獲勝
+MID_MISSION_H_S201801ARENA01_A11: 在鬥技場獲勝。
+MID_MISSION_S201801ARENA01_A12: 在縛鎖鬥技場達成7連勝
+MID_MISSION_H_S201801ARENA01_A12: 在縛鎖鬥技場達成7連勝。
+MID_MISSION_S201801SENKA01_DAILY_TITLE: 戰渦連戰　Mini
+MID_MISSION_S201801SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201801SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201801SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201801SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201801SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201801SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201801SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201801SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201801STORY01_TITLE: 受輕柔夢境指引
+MID_MISSION_S201801STORY01_A1: 特殊:突破第3章-第1節(超難)
+MID_MISSION_H_S201801STORY01_A1: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第3章-第1節(超難)。
+MID_MISSION_S201801STORY01_A2: 特殊:突破第3章-第2節(超難)
+MID_MISSION_H_S201801STORY01_A2: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第3章-第2節(超難)。
+MID_MISSION_S201801STORY01_A3: 特殊:突破第3章-第3節(超難)
+MID_MISSION_H_S201801STORY01_A3: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第3章-第3節(超難)。
+MID_MISSION_S201801STORY01_A4: 特殊:突破第3章-第4節(超難)
+MID_MISSION_H_S201801STORY01_A4: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第3章-第4節(超難)。
+MID_MISSION_S201801STORY01_A5: 特殊:突破第3章-第5節(超難)
+MID_MISSION_H_S201801STORY01_A5: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第3章-第5節(超難)。
+MID_MISSION_S201801TRIAL01_TITLE: 連戰試煉
+MID_MISSION_S201801TRIAL01_A1: 特殊:突破連戰試煉
+MID_MISSION_H_S201801TRIAL01_A1: 過關連戰試煉第1章\n最終地圖。
+MID_MISSION_S201801TRIAL01_A2: 特殊:突破連戰試煉
+MID_MISSION_H_S201801TRIAL01_A2: 過關連戰試煉第2章\n最終地圖(困難以上)。
+MID_MISSION_S201801TRIAL01_A3: 特殊:突破連戰試煉
+MID_MISSION_H_S201801TRIAL01_A3: 過關連戰試煉第1～2章\n最終地圖(超難)。
+MID_MISSION_S201801TRIAL01_A4: 特殊:突破縛鎖迷宮
+MID_MISSION_H_S201801TRIAL01_A4: 過關縛鎖迷宮第3迷宮\n最終地圖。
+MID_MISSION_S201801VMAP01_TITLE: 持有鍊成武器
+MID_MISSION_S201801VMAP01_A1: 特殊:突破其之1
+MID_MISSION_H_S201801VMAP01_A1: 我軍內有赤屬性成員，\n且在4人皆生存的狀態下\n過關其之1。
+MID_MISSION_S201801VMAP01_A2: 特殊:突破其之2
+MID_MISSION_H_S201801VMAP01_A2: 我軍內有青屬性成員，\n且在4人皆生存的狀態下\n過關其之2。
+MID_MISSION_S201801VMAP01_A3: 特殊:突破其之3
+MID_MISSION_H_S201801VMAP01_A3: 我軍內有綠屬性成員，\n且在4人皆生存的狀態下\n過關其之3。
+MID_MISSION_S201801VMAP01_A4: 特殊:突破其之4
+MID_MISSION_H_S201801VMAP01_A4: 我軍內有無屬性成員，\n且在4人皆生存的狀態下\n過關其之4。
+MID_MISSION_S201801VMAP01_A5: 特殊:突破其之5
+MID_MISSION_H_S201801VMAP01_A5: 在4人皆生存的狀態下\n過關其之5。
+MID_MISSION_S201801VMAP01_A6: 特殊:突破其之1(困難)
+MID_MISSION_H_S201801VMAP01_A6: 我軍內有赤屬性成員，\n且在4人皆生存的狀態下\n過關其之1(困難以上)。
+MID_MISSION_S201801VMAP01_A7: 特殊:突破其之2(困難)
+MID_MISSION_H_S201801VMAP01_A7: 我軍內有青屬性成員，\n且在4人皆生存的狀態下\n過關其之2(困難以上)。
+MID_MISSION_S201801VMAP01_A8: 特殊:突破其之3(困難)
+MID_MISSION_H_S201801VMAP01_A8: 我軍內有綠屬性成員，\n且在4人皆生存的狀態下\n過關其之3(困難以上)。
+MID_MISSION_S201801VMAP01_A9: 特殊:突破其之4(困難)
+MID_MISSION_H_S201801VMAP01_A9: 我軍內有無屬性成員，\n且在4人皆生存的狀態下\n過關其之4(困難以上)。
+MID_MISSION_S201801VMAP01_A10: 特殊:突破其之5(困難)
+MID_MISSION_H_S201801VMAP01_A10: 在4人皆生存的狀態下\n過關其之5(困難以上)。
+MPID_ミカヤ: 米卡雅
+MPID_サザ: 薩札
+MPID_ゼルギウス: 塞爾吉烏斯
+MPID_オリヴァー: 奧利瓦
+MPID_HONOR_ミカヤ: 銀髮少女
+MPID_HONOR_サザ: 綠風
+MPID_HONOR_ゼルギウス: 漆黑之將
+MPID_HONOR_オリヴァー: 美的求道者
+MPID_H_ミカヤ: 隸屬於義賊「曉團」，有著一頭閃耀銀髮的少女。\n擁有不可思議的力量。和薩札是沒有血緣關係的姊弟。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_H_サザ: 隸屬於義賊「曉團」的盜賊。基本上對旁人\n興趣缺缺，對姊姊米卡雅則是非常地過度保護。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_H_ゼルギウス: 身披黑色鎧甲，人稱漆黑騎士的將領。\n手上的神劍【艾塔爾德】具有足以斬裂天空的力量。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_H_オリヴァー: 名列貝格尼昂帝國元老院成員的聖職者。\n喜愛美麗的事物，對保護藝術等工作不遺餘力。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_VOICE_ミカヤ: 桑谷夏子(Natuko Kuwatani)
+MPID_VOICE_サザ: 間島淳司(Junji Majima)
+MPID_VOICE_ゼルギウス: 間島淳司(Junji Majima)
+MPID_VOICE_オリヴァー: 杉田智和(Tomokazu Sugita)
+MPID_ILLUST_ミカヤ: チーコ(Chiko)
+MPID_ILLUST_サザ: 久杉トク(Toku Kusugi)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: ホマ蔵 (Homazo)
+MSID_第6迷宮の覇者1: 第６迷宮的霸王１
+MSID_第6迷宮の覇者2: 第６迷宮的霸王２
+MSID_第6迷宮の覇者3: 第６迷宮的霸王３
+MSID_ペシュカド: 佩修卡特
+MSID_ライト: 光輝
+MSID_エルライト: 狂光
+MSID_シャイン: 閃光
+MSID_シャイン＋: 閃光＋
+MSID_セイニー: 賽尼
+MSID_癒しの手: 治癒之手
+MSID_転移の粉: 轉移粉末
+MSID_攻撃速さの紋章1: 攻擊速度紋章１
+MSID_攻撃速さの紋章2: 攻擊速度紋章２
+MSID_H_パルティア改: 克制飛行\n敵人為魔法兵種時，將戰鬥中受到的\n第一發攻擊傷害降低３０％
+MSID_H_シムベリン改: 周圍２格内的我方，\n戰鬥中的攻擊＋３
+MSID_H_対遠距離戦闘R攻撃: 敵人的武器為弓、暗器、魔法、杖時，\n戰鬥中的攻擊＋６
+MSID_H_攻撃魔防の絆R飛行: 周圍２格内有我方飛行單位時，\n自己在戰鬥中的攻擊及魔防＋５
+MSID_H_第6迷宮の覇者1: ＨＰ＋３
+MSID_H_第6迷宮の覇者2: ＨＰ＋４
+MSID_H_第6迷宮の覇者3: ＨＰ＋５
+MSID_H_ペシュカド: 若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人\n攻擊、速度、防守及魔防－４（直到敵人下次行動結束）\n且自己與周圍２格內我方的\n攻擊、速度、防守及魔防＋４（１回合）
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: 魔防＋３　克制重裝與騎馬\n敵人為重裝或騎馬兵種，且武器為弓、暗器、魔法、杖時，\n將戰鬥中受到的第一發攻擊傷害降低３０％
+MSID_H_癒しの手: 抵銷指定目標的弱化狀態，並轉為強化\n回復指定目標ＨＰ，減少自身ＨＰ\n（最高可回復至自己現在的ＨＰ－１）
+MSID_H_転移の粉: 若自身ＨＰ高於８０％，\n可移動至周圍２格内之我方的相鄰格子
+MSID_H_攻撃速さの紋章1: 周圍１格内的我方，\n戰鬥中的攻撃及速度＋２
+MSID_H_攻撃速さの紋章2: 周圍１格内的我方，\n戰鬥中的攻撃及速度＋３
+MID_CHAPTER_TITLE_C0203: 第２部　第３章
+MID_CHAPTER_C0203: 受輕柔夢境指引
+MID_STAGE_TITLE_S2031: 第３章—第１節
+MID_STAGE_TITLE_S2032: 第３章—第２節
+MID_STAGE_TITLE_S2033: 第３章—第３節
+MID_STAGE_TITLE_S2034: 第３章—第４節
+MID_STAGE_TITLE_S2035: 第３章—第５節
+MID_STAGE_S2031: 通往尼福爾之路
+MID_STAGE_S2032: 銀髮少女
+MID_STAGE_S2033: 奇妙的守護者
+MID_STAGE_S2034: 異貌的騎士
+MID_STAGE_S2035: 炎劍　橫掃大地
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: 在溝狀地形時，騎馬單位只能移動1格
+MID_STAGE_TITLE_SB_0006: 第６迷宮
+MID_STAGE_HONOR_T0023: 美的求道者
+MID_STAGE_T0023: 奧利瓦
+MID_STAGE_HONOR_V0151: 持有鍊成武器
+MID_STAGE_V0151: 其之１
+MID_STAGE_HONOR_V0152: 持有鍊成武器
+MID_STAGE_V0152: 其之２
+MID_STAGE_HONOR_V0153: 持有鍊成武器
+MID_STAGE_V0153: 其之３
+MID_STAGE_HONOR_V0154: 持有鍊成武器
+MID_STAGE_V0154: 其之４
+MID_STAGE_HONOR_V0155: 持有鍊成武器
+MID_STAGE_V0155: 其之５
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: 選擇聖印
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: 選擇角色
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: 選擇中：

@@ -1,0 +1,38 @@
+[Heroes Archive] (HENRI)
+
+
+Heroes Message Name: Message
+
+
+MID_HENRI_HOME1: Je m'ennuie... Il n'y a même pas\nune Ombre à disséquer, par ici.\nLes mouches, c'est moins rigolo.
+MID_HENRI_HOME2: L'école de sorcellerie me manque.\nC'est là que j'ai appris à sourire...\net à supporter la douleur.
+MID_HENRI_HOME3: Hmm... Tout va bien, $GInvocateur,Invocatrice| ?\nPas de blessures ? Ça m'embêterait\nque vous mourriez aujourd'hui
+MID_HENRI_HOME4: Vous voulez bien me donner\nun petit coup de main pour\nune expérience ?$k$pC'est un sortilège qui peut tuer\ncent personnes d'un coup !
+MID_HENRI_HOME5: Je collectionne les plumes de\ncorbeau. À votre avis, il en faut\ncombien pour pouvoir voler ?
+MID_HENRI_FRIEND: $Nu ?\n$Nf vous\ntransmet ses malé... euh, salutations !
+MID_HENRI_LEVEL1: Plus fort, plus de sorts, sors ou c'est\nla mort !
+MID_HENRI_LEVEL2: Waouh ! Je suis devenu plutôt fort,\nen fait !
+MID_HENRI_LEVEL3: Hi hi ! Je n'ai pas appris\ngrand-chose...
+MID_HENRI_SKILL: Ouh ! Alors, sur qui voulez-vous que\nje lance un sortilège ?
+MID_HENRI_JOIN: Moi, c'est Henry, et sans vouloir\nme vanter, je suis le mage noir\nle plus terrifiant de Plegia !
+MID_HENRI_STRONGEST: Oh, $Nu !\nAlors, vous allez bientôt\nm'envoyer tuer quelqu'un ?$k$pFantastique ! Qui est la cible ?\nEst-ce un héros ? Un soldat ?\nOh, un des Gardiens d'Askr ?$k$pComment ça, les alliés ne se tuent\npas entre eux ? Qui vous a mis en\ntête une idée pareille ?$k$pBah, de toute façon, je n'ai pas\nenvie que les gens d'ici meurent.\nVous n'allez pas mourir, hein ?$k$pJe serais obligé d'inventer un sort\nhorrible pour votre assassin, alors...\nEssayez de ne pas mourir, OK ?
+MID_HENRI_VOICE01: そーれっ
+MID_HENRI_VOICE02: あははっ
+MID_HENRI_VOICE03: うわっ
+MID_HENRI_VOICE04: That smarts...
+MID_HENRI_VOICE05: Tiens, prends ça !
+MID_HENRI_VOICE06: Livraison spéciale !
+MID_HENRI_VOICE07: Ça va faire mal !
+MID_HENRI_VOICE08: Oh, un coup du sort !
+MID_HENRI_VOICE09: Hurts nice...
+MID_HENRI_VOICE10: Heehee
+MID_HENRI_VOICE11: Wanna play?
+MID_HENRI_VOICE12: Need someone cursed?
+MID_HENRI_VOICE13: All my best friends are crows.
+MID_HENRI_VOICE14: Ready to trade that white cape for a black one like mine?
+MID_HENRI_VOICE15: You don't think I'm scary, do you?
+MID_HENRI_VOICE16: I wonder if it'll hurt when I die...
+MID_HENRI_VOICE17: You need somebody killed? It's no trouble. Like, at all.
+MID_HENRI_VOICE18: OK!
+MID_HENRI_VOICE19: Oh!
+MID_HENRI_VOICE20: You got it!

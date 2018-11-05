@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_F)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_F_HOME1: Wie? Das ist nicht Ylisse? Hat Naga\neinen Fehler gemacht? Nein, wartet.\nVergesst, was ich gesagt habe.
+MID_MARTH_F_HOME2: Meine Welt wurde vom Krieg\nheimgesucht. Die Überlebenden\nhaben tapfer gekämpft...$k$pAber die Apokalypse abzuwenden,\nfällt in meine Verantwortung.
+MID_MARTH_F_HOME3: Seht Ihr nach, ob Eure Truppen\nwohlauf sind? Ich weiß, wie es sich\nanfühlt, Mitstreiter zu verlieren.
+MID_MARTH_F_HOME4: Prinz Alfonse scheint ein fähiger\nSchwertkämpfer zu sein.$k$pIch würde mich gern in einem\nSchaukampf mit ihm messen.\nKönnt Ihr das organisieren?
+MID_MARTH_F_HOME5: Ich dachte eben an meine Heimat\nund meine Kameraden. Ich bin noch\nnicht sicher, warum ich hier bin...$k$pIrgendwann kann ich Euch hoffentlich\nmehr über diese Dinge erzählen.
+MID_MARTH_F_FRIEND: Seid Ihr $Nu?\nIch soll Euch von\n$Nf grüßen.
+MID_MARTH_F_LEVEL1: Irgendwann werde ich so\nstark wie mein Vater sein.
+MID_MARTH_F_LEVEL2: Sehr gut. Meine Kampfkünste\nhaben sich verbessert.
+MID_MARTH_F_LEVEL3: Es tut mir leid!
+MID_MARTH_F_SKILL: Ihr werdet Eure Unterstützung\nfür mich nicht bereuen.
+MID_MARTH_F_JOIN: Ihr könnt mich Marth nennen. Mehr\nkann ich im Moment nicht sagen.\nIch bin gern bereit, Euch zu helfen.
+MID_MARTH_F_STRONGEST: Es ist schon eine Weile her, dass Ihr\nmich herbeigerufen habt. Ich sollte\nnicht hier sein. Ich bin kein Held.$k$pAber ich bin Euch dankbar, denn\ndurch Euch habe ich die Kraft,\nmeine wahre Mission zu erfüllen.$k$pEines Tages werde ich von\nhier fortgehen müssen,\n$Nu.$k$pIch muss in das geliebte Land\nzurückkehren - wir schworen, uns\nalle dort einst wiederzutreffen.$k$pDas Land, in dem wir unser Schicksal\nändern werden. Wenn es so weit ist,\nkann ich es Euch hoffentlich erklären.$k$pAnders als die anderen Helden\nmuss ich meine Geheimnisse\nbewahren - selbst vor Euch.$k$pDoch noch könnt Ihr Euch auf meine\nUnterstützung im Kampf verlassen.
+MID_MARTH_F_VOICE01: はっ！
+MID_MARTH_F_VOICE02: せやあっ！
+MID_MARTH_F_VOICE03: ぐっ…！
+MID_MARTH_F_VOICE04: Drat!
+MID_MARTH_F_VOICE05: Ich fordere das Schicksal heraus!
+MID_MARTH_F_VOICE06: Ihr haltet mich nicht auf!
+MID_MARTH_F_VOICE07: Ich entscheide, wann es vorbei ist!
+MID_MARTH_F_VOICE08: Die Hoffnung stirbt nie!
+MID_MARTH_F_VOICE09: Beaten...
+MID_MARTH_F_VOICE10: Hmm...
+MID_MARTH_F_VOICE11: I am searching for someone. I can say no more than that.
+MID_MARTH_F_VOICE12: If you care to duel, I would be happy to test myself against you.
+MID_MARTH_F_VOICE13: I am afraid I cannot remove this mask. I have my reasons.
+MID_MARTH_F_VOICE14: I learned swordsmanship at a young age...from my father.
+MID_MARTH_F_VOICE15: I may have come to the wrong place...
+MID_MARTH_F_VOICE16: I wonder what's become of Father and the others...
+MID_MARTH_F_VOICE17: I have a mission of my own, but I will help you for now.
+MID_MARTH_F_VOICE18: Yes.
+MID_MARTH_F_VOICE19: Hmm...
+MID_MARTH_F_VOICE20: Done.

@@ -1,0 +1,39 @@
+[Heroes Archive] (ROY)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_HOME1: Il y a tant de héros à rencontrer dans\nce monde ! J'espère avoir la chance\nd'apprendre de chacun d'eux !
+MID_ROY_HOME2: Lilina et moi avons étudié\nensemble à Ositia. Notre\namitié a traversé le temps.
+MID_ROY_HOME3: Vous avez toute ma gratitude.\nGrâce à vous, nous sommes\ntous unis par la même cause.
+MID_ROY_HOME4: Cecilia m'a appris l'art du combat.\nEt vous, d'où viennent vos talents,\n$Nu ?
+MID_ROY_HOME5: J'ai trouvé un livre qui relate l'histoire\nde ce monde. C'est fascinant !
+MID_ROY_FRIEND: Bonjour ! Je m'appelle Roy.\nJ'ai été envoyé chez vous\npar $Nf.
+MID_ROY_LEVEL1: Excellent ! Je dois continuer sur\ncette voie.
+MID_ROY_LEVEL2: Je dois continuer à m'entraîner.
+MID_ROY_LEVEL3: Il faut que je me reprenne en main !
+MID_ROY_SKILL: J'ai encore tant à apprendre.\nMerci beaucoup pour votre aide !
+MID_ROY_JOIN: Je suis Roy, fils d'Eliwood, marquis\nde Pherae. Je suis jeune, mais je\ntravaille dur pour mériter ma place !
+MID_ROY_STRONGEST: Pour protéger ce monde et tous les\nautres, je me dois de devenir aussi\nfort que possible.$k$pJe veux que l'humanité tout entière\ntrouve le bonheur... Mais j'ai encore\ntant à apprendre avant d'y arriver !$k$pHeureusement, j'ai déjà fait\nbeaucoup de progrès grâce\nà vous, $Nu.$k$pVous m'inspirez non seulement sur\nle champ de bataille, mais aussi\ndans la vie de tous les jours.$k$pJ'espère que nous serons toujours\namis. Sachez que vous pourrez\ntoujours compter sur moi.
+MID_ROY_VOICE01: はっ！
+MID_ROY_VOICE02: やぁっ！
+MID_ROY_VOICE03: うああっ！
+MID_ROY_VOICE04: I can't lose...
+MID_ROY_VOICE05: Je vaincrai !
+MID_ROY_VOICE06: À moi de jouer !
+MID_ROY_VOICE07: Par ma lame !
+MID_ROY_VOICE08: Je ne perdrai pas !
+MID_ROY_VOICE09: Forgive me...
+MID_ROY_VOICE10: Heehee
+MID_ROY_VOICE11: Did you need me for something?
+MID_ROY_VOICE12: You know...if you ever want my attention, just call for me!
+MID_ROY_VOICE13: I think we can work very well together. Don't you?
+MID_ROY_VOICE14: I know I can rely on you completely.
+MID_ROY_VOICE15: For those I must protect...I cannot lose!
+MID_ROY_VOICE16: I have faith in the goodness of humankind. No matter what.
+MID_ROY_VOICE17: I'm with you—all the way!
+MID_ROY_VOICE18: Yes?
+MID_ROY_VOICE19: Hmm...
+MID_ROY_VOICE20: Let's go.
+MID_ROY_VOICE21: For those we must protect—onward!

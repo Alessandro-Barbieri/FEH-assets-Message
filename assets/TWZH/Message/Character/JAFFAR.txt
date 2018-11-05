@@ -1,0 +1,38 @@
+[Heroes Archive] (JAFFAR)
+
+
+Heroes Message Name: Message
+
+
+MID_JAFFAR_HOME1: 特務機關……？\n我不是很清楚……\n是為祖國殺戮敵人的組織嗎……？
+MID_JAFFAR_HOME2: ……在原本的世界裡，我行屍走肉一般地活著。\n打從出生起，就像已經死了一樣。\n然而，自從認識妮諾之後……我就變了。
+MID_JAFFAR_HOME3: ……你在巡邏啊？\n這樣可有效防範\n刺客跟密探……
+MID_JAFFAR_HOME4: 對方睡著時容易下手。\n對方用餐時容易下手。\n……我能聊的就只有這些。
+MID_JAFFAR_HOME5: 我在鍛鍊殺人技巧，\n這是我從小就學會的。\n我不知道還能怎麼打發時間……
+MID_JAFFAR_FRIEND: 別動……我不是來殺你的。\n只是來替$Nf\n傳達問候之意罷了。
+MID_JAFFAR_LEVEL1: ……只是運氣好而已。
+MID_JAFFAR_LEVEL2: ……還不壞。
+MID_JAFFAR_LEVEL3: ……生疏了嗎？
+MID_JAFFAR_SKILL: 這樣就能順利消滅\n更多目標了吧……
+MID_JAFFAR_JOIN: 我叫賈法爾……\n在【黑牙】中被稱為【死神】。
+MID_JAFFAR_STRONGEST: ……$Nu，\n你太善良了。\n這是你的弱點。$k$p別把我當成夥伴，\n把我當成道具就行了。$k$p把我當成用完就丟的護身道具，\n如果你辦不到這點的話，\n那麼……$k$p……我就活著歸來吧。\n無論是何等艱困的任務，\n我一定會回到你身旁。$k$p所以，你無須替我操心。
+MID_JAFFAR_VOICE01: 喝！
+MID_JAFFAR_VOICE02: 呵！
+MID_JAFFAR_VOICE03: 嗚啊～！
+MID_JAFFAR_VOICE04: ……失手了。
+MID_JAFFAR_VOICE05: 領死吧。
+MID_JAFFAR_VOICE06: 收拾掉。
+MID_JAFFAR_VOICE07: 目標嗎？
+MID_JAFFAR_VOICE08: 執行任務。
+MID_JAFFAR_VOICE09: ……結束了嗎？
+MID_JAFFAR_VOICE10: 呵！
+MID_JAFFAR_VOICE11: ……任務嗎？
+MID_JAFFAR_VOICE12: ……我無法理解你的行徑。
+MID_JAFFAR_VOICE13: 【死神】……就是我的名字。
+MID_JAFFAR_VOICE14: 我感受不到喜悅或悲愴。
+MID_JAFFAR_VOICE15: 我沒有情感。
+MID_JAFFAR_VOICE16: 我出生於……屍橫遍野之處。
+MID_JAFFAR_VOICE17: ……你要活下去……
+MID_JAFFAR_VOICE18: ……嗯。
+MID_JAFFAR_VOICE19: 給我指示。
+MID_JAFFAR_VOICE20: 知道了。

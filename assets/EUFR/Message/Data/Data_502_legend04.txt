@@ -1,0 +1,152 @@
+[Heroes Archive] (Data_502_legend04)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201805A_TITLE: Quêtes mai (1)
+MID_MISSION_M201805A_A1: Victoire : unité rouge
+MID_MISSION_H_M201805A_A1: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_M201805A_A2: Victoire : unité volante
+MID_MISSION_H_M201805A_A2: Vaincre des ennemis avec des unités volantes.
+MID_MISSION_M201805A_A3: Cible : unités bleues
+MID_MISSION_H_M201805A_A3: Vaincre des unités bleues.
+MID_MISSION_M201805A_A4: Cible : cavaliers
+MID_MISSION_H_M201805A_A4: Vaincre des cavaliers.
+MID_MISSION_M201805A_A5: Duelliste
+MID_MISSION_H_M201805A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201805A_A6: Domination : unité verte
+MID_MISSION_H_M201805A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités vertes.
+MID_MISSION_M201805A_A7: Domination : cavalerie
+MID_MISSION_H_M201805A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des cavaliers.
+MID_MISSION_M201805A_A8: Cible : unités rouges
+MID_MISSION_H_M201805A_A8: Vaincre des unités rouges de niveau 20\nou supérieur.
+MID_MISSION_M201805A_A9: Cible : unités volantes
+MID_MISSION_H_M201805A_A9: Vaincre des unités volantes de niveau 20\nou supérieur.
+MID_MISSION_M201805A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201805A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201805A_A11: Domination : unité bleue
+MID_MISSION_H_M201805A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités bleues.
+MID_MISSION_M201805A_A12: Domination : infanterie
+MID_MISSION_H_M201805A_A12: Vaincre des ennemis de niveau 35\nou supérieur avec des fantassins.
+MID_MISSION_M201805A_A13: Cible : unités vertes
+MID_MISSION_H_M201805A_A13: Vaincre des unités vertes de niveau 35\nou supérieur.
+MID_MISSION_M201805A_A14: Cible : infanterie
+MID_MISSION_H_M201805A_A14: Vaincre des fantassins de niveau 35\nou supérieur.
+MID_MISSION_M201805A_A15: Duelliste émérite
+MID_MISSION_H_M201805A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201805B_TITLE: Quêtes mai (2)
+MID_MISSION_M201805B_A1: Tour : première strate
+MID_MISSION_H_M201805B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A2: Tour : deuxième strate
+MID_MISSION_H_M201805B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A3: Tour : troisième strate
+MID_MISSION_H_M201805B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A4: Tour : quatrième strate
+MID_MISSION_H_M201805B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A5: Tour : cinquième strate
+MID_MISSION_H_M201805B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A6: Tour : sixième strate
+MID_MISSION_H_M201805B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A7: Tour : septième strate
+MID_MISSION_H_M201805B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A8: Tour : huitième strate
+MID_MISSION_H_M201805B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A9: Tour : neuvième strate
+MID_MISSION_H_M201805B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A10: Tour : dixième strate
+MID_MISSION_H_M201805B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805B_A11: Tour : dixième strate
+MID_MISSION_H_M201805B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201805B_A12: Tour : dixième strate
+MID_MISSION_H_M201805B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités cuirassées et sans essuyer\nla moindre perte.
+MID_MISSION_M201805B_A13: Tour : dixième strate
+MID_MISSION_H_M201805B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201805B_A14: Tour : dixième strate
+MID_MISSION_H_M201805B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201805C_TITLE: Quêtes mai (3)
+MID_MISSION_M201805C_A1: Chapitre 2 - Acte 1
+MID_MISSION_H_M201805C_A1: Terminer l'acte 1 du chapitre 2 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201805C_A2: Chapitre 2 - Acte 2
+MID_MISSION_H_M201805C_A2: Terminer l'acte 2 du chapitre 2 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805C_A3: Chapitre 2 - Acte 3
+MID_MISSION_H_M201805C_A3: Terminer l'acte 3 du chapitre 2 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805C_A4: Chapitre 2 - Acte 4
+MID_MISSION_H_M201805C_A4: Terminer l'acte 4 du chapitre 2 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805C_A5: Chapitre 2 - Acte 5
+MID_MISSION_H_M201805C_A5: Terminer l'acte 5 du chapitre 2 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201805C_A6: Chap. 5 - Acte 1 (Difficile)
+MID_MISSION_H_M201805C_A6: Terminer l'acte 1 du chapitre 5 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201805C_A7: Chap. 5 - Acte 2 (Difficile)
+MID_MISSION_H_M201805C_A7: Terminer l'acte 2 du chapitre 5 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A8: Chap. 5 - Acte 3 (Difficile)
+MID_MISSION_H_M201805C_A8: Terminer l'acte 3 du chapitre 5 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A9: Chap. 5 - Acte 4 (Difficile)
+MID_MISSION_H_M201805C_A9: Terminer l'acte 4 du chapitre 5 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A10: Chap. 5 - Acte 5 (Difficile)
+MID_MISSION_H_M201805C_A10: Terminer l'acte 5 du chapitre 5 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A11: Chap. 8 - Acte 1 (Expert)
+MID_MISSION_H_M201805C_A11: Terminer l'acte 1 du chapitre 8 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201805C_A12: Chap. 8 - Acte 2 (Expert)
+MID_MISSION_H_M201805C_A12: Terminer l'acte 2 du chapitre 8 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A13: Chap. 8 - Acte 3 (Expert)
+MID_MISSION_H_M201805C_A13: Terminer l'acte 3 du chapitre 8 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A14: Chap. 8 - Acte 4 (Expert)
+MID_MISSION_H_M201805C_A14: Terminer l'acte 4 du chapitre 8 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201805C_A15: Chap. 8 - Acte 5 (Expert)
+MID_MISSION_H_M201805C_A15: Terminer l'acte 5 du chapitre 8 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201804DAISEIATU02_TITLE: Grande conquête
+MID_MISSION_S201804DAISEIATU02_A1: GC : score
+MID_MISSION_H_S201804DAISEIATU02_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU02_A2: GC : score
+MID_MISSION_H_S201804DAISEIATU02_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU02_A3: GC : score
+MID_MISSION_H_S201804DAISEIATU02_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU02_A4: Tour : deuxième strate
+MID_MISSION_H_S201804DAISEIATU02_A4: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201804DAISEIATU02_A5: Tour : huitième strate
+MID_MISSION_H_S201804DAISEIATU02_A5: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201804DAISEIATU02_A6: Duelliste
+MID_MISSION_H_S201804DAISEIATU02_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201804DAISEIATU02_GW_TITLE: GC : Golden Week
+MID_MISSION_S201804DAISEIATU02_GW_A1: GC : score
+MID_MISSION_H_S201804DAISEIATU02_GW_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU02_GW_A2: GC : score
+MID_MISSION_H_S201804DAISEIATU02_GW_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201805CHARA01_TITLE: Trois héros
+MID_MISSION_S201805CHARA01_A1: Victoire
+MID_MISSION_H_S201805CHARA01_A1: Vaincre des ennemis.
+MID_MISSION_S201805CHARA01_A2: Victoire : Tiki
+MID_MISSION_H_S201805CHARA01_A2: Vaincre des ennemis avec Tiki,\nla voix divine
+MID_MISSION_S201805CHARA01_A3: Victoire : Gaius
+MID_MISSION_H_S201805CHARA01_A3: Vaincre des ennemis avec Gaius,\nle fou de bonbons.
+MID_MISSION_S201805CHARA01_B1: Cible : niveau ≥ 20
+MID_MISSION_H_S201805CHARA01_B1: Vaincre des ennemis de niveau 20 ou\nsupérieur avec Tiki, la voix divine
+MID_MISSION_S201805CHARA01_B2: Cible : niveau ≥ 20
+MID_MISSION_H_S201805CHARA01_B2: Vaincre des ennemis de niveau 20 ou\nsupérieur avec Gaius, le fou de bonbons.
+MID_MISSION_S201805CHARA01_B3: Cible : niveau ≥ 20
+MID_MISSION_H_S201805CHARA01_B3: Vaincre des ennemis de niveau 20 ou\nsupérieur avec Gunter.
+MID_MISSION_S201805CHARA01_C1: Cible : niveau ≥ 35
+MID_MISSION_H_S201805CHARA01_C1: Vaincre des ennemis de niveau 35 ou\nsupérieur avec Tiki, la voix divine
+MID_MISSION_S201805CHARA01_C2: Cible : niveau ≥ 35
+MID_MISSION_H_S201805CHARA01_C2: Vaincre des ennemis de niveau 35 ou\nsupérieur avec Gaius, le fou de bonbons.
+MID_MISSION_S201805CHARA01_C3: Cible : niveau ≥ 35
+MID_MISSION_H_S201805CHARA01_C3: Vaincre des ennemis de niveau 35 ou\nsupérieur avec Gunter.
+MPID_伝承リン: Lyn
+MPID_HONOR_伝承リン: Lady du vent
+MPID_H_伝承リン: Noble de Caelin dont le nom complet est\nLyndis. La légende raconte qu'elle a aidé\nen secret à sauver un continent. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_VOICE_伝承リン: Wendee Lee
+MPID_ILLUST_伝承リン: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承リン: Effet légendaire : vent\nBoost pour les alliés : PV +3, Atq +2\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction du vent et que\ncette unité combat avec eux pendant la\nsaison du vent.
+MSID_疾弓ミュルグレ: Mulagir rapide
+MSID_サカの掟: Lois de Sacae
+MSID_速さの指揮1: Tactique Vit 1
+MSID_速さの指揮2: Tactique Vit 2
+MSID_速さの指揮3: Tactique Vit 3
+MSID_H_疾弓ミュルグレ: Efficace contre les unités volantes.\nConfère Rés +3. S'il y a plus d'alliés\n(unité exclue) que d'ennemis (cible exclue)\nà 2 cases ou moins, confère Atq/Vit+ 5\npendant le combat.
+MSID_H_サカの掟: Si l'ennemi initie le combat et qu'il y a\nau moins 2 alliés à 2 cases ou moins,\nconfère Atq/Vit/Déf/Rés +4 pendant le\ncombat.
+MSID_H_速さの指揮1: En début de tour, confère Vit +2 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_速さの指揮2: En début de tour, confère Vit +4 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_速さの指揮3: En début de tour, confère Vit +6 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MID_STAGE_HONOR_L0002: Lady du vent
+MID_STAGE_L0002: Lyn

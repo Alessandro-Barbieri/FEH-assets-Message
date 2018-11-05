@@ -1,0 +1,288 @@
+[Heroes Archive] (Data_442_legend01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201802A_TITLE: Feb.-Quests (1)
+MID_MISSION_M201802A_A1: Rot besiegt Gegner
+MID_MISSION_H_M201802A_A1: Lass rote Verbündete\ndie Gegner besiegen.
+MID_MISSION_M201802A_A2: Flieger besiegt Gegner
+MID_MISSION_H_M201802A_A2: Lass Flugeinheiten\ndie Gegner besiegen.
+MID_MISSION_M201802A_A3: Besiege blaue Gegner
+MID_MISSION_H_M201802A_A3: Besiege blaue Gegner.
+MID_MISSION_M201802A_A4: Besiege Reiter
+MID_MISSION_H_M201802A_A4: Besiege gegnerische\nKavallerieeinheiten.
+MID_MISSION_M201802A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201802A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201802A_A6: Grün besiegt Lv. 20+
+MID_MISSION_H_M201802A_A6: Lass grüne Verbündete Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201802A_A7: Reiter besiegt Lv. 20+
+MID_MISSION_H_M201802A_A7: Lass Kavallerieeinheiten Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201802A_A8: Besiege Rot Lv. 20+
+MID_MISSION_H_M201802A_A8: Besiege rote Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201802A_A9: Besiege Flieger Lv. 20+
+MID_MISSION_H_M201802A_A9: Besiege Flugeinheiten, die\nLevel 20 oder höher sind.
+MID_MISSION_M201802A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201802A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201802A_A11: Blau besiegt Lv. 35+
+MID_MISSION_H_M201802A_A11: Lass blaue Verbündete Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201802A_A12: Infanterie besiegt Lv. 35+
+MID_MISSION_H_M201802A_A12: Lass Infanterieeinheiten Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201802A_A13: Besiege Grün Lv. 35+
+MID_MISSION_H_M201802A_A13: Besiege grüne Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201802A_A14: Besiege Infanterie Lv. 35+
+MID_MISSION_H_M201802A_A14: Besiege Infanterieeinheiten,\ndie Level 35 oder höher sind.
+MID_MISSION_M201802A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201802A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201802B_TITLE: Feb.-Quests (2)
+MID_MISSION_M201802B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201802B_A1: Bewältige die erste Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201802B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201802B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201802B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201802B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201802B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201802B_A7: Bewältige die siebte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201802B_A8: Bewältige die achte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201802B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201802B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201802B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201802B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201802B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201802B_A12: Bewältige die zehnte Stufe des Übungs-\nturms nur mit gepanzerten Einheiten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201802B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201802B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201802B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201802B_A14: Bewältige die zehnte Stufe des\nÜbungsturms nur mit Flugeinheiten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201802C_TITLE: Feb.-Quests (3)
+MID_MISSION_M201802C_A1: Kap. 6 Tl. 1
+MID_MISSION_H_M201802C_A1: Bewältige Kapitel 6/Tl 1. Alle\nVerbündeten müssen über-\nleben.
+MID_MISSION_M201802C_A2: Kap. 6 Tl. 2
+MID_MISSION_H_M201802C_A2: Bewältige Kap. 6/Tl. 2 mit einem\nroten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201802C_A3: Kap. 6 Tl. 3
+MID_MISSION_H_M201802C_A3: Bewältige Kap. 6/Tl. 3 mit einem\nblauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201802C_A4: Kap. 6 Tl. 4
+MID_MISSION_H_M201802C_A4: Bewältige Kap. 6/Tl. 4 mit einem\ngrünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201802C_A5: Kap. 6 Tl. 5
+MID_MISSION_H_M201802C_A5: Bewältige Kap. 6/Tl. 5 mit einem\nfarblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201802C_A6: Kap. 9 Tl. 1 - Schwer+
+MID_MISSION_H_M201802C_A6: Bewältige Kap. 9/Tl. 1 im Modus\nSchwer oder höher. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201802C_A7: Kap. 9 Tl. 2 - Schwer+
+MID_MISSION_H_M201802C_A7: Kap. 9/Tl. 2 mit 1 roten Verb.\nauf Schwer o. höher bewältigen.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A8: Kap. 9 Tl. 3 - Schwer+
+MID_MISSION_H_M201802C_A8: Kap. 9/Tl. 3 mit 1 blauen Verb.\nauf Schwer o. höher bewältigen.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A9: Kap. 9 Tl. 4 - Schwer+
+MID_MISSION_H_M201802C_A9: Kap. 9/Tl. 4 mit 1 grünen Verb.\nauf Schwer o. höher bewältigen.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A10: Kap. 9 Tl. 5 - Schwer+
+MID_MISSION_H_M201802C_A10: Kap. 9/Tl. 5 mit 1 farblosen Verb.\nauf Schwer o. höher bewältigen.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A11: Kap. 12 Tl. 1 - Extrem
+MID_MISSION_H_M201802C_A11: Bewältige Kap. 12/Tl. 1 im Modus\nExtrem. Alle Verbündeten müssen\nüberleben.
+MID_MISSION_M201802C_A12: Kap. 12 Tl. 2 - Extrem
+MID_MISSION_H_M201802C_A12: Bewältige Kap. 12/Tl. 2 auf\nExtrem mit 1 roten Verbündeten.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A13: Kap. 12 Tl. 3 - Extrem
+MID_MISSION_H_M201802C_A13: Bewältige Kap. 12/Tl. 3 auf\nExtrem mit 1 blauen Verbündeten.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A14: Kap. 12 Tl. 4 - Extrem
+MID_MISSION_H_M201802C_A14: Bewältige Kap. 12/Tl. 4 auf\nExtrem mit 1 grünen Verbündeten.\nAlle Verb. müssen überleben.
+MID_MISSION_M201802C_A15: Kap. 12 Tl. 5 - Extrem
+MID_MISSION_H_M201802C_A15: Bewältige Kap. 12/Tl. 5 auf\nExtrem mit 1 farbl. Verbündeten.\nAlle Verb. müssen überleben.
+MID_MISSION_S201801SENKA02_DAILY_TITLE: Sturmprüfung - Mini
+MID_MISSION_S201801SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201801SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201801SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201801SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201801SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802DEFEAT01_TITLE: Besiege Gegner
+MID_MISSION_S201802DEFEAT01_A1: Besiege Gegner Lv. 10+
+MID_MISSION_H_S201802DEFEAT01_A1: Lass rote Verbündete grüne\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A2: Besiege Gegner Lv. 10+
+MID_MISSION_H_S201802DEFEAT01_A2: Lass blaue Verbündete rote\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A3: Besiege Gegner Lv. 10+
+MID_MISSION_H_S201802DEFEAT01_A3: Lass grüne Verbündete blaue\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A4: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A4: Lass rote Verbündete\nStabbenutzer besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A5: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A5: Lass blaue Verbündete\nBogenschützen besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A6: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A6: Lass grüne Verbündete\nDolchträger besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A7: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A7: Lass rote Verbündete grüne\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A8: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A8: Lass blaue Verbündete rote\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A9: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802DEFEAT01_A9: Lass grüne Verbündete blaue\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A10: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802DEFEAT01_A10: Lass rote Verbündete\nAxtkämpfer besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A11: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802DEFEAT01_A11: Lass blaue Verbündete\nSchwertkämpfer besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A12: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802DEFEAT01_A12: Lass grüne Verbündete\nLanzenträger besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802DEFEAT01_A13: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802DEFEAT01_A13: Lass farblose Verbündete\nfarblose Gegner besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201802HERO01_A1: Valter besiegen
+MID_MISSION_H_S201802HERO01_A1: Gewinne den Großen Helden-\nkampf gg. Valter: Der Mondstein\nmit Sharena im Team.
+MID_MISSION_S201802HERO01_A2: Valter besiegen
+MID_MISSION_H_S201802HERO01_A2: Gewinne d. Gr. Heldenkampf gegen\nValter: Der Mondstein auf Extrem o. höher\nmit Valter: Der Mondstein im Team.
+MID_MISSION_S201802HERO01_A3: Valter besiegen
+MID_MISSION_H_S201802HERO01_A3: Setze Sharena ein und besiege\nValter: Der Mondstein, der\nLevel 40 oder höher ist.
+MID_MISSION_S201802HERO01_A4: Valter besiegen
+MID_MISSION_H_S201802HERO01_A4: Setze Valter: Der Mondstein ein\nund besiege Valter: Der Mondstein,\nder Level 40 oder höher ist.
+MID_MISSION_S201802HERO01_A5: Valter besiegen
+MID_MISSION_H_S201802HERO01_A5: Gewinne den Großen Heldenkampf\ngg. Valter: Der Mondstein auf Extrem o.\nhöher nur mit Infanterieeinheiten.
+MID_MISSION_S201802VMAP01_TITLE: Entwickler-Herausf.
+MID_MISSION_S201802VMAP01_A1: Die Effektiven (!)
+MID_MISSION_H_S201802VMAP01_A1: Bewältige "Die Effektiven" von mk1\nmit einem roten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A2: Lang und kurz (!)
+MID_MISSION_H_S201802VMAP01_A2: Bewältige "Lang und kurz" von Shingoroid\nmit einem blauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A3: Total verhext (!)
+MID_MISSION_H_S201802VMAP01_A3: Bewältige "Total verhext" von ngyope\nmit einem grünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A4: Wrys' Leibgarde (!)
+MID_MISSION_H_S201802VMAP01_A4: Bewältige "Wrys' Leibgarde" von kuroyagi\nmit einem farblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A5: Manaketenhorde (!)
+MID_MISSION_H_S201802VMAP01_A5: Bewältige "Manaketenhorde" von k2.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A6: Die Effektiven (!)
+MID_MISSION_H_S201802VMAP01_A6: Bewältige "Die Effektiven" von mk1 mit\neinem roten Verbündeten auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A7: Lang und kurz (!)
+MID_MISSION_H_S201802VMAP01_A7: Bewältige "Lang und kurz" von Shingoroid\nmit einem blauen Verbündeten auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A8: Total verhext (!)
+MID_MISSION_H_S201802VMAP01_A8: Bewältige "Total verhext" von ngyope mit\neinem grünen Verbündeten auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A9: Wrys' Leibgarde (!)
+MID_MISSION_H_S201802VMAP01_A9: Bewältige "Wrys' Leibgarde" von kuroyagi\nmit einem farblosen Verbündeten auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201802VMAP01_A10: Manaketenhorde (!)
+MID_MISSION_H_S201802VMAP01_A10: Bewältige "Manaketenhorde" von k2\nauf Extrem. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201802YEAR01_TITLE: Tutorial-Quests
+MID_MISSION_S201802YEAR01_A1: Kapitel 1 - Teil 5
+MID_MISSION_H_S201802YEAR01_A1: Bewältige Kapitel 1 - Teil 5.
+MID_MISSION_S201802YEAR01_A2: Kapitel 2 - Teil 5
+MID_MISSION_H_S201802YEAR01_A2: Bewältige Kapitel 2 - Teil 5.
+MID_MISSION_S201802YEAR01_A3: Kapitel 3 - Teil 5
+MID_MISSION_H_S201802YEAR01_A3: Bewältige Kapitel 3 - Teil 5.
+MID_MISSION_S201802YEAR01_A4: Kapitel 4 - Teil 5
+MID_MISSION_H_S201802YEAR01_A4: Bewältige Kapitel 4 - Teil 5.
+MID_MISSION_S201802YEAR01_A5: Kapitel 5 - Teil 5
+MID_MISSION_H_S201802YEAR01_A5: Bewältige Kapitel 5 - Teil 5.
+MID_MISSION_S201802YEAR01_A6: Kapitel 6 - Teil 5
+MID_MISSION_H_S201802YEAR01_A6: Bewältige Kapitel 6 - Teil 5.
+MID_MISSION_S201802YEAR01_A7: Kapitel 7 - Teil 5
+MID_MISSION_H_S201802YEAR01_A7: Bewältige Kapitel 7 - Teil 5.
+MID_MISSION_S201802YEAR01_A8: Kapitel 8 - Teil 5
+MID_MISSION_H_S201802YEAR01_A8: Bewältige Kapitel 8 - Teil 5.
+MID_MISSION_S201802YEAR01_A9: Kapitel 9 - Teil 5
+MID_MISSION_H_S201802YEAR01_A9: Bewältige Kapitel 9 - Teil 5.
+MID_MISSION_S201802YEAR01_A10: Kapitel 10 - Teil 5
+MID_MISSION_H_S201802YEAR01_A10: Bewältige Kapitel 10 - Teil 5.
+MID_MISSION_S201802YEAR01_A11: Kapitel 11 - Teil 5
+MID_MISSION_H_S201802YEAR01_A11: Bewältige Kapitel 11 - Teil 5.
+MID_MISSION_S201802YEAR01_A12: Kapitel 12 - Teil 5
+MID_MISSION_H_S201802YEAR01_A12: Bewältige Kapitel 12 - Teil 5.
+MID_MISSION_S201802YEAR01_A13: Kapitel 13 - Teil 5
+MID_MISSION_H_S201802YEAR01_A13: Bewältige Kapitel 13 - Teil 5.
+MID_MISSION_S201802YEAR01_A14: Buch II, Kap. 1 - Tl. 5
+MID_MISSION_H_S201802YEAR01_A14: Bewältige Buch II: Kap. 1 - Tl. 5
+MID_MISSION_S201802YEAR01_A15: Buch II, Kap. 2 - Tl. 5
+MID_MISSION_H_S201802YEAR01_A15: Bewältige Buch II: Kap. 2 - Tl. 5
+MID_MISSION_S201802YEAR01_A16: Buch II, Kap. 3 - Tl. 5
+MID_MISSION_H_S201802YEAR01_A16: Bewältige Buch II: Kap. 3 - Tl. 5
+MID_MISSION_S201802YEAR01_A17: Gewinne Arenaduelle
+MID_MISSION_H_S201802YEAR01_A17: Gewinne in der Arena auf\nbeliebigem Schwierigkeitsgrad.
+MID_MISSION_S201802YEAR01_A18: Arenaduelle / Mittel+
+MID_MISSION_H_S201802YEAR01_A18: Gewinne in der Arena auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201802YEAR01_A19: Arenaduelle - Für Kenner
+MID_MISSION_H_S201802YEAR01_A19: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_S201802YEAR01_A20: Übungsturm: 1. Stufe
+MID_MISSION_H_S201802YEAR01_A20: Bewältige die erste Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A21: Übungsturm: 2. Stufe
+MID_MISSION_H_S201802YEAR01_A21: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A22: Übungsturm: 3. Stufe
+MID_MISSION_H_S201802YEAR01_A22: Bewältige die dritte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A23: Übungsturm: 4. Stufe
+MID_MISSION_H_S201802YEAR01_A23: Bewältige die vierte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A24: Übungsturm: 5. Stufe
+MID_MISSION_H_S201802YEAR01_A24: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A25: Übungsturm: 6. Stufe
+MID_MISSION_H_S201802YEAR01_A25: Bewältige die sechste Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A26: Übungsturm: 7. Stufe
+MID_MISSION_H_S201802YEAR01_A26: Bewältige die siebte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A27: Übungsturm: 8. Stufe
+MID_MISSION_H_S201802YEAR01_A27: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A28: Übungsturm: 9. Stufe
+MID_MISSION_H_S201802YEAR01_A28: Bewältige die neunte Stufe\ndes Übungsturms.
+MID_MISSION_S201802YEAR01_A29: Übungsturm: 10. Stufe
+MID_MISSION_H_S201802YEAR01_A29: Bewältige die zehnte Stufe\ndes Übungsturms.
+MPID_伝承アイク: Ike
+MPID_HONOR_伝承アイク: Vorreiterlegende
+MPID_H_伝承アイク: Anführer von Greils Söldnern. Ist direkt, ehrlich\nund loyal. Als General hat er Vertreter ver-\nschiedener Rassen und Königreiche vereint.\nErscheint in Fire Emblem: Radiant Dawn.
+MPID_VOICE_伝承アイク: Greg Chun
+MPID_ILLUST_伝承アイク: Kita Senri (北千里)
+MPID_LEGEND_伝承アイク: Legendärer Effekt: Erde\nVerbündetenbonus: KP +3, Agr. +2\n\nGewährt Verbündeten diesen legendären\nEffekt in der Erdsaison, wenn sie mit\nErde gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_蒼の天空: Strahlender Aithir
+MSID_明鏡の呼吸: Schutzatem
+MSID_鍛錬の証_HP1: KP-Siegel 1
+MSID_鍛錬の証_HP2: KP-Siegel 2
+MSID_鍛錬の証_HP3: KP-Siegel 3
+MSID_鍛錬の証_攻撃1: Angr.-Siegel 1
+MSID_鍛錬の証_攻撃2: Angr.-Siegel 2
+MSID_鍛錬の証_攻撃3: Angr.-Siegel 3
+MSID_鍛錬の証_速さ1: Ges.-Siegel 1
+MSID_鍛錬の証_速さ2: Ges.-Siegel 2
+MSID_鍛錬の証_速さ3: Ges.-Siegel 3
+MSID_鍛錬の証_守備1: Ver.-Siegel 1
+MSID_鍛錬の証_守備2: Ver.-Siegel 2
+MSID_鍛錬の証_守備3: Ver.-Siegel 3
+MSID_鍛錬の証_魔防1: Res.-Siegel 1
+MSID_鍛錬の証_魔防2: Res.-Siegel 2
+MSID_鍛錬の証_魔防3: Res.-Siegel 3
+MSID_H_蒼の天空: Ver./Res. des Gegners werden im Kampf\nals halbiert betrachtet. Heilt KP um 50 %\ndes zugefügten Schadens.
+MSID_H_明鏡の呼吸: Initiiert der Gegner den Kampf, erhält die\nEinheit Res. +4 im Kampf. Erholungszeit\nder Einheit wird pro Angriff um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_鍛錬の証_HP1: Verleiht KP +3.
+MSID_H_鍛錬の証_HP2: Verleiht KP +4.
+MSID_H_鍛錬の証_HP3: Verleiht KP +5.
+MSID_H_鍛錬の証_攻撃1: Verleiht Angr. +1.
+MSID_H_鍛錬の証_攻撃2: Verleiht Angr. +2.
+MSID_H_鍛錬の証_攻撃3: Verleiht Angr. +3.
+MSID_H_鍛錬の証_速さ1: Verleiht Ges. +1.
+MSID_H_鍛錬の証_速さ2: Verleiht Ges. +2.
+MSID_H_鍛錬の証_速さ3: Verleiht Ges. +3.
+MSID_H_鍛錬の証_守備1: Verleiht Ver. +1.
+MSID_H_鍛錬の証_守備2: Verleiht Ver. +2.
+MSID_H_鍛錬の証_守備3: Verleiht Ver. +3.
+MSID_H_鍛錬の証_魔防1: Verleiht Res. +1.
+MSID_H_鍛錬の証_魔防2: Verleiht Res. +2.
+MSID_H_鍛錬の証_魔防3: Verleiht Res. +3.
+MID_STAGE_HONOR_V0191: Die Effektiven
+MID_STAGE_V0191: mk1
+MID_STAGE_HONOR_V0192: Lang und kurz
+MID_STAGE_V0192: Shingoroid
+MID_STAGE_HONOR_V0193: Total verhext
+MID_STAGE_V0193: ngyope
+MID_STAGE_HONOR_V0194: Wrys' Leibgarde
+MID_STAGE_V0194: kuroyagi
+MID_STAGE_HONOR_V0195: Manaketenhorde
+MID_STAGE_V0195: k2
+MID_STAGE_HONOR_V0161: Täglich
+MID_STAGE_V0161: Teil 1
+MID_STAGE_HONOR_V0162: Täglich
+MID_STAGE_V0162: Teil 2
+MID_STAGE_HONOR_V0163: Täglich
+MID_STAGE_V0163: Teil 3
+MID_STAGE_HONOR_V0164: Täglich
+MID_STAGE_V0164: Teil 4
+MID_STAGE_HONOR_V0165: Täglich
+MID_STAGE_V0165: Teil 5
+MID_STAGE_HONOR_V0166: Täglich
+MID_STAGE_V0166: Teil 6
+MID_STAGE_HONOR_V0167: Täglich
+MID_STAGE_V0167: Teil 7

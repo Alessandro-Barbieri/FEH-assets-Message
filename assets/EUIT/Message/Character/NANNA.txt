@@ -1,0 +1,38 @@
+[Heroes Archive] (NANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_NANNA_HOME1: È bizzarro essere improvvisamente\ncircondata da così tante persone...\nDovrei esserne felice, non è così?
+MID_NANNA_HOME2: Oh, madre... Ti incontrerò di nuovo\nin questo mondo?
+MID_NANNA_HOME3: Vederti pattugliare il castello, come fai\nsempre, mi rincuora. Ma non stancarti\ntroppo, abbiamo bisogno di te!
+MID_NANNA_HOME4: Ti serviva qualcosa? Oh, mi stai\nguardando mentre lavoro? Che buffo.\nDel resto, tutti siamo buffi talvolta.
+MID_NANNA_HOME5: Questo castello è così tranquillo, con\nuna tale pace... È ciò che amo di più\ndi questo luogo. Spero rimanga così.
+MID_NANNA_FRIEND: È un tale piacere conoscerti! Sono\nqui per mandarti tanti saluti da parte\ndi $Nf.
+MID_NANNA_LEVEL1: Che sensazione meravigliosa.
+MID_NANNA_LEVEL2: Spero che questo sia\nabbastanza!
+MID_NANNA_LEVEL3: Non posso crederci!
+MID_NANNA_SKILL: Ora potrò aiutare gli altri.
+MID_NANNA_JOIN: Sono Nanna, del casato di Nordion.\nÈ un grande piacere conoscerti.
+MID_NANNA_STRONGEST: È evidente che tu abbia fatto del tuo\nmeglio per aiutarmi. Alla fine, devo\nsempre fare affidamento sugli altri.$k$pNel mio mondo, è stato fatto del male\nad alcune persone a cui tenevo molto\ne io ho potuto solo guardare...$k$pNon ho mai accettato la mia\nimpotenza, la mia incapacità\ndi aiutarle.$k$pCombattendo al tuo fianco, ho capito\nche la battaglia è molto più dello\nscontro di due lame.$k$pIo farò tutto il possibile per fornire\nassistenza a te e a tutti gli altri che\nsi trovano qui...$k$pE forse, un giorno, sarò in grado di\ncamminare con le mie gambe e\nproteggere io stessa i miei cari.
+MID_NANNA_VOICE01: はい
+MID_NANNA_VOICE02: それっ
+MID_NANNA_VOICE03: きゃああっ！
+MID_NANNA_VOICE04: No...!
+MID_NANNA_VOICE05: Spero mi perdonerai.
+MID_NANNA_VOICE06: Lasciami passare!
+MID_NANNA_VOICE07: Non c'è altro modo...
+MID_NANNA_VOICE08: Non oserai!
+MID_NANNA_VOICE09: Leif... Never give up...
+MID_NANNA_VOICE10: giggle
+MID_NANNA_VOICE11: Stai bene?
+MID_NANNA_VOICE12: Lascia che ti aiuti.
+MID_NANNA_VOICE13: I am Nanna, daughter of Lachesis, and niece to Lord Eldigan.
+MID_NANNA_VOICE14: Aah! Don't DO that!
+MID_NANNA_VOICE15: Leif has always been so kind to me. We're as close as brother and sister...
+MID_NANNA_VOICE16: Now that I'm older, I understand how my mother felt...
+MID_NANNA_VOICE17: I've been praying for your safety.
+MID_NANNA_VOICE18: Yes?
+MID_NANNA_VOICE19: What should I do?
+MID_NANNA_VOICE20: Show me the way.

@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: Suggestions d'amis
+MID_FRIEND_NUM: $aAmis   $a0/$a1
+MID_FRIEND_HELP_FRIEND: $aAmis aidés : $a0
+MID_ITEM_OCCUPATION_POTION: Lance conquérante
+MID_ITEM_HELP_OCCUPATION_POTION: Octroie 8 points d'énergie\npour la grande conquête.
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $aLes résultats n'ont pas été pris\nen compte car la bataille $a0\nest déjà terminée.
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $aRécompense de palier GC : $a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $aRécompense de conquête : bataille $a0
+MID_OCCUPATION_AREA: $aZone $a0
+MID_OCCUPATION_TITLE: Grande conquête
+MID_OCCUPATION_CLOSED: Les batailles sont fermées.
+MID_OCCUPATION_AGGREGATING: Calcul du résultat.
+MID_OCCUPATION_GROUPING_DELAYING: Le calcul n'est pas encore\nterminé. Veuillez patienter.
+MID_OCCUPATION_REGISTRATION: Statut de l'inscription
+MID_OCCUPATION_REGISTER: À l'attaque !
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: Inscription vérifiée.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: L'inscription est en cours de traitement.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $aAttendez le début de la bataille $a0.
+MID_OCCUPATION_REGISTRATION_INTERVAL: $aStatut visible après le début de la bataille $a0.
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: L'événement est terminé.
+MID_OCCUPATION_ROUND_RESULT: $aBataille $a0 terminée.
+MID_OCCUPATION_TERM_RESULT: L'événement est terminé.
+MID_OCCUPATION_ROUND_LEFT_DAY: $aBataille $a0 : fin dans $a1 j
+MID_OCCUPATION_ROUND_LEFT_HOUR: $aBataille $a0 : fin dans $a1 h
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $aBataille $a0 : fin dans $a1 min
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $aBataille $a0 : début dans $a1 j
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $aBataille $a0 : début dans $a1 h
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $aBataille $a0 : début dans $a1 min
+MID_OCCUPATION_WORLDMAP_HELP: Choisissez une zone et combattez !
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $aAide dans la zone $a0.\n$a1 : +1 allié.\n(Une aide par manche.)
+MID_OCCUPATION_GRADE: $aPalier GC $a0
+MID_OCCUPATION_GRADE_POINT_MAX: MAX
+MID_OCCUPATION_GRADE_HELP: $aAjoute $a0 % du score pour les zones adjacentes.
+MID_OCCUPATION_ROUND: $aBataille $a0
+MID_OCCUPATION_GRUOP_ID: $aMultivers $a0
+MID_OCCUPATION_OPERATION: $aManche $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aEncore $a0 min
+MID_OCCUPATION_STAMINA: Énergie
+MID_OCCUPATION_STAMINA_RECOVER_FULL: Toute l'énergie a été restaurée.
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: Énergie insuffisante. Utiliser une\nlance conquérante pour récupérer\n8 points d'énergie ?
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: Utiliser une lance conquérante\npour récupérer 8 points\nd'énergie ?
+MID_OCCUPATION_STAMINA_RECOVER: Récupérer
+MID_OCCUPATION_STAMINA_RECOVER_DONE: Vous avez utilisé une lance\nconquérante pour récupérer\nde l'énergie.
+MID_OCCUPATION_AREA_COUNT: Zones contrôlées
+MID_OCCUPATION_REINFORCE: Aider !
+MID_OCCUPATION_REWARD: Récompenses
+MID_OCCUPATION_REWARD_SORT: $aRécompenses de $a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: Type de récompense
+MID_OCCUPATION_REWARD_SORT_GRADE: Palier GC
+MID_OCCUPATION_REWARD_SORT_AREA: Zones
+MID_OCCUPATION_AREA_NAME: $aZone $a0
+MID_OCCUPATION_GUILD_NAME_0: Camp d'Alfonse
+MID_OCCUPATION_GUILD_NAME_1: Camp de Sharena
+MID_OCCUPATION_GUILD_NAME_2: Camp d'Anna
+MID_OCCUPATION_AREA_TOP_USER: $aChampion : $a0 ($a1)
+MID_OCCUPATION_AREA_SITUATION: Situation
+MID_OCCUPATION_AREA_ALLY_RANKING: Alliés
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $a$a0 n'a pas combattu ici.
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: Vous
+MID_OCCUPATION_AREA_EFFECT: Effets de zone
+MID_OCCUPATION_AREA_EFFECT_NONE: Aucun effet de zone actif.
+MID_OCCUPATION_AREA_EFFECT_FIXED: Effet (cette zone)
+MID_OCCUPATION_AREA_EFFECT_IN: Effet des zones contrôlées adjacentes
+MID_OCCUPATION_AREA_EFFECT_OUT: Effet sur les zones contrôlées adjacentes
+MID_OCCUPATION_POWER_RATE: $aBoost × $a0
+MID_OCCUPATION_POWER_RATE_DIALOG: $a(Boost × $a0)
+MID_OCCUPATION_DIALIG_REFRESH: La situation a changé. La carte\nva être modifiée en conséquence.
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $a$a0 joueurs
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $a$a0 joueur
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: Impossible de combattre\ndans le QG d'un camp.
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: Non disponible
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: Conquise par :
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $aTriomphe : $a0 !\nZone fermée pour la manche.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: Combat impossible si loin\ndu territoire ennemi.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: Combat impossible si loin\ndu territoire allié.
+MID_OCCUPATION_RESULT_FAILED: Échec de la défense
+MID_OCCUPATION_RESULT_DEFEND: Défense réussie
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: Zone contrôlée
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: Fort ennemi conquis
+MID_OCCUPATION_RESULT_DOMINATION_NUM: Camps contrôlés :
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: Trois camps s'affrontent !
+MID_OCCUPATION_HELP_DIALOG_01: ◆ Grande conquête ◆\nDans ce mode, trois camps\ns'affrontent pour conquérir\ndes territoires.\n\nÀ la fin de la bataille, les camps\nreçoivent des récompenses en\nfonction du nombre de zones\nqu'elles contrôlent.
+MID_OCCUPATION_HELP_DIALOG_02: ◆ Comment participer ◆\nSélectionnez une zone adjacente\nà un ennemi pour combattre et\nmarquer des points. Cette action\nconsomme une énergie\nspécifique. Le boost vous permet\nde dépenser plus d'énergie\npour multiplier votre score.
+MID_OCCUPATION_HELP_DIALOG_03: ◆ Effets du score ◆\nAprès une bataille, vous obtenez\nun score. Des points sont ajoutés\nà la zone que vous aviez\nsélectionnée.
+MID_OCCUPATION_HELP_DIALOG_04: ◆ Contrôle de zones ◆\n・ Un camp marque des points\nlorsqu'il contrôle une zone en\ndébut de manche.\n・ Le camp qui a le plus de\npoints à la fin de la manche\nprend le contrôle de la zone.
+MID_OCCUPATION_HELP_DIALOG_05: ◆ Bonus de coopération ◆\nÀ chaque manche, des points\nbonus sont ajoutés au score\ntotal de la zone en fonction\ndu nombre d'alliés qui y ont\ncombattu pendant la manche.
+MID_OCCUPATION_HELP_DIALOG_06: ◆ Aide ◆\n・ Vous pouvez aider une fois\npar manche.\n・ Cela rajoute un allié dans une\nzone aléatoire, ce qui contribue\nau bonus de coopération. Vous\navez également une chance\nd'obtenir un objet aléatoire.
+MID_OCCUPATION_HELP_DIALOG_07: ◆ Triomphe ◆\n・ Pendant une manche, lorsque\nla situation est évaluée, si la\ndifférence entre le premier et le\ndeuxième camp est trop grande,\nle gagnant prend directement\nle contrôle de la zone.\n・ Il est alors impossible de\ncombattre dans cette zone\njusqu'à la manche suivante.
+MID_OCCUPATION_HELP_DIALOG_08: ◆ Palier GC ◆\n・ Votre palier GC augmente\navec votre score cumulé.\n・ Plus il est important, plus la\nfraction du score ajoutée aux\nzones adjacentes est élevée.\n・ Le palier GC peut également\nvous faire gagner d'autres\nrécompenses.
+MID_OCCUPATION_GRADE_PROMOTION: $aVotre palier GC est passé de\n$a0 à $a1.
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: Score pour les zones adjacentes
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a+$a0 %
+MID_SHOP_REMAINING_MINUTES: $aEncore disponible pendant $a0 min.
+MID_SHOP_REMAINING_HOURS: $aEncore disponible pendant $a0 h.
+MID_SHOP_REMAINING_DAYS: $aEncore disponible pendant $a0 j.
+MID_TAP_BATTLE_TITLE_1: Bataille tactile
+MID_CONQUER_HELP_DIALOG_01_02: ◆ Règles ◆\n・ Si un camp perd toutes ses\ntroupes, elles sont remplacées.\n・ La bataille prend fin après\n10 tours ou quand une forteresse\na été détruite.
+MID_CONQUER_HELP_DIALOG_06: ◆ Autres règles ◆\n・ Les renforts ne bénéficient pas\ndes effets légendaires.\n・ Vous ne gagnez pas d'EXP ou\nde PA.\n・ Les liens du soutien d'allié\nou d'invocateur ne deviennent\npas plus forts.
+MID_VOTE_DIALOG_HELP_03_02: ◆ Délai d'attente ◆\nAprès une victoire, vous devrez\nattendre un certain temps avant\nde lutter à nouveau pour le camp\nde votre héros.

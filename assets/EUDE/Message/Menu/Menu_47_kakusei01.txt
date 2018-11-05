@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: Auf in den Kampf, Gesegnete!
+MID_BLESSINGMAP_HELP_DIALOG_01: Gesegnete Gärten:\n"Ein himmlisches Reich, in\ndem riesige Schätze ruhen..."\nSo werden diese uralten Gärten\nin Legenden beschrieben. Nur\nLegendäre Helden und Helden\nmit Segen können diese\nheiligen Orte betreten.
+MID_BLESSINGMAP_HELP_DIALOG_02: Regeln für Gesegnete Gärten:\nDen Wassergarten dürfen nur\nLegendäre Wasserhelden und\nHelden mit Wassersegen\nbetreten. Für die Gärten des\nWindes, der Erde und des\nFeuers gelten jeweils die\ngleichen Regeln.
+MID_BLESSINGMAP_HELP_DIALOG_03: Regeln für Gesegnete Gärten:\n・ Dein Team muss aus vier\nVerbündeten bestehen.\n・ Dein Team darf keine\ndoppelten Helden enthalten.\n・ Du kannst keinen Segen\ndes Lichts verwenden.
+MID_BLESSINGMAP_HELP_DIALOG_04: Legendäre Effekte:\n・ In den Gesegneten Gärten sind\ndie Effekte Legendärer Helden\nunabhängig von der aktuellen\nSaison immer aktiv.\n・ Tippe auf "Einh.", "Erweitertes\nTraining" und dann "Segnen", um\neinen Segen zu verwenden.
+MID_STAGE_SELECT_BLESSING_GARDEN: Gesegnete Gärten
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: Garten des Wassers
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: Garten des Windes
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: Garten der Erde
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: Garten des Feuers
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: Nur Legendäre Wasserhelden und\nHelden mit Wassersegen haben Zutritt.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: Nur Legendäre Windhelden und\nHelden mit Windsegen haben Zutritt.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: Nur Legendäre Erdhelden und\nHelden mit Erdsegen haben Zutritt.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: Nur Legendäre Feuerhelden und\nHelden mit Feuersegen haben Zutritt.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: Diese Karte ist nur für Teams\nmit Legendären Feuerhelden\nund Helden mit Feuersegen\nzugänglich.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: Diese Karte ist nur für Teams\nmit Legendären Wasserhelden\nund Helden mit Wassersegen\nzugänglich.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: Diese Karte ist nur für Teams\nmit Legendären Windhelden\nund Helden mit Windsegen\nzugänglich.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: Diese Karte ist nur für Teams\nmit Legendären Erdhelden\nund Helden mit Erdsegen\nzugänglich.
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: Bonus für ersten Besuch: Gesegnete Gärten
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $aMinuten bis zur nächsten Karte: $a0
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $aStunden bis zur nächsten Karte: $a0
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $aTage bis zur nächsten Karte: $a0
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: Die Gesegneten Gärten\nwurden freigeschaltet.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: Dein Team muss vier Helden haben.\nDoppelte Helden sind nicht erlaubt.
+MID_OCCUPATION_MAP_FORTRESS: Festung
+MID_OCCUPATION_MAP_HUB: Lager
+MID_OCCUPATION_MAP_SCORE_KILL: Besiegt
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: Lager
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: Festungs-KP
+MID_OCCUPATION_MAP_SCORE_BONUS: Bonus
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: Revierkampf
+MID_OCCUPATION_STAGE_TELOP_RULE: $a$a0-Züge-Kampf
+MID_OCCUPATION_RESULT: Ergebnis
+MID_OCCUPATION_RESULT_KILL: Besiegte Gegner
+MID_OCCUPATION_RESULT_DEFENCE: Festungsverteidigung
+MID_OCCUPATION_RESULT_OFFENCE: Festungsangriff
+MID_OCCUPATION_RESULT_DOMINATION: Besetzte Lager
+MID_OCCUPATION_RESULT_SCORE: Punkte
+MID_OCCUPATION_RESULT_SCORE_BORDER: Punkteziel
+MID_OCCUPATION_RESULT_BONUS: Bonus
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: Ziel erreicht!
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: Für Ziel benötigte Punkte:
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: Prämie für Abschluss der Karte erhalten!
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: Prämie für diese Karte bereits erhalten.
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: Erreiche das Punkteziel für eine Prämie!
+MID_OCCUPATION_STAGE_SELECT_SCORE: Punkte
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: Punkte/Bonus
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: Rekord
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: Punkteziel
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: Erreiche das Punkteziel, um eine Prämie\nfür den Abschluss der Karte zu erhalten.
+MID_OCCUPATION_BONUS_歩行: Gegner mit Infanterie besiegt: +1 Bonus
+MID_OCCUPATION_BONUS_重装: Gegner mit gep. Einh. besiegt: +1 Bonus
+MID_OCCUPATION_BONUS_騎馬: Gegner mit Kavallerie besiegt: +1 Bonus
+MID_OCCUPATION_BONUS_飛行: Gegner mit Flieger besiegt: +1 Bonus
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: Diese Stufe wurde bereits\nabgeschlossen. Es ist keine\nweitere Prämie verfügbar.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: Deine Brigade kann nur einen\nVerbündeten enthalten, der\n"Singen" oder "Tanzen" nutzt.\nDuplikate sind nicht erlaubt.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: Deine Brigade enthält Helden, die nicht\nzusammen verwendet werden können.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: Nimm mit einer Brigade von\n20 Helden am Revierkampf teil!
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: Brigaden erstellen:\nEine Brigade ist das Team, das\ndu im Revierkampf verwendest.\nWähle bis zu 20 Verbündete aus\ndeiner Armee oder denen deiner\nFreunde. Leere Plätze werden\nautomatisch mit Verstärkungs-\neinheiten gefüllt.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: Beschränkungen für Brigaden:\n・ Deine Brigade kann nur einen\nVerbündeten mit den Fähigkeiten\n"Singen" oder "Tanzen" enthalten.\n・ Deine Brigade kann keine\ndoppelten Helden enthalten.
+MID_CONQUER_HELP_DIALOG_00: Verbünde dich mit Freunden!
+MID_CONQUER_HELP_DIALOG_01: Regeln des Revierkampfs:\n・ Sind alle Einheiten einer Seite\nbesiegt, werden neue Truppen\nden Kampf fortsetzen.\n・ Der Kampf endet nach 10\nZügen oder wenn die Festung\neiner Seite zerstört wird.\n・ Du verdienst keine Erf. oder FP.\n・Verstärkungstruppen haben keine\nBoni durch Legendäre Effekte.
+MID_CONQUER_HELP_DIALOG_02: Über Festungen:\n・ Es sind drei Treffer nötig, um\neine Festung zu zerstören.\n・ Du kannst dich zu Festungen\nteleportieren, die du kontrollierst.\n・ Verbündete in Festungen\nwerden pro Zug um 10 KP geheilt.\n・ Festungen gelten als\nVerteidigungsgebiet.
+MID_CONQUER_HELP_DIALOG_03: Über Lager:\n・ Es sind zwei Treffer nötig, um\nein Lager zu zerstören.\n・ Du kannst dich zu Lagern\nteleportieren, die du kontrollierst.\n・ Verbündete in Lagern\nwerden pro Zug um 10 KP geheilt.\n・ Lager gelten als\nVerteidigungsgebiet.
+MID_CONQUER_HELP_DIALOG_04: Teleportieren:\nVerbündete neben Festungen\noder Lagern unter ihrer Kontrolle\nkönnen sich sofort neben andere\nFestungen oder Lager unter ihrer\nKontrolle teleportieren.
+MID_CONQUER_HELP_DIALOG_05: Punkte im Revierkampf:\nNach Ende des Kampfes\nerhältst du eine Punktzahl.\n\nVerdiene mehr Punkte, indem\ndu deine Festung und Lager\nverteidigst, Gegner besiegst\nund die feindliche Festung\neinnimmst.
+MID_UNIT_EDIT_LARGE_FORCE: Brigaden erstellen
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $aBrigade $a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: Verb.
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: Freunde aktualisieren
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: Freunde aktualisieren?
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: Deine Verb.
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: Verb. von Freunden
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: Die Verbündeten deiner Freunde auf\nden neuesten Stand aktualisieren?
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: Alle Verbündeten deiner\nFreunde werden aktualisiert.
+MID_UNIT_EDIT_FRIEND_BOX: Freunde

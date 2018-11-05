@@ -1,0 +1,38 @@
+[Heroes Archive] (SOIREE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOIREE_HOME1: Cette Anna est plutôt stricte, non ?\nJe parie qu'elle pourrait m'apprendre\nplein de choses !
+MID_SOIREE_HOME2: En fin de compte, peu importe le\nmonde dans lequel on est, il faut\ntoujours se battre pour la paix.
+MID_SOIREE_HOME3: Allez, je vais vous apprendre à vous\ndéfendre ! Ne vous en faites pas, je\nvous ferai pas mal. Enfin, pas trop.
+MID_SOIREE_HOME4: Je m'apprêtais à seller mon cheval\npour une petite balade en forêt.\nJoignez-vous à nous, si vous voulez !
+MID_SOIREE_HOME5: Je viens d'une lignée de chevaliers,\nmais je n'estime pas encore mériter\nce titre... Allez, à l'entraînement !
+MID_SOIREE_FRIEND: Salut ! $Nf\nm'a envoyée ici pour que\nje vous passe le bonjour !
+MID_SOIREE_LEVEL1: Bien ! Mon entraînement porte ses\nfruits.
+MID_SOIREE_LEVEL2: Pas mal... Mais je peux clairement\nfaire mieux !
+MID_SOIREE_LEVEL3: Argh... Pourquoi ne me suis-je pas\nentraînée ?
+MID_SOIREE_SKILL: Je suis prête à broyer des têtes !\nAllez !!!
+MID_SOIREE_JOIN: Je m'appelle Sully, et je vous\npromets de faire de mon mieux.\nCroyez-moi, ça suffira.
+MID_SOIREE_STRONGEST: Tiens, $Nu !\nVous venez encore combattre\navec nous, aujourd'hui ? Génial !$k$pVous savez, je ne regrette pas tout\nce temps passé ici. J'ai beaucoup\nappris, surtout de votre part.$k$pMême si vous ne pouvez pas vous\nbattre comme nous, votre rôle est\nle plus important de tous.$k$pJ'espère qu'un jour j'arriverai à\nmotiver les troupes aussi bien\nque vous le faites.$k$pD'ici là, je vais continuer à me battre\nà vos côtés ! Merci, partenaire.
+MID_SOIREE_VOICE01: てやっ！
+MID_SOIREE_VOICE02: このおっ！
+MID_SOIREE_VOICE03: うわっ！
+MID_SOIREE_VOICE04: Damn!
+MID_SOIREE_VOICE05: Tu vas mourir, et remourir !
+MID_SOIREE_VOICE06: Va en enfer !
+MID_SOIREE_VOICE07: Je ne crois pas, non !
+MID_SOIREE_VOICE08: Meurs, ordure !
+MID_SOIREE_VOICE09: You beat me.
+MID_SOIREE_VOICE10: Haha
+MID_SOIREE_VOICE11: You ready to be my sparring partner?
+MID_SOIREE_VOICE12: A lot of guys have underestimated me. They're dead now.
+MID_SOIREE_VOICE13: Hey, come train with me! I'll go easy on ya.
+MID_SOIREE_VOICE14: Just so we're clear... I am not cut out for kitchen duty.
+MID_SOIREE_VOICE15: My horse is a beaut, right? Best partner I could ask for.
+MID_SOIREE_VOICE16: Gotta train hard if I'm gonna match the Bull. That guy was a legend.
+MID_SOIREE_VOICE17: I'll protect you on the field—you just focus on giving orders.
+MID_SOIREE_VOICE18: Yeah.
+MID_SOIREE_VOICE19: Got it.
+MID_SOIREE_VOICE20: Let's go.

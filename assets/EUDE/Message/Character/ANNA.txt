@@ -1,0 +1,62 @@
+[Heroes Archive] (ANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_ANNA_HOME1: Alfonse war einst mit jemand wirklich\nHeldenhaftem befreundet.$k$pDoch seit er diesen im Kampf verlor,\nist Alfonse nicht mehr er selbst.
+MID_ANNA_HOME2: Wir können Helden, die im Kampf\nfallen, wieder zum Leben erwecken,\nsolange du bei uns bist,$k$p$GBeschwörer,Beschwörerin|. Doch auch wenn dies\ndie Verluste auf dem Schlachtfeld$k$pmindert, so fühlen sie doch Schmerz\nwie wir auch!
+MID_ANNA_HOME3: Du schaust bei uns vorbei? Danke!\nDas hilft sehr. Lass mich wissen, falls\ndir etwas Ungewöhnliches auffällt.
+MID_ANNA_HOME4: Was hältst du von ein wenig Übung?$k$pDas macht dich sicher zu $Geinem,einer|\nnoch stärkeren $GBeschwörer,Beschwörerin| und\n$GKämpfer,Kämpferin|.
+MID_ANNA_HOME5: Du kommst gerade recht! Ich habe\ngerade neue Waren mit dem Wappen\nder Wächter von Askr hergestellt.$k$pOb sie sich wohl auch gut verkaufen\nwerden?
+MID_ANNA_FRIEND: Deine Gruppe sieht stark aus. Ich\nsollte meine wohl besser trainieren.$k$pOh, hallo! Ich übermittle Grüße\nvon $Nf!
+MID_ANNA_LEVEL1: Ich werde mich ab jetzt\nnoch mehr anstrengen!
+MID_ANNA_LEVEL2: Gut! Aber als Kommandantin\nmuss ich mich weiter anstrengen.
+MID_ANNA_LEVEL3: Ich erwarte mehr von mir als das.
+MID_ANNA_SKILL: Dank deiner Hilfe bin ich stärker\nals zuvor! Ich werde es dir danken.
+MID_ANNA_STRONGEST: Ich muss heute ein Urteil abgeben...$k$pDu bist pflichtbewusster geworden,\nals ich es mir jemals hätte vorstellen\nkönnen.$k$pOffen gesagt, war ich mir am Anfang\nnicht sicher, was ich von dir halten\nsollte.$k$pWir kannten dich nicht. Du kanntest\nuns nicht.$k$pAber sieh dich an! Du bist ein\ntaktisches Genie geworden, das uns\nden Weg auf das Trefflichste weist!$k$pWeißt du noch, als wir uns das erste\nMal begegnet sind und ich sagte, dass\ndu nicht wie $Gder Legendäre Held,die Legendäre Heldin|$k$paus unseren Legenden aussehen\nwürdest? Es tut mir leid, dass ich\ndamals so reagiert habe.$k$pAls Kommandantin hier hätte ich\nwissen müssen, dass man ein$k$pBuch nicht nach seinem Einband\nbeurteilen darf.$k$pEs gab jemanden in meinem Leben,\nder mir das vor langer Zeit eingebläut\nhat.$k$pAlso hätte ich es wirklich besser\nwissen müssen. Du bist $Gder,die|\n$GGroße Taktiker,Große Taktikerin|, und du wirst der$k$pLegende gerecht! Und doch bist du\nauch Teil meiner Wächter von Askr,\nalso erwarte keine Extrawurst.$k$pAber bis zu dem Tag, an dem wir\ndieses Königreich ein für alle Mal$k$pretten, bleiben wir - du und ich -\nSeite an Seite.
+MID_ANNA_VOICE01: はっ！
+MID_ANNA_VOICE02: せいっ！
+MID_ANNA_VOICE03: くっ…！
+MID_ANNA_VOICE04: What gives!
+MID_ANNA_VOICE05: Das hier geht aufs Haus!
+MID_ANNA_VOICE06: Mehr als du wünschtest?
+MID_ANNA_VOICE07: Wir werden siegen!
+MID_ANNA_VOICE08: Auf zum Sieg!
+MID_ANNA_VOICE09: Fall back...
+MID_ANNA_VOICE10: Heehee
+MID_ANNA_VOICE11: Rule number one! Treat Heroes with utmost respect!
+MID_ANNA_VOICE12: Rule number two! Defend the gateways at any cost!
+MID_ANNA_VOICE13: Think I have a familiar face? Hmm. How curious.
+MID_ANNA_VOICE14: That divine weapon of yours was just lying around here... None of us could use it.
+MID_ANNA_VOICE15: Some of us befriend Heroes. Others stay detached. What will you do, I wonder...
+MID_ANNA_VOICE16: Know a quick way to make a profit? Then let's hear it!
+MID_ANNA_VOICE17: I give you my vow as commander that I will keep you safe.
+MID_ANNA_VOICE18: Yes?
+MID_ANNA_VOICE19: Let's go.
+MID_ANNA_VOICE20: Onward!
+MID_ANNA_VOICE21: Fire Emblem
+MID_ANNA_VOICE22: Shadow Dragon and the Blade of Light
+MID_ANNA_VOICE23: Gaiden
+MID_ANNA_VOICE24: Mystery of the Emblem
+MID_ANNA_VOICE25: Genealogy of the Holy War
+MID_ANNA_VOICE26: Thracia 776
+MID_ANNA_VOICE27: The Binding Blade
+MID_ANNA_VOICE28: The Blazing Blade
+MID_ANNA_VOICE29: The Sacred Stones
+MID_ANNA_VOICE30: Path of Radiance
+MID_ANNA_VOICE31: Radiant Dawn
+MID_ANNA_VOICE32: Shadow Dragon
+MID_ANNA_VOICE33: New Mystery of the Emblem
+MID_ANNA_VOICE34: Awakening
+MID_ANNA_VOICE35: Fates
+MID_ANNA_VOICE36: An event has started.
+MID_ANNA_VOICE37: A big battle has started.
+MID_ANNA_VOICE38: A strong foe has appeared.
+MID_ANNA_VOICE39: New Heroes are available.
+MID_ANNA_VOICE40: Wait just a moment.
+MID_ANNA_VOICE41: Now, let's move.
+MID_ANNA_VOICE42: Now, attack.
+MID_ANNA_VOICE43: When using a bow, you must keep space between you and your foe.
+MID_ANNA_VOICE_BRAVE: Brave
+MID_ANNA_VOICE_HEROES: Heroes

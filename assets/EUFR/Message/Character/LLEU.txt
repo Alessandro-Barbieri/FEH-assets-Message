@@ -1,0 +1,38 @@
+[Heroes Archive] (LLEU)
+
+
+Heroes Message Name: Message
+
+
+MID_LLEU_HOME1: J'apprendrai à maîtriser les arts\nobscurs, quel qu'en soit le coût.$k$pQuoi ? Vous ne me croyez pas\ncapable de détruire le monde\ns'il le faut ?
+MID_LLEU_HOME2: Sans pouvoir, on ne peut rien faire...\nNi protéger ceux qui en ont besoin.$k$pC'est pour ça que je dois absolument\nmaîtriser les arts obscurs.
+MID_LLEU_HOME3: Si je garde mes distances, ce n'est\npas pour qu'on vienne me parler.\nJe préfère rester seul.
+MID_LLEU_HOME4: Pensez à vous reposer, de temps\nen temps. Moi je m'en fiche, mais\nvous allez vous fatiguer, à force.$k$pEt s'il vous arrivait quelque chose,\nil faudrait qu'on travaille encore\nplus pour vous couvrir. Pff...
+MID_LLEU_HOME5: Dites-moi, vous êtes sacrément\n$Gguilleret,guillerette|. C'est... agaçant.$k$pEnfin, ça n'engage que moi, hein.\nFaites ce que vous voulez.
+MID_LLEU_FRIEND: $Nu ?\nEh bien, ça n'a pas été facile\nde vous retrouver !$k$pBref, on... enfin,\n$Nf m'a dit\nde vous passer le bonjour.
+MID_LLEU_LEVEL1: Parfait. Je deviens enfin plus fort...
+MID_LLEU_LEVEL2: Je dois devenir plus fort. Je le dois.
+MID_LLEU_LEVEL3: Non ! Je dois faire mieux que ça !
+MID_LLEU_SKILL: Je ne vous remercie pas. Vous verrez\nbien ce que je ferai de ce pouvoir...
+MID_LLEU_JOIN: J'essaie d'apprendre à maîtriser les\narts obscurs. Mon nom ? Pff, si vous\ninsistez. Je m'appelle Raigh.
+MID_LLEU_STRONGEST: Pff... Vous ne pouvez pas vous\nempêcher de mettre votre nez\ndans mes affaires, hein ?$k$pEnfin, je dois avouer que depuis que\nje vous connais, il est possible que\nje sois devenu plus fort...$k$pHé, on se calme. J'ai dit que c'était\n« possible », c'est tout.$k$pJe sais que vous passez du temps\navec moi parce que vous me prenez\nen pitié...$k$pJe comprends, ne vous en faites\npas. Je sais que mon passé n'est\npas très glorieux.$k$pEnfin maintenant, à cause de vous,\nj'ai une personne de plus à protéger.\nAlors merci, hein.
+MID_LLEU_VOICE01: フン
+MID_LLEU_VOICE02: フフン
+MID_LLEU_VOICE03: うああっ！
+MID_LLEU_VOICE04: ...Hmph.
+MID_LLEU_VOICE05: Pas de pitié !
+MID_LLEU_VOICE06: Voici mon pouvoir !
+MID_LLEU_VOICE07: Ténèbres, obéissez !
+MID_LLEU_VOICE08: Quel ennui.
+MID_LLEU_VOICE09: Fools...
+MID_LLEU_VOICE10: Heh.
+MID_LLEU_VOICE11: What do you want?
+MID_LLEU_VOICE12: Enough. You have my attention.
+MID_LLEU_VOICE13: You push yourself way too hard. And for what? Other people?
+MID_LLEU_VOICE14: I have to admit, I've never met someone...quite like you.
+MID_LLEU_VOICE15: Don't tell anyone that I'm anything but...diabolical.
+MID_LLEU_VOICE16: I must protect...what I must protect!
+MID_LLEU_VOICE17: You think I'll help you? You are fooling yourself.
+MID_LLEU_VOICE18: Heh!
+MID_LLEU_VOICE19: Fine...
+MID_LLEU_VOICE20: All right.

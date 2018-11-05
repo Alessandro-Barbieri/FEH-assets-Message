@@ -1,0 +1,38 @@
+[Heroes Archive] (KLEIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KLEIN_HOME1: Some call me the Archer General, but I\nfeel I can serve a kingdom better as\nan administrator than a general.
+MID_KLEIN_HOME2: I see myself clearly, I think. I don't\nhave my parents' battle acumen. So I\nmake myself useful in other ways.
+MID_KLEIN_HOME3: I'm also glad to handle some tasks\nfor you at the castle. Your burden is\nheavy. I'm glad to bear some of it.
+MID_KLEIN_HOME4: I have a younger sister named Clarine.\nShe's nice, once you get to know her.$k$pClarine does live a bit too much in\nher own world though. Still, she's\nvery sweet in her own way.
+MID_KLEIN_HOME5: I learned all of the etiquette needed\nat court in my own world. I hope\nthat some of it applies here.
+MID_KLEIN_FRIEND: Well, greetings. I've come to say\nhello on behalf of your friend\n$Nf.
+MID_KLEIN_LEVEL1: What a surprise! This is\nunusual for me.
+MID_KLEIN_LEVEL2: It seems I'm growing at a\nrespectable pace.
+MID_KLEIN_LEVEL3: Hmm. A reminder of my\nshortcomings.
+MID_KLEIN_SKILL: Thank you. I'll do my best to live\nup to your expectations.
+MID_KLEIN_JOIN: I am Klein, son of Count Reglay\nof Etruria. I'll be happy to\naccompany you!
+MID_KLEIN_STRONGEST: Thanks to my noble birth, I've had\nthe fortune to meet many different\npeople during my life.$k$pI feel it's made me a good\njudge of character.$k$pFor example, those who talk\nthe talk rarely walk the walk.\nAnd they often run away.$k$pThen there are those who hardly\nsay a word and never boast,\nyet are quick to help others.$k$pSuch a person saved me when I\nwas a child. That's how I know\nthat I can trust you fully.$k$pAnd I devote my skills to your\ncause and will continue to do so.\nIt's an honor to serve you.
+MID_KLEIN_VOICE01: はっ！
+MID_KLEIN_VOICE02: ふっ！
+MID_KLEIN_VOICE03: うああっ！
+MID_KLEIN_VOICE04: Drat...
+MID_KLEIN_VOICE05: I won't miss.
+MID_KLEIN_VOICE06: Such foolishness.
+MID_KLEIN_VOICE07: At this range...
+MID_KLEIN_VOICE08: Now, my turn.
+MID_KLEIN_VOICE09: Fall here...?
+MID_KLEIN_VOICE10: Heh
+MID_KLEIN_VOICE11: Anything I can do for you? Please, name it.
+MID_KLEIN_VOICE12: What?! Oh, you. Caught me off guard.
+MID_KLEIN_VOICE13: I'm always worried about my younger sister. Can't help it!
+MID_KLEIN_VOICE14: Let us stay vigilant, for your sake and that of your family.
+MID_KLEIN_VOICE15: They call me the Archer General, for what that's worth.
+MID_KLEIN_VOICE16: Wouldn't going with the flow be bliss? But in time, what becomes of such a life?
+MID_KLEIN_VOICE17: Please, stay close to me. I want to keep you out of harm's way.
+MID_KLEIN_VOICE18: OK.
+MID_KLEIN_VOICE19: Hmm.
+MID_KLEIN_VOICE20: Of course.

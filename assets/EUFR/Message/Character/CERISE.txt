@@ -1,0 +1,38 @@
+[Heroes Archive] (CERISE)
+
+
+Heroes Message Name: Message
+
+
+MID_CERISE_HOME1: Mon pays est toujours enneigé. En\ncomparaison, il fait une chaleur\nétouffante, ici !$k$pJe suis en nage ! Pourriez-vous\nm'indiquer la salle de bain la\nplus proche ?
+MID_CERISE_HOME2: Les hivers de Nifl sont\nincroyablement froids.$k$pQuand nous étions jeunes, mes\nsœurs et moi nous blottissions les\nunes contre les autres pour dormir.
+MID_CERISE_HOME3: Si vous êtes $Gfatigué,fatiguée|, faites donc une\nsieste. C'est le conseil que je donnais\ntoujours à mes sœurs !
+MID_CERISE_HOME4: Oh, pardonnez-moi. Il fait si chaud ici,\ntout est si confortable... Je me suis\nassoupie.
+MID_CERISE_HOME5: Au nom de mes sœurs adorées, je\nferai tout mon possible pour vous\naider.$k$pN'hésitez pas à me demander quoi\nque ce soit.
+MID_CERISE_FRIEND: $Nf m'envoie\nvous transmettre ses salutations.
+MID_CERISE_LEVEL1: Oh, c'est formidable.
+MID_CERISE_LEVEL2: Ah, me voilà rassurée !
+MID_CERISE_LEVEL3: Oh... Que faire, maintenant ?
+MID_CERISE_SKILL: Merci de penser à moi.
+MID_CERISE_JOIN: Je suis Gunnthrá de Nifl. Nous voici\nenfin face à face !$k$pDans vos rêves, j'ai senti que vous\nsouhaitiez me rencontrer réellement.
+MID_CERISE_STRONGEST: Oh, $Nu...\n$GCher,Chère| $Nu...$k$pOui, c'est bien moi, Gunnthrá. Après\nnous être $Gvus,vues| en rêve, nous voici\nenfin $Gréunis,réunies|.$k$pLe rituel que j'ai utilisé pour vous\nparler ne me permet pas de\ncommuniquer avec n'importe qui.$k$pAprès avoir établi un lien avec une\npersonne, je ne peux parler qu'avec\nelle pour le restant de mes jours...$k$pEt pour arriver à cela, je dois\nm'abandonner totalement à\ncette personne.$k$pJe vois que vous comprenez\noù je veux en venir,\n$Nu.$k$pLa première fois que nous nous\nsommes parlé, je ne savais\npresque rien de vous...$k$pMalgré cela, je vous ai accordé\nmon dévouement total sans la\nmoindre hésitation.$k$pOh, ne vous inquiétez pas. Il ne me\nviendrait pas à l'esprit de vous\ntenir responsable de tout cela !$k$pSi je peux faire quoi que ce soit pour\nvous aider, dites-le-moi. Je serai\nheureuse de vous rendre service.
+MID_CERISE_VOICE01: それっ
+MID_CERISE_VOICE02: だめです
+MID_CERISE_VOICE03: きゃああっ！
+MID_CERISE_VOICE04: だめ、です…
+MID_CERISE_VOICE05: Ne bougez pas.
+MID_CERISE_VOICE06: Pardonnez-moi.
+MID_CERISE_VOICE07: Cessez vos méfaits.
+MID_CERISE_VOICE08: Quelle situation effroyable.
+MID_CERISE_VOICE09: Fjorm... je suis désolée.
+MID_CERISE_VOICE10: ふふ…
+MID_CERISE_VOICE11: I am Gunnthrá... The eldest princess of Nifl.
+MID_CERISE_VOICE12: Oh, my! I wasn't expecting you to just...
+MID_CERISE_VOICE13: You saved my dear sister. For that, you have my thanks.
+MID_CERISE_VOICE14: You're a gentle soul, and your hands are so warm.
+MID_CERISE_VOICE15: You must be exhausted. Why don't we take a rest?
+MID_CERISE_VOICE16: I wish that all of my siblings could live happily together. If only...
+MID_CERISE_VOICE17: I want to do whatever I can to help you. Just tell me what you need, and I'll be there.
+MID_CERISE_VOICE18: Of course.
+MID_CERISE_VOICE19: What can I do?
+MID_CERISE_VOICE20: Goodness!

@@ -1,0 +1,38 @@
+[Heroes Archive] (LYON)
+
+
+Heroes Message Name: Message
+
+
+MID_LYON_HOME1: Ephraim è forte e ha un aspetto\ngalante. Però, per quanto riguarda\ni suoi studi...$k$pCerto, contava sul mio aiuto, e io\nero felice di dargli una mano.
+MID_LYON_HOME2: Il mio regno, Graze, può essere\nun luogo violento e inospitale,\nma io lo amo lo stesso.
+MID_LYON_HOME3: Ti impegni così tanto in tutto, ma\nvolevo dirti che, se vuoi, va bene\nlasciarsi andare alle lacrime.$k$pNessuno qui, oltre te, conosce tutto\nquello che hai passato.
+MID_LYON_HOME4: Con una spada sono completamente\ninutile. Erika mi disarma in un attimo...\nÈ davvero imbarazzante.
+MID_LYON_HOME5: Un attimo fa sono inciampato. Mi fa\nancora male la gamba, ma non mi\nha per niente rovinato la giornata.$k$pÈ assurdo. Essere vivi è fantastico,\nnon trovi?
+MID_LYON_FRIEND: Sono Lyon. Sono felice di fare\nla tua conoscenza,\n$Nu.$k$pChe la mia visita possa rafforzare\nla tua amicizia con\n$Nf.
+MID_LYON_LEVEL1: Qualcosa sorge dentro di me.\nCon questo, posso aiutarti...
+MID_LYON_LEVEL2: Credo di essere migliorato un\npoco. Anzi, ne sono certo.
+MID_LYON_LEVEL3: Non posso rimanere per sempre\nsconfortato... Mi redimerò.
+MID_LYON_SKILL: Su nessun libro ho mai letto di\npoteri simili. Sono grato di questa\npotenza... e... un po' spaventato.
+MID_LYON_JOIN: Felice di conoscerti. Sono Lyon,\nprincipe di Graze. Spero che\npotremo fare amicizia.
+MID_LYON_STRONGEST: Per dirti la verità... Ho perduto alcuni\ndei ricordi della mia vita prima di\narrivare su questo mondo.$k$pÈ tutto indistinto, è come se una\nnebbia fosse scesa sulla mia\nmemoria. Non ricordo molto...$k$pPotrei aver fatto delle cose che\nrenderebbero i miei cari molto,\nmolto tristi.$k$pOh, $Nu...$k$pSei troppo gentile. Non guardarmi\ncosì... Voglio sempre vederti\nsorridere, sempre...$k$pNel mio mondo avevo amici che si\npreoccupavano per me, proprio\ncome te... Dei cari amici.$k$pEphraim, Erika... Spero che, un\ngiorno, potremo ritrovarci e\nchiacchierare a lungo.
+MID_LYON_VOICE01: はっ！
+MID_LYON_VOICE02: いくよ…
+MID_LYON_VOICE03: うああっ！
+MID_LYON_VOICE04: いけない…
+MID_LYON_VOICE05: Io sono il Re Demone.
+MID_LYON_VOICE06: Nessuno mi fermerà.
+MID_LYON_VOICE07: Fatti sotto.
+MID_LYON_VOICE08: Non ho più un cuore.
+MID_LYON_VOICE09: Ephraim... Eirika...
+MID_LYON_VOICE10: あはは
+MID_LYON_VOICE11: Death was coming for us all. I just wanted to save everyone.
+MID_LYON_VOICE12: Do not attempt to startle me.
+MID_LYON_VOICE13: Ephraim is strong. I have always admired him...
+MID_LYON_VOICE14: Eirika is so kind. Even to someone like me...
+MID_LYON_VOICE15: The weight of the crown...is immense.
+MID_LYON_VOICE16: Where... Where did I go wrong?
+MID_LYON_VOICE17: I have no right to be alive... But I shall remain here for as long as you wish.
+MID_LYON_VOICE18: Yes?
+MID_LYON_VOICE19: What's next?
+MID_LYON_VOICE20: You lead, I follow.

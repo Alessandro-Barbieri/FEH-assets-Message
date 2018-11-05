@@ -1,0 +1,38 @@
+[Heroes Archive] (SHEEDA)
+
+
+Heroes Message Name: Message
+
+
+MID_SHEEDA_HOME1: Ah, good day to you! Perchance,\nhave you seen Prince Marth\nanywhere?
+MID_SHEEDA_HOME2: Though I am a princess, my home,\nTalys, is but an island kingdom.\nSo my standing isn't all that grand.
+MID_SHEEDA_HOME3: You always seem so busy—please\nlet me know if there's any way I\ncan be of assistance.
+MID_SHEEDA_HOME4: We may have so many enemies\ntoday, but I'm sure that given half a\nchance? They'll become allies.
+MID_SHEEDA_HOME5: I've just finished making a stew.\nWould you like to try some while\nit's hot?
+MID_SHEEDA_FRIEND: Do you know who speaks very well\nof you—and bid me to greet you?\nIt was $Nf!
+MID_SHEEDA_LEVEL1: I can feel myself growing\nstronger!
+MID_SHEEDA_LEVEL2: Ah! I can now be of greater\nassistance.
+MID_SHEEDA_LEVEL3: I'm sorry. It seems I'm not\nperforming well today...
+MID_SHEEDA_SKILL: I will use this new power to help\neveryone.
+MID_SHEEDA_JOIN: I am Princess Caeda of Talys.\nI'm also a pegasus knight, though\nperhaps an unconventional one.
+MID_SHEEDA_STRONGEST: Your strength has always impressed\nme. I've always felt weak, needing\nprotection from others.$k$pI was envious of your strength,\nbut I think I've got it figured out\nnow...$k$pYour strength comes from your\nbelief in your allies. My "weakness"\ncould be your strength.$k$pI would like to stay with you longer\nand learn more from you and your\nstrength, if that's OK.$k$pHeehee! I appreciate it. I look\nforward to observing you right\nup close...
+MID_SHEEDA_VOICE01: はいっ！
+MID_SHEEDA_VOICE02: えいっ！
+MID_SHEEDA_VOICE03: きゃああっ！
+MID_SHEEDA_VOICE04: I won't...lose...
+MID_SHEEDA_VOICE05: Throw down your weapon!
+MID_SHEEDA_VOICE06: Please, clear the way!
+MID_SHEEDA_VOICE07: I'll do my part!
+MID_SHEEDA_VOICE08: I don't want to hurt you!
+MID_SHEEDA_VOICE09: Too weak...
+MID_SHEEDA_VOICE10: Heehee
+MID_SHEEDA_VOICE11: What's the matter? Can I help?
+MID_SHEEDA_VOICE12: Ahh! Don't startle me like that!
+MID_SHEEDA_VOICE13: You seem to be a very kindhearted person.
+MID_SHEEDA_VOICE14: Tell me—do you believe in love?
+MID_SHEEDA_VOICE15: I'm so glad we have a chance to talk! It's always a pleasure.
+MID_SHEEDA_VOICE16: Would you consider me a "tomboy"?
+MID_SHEEDA_VOICE17: Let us fight side by side forever.
+MID_SHEEDA_VOICE18: Certainly.
+MID_SHEEDA_VOICE19: What next?
+MID_SHEEDA_VOICE20: Let's go.

@@ -1,0 +1,38 @@
+[Heroes Archive] (NABARL)
+
+
+Heroes Message Name: Message
+
+
+MID_NABARL_HOME1: Alors c'est ici que se réunissent les\nmeilleurs guerriers de chaque\nmonde ?
+MID_NABARL_HOME2: ... Ne me dérangez pas.
+MID_NABARL_HOME3: Ne perdez pas votre temps à\ndiscuter. Concentrez-vous sur\nles combats à venir.
+MID_NABARL_HOME4: Avez-vous besoin de quelque\nchose ? Alors je m'en vais.
+MID_NABARL_HOME5: Les gens qui résident dans\nce château sont étranges...\nOui, vous aussi.
+MID_NABARL_FRIEND: $Nf\nvous salue.
+MID_NABARL_LEVEL1: Pas mal.
+MID_NABARL_LEVEL2: Ça ira.
+MID_NABARL_LEVEL3: ...
+MID_NABARL_SKILL: Je ne fais que combattre. Je n'ai pas\nbesoin de reconnaissance.
+MID_NABARL_JOIN: Appellez-moi Nabarl. Je suis\nun mercenaire, pour qui sait y\nmettre le prix.
+MID_NABARL_STRONGEST: J'ai pour habitude de faire\ncavalier seul.$k$pCela dit... L'idée de continuer à\ncombattre à vos côtés ne m'est\npas entièrement détestable.$k$pNon. Oubliez ce que je viens de dire.$k$pJe n'arrive pas à le croire...\nVous m'avez rendu sentimental.
+MID_NABARL_VOICE01: はぁっ！
+MID_NABARL_VOICE02: せいっ！
+MID_NABARL_VOICE03: うああっ！
+MID_NABARL_VOICE04: Che...
+MID_NABARL_VOICE05: Ton heure a sonné.
+MID_NABARL_VOICE06: Tu penses faire le poids ?
+MID_NABARL_VOICE07: C'est toi ou moi.
+MID_NABARL_VOICE08: Navré.
+MID_NABARL_VOICE09: This is it.
+MID_NABARL_VOICE10: ...sigh
+MID_NABARL_VOICE11: What?
+MID_NABARL_VOICE12: I don't work cheap.
+MID_NABARL_VOICE13: I'm busy right now.
+MID_NABARL_VOICE14: I'll help, but I don't "chat."
+MID_NABARL_VOICE15: I have vowed never to turn a blade on a woman.
+MID_NABARL_VOICE16: I doubt there is anyone who can cross blades with me and live.
+MID_NABARL_VOICE17: Don't die out there.
+MID_NABARL_VOICE18: All right.
+MID_NABARL_VOICE19: Now what?
+MID_NABARL_VOICE20: Done.

@@ -1,0 +1,38 @@
+[Heroes Archive] (CELLICA)
+
+
+Heroes Message Name: Message
+
+
+MID_CELLICA_HOME1: 亞斯克王國真是個美麗的國度。\n可是，即使在這裡也有紛爭……\n真是令人悲傷啊。
+MID_CELLICA_HOME2: 我目前在修道院從事神官修行。\n在那之前曾待在拉姆村，更之前的話……\n則是住在王城裡。這件事要保密喔！
+MID_CELLICA_HOME3: 累了的話，隨時都可以跟我說喔！\n我幫你泡杯熱茶，\n我們一起休息吧。
+MID_CELLICA_HOME4: 我正要去向美拉大人獻上祈禱。\n你要不要也一起來呢？\n可以讓心靈平靜下來喔。
+MID_CELLICA_HOME5: 我正在想著童年玩伴的事情。\n我們倆總是失之交臂……\n這會不會也是命運呢？
+MID_CELLICA_FRIEND: 你就是$Nu嗎？\n$Nf派我來，\n說是有事情要轉告你。
+MID_CELLICA_LEVEL1: 我應該也能夠戰鬥……！
+MID_CELLICA_LEVEL2: 努力有成果了呢。
+MID_CELLICA_LEVEL3: 怎麼會……\n真讓人失望。
+MID_CELLICA_SKILL: 你給我的新力量……\n我一定會善加利用的。
+MID_CELLICA_JOIN: 我叫做賽莉卡，目前是位神官。\n雖然我不喜歡爭鬥……\n但已經做好心理準備了。
+MID_CELLICA_STRONGEST: $Nu……\n今天呢，我有些事情想跟你說。\n你願意聽我說嗎？$k$p雖然人們稱我為賽莉卡，\n但我還有另一個名字。\n我真正的名字是……安蒂潔。$k$p我一直保密不讓別人知道這個名字。\n要是讓索菲亞王國的人民知道了，\n想必又會引發無謂的爭鬥。$k$p不過，被你知道也沒關係喔。\n不……應該說，\n我希望能讓自己願意托付生命的你知道。$k$p就算將來我完成任務，回到原本的世界後，\n你也要記得我曾經來過喔。\n記住賽莉卡與安蒂潔這兩個名字……
+MID_CELLICA_VOICE01: 嘿呀！
+MID_CELLICA_VOICE02: 嘿！
+MID_CELLICA_VOICE03: 糟了……！
+MID_CELLICA_VOICE04: 什麼……！？
+MID_CELLICA_VOICE05: 結束了。
+MID_CELLICA_VOICE06: 對不起。
+MID_CELLICA_VOICE07: 我不能輸！
+MID_CELLICA_VOICE08: 請賜予我力量……！
+MID_CELLICA_VOICE09: 對……不起……
+MID_CELLICA_VOICE10: 哦呵呵！
+MID_CELLICA_VOICE11: 哎呀呀，怎麼啦？
+MID_CELLICA_VOICE12: 討厭，真是的……
+MID_CELLICA_VOICE13: 願美拉大人保佑你。
+MID_CELLICA_VOICE14: 身為索菲亞的公主，我想克盡職責。
+MID_CELLICA_VOICE15: 你有非常珍惜的人嗎？
+MID_CELLICA_VOICE16: 不知道阿雷武是否平安無事……
+MID_CELLICA_VOICE17: 只要跟你在一起，心裡就會暖洋洋的呢。
+MID_CELLICA_VOICE18: 嗯。
+MID_CELLICA_VOICE19: 嗯……
+MID_CELLICA_VOICE20: 我們走吧。

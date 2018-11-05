@@ -1,0 +1,38 @@
+[Heroes Archive] (CAMILLA_SPRING01)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_SPRING01_HOME1: Je n'arrive pas à quitter la princesse\nSharena des yeux. Cette jeune fille\nest aussi adorable qu'admirable.$k$pJ'adorerais la voir dans une tenue\nde festival du printemps !
+MID_CAMILLA_SPRING01_HOME2: Ma famille vit dans une région très\nsombre, alors à chaque printemps,\nnous décorons notre château.$k$pDes fleurs de toutes les couleurs,\ndes lapins de tout poil et des œufs\ncomme s'il en pleuvait !
+MID_CAMILLA_SPRING01_HOME3: Vous savez, $Nu,\nquand j'ai besoin de calme, je pense\nau festival du printemps.$k$pSi la fatigue vous accable, vous\npouvez toujours reposer votre\ntête sur mes genoux.
+MID_CAMILLA_SPRING01_HOME4: Vous voulez essayer une tenue de\nfestival ? Ça vous irait très bien.\nOh oui, ça serait trop mignon !
+MID_CAMILLA_SPRING01_HOME5: J'adore me promener ici au\nprintemps. Toutes ces fleurs,\nc'est vraiment magnifique !
+MID_CAMILLA_SPRING01_FRIEND: Je vous apporte le printemps... même\nsi je suis jalouse de votre amitié avec\n$Nf.
+MID_CAMILLA_SPRING01_LEVEL1: Formidable ! Je pourrais bondir\nde joie !
+MID_CAMILLA_SPRING01_LEVEL2: Avec ou sans festival, je\nprogresse à grands pas !
+MID_CAMILLA_SPRING01_LEVEL3: Oh... Est-ce que cette tenue\nm'empêcherait de progresser ?
+MID_CAMILLA_SPRING01_SKILL: Comme c'est gentil ! Vous me\npréparez pour l'été ?
+MID_CAMILLA_SPRING01_JOIN: Je suis Camilla, princesse de Nohr.\nMa tenue pour le festival du printemps\nn'est pas trop serrée ?
+MID_CAMILLA_SPRING01_STRONGEST: Voulez-vous fêter le printemps\navec moi aujourd'hui,\n$Nu?$k$pVous voulez une paire d'oreilles\nde lapin ? Et si vous reposiez\nvotre tête sur mes genoux ?$k$pJe suis la reine de la détente.\nChez moi, on se prélasse dans\nle bain à longueur de journée...$k$pEnfin, c'est ce que je fais, en tout\ncas. Ah, n'apprécieriez-vous pas\nun bon bain bien chaud ?$k$pComment ? Rien à voir avec le\nfestival ? Eh bien, on ne peut pas\ndire que vous perdiez le nord.$k$pVous avez vu clair dans mon jeu.\nJ'espérais passer un moment au\ncalme avec vous.$k$pJ'adore me retirer du monde\navec ma famille, et je considère\nque vous en faites partie.$k$pJe vous protégerai comme\n$Gun frère,une sœur|, même si vous êtes\n$Gmon supérieur,ma supérieure|.$k$pEn tout cas, si vous avez besoin\nde repos, mes genoux sont\nà votre service.
+MID_CAMILLA_SPRING01_VOICE01: はっ！
+MID_CAMILLA_SPRING01_VOICE02: うふふ
+MID_CAMILLA_SPRING01_VOICE03: んもう！
+MID_CAMILLA_SPRING01_VOICE04: You're a rough one...
+MID_CAMILLA_SPRING01_VOICE05: Faites de beaux rêves.
+MID_CAMILLA_SPRING01_VOICE06: C'est la fête !
+MID_CAMILLA_SPRING01_VOICE07: Ne dépassez pas les bornes.
+MID_CAMILLA_SPRING01_VOICE08: Le printemps est là !
+MID_CAMILLA_SPRING01_VOICE09: Sprung...
+MID_CAMILLA_SPRING01_VOICE10: My...
+MID_CAMILLA_SPRING01_VOICE11: Shall we celebrate?
+MID_CAMILLA_SPRING01_VOICE12: During the spring festival, egg delicacies are my everything back home.
+MID_CAMILLA_SPRING01_VOICE13: What would a spring festival be without cute, wittle bunnies? Like me.
+MID_CAMILLA_SPRING01_VOICE14: I'm rarely found in anything like this. But it's a special occasion.
+MID_CAMILLA_SPRING01_VOICE15: I was painting eggs with my dear Corrin before coming to this realm.
+MID_CAMILLA_SPRING01_VOICE16: My brother Xander... He's probably hidden eggs at our castle.
+MID_CAMILLA_SPRING01_VOICE17: The arrival of spring always warms my heart. May we celebrate like this forever.
+MID_CAMILLA_SPRING01_VOICE18: Well...
+MID_CAMILLA_SPRING01_VOICE19: Beautiful!
+MID_CAMILLA_SPRING01_VOICE20: Spring has sprung.

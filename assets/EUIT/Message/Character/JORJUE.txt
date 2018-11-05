@@ -1,0 +1,38 @@
+[Heroes Archive] (JORJUE)
+
+
+Heroes Message Name: Message
+
+
+MID_JORJUE_HOME1: La bontà del tuo regno riaccende la\nmia fede nel genere umano stritolata\ndagli intrighi di corte.
+MID_JORJUE_HOME2: Le stupidaggini che si sentono sulle\nmie abilità sono diffuse da quanti\nvogliono dare lustro alla mia famiglia.
+MID_JORJUE_HOME3: Grazie, $Nu.\nLascia che ti ringrazi ancora per tutte\nle volte che accorri in mio aiuto.
+MID_JORJUE_HOME4: Discendo da una famiglia nobile. I suoi\nmembri non hanno abilità di sorta, se\nnon quella di tessere sporchi intrighi.
+MID_JORJUE_HOME5: È da un cuore forte, che non esita\ndinanzi agli ostacoli, che nasce la\npura motivazione. E il tuo di cuore?
+MID_JORJUE_FRIEND: Piacere di conoscerti. Giungo\nper portarti i saluti da parte di\n$Nf.
+MID_JORJUE_LEVEL1: Non l'avevo previsto! Un\nerrore di calcolo ben accetto.
+MID_JORJUE_LEVEL2: Mmmh. Sento che è una\nbuona cosa...
+MID_JORJUE_LEVEL3: Un evento... sfortunato.
+MID_JORJUE_SKILL: Devo soddisfare le tue alte\naspettative nei miei confronti!
+MID_JORJUE_JOIN: Sono Jeorge, tiratore scelto akaneo.\nNon sono sicuro di avere molto da\noffrirti, ma conta pure sul mio aiuto.
+MID_JORJUE_STRONGEST: Hai sentito parlare di me? Beh,\nin effetti non ho fatto nulla per\ntenere segreta la mia storia.$k$pVere o false che siano, le voci si\npropagano come fiamme. Non è\npossibile tenerle a bada.$k$pÈ una sensazione nuova poter parlare\nin modo onesto. Ognuno qui si fida\ndell'altro. È meraviglioso.$k$pMi fa molto piacere avere dei\ncompagni simili. Grazie per\navermi condotto qui.$k$pCredo che resterò da queste\nparti, se non ti dispiace.
+MID_JORJUE_VOICE01: はっ！
+MID_JORJUE_VOICE02: ふっ！
+MID_JORJUE_VOICE03: うああっ！
+MID_JORJUE_VOICE04: I misread you...
+MID_JORJUE_VOICE05: Non mancherò il bersaglio.
+MID_JORJUE_VOICE06: Sono desolato.
+MID_JORJUE_VOICE07: Non sentirai dolore.
+MID_JORJUE_VOICE08: Tutto secondo i miei calcoli...
+MID_JORJUE_VOICE09: Off...target.
+MID_JORJUE_VOICE10: Heh...
+MID_JORJUE_VOICE11: Curious about me? What would you like to know?
+MID_JORJUE_VOICE12: I wasn't expecting you to just walk up and start chatting with me.
+MID_JORJUE_VOICE13: The only thing noble about me is my much-vaunted lineage.
+MID_JORJUE_VOICE14: I am supposedly the best archer on the continent.
+MID_JORJUE_VOICE15: I can't seem to get a read on you.
+MID_JORJUE_VOICE16: Are you just being calculating? Or am I?
+MID_JORJUE_VOICE17: If I said I'd taken an interest in you...would you believe me?
+MID_JORJUE_VOICE18: All right.
+MID_JORJUE_VOICE19: What's next?
+MID_JORJUE_VOICE20: Of course.

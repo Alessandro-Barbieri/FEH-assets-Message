@@ -1,0 +1,38 @@
+[Heroes Archive] (ELFI)
+
+
+Heroes Message Name: Message
+
+
+MID_ELFI_HOME1: Wir müssen so viele Helden wie\nmöglich besiegen, um sie vom\nZwang zu kämpfen zu befreien.
+MID_ELFI_HOME2: Ich diene Milady Elise. Ich bin das\nBollwerk zwischen ihr und dem Feind.\nIch muss so stark sein wie ich kann.
+MID_ELFI_HOME3: Ihr arbeitet zu viel. Braucht Ihr eine\nstarke, helfende Hand? Felsen kann\nich mit bloßer Faust zertrümmern!
+MID_ELFI_HOME4: Um als Schutzwall zu dienen, muss\nich genug Masse haben. Wir sollten\nalso kein Festmahl auslassen!
+MID_ELFI_HOME5: Unter meiner Rüstung trage\nich Steine, die mich etwas\nherunterziehen.$k$pIst eine Art passives Krafttraining,\nversteht Ihr?
+MID_ELFI_FRIEND: In dieser Rüstung herumzulaufen,\nmacht ein Mädchen hungrig.$k$pIch schicke Euch aber Grüße\nvon $Nf.
+MID_ELFI_LEVEL1: Ich glaube, ich kann's\nmit jedem aufnehmen!
+MID_ELFI_LEVEL2: Striktes Training ist der\nSchlüssel zum Erfolg!
+MID_ELFI_LEVEL3: Morgen muss ich\nnoch mehr trainieren.
+MID_ELFI_SKILL: Vielen Dank! Jeder einzelne\nStein macht die Mauer besser.
+MID_ELFI_JOIN: Ich bin Effie. Ich diene in Nohr als\nRitter. Braucht Ihr Schutz?$k$pGegner, die Euch angreifen,\nwerde ich zerquetschen!
+MID_ELFI_STRONGEST: *kau* *schmatz* So lecker! Oh, hey,\n$Nu!\nHat Euch auch der Hunger erwischt?$k$pIhr bringt mir ein belegtes Brot?\nDanke! Das ist so nett, dass Ihr das\nselbst vorbeibringt und so!$k$pSeit ich hier angekommen bin, ess ich\nnoch mehr als sonst. Ich muss bereit\nsein, Milady Elise zu beschützen und...$k$pNun ja... auch Euch zu beschützen.$k$pIch muss viel essen und noch mehr\ntrainieren, damit ich Euer Schild sein\nkann, der Euch Sicherheit gibt.$k$pDanke noch mal für das Brot.\n*schmatz* *schluck* Das war\ngroßartig - belegt mit Güte.
+MID_ELFI_VOICE01: せいっ！
+MID_ELFI_VOICE02: でりゃあ！
+MID_ELFI_VOICE03: ううっ！
+MID_ELFI_VOICE04: I've been outdone?!
+MID_ELFI_VOICE05: Keine falsche Rücksicht!
+MID_ELFI_VOICE06: Zeit, Abschied zu nehmen!
+MID_ELFI_VOICE07: Aus dem Weg!
+MID_ELFI_VOICE08: Ich zerquetsch dich!
+MID_ELFI_VOICE09: My training...
+MID_ELFI_VOICE10: Heehee
+MID_ELFI_VOICE11: Takes a lot of bricks to make this wall. That means training, food, and lots of both.
+MID_ELFI_VOICE12: One, two, three—! Heh. Always training. Always counting.
+MID_ELFI_VOICE13: Fish or fowl? Either one's just fine. Long as I get a pile on my plate.
+MID_ELFI_VOICE14: Need any boulders moved? No problem for me.
+MID_ELFI_VOICE15: Quite a weapon you've got there. Afraid I'd break it if I touched it.
+MID_ELFI_VOICE16: Where's Lady Elise? She and I like to grab snacks when we can.
+MID_ELFI_VOICE17: You leave the heavy stuff to me. I'd lift a cow for you, friend.
+MID_ELFI_VOICE18: Hmm?
+MID_ELFI_VOICE19: Let's go.
+MID_ELFI_VOICE20: Who to crush?

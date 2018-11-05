@@ -1,0 +1,38 @@
+[Heroes Archive] (LEYVAN)
+
+
+Heroes Message Name: Message
+
+
+MID_LEYVAN_HOME1: Ya te dije que solo soy un mercenario,\nasí que perdona si no trato de hacer\namistad con la realeza.
+MID_LEYVAN_HOME2: Sé que la gente dice a mis espaldas\nque siempre estoy enojado. A ver\nsi tienen valor de decírmelo a la cara.
+MID_LEYVAN_HOME3: Reconozco que me gusta tu estilo:\nusas el cerebro y no el músculo para\ncombatir. Quizá pueda aprender de ti.
+MID_LEYVAN_HOME4: Tengo mis propios motivos para\nluchar. De ahí que me empeñe tanto\nen mejorar con armas diferentes.
+MID_LEYVAN_HOME5: Antes solo usaba la espada, pero\na medida que gano fuerza, parece\nque soy más hábil con el hacha.
+MID_LEYVAN_FRIEND: Vine solo para hablar con\n$Nu...\nDime, ¿eres tú?$k$pEstoy aquí para transmitirte un\nsaludo de parte de una de tus\namistades.
+MID_LEYVAN_LEVEL1: No se puede pedir mucho más.
+MID_LEYVAN_LEVEL2: No me quejo.
+MID_LEYVAN_LEVEL3: Esto es inaceptable.
+MID_LEYVAN_SKILL: Cuánto poder... Te lo agradezco.
+MID_LEYVAN_JOIN: Soy Raven, un simple mercenario.\nNo esperes mucho de mí.
+MID_LEYVAN_STRONGEST: Igual no te apetece perder el tiempo\nconmigo, pero hay algo que quiero\ncontarte, $Nu.$k$pYo... nací en el seno de una familia\nnoble que fue destruida sin piedad\npor sus enemigos.$k$pEsa es la razón por la que me\nconvertí en mercenario: sentía\nuna apremiante sed de venganza.$k$pDescubrí que el mejor modo de\nobtenerla era amasar poder, y\nme convertí en un adicto a él.$k$pSin embargo, conocerte me sirvió\npara cambiar por completo mi\nforma de entender la vida.$k$pDesconozco si lo que acabo de\ndecir tiene sentido, pero... quiero\nque sepas que lo daré todo por ti.
+MID_LEYVAN_VOICE01: はぁっ！
+MID_LEYVAN_VOICE02: ふっ！
+MID_LEYVAN_VOICE03: うああっ！
+MID_LEYVAN_VOICE04: That was unfortunate...
+MID_LEYVAN_VOICE05: Aplastaré a mis enemigos.
+MID_LEYVAN_VOICE06: Ahora me toca a mí.
+MID_LEYVAN_VOICE07: Silencio.
+MID_LEYVAN_VOICE08: Esto te calmará.
+MID_LEYVAN_VOICE09: Better than this...
+MID_LEYVAN_VOICE10: Heh
+MID_LEYVAN_VOICE11: I take it we're here to discuss something?
+MID_LEYVAN_VOICE12: Is this touching stuff some sort of amusement?
+MID_LEYVAN_VOICE13: Likes? Dislikes? Oh, I don't know. I like meat, I guess?
+MID_LEYVAN_VOICE14: People say I scowl. Hmph. What do they know?
+MID_LEYVAN_VOICE15: I'm not angry. This is just my face.
+MID_LEYVAN_VOICE16: Glad to fight for you. Long as it doesn't get in the way of...well, never mind.
+MID_LEYVAN_VOICE17: Need me? Just say so.
+MID_LEYVAN_VOICE18: Yes?
+MID_LEYVAN_VOICE19: Ready?
+MID_LEYVAN_VOICE20: Let's go.

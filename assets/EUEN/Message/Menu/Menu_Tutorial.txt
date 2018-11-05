@@ -1,0 +1,616 @@
+[Heroes Archive] (Menu_Tutorial)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_TITLE: Arena
+MID_ARENA_TITLE_REWARD: Check Rewards
+MID_ARENA_TITLE_HISTORY: Defense Results
+MID_ARENA_SEASON_DAYS: $aDays left in season: $a0
+MID_ARENA_SEASON_HOURS: $aHours left in season: $a0
+MID_ARENA_SEASON_MINUTES: $aMinutes left in season: $a0
+MID_ARENA_RANK: Tier
+MID_ARENA_BONUSCHRS_HEADLINE: This Season's Bonus Heroes
+MID_ARENA_BONUSCHRS_CAPTION: Put one on your team to raise your score!
+MID_ARENA_COMBO_CAPTION: $aYou've won $a0/7 in a row. Chain bonus: + $a1.
+MID_ARENA_NO_HISTORY: No records.
+MID_ARENA_BTN_BATTLE: Battle
+MID_ARENA_BTN_REWARD: Check Rewards
+MID_ARENA_BTN_HISTORY: Defense Results
+MID_ARENA_BTN_HELP: Help
+MID_ARENA_BTN_GIVEUP: Surrender
+MID_ARENA_BTN_CONFIRM: OK
+MID_ARENA_DEF_WIN: Successful defense!
+MID_ARENA_EASY: Beginner
+MID_ARENA_NORMAL: Intermediate
+MID_ARENA_HARD: Advanced
+MID_ARENA_SELECT_OPPONENT_HEADLINE: Select an opponent.
+MID_ARENA_RESULT_HEADLINE: Results for This Battle
+MID_ARENA_TOTAL_SCORE: Total Score
+MID_ARENA_THIS_SCORE: Current Score
+MID_ARENA_COMBO_SCORE: Chain Bonus
+MID_ARENA_RENEWAL_HISCORE: New high score!
+MID_ARENA_STOP_VICTORIES: Winning streak broken.
+MID_ARENA_REWARD_TYPE: Score Type
+MID_ARENA_SORT_RANK: Rank
+MID_ARENA_SORT_OFFENSE: Offense
+MID_ARENA_SORT_DEFENSE: Defense
+MID_ARENA_SORT_REWARDTYPE_RANK: Score Type: Rank
+MID_ARENA_SORT_REWARDTYPE_OFFENSE: Score Type: Offense
+MID_ARENA_SORT_REWARDTYPE_DEFENSE: Score Type: Defense
+MID_ARENA_GAINED_REWARDTYPE_RANK: $aArena: Rank Reward - #$a0
+MID_ARENA_GAINED_REWARDTYPE_OFFENSE: $aArena: Offense Reward\nScore: $a1
+MID_ARENA_GAINED_REWARDTYPE_DEFENSE: $aArena: Defense Reward\nScore: $a2
+MID_ARENA_RANK_OUT_OF_RANGE: unranked
+MID_ARENA_CLOSED: The arena is currently closed.
+MID_ARENA_DIALOG_REWARD_SORT: Select a filter.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Redeem one Dueling\nSword and proceed?
+MID_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: You cannot cancel after seeing\nyour potential opponents.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_YES: Proceed
+MID_ARENA_DIALOG_BATTLE_CONFIRM_NO: Quit
+MID_ARENA_DIALOG_GIVEUP_TEXT: Give up?
+MID_ARENA_DIALOG_GIVEUP_WARNING: If you give up without battling,\nit will not break your current\nwinning streak.
+MID_ARENA_DIALOG_GIVEUP_YES: Give Up
+MID_ARENA_DIALOG_GIVEUP_NO: Battle
+MID_ARENA_DIALOG_OPPONENT_DECIDE_TEXT: Battle this player?
+MID_ARENA_DIALOG_OPPONENT_DECIDE_YES: Battle
+MID_ARENA_DIALOG_OPPONENT_DECIDE_NO: Quit
+MID_ARENA_DIALOG_SEASON_LAST10_TEXT: The season will end soon.
+MID_ARENA_DIALOG_SEASON_LAST10_WARNING: The results will not be counted if the battle\nlasts past the end of the current season.
+MID_ARENA_DIALOG_SEASON_END_TEXT: Because the battle lasted past the\nend of the season, the results were\nnot counted.
+MID_ARENA_ROOT_SEASONEND_TEXT: The season has ended. You can't\nbattle at this time.
+MID_ARENA_ROOT_SEASONEND_WARNING: Please join the battles when\nthey start again next season!
+MID_ARENA_DIALOG_TASKKILLED_TEXT: The previous battle did\nnot end properly.
+MID_ARENA_DIALOG_TASKKILLED_WARNING: The winning streak and chain\nbonus will be reset.
+MID_ARENA_DIALOG_NO_CANDIDATE_TEXT: No opponents found.
+MID_ARENA_DIALOG_NO_CANDIDATE_WARNING: Please wait and try again later.
+MID_ARENA_REWARDS_GAINED_DIALOG: Arena rewards for the previous season\ncan be claimed by entering the Arena\nafter the results have been calculated\nfor the previous season and before\nthe current season ends.
+MID_ARENA_DIALOG_HELP_00: Battle rivals and earn rewards!
+MID_ARENA_DIALOG_HELP_01: Duel Rivals around the World:\nChoose from three rival armies to\nstart a challenge. Requires one\nDueling Sword to battle.
+MID_ARENA_DIALOG_HELP_02: How Scoring Works:\nIf you win, you'll earn points\nbased on the strength of your foe.\nDuring a winning streak, you'll get\na chain bonus. This bonus resets\nafter your seventh straight win.
+MID_ARENA_DIALOG_HELP_03: Your High Score:\nGo for a personal best each\nseason. This score resets\nat the end of this period.
+MID_ARENA_DIALOG_HELP_04: Rewards:\nAfter the season ends, you'll get\nrewards based on your high\nscore and ranking. If your score\nis high enough, your Arena tier\nmay go up.
+MID_ARENA_DIALOG_HELP_05: Character Bonus:\nYou can double your score each\nseason by using certain characters.
+MID_ARENA_DIALOG_HELP_2_00: Defense Results:\nWhen your team defends\nsuccessfully, you'll earn a defense\nbonus.
+MID_ARENA_DIALOG_HELP_2_01: Defense Rewards:\nThe season reward is based on\nyour highest score.
+MID_ARENA_DIALOG_HELP_2_02: Defense Team:\nYour team in the far-left slot will\nbe used as your defense team.
+MID_ARENA_DIALOG_HELP_3_00: Checking Rewards:\nYou can check the rewards that\nwill be given out for the current\nseason. Change the filter to see\nrewards given for your offense,\ndefense, and rank.
+MID_ARENA_DIALOG_HELP_3_01: Offense Rewards:\nThese rewards are based on the\nscore you've earned for attacks.\n\nDefense Rewards:\nThese rewards are based on the\nscore your team has earned\nfor defense.
+MID_ARENA_DIALOG_HELP_3_02: Rank Rewards:\nThese rewards are based on your\nArena ranking. The top 100,000\nscores are ranked and are\ncalculated at the start of every\nhour. Note that it may take some\ntime to reflect changes after the\ncalculations begin.
+MID_ARENA_DIALOG_HELP_3_03: Receiving Rewards:\nYou can receive Arena rewards\nyou earned in the previous season\nby entering the Arena after that\nseason's results have been\ncalculated but before the current\nseason ends.
+MID_ARENA_RANK01: 7th Platoon Trainee
+MID_ARENA_RANK02: Whitewing
+MID_ARENA_RANK03: Dragoon
+MID_ARENA_RANK04: Sable Knight
+MID_ARENA_RANK05: Lanceritter
+MID_ARENA_RANK06: Grünritter
+MID_ARENA_RANK07: Weissritter
+MID_ARENA_RANK08: Archer General
+MID_ARENA_RANK09: Mage General
+MID_ARENA_RANK10: Knight General
+MID_ARENA_RANK11: Great General
+MID_ARENA_RANK12: Wyvern General
+MID_ARENA_RANK13: Eight Generals
+MID_ARENA_RANK14: Imperial General
+MID_ARENA_RANK15: Four Riders
+MID_ARENA_RANK16: Holy Guard
+MID_ARENA_RANK17: 12 Deadlords
+MID_ARENA_RANK18: Hoshidan Noble
+MID_ARENA_RANK19: Nohrian Noble
+MID_ARENA_RANK20: First Dragons
+MID_CONFIG_ON: On
+MID_CONFIG_OFF: Off
+MID_CONFIG_ANIME_BATTLE: Combat Animations
+MID_CONFIG_ANIME_SUPPORT: Support Animations
+MID_CONFIG_ANIME_PLAYER_TURN: Own Turn Only
+MID_CONFIG_OPERATION_COMMAND: Confirm Action
+MID_CONFIG_OPERATION_FIXED: Confirm Move
+MID_CONFIG_OPERATION_AUTO: Auto
+MID_CONFIG_OPERATION_TAP: Tap
+MID_CONFIG_AUTO_TURN_END: Smart End
+MID_CONFIG_UNIT_AUTO_LOCK: Auto-Favorite
+MID_CONFIG_MUTED: Silent Mode
+MID_CONFIG_BGM_VOLUME: BGM Volume
+MID_CONFIG_SE_VOLUME: SE Volume
+MID_CONFIG_VOICE_VOLUME: Voice Volume
+MID_CONFIG_MAP_BEGIN: Starting a Map
+MID_CONFIG_MAP_BEGIN_BATTLE: Go into Battle
+MID_CONFIG_MAP_BEGIN_SORTIE: Swap Spaces
+MID_CONFIG_DOUBLE_TAP_FIXED: Double Tap to Wait
+MID_CONFIG_TALK_WAIT_FOR_AUTO_MODE: Auto-Battle Text
+MID_CONFIG_TALK_WAIT_TAP: Tap to Advance
+MID_CONFIG_TALK_WAIT_AUTO: Auto-Advance
+MID_CONFIG_AUTO_SHOW_DANGER: Show Danger Area
+MID_CONFIG_AUTO_MODE_CONTINUATION: Continuous Auto
+MID_CONFIG_AUTO_SKIP: Map: No Animation
+MID_CONFIG_AUTO_SKIP_ENEMY_TURN: Enemy Turn Only
+MID_CONFIG_AUTO_SKIP_FOR_AUTO_MODE: Auto: No Animation
+MID_CONFIG_AUTO_BUTTON: Auto-Battle Button
+MID_CONFIG_AUTO_BUTTON_MENU: In Menu
+MID_CONFIG_AUTO_BUTTON_FOOTER: In Button Bar
+MID_CONFIG_AUTO_BUTTON_ALL: All Locations
+MID_CONFIG_LEVEL_SORT: Sorting by Level
+MID_CONFIG_LEVEL_SORT_DEFAULT: Default
+MID_CONFIG_LEVEL_SORT_IGNORE_LIMIT_BREAK: Ignore Merges
+MID_CONFIG_SEQUENTIAL_MAP_RECOMMENDATION_ENABLED: TT Difficulty Tip
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE: Foe/Ally Auto-\nBattle Movement
+MID_CONFIG_BATTLE_ENEMY_BGM: Enemy Music
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Simple
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Guided
+MID_CONFIG_BATTLE_BGM: Battle Music
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Special Music Only
+MID_TITLE_ASK_NAME: Enter a nickname.
+MID_TITLE_ASK_NAME_CAPTION: Enter a nickname.
+MID_TITLE_ASK_NAME_INFO: Names must be 12 characters or fewer.\nYou can change your name later. You\ncannot use some special symbols.
+MID_TITLE_USER_NAME_PLACE_HOLDER: Your Nickname
+MID_TITLE_USER_NAME_DEFAULT_NAME: Kiran
+MID_TITLE_USER_NAME_NG: Words that may be offensive to\nothers cannot be used.
+MID_EXTRA: Miscellaneous
+MID_EXTRA_SUBMENU: FAQ/Etc.
+MID_EXTRA_ITEMLIST: Inventory
+MID_EXTRA_ITEMLIST_INFO: A record of all your items.
+MID_EXTRA_ENVIRONMENT: Settings
+MID_EXTRA_ENVIRONMENT_INFO: Adjust various settings.
+MID_EXTRA_MOVIELIST: Movies
+MID_EXTRA_MOVIELIST_PLAY: Play
+MID_EXTRA_MOVIELIST_OPENING: Opening movie
+MID_EXTRA_MOVIELIST_SUMMON: $aSummoning $a0
+MID_EXTRA_ACHIVEMENT_ANDROID: Google Play Achievements
+MID_EXTRA_ACHIVEMENT_IOS: Game Center
+MID_EXTRA_HELP: FAQ
+MID_EXTRA_CUSTOMER: Customer Support
+MID_EXTRA_TERM: User Agreement
+MID_EXTRA_PRIVACY: Privacy Policy
+MID_EXTRA_ABOUT: About This App
+MID_EXTRA_CHANGE_LANGUAGE: Change Language
+MID_EXTRA_CHANGE_NAME: Change Nickname
+MID_EXTRA_PLAY_ANALYTICS: Sharing Usage Data
+MID_EXTRA_PLAY_ANALYTICS_TERMS: Fire Emblem Heroes collects data\nabout the use of the app in order to\nimprove our products and services,\nas well as customise offers and\nrecommendations in accordance\nwith the privacy policy.\n\nIf you wish to stop notifications\noutside of the app, please change\nthe settings on your device.
+MID_EXTRA_PLAY_ANALYTICS_ON: Share data
+MID_EXTRA_PLAY_ANALYTICS_OFF: Do not share data
+MID_EXTRA_PLAY_ANALYTICS_CONFIRM: Your Sharing Usage Data settings\nhave been changed. Settings will\ngo into effect after the app has\nbeen restarted.
+MID_PRESENT_LIST_TITLE: Present List
+MID_PRESENT_LIST_RECEIVED: Received.
+MID_PRESENT_LIST_RECEIVE: All items have been\naccepted.
+MID_PRESENT_LIST_MAXIMUM: Present cannot be accepted\ndue to the item limit.
+MID_PRESENT_LIST_MAXIMUM_PART: Some presents could not be\naccepted due to the item limit.
+MID_PRESENT_LIST_ERROR_RECEIVE_PART: Due to an error, some presents\ncould not be retrieved.
+MID_PRESENT_LIST_CONFIRM_TO_RECEIVE_ALL: Accept all?
+MID_PRESENT_LIST_RECEIVE_BUTTON: Accept
+MID_PRESENT_LIST_RECEIVE_ALL_BUTTON: Accept All
+MID_PRESENT_LIST_MINUTE: $aMins. left: $a0
+MID_PRESENT_LIST_HOUR: $aHrs. left: $a0
+MID_PRESENT_LIST_DAY: $aDays left: $a0
+MID_FRIEND_LIST_MINUTE: $aLast played: $a0 min(s). ago
+MID_FRIEND_LIST_HOUR: $aLast played: $a0 hr(s). ago
+MID_FRIEND_LIST_DAY: $aLast played: $a0 day(s) ago
+MID_FRIEND_LIST_WEAK: $aLast played: $a0 week(s) ago
+MID_FRIEND_LIST_OLDEST_WEAK: Last played: Over 4 weeks ago
+MID_FRIEND_YOUR_ID: Your ID:
+MID_HOME_PAGE_PREV: Back
+MID_FRIEND_LIST_TITLE: Friend List
+MID_FRIEND_ACCEPT: Accept
+MID_FRIEND_ALL_ACCEPT: Accept All
+MID_FRIEND_DIALOG_ACCEPT: Accept this friend request?
+MID_FRIEND_DIALOG_ALL_ACCEPT: Accept all friend requests?
+MID_FRIEND_ACCEPTED: Accepted.
+MID_FRIEND_REFUSE: Reject
+MID_FRIEND_ALL_REFUSE: Reject All
+MID_FRIEND_DIALOG_REFUSE: Reject the friend request?
+MID_FRIEND_DIALOG_ALL_REFUSE: Reject all friend requests?
+MID_FRIEND_REFUSED: Rejected.
+MID_FRIEND_DELETE: Delete Friend
+MID_FRIEND_DELETED: Friend deleted.
+MID_FRIEND_DELETE_CHECK: Delete this friend?
+MID_FRIEND_HELLO: Greet
+MID_FRIEND_DELETE_REQUEST: Delete Request
+MID_FRIEND_ALL_DELETE_REQUEST: Delete All Requests
+MID_FRIEND_DIALOG_DELETE_REQUEST: Delete this friend request?
+MID_FRIEND_DIALOG_ALL_DELETE_REQUEST: Delete all friend requests?
+MID_FRIEND_DELETED_REQUEST: Deleted.
+MID_FRIEND_REQUEST: Send Friend Request
+MID_FRIEND_SEARCH_USER_ID: Search via ID to send a friend request.
+MID_FRIEND_INPUT_SEARCH: Enter Friend's ID
+MID_FRIEND_LIST_SEARCH_CAPTION: Enter the ID to search for.
+MID_FRIEND_ALREADY_FRIEND: Already friends.
+MID_FRIEND_ALREADY_SENT_REQUEST: Already sent request.
+MID_FRIEND_SEND_REQUEST: Requested.
+MID_FRIEND_LIST_EMPTY: No friends found.
+MID_FRIEND_SEARCH_EMPTY: Enter the user's ID.
+MID_FRIEND_SEARCH_ERROR: The entered ID is not valid.
+MID_FRIEND_SEARCH_INVALID: The entered ID is not valid.\nPlease enter a 10-digit ID.
+MID_FRIEND_SEARCH_EQUAL_MY_ID: You cannot search for your own ID.
+MID_FRIEND_REQUEST_EMPTY: No requests found.
+MID_FRIEND_APPROVAL_EMPTY: No pending friend requests found.
+MID_PRESENT_ACTIVE_EMPTY: No unaccepted presents found.
+MID_PRESENT_RECEIVED_EMPTY: You have not accepted any presents\nwithin the past 14 days.
+MID_HOME_FRIEND_TALK_SEND: You sent greetings.
+MID_HOME_FRIEND_TALK_RECEIVE: $aGreetings received: $a0
+MID_HOME_FRIEND_TALK_RECEIVE_MAX: You received greetings from 5+ friends.
+MID_FRIEND_ERROR_SEND_REQUEST: The friend request could not be\nsent. The user may have the\nmaximum number of friends or\nyou sent a request previously.
+MID_FRIEND_ERROR_ACCEPT_REQUEST: You have reached the maximum\nnumber of friends, so you cannot\naccept this friend request.
+MID_FRIEND_ERROR_REFUSE_REQUEST: This request was already rejected.
+MID_FRIEND_ERROR_DELETE: This user is already off the Friend List.
+MID_FRIEND_ERROR_DELETE_REQUEST: The request has already been\naccepted or rejected.
+MID_FRIEND_ERROR_OPERATE: An error has occurred.
+MID_FRIEND_REQUEST_DIALOG: Would you like to send a\nfriend request to this player?
+MID_FRIEND_REQUEST_DIALOG_DECIDE: Send
+MID_FRIEND_REQUEST_DIALOG_CANCEL: Don't send
+MID_INVENTORY_NONE: 
+MID_INVENTORY_MY_NINTENDO_GIFT: My Nintendo Reward
+MID_ITEM_ORB: Orb
+MID_ITEM_HELP_ORB: Used for summoning and\nvarious other features.
+MID_ITEM_FEATHER: Hero Feather
+MID_ITEM_HELP_FEATHER: Used to unlock potential in allies.
+MID_ITEM_STAMINA: Stamina Potion
+MID_ITEM_HELP_STAMINA: Grants stamina +50.
+MID_ITEM_ARENA: Dueling Crest
+MID_ITEM_HELP_ARENA: Restores all Dueling Swords.
+MID_ITEM_VOTE: Battle Flag
+MID_ITEM_HELP_VOTE: Used to participate in Voting Gauntlets.
+MID_ITEM_RESURRECTION: Light's Blessing
+MID_ITEM_HELP_RESURRECTION: Used during battle. Restores all allies'\nHP, movement, and use of Specials.
+MID_ITEM_EXP_RED1: Scarlet Shard
+MID_ITEM_HELP_EXP_RED1: Used for leveling up. Can be used on\nred-type allies up to level 19.
+MID_ITEM_EXP_RED2: Scarlet Crystal
+MID_ITEM_HELP_EXP_RED2: Used for leveling up. Can be used on\nred-type allies level 20 and higher.
+MID_ITEM_EXP_BLUE1: Azure Shard
+MID_ITEM_HELP_EXP_BLUE1: Used for leveling up. Can be used on\nblue-type allies up to level 19.
+MID_ITEM_EXP_BLUE2: Azure Crystal
+MID_ITEM_HELP_EXP_BLUE2: Used for leveling up. Can be used on\nblue-type allies level 20 and higher.
+MID_ITEM_EXP_GREEN1: Verdant Shard
+MID_ITEM_HELP_EXP_GREEN1: Used for leveling up. Can be used on\ngreen-type allies up to level 19.
+MID_ITEM_EXP_GREEN2: Verdant Crystal
+MID_ITEM_HELP_EXP_GREEN2: Used for leveling up. Can be used on\ngreen-type allies level 20 and higher.
+MID_ITEM_EXP_NEUTRAL1: Transparent Shard
+MID_ITEM_HELP_EXP_NEUTRAL1: Used for leveling up. Can be used on\ncolorless allies up to level 19.
+MID_ITEM_EXP_NEUTRAL2: Transparent Crystal
+MID_ITEM_HELP_EXP_NEUTRAL2: Used for leveling up. Can be used on\ncolorless allies level 20 and higher.
+MID_ITEM_EXP_ALL1: Universal Shard
+MID_ITEM_HELP_EXP_ALL1: Used for leveling up. Can be used\non any ally up to level 19.
+MID_ITEM_EXP_ALL2: Universal Crystal
+MID_ITEM_HELP_EXP_ALL2: Used for leveling up. Can be used on\nany ally level 20 or higher.
+MID_ITEM_PROMOTION_RED1: Scarlet Badge
+MID_ITEM_HELP_PROMOTION_RED1: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower red-type ally.
+MID_ITEM_PROMOTION_RED2: Great Scarlet Badge
+MID_ITEM_HELP_PROMOTION_RED2: Used to unlock potential in allies.\nIncrease ★ for a 4★ red-type ally.
+MID_ITEM_PROMOTION_BLUE1: Azure Badge
+MID_ITEM_HELP_PROMOTION_BLUE1: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower blue-type ally.
+MID_ITEM_PROMOTION_BLUE2: Great Azure Badge
+MID_ITEM_HELP_PROMOTION_BLUE2: Used to unlock potential in allies.\nIncrease ★ for a 4★ blue-type ally.
+MID_ITEM_PROMOTION_GREEN1: Verdant Badge
+MID_ITEM_HELP_PROMOTION_GREEN1: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower green-type ally.
+MID_ITEM_PROMOTION_GREEN2: Great Verdant Badge
+MID_ITEM_HELP_PROMOTION_GREEN2: Used to unlock potential in allies.\nIncrease ★ for a 4★ green-type ally.
+MID_ITEM_PROMOTION_NEUTRAL1: Transparent Badge
+MID_ITEM_HELP_PROMOTION_NEUTRAL1: Used to unlock potential in allies.\nIncrease ★ for a 3★ or lower colorless ally.
+MID_ITEM_PROMOTION_NEUTRAL2: Great Transparent Badge
+MID_ITEM_HELP_PROMOTION_NEUTRAL2: Used to unlock potential in allies.\nIncrease ★ for a 4★ colorless ally.
+MID_ITEM_GAIN_QUANTITY: $aYou got $a0 x $a1.
+MID_ITEM_GAIN_UNIT: $aYou got $a0!
+MID_ITEM_PRESENT_QUANTITY: $aSent to the Present List:\n$a0 x $a1
+MID_ITEM_PRESENT_UNIT: $aSent to the Present List:\n$a0
+MID_ITEM_DIRECT_GAIN_QUANTITY: $aYou got $a0 × $a1!\nThis reward has been added\nto your inventory.
+MID_ITEM_DIRECT_GAIN_UNIT: $aYou got $a0!\nThis reward has been added\nto the Allies menu.
+MID_LOAD_RESUME_CONFIRM: Bookmark data found.\nResume from this point?
+MID_LOAD_RESUME_DECIDE: Resume
+MID_LOAD_RESUME_CANCEL: Don't Resume
+MID_LOAD_DISCARD_CONFIRM: Delete bookmark data?
+MID_LOAD_DISCARD_DECIDE: Delete
+MID_LOAD_DEVICE_CONFIRM: Bookmark data may exist\non another device. Delete\nlocal bookmark data?
+MID_LOAD_DEVICE_DECIDE: Delete
+MID_LOAD_DEVICE_CANCEL: Don't Delete
+MID_LOAD_RESUME_OTHER_DEVICE: Please resume the game using\nthe device you last played on.
+MID_LOAD_DATA_NOT_FOUND_CONFIRM: Failed to obtain data.\nBookmark data will be deleted.
+MID_LOAD_FAILED_CONFIRM: Failed to resume game.
+MID_MAP_TURN: $aTurn $a0
+MID_MAP_TURN_WITH_LIMIT: $aTurn $a0/$a1
+MID_MAP_OBSTACLE: Obstacle
+MID_MAP_AUTO: Auto-Battle
+MID_MAP_AUTO_CONFIRM: Play automatically?
+MID_MAP_AUTO_DECIDE: Auto-Battle
+MID_MAP_TURN_END_CONFIRM: End your turn?
+MID_MAP_TURN_END_DECIDE: End turn
+MID_MAP_SURRENDER: Surrender
+MID_MAP_SURRENDER_CONFIRM: Surrender?
+MID_MAP_SURRENDER_WARNING: If you surrender, you will lose any\nexperience gained on this map.
+MID_MAP_SURRENDER_DECIDE: Surrender
+MID_MAP_CONTINUE_CONFIRM: Continue?
+MID_MAP_CONTINUE_WARNING: If you quit, you will lose any\nexperience gained on this map.
+MID_MAP_CONTINUE_DECIDE: Continue
+MID_MAP_CONTINUE_CANCEL: Give up
+MID_MAP_RESURRECTION: Light's Blessing
+MID_MAP_RESURRECTION_CONFIRM_ITEM: Use 1 Light's Blessing? This will:\n\n・Revive any fallen allies\n・Restore HP\n・Enable allies to move\n・Enable use of Specials
+MID_MAP_RESURRECTION_CONFIRM_ORB: Pay 1 Orb? This will:\n\n・Revive any fallen allies\n・Restore HP\n・Enable allies to move\n・Enable use of Specials
+MID_MAP_RESURRECTION_WARNING: Turns will not be restored.
+MID_MAP_RESURRECTION_DECIDE_ITEM: Proceed
+MID_MAP_RESURRECTION_DECIDE_ORB: Pay
+MID_MAP_RESURRECTION_CANCEL: Back
+MID_MAP_GAIN_SKILL_POINT: $aSP +$a0
+MID_MAP_GAIN_HEROISM_POINT: $a+$a0
+MID_MISSION: Quests & Missions
+MID_MISSION_NONE: There are no quests at this time.
+MID_MISSION_STRATUM: Difficulty
+MID_MISSION_STRATUM_NORMAL: Normal
+MID_MISSION_STRATUM_HARD: Hard
+MID_MISSION_STRATUM_LUNATIC: Lunatic
+MID_MISSION_PROGRESS: $aQuest Progress: $a0/$a1
+MID_MISSION_PROGRESS_ACHIEVED: Quest Cleared!
+MID_MISSION_PROGRESS_RECEIVED: Reward Claimed
+MID_MISSION_EXPERIENCE: New quests have been added!
+MID_MISSION_APPEAR_STRATUM: All quests have been completed.\nYou can still attempt quests on\na new difficulty level.
+MID_MISSION_PROGRESS_DIALOG_TITLE: Quest Progress
+MID_MISSION_PROGRESS_DIALOG_TITLE_ACHIEVED: Quest Cleared!
+MID_MISSION_PROGRESS_DIALOG_PROGRESS: $a$a0/$a2 → $a1/$a2
+MID_MISSION_PROGRESS_DIALOG_PROGRESS_HELP: $aComplete $a0 more time(s) for reward.
+MID_MISSION_PROGRESS_DIALOG_ACHIEVED_HELP: Claim your reward from\nthe mission list.
+MID_MOVIE_SKIP: Skip this movie?
+MID_MOVIE_SKIP_BUTTON: Skip
+MID_SHOP: Shop
+MID_SHOP_COMMON_CANCEL: Back
+MID_SHOP_ORB_BUY_TITLE: Purchase Orbs
+MID_SHOP_ORB_CAUTION1: Read the information at the bottom of the\nscreen and then select the option\nshowing the amount of Orbs you wish to\npurchase.
+MID_SHOP_ORB_CAUTION2: $aBe aware that Orbs purchased on\noperating systems other than $a0 are\nnot compatible with and cannot be used\non $a0 devices.
+MID_SHOP_ORB_CAUTION_IOS: iOS
+MID_SHOP_ORB_CAUTION_ANDROID: Android
+MID_SHOP_ORB_CAUTION3: You can check the balance of purchased\nOrbs and Orbs received as a bonus on\nthe balance screen.
+MID_SHOP_ORB_BUY_ACTION: Pay
+MID_SHOP_ORB_BUY_BONUS:  Bonus
+MID_SHOP_ORB_CANT_BUY: This purchase would cause you\nto exceed the limit.
+MID_SHOP_ORB_NEED_BUY: You don't have enough Orbs\nfor this. Purchase more?
+MID_SHOP_ORB_RESULT_SUCCESS: $aYou purchased $a0 Orbs.
+MID_SHOP_ORB_RESULT_FAILURE: Orb purchase failed.
+MID_SHOP_ORB_RECOVER_TO_RETRY: The purchase process failed, so any\ninconsistencies must be deleted.
+MID_SHOP_ORB_RECOVER_TO_TITLE: Any inconsistencies were deleted.\nReturning to the title screen.
+MID_SHOP_ORB_RESULT_CANCEL: Purchase canceled.
+MID_SHOP_ORB_FSA: 資金決済法に基づく表記
+MID_SHOP_ORB_SCTA: 特定商取引法に基づく表記
+MID_SHOP_ELITE_TITLE: Upgrade Castle
+MID_SHOP_ELITE_CASTLE_LV0: Basic Castle
+MID_SHOP_ELITE_CASTLE_LV1: Torchlit Castle
+MID_SHOP_ELITE_CASTLE_LV2: Columned Castle
+MID_SHOP_ELITE_CASTLE_LV3: Carpeted Castle
+MID_SHOP_ELITE_CASTLE_LV4: Ornate Castle
+MID_SHOP_ELITE_CASTLE_LV5: Royal Castle
+MID_SHOP_CHANGE_WP: Change Design
+MID_SHOP_CHANGE_WP_TITLE: Select a castle design.
+MID_SHOP_CHANGE_WP_CHOSEN: Current
+MID_SHOP_ELITE_EFFECT: $aBoost EXP earned by $a0%.
+MID_SHOP_ELITE_HAVE_BOUGHT: Purchased
+MID_SHOP_ELITE_CONFIRM1: $aPay $a0 Orb(s) to\nbuild $a1?\n\nCastle upgrades grant a boost\nto any further EXP earned\npermanently.\n\nYou can also change the look\nof your castle to any of the\ndesigns you have owned.
+MID_SHOP_ELITE_CONFIRM2: $aEXP bonus will increase\nfrom $a0% to $a1%.
+MID_SHOP_ELITE_BUY: Pay
+MID_SHOP_ELITE_RESULT: $aYou paid $a0 Orbs to\nupgrade to $a1.
+MID_SHOP_RECOVER: Pay
+MID_SHOP_RECOVER_WITH_ITEM: Restore
+MID_SHOP_STAMINA_TITLE: Restore Stamina
+MID_SHOP_STAMINA_CONFIRM_ITEM: Use a Stamina Potion to\nrestore your stamina?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM: You don't have enough stamina.\nUse a Stamina Potion to\nrestore your stamina?
+MID_SHOP_STAMINA_CONFIRM_ORB: Pay 1 Orb to restore\nyour stamina?
+MID_SHOP_STAMINA_NOTENOUGH_ORB: You don't have enough stamina.\nPay 1 Orb to\nrestore your stamina?
+MID_SHOP_STAMINA_NOTNECESSARY: Your stamina is currently at max.
+MID_SHOP_STAMINA_RESULT_POTION: Used a Stamina Potion\nto restore your stamina.
+MID_SHOP_STAMINA_RESULT_ORB: You paid 1 Orb to\nrestore your stamina.
+MID_SHOP_ARENA_TITLE: Restore Dueling Swords
+MID_SHOP_ARENA_CONFIRM_ITEM: Use a Dueling Crest to\nrestore Dueling Swords?
+MID_SHOP_ARENA_NOTENOUGH_ITEM: You do not have any Dueling Swords.\nUse a Dueling Crest to restore them?
+MID_SHOP_ARENA_CONFIRM_ORB: Pay 1 Orb to\nrestore Dueling Swords?
+MID_SHOP_ARENA_NOTENOUGH_ORB: You do not have any Dueling Swords.\nPay 1 Orb to restore them?
+MID_SHOP_ARENA_NOTNECESSARY: You can only restore Dueling Swords\nwhen you have none remaining.
+MID_SHOP_ARENA_RESULT_POTION: Used a Dueling Crest to\nrestore Dueling Swords.
+MID_SHOP_ARENA_RESULT_ORB: You paid 1 Orb to\nrestore Dueling Swords.
+MID_SHOP_EXPAND_TITLE: Expand Barracks
+MID_SHOP_EXPAND_CONFIRM: Pay 1 Orb to increase\nthe number of allies\nyou can have?
+MID_SHOP_EXPAND_DECIDE: Pay
+MID_SHOP_EXPAND_CANT_UNIT: Barracks cannot be expanded further.
+MID_SHOP_EXPAND_RESULT: You paid one Orb to increase\nthe number of allies you can have.
+MID_SHOP_UNIT_FULL_INFOR: You have exceeded your maximum\nnumber of allies.
+MID_SHOP_UNIT_FULL_CAN_EXPAND: Please purchase a barracks expansion\nor reduce your allies.
+MID_SHOP_UNIT_FULL_NO_EXPAND: You must remove characters\nif you want to add new ones.
+MID_SHOP_UNIT_FULL_EXPAND: Purchase
+MID_SHOP_UNIT_FULL_MOVE: Go to Ally Menu
+MID_SHOP_LIMIT_TEENAGER: Under 20
+MID_SHOP_LIMIT_TEENAGER_TEXT: $aLimited to $a0 (purchased) per month
+MID_SHOP_LIMIT_ADULT: 20 and over
+MID_SHOP_LIMIT_ADULT_TEXT: No limits
+MID_SHOP_LIMIT_DESCRIPTION: The number of Orbs that you can\npurchase is limited based on age.\nPlease select your age.
+MID_SHOP_RECOVER_PURCHASE: Inconsistencies related to the\npurchase process were deleted.
+MID_STAGE_SELECT_SCENARIO: Story Maps
+MID_STAGE_SELECT_EVENT: Special Maps
+MID_STAGE_SELECT_ENCOUNT: Training Tower
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_00: Earn EXP! Get Shards and Badges!
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_01: Training Tower:\nThe Training Tower is a great\nplace for getting lots of EXP for\nyour allies.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_02: Training Tower Basics:\nEnemies and maps can change\neach time you battle. So before a\nbattle, check the enemy types and\nthen create an effective team.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_03: Training Tower Rewards:\nSome rewards let you level up\nallies. Others let you unlock\nally potential.\n\nThere are many specific kinds of\nrewards in those categories.\nThey change based on the day.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_04: Shards/Crystals on First Clear:\nYou'll get a Shard or a Crystal the\nfirst time you clear a stage each\nday. These items level up allies.\n\nYou can get Crystals only from\nthe Sixth Stratum and higher.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_05: Badge for Each Clear:\nEach time you clear a stage, you'll\nget a Badge or a Great Badge.\nThese items unlock an ally's\npotential (measured in ★).\n\nYou can get Great Badges only\nfrom the Sixth Stratum and higher.
+MID_STAGE_SELECT_ARENA: Arena Duels
+MID_STAGE_SELECT_VOTE: ???
+MID_STAGE_SELECT_DIFFICULTY0: Normal
+MID_STAGE_SELECT_DIFFICULTY1: Hard
+MID_STAGE_SELECT_DIFFICULTY2: Lunatic
+MID_STAGE_SELECT_DETAIL_DECREASE_EXP: You will earn less EXP and SP on this\nmap since you have already cleared it.
+MID_STAGE_SELECT_DETAIL_RULE: Victory
+MID_STAGE_SELECT_DETAIL_FIRST_REWARD: Reward for First Clear:
+MID_STAGE_SELECT_DETAIL_REWARD: Reward
+MID_STAGE_SELECT_DETAIL_DECIDE: Fight!
+MID_STAGE_SELECT_DETAIL_FAILED: Could not start battle.
+MID_STAGE_SELECT_DETAIL_INSUFFICIENT_UNIT: Not enough team members.
+MID_STAGE_SELECT_RULE_SURVIVAL: $aSurvivors: $a0
+MID_STAGE_SELECT_RULE_TURN: $aTurns to win: $a0
+MID_STAGE_SELECT_RULE_NO_CONTINUE: Cannot use Light's Blessing
+MID_STAGE_OPEN_NEW_CHAPTER_MAINSTORY: A new chapter has been added\nto the main story.
+MID_STAGE_OPEN_NEW_CHAPTER_SIDESTORY: A new chapter has been added\nto Paralogues.
+MID_STAGE_OPEN_NEW_DIFFICULTY: $aNew difficulty modes have\nbeen added to $a0.
+MID_STAGE_OPEN_OTHER_THAN_SCENARIO: Special Maps, the Dueling Arena,\nand more have been unlocked.
+MID_STAGE_OPEN_FIRST_ENCOUNT: The Training Tower has been unlocked.
+MID_STAGE_OPEN_NEW_ENCOUNT: A new stratum has been added to\nthe Training Tower.
+MID_STAGE_SELECT_BONUS_NOTIFICATION1: $aCurrently earning a $a0x EXP bonus!
+MID_STAGE_SELECT_BONUS_NOTIFICATION2: $aCurrently earning a $a0x SP bonus!
+MID_STAGE_SELECT_BONUS_NOTIFICATION3: $aCurrently earning a $a0x SP and EXP bonus!
+MID_STAGE_SELECT_SCENARIO_MAIN: Main Story
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO: Battle the Emblian Empire\nto bring peace to the\nWorld of Zenith!
+MID_STAGE_SELECT_SCENARIO_SUB: Paralogues
+MID_STAGE_SELECT_SCENARIO_SUB_INFO: Travel to other worlds and\nmeet Heroes you won't\nfind anywhere else!
+MID_SUMMON_TITLE: Summon Heroes
+MID_SUMMON_HELP_DIALOG_00: Summon Heroes to be your allies!
+MID_SUMMON_HELP_DIALOG_01: Stone color = Hero type
+MID_SUMMON_HELP_DIALOG_02: Save Orbs by summoning more!
+MID_SUMMON_HELP_BONUS: You'll save Orbs if you summon more\nthan one Hero from the same selection\nof stones. You'll save the most if you\nsummon five from the selection.
+MID_SUMMON_DECIDE: Summon
+MID_SUMMON_PAY: Pay
+MID_SUMMON_CANCEL: Stop
+MID_SUMMON_CANCEL_CONFIRM: Stop summoning?
+MID_SUMMON_CANCEL_WARNING: If you stop summoning, the stone colors\nand the Orb requirements will reset.
+MID_SUMMON_PROBABILITY: Appearance Rates
+MID_SUMMON_PROBABILITY_TEXT: These are the current appearance\nrates of Heroes by rarity.
+MID_SUMMON_PROBABILITY_NORMAL_3: 3★
+MID_SUMMON_PROBABILITY_NORMAL_4: 4★
+MID_SUMMON_PROBABILITY_NORMAL_5: 5★
+MID_SUMMON_PROBABILITY_PICKUP_4: 4★ Focus
+MID_SUMMON_PROBABILITY_PICKUP_5: 5★ Focus
+MID_SUMMON_PROBABILITY_PERCENT: %
+MID_SUMMON_DETAIL: Details
+MID_SUMMON_PURCHASE_CONFIRM: If you pay five Orbs, you\nwill summon a hero.
+MID_SUMMON_PURCHASE_CONFIRM_CONTINUE: $aDo you want to continue summoning? If\nyou pay $a0 Orbs you will get a hero.
+MID_SUMMON_FIRST_OPERATION: Select a stone. The colors\nindicate the Hero types.
+MID_SUMMON_FIRST_OPERATION_CONFIRM: Summon using this stone?
+MID_SUMMON_MOVE: Resume
+MID_SUMMON_MOVE_CONFIRM: The previous summoning session\nwas cut off. Now resuming.
+MID_SUMMON_RESULT: This session's summoning results.
+MID_SUMMON_CANCEL_CONTINUE: Continue Summoning
+MID_SUMMON_ERROR_LIST_FAILED: Failed to obtain list. Please check your\nInternet connection and try again.
+MID_SUMMON_ERROR_NO_LIST: Cannot summon at this time.
+MID_SUMMON_STONE_NEUTRAL: Colorless stone: Hero armed with a\ncolorless-type option (bow, staff, etc.)
+MID_SUMMON_STONE_RED: Red stone: Hero armed with a\nred-type option (sword, red tome, etc.)
+MID_SUMMON_STONE_BLUE: Blue stone: Hero armed with a\nblue-type option (lance, blue tome, etc.)
+MID_SUMMON_STONE_GREEN: Green stone: Hero armed with a\ngreen-type option (axe, green tome, etc.)
+MID_SUMMON_REVIEW: Thanks for playing the app.\nWould you like to leave a review?
+MID_SUMMON_REVIEW_YES: Yes
+MID_SUMMON_REVIEW_LATER_ON: Later
+MID_SUMMON_REVIEW_NO: No
+MID_SUMMON_REVIEW_CUSTOMER_SUPPORT: Customer Support
+MID_UNIT_EDIT_EMPTY: Empty
+MID_UNIT_EDIT_UNSET: Undo
+MID_UNIT_EDIT_BOX: Allies
+MID_UNIT_EDIT_SELECTING: Selected
+MID_UNIT_EDIT_GAIN: Gain
+MID_UNIT_EDIT_EXPEND: Use
+MID_UNIT_EDIT_SORT: Sort: 
+MID_UNIT_EDIT_SORT_CONFIRM: Select a sort order.
+MID_UNIT_EDIT_SORT_KEY: Obtained
+MID_UNIT_EDIT_SORT_PERSON: Origin
+MID_UNIT_EDIT_SORT_LOCK: Favorite
+MID_UNIT_EDIT_FILTER: Filter: 
+MID_UNIT_EDIT_FILTER_CONFIRM: Select a filter.
+MID_UNIT_EDIT_SKILL_HELP_OFF: Guide Off
+MID_UNIT_EDIT_SKILL_HELP_ON: Guide On
+MID_UNIT_EDIT: Allies
+MID_UNIT_EDIT_ORGANIZE: Edit Teams
+MID_UNIT_EDIT_SKILL_LEARN: Learn Skills
+MID_UNIT_EDIT_SKILL_LEARN_HELP1: Select the character who will learn this skill.
+MID_UNIT_EDIT_SKILL_LEARN_HELP2: Select a skill.
+MID_UNIT_EDIT_SKILL_LEARN_CONFIRM: Teach the following skill?
+MID_UNIT_EDIT_SKILL_LEARN_DECIDE: Teach
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CONFIRM: Equip this skill now?
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_DECIDE: Equip
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CANCEL: Don't Equip
+MID_UNIT_EDIT_SKILL_EQUIP: Equip Skills
+MID_UNIT_EDIT_SKILL_EQUIP_HELP1: Select the character to adjust.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP2: Select a skill to equip.
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM: $aUse $a0 stamina to change\nequipped skills?
+MID_UNIT_EDIT_SKILL_EQUIP_DECIDE: Change
+MID_UNIT_EDIT_SKILL_EQUIP_COMPLETE_CONFIRM: Change complete.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_CONFIRM: Discard skill changes?
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_WARNING: Any changes will not be applied.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_DECIDE: Discard
+MID_UNIT_EDIT_LEVEL_UP: Level Up
+MID_UNIT_EDIT_LEVEL_UP_HELP1: Select a character to level up.
+MID_UNIT_EDIT_LEVEL_UP_HELP2: Select how far to level up the character.
+MID_UNIT_EDIT_LEVEL_UP_CONFIRM: Increase character level?
+MID_UNIT_EDIT_PROMOTION: Unlock Potential
+MID_UNIT_EDIT_PROMOTION_HELP1: $aSelect a character level $a0 or higher.
+MID_UNIT_EDIT_PROMOTION_HELP2: $aLevel and stats will return to initial\nvalues for a $a0★ character.
+MID_UNIT_EDIT_PROMOTION_CONFIRM: Increase ★ rating?
+MID_UNIT_EDIT_PROMOTION_DECIDE: Increase
+MID_UNIT_EDIT_SELL: Send Home
+MID_UNIT_EDIT_SELL_HELP1: Select Heroes to send home.
+MID_UNIT_EDIT_SELL_HELP2: Return selected characters\nto obtain Hero Feathers.
+MID_UNIT_EDIT_SELL_CONFIRM: Send home?
+MID_UNIT_EDIT_SELL_WARNING: Characters that are sent home\nwill be removed from your roster.
+MID_UNIT_EDIT_SELL_DECIDE: Send Home
+MID_UNIT_EDIT_SELL_COMPLETE_CONFIRM: Selected character(s) sent home.
+MID_UNIT_EDIT_SENIOR: Advanced Growth
+MID_UNIT_EDIT_SKILL_STATUS_EQUIP: Equipped
+MID_UNIT_EDIT_SKILL_STATUS_LEARNED: Learned
+MID_UNIT_EDIT_SKILL_STATUS_INSUFFICIENT_PREREQUISITE:  
+MID_UNIT_EDIT_SKILL_STATUS_NON_INHERITABLE: Can't
+MID_UNIT_EDIT_SKILL_STATUS_UNLEARNED: Unlearned
+MID_UNIT_EDIT_SKILL_WARNING_WEAPON: This skill cannot be inherited due to\nweapon-type limitations.
+MID_UNIT_EDIT_SKILL_WARNING_MOVE: This skill cannot be inherited due to\nmovement-type limitations.
+MID_UNIT_EDIT_SKILL_WARNING_FIXED: This skill cannot be inherited because\nit's an exclusive skill.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN1: $aRequired: $a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN2: $aRequired: $a0 or\n$a1.
+MID_UNIT_EDIT_LIMITBREAK: Merge Allies
+MID_UNIT_EDIT_LIMITBREAK_DESTINATION: Enhance
+MID_UNIT_EDIT_LIMITBREAK_SOURCE: Lose
+MID_UNIT_EDIT_LIMITBREAK_HELP1: Merge same allies for SP and potentially stat boosts.
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LVSP: $aRaise stats of target ally and\ngive it $a0 SP?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LV: Raise stats of target ally?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_SP: $aGive target ally $a0 SP?
+MID_UNIT_EDIT_LIMITBREAK_WARNING: When merging two allies of the\nsame ★ rating, or if the source ally's\n★ rating is higher, the remaining ally\nwill get raised stats and gain SP.\nIf not, the remaining ally will\nonly gain SP.
+MID_UNIT_EDIT_LIMITBREAK_WARNING2: $aThe ally has already reached +$a0,\nso it can get SP but not stat boosts.
+MID_UNIT_EDIT_LIMITBREAK_WARNING3: $aInheriting SP will cause this ally to exceed\nthe SP limit, so $a0 SP will be lost.
+MID_UNIT_EDIT_LIMITBREAK_WARNING4: This ally has reached the SP\nlimit and cannot inherit SP.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LVSP: $aRaise stats of target ally and\ngive it $a0 SP?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LV: Raise stats of target ally?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_SP: $aGive target ally $a0 SP?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_WARNING: The source ally will disappear.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_LV: Enhance
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_SP: Inherit
+MID_UNIT_EDIT_LIMITBREAK_BEFORE: Before
+MID_UNIT_EDIT_LIMITBREAK_AFTER: After
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00: Create teams with allies!
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_01: Editing Teams:\nYou can edit the teams you send\nout to battle. The ally in the\nleftmost slot is the leader.
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_02: Adding Allies:\nTo add an ally to a team, tap a\nslot and then tap the ally.\n\nRemoving Allies:\nTo remove an ally from a team,\nselect the ally then tap Undo.
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_03: Switching Teams:\nTap the arrow on the left or right\nof the team slots to switch teams.\n\nAlly Profiles:\nHold down on an ally to view\nits profile.
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_00: Use SP to learn skills!
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_01: Learning Skills:\nAllies can learn new skills if you\nexpend their Skill Points (SP).\n\nEarning Skill Points:\nAllies earn SP when they defeat\nan enemy in battle and also\nwhen they level up.
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_02: Unlocking Potential:\nAllies can access more powerful\nskills to learn by using the\nUnlock Potential feature.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_00: Change your equipped skills!
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_01: Equipping Skills:\nYou can change the skills your\nallies have equipped for battle.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_02: Active and Passive Skills:\nSome skills are active skills,\nwhich means that they activate\nthrough your actions. Others\nare passive. These take effect\njust by equipping them.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_03: Types of Active Skills:\nThere are three types of active\nskills: Weapon, Assist, and\nSpecial. You can use these\nthrough your battle actions\nonce they're equipped.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_04: Types of Passive Skills:\nThere are three types of passive\nskills: Misc. A, Misc. B, and\nMisc. C. These skills take effect\nafter you equip them. You can\nequip one skill for each type.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_00: Use Shards and Crystals to level up!
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_01: Leveling Up with Items:\nYou can level up your allies by\nusing Shards and Crystals.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_02: Shard and Crystal Types:\nYou must use a type of Shard or\nCrystal that works with your\nally's type. Universal Shards\nand Universal Crystals can be\nused on allies of any type.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: Using Shards and Crystals:\nShards are needed to level allies\nthat are level 19 and lower.\nCrystals are needed for level 20\nand higher. You can get Crystals\nin the Training Tower's Sixth\nStratum and higher.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Convert Heroes into Hero Feathers!
+MID_UNIT_EDIT_SELL_HELP_DIALOG_01: Sending Allies Home:\nYou can get Hero Feathers in\nexchange for allies you send\nback to their worlds. You will\nlose these allies permanently.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_02: Favoriting Allies:\nIf you favorite an ally, you cannot\nsend the ally home or use it in\nany way that results in your\nlosing the ally permanently.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: How to Favorite an Ally:\nTo favorite an ally, tap on the\nheart mark in the upper left of\nits ally profile. Tap again to\nremove it.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Unlock potential to increase ★!
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: Unlocking Ally Potential:\nIf you raise an ally's ★ rating, you'll\nunlock more of its potential. The\nally must be level 20 or higher.\nYou'll need specific items.\n\nIts level will return to 1, but at a\nhigher ★ rating, it will have raised\nstats and access to stronger skills.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: 1★ to 3★ Allies:\nTo raise the ★ rating of these\nallies, you'll need Hero Feathers\n(which you can get in many ways,\nincluding from Arena battles)\nand Badges (which you can get\nin the Training Tower).
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_03: 4★ Allies:\nTo raise the ★ rating of these\nallies, you'll need Hero Feathers\nand Great Badges. You can get\nGreat Badges from the Sixth\nStratum or higher in the Training\nTower.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_04: Loss of Stats from Merging:\nPlease note that when you raise\nan ally's ★ rating, the ally's stat\nincreases from merging will\nbe lost.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_00: Merge allies for enhancements!
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_01: Merging Allies:\nYou can raise an ally's stats\nand gain SP by combining it\nwith an ally that has the same\nname and title. The source ally\nis lost in the process.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_02: Raising Stats:\nIf the allies have the same ★ rating\nor the source ally's ★ rating is\nhigher, the remaining ally will get\nraised stats and gain SP. If not, the\nremaining ally will only gain SP.\n\nIf the remaining ally's ★ rating is\nthen raised with Unlock Potential,\nthese raised stats will be lost.
+MID_NOT_EQQUIPPED: Cannot use:
+MID_EQQUIPPED_ONLY_PERSON: This skill can only be equipped by its original unit.
+MID_EQQUIPPED_ONLY_ROD: This skill can only be equipped by staff users.
+MID_UNIT_EDIT_FAVORITE_SET: Choose the mark you wish to use.
+MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorite $a0
+MID_UNIT_EDIT_FAVORITE_NONE: Remove
+MID_UNIT_EDIT_FAVORITE_FILTER: Allies with the favorite mark you\nselect will show up first. You can\nmark allies as favorites on their\nprofile screens.
+MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Clear
+MID_UNIT_INFO_EXP_MAX: MAX
+MID_UNIT_INFO_TO_TALK: Tap!
+MID_UNIT_INFO_NOW_TALK: Speaking
+MID_UNIT_INFO_EXP_REMAIN: Next:
+MID_UNIT_INFO_TO_SKILLLIST: Skill List
+MID_UNIT_INFO_TO_STATUS: Status
+MID_UNIT_INFO_LIMITBREAK: Merged

@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: 三人の英雄
+MID_MISSION_S201801CHARA01_A1: 敵を撃破
+MID_MISSION_H_S201801CHARA01_A1: 敵を撃破。
+MID_MISSION_S201801CHARA01_A2: ヒナタで撃破
+MID_MISSION_H_S201801CHARA01_A2: ヒナタで、敵を撃破。
+MID_MISSION_S201801CHARA01_A3: ウェンディで撃破
+MID_MISSION_H_S201801CHARA01_A3: ウェンディで、敵を撃破。
+MID_MISSION_S201801CHARA01_B1: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201801CHARA01_B1: ヒナタで、\nレベル２０以上の敵を撃破。
+MID_MISSION_S201801CHARA01_B2: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201801CHARA01_B2: ウェンディで、\nレベル２０以上の敵を撃破。
+MID_MISSION_S201801CHARA01_B3: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201801CHARA01_B3: サイゾウで、\nレベル２０以上の敵を撃破。
+MID_MISSION_S201801CHARA01_C1: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201801CHARA01_C1: ヒナタで、\nレベル３５以上の敵を撃破。
+MID_MISSION_S201801CHARA01_C2: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201801CHARA01_C2: ウェンディで、\nレベル３５以上の敵を撃破。
+MID_MISSION_S201801CHARA01_C3: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201801CHARA01_C3: サイゾウで、\nレベル３５以上の敵を撃破。
+MID_MISSION_S201801STORY02_TITLE: 灼熱の決断
+MID_MISSION_S201801STORY02_A1: 特殊：４章－１節ルナ突破
+MID_MISSION_H_S201801STORY02_A1: 斧の仲間を自軍に入れて、\n＜第２部＞４章－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY02_A2: 特殊：４章－２節ルナ突破
+MID_MISSION_H_S201801STORY02_A2: 剣の仲間を自軍に入れて、\n＜第２部＞４章－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY02_A3: 特殊：４章－３節ルナ突破
+MID_MISSION_H_S201801STORY02_A3: 槍の仲間を自軍に入れて、\n＜第２部＞４章－３節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY02_A4: 特殊：４章－４節ルナ突破
+MID_MISSION_H_S201801STORY02_A4: 斧の仲間を自軍に入れて、\n＜第２部＞４章－４節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY02_A5: 特殊：４章－５節ルナ突破
+MID_MISSION_H_S201801STORY02_A5: 剣の仲間を自軍に入れて、\n＜第２部＞４章－５節ルナティックを\n４人全員生存でクリア。
+MPID_エイリーク2: エイリーク
+MPID_ラーチェル: ラーチェル
+MPID_リオン: リオン
+MPID_マリカ: マリカ
+MPID_ミルラ: ミルラ
+MPID_HONOR_エイリーク2: 追憶の優王女
+MPID_HONOR_ラーチェル: 光の聖王女
+MPID_HONOR_リオン: 影の皇子
+MPID_HONOR_マリカ: 緋閃
+MPID_HONOR_ミルラ: 無垢なる竜人
+MPID_H_エイリーク2: ルネス王国王女。エフラムの双子の妹。リオンの友。\n幼い頃、エフラム、リオンと共に様々なことを学んだ。\n（登場：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_ラーチェル: ロストン聖教国の姫。ドズラとレナックを率いて\nマギ・ヴァル大陸各地の魔物を倒す旅に出ている。\n（登場：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_リオン: グラド帝国の皇子。\n争いを好まない性格。エフラム、エイリークと幼馴染。\n（登場：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_マリカ: ジスト率いる傭兵団の剣士。\n常に沈着冷静で、「緋閃」の異名で恐れられている。\n（登場：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_ミルラ: 竜人族の少女。外見よりも年齢はずっと上。\n人見知りだが、エフラムには不思議となついている。\n（登場：『ファイアーエムブレム　聖魔の光石』）
+MPID_VOICE_エイリーク2: 水橋かおり
+MPID_VOICE_ラーチェル: 生天目仁美
+MPID_VOICE_リオン: 中村悠一
+MPID_VOICE_マリカ: 中原麻衣
+MPID_VOICE_ミルラ: 門脇舞以
+MPID_ILLUST_エイリーク2: 麻谷知世
+MPID_ILLUST_ラーチェル: 紺藤ココン
+MPID_ILLUST_リオン: ミヤジマハル
+MPID_ILLUST_マリカ: 藤川祥
+MPID_ILLUST_ミルラ: アマガイタロー
+MID_SEQUENTIAL_MAP_TERM_201801_2: あなたを信じます
+MSID_グレイプニル: グレイプニル
+MSID_ナグルファル: ナグルファル
+MSID_イーヴァルディ: イーヴァルディ
+MSID_神炎のブレス: 神炎のブレス
+MSID_竜刃の鼓舞: 竜刃の鼓舞
+MSID_魔防の指揮1: 魔防の指揮１
+MSID_魔防の指揮2: 魔防の指揮２
+MSID_魔防の指揮3: 魔防の指揮３
+MSID_赤魔の経験1: 赤魔の経験１
+MSID_赤魔の経験2: 赤魔の経験２
+MSID_赤魔の経験3: 赤魔の経験３
+MSID_H_グレイプニル: 魔防＋３　敵のＨＰが１００％で戦闘開始時、\n戦闘中の自分の攻撃、速さ＋３
+MSID_H_ナグルファル: 無属性の敵と戦闘時、\n自分は３すくみ有利、敵は３すくみ不利となる
+MSID_H_イーヴァルディ: 守備＋３　敵のＨＰが１００％で戦闘開始時、\n戦闘中の自分の攻撃、速さ＋３
+MSID_H_神炎のブレス: 攻撃＋３\n敵より守備が５以上高い時、敵は追撃不可\n射程２の敵に、敵の守備か魔防の低い方でダメージ計算
+MSID_H_竜刃の鼓舞: ターン開始時、周囲１マスの味方竜の\n攻撃、速さ＋６（１ターン）
+MSID_H_魔防の指揮1: ターン開始時、周囲２マスの味方の魔防＋２（１ターン）\nただし、現在の部隊内で、\n同じ移動タイプが２体以下の味方のみが対象
+MSID_H_魔防の指揮2: ターン開始時、周囲２マスの味方の魔防＋４（１ターン）\nただし、現在の部隊内で、\n同じ移動タイプが２体以下の味方のみが対象
+MSID_H_魔防の指揮3: ターン開始時、周囲２マスの味方の魔防＋６（１ターン）\nただし、現在の部隊内で、\n同じ移動タイプが２体以下の味方のみが対象
+MSID_H_赤魔の経験1: 生存時、自身が武器種・赤魔なら入手経験値１．５倍\n（同系統スキル効果が複数の時は、累積せず最大値適用）
+MSID_H_赤魔の経験2: 生存時、自軍の武器種・赤魔は全員、入手経験値１．５倍\n（同系統スキル効果が複数の時は、累積せず最大値適用）
+MSID_H_赤魔の経験3: 生存時、自軍の武器種・赤魔は全員、入手経験値２倍\n（同系統スキル効果が複数の時は、累積せず最大値適用）
+MID_CHAPTER_TITLE_C0204: 第２部　４章
+MID_CHAPTER_C0204: 灼熱の決断
+MID_STAGE_TITLE_S2041: ４章－１節
+MID_STAGE_TITLE_S2042: ４章－２節
+MID_STAGE_TITLE_S2043: ４章－３節
+MID_STAGE_TITLE_S2044: ４章－４節
+MID_STAGE_TITLE_S2045: ４章－５節
+MID_STAGE_S2041: 守るべき人々のために
+MID_STAGE_S2042: 緋閃の女剣士
+MID_STAGE_S2043: 光と影の王女
+MID_STAGE_S2044: 幼き竜人
+MID_STAGE_S2045: 灼熱の決断
+MID_CHAPTER_ST_C0202: ３～４章
+MID_STAGE_TITLE_ST_S0203: ３章
+MID_STAGE_TITLE_ST_S0204: ４章
+MID_STAGE_TITLE_ST_S1204: ３～４章
+MID_STAGE_HONOR_T0024: 影の皇子
+MID_STAGE_T0024: リオン

@@ -1,0 +1,38 @@
+[Heroes Archive] (KAIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KAIN_HOME1: Faites-moi confiance, j'honorerai\nl'ordre des chevaliers d'Altea sur\nle champ de bataille !
+MID_KAIN_HOME2: Abel et moi formons un binôme\néquilibré. Son calme me permet\nde garder les pieds sur terre.
+MID_KAIN_HOME3: Vous vous assurez que tous les\nrésidents du château soient à\nleur aise ? C'est très honorable !
+MID_KAIN_HOME4: Nous devrions nous entraîner\nensemble, un jour. Peu le savent,\nmais j'ai formé des chevaliers.
+MID_KAIN_HOME5: HYA ! Excusez-moi, mais...\nHA ! Je suis en plein... HYA !\n... entraînement. HYAAA !!!
+MID_KAIN_FRIEND: Pourriez-vous m'indiquer où trouver\n$GMessire,Dame| $Nu ?$k$pJe dois lui transmettre\nles salutations de l'honorable\n$Nf.
+MID_KAIN_LEVEL1: Fantastique ! Continuons comme\ncela !
+MID_KAIN_LEVEL2: Pas mal... Mais je peux faire mieux !
+MID_KAIN_LEVEL3: Quelle honte... C'est indigne de moi.
+MID_KAIN_SKILL: Je vais leur montrer de quoi le\nTaureau est capable !
+MID_KAIN_JOIN: Je suis Caïn, chevalier d'Altea !\nOn dit que j'ai la force d'un taureau,\net ce n'est pas une exagération !
+MID_KAIN_STRONGEST: Messire Jagen me faisait souvent\nla morale parce que je fonce tête\nbaissée vers le danger.$k$pMais sous vos ordres, mon rôle\nau combat devient clair, et j'ai le\nsentiment d'être plus efficace.$k$pJ'ai compris l'importance de garder\nmon sang-froid même lorsque la\nsituation semble désespérée.$k$pMerci, $Nu.
+MID_KAIN_VOICE01: ふんっ！
+MID_KAIN_VOICE02: せぇいっ！
+MID_KAIN_VOICE03: うああっ！
+MID_KAIN_VOICE04: Damn it!
+MID_KAIN_VOICE05: Je vois rouge !
+MID_KAIN_VOICE06: Laissez-moi faire !
+MID_KAIN_VOICE07: Votre fin est proche !
+MID_KAIN_VOICE08: Je ne reculerai pas !
+MID_KAIN_VOICE09: Ugh...
+MID_KAIN_VOICE10: Hahaha
+MID_KAIN_VOICE11: Something wrong?
+MID_KAIN_VOICE12: Wha—?! Oh, it's you.
+MID_KAIN_VOICE13: Hey! Want to train?
+MID_KAIN_VOICE14: I must train harder. I WILL train harder!
+MID_KAIN_VOICE15: They used to call me the Bull. Ha! Cain the Bull!
+MID_KAIN_VOICE16: I give everything my all!
+MID_KAIN_VOICE17: Stay behind me in battle—I'll cut a path for you!
+MID_KAIN_VOICE18: Attack!
+MID_KAIN_VOICE19: Onward!
+MID_KAIN_VOICE20: On it!

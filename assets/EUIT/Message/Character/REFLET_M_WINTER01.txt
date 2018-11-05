@@ -1,0 +1,39 @@
+[Heroes Archive] (REFLET_M_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_WINTER01_HOME1: Ho chiesto alla comandante Anna\ncosa volesse per la festa d'inverno...\nMi ha risposto "soldi a palate".$k$pCredo che d'ora in poi lo domanderò\nsolo ai bambini, altrimenti perderei\nlo spirito delle feste.
+MID_REFLET_M_WINTER01_HOME2: Prima che mi evocassi, stavo\ncelebrando la festa d'inverno a\nYlisstol. L'intero regno è in visibilio.
+MID_REFLET_M_WINTER01_HOME3: Fa freddino anche oggi... Devo\ntrovare un piano per tenere tutti\nal caldo, o prenderemo il raffreddore.
+MID_REFLET_M_WINTER01_HOME4: Quali eroi sono stati buoni e quali\ncattivi? Sussurrami i loro nomi\nall'orecchio.$k$pConserverò questa informazione\nfino alla prossima festa d'inverno.
+MID_REFLET_M_WINTER01_HOME5: Mi stavo occupando del mio\nalbero. È faticoso mantenere intatti\ngli addobbi durante la battaglia.
+MID_REFLET_M_WINTER01_FRIEND: Buona festa d'inverno! Ti porto\ni saluti, ma non i regali, di\n$Nf.
+MID_REFLET_M_WINTER01_LEVEL1: Userò questo potere per rendere\nla festa d'inverno ancor più\nentusiasmante!
+MID_REFLET_M_WINTER01_LEVEL2: Pare che le mie calze fossero\npiene di potere distruttivo.
+MID_REFLET_M_WINTER01_LEVEL3: Così non ci siamo proprio! Come\nfaccio a godermi la festa\nd'inverno...
+MID_REFLET_M_WINTER01_SKILL: Se proprio vuoi farmi un regalo,\nfarò in modo che non vada\nsprecato!
+MID_REFLET_M_WINTER01_JOIN: Sono Daraen. Se cerchi qualcuno\nche pianifichi la festa d'inverno,\nl'hai trovato. Penso a tutto io.
+MID_REFLET_M_WINTER01_STRONGEST: Sto escogitando un piano. Quale?\nFarti passare la migliore\nfesta d'inverno della tua vita.$k$pPer prima cosa, ti serve un abito\nrosso come il mio.$k$pPoi dobbiamo decorare un albero e\npartecipare a un lauto banchetto. A\ntarda notte, consegneremo i regali...$k$pCome potrai immaginare, non è facile\nlasciare un dono sotto il cuscino di\nqualcuno senza svegliarlo.$k$pMa siamo entrambi degli strateghi,\nqualcosa ci verrà in mente.$k$pA dirla tutta, sarebbe meglio\npreparare subito qualche tattica.\nSarà come un consiglio di guerra!$k$pÈ da quando sono giunto qui che\nnon vedo l'ora che arrivi l'inverno.$k$pSe il mio desiderio si avvererà,\npasseremo insieme ogni festa\nd'inverno a venire!
+MID_REFLET_M_WINTER01_VOICE01: はいっ
+MID_REFLET_M_WINTER01_VOICE02: What about this?
+MID_REFLET_M_WINTER01_VOICE03: うわあ！？
+MID_REFLET_M_WINTER01_VOICE04: Wha?!
+MID_REFLET_M_WINTER01_VOICE05: Questo è per te!
+MID_REFLET_M_WINTER01_VOICE06: Punisco i cattivi!
+MID_REFLET_M_WINTER01_VOICE07: Che festività!
+MID_REFLET_M_WINTER01_VOICE08: Felice inverno!
+MID_REFLET_M_WINTER01_VOICE09: Party's over...
+MID_REFLET_M_WINTER01_VOICE10: Heehee
+MID_REFLET_M_WINTER01_VOICE11: It's really hot in this hat.
+MID_REFLET_M_WINTER01_VOICE12: You summoned me mid-party with Chrom and the others.
+MID_REFLET_M_WINTER01_VOICE13: I hope this outfit doesn't make me too much of a target on the battlefield.
+MID_REFLET_M_WINTER01_VOICE14: I've got a plan to give everyone presents. I'm going to place them while folks are sleeping!
+MID_REFLET_M_WINTER01_VOICE15: It's not the hat, it's the head that wears it, right?
+MID_REFLET_M_WINTER01_VOICE16: I can't find my favorite strategy book. Did I forget to bring it?
+MID_REFLET_M_WINTER01_VOICE17: I gather that when I wear this outfit, I'm supposed to ask you if you want a gift?
+MID_REFLET_M_WINTER01_VOICE18: OK.
+MID_REFLET_M_WINTER01_VOICE19: Got it.
+MID_REFLET_M_WINTER01_VOICE20: Yeah.
+MID_REFLET_M_WINTER01_VOICE21: Got any plans for the holidays?

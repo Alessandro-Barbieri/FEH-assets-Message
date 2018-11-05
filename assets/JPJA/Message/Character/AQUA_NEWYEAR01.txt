@@ -1,0 +1,38 @@
+[Heroes Archive] (AQUA_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_NEWYEAR01_HOME1: これは羽子板というの。白夜では、\nこれで羽根突きという遊びをするのよ。\n私…負けたことがないわ。
+MID_AQUA_NEWYEAR01_HOME2: 初詣に行くつもりだったのだけれど…\n着いた先が見知らぬ遺跡で驚いたわ。\n今年は召喚師様に参拝というところね。
+MID_AQUA_NEWYEAR01_HOME3: お正月から動き回って、お腹は空かない？\n少しならおせち料理を持ってきたわよ。\nおせちは、新年に食べるごちそうなの。
+MID_AQUA_NEWYEAR01_HOME4: 今年初めに召喚した英雄は誰だった？\n新年に一番早く駆けつけた人だもの…\nできるなら覚えていてあげてね。
+MID_AQUA_NEWYEAR01_HOME5: 晴れ着の帯を直していたわ。\n複雑そうだけれど慣れれば簡単よ。\nあなたも着ることがあれば、教えてあげる。
+MID_AQUA_NEWYEAR01_FRIEND: あけましておめでとう。\n$Nfから挨拶よ。\n今年もよろしくお願いするわね。
+MID_AQUA_NEWYEAR01_LEVEL1: 嬉しいわ。\n新年早々、縁起が良いわね。
+MID_AQUA_NEWYEAR01_LEVEL2: こうして毎年\n強くなれれば良いわ。
+MID_AQUA_NEWYEAR01_LEVEL3: おみくじで凶を引いた気分よ…
+MID_AQUA_NEWYEAR01_SKILL: お年玉をもらったような気分よ。\nありがとう$Nu。
+MID_AQUA_NEWYEAR01_JOIN: 新年おめでとう。私はアクア。\n初詣に行こうと思っていたのだけれど…\nいつの間にこんな場所に来たのかしら。
+MID_AQUA_NEWYEAR01_STRONGEST: 私、お正月は好きだわ。\nまっさらな夜明けに、清々しい空気…\n何か新しいことが始まる予感がするもの。$k$pそうだ、せっかくの新年だから\n何か一曲、歌いましょうか。\nあなたはどんな曲が好きかしら。$k$p私はね、少し寂しい曲が好きなの。\n会えない誰かを思うような、そんな歌…\n歌うと、思いが遠くまで届く気がするの。$k$pでも、それは新年には相応しくないわね。\n今は…遠くの誰かのためじゃなく、\n目の前のあなたのために歌いたいわ。$k$p私、あなたに会えて本当に嬉しいのよ。\n感謝の気持ちを込めて歌うから…\n今年もずっと一緒にいてちょうだいね。
+MID_AQUA_NEWYEAR01_VOICE01: えい
+MID_AQUA_NEWYEAR01_VOICE02: せいっ
+MID_AQUA_NEWYEAR01_VOICE03: ううっ
+MID_AQUA_NEWYEAR01_VOICE04: 困ったわね
+MID_AQUA_NEWYEAR01_VOICE05: 新年おめでとう
+MID_AQUA_NEWYEAR01_VOICE06: 祝いましょう
+MID_AQUA_NEWYEAR01_VOICE07: 抱負を聞かせて
+MID_AQUA_NEWYEAR01_VOICE08: 正月の時間よ
+MID_AQUA_NEWYEAR01_VOICE09: 新年早々…こんなこと…
+MID_AQUA_NEWYEAR01_VOICE10: うふふ
+MID_AQUA_NEWYEAR01_VOICE11: 今年もよろしくね
+MID_AQUA_NEWYEAR01_VOICE12: 素敵なお正月を
+MID_AQUA_NEWYEAR01_VOICE13: この晴れ着、どうかしら？　自分で着付けたのよ
+MID_AQUA_NEWYEAR01_VOICE14: 新年を祝って、何か歌おうかしら…
+MID_AQUA_NEWYEAR01_VOICE15: 白夜ではたくさんのご馳走が入った重箱を作るの
+MID_AQUA_NEWYEAR01_VOICE16: 新年初めての召喚はもう済ませたかしら？
+MID_AQUA_NEWYEAR01_VOICE17: 私は白夜でお正月を迎えることが多かったけれど…\n次はこの場所で、あなたと年を越すのもいいわね
+MID_AQUA_NEWYEAR01_VOICE18: そうね
+MID_AQUA_NEWYEAR01_VOICE19: おめでとう
+MID_AQUA_NEWYEAR01_VOICE20: わかったわ

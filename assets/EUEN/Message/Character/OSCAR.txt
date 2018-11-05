@@ -1,0 +1,38 @@
+[Heroes Archive] (OSCAR)
+
+
+Heroes Message Name: Message
+
+
+MID_OSCAR_HOME1: Gathering supplies, preparing the\nmeals... Seems there's plenty to keep\nme busy today.
+MID_OSCAR_HOME2: My younger brothers are named Boyd\nand Rolf. I care for them more than\nanything.
+MID_OSCAR_HOME3: Your face is looking a bit scrunched\ntoday. This is just a suggestion, but...$k$pHow about you and I chat about your\nproblems, so you don't have to deal\nwith them on your own?
+MID_OSCAR_HOME4: I used to be a Crimean knight, so I still\nhave a close friend within their ranks.
+MID_OSCAR_HOME5: My contributions may be meager\ncompared to others, but I still want to\nfight and save everyone I can.
+MID_OSCAR_FRIEND: Hi there—I'm Oscar. I've come with\ngreetings from\n$Nf.
+MID_OSCAR_LEVEL1: You need to keep your guard up,\neven when you're at your best.
+MID_OSCAR_LEVEL2: Not bad at all. Now I just need to\nkeep this up.
+MID_OSCAR_LEVEL3: When you're not performing well,\nmake your priority just surviving.
+MID_OSCAR_SKILL: Thanks for this. I'm glad to know\nyou expect good things from me.
+MID_OSCAR_JOIN: I'm Oscar, from the Greil Mercenaries.\nMy skills lie mainly in... Hmm, let's\nsee... I guess, cooking for everyone?
+MID_OSCAR_STRONGEST: Attend the war council, procure\nsupplies, coach a training session...\nLet's see, what else is there to do...$k$pOh, hey, $Nu.\nSorry I'm so busy all the time. Such is\nthe life of a jack-of-all-trades.$k$pPeople come to me for help with all\nsorts of things, and I'm more than\nglad to help with all of them.$k$pIn fact, I'm happy people rely on me\nfor things like that.$k$pI'm the oldest of three brothers, so\nhelping out like this reminds me of\ndifferent times.$k$pSo if you need anything, just—$k$pHm? Oh, I know. I'll do my best\nwithout pushing past my breaking\npoint. It's a promise.$k$pYour consideration for me is kind of\nheartwarming, you know!
+MID_OSCAR_VOICE01: はぁっ！
+MID_OSCAR_VOICE02: せいっ！
+MID_OSCAR_VOICE03: うああっ！
+MID_OSCAR_VOICE04: しまった…
+MID_OSCAR_VOICE05: My side will survive.
+MID_OSCAR_VOICE06: You must surrender!
+MID_OSCAR_VOICE07: I will give it my all.
+MID_OSCAR_VOICE08: I will not hold back.
+MID_OSCAR_VOICE09: Sorry...
+MID_OSCAR_VOICE10: Haha
+MID_OSCAR_VOICE11: Oh, hello. Feeling fine today, I hope?
+MID_OSCAR_VOICE12: Hmm? Oh, hello again. No need for that. I am always vigilant.
+MID_OSCAR_VOICE13: I am a great lover of food. How about you? What's your favorite dish?
+MID_OSCAR_VOICE14: You seem to get along with everyone. I wish I was more like that.
+MID_OSCAR_VOICE15: What is it that I want? To aid those who cannot aid themselves.
+MID_OSCAR_VOICE16: It pains me to lose a friend. Every time. But duty calls, and we are the ones to answer.
+MID_OSCAR_VOICE17: When we're in danger, you can—you must—rely on me.
+MID_OSCAR_VOICE18: Yes.
+MID_OSCAR_VOICE19: What next?
+MID_OSCAR_VOICE20: Only my best.

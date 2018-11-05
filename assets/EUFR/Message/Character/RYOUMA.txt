@@ -1,0 +1,38 @@
+[Heroes Archive] (RYOUMA)
+
+
+Heroes Message Name: Message
+
+
+MID_RYOUMA_HOME1: Ce royaume est d'une beauté très\ndifférente de celle d'Hoshido.$k$pJ'aimerais le parcourir en compagnie\nde mes frères et sœurs, si l'occasion\nse présente.
+MID_RYOUMA_HOME2: Mes vassaux s'appellent Kagero\net Saizo. Leur loyauté n'a d'égal\nque leur méticulosité.
+MID_RYOUMA_HOME3: N'oubliez pas de déléguer certaines\ntâches à vos alliés. Quant à moi,\nconsidérez-moi comme un frère.
+MID_RYOUMA_HOME4: J'aimerais mesurer la puissance de\nRaijinto à celle de votre arme, mais\nje sais bien que c'est impossible.$k$pJe dois bien avouer que le fait que\nvotre arme serve à invoquer des\nhéros est plutôt... troublant.
+MID_RYOUMA_HOME5: Je vous conseille de méditer tous les\njours, $GInvocateur,Invocatrice|. Un esprit clair vaut\ntoutes les armes du monde.
+MID_RYOUMA_FRIEND: $Nf m'a\ncourtoisement demandé de\nvous délivrer ses salutations.
+MID_RYOUMA_LEVEL1: C'est agréable, sans vouloir me\nvanter.
+MID_RYOUMA_LEVEL2: Cela fera l'affaire. Pour l'instant.
+MID_RYOUMA_LEVEL3: Je peux m'entraîner davantage.
+MID_RYOUMA_SKILL: Je vous remercie. Je continuerai à me\nbattre avec ardeur.
+MID_RYOUMA_JOIN: Je suis Ryoma, prince héritier\nd'Hoshido et porteur de Raijinto.\nJe vais me battre à vos côtés.
+MID_RYOUMA_STRONGEST: Joignez-vous à moi pour une séance\nde méditation, mon $Gami,amie|. Fermez les\nyeux, imaginez un lieu paisible...$k$pJe me vois sous un cerisier en fleurs\nen Hoshido. Une douce pluie caresse\nl'herbe, la lune brille doucement...$k$pOserais-je vous avouer que ces\nderniers temps, j'imagine d'autres\nlieux lorsque que je médite ?$k$pJe me vois dans ce château, en\ncompagnie des Gardiens d'Askr...\nEn particulier, je vous vois, vous.$k$pVous, nous dirigeant sur le champ\nde bataille. Cette image m'apporte\nune paix intérieure inégalée.$k$pJ'espère que ma présence à vos\ncôtés vous permet aussi d'aborder\nvotre mission plus sereinement.$k$pSachez que dans mon royaume, je\nn'aurais jamais mis mon divin katana\nau service d'un autre...$k$pMais ici, je suis profondément honoré\nde combattre sous vos ordres, et je le\nferai aussi longtemps qu'il le faudra.
+MID_RYOUMA_VOICE01: ふんっ
+MID_RYOUMA_VOICE02: でやあっ！
+MID_RYOUMA_VOICE03: うわっ！
+MID_RYOUMA_VOICE04: I can keep going!
+MID_RYOUMA_VOICE05: Votre vie s'achève.
+MID_RYOUMA_VOICE06: Vous méritez pire.
+MID_RYOUMA_VOICE07: Notre union vaincra.
+MID_RYOUMA_VOICE08: Je ferai couler votre sang !
+MID_RYOUMA_VOICE09: Counting on you...
+MID_RYOUMA_VOICE10: Hmm...
+MID_RYOUMA_VOICE11: Should you ever need to converse, remember, I am here for you.
+MID_RYOUMA_VOICE12: I will follow your orders, for as long as I'm here.
+MID_RYOUMA_VOICE13: I fight only to put an end to fighting. And war, to end all wars.
+MID_RYOUMA_VOICE14: I feel as if I could learn much from the prince of this realm.
+MID_RYOUMA_VOICE15: I see you're taking notice of my armor. Do you find it...unusual?
+MID_RYOUMA_VOICE16: I never know when Saizo and Kagero are with me. Perhaps they're here now.
+MID_RYOUMA_VOICE17: No matter which Heroes you take into battle, remember to be a commanding presence.
+MID_RYOUMA_VOICE18: Yes?
+MID_RYOUMA_VOICE19: Tell me.
+MID_RYOUMA_VOICE20: Let's go.

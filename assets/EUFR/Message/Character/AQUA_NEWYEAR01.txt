@@ -1,0 +1,38 @@
+[Heroes Archive] (AQUA_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_NEWYEAR01_HOME1: Oh, ça ? C'est un hagoita. On l'utilise\ndans un jeu d'Hoshido appelé\n« hanetsuki ». Je ne perds jamais.
+MID_AQUA_NEWYEAR01_HOME2: D'habitude, après le Nouvel An, je\nvais au sanctuaire. Je ne m'attendais\npas à me retrouver dans des ruines !$k$pIl faut croire que cette année, mon\ndestin était de rencontrer $Gun,une|\n$Gpuissant invocateur,puissante invocatrice|.
+MID_AQUA_NEWYEAR01_HOME3: Toute cette agitation pour le Nouvel\nAn, ça ne vous donne pas faim ? Si\nvous voulez, j'ai des « osechi ».$k$pCe sont les plats que nous mangeons\nau début de l'année. Certains sont\nvraiment délicieux !
+MID_AQUA_NEWYEAR01_HOME4: Qui a été le premier héros que vous\navez invoqué cette année ?$k$pJ'imagine que ça doit être un souvenir\nimportant pour vous.
+MID_AQUA_NEWYEAR01_HOME5: Et... voilà ! Il n'est pas si difficile\nd'ajuster le « obi » d'un kimono, une\nfois qu'on a pris le coup de main.$k$pSi vous avez envie d'essayer d'en\nporter un, je peux vous apprendre\ncomment le mettre.
+MID_AQUA_NEWYEAR01_FRIEND: $Nf m'envoie\nvous souhaiter une bonne année.$k$pJ'espère que votre amitié deviendra\nencore plus forte cette année !
+MID_AQUA_NEWYEAR01_LEVEL1: C'est un bon présage pour\nl'année à venir.
+MID_AQUA_NEWYEAR01_LEVEL2: Je veux progresser ainsi\nchaque année.
+MID_AQUA_NEWYEAR01_LEVEL3: J'ai l'impression d'avoir reçu\nune mauvaise prédiction\nau sanctuaire...
+MID_AQUA_NEWYEAR01_SKILL: Oh, ce sont mes étrennes ?\nMerci !
+MID_AQUA_NEWYEAR01_JOIN: Bonne année ! Je suis Azura. J'étais\nen route pour ma première visite de\nsanctuaire de l'année, mais...$k$pAllez savoir pourquoi, je me suis\nretrouvée ici.
+MID_AQUA_NEWYEAR01_STRONGEST: J'adore le Nouvel An. L'air frais au\nlever du soleil, ça donne vraiment\nune impression de renouveau.$k$pEt si nous chantions, pour fêter\nl'occasion ? Quel genre de musique\naimez-vous ?$k$pMoi, j'ai un faible pour les chansons\nqui me rappellent les gens que j'ai\nconnus autrefois.$k$pElles me font me sentir un peu seule,\nmais...$k$pEn les chantant, j'ai l'impression de\npouvoir communiquer avec ceux\ndont je suis séparée.$k$pMais peut-être que pour le Nouvel\nAn, une chanson joyeuse serait\nplus appropriée.$k$pJe n'ai pas envie de chanter pour\ndes gens qui sont si loin. Je veux\nchanter pour vous, ici.$k$pJe suis si heureuse de vous avoir\n$Grencontré,rencontrée|. Je chanterai pour vous\nen gage de gratitude.$k$pJ'espère pouvoir rester à vos côtés\ntoute l'année.
+MID_AQUA_NEWYEAR01_VOICE01: えい
+MID_AQUA_NEWYEAR01_VOICE02: せいっ
+MID_AQUA_NEWYEAR01_VOICE03: ううっ
+MID_AQUA_NEWYEAR01_VOICE04: This isn't good.
+MID_AQUA_NEWYEAR01_VOICE05: Bonne année !
+MID_AQUA_NEWYEAR01_VOICE06: C'est la fête !
+MID_AQUA_NEWYEAR01_VOICE07: Faites vos résolutions !
+MID_AQUA_NEWYEAR01_VOICE08: Voilà ma résolution !
+MID_AQUA_NEWYEAR01_VOICE09: What a start...
+MID_AQUA_NEWYEAR01_VOICE10: Heehee
+MID_AQUA_NEWYEAR01_VOICE11: May this year bring us both good fortune.
+MID_AQUA_NEWYEAR01_VOICE12: I hope your new year is full of wonder.
+MID_AQUA_NEWYEAR01_VOICE13: What do you think of my outfit? It's quite fine, don't you agree?
+MID_AQUA_NEWYEAR01_VOICE14: Singing in the New Year is always such fun!
+MID_AQUA_NEWYEAR01_VOICE15: In Hoshido, our New Year's treats come in pretty packages. It's a feast for the eyes!
+MID_AQUA_NEWYEAR01_VOICE16: Have you done all of your summoning yet for the new year?
+MID_AQUA_NEWYEAR01_VOICE17: I've spent many New Years in Hoshido. Now I'm glad to spend this one here with you.
+MID_AQUA_NEWYEAR01_VOICE18: Hmm?
+MID_AQUA_NEWYEAR01_VOICE19: Best wishes.
+MID_AQUA_NEWYEAR01_VOICE20: Of course.

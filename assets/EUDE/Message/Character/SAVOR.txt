@@ -1,0 +1,38 @@
+[Heroes Archive] (SAVOR)
+
+
+Heroes Message Name: Message
+
+
+MID_SAVOR_HOME1: Hm? Du sagst, ich wurde als Held für\ndie Wächter von Askr rekrutiert?$k$pNichts für ungut, aber Helden und\nWächter sind eigentlich nicht\nmeine Welt.
+MID_SAVOR_HOME2: Ich trieb mich am Hafen von Novis\nherum und verkaufte mein Schwert,\num über die Runden zu kommen...$k$pDann wurde ich von diesem\nseltsamen Mädchen angeheuert.\n
+MID_SAVOR_HOME3: Bereitest du die nächste Mission vor?\nEs hat noch niemandem geschadet,\nmal eine Pause einzulegen.$k$pWenn du wieder zurück bist,\nzeige ich dir, wie man sich\nso richtig entspannt.
+MID_SAVOR_HOME4: Pssst. Hey... Weißt du, wo man sich\nhier vergnügen kann? Sag mir\nBescheid, sobald dir was einfällt.
+MID_SAVOR_HOME5: Ich poliere gerade mein Schwert.\nSchließlich verdiene ich mit diesem\nPrachtstück meinen Lebensunterhalt.
+MID_SAVOR_FRIEND: Ich soll Grüße von\n$Nf\nausrichten.$k$pDieser Ort ist gar nicht so übel.\nVielleicht sehe ich mich ein bisschen\ngenauer um, bevor ich zurückkehre...
+MID_SAVOR_LEVEL1: Ich will mich nicht selbst loben,\naber das ist echt nicht schlecht!
+MID_SAVOR_LEVEL2: Na, bin ich heute gut drauf?
+MID_SAVOR_LEVEL3: Das... war unerwartet.
+MID_SAVOR_SKILL: Ich werde dir dein Vertrauen\nim Kampf zurückzahlen.
+MID_SAVOR_JOIN: Ich bin Saber, ein Söldner. Solange\ndie Bezahlung stimmt, kämpfe ich.
+MID_SAVOR_STRONGEST: Du kommst genau rechtzeitig,\n$Nu.$k$pIch wollte gerade in die Stadt gehen,\num ein bisschen Spaß zu haben.\nWillst du mitkommen?$k$pDu bist zu beschäftigt? Das Leben\nbesteht doch nicht nur aus Arbeit.\nJeder Tag kann dein letzter sein.$k$pAlso lass uns essen, trinken und\nfröhlich sein!$k$pÄh, kannst du bitte aufhören, die\nArme vorwurfsvoll zu verschränken\nund die Stirn zu runzeln?$k$pDer verwegenste Söldner von allen,\neingeschüchtert von einem einzigen\nBlick... Mein Ruf ist ruiniert.$k$pSchon gut, ich nehme es dir nicht\nübel. Aber lass uns mal zusammen\nwas unternehmen, ja?
+MID_SAVOR_VOICE01: せやあっ
+MID_SAVOR_VOICE02: おらよっ
+MID_SAVOR_VOICE03: Hey, that HURT!
+MID_SAVOR_VOICE04: うわあああーっ！！
+MID_SAVOR_VOICE05: Lass es gut sein!
+MID_SAVOR_VOICE06: Bewegung!
+MID_SAVOR_VOICE07: Du kannst nicht gewinnen!
+MID_SAVOR_VOICE08: Nimm das!
+MID_SAVOR_VOICE09: Botched it.
+MID_SAVOR_VOICE10: Haha
+MID_SAVOR_VOICE11: Whoa, hey now. Messin' with me?
+MID_SAVOR_VOICE12: Hmm. Think twice before gettin' on my bad side.
+MID_SAVOR_VOICE13: Long as this stays lively, I don't give a damn about the details.
+MID_SAVOR_VOICE14: Lookin' for a good time here! C'mon! ...Anyone? Hello?
+MID_SAVOR_VOICE15: Piece of advice. Dealin' with a fancy lass is always a bad idea.
+MID_SAVOR_VOICE16: Everyone has a past. Remember that.
+MID_SAVOR_VOICE17: You ain't half-bad. Ha! Not half-good either.
+MID_SAVOR_VOICE18: All right.
+MID_SAVOR_VOICE19: Huh...
+MID_SAVOR_VOICE20: On it.

@@ -1,0 +1,38 @@
+[Heroes Archive] (THANY)
+
+
+Heroes Message Name: Message
+
+
+MID_THANY_HOME1: 故郷のイリアはすごく寒いの。\nイリアに比べると、\nここはあったかいかな～
+MID_THANY_HOME2: 三姉妹の末っ子だよ！\nユーノお姉ちゃんと\nティトお姉ちゃんがいるんだ！
+MID_THANY_HOME3: あたしとお話したいの？\nいいよー、なに話そっか！\nえっとねー…
+MID_THANY_HOME4: あたしのペガサス乗りたい？\nいいよ、乗って！\nすっごく気持ちいいよー！
+MID_THANY_HOME5: 前線に出過ぎるなー！って、\n昔いっつも怒られてたんだ～。\nもしまたやっちゃったらごめんね。
+MID_THANY_FRIEND: あ、$Nuさん？\n$Nfに頼まれて\nあいさつに来たよ！
+MID_THANY_LEVEL1: うん、これなら\nどんな敵にも勝てちゃいそう！
+MID_THANY_LEVEL2: ふふっ、お姉ちゃん達みたいに\nなれたかな？
+MID_THANY_LEVEL3: こ、これじゃあいつまでも\n見習いのままだよ…
+MID_THANY_SKILL: もう天馬騎士見習いなんて、\n言わせないぞ～！
+MID_THANY_JOIN: あたしはイリア天馬騎士団のシャニー。\nって言っても、まだ見習いなんだけどね！\nえへへ！
+MID_THANY_STRONGEST: あたしってよく甘えん坊だって\n言われるんだけど…$k$pあなた達と戦うようになって…\n少しだけ大人になれた気がしてるんだ。$k$pあっ、今見た目は\n何も変わってないって思ったでしょ！\n誤魔化してもだめ～！$k$p顔に書いてあったよ……\nでも、それなら…$k$pへへっ、少しだけ…\nあなたに甘えてもいいかな？
+MID_THANY_VOICE01: えーいっ！
+MID_THANY_VOICE02: たぁっ！
+MID_THANY_VOICE03: きゃああっ！
+MID_THANY_VOICE04: ひっどーい
+MID_THANY_VOICE05: いっくよー
+MID_THANY_VOICE06: ひっさつ！
+MID_THANY_VOICE07: へーきへーき
+MID_THANY_VOICE08: 負けないもんねっ
+MID_THANY_VOICE09: お姉ちゃん…ごめん…
+MID_THANY_VOICE10: あはは
+MID_THANY_VOICE11: はーいっ、なになに？
+MID_THANY_VOICE12: ひゃっ！？　びっくりした。
+MID_THANY_VOICE13: あっ、たいちょー（隊長）！
+MID_THANY_VOICE14: たいちょー、ちゃんとごはん食べてる？
+MID_THANY_VOICE15: あたしの故郷はさむーいとこなんだ。
+MID_THANY_VOICE16: かっこよく飛んでみたいな～っ
+MID_THANY_VOICE17: たいちょーの故郷、いつか連れてってね
+MID_THANY_VOICE18: うんっ！
+MID_THANY_VOICE19: りょーかいだよっ
+MID_THANY_VOICE20: がんばっちゃうよ

@@ -1,0 +1,38 @@
+[Heroes Archive] (NINIAN_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_NINIAN_BRIDE02_HOME1: Me pregunto si mis padres se casaron\nantes de que yo naciese...
+MID_NINIAN_BRIDE02_HOME2: Cuando viajaba con mi hermano,\nuna vez paramos en un pueblo\npara ver una boda.$k$p¡Pero nunca me habría imaginado\na mí misma vestida de novia!
+MID_NINIAN_BRIDE02_HOME3: Debo admitir que sé muy poco\nsobre costumbres nupciales...$k$p¿Está bien visto que la novia baile\ncon el vestido de boda puesto?
+MID_NINIAN_BRIDE02_HOME4: He oído que en las bodas la pareja\nse jura amor eterno y sella\nla promesa con un beso.$k$pOye... ¿Es eso... cierto?
+MID_NINIAN_BRIDE02_HOME5: ¿Estás $Gcansado,cansada|? Seguro que\nbailando te animo. ¿Te apetece?
+MID_NINIAN_BRIDE02_FRIEND: $Nf te envía\nun regalo. Uy, perdón\npor mi aspecto.
+MID_NINIAN_BRIDE02_LEVEL1: Lo que me da fuerza es\nesa persona especial...
+MID_NINIAN_BRIDE02_LEVEL2: Haré todo lo posible por hacer\nfelices a los que me rodean.
+MID_NINIAN_BRIDE02_LEVEL3: No sé si este traje\nes adecuado para luchar...
+MID_NINIAN_BRIDE02_SKILL: ¡Muchas gracias!\nLe daré buen uso.
+MID_NINIAN_BRIDE02_JOIN: Antes de que digas nada...\nVoy vestida para un festival nupcial.\nAh, y... me llamo Ninian. Encantada.
+MID_NINIAN_BRIDE02_STRONGEST: Una vez pasé por un pueblo y vi\nuna boda. La pareja parecía muy feliz.$k$pRecuerdo que la novia tenía\nuna sonrisa tan radiante que\nme contagió su felicidad.$k$pPero sé que ese tipo de felicidad...\nestá reservada a los humanos.$k$pLlevar este vestido es como estar\nen un sueño. Me hace feliz, aunque\nsea solo por unos instantes.$k$pMmm... Quizá tengas razón. Quizá\nalgún día sonría como aquella novia.$k$pY esta vez no será un sueño.\nGracias, $Nu.
+MID_NINIAN_BRIDE02_VOICE01: それっ
+MID_NINIAN_BRIDE02_VOICE02: いきます
+MID_NINIAN_BRIDE02_VOICE03: きゃああっ！
+MID_NINIAN_BRIDE02_VOICE04: だめ…
+MID_NINIAN_BRIDE02_VOICE05: Esto es... ¡amor!
+MID_NINIAN_BRIDE02_VOICE06: ¡Un día viviremos en armonía!
+MID_NINIAN_BRIDE02_VOICE07: Jamás perderé la esperanza.
+MID_NINIAN_BRIDE02_VOICE08: ¡Este es mi juramento!
+MID_NINIAN_BRIDE02_VOICE09: My dress...
+MID_NINIAN_BRIDE02_VOICE10: Umm...
+MID_NINIAN_BRIDE02_VOICE11: I'll always give it my all.
+MID_NINIAN_BRIDE02_VOICE12: I hope that one day I can marry...
+MID_NINIAN_BRIDE02_VOICE13: Wh-what was that? Oh, there was something caught on my dress?
+MID_NINIAN_BRIDE02_VOICE14: Do you think a dress like this suits me?
+MID_NINIAN_BRIDE02_VOICE15: You think I look nice in this dress? Oh, thank you so much.
+MID_NINIAN_BRIDE02_VOICE16: Someday, I hope to live in a world where humans and dragons can be joined together...
+MID_NINIAN_BRIDE02_VOICE17: One day, when I'm a real bride, I'll do all I can for my husband.
+MID_NINIAN_BRIDE02_VOICE18: Yes, dear.
+MID_NINIAN_BRIDE02_VOICE19: For eternity.
+MID_NINIAN_BRIDE02_VOICE20: Let's be happy.

@@ -1,0 +1,38 @@
+[Heroes Archive] (GUIRE)
+
+
+Heroes Message Name: Message
+
+
+MID_GUIRE_HOME1: マントに忍ばせておいた菓子が\n見事に粉々だ…\n次からは隠し場所を変えるか。
+MID_GUIRE_HOME2: 俺は報酬さえあればどんな仕事もする。\n昔からそうして生きてきたんだ。\n自警団ってやつに入るまではな。
+MID_GUIRE_HOME3: お疲れ、$Nu。\n飴菓子やるから、これで疲れを取れ。\n一気に食うと鼻血が出るから気をつけろ。
+MID_GUIRE_HOME4: 一緒に蜂蜜を採りに行かないか？\n俺はこの辺りの地理に詳しくないから、\nあんたがいい場所教えてくれると助かるぜ。
+MID_GUIRE_HOME5: ちょうど焼き菓子ができたところだ、\n味見して意見を聞かせてくれよ。\nまだ改良の余地がありそうだからな。
+MID_GUIRE_FRIEND: あんたが$Nuか。\n$Nfから、\n挨拶して来いって依頼を受けてな。
+MID_GUIRE_LEVEL1: 結構強くなったな。\n報酬はずんでくれよ？
+MID_GUIRE_LEVEL2: 糖分さえあれば、\nこれぐらいは余裕だ。
+MID_GUIRE_LEVEL3: 甘かったのは俺のほうか。
+MID_GUIRE_SKILL: へえ、強くしてくれたのか。\n俺をどう使うのかはあんた次第だ…
+MID_GUIRE_JOIN: 俺はガイア。盗賊だ。\n依頼があるのなら報酬をよこしな。\nなにか甘いものなら嬉しいんだが。
+MID_GUIRE_STRONGEST: よう、$Nu。\n最近よく俺のところに来るな。\n焼き菓子でもねだりにきたのか？$k$p言っておくがこいつはだめだぞ。\n蜂蜜入りのとっておきで、\n俺の一番のお気に入りだからな。$k$pん？　なんだ、菓子は要らないのか。\nじゃあ依頼か。それも違う？\n一緒にいたいから来たって…正気かよ。$k$p人との関係はただの利害で成り立ってる。\nなのにお前はそんなものがなくても、\n俺といたいっていうのか？　…そうか。$k$pなあ。この菓子、やっぱりお前にやるよ。\n何かの報酬とか、そういうんじゃない。\nただの…俺の気持ちだ。\n
+MID_GUIRE_VOICE01: ふん！
+MID_GUIRE_VOICE02: せやっ！
+MID_GUIRE_VOICE03: しゅがぁっ！
+MID_GUIRE_VOICE04: 甘かったか…
+MID_GUIRE_VOICE05: 甘いな
+MID_GUIRE_VOICE06: 甘すぎるぜ！
+MID_GUIRE_VOICE07: ケーキカットだ
+MID_GUIRE_VOICE08: 報酬はずめよ？
+MID_GUIRE_VOICE09: …やるじゃねえか…
+MID_GUIRE_VOICE10: ふっ…
+MID_GUIRE_VOICE11: 甘いもの…
+MID_GUIRE_VOICE12: なんだ、依頼か？
+MID_GUIRE_VOICE13: 汚れ仕事なら、俺に任せておけ
+MID_GUIRE_VOICE14: 斥候や暗殺、諜報なら得意だ。あと、鍵開けもな
+MID_GUIRE_VOICE15: 砂糖菓子を食べていた…お前も要るか？
+MID_GUIRE_VOICE16: 俺は全身にお宝を隠し持ってるんだぜ
+MID_GUIRE_VOICE17: この世界に来られたのはうれしいぜ\n新しい菓子を見つける楽しみができたからな
+MID_GUIRE_VOICE18: ああ
+MID_GUIRE_VOICE19: さあどうする？
+MID_GUIRE_VOICE20: へいへい

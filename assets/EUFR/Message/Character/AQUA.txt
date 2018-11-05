@@ -1,0 +1,38 @@
+[Heroes Archive] (AQUA)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_HOME1: Votre uniforme vous va à ravir.\nEt il s'accorde merveilleusement\nbien avec ma tenue !
+MID_AQUA_HOME2: Même si je ne peux pas vous\nparler de mes origines, ne doutez\npas de ma loyauté envers vous.
+MID_AQUA_HOME3: Qui sait combien de temps nous\nserons ensemble, mon $Gami,amie| ?\nProfitons de chaque instant.
+MID_AQUA_HOME4: Ma scène préférée ? La rive d'un lac.\nL'atmosphère y est si différente de\ncelle d'un champ de bataille...
+MID_AQUA_HOME5: Les mélodies transmettent des\nmessages qui vont au-delà des\nmots, ne pensez-vous pas ?
+MID_AQUA_FRIEND: $Nu ?\n$Nf vous\ntransmet ses meilleurs sentiments.
+MID_AQUA_LEVEL1: Cela me donne envie de chanter\nde joie !
+MID_AQUA_LEVEL2: Même ma voix semble plus\npuissante...
+MID_AQUA_LEVEL3: Dans l'océan, chaque goutte compte...
+MID_AQUA_SKILL: Mon cœur déborde de joie !\nJe ne vous décevrai pas.
+MID_AQUA_JOIN: Je m'appelle Azura, et je vous offre\nmon chant. D'où je viens ? De Nohr...\net d'Hoshido, d'une certaine façon.
+MID_AQUA_STRONGEST: Comme les vagues grises... ♪\nOh, vous revoilà, $GInvocateur,Invocatrice|.$k$pVous venez si souvent me voir que je\nme surprends à vous chercher du\nregard lorsque je me mets à chanter.$k$pMa chanson est d'un pouvoir aussi\nmerveilleux que redoutable...$k$pElle peut revigorer l'esprit...\nou l'asservir.$k$pHeureusement pour nous, son pouvoir\nest moindre dans ce monde. Je peux\ndonc rester à vos côtés jusqu'à la fin.$k$pEt un jour, peut-être, je vous parlerai\ndu royaume perdu qui m'a vue naître.
+MID_AQUA_VOICE01: はっ
+MID_AQUA_VOICE02: やあっ
+MID_AQUA_VOICE03: うあっ！
+MID_AQUA_VOICE04: Formidable...
+MID_AQUA_VOICE05: Le rideau tombe...
+MID_AQUA_VOICE06: C'est terminé.
+MID_AQUA_VOICE07: Voici votre requiem.
+MID_AQUA_VOICE08: Finissons-en.
+MID_AQUA_VOICE09: But, my voice...
+MID_AQUA_VOICE10: Heehee
+MID_AQUA_VOICE11: Nous pouvons y arriver !
+MID_AQUA_VOICE12: J'ai confiance.
+MID_AQUA_VOICE13: Hummed melody for this lyric: "You are the ocean's gray waves."
+MID_AQUA_VOICE14: Daybreak always brings new hope. And, if you have long hair, more tangles!
+MID_AQUA_VOICE15: There's power fathomless within my pendant.
+MID_AQUA_VOICE16: I wonder where this realm is in relation to Nohr and Hoshido, or even... Ah, never mind.
+MID_AQUA_VOICE17: I vow to bear you up, like a ship upon the waves, no matter what may come.
+MID_AQUA_VOICE18: Yes?
+MID_AQUA_VOICE19: Let's go.
+MID_AQUA_VOICE20: What can I do?

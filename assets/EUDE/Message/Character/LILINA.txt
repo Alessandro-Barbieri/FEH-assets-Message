@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_HOME1: Unglaublich, dass ich in dieser Welt\nmeinem Vater begegnen könnte... der\nhier auch noch in meinem Alter ist!
+MID_LILINA_HOME2: Mein Freund Roy und ich, wir kennen\nuns schon lang! Wir waren zusammen\nauf der Schule. Er ist unglaublich eifrig!
+MID_LILINA_HOME3: Danke für alles, was Ihr tut. Mit Euch\nan unserer Seite können wir wohl alles\nerreichen!
+MID_LILINA_HOME4: Die fantastische Cecilia sagte einmal,\nmir sei ein Talent für Magie gegeben.\nNur deshalb arbeite ich so hart an mir.
+MID_LILINA_HOME5: Ihr habt also nie Magie studiert und\nseid doch $Gein Beschwörer,eine Beschwörerin| mit so\ngroßer Macht?$k$pIhr müsst ein Naturtalent sein!
+MID_LILINA_FRIEND: Seid gegrüßt,\n$Nu. Ich komme,\num Euch Grüße zu übermitteln.
+MID_LILINA_LEVEL1: Wie wunderbar! Jetzt kann ich\nallen so viel mehr helfen!
+MID_LILINA_LEVEL2: Ein guter Tag! Aber ich muss\nmich weiter anstrengen.
+MID_LILINA_LEVEL3: Ich dachte, ich arbeite hart\ngenug. Wie beunruhigend.
+MID_LILINA_SKILL: Ich bin jetzt stärker! Ich hoffe,\nmein Vater wäre stolz auf mich.
+MID_LILINA_JOIN: Ich bin Lilina, Tochter des Hector, des\nMarquis von Ositia.$k$pIch lerne noch, aber Feuermagie kann\nich schon gut nutzen.
+MID_LILINA_STRONGEST: Es gibt jemanden in meinem\nLeben, den ich von ganzen Herzen\nbeschützen möchte.$k$pDarum habe ich bei allem stets\ndas Beste gegeben.$k$pAber ich weiß nun, dass es eine\nGrenze gibt, an der ich allein nicht\nweiterkomme.$k$pAls ich gesehen habe, wie Ihr stets\nmit unseren Verbündeten gemeinsam\nhandelt, habe ich das erkannt.$k$pDie Leute sammeln sich um\nEuch!$k$pUnd Ihr werdet dafür stärker.\nIhr teilt Euch diese Eigenschaft mit\nRoy... Ich wollte Euch daher danken.$k$pIch hoffe, ich werde Eure warmherzige\nUnterstützung nie verlieren. Ich weiß,\ndass Ihr meine nie verlieren werdet.
+MID_LILINA_VOICE01: はいっ！
+MID_LILINA_VOICE02: えいっ！
+MID_LILINA_VOICE03: きゃああっ！
+MID_LILINA_VOICE04: No...
+MID_LILINA_VOICE05: Ich darf nicht versagen!
+MID_LILINA_VOICE06: Ich rufe das Feuer!
+MID_LILINA_VOICE07: Magie ist in mir!
+MID_LILINA_VOICE08: Oh, du... Genug!
+MID_LILINA_VOICE09: Please win...
+MID_LILINA_VOICE10: Uhuhu
+MID_LILINA_VOICE11: OH! Ah, hello there, friend!
+MID_LILINA_VOICE12: Oh, you...! You're such a curious one!
+MID_LILINA_VOICE13: Shall we chat? Just for a while. I know you have plenty to do.
+MID_LILINA_VOICE14: I must really apply myself to studying magic!
+MID_LILINA_VOICE15: I admire your abilities with magic. Really and truly!
+MID_LILINA_VOICE16: What I want most is for the children of all worlds to live in peace. Oh, and to laugh, of course!
+MID_LILINA_VOICE17: I have a good feeling that you and I will be fast friends!
+MID_LILINA_VOICE18: Yes?
+MID_LILINA_VOICE19: OK.
+MID_LILINA_VOICE20: All right.

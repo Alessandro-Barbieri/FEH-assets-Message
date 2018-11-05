@@ -1,0 +1,39 @@
+[Heroes Archive] (TAKUMI)
+
+
+Heroes Message Name: Message
+
+
+MID_TAKUMI_HOME1: Quindi anche tu hai un'arma sacra?\nSembra difficile prendere la mira... ma\nnon serve per combattere, giusto?
+MID_TAKUMI_HOME2: I miei attendenti sono Hinata e Oboro.\nCon me lavorano sodo, ma hanno\nanche tempo libero per rilassarsi!
+MID_TAKUMI_HOME3: So che non sei in grado di combattere,\nperciò conta pure su di me... Non\nascoltare chi parla alle mie spalle...
+MID_TAKUMI_HOME4: Adoro il cibo della mia terra natale.\nLa zuppa di miso, in particolare.\nMagari potremo prepararla insieme.
+MID_TAKUMI_HOME5: Mi prendo sempre cura del mio Fujin\nYumi. La mia vita dipende da esso,\nperciò dev'essere sempre efficiente.
+MID_TAKUMI_FRIEND: $Nf mi ha\nchiesto di porgerti i suoi saluti.\nChe la vostra amicizia resti salda.
+MID_TAKUMI_LEVEL1: Non mi lamento!
+MID_TAKUMI_LEVEL2: Ora sì che iniziamo\na ragionare!
+MID_TAKUMI_LEVEL3: Vogliamo scherzare?
+MID_TAKUMI_SKILL: Eh eh. Mi fa piacere vedere che\ncominci davvero a fidarti di me.
+MID_TAKUMI_JOIN: Mi chiamo Takumi. Sono un principe\ndell'Hoshido e possessore del sacro\nFujin Yumi. Dunque molto utile, direi.
+MID_TAKUMI_STRONGEST: Mi chiedevo... cosa pensi di me?\nSono solo uno dei tanti eroi per te?$k$pNon che me ne importi. La mia è pura\ncuriosità. Ma sento che tu riconosci\nil valore mio e delle mie abilità.$k$pSe così non fosse, perché perderesti\ndel tempo a prenderti cura di me?\nSappi, comunque, che lo apprezzo.$k$pImmagino sia questo che volevo da\nsempre, ovvero essere riconosciuto\nper le mie capacità. Grazie.$k$pNon ti resta che aspettare. Diventerò\nl'eroe più forte che tu abbia mai\nconosciuto.
+MID_TAKUMI_VOICE01: せやっ！
+MID_TAKUMI_VOICE02: Hit!
+MID_TAKUMI_VOICE03: うわっ！
+MID_TAKUMI_VOICE04: How dare you?
+MID_TAKUMI_VOICE05: Oh, ora basta!
+MID_TAKUMI_VOICE06: Muori, alfine!
+MID_TAKUMI_VOICE07: Sto per abbatterti!
+MID_TAKUMI_VOICE08: Non puoi sconfiggermi!
+MID_TAKUMI_VOICE09: By you?!
+MID_TAKUMI_VOICE10: Hmmm.
+MID_TAKUMI_VOICE11: Must be nice to have free time. Ugh. Sorry, I didn't mean that.
+MID_TAKUMI_VOICE12: I have nightmares that you wouldn't believe. I wish they'd go away.\n\n
+MID_TAKUMI_VOICE13: Don't worry. I'll obliterate anyone who gets in our way!
+MID_TAKUMI_VOICE14: Were you happy to see me when I showed up? Hope so.
+MID_TAKUMI_VOICE15: I have to get stronger! Way stronger! More than my siblings, anyway.
+MID_TAKUMI_VOICE16: Are Hinata and Oboro around? Not that I need them to relax or anything.
+MID_TAKUMI_VOICE17: Heh, nice to be needed. But nice to get compliments too.
+MID_TAKUMI_VOICE18: Yes?
+MID_TAKUMI_VOICE19: On it.
+MID_TAKUMI_VOICE20: Let's go.
+MID_TAKUMI_VOICE21: Need me? All right. I'll help.

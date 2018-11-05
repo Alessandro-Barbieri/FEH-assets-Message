@@ -1,0 +1,9 @@
+[Heroes Archive] (S1203)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|$w0|Une embuscade ! Si nous résistons,\nl'ennemi finira par battre en retraite.$k$pGardez votre calme et ne prenez\npas de risques inutiles. Nous devons\nsimplement être patients !$k$p$Sbs1000|

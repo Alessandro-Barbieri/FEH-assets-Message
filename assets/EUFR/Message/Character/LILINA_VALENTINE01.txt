@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_VALENTINE01_HOME1: Si j'offre des bonbons à quelqu'un,\nvaut-il mieux qu'ils soient faits\nmaison ? Qu'en pensez-vous ?
+MID_LILINA_VALENTINE01_HOME2: Vous avez aussi un festival consacré\nà l'amour dans votre monde ? À qui\navez-vous avoué vos sentiments ?$k$pOu alors, est-ce que quelqu'un vous\na avoué quelque chose ?
+MID_LILINA_VALENTINE01_HOME3: Comment ? Parfois, c'est la fille qui\ndévoile ses sentiments en premier ?\nMais... Je...$k$pAllons ! Il faut savoir prendre son\ntemps avec ces choses-là !
+MID_LILINA_VALENTINE01_HOME4: Dites, vous pourriez m'apprendre à\ncuisiner ?$k$pJ'aimerais préparer quelque chose\nde simple. Un gâteau, par exemple.
+MID_LILINA_VALENTINE01_HOME5: Il n'est pas toujours facile d'exprimer\ntoute sa reconnaissance envers\nquelqu'un.
+MID_LILINA_VALENTINE01_FRIEND: $Nf m'a\ndemandé de venir vous saluer.$k$pJ'ai aussi des bonbons pour vous,\nsi vous voulez.
+MID_LILINA_VALENTINE01_LEVEL1: J'ai enfin le courage d'exprimer\nmes sentiments !
+MID_LILINA_VALENTINE01_LEVEL2: Formidable ! Je sens que la\njournée va être bonne !
+MID_LILINA_VALENTINE01_LEVEL3: Je devrais peut-être attendre\njusqu'à demain avant d'offrir\nmes cadeaux...
+MID_LILINA_VALENTINE01_SKILL: Merci ! J'espère que le cadeau\nque je vous réserve vous plaira.
+MID_LILINA_VALENTINE01_JOIN: Je suis Lilina, fille du marquis\nd'Ositia. Vous allez offrir un cadeau\nà quelqu'un, vous aussi ?
+MID_LILINA_VALENTINE01_STRONGEST: Quel cadeau choisir ? Et quand\nl'offrir ? Et que dire en le donnant ?$k$pArgh ! Oh, désolée ! Vous m'avez\nsurprise. Faites comme si vous\nn'aviez rien entendu, s'il vous plaît.$k$pQuoique, si vous avez un moment...\nvous pouvez peut-être m'aider ?$k$pJ'aimerais en savoir plus sur le\nfestival de l'amour. Pourriez-vous\nm'éclairer de vos lumières ?$k$pVous êtes d'accord ? Oh, vous êtes\nsi $Ggentil,gentille|, merci ! Allez, dites-moi tout\nce que vous savez !
+MID_LILINA_VALENTINE01_VOICE01: えーいっ
+MID_LILINA_VALENTINE01_VOICE02: それっ！
+MID_LILINA_VALENTINE01_VOICE03: きゃああっ！
+MID_LILINA_VALENTINE01_VOICE04: やだっ…
+MID_LILINA_VALENTINE01_VOICE05: J'ai un cadeau pour vous.
+MID_LILINA_VALENTINE01_VOICE06: Voilà pour vous.
+MID_LILINA_VALENTINE01_VOICE07: Du fond du cœur !
+MID_LILINA_VALENTINE01_VOICE08: Je ne suis pas tendre !
+MID_LILINA_VALENTINE01_VOICE09: My present...
+MID_LILINA_VALENTINE01_VOICE10: ふふふっ
+MID_LILINA_VALENTINE01_VOICE11: My name's Lilina. I was celebrating a festival when I suddenly appeared here.
+MID_LILINA_VALENTINE01_VOICE12: Eek! O-oh, my presents were about to tip over?
+MID_LILINA_VALENTINE01_VOICE13: I need something really nice for my father...
+MID_LILINA_VALENTINE01_VOICE14: The festival I was attending is all about giving presents to the people you care about.
+MID_LILINA_VALENTINE01_VOICE15: What do I like? Hmm... I'm fond of sweets!
+MID_LILINA_VALENTINE01_VOICE16: What kind of gift would make a guy like him happy...
+MID_LILINA_VALENTINE01_VOICE17: I got you a little something. I hope you don't mind.
+MID_LILINA_VALENTINE01_VOICE18: Wonderful.
+MID_LILINA_VALENTINE01_VOICE19: Can't decide...
+MID_LILINA_VALENTINE01_VOICE20: Take this, OK?

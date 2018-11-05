@@ -1,0 +1,38 @@
+[Heroes Archive] (JOKER)
+
+
+Heroes Message Name: Message
+
+
+MID_JOKER_HOME1: あの召喚師とやら、調子が狂う…\n俺の主はカムイ様ただ一人なのに、\nなんで言うことを聞いちまうんだ…
+MID_JOKER_HOME2: 私はずっとカムイ様に仕えております。\nあの方は私に居場所をくださった大切な方…\n生涯、この身を捧げる所存でございます。
+MID_JOKER_HOME3: 見回りなど、他の者に任せては？\n見たところあなたは軍の要です。\nこんな雑務で疲弊しては本末転倒ですよ。
+MID_JOKER_HOME4: 紅茶の味見をしてくださいませんか？\nあなたはカムイ様と味覚が近い…\n悔しいですが意見をお伺いしたく存じます。
+MID_JOKER_HOME5: いただいた茶器の手入れをしておりました。\nこの国のものも、なかなかに品質がいい。\nアルフォンス様には一応礼をしておくか…
+MID_JOKER_FRIEND: $Nfさんより、\n挨拶が届いておりますよ。\n確かにお伝えしましたので私はこれで…
+MID_JOKER_LEVEL1: 今だけは、\n喜んでもいいか…？
+MID_JOKER_LEVEL2: これぐらい成長しないと\nあの方を守れない…
+MID_JOKER_LEVEL3: ちっ…なんで全然\n変わらないんだ…
+MID_JOKER_SKILL: 執事たるもの、新しい力も\nすぐに使いこなしてみせる。
+MID_JOKER_JOIN: 私はジョーカー。暗夜王国の執事です。\n私の忠誠は、カムイ様にだけ…\n他の者にどう思われようと構いません。
+MID_JOKER_STRONGEST: ああ、あなたですか。何か用件でも？\n…え？　私に紅茶を持ってきた？\nここですぐに飲めと言われましても…$k$pいえ、飲まないとは言っておりませんよ。\nせっかくの茶葉を無駄にはできませんからね。\nでは、いただきます。$k$p…少しぬるいですね。香りも薄いですし。\n私なら人には出しません。ですが…\n相手を労う気持ちが伝わってきます。$k$pいくら技術を持っていても心がなければ、\nこの味を出すことは難しいでしょう。\n私のことを、思ってくださったのですね。$k$p…仕方ありません、今度私もあなたに\n紅茶を入れて差し上げますよ。\n今ならきっと、最高の味になります。\n
+MID_JOKER_VOICE01: せやっ
+MID_JOKER_VOICE02: はあっ
+MID_JOKER_VOICE03: くそっ
+MID_JOKER_VOICE04: てめぇ…！
+MID_JOKER_VOICE05: どけよ
+MID_JOKER_VOICE06: いい度胸だな？
+MID_JOKER_VOICE07: 主のためです
+MID_JOKER_VOICE08: お引取りくださいませ
+MID_JOKER_VOICE09: やって…くれたな…
+MID_JOKER_VOICE10: ふっ…
+MID_JOKER_VOICE11: 紅茶など如何でしょう
+MID_JOKER_VOICE12: 私の主は、とてもお優しい方です
+MID_JOKER_VOICE13: 執事業務でしたら、一通りこなせますよ
+MID_JOKER_VOICE14: この国特有の茶葉などはあるのですか？
+MID_JOKER_VOICE15: 私にとってカムイ様以外の人間など、雑草と同じです
+MID_JOKER_VOICE16: カムイ様が見当たらないな…折角お茶を用意したんだが…
+MID_JOKER_VOICE17: 私は本来なら、主以外に助力などいたしません。\nですが、なぜでしょう…あなたには手を貸したくなるんです。
+MID_JOKER_VOICE18: はい
+MID_JOKER_VOICE19: ご命令を
+MID_JOKER_VOICE20: お呼びですか

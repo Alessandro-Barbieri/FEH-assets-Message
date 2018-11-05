@@ -1,0 +1,9 @@
+[Heroes Archive] (S1203)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|$w0|¡Una emboscada! Recuerden:\nsi nos centramos en la defensa,\nel enemigo acabará retirándose.$k$pTengan cuidado y mantengan la\ncabeza fría. ¡Debemos ser pacientes!$k$p$Sbs1000|

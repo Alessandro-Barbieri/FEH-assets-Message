@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_重騎士の兜: Elmo corazzato
+MDAID_H_重騎士の兜: Elmo di Hector forgiato a Ositia.\nÈ pesante sì, ma non troppo per\nun cavaliere corazzato.
+MDAID_重騎士の兜・極: Elmo corazzato+
+MDAID_H_重騎士の兜・極: Le decorazioni stravaganti di questo\nelmo contrastano con i segni della\nlotta creando un aspetto colorito.
+MDAID_勇王の兜: Elmo della rinascita
+MDAID_H_勇王の兜: Elmo di Ephraim, il re della rinascita,\nforgiato a Renais. È molto solido ma\nal contempo alquanto leggero.
+MDAID_勇王の兜・極: Elmo della rinascita+
+MDAID_H_勇王の兜・極: Elmo di Ephraim, il re della rinascita,\nforgiato a Renais. Mostra i segni\ndi mille battaglie.
+MDAID_王女の髪飾り: Diadema regale
+MDAID_H_王女の髪飾り: Diadema di Celica dalla qualità\nsopraffina, molto in voga nell'epoca\ndelle sacerdotesse.
+MDAID_王女の髪飾り・極: Diadema regale+
+MDAID_H_王女の髪飾り・極: Uno degli accessori preferiti di\nCelica. L'aspetto consumato è\nprova di quanto le piacesse.
+MDAID_皇女の頭飾り: Tiara imperiale
+MDAID_H_皇女の頭飾り: Il copricapo ufficiale di Veronica\nforgiato nell'Impero Embliano.\nÈ grande ma risulta leggero.
+MDAID_皇女の頭飾り・極: Tiara imperiale+
+MDAID_H_皇女の頭飾り・極: Il copricapo ufficiale di Veronica\nforgiato nell'Impero Embliano.\nÈ un cimelio di famiglia.
+MID_MISSION_S201808STORY02_TITLE: Ecco gli impavidi
+MID_MISSION_S201808STORY02_A1: Completa app. 24-1 folle
+MID_MISSION_H_S201808STORY02_A1: Completa l'app. 24, parte 1 alla difficoltà folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808STORY02_A2: Completa app. 24-2 folle
+MID_MISSION_H_S201808STORY02_A2: Completa l'app. 24, parte 2 alla difficoltà folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808STORY02_A3: Completa app. 24-3 folle
+MID_MISSION_H_S201808STORY02_A3: Completa l'app. 24, parte 3 alla difficoltà folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_総選挙セリカ: Celica
+MPID_総選挙ヴェロニカ: Veronica
+MPID_総選挙ヘクトル: Hector
+MPID_総選挙エフラム: Ephraim
+MPID_HONOR_総選挙セリカ: La vestale di Mila
+MPID_HONOR_総選挙ヴェロニカ: La lady ardita
+MPID_HONOR_総選挙ヘクトル: Il guerriero ardito
+MPID_HONOR_総選挙エフラム: Il lord di Garm
+MPID_H_総選挙セリカ: Principessa di Zofia e sacerdotessa guerriera\nal servizio della dea Mila. Brandisce la spada\nregale di Alm. Compare in Fire Emblem Echoes:\nShadows of Valentia.
+MPID_H_総選挙ヴェロニカ: Principessa dell'Impero Embliano. Cerca\ndisperatamente di trovare il suo amato\nfratello Bruno.
+MPID_H_総選挙ヘクトル: Nuovo marchese di Ositia in seguito alla morte\nrepentina di suo fratello maggiore. Impugna la\nlancia di una delle Otto Leggende. Compare in\nFire Emblem: The Blazing Blade.
+MPID_H_総選挙エフラム: Principe di Renais che protegge il suo regno\nal posto del defunto padre Re Fado. Usa una\ndelle reliquie della Sacra Coppia di\nGraze, l'ascia nera Garm. Compare in\nFire Emblem: The Sacred Stones.
+MPID_VOICE_総選挙セリカ: Erica Lindbeck
+MPID_VOICE_総選挙ヴェロニカ: Wendee Lee
+MPID_VOICE_総選挙ヘクトル: Patrick Seitz
+MPID_VOICE_総選挙エフラム: Greg Chun
+MPID_ILLUST_総選挙セリカ: Hidari (左)
+MPID_ILLUST_総選挙ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_総選挙ヘクトル: Kita Senri (北千里)
+MPID_ILLUST_総選挙エフラム: Wada Sachiko (ワダサチコ)
+MSID_王家の剣: Spada regale
+MSID_マルテ: Maltet
+MSID_ガルム: Garm
+MSID_フリズスキャルヴ: Hliðskjálf
+MSID_業火疾風の祝福: Balsamo f./v.
+MSID_業火疾風の祝福＋: Balsamo f./v.+
+MSID_オスティアの反撃: Risposta ositiana
+MSID_鬼神の一撃4: Colpo mortale 4
+MSID_獅子連斬: Doppio leone
+MSID_奥義隊形1: Specialità 1
+MSID_奥義隊形2: Specialità 2
+MSID_奥義隊形3: Specialità 3
+MSID_魔防の波・偶数1: Res pari 1
+MSID_魔防の波・偶数2: Res pari 2
+MSID_魔防の波・偶数3: Res pari 3
+MSID_近距離警戒1: Guardia vicina 1
+MSID_近距離警戒2: Guardia vicina 2
+MSID_近距離警戒3: Guardia vicina 3
+MSID_H_王家の剣: Conferisce Vel +3. Se l'unità si trova entro 2\nspazi da un alleato, anticipa l'attivazione\ndell'abilità speciale (contatore -1) a ogni\nattacco dell'unità. (Non cumulabile; si applica\nsolo il valore più alto.)
+MSID_H_マルテ: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità ha almeno il 50%\ndei PS e il nemico attacca per primo, l'unità\nesegue un attacco doppio.
+MSID_H_ガルム: Conferisce Att +3. Se è attivo un bonus da\nabilità come Sprone o Incita e/o un movimento\nextra da abilità come Marcia corazza o Stivali\ncorazzati, l'unità esegue un attacco doppio.
+MSID_H_フリズスキャルヴ: Il nemico non può contrattaccare. Se l'unità\nha attaccato, Att/Vel/Dif/Res -4 al bersaglio\ne ai nemici entro 2 spazi dal bersaglio dopo\nlo scontro durante le loro prossime azioni e\nAtt/Vel/Dif/Res +4 all'unità e agli alleati entro\n2 spazi dopo lo scontro per 1 turno.
+MSID_H_業火疾風の祝福: Quando viene utilizzato un bastone curativo,\nconferisce Att/Vel +4 a tutti gli alleati\nper 1 turno.
+MSID_H_業火疾風の祝福＋: Quando viene utilizzato un bastone curativo,\nconferisce Att/Vel +6 a tutti gli alleati\nper 1 turno.
+MSID_H_オスティアの反撃: L'unità può contrattaccare da qualunque\ndistanza. Se il nemico attacca per primo,\nconferisce Att/Dif +4 durante lo scontro.
+MSID_H_鬼神の一撃4: Se l'unità attacca per prima, Att +8\ndurante lo scontro.
+MSID_H_獅子連斬: Se ha tutti i PS all'inizio del combattimento\ne attacca per prima, l'unità colpisce due\nvolte e poi subisce PS -1 dopo lo scontro.\nNon cumulabile.
+MSID_H_奥義隊形1: Se l'unità ha almeno il 90% dei PS all'inizio\ndello scontro, anticipa l'attivazione dell'abilità\nspeciale (contatore -1) e ritarda quella del\nnemico (contatore +1) per ogni attacco.\n(Non cumulabile; si applica solo il valore più\nalto.)
+MSID_H_奥義隊形2: Se l'unità ha almeno il 70% dei PS all'inizio\ndello scontro, anticipa l'attivazione dell'abilità\nspeciale (contatore -1) e ritarda quella del\nnemico (contatore +1) per ogni attacco.\n(Non cumulabile; si applica solo il valore più\nalto.)
+MSID_H_奥義隊形3: Se l'unità ha almeno il 50% dei PS all'inizio\ndello scontro, anticipa l'attivazione dell'abilità\nspeciale (contatore -1) e ritarda quella del\nnemico (contatore +1) per ogni attacco.\n(Non cumulabile; si applica solo il valore più\nalto.)
+MSID_H_魔防の波・偶数1: Res +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_魔防の波・偶数2: Res +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_魔防の波・偶数3: Res +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_近距離警戒1: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa spada, lancia, ascia\no pietra drago, Dif/Res +2 durante lo scontro."
+MSID_H_近距離警戒2: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa spada, lancia, ascia\no pietra drago, Dif/Res +3 durante lo scontro."
+MSID_H_近距離警戒3: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa spada, lancia, ascia\no pietra drago, Dif/Res +4 durante lo scontro."
+MID_CHAPTER_TITLE_CX023: Appendice 24
+MID_CHAPTER_CX023: Ecco gli impavidi
+MID_STAGE_TITLE_X0231: Appendice 24-1
+MID_STAGE_TITLE_X0232: Appendice 24-2
+MID_STAGE_TITLE_X0233: Appendice 24-3
+MID_STAGE_X0231: Principesse litigiose
+MID_STAGE_X0232: Uomini in armonia
+MID_STAGE_X0233: Una richiesta principesca
+MID_CHAPTER_ST_CX012: App. 23 e 24
+MID_STAGE_TITLE_ST_X0022: Appendice 23
+MID_STAGE_TITLE_ST_X0023: Appendice 24
+MID_STAGE_TITLE_ST_X1023: App. 23 e 24
+MID_STAGE_TITLE_PB023: Le abilità: 23
+MID_STAGE_PB023: Hector e Ephraim impavidi
+MID_STAGE_TITLE_PB024: Le abilità: 24
+MID_STAGE_PB024: Celica e Veronica impavide

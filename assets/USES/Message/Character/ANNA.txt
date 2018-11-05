@@ -1,0 +1,62 @@
+[Heroes Archive] (ANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_ANNA_HOME1: El carácter de Alfonse cambió cuando\nperdió a... alguien de gran valor y muy\nimportante para él. Eran inseparables.
+MID_ANNA_HOME2: Mientras permanezcas a nuestro\nlado, gran $Ginvocador,invocadora|, podremos\nrevivir a quienes caigan en batalla.$k$pAunque seamos capaces de evitar\nlas bajas, no olvides que sufren\ndolor igual que nosotros.
+MID_ANNA_HOME3: ¿Comprobando que todos estén bien?\nSi ves algo fuera de lo común, avísame.\n¡Seguro que me interesa!
+MID_ANNA_HOME4: ¿Te apetece practicar conmigo? Si\naprendes a manejar un arma serás\nimparable, sabiendo invocar y todo...
+MID_ANNA_HOME5: Acabo de diseñar las camisetas\noficiales de la Orden de Héroes.\n¿Crees que se venderán bien?
+MID_ANNA_FRIEND: Caramba, tu ejército es increíble... ¡Más\nme vale mejorar el mío! Ah, ¡y saludos\nde $Nf!
+MID_ANNA_LEVEL1: Esto no es nada...\n¡Aún puedo hacerlo mejor!
+MID_ANNA_LEVEL2: El afán de superación es lo que\ndistingue a una buena líder.
+MID_ANNA_LEVEL3: La verdad es que espero mucho\nmás de mí misma.
+MID_ANNA_SKILL: Gracias por hacerme más fuerte.\nNo te arrepentirás, ¡te lo prometo!
+MID_ANNA_STRONGEST: Bueno, como comandante en jefe,\nmi deber es evaluar tu rendimiento.\nY... ¡debo decir que pasaste la prueba!$k$pCon creces, además. Demostraste\nser alguien en quien confiar, a pesar\nde mi reticencia inicial.$k$pTus asombrosas dotes de estratega\ndecidieron muchas batallas en\nnuestro favor. ¡Y eso es impagable!$k$pSí, ya sé que cuando te vi por vez\nprimera dudaba de si eras la persona\nde la que hablaban las leyendas...$k$pFue un error dejarse guiar por las\napariencias, ¡así que te pido mil\nperdones!$k$pUna vez serví a alguien que me\nrepetía constantemente lo feo que\nera ese defecto. No volverá a ocurrir.$k$pEn definitiva, solo quiero añadir que\nestuviste a la altura de lo que se\nespera $Gdel legendario Gran Héroe,de la mítica Gran Heroína|.$k$pLo cual no significa que vaya a\nexigirte menos de ahora en adelante.\n¡Más bien al contrario! Je, je, je.$k$pEso sí, si te sirve de consuelo, no\npermitiré que te enfrentes tú $Gsolo,sola|\na los retos que tenemos por delante.
+MID_ANNA_VOICE01: はっ！
+MID_ANNA_VOICE02: せいっ！
+MID_ANNA_VOICE03: くっ…！
+MID_ANNA_VOICE04: What gives!
+MID_ANNA_VOICE05: ¡Esta no te la cobro!
+MID_ANNA_VOICE06: Hiciste un mal negocio.
+MID_ANNA_VOICE07: ¡Venceremos!
+MID_ANNA_VOICE08: ¡La victoria será mía!
+MID_ANNA_VOICE09: Fall back...
+MID_ANNA_VOICE10: Heehee
+MID_ANNA_VOICE11: Rule number one! Treat Heroes with utmost respect!
+MID_ANNA_VOICE12: Rule number two! Defend the gateways at any cost!
+MID_ANNA_VOICE13: Think I have a familiar face? Hmm. How curious.
+MID_ANNA_VOICE14: That divine weapon of yours was just lying around here... None of us could use it.
+MID_ANNA_VOICE15: Some of us befriend Heroes. Others stay detached. What will you do, I wonder...
+MID_ANNA_VOICE16: Know a quick way to make a profit? Then let's hear it!
+MID_ANNA_VOICE17: I give you my vow as commander that I will keep you safe.
+MID_ANNA_VOICE18: Yes?
+MID_ANNA_VOICE19: Let's go.
+MID_ANNA_VOICE20: Onward!
+MID_ANNA_VOICE21: Fire Emblem
+MID_ANNA_VOICE22: Shadow Dragon and the Blade of Light
+MID_ANNA_VOICE23: Gaiden
+MID_ANNA_VOICE24: Mystery of the Emblem
+MID_ANNA_VOICE25: Genealogy of the Holy War
+MID_ANNA_VOICE26: Thracia 776
+MID_ANNA_VOICE27: The Binding Blade
+MID_ANNA_VOICE28: The Blazing Blade
+MID_ANNA_VOICE29: The Sacred Stones
+MID_ANNA_VOICE30: Path of Radiance
+MID_ANNA_VOICE31: Radiant Dawn
+MID_ANNA_VOICE32: Shadow Dragon
+MID_ANNA_VOICE33: New Mystery of the Emblem
+MID_ANNA_VOICE34: Awakening
+MID_ANNA_VOICE35: Fates
+MID_ANNA_VOICE36: An event has started.
+MID_ANNA_VOICE37: A big battle has started.
+MID_ANNA_VOICE38: A strong foe has appeared.
+MID_ANNA_VOICE39: New Heroes are available.
+MID_ANNA_VOICE40: Wait just a moment.
+MID_ANNA_VOICE41: Now, let's move.
+MID_ANNA_VOICE42: Now, attack.
+MID_ANNA_VOICE43: When using a bow, you must keep space between you and your foe.
+MID_ANNA_VOICE_BRAVE: Brave
+MID_ANNA_VOICE_HEROES: Heroes

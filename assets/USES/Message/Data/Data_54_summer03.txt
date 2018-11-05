@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201806DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201806DAISEIATU01_A1: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201806DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201806DAISEIATU01_A2: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201806DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201806DAISEIATU01_A3: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201806DAISEIATU01_A4: T. de práctica - Estrato 2
+MID_MISSION_H_S201806DAISEIATU01_A4: Supera el segundo estrato\nde la torre de práctica.
+MID_MISSION_S201806DAISEIATU01_A5: T. de práctica - Estrato 8
+MID_MISSION_H_S201806DAISEIATU01_A5: Supera el octavo estrato de\nla torre de práctica.
+MID_MISSION_S201806DAISEIATU01_A6: Gladiador
+MID_MISSION_H_S201806DAISEIATU01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201806SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201806SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201806SENKA02_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201806SENKA02_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201806SENKA02_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201806SENKA02_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201806STORY02_TITLE: Llega el verano
+MID_MISSION_S201806STORY02_A1: Anexo 21-1: extremo
+MID_MISSION_H_S201806STORY02_A1: Supera la 1.ª parte del anexo 21 en modo\nextremo con un espadachín en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY02_A2: Anexo 21-2: extremo
+MID_MISSION_H_S201806STORY02_A2: Supera la 2.ª parte del anexo 21 en modo\nextremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201806STORY02_A3: Anexo 21-3: extremo
+MID_MISSION_H_S201806STORY02_A3: Supera la 3.ª parte del anexo 21 en modo\nextremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MPID_水着ヒーニアス: James
+MPID_水着ターナ: Tana
+MPID_水着ティアモ: Cordelia
+MPID_水着ノワール: Noire
+MPID_HONOR_水着ヒーニアス: Estratega solar
+MPID_HONOR_水着ターナ: Ágil y noble
+MPID_HONOR_水着ティアモ: Adalid bañista
+MPID_HONOR_水着ノワール: Enemiga del sol
+MPID_H_水着ヒーニアス: Príncipe de Frelia y hermano de Tana. Prefiere\naprovechar las vacaciones para perfeccionar\nsus habilidades en lugar de holgazanear.\nAparece en Fire Emblem: The Sacred Stones.
+MPID_H_水着ターナ: Princesa de Frelia y hermana de James.\nPasar las vacaciones de verano tumbada\nen la playa le parece un plan estupendo.\nAparece en Fire Emblem: The Sacred Stones.
+MPID_H_水着ティアモ: La última superviviente de los caballeros\npegaso de Ylisse es una guerrera diestra,\npero los trajes de baño no son lo suyo.\nAparece en Fire Emblem Awakening.
+MPID_H_水着ノワール: La hija de Tharja se transforma en alguien\nviolento y aterrador si la presionan...\nEl sol veraniego tampoco le sienta bien.\nAparece en Fire Emblem Awakening.
+MPID_VOICE_水着ヒーニアス: Xander Mobus
+MPID_VOICE_水着ターナ: Joie Marlowe
+MPID_VOICE_水着ティアモ: Julie Ann Taylor
+MPID_VOICE_水着ノワール: Michelle Ruff
+MPID_ILLUST_水着ヒーニアス: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: Mayo (まよ)
+MPID_ILLUST_水着ノワール: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: Lanza caracola
+MSID_貝殻の槍＋: Lanza caracola +
+MSID_ビーチフラッグ: Bandera estival
+MSID_ビーチフラッグ＋: Bandera estival +
+MSID_ヤシの実の弓: Arco de cocos
+MSID_ヤシの実の弓＋: Arco de cocos +
+MSID_イズンの果実: Fruto de Iðunn
+MSID_攻撃速さの渾身1: Empuj. Atq./Vel. 1
+MSID_攻撃速さの渾身2: Empuj. Atq./Vel. 2
+MSID_攻撃速さの渾身3: Empuj. Atq./Vel. 3
+MSID_強化無効・近距離1: Cobijo cercano 1
+MSID_強化無効・近距離2: Cobijo cercano 2
+MSID_強化無効・近距離3: Cobijo cercano 3
+MSID_守備の共謀1: Amago Def. 1
+MSID_守備の共謀2: Amago Def. 2
+MSID_守備の共謀3: Amago Def. 3
+MSID_歩行の剛撃1: Iracundia inf. 1
+MSID_歩行の剛撃2: Iracundia inf. 2
+MSID_歩行の剛撃3: Iracundia inf. 3
+MSID_H_貝殻の槍: Si la unidad inicia el ataque, obtiene\nAtq., Vel., Def. y Res. +2 durante\nel enfrentamiento.
+MSID_H_貝殻の槍＋: Si la unidad inicia el ataque, obtiene\nAtq., Vel., Def. y Res. +2 durante\nel enfrentamiento.
+MSID_H_ビーチフラッグ: Si la unidad inicia el ataque, obtiene\nAtq., Vel., Def. y Res. +2 durante\nel enfrentamiento.
+MSID_H_ビーチフラッグ＋: Si la unidad inicia el ataque, obtiene\nAtq., Vel., Def. y Res. +2 durante\nel enfrentamiento.
+MSID_H_ヤシの実の弓: Eficaz contra unidades aéreas.\nSi la unidad inicia el ataque,\nobtiene Atq., Vel., Def. y Res. +2\ndurante el enfrentamiento.
+MSID_H_ヤシの実の弓＋: Eficaz contra unidades aéreas.\nSi la unidad inicia el ataque,\nobtiene Atq., Vel., Def. y Res. +2\ndurante el enfrentamiento.
+MSID_H_イズンの果実: Otorga Vel. +3. Si la unidad tiene PV ≥ 50 %,\nlos aliados en un radio de dos casillas podrán\nmoverse a una casilla adyacente a la suya.
+MSID_H_攻撃速さの渾身1: Al inicio de un ataque, si la unidad tiene\nPV = 100 %, obtiene Atq. y Vel. +3.\nSi la unidad actúa, sufre 1 de daño\ndespués del enfrentamiento.
+MSID_H_攻撃速さの渾身2: Al inicio de un ataque, si la unidad tiene\nPV = 100 %, obtiene Atq. y Vel. +4.\nSi la unidad actúa, sufre 1 de daño\ndespués del enfrentamiento.
+MSID_H_攻撃速さの渾身3: Al inicio de un ataque, si la unidad tiene\nPV = 100 %, obtiene Atq. y Vel. +5.\nSi la unidad actúa, sufre 1 de daño\ndespués del enfrentamiento.
+MSID_H_強化無効・近距離1: Si la unidad tiene PV = 100 % al inicio del ataque\ny el enemigo usa espada, lanza, hacha o piedra\ndragón, neutraliza sus bonificaciones (como\nImpulso, Potenciar, etc.) durante el combate.
+MSID_H_強化無効・近距離2: Si la unidad tiene PV ≥ 50 % al inicio del ataque\ny el enemigo usa espada, lanza, hacha o piedra\ndragón, neutraliza sus bonificaciones (como\nImpulso, Potenciar, etc.) durante el combate.
+MSID_H_強化無効・近距離3: Si el enemigo usa espada, lanza, hacha o piedra\ndragón, neutraliza sus bonificaciones (como\nImpulso, Potenciar, etc.) durante el combate.
+MSID_H_守備の共謀1: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Def. -3 a\nlos enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MSID_H_守備の共謀2: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Def. -5 a\nlos enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MSID_H_守備の共謀3: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Def. -7 a\nlos enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MSID_H_歩行の剛撃1: Los aliados de infantería en un radio de dos\ncasillas obtienen:\n"Si supera el Atq. del enemigo en 5 puntos\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el\nvalor más alto. No acumulable)".
+MSID_H_歩行の剛撃2: Los aliados de infantería en un radio de dos\ncasillas obtienen:\n"Si supera el Atq. del enemigo en 3 puntos\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el\nvalor más alto. No acumulable)".
+MSID_H_歩行の剛撃3: Los aliados de infantería en un radio de dos\ncasillas obtienen:\n"Si supera el Atq. del enemigo en 1 punto\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el\nvalor más alto. No acumulable)".
+MID_CHAPTER_TITLE_CX020: Anexo 21
+MID_CHAPTER_CX020: Llega el verano
+MID_STAGE_TITLE_X0201: Anexo 21 - Parte 1
+MID_STAGE_TITLE_X0202: Anexo 21 - Parte 2
+MID_STAGE_TITLE_X0203: Anexo 21 - Parte 3
+MID_STAGE_X0201: Disputa familiar
+MID_STAGE_X0202: Brillando bajo el sol
+MID_STAGE_X0203: Sonidos del mar

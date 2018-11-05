@@ -1,0 +1,38 @@
+[Heroes Archive] (MARC_M)
+
+
+Heroes Message Name: Message
+
+
+MID_MARC_M_HOME1: La tua veste bianca è uno spettacolo!\nMa $Gdallo,dalla| stratega dei Guardiani di\nAskr non mi aspettavo niente di meno.$k$pSenti... Non potremmo scambiarci\ngli abiti? Solo per un momento?
+MID_MARC_M_HOME2: Non ricordo niente del mio mondo\nprecedente. So solo il mio nome e\nqualcosa su mia madre...$k$pMa di sicuro a breve mi tornerà\nla memoria!
+MID_MARC_M_HOME3: Sei di pattuglia? Ti ringrazio per tutto\nquello che fai! A volte, semplicemente\nfare la ronda può ispirare nuove idee.$k$pTi è mai venuta in mente una nuova\nstrategia vincente mentre eri di\npattuglia?
+MID_MARC_M_HOME4: Vieni da un altro mondo, proprio come\nme, non è così? Mi commuove il fatto\nche le nostre storie siano simili.$k$pPotremmo imparare insieme qualcosa\ndi più su questo regno.
+MID_MARC_M_HOME5: Stavo esplorando i dintorni di questo\ncastello. La geografia di questo\nmondo è così nuova e affascinante!$k$pTra l'altro, nei pressi delle rovine ho\navuto come l'impressione di...\nricordare qualcosa...
+MID_MARC_M_FRIEND: Sei $Nu,\nvero? Ti porto un saluto gigantesco\nda $Nf!
+MID_MARC_M_LEVEL1: Bene. Sto recuperando\npiù in fretta che posso!
+MID_MARC_M_LEVEL2: Un altro passo verso la\nmia meta!
+MID_MARC_M_LEVEL3: Uhm... Devo dire che\nsono un po' deluso.
+MID_MARC_M_SKILL: È come quando mia madre mi\nregalò quel manuale di strategia!
+MID_MARC_M_JOIN: Sono Linfan, il figlio della strepitosa\nstratega Daraen! Ma... È qui\nmia madre?
+MID_MARC_M_STRONGEST: Oh, mi hai visto! Ti osservavo\nda laggiù e non pensavo che\nte ne saresti $Gaccorto,accorta|...$k$pMa perché mi stupisco? Non mi sarei\naspettato altro $Gdal secondo,dalla seconda|\nmigliore stratega che conosco!$k$pLa migliore in assoluto rimane mia\nmadre, ovviamente. Ma tu potresti\nsicuramente darle del filo da torcere!$k$pInfatti aspettavo il momento adatto\nper chiederti di farmi diventare il\ntuo apprendista.$k$pOh, accidenti! Mi sono lasciato\nsfuggire il mio piano! A questo\npunto non mi accetterai mai...$k$pUh? Lo faresti? Me lo permetterai?\nOh, grazie, sei incredibile! E sei\naltruista, proprio come mia madre.$k$pSono così contento di poter imparare\ntutto sulla strategia da te. Adesso che\nè ufficiale, non ti mollerò un attimo!$k$pNon importa quello che succederà, io\ncrederò in te fino alla fine dei tempi!
+MID_MARC_M_VOICE01: はいっ！
+MID_MARC_M_VOICE02: Here I go!
+MID_MARC_M_VOICE03: うあっ！
+MID_MARC_M_VOICE04: N-no...
+MID_MARC_M_VOICE05: Scacco matto!
+MID_MARC_M_VOICE06: Dilettante.
+MID_MARC_M_VOICE07: Come da manuale!
+MID_MARC_M_VOICE08: Non trionferai!
+MID_MARC_M_VOICE09: Bad move...
+MID_MARC_M_VOICE10: Heehee
+MID_MARC_M_VOICE11: My mother is the greatest tactician who's ever lived, you know.
+MID_MARC_M_VOICE12: I've learned a lot watching your tactical style.
+MID_MARC_M_VOICE13: Would it be OK for me to browse through the Order's library?
+MID_MARC_M_VOICE14: Heh. I dug a pitfall nearby—don't tell anyone!
+MID_MARC_M_VOICE15: Huh? How'd I wind up with two copies of this strategy book?
+MID_MARC_M_VOICE16: Someday, I hope to be a strategist to rival my mother...
+MID_MARC_M_VOICE17: I'm glad to be able to help out, even if I've got a lot to learn.
+MID_MARC_M_VOICE18: OK!
+MID_MARC_M_VOICE19: Hmmm...
+MID_MARC_M_VOICE20: What's the plan?

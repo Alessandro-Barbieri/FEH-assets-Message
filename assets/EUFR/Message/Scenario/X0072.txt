@@ -1,0 +1,9 @@
+[Heroes Archive] (X0072)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_水着ガイア,ch04_06_Guire_M_Swim17,Face|$w0|Il fait... si... chaud... Mon gâteau\nà la noix de coco est en train\nde fondre.$k$p$WmMPID_水着フレデリク,ch04_16_Frederik_M_Swim17,Face|$w0|Excusez ma tenue, mais sachez\nqu'elle ne m'empêchera pas\nd'honorer mon contrat !$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Smile|$w0|Oh, vous tombez bien ! J'espérais\njustement faire aussi quelques\nimages d'hommes !$k$pDites, $Nu...\nC'est pour une étude de marché...\nVous êtes plutôt filles ou garçons ?$k$pJe m'égare. Nous devons prouver\nnotre force avant de pouvoir leur\ntirer le portrait !$k$pPour les Gardiens ! Enfin, pour\nleur budget, surtout...$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_水着フレデリク,ch04_16_Frederik_M_Swim17,Face|$w0|Je vois. Daraen avait vu juste.\nContinuons de suivre sa stratégie\net replions-nous.$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|$w0|Oh, non ! Encore ? Il me manque des\ntas d'images ! Attendez, je veux en\nfaire une sous cet angle...$k$p$Sbs150|

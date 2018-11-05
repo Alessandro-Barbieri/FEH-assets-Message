@@ -1,0 +1,38 @@
+[Heroes Archive] (TURNER)
+
+
+Heroes Message Name: Message
+
+
+MID_TURNER_HOME1: Mein Bruder lässt sich von\nniemandem zum Narren halten.$k$pAußer vielleicht von Ephraim...\nDie beiden sehen sich als Rivalen.
+MID_TURNER_HOME2: Ich habe das Schloss ohne die\nErlaubnis meines Vaters verlassen.\nOb er wohl sauer auf mich ist?
+MID_TURNER_HOME3: Wie geht es dir? Sag mir Bescheid,\nfalls du etwas brauchst. Dafür sind\nFreunde schließlich da.
+MID_TURNER_HOME4: Lass uns zusammen eine kleine\nAuszeit nehmen. Das ist wichtig,\nselbst in Zeiten des Krieges.$k$pWenn du dich nicht hin und wieder\nein bisschen entspannst, wirst\ndu es später bereuen.
+MID_TURNER_HOME5: Was ich tue, außer zu trainieren?\nNun, ich bin ständig auf der Suche\nnach neuen Freunden.$k$pIch lerne gern Leute kennen, die\ndie gleichen Ziele haben wie ich.
+MID_TURNER_FRIEND: Hallo, $Nu!$k$pDanke, dass du so gut\nmit $Nf\nbefreundet bist!
+MID_TURNER_LEVEL1: Jetzt muss auch mein Bruder\nmeine Stärke anerkennen!
+MID_TURNER_LEVEL2: Ich wünschte, wir könnten mehr\nwie Eirika und Ephraim sein.
+MID_TURNER_LEVEL3: Ich kann mir denken, was mein\nBruder dazu sagen würde...
+MID_TURNER_SKILL: Ich bin stolz, zusammen mit den\nanderen zu kämpfen. Danke!
+MID_TURNER_JOIN: Mein Name ist Tana. Ich\nbin eine Pegasusritterin.$k$pOh, außerdem bin ich die Prinzessin\nvon Frelia. Aber das soll unserer\nFreundschaft nicht im Weg stehen.
+MID_TURNER_STRONGEST: Ich hatte so wenig von der Welt\ngesehen, aber als ich das Schloss\nverließ, dachte ich, ich wäre bereit...$k$pIch habe mich wohl geirrt. Hier ist\nmir klar geworden, dass es noch\nso vieles gibt, was ich nicht verstehe.$k$pDie Zeit mit dir hat mir jedoch\ndie Augen geöffnet. Da bin ich\nmir sicher.$k$pEirika ist zweifellos meine beste\nFreundin, aber du bist für mich\ninzwischen genauso wichtig.$k$pIch liebe Eirika, Ephraim und meinen\nBruder von ganzem Herzen. Und für\ndich fühle ich das Gleiche!
+MID_TURNER_VOICE01: えーいっ！
+MID_TURNER_VOICE02: もうっ！
+MID_TURNER_VOICE03: きゃああっ！
+MID_TURNER_VOICE04: けだもの…
+MID_TURNER_VOICE05: Ich werde helfen!
+MID_TURNER_VOICE06: Das ist schrecklich.
+MID_TURNER_VOICE07: Du Bestie!
+MID_TURNER_VOICE08: Ich bin Ritterin von Frelia!
+MID_TURNER_VOICE09: I've long been prepared...
+MID_TURNER_VOICE10: Heehee
+MID_TURNER_VOICE11: Shall we chat? Yes? Lovely!
+MID_TURNER_VOICE12: Aah! Please don't tease me like that.
+MID_TURNER_VOICE13: My brother is so cruel. You should hear what he said to me.
+MID_TURNER_VOICE14: I'm afraid I haven't been very much help to you.
+MID_TURNER_VOICE15: I feel I should apologize. I'm still in training and not quite battle-ready.
+MID_TURNER_VOICE16: Am I a little bit stronger now? I hope so...
+MID_TURNER_VOICE17: Thank you—truly, thank you—for making an effort to understand how I feel.
+MID_TURNER_VOICE18: Yes?
+MID_TURNER_VOICE19: Tell me.
+MID_TURNER_VOICE20: All right.

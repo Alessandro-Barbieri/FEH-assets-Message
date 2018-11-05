@@ -1,0 +1,39 @@
+[Heroes Archive] (TAKUMI)
+
+
+Heroes Message Name: Message
+
+
+MID_TAKUMI_HOME1: Heureusement que vous ne\ncombattez pas avec votre arme,\nelle n'a pas l'air facile à manier...
+MID_TAKUMI_HOME2: Mes vassaux s'appellent Hinata et\nOboro. Ils travaillent dur, mais ils\nsavent aussi s'amuser.
+MID_TAKUMI_HOME3: Peu importe ce qui se dit derrière\nmon dos, vous pouvez compter sur\nmoi sur le champ de bataille.
+MID_TAKUMI_HOME4: La nourriture de mon royaume est\nexquise, surtout la soupe miso.\nJe pourrais vous en faire un bol !
+MID_TAKUMI_HOME5: Je m'assure en permanence du bon\nétat du Yumi Fujin. Sans mon arme,\nje me sens complètement démuni !
+MID_TAKUMI_FRIEND: $Nf m'a\ndemandé de vous passer\nle bonjour, alors me voilà.
+MID_TAKUMI_LEVEL1: Je n'ai pas à me plaindre !
+MID_TAKUMI_LEVEL2: Tout s'arrange !
+MID_TAKUMI_LEVEL3: Bah ! Ça arrive...
+MID_TAKUMI_SKILL: Ah, mes efforts sont enfin remarqués.\nÇa fait plaisir.
+MID_TAKUMI_JOIN: Je suis Takumi, prince d'Hoshido\net porteur du Yumi Fujin... ce qui\nfait de moi un sacré atout.
+MID_TAKUMI_STRONGEST: Puis-je vous demander, $GInvocateur,Invocatrice|...\nsi à vos yeux, je ne suis qu'un héros\nparmi les autres ?$k$pSimple curiosité. Je sais que vous\nme portez en estime.$k$pSi ce n'était pas le cas, vous ne\npasseriez pas tant de temps en\nma compagnie.$k$pJe tenais d'ailleurs à vous remercier.\nC'est tout ce que j'ai toujours voulu :\nqu'on reconnaisse mon talent.$k$pEt ne me quittez pas du regard, car\nd'ici peu, je deviendrai le héros le\nplus fort que vous n'ayez jamais vu !
+MID_TAKUMI_VOICE01: せやっ！
+MID_TAKUMI_VOICE02: Hit!
+MID_TAKUMI_VOICE03: うわっ！
+MID_TAKUMI_VOICE04: How dare you?
+MID_TAKUMI_VOICE05: Oh, non alors !
+MID_TAKUMI_VOICE06: Tu vas mourir !
+MID_TAKUMI_VOICE07: Je vais t'abattre !
+MID_TAKUMI_VOICE08: Tu ne m'auras jamais !
+MID_TAKUMI_VOICE09: By you?!
+MID_TAKUMI_VOICE10: Hmmm.
+MID_TAKUMI_VOICE11: Must be nice to have free time. Ugh. Sorry, I didn't mean that.
+MID_TAKUMI_VOICE12: I have nightmares that you wouldn't believe. I wish they'd go away.\n\n
+MID_TAKUMI_VOICE13: Don't worry. I'll obliterate anyone who gets in our way!
+MID_TAKUMI_VOICE14: Were you happy to see me when I showed up? Hope so.
+MID_TAKUMI_VOICE15: I have to get stronger! Way stronger! More than my siblings, anyway.
+MID_TAKUMI_VOICE16: Are Hinata and Oboro around? Not that I need them to relax or anything.
+MID_TAKUMI_VOICE17: Heh, nice to be needed. But nice to get compliments too.
+MID_TAKUMI_VOICE18: Yes?
+MID_TAKUMI_VOICE19: On it.
+MID_TAKUMI_VOICE20: Let's go.
+MID_TAKUMI_VOICE21: Need me? All right. I'll help.

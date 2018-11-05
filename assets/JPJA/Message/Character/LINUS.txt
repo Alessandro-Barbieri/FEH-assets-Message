@@ -1,0 +1,38 @@
+[Heroes Archive] (LINUS)
+
+
+Heroes Message Name: Message
+
+
+MID_LINUS_HOME1: 兄貴は腕が立つし、俺より頭も切れる。\n兄貴の決めることに\n間違いなんかねえんだ…
+MID_LINUS_HOME2: 兄貴のロイドと俺は、\nその手の連中には名が通ってる。\n【黒い牙】の【リーダス兄弟】ってな…
+MID_LINUS_HOME3: お前の武器はどんなもんだ？\nん？　何だこの妙なシロモノは！\nこんなんで戦えるのか？
+MID_LINUS_HOME4: どうにもこういう小奇麗なとこは苦手だぜ。\nおいっ、$Nu！\nとっとと次の標的を教えろ。
+MID_LINUS_HOME5: 俺は別に暴れたいわけじゃねえ。\n組織の掟に従ってるだけだ。\n悪人には【牙】の裁きを、ってな。
+MID_LINUS_FRIEND: $Nuはどいつだ？\nこの【狂犬】ライナス様が\n直々の挨拶に来てやったぜ。
+MID_LINUS_LEVEL1: 見たか！\nこれが【狂犬】の実力ってやつよ！
+MID_LINUS_LEVEL2: まだまだ、食い足りねえな。
+MID_LINUS_LEVEL3: おい…何かの間違いだろ…！
+MID_LINUS_SKILL: ありがとよ！\nさあ、この力で悪人どもをぶちのめそうぜ。
+MID_LINUS_JOIN: 俺はライナス！\n【四牙】の【狂犬】とは俺様の事よ！\nさあ、悪人どもはどこにいる？
+MID_LINUS_STRONGEST: よしっ、今日も調子がいいぜ！\n最初はちょいと不安だったが、\nお前、なかなかやるじゃねーか。$k$p俺は腕っぷしでは誰にも負けねえが、\n考えるのはちっとばかし苦手でな。\nそういうのは、兄貴や親父に任せてた。$k$p思いつきで動いて失敗したこともあってな…\nだが、そんな俺でもわかるぜ。\nお前の頭のキレと…人の良さはな。$k$pこれまで大勢悪人を見てきたからな。\nお前は良い奴だ。なら、兄貴と同じように\nお前を信じて戦う。それだけだ。$k$pさあ、次の獲物はどいつだ？\nこのライナス様が与えてやるぜ…\n悪人どもに【牙】の裁きを！
+MID_LINUS_VOICE01: おらぁっ！
+MID_LINUS_VOICE02: くらえよっ！
+MID_LINUS_VOICE03: うああっ！
+MID_LINUS_VOICE04: …んだと…！？
+MID_LINUS_VOICE05: 裁きを下す！
+MID_LINUS_VOICE06: 【牙】は逃がさねえ
+MID_LINUS_VOICE07: うるせーよ
+MID_LINUS_VOICE08: 祈りな
+MID_LINUS_VOICE09: あにき…すまね…ぇ…
+MID_LINUS_VOICE10: ははっ
+MID_LINUS_VOICE11: よう、お前はいっつも忙しそうにしてんな。
+MID_LINUS_VOICE12: うぉっ！？　上等じゃねーか、おれとやろうってのか！？
+MID_LINUS_VOICE13: おれたちの【牙】を…侮辱する奴は誰だろうと許さねえ。
+MID_LINUS_VOICE14: 【牙】では、【狂犬】ってのがおれの名だった。
+MID_LINUS_VOICE15: 兄貴とおれがいりゃ、やれねえ相手なんかいねーよ。
+MID_LINUS_VOICE16: 親父と兄貴の決めることに間違いなんかねえんだ…
+MID_LINUS_VOICE17: お前、わけわかんねー奴だよな…けどまあ、悪人じゃねーのはわかった。
+MID_LINUS_VOICE18: ああ
+MID_LINUS_VOICE19: 【牙】の裁きだ
+MID_LINUS_VOICE20: 仕掛けるぜ！

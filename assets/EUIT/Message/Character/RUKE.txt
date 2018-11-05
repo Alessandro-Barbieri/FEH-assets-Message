@@ -1,0 +1,38 @@
+[Heroes Archive] (RUKE)
+
+
+Heroes Message Name: Message
+
+
+MID_RUKE_HOME1: A un castello servono cavalieri,\nai cavalieri serve l'amore.\nQuindi se A uguale B uguale C...$k$p... a un castello serve l'amore.\nUn momento! Qualcosa non\nmi quadra.
+MID_RUKE_HOME2: Ehi, $Gamico mio,amica mia|, fai buona guardia.\nA cosa? All'unica cosa che\nvalga la pena di guardare!$k$pBelle signorine per Luke! Mi piacciono\ntutte, basta che siano di bell'aspetto.
+MID_RUKE_HOME3: Sono un cavaliere d'Altea in\naddestramento: significa che\npresto sarò una leggenda!\n
+MID_RUKE_HOME4: Il mio amico Roderick e io ci\nconosciamo da una vita. Si preoccupa\ndi tutto, ma è un tipo per bene!
+MID_RUKE_HOME5: Dovremmo uscire di qui, lanciarci in\nuna splendida avventura. E magari\nincontrare una splendida fanciulla!
+MID_RUKE_FRIEND: Salve! Adesso fai parte della\nLeggenda di Luke! Ringrazia\n$Nf.
+MID_RUKE_LEVEL1: La Leggenda di Luke diventa\nsempre più... leggendaria!
+MID_RUKE_LEVEL2: Non male, ma una leggenda\ncome me può fare di meglio!
+MID_RUKE_LEVEL3: Tutto qui? Non può essere.\nNon per me.
+MID_RUKE_SKILL: Ti ringrazio per aver fatto la tua\nparte nella Leggenda di Luke!\n
+MID_RUKE_JOIN: Bardi, a raccolta! Non perdete\nl'occasione di comporre poemi su\nLuke, il più valente cavaliere d'Altea!
+MID_RUKE_STRONGEST: Che te ne pare della Leggenda di\nLuke? È grandiosa... Proprio\ncome immaginavi, vero?$k$pNon esiste cavaliere più forte o\npiù virtuoso di me. Quasi spavento\nme stesso. Niente può fermarmi!$k$pAh! Sto esagerando. Sono solo\nun povero idiota che parla tanto\ne in cui tu hai avuto fiducia.$k$pNon rimarrei concentrato per un\nmomento, senza la tua guida. Sai,\npenso che TU sia una leggenda.$k$pCos'è quello sguardo sorpreso?\nSotto sotto anche io provo umiltà.\nBasta che non lo dici a nessuno...
+MID_RUKE_VOICE01: はぁっ！
+MID_RUKE_VOICE02: せいっ！
+MID_RUKE_VOICE03: うああっ！
+MID_RUKE_VOICE04: Ouch!
+MID_RUKE_VOICE05: Luke è la leggenda!
+MID_RUKE_VOICE06: Indugiare, io? Ah!
+MID_RUKE_VOICE07: Diventerò una leggenda!
+MID_RUKE_VOICE08: Luke è un cavaliere straordinario!
+MID_RUKE_VOICE09: I lost...?
+MID_RUKE_VOICE10: Haha
+MID_RUKE_VOICE11: Need the Luke, huh? Here to help!
+MID_RUKE_VOICE12: Hey, now! You'll mess up the Luke's hair.
+MID_RUKE_VOICE13: Who's larger than life? Me, Luke!
+MID_RUKE_VOICE14: Want a nickname? I'll give you one that will really stick!
+MID_RUKE_VOICE15: Any pretty healers around? Cuz I need some healing!
+MID_RUKE_VOICE16: People like big deals, right? Not average deals?
+MID_RUKE_VOICE17: Who wants to be a leader? Not me. All work, no glory!
+MID_RUKE_VOICE18: On it!
+MID_RUKE_VOICE19: All mine!
+MID_RUKE_VOICE20: Onward!

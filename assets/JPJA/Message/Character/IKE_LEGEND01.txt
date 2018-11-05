@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_LEGEND01_HOME1: 伝承の英雄…？　俺たちの世界にも\n大昔の伝説として語られる英雄がいた。\nあんたが言うのはそういう者のことか？
+MID_IKE_LEGEND01_HOME2: 俺の剣の師は、俺の親父…\nそしてもう一人…親父の仇だった男だ。\nあいつと俺は、同じ剣を目指していた…
+MID_IKE_LEGEND01_HOME3: 俺たち人は完璧じゃない。過ちを犯す。\nだが、俺たちには家族を愛し、友を愛し、\n人を…愛する心がある。
+MID_IKE_LEGEND01_HOME4: 勝ち目の薄い敵との戦いは何度もあった。\n勝てるかどうかじゃない…\nやらなければならない戦いだった。
+MID_IKE_LEGEND01_HOME5: 生きている限り挑んで、それでだめなら…\n挑みながら死んでいけばいい…\n俺の知り合いが、そんなことを言っていた。
+MID_IKE_LEGEND01_FRIEND: 俺はアイク。$Nfに\n頼まれて挨拶に来た。\nこれからもよろしく頼む。
+MID_IKE_LEGEND01_LEVEL1: 一番強かった頃の親父の剣…\nいつか、そこに辿り着く。
+MID_IKE_LEGEND01_LEVEL2: 強敵との戦いは、\n何にも勝る修行になる。
+MID_IKE_LEGEND01_LEVEL3: 好不調は気にせん。絶えず修行を重ねれば、\nいずれ一つの高みに至る。
+MID_IKE_LEGEND01_SKILL: 礼を言わせてくれ。\n俺が目指す場所へ…また近づけた。
+MID_IKE_LEGEND01_JOIN: グレイル傭兵団のアイクだ。\n伝承の…英雄…？　よくわからんが、\n俺で良ければあんたたちの力になろう。
+MID_IKE_LEGEND01_STRONGEST: この世界も、俺たちの世界も同じだな…\nいつの時代も、\n争いや戦は絶えることはない。$k$pあんたたちは平和のために戦っている。\nそれは、果てしない道になるだろう…\n人の身で叶うことではないのかもしれん。$k$pだが、それでいい。\nあんたたちの行動に…\nあんたたちの気持ちに…意味がある。$k$pたとえどれほど困難な道であろうと…\nあんたたちは前に進み続けるのだろう。\nそういう姿は、嫌いじゃない。$k$p俺も、同じ道を歩ませてくれ。\n俺も諦めは悪い方だ。\nとことんまで付き合わせてもらおう。
+MID_IKE_LEGEND01_VOICE01: はぁっ！
+MID_IKE_LEGEND01_VOICE02: むぅんっ！
+MID_IKE_LEGEND01_VOICE03: うああっ！
+MID_IKE_LEGEND01_VOICE04: やるな…
+MID_IKE_LEGEND01_VOICE05: あんたはここまでだ
+MID_IKE_LEGEND01_VOICE06: 容赦はせん
+MID_IKE_LEGEND01_VOICE07: せめて一撃で…
+MID_IKE_LEGEND01_VOICE08: 俺は立ち止まらん
+MID_IKE_LEGEND01_VOICE09: 俺の…負けだ…
+MID_IKE_LEGEND01_VOICE10: ははっ
+MID_IKE_LEGEND01_VOICE11: 俺はアイク。成り行きで、一軍の将を務めていた。
+MID_IKE_LEGEND01_VOICE12: ん？　なんだ、訓練に付き合ってくれるのか？
+MID_IKE_LEGEND01_VOICE13: 色んな奴と出会ったが、あんたみたいな変わり者ははじめてだな。
+MID_IKE_LEGEND01_VOICE14: 俺が得た痛みも苦しみも…俺が背負って進むべきものだ。
+MID_IKE_LEGEND01_VOICE15: 俺は器用な性質（たち）じゃない。この剣で、己の信じる道を進むことしかできない。
+MID_IKE_LEGEND01_VOICE16: 漆黒の騎士…あいつは親父の仇…そして…俺の師だ。
+MID_IKE_LEGEND01_VOICE17: 俺といるかぎり死なせはせん。傍を離れるなよ？
+MID_IKE_LEGEND01_VOICE18: 行こう
+MID_IKE_LEGEND01_VOICE19: どうする？
+MID_IKE_LEGEND01_VOICE20: 負ける気はない

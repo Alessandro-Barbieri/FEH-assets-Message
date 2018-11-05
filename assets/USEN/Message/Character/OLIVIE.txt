@@ -1,0 +1,38 @@
+[Heroes Archive] (OLIVIE)
+
+
+Heroes Message Name: Message
+
+
+MID_OLIVIE_HOME1: I want to practice my dancing, but...\nI can't concentrate where people\ncan see me!
+MID_OLIVIE_HOME2: I traveled the world before joining\nChrom's army—I learned tales and\ndances from all over!
+MID_OLIVIE_HOME3: You came from another world too,\nright? Take good care of yourself—\nthe nights are awfully chilly here...
+MID_OLIVIE_HOME4: If you don't mind, I'd like to hear\nabout your homeland sometime.\nIt'd be like traveling there myself!
+MID_OLIVIE_HOME5: I'm looking at old souvenirs... Here's\na shell from a tropical beach and\na pressed leaf from a hot spring!
+MID_OLIVIE_FRIEND: Ah, excuse me? You must be\n$Nf's friend.$k$pI was sent to say hello.
+MID_OLIVIE_LEVEL1: Everyone's staring! How very\nembarrassing...
+MID_OLIVIE_LEVEL2: You know, I think I'm really\nhelping!
+MID_OLIVIE_LEVEL3: S-sorry to disappoint you\nagain.
+MID_OLIVIE_SKILL: Thank you! Wait, does this mean\npeople will be looking at me?
+MID_OLIVIE_JOIN: I'm Olivia, a traveling dancer.\nAnd I'm pretty sure that, um, my\nskills might be useful. Maybe?
+MID_OLIVIE_STRONGEST: Umm... Thank you for always taking\ntime out of your busy day to come\nand watch me dance!$k$pI've traveled a lot, but I've never\nbeen somewhere like this before.\nI was pretty nervous at first...$k$pBut you always stayed near me and\nkept a friendly eye on me. I think\nthat's why I've adjusted so well.$k$pI...I hope this isn't too forward, but\nI'd like you to see my newest\ndance.$k$pI chose the choreography in\nhonor of our world...and the\nrelationship you and I share.
+MID_OLIVIE_VOICE01: はあっ！
+MID_OLIVIE_VOICE02: えいっ！
+MID_OLIVIE_VOICE03: ひゃっ！
+MID_OLIVIE_VOICE04: Wha?!
+MID_OLIVIE_VOICE05: Stop staring!
+MID_OLIVIE_VOICE06: I didn't want to do this!
+MID_OLIVIE_VOICE07: Time to step up.
+MID_OLIVIE_VOICE08: This is going to sting!
+MID_OLIVIE_VOICE09: No...
+MID_OLIVIE_VOICE10: Heehee
+MID_OLIVIE_VOICE11: I'll do what I can!
+MID_OLIVIE_VOICE12: I hope my dance helps!
+MID_OLIVIE_VOICE13: Um, did you need something?
+MID_OLIVIE_VOICE14: I've traveled lots, but I've never been someplace like this before!
+MID_OLIVIE_VOICE15: I hope my dancing brings a little more happiness into the world.
+MID_OLIVIE_VOICE16: 5, 6, 7, 8... What's my next step?
+MID_OLIVIE_VOICE17: I'll be happy to dance anytime you want to see me perform.
+MID_OLIVIE_VOICE18: OK!
+MID_OLIVIE_VOICE19: All right!
+MID_OLIVIE_VOICE20: Uh, sure!

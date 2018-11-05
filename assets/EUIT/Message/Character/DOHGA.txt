@@ -1,0 +1,38 @@
+[Heroes Archive] (DOHGA)
+
+
+Heroes Message Name: Message
+
+
+MID_DOHGA_HOME1: Perché non indossi l'armatura? Non\nsarà pericoloso? Gli strani vestiti che\nindossi non possono proteggerti.
+MID_DOHGA_HOME2: Sono un cavaliere d'Altea. Indosso\nquesta pesante armatura per\nproteggere il principe Marth.
+MID_DOHGA_HOME3: Hai sempre così tanto da fare che mi\nchiedo se ti riposi, qualche volta.\nCerca di non esaurire le energie!
+MID_DOHGA_HOME4: Mi sentirei molto più tranquillo se\nindossassi un'armatura come me.\nForse però non riusciresti a muoverti!
+MID_DOHGA_HOME5: Mmmh... Ultimamente me la sento\nun po' stretta questa armatura...
+MID_DOHGA_FRIEND: Scusami, sei tu a capo di questo\nposto? In tal caso, ti porgo i saluti\ndi $Nf.
+MID_DOHGA_LEVEL1: Presto diventerò imbattibile\nnella difesa!
+MID_DOHGA_LEVEL2: Bene. Le mie difese si\nfanno più potenti.
+MID_DOHGA_LEVEL3: Devo allenarmi di più se\nvoglio proteggere tutti!
+MID_DOHGA_SKILL: D'ora in poi i nostri alleati\nsaranno più al sicuro.
+MID_DOHGA_JOIN: Sono Aidraug, cavaliere d'Altea.\nIo e la mia armatura proteggeremo\ngli alleati dal nemico.
+MID_DOHGA_STRONGEST: Il mio scopo è sempre stato difendere\ngli alleati, più che sconfiggere i nemici.$k$pQuesto è il motivo per cui apprezzo\nmolto ciò che fai in battaglia.$k$pVedo che ti prodighi per tutti e cerchi\ndi proteggerli dal pericolo.$k$pSono convinto che insieme riusciremo\na proteggere molte persone. Conta\npure sul mio aiuto.
+MID_DOHGA_VOICE01: むぅんっ！
+MID_DOHGA_VOICE02: でぇい！
+MID_DOHGA_VOICE03: うああっ！
+MID_DOHGA_VOICE04: W-what!
+MID_DOHGA_VOICE05: Non mi piegherò!
+MID_DOHGA_VOICE06: Togliti di mezzo!
+MID_DOHGA_VOICE07: Di qui non passi!
+MID_DOHGA_VOICE08: Per il mio signore!
+MID_DOHGA_VOICE09: Fight on...
+MID_DOHGA_VOICE10: Haha
+MID_DOHGA_VOICE11: Did you need me?
+MID_DOHGA_VOICE12: If you need me, just say so.
+MID_DOHGA_VOICE13: Do I have something on my face?
+MID_DOHGA_VOICE14: I'd like to stay by your side to the end.
+MID_DOHGA_VOICE15: This armor and I have been through a lot together.
+MID_DOHGA_VOICE16: There's someone I've sworn to protect above all others.
+MID_DOHGA_VOICE17: Let me be your shield. It’s what I do.
+MID_DOHGA_VOICE18: Understood.
+MID_DOHGA_VOICE19: Hmm...
+MID_DOHGA_VOICE20: Where to?

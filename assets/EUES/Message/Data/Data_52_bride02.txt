@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: Batalla de vínculos
+MID_MISSION_S201805KIZUNA01_A1: Superar batalla
+MID_MISSION_H_S201805KIZUNA01_A1: Gana la batalla de vínculos contra\nAmelia y Tana con Anna en tu batallón.
+MID_MISSION_S201805KIZUNA01_A2: Superar batalla
+MID_MISSION_H_S201805KIZUNA01_A2: Gana la batalla de vínculos contra Amelia\ny Tana en modo extremo o superior\ncon Alfonse, Príncipe de Askr, en tu batallón.
+MID_MISSION_S201805KIZUNA01_A3: Derrotar a Tana: 40+
+MID_MISSION_H_S201805KIZUNA01_A3: Con Anna, derrota a Tana\nen su versión de nivel 40 o superior.
+MID_MISSION_S201805KIZUNA01_A4: Derrotar a Amelia: 40+
+MID_MISSION_H_S201805KIZUNA01_A4: Con Alfonse, Príncipe de Askr, derrota a\nAmelia en su versión de nivel 40 o superior.
+MID_MISSION_S201805KIZUNA01_A5: Superar batalla
+MID_MISSION_H_S201805KIZUNA01_A5: Gana la batalla de vínculos contra Amelia\ny Tana en modo extremo o superior\ncon un batallón de unidades acorazadas.
+MID_MISSION_S201805SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201805SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201805SENKA01_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201805SENKA01_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201805SENKA01_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201805SENKA01_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201805SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201805SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201805SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201805SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201805SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201805STORY02_TITLE: Flores de boda
+MID_MISSION_S201805STORY02_A1: Desvío 20 - 1 / Extremo
+MID_MISSION_H_S201805STORY02_A1: Supera la 1.ª parte del desvío 20 en modo\nextremo con 4 unidades, incluyendo una\ncon hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201805STORY02_A2: Desvío 20 - 2 / Extremo
+MID_MISSION_H_S201805STORY02_A2: Supera la 2.ª parte del desvío 20 en modo\nextremo con 4 unidades, incluyendo un\nespadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201805STORY02_A3: Desvío 20 - 3 / Extremo
+MID_MISSION_H_S201805STORY02_A3: Supera la 3.ª parte del desvío 20 en modo\nextremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MPID_花婿マルス: Marth
+MPID_花嫁ニニアン: Ninian
+MPID_花嫁サーリャ: Tharja
+MPID_花嫁サナキ: Sanaki
+MPID_HONOR_花婿マルス: Esposo de Altea
+MPID_HONOR_花嫁ニニアン: Novia ilusionada
+MPID_HONOR_花嫁サーリャ: Novia obsesiva
+MPID_HONOR_花嫁サナキ: Apóstol nupcial
+MPID_H_花婿マルス: Príncipe de Altea que no duda en tomar\nlas armas para defender su patria y se ha\nvestido de novio para el festival. Aparece en\nFire Emblem: Mystery of the Emblem.
+MPID_H_花嫁ニニアン: Una joven bailarina de carácter apacible.\nLa rodea un aura de misticismo. Sus viajes la\nhan llevado hasta un festival sobre bodas.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_花嫁サーリャ: Maga plegiana un tanto celosa y de\ninquietante personalidad. Piensa hacerse\ncon el premio del festival: un ramo de novia.\nAparece en Fire Emblem: Awakening.
+MPID_H_花嫁サナキ: Emperatriz de Begnion conocida como la\nApóstol y voz de la diosa. Participa en un\nfestival sobre bodas para saciar su curiosidad.\nAparece en Fire Emblem: Path of Radiance.
+MPID_VOICE_花婿マルス: Yuri Lowenthal
+MPID_VOICE_花嫁ニニアン: Brianna Knickerbocker
+MPID_VOICE_花嫁サーリャ: Stephanie Sheh
+MPID_VOICE_花嫁サナキ: Sara Beth
+MPID_ILLUST_花婿マルス: Mayo (まよ)
+MPID_ILLUST_花嫁ニニアン: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_花嫁サーリャ: Sencha (煎茶)
+MPID_ILLUST_花嫁サナキ: Tomioka Jiro (富岡二郎)
+MID_SEQUENTIAL_MAP_TERM_201805: La ardiente Loki
+MSID_愛のケーキサーバ: Servicio ferviente
+MSID_愛のケーキサーバ＋: Servicio ferv. +
+MSID_ムスペルの炎花: Ramo Múspell
+MSID_清らかなブーケ: Ramo fresco
+MSID_清らかなブーケ＋: Ramo fresco +
+MSID_ニフルの氷花: Ramo Nifl
+MSID_攻撃の封印1: Gelidez Ata 1
+MSID_攻撃の封印2: Gelidez Ata 2
+MSID_攻撃の封印3: Gelidez Ata 3
+MSID_守備魔防の連携1: Nexo Def/Res 1
+MSID_守備魔防の連携2: Nexo Def/Res 2
+MSID_守備魔防の連携3: Nexo Def/Res 3
+MSID_速さの共謀1: Amago Vel 1
+MSID_速さの共謀2: Amago Vel 2
+MSID_速さの共謀3: Amago Vel 3
+MSID_H_愛のケーキサーバ: Al inicio del turno, si hay un aliado en\nuna casilla adyacente a la de la unidad,\notorga Ata + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.
+MSID_H_愛のケーキサーバ＋: Al inicio del turno, si hay un aliado en\nuna casilla adyacente a la de la unidad,\notorga Ata + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.
+MSID_H_ムスペルの炎花: Otorga Vel + 3. En combate, Ata y Vel\nde la unidad aumentan tanto como el\nnúmero de aliados en un radio de dos\ncasillas multiplicado por 2 (hasta un\nmáximo de + 6 por atributo).
+MSID_H_清らかなブーケ: Al inicio del turno, si hay un aliado en\nuna casilla adyacente a la de la unidad,\notorga Vel + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.
+MSID_H_清らかなブーケ＋: Al inicio del turno, si hay un aliado en\nuna casilla adyacente a la de la unidad,\notorga Vel + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.
+MSID_H_ニフルの氷花: Otorga Ata + 3. En combate, Ata y Vel\nde la unidad aumentan tanto como el\nnúmero de aliados en un radio de dos\ncasillas multiplicado por 2 (hasta un\nmáximo de + 6 por atributo).
+MSID_H_攻撃の封印1: Al inicio del turno, inflige Ata - 3 al rival\nque tenga más Ata en su próxima acción.
+MSID_H_攻撃の封印2: Al inicio del turno, inflige Ata - 5 al rival\nque tenga más Ata en su próxima acción.
+MSID_H_攻撃の封印3: Al inicio del turno, inflige Ata - 7 al rival\nque tenga más Ata en su próxima acción.
+MSID_H_守備魔防の連携1: Otorga Def y Res + 2 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_守備魔防の連携2: Otorga Def y Res + 4 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_守備魔防の連携3: Otorga Def y Res + 6 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_速さの共謀1: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Vel - 3\na los enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MSID_H_速さの共謀2: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Vel - 5\na los enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MSID_H_速さの共謀3: Si la unidad usa o recibe una habilidad\nde potenciar atributos, inflige Vel - 7\na los enemigos situados en cruz respecto\na la unidad en su próxima acción.
+MID_CHAPTER_TITLE_CX019: Desvío 20
+MID_CHAPTER_CX019: Flores de boda
+MID_STAGE_TITLE_X0191: Desv. 20 - Parte 1
+MID_STAGE_TITLE_X0192: Desv. 20 - Parte 2
+MID_STAGE_TITLE_X0193: Desv. 20 - Parte 3
+MID_STAGE_X0191: Ya llega el novio
+MID_STAGE_X0192: Un velo de inseguridad
+MID_STAGE_X0193: Amor y guerra
+MID_STAGE_TITLE_ST_X0018: Desvío 19
+MID_STAGE_TITLE_ST_X0019: Desvío 20
+MID_STAGE_TITLE_ST_X1019: Desvíos 19 y 20
+MID_CHAPTER_ST_CX010: Desvíos 19 y 20

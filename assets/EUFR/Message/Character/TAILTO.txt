@@ -1,0 +1,38 @@
+[Heroes Archive] (TAILTO)
+
+
+Heroes Message Name: Message
+
+
+MID_TAILTO_HOME1: Ici, tout le monde ne fait que discuter\nde choses qui ne m'intéressent pas.\nJe m'ennuie !
+MID_TAILTO_HOME2: Qu'est-ce que c'est que cette arme\nbizarre ? Oh, vous pouvez invoquer\ndes héros avec ? Génial !
+MID_TAILTO_HOME3: Vous êtes en patrouille ? $GTout seul,Toute seule|,\nvous allez vous ennuyer. Laissez-moi\nvous accompagner !
+MID_TAILTO_HOME4: Pardonnez-moi, père... Notre famille\na été déshonorée par ma faute.
+MID_TAILTO_HOME5: Si vous évitez les sujets ennuyeux,\nje discuterai avec vous aussi\nlongtemps que vous voulez !
+MID_TAILTO_FRIEND: Bonjour, je m'appelle Tailtiu !\nJ'ai été envoyée par\n$Nf.
+MID_TAILTO_LEVEL1: Ha, avouez que je vous\nimpressionne !
+MID_TAILTO_LEVEL2: C'était plutôt bien, non ?
+MID_TAILTO_LEVEL3: Oh non... Qu'est-ce qui a bien\npu se passer ?
+MID_TAILTO_SKILL: Merci ! Je déborde d'énergie !
+MID_TAILTO_JOIN: Je suis Tailtiu, descendante du croisé\nThrud. Mais assez parlé de moi, je\nveux en savoir plus sur vous !
+MID_TAILTO_STRONGEST: Dites, vous avez une minute ?$k$pVous êtes toujours si $Ggentil,gentille| avec\nmoi. C'est l'une des choses qui me\nplaisent le plus chez vous.$k$pOh ! Vous rougissez ! Je ne\nm'attendais pas à ça de votre part !$k$pJe n'aime pas trop réfléchir, mais je\nfais confiance à mon instinct. Je sens\nque vous êtes quelqu'un de bien.$k$pQuand une personne me donne cette\nimpression, je fais tout mon possible\npour l'aider.$k$pJe passe toujours un bon moment\nquand je parle avec vous,\n$Nu.$k$pSi vous continuez de m'aider, je\nvous rendrai la pareille !
+MID_TAILTO_VOICE01: えいっ！
+MID_TAILTO_VOICE02: それっ！
+MID_TAILTO_VOICE03: きゃあっ！
+MID_TAILTO_VOICE04: ひどい…
+MID_TAILTO_VOICE05: C'est parti !
+MID_TAILTO_VOICE06: Désolée !
+MID_TAILTO_VOICE07: Ça suffit !
+MID_TAILTO_VOICE08: Au revoir !
+MID_TAILTO_VOICE09: Are you kidding?
+MID_TAILTO_VOICE10: Hehe
+MID_TAILTO_VOICE11: Hey! I have something I need to talk to you about.
+MID_TAILTO_VOICE12: Huh? Oh... It's you. Don't sneak up on me like that.
+MID_TAILTO_VOICE13: I don't spend a lot of time thinking about things I'm not interested in.
+MID_TAILTO_VOICE14: Thank you so much! I’m feeling a lot better, and it’s all thanks to you.
+MID_TAILTO_VOICE15: Now that I've gotten to know you, I like you a lot.
+MID_TAILTO_VOICE16: I'm sorry, Father...
+MID_TAILTO_VOICE17: Well, I'm worried about you. So I decided to protect you.
+MID_TAILTO_VOICE18: All right!
+MID_TAILTO_VOICE19: Hmm...
+MID_TAILTO_VOICE20: Hurry it up!

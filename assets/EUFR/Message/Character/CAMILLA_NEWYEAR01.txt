@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_NEWYEAR01_HOME1: Je ne pensais pas que ce kimono\nallait me plaire, mais en fait, en\nblanc, j'ai l'allure d'un Gardien d'Askr.$k$pCamilla, au rapport ! Hi hi ! Je\nm'entraîne...
+MID_CAMILLA_NEWYEAR01_HOME2: Nous étions en train de fêter le\nNouvel An en kimono pour consolider\nnotre amitié avec Hoshido.$k$pPour bien s'entendre, il est important\nde comprendre la culture de chacun.
+MID_CAMILLA_NEWYEAR01_HOME3: Je comprends que vous preniez vos\nresponsabilités au sérieux, mais c'est\nle Nouvel An !$k$pVous devriez vous détendre un peu.\nJ'espérais profiter de ce moment pour\napprendre à mieux vous connaître.
+MID_CAMILLA_NEWYEAR01_HOME4: Vous voulez bien m'aider à ajuster\nmon kimono ? Oh ? Pourquoi\nrougissez-vous ?
+MID_CAMILLA_NEWYEAR01_HOME5: Mon arme vous plaît ? C'est un\nkadomatsu. Techniquement, c'est\nune décoration, mais...$k$pC'est tellement pointu, il serait\ndommage de ne pas l'utiliser sur\nle champ de bataille !
+MID_CAMILLA_NEWYEAR01_FRIEND: Bonne année ! Promettez-moi\nde toujours être $Gun bon ami,une bonne amie|\npour $Nf.
+MID_CAMILLA_NEWYEAR01_LEVEL1: L'année s'annonce excellente !
+MID_CAMILLA_NEWYEAR01_LEVEL2: Cette année sera différente de\nla précédente.
+MID_CAMILLA_NEWYEAR01_LEVEL3: Cette année, je devrais\npeut-être essayer de me\ndétendre...
+MID_CAMILLA_NEWYEAR01_SKILL: Un nouveau pouvoir pour la\nnouvelle année... Merci !
+MID_CAMILLA_NEWYEAR01_JOIN: Je suis Camilla, princesse de Nohr.\nCette année, nous fêtons le Nouvel\nAn selon la tradition d'Hoshido !
+MID_CAMILLA_NEWYEAR01_STRONGEST: Ah, $Nu !\nPassez-vous un bon Nouvel An ?$k$pNos cultures sont différentes, mais\non dirait que tout le monde aime\npasser ce moment en famille.$k$pMais vous, vous n'avez aucune\nfamille ici.$k$pJe ne veux pas que vous vous\nsentiez $Gseul,seule|. Si je peux faire quoi\nque ce soit pour vous, dites-le-moi.$k$pDepuis le temps, c'est comme si\nnous étions de la même famille. Je\ndevrais peut-être vous border.$k$pPeut-être que comme ça, nous\ncommencerons l'année en rêvant\n$Gl'un,l'une| de l'autre !$k$pMon souhait pour le Nouvel An, c'est\nd'être plus proche de vous que\nn'importe quel autre héros.$k$pM'aiderez-vous à le réaliser ?
+MID_CAMILLA_NEWYEAR01_VOICE01: えいっ
+MID_CAMILLA_NEWYEAR01_VOICE02: How about this?
+MID_CAMILLA_NEWYEAR01_VOICE03: くっ…！
+MID_CAMILLA_NEWYEAR01_VOICE04: Oh my...
+MID_CAMILLA_NEWYEAR01_VOICE05: Bonne année !
+MID_CAMILLA_NEWYEAR01_VOICE06: C'est la fête !
+MID_CAMILLA_NEWYEAR01_VOICE07: Quelle impertinence !
+MID_CAMILLA_NEWYEAR01_VOICE08: Fêtons la nouvelle année !
+MID_CAMILLA_NEWYEAR01_VOICE09: My outfit...!
+MID_CAMILLA_NEWYEAR01_VOICE10: Heehee
+MID_CAMILLA_NEWYEAR01_VOICE11: Here we are! The New Year—and aren't we just adorable!
+MID_CAMILLA_NEWYEAR01_VOICE12: I wanted to dress for the occasion. Like it?
+MID_CAMILLA_NEWYEAR01_VOICE13: It's a Hoshidan kimono. Quite sensual, don't you think?
+MID_CAMILLA_NEWYEAR01_VOICE14: Who were you with for the New Year's countdown?
+MID_CAMILLA_NEWYEAR01_VOICE15: This kimono isn't quite...tailored for me.
+MID_CAMILLA_NEWYEAR01_VOICE16: I should dress my retainers in kimonos too!
+MID_CAMILLA_NEWYEAR01_VOICE17: We should spend the New Year together every year, darling.
+MID_CAMILLA_NEWYEAR01_VOICE18: Yes?
+MID_CAMILLA_NEWYEAR01_VOICE19: Let's go.
+MID_CAMILLA_NEWYEAR01_VOICE20: Best wishes.
+MID_CAMILLA_NEWYEAR01_VOICE21: A New Year—and you need me already?

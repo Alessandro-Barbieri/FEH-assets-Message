@@ -1,0 +1,38 @@
+[Heroes Archive] (RODY)
+
+
+Heroes Message Name: Message
+
+
+MID_RODY_HOME1: En este castillo los héroes son\nbienvenidos, pero ¿me incluye eso\na mí? No soy más que un aprendiz.
+MID_RODY_HOME2: Quien lideraba nuestro pelotón en\nmi mundo era una persona por la\nque sentía un profundo respeto.$k$pHe de admitir que, en cierto modo,\nme recuerdas a aquella persona.
+MID_RODY_HOME3: Quiero convertirme en un auténtico\ncaballero de Altea y que por ello se\nme considere un hombre importante.$k$pPero, para lograrlo, debo completar\nmi formación como caballero.
+MID_RODY_HOME4: Luke y yo somos amigos desde hace\nmucho tiempo. Quizá se precipite\nal actuar, pero tiene buen corazón.
+MID_RODY_HOME5: Me gustaría acompañarte a explorar\nlas afueras del castillo. Siempre es\nmejor estar preparado para todo.
+MID_RODY_FRIEND: Deja que me presente: soy Roderick,\naprendiz de caballero. Traigo saludos\nde $Nf.
+MID_RODY_LEVEL1: Deja que saboree esto por un\ninstante. Hay mucho por hacer.
+MID_RODY_LEVEL2: Esto me da ánimos. La clave\nes avanzar lento pero seguro.
+MID_RODY_LEVEL3: Así acabaré flaqueando.\nHe de esforzarme más.
+MID_RODY_SKILL: Te doy las gracias y te prometo\nque me entregaré al máximo.
+MID_RODY_JOIN: Me llamo Roderick y me estoy\nformando como caballero de Altea.\nMe esforzaré por demostrar mi valía.
+MID_RODY_STRONGEST: ¿He demostrado ya mi valía? Espero\nhaberme hecho lo suficientemente\nfuerte como para serte útil.$k$pMe cuesta discernir si doy o no\nla talla, pero tengo la sensación\nde que no te he decepcionado.$k$pJuro que haré todo lo que esté en\nmi mano por no resultar una carga.$k$pDe hecho, espero aligerar el peso\nsobre tus hombros... Los Guardianes\ndependemos mucho de ti.$k$pNo logro imaginar lo que supone\nllevar tal carga, pero, si me permites\nquedarme, yo...$k$pla compartiré gustoso contigo.
+MID_RODY_VOICE01: はっ！
+MID_RODY_VOICE02: せいっ！
+MID_RODY_VOICE03: うああっ！
+MID_RODY_VOICE04: …I left myself open…
+MID_RODY_VOICE05: ¡Me emplearé a fondo!
+MID_RODY_VOICE06: ¡No te lo pondré fácil!
+MID_RODY_VOICE07: ¡Prepárate para mi ataque!
+MID_RODY_VOICE08: ¡Cumpliré con mi deber!
+MID_RODY_VOICE09: Sorry...
+MID_RODY_VOICE10: Haha
+MID_RODY_VOICE11: May I be of service to you?
+MID_RODY_VOICE12: Oh! You seem to do that a lot.
+MID_RODY_VOICE13: What is our plan for the next battle?
+MID_RODY_VOICE14: I try to remember to battle as a team—never in isolation.
+MID_RODY_VOICE15: If ever you need me, I am delighted to serve.
+MID_RODY_VOICE16: I wonder how everyone in my platoon is doing.
+MID_RODY_VOICE17: I am deeply honored to fight alongside you.
+MID_RODY_VOICE18: Understood.
+MID_RODY_VOICE19: Of course.
+MID_RODY_VOICE20: Ready.

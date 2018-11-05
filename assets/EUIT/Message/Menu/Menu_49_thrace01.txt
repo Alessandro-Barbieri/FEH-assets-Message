@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: Suggerimenti di amicizia
+MID_FRIEND_NUM: $aAmici   $a0/$a1
+MID_FRIEND_HELP_FRIEND: $aAmici aiutati: $a0
+MID_ITEM_OCCUPATION_POTION: Lancia conquistatrice
+MID_ITEM_HELP_OCCUPATION_POTION: Conferisce 8 punti energia per Grandi conquiste.
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $aLa battaglia $a0 è terminata\ne i risultati non verranno calcolati.
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $aPremio rango GC: $a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $aPremio conquista GC: battaglia $a0
+MID_OCCUPATION_AREA: $aZona $a0
+MID_OCCUPATION_TITLE: Grandi conquiste
+MID_OCCUPATION_CLOSED: Nessuna battaglia in corso.
+MID_OCCUPATION_AGGREGATING: Calcolo risultati...
+MID_OCCUPATION_GROUPING_DELAYING: Calcolo ancora in corso.\nAttendi che venga ultimato.\nGrazie per la pazienza!
+MID_OCCUPATION_REGISTRATION: Controllo registrazione
+MID_OCCUPATION_REGISTER: Combatti!
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: Controllo registrazione completato.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: Elaborazione registrazione in corso.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $aAttendi l'inizio della battaglia $a0.
+MID_OCCUPATION_REGISTRATION_INTERVAL: $aVedi il tuo stato dopo l'inizio della battaglia $a0.
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: Evento terminato.
+MID_OCCUPATION_ROUND_RESULT: $aBattaglia $a0 terminata.
+MID_OCCUPATION_TERM_RESULT: Evento terminato.
+MID_OCCUPATION_ROUND_LEFT_DAY: $aFine battaglia $a0 tra: $a1 g
+MID_OCCUPATION_ROUND_LEFT_HOUR: $aFine battaglia $a0 tra: $a1 h
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $aFine battaglia $a0 tra: $a1 m
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $aInizio battaglia $a0 tra: $a1 g
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $aInizio battaglia $a0 tra: $a1 h
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $aInizio battaglia $a0 tra: $a1 m
+MID_OCCUPATION_WORLDMAP_HELP: Scegli una zona e combatti!
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $aHai aiutato nella $a0!\nSupporto all'$a1: +1.\n(Puoi offrire aiuto 1 volta per round.)
+MID_OCCUPATION_GRADE: $aRango GC $a0
+MID_OCCUPATION_GRADE_POINT_MAX: MAX
+MID_OCCUPATION_GRADE_HELP: $aAggiunge un $a0% di punti alle zone adiacenti
+MID_OCCUPATION_ROUND: $aBattaglia $a0
+MID_OCCUPATION_GRUOP_ID: $aAltrotempo $a0
+MID_OCCUPATION_OPERATION: $aRound $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aAncora $a0 m
+MID_OCCUPATION_STAMINA: Energia
+MID_OCCUPATION_STAMINA_RECOVER_FULL: Energia al massimo.
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: Non hai energia sufficiente. Vuoi\nusare una lancia conquistatrice\nper recuperare 8 punti energia?
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: Usare una lancia conquistatrice\nper recuperare 8 punti energia?
+MID_OCCUPATION_STAMINA_RECOVER: Recupera energia
+MID_OCCUPATION_STAMINA_RECOVER_DONE: Hai usato 1 lancia conquistatrice\nper recuperare energia.
+MID_OCCUPATION_AREA_COUNT: Zone controllate
+MID_OCCUPATION_REINFORCE: Aiuta!
+MID_OCCUPATION_REWARD: Ricompense
+MID_OCCUPATION_REWARD_SORT: $aTipo ricompensa: $a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: Tipo ricompensa
+MID_OCCUPATION_REWARD_SORT_GRADE: Rango GC
+MID_OCCUPATION_REWARD_SORT_AREA: Conto zone
+MID_OCCUPATION_AREA_NAME: $aZona $a0
+MID_OCCUPATION_GUILD_NAME_0: Armata di Alfonse
+MID_OCCUPATION_GUILD_NAME_1: Armata di Sharena
+MID_OCCUPATION_GUILD_NAME_2: Armata di Anna
+MID_OCCUPATION_AREA_TOP_USER: $aMigliore: $a0 ($a1)
+MID_OCCUPATION_AREA_SITUATION: Stato battaglia
+MID_OCCUPATION_AREA_ALLY_RANKING: Attività alleati
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $aPrima volta qui per $a0.
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: Tu
+MID_OCCUPATION_AREA_EFFECT: Effetti zona
+MID_OCCUPATION_AREA_EFFECT_NONE: Nessun effetto attivo.
+MID_OCCUPATION_AREA_EFFECT_FIXED: Effetto speciale (zona attuale)
+MID_OCCUPATION_AREA_EFFECT_IN: Effetto da zona alleata adiacente
+MID_OCCUPATION_AREA_EFFECT_OUT: Effetto su zone alleate adiacenti
+MID_OCCUPATION_POWER_RATE: $aAumento x$a0
+MID_OCCUPATION_POWER_RATE_DIALOG: $a(Aumento x$a0)
+MID_OCCUPATION_DIALIG_REFRESH: Condizioni della battaglia cambiate.\nLa mappa cambierà per riflettere\nle condizioni attuali.
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $aTruppe: $a0
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $aTruppe: $a0
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: Non puoi combattere in questa\nzona: è il QG di un'armata.
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: Irraggiungibile
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: Controllata da:
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $aL'$a0 ha vinto!\nRicombatti nel prossimo round.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: Non puoi combattere qui: zona\nnon confinante con una nemica.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: Non puoi combattere qui: zona\nnon confinante con una alleata.
+MID_OCCUPATION_RESULT_FAILED: Difesa fallita
+MID_OCCUPATION_RESULT_DEFEND: Difesa riuscita
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: Zona controllata
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: Fortino nemico catturato
+MID_OCCUPATION_RESULT_DOMINATION_NUM: Campi controllati:
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: Tre eserciti in lotta per il territorio!
+MID_OCCUPATION_HELP_DIALOG_01: ◆Grandi conquiste◆\nIn Grandi conquiste, tre armate\nsi scontrano per ottenere il\ncontrollo su un continente.\n\nA fine battaglia, le armate\nottengono premi. Più zone\ncontrollano, più le ricompense\nsaranno di qualità!
+MID_OCCUPATION_HELP_DIALOG_02: ◆Come si gioca◆\nSeleziona una zona adiacente a\nun nemico per scendere in campo\ne ottenere punti, consumando\nenergia specifica dell'evento.\nUsa l'opzione Aumento per\nconsumare più energia e\nmoltiplicare il tuo punteggio!
+MID_OCCUPATION_HELP_DIALOG_03: ◆Effetti sul punteggio◆\nDopo che combatti, ottieni\ndei punti che saranno aggiunti\nal totale della tua armata nella\nzona da te selezionata.
+MID_OCCUPATION_HELP_DIALOG_04: ◆Catturare zone◆\n・ L'armata che controlla una\nzona all'inizio di un round inizierà\nad accumulare punti.\n・ L'armata con più punti alla\nfine di un round catturerà quella\nzona.
+MID_OCCUPATION_HELP_DIALOG_05: ◆Bonus cooperazione◆\nDurante ogni round, vengono\napplicati punti bonus a quelli\ntotali ottenuti in una zona, in\nbase al numero di alleati scesi\nin campo in quella zona durante\nquel round.
+MID_OCCUPATION_HELP_DIALOG_06: ◆Aiutare◆\n・ Puoi aiutare 1 volta per round.\n・ Aiutare aumenta di 1 gli alleati\nche combattono in una zona\nselezionata casuale, e favorisce\nl'aumento del bonus\ncooperazione. Potresti\nricevere un oggetto casuale.
+MID_OCCUPATION_HELP_DIALOG_07: ◆Subire una sconfitta◆\n・ Gli eserciti possono venire\nsbaragliati a metà di un round\nal calcolo delle condizioni di\nbattaglia. Se la differenza di punti\ntra l'armata al 1º e l'armata al 2º\nposto supera il limite, il vincitore\ncattura subito la zona.\n・ Se questo succede, per il resto\ndel round in quella zona non è\npossibile combattere oltre.
+MID_OCCUPATION_HELP_DIALOG_08: ◆Ranghi GC◆\n・ Il tuo rango GC aumenterà in\nbase al tuo punteggio finale in\nbattaglia.\n・ Più alto è il tuo rango GC, più\npunti saranno aggiunti alle zone\nadiacenti a quella in cui ti trovi.\n・ In base al tuo rango GC, puoi\nanche ricevere altri premi.
+MID_OCCUPATION_GRADE_PROMOTION: $aIl tuo rango GC è salito\nda $a0 a $a1.
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: Punteggio zone adiacenti
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a+$a0%
+MID_SHOP_REMAINING_MINUTES: $aL'offerta scade tra $a0 m.
+MID_SHOP_REMAINING_HOURS: $aL'offerta scade tra $a0 h.
+MID_SHOP_REMAINING_DAYS: $aL'offerta scade tra $a0 g.
+MID_TAP_BATTLE_TITLE_1: Battaglia tattile
+MID_CONQUER_HELP_DIALOG_01_02: ◆Regole di Lotta di potere◆\n・ La battaglia non termina con\nla sconfitta delle unità in campo:\nnuove unità arrivano di continuo.\n・ La battaglia termina dopo 10\nturni o con la distruzione di uno\ndei fortini.
+MID_CONQUER_HELP_DIALOG_06: ◆Altre regole di Lotta di potere◆\n・ I rinforzi non godranno\ndegli effetti leggendari.\n・ Non riceverai Esp né PA.\n・ Usare partner di sostegno\nalleati o sostegno Evocat. non\naumenterà il livello di sostegno.
+MID_VOTE_DIALOG_HELP_03_02: ◆Battaglie◆\nDopo una vittoria, dovrai attendere\nun dato periodo di tempo per poter\ncombattere nuovamente a fianco\ndel tuo eroe preferito.

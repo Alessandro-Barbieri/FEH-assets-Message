@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: ◆得分◆\n一旦獲勝，即可依對手強度\n獲得相對應的分數。\n\n如果連勝，上一場的勝利得分\n將可計入連勝獎勵。\n※連勝獎勵會在５連勝後歸零。
+MID_ARENA_DIALOG_HELP_04_51: ◆報酬◆\n賽季結束後，\n會依據階級給予相對應的報酬。\n\n如果取得優異的最高得分，\n就有機會提升階級。
+MID_ARENA_DIALOG_HELP_06_51: ◆獎勵角色能力的提升◆\n獎勵角色的能力\n只有在鬥技場中才會提升。\n（ＨＰ＋１０\n　攻擊、速度、防守、魔防＋４）\n\n※此能力提升不會影響配對時\n　對手的強度以及可以獲得的得分。\n※防衛時不會提升能力。
+MID_ARENA_DIALOG_HELP_3_00_51: ◆檢視報酬◆\n可檢視本賽季的報酬。\n\n切換篩選條件，\n即可分別檢視\n「防衛」、「階級」報酬。
+MID_ARENA_DIALOG_HELP_3_01_51: ◆防衛◆\n防衛的最高得分報酬一覽表。
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $a鬥技場・首次$a0連勝報酬
+MID_ARENA_DESCRIPTION_51: 在本鬥技場測試身手，可挑戰\n全世界的強敵，還能獲得報酬。\n和英雄一起奪下5連勝吧。
+MID_ARENA_COMBO_CAPTION2: $a連勝數 $a0/$a2　連勝獎勵＋$a1！
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: 無法開始戰鬥。\n要前往賦予祝福選單嗎？
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: 基於為客戶提供個人化服務、\n發送廣告及分析當機資料等目的，\n「Fire Emblem Heroes」\n將蒐集客戶使用本應用程式時\n所使用之資料。\n\n目前您已停止傳送使用資料。\n\n※如欲終止本應用程式以外的廣告發送服務，\n請變更您使用的裝置的設定。
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $a於大壓制階級$a0時開放
+MID_SUMMON_ONLY_ONCE_DECIDE: 免費 ★５召喚
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: 點觸召喚師進行攻擊！
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: 點觸橫列進行攻擊！
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: 特別關卡
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $a$a0的BOSS
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a0 $a1
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ？？？
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: 曲名
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: 特別關卡１
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: 特別關卡２
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: 特別關卡３
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $a距離開放還有$a0分
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $a距離開放還有$a0小時
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $a距離開放還有$a0天
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a【$a0】\n$a1／$a2的\n所有關卡遊玩評價\n皆獲得「Ｓ」！
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a【$a0】\n$a1／$a2的\n所有特別關卡遊玩評價\n皆獲得「Ｓ」！
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: 過關１００層地下城內\n第２０層後，\n即可遊玩特別關卡。
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a距離$a0出現\n還有$a1分鐘。
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a距離$a0出現\n還有$a1小時。
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a距離$a0出現\n還有$a1天。
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: 感謝玩家支持贈禮

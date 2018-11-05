@@ -1,0 +1,288 @@
+[Heroes Archive] (Data_442_legend01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201802A_TITLE: Retos: febrero (1)
+MID_MISSION_M201802A_A1: Victoria carmesí
+MID_MISSION_H_M201802A_A1: Vence a enemigos con\nunidades de tipo rojo.
+MID_MISSION_M201802A_A2: Victoria aérea
+MID_MISSION_H_M201802A_A2: Vence a enemigos con\nunidades aéreas.
+MID_MISSION_M201802A_A3: Objetivo: azul
+MID_MISSION_H_M201802A_A3: Vence a enemigos de tipo azul.
+MID_MISSION_M201802A_A4: Poder anticaballería
+MID_MISSION_H_M201802A_A4: Derriba unidades a caballo.
+MID_MISSION_M201802A_A5: Gladiador
+MID_MISSION_H_M201802A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201802A_A6: Poderío glauco
+MID_MISSION_H_M201802A_A6: Vence a enemigos de nivel 20\no superior con unidades de\ntipo verde.
+MID_MISSION_M201802A_A7: Poderío a caballo
+MID_MISSION_H_M201802A_A7: Vence a enemigos de nivel 20\no superior con unidades de caballería.
+MID_MISSION_M201802A_A8: Objetivo: nivel 20+ rojo
+MID_MISSION_H_M201802A_A8: Vence a enemigos de tipo rojo\nde nivel 20 o superior.
+MID_MISSION_M201802A_A9: Objetivo: nivel 20+ aéreo
+MID_MISSION_H_M201802A_A9: Vence a unidades aéreas\nde nivel 20 o superior.
+MID_MISSION_M201802A_A10: Gladiador curtido
+MID_MISSION_H_M201802A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201802A_A11: Gloria añil
+MID_MISSION_H_M201802A_A11: Vence a enemigos de nivel 35\no superior con unidades de\ntipo azul.
+MID_MISSION_M201802A_A12: Gloria pedestre
+MID_MISSION_H_M201802A_A12: Vence a enemigos de nivel 35\no superior con unidades de infantería.
+MID_MISSION_M201802A_A13: Sublimación glauca
+MID_MISSION_H_M201802A_A13: Vence a enemigos de tipo verde\nde nivel 35 o superior.
+MID_MISSION_M201802A_A14: Sublimación pedestre
+MID_MISSION_H_M201802A_A14: Vence a enemigos de infantería\nde nivel 35 o superior.
+MID_MISSION_M201802A_A15: Maestro gladiador
+MID_MISSION_H_M201802A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201802B_TITLE: Retos: febrero (2)
+MID_MISSION_M201802B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201802B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201802B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201802B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201802B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201802B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201802B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201802B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201802B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201802B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201802B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201802B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201802B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201802B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201802B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201802B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201802B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201802B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201802B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201802C_TITLE: Retos: febrero (3)
+MID_MISSION_M201802C_A1: Cap. 6 - Parte 1
+MID_MISSION_H_M201802C_A1: Supera la 1.ª parte del capítulo 6\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201802C_A2: Cap. 6 - Parte 2
+MID_MISSION_H_M201802C_A2: Supera la 2.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A3: Cap. 6 - Parte 3
+MID_MISSION_H_M201802C_A3: Supera la 3.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A4: Cap. 6 - Parte 4
+MID_MISSION_H_M201802C_A4: Supera la 4.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A5: Cap. 6 - Parte 5
+MID_MISSION_H_M201802C_A5: Supera la 5.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A6: Cap. 9 - Parte 1 / Difícil+
+MID_MISSION_H_M201802C_A6: Supera la 1.ª parte del capítulo 9\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201802C_A7: Cap. 9 - Parte 2 / Difícil+
+MID_MISSION_H_M201802C_A7: Supera la 2.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201802C_A8: Cap. 9 - Parte 3 / Difícil+
+MID_MISSION_H_M201802C_A8: Supera la 3.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201802C_A9: Cap. 9 - Parte 4 / Difícil+
+MID_MISSION_H_M201802C_A9: Supera la 4.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201802C_A10: Cap. 9 - Parte 5 / Difícil+
+MID_MISSION_H_M201802C_A10: Supera la 5.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201802C_A11: Cap. 12 - Parte 1 / Extr.
+MID_MISSION_H_M201802C_A11: Supera la 1.ª parte del capítulo 12 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201802C_A12: Cap. 12 - Parte 2 / Extr.
+MID_MISSION_H_M201802C_A12: Supera la 2.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A13: Cap. 12 - Parte 3 / Extr.
+MID_MISSION_H_M201802C_A13: Supera la 3.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A14: Cap. 12 - Parte 4 / Extr.
+MID_MISSION_H_M201802C_A14: Supera la 4.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201802C_A15: Cap. 12 - Parte 5 / Extr.
+MID_MISSION_H_M201802C_A15: Supera la 5.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801SENKA02_DAILY_TITLE: La Tormenta mini
+MID_MISSION_S201801SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201801SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201801SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201801SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201801SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201801SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201801SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201801SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201802DEFEAT01_TITLE: Vencer enemigos
+MID_MISSION_S201802DEFEAT01_A1: Objetivo: nivel 10+
+MID_MISSION_H_S201802DEFEAT01_A1: Vence a enemigos de tipo verde\nde nivel 10 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201802DEFEAT01_A2: Objetivo: nivel 10+
+MID_MISSION_H_S201802DEFEAT01_A2: Vence a enemigos de tipo rojo\nde nivel 10 o superior con unidades\nde tipo azul.
+MID_MISSION_S201802DEFEAT01_A3: Objetivo: nivel 10+
+MID_MISSION_H_S201802DEFEAT01_A3: Vence a enemigos de tipo azul\nde nivel 10 o superior con unidades\nde tipo verde.
+MID_MISSION_S201802DEFEAT01_A4: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A4: Vence a enemigos que usen bastón\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201802DEFEAT01_A5: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A5: Vence a enemigos que usen arco\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201802DEFEAT01_A6: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A6: Vence a enemigos que usen dagas\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201802DEFEAT01_A7: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A7: Vence a enemigos que usen grimorio verde\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201802DEFEAT01_A8: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A8: Vence a enemigos que usen grimorio rojo\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201802DEFEAT01_A9: Objetivo: nivel 20+
+MID_MISSION_H_S201802DEFEAT01_A9: Vence a enemigos que usen grimorio azul\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201802DEFEAT01_A10: Objetivo: nivel 40+
+MID_MISSION_H_S201802DEFEAT01_A10: Vence a enemigos que usen hacha\nde nivel 40 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201802DEFEAT01_A11: Objetivo: nivel 40+
+MID_MISSION_H_S201802DEFEAT01_A11: Vence a enemigos que usen espada\nde nivel 40 o superior con unidades\nde tipo azul.
+MID_MISSION_S201802DEFEAT01_A12: Objetivo: nivel 40+
+MID_MISSION_H_S201802DEFEAT01_A12: Vence a enemigos que usen lanza\nde nivel 40 o superior con unidades\nde tipo verde.
+MID_MISSION_S201802DEFEAT01_A13: Objetivo: nivel 40+
+MID_MISSION_H_S201802DEFEAT01_A13: Vence a enemigos de tipo gris\nde nivel 40 o superior con unidades\nde tipo gris.
+MID_MISSION_S201802HERO01_TITLE: Grandes batallas
+MID_MISSION_S201802HERO01_A1: Derrotar a Valter: Sharena
+MID_MISSION_H_S201802HERO01_A1: Gana la gran batalla contra\nValter, Adularia oscura,\ncon Sharena en tu batallón.
+MID_MISSION_S201802HERO01_A2: Derrotar a Valter: extremo
+MID_MISSION_H_S201802HERO01_A2: Gana la gran batalla contra Valter,\nAdularia oscura, en modo extremo o superior\ncon Valter, Adularia oscura, en tu batallón.
+MID_MISSION_S201802HERO01_A3: Derrotar a Valter: 40+
+MID_MISSION_H_S201802HERO01_A3: Con Sharena, derrota a Valter,\nAdularia oscura, en su versión\nde nivel 40 o superior.
+MID_MISSION_S201802HERO01_A4: Derrotar a Valter: Valter
+MID_MISSION_H_S201802HERO01_A4: Con Valter, Adularia oscura, derrota\na Valter, Adularia oscura, en su\nversión de nivel 40 o superior.
+MID_MISSION_S201802HERO01_A5: Derrotar a Valter: inf.
+MID_MISSION_H_S201802HERO01_A5: Gana la gran batalla contra Valter,\nAdularia oscura, en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201802VMAP01_TITLE: Reto de creadores
+MID_MISSION_S201802VMAP01_A1: Eficacia máxima
+MID_MISSION_H_S201802VMAP01_A1: Supera "Eficacia máxima", de mk1,\ncon 4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201802VMAP01_A2: Largo y corto
+MID_MISSION_H_S201802VMAP01_A2: Supera "Largo y corto", de Shingoroid,\ncon 4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201802VMAP01_A3: Maleficio total
+MID_MISSION_H_S201802VMAP01_A3: Supera "Maleficio total", de ngyope,\ncon 4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201802VMAP01_A4: Defensa de Wrys
+MID_MISSION_H_S201802VMAP01_A4: Supera "Defensa de Wrys", de kuroyagi,\ncon 4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201802VMAP01_A5: Escuadrón manakete
+MID_MISSION_H_S201802VMAP01_A5: Supera "Escuadrón manakete", de k2,\ncon 4 unidades en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201802VMAP01_A6: Eficacia máxima / Extr.
+MID_MISSION_H_S201802VMAP01_A6: Supera "Eficacia máxima", de mk1, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_S201802VMAP01_A7: Largo y corto / Extremo
+MID_MISSION_H_S201802VMAP01_A7: Supera "Largo y corto", de Shingoroid, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_S201802VMAP01_A8: Maleficio total / Extremo
+MID_MISSION_H_S201802VMAP01_A8: Supera "Maleficio total", de ngyope, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_S201802VMAP01_A9: Defensa de Wrys / Extr.
+MID_MISSION_H_S201802VMAP01_A9: Supera "Defensa de Wrys", de kuroyagi, en\nmodo extremo con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_S201802VMAP01_A10: Escuadrón manakete / Ex.
+MID_MISSION_H_S201802VMAP01_A10: Supera "Escuadrón manakete", de k2,\nen modo extremo con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_S201802YEAR01_TITLE: Retos: tutorial
+MID_MISSION_S201802YEAR01_A1: Cap. 1 - Parte 5
+MID_MISSION_H_S201802YEAR01_A1: Supera la 5.ª parte del capítulo 1.
+MID_MISSION_S201802YEAR01_A2: Cap. 2 - Parte 5
+MID_MISSION_H_S201802YEAR01_A2: Supera la 5.ª parte del capítulo 2.
+MID_MISSION_S201802YEAR01_A3: Cap. 3 - Parte 5
+MID_MISSION_H_S201802YEAR01_A3: Supera la 5.ª parte del capítulo 3.
+MID_MISSION_S201802YEAR01_A4: Cap. 4 - Parte 5
+MID_MISSION_H_S201802YEAR01_A4: Supera la 5.ª parte del capítulo 4.
+MID_MISSION_S201802YEAR01_A5: Cap. 5 - Parte 5
+MID_MISSION_H_S201802YEAR01_A5: Supera la 5.ª parte del capítulo 5.
+MID_MISSION_S201802YEAR01_A6: Cap. 6 - Parte 5
+MID_MISSION_H_S201802YEAR01_A6: Supera la 5.ª parte del capítulo 6.
+MID_MISSION_S201802YEAR01_A7: Cap. 7 - Parte 5
+MID_MISSION_H_S201802YEAR01_A7: Supera la 5.ª parte del capítulo 7.
+MID_MISSION_S201802YEAR01_A8: Cap. 8 - Parte 5
+MID_MISSION_H_S201802YEAR01_A8: Supera la 5.ª parte del capítulo 8.
+MID_MISSION_S201802YEAR01_A9: Cap. 9 - Parte 5
+MID_MISSION_H_S201802YEAR01_A9: Supera la 5.ª parte del capítulo 9.
+MID_MISSION_S201802YEAR01_A10: Cap. 10 - Parte 5
+MID_MISSION_H_S201802YEAR01_A10: Supera la 5.ª parte del capítulo 10.
+MID_MISSION_S201802YEAR01_A11: Cap. 11 - Parte 5
+MID_MISSION_H_S201802YEAR01_A11: Supera la 5.ª parte del capítulo 11.
+MID_MISSION_S201802YEAR01_A12: Cap. 12 - Parte 5
+MID_MISSION_H_S201802YEAR01_A12: Supera la 5.ª parte del capítulo 12.
+MID_MISSION_S201802YEAR01_A13: Cap. 13 - Parte 5
+MID_MISSION_H_S201802YEAR01_A13: Supera la 5.ª parte del capítulo 13.
+MID_MISSION_S201802YEAR01_A14: Libro II: Cap. 1 - Parte 5
+MID_MISSION_H_S201802YEAR01_A14: Supera la 5.ª parte del capítulo 1 del libro II.
+MID_MISSION_S201802YEAR01_A15: Libro II: Cap. 2 - Parte 5
+MID_MISSION_H_S201802YEAR01_A15: Supera la 5.ª parte del capítulo 2 del libro II.
+MID_MISSION_S201802YEAR01_A16: Libro II: Cap. 3 - Parte 5
+MID_MISSION_H_S201802YEAR01_A16: Supera la 5.ª parte del capítulo 3 del libro II.
+MID_MISSION_S201802YEAR01_A17: Gladiador
+MID_MISSION_H_S201802YEAR01_A17: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201802YEAR01_A18: Gladiador curtido
+MID_MISSION_H_S201802YEAR01_A18: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201802YEAR01_A19: Maestro gladiador
+MID_MISSION_H_S201802YEAR01_A19: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_S201802YEAR01_A20: Torre de práctica - Nivel 1
+MID_MISSION_H_S201802YEAR01_A20: Supera el primer nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A21: Torre de práctica - Nivel 2
+MID_MISSION_H_S201802YEAR01_A21: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A22: Torre de práctica - Nivel 3
+MID_MISSION_H_S201802YEAR01_A22: Supera el tercer nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A23: Torre de práctica - Nivel 4
+MID_MISSION_H_S201802YEAR01_A23: Supera el cuarto nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A24: Torre de práctica - Nivel 5
+MID_MISSION_H_S201802YEAR01_A24: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A25: Torre de práctica - Nivel 6
+MID_MISSION_H_S201802YEAR01_A25: Supera el sexto nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A26: Torre de práctica - Nivel 7
+MID_MISSION_H_S201802YEAR01_A26: Supera el séptimo nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A27: Torre de práctica - Nivel 8
+MID_MISSION_H_S201802YEAR01_A27: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A28: Torre de práctica - Nivel 9
+MID_MISSION_H_S201802YEAR01_A28: Supera el noveno nivel de la\ntorre de práctica.
+MID_MISSION_S201802YEAR01_A29: Torre de práctica - Nivel 10
+MID_MISSION_H_S201802YEAR01_A29: Supera el décimo nivel de la\ntorre de práctica.
+MPID_伝承アイク: Ike
+MPID_HONOR_伝承アイク: Adalid legendario
+MPID_H_伝承アイク: Jefe de los mercenarios de Greil. Es un\nhombre de honor, aunque brusco, que\nunió a gentes de diferentes razas y reinos.\nAparece en Fire Emblem: Radiant Dawn.
+MPID_VOICE_伝承アイク: Greg Chun
+MPID_ILLUST_伝承アイク: Kita Senri (北千里)
+MPID_LEGEND_伝承アイク: Efecto legendario: Tierra\nMejora de aliados: PV + 3, Ata + 2\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de tierra si se\nha otorgado la bendición de tierra.
+MSID_蒼の天空: Éter fulgurante
+MSID_明鏡の呼吸: Aliento guardián
+MSID_鍛錬の証_HP1: Aptitud PV 1
+MSID_鍛錬の証_HP2: Aptitud PV 2
+MSID_鍛錬の証_HP3: Aptitud PV 3
+MSID_鍛錬の証_攻撃1: Aptitud Ata 1
+MSID_鍛錬の証_攻撃2: Aptitud Ata 2
+MSID_鍛錬の証_攻撃3: Aptitud Ata 3
+MSID_鍛錬の証_速さ1: Aptitud Vel 1
+MSID_鍛錬の証_速さ2: Aptitud Vel 2
+MSID_鍛錬の証_速さ3: Aptitud Vel 3
+MSID_鍛錬の証_守備1: Aptitud Def 1
+MSID_鍛錬の証_守備2: Aptitud Def 2
+MSID_鍛錬の証_守備3: Aptitud Def 3
+MSID_鍛錬の証_魔防1: Aptitud Res 1
+MSID_鍛錬の証_魔防2: Aptitud Res 2
+MSID_鍛錬の証_魔防3: Aptitud Res 3
+MSID_H_蒼の天空: Reduce la Def y la Res del rival en un 50 %\nen combate. La unidad recupera la mitad\ndel daño infligido.
+MSID_H_明鏡の呼吸: Si el rival inicia el ataque, la unidad\nobtiene Res + 4 durante el enfrentamiento.\n- 1 a la cuenta atrás por cada ataque de\nla unidad. (Solo se aplica el valor más alto.\nNo acumulable.)
+MSID_H_鍛錬の証_HP1: Otorga PV + 3.
+MSID_H_鍛錬の証_HP2: Otorga PV + 4.
+MSID_H_鍛錬の証_HP3: Otorga PV + 5.
+MSID_H_鍛錬の証_攻撃1: Otorga Ata + 1.
+MSID_H_鍛錬の証_攻撃2: Otorga Ata + 2.
+MSID_H_鍛錬の証_攻撃3: Otorga Ata + 3.
+MSID_H_鍛錬の証_速さ1: Otorga Vel + 1.
+MSID_H_鍛錬の証_速さ2: Otorga Vel + 2.
+MSID_H_鍛錬の証_速さ3: Otorga Vel + 3.
+MSID_H_鍛錬の証_守備1: Otorga Def + 1.
+MSID_H_鍛錬の証_守備2: Otorga Def + 2.
+MSID_H_鍛錬の証_守備3: Otorga Def + 3.
+MSID_H_鍛錬の証_魔防1: Otorga Res + 1.
+MSID_H_鍛錬の証_魔防2: Otorga Res + 2.
+MSID_H_鍛錬の証_魔防3: Otorga Res + 3.
+MID_STAGE_HONOR_V0191: Eficacia máxima
+MID_STAGE_V0191: mk1
+MID_STAGE_HONOR_V0192: Largo y corto
+MID_STAGE_V0192: Shingoroid
+MID_STAGE_HONOR_V0193: Maleficio total
+MID_STAGE_V0193: ngyope
+MID_STAGE_HONOR_V0194: Defensa de Wrys
+MID_STAGE_V0194: kuroyagi
+MID_STAGE_HONOR_V0195: Escuadrón manakete
+MID_STAGE_V0195: k2
+MID_STAGE_HONOR_V0161: Diaria
+MID_STAGE_V0161: Parte 1
+MID_STAGE_HONOR_V0162: Diaria
+MID_STAGE_V0162: Parte 2
+MID_STAGE_HONOR_V0163: Diaria
+MID_STAGE_V0163: Parte 3
+MID_STAGE_HONOR_V0164: Diaria
+MID_STAGE_V0164: Parte 4
+MID_STAGE_HONOR_V0165: Diaria
+MID_STAGE_V0165: Parte 5
+MID_STAGE_HONOR_V0166: Diaria
+MID_STAGE_V0166: Parte 6
+MID_STAGE_HONOR_V0167: Diaria
+MID_STAGE_V0167: Parte 7

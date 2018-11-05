@@ -1,0 +1,38 @@
+[Heroes Archive] (ROY_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_POPULARITY01_HOME1: J'ai lu que les héros apparaissent\nlorsque le peuple les réclame...
+MID_ROY_POPULARITY01_HOME2: Mon père est Eliwood, marquis de\nPherae et héros connu comme\nle chevalier de Lycia.
+MID_ROY_POPULARITY01_HOME3: J'aimerais vous assister pour que\nvous puissiez prendre du repos.$k$pVous dérangerait-il que j'observe\nen quoi consiste votre travail ?
+MID_ROY_POPULARITY01_HOME4: Voici Durandal, l'épée du feu sacré...\nC'est une arme légendaire. Mon père\nl'a lui aussi portée, autrefois...
+MID_ROY_POPULARITY01_HOME5: Je suis peu habitué au combat\nà cheval. J'ai encore beaucoup\nà apprendre.
+MID_ROY_POPULARITY01_FRIEND: $Nu ?\n$Nf m'envoie\nvous passer un message amical.
+MID_ROY_POPULARITY01_LEVEL1: Un jour, je serai digne de\nmon père !
+MID_ROY_POPULARITY01_LEVEL2: Je me fais peu à peu au combat\nà dos de cheval.
+MID_ROY_POPULARITY01_LEVEL3: Je dois suivre l'exemple\nde mon père.
+MID_ROY_POPULARITY01_SKILL: Tout cela arrive grâce à vous.\nMerci.
+MID_ROY_POPULARITY01_JOIN: Je suis Roy. Avec l'épée Durandal,\nj'aiderai votre armée au nom de\nmon père.
+MID_ROY_POPULARITY01_STRONGEST: Dans ma jeunesse, Marcus, un\nchevalier au service de ma famille,\nme parlait souvent de mon père.$k$pIl me relatait ses hauts-faits passés,\névoquait les alliés qu'il rencontrait\nlors de ses nombreux périples...$k$pIl m'a aussi raconté comment mes\nparents se sont connus...$k$pCes histoires me passionnaient, et\nje voulais toujours en apprendre plus.$k$pC'est sans doute pour cela que\nj'admire tant mon père.$k$pMême si je lui ressemble, il me reste\nencore beaucoup à apprendre.$k$pJe dois m'entraîner dur si je veux\nun jour devenir un héros comme lui.\nPeut-être qu'à vos côtés...$k$pje parviendrai à atteindre ce but.\nEn tous cas, je ferai de mon mieux,\nje vous le promets.
+MID_ROY_POPULARITY01_VOICE01: ええいっ！
+MID_ROY_POPULARITY01_VOICE02: 行くよ！
+MID_ROY_POPULARITY01_VOICE03: うああっ！
+MID_ROY_POPULARITY01_VOICE04: しまった…
+MID_ROY_POPULARITY01_VOICE05: Au nom de mon père !
+MID_ROY_POPULARITY01_VOICE06: Je protégerai les miens !
+MID_ROY_POPULARITY01_VOICE07: Ce n'est que le début !
+MID_ROY_POPULARITY01_VOICE08: Durandal !
+MID_ROY_POPULARITY01_VOICE09: Father...I'm sorry.
+MID_ROY_POPULARITY01_VOICE10: Haha
+MID_ROY_POPULARITY01_VOICE11: I can't measure up to my father, but if I work hard, I hope I'll become more like him.
+MID_ROY_POPULARITY01_VOICE12: Hm? Did you call for me?
+MID_ROY_POPULARITY01_VOICE13: I had a strange dream. So many people, calling my name...
+MID_ROY_POPULARITY01_VOICE14: I want to repay all those who have supported me.
+MID_ROY_POPULARITY01_VOICE15: My father is unmatched at fighting, even on horseback. I have much to learn from him.
+MID_ROY_POPULARITY01_VOICE16: People are swayed by their desires. However, they can also overcome them.
+MID_ROY_POPULARITY01_VOICE17: Sometimes I feel like the two of us have known each other for a long time.
+MID_ROY_POPULARITY01_VOICE18: Got it.
+MID_ROY_POPULARITY01_VOICE19: Now what?
+MID_ROY_POPULARITY01_VOICE20: The fight is on!

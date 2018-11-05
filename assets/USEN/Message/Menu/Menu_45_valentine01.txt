@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_JUMP: Go There Now
+MID_HOME_TALK_NAVIGATION_LATER: Remind Me Later
+MID_HOME_TALK_NAVIGATION_NEVER: Don't Show Again
+MID_STAGE_SELECT_SEASONAL_EVENT: Events
+MID_STAGE_SELECT_SEASONAL_EVENT_ENDED: This event has ended.
+MID_STAGE_SELECT_SEASONAL_EVENT_INTERVAL: Calculating.
+MID_TAP_BATTLE_TITLE: Tap Battle
+MID_TAP_BATTLE_ENVIRONMENT_INFO: Modify your settings here.
+MID_TAP_BATTLE_STAGE_SELECT_DIFFICULTY: $aDifficulty: $a0
+MID_TAP_BATTLE_STAGE_SELECT_MODE: $aMode: $a0
+MID_TAP_BATTLE_DIFFICULTY0: Normal
+MID_TAP_BATTLE_DIFFICULTY1: Hard
+MID_TAP_BATTLE_MODE_0: Casual
+MID_TAP_BATTLE_MODE_1: Expert
+MID_TAP_BATTLE_ENVIRONMENT: Tap Battle Settings
+MID_TAP_BATTLE_CONFIG_MUTE: Mute
+MID_TAP_BATTLE_CONFIG_SE: Effects
+MID_TAP_BATTLE_CONFIG_VOICE: Voices
+MID_TAP_BATTLE_CONFIG_TIMING: Adjust Timing
+MID_TAP_BATTLE_CONFIG_ADJUST: Adjust Timing
+MID_TAP_BATTLE_CLEAR_RANK: $aResult: $a0
+MID_TAP_BATTLE_CLEAR_RANK_0: C
+MID_TAP_BATTLE_CLEAR_RANK_1: B
+MID_TAP_BATTLE_CLEAR_RANK_2: A
+MID_TAP_BATTLE_CLEAR_RANK_3: S
+MID_TAP_BATTLE_CLEAR_RANK_NONE: —
+MID_TAP_BATTLE_ENTER_STAGE_SELECT: Select Stage
+MID_TAP_BATTLE_SUBTITLE: Illusory Dungeon
+MID_TAP_BATTLE_ENTRANCE_HELP: Keep tapping to defeat foes! Earn a\nhigh score by perfecting your timing.
+MID_TAP_BATTLE_ENTRANCE_SETTING: Tap Battle Settings
+MID_TAP_BATTLE_START: Start!
+MID_TAP_BATTLE_BOSS: Boss!
+MID_TAP_BATTLE_VERSUS_BOSS: $a$a1\n$a0
+MID_TAP_BATTLE_START_BOSS: Prepare to fight!
+MID_TAP_BATTLE_DEFEAT_BOSS: Defeated!
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE: $aYou earned an S-rank\non all stages, playing on\n$a1 / $a0!
+MID_TAP_BATTLE_STAGE_SELECT_REWARD: Reward for First Clear:
+MID_TAP_BATTLE_STAGE_SELECT_REWARD_WARNING: You can only earn this reward once.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING: This stage has already been cleared.\nNo reward is available.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING_OTHER: This stage has already been cleared\nwith different mode or difficulty\nsettings. No reward is available.
+MID_TAP_BATTLE_MUSIC_DETAIL_BPM: $aBPM: $a0
+MID_TAP_BATTLE_MUSIC_DETAIL_AUTHORITY: Source:
+MID_TAP_BATTLE_PAUSE_SURRENDER: Surrender
+MID_TAP_BATTLE_PAUSE_RETRY: Restart
+MID_TAP_BATTLE_PAUSE_SURRENDER_DECIDE: Surrender
+MID_TAP_BATTLE_PAUSE_SURRENDER_TEXT: Surrender?
+MID_TAP_BATTLE_PAUSE_RETRY_DECIDE: Restart
+MID_TAP_BATTLE_PAUSE_RETRY_TEXT: Restart?
+MID_TAP_BATTLE_GAME_OVER_TEXT: Play again?
+MID_TAP_BATTLE_GAME_OVER_RETRY_FIRST: Try Again
+MID_TAP_BATTLE_GAME_OVER_RETRY_BOSS: Retry Boss Battle
+MID_TAP_BATTLE_GAME_OVER_QUIT: Give Up
+MID_TAP_BATTLE_GAME_OVER_TIMING: Adjust Timing
+MID_TAP_BATTLE_RESULT_CURRENT: Results
+MID_TAP_BATTLE_RESULT_DIFFICULTY_MODE: $a$a1 / $a0
+MID_TAP_BATTLE_RESULT_CONFIRM: OK!
+MID_TAP_BATTLE_RESULT_REPLAY: Retry Stage
+MID_TAP_BATTLE_RESULT_COMMENT_GAME_OVER: Next time, see if you can clear it\nwithout getting a game over!
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_FULL: $aA perfect run! Your max combo\ncount was $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT: $aGet $a0 more criticals for a\nperfect run!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING: If you need to adjust the game's\ntiming, you can do that in Tap\nBattle Settings.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO: $aYour max combo count was $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_NEW_RECORD: $aYour max combo count was $a0.\nThat's a new record!
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO: $aJust $a0 more for a perfect run!\nYour max combo count was $a1.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO_NEW_RECORD: $aJust $a0 more for a perfect run!\nYour max combo count was $a1.\nThat's a new record!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO: $aYour max combo count was $a0.\nYou can adjust input timing in Tap\nBattle Settings.
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO_NEW_RECORD: $aYour max combo count was $a0.\nThat's a new record! You can adjust\ninput timing in Tap Battle Settings.
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT: You can make adjustments to the\ninput timing here. Tap the screen\nin time with the beat.
+MID_TAP_BATTLE_TIMING_FRAME_INFOMATION: Tap the screen whenever you\nhear the loudest beat.
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST: Adjust Timing
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST_MANUALLY: Manual Adjustment
+MID_TAP_BATTLE_TIMING_DIALOG_COMPLETE: The timing has been adjusted.\nSave this setting?
+MID_TAP_BATTLE_TIMING_DIALOG_DECIDE: Save
+MID_TAP_BATTLE_TIMING_DIALOG_REVERT: Discard
+MID_TAP_BATTLE_TIMING_DIALOG_READJUST: Start Over
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT_ADJUST_MANUALLY: Set the timing manually.
+MID_TAP_BATTLE_TIMING_TEST: Test Play
+MID_TAP_BATTLE_CLOSED: Battles are now closed.
+MID_TAP_BATTLE_STAGE_SELECT_FAILED: Could not start battle.
+MID_TAP_BATTLE_STAGE_SELECT_EXPIRED: The dungeon is no longer available.
+MID_TAP_BATTLE_STAGE_SELECT_INSUFFICIENT_UNIT: Your team does not have enough members.
+MID_TAP_BATTLE_STAGE_SELECT_RELOAD: Exit Tap Battle and then return.
+MID_TAP_BATTLE_REMAINING_MINUTES: $aFades away in $a0 min(s)
+MID_TAP_BATTLE_REMAINING_HOURS: $aFades away in $a0 hr(s)
+MID_TAP_BATTLE_REMAINING_DAYS: $aFades away in $a0 day(s)
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_MINUTES: $aAnother stage appears in $a0 min(s)
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_HOURS: $aAnother stage appears in $a0 hr(s)
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_DAYS: $aAnother stage appears in $a0 day(s)
+MID_TAP_BATTLE_DATA_TOP_FLOOR: It's a hot spring! Everyone's having a\ngreat time chatting together, warmed\nby the water.
+MID_TAP_BATTLE_HELP_DIALOG_00: Tap to defeat waves of enemies!
+MID_TAP_BATTLE_HELP_DIALOG_01: Tap Battle:\nThis is an action game where you\ntap the screen to defeat enemies.\n\nPlease try playing with the music\nand character voices on.
+MID_TAP_BATTLE_HELP_DIALOG_02: How to Play:\nTap the Summoner at the bottom\nof the screen to attack. If your\ntiming is just right, enemies\nwill be hit with a critical attack\nand fly off-screen. You can rack\nup a combo by landing multiple\ncritical attacks in a row.
+MID_TAP_BATTLE_HELP_DIALOG_03: In expert mode, tap the rows!
+MID_TAP_BATTLE_HELP_DIALOG_04: Expert Mode:\nIn casual mode, you tap the\nSummoner at the bottom of the\nscreen. There is also an expert\nmode where you can tap each\nally's row to make them attack.
+MID_TAP_BATTLE_HELP_DIALOG_05: Playable Stages:\nNot all stages will be available\nimmediately after the event\nbegins.\n\nOnce a set amount of time has\npassed, new stages will become\nplayable.
+MID_TAP_BATTLE_HELP_DIALOG_06: Tap Battle Settings:\nIf you feel the timing isn't quite\nright, try adjusting your settings.\n\nYou might find it's easier to\nplay if you adjust the input timing\nor turn the sound effects and\nvoices off.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_00: Tap Battle Settings:\nAdjust your settings to make the\ngame more enjoyable to play.\n\nIf you feel that your input timing\nisn't quite right, try adjusting\nthe timing settings here.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_01: Adjust Timing:\nYou can adjust the input timing\nby tapping in time with the beat.\nAfter that, if you feel the timing\nisn't quite right, you can make\nmanual adjustments. Raise the\nvalue if it's too fast, or lower it if\nit's too slow.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_02: Sound Effects and Voice:\nYou can also disable the\nsound effects or character\nvoices. Turning sounds on\nand off in Tap Battle Settings\napplies only to Tap Battles.
+MID_VOTE_TERM_201801: Winter Festival vs. New Year's

@@ -1,0 +1,38 @@
+[Heroes Archive] (ELISE)
+
+
+Heroes Message Name: Message
+
+
+MID_ELISE_HOME1: Ich mag Sharena, denn wir\nbeide benehmen uns nicht\nwie Prinzessinnen.$k$pOh! Ich hoffe, ich hab sie\nnicht beleidigt!
+MID_ELISE_HOME2: Meine Getreuen sind Effie und\nArthur, zwei der besten Getreuen,\ndie sich ein Mädchen wünschen$k$pkann.\nIch bin so stolz auf sie!
+MID_ELISE_HOME3: Ich bin beeindruckt, wie gut du\ndich hier um alles kümmerst,\n$Nu. $k$pAber ich helfe dir auch gerne\nmit meinem Stab aus, solltest\ndu mal eine Pause brauchen.
+MID_ELISE_HOME4: Wir sollten uns manchmal hier\nrausschleichen und die Stadt\nerkunden.$k$pZuhause habe ich das dauernd\ngemacht. Aber verrat das nicht\nmeinen Brüdern!
+MID_ELISE_HOME5: Es gibt so viele schöne Blumen\nin diesem Reich. Ich werde sie\nalle pflücken und verschenken!
+MID_ELISE_FRIEND: Ich komme im Auftrag von\n$Nf.\nEin fröhliches Hallo soll ich dir sagen.
+MID_ELISE_LEVEL1: Achtung, Welt! Hier\nkomme ICH!
+MID_ELISE_LEVEL2: Juhu! Jetzt kann ich\nnoch besser kämpfen.
+MID_ELISE_LEVEL3: All die Arbeit für\nDAS?! Junge!
+MID_ELISE_SKILL: Juhu! Jetzt fühle ich mich\ngleich viel strahlender!
+MID_ELISE_JOIN: Hallo. Ich bin Elise, eine Prinzessin\naus dem Königreich Nohr. Ich bin\nsicher, wir werden die besten Freunde!
+MID_ELISE_STRONGEST: Juchhu, ich mag es, wenn du\nkommst, um mit mir zu reden,\n$Nu!$k$pIch weiß, wie viel du zu tun hast.\nWarte... Bist du verletzt?\nEin bisschen?$k$pDann würde ich dich schnell heilen!$k$pPuh! So. Ich kann es nicht ertragen,\ndich verletzt zu sehen. Das fühlt sich\nan, als wäre ich selbst verletzt.$k$pUnd weißt du auch wieso? Sicher\nweißt du das. Weil ich dich ganz\ndoll lieb hab.$k$pMehr als jeden anderen aus anderen\nWelten! Du warst $Gmein erster Freund,meine erste Freundin|\nhier.$k$pUnd weißt du noch was? Diese Art\nFreundschaft wird niemals vergehen!!!
+MID_ELISE_VOICE01: それっ！
+MID_ELISE_VOICE02: えいっ！
+MID_ELISE_VOICE03: ひゃっ！
+MID_ELISE_VOICE04: Awwww!
+MID_ELISE_VOICE05: Jetzt gibt's kein Halten mehr!
+MID_ELISE_VOICE06: Waaas? Wie kannst du es wagen?
+MID_ELISE_VOICE07: Überlasst das alles mir!
+MID_ELISE_VOICE08: Gleich kriegst du deine Strafe!
+MID_ELISE_VOICE09: Be at peace...
+MID_ELISE_VOICE10: Eheehee
+MID_ELISE_VOICE11: Los geht's!
+MID_ELISE_VOICE12: Ich helfe gern!
+MID_ELISE_VOICE13: I'm always up for a good game!
+MID_ELISE_VOICE14: Nice that people like me are called Heroes here! We do our best!
+MID_ELISE_VOICE15: I have so many older siblings in my family!
+MID_ELISE_VOICE16: Where are Effie and Arthur? We always go exploring together!
+MID_ELISE_VOICE17: Thanks for bringing me here. I really, really love it!
+MID_ELISE_VOICE18: Sure!
+MID_ELISE_VOICE19: OK!
+MID_ELISE_VOICE20: Do my best!

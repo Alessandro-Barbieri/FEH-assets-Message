@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: 風之祝福
+MID_MISSION_S201804BLESS01_A1: 以風之祝福的我方擊敗
+MID_MISSION_H_S201804BLESS01_A1: 以被賦予風之祝福的英雄擊敗敵人。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A2: 特殊:以風之祝福的我方擊敗
+MID_MISSION_H_S201804BLESS01_A2: 以被賦予風之祝福的英雄，\n擊敗等級20以上的敵人。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A3: 特殊:以風之祝福的我方擊敗
+MID_MISSION_H_S201804BLESS01_A3: 以被賦予風之祝福的英雄，\n擊敗等級35以上的赤屬性敵人。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A4: 特殊:以風之祝福的我方擊敗
+MID_MISSION_H_S201804BLESS01_A4: 以被賦予風之祝福的英雄，\n擊敗等級35以上的青屬性敵人。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A5: 特殊:以風之祝福的我方擊敗
+MID_MISSION_H_S201804BLESS01_A5: 以被賦予風之祝福的英雄，\n擊敗等級35以上的綠屬性敵人。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A6: 特殊:突破修練之塔・第1層
+MID_MISSION_H_S201804BLESS01_A6: 我軍內有被賦予風之祝福的英雄，\n過關修練之塔・第1層。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A7: 特殊:突破修練之塔・第5層
+MID_MISSION_H_S201804BLESS01_A7: 我軍內有被賦予風之祝福的英雄，\n過關修練之塔・第5層。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804BLESS01_A8: 特殊:突破修練之塔・第10層
+MID_MISSION_H_S201804BLESS01_A8: 我軍內有被賦予風之祝福的英雄，\n過關修練之塔・第10層。\n(風的傳承英雄與被賦予風之祝福的英雄不同)
+MID_MISSION_S201804GW01_TITLE: 黃金週特別任務
+MID_MISSION_S201804GW01_A1: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A1: 以赤屬性的我方\n擊敗等級10以上綠屬性的敵人。
+MID_MISSION_S201804GW01_A2: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A2: 以青屬性的我方\n擊敗等級10以上赤屬性的敵人。
+MID_MISSION_S201804GW01_A3: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A3: 以綠屬性的我方\n擊敗等級10以上青屬性的敵人。
+MID_MISSION_S201804GW01_A4: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A4: 以赤屬性的我方\n擊敗等級10以上武器為斧的敵人。
+MID_MISSION_S201804GW01_A5: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A5: 以青屬性的我方\n擊敗等級10以上武器為劍的敵人。
+MID_MISSION_S201804GW01_A6: 特殊:擊敗LV10以上
+MID_MISSION_H_S201804GW01_A6: 以綠屬性的我方\n擊敗等級10以上武器為槍的敵人。
+MID_MISSION_S201804GW01_A7: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A7: 以赤屬性的我方\n擊敗等級20以上綠屬性的敵人。
+MID_MISSION_S201804GW01_A8: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A8: 以青屬性的我方\n擊敗等級20以上赤屬性的敵人。
+MID_MISSION_S201804GW01_A9: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A9: 以綠屬性的我方\n擊敗等級20以上青屬性的敵人。
+MID_MISSION_S201804GW01_A10: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A10: 以赤屬性的我方\n擊敗等級20以上武器為綠魔的敵人。
+MID_MISSION_S201804GW01_A11: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A11: 以青屬性的我方\n擊敗等級20以上武器為赤魔的敵人。
+MID_MISSION_S201804GW01_A12: 特殊:擊敗LV20以上
+MID_MISSION_H_S201804GW01_A12: 以綠屬性的我方\n擊敗等級20以上武器為青魔的敵人。
+MID_MISSION_S201804GW01_A13: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A13: 以赤屬性的我方\n擊敗等級35以上綠屬性的敵人。
+MID_MISSION_S201804GW01_A14: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A14: 以青屬性的我方\n擊敗等級35以上赤屬性的敵人。
+MID_MISSION_S201804GW01_A15: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A15: 以綠屬性的我方\n擊敗等級35以上青屬性的敵人。
+MID_MISSION_S201804GW01_A16: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A16: 以無屬性的我方\n擊敗等級35以上無屬性的敵人。
+MID_MISSION_S201804GW01_A17: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A17: 以赤屬性的我方\n擊敗等級35以上武器為杖的敵人。
+MID_MISSION_S201804GW01_A18: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A18: 以青屬性的我方\n擊敗等級35以上武器為弓的敵人。
+MID_MISSION_S201804GW01_A19: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A19: 以綠屬性的我方\n擊敗等級35以上武器為暗器的敵人。
+MID_MISSION_S201804GW01_A20: 特殊:擊敗LV35以上
+MID_MISSION_H_S201804GW01_A20: 以無屬性的我方\n擊敗等級35以上武器為劍的敵人。
+MID_MISSION_S201804KIZUNA02_TITLE: 羈絆英雄戰
+MID_MISSION_S201804KIZUNA02_A1: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201804KIZUNA02_A1: 將菲約爾姆編入我軍，\n過關羈絆英雄戰・拓海＆火乃香。
+MID_MISSION_S201804KIZUNA02_A2: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201804KIZUNA02_A2: 將安娜編入我軍，\n過關羈絆英雄戰・拓海＆火乃香(超難以上)。
+MID_MISSION_S201804KIZUNA02_A3: 特殊:擊敗拓海
+MID_MISSION_H_S201804KIZUNA02_A3: 以菲約爾姆\n擊敗等級40以上的神弓射手拓海。
+MID_MISSION_S201804KIZUNA02_A4: 特殊:擊敗火乃香
+MID_MISSION_H_S201804KIZUNA02_A4: 以安娜\n擊敗等級40以上的赤色戰姬火乃香。
+MID_MISSION_S201804KIZUNA02_A5: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201804KIZUNA02_A5: 我軍全員為步行，\n過關羈絆英雄戰・拓海＆火乃香(超難以上)。
+MID_MISSION_S201804SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201804SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804STORY02_TITLE: 冰之儀式
+MID_MISSION_S201804STORY02_A1: 特殊:突破第8章-第1節(超難)
+MID_MISSION_H_S201804STORY02_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第8章-第1節(超難)。
+MID_MISSION_S201804STORY02_A2: 特殊:突破第8章-第2節(超難)
+MID_MISSION_H_S201804STORY02_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第8章-第2節(超難)。
+MID_MISSION_S201804STORY02_A3: 特殊:突破第8章-第3節(超難)
+MID_MISSION_H_S201804STORY02_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第8章-第3節(超難)。
+MID_MISSION_S201804STORY02_A4: 特殊:突破第8章-第4節(超難)
+MID_MISSION_H_S201804STORY02_A4: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第8章-第4節(超難)。
+MID_MISSION_S201804STORY02_A5: 特殊:突破第8章-第5節(超難)
+MID_MISSION_H_S201804STORY02_A5: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第8章-第5節(超難)。
+MID_MISSION_S201804TAPBTL01_D01_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201804TAPBTL01_D01_A1: 特殊:擊敗海克托爾
+MID_MISSION_H_S201804TAPBTL01_D01_A1: 於一「觸」即發點觸大戰中\n擊敗難度普通的BOSS・海克托爾。
+MID_MISSION_S201804TAPBTL01_D01_A2: 過關第21～25層
+MID_MISSION_H_S201804TAPBTL01_D01_A2: 於一「觸」即發點觸大戰中\n過關第21～25層的關卡。
+MID_MISSION_S201804TAPBTL01_D01_A3: 過關關卡
+MID_MISSION_H_S201804TAPBTL01_D01_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201804TAPBTL01_D02_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201804TAPBTL01_D02_A1: 特殊:擊敗海克托爾
+MID_MISSION_H_S201804TAPBTL01_D02_A1: 於一「觸」即發點觸大戰中\n擊敗難度困難的BOSS・海克托爾。
+MID_MISSION_S201804TAPBTL01_D02_A2: 過關第41～45層
+MID_MISSION_H_S201804TAPBTL01_D02_A2: 於一「觸」即發點觸大戰中\n過關第41～45層的關卡。
+MID_MISSION_S201804TAPBTL01_D02_A3: 過關關卡
+MID_MISSION_H_S201804TAPBTL01_D02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201804TAPBTL01_D03_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201804TAPBTL01_D03_A1: 特殊:擊敗艾克
+MID_MISSION_H_S201804TAPBTL01_D03_A1: 於一「觸」即發點觸大戰中\n擊敗難度普通的BOSS・艾克。
+MID_MISSION_S201804TAPBTL01_D03_A2: 過關第61～65層
+MID_MISSION_H_S201804TAPBTL01_D03_A2: 於一「觸」即發點觸大戰中\n過關第61～65層的關卡。
+MID_MISSION_S201804TAPBTL01_D03_A3: 過關關卡
+MID_MISSION_H_S201804TAPBTL01_D03_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201804TAPBTL01_D04_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201804TAPBTL01_D04_A1: 特殊:擊敗艾克
+MID_MISSION_H_S201804TAPBTL01_D04_A1: 於一「觸」即發點觸大戰中\n擊敗難度困難的BOSS・艾克。
+MID_MISSION_S201804TAPBTL01_D04_A2: 過關第81～85層
+MID_MISSION_H_S201804TAPBTL01_D04_A2: 於一「觸」即發點觸大戰中\n過關第81～85層的關卡。
+MID_MISSION_S201804TAPBTL01_D04_A3: 過關關卡
+MID_MISSION_H_S201804TAPBTL01_D04_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201804TAPBTL02_TITLE: 點觸大戰
+MID_MISSION_S201804TAPBTL02_A1: 擊敗BOSS
+MID_MISSION_H_S201804TAPBTL02_A1: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201804TAPBTL02_A2: 擊敗BOSS
+MID_MISSION_H_S201804TAPBTL02_A2: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201804TAPBTL02_A3: 過關關卡
+MID_MISSION_H_S201804TAPBTL02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MPID_ヒノカ2: 火乃香
+MPID_カンナ女: 神流
+MPID_カンナ男: 神流
+MPID_シグレ: 詩格萊
+MPID_スズカゼ: 涼風
+MPID_HONOR_ヒノカ2: 蒼天戰姬
+MPID_HONOR_カンナ女: 龍之幼姬
+MPID_HONOR_カンナ男: 龍之御子
+MPID_HONOR_シグレ: 描繪於藍天的心意
+MPID_HONOR_スズカゼ: 涼風之忍
+MPID_H_ヒノカ2: 白夜王國的公主。\n乘駕著傳說的金色大鳶，翱翔於遙遠的天際之上。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_カンナ女: 神威的女兒。雖然開朗率直又有活力，\n其實是個怕寂寞的愛哭鬼。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_カンナ男: 神威的兒子。雖然開朗率直又有活力，\n其實是個怕寂寞的愛哭鬼。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_シグレ: 阿庫婭的兒子，言行舉止相當穩重。\n感受力強，有藝術家氣質，歌聲也相當美妙。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_スズカゼ: 白夜王國的忍者，彩造的雙胞胎弟弟。\n禮儀端正、個性嚴謹，很受異性歡迎。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_VOICE_ヒノカ2: 名塚佳織(Kaori Nazuka)
+MPID_VOICE_カンナ女: 佐藤聡美(Satomi Sato)
+MPID_VOICE_カンナ男: 島﨑信長(Nobunaga Shimazaki)
+MPID_VOICE_シグレ: 細谷佳正(Yoshimasa Hosoya)
+MPID_VOICE_スズカゼ: 小野大輔(Daisuke Ono)
+MPID_ILLUST_ヒノカ2: チーコ(Chiko)
+MPID_ILLUST_カンナ女: みわべさくら(Sakura Miwabe)
+MPID_ILLUST_カンナ男: かわすみ(kawasumi)
+MPID_ILLUST_シグレ: 由良(Yura)
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: 倭矛
+MSID_倭鉾＋: 倭矛＋
+MSID_戦姫の和弓: 戰姬的和弓
+MSID_暗殺手裏剣: 暗殺手裏劍
+MSID_暗殺手裏剣＋: 暗殺手裏劍＋
+MSID_水のブレス: 水之吐息
+MSID_水のブレス＋: 水之吐息＋
+MSID_飛燕の構え2: 飛燕架勢２
+MSID_飛燕の構え3: 飛燕架勢３
+MSID_竜刃の紋章: 龍刃紋章
+MSID_飛行の先導1: 飛行前導１
+MSID_飛行の先導2: 飛行前導２
+MSID_飛行の先導3: 飛行前導３
+MSID_H_倭鉾: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_倭鉾＋: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_戦姫の和弓: 克制重裝、飛行　速度＋３\n周圍２格內的我方，\n戰鬥中的攻擊＋３
+MSID_H_暗殺手裏剣: 容易發動奧義（發動計量－１）\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_暗殺手裏剣＋: 容易發動奧義（發動計量－１）\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_水のブレス: 受到敵人攻擊時，戰鬥中的防守及魔防＋４\n敵人攻擊射程為２格時，\n以其防守及魔防中較低方計算傷害
+MSID_H_水のブレス＋: 受到敵人攻擊時，戰鬥中的防守及魔防＋４\n敵人攻擊射程為２格時，\n以其防守及魔防中較低方計算傷害
+MSID_H_飛燕の構え2: 受到敵人攻擊時，戰鬥中的速度＋４
+MSID_H_飛燕の構え3: 受到敵人攻擊時，戰鬥中的速度＋６
+MSID_H_竜刃の紋章: 周圍２格內的我方龍單位，\n戰鬥中的攻擊及速度＋４
+MSID_H_飛行の先導1: 若自身ＨＰ為１００％，周圍２格內的\n我方飛行單位，可移動至與自己相鄰的格子
+MSID_H_飛行の先導2: 若自身ＨＰ高於５０％，周圍２格內的\n我方飛行單位，可移動至與自己相鄰的格子
+MSID_H_飛行の先導3: 周圍２格內的我方飛行單位，\n可移動至與自己相鄰的格子
+MID_CHAPTER_TITLE_C0208: 第２部　第８章
+MID_CHAPTER_C0208: 冰之儀式
+MID_STAGE_TITLE_S2081: 第８章—第１節
+MID_STAGE_TITLE_S2082: 第８章—第２節
+MID_STAGE_TITLE_S2083: 第８章—第３節
+MID_STAGE_TITLE_S2084: 第８章—第４節
+MID_STAGE_TITLE_S2085: 第８章—第５節
+MID_STAGE_S2081: 冰之子在此祈求
+MID_STAGE_S2082: 抑制狂焰之力
+MID_STAGE_S2083: 殺死不死者、毀滅不滅者
+MID_STAGE_S2084: 願得此力，宿於此器
+MID_STAGE_S2085: 冰之儀式
+MID_CHAPTER_ST_C0204: 第７～８章
+MID_STAGE_TITLE_ST_S0207: 第７章
+MID_STAGE_TITLE_ST_S0208: 第８章
+MID_STAGE_TITLE_ST_S1208: 第７～８章
+MID_STAGE_HONOR_T0030: 龍之御子
+MID_STAGE_T0030: 神流
+MID_TAP_BATTLE_DATA_TITLE_0003: 強者雲集
+MID_MUSIC_NAME_BGM_MAP_FE07_02: 草原之風
+MID_MUSIC_NAME_BGM_MAP_FE14_02: 黃昏降臨～焰
+MID_MUSIC_NAME_BGM_MAP_FES_01: Fan Fest

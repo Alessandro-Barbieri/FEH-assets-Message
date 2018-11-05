@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_HOME1: Ich verstehe den Wunsch des\nFeindes, so viele Helden wie\nmöglich gefangen zu nehmen.$k$pManchmal helfen sie dir, wenn\ndu einsam bist. Und verhindern,\ndass dein Feuer erlischt.
+MID_CAMILLA_HOME2: Meine Getreuen Beruka und\nSelena sind liebreizend... und\ntödlich.$k$pHoffentlich wirst du sie genauso\nzu schätzen lernen wie ich.
+MID_CAMILLA_HOME3: Wie lieb, dass du nach mir siehst.\nSolltest du nach einer Schlacht je\nerschöpft sein, erhol dich bei mir.
+MID_CAMILLA_HOME4: Die Landschaft ist spektakulär.\nWir sollten etwas spazierengehen.\nZeig mir all deine Lieblingsplätze!
+MID_CAMILLA_HOME5: Wir sollten aufeinander Acht geben.\nDu weißt ja, wie man sagt: Eine Hand\nwäscht die andere.
+MID_CAMILLA_FRIEND: So, so, du musst\n$Nu\nsein, nicht wahr?$k$pIch bin schon etwas eifersüchtig.\nIch überbringe Grüße von\n$Nf.
+MID_CAMILLA_LEVEL1: Jetzt werde ich im Feld\nnoch mehr herausstechen!
+MID_CAMILLA_LEVEL2: Oh! Das hat sich gut\nangefühlt!
+MID_CAMILLA_LEVEL3: Oh! Asche auf mein\nHaupt.
+MID_CAMILLA_SKILL: Was ist das? Du scheinst\nmich mehr zu mögen als zuvor.
+MID_CAMILLA_JOIN: Ich bin Camilla, die älteste Prinzessin\ndes Königreichs Nohr. Brauchst du\nmeinen Schutz? Ich bin ganz dein!
+MID_CAMILLA_STRONGEST: Also, wenn das nicht die Person ist,\ndie mich in Verzückung versetzt.\nJa, du, $Nu!$k$pIch meine, dies süße Gesicht. Wie\ngemein muss jemand wohl sein, um\nüberhaupt auf die Idee zu kommen,$k$pdiesem süßen Haupte auch nur ein\nHärchen krümmen zu wollen?!?$k$pUnd dann deine Waffe! Sie macht\ndich vollkommen schutzlos. Hach,\nich möchte dich zu Tode herzen und$k$pdrücken! Du kannst auf deinen Lieb-\nling Camilla zählen, Liebling.$k$pIch werde mich um all deine\nFeinde kümmern.$k$pNun, wenn ich so empfinde, weil du\n$Gein Beschwörer,eine Beschwörerin| bist und ich eine\nHeldin bin... dann ist das eben so.$k$pIch tue alles, was uns beide\nzusammenbringt, und sei es auch\nnur für eine kurze Weile.$k$pIch vergöttere dich!
+MID_CAMILLA_VOICE01: はいっ
+MID_CAMILLA_VOICE02: そぉれ
+MID_CAMILLA_VOICE03: きゃあっ
+MID_CAMILLA_VOICE04: No...!
+MID_CAMILLA_VOICE05: Das Spiel beginnt!
+MID_CAMILLA_VOICE06: Und... Gute Nacht!
+MID_CAMILLA_VOICE07: Süße Träume.
+MID_CAMILLA_VOICE08: Das war sehr ungezogen.
+MID_CAMILLA_VOICE09: Don't forget me!
+MID_CAMILLA_VOICE10: Heehee
+MID_CAMILLA_VOICE11: Oh? Did you need me? I'm always here for you.
+MID_CAMILLA_VOICE12: Weary, friend? You may always rest your head in my lap.
+MID_CAMILLA_VOICE13: Where are the royal baths here? A girl gets dirty in battle.
+MID_CAMILLA_VOICE14: I'm yours to command. I'll slay anyone for you.
+MID_CAMILLA_VOICE15: Need I worry for you, my sweet? I do hope all is well.
+MID_CAMILLA_VOICE16: Where are Beruka and Selena, my darling retainers?
+MID_CAMILLA_VOICE17: Aren't you adorable? So like my favorite sibling. Why don't you think of me as your big sister?
+MID_CAMILLA_VOICE18: Yes?
+MID_CAMILLA_VOICE19: Of course.
+MID_CAMILLA_VOICE20: All right.
+MID_CAMILLA_VOICE21: Naughty, naughty—calling on me like this!

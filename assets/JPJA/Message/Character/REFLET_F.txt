@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_HOME1: 英雄なんて呼ばれて不思議な気分です…\n私は私で、何も変わっていないのに。\nでも、また皆と戦えるのは素敵ですね。
+MID_REFLET_F_HOME2: 私は以前、道端で行き倒れていたんです。\nそれをクロムさんたちが助けてくれて…\nクロム自警団に仲間入りしたんですよ。
+MID_REFLET_F_HOME3: 見回りですか？　お疲れ様です。\nそうやって忙しく走り回る姿…\nまるで、自警団に入った頃の私のようです。
+MID_REFLET_F_HOME4: うーん…策を考えてみましたが\n果たしてこれは英雄に有効なのでしょうか。\n良ければ一緒に考えてくれませんか？
+MID_REFLET_F_HOME5: 特務機関の書庫って、いいですね。\n本がたくさんあって素敵です。\n…勝手に入っちゃダメでした？
+MID_REFLET_F_FRIEND: はじめまして、私はルフレ。\n$Nfさんからあなたに、\n挨拶をしてきてほしいと頼まれました。
+MID_REFLET_F_LEVEL1: こうなることまでは\n読めませんでした…！
+MID_REFLET_F_LEVEL2: これも策のうちです。
+MID_REFLET_F_LEVEL3: …あんまり\n変わりませんでしたね。
+MID_REFLET_F_SKILL: 嬉しいです。私に戦力的な\n価値を見出してくれたんですね。
+MID_REFLET_F_JOIN: 私はルフレ。\nクロムさんの自警団で軍師をしています。\n戦力としてもお役に立ってみせますよ。
+MID_REFLET_F_STRONGEST: 私たち、一緒にたくさんの戦場を\n経験してきましたね。\n私、いつもあなたを見ていました…$k$pあなたの戦術、あなたの戦い方、\nそして仲間を守ろうとする優しさ。\n似ていると言ったらおこがましいですが、$k$p私も元の世界ではそんな風に\nみんなを率いて戦っていました。\nだから、わかるんです。$k$pあなたがどれだけ、私たちを…\n仲間を大切に思っているのかを。\nだから、つらいときは頼ってください。$k$p私はこれでも、軍師としては先輩です。\n戦闘でも、それ以外でも…あなたの憂いを\n晴らすような策を考えてみせますよ！\n
+MID_REFLET_F_VOICE01: えい！
+MID_REFLET_F_VOICE02: はあっ！
+MID_REFLET_F_VOICE03: きゃっ！
+MID_REFLET_F_VOICE04: 策のうちです…っ
+MID_REFLET_F_VOICE05: 戦局を変えます！
+MID_REFLET_F_VOICE06: 読みが甘いです！
+MID_REFLET_F_VOICE07: 読み通りです！
+MID_REFLET_F_VOICE08: これが絆です！
+MID_REFLET_F_VOICE09: 油断…しました…
+MID_REFLET_F_VOICE10: ふふっ
+MID_REFLET_F_VOICE11: お話ししたいなって思っていたんです
+MID_REFLET_F_VOICE12: 一緒に策でも考えましょう
+MID_REFLET_F_VOICE13: 特務機関の参謀は、あなたなんですか？
+MID_REFLET_F_VOICE14: あなたはなんだか、他人とは思えません
+MID_REFLET_F_VOICE15: 私には、イーリスに来るまでの記憶がないんです
+MID_REFLET_F_VOICE16: クロムさんはどこにいるんでしょうか…
+MID_REFLET_F_VOICE17: これからも一緒に頑張りましょうね。\nあなたの役に立つ、とびきりの策を考えます。
+MID_REFLET_F_VOICE18: はい
+MID_REFLET_F_VOICE19: 行きますよ
+MID_REFLET_F_VOICE20: なるほど…

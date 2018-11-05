@@ -1,0 +1,38 @@
+[Heroes Archive] (SOTHE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOTHE_HOME1: En arrivant dans un autre monde, je\nm'attendais au pire... mais en fin de\nde compte, ce n'est pas si différent.$k$pLa seule chose qui me manque, c'est\nla cuisine. Chez nous, c'est meilleur.\n
+MID_SOTHE_HOME2: Le lieu où je me trouve, les personnes\nque je côtoie... Tout cela ne change\npas ma nature.$k$pMes devoirs et mes valeurs restent\nles mêmes.
+MID_SOTHE_HOME3: Il suffit d'un regard pour voir que vous\nêtes $Gépuisé,épuisée|.$k$p$GUn tacticien,Une tacticienne| sur le point de\ns'effondrer... Vous imaginez l'effet\nsur le moral des troupes ?$k$pAllez vous passer le visage à l'eau\nfroide, et ça devrait aller mieux.
+MID_SOTHE_HOME4: Je me fiche de qui vous êtes. Si vous\nfaites du mal à Micaiah, vous aurez\naffaire à moi. Compris ?
+MID_SOTHE_HOME5: J'aiguisais mes couteaux. Il faut être\npréparé à tout, et on ne peut compter\nque sur soi-même.
+MID_SOTHE_FRIEND: J'ignore pourquoi j'ai été choisi,\nmais $Nf\nm'envoie vous saluer.
+MID_SOTHE_LEVEL1: Très bien. J'arrive à garder le\nrythme.
+MID_SOTHE_LEVEL2: Je m'attendais à ça. Je ne\nme relâcherai pas.
+MID_SOTHE_LEVEL3: C'est tout ? Je dois devenir\nplus fort !
+MID_SOTHE_SKILL: J'ai appris quelque chose.\nJ'espère que ça sera utile.
+MID_SOTHE_JOIN: Je m'appelle Sothe. Je n'ai aucun\npouvoir spécial, mais je ferai de mon\nmieux.$k$pNous devons protéger les êtres qui\nnous sont chers.
+MID_SOTHE_STRONGEST: Vous trouvez que Micaiah ne me\nressemble pas ? C'est normal, nous\nne sommes pas liés par le sang.$k$pQuand j'étais enfant, Micaiah m'a pris\npar la main. Elle voulait que je n'ai\nplus jamais de raison de pleurer...$k$pElle m'a serré fort dans ses bras.\nC'est à ce moment que nous\nsommes devenus une famille.$k$pLe lien qui nous unit est plus puissant\nque celui du sang.$k$pQuoi qu'il arrive, nous sommes là\nl'un pour l'autre, et nous nous\nfaisons totalement confiance.$k$pQuand je vous vois combattre aux\ncôtés d'Alfonse et des autres, sans\nrien demander en retour...$k$pJ'ai presque l'impression de voir\nMicaiah.$k$pJe ne peux pas dire que j'ai autant\nconfiance en vous qu'en elle. Pas\nencore, en tout cas.$k$pMais je crois en vous. Vous vous\nbattez pour les autres. Ça me\nsuffit.
+MID_SOTHE_VOICE01: はっ！
+MID_SOTHE_VOICE02: Stop
+MID_SOTHE_VOICE03: うああっ！
+MID_SOTHE_VOICE04: I messed up...
+MID_SOTHE_VOICE05: Ma décision est prise.
+MID_SOTHE_VOICE06: Je dois me battre !
+MID_SOTHE_VOICE07: Je dois survivre !
+MID_SOTHE_VOICE08: Je vous vaincrai !
+MID_SOTHE_VOICE09: If I only...had power...
+MID_SOTHE_VOICE10: ふっ
+MID_SOTHE_VOICE11: I'm Sothe of the Dawn Brigade.
+MID_SOTHE_VOICE12: Wha--?! Sometimes, I just don't understand why you do the things you do...
+MID_SOTHE_VOICE13: I swore to protect Micaiah. Even if it means fighting Commander Ike...
+MID_SOTHE_VOICE14: If you hold strong to your feelings, you will get what you want.
+MID_SOTHE_VOICE15: I may not have any special powers, but I've been told I have a fire inside.
+MID_SOTHE_VOICE16: I owe Commander Ike my life... I want to be just like him.
+MID_SOTHE_VOICE17: Don't leave my side. I'll protect you with all I've got.
+MID_SOTHE_VOICE18: Sure.
+MID_SOTHE_VOICE19: What are you thinking?
+MID_SOTHE_VOICE20: Gotta stay on guard.

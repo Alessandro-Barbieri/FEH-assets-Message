@@ -1,0 +1,38 @@
+[Heroes Archive] (MISHEIL)
+
+
+Heroes Message Name: Message
+
+
+MID_MISHEIL_HOME1: Avec tant de puissants héros à\nvos côtés, vous pourriez asservir\nn'importe quel royaume...
+MID_MISHEIL_HOME2: Personne ne peut me contrôler.\nJ'ai tué mon père afin de m'emparer\nde son trône parce que je le pouvais.
+MID_MISHEIL_HOME3: Vous m'avez peut-être invoqué\nà vos côtés, mais vous ne me\ncontrôlerez jamais.
+MID_MISHEIL_HOME4: Marth est un homme méprisable.\nCela dit, je dois avouer qu'il a la\nstature des grands rois.
+MID_MISHEIL_HOME5: Minerva n'existe plus à mes yeux.\nPar contre, je me fais beaucoup de\nsouci pour Maria, ma petite sœur.
+MID_MISHEIL_FRIEND: $Nf a exigé\nque je vous rende visite.\nQuelle insolence !
+MID_MISHEIL_LEVEL1: Les flammes de mon ambition brillent\nde plus belle !
+MID_MISHEIL_LEVEL2: C'est l'ordre naturel des choses.
+MID_MISHEIL_LEVEL3: C'est misérable...
+MID_MISHEIL_SKILL: Le destin me pousse à poursuivre\nle combat.
+MID_MISHEIL_JOIN: Je suis Michalis, roi de Medon.\nVous n'avez pas besoin d'en\nsavoir davantage.
+MID_MISHEIL_STRONGEST: J'ai regardé la mort dans les yeux.\nMinerva m'a vaincu. Sans remords,\nelle a écrasé toutes mes ambitions.$k$pJe n'aurais pas dû revenir à la vie,\nmais une étincelle de fureur pure\nm'a poussé à rouvrir les yeux.$k$pJe dois bien avouer, $GInvocateur,Invocatrice|,\nque notre temps passé ensemble\na de nouveau attisé cette fureur.$k$pVous m'avez rendu si puissant que\nje me plais à imaginer les royaumes\nque je pourrais conquérir...$k$pJe vais rester à vos côtés le temps\nd'élaborer un plan solide... et de\ndevenir encore plus puissant.
+MID_MISHEIL_VOICE01: はぁっ！
+MID_MISHEIL_VOICE02: むんっ！
+MID_MISHEIL_VOICE03: うああっ！
+MID_MISHEIL_VOICE04: That I could...
+MID_MISHEIL_VOICE05: Risible.
+MID_MISHEIL_VOICE06: Je vais t'anéantir.
+MID_MISHEIL_VOICE07: C'en est fini de toi !
+MID_MISHEIL_VOICE08: Prosterne-toi, insecte.
+MID_MISHEIL_VOICE09: How...?!
+MID_MISHEIL_VOICE10: Heh
+MID_MISHEIL_VOICE11: How DARE you lay a finger on me?
+MID_MISHEIL_VOICE12: Curses! What are you doing, skulking around like that?
+MID_MISHEIL_VOICE13: You will address me as King Michalis of Macedon.
+MID_MISHEIL_VOICE14: I intend to conquer the worlds. All of them.
+MID_MISHEIL_VOICE15: If you do not fear me now, you will soon.
+MID_MISHEIL_VOICE16: I must come to her aid... I must...
+MID_MISHEIL_VOICE17: I will lend you the grace of my power.
+MID_MISHEIL_VOICE18: Very well.
+MID_MISHEIL_VOICE19: Yes?
+MID_MISHEIL_VOICE20: Don't push me.

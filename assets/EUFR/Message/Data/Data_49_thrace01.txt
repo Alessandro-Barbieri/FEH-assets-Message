@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: Arc rouge. Portée : 2. Arme dont les dégâts\ndépendent de la Déf de l'ennemi. Inflige des\ndégâts supplémentaires aux unités volantes.
+MWID_H_青弓: Arc bleu. Portée : 2. Arme dont les dégâts\ndépendent de la Déf de l'ennemi. Inflige des\ndégâts supplémentaires aux unités volantes.
+MWID_H_緑弓: Arc vert. Portée : 2. Arme dont les dégâts\ndépendent de la Déf de l'ennemi. Inflige des\ndégâts supplémentaires aux unités volantes.
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: Achat impossible. Le produit\nn'est plus disponible.
+MID_MISSION_S201804DAISEIATU01_TITLE: Grande conquête
+MID_MISSION_S201804DAISEIATU01_A1: GC : score
+MID_MISSION_H_S201804DAISEIATU01_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU01_A2: GC : score
+MID_MISSION_H_S201804DAISEIATU01_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804DAISEIATU01_A3: GC : score
+MID_MISSION_H_S201804DAISEIATU01_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201804MOVE01_TITLE: Type d'unité
+MID_MISSION_S201804MOVE01_A1: Victoire : infanterie
+MID_MISSION_H_S201804MOVE01_A1: Vaincre des unités rouges avec des\nfantassins.
+MID_MISSION_S201804MOVE01_A2: Victoire : infanterie
+MID_MISSION_H_S201804MOVE01_A2: Vaincre des unités bleues avec des\nfantassins.
+MID_MISSION_S201804MOVE01_A3: Victoire : infanterie
+MID_MISSION_H_S201804MOVE01_A3: Vaincre des unités vertes avec des\nfantassins.
+MID_MISSION_S201804MOVE01_A4: Victoire : infanterie
+MID_MISSION_H_S201804MOVE01_A4: Vaincre des unités grises avec des\nfantassins.
+MID_MISSION_S201804MOVE01_A5: Victoire : unité cuirassée
+MID_MISSION_H_S201804MOVE01_A5: Vaincre des unités rouges avec des\nunités cuirassées.
+MID_MISSION_S201804MOVE01_A6: Victoire : unité cuirassée
+MID_MISSION_H_S201804MOVE01_A6: Vaincre des unités bleues avec des\nunités cuirassées.
+MID_MISSION_S201804MOVE01_A7: Victoire : unité cuirassée
+MID_MISSION_H_S201804MOVE01_A7: Vaincre des unités vertes avec des\nunités cuirassées.
+MID_MISSION_S201804MOVE01_A8: Victoire : unité cuirassée
+MID_MISSION_H_S201804MOVE01_A8: Vaincre des unités grises avec des\nunités cuirassées.
+MID_MISSION_S201804MOVE01_A9: Victoire : cavalerie
+MID_MISSION_H_S201804MOVE01_A9: Vaincre des unités rouges avec des\ncavaliers.
+MID_MISSION_S201804MOVE01_A10: Victoire : cavalerie
+MID_MISSION_H_S201804MOVE01_A10: Vaincre des unités bleues avec des\ncavaliers.
+MID_MISSION_S201804MOVE01_A11: Victoire : cavalerie
+MID_MISSION_H_S201804MOVE01_A11: Vaincre des unités vertes avec des\ncavaliers.
+MID_MISSION_S201804MOVE01_A12: Victoire : cavalerie
+MID_MISSION_H_S201804MOVE01_A12: Vaincre des unités grises avec des\ncavaliers.
+MID_MISSION_S201804MOVE01_A13: Victoire : unité volante
+MID_MISSION_H_S201804MOVE01_A13: Vaincre des unités rouges avec des\nunités volantes.
+MID_MISSION_S201804MOVE01_A14: Victoire : unité volante
+MID_MISSION_H_S201804MOVE01_A14: Vaincre des unités bleues avec des\nunités volantes.
+MID_MISSION_S201804MOVE01_A15: Victoire : unité volante
+MID_MISSION_H_S201804MOVE01_A15: Vaincre des unités vertes avec des\nunités volantes.
+MID_MISSION_S201804MOVE01_A16: Victoire : unité volante
+MID_MISSION_H_S201804MOVE01_A16: Vaincre des unités grises avec des\nunités volantes.
+MID_MISSION_S201804SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201804SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201804SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201804SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201804SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201804SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804YEAR01_TITLE: GB - Élite 2
+MID_MISSION_S201804YEAR01_A1: Legion
+MID_MISSION_H_S201804YEAR01_A1: Remporter la grande bataille contre Legion,\nle dément masqué.
+MID_MISSION_S201804YEAR01_A2: Legion
+MID_MISSION_H_S201804YEAR01_A2: Remporter la grande bataille contre Legion,\nle dément masqué, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A3: Legion
+MID_MISSION_H_S201804YEAR01_A3: Remporter la grande bataille contre Legion,\nle dément masqué, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A4: Legion
+MID_MISSION_H_S201804YEAR01_A4: Remporter la grande bataille contre Legion,\nle dément masqué, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A5: Legion
+MID_MISSION_H_S201804YEAR01_A5: Remporter la grande bataille contre Legion,\nle dément masqué, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A6: Clarisse
+MID_MISSION_H_S201804YEAR01_A6: Remporter la grande bataille contre Clarisse,\nl'archère fatale.
+MID_MISSION_S201804YEAR01_A7: Clarisse
+MID_MISSION_H_S201804YEAR01_A7: Remporter la grande bataille contre Clarisse,\nl'archère fatale, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A8: Clarisse
+MID_MISSION_H_S201804YEAR01_A8: Remporter la grande bataille contre Clarisse,\nl'archère fatale, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A9: Clarisse
+MID_MISSION_H_S201804YEAR01_A9: Remporter la grande bataille contre Clarisse,\nl'archère fatale, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A10: Clarisse
+MID_MISSION_H_S201804YEAR01_A10: Remporter la grande bataille contre Clarisse,\nl'archère fatale, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A11: Berkut
+MID_MISSION_H_S201804YEAR01_A11: Remporter la grande bataille contre Berkut,\nle prince hautain.
+MID_MISSION_S201804YEAR01_A12: Berkut
+MID_MISSION_H_S201804YEAR01_A12: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A13: Berkut
+MID_MISSION_H_S201804YEAR01_A13: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A14: Berkut
+MID_MISSION_H_S201804YEAR01_A14: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A15: Berkut
+MID_MISSION_H_S201804YEAR01_A15: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A16: Valter
+MID_MISSION_H_S201804YEAR01_A16: Remporter la grande bataille contre Valter,\nla Pierre de lune.
+MID_MISSION_S201804YEAR01_A17: Valter
+MID_MISSION_H_S201804YEAR01_A17: Remporter la grande bataille contre Valter,\nla Pierre de lune, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A18: Valter
+MID_MISSION_H_S201804YEAR01_A18: Remporter la grande bataille contre Valter,\nla Pierre de lune, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A19: Valter
+MID_MISSION_H_S201804YEAR01_A19: Remporter la grande bataille contre Valter,\nla Pierre de lune, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A20: Valter
+MID_MISSION_H_S201804YEAR01_A20: Remporter la grande bataille contre Valter,\nla Pierre de lune, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A21: Arvis
+MID_MISSION_H_S201804YEAR01_A21: Remporter la grande bataille contre Arvis,\nl'empereur du feu.
+MID_MISSION_S201804YEAR01_A22: Arvis
+MID_MISSION_H_S201804YEAR01_A22: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A23: Arvis
+MID_MISSION_H_S201804YEAR01_A23: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A24: Arvis
+MID_MISSION_H_S201804YEAR01_A24: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A25: Arvis
+MID_MISSION_H_S201804YEAR01_A25: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A26: Zephiel
+MID_MISSION_H_S201804YEAR01_A26: Remporter la grande bataille contre Zephiel,\nle libérateur.
+MID_MISSION_S201804YEAR01_A27: Zephiel
+MID_MISSION_H_S201804YEAR01_A27: Remporter la grande bataille contre Zephiel,\nle libérateur, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A28: Zephiel
+MID_MISSION_H_S201804YEAR01_A28: Remporter la grande bataille contre Zephiel,\nle libérateur, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A29: Zephiel
+MID_MISSION_H_S201804YEAR01_A29: Remporter la grande bataille contre Zephiel,\nle libérateur, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A30: Zephiel
+MID_MISSION_H_S201804YEAR01_A30: Remporter la grande bataille contre Zephiel,\nle libérateur, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804YEAR01_A31: Camus
+MID_MISSION_H_S201804YEAR01_A31: Remporter la grande bataille contre Camus,\nle chevalier noir.
+MID_MISSION_S201804YEAR01_A32: Camus
+MID_MISSION_H_S201804YEAR01_A32: Remporter la grande bataille contre Camus,\nle chevalier noir, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Eau.
+MID_MISSION_S201804YEAR01_A33: Camus
+MID_MISSION_H_S201804YEAR01_A33: Remporter la grande bataille contre Camus,\nle chevalier noir, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Vent.
+MID_MISSION_S201804YEAR01_A34: Camus
+MID_MISSION_H_S201804YEAR01_A34: Remporter la grande bataille contre Camus,\nle chevalier noir, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Terre.
+MID_MISSION_S201804YEAR01_A35: Camus
+MID_MISSION_H_S201804YEAR01_A35: Remporter la grande bataille contre Camus,\nle chevalier noir, en Expert ou supérieur,\navec une équipe composée exclusivement\nde héros légendaires ou bénis de type Feu.
+MID_MISSION_S201804STORY01_TITLE: Neige et cendres
+MID_MISSION_S201804STORY01_A1: Chap. 7 - Acte 1 (Expert)
+MID_MISSION_H_S201804STORY01_A1: Terminer Livre II, Chap. 7, Acte 1 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY01_A2: Chap. 7 - Acte 2 (Expert)
+MID_MISSION_H_S201804STORY01_A2: Terminer Livre II, Chap. 7, Acte 2 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY01_A3: Chap. 7 - Acte 3 (Expert)
+MID_MISSION_H_S201804STORY01_A3: Terminer Livre II, Chap. 7, Acte 3 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY01_A4: Chap. 7 - Acte 4 (Expert)
+MID_MISSION_H_S201804STORY01_A4: Terminer Livre II, Chap. 7, Acte 4 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY01_A5: Chap. 7 - Acte 5 (Expert)
+MID_MISSION_H_S201804STORY01_A5: Terminer Livre II, Chap. 7, Acte 5 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_H_OCCUPATION_RULE_歩行能力強化: Atq/Vit/Déf/Rés +4 pour les\nfantassins alliés.
+MID_H_OCCUPATION_RULE_歩行奥義: Compteur -1 par attaque pour les\nfantassins alliés pendant le combat.\n(S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.)
+MID_H_OCCUPATION_RULE_重装能力強化: Atq/Vit/Déf/Rés +4 pour les\nalliés en armure.
+MID_H_OCCUPATION_RULE_重装移動強化: En début de tour, les alliés en armure\npeuvent se déplacer d'une case de\nplus (valable un tour seulement).
+MID_H_OCCUPATION_RULE_騎馬能力強化: Atq/Vit/Déf/Rés +4 pour les\ncavaliers alliés.
+MID_H_OCCUPATION_RULE_騎馬追撃: Si un cavalier allié initie le combat,\nil effectue automatiquement une\ndouble frappe.
+MID_H_OCCUPATION_RULE_飛行能力強化: Atq/Vit/Déf/Rés +4 pour les\nalliés volants.
+MID_H_OCCUPATION_RULE_飛行先導: Les alliés peuvent se déplacer jusqu'à\nune case adjacente à un allié volant\nsitué à deux cases ou moins.
+MPID_サイアス: Saias
+MPID_フィン: Finn
+MPID_リーフ: Leif
+MPID_ナンナ: Nanna
+MPID_オルエン2: Olwen
+MPID_ラインハルト2: Reinhardt
+MPID_HONOR_サイアス: Évêque du feu
+MPID_HONOR_フィン: Lancier mythique
+MPID_HONOR_リーフ: Prince de Leonster
+MPID_HONOR_ナンナ: Dame de Nordion
+MPID_HONOR_オルエン2: Chevalier juste
+MPID_HONOR_ラインハルト2: Épée d'Ishtar
+MPID_H_サイアス: Prêtre de Velthomer, figurant parmi les\nplus grands tacticiens. Le sang de la\ncroisée Fjalar coule dans ses veines.\nApparaît dans Fire Emblem: Thracia 776.
+MPID_H_フィン: Chevalier de Leonster ayant juré fidélité au\npère de Leif, Quan. Sa raison d'être est de\nprotéger Leif. Apparaît dans Fire Emblem:\nThracia 776.
+MPID_H_リーフ: Fils de Quan. A quitté Fiana, où il se cachait,\naprès une attaque des forces impériales.\nApparaît dans Fire Emblem: Thracia 776.
+MPID_H_ナンナ: Jeune fille charismatique qui a hérité de la\ngrâce de sa mère, Lachesis. Apparaît dans\nFire Emblem: Thracia 776.
+MPID_H_オルエン2: Chevalier mage de Friege. S'est engagée\nsur sa propre voie après s'être séparée\nde son frère bien-aimé, Reinhardt.\nApparaît dans Fire Emblem: Thracia 776.
+MPID_H_ラインハルト2: Chevalier mage de Friege extrêmement\npuissant et frère aîné d'Olwen. A été\nvaincu par le prince Leif. Apparaît dans\nFire Emblem: Thracia 776.
+MPID_VOICE_サイアス: Ben Lepley
+MPID_VOICE_フィン: Robert Clotworthy
+MPID_VOICE_リーフ: Nicolas Roye
+MPID_VOICE_ナンナ: Alicia Stratten
+MPID_VOICE_オルエン2: Tara Sands
+MPID_VOICE_ラインハルト2: Chris Smith
+MPID_ILLUST_サイアス: Teita (悌太)
+MPID_ILLUST_フィン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_リーフ: Aoji (あおじ)
+MPID_ILLUST_ナンナ: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: Bras droit d'Ishtar
+MID_SEQUENTIAL_MAP_BOOST_49: $aScore x $a1 + boost (encore $a0 fois auj.)
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: ◆ Bonus de score et boost ◆\nDeux fois par jour, votre score est\ntriplé et tous vos alliés bénéficient\nde PV +10 et Atq/Vit/Déf/Rés +4.\n\nVous gagnez également deux fois\nplus d'EXP et de PA !
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $aScore\n+$a0 %
+MID_SEQUENTIAL_MAP_RECOMMENDED: Suggestion
+MSID_無銘の一門の剣: Épée sans nom
+MSID_フォルブレイズ: Forblaze
+MSID_第9迷宮の覇者1: Assaut réussi I 1
+MSID_第9迷宮の覇者2: Assaut réussi I 2
+MSID_第9迷宮の覇者3: Assaut réussi I 3
+MSID_マスターソード: Meisterschwert
+MSID_光の剣: Épée-lumière
+MSID_軍神の書: Tome guerrier
+MSID_雷旋トルネード: Tome Tonnerre
+MSID_レスト: Vitalis
+MSID_レスト＋: Vitalis +
+MSID_Ｓドリンク: Boisson S
+MSID_攻撃守備の紋章1: Encens Atq/Déf 1
+MSID_攻撃守備の紋章2: Encens Atq/Déf 2
+MSID_緑魔の経験1: Exp. tome vert 1
+MSID_緑魔の経験2: Exp. tome vert 2
+MSID_緑魔の経験3: Exp. tome vert 3
+MSID_H_無銘の一門の剣: Accélère l'activation des aptitudes\nspéciales (compteur -1).
+MSID_H_フォルブレイズ: En début de tour, inflige Rés -7 à l'ennemi\navec la Rés la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_封印の剣改: Efficace contre les dragons. Si l'ennemi\ninitie le combat, confère Déf/Rés +4\npendant le combat.
+MSID_H_リガルブレイド改: Si PV de l'ennemi = 100 % au début du\ncombat, confère Atq/Vit +3 pendant le combat.
+MSID_H_切り返しR50: Si l'ennemi initie le combat et que PV ≥ 50 %,\nl'unité effectue une double frappe.
+MSID_H_絆R歩行魔法: Si l'unité se trouve à 2 cases ou moins\nd'un fantassin allié utilisant la magie, confère\nAtq/Vit/Déf/Rés +3 pendant le combat.
+MSID_H_第9迷宮の覇者1: Confère Vit +1.
+MSID_H_第9迷宮の覇者2: Confère Vit +2.
+MSID_H_第9迷宮の覇者3: Confère Vit +3.
+MSID_H_マスターソード: Inflige Vit -5. L'unité attaque deux fois,\nmême si l'ennemi initie le combat.
+MSID_H_光の剣: Confère Déf +3. Si Déf ennemi > Rés ennemi\nde 5 points ou plus, inflige 7 dégâts\nsupplémentaires.
+MSID_H_軍神の書: En début de tour, inflige Atq/Rés -4 aux ennemis\nsitués sur la même ligne horizontale ou verticale\ndont la Rés est inférieure à celle de l'unité jusqu'à\nla fin de leur phase.
+MSID_H_雷旋トルネード: Ajoute la valeur totale des boosts de l'unité\naux dégâts infligés.
+MSID_H_レスト: Rend 8 PV et supprime les malus agissant\njusqu'à la fin de la phase de la cible\n(caractéristiques réduites, effets des\naptitudes comme Panique, restrictions de\ndéplacement et de contre-attaque, etc.).
+MSID_H_レスト＋: Rend des PV à hauteur de 50 % de l'Atq\n(8 PV minimum). Supprime les malus\nagissant jusqu'à la fin de la phase de la cible\n(caractéristiques réduites, effets des\naptitudes comme Panique, restrictions de\ndéplacement et de riposte, etc.).
+MSID_H_Ｓドリンク: Au début du tour 1, rend 99 PV\net compteur -1.
+MSID_H_攻撃守備の紋章1: Confère Atq/Déf +2 aux alliés adjacents\npendant le combat.
+MSID_H_攻撃守備の紋章2: Confère Atq/Déf +3 aux alliés adjacents\npendant le combat.
+MSID_H_緑魔の経験1: Si l'unité utilise un tome vert et survit, elle reçoit\nEXP x 1,5. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_緑魔の経験2: Si l'unité survit, toutes les unités dotées de tomes\nverts de l'équipe reçoivent EXP x 1,5. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MSID_H_緑魔の経験3: Si l'unité survit, toutes les unités dotées de tomes\nverts de l'équipe reçoivent EXP x 2. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MID_CHAPTER_TITLE_C0207: Livre II, Chap. 7
+MID_CHAPTER_C0207: Neige et cendres
+MID_STAGE_TITLE_S2071: Ch. 7 - Acte 1
+MID_STAGE_TITLE_S2072: Ch. 7 - Acte 2
+MID_STAGE_TITLE_S2073: Ch. 7 - Acte 3
+MID_STAGE_TITLE_S2074: Ch. 7 - Acte 4
+MID_STAGE_TITLE_S2075: Ch. 7 - Acte 5
+MID_STAGE_S2071: L'écho des rêves
+MID_STAGE_S2072: Le chevalier mage
+MID_STAGE_S2073: Esprits indomptables
+MID_STAGE_S2074: Le tome et l'épée
+MID_STAGE_S2075: Neige et cendres
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: ◆ Grande bataille du jour (2) ◆\nRetrouvez les héros suivants :\nZephiel, le libérateur, Camus, le\nchevalier noir, Legion, le dément\nmasqué, Clarisse, l'archère\nfatale, Berkut, le prince hautain,\nValter, la Pierre de lune, et\nArvis, l'empereur du feu.
+MID_STAGE_TITLE_SB_0009: 9e assaut
+MID_STAGE_HONOR_V0231: Récompense
+MID_STAGE_V0231: Vs Xander
+MID_STAGE_HONOR_V0232: Récompense
+MID_STAGE_V0232: Vs Camilla
+MID_STAGE_HONOR_V0233: Récompense
+MID_STAGE_V0233: Vs Azura
+MID_STAGE_HONOR_V0234: Récompense
+MID_STAGE_V0234: Vs Ike
+MID_STAGE_HONOR_V0235: Récompense
+MID_STAGE_V0235: Vs Roy
+MID_STAGE_HONOR_V0236: Récompense
+MID_STAGE_V0236: Vs Daraen (H)
+MID_STAGE_HONOR_V0237: Récompense
+MID_STAGE_V0237: Vs Takumi
+MID_STAGE_HONOR_V0238: Récompense
+MID_STAGE_V0238: Vs Daraen (F)
+MID_STAGE_HONOR_V0239: Récompense
+MID_STAGE_V0239: Vs Lucina
+MID_STAGE_HONOR_V0240: Récompense
+MID_STAGE_V0240: Vs Chrom
+MID_STAGE_HONOR_V0241: Récompense
+MID_STAGE_V0241: Vs Lyn
+MID_STAGE_HONOR_T0029: Évêque du feu
+MID_STAGE_T0029: Saias
+MID_STAGE_HONOR_Q0006: Hebdo.
+MID_STAGE_Q0006: Domaines rivaux
+MID_STAGE_HONOR_Q0007: Hebdo.
+MID_STAGE_Q0007: Domaines rivaux
+MID_STAGE_HONOR_Q0008: Hebdo.
+MID_STAGE_Q0008: Domaines rivaux
+MID_STAGE_HONOR_Q0009: Hebdo.
+MID_STAGE_Q0009: Domaines rivaux
+MID_STAGE_TITLE_BG_WATER_0007: Eau 7
+MID_STAGE_BG_WATER_0007: Colonnade
+MID_STAGE_TITLE_BG_WIND_0006: Vent 6
+MID_STAGE_BG_WIND_0006: Sanctuaire
+MID_STAGE_TITLE_BG_EARTH_0006: Terre 6
+MID_STAGE_BG_EARTH_0006: Sanctuaire
+MID_STAGE_TITLE_BG_FIRE_0006: Feu 6
+MID_STAGE_BG_FIRE_0006: Sanctuaire

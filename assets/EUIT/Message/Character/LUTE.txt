@@ -1,0 +1,38 @@
+[Heroes Archive] (LUTE)
+
+
+Heroes Message Name: Message
+
+
+MID_LUTE_HOME1: Usi la magia? Ciò ci rende rivali.\nAlmeno finché non stabiliamo\nchi è superiore.
+MID_LUTE_HOME2: Le mie ricerche a Renais sono state\nsoddisfacenti, ma anche la magia di\nquesto mondo sembra promettente.
+MID_LUTE_HOME3: La tua faccia mostra segni di\nstanchezza. Ho letto di un'erba\nche aiuta in questi casi.$k$pPagina 990 del "De Floris Mysticis",\nparagrafo quattro, terza riga.
+MID_LUTE_HOME4: Ti serve il mio aiuto? Per ora,\nciò che so fare è diviso in\n7 categorie e 25 voci.
+MID_LUTE_HOME5: Oggi ripasserò, mentalmente, il\ncapitolo 5 di "Introduzione di una\ngiovane alla magia nazoniana".$k$pDopo, andrò in giro a raccogliere\nle erbe più interessanti che crescono\nin questo mondo.
+MID_LUTE_FRIEND: Ho memorizzato questo messaggio\ndi $Nf.\nScrivere è obsoleto.$k$pUn incarico simile è un'inezia per\nuna maga e studiosa senza pari\ncome me.
+MID_LUTE_LEVEL1: Statisticamente parlando, la\nfortuna è probabile quanto\nla sfortuna.
+MID_LUTE_LEVEL2: Quella faccia stupita è obsoleta.\nSono superiore a tutti.
+MID_LUTE_LEVEL3: Statisticamente parlando, la\nsfortuna è probabile quanto\nla fortuna.
+MID_LUTE_SKILL: Hai reso un essere superiore\nancor più superiore.
+MID_LUTE_JOIN: Sono Lute, una maga semplicemente\ngeniale. Se è il potere assoluto che\ndesideri, ce l'hai davanti.
+MID_LUTE_STRONGEST: Ti sto analizzando da quando mi\nhai evocata qui. Le mie note\nsono impeccabili.$k$pHo intitolato questo studio\n"$Nu:\nusi e costumi quotidiani".$k$pCome potrai apprezzare, non\nho saltato neanche un giorno.$k$p"Mattino: $Nu\nsi alza presto, fa una bella colazione\ne si allena fino all'ora di pranzo."$k$p"Pomeriggio:\n$Nu fa un\npranzo leggero e pattuglia il castello."$k$p"Sera: $Nu\nconsuma la cena, si fa un bagno e\nva a letto senza concedersi il dolce."$k$pUn racconto preciso e dettagliato,\ncome puoi vedere. Lo revisiono\nogni notte.$k$pAll'inizio pensavo potessi essere una\nminaccia alla mia superiorità, quindi\nho cercato di trovare delle debolezze.$k$pMa più ti studiavo e più le mie ragioni\ncambiavano. Un fenomeno alquanto\nraro.$k$pUlteriori osservazioni sono doverose\nper comprenderlo appieno. Quindi la\nmia ricerca giornaliera prosegue.$k$pContinua con le tue attività come\nsempre. Compilerò il volume 2\nosservandoti da lontano.
+MID_LUTE_VOICE01: では。
+MID_LUTE_VOICE02: 優秀ですから。
+MID_LUTE_VOICE03: きゃああっ！
+MID_LUTE_VOICE04: 私は…まだ…
+MID_LUTE_VOICE05: Sono superiore.
+MID_LUTE_VOICE06: Ti farò a pezzi!
+MID_LUTE_VOICE07: Sei temibile.
+MID_LUTE_VOICE08: Vincerò di sicuro.
+MID_LUTE_VOICE09: I don't want to die...
+MID_LUTE_VOICE10: Heh. Heh. Heh.
+MID_LUTE_VOICE11: I'm Lute, genius mage extraordinaire. You've probably heard of me.
+MID_LUTE_VOICE12: My mood? On a scale of 1 to 48, I'd say I'm at a 14.
+MID_LUTE_VOICE13: Your flesh shows no signs of putrefaction. It seems you're still alive.
+MID_LUTE_VOICE14: You wish simply to chat? That sounds neither productive nor strategically valuable, but...
+MID_LUTE_VOICE15: You may pose a threat to my natural superiority. This is troubling...
+MID_LUTE_VOICE16: There is still much I need to study. My books so far have taught me nothing of love...
+MID_LUTE_VOICE17: You and I should stick together for a while longer. After all, there's no one better than me...and you.
+MID_LUTE_VOICE18: Yes?
+MID_LUTE_VOICE19: You need me.
+MID_LUTE_VOICE20: Let's begin.

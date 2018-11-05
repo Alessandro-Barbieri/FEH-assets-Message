@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKA)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKA_HOME1: Guardiani di Askr, eh? A me sembra\nsolo un nome più elegante per una\nbanda di assassini.
+MID_BERKA_HOME2: Lady Camilla è la mia signora. Adesso\nlavoro per lei. Ucciderei chiunque, se\nfosse lei a chiedermelo.
+MID_BERKA_HOME3: Saprò seguire le tue istruzioni sul\ncampo di battaglia. Anche a metri\ndi distanza. So leggere le labbra.
+MID_BERKA_HOME4: Mi serve l'arma più potente che\nquesto mondo ha da offrire. Conto\nsui tuoi consigli.
+MID_BERKA_HOME5: Le armi hanno bisogno di costante\nmanutenzione. E preferisco non\nessere disturbata, mentre le affilo.
+MID_BERKA_FRIEND: Devo consegnarti un messaggio:\n$Nf ti saluta.\nMissione compiuta.
+MID_BERKA_LEVEL1: Affrontarmi sarà\nla vostra disfatta.
+MID_BERKA_LEVEL2: È tempo di cambiare il modo\ndi uccidere...
+MID_BERKA_LEVEL3: ...
+MID_BERKA_SKILL: Divento più potente. Molto bene.\nMi servirà.
+MID_BERKA_JOIN: Mi chiamo Beruka, sono un'assassina\ndel Nohr. Hai bisogno di me per una\nmissione? Bene. Accetto l'incarico.
+MID_BERKA_STRONGEST: $Nu...\nFelice di saperti ancora in vita.$k$pPerché sarei felice? Mmmh...\nNon saprei.$k$pNon ho obblighi verso di te, non ti ho\ngiurato fedeltà, non esiste nessun\ncontratto tra noi due.$k$pMa... mi preoccupo per la tua salute.\nProbabilmente per via delle tue\ninsostituibili capacità.$k$pSono sicura che sia questo il motivo.\nGli assassini come me non si\naffezionano.\n
+MID_BERKA_VOICE01: ふっ
+MID_BERKA_VOICE02: せやっ
+MID_BERKA_VOICE03: ううっ…
+MID_BERKA_VOICE04: Slipped up...
+MID_BERKA_VOICE05: Adesso ci divertiamo.
+MID_BERKA_VOICE06: Finisco la missione.
+MID_BERKA_VOICE07: I giochi sono fatti.
+MID_BERKA_VOICE08: Annientarti è il mio obiettivo.
+MID_BERKA_VOICE09: Mission failed.
+MID_BERKA_VOICE10: Whew
+MID_BERKA_VOICE11: Need something? Then state it. I can execute any mission.
+MID_BERKA_VOICE12: Name a target. Any target. Until then, I'll be here—getting ready.
+MID_BERKA_VOICE13: I never hold back on the battlefield. I give all. And I take all.
+MID_BERKA_VOICE14: I don't waste time when taking out a target. So, surprise attacks. And poison if I have it.
+MID_BERKA_VOICE15: This realm... These people... It's too bright, all of it.
+MID_BERKA_VOICE16: Where is Lady Camilla? I've got to keep her safe at all costs.
+MID_BERKA_VOICE17: You take to the battlefield with a nonlethal weapon. Hmm.
+MID_BERKA_VOICE18: Yes?
+MID_BERKA_VOICE19: Orders?
+MID_BERKA_VOICE20: My target?

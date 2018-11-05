@@ -1,0 +1,38 @@
+[Heroes Archive] (RINDA)
+
+
+Heroes Message Name: Message
+
+
+MID_RINDA_HOME1: Avant de mourir, mon père m'a laissé\nAura, le tome de lumière. Grâce à lui,\nje vais détruire Gharnef !
+MID_RINDA_HOME2: Prince Marth m'a un jour sauvée\nalors que j'avais été capturée par\ndes bandits. C'était terrifiant !
+MID_RINDA_HOME3: Je... Je tiens à vous remercier.\nJ'ai conscience de tout ce que\nvous faites pour nous.
+MID_RINDA_HOME4: Vous... Vous aimez ma tenue ?\nOh, c'est très gentil, mais n'en faites\npas tout un plat s'il vous plaît !
+MID_RINDA_HOME5: Cette robe m'a été offerte par mon\npère, avant qu'il ne soit assassiné.\nJ'y tiens énormément...
+MID_RINDA_FRIEND: $Nf m'a\nchargée de vous rendre visite.\nJ'espère que ça vous fait plaisir !
+MID_RINDA_LEVEL1: Quelle belle journée !
+MID_RINDA_LEVEL2: Mon potentiel s'éveille...
+MID_RINDA_LEVEL3: Quelle déception ! Si mon père\nme voyait...
+MID_RINDA_SKILL: Je me dois de mériter tous les\npouvoirs qui me sont conférés.
+MID_RINDA_JOIN: Je m'appelle Linde. Je suis la fille\ndu pontife Miloah et... je n'aime\npas qu'on me fixe du regard.
+MID_RINDA_STRONGEST: Euh... Excusez-moi, ce n'est pas\ngrand-chose, mais... je voulais\nvous remercier.$k$pIl s'est passé tant de choses depuis\nnotre rencontre ! J'ai vécu des\nmoments extraordinaires ici.$k$pQuand je suis arrivée dans ce\nmonde, je venais tout juste de\nperdre mon père, et...$k$pEnfin, je vais bien maintenant.\nC'est grâce à vous, et je tenais\nà ce que vous le sachiez.$k$pVotre bonté nous pousse à donner le\nmeilleur de nous-mêmes. Vous êtes\nune véritable source d'inspiration.
+MID_RINDA_VOICE01: はいっ！
+MID_RINDA_VOICE02: えいっ！
+MID_RINDA_VOICE03: きゃああっ！
+MID_RINDA_VOICE04: I-I won't lose
+MID_RINDA_VOICE05: Que la lumière me guide !
+MID_RINDA_VOICE06: Vous n'auriez pas dû...
+MID_RINDA_VOICE07: Ça va faire mal.
+MID_RINDA_VOICE08: Je n'échouerai pas !
+MID_RINDA_VOICE09: Father...
+MID_RINDA_VOICE10: Heehee
+MID_RINDA_VOICE11: Did you need me for something?
+MID_RINDA_VOICE12: Ah! What do you want?
+MID_RINDA_VOICE13: These clothes were a gift from my father. I wear them in his honor.
+MID_RINDA_VOICE14: I'm a little shy with crowds, but I'm not embarrassed by anything I've done.
+MID_RINDA_VOICE15: I'm proud to call myself Miloah's child.
+MID_RINDA_VOICE16: I will avenge my father and bring his killer to justice.
+MID_RINDA_VOICE17: Oh, care for a longer chat?
+MID_RINDA_VOICE18: OK.
+MID_RINDA_VOICE19: What next?
+MID_RINDA_VOICE20: Ready.

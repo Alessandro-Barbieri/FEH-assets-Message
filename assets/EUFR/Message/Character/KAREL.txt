@@ -1,0 +1,38 @@
+[Heroes Archive] (KAREL)
+
+
+Heroes Message Name: Message
+
+
+MID_KAREL_HOME1: Les héros les plus puissants de\nchaque monde se réunissent ici ?\nQuel endroit charmant.
+MID_KAREL_HOME2: Cette épée a toujours appartenu à ma\nfamille, ce qui signifie qu'elle et moi ne\nfaisons plus qu'un, désormais.
+MID_KAREL_HOME3: Qui est le plus grand guerrier de ce\nmonde ? Ma lame mérite du sang\ndigne de ce nom.
+MID_KAREL_HOME4: Vous osez m'approcher de la sorte ?\nJ'espère que vous avez appris à\nvous défendre, au cas où...
+MID_KAREL_HOME5: Je m'apprêtais à perfectionner une\ntechnique que ma famille a toujours\nsu garder secrète.$k$pJe vous fais donc la faveur de vous\ndemander de partir... À moins que vous\nn'insistiez pour la voir de plus près ?
+MID_KAREL_FRIEND: Vous devez être\n$Nu. Hmf.
+MID_KAREL_LEVEL1: Que les cris d'agonie de mes victimes\nparviennent aux dieux afin qu'ils\nbénissent ma lame !
+MID_KAREL_LEVEL2: Ma lame et moi sommes capables de\nbien mieux que ça !
+MID_KAREL_LEVEL3: Sommes-nous... rouillés ?
+MID_KAREL_SKILL: Merveilleux, merveilleux ! J'ai hâte de\ndéchaîner ce nouveau pouvoir !
+MID_KAREL_JOIN: Je suis Karel. Vous voulez faire\nconnaissance avec ma lame ?$k$p...\nTout compte fait, je retire mon offre.\nVous n'êtes pas $Gprêt,prête|... pas encore.
+MID_KAREL_STRONGEST: Je ne vous comprends pas... Je suis\nla voie de l'épée et j'affronte tout ceux\nqui en valent la peine.$k$pEt pourtant, vous vous présentez à\nmoi alors que vos compétences au\ncombat sont pathétiques.$k$pPourquoi m'est-il impossible de vous\nignorer ? Quelle est cette force qui me\npousse à combattre avec vous ?$k$pHmm... Peut-être possédez-vous une\nforce cachée qui m'aide à tirer le\nmeilleur de moi-même !$k$pSi c'est le cas, vous et moi faisons la\npaire ! Je ne vois aucune raison de\nmettre fin à cette collaboration.$k$pVous pouvez rester à mes côtés, mais\nne vous avisez pas de vous mettre en\ntravers de mon chemin.
+MID_KAREL_VOICE01: はっ！
+MID_KAREL_VOICE02: ふっ
+MID_KAREL_VOICE03: うああっ！
+MID_KAREL_VOICE04: ...Not yet...
+MID_KAREL_VOICE05: Bois, ma lame. Bois !
+MID_KAREL_VOICE06: Ma lame... se déchaîne !
+MID_KAREL_VOICE07: Mon sang bout !
+MID_KAREL_VOICE08: L'envie... est trop forte !
+MID_KAREL_VOICE09: Well done.
+MID_KAREL_VOICE10: Hmm.
+MID_KAREL_VOICE11: Point me toward a worthy opponent.
+MID_KAREL_VOICE12: My blade comes out at the...slightest provocation.
+MID_KAREL_VOICE13: I was raised to live and die by the sword. Now, among my family members, I live. My sister does too.
+MID_KAREL_VOICE14: Only one can wield the sword.
+MID_KAREL_VOICE15: My body? My blade? We are one and the same.
+MID_KAREL_VOICE16: I am on the path of the sword. I seek its end—one way or another.
+MID_KAREL_VOICE17: Don't worry. My blade isn't meant for you.
+MID_KAREL_VOICE18: OK...?
+MID_KAREL_VOICE19: Who next?
+MID_KAREL_VOICE20: Time to feast.

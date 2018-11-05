@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_BRIDE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_BRIDE01_HOME1: L'homme idéal ? Je n'y ai pas\nvraiment réfléchi. Pour commencer,\nil faudrait que je l'aime, évidemment.
+MID_LIN_BRIDE01_HOME2: Quelle tenue ridicule. Ça ne dérange\npas les autres femmes de devoir\nse marier dans un tel accoutrement ?
+MID_LIN_BRIDE01_HOME3: Hé, $Nu !\nVous n'êtes pas $Gfatigué,fatiguée| ? Si je\npeux vous aider, dites-le-moi.$k$pMême si, pour tout vous dire,\nje ne suis pas une experte dans le\ndomaine du repos et de la détente...
+MID_LIN_BRIDE01_HOME4: Vous pensez que cette robe va\nm'empêcher d'aller sur le champ\nde bataille ? Détrompez-vous !$k$pJe suis toujours prête à combattre,\nquelle que soit la situation !
+MID_LIN_BRIDE01_HOME5: Ah, cette robe est trop serrée !\nHé, ne me regardez pas comme ça,\nce n'est pas moi qui l'ai choisie !
+MID_LIN_BRIDE01_FRIEND: $Nf vous\nsalue. Et ne posez pas de questions\nsur la robe, s'il vous plaît.
+MID_LIN_BRIDE01_LEVEL1: Oh, pas mal ! Peut-être que\ncette robe a du bon...
+MID_LIN_BRIDE01_LEVEL2: Ce qui m'intéresse, c'est le\ncombat, pas le mariage !
+MID_LIN_BRIDE01_LEVEL3: Je ne peux pas me concentrer\ndans cette tenue !
+MID_LIN_BRIDE01_SKILL: Avec ça, je peux... Non,\nne regardez pas ! Fichue robe...
+MID_LIN_BRIDE01_JOIN: Je m'appelle Lyn. Je porte cette\ntenue pour une bonne raison,\nmais je préfère ne pas en parler.
+MID_LIN_BRIDE01_STRONGEST: Oh, excusez-moi de vous regarder\ncomme ça. C'est juste que vous me\nrappelez quelqu'un.$k$pMon mari ? Vous plaisantez,\nj'espère ?$k$pNon, je parle $Gd'un,d'une| autre stratège,\navec qui j'ai partagé bien des\népreuves.$k$pC'est une amitié très importante\npour moi.$k$pVous ne vous ressemblez peut-être\npas tant que ça, mais je suis\nheureuse quand je suis avec vous.$k$pSi vous ressentez la même chose,\nj'espère que nous ne nous\nséparerons jamais...$k$pComment ? On dirait une demande\nen mariage ? Mais non ! Qu'est-ce\nque vous allez vous imaginer ?
+MID_LIN_BRIDE01_VOICE01: はいっ！
+MID_LIN_BRIDE01_VOICE02: よいしょ
+MID_LIN_BRIDE01_VOICE03: いやぁっ！
+MID_LIN_BRIDE01_VOICE04: Nooo!
+MID_LIN_BRIDE01_VOICE05: Vraiment ?
+MID_LIN_BRIDE01_VOICE06: Je n'ai pas choisi cette robe !
+MID_LIN_BRIDE01_VOICE07: Je veux mon épée !
+MID_LIN_BRIDE01_VOICE08: Qu'est-ce que vous regardez ?
+MID_LIN_BRIDE01_VOICE09: Not like this...
+MID_LIN_BRIDE01_VOICE10: Heehee
+MID_LIN_BRIDE01_VOICE11: Je vous protégerai.
+MID_LIN_BRIDE01_VOICE12: Je serai toujours là pour vous.
+MID_LIN_BRIDE01_VOICE13: I know. I know. I know! This really doesn't suit me.
+MID_LIN_BRIDE01_VOICE14: This dress will be the end of me.
+MID_LIN_BRIDE01_VOICE15: I hope you don't find this whole thing funny.
+MID_LIN_BRIDE01_VOICE16: I wonder if my grandfather would be happy to see me like this...
+MID_LIN_BRIDE01_VOICE17: I would never marry someone who couldn't stand at my side in battle. Hey! Let's spar.
+MID_LIN_BRIDE01_VOICE18: All right.
+MID_LIN_BRIDE01_VOICE19: Here we go.
+MID_LIN_BRIDE01_VOICE20: Try my best.

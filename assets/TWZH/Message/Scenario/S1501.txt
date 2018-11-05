@@ -1,0 +1,14 @@
+[Heroes Archive] (S1501)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|$w0|各位，準備好了嗎？\n這次要出任務的地方\n在亞斯克王國的西邊……$k$p那是一處古代遺跡，\n人稱……\n「永恆之神的寢室」。$k$p那裡沉睡著一股力量，\n能夠成為我們純白義勇隊的助力喔。$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Cool2|$w0|力量……？\n所謂的力量指的是什麼？$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Smile|$w0|詳細情形我也不太清楚。\n不過這是來自查卡里亞的情報喔。$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$w0|查卡里亞嗎！？$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Cool|$w0|不能與我們同在……\n但即便如此，\n他還是希望能助我們一臂之力吧。$k$p$EFace|走吧，前往遺跡。$k$p$Sbs1000|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_AMB_USERNAME
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|這裡就是「永恆之神的寢室」……$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Anger|$w0|有英雄在守著遺跡。\n讓他們見識我們的力量，打開通路吧！$k$p
+MID_SCENARIO_ENDING_BGM: BGM_AMB_USERNAME
+MID_SCENARIO_ENDING_IMAGE: 005_Castle
+MID_SCENARIO_ENDING: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|這裡就是遺跡的最裡面……$k$p嗯？\n這塊石板……$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$w0|上面好像密密麻麻地\n寫了很多很複雜的字！\n哥哥，你看得懂嗎？$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|這是亞斯克的古代文字……\n看來這是非常古老的東西啊。\n我看看……$k$p「以偉大的\n　解放神亞斯克之名\n　記述於此」$k$p「藉此儀式，\n　神龍亞斯克的【覺醒儀式】……\n　將現其片鱗」$k$p「神龍聖印……\n　其中所蘊含之力\n　必將甦醒。」$k$p……在這後面寫的似乎就是\n詳細的儀式步驟。$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|$w0|透過這個儀式就能喚醒\n聖印的力量……？$k$p$EFace_Smile|值得一試呢。\n我們把這個帶回據點，\n好好調查一番吧！$k$p$Sbs150|

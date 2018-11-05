@@ -1,0 +1,38 @@
+[Heroes Archive] (ALESS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALESS_HOME1: Wer hätte gedacht, dass ich meinem\nVater hier begegnen sollte... Er ist,\nwie Mutter immer sagte.$k$pNein, besser noch. Er verkörpert\nzweifellos den perfekten Ritter.
+MID_ALESS_HOME2: Ich bin der Erbe des Thrones von\nNordion, obwohl ich mich mein\nganzes Leben als Söldner verdingte.$k$pVermutlich fühle ich mich hier\ndeshalb etwas unwohl...
+MID_ALESS_HOME3: Ihr wandert ständig ruhelos hin und\nher... Euch steht ein Kampf bevor.\nIhr solltet Euch lieber ausruhen.
+MID_ALESS_HOME4: Was steht Ihr herum und gafft?\nTrainiert mit mir. Es ist immer\nvon Vorteil, den Körper zu stählen.
+MID_ALESS_HOME5: Ich reinige mein Schwert. Manche\nnennen es Dämonenschwert, aber\nes ist auch nur eine Waffe.$k$pIhr solltet Euch angewöhnen, Eure\n"Heilige Waffe" etwas besser zu\nbehandeln.
+MID_ALESS_FRIEND: Ich bin Ares. Ich bringe Grüße\nvon $Nf.
+MID_ALESS_LEVEL1: Nun kennt Ihr meine wahre Stärke!
+MID_ALESS_LEVEL2: Das Dämonenschwert Misteltein\nlechzt nach Blut.
+MID_ALESS_LEVEL3: Nein... Das darf nicht sein!
+MID_ALESS_SKILL: Ihr gabt mir diese Macht...\nIch setze sie für Euch ein.
+MID_ALESS_JOIN: Ich bin der Dunkle Ritter Ares.\nWer meinen Weg kreuzt, kommt\ndurch das Dämonenschwert um.
+MID_ALESS_STRONGEST: Seid gegrüßt,\n$Nu.$k$pZugegeben, anfangs konnte ich\nEuch nicht leiden. Schließlich\nkämpft Ihr nicht.$k$pDann wurde mir klar, dass Ihr auf\nEure eigene Art $Gein Krieger,eine Kriegerin| seid.\nUnd $Gein guter,eine gute| noch dazu.$k$pVerzeiht mir mein Benehmen.\nWenn ich mir etwas in den Kopf\nsetze, bin ich oft nicht$k$pdavon abzubringen...$k$pIch habe viel verloren und mein\nSchwert sogar gegen Freunde\nerhoben.$k$pWenn die Treue es verlangt, greifen\nRitter zu den Waffen. Doch sie kann\nuns auch fesseln... Wie mich einst.$k$pIhr jedoch... Ihr betrachtet alles\naus der Entfernung. Als mir klar\nwurde, warum Ihr kämpft,$k$pentschied ich mich, die Klinge zu\nsein, die Eure Feinde niederstreckt.$k$pDas schwöre ich auf Misteltein, das\nDämonenschwert, und auf meinen\nNamen: Ares der Dunkle Ritter.
+MID_ALESS_VOICE01: はぁっ！
+MID_ALESS_VOICE02: うおおっ！
+MID_ALESS_VOICE03: うああっ！
+MID_ALESS_VOICE04: Damn it!
+MID_ALESS_VOICE05: Trink, Misteltein!
+MID_ALESS_VOICE06: Ihr wollt mein Opfer werden?
+MID_ALESS_VOICE07: Schuft!
+MID_ALESS_VOICE08: Euer Leben ist mein!
+MID_ALESS_VOICE09: I can't believe it. Me?
+MID_ALESS_VOICE10: Haha
+MID_ALESS_VOICE11: I am the black knight Ares, son of Eldigan.
+MID_ALESS_VOICE12: What do you think you're doing? Do not accost me.
+MID_ALESS_VOICE13: Sigurd was my father's sworn enemy, or so I believed for all my life. But now...
+MID_ALESS_VOICE14: Could it be possible? Is my father here, in this world?
+MID_ALESS_VOICE15: My late father's goals are my own. I will restore my realm.
+MID_ALESS_VOICE16: Mystletainn, the Demon Sword...it thirsts for the blood of men.
+MID_ALESS_VOICE17: I cannot do this on my own. I must ask that you lend me your strength.
+MID_ALESS_VOICE18: Understood.
+MID_ALESS_VOICE19: Point me at the enemy.
+MID_ALESS_VOICE20: I will go.

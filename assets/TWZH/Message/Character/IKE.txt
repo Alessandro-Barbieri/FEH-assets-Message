@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_HOME1: 這個世界的英雄還真強啊。\n目睹了他們的活躍後，我有一股……\n必須變得更強的想法。
+MID_IKE_HOME2: 我在原本的世界裡，\n姑且算是格萊爾傭兵團的團長。不過，\n關於調度物資跟算帳我就不行了……
+MID_IKE_HOME3: 你是不是累了？\n有事的話也讓我幫忙吧。\n我不太靈光，可能反而會給你添麻煩……
+MID_IKE_HOME4: 我剛剛在鍛鍊。\n因為我不太會跟人相處……\n所以還是獨自默默鍛鍊比較自在。
+MID_IKE_HOME5: 我從小就一直用木劍跟老爸對打，\n輸了以後不甘心，又再次奮戰……\n總是一再重複呢。
+MID_IKE_FRIEND: 你就是這支軍隊的主將嗎？\n我是來替$Nf\n向你致意的。
+MID_IKE_LEVEL1: 身體狀況不錯。\n感覺全身都湧出力量了。
+MID_IKE_LEVEL2: 我要增進實力，總有一天\n要替老爸報仇。
+MID_IKE_LEVEL3: 這樣下去\n是趕不上他的……
+MID_IKE_SKILL: 謝謝你。\n這份人情，我必當回報。
+MID_IKE_JOIN: 我是格萊爾傭兵團的艾克。\n你就是我的雇主嗎？\n今後請多關照。
+MID_IKE_STRONGEST: 以前，我還在跟老爸學劍時……\n只是個連怎麼戰鬥\n都不知道的小鬼而已。$k$p不過，老爸死了……\n為了代替老爸守護妹妹和夥伴，\n我拼命戰鬥。$k$p聽說……\n人會隨著與生俱來的器量成長茁壯，\n尤其是像我這種個性的人。$k$p這個世界的戰場是屬於英雄的……\n遠勝於我的強敵一定很多，\n隨時都會成為我的阻礙吧。$k$p但是，\n只要你願意賞識我……\n願意認同我擁有這種器量……$k$p我應該就能為了你，\n變得更為強大吧。\n今後也請多多關照。
+MID_IKE_VOICE01: 哼！
+MID_IKE_VOICE02: 哦哦！
+MID_IKE_VOICE03: 嗚啊～！
+MID_IKE_VOICE04: 我還能打……
+MID_IKE_VOICE05: 我不會讓任何人死！
+MID_IKE_VOICE06: 想逃就趁現在。
+MID_IKE_VOICE07: 我不會取你性命。
+MID_IKE_VOICE08: 我要持續前進！
+MID_IKE_VOICE09: 到此為止……了嗎……
+MID_IKE_VOICE10: 呵呵！
+MID_IKE_VOICE11: 我是格萊爾傭兵團的團長艾克。
+MID_IKE_VOICE12: ……！……想偷襲傭兵是沒用的，我隨時可以應付奇襲。
+MID_IKE_VOICE13: 我是很冷漠的，抱歉……請多關照。
+MID_IKE_VOICE14: 我的劍法是老爸傳授的。我也只會這個而已。
+MID_IKE_VOICE15: 今天的飯菜也很好吃呢。輪值的是誰啊？
+MID_IKE_VOICE16: 雖然我這個團長不太可靠……但我視團員們如家人。
+MID_IKE_VOICE17: 你是我的雇主。我承諾會竭盡所能為你奮戰。
+MID_IKE_VOICE18: 嗯。
+MID_IKE_VOICE19: 上吧！
+MID_IKE_VOICE20: 與其煩惱不如行動。

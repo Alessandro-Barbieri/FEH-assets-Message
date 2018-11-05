@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: This pack cannot be purchased. You\nhave already purchased this pack,\nso it may not be purchased again.
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Hi, $Nu! I'm so\nhappy to see you!$k$pI'm so glad to see you doing well.\nI was a little bit worried that something\nhad happened to you...$k$p$EFace_Smile|I guess I can stop worrying! I hope\nyou'll pitch in on the battlefield. We\ncould really use your help!$k$p
+MID_MISSION_S201801ARENA01_TITLE: Arena
+MID_MISSION_S201801ARENA01_A1: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A1: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A2: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A2: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A3: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A3: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A4: Arena Assault: 3 in a Row
+MID_MISSION_H_S201801ARENA01_A4: Win three consecutive battles\nin Arena Assault.
+MID_MISSION_S201801ARENA01_A5: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A5: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A6: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A7: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A7: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A8: Arena Assault: 5 in a Row
+MID_MISSION_H_S201801ARENA01_A8: Win five consecutive battles\nin Arena Assault.
+MID_MISSION_S201801ARENA01_A9: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A10: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A11: Win Arena Duels
+MID_MISSION_H_S201801ARENA01_A11: Win Arena Duels at any difficulty.
+MID_MISSION_S201801ARENA01_A12: Arena Assault: 7 in a Row
+MID_MISSION_H_S201801ARENA01_A12: Win seven consecutive battles\nin Arena Assault.
+MID_MISSION_S201801SENKA01_DAILY_TITLE: Tempest Trials Mini
+MID_MISSION_S201801SENKA01_DAILY_A1: Clear Trial (Task)
+MID_MISSION_H_S201801SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA01_DAILY_A2: Clear Trial (Task)
+MID_MISSION_H_S201801SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA01_DAILY_A3: Clear Trial (Task)
+MID_MISSION_H_S201801SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA01_DAILY_A4: Clear Trial (Task)
+MID_MISSION_H_S201801SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801STORY01_TITLE: Guided by a Dream
+MID_MISSION_S201801STORY01_A1: Clear 3-1 on Lunatic
+MID_MISSION_H_S201801STORY01_A1: Clear Book II, Chapter 3: Part 1 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY01_A2: Clear 3-2 on Lunatic
+MID_MISSION_H_S201801STORY01_A2: Clear Book II, Chapter 3: Part 2 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY01_A3: Clear 3-3 on Lunatic
+MID_MISSION_H_S201801STORY01_A3: Clear Book II, Chapter 3: Part 3 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY01_A4: Clear 3-4 on Lunatic
+MID_MISSION_H_S201801STORY01_A4: Clear Book II, Chapter 3: Part 4 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY01_A5: Clear 3-5 on Lunatic
+MID_MISSION_H_S201801STORY01_A5: Clear Book II, Chapter 3: Part 5 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201801TRIAL01_TITLE: Chain Challenge
+MID_MISSION_S201801TRIAL01_A1: Clear Chain Challenge
+MID_MISSION_H_S201801TRIAL01_A1: Clear the final map for Chapter 1 in\nChain Challenge.
+MID_MISSION_S201801TRIAL01_A2: Clear Chain Challenge
+MID_MISSION_H_S201801TRIAL01_A2: Clear the final map for Chapter 2 on\nHard or higher difficulty in Chain\nChallenge.
+MID_MISSION_S201801TRIAL01_A3: Clear Chain Challenge
+MID_MISSION_H_S201801TRIAL01_A3: Clear the final map for Chapters 1 & 2 on\nLunatic difficulty in Chain Challenge.
+MID_MISSION_S201801TRIAL01_A4: Clear Squad Assault
+MID_MISSION_H_S201801TRIAL01_A4: Clear the final map in the 3rd Assault in\nSquad Assault.
+MID_MISSION_S201801VMAP01_TITLE: Refined Weapons
+MID_MISSION_S201801VMAP01_A1: Clear Part 1
+MID_MISSION_H_S201801VMAP01_A1: Clear Part 1 with a red-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201801VMAP01_A2: Clear Part 2
+MID_MISSION_H_S201801VMAP01_A2: Clear Part 2 with a blue-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201801VMAP01_A3: Clear Part 3
+MID_MISSION_H_S201801VMAP01_A3: Clear Part 3 with a green-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201801VMAP01_A4: Clear Part 4
+MID_MISSION_H_S201801VMAP01_A4: Clear Part 4 with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201801VMAP01_A5: Clear Part 5
+MID_MISSION_H_S201801VMAP01_A5: Clear Part 5. All four allies must survive.
+MID_MISSION_S201801VMAP01_A6: Clear Part 1 on Hard
+MID_MISSION_H_S201801VMAP01_A6: Clear Part 1 on Hard or higher with\na red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201801VMAP01_A7: Clear Part 2 on Hard
+MID_MISSION_H_S201801VMAP01_A7: Clear Part 2 on Hard or higher with\na blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201801VMAP01_A8: Clear Part 3 on Hard
+MID_MISSION_H_S201801VMAP01_A8: Clear Part 3 on Hard or higher with\na green-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201801VMAP01_A9: Clear Part 4 on Hard
+MID_MISSION_H_S201801VMAP01_A9: Clear Part 4 on Hard or higher with\na colorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201801VMAP01_A10: Clear Part 5 on Hard
+MID_MISSION_H_S201801VMAP01_A10: Clear Part 5 on Hard or higher.\nAll four allies must survive.
+MPID_ミカヤ: Micaiah
+MPID_サザ: Sothe
+MPID_ゼルギウス: Zelgius
+MPID_オリヴァー: Oliver
+MPID_HONOR_ミカヤ: Priestess of Dawn
+MPID_HONOR_サザ: Zephyr
+MPID_HONOR_ゼルギウス: Jet-Black General
+MPID_HONOR_オリヴァー: Admirer of Beauty
+MPID_H_ミカヤ: A member of the Dawn Brigade with silver hair\nand mysterious powers. As close with Sothe as\na sister, though they're not related by blood.\nAppears in Fire Emblem: Radiant Dawn.
+MPID_H_サザ: A thief for the Dawn Brigade. He generally\nshows little interest in others but tends to be\noverprotective of his Micaiah, who's like a sister\nto him. Appears in Fire Emblem: Radiant Dawn.
+MPID_H_ゼルギウス: A general clad head to toe in the blackest of\narmor, naturally known as the Black Knight. His\nholy sword, Alondite, has the power to rend the\nheavens. Appears in Fire Emblem: Radiant Dawn.
+MPID_H_オリヴァー: A member of the Begnion Senate. Cherishes\neverything beautiful and puts all his effort into\nthe preservation of the arts. Appears in Fire\nEmblem: Radiant Dawn.
+MPID_VOICE_ミカヤ: Veronica Taylor
+MPID_VOICE_サザ: Nicolas Roye
+MPID_VOICE_ゼルギウス: Robert Clotworthy
+MPID_VOICE_オリヴァー: Richard Epcar
+MPID_ILLUST_ミカヤ: Chiko (チーコ)
+MPID_ILLUST_サザ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: Homazo (ホマ蔵)
+MSID_第6迷宮の覇者1: Squad Ace F 1
+MSID_第6迷宮の覇者2: Squad Ace F 2
+MSID_第6迷宮の覇者3: Squad Ace F 3
+MSID_ペシュカド: Peshkatz
+MSID_ライト: Light
+MSID_エルライト: Ellight
+MSID_シャイン: Shine
+MSID_シャイン＋: Shine+
+MSID_セイニー: Thani
+MSID_癒しの手: Sacrifice
+MSID_転移の粉: Warp Powder
+MSID_攻撃速さの紋章1: Spur Atk/Spd 1
+MSID_攻撃速さの紋章2: Spur Atk/Spd 2
+MSID_H_パルティア改: Effective against flying foes. Reduces\ndamage from magic foe's first attack\nby 30%.
+MSID_H_シムベリン改: Grants Atk+3 to allies within 2 spaces during\ncombat.
+MSID_H_対遠距離戦闘R攻撃: If foe uses bow, dagger, magic, or staff,\ngrants Atk+6 during combat.
+MSID_H_攻撃魔防の絆R飛行: If unit is within 2 spaces of a flying ally, grants\nAtk/Res+5 during combat.
+MSID_H_第6迷宮の覇者1: Grants HP+3.
+MSID_H_第6迷宮の覇者2: Grants HP+4.
+MSID_H_第6迷宮の覇者3: Grants HP+5.
+MSID_H_ペシュカド: After combat, if unit attacked, inflicts Atk/\nSpd/Def/Res-4 on target and foes within 2\nspaces of target through their next actions,\nand grants Atk/Spd/Def/Res+4 to unit and\nallies within 2 spaces for 1 turn.
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: Effective against armored and cavalry foes.\nGrants Res+3. If armored or cavalry foe\nuses bow, dagger, magic, or staff, reduces\ndamage from foe's first attack by 30%.
+MSID_H_癒しの手: Converts penalties on target into bonuses.\nRestores HP to target = unit's current HP-1.\nReduces unit's HP by amount restored.
+MSID_H_転移の粉: If unit's HP ≥ 80%, unit can move to a space\nadjacent to any ally within 2 spaces.
+MSID_H_攻撃速さの紋章1: Grants Atk/Spd+2 to adjacent allies during\ncombat.
+MSID_H_攻撃速さの紋章2: Grants Atk/Spd+3 to adjacent allies during\ncombat.
+MID_CHAPTER_TITLE_C0203: Book II, Chapter 3
+MID_CHAPTER_C0203: Guided by a Dream
+MID_STAGE_TITLE_S2031: Chapter 3: Part 1
+MID_STAGE_TITLE_S2032: Chapter 3: Part 2
+MID_STAGE_TITLE_S2033: Chapter 3: Part 3
+MID_STAGE_TITLE_S2034: Chapter 3: Part 4
+MID_STAGE_TITLE_S2035: Chapter 3: Part 5
+MID_STAGE_S2031: The Road to Nifl
+MID_STAGE_S2032: The Silver-Haired Maiden
+MID_STAGE_S2033: Ensnared by Beauty
+MID_STAGE_S2034: A Menacing Swordsman
+MID_STAGE_S2035: Steel Sears the Land
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: Cavalry moves 1 space in trenches.
+MID_STAGE_TITLE_SB_0006: 6th Assault
+MID_STAGE_HONOR_T0023: Admirer of Beauty
+MID_STAGE_T0023: Oliver
+MID_STAGE_HONOR_V0151: Refined Weapons
+MID_STAGE_V0151: Part 1
+MID_STAGE_HONOR_V0152: Refined Weapons
+MID_STAGE_V0152: Part 2
+MID_STAGE_HONOR_V0153: Refined Weapons
+MID_STAGE_V0153: Part 3
+MID_STAGE_HONOR_V0154: Refined Weapons
+MID_STAGE_V0154: Part 4
+MID_STAGE_HONOR_V0155: Refined Weapons
+MID_STAGE_V0155: Part 5
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: Select Sacred Seal
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: Select Ally
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: Selected:

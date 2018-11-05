@@ -1,0 +1,8 @@
+[Heroes Archive] (T0020)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヒノカ,ch05_26_Hinoka_F_Normal,Face|$w0|Tu es prêt, Takumi ? Nous allons\nsuivre notre plan. Montrons-leur\nla force de la famille !$k$p$WmMPID_タクミ,ch05_09_Takumi_M_Normal,Face|$w0|Compris, Hinoka. Je ne prendrai pas\nde risque inutile. Nous ne ferons\nqu'un sur le champ de bataille !$k$p$Sbs1000|

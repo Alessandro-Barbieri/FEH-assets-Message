@@ -1,0 +1,493 @@
+[Heroes Archive] (Data_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201712A_TITLE: Quêtes déc. (1)
+MID_MISSION_M201712A_A1: Victoire : unité bleue
+MID_MISSION_H_M201712A_A1: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_M201712A_A2: Victoire : infanterie
+MID_MISSION_H_M201712A_A2: Vaincre des ennemis avec des fantassins.
+MID_MISSION_M201712A_A3: Cible : unités vertes
+MID_MISSION_H_M201712A_A3: Vaincre des unités vertes.
+MID_MISSION_M201712A_A4: Cible : unités volantes
+MID_MISSION_H_M201712A_A4: Vaincre des unités volantes.
+MID_MISSION_M201712A_A5: Duelliste
+MID_MISSION_H_M201712A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201712A_A6: Domination : unité rouge
+MID_MISSION_H_M201712A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités rouges.
+MID_MISSION_M201712A_A7: Domination : unité volante
+MID_MISSION_H_M201712A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des unités volantes.
+MID_MISSION_M201712A_A8: Cible : unités bleues
+MID_MISSION_H_M201712A_A8: Vaincre des unités bleues de niveau 20\nou supérieur.
+MID_MISSION_M201712A_A9: Cible : infanterie
+MID_MISSION_H_M201712A_A9: Vaincre des fantassins de niveau 20\nou supérieur.
+MID_MISSION_M201712A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201712A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201712A_A11: Domination : unité verte
+MID_MISSION_H_M201712A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités vertes.
+MID_MISSION_M201712A_A12: Domination : cavalerie
+MID_MISSION_H_M201712A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des cavaliers.
+MID_MISSION_M201712A_A13: Cible : unités rouges
+MID_MISSION_H_M201712A_A13: Vaincre des unités rouges de niveau 35\nou supérieur.
+MID_MISSION_M201712A_A14: Cible : cavalerie
+MID_MISSION_H_M201712A_A14: Vaincre des cavaliers de niveau 35\nou supérieur.
+MID_MISSION_M201712A_A15: Duelliste émérite
+MID_MISSION_H_M201712A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_S201712ARENA01_TITLE: Arène
+MID_MISSION_S201712ARENA01_A1: Duelliste
+MID_MISSION_H_S201712ARENA01_A1: Remporter un duel en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A2: Duelliste
+MID_MISSION_H_S201712ARENA01_A2: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A3: Duelliste
+MID_MISSION_H_S201712ARENA01_A3: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A4: Assaut (arène) : 3 cartes
+MID_MISSION_H_S201712ARENA01_A4: Remporter trois batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201712ARENA01_A5: Duelliste
+MID_MISSION_H_S201712ARENA01_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A6: Duelliste
+MID_MISSION_H_S201712ARENA01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A7: Duelliste
+MID_MISSION_H_S201712ARENA01_A7: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A8: Assaut (arène) : 5 cartes
+MID_MISSION_H_S201712ARENA01_A8: Remporter cinq batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201712ARENA01_A9: Duelliste
+MID_MISSION_H_S201712ARENA01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A10: Duelliste
+MID_MISSION_H_S201712ARENA01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A11: Duelliste
+MID_MISSION_H_S201712ARENA01_A11: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712ARENA01_A12: Assaut (arène) : 7 cartes
+MID_MISSION_H_S201712ARENA01_A12: Remporter sept batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_M201712B_TITLE: Quêtes déc. (2)
+MID_MISSION_M201712B_A1: Tour : première strate
+MID_MISSION_H_M201712B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A2: Tour : deuxième strate
+MID_MISSION_H_M201712B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A3: Tour : troisième strate
+MID_MISSION_H_M201712B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A4: Tour : quatrième strate
+MID_MISSION_H_M201712B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A5: Tour : cinquième strate
+MID_MISSION_H_M201712B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A6: Tour : sixième strate
+MID_MISSION_H_M201712B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A7: Tour : septième strate
+MID_MISSION_H_M201712B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A8: Tour : huitième strate
+MID_MISSION_H_M201712B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A9: Tour : neuvième strate
+MID_MISSION_H_M201712B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A10: Tour : dixième strate
+MID_MISSION_H_M201712B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712B_A11: Tour : dixième strate
+MID_MISSION_H_M201712B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201712B_A12: Tour : dixième strate
+MID_MISSION_H_M201712B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités cuirassées et sans essuyer\nla moindre perte.
+MID_MISSION_M201712B_A13: Tour : dixième strate
+MID_MISSION_H_M201712B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201712B_A14: Tour : dixième strate
+MID_MISSION_H_M201712B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201712C_TITLE: Quêtes déc. (3)
+MID_MISSION_M201712C_A1: Chapitre 4 - Acte 1
+MID_MISSION_H_M201712C_A1: Terminer l'acte 1 du chapitre 4 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201712C_A2: Chapitre 4 - Acte 2
+MID_MISSION_H_M201712C_A2: Terminer l'acte 2 du chapitre 4 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712C_A3: Chapitre 4 - Acte 3
+MID_MISSION_H_M201712C_A3: Terminer l'acte 3 du chapitre 4 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712C_A4: Chapitre 4 - Acte 4
+MID_MISSION_H_M201712C_A4: Terminer l'acte 4 du chapitre 4 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712C_A5: Chapitre 4 - Acte 5
+MID_MISSION_H_M201712C_A5: Terminer l'acte 5 du chapitre 4 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201712C_A6: Chap. 7 - Acte 1 (Difficile)
+MID_MISSION_H_M201712C_A6: Terminer l'acte 1 du chapitre 7 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201712C_A7: Chap. 7 - Acte 2 (Difficile)
+MID_MISSION_H_M201712C_A7: Terminer l'acte 2 du chapitre 7 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A8: Chap. 7 - Acte 3 (Difficile)
+MID_MISSION_H_M201712C_A8: Terminer l'acte 3 du chapitre 7 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A9: Chap. 7 - Acte 4 (Difficile)
+MID_MISSION_H_M201712C_A9: Terminer l'acte 4 du chapitre 7 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A10: Chap. 7 - Acte 5 (Difficile)
+MID_MISSION_H_M201712C_A10: Terminer l'acte 5 du chapitre 7 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A11: Chap. 10 - Acte 1 (Expert)
+MID_MISSION_H_M201712C_A11: Terminer l'acte 1 du chapitre 10 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201712C_A12: Chap. 10 - Acte 2 (Expert)
+MID_MISSION_H_M201712C_A12: Terminer l'acte 2 du chapitre 10 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A13: Chap. 10 - Acte 3 (Expert)
+MID_MISSION_H_M201712C_A13: Terminer l'acte 3 du chapitre 10 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A14: Chap. 10 - Acte 4 (Expert)
+MID_MISSION_H_M201712C_A14: Terminer l'acte 4 du chapitre 10 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201712C_A15: Chap. 10 - Acte 5 (Expert)
+MID_MISSION_H_M201712C_A15: Terminer l'acte 5 du chapitre 10 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201712RENSEI01_TITLE: Atelier d'armement
+MID_MISSION_S201712RENSEI01_A1: Victoire
+MID_MISSION_H_S201712RENSEI01_A1: Vaincre des ennemis.
+MID_MISSION_S201712RENSEI01_A2: Victoire : unité rouge
+MID_MISSION_H_S201712RENSEI01_A2: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_S201712RENSEI01_A3: Victoire : unité bleue
+MID_MISSION_H_S201712RENSEI01_A3: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_S201712RENSEI01_A4: Victoire : unité verte
+MID_MISSION_H_S201712RENSEI01_A4: Vaincre des ennemis avec des unités vertes.
+MID_MISSION_S201712RENSEI01_A5: Victoire : unité grise
+MID_MISSION_H_S201712RENSEI01_A5: Vaincre des ennemis avec des unités grises.
+MID_MISSION_S201712RENSEI01_A6: Victoire : infanterie
+MID_MISSION_H_S201712RENSEI01_A6: Vaincre des ennemis avec des fantassins.
+MID_MISSION_S201712RENSEI01_A7: Victoire : unité cuirassée
+MID_MISSION_H_S201712RENSEI01_A7: Vaincre des ennemis avec des unités\ncuirassées.
+MID_MISSION_S201712RENSEI01_A8: Victoire : cavalerie
+MID_MISSION_H_S201712RENSEI01_A8: Vaincre des ennemis avec des cavaliers.
+MID_MISSION_S201712RENSEI01_A9: Victoire : unité volante
+MID_MISSION_H_S201712RENSEI01_A9: Vaincre des ennemis avec des unités volantes.
+MID_MISSION_S201712RENSEI01_A10: Duelliste
+MID_MISSION_H_S201712RENSEI01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712RENSEI01_A11: Assaut (arène) : 7 cartes
+MID_MISSION_H_S201712RENSEI01_A11: Remporter sept batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201712RENSEI01_A12: Victoire : Fjorm
+MID_MISSION_H_S201712RENSEI01_A12: Vaincre des ennemis avec Fjorm.
+MID_MISSION_S201712RENSEI01_A13: Cible : niveau ≥ 20
+MID_MISSION_H_S201712RENSEI01_A13: Vaincre des ennemis de niveau 20 ou supérieur\navec Fjorm.
+MID_MISSION_S201712RENSEI01_A14: Cible : niveau ≥ 40
+MID_MISSION_H_S201712RENSEI01_A14: Vaincre des ennemis de niveau 40 ou supérieur\navec Fjorm.
+MID_MISSION_S201712RENSEI01_A15: Tour : première strate
+MID_MISSION_H_S201712RENSEI01_A15: Terminer la 1ère strate de la tour d'entraînement\navec Fjorm dans votre équipe.
+MID_MISSION_S201712RENSEI01_A16: Tour : cinquième strate
+MID_MISSION_H_S201712RENSEI01_A16: Terminer la 5e strate de la tour d'entraînement\navec Fjorm dans votre équipe.
+MID_MISSION_S201712RENSEI01_A17: Tour : neuvième strate
+MID_MISSION_H_S201712RENSEI01_A17: Terminer la 9e strate de la tour d'entraînement\navec Fjorm dans votre équipe.
+MID_MISSION_S201712RENSEI01_A18: Tour : dixième strate
+MID_MISSION_H_S201712RENSEI01_A18: Terminer la 10e strate de la tour d'entraînement\navec Fjorm dans une équipe de trois héros\net sans essuyer la moindre perte.
+MID_MISSION_S201711SENKA03_DAILY_TITLE: La Tourmente
+MID_MISSION_S201711SENKA03_DAILY_A1: La Tourmente
+MID_MISSION_H_S201711SENKA03_DAILY_A1: Terminer l'une des cartes finales\nde la Tourmente.
+MID_MISSION_S201711SENKA03_DAILY_A2: La Tourmente
+MID_MISSION_H_S201711SENKA03_DAILY_A2: Terminer l'une des cartes finales\nde la Tourmente.
+MID_MISSION_S201711SENKA03_DAILY_A3: La Tourmente
+MID_MISSION_H_S201711SENKA03_DAILY_A3: Terminer l'une des cartes finales\nde la Tourmente.
+MID_MISSION_S201711SENKA03_DAILY_A4: La Tourmente
+MID_MISSION_H_S201711SENKA03_DAILY_A4: Terminer l'une des cartes finales\nde la Tourmente.
+MID_MISSION_S201711STORY02_TITLE: La flamme
+MID_MISSION_S201711STORY02_A1: Chap. 1 - Acte 1 (Expert)
+MID_MISSION_H_S201711STORY02_A1: Terminer Livre II, Chap. 1, Acte 1 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY02_A2: Chap. 1 - Acte 2 (Expert)
+MID_MISSION_H_S201711STORY02_A2: Terminer Livre II, Chap. 1, Acte 2 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY02_A3: Chap. 1 - Acte 3 (Expert)
+MID_MISSION_H_S201711STORY02_A3: Terminer Livre II, Chap. 1, Acte 3 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY02_A4: Chap. 1 - Acte 4 (Expert)
+MID_MISSION_H_S201711STORY02_A4: Terminer Livre II, Chap. 1, Acte 4 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY02_A5: Chap. 1 - Acte 5 (Expert)
+MID_MISSION_H_S201711STORY02_A5: Terminer Livre II, Chap. 1, Acte 5 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY03_TITLE: Princesse glaciale
+MID_MISSION_S201711STORY03_A1: Chap. 2 - Acte 1 (Expert)
+MID_MISSION_H_S201711STORY03_A1: Terminer Livre II, Chap. 2, Acte 1 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY03_A2: Chap. 2 - Acte 2 (Expert)
+MID_MISSION_H_S201711STORY03_A2: Terminer Livre II, Chap. 2, Acte 2 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY03_A3: Chap. 2 - Acte 3 (Expert)
+MID_MISSION_H_S201711STORY03_A3: Terminer Livre II, Chap. 2, Acte 3 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY03_A4: Chap. 2 - Acte 4 (Expert)
+MID_MISSION_H_S201711STORY03_A4: Terminer Livre II, Chap. 2, Acte 4 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201711STORY03_A5: Chap. 2 - Acte 5 (Expert)
+MID_MISSION_H_S201711STORY03_A5: Terminer Livre II, Chap. 2, Acte 5 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201712HERO01_TITLE: Grandes batailles
+MID_MISSION_S201712HERO01_A1: Berkut
+MID_MISSION_H_S201712HERO01_A1: Remporter la grande bataille contre Berkut,\nle prince hautain, avec Sharena dans votre\néquipe.
+MID_MISSION_S201712HERO01_A2: Berkut
+MID_MISSION_H_S201712HERO01_A2: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur avec\nBerkut, le prince hautain, dans votre équipe.
+MID_MISSION_S201712HERO01_A3: Berkut
+MID_MISSION_H_S201712HERO01_A3: Avec Sharena, vaincre une version\nde niveau 40 ou supérieur de Berkut,\nle prince hautain.
+MID_MISSION_S201712HERO01_A4: Berkut
+MID_MISSION_H_S201712HERO01_A4: Avec Berkut, le prince hautain, vaincre\nune version de niveau 40 ou supérieur\nde Berkut, le prince hautain.
+MID_MISSION_S201712HERO01_A5: Berkut
+MID_MISSION_H_S201712HERO01_A5: Remporter la grande bataille contre Berkut,\nle prince hautain, en Expert ou supérieur avec\nune équipe ne comportant que des fantassins.
+MID_MISSION_S201712VMAP01_TITLE: Quêtes des dévs
+MID_MISSION_S201712VMAP01_A1: Super Effie
+MID_MISSION_H_S201712VMAP01_A1: Terminer Super Effie de Shingoroid avec une\nunité rouge dans une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A2: Clair-obscur
+MID_MISSION_H_S201712VMAP01_A2: Terminer Clair-obscur de Taroimo avec une\nunité bleue dans une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A3: Les 4 fabuleux
+MID_MISSION_H_S201712VMAP01_A3: Terminer Les 4 fabuleux de Rokumoji avec une\nunité verte dans une équipe de quatre héros et\nsans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A4: Tout en légèreté
+MID_MISSION_H_S201712VMAP01_A4: Terminer Tout en légèreté d'Arayang avec une\nunité grise dans une équipe de quatre héros et\nsans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A5: Le mur de fer
+MID_MISSION_H_S201712VMAP01_A5: Terminer Le mur de fer de ryo avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_S201712VMAP01_A6: Super Effie
+MID_MISSION_H_S201712VMAP01_A6: Terminer Super Effie de Shingoroid en Expert\navec une unité rouge dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A7: Clair-obscur
+MID_MISSION_H_S201712VMAP01_A7: Terminer Clair-obscur de Taroimo en Expert\navec une unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A8: Les 4 fabuleux
+MID_MISSION_H_S201712VMAP01_A8: Terminer Les 4 fabuleux de Rokumoji en Expert\navec une unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A9: Tout en légèreté
+MID_MISSION_H_S201712VMAP01_A9: Terminer Tout en légèreté d'Arayang en Expert\navec une unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201712VMAP01_A10: Le mur de fer
+MID_MISSION_H_S201712VMAP01_A10: Terminer Le mur de fer de ryo en Expert avec\nune équipe de quatre héros et sans essuyer la\nmoindre perte.
+MID_MISSION_S201712VOTE01_TITLE: Quêtes : tournoi
+MID_MISSION_S201712VOTE01_A1: Tournoi
+MID_MISSION_H_S201712VOTE01_A1: Remporter une bataille au cours d'un tournoi.
+MID_MISSION_S201712VOTE01_A2: Tournoi
+MID_MISSION_H_S201712VOTE01_A2: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201712VOTE01_A3: Tournoi
+MID_MISSION_H_S201712VOTE01_A3: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201712VOTE01_A4: Tournoi
+MID_MISSION_H_S201712VOTE01_A4: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201712VOTE01_A5: Tournoi
+MID_MISSION_H_S201712VOTE01_A5: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201712VOTE01_A6: Tour : deuxième strate
+MID_MISSION_H_S201712VOTE01_A6: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201712VOTE01_A7: Tour : cinquième strate
+MID_MISSION_H_S201712VOTE01_A7: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201712VOTE01_A8: Tour : huitième strate
+MID_MISSION_H_S201712VOTE01_A8: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201712VOTE01_A9: Duelliste
+MID_MISSION_H_S201712VOTE01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712VOTE01_A10: Duelliste
+MID_MISSION_H_S201712VOTE01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201712VOTE01_A11: Duelliste intermédiaire
+MID_MISSION_H_S201712VOTE01_A11: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201712VOTE01_A12: Duelliste intermédiaire
+MID_MISSION_H_S201712VOTE01_A12: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201712VOTE01_A13: Tournoi
+MID_MISSION_H_S201712VOTE01_A13: Remporter une bataille au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201712VOTE01_A14: Tournoi
+MID_MISSION_H_S201712VOTE01_A14: Remporter une bataille au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201712VOTE01_A15: Tournoi
+MID_MISSION_H_S201712VOTE01_A15: Remporter une bataille au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201712VOTE01_A16: Tournoi
+MID_MISSION_H_S201712VOTE01_A16: Remporter une bataille au cours d'un tournoi\navec une unité grise dans votre équipe.
+MID_MISSION_S201712VOTE01_A17: Tournoi
+MID_MISSION_H_S201712VOTE01_A17: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201712VOTE01_A18: Tournoi
+MID_MISSION_H_S201712VOTE01_A18: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201712VOTE01_A19: Tournoi
+MID_MISSION_H_S201712VOTE01_A19: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201712VOTE01_A20: Tournoi
+MID_MISSION_H_S201712VOTE01_A20: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MEID_ラウアマムクート: Manakete rouge
+MEID_ブラーマムクート: Manakete bleu
+MEID_グルンマムクート: Manakete vert
+MEID_ソードドラゴン: Dragon (épée)
+MEID_ランスドラゴン: Dragon (lance)
+MEID_アクスドラゴン: Dragon (hache)
+MEID_H_ラウアマムクート: Manakete rouge. Peut se transformer\nen dragon pendant le combat.
+MEID_H_ブラーマムクート: Manakete bleu. Peut se transformer\nen dragon pendant le combat.
+MEID_H_グルンマムクート: Manakete vert. Peut se transformer\nen dragon pendant le combat.
+MEID_H_ソードドラゴン: Chevalier wyverne armé d'une épée.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
+MEID_H_ランスドラゴン: Chevalier wyverne armé d'une lance.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
+MEID_H_アクスドラゴン: Chevalier wyverne armé d'une hache.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
+MEID_スルト: Surtr
+MEID_レーヴァテイン: Laevatein
+MEID_ロキ: Loki
+MPID_スルト: Surtr
+MPID_フィヨルム: Fjorm
+MPID_レーヴァテイン: Laevatein
+MPID_ロキ: Loki
+MPID_スリーズ声: Gunnthrá
+MPID_ソレイユ: Soleil
+MPID_シャラ: Rhajat
+MPID_シノノメ: Shiro
+MPID_ジークベルト: Siegbert
+MEID_HONOR_スルト: Souverain du feu
+MPID_HONOR_フィヨルム: Princesse glaciale
+MEID_HONOR_レーヴァテイン: Lame ardente
+MEID_HONOR_ロキ: L’illusionniste
+MPID_HONOR_ソレイユ: Astre adorable
+MPID_HONOR_シャラ: Magicienne noire
+MPID_HONOR_シノノメ: Pur talent
+MPID_HONOR_ジークベルト: Futur roi
+MEID_H_スルト: Roi de Múspell, le monde des flammes.\nSouverain cruel dont le désir de conquête\nne connaît pas de limites. Le sang du dragon\ndes flammes coule dans ses veines.
+MPID_H_フィヨルム: Seconde princesse de Nifl, le monde des\nglaces. A un tempérament doux, mais\ndésire se venger de Surtr.
+MEID_H_レーヴァテイン: Seconde princesse de Múspell, le monde des\nflammes. S'identifie à son épée et garde le\ncontrôle de ses émotions.
+MEID_H_ロキ: Stratège de Múspell, le monde des flammes.\nAime jouer des tours aux autres et les\nmanipuler.
+MPID_H_ソレイユ: Fille de Laslow. D'un tempérament enjoué et\npeu farouche. Admire les femmes qui ont du\npanache. Apparaît dans Fire Emblem Fates.
+MPID_H_シャラ: Fille d'Hayato. Elle a un caractère plutôt\nsinistre et obsessionnel. Apparaît dans\nFire Emblem Fates.
+MPID_H_シノノメ: Fils de Ryoma. Enthousiaste, il ne rechigne\njamais devant l'entraînement. Il est facile de\nbien s'entendre avec lui. Apparaît dans\nFire Emblem Fates.
+MPID_H_ジークベルト: Fils de Xander et prince héritier de Nohr.\nIl est bien éduqué, sérieux et bienveillant.\nApparaît dans Fire Emblem Fates.
+MEID_VOICE_スルト: —
+MPID_VOICE_フィヨルム: Heather Watson
+MEID_VOICE_レーヴァテイン: Sarah Williams
+MEID_VOICE_ロキ: Erika Ishii
+MPID_VOICE_ソレイユ: Michelle Ruff
+MPID_VOICE_シャラ: Stephanie Sheh
+MPID_VOICE_シノノメ: Kaiji Tang
+MPID_VOICE_ジークベルト: Todd Haberkorn
+MEID_ILLUST_スルト: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_フィヨルム: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_レーヴァテイン: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_ロキ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ソレイユ: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_シャラ: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MPID_ILLUST_シノノメ: Arai Teruko (新井テル子)
+MPID_ILLUST_ジークベルト: Arai Teruko (新井テル子)
+MPID_LEGEND_フィヨルム: Effet légendaire : eau\nBoost pour les alliés : PV +3, Vit +3\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction de l'eau et que\ncette unité combat avec eux pendant la\nsaison de l'eau.
+MSID_アーマーキラー2: Perce-cuirasse
+MSID_アーマーキラー2＋: Perce-cuirasse +
+MSID_貫きの槍2: Pique meurtrière
+MSID_貫きの槍2＋: Pique meurtr. +
+MSID_ハンマー2: Marteau meurt.
+MSID_ハンマー2＋: Marteau meurt. +
+MSID_遠距離防御の弓: Arc défenseur
+MSID_遠距離防御の弓＋: Arc défenseur +
+MSID_ラウアウルフ2: Canines rubis
+MSID_ラウアウルフ2＋: Canines rubis +
+MSID_ブラーウルフ2: Canines saphir
+MSID_ブラーウルフ2＋: Canines saphir +
+MSID_グルンウルフ2: Canines émer.
+MSID_グルンウルフ2＋: Canines émer. +
+MSID_アブゾーブ＋: Vampirisme +
+MSID_フィアー＋: Terreur +
+MSID_スロウ＋: Lenteur +
+MSID_グラビティ＋: Gravité +
+MSID_ペイン＋: Hémorragie +
+MSID_パニック＋: Panique +
+MSID_キャンドル＋: Lueur bougie +
+MSID_リブロー＋: Remède +
+MSID_リカバー＋: Restitution +
+MSID_セインツ＋: Cicatrisation +
+MSID_リバース＋: Rétabliss. +
+MSID_第5迷宮の覇者1: Assaut réussi E 1
+MSID_第5迷宮の覇者2: Assaut réussi E 2
+MSID_第5迷宮の覇者3: Assaut réussi E 3
+MSID_レーヴァテイン: Laevatein
+MSID_レイプト: Leiptr
+MSID_シンモラ: Sinmara
+MSID_セック: Thökk
+MSID_氷の聖鏡: Miroir de glace
+MSID_攻撃守備の絆1: Lien Atq/Déf 1
+MSID_攻撃守備の絆2: Lien Atq/Déf 2
+MSID_攻撃守備の絆3: Lien Atq/Déf 3
+MSID_火薙ぎの剣: É. enflammée
+MSID_火薙ぎの剣＋: É. enflammée +
+MSID_黒き血の大剣: Épée noire
+MSID_白き血の薙刀: Naginata clair
+MSID_攻撃守備の応援: Rall. : Atq/Déf
+MSID_攻撃の指揮1: Tactique Atq 1
+MSID_攻撃の指揮2: Tactique Atq 2
+MSID_攻撃の指揮3: Tactique Atq 3
+MSID_守備の指揮1: Tactique Déf 1
+MSID_守備の指揮2: Tactique Déf 2
+MSID_守備の指揮3: Tactique Déf 3
+MSID_ムスペルの炎: Feu de Múspell
+MSID_H_アーマーキラー2: Efficace contre les unités en armure.
+MSID_H_アーマーキラー2＋: Efficace contre les unités en armure.
+MSID_H_貫きの槍2: Efficace contre les unités en armure.
+MSID_H_貫きの槍2＋: Efficace contre les unités en armure.
+MSID_H_ハンマー2: Efficace contre les unités en armure.
+MSID_H_ハンマー2＋: Efficace contre les unités en armure.
+MSID_H_遠距離防御の弓: Efficace contre les unités volantes. Si un\nennemi utilisant un arc, une dague, la magie\nou un bâton initie le combat, confère\nDéf/Rés +6 pendant le combat.
+MSID_H_遠距離防御の弓＋: Efficace contre les unités volantes. Si un\nennemi utilisant un arc, une dague, la magie\nou un bâton initie le combat, confère\nDéf/Rés +6 pendant le combat.
+MSID_H_ラウアウルフ2: Efficace contre la cavalerie.
+MSID_H_ラウアウルフ2＋: Efficace contre la cavalerie.
+MSID_H_ブラーウルフ2: Efficace contre la cavalerie.
+MSID_H_ブラーウルフ2＋: Efficace contre la cavalerie.
+MSID_H_グルンウルフ2: Efficace contre la cavalerie.
+MSID_H_グルンウルフ2＋: Efficace contre la cavalerie.
+MSID_H_アブゾーブ＋: Rend des PV à hauteur de 50 % des\ndégâts infligés. Après le combat, si l'unité\na attaqué, rend 7 PV aux alliés à 2 cases\nou moins.
+MSID_H_フィアー＋: Après le combat, si l'unité a attaqué, inflige\nAtq -7 à la cible et aux ennemis à 2 cases\nou moins de la cible jusqu'à la fin de leur\nphase.
+MSID_H_スロウ＋: Après le combat, si l'unité a attaqué, inflige\nVit -7 à la cible et aux ennemis à 2 cases\nou moins de la cible jusqu'à la fin de leur\nphase.
+MSID_H_グラビティ＋: Après le combat, si l'unité a attaqué, la cible\net les ennemis à une case de la cible ne\npeuvent se déplacer que d'une case jusqu'à\nla fin de leur phase.
+MSID_H_ペイン＋: Après le combat, si l'unité a attaqué, inflige\n10 dégâts à la cible et aux ennemis à\n2 cases ou moins de la cible.
+MSID_H_パニック＋: Après le combat, si l'unité a attaqué, les\nbonus deviennent des malus pour la cible\net les ennemis à 2 cases ou moins de la\ncible jusqu'à la fin de leur phase.
+MSID_H_キャンドル＋: Après le combat, si l'unité a attaqué, la cible\net les ennemis à 2 cases ou moins de la\ncible ne peuvent pas riposter jusqu'à la fin\nde leur phase.
+MSID_H_リブロー＋: Rend des PV à hauteur de 50 % de l'Atq\n(8 PV minimum). Portée : 2.
+MSID_H_リカバー＋: Rend des PV à hauteur de 50 % de\nl'Atq +10 (15 PV minimum).
+MSID_H_セインツ＋: Rend des PV à la cible à hauteur des\ndégâts subis par l'unité + 50 % de\nl'Atq (7 PV minimum). Rend des PV\nà l'unité à hauteur de la moitié des\ndégâts qu'elle a subis.
+MSID_H_リバース＋: Rend des PV à hauteur de\n50 % de l'Atq -10 (7 PV minimum).\nSi PV de la cible ≤ 50 %, moins la cible\na de PV, plus elle en récupère.
+MSID_H_第5迷宮の覇者1: Confère Atq +1.
+MSID_H_第5迷宮の覇者2: Confère Atq +2.
+MSID_H_第5迷宮の覇者3: Confère Atq +3.
+MSID_H_ソールカティ改: Si l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser.
+MSID_H_ジークムント改: En début de tour, confère Atq +4 aux alliés\nadjacents pendant un tour.
+MSID_H_風神弓改: Efficace contre les unités volantes.\nSi PV ≥ 50 %, l'unité n'est pas ralentie\npar les effets de terrain (sur une case\nterrain valide).
+MSID_H_死神の暗器改: Après le combat, si l'unité a attaqué, inflige\n10 dégâts à la cible et aux ennemis à\n2 cases ou moins de la cible, et leur inflige\nDéf/Rés -7 jusqu'à la fin de leur phase.
+MSID_H_銀の暗器＋改: Après le combat, si l'unité a attaqué, inflige\nDéf/Rés -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de\nleur phase.
+MSID_H_紫煙の暗器＋改: Après le combat, si l'unité a attaqué, inflige\nAtq/Vit/Déf/Rés -6 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de\nleur phase.
+MSID_H_盗賊の暗器＋改: Après le combat, si l'unité a attaqué, inflige\nDéf/Rés -6 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de\nleur phase, et confère Déf/Rés +6 à l'unité et\naux alliés à 2 cases ou moins pendant un\ntour.
+MSID_H_灼熱のブレス＋改: Les dégâts sont calculés avec la Déf ou la\nRés (la valeur la plus faible) pour les\nennemis avec une portée de 2.
+MSID_H_光のブレス＋改: Après le combat, si l'unité a attaqué, confère\nAtq/Vit/Déf/Rés +5 à l'unité et aux alliés à\n2 cases ou moins pendant un tour. Les dégâts\nsont calculés avec la Déf ou Rés (la valeur\nla plus faible) pour les ennemis avec une\nportée de 2.
+MSID_H_闇のブレス＋改: Après le combat, si l'unité a attaqué, inflige\nAtq/Vit -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de\nleur phase. Les dégâts sont calculés avec la\nDéf ou Rés (la valeur la plus faible) pour les\nennemis avec une portée de 2.
+MSID_H_雷のブレス＋改: Retarde l'activation des aptitudes spéciales\n(compteur +1). L'unité riposte peu importe la\ndistance à laquelle se trouve son assaillant.\nLes dégâts sont calculés avec la Déf ou la\nRés (la valeur la plus faible) pour les\nennemis avec une portée de 2.
+MSID_H_ローローの斧＋改: Après le combat, si l'unité a attaqué, les\nbonus deviennent des malus pour la cible\net les ennemis à 2 cases ou moins de la\ncible jusqu'à la fin de leur phase.
+MSID_H_クライネの弓＋改: Efficace contre les unités volantes. Après\nle combat, si l'unité a attaqué, inflige\nAtq/Vit -5 à la cible et aux ennemis à 2 cases\nou moins de la cible jusqu'à la fin de leur phase.
+MSID_H_ベルクトの槍＋改: Si l'ennemi initie le combat, confère Rés +7\npendant le combat.
+MSID_H_ニンジンの槍＋改: Après le combat, si l'unité a attaqué,\nelle récupère 4 PV.
+MSID_H_ニンジンの斧＋改: Après le combat, si l'unité a attaqué,\nelle récupère 4 PV.
+MSID_H_青の卵＋改: Après le combat, si l'unité a attaqué,\nelle récupère 4 PV.
+MSID_H_緑の卵＋改: Après le combat, si l'unité a attaqué,\nelle récupère 4 PV.
+MSID_H_ファーストバイト＋改: Après le combat, si l'unité a attaqué,\nconfère Déf/Rés +5 à l'unité et aux alliés\nà 2 cases ou moins pendant un tour.
+MSID_H_キューピッドの矢＋改: Efficace contre les unités volantes. Après\nle combat, si l'unité a attaqué, confère\nDéf/Rés +5 à l'unité et aux alliés à\n2 cases ou moins pendant un tour.
+MSID_H_聖なるブーケ＋改: Après le combat, si l'unité a attaqué,\nconfère Déf/Rés +5 à l'unité et aux alliés\nà 2 cases ou moins pendant un tour.
+MSID_H_貝殻＋改: Après le combat, si l'unité a attaqué, inflige\nDéf/Rés -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de\nleur phase. Si PV = 100 % au début du\ncombat, confère Atq/Vit/Déf/Rés +2, mais\nl'unité subit 2 dégâts après le combat.
+MSID_H_扇子＋改: Si l'unité initie le combat, rend 7 PV aux alliés\nadjacents après le combat. Après le combat,\nsi l'unité a attaqué, inflige Déf/Rés -7 à la\ncible et aux ennemis à 2 cases ou moins de\nla cible jusqu'à la fin de sa phase.
+MSID_H_骨の弓＋改: Efficace contre les unités volantes. Après le\ncombat, si l'unité a attaqué, les bonus\ndeviennent des malus pour la cible et les\nennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_ゴーストの魔道書＋改: Après le combat, si l'unité a attaqué, les\nbonus deviennent des malus pour la cible\net les ennemis à 2 cases ou moins de la\ncible jusqu'à la fin de leur phase.
+MSID_H_差し違えR75: Contre un ennemi qui est en mesure de\nriposter, si l'unité initie le combat et que\nPV ≤ 75 %, l'unité effectue une double frappe.
+MSID_H_追撃攻R90: Si l'unité initie le combat et que PV ≥ 90 %,\nl'unité effectue une double frappe.
+MSID_H_追従R50: Si PV ≥ 50 %, l'unité peut se déplacer\njusqu'à une case adjacente à un allié situé\nà 2 cases ou moins.
+MSID_H_奥義ダメージR10: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_反撃抑制R魔: Si l'ennemi utilise la magie,\nil ne peut pas riposter.
+MSID_H_強化無効R重装: Si l'ennemi porte une armure, les bonus\ndont il bénéficie grâce à des aptitudes\ncomme Prudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_強化無効R騎馬: Si l'ennemi est un cavalier, les bonus\ndont il bénéficie grâce à des aptitudes\ncomme Prudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_レーヴァテイン: Confère Atq +3. Ajoute la valeur totale des\nboosts de l'unité aux dégâts infligés.
+MSID_H_レイプト: L'unité riposte peu importe la distance\nà laquelle se trouve son assaillant.
+MSID_H_シンモラ: Confère Déf +3. En début de tour, inflige\n20 dégâts aux ennemis à 2 cases ou moins.
+MSID_H_セック: Les dégâts du bâton sont calculés comme\nceux des autres armes. En début de tour, les\nennemis avec arc/dague/magie/bâton sur la\nmême ligne horizontale ou verticale ayant au\nmoins 3 PV de moins que l'unité ne peuvent\nse déplacer que d'une case pendant un tour.
+MSID_H_氷の聖鏡: Réduit de 30 % les dégâts infligés par les\nennemis à 2 cases. Le total des réductions\nde dégâts s'ajoute aux dégâts de la\nprochaine attaque de l'unité. Effet réinitialisé\naprès le combat. (Non transmissible.)
+MSID_H_攻撃守備の絆1: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Déf +3 pendant le combat.
+MSID_H_攻撃守備の絆2: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Déf +4 pendant le combat.
+MSID_H_攻撃守備の絆3: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Déf +5 pendant le combat.
+MSID_H_火薙ぎの剣: Riposte impossible pour l'unité et l'ennemi.
+MSID_H_火薙ぎの剣＋: Riposte impossible pour l'unité et l'ennemi.
+MSID_H_黒き血の大剣: Si l'unité initie le combat, confère Atq/Vit +4\npendant le combat.
+MSID_H_白き血の薙刀: Si l'ennemi initie le combat, confère Atq/Déf +4\npendant le combat.
+MSID_H_攻撃守備の応援: Confère Atq/Déf +3 à la cible pendant un tour.
+MSID_H_攻撃の指揮1: En début de tour, confère Atq +2 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_攻撃の指揮2: En début de tour, confère Atq +4 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_攻撃の指揮3: En début de tour, confère Atq +6 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_守備の指揮1: En début de tour, confère Déf +2 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_守備の指揮2: En début de tour, confère Déf +4 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_守備の指揮3: En début de tour, confère Déf +6 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_ムスペルの炎: Réduit les dégâts subis par l'unité à 0.
+MID_CHAPTER_TITLE_C0016: Entracte
+MID_CHAPTER_C0016: Le rituel des lames
+MID_STAGE_TITLE_S1601: Entracte - 1
+MID_STAGE_S1601: Le rituel des lames
+MID_CHAPTER_TITLE_C0201: Livre II, Chap. 1
+MID_CHAPTER_C0201: La flamme
+MID_STAGE_TITLE_S2011: Ch. 1 - Acte 1
+MID_STAGE_TITLE_S2012: Ch. 1 - Acte 2
+MID_STAGE_TITLE_S2013: Ch. 1 - Acte 3
+MID_STAGE_TITLE_S2014: Ch. 1 - Acte 4
+MID_STAGE_TITLE_S2015: Ch. 1 - Acte 5
+MID_STAGE_S2011: Flamme éternelle
+MID_STAGE_S2012: Les montagnes en feu
+MID_STAGE_S2013: Les mers évaporées
+MID_STAGE_S2014: Les étoiles en cendres
+MID_STAGE_S2015: La sorcière des brumes
+MID_CHAPTER_TITLE_C0202: Livre II, Chap. 2
+MID_CHAPTER_C0202: Princesse glaciale
+MID_STAGE_TITLE_S2021: Ch. 2 - Acte 1
+MID_STAGE_TITLE_S2022: Ch. 2 - Acte 2
+MID_STAGE_TITLE_S2023: Ch. 2 - Acte 3
+MID_STAGE_TITLE_S2024: Ch. 2 - Acte 4
+MID_STAGE_TITLE_S2025: Ch. 2 - Acte 5
+MID_STAGE_S2021: La dame des neiges
+MID_STAGE_S2022: Enfants de la lumière
+MID_STAGE_S2023: Enfants de l'ombre
+MID_STAGE_S2024: Ombre et lumière
+MID_STAGE_S2025: Souverain du feu
+MID_STAGE_TITLE_SB_0005: 5e assaut
+MID_CHAPTER_ST_C0201: Chapitres 1 et 2
+MID_STAGE_TITLE_ST_S0201: Chapitre 1
+MID_STAGE_TITLE_ST_S0202: Chapitre 2
+MID_STAGE_TITLE_ST_S1202: Chapitres 1 et 2
+MID_STAGE_HONOR_T0021: Héros liés
+MID_STAGE_T0021: A & T
+MID_STAGE_HONOR_V0141: Super Effie
+MID_STAGE_V0141: Shingoroid
+MID_STAGE_HONOR_V0142: Clair-obscur
+MID_STAGE_V0142: Taroimo
+MID_STAGE_HONOR_V0143: Les 4 fabuleux
+MID_STAGE_V0143: Rokumoji
+MID_STAGE_HONOR_V0144: Tout en légèreté
+MID_STAGE_V0144: Arayang
+MID_STAGE_HONOR_V0145: Le mur de fer
+MID_STAGE_V0145: ryo

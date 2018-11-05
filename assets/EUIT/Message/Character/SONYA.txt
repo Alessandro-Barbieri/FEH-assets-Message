@@ -1,0 +1,38 @@
+[Heroes Archive] (SONYA)
+
+
+Heroes Message Name: Message
+
+
+MID_SONYA_HOME1: Le culture di questo mondo sono\naffascinanti. Permettimi di studiarle\ne vedrai che ne gioverai anche tu.
+MID_SONYA_HOME2: Ho lavorato per un personaggio\nalquanto sgradevole, e ancora\nprima... Beh, non sono affari tuoi.
+MID_SONYA_HOME3: Perché una persona come te che non\ncombatte dovrebbe stare sul campo\ndi battaglia? Sono molto in pensiero.
+MID_SONYA_HOME4: Andiamo a fare compere? Ti sceglierò\ndei bei vestiti, da capo a piedi. Fidati,\nci divertiremo molto.
+MID_SONYA_HOME5: È tempo di manicure... Più le\nmie mani sono curate, più\nla mia magia è efficace.\n
+MID_SONYA_FRIEND: Ti porto i saluti di\n$Nf.$k$pTra di voi c'è un legame davvero\nforte... Sono un po' gelosa.
+MID_SONYA_LEVEL1: Che ne pensi di me ora?
+MID_SONYA_LEVEL2: Ti aspettavi di meno?
+MID_SONYA_LEVEL3: La forza bruta non\nè nel mio stile.
+MID_SONYA_SKILL: Aaah... che bello.\nMi sento rinata.
+MID_SONYA_JOIN: Sono Sonya. Immagino di dover\nmettere la mia magia al tuo servizio\nora che mi trovo in questo mondo.$k$pSembra un posto interessante, non\nmi dispiace rimanere e vedere\nche avventure mi riserverà.
+MID_SONYA_STRONGEST: Oh, $Nu.\nVuoi che ti vizi un po'? Sei\ntroppo adorabile.$k$pOh, smettila di dimenarti. Scherzo.\nAvevo due sorelle maggiori che mi\nviziavano tantissimo.$k$pQuindi non prendertela se ti ho\nstuzzicato un po', eh? Almeno ho\ncapito perché partecipi alla battaglia.$k$pÈ perché sei consapevole che la tua\npresenza ci tira su di morale. Sei\n$Gun condottiero,una condottiera| eccezionale.$k$pIn un certo modo è affascinante...$k$pVedere il tuo viso riesce sempre a\nplacarmi la mente. Ricordati di\nsorridermi ogni tanto, va bene?
+MID_SONYA_VOICE01: How's this?
+MID_SONYA_VOICE02: Uhuhu...
+MID_SONYA_VOICE03: ううっ…
+MID_SONYA_VOICE04: Cheeky...
+MID_SONYA_VOICE05: Ah ah ah...
+MID_SONYA_VOICE06: Birbante.
+MID_SONYA_VOICE07: Divertiamoci un po'.
+MID_SONYA_VOICE08: Castigo in arrivo.
+MID_SONYA_VOICE09: Pathetic.
+MID_SONYA_VOICE10: Heehee
+MID_SONYA_VOICE11: Oh! Seeking attention, are we?
+MID_SONYA_VOICE12: Mm-hmm. Lonely, I take it.
+MID_SONYA_VOICE13: I used to be quite a pest to my sisters. When I was too young to know better.
+MID_SONYA_VOICE14: What am I going to do with you?
+MID_SONYA_VOICE15: It's a shame if a woman doesn't look as powerful as she feels. Don't you agree?
+MID_SONYA_VOICE16: My sisters...long gone...
+MID_SONYA_VOICE17: Spending time with you helps me forget some painful things. Thank you.
+MID_SONYA_VOICE18: All right.
+MID_SONYA_VOICE19: Hmm...
+MID_SONYA_VOICE20: Watch this...

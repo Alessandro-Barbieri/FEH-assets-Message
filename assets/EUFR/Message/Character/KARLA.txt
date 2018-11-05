@@ -1,0 +1,38 @@
+[Heroes Archive] (KARLA)
+
+
+Heroes Message Name: Message
+
+
+MID_KARLA_HOME1: Karel... Même si rien ne sera jamais\ncomme avant, je dois continuer.
+MID_KARLA_HOME2: L'épée de notre clan ne peut avoir\nqu'un seul maître. Mis à part mon\nfrère, ils sont tous morts.$k$pQuant à moi, il faut croire que mon\nheure n'est pas encore venue.
+MID_KARLA_HOME3: Votre zèle inspire le respect. Prenez\ncependant garde de ne pas vous\nsurmener.
+MID_KARLA_HOME4: J'ai beaucoup voyagé, mais je n'ai\njamais rien vu de comparable aux\npaysages de ce monde.$k$pPourriez-vous me servir de guide ?
+MID_KARLA_HOME5: Vous m'avez vue m'entraîner ?$k$pJ'ignore si j'en ai vraiment besoin,\nmais j'en ai tellement l'habitude que\nc'est comme une seconde nature.
+MID_KARLA_FRIEND: Je m'appelle Karla. J'ai été envoyée\npar $Nf pour\nvous transmettre ses salutations.
+MID_KARLA_LEVEL1: Je me sens si légère. C'est donc\ncela, l'art de l'épée...
+MID_KARLA_LEVEL2: Suis-je plus proche du niveau\nde mon frère, à présent ?
+MID_KARLA_LEVEL3: Je n'ai pas été à la hauteur...
+MID_KARLA_SKILL: Merci. Ce nouveau pouvoir me\nsera utile.
+MID_KARLA_JOIN: Je m'appelle Karla. Comment suis-je\narrivée dans ce lieu étrange ? Et qui\nêtes-vous ?
+MID_KARLA_STRONGEST: Je viens d'un clan de guerriers. Nous\npassons nos vies à nous entraîner\net à combattre.$k$pMême ceux qui partagent notre sang\nne sont pas à l'abri de nos épées...$k$pAprès avoir quitté les plaines, j'ai\ndécouvert que la force ne se\nrésumait pas à la violence.$k$pUne épée n'est qu'une épée.$k$pUn homme m'a montré comment je\npouvais réellement devenir plus\nforte...$k$pMon frère a lui aussi compris que\nle meurtre n'est pas la seule manière\nde montrer sa puissance.$k$pEn vous observant, j'ai découvert un\nautre type de force.$k$pJe ne sais comment la décrire. C'est\nune puissance qui s'acquiert en\nrefusant de combattre.$k$pJe trouve cela vraiment fascinant.$k$pJe resterai à vos côtés jusqu'à ce\nque je comprenne ce qui fait votre\nforce.
+MID_KARLA_VOICE01: はっ！
+MID_KARLA_VOICE02: ふっ
+MID_KARLA_VOICE03: きゃああっ！
+MID_KARLA_VOICE04: 未熟…
+MID_KARLA_VOICE05: Admirez mon jeu d'épée.
+MID_KARLA_VOICE06: Comment refuser un combat ?
+MID_KARLA_VOICE07: Je n'aime pas me battre...
+MID_KARLA_VOICE08: Vous allez mourir.
+MID_KARLA_VOICE09: I'll never reach him…
+MID_KARLA_VOICE10: ふぅむ…
+MID_KARLA_VOICE11: Only one can wield the sword. That is the law of our clan.
+MID_KARLA_VOICE12: Hm? You took advantage of an opening. I imagine you will have no complaint if I do the same.
+MID_KARLA_VOICE13: I set out traveling to find my brother. I felt...attached to him. I still can’t seem to let go...
+MID_KARLA_VOICE14: My brother gravitates toward strong warriors...
+MID_KARLA_VOICE15: We are not human... We are no different than this blade.
+MID_KARLA_VOICE16: If I could, I would have stayed that way forever. Brother...
+MID_KARLA_VOICE17: In the end, I know so little about the world. I wish for you to be my teacher.
+MID_KARLA_VOICE18: Acknowledged.
+MID_KARLA_VOICE19: *sigh*
+MID_KARLA_VOICE20: Oh, I see!

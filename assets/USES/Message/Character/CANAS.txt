@@ -1,0 +1,38 @@
+[Heroes Archive] (CANAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CANAS_HOME1: ¡Fascinante! Si eso cierto...\n¡Claro! ¿A ver...?$k$pAh, no me hagas caso. Estoy inmerso\nen un libro, como de costumbre.
+MID_CANAS_HOME2: Me han dicho que en este mundo\nhabita alguien capaz de invocar\na héroes de otros mundos...$k$p¿Podrías presentarnos?
+MID_CANAS_HOME3: No creas que no me di cuenta\nde cómo patrullas el castillo\nsin descanso...$k$pTrabajar tanto no es bueno.\nNo olvides que tomarte descansos\ntambién es parte de tu trabajo.
+MID_CANAS_HOME4: ¿Has pensado en leer para animarte\no despejar tu mente?$k$pPuedo recomendarte libros. Toma\neste. Tiene una trama compleja,\npero es fácil de leer.
+MID_CANAS_HOME5: ¡Esta biblioteca es una maravilla!\n¡Hay tantos libros! Espero no tener\nque irme de aquí nunca.
+MID_CANAS_FRIEND: Soy Canas. Te traigo saludos\nde $Nf.
+MID_CANAS_LEVEL1: ¡Excelente! Me voy acercando\na las verdades esenciales...
+MID_CANAS_LEVEL2: Bueno... Esta vez fui\nun poco mediocre.
+MID_CANAS_LEVEL3: Creo que esto confirma\nmi falta de talento.
+MID_CANAS_SKILL: ¡Cielos! Me pregunto\nqué estás planeando...
+MID_CANAS_JOIN: Qué lugar tan fascinante...\nAy, no me he presentado.\nSoy Canas, un simple erudito.
+MID_CANAS_STRONGEST: Disculpa... Estoy tan inmerso en\neste libro que ni te había visto.$k$pEs tan fascinante... ¡De verdad!$k$p¿Sabes por qué leo tanto?\nDigamos que soy muy curioso.$k$pCuando descubro un tema que\nme interesa, lo estudio desde\ntodas las perspectivas posibles.$k$pA veces me pregunto adónde\nme llevará este hábito...$k$pSi pienso en la suerte que corrieron\nmis hermanos por sobrepasar los\nlímites del estudio de la magia...$k$pPero, sinceramente, no puedo\ncontrolar mi sed de conocimiento.$k$pEs un defecto que tengo.\nPodría considerarse codicia.$k$pEn resumen, respondiendo a tu\npregunta: para mí leer es vivir.$k$pY ya que estás aquí, quizás puedas\nresponder una de mis preguntas...$k$pObserva el dibujo de esta página.\nMe es totalmente desconocido. No se\nparece a nada de mi mundo. Dime...
+MID_CANAS_VOICE01: ええと
+MID_CANAS_VOICE02: すみません…
+MID_CANAS_VOICE03: うああっ！
+MID_CANAS_VOICE04: 面目ない…
+MID_CANAS_VOICE05: Debo ver el lado oscuro.
+MID_CANAS_VOICE06: Un viaje más allá de la oscuridad.
+MID_CANAS_VOICE07: Esto me asusta...
+MID_CANAS_VOICE08: Este libro es la clave.
+MID_CANAS_VOICE09: What a shame.
+MID_CANAS_VOICE10: *sigh*
+MID_CANAS_VOICE11: Ah, hello there. My name is Canas.
+MID_CANAS_VOICE12: What? What? What is it? I must be in your way! I'm so sorry!
+MID_CANAS_VOICE13: I read for the thrill of new knowledge.\nThis book is a rather fascinating\nexcursion.
+MID_CANAS_VOICE14: I'm currently reading "Roland the Hero."\nHe was a hero who fought dragons a\nlong time ago.
+MID_CANAS_VOICE15: To use this magic, I must invite the dark\nforces within me. The temptation to submit\nto the darkness...will be great.
+MID_CANAS_VOICE16: The darkness took my brothers.
+MID_CANAS_VOICE17: I somehow get the feeling that you could understand me.
+MID_CANAS_VOICE18: Y-yes?
+MID_CANAS_VOICE19: Oh, yes.
+MID_CANAS_VOICE20: This book, you see...

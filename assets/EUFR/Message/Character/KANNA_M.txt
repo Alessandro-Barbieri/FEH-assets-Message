@@ -1,0 +1,38 @@
+[Heroes Archive] (KANNA_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KANNA_M_HOME1: Les invocateurs peuvent faire venir\ndes tas de héros différents, pas\nvrai ?$k$pVous pourriez invoquer quelqu'un qui\nsait se transformer en dragon, comme\nmoi ? On pourrait jouer ensemble !
+MID_KANNA_M_HOME2: Avant, je vivais dans les terres\noubliées.$k$pAu début, je ne savais pas me battre,\nmais maintenant je peux utiliser l'épée\net la dracopierre !
+MID_KANNA_M_HOME3: Merci de venir me voir. Quand vous\naurez fini de travailler, on pourrait\njouer !$k$pJe vais trouver plein d'autres gens,\nça sera super !
+MID_KANNA_M_HOME4: La prochaine fois que je me\ntransforme en dragon, vous\ndevriez monter sur mon dos !$k$pComme ça, pour une fois, vous\npourriez venir sur le champ de bataille\navec nous. On serait sûrs de gagner !
+MID_KANNA_M_HOME5: Ne dites pas à ma mère que je joue\navec ma dracopierre. Vous avez vu ?\nElle brille quand je la lance !
+MID_KANNA_M_FRIEND: Bonjour ! Vous êtes\n$Nu ?$k$p$Nf m'a\ndemandé de venir vous dire bonjour !
+MID_KANNA_M_LEVEL1: Je serai aussi fort\nque Maman, un jour ?
+MID_KANNA_M_LEVEL2: Regardez ! J'ai fait\nce qu'il fallait ?
+MID_KANNA_M_LEVEL3: Je ferai plus d'efforts. Promis.
+MID_KANNA_M_SKILL: Merci. Vous êtes aussi $Ggentil,gentille|\nque ma mère.
+MID_KANNA_M_JOIN: Quelle joie de vous rencontrer. Je\nsuis Kana, fils de Corrin. Je peux me\ntransformer en dragon !
+MID_KANNA_M_STRONGEST: Hé, Maman ! Regarde... Oh, c'est\nvous, $Nu !$k$pJe me demande pourquoi je vous ai\n$Gconfondu,confondue| avec ma mère. Vous\nne vous ressemblez pas...$k$pÇa doit être parce que je vous aime\nautant qu'elle ! Je ne vous l'avais\njamais dit ?$k$pVous jouez tout le temps avec moi,\net vous m'aidez pendant les batailles.$k$pJe m'entraîne pour devenir plus\npuissant. Vous avez remarqué ?\nVous avez vu comme je suis fort ?$k$pVous allez voir, avec mes pouvoirs\nde dragon, je vais vous protéger\npour toujours !
+MID_KANNA_M_VOICE01: えいっ！
+MID_KANNA_M_VOICE02: でえいっ！
+MID_KANNA_M_VOICE03: わあっ！
+MID_KANNA_M_VOICE04: Ow ow ow!!
+MID_KANNA_M_VOICE05: Nous n'abandonnerons jamais !
+MID_KANNA_M_VOICE06: Vous ne m'arrêterez pas !
+MID_KANNA_M_VOICE07: Je protégerai tout le monde !
+MID_KANNA_M_VOICE08: Comme Maman !
+MID_KANNA_M_VOICE09: Mama...
+MID_KANNA_M_VOICE10: Heehee
+MID_KANNA_M_VOICE11: Thanks for coming to play with me!
+MID_KANNA_M_VOICE12: I'm really good at using my dragon powers. I'll show you soon!
+MID_KANNA_M_VOICE13: This whole place is kinda weird, isn't it?
+MID_KANNA_M_VOICE14: My Mama is really strong. I wanna be just like her.
+MID_KANNA_M_VOICE15: You have one of those div...divine weapons? Oh, neat!
+MID_KANNA_M_VOICE16: I wonder where Mama is... Wait, she hasn't gotten lost, has she?
+MID_KANNA_M_VOICE17: You just watch. I'm going to grow into the strongest one around here. And then I'll keep you safe!
+MID_KANNA_M_VOICE18: OK!
+MID_KANNA_M_VOICE19: Do my best!
+MID_KANNA_M_VOICE20: Hi!

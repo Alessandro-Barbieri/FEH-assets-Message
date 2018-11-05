@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_SPRING01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_SPRING01_HOME1: Anna übt das Bemalen von Eiern\nfür das Frühlingsfest. Sie will sie\nsicher verkaufen, kein Zweifel.
+MID_CHROM_SPRING01_HOME2: Wir waren gerade dabei, den\nFrühlingsanfang zu feiern, als\nich beschworen wurde.$k$pWenn ich geahnt hätte, dass das\npassieren würde, hätte ich mich\nbesser vorbereitet.
+MID_CHROM_SPRING01_HOME3: Auf Patrouille,\n$Nu?$k$pIn dieser Jahreszeit fühlt man sich\noft voller Tatendrang. Aber falls du\nmal müde bist, übernehme ich.
+MID_CHROM_SPRING01_HOME4: Bei uns gibt es den Brauch, zum\nFrühlingsfest Eier zu bemalen. Bei\nmir gehen sie aber immer kaputt.
+MID_CHROM_SPRING01_HOME5: Ich muss mit meiner, äh, Waffe\nhier aufpassen. Sie ist nicht sehr\nrobust. Ich vermisse Falchion...
+MID_CHROM_SPRING01_FRIEND: Schöne Grüße von\n$Nf.$k$pGenießt du die Frühlingszeit\ngenauso sehr wie ich,\n$Nu?
+MID_CHROM_SPRING01_LEVEL1: Ha! Ich bin vom Frühling\nbeseelt.
+MID_CHROM_SPRING01_LEVEL2: Der Geist des Frühlings\nverhilft mir zu neuer Kraft!
+MID_CHROM_SPRING01_LEVEL3: Der Frühling lässt die Pflanzen\nwachsen - und meine Stärke!
+MID_CHROM_SPRING01_SKILL: Was immer du da gemacht hast:\nMein Kostüm passt jetzt besser!
+MID_CHROM_SPRING01_JOIN: Ich bin Chrom, Prinz des\nKönigreichs von Ylisse, passend\ngekleidet für das Frühlingsfest!
+MID_CHROM_SPRING01_STRONGEST: Na, wenn das mal nicht\n$Nu ist!$k$pIch bin soeben mit dem Bemalen\nvon Eiern für das Frühlingsfest\nfertig geworden.$k$pWirf ruhig mal einen Blick darauf.\nGar nicht so schlecht, oder?$k$pWas? Du willst wissen, was die\nSchriftzeichen darauf bedeuten?\nDas ist die Sprache von Ylisse.$k$pEs ist eine Art Gedicht darüber,\nwie froh ich über deine\nAnwesenheit bin.$k$pUnd auf die andere Seite habe\nich ein Bild von dir gemalt. Gut\ngetroffen, findest du nicht?$k$pWie bitte? Das sieht gar nicht\naus wie du? Nun, zumindest\neinen Versuch war es wert.$k$pIch hoffe, du siehst es trotzdem\nals Zeichen dafür,$k$pdass ich das starke Band\nzwischen uns zu schätzen\nweiß.$k$pMögen wir viele Frühlingsfeste\nmiteinander verbringen. Ich werde\nauch an meiner Maltechnik arbeiten.
+MID_CHROM_SPRING01_VOICE01: せいっ
+MID_CHROM_SPRING01_VOICE02: やあっ
+MID_CHROM_SPRING01_VOICE03: おわっ！
+MID_CHROM_SPRING01_VOICE04: What's the idea?!
+MID_CHROM_SPRING01_VOICE05: Der Frühling ist da!
+MID_CHROM_SPRING01_VOICE06: Der Frühling gibt mir Kraft!
+MID_CHROM_SPRING01_VOICE07: Du verdirbst mir nicht das Fest!
+MID_CHROM_SPRING01_VOICE08: Ich entscheide, wann der Winter vorbei ist!
+MID_CHROM_SPRING01_VOICE09: It's over.
+MID_CHROM_SPRING01_VOICE10: Haha
+MID_CHROM_SPRING01_VOICE11: Spring inspires me to give my all.
+MID_CHROM_SPRING01_VOICE12: My trusty Falchion has been replaced by...this.
+MID_CHROM_SPRING01_VOICE13: Those in my group, the Shepherds, tell me to wear more dashing outfits. This dashing enough?
+MID_CHROM_SPRING01_VOICE14: Eggs and rabbits have been symbols of the spring festival for ages.
+MID_CHROM_SPRING01_VOICE15: I heard my sister Lissa hid eggs all over Ylisse. What a quest I'll have in store when I go home.
+MID_CHROM_SPRING01_VOICE16: I'll stand out in battle going out dressed like this!
+MID_CHROM_SPRING01_VOICE17: That we met in the spring must be important. I hope it means our bond will grow ever stronger.
+MID_CHROM_SPRING01_VOICE18: All right.
+MID_CHROM_SPRING01_VOICE19: Spring has sprung.
+MID_CHROM_SPRING01_VOICE20: What a season!

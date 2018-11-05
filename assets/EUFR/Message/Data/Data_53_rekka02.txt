@@ -1,0 +1,239 @@
+[Heroes Archive] (Data_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り: Épingle balnéaire
+MDAID_H_貝殻の髪飾り: Un accessoire pour cheveux\ncréé à partir d'un magnifique\ncoquillage.
+MDAID_水中ゴーグル: Lunettes natation
+MDAID_H_水中ゴーグル: Des lunettes avec tuba intégré\nqui permettent d'observer la faune\nsous-marine en prenant son temps.
+MDAID_アスクの髪飾り: Épingle d'Askr
+MDAID_H_アスクの髪飾り: Un accessoire pour cheveux orné\nde l'emblème du royaume d'Askr.
+MDAID_謎の男のマスク: Masque mystère
+MDAID_H_謎の男のマスク: C'était peut-être le masque de\nrechange d'un certain homme\nmystérieux...
+MDAID_フェーの人形: Peluche Feh
+MDAID_H_フェーの人形: Cette peluche à l'effigie de Feh, la\nmessagère des Gardiens d'Askr,\nest tout aussi douce que l'originale.
+MDAID_春うさぎの帽子: Chapeau lapin
+MDAID_H_春うさぎの帽子: Ce chapeau à l'effigie d'un lapin\nplein de personnalité a été porté par\nune héroïne qui adore le printemps.
+MDAID_謎の剣士の仮面: Papillon
+MDAID_H_謎の剣士の仮面: Un masque qui a été porté par une\npersonne affirmant être Marth, le\nRoi-Héros.
+MID_MISSION_S201806ARENA01_TITLE: Arène
+MID_MISSION_S201806ARENA01_A1: Duelliste
+MID_MISSION_H_S201806ARENA01_A1: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A2: Duelliste
+MID_MISSION_H_S201806ARENA01_A2: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A3: Duelliste
+MID_MISSION_H_S201806ARENA01_A3: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A4: Duelliste
+MID_MISSION_H_S201806ARENA01_A4: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A5: Duelliste
+MID_MISSION_H_S201806ARENA01_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A6: Duelliste
+MID_MISSION_H_S201806ARENA01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A7: Duelliste
+MID_MISSION_H_S201806ARENA01_A7: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A8: Duelliste
+MID_MISSION_H_S201806ARENA01_A8: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806ARENA01_A9: Duelliste
+MID_MISSION_H_S201806ARENA01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806HERO01_TITLE: Grandes batailles
+MID_MISSION_S201806HERO01_A1: Oliver
+MID_MISSION_H_S201806HERO01_A1: Remporter la grande bataille contre\nOliver, l'amateur de beauté, avec\nAnna dans votre équipe.
+MID_MISSION_S201806HERO01_A2: Oliver
+MID_MISSION_H_S201806HERO01_A2: Remporter la grande bataille contre Oliver,\nl'amateur de beauté, en Expert ou supérieur,\navec Oliver dans votre équipe.
+MID_MISSION_S201806HERO01_A3: Oliver
+MID_MISSION_H_S201806HERO01_A3: Avec Anna, vaincre une version\nde niveau 40 ou supérieur de Oliver,\nl'amateur de beauté.
+MID_MISSION_S201806HERO01_A4: Oliver
+MID_MISSION_H_S201806HERO01_A4: Avec Oliver, l'amateur de beauté, vaincre une\nversion de niveau 40 ou supérieur d'Oliver,\nl'amateur de beauté.
+MID_MISSION_S201806HERO01_A5: Oliver
+MID_MISSION_H_S201806HERO01_A5: Remporter la grande bataille contre Oliver\nen Expert ou supérieur avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201806SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201806SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201806SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201806SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201806SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201806SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806ACCE01_TITLE: Accessoires
+MID_MISSION_S201806ACCE01_A1: Victoire
+MID_MISSION_H_S201806ACCE01_A1: Vaincre des ennemis.
+MID_MISSION_S201806ACCE01_A2: Domination : lance
+MID_MISSION_H_S201806ACCE01_A2: Vaincre des ennemis de niveau 10 ou\nsupérieur avec des unités maniant la lance.
+MID_MISSION_S201806ACCE01_A3: Domination : cavalerie
+MID_MISSION_H_S201806ACCE01_A3: Vaincre des ennemis de niveau 30 ou\nsupérieur avec des cavaliers.
+MID_MISSION_S201806STORY01_TITLE: La chute du roi
+MID_MISSION_S201806STORY01_A1: Chap. 10 - Acte 1 (Expert)
+MID_MISSION_H_S201806STORY01_A1: Terminer Livre II, Chap. 10, Acte 1 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY01_A2: Chap. 10 - Acte 2 (Expert)
+MID_MISSION_H_S201806STORY01_A2: Terminer Livre II, Chap. 10, Acte 2 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY01_A3: Chap. 10 - Acte 3 (Expert)
+MID_MISSION_H_S201806STORY01_A3: Terminer Livre II, Chap. 10, Acte 3 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY01_A4: Chap. 10 - Acte 4 (Expert)
+MID_MISSION_H_S201806STORY01_A4: Terminer Livre II, Chap. 10, Acte 4 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY01_A5: Chap. 10 - Acte 5 (Expert)
+MID_MISSION_H_S201806STORY01_A5: Terminer Livre II, Chap. 10, Acte 5 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201806TAPBTL01_D01_A1: Fjorm
+MID_MISSION_H_S201806TAPBTL01_D01_A1: Vaincre Fjorm dans les niveaux 16-20\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201806TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201806TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201806TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201806TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201806TAPBTL01_D02_A1: Fjorm
+MID_MISSION_H_S201806TAPBTL01_D02_A1: Vaincre Fjorm dans les niveaux 16-20\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201806TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201806TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201806TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201806TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201806TAPBTL01_D03_A1: Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D03_A1: Vaincre Gunnthrá dans les niveaux 36-40\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201806TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201806TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201806TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201806TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201806TAPBTL01_D04_A1: Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D04_A1: Vaincre Gunnthrá dans les niveaux 36-40\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201806TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201806TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201806TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201806TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201806TAPBTL02_A1: Boss
+MID_MISSION_H_S201806TAPBTL02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL02_A2: Boss
+MID_MISSION_H_S201806TAPBTL02_A2: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL02_A3: Niveau
+MID_MISSION_H_S201806TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201806TAPBTL02_A4: Extra 1
+MID_MISSION_H_S201806TAPBTL02_A4: Terminer le niveau Extra 1 (disponible une\nfois que les niveaux Extra sont débloqués)\ndans le mode Bataille tactile.
+MID_MISSION_S201806TAPBTL02_A5: Niveaux 6-10
+MID_MISSION_H_S201806TAPBTL02_A5: Terminer les niveaux 6-10 dans\nle mode Bataille tactile.
+MID_MISSION_S201806TAPBTL02_A6: Niveaux 81-85
+MID_MISSION_H_S201806TAPBTL02_A6: Terminer les niveaux 81-85 dans\nle mode Bataille tactile.
+MPID_スルト名前: Surtr
+MPID_カナス: Canas
+MPID_カアラ: Karla
+MPID_ラガルト: Legault
+MPID_ライナス: Linus
+MPID_ニノ2: Nino
+MPID_HONOR_カナス: Savant
+MPID_HONOR_カアラ: Bretteuse
+MPID_HONOR_ラガルト: L'Ouragan
+MPID_HONOR_ライナス: Chien enragé
+MPID_HONOR_ニノ2: Fleur ténébreuse
+MPID_H_カナス: Quatrième fils de Niime l'Ermite. Passe son\ntemps plongé dans ses lectures et ses\nrecherches. Apparaît dans Fire Emblem:\nThe Blazing Blade.
+MPID_H_カアラ: Épéiste qui parcourt le monde à la recherche\nde son frère. Son élégance et ses capacités au\ncombat séduisent toutes les arènes. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_H_ラガルト: Ancien membre fondateur du Black Fang,\nsurnommé « Le nettoyeur ». A préféré quitter\nl'organisation pour suivre sa propre voie.\nApparaît dans Fire Emblem: The Blazing Blade.
+MPID_H_ライナス: Membre du Black Fang surnommé « Le chien\nenragé », aussi fort que son frère Lloyd. Il\nchâtie ses ennemis sans forme de procès.\nApparaît dans Fire Emblem: The Blazing Blade.
+MPID_H_ニノ2: Une jeune fille autrefois proche des assassins\ndu Black Fang. Elle s'attèle désormais à aider\nses alliés, assistée par son pégase. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_VOICE_カナス: Joe Zieja
+MPID_VOICE_カアラ: Allegra Clark
+MPID_VOICE_ラガルト: Christopher Bevins
+MPID_VOICE_ライナス: Joe Brogie
+MPID_VOICE_ニノ2: Sarah Blandy
+MPID_ILLUST_カナス: Tobi
+MPID_ILLUST_カアラ: Kita Senri (北千里)
+MPID_ILLUST_ラガルト: PenekoR (п猫Ｒ)
+MPID_ILLUST_ライナス: Meka (めか)
+MPID_ILLUST_ニノ2: Amagaitaro (アマガイタロー)
+MSID_霧のブレス: Souffle embrumé
+MSID_第11迷宮の覇者1: Assaut réussi K 1
+MSID_第11迷宮の覇者2: Assaut réussi K 2
+MSID_第11迷宮の覇者3: Assaut réussi K 3
+MSID_剣姫の刀: Épée loyale
+MSID_粛清の暗器: Nettoyeur
+MSID_粛清の暗器＋: Nettoyeur +
+MSID_ギガスカリバー: Giga Excalibur
+MSID_曲技飛行1: Voltige 1
+MSID_曲技飛行2: Voltige 2
+MSID_曲技飛行3: Voltige 3
+MSID_速さの波・偶数1: Pair Vit 1
+MSID_速さの波・偶数2: Pair Vit 2
+MSID_速さの波・偶数3: Pair Vit 3
+MSID_H_霧のブレス: Efficace contre les dragons. Tous les 2 tours,\nrend 10 PV à l'unité en début de tour. Les\ndégâts sont calculés avec la Déf ou la Rés\n(la valeur la plus faible) pour les ennemis\navec une portée de 2.
+MSID_H_オーラ改: En début de tour, confère Atq +6 aux unités\nadjacentes utilisant la magie ou un bâton\npendant un tour.
+MSID_H_エクスカリバー改: Efficace contre les unités volantes. Accélère\nl'activation des aptitudes spéciales\n(compteur -1).
+MSID_H_攻撃守備の絆R剣竜: Si l'unité se trouve à 2 cases ou moins\nd'un épéiste ou dragon allié, confère\nAtq/Déf +5 pendant le combat.
+MSID_H_攻撃速さの絆R魔杖: Si l'unité se trouve à 2 cases ou moins\nd'un allié utilisant la magie ou un bâton,\nconfère Atq/Vit +5 pendant le combat.
+MSID_H_第11迷宮の覇者1: Confère PV +3.
+MSID_H_第11迷宮の覇者2: Confère PV +4.
+MSID_H_第11迷宮の覇者3: Confère PV +5.
+MSID_H_剣姫の刀: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si Vit de l'unité > Vit de\nl'ennemi, augmente les dégâts infligés à\nhauteur de 70 % de la différence (7 dégâts\nmaximum). Cumulable avec Bluff Vit.
+MSID_H_粛清の暗器: Pendant le combat, ajoute la valeur totale\ndes boosts de l'ennemi aux dégâts infligés.\nAprès le combat, si l'unité a attaqué, inflige\nDéf/Rés -5 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
+MSID_H_粛清の暗器＋: Pendant le combat, ajoute la valeur totale\ndes boosts de l'ennemi aux dégâts infligés.\nAprès le combat, si l'unité a attaqué, inflige\nDéf/Rés -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
+MSID_H_ギガスカリバー: Confère Vit +3. Si Vit de l'unité > Vit de\nl'ennemi, augmente les dégâts infligés à\nhauteur de 70 % de la différence (7 dégâts\nmaximum). Cumulable avec Bluff Vit.
+MSID_H_曲技飛行1: Si PV = 100 %, l'unité peut se déplacer\njusqu'à une case adjacente à un fantassin,\nune unité en armure ou un cavalier allié\nsitué à 2 cases ou moins.
+MSID_H_曲技飛行2: Si PV ≥ 50 %, l'unité peut se déplacer\njusqu'à une case adjacente à un fantassin,\nune unité en armure ou un cavalier allié\nsitué à 2 cases ou moins.
+MSID_H_曲技飛行3: L'unité peut se déplacer jusqu'à une case\nadjacente à un fantassin, une unité en\narmure ou un cavalier allié situé à 2 cases\nou moins.
+MSID_H_速さの波・偶数1: Au début des tours pairs, confère Vit +2\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MSID_H_速さの波・偶数2: Au début des tours pairs, confère Vit +4\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MSID_H_速さの波・偶数3: Au début des tours pairs, confère Vit +6\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MID_CHAPTER_TITLE_C0210: Livre II, Chap. 10
+MID_CHAPTER_C0210: La chute du roi
+MID_STAGE_TITLE_S2101: Ch. 10 - Acte 1
+MID_STAGE_TITLE_S2102: Ch. 10 - Acte 2
+MID_STAGE_TITLE_S2103: Ch. 10 - Acte 3
+MID_STAGE_TITLE_S2104: Ch. 10 - Acte 4
+MID_STAGE_TITLE_S2105: Ch. 10 - Acte 5
+MID_STAGE_S2101: À l'assaut du château
+MID_STAGE_S2102: Un savant en embuscade
+MID_STAGE_S2103: Fangs en famille
+MID_STAGE_S2104: La bretteuse
+MID_STAGE_S2105: La chute du roi
+MID_STAGE_HONOR_T0033: Chien enragé
+MID_STAGE_T0033: Linus
+MID_STAGE_TITLE_SB_0011: 11e assaut
+MID_CHAPTER_ST_C0205: Chapitres 9 et 10
+MID_STAGE_TITLE_ST_S0209: Chapitre 9
+MID_STAGE_TITLE_ST_S0210: Chapitre 10
+MID_STAGE_TITLE_ST_S1210: Chap. 9 et 10
+MID_STAGE_HONOR_V0251: Quatre héros
+MID_STAGE_V0251: Roy
+MID_STAGE_HONOR_V0252: Quatre héros
+MID_STAGE_V0252: Tailtiu
+MID_STAGE_HONOR_V0253: Quatre héros
+MID_STAGE_V0253: Barst
+MID_STAGE_HONOR_V0254: Quatre héros
+MID_STAGE_V0254: Kaze
+MID_STAGE_HONOR_Q0014: Hebdo.
+MID_STAGE_Q0014: Domaines rivaux
+MID_STAGE_HONOR_Q0015: Hebdo.
+MID_STAGE_Q0015: Domaines rivaux
+MID_STAGE_HONOR_Q0016: Hebdo.
+MID_STAGE_Q0016: Domaines rivaux
+MID_STAGE_HONOR_Q0017: Hebdo.
+MID_STAGE_Q0017: Domaines rivaux
+MID_STAGE_HONOR_Q0018: Hebdo.
+MID_STAGE_Q0018: Domaines rivaux
+MID_STAGE_TITLE_BG_WIND_0008: Vent 8
+MID_STAGE_BG_WIND_0008: Pont
+MID_STAGE_TITLE_BG_EARTH_0008: Terre 8
+MID_STAGE_BG_EARTH_0008: Pont
+MID_STAGE_TITLE_BG_FIRE_0008: Feu 8
+MID_STAGE_BG_FIRE_0008: Pont
+MID_STAGE_TITLE_BG_WATER_0009: Eau 9
+MID_STAGE_BG_WATER_0009: Fontaine
+MID_STAGE_TITLE_BG_WIND_0009: Vent 9
+MID_STAGE_BG_WIND_0009: Fontaine
+MID_STAGE_TITLE_BG_EARTH_0009: Terre 9
+MID_STAGE_BG_EARTH_0009: Fontaine
+MID_STAGE_TITLE_BG_FIRE_0009: Feu 9
+MID_STAGE_BG_FIRE_0009: Fontaine
+MID_STAGE_TITLE_BG_WATER_0010: Eau 10
+MID_STAGE_BG_WATER_0010: Terrasse
+MID_STAGE_TITLE_BG_WIND_0010: Vent 10
+MID_STAGE_BG_WIND_0010: Terrasse
+MID_STAGE_TITLE_BG_EARTH_0010: Terre 10
+MID_STAGE_BG_EARTH_0010: Terrasse
+MID_STAGE_TITLE_BG_FIRE_0010: Feu 10
+MID_STAGE_BG_FIRE_0010: Terrasse
+MID_TAP_BATTLE_DATA_TITLE_0005: Héros légendaires
+MID_MUSIC_NAME_BGM_MAP_BRAVE_04: Retour en Nifl
+MID_MUSIC_NAME_BGM_MAP_FE09_02: Mercenaires de Greil
+MID_MUSIC_NAME_BGM_MAP_FE14_01: Aube voilée (orage)

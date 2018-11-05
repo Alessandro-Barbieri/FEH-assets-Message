@@ -1,0 +1,38 @@
+[Heroes Archive] (PIERI)
+
+
+Heroes Message Name: Message
+
+
+MID_PIERI_HOME1: Anna est si jolie ! Je me demande\nsi elle se teint les cheveux avec le\nsang de ses ennemis...
+MID_PIERI_HOME2: Je sers Son Altesse Xander. Il est\nun peu effrayant, mais il me laisse\nme battre autant que je le veux !
+MID_PIERI_HOME3: Si vous vous sentez un peu trop\n$Gfatigué,fatiguée|, venez me voir. Je vous\nferai plein de gros câlins !
+MID_PIERI_HOME4: Le secret d'un bon ragoût réside\ndans la viande : fraîche, rouge,\net la plus saignante possible !
+MID_PIERI_HOME5: Je pense souvent à ma maman.\nElle est morte quand j'étais petite...$k$pMais elle m'a appris à cuisiner\ncomme elle, alors je fais vivre sa\nmémoire dans mes bons petits plats !
+MID_PIERI_FRIEND: Ah, je vous ai enfin $Gtrouvé,trouvée| !\n$Nf m'a\nenvoyée vous saluer.
+MID_PIERI_LEVEL1: Je peux retourner tuer des gens ?
+MID_PIERI_LEVEL2: Je vais réduire mes ennemis en\nmiettes !
+MID_PIERI_LEVEL3: Grr ! Ce n'est pas assez !
+MID_PIERI_SKILL: Génial ! Pour vous remercier, je peux\naller tuer quelqu'un qui vous embête !
+MID_PIERI_JOIN: Moi c'est Peri ! P comme pourfendre,\nE comme égorger, R comme ruiner...$k$pEt I comme j'immole tous les idiots\nqui s'immiscent sur mon chemin,\ncar je suis une cavalière de Nohr !
+MID_PIERI_STRONGEST: Ah, je vous cherchais ! Je vous ai\npréparé un petit plat dont vous me\ndirez des nouvelles !$k$pJ'ai tout fait moi-même : j'ai tranché,\ntaillé, coupé et découpé la viande...\net les légumes aussi !$k$pAllez, mangez pendant que c'est\nchaud ! ... Vous en dites quoi ?\nC'est délicieux ? Génial !$k$pMa maman savait très bien cuisiner...\nJe veux devenir aussi talentueuse\nqu'elle pour faire vivre sa mémoire !$k$pEt si en plus ça me permet de vous\nrendre $Gheureux,heureuse| en faisant danser\nvos papilles, c'est parfait !$k$pAlors, que ce soit en cuisine ou sur\nle champ de bataille, comptez sur\nPeri pour pimenter votre vie !
+MID_PIERI_VOICE01: それっ！
+MID_PIERI_VOICE02: えーいなの！
+MID_PIERI_VOICE03: ふええ…！
+MID_PIERI_VOICE04: That hurts!
+MID_PIERI_VOICE05: Tu es à ma merci !
+MID_PIERI_VOICE06: Je vais t'étriper !
+MID_PIERI_VOICE07: Joue avec moi !
+MID_PIERI_VOICE08: C'est l'heure de mourir !
+MID_PIERI_VOICE09: Not me!
+MID_PIERI_VOICE10: Kee hee!
+MID_PIERI_VOICE11: I get stabby if people make me mad.
+MID_PIERI_VOICE12: I can cook up food like you wouldn't believe!
+MID_PIERI_VOICE13: The outfits in the Order of Heroes are so cute!
+MID_PIERI_VOICE14: Why's your outfit so white? To make the blood spatters more spattery, right?
+MID_PIERI_VOICE15: You work so hard! You deserve a huggy-wuggy!
+MID_PIERI_VOICE16: Where's my Lord Xander! Where is he?! I need to protect him!
+MID_PIERI_VOICE17: So, I'll get stabbity-stab with enemies, and you'll thank me. Deal?
+MID_PIERI_VOICE18: OK!
+MID_PIERI_VOICE19: Who's next?
+MID_PIERI_VOICE20: It's time.

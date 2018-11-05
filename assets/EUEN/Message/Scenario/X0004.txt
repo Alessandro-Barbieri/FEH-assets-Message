@@ -1,0 +1,10 @@
+[Heroes Archive] (X0004)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|Let me get this straight... We're\nall here to prove which pair of\nsiblings is the most talented?$k$p$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|Indeed—this realm will be our\nbattlefield, apparently.$k$p$WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|But why am I here? I'm not\nyour brother.$k$p$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|Nor I your sister, but...$k$pI am Sanaki, Empress of Begnion!\nThe Apostle! The voice of the\ngoddess!$k$pAnd what's more, I refuse to let any\nother little sister prove herself of\ngreater standing than me.$k$pSo, to battle!$k$p$WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|What have I gotten myself\ninto this time?$k
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|You...you...beat us?$k$pWell, I suppose it's the right thing\nto do to concede defeat.$k$pAfter all, it's not every day that\nsomeone gets the best of me...\nSanaki, Empress of Begnion!$k$Sbs150|

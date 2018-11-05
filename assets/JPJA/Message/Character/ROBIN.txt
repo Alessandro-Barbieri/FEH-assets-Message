@@ -1,0 +1,38 @@
+[Heroes Archive] (ROBIN)
+
+
+Heroes Message Name: Message
+
+
+MID_ROBIN_HOME1: お前、その神器ってのをぶっぱなすと\n英雄を呼べるんだろ？\nすげえなあ……どうなってるんだ？
+MID_ROBIN_HOME2: 俺たちの村、のどかでいいところだぜ。\nグレイは物足りないっていうけど\n俺は好きだな。
+MID_ROBIN_HOME3: なんだよ、また仕事やってんのか？\n疲れたと思ったらさっさと休めよ。\nお前の代わりはいないんだからさ。
+MID_ROBIN_HOME4: お前、いま暇か？\nだったらこの城を探検しようぜ！\n面白そうだろ？
+MID_ROBIN_HOME5: んあ……？　悪い、寝てた。\nだってよお、みんな難しそうな話してるし\n眠くなっちまうんだよ。
+MID_ROBIN_FRIEND: お前が$Nuか？\n$Nfから\nお前に伝言だぜ。
+MID_ROBIN_LEVEL1: うお、ちょっと俺すごいんじゃねえ？
+MID_ROBIN_LEVEL2: へへっ、いい感じだな！
+MID_ROBIN_LEVEL3: え～？\nこんだけかよ……
+MID_ROBIN_SKILL: お、俺にこんなに力をくれていいのかよ？\nまいったな……
+MID_ROBIN_JOIN: 俺はロビン！　いまは解放軍で\n友達といっしょに戦ってるんだ。\nよくわからねえけど、がんばるぜ！
+MID_ROBIN_STRONGEST: 俺さ、戦闘に出るたびに弟や妹の\n土産になりそうなもの、集めてるんだ。\nつっても、高いものは買えねえけど。$k$pきれいな瓶とか、布とか石とか……\nこうして眺めてるとあいつらの顔が\n目に浮かんで、元気が出んだよ。$k$pそうだ、ほらこれ。きれいなネジだろ？\n多分なんかの部品だと思うんだけど。\nこういうのっていいよなあ。$k$p……だろ？　お前は見る目あるぜ！\nそれ、お前にやるよ。……ていうか、\nお前にやるつもりでとっといたんだ。$k$p洒落たものとかは贈れないけどさ。\n日頃の感謝っつーか、友情の証？\nなーんてな！　へへっ……
+MID_ROBIN_VOICE01: いくぜ！
+MID_ROBIN_VOICE02: おりゃあっ
+MID_ROBIN_VOICE03: いってえ…！
+MID_ROBIN_VOICE04: うわあああーっ！！
+MID_ROBIN_VOICE05: これで終わりだ！
+MID_ROBIN_VOICE06: いくぜ！
+MID_ROBIN_VOICE07: 俺だって！
+MID_ROBIN_VOICE08: これでもくらえ！
+MID_ROBIN_VOICE09: いってえ……
+MID_ROBIN_VOICE10: へへっ
+MID_ROBIN_VOICE11: 難しいことは苦手なんだよ……
+MID_ROBIN_VOICE12: よくわかんねえけど、がんばるぜ！
+MID_ROBIN_VOICE13: 俺たちの村、いいところなんだ。
+MID_ROBIN_VOICE14: なんだよ、ふざけてるのか？
+MID_ROBIN_VOICE15: 空気読めないってよく言われるんだよな。
+MID_ROBIN_VOICE16: アルムには負けたくねえなあ……
+MID_ROBIN_VOICE17: お前、おもしろい奴だなあ。
+MID_ROBIN_VOICE18: おう！
+MID_ROBIN_VOICE19: うーん……
+MID_ROBIN_VOICE20: 任せろ！

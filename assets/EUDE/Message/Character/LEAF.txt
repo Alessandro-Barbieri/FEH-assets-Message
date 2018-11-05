@@ -1,0 +1,38 @@
+[Heroes Archive] (LEAF)
+
+
+Heroes Message Name: Message
+
+
+MID_LEAF_HOME1: In diesem Reich mag es ruhig sein,\ndoch auch hier hält der Krieg Einzug.$k$pWir dürfen nicht nachgeben.\nWir werden siegen! Ich weiß,\ndass wir es schaffen können!
+MID_LEAF_HOME2: Meine Heimat ist Besatzern in die\nHände gefallen. Aber ich werde sie\nvon ihnen befreien.$k$pDas habe ich meinem Vater\ngeschworen, den sie getötet\nhaben.
+MID_LEAF_HOME3: Seid Ihr auf Patrouille? Ich werde\nEuch im Auge behalten, um von\nEuch zu lernen.
+MID_LEAF_HOME4: Habt Ihr Zeit, mir einige Ratschläge\nzu erteilen? Ich würde zu gern von\nEuch lernen.
+MID_LEAF_HOME5: Ich muss stärker werden, also habe\nich mit meinem Schwert trainiert.$k$pSchließlich bin ich ein Nachkomme\nder 12 Heiligen Ritter.
+MID_LEAF_FRIEND: Bin ich hier richtig im Schloss\nvon $Nu?$k$pIch bringe einen schönen Gruß\nvon $Nf.
+MID_LEAF_LEVEL1: Mit dieser Stärke kann ich\nalle beschützen!
+MID_LEAF_LEVEL2: Gut! Ich werde stärker.
+MID_LEAF_LEVEL3: Das kann doch nicht alles sein!
+MID_LEAF_SKILL: Danke! Ich werde versuchen,\nEure Erwartungen zu erfüllen.
+MID_LEAF_JOIN: Ich bin Leif, Prinz von Leonster. Ich\nmuss noch viel über die Welt lernen,\nleihe Euch aber gern meine Stärke.
+MID_LEAF_STRONGEST: Ihr solltet wissen, dass ich alles,\nwas Ihr für mich getan habt, sehr\nzu schätzen weiß.$k$pDank Euch bin ich so viel stärker\ngeworden. Ich stamme zwar von\neinem der Heiligen Ritter ab, aber...$k$pIch kann die Heilige Waffe meiner\nFamilie nicht führen und bin nicht\nannähernd so stark wie mein Vater.$k$pDas hat mich lange Zeit frustriert - so\nsehr, dass ich einige dumme Fehler\nbegangen habe.$k$pEines habe ich gelernt: Stärke erlangt\nman nicht über Nacht. Ich muss mich\nweiterhin Stück für Stück verbessern.$k$pUnd ich will weiterhin an Eurer Seite\nkämpfen. Dadurch werde ich lernen,\nwas wahre Stärke bedeutet.$k$pNichts wünsche ich mir mehr, als\ndiejenigen beschützen zu können,\ndie mir am wichtigsten sind.
+MID_LEAF_VOICE01: はっ！
+MID_LEAF_VOICE02: ええいっ！
+MID_LEAF_VOICE03: うああっ！
+MID_LEAF_VOICE04: It's nothing...
+MID_LEAF_VOICE05: Ich renne nicht mehr weg.
+MID_LEAF_VOICE06: Ich tue, was sein muss!
+MID_LEAF_VOICE07: Ich hole mir alles zurück!
+MID_LEAF_VOICE08: Dies ist mein Kampf!
+MID_LEAF_VOICE09: I failed you...
+MID_LEAF_VOICE10: light laugh
+MID_LEAF_VOICE11: I must become stronger. Much stronger.
+MID_LEAF_VOICE12: Whuh... Is that some kind of greeting where you come from?
+MID_LEAF_VOICE13: The night my country fell, the sky was red. I remember looking up at it from Finn's arms... I didn't understand what had happened.
+MID_LEAF_VOICE14: I fled the castle. I abandoned them all — all the people it was my duty to protect.
+MID_LEAF_VOICE15: I will never again let someone sacrifice their life in exchange for mine.
+MID_LEAF_VOICE16: If I was stronger...just a little bit stronger...
+MID_LEAF_VOICE17: You're a leader. There's a lot I can learn by watching you.
+MID_LEAF_VOICE18: Yeah.
+MID_LEAF_VOICE19: OK. Now what?
+MID_LEAF_VOICE20: Come on!

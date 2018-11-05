@@ -1,0 +1,38 @@
+[Heroes Archive] (MATTHEW)
+
+
+Heroes Message Name: Message
+
+
+MID_MATTHEW_HOME1: 特務機関、ねえ…\nよく考えたら、おれがやってた仕事も\n似たようなもんかもな。
+MID_MATTHEW_HOME2: おれの素性を知りたいって？\nはは、良いけど、仕事柄\n適当な嘘並べるかもしれねえぜ。
+MID_MATTHEW_HOME3: よう、いつも見回りご苦労さん。\nおれも怪しい奴が\n出入りしてないか気つけとくぜ。
+MID_MATTHEW_HOME4: この世界でなら…\nあいつと…レイラと\nまた会えるのかもな…
+MID_MATTHEW_HOME5: 密偵の訓練？　そりゃ、あるさ。\nけど、おおっぴらにやると\nやばいやつばっかりだからな…
+MID_MATTHEW_FRIEND: あんたが$Nu？\nおれの主人からあんたに挨拶だ。\nこれからもよろしくってさ。
+MID_MATTHEW_LEVEL1: はは、出来過ぎだろ。\n密偵には過ぎた力だぜ。
+MID_MATTHEW_LEVEL2: 切った張ったは得意じゃねえけど\nまあまあやれてるみたいだな。
+MID_MATTHEW_LEVEL3: おれって戦いの才能ねえな…\nやっぱ裏方の仕事が適任だぜ。
+MID_MATTHEW_SKILL: おれは裏方の密偵なんだが…\nまあ、この力無駄にはしねえよ。
+MID_MATTHEW_JOIN: おれの名はマシュー。\n若様…ヘクトル様の\nお付きってところかな。
+MID_MATTHEW_STRONGEST: まったく、あんたといると退屈しないぜ。\n…なあ、知ってるか？\n本来密偵ってやつは…$k$p仲間だろうと友達だろうと…\n必要以上に慣れ合うもんじゃない。\nそんな相手はつくるべきじゃねーんだ。$k$pだって、そうだろ。\n任務で仲間を見捨てられないようじゃ、\nそいつに密偵は務まらねえ。$k$pだが…そうだな…\nおれも少し変わる努力をしてみるか…$k$pいや、なんでもねーよ。\n気にするな。
+MID_MATTHEW_VOICE01: はっ！
+MID_MATTHEW_VOICE02: そらっ！
+MID_MATTHEW_VOICE03: うああっ！
+MID_MATTHEW_VOICE04: 参ったね…
+MID_MATTHEW_VOICE05: 隙ありだ
+MID_MATTHEW_VOICE06: 仕留めるぜ
+MID_MATTHEW_VOICE07: けりをつける
+MID_MATTHEW_VOICE08: 挨拶がわりだ
+MID_MATTHEW_VOICE09: …すま…ん…
+MID_MATTHEW_VOICE10: ふっ
+MID_MATTHEW_VOICE11: 新しい任務かい？
+MID_MATTHEW_VOICE12: 武器は隠しちゃいねえぜ
+MID_MATTHEW_VOICE13: 敵の気配はねえみてえだな
+MID_MATTHEW_VOICE14: 探りたい情報はあるかい？
+MID_MATTHEW_VOICE15: 俺は密偵、裏方ってやつさ
+MID_MATTHEW_VOICE16: 誰だって、触れられたくねえ場所はある…
+MID_MATTHEW_VOICE17: 俺、あんたのことは気に入ってるぜ
+MID_MATTHEW_VOICE18: ああ
+MID_MATTHEW_VOICE19: どうしたもんか…
+MID_MATTHEW_VOICE20: 行こうぜ

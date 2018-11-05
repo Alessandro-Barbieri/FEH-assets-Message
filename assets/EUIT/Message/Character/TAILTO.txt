@@ -1,0 +1,38 @@
+[Heroes Archive] (TAILTO)
+
+
+Heroes Message Name: Message
+
+
+MID_TAILTO_HOME1: Qui tutti non fanno altro che blaterare.\nChe monotonia, che tedio! Muoio\ndalla noia.
+MID_TAILTO_HOME2: A che ti serve questa verga?\nAspetta... La usi per evocare\ngli eroi? Che storia!
+MID_TAILTO_HOME3: Sei di pattuglia? Che noia. Lascia che\nti aiuti. Possiamo pattugliare insieme!
+MID_TAILTO_HOME4: Padre, perdonami... A causa mia, la\nfamiglia ha perduto il suo onore.
+MID_TAILTO_HOME5: Se non mi stufi, posso rimanere a\nchiacchierare quanto tempo vuoi.\nHai un paio d'ore libere?
+MID_TAILTO_FRIEND: Salve! Sono Tailtiu. Mi ha mandato\n$Nf.
+MID_TAILTO_LEVEL1: È stato grandioso, vero?\nVoglio sentirtelo dire!
+MID_TAILTO_LEVEL2: È stato... niente male!\nNon è vero?
+MID_TAILTO_LEVEL3: Mmmh. Cosa è successo\nesattamente?
+MID_TAILTO_SKILL: Grazie! Sono piena d'energia\ne pronta a combattere!
+MID_TAILTO_JOIN: Sono Tailtiu! Sono una discendente\ndi Thrud, il crociato. Ma lasciamo\nstare... Parlami di te!
+MID_TAILTO_STRONGEST: Ehi, eccoti! Hai un minuto?$k$pPotrebbe cascare il mondo e tu\nsaresti comunque gentile con tutti.\nMi piace questa tua qualità.$k$pMa... Non starai mica arrossendo?\nÈ proprio così! Che sorpresa!$k$pNon ci penso troppo, ma la prima\nimpressione che ho di una persona\ndi solito è giusta. E con te è buona.$k$pSe qualcuno mi dà una prima buona\nimpressione, faccio tutto quello che\nposso per aiutarlo.$k$pÈ sempre un gran piacere\nchiacchierare con te,\n$Nu.$k$pAllora, tu continua a dare una mano\na me e io continuerò a dare una\nmano a te!
+MID_TAILTO_VOICE01: えいっ！
+MID_TAILTO_VOICE02: それっ！
+MID_TAILTO_VOICE03: きゃあっ！
+MID_TAILTO_VOICE04: ひどい…
+MID_TAILTO_VOICE05: Preparati!
+MID_TAILTO_VOICE06: Scusami!
+MID_TAILTO_VOICE07: Basta!
+MID_TAILTO_VOICE08: Addio!
+MID_TAILTO_VOICE09: Are you kidding?
+MID_TAILTO_VOICE10: Hehe
+MID_TAILTO_VOICE11: Hey! I have something I need to talk to you about.
+MID_TAILTO_VOICE12: Huh? Oh... It's you. Don't sneak up on me like that.
+MID_TAILTO_VOICE13: I don't spend a lot of time thinking about things I'm not interested in.
+MID_TAILTO_VOICE14: Thank you so much! I’m feeling a lot better, and it’s all thanks to you.
+MID_TAILTO_VOICE15: Now that I've gotten to know you, I like you a lot.
+MID_TAILTO_VOICE16: I'm sorry, Father...
+MID_TAILTO_VOICE17: Well, I'm worried about you. So I decided to protect you.
+MID_TAILTO_VOICE18: All right!
+MID_TAILTO_VOICE19: Hmm...
+MID_TAILTO_VOICE20: Hurry it up!

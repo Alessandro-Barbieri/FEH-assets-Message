@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: Gunnthrá
+MPID_HONOR_スリーズ: Voice of Dreams
+MPID_H_スリーズ: The eldest princess of Nifl, the Kingdom of\nIce. A gentle and caring soul with strong\nmaternal instincts.
+MPID_VOICE_スリーズ: Carrie Keranen
+MPID_ILLUST_スリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_スリーズ: Legendary Effect: Wind\nAlly Boost: HP+3, Res+4\n\nGrants allies this Legendary Effect\nduring Wind season, if the Wind\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_ブリザード: Blizzard
+MSID_氷の封印: Chilling Seal
+MSID_H_ブリザード: Grants Res+3. Grants bonus to unit's\nAtk = total penalties on foe during combat.
+MSID_H_氷の封印: At start of turn, if unit's HP ≥ 50%, inflicts\nAtk/Spd-6 on foe on the enemy team with\nthe lowest Def through its next action. (Skill\ncannot be inherited.)

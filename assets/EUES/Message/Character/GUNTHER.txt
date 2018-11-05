@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: Reconozco que me ha impresionado\nla comandante de los Guardianes.\nEs muy competente para su edad.
+MID_GUNTHER_HOME2: He estado al cuidado de Corrin\ndurante años. Más que de vasallo,\nhe cumplido funciones de padre...
+MID_GUNTHER_HOME3: ¿Quieres que conversemos mientras\nhaces la ronda? No soy muy charlatán,\npero recuerdo muchas batallitas...
+MID_GUNTHER_HOME4: La experiencia es un grado, pero\n¿me servirá de algo en estas tierras?\nTendré que ponerme a prueba...
+MID_GUNTHER_HOME5: Guardo siempre mi armadura como\noro en paño. Cuando llegué era mi\núnica posesión, así que es natural.
+MID_GUNTHER_FRIEND: Sí, estoy seguro... Tú debes de ser\n$Nu, ¿verdad?$k$pBien, pues has de saber que te envía\nsaludos $Nf...\n¡Hasta otra!
+MID_GUNTHER_LEVEL1: ¡Es genial estar en activo\nde nuevo!
+MID_GUNTHER_LEVEL2: Supongo que sigo aprendiendo...
+MID_GUNTHER_LEVEL3: Al menos no soy más débil\nque antes...
+MID_GUNTHER_SKILL: Cuánto poder para este viejo\nsaco de huesos...
+MID_GUNTHER_JOIN: Soy Gunter, caballero de Nohr.\nHay quien confunde mi veteranía con\ndecrepitud. ¡No cometas tú ese error!
+MID_GUNTHER_STRONGEST: La comandante se ha referido a ti\nalguna vez como $G"el Gran Héroe","la Gran Heroína"|.$k$pHabla claro: ¿es así como te ves\na ti $Gmismo,misma|? Espero que la humildad\nno te impida reconocer tu valía...$k$pEn ocasiones, uno necesita llegar\na mi edad para no temer exponerse\na los demás tal y como es.$k$pNo portarías esa arma si no fueras\n$Gdigno,digna| de ella, ¡así que\ncamina con la frente bien alta!$k$pRecuerdo que hace tiempo conocí\na alguien muy similar a ti y que\npadecía el mismo problema.$k$pEspero que no te tomes mis\npalabras como la típica filípica\nde un abuelo cascarrabias, pero...$k$ptengo que decir que noto cierto\ndesequilibrio entre tu habilidad en\nbatalla y la confianza que muestras.$k$p¡No! No hace falta que te excuses.\nEs natural en alguien tan joven, y\nsé que puedo ayudarte a corregirlo.$k$pTe puliré como a un diamante en\nbruto. Solo necesito que permitas a\neste viejo soldado seguir a tu lado.
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: ¡La venganza está servida!
+MID_GUNTHER_VOICE06: Te haré picadillo.
+MID_GUNTHER_VOICE07: Acabaré contigo.
+MID_GUNTHER_VOICE08: Has cometido un grave error.
+MID_GUNTHER_VOICE09: Careless...
+MID_GUNTHER_VOICE10: Yes?
+MID_GUNTHER_VOICE11: Others might trifle with me, but I suspect you won't make that mistake.
+MID_GUNTHER_VOICE12: I find you...intriguing...to say the least.
+MID_GUNTHER_VOICE13: I am glad to have joined you.
+MID_GUNTHER_VOICE14: Remain focused. Always—not just on the battlefield.
+MID_GUNTHER_VOICE15: Curious about the scar on my face? Hmm. Of course you are.
+MID_GUNTHER_VOICE16: My armor has known...so much blood.
+MID_GUNTHER_VOICE17: You and I should spar sometime. Builds character!
+MID_GUNTHER_VOICE18: Hmm?
+MID_GUNTHER_VOICE19: Hmm.
+MID_GUNTHER_VOICE20: Let's go.

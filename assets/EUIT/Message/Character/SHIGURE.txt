@@ -1,0 +1,38 @@
+[Heroes Archive] (SHIGURE)
+
+
+Heroes Message Name: Message
+
+
+MID_SHIGURE_HOME1: Qui arrivano così tante persone da\nmondi diversi... Dimmi: che aspetto\nha il luogo da dove provieni?
+MID_SHIGURE_HOME2: Sono cresciuto nel Regno Etereo,\nma... Tutti i miei amici, tutti coloro\nche mi volevano bene...$k$pHanno tutti perso la vita quando il\nnemico ha attaccato.
+MID_SHIGURE_HOME3: Invece della tua pattuglia, non\npreferiresti farti un giro con me\nsul mio pegaso?$k$pVedila come... una passeggiata\nnei cieli. Il vento lassù è bello\nrinfrescante.
+MID_SHIGURE_HOME4: Vuoi accompagnarmi a esplorare\nqueste terre? Vorrei imprimere nella\nmia mente ogni dettaglio.
+MID_SHIGURE_HOME5: Stavo disegnando un grande eroe\nproveniente da un altro mondo. Mi\npare che l'argomento ti interessi...
+MID_SHIGURE_FRIEND: Sono giunto in volo per salutarti e\ndirti che $Nf\nha una grande opinione di te.
+MID_SHIGURE_LEVEL1: Posso dire di essere\nal settimo cielo!
+MID_SHIGURE_LEVEL2: Serve una canzone.\nE uno, e due, e tre...
+MID_SHIGURE_LEVEL3: Non è stata la mia\nperformance migliore.
+MID_SHIGURE_SKILL: Che potenza magnifica...\nGrazie di cuore.
+MID_SHIGURE_JOIN: Piacere di conoscerti! Sono Shigure,\nfiglio di Azura.$k$pAmo cantare, è vero, ma in battaglia\nsul mio pegaso e con la lancia in\nmano non mi sconfigge nessuno.
+MID_SHIGURE_STRONGEST: Sono contento che tu sia qui. Vuoi\nche ti accompagni in missione? O\nce ne andiamo a cercare arcobaleni?$k$pMi piace stare da solo, ma anche\npassare del tempo con te mi rilassa.\nForse perché...$k$p... non ami troppo chiacchierare.$k$pHo un gran rispetto verso di te. Spero\nche non mi dimenticherai quando\nle nostre strade si separeranno.$k$pNiente mi renderebbe più felice che\nsapere che pensi a me, quando alzi\ngli occhi al cielo o se odi un canto.$k$pForse è egoista, che un semplice\neroe chieda ciò a $Gun Evocatore,un'Evocatrice|... ma\nvolevo condividere come mi sento.
+MID_SHIGURE_VOICE01: はいっ
+MID_SHIGURE_VOICE02: せいっ
+MID_SHIGURE_VOICE03: うあっ！
+MID_SHIGURE_VOICE04: This is bad...
+MID_SHIGURE_VOICE05: Inizia lo spettacolo!
+MID_SHIGURE_VOICE06: Vuoi un bis?
+MID_SHIGURE_VOICE07: Cala il sipario!
+MID_SHIGURE_VOICE08: Si apra il sipario.
+MID_SHIGURE_VOICE09: The sky, so beautiful...
+MID_SHIGURE_VOICE10: Heehee...
+MID_SHIGURE_VOICE11: You are the ocean's gray waves...
+MID_SHIGURE_VOICE12: Please...never forget me.
+MID_SHIGURE_VOICE13: When I gaze at the majesty of the open sky, I feel so free. Don't you?
+MID_SHIGURE_VOICE14: I'm not as skilled as my mother, but I do enjoy singing.
+MID_SHIGURE_VOICE15: The scenery here is so beautiful... I want to pick up my paintbrush again. It's inspirational.
+MID_SHIGURE_VOICE16: Tell me. When I leave here, will thousands of years have passed in my own world?
+MID_SHIGURE_VOICE17: Would you walk with me sometime? You could tell me more about this beautiful world and about yourself as well.
+MID_SHIGURE_VOICE18: All right.
+MID_SHIGURE_VOICE19: I'm Shigure.
+MID_SHIGURE_VOICE20: Shall we go?

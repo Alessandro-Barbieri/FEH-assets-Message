@@ -1,0 +1,38 @@
+[Heroes Archive] (FLORA)
+
+
+Heroes Message Name: Message
+
+
+MID_FLORA_HOME1: Servo già Corrin come cameriera, ma\nforse potrei offrire i miei servizi anche\nad Alfonse e Sharena.
+MID_FLORA_HOME2: Fui presa come ostaggio per impedire\nalla tribù del Ghiaccio di ribellarsi.\nEppure mi affezionai a quel luogo...
+MID_FLORA_HOME3: Permettimi di aiutarti qualora sentissi\ndi avere troppo da fare. Me la so\ncavare con mansioni d'ogni sorta.$k$pSe posso essere onesta, non mi sento\na mio agio a starmene con le mani in\nmano.
+MID_FLORA_HOME4: Stavo giusto raccogliendo alcune\nerbe. Posso prepararti una tisana?\nSempre che tu ne abbia voglia.
+MID_FLORA_HOME5: Ho creato questa figurina di neve in\nun momento libero. Noi della tribù\ndel Ghiaccio possiamo creare neve.$k$pMmm... Magari la prossima volta\npotrei riprodurre l'immagine di\n$Gun certo Evocatore,una certa Evocatrice|...
+MID_FLORA_FRIEND: Sono giunta a portare i saluti di\n$Nf. Ora, se mi\nè permesso, mi congedo.
+MID_FLORA_LEVEL1: Posso essere orgogliosa di questi\nrisultati.
+MID_FLORA_LEVEL2: Non so se basterà...
+MID_FLORA_LEVEL3: Non sono di grande aiuto, temo...
+MID_FLORA_SKILL: Grazie, ma sappi che mi basta la tua\nattenzione per essere felice.
+MID_FLORA_JOIN: Sono Flora, una cameriera del Nohr.\nHai forse visto mia sorella Felicia?\nSpero non abbia causato problemi.
+MID_FLORA_STRONGEST: Ah, $Nu. Hai\nbisogno di me? Posso prepararti\nuna corroborante tazza di tè, se vuoi.$k$pChiedo scusa se risulto fin troppo\nzelante, ma quando ti vedo sento\nl'impulso di prendermi cura di te.$k$pPer qualche motivo mi ricordi chi\nservivo prima di te... Corrin. Eppure\nnon vi somigliate nemmeno.$k$pForse vi accomuna una certa aria\nmisteriosa... o l'aver passato così\ntanto tempo con me.$k$pPosso chiederti il perché? Come mai,\ncon tanti eroi degni di attenzione, hai\nscelto proprio me?$k$pNon pensare che io non apprezzi\nil tempo trascorso assieme. Anzi, te\nne sono molto riconoscente.$k$pPosso essere me stessa quando sono\ncon te. Mi sembra di valere davvero\nqualcosa in tua compagnia.$k$pE soprattutto... posso essere del tutto\nonesta ed esprimere i miei veri\nsentimenti per te...
+MID_FLORA_VOICE01: はいっ
+MID_FLORA_VOICE02: せやっ
+MID_FLORA_VOICE03: ううっ…！
+MID_FLORA_VOICE04: How disappointing...
+MID_FLORA_VOICE05: Alto là!
+MID_FLORA_VOICE06: Non mi lasci altra scelta...
+MID_FLORA_VOICE07: Non sottovalutarmi!
+MID_FLORA_VOICE08: È Il minimo ch'io possa fare.
+MID_FLORA_VOICE09: So...be it...
+MID_FLORA_VOICE10: Yes
+MID_FLORA_VOICE11: If you need help with any tasks, please let me know.
+MID_FLORA_VOICE12: If you have trouble getting out of bed in the morning, I have just the trick for slugabeds.
+MID_FLORA_VOICE13: Be careful where you put your hands. Wouldn't want you getting frostbite...
+MID_FLORA_VOICE14: There are so many wonderful Heroes here. It makes me a bit nervous, to be honest...
+MID_FLORA_VOICE15: You wield that divine weapon so masterfully... I really am kind of jealous.
+MID_FLORA_VOICE16: I found some broken dishes earlier. It was Felicia's turn to clean them, wasn't it...
+MID_FLORA_VOICE17: I always feel so good about myself after you take the time to chat with me.
+MID_FLORA_VOICE18: At your service.
+MID_FLORA_VOICE19: What do you need?
+MID_FLORA_VOICE20: To victory.

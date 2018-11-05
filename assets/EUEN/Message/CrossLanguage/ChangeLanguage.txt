@@ -1,0 +1,8 @@
+[Heroes Archive] (ChangeLanguage)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_CHANGE_LANGUAGE_DIALOG_FIRST: $aChange to $a0?
+MID_EXTRA_CHANGE_LANGUAGE_DIALOG_SECOND: You may need to download language\ndata for the language you selected.\nYou will be directed to the title\nscreen. Proceed?

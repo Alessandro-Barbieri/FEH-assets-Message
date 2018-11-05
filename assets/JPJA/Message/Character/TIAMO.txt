@@ -1,0 +1,38 @@
+[Heroes Archive] (TIAMO)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMO_HOME1: 特務機関を見ていると、\n天馬騎士団を思い出しちゃうわね。\n先輩…あたし、がんばってるわよ…
+MID_TIAMO_HOME2: 昔はイーリスの天馬騎士団にいたの。\n今はもう、皆死んでしまったけれど…\n魂は、いつも共に。これが騎士団の教えよ。
+MID_TIAMO_HOME3: 仕事もいいけど、無理は禁物よ。\n召喚師はあなたしかいないんだから、\nどうか自分のことを大切にしてね。
+MID_TIAMO_HOME4: 今度、召喚するところを見せてほしいわ。\nあなたしか使えない神器、興味深いし…\n自分がどうやって来たのかも知りたいの。
+MID_TIAMO_HOME5: 装備や武器在庫の点検をしていたわ。\nアンナ隊長に報告したら機関に\n勧誘されたけど…あたしが入っていいの？
+MID_TIAMO_FRIEND: お会いできて嬉しいわ。\n$Nfに頼まれて、\nあなたに挨拶をしにきたのよ。
+MID_TIAMO_LEVEL1: がんばりが報われて\n嬉しいわ。
+MID_TIAMO_LEVEL2: これぐらいは当然ね。
+MID_TIAMO_LEVEL3: ごめんなさい、\n次は期待していて。
+MID_TIAMO_SKILL: 新しい力をありがとう。\n後悔させないよう精進するわね。
+MID_TIAMO_JOIN: あたしはティアモ。\nクロム様率いるイーリス軍の一員なの。\n期待に沿えるよう精一杯頑張るわ。
+MID_TIAMO_STRONGEST: 英雄の召喚…あたしにもできないかしら。\n確かこう構えて、こう撃ってたわよね。\nうんうん、動きは完璧のはず…って、$k$pきゃっ、$Nu！？\n今の見ていたの！？\nやだ、声をかけてくれてもいいじゃない！$k$pえ、なんだか面白いって？\nあたしがちょっと抜けてるですって！？\nもう、覗き見してたくせに失礼ね！$k$p…でも、ちょっと嬉しいわ。\nあたし、天才だって言われるよりも、\nそんな風に言われるほうが好きなのかも。$k$pただ、戦闘では抜け目無く、\nしっかりやらせてもらうわよ。\n大切なあなたを、必ず守ってみせるわ。\n
+MID_TIAMO_VOICE01: はっ！
+MID_TIAMO_VOICE02: ええいっ！
+MID_TIAMO_VOICE03: きゃっ…！
+MID_TIAMO_VOICE04: 耐えてみせるわ…！
+MID_TIAMO_VOICE05: あたしなら…！
+MID_TIAMO_VOICE06: しつこいわよ！
+MID_TIAMO_VOICE07: 負けるはずないわ
+MID_TIAMO_VOICE08: 見切ったわよ！
+MID_TIAMO_VOICE09: こんな…ことって……
+MID_TIAMO_VOICE10: ふふっ
+MID_TIAMO_VOICE11: 天才なんかじゃないわ
+MID_TIAMO_VOICE12: あなたは、かなわない恋をしたことがある？
+MID_TIAMO_VOICE13: 特務機関の試験、あたしも受けてみようかしら
+MID_TIAMO_VOICE14: はぁ…　あっ、あたしまた、ため息をついてた？
+MID_TIAMO_VOICE15: 胸の辺りは見ないでちょうだい。手槍が飛ぶわよ？
+MID_TIAMO_VOICE16: もっと頑張らなきゃ。あたしを守ってくれた人たちのためにも…
+MID_TIAMO_VOICE17: この国のこと、たくさん知りたいわ。それから、あなたのことも。
+MID_TIAMO_VOICE18: ええ
+MID_TIAMO_VOICE19: あたしね
+MID_TIAMO_VOICE20: 従うわ

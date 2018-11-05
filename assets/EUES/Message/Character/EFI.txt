@@ -1,0 +1,38 @@
+[Heroes Archive] (EFI)
+
+
+Heroes Message Name: Message
+
+
+MID_EFI_HOME1: Este lugar está... ¿en un mundo\ntotalmente distinto al mío? Bueno,\nno me importa si Alm anda cerca.
+MID_EFI_HOME2: En realidad combatir no es lo mío,\npero como Alm se unió a los\nLibertadores... ¡pues yo también!
+MID_EFI_HOME3: ¿Estás patrullando? ¡Gracias por\nprotegernos con tanto celo! Si ves\na Alm, ¿lo saludarías de mi parte?$k$pNo hace falta nada elaborado, con\nun simple «hola» basta.
+MID_EFI_HOME4: ¡El reino de Askr es tan hermoso!\nMe gustaría enseñarle sus rincones\nmás bonitos a cierta persona...
+MID_EFI_HOME5: Estoy cosiendo un amuleto protector.\nAlm siempre me da buena suerte, así\nque pienso en él con cada puntada.
+MID_EFI_FRIEND: ¡Hola! ¿Eres\n$Nu?$k$pVengo de parte de\n$Nf.
+MID_EFI_LEVEL1: Debo hacerme aún más fuerte...\n¡Por Alm y los demás!
+MID_EFI_LEVEL2: ¿Qué te parece?\nNo ha estado mal, ¿verdad?
+MID_EFI_LEVEL3: Con lo que me había esforzado...
+MID_EFI_SKILL: ¿Lo has hecho por mí? Así\npodré ser de ayuda muy pronto.
+MID_EFI_JOIN: Soy Faye, ¡encantada de ayudar!\nHe luchado con los Libertadores,\n¿sabes? Por Alm y por mis amigos.
+MID_EFI_STRONGEST: Mira tú por dónde...\n¡$Nu!$k$pEs que busco con la mirada\na quien tú ya sabes a la vuelta\nde cada esquina...$k$pY tú no eres él, no eres Alm,\npero tampoco tienes que serlo.\nYa no, al menos.$k$pEs curioso cómo una puede\nquedarse tan colgada de alguien\nque no ve a quien tiene delante...$k$pSé que soy la última persona\nde la que esperarías una frase\nasí, pero lo digo en serio.$k$p¿Quieres que te lo demuestre?\nMira, te estoy haciendo un amuleto y\nhe pensado en ti con cada puntada.$k$p¿Ha quedado bien? ¿Te gusta?\nEso espero, porque significas mucho\npara mí y quiero que quede bien.
+MID_EFI_VOICE01: ええいっ
+MID_EFI_VOICE02: Gotcha!
+MID_EFI_VOICE03: っあっ…
+MID_EFI_VOICE04: Ahhhhh!
+MID_EFI_VOICE05: ¡Basta!
+MID_EFI_VOICE06: ¡Suficiente!
+MID_EFI_VOICE07: ¡Mala elección!
+MID_EFI_VOICE08: ¡Por Alm!
+MID_EFI_VOICE09: Alm...
+MID_EFI_VOICE10: Heehee...
+MID_EFI_VOICE11: Now, now—what do you want?
+MID_EFI_VOICE12: Oh, you! Trying to get my attention?
+MID_EFI_VOICE13: Oh, Alm... Can't you see how much I love you?
+MID_EFI_VOICE14: I'd love to show you our village someday.
+MID_EFI_VOICE15: What do I like? Sewing, flowers, and...sewing flowers. How about you?
+MID_EFI_VOICE16: I wonder what Alm is thinking about right now...
+MID_EFI_VOICE17: I'm really fond of Alm, as you know by now. But I've come to care for you too!
+MID_EFI_VOICE18: OK.
+MID_EFI_VOICE19: All right.
+MID_EFI_VOICE20: Try my best.

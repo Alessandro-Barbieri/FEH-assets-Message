@@ -1,0 +1,38 @@
+[Heroes Archive] (REINHARDT)
+
+
+Heroes Message Name: Message
+
+
+MID_REINHARDT_HOME1: Le prince Alfonse et la princesse\nSharena ont l'air de bien s'entendre.\nÇa me rappelle des souvenirs...
+MID_REINHARDT_HOME2: Des années durant, j'ai assuré la\nprotection de la reine Ishtar. J'ai\npris cette tâche très au sérieux.
+MID_REINHARDT_HOME3: Ménagez-vous, je vous en conjure.\nCet ordre serait condamné sans\nvotre sens aiguisé de la stratégie.
+MID_REINHARDT_HOME4: Ma sœur, Olwen, a plus que grandi en\nmon absence... Elle s'est affirmée en\ntant que personne exemplaire.
+MID_REINHARDT_HOME5: Mon monde a connu un tacticien si\nbrillant que certains ont vu en lui\nl'incarnation du dieu de la guerre.$k$pVous me le rappelez, par moments.
+MID_REINHARDT_FRIEND: Veuillez excuser ma venue soudaine.\nJe me nomme Reinhardt et je viens\nvous saluer en gage d'amitié.
+MID_REINHARDT_LEVEL1: C'est mieux que ce que j'espérais,\nil ne faut pas que je me relâche.
+MID_REINHARDT_LEVEL2: À ce rythme, je n'aurai aucun mal à\naccomplir mon devoir.
+MID_REINHARDT_LEVEL3: Quel échec. Serais-je en train de\nflancher ?
+MID_REINHARDT_SKILL: Je suis honoré. En remerciement,\nje vous rapporterai de nombreuses\nvictoires.
+MID_REINHARDT_JOIN: Je suis Reinhardt de Friege.\nLaissez-moi déchaîner ma magie\npour foudroyer vos ennemis.
+MID_REINHARDT_STRONGEST: Lorsque j'étais plus jeune, ma petite\nsœur, Olwen, avait pour habitude\nde me suivre partout.$k$pEn tant que frère aîné, je considérais\nqu'il était de mon devoir de la guider à\ntravers toutes les étapes de sa vie.$k$pCependant, je réalise maintenant que\ncela ne fonctionnait pas que dans\nun sens.$k$pEn réalité... nous nous guidions l'un\nl'autre sur nos voies respectives,\nchacun en jouant son rôle.$k$pJ'ai compris grâce à vous qu'il est\ninutile de choisir entre guider\nou être guidé...$k$pLe meilleur moyen de grandir dans\nla vie est de marcher ensemble,\ncôte à côte.
+MID_REINHARDT_VOICE01: はっ！
+MID_REINHARDT_VOICE02: せいっ！
+MID_REINHARDT_VOICE03: うああっ！
+MID_REINHARDT_VOICE04: You're strong...
+MID_REINHARDT_VOICE05: Le destin est cruel.
+MID_REINHARDT_VOICE06: Je ferai de mon mieux.
+MID_REINHARDT_VOICE07: Reculez.
+MID_REINHARDT_VOICE08: La magie prévaut !
+MID_REINHARDT_VOICE09: Undone...
+MID_REINHARDT_VOICE10: Ha
+MID_REINHARDT_VOICE11: Tell me. What are your orders?
+MID_REINHARDT_VOICE12: Come now! No more of that.
+MID_REINHARDT_VOICE13: You have quite a skill for battle tactics.
+MID_REINHARDT_VOICE14: I knew a brilliant tactician named Saias. You may be his superior.
+MID_REINHARDT_VOICE15: I have a younger sister named Olwen. Do you have any siblings?
+MID_REINHARDT_VOICE16: My sister went her way. I went mine.
+MID_REINHARDT_VOICE17: I will remain with you—no matter the circumstances.
+MID_REINHARDT_VOICE18: Understood.
+MID_REINHARDT_VOICE19: Orders?
+MID_REINHARDT_VOICE20: Let's go.

@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: Gunnthrá
+MPID_HONOR_スリーズ: Voix onirique
+MPID_H_スリーズ: Première princesse de Nifl, le monde des\nglaces. Elle est attentionnée et dotée d'un\ngrand instinct maternel.
+MPID_VOICE_スリーズ: Carrie Keranen
+MPID_ILLUST_スリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_スリーズ: Effet légendaire : vent\nBoost pour les alliés : PV +3, Rés +4\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction du vent et que\ncette unité combat avec eux pendant la\nsaison du vent.
+MSID_ブリザード: Blizzard
+MSID_氷の封印: Sceau de glace
+MSID_H_ブリザード: Confère Rés +3. Confère un boost\nd'Atq équivalent au total des malus subis\npar l'ennemi pendant le combat.
+MSID_H_氷の封印: En début de tour, si PV ≥ 50 %, inflige\nAtq/Vit -6 à l'ennemi ayant la Déf la\nplus basse jusqu'à la fin de sa phase.\n(Non transmissible.)

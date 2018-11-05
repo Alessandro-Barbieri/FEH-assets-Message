@@ -1,0 +1,38 @@
+[Heroes Archive] (BOOWY)
+
+
+Heroes Message Name: Message
+
+
+MID_BOOWY_HOME1: Die Wächter von Askr, eine andere\nWelt... Das ist wie ein Traum, ich kann\nes im Moment noch gar nicht fassen.
+MID_BOOWY_HOME2: Ich bin auf der Insel Novis als Sohn\neines Fischers mit zwei älteren\nBrüdern aufgewachsen.$k$pDas Leben war nicht einfach für\nmeine Familie und mich... Und\nso bin ich im Kloster gelandet.
+MID_BOOWY_HOME3: Ich habe gesehen, wie sehr du dich\nanstrengst. Streng dich nicht ZU sehr\nan, sonst bist du zu erschöpft.$k$pUnd dann bleiben die Dinge\nunerledigt.
+MID_BOOWY_HOME4: Wenn ich Ruhe brauche, schaue ich\nhinaus aufs Meer. Aber ich weiß nicht,\nwie ich es in dieser Welt finden soll.$k$pVielleicht kannst du mir zeigen,\nwo hier das Meer ist.
+MID_BOOWY_HOME5: Ich habe gerade in meinem\nZauberbuch gelesen.$k$pWenn ich nicht regelmäßig\nstudiere, hält mir Nomah\neine Standpauke.
+MID_BOOWY_FRIEND: Ich überbringe Grüße von\n$Nf.$k$pDas ist alles!
+MID_BOOWY_LEVEL1: Schön! Jetzt kann ich ein\nbisschen feiern, oder?
+MID_BOOWY_LEVEL2: Leider nur durchschnittlich.
+MID_BOOWY_LEVEL3: Ich muss mehr studieren\nund es weiter probieren.
+MID_BOOWY_SKILL: Wenn du an mich glaubst, fühle\nich mich gleich noch stärker.
+MID_BOOWY_JOIN: Ich bin der Magier Boey. Ich gehe\nProblemen gern aus dem Weg,\naber du hast mich herbeigerufen.
+MID_BOOWY_STRONGEST: Meine Familie... Ehrlich gesagt\nwaren wir bettelarm, deshalb\nbin ich ins Kloster gegangen.$k$pDort wurde mir gesagt, dass ich\nein Talent für Magie habe. Nicht,\ndass ich dort gelitten hätte, aber...$k$pIch habe mich gefragt, wie es\ngewesen wäre, wenn ich\nwoanders aufgewachsen wäre.$k$pIrgendwann habe ich nicht mehr\ndarüber nachgedacht, weil es\nmir sinnlos erschien.$k$pAber dann wurde ich hergerufen - in\neine Welt voller verschiedener Leute.\nEs war toll, mit ihnen zu kämpfen.$k$pUnd ich muss dir dafür danken. Du\nbist inzwischen mehr als nur\n$Gein Bekannter,eine Bekannte| für mich.$k$pIch sehe in dir eher... Familie.
+MID_BOOWY_VOICE01: たあっ
+MID_BOOWY_VOICE02: There!
+MID_BOOWY_VOICE03: Darn it!
+MID_BOOWY_VOICE04: うわあああーっ！！
+MID_BOOWY_VOICE05: Nimm das!
+MID_BOOWY_VOICE06: Tut mir leid.
+MID_BOOWY_VOICE07: Aus dem Weg!
+MID_BOOWY_VOICE08: Es ist vorbei!
+MID_BOOWY_VOICE09: That...hurt.
+MID_BOOWY_VOICE10: Hehheh
+MID_BOOWY_VOICE11: Looking for something?
+MID_BOOWY_VOICE12: Cut it out! What are we, kids?
+MID_BOOWY_VOICE13: I see how it's going to be.
+MID_BOOWY_VOICE14: I wonder how everyone's doing back at home.
+MID_BOOWY_VOICE15: Me and Mae? We're just stuck with each other. We've been together since we were kids.
+MID_BOOWY_VOICE16: I do what needs to be done. That's all there is to it.
+MID_BOOWY_VOICE17: Now that I think about it, spending time with you isn't so bad.\n
+MID_BOOWY_VOICE18: OK.
+MID_BOOWY_VOICE19: Huh...
+MID_BOOWY_VOICE20: Let's go!

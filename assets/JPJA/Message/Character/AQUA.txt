@@ -1,0 +1,38 @@
+[Heroes Archive] (AQUA)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_HOME1: 特務機関の装束は綺麗ね。\n私の服も白いから…\nお揃いみたいで、なんだか嬉しいわ。
+MID_AQUA_HOME2: 私の出自には秘密があるの…\nそれを言うことはできないのだけれど、\n今はこの世界と…あなたのために戦うわ。
+MID_AQUA_HOME3: あなたもこの世界に来て日が浅いの？\nそれなら、無理をしないでちょうだいね。\n身体を壊したりしたら、心配だわ。
+MID_AQUA_HOME4: 泉のほとりで歌うのが好きなの…\n今度、聴きに来てくれない？\n戦場ではゆっくり歌えないから。
+MID_AQUA_HOME5: ちょうど、歌の練習をしていたわ。\n歌は時に、言葉よりも雄弁なのよ。\nあなたの好きな歌はどんなものかしら？
+MID_AQUA_FRIEND: あなたが$Nu？\n$Nfから挨拶よ。\nこれからも仲良くしてあげてね。
+MID_AQUA_LEVEL1: 素敵…\n一曲歌いたい気分だわ。
+MID_AQUA_LEVEL2: ふふ…声の調子も\n良くなった気がするわ。
+MID_AQUA_LEVEL3: …こういうこともあるわ。
+MID_AQUA_SKILL: ありがとう。\nまたあなたの役に立てるのね。
+MID_AQUA_JOIN: 私はアクア。\n暗夜で生まれ、白夜で育てられた者…\n歌の力で、あなたの力になるわ。
+MID_AQUA_STRONGEST: ユラリ、ユルレリ…\n…ふふ、今日も来てくれたのね。\n嬉しいわ、$Nu。$k$pあなたがいつも見ていてくれるから…\n歌う時はついあなたの姿を\n探すようになってしまったのよ。$k$p…私の歌には、不思議な力があるの。\n戦場で使う、仲間を元気づける歌の力や…\nもっと恐ろしい、心を支配するような力も。$k$pけれど、この世界では…\nあまり強い力は使えないみたいだわ。\nその代わりに、歌で身を滅ぼすこともない。$k$p約束できるわ…最後まで傍にいるって。\nいつかあなたに話させてほしい…\n私の生まれた、見えざる国のことを。\n
+MID_AQUA_VOICE01: はっ
+MID_AQUA_VOICE02: やあっ
+MID_AQUA_VOICE03: うあっ！
+MID_AQUA_VOICE04: 手強いのね…
+MID_AQUA_VOICE05: 声を聴かせて
+MID_AQUA_VOICE06: フィナーレね
+MID_AQUA_VOICE07: ショーの時間よ
+MID_AQUA_VOICE08: 片付けるわ
+MID_AQUA_VOICE09: 声が…届かな……
+MID_AQUA_VOICE10: ふふ…
+MID_AQUA_VOICE11: 頑張りましょう
+MID_AQUA_VOICE12: あなたならできるわ
+MID_AQUA_VOICE13: ユラリ、ユルレリ…（鼻歌）
+MID_AQUA_VOICE14: 髪が長いと、朝起きたとき大変なの
+MID_AQUA_VOICE15: このペンダントには、不思議な力が秘められているのよ
+MID_AQUA_VOICE16: この世界は一体…白夜でも、暗夜でも、あの国でもないなんて…
+MID_AQUA_VOICE17: ねえ…私、あなたの力になるわ。\nなんだか、そうしなくちゃいけない気がするの…
+MID_AQUA_VOICE18: ええ
+MID_AQUA_VOICE19: 行きましょう
+MID_AQUA_VOICE20: どうするの？

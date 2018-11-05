@@ -1,0 +1,38 @@
+[Heroes Archive] (MIST)
+
+
+Heroes Message Name: Message
+
+
+MID_MIST_HOME1: ここって、気持ちいい場所だね。\n高い所だから空気が良いのかな？\nすっごく爽やかな感じ。
+MID_MIST_HOME2: わたし、戦いは苦手だけど、\n洗濯とか掃除とかで\nみんなのお世話ができたらいいな。
+MID_MIST_HOME3: あっ！　$Nuさん、\nいつもお疲れ様。\nはい、お水どうぞ。
+MID_MIST_HOME4: お父さん…お母さん…\nお兄ちゃん…
+MID_MIST_HOME5: あーっ、洗濯物が風で…！\nまってー！\nまってってばー！
+MID_MIST_FRIEND: あっ、こんにちは～。\nわたし、$Nfさんの\nかわりにご挨拶に来たの。
+MID_MIST_LEVEL1: 強くなるよ。\nわたし、お父さんの娘だもん。
+MID_MIST_LEVEL2: わたしも、ちょっとだけ\n戦えるようになったかな？
+MID_MIST_LEVEL3: やっぱり、わたしじゃ\n戦いなんて無理なのかな…
+MID_MIST_SKILL: 気にかけてくれて嬉しいけど、\nほんとにわたしで良いの？
+MID_MIST_JOIN: こんにちは。わたし、ミスト。\nえっと…ここって、どこかな？\n急でちょっとびっくりしちゃって…
+MID_MIST_STRONGEST: あっ、$Nuさん！\nうん。今、みんなの服を乾かしてるとこ。\n洗濯って気持ちいいよね。$k$p戦いはなかなか慣れないけど、\nでもこのお城での暮らしは\nけっこう慣れてきたかな～。$k$p…最初はね、不安だったんだ。\nこのお城の英雄の人たちって\n強そうで怖そうな人もいて…$k$pでもね、この世界に召喚されて\n$Nuさんと会った時…\nなんかすっごく安心できたの。$k$p自分でもよくわかんないけど…\nこの人は信じられそうって、そう思えたの。\nだから、今までがんばれたんだよ。$k$pうん、ありがと。\nこれからもよろしくね！
+MID_MIST_VOICE01: えいっ！
+MID_MIST_VOICE02: 来ないで！
+MID_MIST_VOICE03: きゃああっ！
+MID_MIST_VOICE04: あ…うっ！
+MID_MIST_VOICE05: …怖いけど、でも…！
+MID_MIST_VOICE06: …わたしも、戦う！
+MID_MIST_VOICE07: もうわかんない！
+MID_MIST_VOICE08: 覚悟してっ！
+MID_MIST_VOICE09: ごめん…ね…
+MID_MIST_VOICE10: えへへっ
+MID_MIST_VOICE11: 怪我しないでね
+MID_MIST_VOICE12: 一緒に頑張ろうね
+MID_MIST_VOICE13: わ！　びっくりしたぁ…どうしたの、急に？
+MID_MIST_VOICE14: わたしのお兄ちゃんって、ちょっと変わってるでしょ。
+MID_MIST_VOICE15: えへへ、誉めてくれたの？　ありがと。
+MID_MIST_VOICE16: お父さん…お母さん…お兄ちゃん…
+MID_MIST_VOICE17: 勝手に死んだりしたら、許さないんだからね…
+MID_MIST_VOICE18: うんっ！
+MID_MIST_VOICE19: どうしよっかな…
+MID_MIST_VOICE20: がんばるよ！

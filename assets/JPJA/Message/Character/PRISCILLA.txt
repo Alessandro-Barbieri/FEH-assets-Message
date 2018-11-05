@@ -1,0 +1,38 @@
+[Heroes Archive] (PRISCILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_PRISCILLA_HOME1: 私の兄、レイモンド兄さまは…今は\nレイヴァンと名乗り、傭兵をしているとか…\nいったい何があったのでしょうか…？
+MID_PRISCILLA_HOME2: カルレオン伯爵家の娘です。\nでも、私の生い立ちは複雑で…\n話すと長くなってしまいます…
+MID_PRISCILLA_HOME3: …レイモンド兄さま…\n
+MID_PRISCILLA_HOME4: 私、戦いは得意ではありません。\n野蛮で、恐ろしくて…\nこのお城にいる間は安心ですけれど…
+MID_PRISCILLA_HOME5: ご一緒に紅茶でもいかがですか？\nお城の方々から、\n美味しいお菓子もいただいたんです。\n
+MID_PRISCILLA_FRIEND: 私はプリシラと申します。\n$Nfさんにかわり、\n御挨拶に参りました。
+MID_PRISCILLA_LEVEL1: とても良い結果、でしょうか？\nよくわかりませんが…\n
+MID_PRISCILLA_LEVEL2: どうなのでしょう…？\n妥当な結果なのでしょうか…？\n
+MID_PRISCILLA_LEVEL3: …よくわかりませんが、\nあまり良くない気がします…
+MID_PRISCILLA_SKILL: 私をこんなに強くして…\nどうなさるおつもりでしょう…？
+MID_PRISCILLA_JOIN: 私はプリシラと申します。\nもし、ご迷惑でなければ\n私も連れていっていただけませんか？
+MID_PRISCILLA_STRONGEST: あの、どうですか？\n私、また強くなれたでしょうか？$k$p自分でも信じられないです。\n世間知らずで、\n争い事とは無縁だった私が…$k$pあなたのおかげで\n今ではこんなに成長して…\nまるで生まれ変わってしまったみたい…$k$p私をこんな風にしてしまったのは、\nあなたなんですから…\nちゃんと、責任…とってくださいね？$k$pふふっ…冗談です。\nこれからも、よろしくお願いしますね。\n
+MID_PRISCILLA_VOICE01: はいっ
+MID_PRISCILLA_VOICE02: それっ
+MID_PRISCILLA_VOICE03: きゃああっ！
+MID_PRISCILLA_VOICE04: …そんな…
+MID_PRISCILLA_VOICE05: いきます…
+MID_PRISCILLA_VOICE06: 恨みます…
+MID_PRISCILLA_VOICE07: いけません！
+MID_PRISCILLA_VOICE08: 楽にしてあげます
+MID_PRISCILLA_VOICE09: せめて…もう一度…
+MID_PRISCILLA_VOICE10: ふふ…
+MID_PRISCILLA_VOICE11: お怪我を…
+MID_PRISCILLA_VOICE12: 楽にしてあげます
+MID_PRISCILLA_VOICE13: 怪我をなさったら、すぐ来てください
+MID_PRISCILLA_VOICE14: あなたは、変わった方ですね
+MID_PRISCILLA_VOICE15: 約束…ですよ
+MID_PRISCILLA_VOICE16: …嫉妬するなんて、恥ずかしい…
+MID_PRISCILLA_VOICE17: お好きなだけ、お傍にいます
+MID_PRISCILLA_VOICE18: わかりました
+MID_PRISCILLA_VOICE19: どうしましょう？
+MID_PRISCILLA_VOICE20: 行きます

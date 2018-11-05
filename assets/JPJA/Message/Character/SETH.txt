@@ -1,0 +1,38 @@
+[Heroes Archive] (SETH)
+
+
+Heroes Message Name: Message
+
+
+MID_SETH_HOME1: アルフォンス王子は優しい方です。\n優しさは美徳ですが、時に…\n…いえ、出過ぎた発言をお詫び致します。
+MID_SETH_HOME2: 私はルネス王家に仕える身。\n我が願いは、エイリーク様と\nエフラム様をお守りすることです。
+MID_SETH_HOME3: 雑務は私に任せ、貴方は\nお体を大切になさってください。\nそれが軍全体のためでもあります。
+MID_SETH_HOME4: 私に特別な気遣いは無用です。\n勝利のためなら、私を捨て駒として\n切り捨てていただくことを望みます。
+MID_SETH_HOME5: 訓練を行っています。\nこれは騎士見習いの頃から、\n欠かすことのできない日課です。
+MID_SETH_FRIEND: 失礼致します。\n$Nf殿の使いで\nこちらに挨拶に参りました。
+MID_SETH_LEVEL1: 気を緩めることなく、\nさらに己を高めなければ。
+MID_SETH_LEVEL2: さらに鍛錬を積み、\n己を高めなければ。
+MID_SETH_LEVEL3: この遅れは、\n鍛錬で取り戻さねば…
+MID_SETH_SKILL: 感謝致します。\nこの褒賞に値する貢献を。
+MID_SETH_JOIN: 私はルネス王国の騎士ゼト。\nエイリーク様、エフラム様は\nこちらにいらっしゃるでしょうか？
+MID_SETH_STRONGEST: 私をここまで重用してくださったこと、\n深く感謝致します。しかしながら…\n念のため、一言申し上げておきます。$k$p私への情や絆は、持つべきではありません。\n貴方は命じ、私は従う。\nただそれだけの関係であるべきです。$k$p万が一にも、貴方が私に情を抱けば…\nそれは、戦場で貴方の判断を\n誤らせる恐れがあります。$k$pそして、私が貴方に特別な絆を抱けば…\nそれは、貴方の勝利を不確かにしてしまう…\n私はそう恐れています。$k$pですから、貴方はどうか私を気にかけず、\n私に近づきすぎぬようお願い致します。\n私がこれからも、貴方をお守りするために…
+MID_SETH_VOICE01: はっ！
+MID_SETH_VOICE02: せいっ！
+MID_SETH_VOICE03: うああっ！
+MID_SETH_VOICE04: お許しを…
+MID_SETH_VOICE05: …覚悟を
+MID_SETH_VOICE06: 殊勝な心がけだ
+MID_SETH_VOICE07: どうかご容赦を
+MID_SETH_VOICE08: これが我が使命
+MID_SETH_VOICE09: 申し訳ありません…
+MID_SETH_VOICE10: ふっ
+MID_SETH_VOICE11: どうか御命令ください。
+MID_SETH_VOICE12: ！？　…あなたは、私に近づきすぎるべきではありません。
+MID_SETH_VOICE13: 一軍を統べる者は、時に情を絶ち、兵を捨て駒としなければなりません。
+MID_SETH_VOICE14: 古傷です…気になさる必要はないかと。
+MID_SETH_VOICE15: 面白みのない男だとよく言われます。申し訳ありません。
+MID_SETH_VOICE16: エフラム様、エイリーク様…祖国ルネスを、どうか…
+MID_SETH_VOICE17: この身を賭して、あなたをお守り致します。
+MID_SETH_VOICE18: 承知しました。
+MID_SETH_VOICE19: 御命令を。
+MID_SETH_VOICE20: はっ。

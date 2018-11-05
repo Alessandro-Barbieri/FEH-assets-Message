@@ -1,0 +1,38 @@
+[Heroes Archive] (RODY)
+
+
+Heroes Message Name: Message
+
+
+MID_RODY_HOME1: Dieses Schloss heißt Helden\nwillkommen, aber auch mich? Ich\nbin nur ein angehender Ritter!
+MID_RODY_HOME2: In meiner Heimat wurde unser Zug von\njemanden angeführt, der sich meinen\naufrichtigen Respekt verdient hatte.$k$pIch muss zugeben, dass Ihr mich\netwas an diese Person erinnert!
+MID_RODY_HOME3: Ich möchte ein wahrer Ritter von\nAltea und damit ein bedeutsamer\nMann werden.$k$pAber dazu muss ich meine\nAusbildung zum Ritter abschließen.
+MID_RODY_HOME4: Ich kenne meinen Freund Luke schon\nseit langer Zeit. Er mag ungestüm\nsein, aber er hat ein gutes Herz.
+MID_RODY_HOME5: Ich möchte Euch begleiten, um die\nUmgebung zu erkunden. Man sollte\nimmer auf alles vorbereitet sein.
+MID_RODY_FRIEND: Ich bitte um Verzeihung. Ich bin\nRoderick, ein angehender Ritter.$k$pIch überbringe Euch Grüße von\n$Nf.
+MID_RODY_LEVEL1: Ich werde es nur einen Moment\nlang genießen. Die Arbeit wartet.
+MID_RODY_LEVEL2: Wie ermutigend. Eile mit Weile.
+MID_RODY_LEVEL3: Ich muss mich mehr anstrengen,\num nicht zu versagen.
+MID_RODY_SKILL: Ich schulde Euch Dank und\nmeine volle Aufopferung.
+MID_RODY_JOIN: Ich bin Roderick, ein angehender Ritter\nvon Altea. Ich werde mein Bestes\ngeben, um mich zu beweisen.
+MID_RODY_STRONGEST: Habe ich mich schon bewiesen? Ich\nhoffe, dass ich stark genug geworden\nbin, um Euch von Nutzen zu sein.$k$pEs fällt mir schwer zu wissen, ob ich\nEure Erwartungen erfülle, aber ich\nspüre, Euch nicht enttäuscht zu haben.$k$pIch verspreche, dass ich weiter mein\nBestes geben werde, um Euch nicht\nzur Last zu fallen.$k$pIch hoffe, dass ich Euer Leben etwas\nerleichtern kann. Die Wächter ver-\nlassen sich so sehr auf Eure Stärke.$k$pIch kann mir nicht vorstellen, was Ihr\ndurchmachen müsst. Aber wenn Ihr\nmir erlaubt zu bleiben...$k$pWerde ich Euch so gut ich kann helfen.
+MID_RODY_VOICE01: はっ！
+MID_RODY_VOICE02: せいっ！
+MID_RODY_VOICE03: うああっ！
+MID_RODY_VOICE04: …I left myself open…
+MID_RODY_VOICE05: Ich werde mein Bestes geben!
+MID_RODY_VOICE06: Ich zeig es Euch!
+MID_RODY_VOICE07: Macht Euch auf etwas gefasst!
+MID_RODY_VOICE08: Die Pflicht geht vor!
+MID_RODY_VOICE09: Sorry...
+MID_RODY_VOICE10: Haha
+MID_RODY_VOICE11: May I be of service to you?
+MID_RODY_VOICE12: Oh! You seem to do that a lot.
+MID_RODY_VOICE13: What is our plan for the next battle?
+MID_RODY_VOICE14: I try to remember to battle as a team—never in isolation.
+MID_RODY_VOICE15: If ever you need me, I am delighted to serve.
+MID_RODY_VOICE16: I wonder how everyone in my platoon is doing.
+MID_RODY_VOICE17: I am deeply honored to fight alongside you.
+MID_RODY_VOICE18: Understood.
+MID_RODY_VOICE19: Of course.
+MID_RODY_VOICE20: Ready.

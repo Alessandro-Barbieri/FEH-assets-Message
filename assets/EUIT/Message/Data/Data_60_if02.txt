@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_60_if02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_メイドの頭飾り: Cuffia da cameriera
+MDAID_H_メイドの頭飾り: Una cuffia da cameriera come quella\ndi Flora. È un oggetto nohriano, in uso\nnel castello di Krakenburg.
+MDAID_メイドの頭飾り・極: Cuffia da cameriera+
+MDAID_H_メイドの頭飾り・極: Una cuffia da cameriera usata da\nFlora. Solo la capocameriera ha diritto\ndi indossare questo capo raffinato.
+MDAID_騎士の額当て: Diadema da cavaliere
+MDAID_H_騎士の額当て: Un diadema da cavaliere usato da\nSilas. Tradizionalmente lo si dona a chi\nottiene l'investitura a cavaliere.
+MDAID_騎士の額当て・極: Diadema da cavaliere+
+MDAID_H_騎士の額当て・極: Un diadema da cavaliere usato da\nSilas. Un oggetto speciale che si dona\na chi ottiene il titolo di paladino.
+MDAID_読書用眼鏡: Occhiali da lettura
+MDAID_H_読書用眼鏡: Nina sostiene che indossandoli i tuoi\nocchi non si stancheranno mai, non\nimporta quanto (o cosa) leggi.
+MDAID_読書用眼鏡・極: Occhiali da lettura+
+MDAID_H_読書用眼鏡・極: Nina sostiene che con questi occhiali è\npossibile continuare a leggere anche\nnel cuore della notte.
+MDAID_聖なる星の煌めき: Polvere stellare sacra
+MDAID_H_聖なる星の煌めき: Ophelia è certa che questa polvere di\nstelle racchiude un grande potere.\n(È solo una spilla, ma non dirglielo...)
+MDAID_聖なる星の煌めき・極: Polvere stellare sacra+
+MDAID_H_聖なる星の煌めき・極: Ophelia dice che solo chi è prescelto\npuò toccare questa polvere di stelle.\n(È solo una spilla, ma stai al gioco.)
+MID_MISSION_M201809CLEAR01_TITLE: Libro II
+MID_MISSION_M201809CLEAR01_A1: Completa 1-5
+MID_MISSION_H_M201809CLEAR01_A1: Completa il libro II, cap. 1-5 con Fjorm\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201809CLEAR01_A2: Completa 2-5
+MID_MISSION_H_M201809CLEAR01_A2: Completa il libro II, cap. 2-5 con Fjorm\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201809CLEAR01_A3: Completa 3-5
+MID_MISSION_H_M201809CLEAR01_A3: Completa il libro II, cap. 3-5 con Fjorm\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201809CLEAR01_A4: Completa 4-5
+MID_MISSION_H_M201809CLEAR01_A4: Completa il libro II, cap. 4-5 con Fjorm\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201809CLEAR01_A5: Completa 5-5
+MID_MISSION_H_M201809CLEAR01_A5: Completa il libro II, cap. 5-5 alla difficoltà\ndifficile con 4 unità di fanteria in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A6: Completa 6-5
+MID_MISSION_H_M201809CLEAR01_A6: Completa il libro II, cap. 6-5 alla difficoltà\ndifficile con 4 unità corazzate in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A7: Completa 7-5
+MID_MISSION_H_M201809CLEAR01_A7: Completa il libro II, cap. 7-5 alla difficoltà\ndifficile con 4 unità di cavalleria in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A8: Completa 8-5
+MID_MISSION_H_M201809CLEAR01_A8: Completa il libro II, cap. 8-5 alla difficoltà\ndifficile con 4 unità volanti in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A9: Completa 9-5
+MID_MISSION_H_M201809CLEAR01_A9: Completa il libro II, cap. 9-5 alla difficoltà\nfolle con 4 unità di fanteria in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A10: Completa 10-5
+MID_MISSION_H_M201809CLEAR01_A10: Completa il libro II, cap. 10-5 alla difficoltà\nfolle con 4 unità corazzate in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A11: Completa 11-5
+MID_MISSION_H_M201809CLEAR01_A11: Completa il libro II, cap. 11-5 alla difficoltà\nfolle con 4 unità di cavalleria in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A12: Completa 12-5
+MID_MISSION_H_M201809CLEAR01_A12: Completa il libro II, cap. 12-5 alla difficoltà\nfolle con 4 unità volanti in squadra. Tutti e\n4 gli alleati devono sopravvivere.
+MID_MISSION_M201809CLEAR01_A13: Completa 13-5
+MID_MISSION_H_M201809CLEAR01_A13: Completa il libro II, cap. 13-5 alla difficoltà\nfolle con Fjorm in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201809DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201809DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201809DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201809DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201809DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201809DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201809DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201809DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201809DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201809DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201809DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201809DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201809DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201809HERO01_TITLE: Grandi battaglie
+MID_MISSION_S201809HERO01_A1: Batti Saias
+MID_MISSION_H_S201809HERO01_A1: Con Anna nella tua squadra, vinci la Grande\nbattaglia contro Saias, l'arcivescovo.
+MID_MISSION_S201809HERO01_A2: Batti Saias
+MID_MISSION_H_S201809HERO01_A2: Con Saias, l'arcivescovo, nella tua squadra,\nvinci la Grande battaglia contro Saias,\nl'arcivescovo, alla difficoltà folle.
+MID_MISSION_S201809HERO01_A3: Batti Saias
+MID_MISSION_H_S201809HERO01_A3: Batti Saias, l'arcivescovo, di livello 40\no superiore con Anna.
+MID_MISSION_S201809HERO01_A4: Batti Saias
+MID_MISSION_H_S201809HERO01_A4: Batti Saias, l'arcivescovo, di livello 40\no superiore con Saias, l'arcivescovo.
+MID_MISSION_S201809HERO01_A5: Batti Saias
+MID_MISSION_H_S201809HERO01_A5: Vinci la Grande battaglia contro Saias,\nl'arcivescovo, alla difficoltà folle o superiore\ncon una squadra di sole unità di fanteria.
+MID_MISSION_S201809SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201809SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201809SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201809SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201809SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201809SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809STORY02_TITLE: Ritorno a casa
+MID_MISSION_S201809STORY02_A1: Completa 13-1 folle
+MID_MISSION_H_S201809STORY02_A1: Completa il libro II, cap. 13-1 alla difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY02_A2: Completa 13-2 folle
+MID_MISSION_H_S201809STORY02_A2: Completa il libro II, cap. 13-2 allla difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY02_A3: Completa 13-3 folle
+MID_MISSION_H_S201809STORY02_A3: Completa il libro II, cap. 13-3 alla difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY02_A4: Completa 13-4 folle
+MID_MISSION_H_S201809STORY02_A4: Completa il libro II, cap. 13-4 alla difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY02_A5: Completa 13-5 folle
+MID_MISSION_H_S201809STORY02_A5: Completa il libro II, cap. 13-5 alla difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_フローラ: Flora
+MPID_エポニーヌ: Nina
+MPID_オフェリア: Ophelia
+MPID_サイラス: Silas
+MPID_ガロン: Garon
+MPID_レーヴァテイン味方: Laevatein
+MPID_レーギャルン味方: Laegjarn
+MPID_ヘルビンディ味方: Helbindi
+MPID_HONOR_フローラ: Il gelo glaciale
+MPID_HONOR_エポニーヌ: L'occhio di lince
+MPID_HONOR_オフェリア: L'eroina ombrosa
+MPID_HONOR_サイラス: Il cavaliere leale
+MPID_HONOR_ガロン: Il re del Nohr
+MPID_HONOR_レーヴァテイン味方: L'acciaio rovente
+MPID_HONOR_レーギャルン味方: L'acciaio assorto
+MPID_HONOR_ヘルビンディ味方: Il flagello ferino
+MPID_H_フローラ: Una domestica nohriana al servizio di Corrin.\nHa una personalità seria e una sorella gemella,\nFelicia. Compare in Fire Emblem Fates.
+MPID_H_エポニーヌ: Figlia di Niles. Tranquilla e intelligente,\nma incline a sognare troppo a occhi aperti.\nCompare in Fire Emblem Fates.
+MPID_H_オフェリア: Figlia di Odin. Una sognatrice con un gusto\nper la teatralità, che usa anche nella magia.\nCompare in Fire Emblem Fates.
+MPID_H_サイラス: Cavaliere del Nohr da poco nominato e amico\nd'infanzia di Corrin a cui la gente chiede spesso\nconsiglio. Compare in Fire Emblem Fates.
+MPID_H_ガロン: Sovrano del Nohr intenzionato a invadere\ne regnare sull'Hoshido. Compare in\nFire Emblem Fates.
+MPID_H_レーヴァテイン味方: La principessa minore di Múspell, il regno del\nfuoco. Vede sé stessa e la lama che brandisce\ncome un'entità unica e tiene le sue emozioni\ncostantemente sotto controllo.
+MPID_H_レーギャルン味方: La principessa maggiore di Múspell, il regno\ndel fuoco, e sorella più grande di Laevatein.\nÈ un generale che comanda gli eserciti\ndi Múspell con dignità.
+MPID_H_ヘルビンディ味方: Generale di Múspell, il regno del fuoco.\nRude e selvaggio. Nonostante le umili\norigini, ha scalato le gerarchie grazie\nal suo talento in battaglia.
+MPID_VOICE_フローラ: Julie Ann Taylor
+MPID_VOICE_エポニーヌ: Liv Strander
+MPID_VOICE_オフェリア: Angela Marie Volpe
+MPID_VOICE_サイラス: —
+MPID_VOICE_ガロン: Patrick Seitz
+MPID_VOICE_レーヴァテイン味方: Sarah Williams
+MPID_VOICE_レーギャルン味方: Alicia Stratten
+MPID_VOICE_ヘルビンディ味方: Raymond K. Essel
+MPID_ILLUST_フローラ: HAKO (羽公)
+MPID_ILLUST_エポニーヌ: Mikuro (みく郎)
+MPID_ILLUST_オフェリア: Umiu Geso (海鵜げそ)
+MPID_ILLUST_サイラス: Meka (めか)
+MPID_ILLUST_ガロン: Soeda Ippei (添田一平)
+MPID_ILLUST_レーヴァテイン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_レーギャルン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ヘルビンディ味方: Maeshima Shigeki (前嶋重機)
+MSID_シャイニングボウ: Arco splendente
+MSID_シャイニングボウ＋: Arco splendente+
+MSID_霧氷のナイフ: Pugnale brina
+MSID_魔書ミステルトィン: Misseltein
+MSID_暗夜竜のブレス: Soffio malevolo
+MSID_攻撃の大応援: Gran sprone Att
+MSID_攻撃の大応援＋: Gran sprone Att+
+MSID_攻撃魔防の孤軍1: Att/Res isolati 1
+MSID_攻撃魔防の孤軍2: Att/Res isolati 2
+MSID_攻撃魔防の孤軍3: Att/Res isolati 3
+MSID_速さ魔防の連携1: Combo Vel/Res 1
+MSID_速さ魔防の連携2: Combo Vel/Res 2
+MSID_速さ魔防の連携3: Combo Vel/Res 3
+MSID_守備の波・偶数1: Dif pari 1
+MSID_守備の波・偶数2: Dif pari 2
+MSID_守備の波・偶数3: Dif pari 3
+MSID_赤の死闘・飛行1: Sfida volante R1
+MSID_赤の死闘・飛行2: Sfida volante R2
+MSID_赤の死闘・飛行3: Sfida volante R3
+MSID_緑の死闘・歩行1: Sfida fanteria V1
+MSID_緑の死闘・歩行2: Sfida fanteria V2
+MSID_緑の死闘・歩行3: Sfida fanteria V3
+MSID_速さの波・奇数1: Vel dispari 1
+MSID_速さの波・奇数2: Vel dispari 2
+MSID_速さの波・奇数3: Vel dispari 3
+MSID_H_シャイニングボウ: Efficace contro le unità volanti. Se il nemico\nha Dif superiore rispetto alla Res di almeno 5,\naumenta il danno inflitto di +7.
+MSID_H_シャイニングボウ＋: Efficace contro le unità volanti. Se il nemico\nha Dif superiore rispetto alla Res di almeno 5,\naumenta il danno inflitto di +7.
+MSID_H_霧氷のナイフ: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità attacca per prima\ne il nemico usa spada, lancia, ascia o pietra\ndrago, Dif +20 durante lo scontro e se il nemico\npuò contrattaccare, l'unità esegue un attacco\ndoppio. Se l'unità ha attaccato, Dif/Res -7 al\nbersaglio e ai nemici entro 2 spazi dal bersaglio\ndurante le loro prossime azioni dopo lo scontro.
+MSID_H_魔書ミステルトィン: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). All'inizio del turno 1, anticipa\nl'attivazione dell'abilità speciale dell'unità\n(contatore -1 per ogni alleato che usa la magia in\nsquadra, unità compresa).
+MSID_H_暗夜竜のブレス: Annulla i bonus derivanti dall'effetto "efficace\ncontro i draghi". Infligge PS -10 ai nemici entro\n3 spazi e ripristina PS all'unità pari al numero\ndi nemici entro 3 spazi ×5 all'inizio del turno 4.\nContro nem. con 2 di Rgg, il danno è calcolato\nusando Dif o Res del nem. (il valore più basso).
+MSID_H_攻撃の大応援: Conferisce Att +4 a un alleato e agli alleati\nentro 2 spazi dal bersaglio (unità esclusa)\nper 1 turno.
+MSID_H_攻撃の大応援＋: Conferisce Att +6 a un alleato e agli alleati\nentro 2 spazi dal bersaglio (unità esclusa)\nper 1 turno.
+MSID_H_攻撃魔防の孤軍1: Se l'unità non è adiacente a un alleato,\nAtt/Res +2 durante il combattimento.
+MSID_H_攻撃魔防の孤軍2: Se l'unità non è adiacente a un alleato,\nAtt/Res +4 durante il combattimento.
+MSID_H_攻撃魔防の孤軍3: Se l'unità non è adiacente a un alleato,\nAtt/Res +6 durante il combattimento.
+MSID_H_速さ魔防の連携1: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Vel/Res +2 all'unità e\nall'alleato per 1 turno.
+MSID_H_速さ魔防の連携2: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Vel/Res +4 all'unità e\nall'alleato per 1 turno.
+MSID_H_速さ魔防の連携3: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Vel/Res +6 all'unità e\nall'alleato per 1 turno.
+MSID_H_守備の波・偶数1: Dif +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_守備の波・偶数2: Dif +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_守備の波・偶数3: Dif +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_赤の死闘・飛行1: Conferisce PS +3. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 160,\nconsidera i suoi parametri pari a 160\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_赤の死闘・飛行2: Conferisce PS +4. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 165,\nconsidera i suoi parametri pari a 165\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_赤の死闘・飛行3: Conferisce PS +5. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 170,\nconsidera i suoi parametri pari a 170\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_緑の死闘・歩行1: Conferisce PS +3. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 160,\nconsidera i suoi parametri pari a 160\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_緑の死闘・歩行2: Conferisce PS +4. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 165,\nconsidera i suoi parametri pari a 165\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_緑の死闘・歩行3: Conferisce PS +5. Se l'unità ha 5★, è di liv. 40\ne il totale dei suoi parametri è minore di 170,\nconsidera i suoi parametri pari a 170\nnelle modalità come l'arena. (Appariranno\nnemici che garantiscono punteggio più alto.\nIl totale dei parametri esclude i valori derivanti\nda abilità e da Fondi alleati.)
+MSID_H_速さの波・奇数1: Vel +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_速さの波・奇数2: Vel +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_速さの波・奇数3: Vel +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MID_CHAPTER_TITLE_C0213: Libro II, cap. 13
+MID_CHAPTER_C0213: Ritorno a casa
+MID_STAGE_TITLE_S2131: Capitolo 13-1
+MID_STAGE_TITLE_S2132: Capitolo 13-2
+MID_STAGE_TITLE_S2133: Capitolo 13-3
+MID_STAGE_TITLE_S2134: Capitolo 13-4
+MID_STAGE_TITLE_S2135: Capitolo 13-5
+MID_STAGE_S2131: Principessa Laegjarn
+MID_STAGE_S2132: Sacrifici alle fiamme
+MID_STAGE_S2133: Fanciulla del gelo
+MID_STAGE_S2134: Principessa Laevatein
+MID_STAGE_S2135: Surtr, il re del fuoco
+MID_CHAPTER_ST_C0207: Capitolo 13
+MID_STAGE_TITLE_ST_S0213: Capitolo 13
+MID_STAGE_TITLE_PB028: Le abilità: 28
+MID_STAGE_PB028: Un pugnale salvavita
+MID_STAGE_TITLE_PB029: Le abilità: 29
+MID_STAGE_PB029: Il calvario di Laevatein
+MID_STAGE_TITLE_PC014: Per veterani: 14
+MID_STAGE_PC014: Viva le azioni extra
+MID_STAGE_HONOR_T0039: Il re del Nohr
+MID_STAGE_T0039: Garon

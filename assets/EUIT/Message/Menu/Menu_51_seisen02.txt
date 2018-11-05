@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: ◆Punteggio◆\nSe vinci, guadagni tanti più punti\nquanto più forte è il tuo nemico.\nOttieni vittorie consecutive per un\nbonus di continuità che si azzera\ndopo la quinta vittoria consecutiva.
+MID_ARENA_DIALOG_HELP_04_51: ◆Ricompense◆\nAl termine della stagione otterrai\nricompense in base al tuo rango.\n\nSe il tuo punteggio è abbastanza\nalto, potresti salire di rango.
+MID_ARENA_DIALOG_HELP_06_51: ◆Eroi bonus: aumento parametri◆\nQuando usi eroi bonus nell'arena,\nriceveranno PS +10 e\nAtt/Vel/Dif/Res +4.\n\nQuest'aumento ai parametri non\ninfluenza i punteggi dei tuoi nemici\ne non si applica alla tua squadra\ndi difensori.
+MID_ARENA_DIALOG_HELP_3_00_51: ◆Ricompense◆\nQui puoi controllare i premi per\nla stagione in corso. Cambia\nla categoria per vedere quelli\ndisponibili in base alla posizione\ne al punteggio ottenuto in difesa.
+MID_ARENA_DIALOG_HELP_3_01_51: ◆Difesa◆\nElenco delle ricompense in base\nal punteggio ottenuto in difesa.
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $aPremio arena: 1ª volta $a0 vitt. di fila
+MID_ARENA_DESCRIPTION_51: Sfida rivali di tutto il mondo e ottieni\nricompense. Punta a 5 vittorie di fila!
+MID_ARENA_COMBO_CAPTION2: $aVittorie di fila: $a0/$a2. Bonus continuità +$a1.
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: Impossibile iniziare la battaglia.\nAndare a Conferisci Dono?
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: Fire Emblem Heroes raccoglie dati\nrelativi all'utilizzo dell'applicazione\nper migliorare prodotti e servizi e per\npersonalizzare offerte e suggerimenti\nin accordo con la Policy sulla privacy.\n\nLa raccolta dei tuoi dati di gioco\nè stata interrotta in base alle\ninformazioni del tuo account.\n\nPer non ricevere più notifiche al\ndi fuori dell'app, modifica le\nimpostazioni del tuo dispositivo.
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $aSi sblocca al rango GC $a0
+MID_SUMMON_ONLY_ONCE_DECIDE: Evoca 5★ gratis
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: Tocca l'Evocat. per attaccare!
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: Tocca una fila per attaccarla!
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: Fasi extra
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $aBoss $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a1, $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ???
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: Brano:
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: Fase extra 1
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: Fase extra 2
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: Fase extra 3
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $aSi sblocca tra $a0 min.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $aSi sblocca tra $a0 ora/e.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $aSi sblocca tra $a0 giorno/i.
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a$a0\nHai ottenuto il livello S\nin tutte le fasi giocando\nin $a2/$a1!
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a$a0\nHai ottenuto il livello S in\ntutte le fasi extra giocando\nin $a2/$a1!
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: Per accedere alle fasi extra,\nsupera almeno 20 livelli\nnella segreta da 100 livelli.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0 tra $a1 min!
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0 tra $a1 ora/e!
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0 tra $a1 giorno/i!
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: Regalo di ringraziamento

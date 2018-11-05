@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICH_HOME1: 召喚、という君の魔道はとても興味深いよ。\n空と空をつなげる…風の魔道なのかな？\nそれともまったく別の理による魔道…？
+MID_MARICH_HOME2: ぼくは魔道の地カダインで\n修行を積んだんだ。\nすごいところだよ、見渡す限りの砂漠で…
+MID_MARICH_HOME3: いつもありがとう。\n君はその指揮でみんなを励まし、\n守ってくれているんだね。
+MID_MARICH_HOME4: マルス様と、姉君のエリス様とは\n昔からの知り合いなんだ。\nとても温かくて、素晴らしい方々だよ。
+MID_MARICH_HOME5: ぼくはもともと体が弱かったんだ。\nでも、大切な人…マルス様たちを\n守りたくて、魔道を学んだ。
+MID_MARICH_FRIEND: 君が$Nuだね。\nぼくは$Nfの使者、\nマリク。
+MID_MARICH_LEVEL1: エクスカリバーが\nぼくを導いてくれたみたいだ。
+MID_MARICH_LEVEL2: 体が軽いよ。\nいつもより動ける気がする。
+MID_MARICH_LEVEL3: まだまだ修行が足りないな…\nいちから学び直さないと。
+MID_MARICH_SKILL: 目覚めたこの力…\n大切な仲間を守るために…
+MID_MARICH_JOIN: ぼくはアリティアの魔道士マリク。\nカダインで学んだ風の魔道で、\n役に立てるようがんばるよ。
+MID_MARICH_STRONGEST: 君と共に戦うようになって\nそれなりの時間が経ったけど、\nいつも君には驚かされるよ。$k$pああ、ごめん。\n変な意味じゃないんだ。\n君は…とても不思議な人だからね。$k$p今まで出会った誰とも違う、\n僕たちが誰も考えたことがなかった\n新しい何かをもたらしてくれる…$k$p君は…運命を変える風…\nそんな感じかな。$k$pだから、その力を…\nこれからも信じさせてほしい。\n共にがんばろう。
+MID_MARICH_VOICE01: えいっ！
+MID_MARICH_VOICE02: はぁっ！
+MID_MARICH_VOICE03: うああっ！
+MID_MARICH_VOICE04: しまった…
+MID_MARICH_VOICE05: 風よ！
+MID_MARICH_VOICE06: いくよ！
+MID_MARICH_VOICE07: さがるんだ
+MID_MARICH_VOICE08: 負けられない
+MID_MARICH_VOICE09: どうか…無事で…
+MID_MARICH_VOICE10: ふふ
+MID_MARICH_VOICE11: どうしたの？
+MID_MARICH_VOICE12: え、えっと…困ったな…
+MID_MARICH_VOICE13: 優しい風だね…
+MID_MARICH_VOICE14: 魔道書を読んでたんだ
+MID_MARICH_VOICE15: 良かったら、話がしたいな。
+MID_MARICH_VOICE16: 学んだ魔道で、みんなを守る…
+MID_MARICH_VOICE17: きみといると、気持ちが安らぐよ
+MID_MARICH_VOICE18: わかった
+MID_MARICH_VOICE19: そうだね…
+MID_MARICH_VOICE20: 良い風だね

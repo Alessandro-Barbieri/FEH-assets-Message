@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201805KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201805KIZUNA01_A1: Bewältige den Treue-Heldenkampf\ngegen Amelia & Tana mit Anna\nim Team.
+MID_MISSION_S201805KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201805KIZUNA01_A2: Bewältige den Treue-Heldenkampf gg.\nAmelia & Tana auf Extrem o. höher\nmit Alfonse: Prinz von Askr im Team.
+MID_MISSION_S201805KIZUNA01_A3: Tana besiegen
+MID_MISSION_H_S201805KIZUNA01_A3: Besiege Tana, die Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201805KIZUNA01_A4: Amelia besiegen
+MID_MISSION_H_S201805KIZUNA01_A4: Besiege Amelia, die Level 40 o. höher\nist, mit Alfonse: Prinz von Askr.
+MID_MISSION_S201805KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201805KIZUNA01_A5: Bewältige den Treue-Heldenkampf\ngg. Amelia & Tana auf Extrem oder\nhöher nur mit gepanzerten Einheiten.
+MID_MISSION_S201805SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201805SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201805SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201805SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201805SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201805SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201805SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201805SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201805SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201805SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201805SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201805STORY02_TITLE: Hochzeitsblumen
+MID_MISSION_S201805STORY02_A1: Nebenq. 20 Tl. 1 - Extrem
+MID_MISSION_H_S201805STORY02_A1: Bewältige Nebenquest 20 - Tl. 1 auf\nExtrem mit einem Axtkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201805STORY02_A2: Nebenq. 20 Tl. 2 - Extrem
+MID_MISSION_H_S201805STORY02_A2: Bewältige Nebenquest 20 - Tl. 2 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201805STORY02_A3: Nebenq. 20 Tl. 3 - Extrem
+MID_MISSION_H_S201805STORY02_A3: Bewältige Nebenquest 20 - Tl. 3 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MPID_花婿マルス: Marth
+MPID_花嫁ニニアン: Ninian
+MPID_花嫁サーリャ: Tharja
+MPID_花嫁サナキ: Sanaki
+MPID_HONOR_花婿マルス: Alteas Bräutigam
+MPID_HONOR_花嫁ニニアン: Liebliche Braut
+MPID_HONOR_花嫁サーリャ: Besessene Braut
+MPID_HONOR_花嫁サナキ: Weiße Priesterin
+MPID_H_花婿マルス: Prinz von Altea, der für sein Heimatland\nkämpft. Ist für die Teilnahme an einer\nFeier als Bräutigam gekleidet. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_花嫁ニニアン: Eine junge Tänzerin mit einer ausgeglichenen\nund geheimnisvollen Ausstrahlung. Ihre Reisen\nführten sie zu einem Fest für Bräute.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_花嫁サーリャ: Eine Magierin aus Plegia mit einer dunklen\nSeite und einer besitzergreifenden Art. Will\nsich bei der Feier den Blumenstrauß sichern.\nErscheint in Fire Emblem: Awakening.
+MPID_H_花嫁サナキ: Kaiserin von Begnion. Bekannt als die\nHohepriesterin und Stimme der Göttin. Nimmt\naus Neugier an einer Feier für Bräute teil.\nErscheint in Fire Emblem: Path of Radiance.
+MPID_VOICE_花婿マルス: Yuri Lowenthal
+MPID_VOICE_花嫁ニニアン: Brianna Knickerbocker
+MPID_VOICE_花嫁サーリャ: Stephanie Sheh
+MPID_VOICE_花嫁サナキ: Sara Beth
+MPID_ILLUST_花婿マルス: Mayo (まよ)
+MPID_ILLUST_花嫁ニニアン: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_花嫁サーリャ: Sencha (煎茶)
+MPID_ILLUST_花嫁サナキ: Tomioka Jiro (富岡二郎)
+MID_SEQUENTIAL_MAP_TERM_201805: Lokis Flamme
+MSID_愛のケーキサーバ: Liebesbote
+MSID_愛のケーキサーバ＋: Liebesbote+
+MSID_ムスペルの炎花: Feuerbukett
+MSID_清らかなブーケ: Frische Blumen
+MSID_清らかなブーケ＋: Frische Blumen+
+MSID_ニフルの氷花: Eisbukett
+MSID_攻撃の封印1: Angr.-Bremse 1
+MSID_攻撃の封印2: Angr.-Bremse 2
+MSID_攻撃の封印3: Angr.-Bremse 3
+MSID_守備魔防の連携1: Ver./Res.-Bund 1
+MSID_守備魔防の連携2: Ver./Res.-Bund 2
+MSID_守備魔防の連携3: Ver./Res.-Bund 3
+MSID_速さの共謀1: Ges.-Finte 1
+MSID_速さの共謀2: Ges.-Finte 2
+MSID_速さの共謀3: Ges.-Finte 3
+MSID_H_愛のケーキサーバ: Befindet sich die Einheit zu Beginn des\nZuges neben einem Verbündeten,\nerhalten Einheit und benachbarte\nVerbündete Angr. +4 für 1 Zug.
+MSID_H_愛のケーキサーバ＋: Befindet sich die Einheit zu Beginn des\nZuges neben einem Verbündeten,\nerhalten Einheit und benachbarte\nVerbündete Angr. +4 für 1 Zug.
+MSID_H_ムスペルの炎花: Verleiht Ges. +3. Erhöht Angr./Ges. der\nEinheit im Kampf um Anzahl der Verb. im\nUmkreis von 2 Feldern x 2. (Maximaler\nBonus von +6 auf jeden Wert.)
+MSID_H_清らかなブーケ: Befindet sich die Einheit zu Beginn des\nZuges neben einem Verbündeten,\nerhalten Einheit und benachbarte\nVerbündete Ges. +4 für 1 Zug.
+MSID_H_清らかなブーケ＋: Befindet sich die Einheit zu Beginn des\nZuges neben einem Verbündeten,\nerhalten Einheit und benachbarte\nVerbündete Ges. +4 für 1 Zug.
+MSID_H_ニフルの氷花: Verleiht Angr. +3. Erhöht Angr./Ges. der\nEinheit im Kampf um Anzahl der Verb. im\nUmkreis von 2 Feldern x 2. (Maximaler\nBonus von +6 auf jeden Wert.)
+MSID_H_攻撃の封印1: Verursacht zu Beginn des\nZuges Angr. -3 beim Gegner\nmit dem höchsten Angr. bis\nnach seiner nächsten Aktion.
+MSID_H_攻撃の封印2: Verursacht zu Beginn des\nZuges Angr. -5 beim Gegner\nmit dem höchsten Angr. bis\nnach seiner nächsten Aktion.
+MSID_H_攻撃の封印3: Verursacht zu Beginn des\nZuges Angr. -7 beim Gegner\nmit dem höchsten Angr. bis\nnach seiner nächsten Aktion.
+MSID_H_守備魔防の連携1: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ver./Res. +2 für 1 Zug.
+MSID_H_守備魔防の連携2: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ver./Res. +4 für 1 Zug.
+MSID_H_守備魔防の連携3: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ver./Res. +6 für 1 Zug.
+MSID_H_速さの共謀1: Verwenden die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ges. -3 bis\nnach ihren nächsten Aktionen.
+MSID_H_速さの共謀2: Verwenden die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ges. -5 bis\nnach ihren nächsten Aktionen.
+MSID_H_速さの共謀3: Verwenden die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ges. -7 bis\nnach ihren nächsten Aktionen.
+MID_CHAPTER_TITLE_CX019: Nebenquest 20
+MID_CHAPTER_CX019: Hochzeitsblumen
+MID_STAGE_TITLE_X0191: Nebenq. 20: Tl. 1
+MID_STAGE_TITLE_X0192: Nebenq. 20: Tl. 2
+MID_STAGE_TITLE_X0193: Nebenq. 20: Tl. 3
+MID_STAGE_X0191: Auftritt des Bräutigams
+MID_STAGE_X0192: Verschleierte Gefühle
+MID_STAGE_X0193: Liebe und Krieg
+MID_STAGE_TITLE_ST_X0018: Nebenquest 19
+MID_STAGE_TITLE_ST_X0019: Nebenquest 20
+MID_STAGE_TITLE_ST_X1019: Nebenq. 19 & 20
+MID_CHAPTER_ST_CX010: Nebenq. 19 & 20

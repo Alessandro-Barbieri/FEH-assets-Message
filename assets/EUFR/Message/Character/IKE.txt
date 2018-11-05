@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_HOME1: Les héros qui sont ici sont puissants.\nÀ côté d'eux, je me sens...$k$pHum. Ça n'a pas d'importance. Je\ndois simplement devenir plus fort.
+MID_IKE_HOME2: Dans mon monde, je fais partie des\nmercenaires de Greil. En fait, je\nsuis le chef, mais...$k$pPour l'instant, je ne maîtrise pas\nvraiment l'aspect financier de la\nchose.
+MID_IKE_HOME3: Si vous êtes $Gfatigué,fatiguée|, dites-le-moi.\nJe vous aiderai, sauf si vous pensez\nque je ne ferais qu'empirer les choses.\n
+MID_IKE_HOME4: Je m'entraîne dès que je peux, mais\nje préfère le faire seul. Je ne suis pas\ntrès doué pour faire la conversation.
+MID_IKE_HOME5: Quand j'étais jeune, je m'entraînais\nbeaucoup avec mon père.$k$pÀ chaque fois, je perdais,\nje m'énervais et j'y retournais.
+MID_IKE_FRIEND: C'est vous qui dirigez, ici ?\n$Nf m'envoie\npour vous passer le bonjour.
+MID_IKE_LEVEL1: Ah, ça fait du bien !
+MID_IKE_LEVEL2: Je dois devenir plus fort pour\nvenger mon père.
+MID_IKE_LEVEL3: À cette vitesse, je n'arriverai\njamais à sa cheville...
+MID_IKE_SKILL: Je vous remercie. Je vous\nrevaudrai ça.
+MID_IKE_JOIN: Je suis Ike, mercenaire de Greil.\nC'est vous qui m'avez engagé ?\nJe suis prêt à travailler.
+MID_IKE_STRONGEST: Mon père m'a appris à manier\nl'épée quand je n'étais qu'un enfant.$k$pChaque séance était plus ardue\nque la précédente. Je n'arrivais pas\nà atteindre son niveau.$k$pEt puis, il est mort.$k$pMa sœur, les mercenaires de\nGreil... Toutes ses responsabilités\nsont retombées sur moi.$k$pMon père m'a toujours dit que\ncet apprentissage m'aiderait à\naccomplir de grandes choses.$k$pJe n'ai jamais oublié cela.\nEt me voici, combattant aux côtés\nde véritables héros.$k$pJ'affronte désormais des adversaires\nparfois bien plus forts que moi.\nSuis-je vraiment à ma place ?$k$pVous m'avez engagé, en faisant\nle pari que je pourrais accomplir\nde grandes choses ici.$k$pVous avez cru en moi...\nalors je vais tout donner\npour vous !
+MID_IKE_VOICE01: ふんっ！
+MID_IKE_VOICE02: おおっ！
+MID_IKE_VOICE03: うああっ！
+MID_IKE_VOICE04: I can...keep going...
+MID_IKE_VOICE05: Je ne laisserai personne mourir !
+MID_IKE_VOICE06: Fuyez tant que vous le pouvez !
+MID_IKE_VOICE07: Je vais vous achever !
+MID_IKE_VOICE08: Hors de mon chemin !
+MID_IKE_VOICE09: Over...
+MID_IKE_VOICE10: Heh
+MID_IKE_VOICE11: I'm Ike, commander of the Greil Mercenaries.
+MID_IKE_VOICE12: Whuh?! Not smart to surprise a mercenary. We're quick on the attack.
+MID_IKE_VOICE13: Sorry if I'm not that great at...this talking stuff. But know you can always count on me.
+MID_IKE_VOICE14: My father taught me how to handle a sword. It's all I know.
+MID_IKE_VOICE15: Pretty good food today. Who was on cooking duty?
+MID_IKE_VOICE16: As a commander, I'm green as they come. But I do my best. Those I fight with...they're family.
+MID_IKE_VOICE17: You hired me. I said I'd get to work. See? I did. Glad to give you everything I have.
+MID_IKE_VOICE18: Sure.
+MID_IKE_VOICE19: OK.
+MID_IKE_VOICE20: On it.

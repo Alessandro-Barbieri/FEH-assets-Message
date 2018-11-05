@@ -1,0 +1,188 @@
+[Heroes Archive] (Data_462_legend02)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0002: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|Un héros a été invoqué par un rituel\naccompli dans un monde lointain.\nAllons à sa rencontre.$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0002: Obtenez un nouvel allié en terminant\nle xénologue 3, Le héros acclamé !
+MID_MISSION_M201803A_TITLE: Quêtes mars (1)
+MID_MISSION_M201803A_A1: Victoire : unité bleues
+MID_MISSION_H_M201803A_A1: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_M201803A_A2: Victoire : infanterie
+MID_MISSION_H_M201803A_A2: Vaincre des ennemis avec des fantassins.
+MID_MISSION_M201803A_A3: Cible : unités vertes
+MID_MISSION_H_M201803A_A3: Vaincre des unités vertes.
+MID_MISSION_M201803A_A4: Cible : unités volantes
+MID_MISSION_H_M201803A_A4: Vaincre des unités volantes.
+MID_MISSION_M201803A_A5: Duelliste
+MID_MISSION_H_M201803A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201803A_A6: Domination : unité rouge
+MID_MISSION_H_M201803A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités rouges.
+MID_MISSION_M201803A_A7: Domination : unité volante
+MID_MISSION_H_M201803A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des unités volantes.
+MID_MISSION_M201803A_A8: Cible : unités bleues
+MID_MISSION_H_M201803A_A8: Vaincre des unités bleues de niveau 20\nou supérieur.
+MID_MISSION_M201803A_A9: Cible : infanterie
+MID_MISSION_H_M201803A_A9: Vaincre des fantassins de niveau 20\nou supérieur.
+MID_MISSION_M201803A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201803A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201803A_A11: Domination : unité verte
+MID_MISSION_H_M201803A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités vertes.
+MID_MISSION_M201803A_A12: Domination : cavalerie
+MID_MISSION_H_M201803A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des cavaliers.
+MID_MISSION_M201803A_A13: Cible : unités rouges
+MID_MISSION_H_M201803A_A13: Vaincre des unités rouges de niveau 35\nou supérieur.
+MID_MISSION_M201803A_A14: Cible : cavalerie
+MID_MISSION_H_M201803A_A14: Vaincre des cavaliers de niveau 35\nou supérieur.
+MID_MISSION_M201803A_A15: Duelliste émérite
+MID_MISSION_H_M201803A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201803B_TITLE: Quêtes mars (2)
+MID_MISSION_M201803B_A1: Tour : première strate
+MID_MISSION_H_M201803B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A2: Tour : deuxième strate
+MID_MISSION_H_M201803B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A3: Tour : troisième strate
+MID_MISSION_H_M201803B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A4: Tour : quatrième strate
+MID_MISSION_H_M201803B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A5: Tour : cinquième strate
+MID_MISSION_H_M201803B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A6: Tour : sixième strate
+MID_MISSION_H_M201803B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A7: Tour : septième strate
+MID_MISSION_H_M201803B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A8: Tour : huitième strate
+MID_MISSION_H_M201803B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A9: Tour : neuvième strate
+MID_MISSION_H_M201803B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A10: Tour : dixième strate
+MID_MISSION_H_M201803B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803B_A11: Tour : dixième strate
+MID_MISSION_H_M201803B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201803B_A12: Tour : dixième strate
+MID_MISSION_H_M201803B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités cuirassées et sans essuyer\nla moindre perte.
+MID_MISSION_M201803B_A13: Tour : dixième strate
+MID_MISSION_H_M201803B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201803B_A14: Tour : dixième strate
+MID_MISSION_H_M201803B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201803C_TITLE: Quêtes mars (3)
+MID_MISSION_M201803C_A1: Chapitre 7 - Acte 1
+MID_MISSION_H_M201803C_A1: Terminer l'acte 1 du chapitre 7 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201803C_A2: Chapitre 7 - Acte 2
+MID_MISSION_H_M201803C_A2: Terminer l'acte 2 du chapitre 7 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803C_A3: Chapitre 7 - Acte 3
+MID_MISSION_H_M201803C_A3: Terminer l'acte 3 du chapitre 7 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803C_A4: Chapitre 7 - Acte 4
+MID_MISSION_H_M201803C_A4: Terminer l'acte 4 du chapitre 7 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803C_A5: Chapitre 7 - Acte 5
+MID_MISSION_H_M201803C_A5: Terminer l'acte 5 du chapitre 7 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201803C_A6: Chap. 10 - Acte 1 (Difficile)
+MID_MISSION_H_M201803C_A6: Terminer l'acte 1 du chapitre 10 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201803C_A7: Chap. 10 - Acte 2 (Difficile)
+MID_MISSION_H_M201803C_A7: Terminer l'acte 2 du chapitre 10 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A8: Chap. 10 - Acte 3 (Difficile)
+MID_MISSION_H_M201803C_A8: Terminer l'acte 3 du chapitre 10 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A9: Chap. 10 - Acte 4 (Difficile)
+MID_MISSION_H_M201803C_A9: Terminer l'acte 4 du chapitre 10 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A10: Chap. 10 - Acte 5 (Difficile)
+MID_MISSION_H_M201803C_A10: Terminer l'acte 5 du chapitre 10 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A11: Chap. 13 - Acte 1 (Expert)
+MID_MISSION_H_M201803C_A11: Terminer l'acte 1 du chapitre 13 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201803C_A12: Chap. 13 - Acte 2 (Expert)
+MID_MISSION_H_M201803C_A12: Terminer l'acte 2 du chapitre 13 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A13: Chap. 13 - Acte 3 (Expert)
+MID_MISSION_H_M201803C_A13: Terminer l'acte 3 du chapitre 13 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A14: Chap. 13 - Acte 4 (Expert)
+MID_MISSION_H_M201803C_A14: Terminer l'acte 4 du chapitre 13 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201803C_A15: Chap. 13 - Acte 5 (Expert)
+MID_MISSION_H_M201803C_A15: Terminer l'acte 5 du chapitre 13 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201803CHARA01_TITLE: Trois héros
+MID_MISSION_S201803CHARA01_A1: Victoire
+MID_MISSION_H_S201803CHARA01_A1: Vaincre des ennemis.
+MID_MISSION_S201803CHARA01_A2: Victoire : Zelcher
+MID_MISSION_H_S201803CHARA01_A2: Vaincre des ennemis avec Zelcher.
+MID_MISSION_S201803CHARA01_A3: Victoire : Gordin
+MID_MISSION_H_S201803CHARA01_A3: Vaincre des ennemis avec Gordin.
+MID_MISSION_S201803CHARA01_B1: Cible : niveau ≥ 20
+MID_MISSION_H_S201803CHARA01_B1: Vaincre des ennemis de niveau 20 ou supérieur\navec Zelcher.
+MID_MISSION_S201803CHARA01_B2: Cible : niveau ≥ 20
+MID_MISSION_H_S201803CHARA01_B2: Vaincre des ennemis de niveau 20 ou supérieur\navec Gordin.
+MID_MISSION_S201803CHARA01_B3: Cible : niveau ≥ 20
+MID_MISSION_H_S201803CHARA01_B3: Vaincre des ennemis de niveau 20 ou supérieur\navec Serra.
+MID_MISSION_S201803CHARA01_C1: Cible : niveau ≥ 35
+MID_MISSION_H_S201803CHARA01_C1: Vaincre des ennemis de niveau 35 ou supérieur\navec Zelcher.
+MID_MISSION_S201803CHARA01_C2: Cible : niveau ≥ 35
+MID_MISSION_H_S201803CHARA01_C2: Vaincre des ennemis de niveau 35 ou supérieur\navec Gordin.
+MID_MISSION_S201803CHARA01_C3: Cible : niveau ≥ 35
+MID_MISSION_H_S201803CHARA01_C3: Vaincre des ennemis de niveau 35 ou supérieur\navec Serra.
+MID_MISSION_S201803HERO00_TITLE: Grandes batailles
+MID_MISSION_S201803HERO00_A1: Arvis
+MID_MISSION_H_S201803HERO00_A1: Remporter la grande bataille contre\nArvis, l'empereur du feu, avec\nAlfonse dans votre équipe.
+MID_MISSION_S201803HERO00_A2: Arvis
+MID_MISSION_H_S201803HERO00_A2: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur avec\nArvis, l'empereur du feu, dans votre équipe.
+MID_MISSION_S201803HERO00_A3: Arvis
+MID_MISSION_H_S201803HERO00_A3: Avec Alfonse, vaincre une version\nde niveau 40 ou supérieur d'Arvis,\nl'empereur du feu.
+MID_MISSION_S201803HERO00_A4: Arvis
+MID_MISSION_H_S201803HERO00_A4: Avec Arvis, l'empereur du feu, vaincre une\nversion de niveau 40 ou supérieur d'Arvis,\nl'empereur du feu.
+MID_MISSION_S201803HERO00_A5: Arvis
+MID_MISSION_H_S201803HERO00_A5: Remporter la grande bataille contre Arvis,\nl'empereur du feu, en Expert ou supérieur avec\nune équipe ne comportant que des fantassins.
+MID_MISSION_S201803VOTE01_TITLE: Tournoi
+MID_MISSION_S201803VOTE01_A1: Tournoi
+MID_MISSION_H_S201803VOTE01_A1: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201803VOTE01_A2: Tournoi
+MID_MISSION_H_S201803VOTE01_A2: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201803VOTE01_A3: Tournoi
+MID_MISSION_H_S201803VOTE01_A3: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201803VOTE01_A4: Tournoi
+MID_MISSION_H_S201803VOTE01_A4: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201803VOTE01_A5: Tournoi
+MID_MISSION_H_S201803VOTE01_A5: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201803VOTE01_A6: Tour : deuxième strate
+MID_MISSION_H_S201803VOTE01_A6: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201803VOTE01_A7: Tour : cinquième strate
+MID_MISSION_H_S201803VOTE01_A7: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201803VOTE01_A8: Tour : huitième strate
+MID_MISSION_H_S201803VOTE01_A8: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201803VOTE01_A9: Duelliste
+MID_MISSION_H_S201803VOTE01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201803VOTE01_A10: Duelliste
+MID_MISSION_H_S201803VOTE01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201803VOTE01_A11: Duelliste intermédiaire
+MID_MISSION_H_S201803VOTE01_A11: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201803VOTE01_A12: Duelliste intermédiaire
+MID_MISSION_H_S201803VOTE01_A12: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201803VOTE01_A13: Tournoi
+MID_MISSION_H_S201803VOTE01_A13: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201803VOTE01_A14: Tournoi
+MID_MISSION_H_S201803VOTE01_A14: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201803VOTE01_A15: Tournoi
+MID_MISSION_H_S201803VOTE01_A15: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201803VOTE01_A16: Tournoi
+MID_MISSION_H_S201803VOTE01_A16: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MID_MISSION_S201803VOTE01_A17: Tournoi
+MID_MISSION_H_S201803VOTE01_A17: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201803VOTE01_A18: Tournoi
+MID_MISSION_H_S201803VOTE01_A18: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201803VOTE01_A19: Tournoi
+MID_MISSION_H_S201803VOTE01_A19: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201803VOTE01_A20: Tournoi
+MID_MISSION_H_S201803VOTE01_A20: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MPID_伝承エフラム: Ephraim
+MPID_HONOR_伝承エフラム: Roi légendaire
+MPID_H_伝承エフラム: Prince de Renais et frère jumeau d'Eirika.\nOn raconte qu'il a anéanti le Roi-démon\net sauvé le monde. Apparaît dans Fire\nEmblem: The Sacred Stones
+MPID_VOICE_伝承エフラム: Greg Chun
+MPID_ILLUST_伝承エフラム: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エフラム: Effet légendaire : feu\nBoost pour les alliés : PV +3, Déf +4\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction du feu et que\ncette unité combat avec eux pendant la\nsaison du feu.
+MSID_炎槍ジークムント: Siegmund de feu
+MSID_鬼神金剛の構え1: Posture robuste 1
+MSID_鬼神金剛の構え2: Posture robuste 2
+MSID_太陽の腕輪: Bracelet solaire
+MSID_H_炎槍ジークムント: Confère Atq +3. S'il y a plus d'ennemis (cible\nexclue) que d'alliés (unité exclue) à 2 cases\nou moins, l'unité effectue une double frappe.
+MSID_H_鬼神金剛の構え1: Si l'ennemi initie le combat, confère\nAtq/Déf +2 pendant le combat.
+MSID_H_鬼神金剛の構え2: Si l'ennemi initie le combat, confère\nAtq/Déf +4 pendant le combat.
+MSID_H_太陽の腕輪: Si l'aptitude spéciale se déclenche,\nrend des PV à hauteur de 30 % des dégâts\ninfligés. (Cumulable avec les effets\nd'aptitudes comme Solaire.)
+MID_CHAPTER_TITLE_CXX03: Xénologue 3
+MID_CHAPTER_CXX03: Le héros acclamé
+MID_STAGE_TITLE_XX003: Xénologue 3
+MID_STAGE_XX003: Le héros acclamé

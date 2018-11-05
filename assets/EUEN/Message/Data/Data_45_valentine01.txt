@@ -1,0 +1,471 @@
+[Heroes Archive] (Data_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0001: $WmMPID_スリーズ,ch00_10_Cerise_F_Normal,Face|I am Gunnthrá, and I come from the\nKingdom of Ice, Nifl. Please, won't\nyou save my little sister, Fjorm?$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0001: Gain Fjorm as an ally by clearing\nBook II, Chapter 1, Part 5!
+MID_MISSION_S201802BRAVE01_TITLE: Battling with Fjorm
+MID_MISSION_S201802BRAVE01_A1: KO Green Foes
+MID_MISSION_H_S201802BRAVE01_A1: Use Alfonse to defeat a\ngreen-type foe.
+MID_MISSION_S201802BRAVE01_A2: KO Lvl 20+ Foes
+MID_MISSION_H_S201802BRAVE01_A2: Use Alfonse to defeat a level 20\nor higher green-type foe.
+MID_MISSION_S201802BRAVE01_A3: KO Lvl 40+ Foes
+MID_MISSION_H_S201802BRAVE01_A3: Use Alfonse to defeat a level 40\nor higher green-type foe.
+MID_MISSION_S201802BRAVE01_A4: KO Infantry
+MID_MISSION_H_S201802BRAVE01_A4: Use Alfonse to defeat an\ninfantry-type foe.
+MID_MISSION_S201802BRAVE01_A5: KO Red Foes
+MID_MISSION_H_S201802BRAVE01_A5: Use Sharena to defeat a\nred-type foe.
+MID_MISSION_S201802BRAVE01_A6: KO Lvl 20+ Foes
+MID_MISSION_H_S201802BRAVE01_A6: Use Sharena to defeat a level 20\nor higher red-type foe.
+MID_MISSION_S201802BRAVE01_A7: KO Lvl 40+ Foes
+MID_MISSION_H_S201802BRAVE01_A7: Use Sharena to defeat a level 40\nor higher red-type foe.
+MID_MISSION_S201802BRAVE01_A8: KO Armored
+MID_MISSION_H_S201802BRAVE01_A8: Use Sharena to defeat an\narmored-type foe.
+MID_MISSION_S201802BRAVE01_A9: KO Blue Foe
+MID_MISSION_H_S201802BRAVE01_A9: Use Anna to defeat a\nblue-type foe.
+MID_MISSION_S201802BRAVE01_A10: KO Lvl 20+ Foes
+MID_MISSION_H_S201802BRAVE01_A10: Use Anna to defeat a level 20\nor higher blue-type foe.
+MID_MISSION_S201802BRAVE01_A11: KO Lvl 40+ Foes
+MID_MISSION_H_S201802BRAVE01_A11: Use Anna to defeat a level 40\nor higher blue-type foe.
+MID_MISSION_S201802BRAVE01_A12: KO Fliers
+MID_MISSION_H_S201802BRAVE01_A12: Use Anna to defeat a\nflier-type foe.
+MID_MISSION_S201802BRAVE01_A13: KO Red Foes
+MID_MISSION_H_S201802BRAVE01_A13: Use Fjorm to defeat a\nred-type foe.
+MID_MISSION_S201802BRAVE01_A14: KO Lvl 20+ Foes
+MID_MISSION_H_S201802BRAVE01_A14: Use Fjorm to defeat a level 20\nor higher red-type foe.
+MID_MISSION_S201802BRAVE01_A15: KO Lvl 40+ Foes
+MID_MISSION_H_S201802BRAVE01_A15: Use Fjorm to defeat a level 40\nor higher red-type foe.
+MID_MISSION_S201802BRAVE01_A16: KO Cavalry
+MID_MISSION_H_S201802BRAVE01_A16: Use Fjorm to defeat a\ncavalry-type foe.
+MID_MISSION_S201802RENSEI01_TITLE: Weapon Refinery
+MID_MISSION_S201802RENSEI01_A1: KO Foes w/Red
+MID_MISSION_H_S201802RENSEI01_A1: Use red-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A2: KO Foes w/Blue
+MID_MISSION_H_S201802RENSEI01_A2: Use blue-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A3: KO Foes w/Green
+MID_MISSION_H_S201802RENSEI01_A3: Use green-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A4: KO Foes w/Red
+MID_MISSION_H_S201802RENSEI01_A4: Use red-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A5: KO Foes w/Blue
+MID_MISSION_H_S201802RENSEI01_A5: Use blue-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A6: KO Foes w/Green
+MID_MISSION_H_S201802RENSEI01_A6: Use green-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A7: KO Foes w/Red
+MID_MISSION_H_S201802RENSEI01_A7: Use red-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A8: KO Foes w/Blue
+MID_MISSION_H_S201802RENSEI01_A8: Use blue-type allies to defeat foes.
+MID_MISSION_S201802RENSEI01_A9: KO Foes w/Green
+MID_MISSION_H_S201802RENSEI01_A9: Use green-type allies to defeat foes.
+MID_MISSION_S201802SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201802SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201802SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201802SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201802SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201802SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201802SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201802SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201802SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201802SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201802SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802STORY01_TITLE: Love Abounds
+MID_MISSION_S201802STORY01_A1: Clear P18-1 on Lunatic
+MID_MISSION_H_S201802STORY01_A1: Clear Paralogue 18: Part 1 on Lunatic\ndifficulty with an axe ally on your\nteam. All four allies must survive.
+MID_MISSION_S201802STORY01_A2: Clear P18-2 on Lunatic
+MID_MISSION_H_S201802STORY01_A2: Clear Paralogue 18: Part 2 on Lunatic\ndifficulty with a sword ally on your\nteam. All four allies must survive.
+MID_MISSION_S201802STORY01_A3: Clear P18-3 on Lunatic
+MID_MISSION_H_S201802STORY01_A3: Clear Paralogue 18: Part 3 on Lunatic\ndifficulty with a lance ally on your\nteam. All four allies must survive.
+MID_MISSION_S201802YEAR02_TITLE: GHB Elite
+MID_MISSION_S201802YEAR02_A1: Defeat Lloyd
+MID_MISSION_H_S201802YEAR02_A1: Win the Grand Hero Battle\nagainst Lloyd: White Wolf.
+MID_MISSION_S201802YEAR02_A2: Defeat Lloyd
+MID_MISSION_H_S201802YEAR02_A2: Win the Grand Hero Battle against\nLloyd: White Wolf on Infernal using\nan all-infantry team.
+MID_MISSION_S201802YEAR02_A3: Defeat Lloyd
+MID_MISSION_H_S201802YEAR02_A3: Win the Grand Hero Battle against\nLloyd: White Wolf on Infernal using\nan all-armored team.
+MID_MISSION_S201802YEAR02_A4: Defeat Lloyd
+MID_MISSION_H_S201802YEAR02_A4: Win the Grand Hero Battle against\nLloyd: White Wolf on Infernal using\nan all-cavalry team.
+MID_MISSION_S201802YEAR02_A5: Defeat Lloyd
+MID_MISSION_H_S201802YEAR02_A5: Win the Grand Hero Battle against\nLloyd: White Wolf on Infernal using\nan all-flier team.
+MID_MISSION_S201802YEAR02_A6: Defeat Michalis
+MID_MISSION_H_S201802YEAR02_A6: Win the Grand Hero Battle\nagainst Michalis: Ambitious King.
+MID_MISSION_S201802YEAR02_A7: Defeat Michalis
+MID_MISSION_H_S201802YEAR02_A7: Win the Grand Hero Battle against\nMichalis: Ambitious King on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A8: Defeat Michalis
+MID_MISSION_H_S201802YEAR02_A8: Win the Grand Hero Battle against\nMichalis: Ambitious King on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A9: Defeat Michalis
+MID_MISSION_H_S201802YEAR02_A9: Win the Grand Hero Battle against\nMichalis: Ambitious King on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A10: Defeat Michalis
+MID_MISSION_H_S201802YEAR02_A10: Win the Grand Hero Battle against\nMichalis: Ambitious King on Infernal\nusing an all-flier team.
+MID_MISSION_S201802YEAR02_A11: Defeat Xander
+MID_MISSION_H_S201802YEAR02_A11: Win the Grand Hero Battle\nagainst Xander: Paragon Knight.
+MID_MISSION_S201802YEAR02_A12: Defeat Xander
+MID_MISSION_H_S201802YEAR02_A12: Win the Grand Hero Battle against\nXander: Paragon Knight on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A13: Defeat Xander
+MID_MISSION_H_S201802YEAR02_A13: Win the Grand Hero Battle against\nXander: Paragon Knight on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A14: Defeat Xander
+MID_MISSION_H_S201802YEAR02_A14: Win the Grand Hero Battle against\nXander: Paragon Knight on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A15: Defeat Xander
+MID_MISSION_H_S201802YEAR02_A15: Win the Grand Hero Battle against\nXander: Paragon Knight on Infernal\nusing an all-flier team.
+MID_MISSION_S201802YEAR02_A16: Defeat Narcian
+MID_MISSION_H_S201802YEAR02_A16: Win the Grand Hero Battle\nagainst Narcian: Wyvern General.
+MID_MISSION_S201802YEAR02_A17: Defeat Narcian
+MID_MISSION_H_S201802YEAR02_A17: Win the Grand Hero Battle against\nNarcian: Wyvern General on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A18: Defeat Narcian
+MID_MISSION_H_S201802YEAR02_A18: Win the Grand Hero Battle against\nNarcian: Wyvern General on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A19: Defeat Narcian
+MID_MISSION_H_S201802YEAR02_A19: Win the Grand Hero Battle against\nNarcian: Wyvern General on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A20: Defeat Narcian
+MID_MISSION_H_S201802YEAR02_A20: Win the Grand Hero Battle against\nNarcian: Wyvern General on Infernal\nusing an all-flier team.
+MID_MISSION_S201802YEAR02_A21: Defeat Navarre
+MID_MISSION_H_S201802YEAR02_A21: Win the Grand Hero Battle\nagainst Navarre: Scarlet Sword.
+MID_MISSION_S201802YEAR02_A22: Defeat Navarre
+MID_MISSION_H_S201802YEAR02_A22: Win the Grand Hero Battle against\nNavarre: Scarlet Sword on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A23: Defeat Navarre
+MID_MISSION_H_S201802YEAR02_A23: Win the Grand Hero Battle against\nNavarre: Scarlet Sword on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A24: Defeat Navarre
+MID_MISSION_H_S201802YEAR02_A24: Win the Grand Hero Battle against\nNavarre: Scarlet Sword on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A25: Defeat Navarre
+MID_MISSION_H_S201802YEAR02_A25: Win the Grand Hero Battle against\nNavarre: Scarlet Sword on Infernal\nusing an all-flier team.
+MID_MISSION_S201802YEAR02_A26: Defeat Robin
+MID_MISSION_H_S201802YEAR02_A26: Win the Grand Hero Battle\nagainst Robin: Mystery Tactician.
+MID_MISSION_S201802YEAR02_A27: Defeat Robin
+MID_MISSION_H_S201802YEAR02_A27: Win the Grand Hero Battle against\nRobin: Mystery Tactician on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A28: Defeat Robin
+MID_MISSION_H_S201802YEAR02_A28: Win the Grand Hero Battle against\nRobin: Mystery Tactician on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A29: Defeat Robin
+MID_MISSION_H_S201802YEAR02_A29: Win the Grand Hero Battle against\nRobin: Mystery Tactician on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A30: Defeat Robin
+MID_MISSION_H_S201802YEAR02_A30: Win the Grand Hero Battle against\nRobin: Mystery Tactician on Infernal\nusing an all-flier team.
+MID_MISSION_S201802YEAR02_A31: Defeat Ursula
+MID_MISSION_H_S201802YEAR02_A31: Win the Grand Hero Battle\nagainst Ursula: Blue Crow.
+MID_MISSION_S201802YEAR02_A32: Defeat Ursula
+MID_MISSION_H_S201802YEAR02_A32: Win the Grand Hero Battle against\nUrsula: Blue Crow on Infernal\nusing an all-infantry team.
+MID_MISSION_S201802YEAR02_A33: Defeat Ursula
+MID_MISSION_H_S201802YEAR02_A33: Win the Grand Hero Battle against\nUrsula: Blue Crow on Infernal\nusing an all-armored team.
+MID_MISSION_S201802YEAR02_A34: Defeat Ursula
+MID_MISSION_H_S201802YEAR02_A34: Win the Grand Hero Battle against\nUrsula: Blue Crow on Infernal\nusing an all-cavalry team.
+MID_MISSION_S201802YEAR02_A35: Defeat Ursula
+MID_MISSION_H_S201802YEAR02_A35: Win the Grand Hero Battle against\nUrsula: Blue Crow on Infernal\nusing an all-flier team.
+MID_MISSION_S201802TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201802TAPBTL01_D01_A1: Defeat Boss
+MID_MISSION_H_S201802TAPBTL01_D01_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D01_A2: Clear Stage
+MID_MISSION_H_S201802TAPBTL01_D01_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201802TAPBTL01_D02_A1: Defeat Boss
+MID_MISSION_H_S201802TAPBTL01_D02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D02_A2: Clear Stage
+MID_MISSION_H_S201802TAPBTL01_D02_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201802TAPBTL01_D03_A1: Defeat Boss
+MID_MISSION_H_S201802TAPBTL01_D03_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D03_A2: Clear Stage
+MID_MISSION_H_S201802TAPBTL01_D03_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201802TAPBTL01_D04_A1: Defeat Boss
+MID_MISSION_H_S201802TAPBTL01_D04_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL01_D04_A2: Clear Stage
+MID_MISSION_H_S201802TAPBTL01_D04_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201802TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201802TAPBTL02_A1: Defeat Boss
+MID_MISSION_H_S201802TAPBTL02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL02_A2: Defeat Boss
+MID_MISSION_H_S201802TAPBTL02_A2: Defeat a boss in Tap Battle.
+MID_MISSION_S201802TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201802TAPBTL02_A3: Clear a stage in Tap Battle.
+MPID_愛の祭エリウッド: Eliwood
+MPID_愛の祭ヘクトル: Hector
+MPID_愛の祭リリーナ: Lilina
+MPID_愛の祭リン: Lyn
+MPID_愛の祭ロイ: Roy
+MPID_HONOR_愛の祭エリウッド: Devoted Love
+MPID_HONOR_愛の祭ヘクトル: Just Here to Fight
+MPID_HONOR_愛の祭リリーナ: Blush of Youth
+MPID_HONOR_愛の祭リン: Wind's Embrace
+MPID_HONOR_愛の祭ロイ: Youthful Gifts
+MPID_H_愛の祭エリウッド: A sincere noble of Pherae. Wishes to enjoy\nthe festival together with his close friends\nHector and Lyn. Appears in Fire Emblem:\nThe Blazing Blade.
+MPID_H_愛の祭ヘクトル: Eliwood's friend and brother of the Marquess\nof Ostia. Wants to win the big tournament.\nAppears in Fire Emblem: The Blazing Blade.
+MPID_H_愛の祭リリーナ: A noble of Ostia and Roy's friend since\nchildhood. Focused on choosing gifts for\nthose dearest to her. Appears in Fire\nEmblem: The Binding Blade.
+MPID_H_愛の祭リン: A noble of Caelin whose full name is Lyndis.\nShe hopes that her gifts express all of the\nfeelings she normally doesn't put into words.\nAppears in Fire Emblem: The Blazing Blade.
+MPID_H_愛の祭ロイ: The son of Eliwood, Marquess of Pherae.\nHe decided to visit the festival after receiving\nan invitation from Lilina. Appears in Fire\nEmblem: The Binding Blade.
+MPID_VOICE_愛の祭エリウッド: Yuri Lowenthal
+MPID_VOICE_愛の祭ヘクトル: Patrick Seitz
+MPID_VOICE_愛の祭リリーナ: Julie Kliewer
+MPID_VOICE_愛の祭リン: Wendee Lee
+MPID_VOICE_愛の祭ロイ: Ray Chase
+MPID_ILLUST_愛の祭エリウッド: Ito Misei (伊藤未生)
+MPID_ILLUST_愛の祭ヘクトル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_愛の祭リリーナ: BUNBUN
+MPID_ILLUST_愛の祭リン: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_愛の祭ロイ: BUNBUN
+MID_SEQUENTIAL_MAP_TERM_201802: Breath of Destiny
+MSID_ウイングソード: Wing Sword
+MSID_ヒノカの紅薙刀: Hinoka's Spear
+MSID_バシリコス: Basilikos
+MSID_フェリシアの氷皿: Felicia's Plate
+MSID_第7迷宮の覇者1: Squad Ace G 1
+MSID_第7迷宮の覇者2: Squad Ace G 2
+MSID_第7迷宮の覇者3: Squad Ace G 3
+MSID_カサブランカ: Casa Blanca
+MSID_カサブランカ＋: Casa Blanca+
+MSID_狂斧アルマーズ: Berserk Armads
+MSID_グラーティア: Gratia
+MSID_グラーティア＋: Gratia+
+MSID_青のプレゼント箱: Blue Gift
+MSID_青のプレゼント箱＋: Blue Gift+
+MSID_緑のプレゼント箱: Green Gift
+MSID_緑のプレゼント箱＋: Green Gift+
+MSID_HP攻撃1: HP/Atk 1
+MSID_HP攻撃2: HP/Atk 2
+MSID_攻撃速さの絆1: Atk/Spd Bond 1
+MSID_攻撃速さの絆2: Atk/Spd Bond 2
+MSID_攻撃速さの絆3: Atk/Spd Bond 3
+MSID_弓の技量1: Bow Valor 1
+MSID_弓の技量2: Bow Valor 2
+MSID_弓の技量3: Bow Valor 3
+MSID_重装のブーツ: Armored Boots
+MSID_H_ウイングソード: Effective against armored and cavalry foes.
+MSID_H_ヒノカの紅薙刀: If unit is within 2 spaces of a flying or infantry\nally, grants Atk/Spd+4 during combat.
+MSID_H_バシリコス: Accelerates Special trigger\n(cooldown count-1).
+MSID_H_フェリシアの氷皿: After combat, if unit attacked, inflicts\nDef/Res-7 on target and foes within\n2 spaces through their next actions.\nCalculates damage using the lower of\nfoe's Def or Res.
+MSID_H_ファルシオン改: Effective against dragon foes. At the start of\nevery second turn, restores 10 HP.
+MSID_H_ファルシオン覚醒改: Effective against dragon foes. At the start of\nevery second turn, restores 10 HP.
+MSID_H_ファルシオン外伝改: Effective against dragon foes. At the start of\nevery second turn, restores 10 HP.
+MSID_H_エッケザックス改: At start of turn, inflicts Def-6 on foes\n(excluding dragons) within 2 spaces through\ntheir next actions.
+MSID_H_先導R歩行飛行: Infantry and flying allies within 2 spaces can\nmove to a space adjacent to unit.
+MSID_H_TP変動R魔: If foe uses magic, grants Special cooldown\ncharge +1. (Only highest value applied. Does\nnot stack.)
+MSID_H_大紋章R全2: Grants Atk/Spd/Def/Res+2 to allies within 2\nspaces during combat.
+MSID_H_絆R全4: If unit is adjacent to an ally, grants\nAtk/Spd/Def/Res+4 during combat.
+MSID_H_連撃消耗: If unit's HP = 100% at start of combat and\nunit initiates combat, unit attacks twice, but\ndeals 5 damage to unit after combat.
+MSID_H_第7迷宮の覇者1: Grants Def+1.
+MSID_H_第7迷宮の覇者2: Grants Def+2.
+MSID_H_第7迷宮の覇者3: Grants Def+3.
+MSID_H_カサブランカ: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_カサブランカ＋: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_狂斧アルマーズ: Accelerates Special trigger (cooldown\ncount-1). At start of turn, if unit's HP ≤ 75%\nand unit's attack triggers Special, grants\nSpecial cooldown count-1. Deals +10\ndamage when Special triggers.
+MSID_H_グラーティア: Effective against flying foes. If foe uses\nbow, dagger, magic, or staff, neutralizes\nfoe's bonuses (from skills like Fortify,\nRally, etc.) during combat.
+MSID_H_グラーティア＋: Effective against flying foes. If foe uses\nbow, dagger, magic, or staff, neutralizes\nfoe's bonuses (from skills like Fortify,\nRally, etc.) during combat.
+MSID_H_青のプレゼント箱: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_青のプレゼント箱＋: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_緑のプレゼント箱: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_緑のプレゼント箱＋: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_HP攻撃1: Grants HP+3, Atk+1.
+MSID_H_HP攻撃2: Grants HP+4, Atk+2.
+MSID_H_攻撃速さの絆1: If unit is adjacent to an ally, grants\nAtk/Spd+3 during combat.
+MSID_H_攻撃速さの絆2: If unit is adjacent to an ally, grants\nAtk/Spd+4 during combat.
+MSID_H_攻撃速さの絆3: If unit is adjacent to an ally, grants\nAtk/Spd+5 during combat.
+MSID_H_弓の技量1: While unit lives and uses a bow, unit gets\n1.5x SP. (Only highest value applied. Does\nnot stack.)
+MSID_H_弓の技量2: While unit lives, all bow allies on team get\n1.5x SP. (Only highest value applied. Does\nnot stack.)
+MSID_H_弓の技量3: While unit lives, all bow allies on team get\n2x SP. (Only highest value applied. Does not\nstack.)
+MSID_H_重装のブーツ: At start of turn, if unit's HP = 100%, unit can\nmove 1 extra space. (That turn only. Does\nnot stack.)
+MID_CHAPTER_TITLE_CX017: Paralogue 18
+MID_CHAPTER_CX017: Love Abounds
+MID_STAGE_TITLE_X0171: Paralogue 18-1
+MID_STAGE_TITLE_X0172: Paralogue 18-2
+MID_STAGE_TITLE_X0173: Paralogue 18-3
+MID_STAGE_X0171: Devoted Youth
+MID_STAGE_X0172: Devoted Dads
+MID_STAGE_X0173: Truth and Ardor
+MID_STAGE_HONOR_V0168: Daily
+MID_STAGE_V0168: Part 8
+MID_STAGE_HONOR_V0169: Daily
+MID_STAGE_V0169: Part 9
+MID_STAGE_HONOR_V0170: Daily
+MID_STAGE_V0170: Part 10
+MID_STAGE_HONOR_V0171: Daily
+MID_STAGE_V0171: Part 11
+MID_STAGE_HONOR_V0172: Daily
+MID_STAGE_V0172: Part 12
+MID_STAGE_HONOR_V0173: Daily
+MID_STAGE_V0173: Part 13
+MID_STAGE_HONOR_V0174: Daily
+MID_STAGE_V0174: Part 14
+MID_STAGE_HONOR_V0175: Daily
+MID_STAGE_V0175: Part 15
+MID_STAGE_HONOR_V0176: Daily
+MID_STAGE_V0176: Part 16
+MID_STAGE_HONOR_V0177: Daily
+MID_STAGE_V0177: Part 17
+MID_STAGE_HONOR_V0178: Daily
+MID_STAGE_V0178: Part 18
+MID_STAGE_HONOR_V0179: Daily
+MID_STAGE_V0179: Part 19
+MID_STAGE_HONOR_V0180: Daily
+MID_STAGE_V0180: Part 20
+MID_STAGE_HONOR_V0201: Special Training
+MID_STAGE_V0201: Melee
+MID_STAGE_HONOR_V0202: Special Training
+MID_STAGE_V0202: Ranged
+MID_STAGE_HONOR_V0203: Special Training
+MID_STAGE_V0203: Bows
+MID_STAGE_HONOR_V0204: Special Training
+MID_STAGE_V0204: Magic
+MID_STAGE_HONOR_V0205: Special Training
+MID_STAGE_V0205: The Workout
+MID_STAGE_HONOR_V0211: Shadow Dragon
+MID_STAGE_V0211: Navarre
+MID_STAGE_HONOR_V0212: Shadow Dragon
+MID_STAGE_V0212: Linde
+MID_STAGE_HONOR_V0213: Shadow Dragon
+MID_STAGE_V0213: Minerva
+MID_STAGE_HONOR_T0025: Bound Hero Battle
+MID_STAGE_T0025: C & A
+MID_STAGE_TITLE_SB_0007: 7th Assault
+MID_CHAPTER_ST_CX009: P. 17 & 18
+MID_STAGE_TITLE_ST_X0016: Paralogue 17
+MID_STAGE_TITLE_ST_X0017: Paralogue 18
+MID_STAGE_TITLE_ST_X1017: P. 17 & 18
+MID_MARKS_TUTORIAL_DIALOG_00: Recruit Xander in Special Maps!
+MID_SPECIALMAP_TUTORIAL_DIALOG_00: Win to get Grand Heroes as allies.
+MID_SPECIALMAP_TUTORIAL_DIALOG_01: Hero Battle Rotation:\nThe following Heroes take part in\nthe daily Hero Battle rotation.\nFelicia, Wrys, Olivia, Stahl,\nSophia, Virion, Hana, Subaki,\nDonnel, Lissa, Gunter, Cecilia.
+MID_SPECIALMAP_TUTORIAL_DIALOG_02: Grand Hero Battle Rotation:\nThe following Heroes rotate daily.\nNarcian: Wyvern General, Navarre:\nScarlet Sword, Robin: Mystery\nTactician, Ursula: Blue Crow,\nLloyd: White Wolf, Michalis:\nAmbitious King, Xander: Paragon\nKnight.
+MID_SPECIALMAP_TUTORIAL_DIALOG_03: More Battles:\n\nIn addition to Hero Battles and\nGrand Hero Battles, there are\nmany other maps that are\navailable for only a limited time\nthat appear in Special Maps.
+MID_TAP_BATTLE_DATA_TITLE_0001: Labyrinth of Mists
+MID_MUSIC_AUTHORITY_0: Fire Emblem:\nShadow Dragon and the Blade of Light
+MID_MUSIC_AUTHORITY_1: Fire Emblem: Gaiden
+MID_MUSIC_AUTHORITY_2: Fire Emblem: Mystery of the Emblem
+MID_MUSIC_AUTHORITY_3: Fire Emblem:\nGenealogy of the Holy War
+MID_MUSIC_AUTHORITY_4: Fire Emblem: Thracia 776
+MID_MUSIC_AUTHORITY_5: Fire Emblem: The Binding Blade
+MID_MUSIC_AUTHORITY_6: Fire Emblem: The Blazing Blade
+MID_MUSIC_AUTHORITY_7: Fire Emblem: The Sacred Stones
+MID_MUSIC_AUTHORITY_8: Fire Emblem: Path of Radiance
+MID_MUSIC_AUTHORITY_9: Fire Emblem: Radiant Dawn
+MID_MUSIC_AUTHORITY_10: Fire Emblem: Shadow Dragon
+MID_MUSIC_AUTHORITY_11: Fire Emblem:\nNew Mystery of the Emblem
+MID_MUSIC_AUTHORITY_12: Fire Emblem Awakening
+MID_MUSIC_AUTHORITY_13: Fire Emblem Fates
+MID_MUSIC_AUTHORITY_14: Fire Emblem Echoes:\nShadows of Valentia
+MID_MUSIC_AUTHORITY_15: Fire Emblem Warriors
+MID_MUSIC_AUTHORITY_16: Fire Emblem Heroes
+MID_MUSIC_NAME_BGM_MAP_FE06_01: Beyond Distant Skies -\nRoy's Departure
+MID_MUSIC_NAME_BGM_MAP_FE12_02: Those Who Dare to Change History
+MID_MUSIC_NAME_BGM_MAP_FE13_01: Destiny (Ablaze)
+MID_TAP_BATTLE_STAGE_FLOOR_1: Floor 1
+MID_TAP_BATTLE_STAGE_FLOOR_2: Floor 2
+MID_TAP_BATTLE_STAGE_FLOOR_3: Floor 3
+MID_TAP_BATTLE_STAGE_FLOOR_4: Floor 4
+MID_TAP_BATTLE_STAGE_FLOOR_5: Floor 5
+MID_TAP_BATTLE_STAGE_FLOOR_6: Floor 6
+MID_TAP_BATTLE_STAGE_FLOOR_7: Floor 7
+MID_TAP_BATTLE_STAGE_FLOOR_8: Floor 8
+MID_TAP_BATTLE_STAGE_FLOOR_9: Floor 9
+MID_TAP_BATTLE_STAGE_FLOOR_10: Floor 10
+MID_TAP_BATTLE_STAGE_FLOOR_11: Floor 11
+MID_TAP_BATTLE_STAGE_FLOOR_12: Floor 12
+MID_TAP_BATTLE_STAGE_FLOOR_13: Floor 13
+MID_TAP_BATTLE_STAGE_FLOOR_14: Floor 14
+MID_TAP_BATTLE_STAGE_FLOOR_15: Floor 15
+MID_TAP_BATTLE_STAGE_FLOOR_16: Floor 16
+MID_TAP_BATTLE_STAGE_FLOOR_17: Floor 17
+MID_TAP_BATTLE_STAGE_FLOOR_18: Floor 18
+MID_TAP_BATTLE_STAGE_FLOOR_19: Floor 19
+MID_TAP_BATTLE_STAGE_FLOOR_20: Floor 20
+MID_TAP_BATTLE_STAGE_FLOOR_21: Floor 21
+MID_TAP_BATTLE_STAGE_FLOOR_22: Floor 22
+MID_TAP_BATTLE_STAGE_FLOOR_23: Floor 23
+MID_TAP_BATTLE_STAGE_FLOOR_24: Floor 24
+MID_TAP_BATTLE_STAGE_FLOOR_25: Floor 25
+MID_TAP_BATTLE_STAGE_FLOOR_26: Floor 26
+MID_TAP_BATTLE_STAGE_FLOOR_27: Floor 27
+MID_TAP_BATTLE_STAGE_FLOOR_28: Floor 28
+MID_TAP_BATTLE_STAGE_FLOOR_29: Floor 29
+MID_TAP_BATTLE_STAGE_FLOOR_30: Floor 30
+MID_TAP_BATTLE_STAGE_FLOOR_31: Floor 31
+MID_TAP_BATTLE_STAGE_FLOOR_32: Floor 32
+MID_TAP_BATTLE_STAGE_FLOOR_33: Floor 33
+MID_TAP_BATTLE_STAGE_FLOOR_34: Floor 34
+MID_TAP_BATTLE_STAGE_FLOOR_35: Floor 35
+MID_TAP_BATTLE_STAGE_FLOOR_36: Floor 36
+MID_TAP_BATTLE_STAGE_FLOOR_37: Floor 37
+MID_TAP_BATTLE_STAGE_FLOOR_38: Floor 38
+MID_TAP_BATTLE_STAGE_FLOOR_39: Floor 39
+MID_TAP_BATTLE_STAGE_FLOOR_40: Floor 40
+MID_TAP_BATTLE_STAGE_FLOOR_41: Floor 41
+MID_TAP_BATTLE_STAGE_FLOOR_42: Floor 42
+MID_TAP_BATTLE_STAGE_FLOOR_43: Floor 43
+MID_TAP_BATTLE_STAGE_FLOOR_44: Floor 44
+MID_TAP_BATTLE_STAGE_FLOOR_45: Floor 45
+MID_TAP_BATTLE_STAGE_FLOOR_46: Floor 46
+MID_TAP_BATTLE_STAGE_FLOOR_47: Floor 47
+MID_TAP_BATTLE_STAGE_FLOOR_48: Floor 48
+MID_TAP_BATTLE_STAGE_FLOOR_49: Floor 49
+MID_TAP_BATTLE_STAGE_FLOOR_50: Floor 50
+MID_TAP_BATTLE_STAGE_FLOOR_51: Floor 51
+MID_TAP_BATTLE_STAGE_FLOOR_52: Floor 52
+MID_TAP_BATTLE_STAGE_FLOOR_53: Floor 53
+MID_TAP_BATTLE_STAGE_FLOOR_54: Floor 54
+MID_TAP_BATTLE_STAGE_FLOOR_55: Floor 55
+MID_TAP_BATTLE_STAGE_FLOOR_56: Floor 56
+MID_TAP_BATTLE_STAGE_FLOOR_57: Floor 57
+MID_TAP_BATTLE_STAGE_FLOOR_58: Floor 58
+MID_TAP_BATTLE_STAGE_FLOOR_59: Floor 59
+MID_TAP_BATTLE_STAGE_FLOOR_60: Floor 60
+MID_TAP_BATTLE_STAGE_FLOOR_61: Floor 61
+MID_TAP_BATTLE_STAGE_FLOOR_62: Floor 62
+MID_TAP_BATTLE_STAGE_FLOOR_63: Floor 63
+MID_TAP_BATTLE_STAGE_FLOOR_64: Floor 64
+MID_TAP_BATTLE_STAGE_FLOOR_65: Floor 65
+MID_TAP_BATTLE_STAGE_FLOOR_66: Floor 66
+MID_TAP_BATTLE_STAGE_FLOOR_67: Floor 67
+MID_TAP_BATTLE_STAGE_FLOOR_68: Floor 68
+MID_TAP_BATTLE_STAGE_FLOOR_69: Floor 69
+MID_TAP_BATTLE_STAGE_FLOOR_70: Floor 70
+MID_TAP_BATTLE_STAGE_FLOOR_71: Floor 71
+MID_TAP_BATTLE_STAGE_FLOOR_72: Floor 72
+MID_TAP_BATTLE_STAGE_FLOOR_73: Floor 73
+MID_TAP_BATTLE_STAGE_FLOOR_74: Floor 74
+MID_TAP_BATTLE_STAGE_FLOOR_75: Floor 75
+MID_TAP_BATTLE_STAGE_FLOOR_76: Floor 76
+MID_TAP_BATTLE_STAGE_FLOOR_77: Floor 77
+MID_TAP_BATTLE_STAGE_FLOOR_78: Floor 78
+MID_TAP_BATTLE_STAGE_FLOOR_79: Floor 79
+MID_TAP_BATTLE_STAGE_FLOOR_80: Floor 80
+MID_TAP_BATTLE_STAGE_FLOOR_81: Floor 81
+MID_TAP_BATTLE_STAGE_FLOOR_82: Floor 82
+MID_TAP_BATTLE_STAGE_FLOOR_83: Floor 83
+MID_TAP_BATTLE_STAGE_FLOOR_84: Floor 84
+MID_TAP_BATTLE_STAGE_FLOOR_85: Floor 85
+MID_TAP_BATTLE_STAGE_FLOOR_86: Floor 86
+MID_TAP_BATTLE_STAGE_FLOOR_87: Floor 87
+MID_TAP_BATTLE_STAGE_FLOOR_88: Floor 88
+MID_TAP_BATTLE_STAGE_FLOOR_89: Floor 89
+MID_TAP_BATTLE_STAGE_FLOOR_90: Floor 90
+MID_TAP_BATTLE_STAGE_FLOOR_91: Floor 91
+MID_TAP_BATTLE_STAGE_FLOOR_92: Floor 92
+MID_TAP_BATTLE_STAGE_FLOOR_93: Floor 93
+MID_TAP_BATTLE_STAGE_FLOOR_94: Floor 94
+MID_TAP_BATTLE_STAGE_FLOOR_95: Floor 95
+MID_TAP_BATTLE_STAGE_FLOOR_96: Floor 96
+MID_TAP_BATTLE_STAGE_FLOOR_97: Floor 97
+MID_TAP_BATTLE_STAGE_FLOOR_98: Floor 98
+MID_TAP_BATTLE_STAGE_FLOOR_99: Floor 99
+MID_TAP_BATTLE_STAGE_FLOOR_100: Floor 100
+MID_TAP_BATTLE_STAGE_TITLE_1_5: Floors 1-5
+MID_TAP_BATTLE_STAGE_TITLE_6_10: Floors 6-10
+MID_TAP_BATTLE_STAGE_TITLE_11_15: Floors 11-15
+MID_TAP_BATTLE_STAGE_TITLE_16_20: Floors 16-20
+MID_TAP_BATTLE_STAGE_TITLE_21_25: Floors 21-25
+MID_TAP_BATTLE_STAGE_TITLE_26_30: Floors 26-30
+MID_TAP_BATTLE_STAGE_TITLE_31_35: Floors 31-35
+MID_TAP_BATTLE_STAGE_TITLE_36_40: Floors 36-40
+MID_TAP_BATTLE_STAGE_TITLE_41_45: Floors 41-45
+MID_TAP_BATTLE_STAGE_TITLE_46_50: Floors 46-50
+MID_TAP_BATTLE_STAGE_TITLE_51_55: Floors 51-55
+MID_TAP_BATTLE_STAGE_TITLE_56_60: Floors 56-60
+MID_TAP_BATTLE_STAGE_TITLE_61_65: Floors 61-65
+MID_TAP_BATTLE_STAGE_TITLE_66_70: Floors 66-70
+MID_TAP_BATTLE_STAGE_TITLE_71_75: Floors 71-75
+MID_TAP_BATTLE_STAGE_TITLE_76_80: Floors 76-80
+MID_TAP_BATTLE_STAGE_TITLE_81_85: Floors 81-85
+MID_TAP_BATTLE_STAGE_TITLE_86_90: Floors 86-90
+MID_TAP_BATTLE_STAGE_TITLE_91_95: Floors 91-95
+MID_TAP_BATTLE_STAGE_TITLE_96_100: Floors 96-100

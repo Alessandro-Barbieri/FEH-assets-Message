@@ -1,0 +1,38 @@
+[Heroes Archive] (RYOUMA)
+
+
+Heroes Message Name: Message
+
+
+MID_RYOUMA_HOME1: この世界は白夜とはまた違う美しさだな…\nいつかきょうだいたちと一緒に、\n風景を見て回りたい。
+MID_RYOUMA_HOME2: 俺にはサイゾウとカゲロウという\n二人の臣下がいる…どちらも生真面目で、\n忠義に厚い者たちだ。
+MID_RYOUMA_HOME3: 今日も頑張っているようだな。\nだが疲れたときは仲間を頼るんだぞ。\n俺のことも兄だとでも思い、気楽に接しろ。
+MID_RYOUMA_HOME4: お前の神器は変わった形だな。\nいつか雷神刀と手合わせをしてみるか？\nなに、英雄が出てくる？　それは困るな…
+MID_RYOUMA_HOME5: ああ、$Nuか。\n少し、瞑想をしていた…\n目を閉じ心を静かにすると、邪念が消える。
+MID_RYOUMA_FRIEND: $Nuはお前か？\n$Nfから挨拶だ。\nよろしく頼むと言っていたぞ。
+MID_RYOUMA_LEVEL1: 結果に驕らず、\n自身を高めていくぞ。
+MID_RYOUMA_LEVEL2: まずまずの成果だな。
+MID_RYOUMA_LEVEL3: すまん。\nもっと精進せねばな。
+MID_RYOUMA_SKILL: どのような力を手にしても、\n精一杯闘うのみだ。
+MID_RYOUMA_JOIN: 白夜王国第一王子、リョウマだ。\n雷神刀を継承している。\nどのような戦況でも、決して諦めはせん。
+MID_RYOUMA_STRONGEST: 共に瞑想をしないか？\nこうして目を閉じ…心を無にするんだ。\n気分が落ち着く風景を思ってもいいぞ。$k$p俺か？　俺はもちろん、\n祖国である白夜の光景を思う。\n満開の桜に、雨の庭園、下弦の月…$k$pだが最近は、この地の景色を\n思い浮かべることも多くなった。\n特務機関の皆の姿を、そして…$k$p戦場に立つお前の姿を思うと、\n不思議と心が落ち着くんだ。\nお前にとっての俺も、そうでありたい。$k$p誰かに刀を捧げるなど、\n国にいた頃は許されざることだったが…\n俺はお前の刀として闘おう、最後まで。\n
+MID_RYOUMA_VOICE01: ふんっ
+MID_RYOUMA_VOICE02: でやあっ！
+MID_RYOUMA_VOICE03: うわっ！
+MID_RYOUMA_VOICE04: まだだ…っ！
+MID_RYOUMA_VOICE05: 参る
+MID_RYOUMA_VOICE06: 奥義
+MID_RYOUMA_VOICE07: 諦めるものか
+MID_RYOUMA_VOICE08: 刀の錆となれ
+MID_RYOUMA_VOICE09: あとは…頼む…
+MID_RYOUMA_VOICE10: ふっ…
+MID_RYOUMA_VOICE11: 俺に話か？
+MID_RYOUMA_VOICE12: ここにいる以上は、お前に従おう
+MID_RYOUMA_VOICE13: 闘う事で、闘いを終わらせるんだ
+MID_RYOUMA_VOICE14: この国の王子からも、学ぶことはありそうだ
+MID_RYOUMA_VOICE15: そんなにじろじろ見て、甲冑が珍しいか？
+MID_RYOUMA_VOICE16: サイゾウ、カゲロウ…傍に控えているか？
+MID_RYOUMA_VOICE17: 戦場では遠慮せず指示を出せ\nどんな英雄と出会っても、戦う覚悟はある
+MID_RYOUMA_VOICE18: ふむ…
+MID_RYOUMA_VOICE19: どうする？
+MID_RYOUMA_VOICE20: 参るぞ

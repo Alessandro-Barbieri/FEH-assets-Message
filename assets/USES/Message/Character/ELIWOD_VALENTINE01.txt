@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_VALENTINE01_HOME1: ¿En este mundo también se celebra\nel festival de la devoción?$k$pEso demuestra que da igual\nde donde vengas; las personas\ncuidamos las unas de las otras.
+MID_ELIWOD_VALENTINE01_HOME2: ¿Quieres que te aconseje\nun regalo para una dama?$k$pYo que tú...\nle regalaría flores.
+MID_ELIWOD_VALENTINE01_HOME3: ¿Quieres hacerle un regalo\na alguien en concreto?\nSi quieres, puedo aconsejarte.
+MID_ELIWOD_VALENTINE01_HOME4: Parece que en esta época del año\ntodas las tiendas del pueblo venden\ndulces. ¿Vamos a echar un vistazo?
+MID_ELIWOD_VALENTINE01_HOME5: Héctor y yo somos amigos desde\nque éramos pequeños. Cuanto más\ncrecemos, más valoro esta amistad.$k$pTal vez esta es una buena\noportunidad para darle las gracias\ncon algún regalo...
+MID_ELIWOD_VALENTINE01_FRIEND: Traigo saludos amistosos\nde $Nf.\n¡También traje un regalo!
+MID_ELIWOD_VALENTINE01_LEVEL1: Espero tener la fuerza para\nconfesar mis sentimientos.
+MID_ELIWOD_VALENTINE01_LEVEL2: ¿Crees que esta fuerza me\nayudará a ser más popular?
+MID_ELIWOD_VALENTINE01_LEVEL3: Pido disculpas... Fui\nun poco descuidado.
+MID_ELIWOD_VALENTINE01_SKILL: Lo que me da fuerzas es\nla gente a la que quiero.
+MID_ELIWOD_VALENTINE01_JOIN: Soy Eliwood, de Pherae. Si tienes\ntiempo, ¿podrías acompañarme\na celebrar el Día de la Devoción?
+MID_ELIWOD_VALENTINE01_STRONGEST: Hay quien dice que el Día de la\nDevoción hay que celebrarlo con\ntu media naranja.$k$pEn realidad, es mucho más que eso.\nEste día también sirve para expresar\ntu amor a familiares y amigos.$k$pSi la gente mostrara más compasión,\ntal vez habría menos peleas y menos\nguerras.$k$pTal vez algún día el mundo\nse convierta en un lugar\npacífico.$k$pCreo que este día promueve la paz.\nGracias por todo lo que haces,\n$Nu.$k$pTe regalo mi gratitud eterna.
+MID_ELIWOD_VALENTINE01_VOICE01: それっ！
+MID_ELIWOD_VALENTINE01_VOICE02: えいっ！
+MID_ELIWOD_VALENTINE01_VOICE03: うああっ！
+MID_ELIWOD_VALENTINE01_VOICE04: At this rate...
+MID_ELIWOD_VALENTINE01_VOICE05: Acepta este regalo.
+MID_ELIWOD_VALENTINE01_VOICE06: Esto es para ti.
+MID_ELIWOD_VALENTINE01_VOICE07: No voy a perder.
+MID_ELIWOD_VALENTINE01_VOICE08: No soy tan dulce.
+MID_ELIWOD_VALENTINE01_VOICE09: I...misjudged...
+MID_ELIWOD_VALENTINE01_VOICE10: ええと
+MID_ELIWOD_VALENTINE01_VOICE11: Festivals are just wonderful, aren't they? Seeing everybody smile makes me smile too.
+MID_ELIWOD_VALENTINE01_VOICE12: Oops, pardon me. I almost ran right into you!
+MID_ELIWOD_VALENTINE01_VOICE13: Hector and I have sparred for many years, and we continue to this day.
+MID_ELIWOD_VALENTINE01_VOICE14: It seems Roy and Lilina have become rather close. Hector won't like that...
+MID_ELIWOD_VALENTINE01_VOICE15: What do I want? Your friendship is enough.
+MID_ELIWOD_VALENTINE01_VOICE16: Do you think flowers alone make a good present?
+MID_ELIWOD_VALENTINE01_VOICE17: I'd like to get to know you better.
+MID_ELIWOD_VALENTINE01_VOICE18: Yes.
+MID_ELIWOD_VALENTINE01_VOICE19: Something you want?
+MID_ELIWOD_VALENTINE01_VOICE20: Find your courage!

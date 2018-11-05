@@ -1,0 +1,11 @@
+[Heroes Archive] (X0141)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Anger|$w0|Mi è appena giunta notizia che\nle forze embliane si stanno\nnuovamente  dirigendo a Vaskrheim.$k$pSembra che altri eroi impavidi\nsiano apparsi lì.$k$p$EFace_Cool|Eroi nati dai desideri dell'umanità...\nDovremmo vedere con i nostri occhi\nchi sono, questa volta.$k$p
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ワユ,ch09_09_Wayu_F_Normal,Face|$w0|Fammi capire bene... In questo\nmondo ci chiamano gli eroi impavidi?$k$p$WmMPID_ルーテ,ch08_08_Lute_F_Normal,Face|$w0|Sì. Secondo questo grimorio siamo\nstate evocate qui come esseri\nspeciali.$k$pIl che non mi sorprende affatto.$k$pDopotutto... Nessuno mi è superiore!$k$p$WmMPID_ワユ,ch09_09_Wayu_F_Normal,Face|$w0|Di sicuro nessuno è più strano...$k$pComunque, non mi piace essere\nvincolata da questi contratti.$k$pD'altro canto, qui ho l'occasione\ndi testare le mie capacità contro\npotenti avversari di altri mondi.$k$pIl nome Guardiani di Askr promette\nbene... Sono certa che il mio\narcirivale si trovi tra loro!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_ワユ,ch09_09_Wayu_F_Normal,Face|$w0|1 a 0 per voi. Le voci dicevano\nil vero, il vostro gruppo è davvero\nforte. E siete furbi!$k$pCome dico sempre, se perdi oggi\nallenati di più per vincere domani.\nAvrò la mia rivincita!$k$p$Sbs150|

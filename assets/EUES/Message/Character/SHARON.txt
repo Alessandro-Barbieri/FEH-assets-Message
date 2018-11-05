@@ -1,0 +1,59 @@
+[Heroes Archive] (SHARON)
+
+
+Heroes Message Name: Message
+
+
+MID_SHARON_HOME1: Mi hermano dice que no me encarga\ntareas para no agobiarme. Igual cree\nque no sería capaz de hacerlas...
+MID_SHARON_HOME2: ¡Quiero hacerme amiga de todos\nlos héroes! ¡Y luego montaremos\nuna fiesta!
+MID_SHARON_HOME3: ¿De ronda, $Nu?\nPero mira que eres responsable...\n¡De mayor quiero ser como tú!
+MID_SHARON_HOME4: ¿Quieres que hablemos,\n$Nu?\n¡Se me da muy bien escuchar!
+MID_SHARON_HOME5: A pesar de vivir en el mismo castillo,\nmi madre y yo casi no podemos hablar.\nPor eso le escribo tantas cartas.
+MID_SHARON_FRIEND: Tenía curiosidad por visitar esta\nversión del reino de Askr... Dime,\n¿qué tal te cae la Sharena de aquí?
+MID_SHARON_LEVEL1: ¡Bien! ¡Ahora me toca a mí\ndemostrar lo que valgo!
+MID_SHARON_LEVEL2: ¡No me viene grande ningún reto!
+MID_SHARON_LEVEL3: Ay, perdón... Sé que puedo\nhacerlo mucho mejor.
+MID_SHARON_SKILL: ¿Más poder? Qué emoción...\n¡Creo que me voy a desmayar!
+MID_SHARON_STRONGEST: Has de saber que es para mí un gran\nhonor tener el privilegio de compartir\nestos momentos contigo.$k$pBah, ¿a quién pretendemos engañar,\n$Nu?$k$pDejémonos de tanto formalismo\ncortesano. Estamos $Gsolos,solas| tú y yo,\n¿no te parece?$k$pEn fin, quería decirte que me encanta\ntenerte a mi lado. ¡Nunca había\nestado tan feliz en mi vida!$k$pPor supuesto que cumples un papel\nesencial entre los Guardianes y\ntodo eso, pero hay algo más.$k$pDespués de pasar tanto tiempo\ncontigo, te considero como...\nmi mejor $Gamigo,amiga|.$k$p¿Y tú? ¿Crees que soy tu mejor\namiga? ¿O por lo menos que no\nestoy lejos de serlo?$k$p¿Cómo? ¿Que sí? Esto, ¿cuál de las\ndos cosas? No importa... Estoy tan\nfeliz ahora mismo... que...$k$p¡Buaaa! Has hecho que se me salten\nlas lágrimas.$k$pNunca olvidaré este día. Guardaré mis\nlágrimas en un vial como recordatorio.
+MID_SHARON_VOICE01: はいっ！
+MID_SHARON_VOICE02: What about this?!
+MID_SHARON_VOICE03: きゃっ
+MID_SHARON_VOICE04: That's a fine hello!
+MID_SHARON_VOICE05: ¡Allá voy!
+MID_SHARON_VOICE06: Las damas primero.
+MID_SHARON_VOICE07: ¡Veo tu punto débil!
+MID_SHARON_VOICE08: ¡Esta es mi oportunidad!
+MID_SHARON_VOICE09: How...?
+MID_SHARON_VOICE10: Teehee
+MID_SHARON_VOICE11: How do you do?
+MID_SHARON_VOICE12: Ha! What was that? A sneak attack?
+MID_SHARON_VOICE13: If there's one thing I'm really good at, it's lighting up the room!
+MID_SHARON_VOICE14: I know my brother can be a bit serious. But I think he's quite fond of you.
+MID_SHARON_VOICE15: The Order of Heroes is simply spectacular since you showed up!
+MID_SHARON_VOICE16: I wish I could summon Heroes like you. Then we'd really have a party!
+MID_SHARON_VOICE17: You know, I pledge forever and ever to be your number-one fan!
+MID_SHARON_VOICE18: Yes?
+MID_SHARON_VOICE19: My turn.
+MID_SHARON_VOICE20: Let's go.
+MID_SHARON_VOICE21: Fire Emblem
+MID_SHARON_VOICE22: Shadow Dragon and the Blade of Light
+MID_SHARON_VOICE23: Gaiden
+MID_SHARON_VOICE24: Mystery of the Emblem
+MID_SHARON_VOICE25: Genealogy of the Holy War
+MID_SHARON_VOICE26: Thracia 776
+MID_SHARON_VOICE27: The Binding Blade
+MID_SHARON_VOICE28: The Blazing Blade
+MID_SHARON_VOICE29: The Sacred Stones
+MID_SHARON_VOICE30: Path of Radiance
+MID_SHARON_VOICE31: Radiant Dawn
+MID_SHARON_VOICE32: Shadow Dragon
+MID_SHARON_VOICE33: New Mystery of the Emblem
+MID_SHARON_VOICE34: Awakening
+MID_SHARON_VOICE35: Fates
+MID_SHARON_VOICE36: An event has started!
+MID_SHARON_VOICE37: A big battle has started!
+MID_SHARON_VOICE38: A strong foe has appeared!
+MID_SHARON_VOICE39: New Heroes are available!
+MID_SHARON_VOICE40: Wait just a little bit.
+MID_SHARON_VOICE_BRAVE: Brave
+MID_SHARON_VOICE_HEROES: Heroes

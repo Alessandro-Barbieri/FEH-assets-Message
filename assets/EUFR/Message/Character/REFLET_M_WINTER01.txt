@@ -1,0 +1,39 @@
+[Heroes Archive] (REFLET_M_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_WINTER01_HOME1: J'ai demandé au commandant Anna\nce qu'elle voulait pour le festival de\nl'hiver, et elle m'a dit : « De l'argent. »$k$pDésormais, je ne poserai cette\nquestion qu'à des enfants, sinon, j'ai\npeur d'être déprimé par les réponses.
+MID_REFLET_M_WINTER01_HOME2: Avant d'arriver ici, j'étais au festival de\nl'hiver d'Ylisstol. L'esprit des fêtes\nplane sur tout le Saint-Royaume !
+MID_REFLET_M_WINTER01_HOME3: J'ai un peu froid. Je dois trouver un\nmoyen de rester au chaud. J'espère\nque personne ne va tomber malade.
+MID_REFLET_M_WINTER01_HOME4: Qui sont les héros qui ont été bien\nsages ? Murmurez-moi leurs noms\nà l'oreille.$k$pJe m'en souviendrai pour le prochain\nfestival de l'hiver.
+MID_REFLET_M_WINTER01_HOME5: Je prenais soin de mon sapin. Il est\nassez difficile de ne pas perdre de\ndécorations pendant la bataille.
+MID_REFLET_M_WINTER01_FRIEND: Joyeux festival de l'hiver !$k$pJe n'ai pas de cadeau pour vous,\nmais $Nf\nvous transmet ses salutations !
+MID_REFLET_M_WINTER01_LEVEL1: Je mettrai cette force au service\ndu festival de l'hiver !
+MID_REFLET_M_WINTER01_LEVEL2: Mon cadeau pour les fêtes,\nc'est de la puissance.
+MID_REFLET_M_WINTER01_LEVEL3: Comment apprécier le festival\ndans ces conditions ?
+MID_REFLET_M_WINTER01_SKILL: Merci pour ce cadeau ! J'en\nferai bon usage !
+MID_REFLET_M_WINTER01_JOIN: Je m'appelle Daraen. Je vais vous\naider à profiter au mieux du festival\nde l'hiver.
+MID_REFLET_M_WINTER01_STRONGEST: J'étais en train d'élaborer une\nstratégie pour vous aider à apprécier\nle festival de l'hiver.$k$pPour commencer, vous aurez besoin\nd'une tenue rouge comme la\nmienne.$k$pEnsuite, nous décorerons un arbre et\nnous dégusterons un bon repas. Et\npuis nous distribuerons les cadeaux.$k$pBien entendu, il sera délicat de\nposer les cadeaux à côté des\noreillers sans réveiller personne...$k$pMais je suis sûr que cela ne posera\naucun problème pour deux stratèges\nde notre envergure.$k$pNous devrions peut-être préparer\nnotre tactique avant de commencer.\nUn genre de conseil de guerre !$k$pDepuis que je suis ici, l'hiver est\ndevenu beaucoup plus amusant...$k$pJ'aimerais pouvoir passer tous mes\nfestivals de l'hiver avec vous !
+MID_REFLET_M_WINTER01_VOICE01: はいっ
+MID_REFLET_M_WINTER01_VOICE02: What about this?
+MID_REFLET_M_WINTER01_VOICE03: うわあ！？
+MID_REFLET_M_WINTER01_VOICE04: Wha?!
+MID_REFLET_M_WINTER01_VOICE05: J'ai quelque chose pour vous !
+MID_REFLET_M_WINTER01_VOICE06: Vous n'avez pas été sage !
+MID_REFLET_M_WINTER01_VOICE07: C'est la fête !
+MID_REFLET_M_WINTER01_VOICE08: Bonne nuit !
+MID_REFLET_M_WINTER01_VOICE09: Party's over...
+MID_REFLET_M_WINTER01_VOICE10: Heehee
+MID_REFLET_M_WINTER01_VOICE11: It's really hot in this hat.
+MID_REFLET_M_WINTER01_VOICE12: You summoned me mid-party with Chrom and the others.
+MID_REFLET_M_WINTER01_VOICE13: I hope this outfit doesn't make me too much of a target on the battlefield.
+MID_REFLET_M_WINTER01_VOICE14: I've got a plan to give everyone presents. I'm going to place them while folks are sleeping!
+MID_REFLET_M_WINTER01_VOICE15: It's not the hat, it's the head that wears it, right?
+MID_REFLET_M_WINTER01_VOICE16: I can't find my favorite strategy book. Did I forget to bring it?
+MID_REFLET_M_WINTER01_VOICE17: I gather that when I wear this outfit, I'm supposed to ask you if you want a gift?
+MID_REFLET_M_WINTER01_VOICE18: OK.
+MID_REFLET_M_WINTER01_VOICE19: Got it.
+MID_REFLET_M_WINTER01_VOICE20: Yeah.
+MID_REFLET_M_WINTER01_VOICE21: Got any plans for the holidays?

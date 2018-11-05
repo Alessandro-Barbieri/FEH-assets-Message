@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_M_DARK01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_DARK01_HOME1: Vous dites combattre pour la paix ?\nJe ne veux pas en savoir davantage.\nCes bons sentiments me dégoûtent...
+MID_REFLET_M_DARK01_HOME2: Certains souvenirs sont si flous...\nEst-ce un effet secondaire de\nmes voyages spatio-temporels ?$k$pCette enveloppe est trop faible.
+MID_REFLET_M_DARK01_HOME3: Se battre pour protéger le bonheur\ndes habitants de ce monde ?\nHa ha ha !$k$pQui vous a mis une telle idée\nen tête ? Dites-moi plutôt\nvos véritables désirs...
+MID_REFLET_M_DARK01_HOME4: Le talent des humains me surprend.\nContinuez comme ça, et je vous\nlaisserai me servir.
+MID_REFLET_M_DARK01_HOME5: Les rituels n'y font rien, ma mémoire\nrefuse toujours de revenir. C'est\nexaspérant...$k$pPeut-être qu'une guerre me\nremonterait le moral.
+MID_REFLET_M_DARK01_FRIEND: $Nf m'envoie\nme divertir à vos côtés.\nJe sais, c'est inattendu.
+MID_REFLET_M_DARK01_LEVEL1: Pauvres vermisseaux, vous\nallez contempler ma puissance !
+MID_REFLET_M_DARK01_LEVEL2: Il ne m'en faut pas plus pour\nécraser la vermine.
+MID_REFLET_M_DARK01_LEVEL3: Hum... Exterminer des humains\nest trop facile.
+MID_REFLET_M_DARK01_SKILL: Mon pouvoir destructeur...\ndépasse celui des dieux !
+MID_REFLET_M_DARK01_JOIN: De mes ailes destructrices, je\nrecouvrirai le monde. Je soufflerai\nle feu du désespoir.$k$pJe suis le Dragon Déchu. Je suis\nGrima. Prosternez-vous devant moi,\net votre mort sera sans douleur.
+MID_REFLET_M_DARK01_STRONGEST: Quelle audace... Se présenter\n$Gseul,seule| pour converser avec moi,\nle Dragon Déchu ?$k$pJe ne cache pourtant pas ma\nhaine envers les humains...$k$pIls n'éprouvent aucune honte à\nquémander l'aide des dieux pour\nsatisfaire leurs vains besoins...$k$pEt se retournent contre leurs\nbienfaiteurs une fois leurs\ndésirs assouvis.$k$pLeur arrogance n'a d'égal que\nleur bêtise, et ils sont incapables\nd'apprendre de leurs erreurs.$k$pIls disent agir pour le bien\nd'autrui pour mieux masquer\nleur propre égoïsme...$k$pL'humanité ne m'inspire que\ndégoût et mépris.$k$pLe monde a besoin de mon\nchâtiment. Alors qu'espérez-vous ?\nJe n'écouterai pas vos mensonges.$k$pDétournez votre misérable regard,\net ne pensez pas invoquer ma pitié !
+MID_REFLET_M_DARK01_VOICE01: はぁっ！
+MID_REFLET_M_DARK01_VOICE02: 殺すよ
+MID_REFLET_M_DARK01_VOICE03: うああっ！
+MID_REFLET_M_DARK01_VOICE04: 面倒だね…
+MID_REFLET_M_DARK01_VOICE05: Je suis le Dragon Déchu !
+MID_REFLET_M_DARK01_VOICE06: Disparaissez !
+MID_REFLET_M_DARK01_VOICE07: Je vais vous engloutir !
+MID_REFLET_M_DARK01_VOICE08: Votre fin est proche.
+MID_REFLET_M_DARK01_VOICE09: Mere...worms...
+MID_REFLET_M_DARK01_VOICE10: ふふっ
+MID_REFLET_M_DARK01_VOICE11: I am the wings of despair. I am the breath of ruin. I am the Fell Dragon, Grima.
+MID_REFLET_M_DARK01_VOICE12: Am I really so interesting you must pester me?
+MID_REFLET_M_DARK01_VOICE13: I seem to have lost some of my memories when I crossed the skies.
+MID_REFLET_M_DARK01_VOICE14: How odd... I sense something...familiar about you...
+MID_REFLET_M_DARK01_VOICE15: If you can help me regain my memories... I shall spare your life.
+MID_REFLET_M_DARK01_VOICE16: If I were human, and able to live among you... Then perhaps...
+MID_REFLET_M_DARK01_VOICE17: Will you be my ally, or do you long for death? The choice is yours.
+MID_REFLET_M_DARK01_VOICE18: Yes.
+MID_REFLET_M_DARK01_VOICE19: Who dies first?
+MID_REFLET_M_DARK01_VOICE20: Choose.

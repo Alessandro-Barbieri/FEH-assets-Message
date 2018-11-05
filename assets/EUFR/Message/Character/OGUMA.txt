@@ -1,0 +1,38 @@
+[Heroes Archive] (OGUMA)
+
+
+Heroes Message Name: Message
+
+
+MID_OGUMA_HOME1: Un jour comme celui-ci me ramène à\nmon passé de gladiateur... et à des\nsouvenirs que je préfèrerais oublier.
+MID_OGUMA_HOME2: J'ai une confiance aveugle en mes\ntrois hommes : Bord, Cord et Barst.\nCe sont de véritables guerriers.
+MID_OGUMA_HOME3: Reposez-vous dès que vous en\navez l'occasion. On ne sait jamais\nquand l'ennemi décidera d'attaquer.
+MID_OGUMA_HOME4: Savez-vous manier l'épée ?\nJe recherche un partenaire\nd'entraînement...$k$pJe dois cependant vous prévenir :\nj'ai du mal à retenir mes coups.
+MID_OGUMA_HOME5: J'ai toujours pris grand soin de mon\népée afin de la protéger de la rouille.$k$pCette habitude m'a sauvé la vie\nà de nombreuses reprises.
+MID_OGUMA_FRIEND: $Nu ? Mon\nemployeur $Nf\nm'a chargé de vous dire bonjour.
+MID_OGUMA_LEVEL1: Je n'avais pas encore découvert tout\nmon potentiel...
+MID_OGUMA_LEVEL2: Je manie l'épée un peu mieux,\nà présent.
+MID_OGUMA_LEVEL3: Je dois encore m'améliorer.
+MID_OGUMA_SKILL: Merci. Je m'en souviendrai sur le\nchamp de bataille.
+MID_OGUMA_JOIN: Je suis Ogma, mercenaire de Talys.\nSi vous avez besoin de force brute,\nje suis votre homme.
+MID_OGUMA_STRONGEST: Depuis mon arrivée ici, j'ai appris\nque la force pouvait s'exprimer\nsous bien des formes.$k$pCelle dont vous faites preuve pour\nprotéger ce monde ne ressemble en\nrien à la force brute d'un gladiateur.$k$pJ'ai déjà beaucoup appris grâce à\nvous, $Nu.\nEt j'ai encore beaucoup à apprendre.$k$pCroyez-moi, je suis plus que\njamais décidé à mettre ma\nlame au service de la paix.
+MID_OGUMA_VOICE01: はぁっ！
+MID_OGUMA_VOICE02: うおおっ！
+MID_OGUMA_VOICE03: うああっ！
+MID_OGUMA_VOICE04: You're... not bad...
+MID_OGUMA_VOICE05: Dégagez le passage.
+MID_OGUMA_VOICE06: Ça n'a rien de personnel.
+MID_OGUMA_VOICE07: Finissons-en.
+MID_OGUMA_VOICE08: Me voilà.
+MID_OGUMA_VOICE09: The end...
+MID_OGUMA_VOICE10: Hmm...
+MID_OGUMA_VOICE11: What do you need?
+MID_OGUMA_VOICE12: You're an odd one.
+MID_OGUMA_VOICE13: I'm not good at conversation.
+MID_OGUMA_VOICE14: If I start a job, I finish it.
+MID_OGUMA_VOICE15: I've only ever been good at one thing.
+MID_OGUMA_VOICE16: I need to get ready for the next battle.
+MID_OGUMA_VOICE17: I can't lose. For either of our sakes.
+MID_OGUMA_VOICE18: All right.
+MID_OGUMA_VOICE19: What now?
+MID_OGUMA_VOICE20: Let's move.

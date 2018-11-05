@@ -1,0 +1,38 @@
+[Heroes Archive] (ZEFHYR)
+
+
+Heroes Message Name: Message
+
+
+MID_ZEFHYR_HOME1: 人が人を支配し\n人が人の上に立つ限り…\n人の不幸は終わらぬ。
+MID_ZEFHYR_HOME2: 大陸を竜に明け渡し、\n公平で静かな世界とする…\nそれがわしの望みであった。
+MID_ZEFHYR_HOME3: 話すだけ無駄というものだ…\nしょせん貴様らとわしは相容れぬ。
+MID_ZEFHYR_HOME4: 貴様のいた世もまた…人の世か？\nならば、みにくい争いが\n起こるばかりであろう。
+MID_ZEFHYR_HOME5: …何をしているかだと？\n何もしておらぬ。\n静かな時の流れこそ、わしの望み…
+MID_ZEFHYR_FRIEND: 平伏するがいい。\n$Nfから\n貴様への挨拶を言付かった。
+MID_ZEFHYR_LEVEL1: 我が夢はまだ終わらぬ！
+MID_ZEFHYR_LEVEL2: わし個人の力など、\nどうでもよいのだ。
+MID_ZEFHYR_LEVEL3: しょせんわしもまた…\n人に過ぎぬか…
+MID_ZEFHYR_SKILL: このエッケザックスが\nさらなる戦いを欲しておる…
+MID_ZEFHYR_JOIN: わしはベルン国王ゼフィール。\n貴様も人に希望があるなどと\n戯言を言う口か？
+MID_ZEFHYR_STRONGEST: もはや人には\n価値などないと思っていたが…$k$p貴様たちと共にいると、\n少しばかりその考えが\n揺らぎ始める…$k$p貴様の生き様…\nもう少し見させてもらおう。\nだが…$k$p父王をも殺したわしの手で\n寝首をかかれぬよう、\nせいぜい用心しておくことだ…
+MID_ZEFHYR_VOICE01: むんっ！
+MID_ZEFHYR_VOICE02: ぬぅん！
+MID_ZEFHYR_VOICE03: うおおっ！
+MID_ZEFHYR_VOICE04: 馬鹿な…
+MID_ZEFHYR_VOICE05: フン
+MID_ZEFHYR_VOICE06: 邪魔はさせん
+MID_ZEFHYR_VOICE07: 相手をしてくれよう
+MID_ZEFHYR_VOICE08: よい座興だ
+MID_ZEFHYR_VOICE09: わしの…負けか…
+MID_ZEFHYR_VOICE10: ふん
+MID_ZEFHYR_VOICE11: わしに何の用だ？
+MID_ZEFHYR_VOICE12: …無礼は許さぬぞ
+MID_ZEFHYR_VOICE13: 貴様は幼子のようだな
+MID_ZEFHYR_VOICE14: 人はみにくい
+MID_ZEFHYR_VOICE15: 全てはくだらぬ
+MID_ZEFHYR_VOICE16: 世界を「解放」せねばならぬ…
+MID_ZEFHYR_VOICE17: 貴様といると…幼き日を思い出す
+MID_ZEFHYR_VOICE18: うむ
+MID_ZEFHYR_VOICE19: さて…
+MID_ZEFHYR_VOICE20: 行くか…

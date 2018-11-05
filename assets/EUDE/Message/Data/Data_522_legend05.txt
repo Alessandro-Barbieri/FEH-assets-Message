@@ -1,0 +1,195 @@
+[Heroes Archive] (Data_522_legend05)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201806A_TITLE: Juni-Quests (1)
+MID_MISSION_M201806A_A1: Blau besiegt Gegner
+MID_MISSION_H_M201806A_A1: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_M201806A_A2: Infanterie besiegt Gegner
+MID_MISSION_H_M201806A_A2: Lass Infanterieeinheiten\ndie Gegner besiegen.
+MID_MISSION_M201806A_A3: Besiege grüne Gegner
+MID_MISSION_H_M201806A_A3: Besiege grüne Gegner.
+MID_MISSION_M201806A_A4: Besiege Flugeinheiten
+MID_MISSION_H_M201806A_A4: Besiege fliegende Gegner.
+MID_MISSION_M201806A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201806A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201806A_A6: Rot besiegt Lv. 20+
+MID_MISSION_H_M201806A_A6: Lass rote Verbündete Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201806A_A7: Flieger besiegt Lv. 20+
+MID_MISSION_H_M201806A_A7: Lass verbündete Flugeinheiten\nGegner besiegen, die Level 20\noder höher sind.
+MID_MISSION_M201806A_A8: Besiege Blau Level 20+
+MID_MISSION_H_M201806A_A8: Besiege blaue Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201806A_A9: Besiege Infanterie Lv. 20+
+MID_MISSION_H_M201806A_A9: Besiege Infanterieeinheiten,\ndie Level 20 oder höher sind.
+MID_MISSION_M201806A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201806A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201806A_A11: Grün besiegt Geg. Lv. 35+
+MID_MISSION_H_M201806A_A11: Lass grüne Verbündete Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201806A_A12: Reiter besiegt Level 35+
+MID_MISSION_H_M201806A_A12: Lass berittene Einheiten Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201806A_A13: Besiege Rot Level 35+
+MID_MISSION_H_M201806A_A13: Besiege rote Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201806A_A14: Besiege Reiter Lv. 35+
+MID_MISSION_H_M201806A_A14: Besiege berittene Einheiten,\ndie Level 35 oder höher sind.
+MID_MISSION_M201806A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201806A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201806B_TITLE: Juni-Quests (2)
+MID_MISSION_M201806B_A1: Übungsturm: Erste Stufe
+MID_MISSION_H_M201806B_A1: Bewältige die erste Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A2: Übungsturm: Zweite Stufe
+MID_MISSION_H_M201806B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A3: Übungsturm: Dritte Stufe
+MID_MISSION_H_M201806B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A4: Übungsturm: Vierte Stufe
+MID_MISSION_H_M201806B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A5: Übungsturm: Fünfte Stufe
+MID_MISSION_H_M201806B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A6: Übungsturm: Sechste Stufe
+MID_MISSION_H_M201806B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A7: Übungsturm: Siebte Stufe
+MID_MISSION_H_M201806B_A7: Bewältige die siebte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A8: Übungsturm: Achte Stufe
+MID_MISSION_H_M201806B_A8: Bewältige die achte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A9: Übungsturm: Neunte Stufe
+MID_MISSION_H_M201806B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A10: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201806B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201806B_A11: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201806B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201806B_A12: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201806B_A12: Bewältige die zehnte Stufe des Übungs-\nturms nur mit gepanzerten Einheiten.\nAlle vier Verbündeten müssen überleben.
+MID_MISSION_M201806B_A13: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201806B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201806B_A14: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201806B_A14: Bewältige die zehnte Stufe des\nÜbungsturms nur mit Flugeinheiten.\nAlle vier Verbündeten müssen überleben.
+MID_MISSION_M201806C_TITLE: Juni-Quests (3)
+MID_MISSION_M201806C_A1: Kap. 3 Tl. 1
+MID_MISSION_H_M201806C_A1: Bewältige Kap. 3/Tl. 1. Alle Ver-\nbündeten müssen überleben.
+MID_MISSION_M201806C_A2: Kap. 3 Tl. 2
+MID_MISSION_H_M201806C_A2: Bewältige Kap. 3/Tl. 2 mit einem\nroten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201806C_A3: Kap. 3 Tl. 3
+MID_MISSION_H_M201806C_A3: Bewältige Kap. 3/Tl. 3 mit einem\nblauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201806C_A4: Kap. 3 Tl. 4
+MID_MISSION_H_M201806C_A4: Bewältige Kap. 3/Tl. 4 mit einem\ngrünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201806C_A5: Kap. 3 Tl. 5
+MID_MISSION_H_M201806C_A5: Bewältige Kap. 3/Tl. 5 mit einem\nfarblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201806C_A6: Kap. 6 Tl. 1 - Schwer+
+MID_MISSION_H_M201806C_A6: Bewältige Kap. 6/Tl. 1 auf Schwer\noder höher. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201806C_A7: Kap. 6 Tl. 2 - Schwer+
+MID_MISSION_H_M201806C_A7: Bewältige Kap. 6/Tl. 2 auf Schwer o. höher\nmit 1 roten Verbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A8: Kap. 6 Tl. 3 - Schwer+
+MID_MISSION_H_M201806C_A8: Bewältige Kap. 6/Tl. 3 auf Schwer o. höher\nmit 1 blauen Verbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A9: Kap. 6 Tl. 4 - Schwer+
+MID_MISSION_H_M201806C_A9: Bewältige Kap. 6/Tl. 4 auf Schwer o. höher\nmit 1 grünen Verbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A10: Kap. 6 Tl. 5 - Schwer+
+MID_MISSION_H_M201806C_A10: Bewältige Kap. 6/Tl. 5 auf Schwer o. höher\nmit 1 farbl. Verbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A11: Kap. 9 Tl. 1 - Extrem
+MID_MISSION_H_M201806C_A11: Bewältige Kap. 9/Tl. 1 im Modus\nExtrem. Alle Verbündeten müssen\nüberleben.
+MID_MISSION_M201806C_A12: Kap. 9 Tl. 2 - Extrem
+MID_MISSION_H_M201806C_A12: Bewältige Kap. 9/Tl. 2 im Modus Extrem\nmit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A13: Kap. 9 Tl. 3 - Extrem
+MID_MISSION_H_M201806C_A13: Bewältige Kap. 9/Tl. 3 im Modus Extrem\nmit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A14: Kap. 9 Tl. 4 - Extrem
+MID_MISSION_H_M201806C_A14: Bewältige Kap. 9/Tl. 4 im Modus Extrem\nmit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201806C_A15: Kap. 9 Tl. 5 - Extrem
+MID_MISSION_H_M201806C_A15: Bewältige Kap. 9/Tl. 5 im Modus Extrem\nmit einem farbl. Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201806VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201806VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201806VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A2: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201806VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A3: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201806VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A4: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201806VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A5: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201806VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201806VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201806VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201806VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201806VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201806VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201806VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201806VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201806VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201806VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201806VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201806VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201806VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A17: Gewinne einige Kämpfe im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A18: Gewinne einige Kämpfe im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A19: Gewinne einige Kämpfe im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201806VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201806VOTE01_A20: Gewinne einige Kämpfe im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201806BRAVE01_TITLE: Helden & Legenden
+MID_MISSION_S201806BRAVE01_A1: Rot besiegen
+MID_MISSION_H_S201806BRAVE01_A1: Lass Alfonse, Prinz von Askr einen\nroten Gegner besiegen.
+MID_MISSION_S201806BRAVE01_A2: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201806BRAVE01_A2: Lass Alfonse, Prinz von Askr grüne\nGegner besiegen, die Level 20\noder höher sind.
+MID_MISSION_S201806BRAVE01_A3: Gegner Lv. 30+ besiegen
+MID_MISSION_H_S201806BRAVE01_A3: Lass Alfonse, Prinz von Askr rote\nGegner besiegen, die Level 30\noder höher sind.
+MID_MISSION_S201806BRAVE01_A4: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201806BRAVE01_A4: Lass Alfonse, Prinz von Askr grüne\nGegner besiegen, die Level 40\noder höher sind.
+MID_MISSION_S201806BRAVE01_A5: Blau besiegen
+MID_MISSION_H_S201806BRAVE01_A5: Lass Sharena, Prinzessin von Askr einen\nblauen Gegner besiegen.
+MID_MISSION_S201806BRAVE01_A6: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201806BRAVE01_A6: Lass Sharena, Prinzessin von Askr\nrote Gegner besiegen, die Level 20\noder höher sind.
+MID_MISSION_S201806BRAVE01_A7: Gegner Lv. 30+ besiegen
+MID_MISSION_H_S201806BRAVE01_A7: Lass Sharena, Prinzessin von Askr\nblaue Gegner besiegen, die Level 30\noder höher sind.
+MID_MISSION_S201806BRAVE01_A8: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201806BRAVE01_A8: Lass Sharena, Prinzessin von Askr\nrote Gegner besiegen, die Level 40\noder höher sind.
+MID_MISSION_S201806BRAVE01_A9: Grün besiegen
+MID_MISSION_H_S201806BRAVE01_A9: Lass Anna einen grünen\nGegner besiegen.
+MID_MISSION_S201806BRAVE01_A10: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201806BRAVE01_A10: Lass Anna blaue Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201806BRAVE01_A11: Gegner Lv. 30+ besiegen
+MID_MISSION_H_S201806BRAVE01_A11: Lass Anna grüne Gegner besiegen,\ndie Level 30 oder höher sind.
+MID_MISSION_S201806BRAVE01_A12: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201806BRAVE01_A12: Lass Anna blaue Gegner besiegen,\ndie Level 40 oder höher sind.
+MID_MISSION_S201806BRAVE01_A13: Blau besiegen
+MID_MISSION_H_S201806BRAVE01_A13: Lass Fjorm einen blauen\nGegner besiegen.
+MID_MISSION_S201806BRAVE01_A14: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201806BRAVE01_A14: Lass Fjorm rote Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201806BRAVE01_A15: Gegner Lv. 30+ besiegen
+MID_MISSION_H_S201806BRAVE01_A15: Lass Fjorm blaue Gegner besiegen,\ndie Level 30 oder höher sind.
+MID_MISSION_S201806BRAVE01_A16: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201806BRAVE01_A16: Lass Fjorm rote Gegner besiegen,\ndie Level 40 oder höher sind.
+MID_MISSION_S201806BRAVE01_A17: Rot besiegen
+MID_MISSION_H_S201806BRAVE01_A17: Lass Ike, die Vorreiterlegende\neinen roten Gegner besiegen.
+MID_MISSION_S201806BRAVE01_A18: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201806BRAVE01_A18: Lass Ike, die Vorreiterlegende grüne\nGegner besiegen, die Level 20\noder höher sind.
+MID_MISSION_S201806BRAVE01_A19: Gegner Lv. 30+ besiegen
+MID_MISSION_H_S201806BRAVE01_A19: Lass Ike, die Vorreiterlegende rote\nGegner besiegen, die Level 30\noder höher sind.
+MID_MISSION_S201806BRAVE01_A20: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201806BRAVE01_A20: Lass Ike, die Vorreiterlegende grüne\nGegner besiegen, die Level 40\noder höher sind.
+MPID_伝承リョウマ: Ryoma
+MPID_HONOR_伝承リョウマ: Idealer Samurai
+MPID_H_伝承リョウマ: Der älteste Bruder der Adelsgeschwister\nvon Hoshido. Regiert aus den Himmeln\nvom Rücken eines legendären Kinshi.\nErscheint in Fire Emblem Fates.
+MPID_VOICE_伝承リョウマ: Matt Mercer
+MPID_ILLUST_伝承リョウマ: Kita Senri (北千里)
+MPID_LEGEND_伝承リョウマ: Legendärer Effekt: Wasser\nVerbündetenbonus: KP +3, Ver. +4\n\nGewährt Verbündeten diesen legendären\nEffekt in der Wassersaison, wenn sie mit\nWasser gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_鬼神飛燕の構え1: Falkenstand 1
+MSID_鬼神飛燕の構え2: Falkenstand 2
+MSID_武士道: Kriegers Macht
+MSID_H_鬼神飛燕の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges. +2 im Kampf.
+MSID_H_鬼神飛燕の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr./Ges. +4 im Kampf.
+MSID_H_武士道: Gewährt +10 auf Schaden, wenn\nSpezialangriff ausgelöst wird.
+MID_STAGE_HONOR_T0032: Treue-Heldenkampf
+MID_STAGE_T0032: S & J
+MID_STAGE_HONOR_L0003: Idealer Samurai
+MID_STAGE_L0003: Ryoma

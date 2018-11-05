@@ -1,0 +1,39 @@
+[Heroes Archive] (TIKI)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_HOME1: ふわぁ…このおしろって\n良いにおいがする。\nなんだかねむくなっちゃうよ。
+MID_TIKI_HOME2: チキね、チキね！\nええと…\n今すっごく楽しいよ！
+MID_TIKI_HOME3: $Nuさんが\n呼んでくれたから、チキ、こうして\nみんなと一緒にいられるの。ありがとう！
+MID_TIKI_HOME4: 前はね、こわいゆめを何度も見たの。\nチキが、けものになっちゃうゆめ…\nでも、今はもうへいきなの。
+MID_TIKI_HOME5: こないだ街に行ったらね、\nみんなとってもやさしくしてくれたの。\nとっても楽しかった。
+MID_TIKI_FRIEND: こんにちは！\nチキ、ごあいさつに来たの。
+MID_TIKI_LEVEL1: チキ…なんだか…\n熱くなってきちゃった…
+MID_TIKI_LEVEL2: チキ、がんばったよ。
+MID_TIKI_LEVEL3: チキ、ちょっとねむいの…
+MID_TIKI_SKILL: チキ、すっごく\nつよくなったみたい！
+MID_TIKI_JOIN: チキ、もうねむらなくていいの？\nみんなと一緒にいていいの？\nうれしい！
+MID_TIKI_STRONGEST: えへへ、えへへ～\nチキ、とっても嬉しいの。\nだって、もう一人ぼっちじゃないもん。$k$pこのおしろのみんなといっしょに\n楽しくおはなしするの…\nチキ、すっごく好きなんだ～！$k$p$Nuさんが\nチキをしょうかんしてくれて、\nずっと一緒にいてくれたからだよ。$k$p$Nuさんのこと\nチキ、だいすき！\nずっといっしょにいてね！
+MID_TIKI_VOICE01: えいっ！
+MID_TIKI_VOICE02: やぁっ！
+MID_TIKI_VOICE03: きゃああっ！
+MID_TIKI_VOICE04: いたいよう…
+MID_TIKI_VOICE05: だめ…
+MID_TIKI_VOICE06: 近寄らないで
+MID_TIKI_VOICE07: こわい…
+MID_TIKI_VOICE08: だめーっ！
+MID_TIKI_VOICE09: おにい…ちゃん…
+MID_TIKI_VOICE10: うふふ
+MID_TIKI_VOICE11: ん？　なあに？
+MID_TIKI_VOICE12: ひゃあ！　びっくりしちゃった。
+MID_TIKI_VOICE13: こわいゆめ、みたの。
+MID_TIKI_VOICE14: ねむくなってきちゃった…
+MID_TIKI_VOICE15: おはなしして。おはなし。
+MID_TIKI_VOICE16: すぅ…すぅ…
+MID_TIKI_VOICE17: チキ、もうさみしくないよ。
+MID_TIKI_VOICE18: うんっ
+MID_TIKI_VOICE19: むにゃむにゃ…
+MID_TIKI_VOICE20: チキ、がんばる
+MID_TIKI_VOICE21: チキに会いに来てくれたの？

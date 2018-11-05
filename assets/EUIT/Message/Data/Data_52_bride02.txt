@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201805KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201805KIZUNA01_A1: Con Anna in squadra, vinci la Battaglia legame\ncontro Amelia e Dana.
+MID_MISSION_S201805KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201805KIZUNA01_A2: Con Alfonse, il principe di Askr, in squadra,\nvinci la Battaglia legame contro Amelia e\nDana al livello di difficoltà folle o superiore.
+MID_MISSION_S201805KIZUNA01_A3: Batti Dana
+MID_MISSION_H_S201805KIZUNA01_A3: Batti Dana di livello 40 o superiore\ncon Anna.
+MID_MISSION_S201805KIZUNA01_A4: Batti Amelia
+MID_MISSION_H_S201805KIZUNA01_A4: Batti Amelia di livello 40 o superiore\ncon Alfonse, il principe di Askr.
+MID_MISSION_S201805KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201805KIZUNA01_A5: Vinci la Battaglia legame contro Amelia e\nDana al livello di difficoltà folle o superiore\ncon una squadra di sole unità corazzate.
+MID_MISSION_S201805SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201805SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201805SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201805SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201805SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201805SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201805SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201805SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201805SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201805SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201805SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201805STORY02_TITLE: Fiori nuziali
+MID_MISSION_S201805STORY02_A1: Completa app. 20-1 folle
+MID_MISSION_H_S201805STORY02_A1: Completa l'app. 20, parte 1 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY02_A2: Completa app. 20-2 folle
+MID_MISSION_H_S201805STORY02_A2: Completa l'app. 20, parte 2 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201805STORY02_A3: Completa app. 20-3 folle
+MID_MISSION_H_S201805STORY02_A3: Completa l'app. 20, parte 3 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_花婿マルス: Marth
+MPID_花嫁ニニアン: Ninian
+MPID_花嫁サーリャ: Tharja
+MPID_花嫁サナキ: Sanaki
+MPID_HONOR_花婿マルス: Lo sposo d'Altea
+MPID_HONOR_花嫁ニニアン: La sposa del ballo
+MPID_HONOR_花嫁サーリャ: Sposa ossessiva
+MPID_HONOR_花嫁サナキ: Apostolo in bianco
+MPID_H_花婿マルス: Principe di Altea che combatte per la sua\nterra. Si è vestito da sposo per partecipare\na una festa. Compare in Fire Emblem:\nMystery of the Emblem.
+MPID_H_花嫁ニニアン: Una giovane danzatrice dall'aspetto placido\ne mistico. I suoi viaggi l'hanno condotta a una\nfesta in onore delle spose. Compare in\nFire Emblem: The Blazing Blade.
+MPID_H_花嫁サーリャ: Una maga plegiana con un lato oscuro e una\nvena possessiva. È determinata a mettere le\nmani sul premio della festa... un bouquet.\nCompare in Fire Emblem: Awakening.
+MPID_H_花嫁サナキ: Imperatrice del Begnion. Conosciuta come\nl'Apostolo, la voce della dea. La curiosità\nl'ha spinta a partecipare alla festa delle spose.\nCompare in Fire Emblem: Path of Radiance.
+MPID_VOICE_花婿マルス: Yuri Lowenthal
+MPID_VOICE_花嫁ニニアン: Brianna Knickerbocker
+MPID_VOICE_花嫁サーリャ: Stephanie Sheh
+MPID_VOICE_花嫁サナキ: Sara Beth
+MPID_ILLUST_花婿マルス: Mayo (まよ)
+MPID_ILLUST_花嫁ニニアン: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_花嫁サーリャ: Sencha (煎茶)
+MPID_ILLUST_花嫁サナキ: Tomioka Jiro (富岡二郎)
+MID_SEQUENTIAL_MAP_TERM_201805: Le fiamme di Loki
+MSID_愛のケーキサーバ: Servizio ardente
+MSID_愛のケーキサーバ＋: Servizio ardente+
+MSID_ムスペルの炎花: Fiori di Múspell
+MSID_清らかなブーケ: Bouquet fresco
+MSID_清らかなブーケ＋: Bouquet fresco+
+MSID_ニフルの氷花: Fiori di Nifl
+MSID_攻撃の封印1: Att gelante 1
+MSID_攻撃の封印2: Att gelante 2
+MSID_攻撃の封印3: Att gelante 3
+MSID_守備魔防の連携1: Combo Dif/Res 1
+MSID_守備魔防の連携2: Combo Dif/Res 2
+MSID_守備魔防の連携3: Combo Dif/Res 3
+MSID_速さの共謀1: Finta Vel 1
+MSID_速さの共謀2: Finta Vel 2
+MSID_速さの共謀3: Finta Vel 3
+MSID_H_愛のケーキサーバ: Se l'unità è adiacente a un alleato all'inizio\ndel turno, Att +4 all'unità e agli alleati\nadiacenti per 1 turno.
+MSID_H_愛のケーキサーバ＋: Se l'unità è adiacente a un alleato all'inizio\ndel turno, Att +4 all'unità e agli alleati\nadiacenti per 1 turno.
+MSID_H_ムスペルの炎花: Conferisce Vel +3. Att/Vel dell'unità\naumentano di un valore pari al numero\ndegli alleati entro 2 spazi ×2 durante\nlo scontro (bonus massimo di +6\nper ogni parametro).
+MSID_H_清らかなブーケ: Se l'unità è adiacente a un alleato all'inizio\ndel turno, Vel +4 all'unità e agli alleati\nadiacenti per 1 turno.
+MSID_H_清らかなブーケ＋: Se l'unità è adiacente a un alleato all'inizio\ndel turno, Vel +4 all'unità e agli alleati\nadiacenti per 1 turno.
+MSID_H_ニフルの氷花: Conferisce Att +3. Att/Vel dell'unità\naumentano di un valore pari al numero\ndegli alleati entro 2 spazi ×2 durante\nlo scontro (bonus massimo di +6\nper ogni parametro).
+MSID_H_攻撃の封印1: Infligge Att -3 al nemico con l'Att maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_攻撃の封印2: Infligge Att -5 al nemico con l'Att maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_攻撃の封印3: Infligge Att -7 al nemico con l'Att maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_守備魔防の連携1: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Dif/Res +2 all'unità e\nall'alleato per 1 turno.
+MSID_H_守備魔防の連携2: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Dif/Res +4 all'unità e\nall'alleato per 1 turno.
+MSID_H_守備魔防の連携3: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Dif/Res +6 all'unità e\nall'alleato per 1 turno.
+MSID_H_速さの共謀1: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Vel -3\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MSID_H_速さの共謀2: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Vel -5\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MSID_H_速さの共謀3: Se l'unità usa un'abilità di aiuto della serie\nSprone su un alleato o viceversa, Vel -7\na tutti i nemici nei punti cardinali rispetto\nall'unità durante le loro prossime azioni.
+MID_CHAPTER_TITLE_CX019: Appendice 20
+MID_CHAPTER_CX019: Fiori nuziali
+MID_STAGE_TITLE_X0191: Appendice 20-1
+MID_STAGE_TITLE_X0192: Appendice 20-2
+MID_STAGE_TITLE_X0193: Appendice 20-3
+MID_STAGE_X0191: Arriva lo sposo
+MID_STAGE_X0192: Incertezze velate
+MID_STAGE_X0193: Amore e guerra
+MID_STAGE_TITLE_ST_X0018: Appendice 19
+MID_STAGE_TITLE_ST_X0019: Appendice 20
+MID_STAGE_TITLE_ST_X1019: App. 19 e 20
+MID_CHAPTER_ST_CX010: App. 19 e 20

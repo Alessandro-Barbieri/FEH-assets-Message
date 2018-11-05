@@ -1,0 +1,38 @@
+[Heroes Archive] (JENNY)
+
+
+Heroes Message Name: Message
+
+
+MID_JENNY_HOME1: Dieses Schloss ist so schön, ich\nfühle mich wie eine Prinzessin! Ich\nwürde gern für immer hierbleiben.
+MID_JENNY_HOME2: Ich? Nun... Ich wuchs in einem\nKloster auf.$k$pIch habe einen Vater... Aber ich\nkann ihn nicht sehen. Ich wünschte\nwirklich, dass es möglich wäre.
+MID_JENNY_HOME3: Ich mache mir Sorgen um dich! Du\nbist immer unterwegs. Mach es wie\nich und ruhe dich auch mal aus.
+MID_JENNY_HOME4: Ich schreibe eine Geschichte. Es\nwäre schön, wenn jemand sie lesen\nwürde. Hast du später vielleicht Zeit?
+MID_JENNY_HOME5: ...\n...\n...$k$pOh! Tut mir leid! Ich denke über eine\nneue Idee für eine Geschichte nach.\nSoll ich dir davon erzählen?
+MID_JENNY_FRIEND: Entschuldige... Ich soll dir einen\nschönen Gruß ausrichten - von\n$Nf.
+MID_JENNY_LEVEL1: Ja! Ich werde stärker, stimmt's?
+MID_JENNY_LEVEL2: Oh, das freut mich wirklich!
+MID_JENNY_LEVEL3: Oh... Das ist enttäuschend.
+MID_JENNY_SKILL: Wie aufregend! Wirke ich jetzt\nirgendwie anders auf dich?
+MID_JENNY_JOIN: Mein Name ist Genny. Ich bin etwas\nnervös, weil ich hier keinen kenne...\nIch hoffe, wir kommen gut zurecht.
+MID_JENNY_STRONGEST: Kann ich dich etwas fragen? Was\nhältst du davon, etwas mehr Zeit\nmit mir zu verbringen?$k$pWenn du Zeit hast, könnten wir Tee\ntrinken oder einen Spaziergang im\nWald oder am See machen...$k$pOder ist das zu viel verlangt? Ich\nmöchte deine Gesellschaft auch\nnicht überstrapazieren.$k$pDie Leute sagen immer, ich sei wie\neine kleine Schwester.$k$pAber ich würde gern mehr für dich\nsein als klein und niedlich.$k$pIch werde mein Bestes tun, um\nstärker zu werden und auf\neigenen Beinen zu stehen.$k$pIch hoffe, dass du irgendwann\nverstehen wirst, was ich meine.
+MID_JENNY_VOICE01: よいしょっ
+MID_JENNY_VOICE02: えーいっ
+MID_JENNY_VOICE03: きゃああああーっ！
+MID_JENNY_VOICE04: No way, how?!
+MID_JENNY_VOICE05: Du musst dich bewegen!
+MID_JENNY_VOICE06: Jetzt bin ich wütend!
+MID_JENNY_VOICE07: Ich mag dich nicht!
+MID_JENNY_VOICE08: Tut mir leid!
+MID_JENNY_VOICE09: Oh, no...
+MID_JENNY_VOICE10: Heehee...
+MID_JENNY_VOICE11: Ich helfe dir!
+MID_JENNY_VOICE12: Kopf hoch!
+MID_JENNY_VOICE13: Did you need something?
+MID_JENNY_VOICE14: HEY! That tickles!
+MID_JENNY_VOICE15: Well, you've got my attention!
+MID_JENNY_VOICE16: You know... If I could, I'd like to meet my father.
+MID_JENNY_VOICE17: Just so you know...I'd do whatever I could to help.
+MID_JENNY_VOICE18: Sure!
+MID_JENNY_VOICE19: So...
+MID_JENNY_VOICE20: Here I go!

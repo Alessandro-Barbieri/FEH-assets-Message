@@ -1,0 +1,8 @@
+[Heroes Archive] (T0016)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_エフラム,ch08_00_Ephraim_M_Normal,Face|$w0|N'hésite pas à m'appeler si tu as\nbesoin d'aide, Eirika. Je volerai\nà ton secours.$k$p$WmMPID_エイリーク,ch08_01_Eirik_F_Normal,Face|$w0|Merci, Ephraim. Mais quoi qu'il\narrive, je continuerai de me battre.\nAprès tout, je suis ta sœur !$k$p$Sbs1000|

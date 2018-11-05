@@ -1,0 +1,38 @@
+[Heroes Archive] (KLEINE)
+
+
+Heroes Message Name: Message
+
+
+MID_KLEINE_HOME1: 異界の英雄ねえ…あんたに\n絶対服従してない奴もいるみたいだけど。\nどうするの？　念のために殺しとく？
+MID_KLEINE_HOME2: アイネはあたしの姉なんかじゃないわ。\n子供の頃、二人で勝手にそう言ってただけ。\n…なんで、あんな約束したのかしらね。
+MID_KLEINE_HOME3: ねえ、あんまり無理しないで休みなさいよ。\n言うこと聞かないんだったら、この弓で\nあたしが永遠に眠らせてやるから。
+MID_KLEINE_HOME4: 勘違いしないでよね。\nあんたに従ってあげてんのは、\nあくまで契約のせいなんだから。
+MID_KLEINE_HOME5: ねえ、もしあたしが負けて…\nあたしに価値がなくなったら…\n……　…なんでもないわ。忘れて。
+MID_KLEINE_FRIEND: $Nfから挨拶。\n…何？　なんかあたしに不満でもあるわけ？\n撃ち殺さないだけ感謝しなさいよ。
+MID_KLEINE_LEVEL1: うそっ！？　…ま、まあ、\nあたしにとっては当然だけど。
+MID_KLEINE_LEVEL2: あたしは使えないクズじゃ\nないってこと。わかった？
+MID_KLEINE_LEVEL3: こんな姿…\n見られたくない…
+MID_KLEINE_SKILL: ふーん…一応、あんたに\n感謝してあげなくもないけど。
+MID_KLEINE_JOIN: あたしはクライネ。\nそのへんにいる無価値なクズと\nあたしを一緒にしないでよね。
+MID_KLEINE_STRONGEST: …考えてみたら、\nあたしがあんたのとこに来てから、\nずいぶん経ったもんね。$k$pあんたや他の連中と\nこの城で一緒に寝起きして、\nあんたと喧嘩したり協力したり…$k$pねえ…\n家族っていうのも、\nこんな感じなのかしらね…$k$pは、はぁ！？\nあたしが家族が欲しいとか、\nそんなわけないでしょ！？$k$pバ、バカじゃないの！\n変なこと言ってると\n撃ち殺すわよ！
+MID_KLEINE_VOICE01: はっ！
+MID_KLEINE_VOICE02: ふんっ！
+MID_KLEINE_VOICE03: きゃああっ！
+MID_KLEINE_VOICE04: 殺してやるから…
+MID_KLEINE_VOICE05: このゴミクズ
+MID_KLEINE_VOICE06: 撃ち殺してあげる
+MID_KLEINE_VOICE07: あたしのものね
+MID_KLEINE_VOICE08: 死になさいな
+MID_KLEINE_VOICE09: 見て…なさいよ…
+MID_KLEINE_VOICE10: ふふっ
+MID_KLEINE_VOICE11: 何？　私に用があるわけ？
+MID_KLEINE_VOICE12: きゃっ！？　…あんた、殺されたいわけ？
+MID_KLEINE_VOICE13: あたしのことなんて、どうでもいいでしょ
+MID_KLEINE_VOICE14: なんで、あたしに優しくすんのよ
+MID_KLEINE_VOICE15: 本当にもう…むかつくわ
+MID_KLEINE_VOICE16: また…あたし…一人…
+MID_KLEINE_VOICE17: あんたの言うことは聞いてあげるわ
+MID_KLEINE_VOICE18: 仕方ないわね
+MID_KLEINE_VOICE19: 面倒ね…
+MID_KLEINE_VOICE20: 行くわよ

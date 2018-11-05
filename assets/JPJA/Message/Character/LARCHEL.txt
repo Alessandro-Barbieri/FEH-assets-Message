@@ -1,0 +1,38 @@
+[Heroes Archive] (LARCHEL)
+
+
+Heroes Message Name: Message
+
+
+MID_LARCHEL_HOME1: たとえ、いつ、どこの世界でも、\n正義を乱す輩は許しませんわ。
+MID_LARCHEL_HOME2: この世界は、不浄なる魔物に満ちた\nマギ・ヴァルとは違うようですわね。\nそれなのに人と人が争うなど、残念ですわ。
+MID_LARCHEL_HOME3: まあ、$Nu。\nあまり寝ていないのでしょう？\n目の下にクマができていますわよ！
+MID_LARCHEL_HOME4: あなたも道に迷われましたの？\nどの世界でも城の中はややこしいですわ。\nさ、部屋まで案内してくださいな。
+MID_LARCHEL_HOME5: えい！　えい！\nご覧くださいな、この華麗な杖さばき。\nこれで敵をぽこぽこにしてやるのですわ！
+MID_LARCHEL_FRIEND: $Nfのご友人ですの？\nいえ、言わなくてもわかりますわ。\n高貴な使命を持つ者は導かれあうのです！
+MID_LARCHEL_LEVEL1: 高貴で気高く上品なわたくしに\nふさわしい成長を感じますわ。\nこれこそ神のお導きですわ！
+MID_LARCHEL_LEVEL2: また強くなりましたわ。\nお父様とお母様にも、\nきっとほめてもらえますわ。
+MID_LARCHEL_LEVEL3: うう…\nこれも神の与えし試練ですわ…
+MID_LARCHEL_SKILL: わたくしの華麗な活躍を\nもっともっとお見せしますわ。\n期待していいですわよ！
+MID_LARCHEL_JOIN: 正義と秩序の使者\nラーチェルここに参上ですわ！\nどうぞよしなに。
+MID_LARCHEL_STRONGEST: こんなところにいましたの。\n…ちょっとお話がありますわ。\nほかでもない、あなたのことですの。$k$p…わたくしがいた世界では、\n闇の樹海からあふれ出た魔物に\n多くの人が襲われましたわ。$k$pお父様とお母様も魔物たちの群れと戦い、\n人々を守って命を落としたのだとか…\nロストン聖教国の、わたくしの誇りですわ。$k$p$Nu、あなたも\nこの世界の正義と秩序のために戦う…\n大いなる使命に導かれているのですわ！$k$pだから約束ですわよ。\n志なかばで倒れるようなこと、\nあってはなりませんわ…
+MID_LARCHEL_VOICE01: えいっ
+MID_LARCHEL_VOICE02: えいえいえいっ
+MID_LARCHEL_VOICE03: きゃああっ！
+MID_LARCHEL_VOICE04: まあっ…こんな…
+MID_LARCHEL_VOICE05: 成敗しますわ！
+MID_LARCHEL_VOICE06: ご覧なさい！
+MID_LARCHEL_VOICE07: 参上ですわ！
+MID_LARCHEL_VOICE08: 許しませんわよ！
+MID_LARCHEL_VOICE09: いけません…わ…
+MID_LARCHEL_VOICE10: ふふっ
+MID_LARCHEL_VOICE11: そう！　わたくしこそがロストン聖教国の…あ、秘密なのでしたわ。
+MID_LARCHEL_VOICE12: きゃあっ！？　いきなり何をなさいますの！
+MID_LARCHEL_VOICE13: 【麗しの絶世美王女】ラーチェル…この名を覚えておくと良いですわ。
+MID_LARCHEL_VOICE14: 無いものを嘆くより、あるものに感謝する心が大切でしてよ。
+MID_LARCHEL_VOICE15: わたくしが英雄と呼ばれるだなんて…ああ、うっとりですわ…
+MID_LARCHEL_VOICE16: お父様、お母様…だめですわね、わたくしったら…
+MID_LARCHEL_VOICE17: あなたの傍にいてさしあげますわ。わたくしと寝食を共になさい。
+MID_LARCHEL_VOICE18: そうですわね。
+MID_LARCHEL_VOICE19: さっそうと
+MID_LARCHEL_VOICE20: 行きますわよ！

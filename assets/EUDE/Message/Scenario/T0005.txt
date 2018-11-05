@@ -1,0 +1,8 @@
+[Heroes Archive] (T0005)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ゼフィール,ch02_08_Zefhyr_M_Normal,Face|$w0|Ich werde die Herrschaft von\nEuresgleichen über die Welt\nbeenden ...$k$pIch lasse nicht zu, dass mir jemand\nvon Euch in die Quere kommt!$k$p$Sbs1000|

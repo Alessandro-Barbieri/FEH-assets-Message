@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_LEGEND01_HOME1: 地虫のように無様に這い回るか、\n虫けらのように潰れて死ぬか。ふふ…\nどちらも虫には変わりありませんね。
+MID_REFLET_F_LEGEND01_HOME2: 頭が割れそうです…\n彼方の世界にいたときのことは\n何も思い出せない。何も…
+MID_REFLET_F_LEGEND01_HOME3: あなたも偽善を捨てて、心からの願いを\n口にしてみてはどうです？　私なら\n叶えてあげられるかもしれませんよ…
+MID_REFLET_F_LEGEND01_HOME4: あなたは人間の割に見所がありますね。\nほかの虫よりはまし、という程度ですが\n私のそばに置いてもよいでしょう。
+MID_REFLET_F_LEGEND01_HOME5: 記憶があってもなくても、\n私が世界を壊すのは決まったこと。\n記憶が戻れば気が変わるとでも？
+MID_REFLET_F_LEGEND01_FRIEND: ふふ…そんなに怖い顔をしないで下さい。\n$Nfは無事ですよ。\nまだ、ね。
+MID_REFLET_F_LEGEND01_LEVEL1: ふふふ！\n小賢しい虫けらどもに！\n絶対的な恐怖を与えてあげましょう！
+MID_REFLET_F_LEGEND01_LEVEL2: そうですね…\n虫けらを始末するには\nこの程度でも十分です。
+MID_REFLET_F_LEGEND01_LEVEL3: 人間風情が相手なら、\n今ある力で十分ですから…
+MID_REFLET_F_LEGEND01_SKILL: 神にも勝るこの力で\nこの世界にも破滅と絶望を…
+MID_REFLET_F_LEGEND01_JOIN: 我はギムレー。破滅と絶望の竜。\n相応の敬意を払うなら、あなたも\n苦しまずに殺してあげましょう。
+MID_REFLET_F_LEGEND01_STRONGEST: あなた、また媚を売りにきたのですか。\n本当に鬱陶しい…\n人間と話すことなど何もありません。$k$p種族の差や思想の違いを乗り越え\n手を取り合う、そんな綺麗ごとは幻想です。$k$p現にここでも終わらない争いが\n日夜続いているではありませんか。$k$p目の前の誰かが満たされれば、\n別の誰かが満たされない。\nそれが世界の理です。$k$p我が破壊こそ、等しく平らにする力…\n愛や絆などいう不埒な感情で世界を導ける\n者がいるならば、会ってみたいものです。$k$p…まだ大口を叩くのですか。いいでしょう、\nあなたの行く末を見届けることに\nしましょう。最期の時までね…！
+MID_REFLET_F_LEGEND01_VOICE01: はぁっ！
+MID_REFLET_F_LEGEND01_VOICE02: 殺します
+MID_REFLET_F_LEGEND01_VOICE03: きゃああっ！
+MID_REFLET_F_LEGEND01_VOICE04: 面倒ですね…
+MID_REFLET_F_LEGEND01_VOICE05: 我はギムレー
+MID_REFLET_F_LEGEND01_VOICE06: 消えますか？
+MID_REFLET_F_LEGEND01_VOICE07: 食い殺してあげます
+MID_REFLET_F_LEGEND01_VOICE08: おしまいです
+MID_REFLET_F_LEGEND01_VOICE09: こんな…虫けらに…
+MID_REFLET_F_LEGEND01_VOICE10: ふふっ
+MID_REFLET_F_LEGEND01_VOICE11: 我はギムレー。破滅と絶望の竜…
+MID_REFLET_F_LEGEND01_VOICE12: 私の体に興味があるのですか？
+MID_REFLET_F_LEGEND01_VOICE13: 空を越えた際に…記憶を半ば失ったようですね…
+MID_REFLET_F_LEGEND01_VOICE14: 奇妙ですね。あなたには、私と近しい何かを感じます…
+MID_REFLET_F_LEGEND01_VOICE15: 私の記憶を取り戻す手伝いをすれば、命は助けてあげます。
+MID_REFLET_F_LEGEND01_VOICE16: 私が人間なら…あなたたちと共に生きられる存在だったなら…
+MID_REFLET_F_LEGEND01_VOICE17: 私の半身となるか、それとも死ぬか…選ばせてあげます。
+MID_REFLET_F_LEGEND01_VOICE18: ええ
+MID_REFLET_F_LEGEND01_VOICE19: 誰から殺しますか？
+MID_REFLET_F_LEGEND01_VOICE20: 選ばせてあげましょう。

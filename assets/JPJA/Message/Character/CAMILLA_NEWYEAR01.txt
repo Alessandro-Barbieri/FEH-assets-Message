@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_NEWYEAR01_HOME1: 白い着物でいると、\n特務機関の一員みたいで嬉しいわ。\n私の上官があなたならとっても素敵ね。
+MID_CAMILLA_NEWYEAR01_HOME2: 白夜王国との親交の証に、\n着物で新年をお祝いしていたの。\n互いの文化を理解するのは大切よね。
+MID_CAMILLA_NEWYEAR01_HOME3: 任務に励むのはいいけれど、\nお正月ぐらいゆっくり過ごしてもいいのよ。\n私、今年はもっとあなたと話したいわ。
+MID_CAMILLA_NEWYEAR01_HOME4: あらたいへん、着崩れてきてしまったわ。\n悪いけれど直すのを手伝ってくれない？\nふふ…そんなに照れなくてもいいのよ。
+MID_CAMILLA_NEWYEAR01_HOME5: 武器をお手入れしていたところよ。\nこれは「カドマツ」という飾りなの。\n鋭利な先端がとっても素敵だと思わない？
+MID_CAMILLA_NEWYEAR01_FRIEND: うふふ…新年の挨拶に来たわよ。\n今年も$Nfと\n仲良くしてあげてちょうだいね。
+MID_CAMILLA_NEWYEAR01_LEVEL1: 新年はいいことが\nたくさんあるわね。
+MID_CAMILLA_NEWYEAR01_LEVEL2: 今年の私は\n一味違うわよ。
+MID_CAMILLA_NEWYEAR01_LEVEL3: 今年はのんびり\n行きましょうか…
+MID_CAMILLA_NEWYEAR01_SKILL: 新しい年に相応しい力ね。\n嬉しいわ、$Nu。
+MID_CAMILLA_NEWYEAR01_JOIN: 暗夜王国の王女、カミラよ。\n今年は白夜式に新年を祝っているの。\nあけましておめでとう。
+MID_CAMILLA_NEWYEAR01_STRONGEST: 私の可愛い$Nu…\n今日も良いお正月を過ごしている？\nそう。それならいいのだけれど。$k$p文化の違いこそあれど\n年明けは家族で過ごすことが多いのに、\nあなたはこの世界に家族がいないから…$k$p寂しい思いをしていないか気がかりだったの。\nもし何かあったらいつでも言って。\n私はもう、あなたの家族同然なのだから、$k$p新年初めての膝枕でも添い寝でも\n何でも付き合ってあげるわよ。\n一緒に初夢を見るのもいいわね。$k$pそうしたら私、どの英雄よりも強くなって\nあなたの一番近くにいる夢が見たいわ。\nいつか、正夢になるかしらね？
+MID_CAMILLA_NEWYEAR01_VOICE01: えいっ
+MID_CAMILLA_NEWYEAR01_VOICE02: どうかしら
+MID_CAMILLA_NEWYEAR01_VOICE03: くっ…！
+MID_CAMILLA_NEWYEAR01_VOICE04: あらまあ…
+MID_CAMILLA_NEWYEAR01_VOICE05: ハッピーニューイヤー
+MID_CAMILLA_NEWYEAR01_VOICE06: お祝いしましょ
+MID_CAMILLA_NEWYEAR01_VOICE07: はしたないかしら？
+MID_CAMILLA_NEWYEAR01_VOICE08: いいお正月ね
+MID_CAMILLA_NEWYEAR01_VOICE09: 着物が台無しだわ…
+MID_CAMILLA_NEWYEAR01_VOICE10: ふふっ
+MID_CAMILLA_NEWYEAR01_VOICE11: 新年のあなたも素敵よ
+MID_CAMILLA_NEWYEAR01_VOICE12: これは晴れ着というのよ、似合うかしら？
+MID_CAMILLA_NEWYEAR01_VOICE13: 白夜王国の着物は色鮮やかで素敵ね
+MID_CAMILLA_NEWYEAR01_VOICE14: あなたは誰と年越しをしたの？　そう…なんだか妬けちゃうわね
+MID_CAMILLA_NEWYEAR01_VOICE15: ふう…胸の辺りがちょっときついわ、帯を緩めてくれる？
+MID_CAMILLA_NEWYEAR01_VOICE16: 私の可愛い臣下たちにも、晴れ着を着せてあげたいわ
+MID_CAMILLA_NEWYEAR01_VOICE17: また来年もこうして一緒に新年を迎えましょう。\nふふ…私とあなたとの、約束よ？
+MID_CAMILLA_NEWYEAR01_VOICE18: そうね
+MID_CAMILLA_NEWYEAR01_VOICE19: 行きましょ
+MID_CAMILLA_NEWYEAR01_VOICE20: おめでとう
+MID_CAMILLA_NEWYEAR01_VOICE21: 新しい年だもの、私の力が必要よね？

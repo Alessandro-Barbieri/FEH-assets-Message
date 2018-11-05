@@ -1,0 +1,38 @@
+[Heroes Archive] (ZERO)
+
+
+Heroes Message Name: Message
+
+
+MID_ZERO_HOME1: La forme de votre arme est tout\nà fait intéressante... Je parie que\nvous aimez vous en servir.
+MID_ZERO_HOME2: Mon seigneur, Messire Leo, m'a\nsauvé d'une vie misérable. Je le\nprotégerai jusqu'à ma mort.
+MID_ZERO_HOME3: Vous devriez vous reposer...\nJe peux vous montrer où faire\nune sieste, si vous voulez.
+MID_ZERO_HOME4: Venez admirer les étoiles avec moi.\nNe vous en faites pas, je ne mords\nque si on me le demande...
+MID_ZERO_HOME5: Le prince que vous servez semble fait\nde porcelaine. Quelques éraflures\nlui donneraient bien plus de cachet.
+MID_ZERO_FRIEND: $Nf m'a\ndemandé de vous saluer. J'aimerais\ntant en savoir plus sur votre relation...
+MID_ZERO_LEVEL1: Mon bonheur fera le malheur d'un\nautre.
+MID_ZERO_LEVEL2: Je mérite mieux.
+MID_ZERO_LEVEL3: Dommage.
+MID_ZERO_SKILL: Oh, que m'avez-vous fait ?\nC'est très plaisant.
+MID_ZERO_JOIN: Je suis Niles, du royaume de Nohr.\nJe ne vaux pas grand-chose, mais\nmes flèches sont à votre service.
+MID_ZERO_STRONGEST: $GCher,Chère| $Nu...\nNous faisons la paire, vous et moi.\nVous ne trouvez pas ?$k$pLaissez-moi vous dire que notre\nrelation m'a fait grandir... Je me\nsens un autre homme !$k$pHonnêtement, la première fois que je\nvous ai $Grencontré,rencontrée|, je ne pensais pas\nque nous pourrions nous entendre...$k$pMais tout ça, c'est du passé.\nJe ne peux plus me passer\nde vous, maintenant !$k$pD'ailleurs, je me demandais...\nMe considérez-vous comme un\nsimple héros ou comme un ami ?$k$pJe sais que je ne suis pas du goût de\ntout le monde, mais ne dit-on pas que\ntous les goûts sont dans la nature ?$k$pVous... Vous me faites confiance ?\nC'est amusant, j'ai déjà entendu ces\nmots de la bouche d'un proche...$k$pJe serai votre ami, quoi qu'il arrive.\nEt comme vous le savez... je prends\ntoujours soin de mes amis.
+MID_ZERO_VOICE01: いくぞ
+MID_ZERO_VOICE02: How's this?
+MID_ZERO_VOICE03: うああっ
+MID_ZERO_VOICE04: な、にすんだ…！
+MID_ZERO_VOICE05: Inutile de fuir !
+MID_ZERO_VOICE06: Prends ça !
+MID_ZERO_VOICE07: Goûte-moi ça !
+MID_ZERO_VOICE08: Tu en veux ?
+MID_ZERO_VOICE09: Broken...
+MID_ZERO_VOICE10: Ohhhh!
+MID_ZERO_VOICE11: Now, now. Be gentle.
+MID_ZERO_VOICE12: Yours until I break, master.
+MID_ZERO_VOICE13: A little advice: wear white, and you invite mudslinging.
+MID_ZERO_VOICE14: So, I came out of that weapon of yours. Scandalous.
+MID_ZERO_VOICE15: Don't you just love to gaze at a full moon?
+MID_ZERO_VOICE16: Where is Lord Leo? I'm sworn to protect him.
+MID_ZERO_VOICE17: You and your prince are in quite a difficult position. I will be glad to assist.
+MID_ZERO_VOICE18: Really?
+MID_ZERO_VOICE19: Yes!
+MID_ZERO_VOICE20: Let's go.

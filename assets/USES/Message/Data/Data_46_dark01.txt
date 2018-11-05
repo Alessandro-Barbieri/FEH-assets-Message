@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: Bendición de agua
+MID_MISSION_S201802BLESS01_A1: Victoria acuosa
+MID_MISSION_H_S201802BLESS01_A1: Vence a enemigos con un héroe\nque tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A2: Victoria acuosa
+MID_MISSION_H_S201802BLESS01_A2: Vence a enemigos de nivel 20 o superior\ncon un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A3: Victoria acuosa
+MID_MISSION_H_S201802BLESS01_A3: Vence a enemigos de tipo rojo de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A4: Victoria acuosa
+MID_MISSION_H_S201802BLESS01_A4: Vence a enemigos de tipo azul de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A5: Victoria acuosa
+MID_MISSION_H_S201802BLESS01_A5: Vence a enemigos de tipo verde de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A6: T. de práctica - Estrato 1
+MID_MISSION_H_S201802BLESS01_A6: Supera el primer estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A7: T. de práctica - Estrato 5
+MID_MISSION_H_S201802BLESS01_A7: Supera el quinto estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201802BLESS01_A8: T. de práctica - Estrato 10
+MID_MISSION_H_S201802BLESS01_A8: Supera el décimo estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201802STORY02_TITLE: Sangre y nieve
+MID_MISSION_S201802STORY02_A1: Cap. 5 - Parte 1: Extremo
+MID_MISSION_H_S201802STORY02_A1: En el libro II, supera la 1.ª parte del capítulo 5\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201802STORY02_A2: Cap. 5 - Parte 2: Extremo
+MID_MISSION_H_S201802STORY02_A2: En el libro II, supera la 2.ª parte del capítulo 5\nen modo extremo con un lancero en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201802STORY02_A3: Cap. 5 - Parte 3: Extremo
+MID_MISSION_H_S201802STORY02_A3: En el libro II, supera la 3.ª parte del capítulo 5 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201802STORY02_A4: Cap. 5 - Parte 4: Extremo
+MID_MISSION_H_S201802STORY02_A4: En el libro II, supera la 4.ª parte del capítulo 5\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201802STORY02_A5: Cap. 5 - Parte 5: Extremo
+MID_MISSION_H_S201802STORY02_A5: En el libro II, supera la 5.ª parte del capítulo 5\nen modo extremo con un lancero en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MEID_レーギャルン: Laegjarn
+MPID_レーギャルン: Laegjarn
+MEID_HONOR_レーギャルン: Acero envainado
+MEID_H_レーギャルン: Primera princesa de Múspell, el reino\ndel fuego, y hermana mayor de Laevatein.\nComo general, dirige el ejército de Múspell\ncon dignidad.
+MEID_VOICE_レーギャルン: Alicia Stratten
+MEID_ILLUST_レーギャルン: Maeshima Shigeki (前嶋重機)
+MPID_魔女セリカ: Celica
+MPID_HONOR_魔女セリカ: Alma sometida
+MPID_H_魔女セリカ: La forma de bruja de Celica tras entregarle\nsu alma a Duma. Parece que a veces\nrecuerda partes de su pasado. Aparece en\nFire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_魔女セリカ: Erica Lindbeck
+MPID_ILLUST_魔女セリカ: Fujikawa Akira (藤川祥)
+MPID_暗黒ハーディン: Hardin
+MPID_HONOR_暗黒ハーディン: Soberano oscuro
+MPID_H_暗黒ハーディン: Emperador del sacro imperio de Akaneia.\nConocido como el Soberano oscuro por\nsu sangriento reinado. Aparece en\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_暗黒ハーディン: Richard Epcar
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: Robin
+MPID_HONOR_邪竜ルフレ男: Dragón renacido
+MPID_H_邪竜ルフレ男: El estratega ylissense Robin. Grima, el\nDragón caído, controla su cuerpo y su alma.\nAparece en Fire Emblem Awakening.
+MPID_VOICE_邪竜ルフレ男: David Vincent
+MPID_ILLUST_邪竜ルフレ男: Okuma Yugo (大熊ゆうご)
+MPID_眷属タクミ: Takumi
+MPID_HONOR_眷属タクミ: Ente vacío
+MPID_H_眷属タクミ: Príncipe de Hoshido poseedor del arco\nmaligno Skadi. Ama su patria, pero cumple\nla voluntad de los Dragones primigenios.\nAparece en Fire Emblem Fates.
+MPID_VOICE_眷属タクミ: Michael Sinterniklaas
+MPID_ILLUST_眷属タクミ: Hino Shinnosuke (日野慎之助)
+MSID_ニーウ: Níu
+MSID_宝剣ソフィア: Honor de Zofia
+MSID_スカディ: Skadi
+MSID_邪竜のブレス: Trance
+MSID_守備魔防の大覚醒1: Altivez Def./Res. 1
+MSID_守備魔防の大覚醒2: Altivez Def./Res. 2
+MSID_守備魔防の大覚醒3: Altivez Def./Res. 3
+MSID_速さの封印1: Vel. gélida 1
+MSID_速さの封印2: Vel. gélida 2
+MSID_速さの封印3: Vel. gélida 3
+MSID_竜盾の紋章: Muro dragontino
+MSID_H_ニーウ: Vel. +3. Durante un ataque, suma el 50 %\nde las bonificaciones del rival al Atq., Vel.,\nDef. y Res. de la unidad.
+MSID_H_宝剣ソフィア: Def. +3. Si la unidad tiene PV = 100 %,\nrecibe Atq., Vel., Def. y Res. +4, pero si\nla unidad ataca, recibe 4 de daño después\ndel combate.
+MSID_H_スカディ: Eficaz frente a unidades aéreas. Otorga\nVel. +3. Al principio del tercer turno, los\nenemigos en un radio de tres columnas\nsufren 10 de daño y sus bonificaciones se\nvuelven penalizaciones en su próxima acción.
+MSID_H_邪竜のブレス: Permite contratacar independientemente\nde lo lejos que esté el enemigo. Contra\nenemigos con alcance de 2, el daño se\ncalcula a partir de la Def. o la Res. del\nenemigo (la que tenga el valor más bajo).
+MSID_H_守備魔防の大覚醒1: Otorga Def. y Res. +3 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
+MSID_H_守備魔防の大覚醒2: Otorga Def. y Res. +5 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
+MSID_H_守備魔防の大覚醒3: Otorga Def. y Res. +7 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
+MSID_H_速さの封印1: Al comienzo de cada turno, Vel. -3 al\nenemigo que tenga la mayor Vel. en\nsu próxima acción.
+MSID_H_速さの封印2: Al comienzo de cada turno, Vel. -5 al\nenemigo que tenga la mayor Vel. en\nsu próxima acción.
+MSID_H_速さの封印3: Al comienzo de cada turno, Vel. -7 al\nenemigo que tenga la mayor Vel. en\nsu próxima acción.
+MSID_H_竜盾の紋章: Def. y Res. +4 a los dragones aliados en\nun radio de dos casillas durante ataques.
+MID_CHAPTER_TITLE_C0205: Libro II - Cap. 5
+MID_CHAPTER_C0205: Sangre y nieve
+MID_STAGE_TITLE_S2051: Cap. 5 - Parte 1
+MID_STAGE_TITLE_S2052: Cap. 5 - Parte 2
+MID_STAGE_TITLE_S2053: Cap. 5 - Parte 3
+MID_STAGE_TITLE_S2054: Cap. 5 - Parte 4
+MID_STAGE_TITLE_S2055: Cap. 5 - Parte 5
+MID_STAGE_S2051: Persecución en la nieve
+MID_STAGE_S2052: La danza de la bruja
+MID_STAGE_S2053: El Dragón caído renace
+MID_STAGE_S2054: El Soberano oscuro
+MID_STAGE_S2055: Cacería ígnea
+MID_STAGE_HONOR_T0026: Ente vacío
+MID_STAGE_T0026: Takumi
+MID_STAGE_HONOR_V0181: Diariamente
+MID_STAGE_V0181: Parte 21
+MID_STAGE_HONOR_V0182: Diariamente
+MID_STAGE_V0182: Parte 22
+MID_STAGE_HONOR_V0183: Diariamente
+MID_STAGE_V0183: Parte 23
+MID_STAGE_HONOR_V0184: Diariamente
+MID_STAGE_V0184: Parte 24
+MID_STAGE_HONOR_V0185: Diariamente
+MID_STAGE_V0185: Parte 25

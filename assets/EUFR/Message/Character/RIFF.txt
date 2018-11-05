@@ -1,0 +1,38 @@
+[Heroes Archive] (RIFF)
+
+
+Heroes Message Name: Message
+
+
+MID_RIFF_HOME1: Lorsque vous m'avez invoqué, j'ai cru\nque les portes des cieux s'ouvraient à\nmoi et que mon heure était venue !
+MID_RIFF_HOME2: Oh... J'espère que les enfants\nde l'orphelinat se portent bien\nen mon absence...
+MID_RIFF_HOME3: J'aimerais vous accompagner lors\nde vos rondes, hélas mes vieux os\nne tiendraient pas la cadence !
+MID_RIFF_HOME4: Il est fondamental de prendre le\ntemps de méditer tous les jours.\nL'empressement ne mène à rien.
+MID_RIFF_HOME5: Ma coupe de cheveux me fait gagner\nbeaucoup de temps le matin. Je peux\nvous faire la même, si vous voulez !
+MID_RIFF_FRIEND: Je suis Wrys, modeste vicaire.\nJe ne peux combattre, mais ce\nbâton peut guérir les blessés.
+MID_RIFF_LEVEL1: Les miracles existent bel et bien,\non dirait !
+MID_RIFF_LEVEL2: C'est plutôt satisfaisant, pour\nquelqu'un de mon âge.
+MID_RIFF_LEVEL3: Oh, peut-être suis-je trop vieux pour\ncombattre, après tout...
+MID_RIFF_SKILL: Un pari risqué, s'il en est ! Je tâcherai\nde ne pas vous décevoir.
+MID_RIFF_JOIN: Je suis Wrys, modeste vicaire.\nJe ne peux combattre, mais ce\nbâton peut guérir les blessés.
+MID_RIFF_STRONGEST: J'admets de bon cœur que le fait\nd'être entouré de tant de jeunes gens\nbrusque quelque peu mes habitudes.$k$pMais cela en vaut la peine. J'ai ainsi\npu me prouver que j'étais encore\ncapable d'accomplir bien des choses.$k$pJe prie chaque jour pour tous ceux\nqui illuminent mon chemin... Vous en\nfaites bien sûr partie, $GInvocateur,Invocatrice|.$k$pJ'espère que la présence d'un vieil\nhomme à vos côtés ne vous ralentit\npas dans votre mission.$k$pJe continuerai à faire tout mon\npossible pour vous assister.\nQue les dieux vous accompagnent.
+MID_RIFF_VOICE01: はっ
+MID_RIFF_VOICE02: それっ
+MID_RIFF_VOICE03: うああっ！
+MID_RIFF_VOICE04: I'm sunk...
+MID_RIFF_VOICE05: Ce n'est pas mon fort...
+MID_RIFF_VOICE06: Pardonnez-moi !
+MID_RIFF_VOICE07: Allons-y.
+MID_RIFF_VOICE08: Puisqu'il le faut...
+MID_RIFF_VOICE09: Farewell...
+MID_RIFF_VOICE10: Huhuhu
+MID_RIFF_VOICE11: Je fais mon possible.
+MID_RIFF_VOICE12: Je m'occupe de vous.
+MID_RIFF_VOICE13: Are you injured? Let me help.
+MID_RIFF_VOICE14: Oh, my my...
+MID_RIFF_VOICE15: How can a humble curate help you today?
+MID_RIFF_VOICE16: I wonder how the children are faring back home...
+MID_RIFF_VOICE17: I shall attend to your wounds whenever you need.
+MID_RIFF_VOICE18: Yes?
+MID_RIFF_VOICE19: Well, well...
+MID_RIFF_VOICE20: Glad to help.

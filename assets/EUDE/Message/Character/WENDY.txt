@@ -1,0 +1,38 @@
+[Heroes Archive] (WENDY)
+
+
+Heroes Message Name: Message
+
+
+MID_WENDY_HOME1: Dieses Schloss wurde so gebaut,\ndass es leicht zu verteidigen ist.$k$pFeinde lassen sich leichter\nzurückschlagen. Exzellent!
+MID_WENDY_HOME2: Wo ich herkomme, sind Frauen nur\nselten schwer gepanzerte Ritter.$k$pAber ich wollte sein wie mein\ngeliebter Bruder.
+MID_WENDY_HOME3: Ich bewundere es, wie ernst Ihr Eure\nWachgänge nehmt. Ich würde Euch ja\nbegleiten,$k$paber ich fürchte, dass ich Euch dann\nnur unnötig aufhalten würde.
+MID_WENDY_HOME4: Nur unter uns gesagt: Diese Rüstung\nzu tragen ist eine enorme Belastung\nfür meinen Rücken.
+MID_WENDY_HOME5: Eine schwere Rüstung wie diese hier\nzu tragen, erfordert tägliche Übung. Es\nist nicht so einfach, wie man denkt...$k$pSchon einfach nur darin zu gehen, ist\neine echte Herausforderung.
+MID_WENDY_FRIEND: Ich bin einen weiten Weg gegangen,\num Euch zu grüßen,\n$Nu?$k$pOh, nicht von mir persönlich.\nIch komme im Auftrag von\n$Nf.
+MID_WENDY_LEVEL1: Was für eine Kraft! Jetzt könnt\nIhr wirklich auf mich zählen.
+MID_WENDY_LEVEL2: Wie es sich für ein Mitglied der\nRitter von Ositia gehört!
+MID_WENDY_LEVEL3: Ich darf anderen nicht\nzur Last fallen...
+MID_WENDY_SKILL: Ich hätte nie gedacht, dass\nich so stark werden könnte.
+MID_WENDY_JOIN: Ich bin Gwendolyn von den Rittern von\nOsitia. Manche meinen, ich trage diese\nRüstung nur zum Spaß. Sie irren sich.
+MID_WENDY_STRONGEST: Ich schätze Eure Anweisungen\nim Kampf.$k$pAber manchmal habe ich Sorge,\ndass Ihr versucht, mich zu sehr zu\nbeschützen.$k$pSeid Ihr um meine Sicherheit besorgt,\nweil ich als Ritter nicht in der Lage bin,\nandere zu beschützen?$k$pOder denkt Ihr vielleicht, ich ziehe mit\nmeiner farbenfrohen Rüstung zu viel\nAufmerksamkeit auf mich?$k$pDabei trage ich sie doch gerade,\num die Gegner auf mich zu lenken\nund weg von den anderen!$k$pIch weiß, wir müssen dort draußen\nals Team handeln,$k$paber meine Rolle ist es nun mal,\ndie Gefahr auf mich zu lenken!\nDennoch danke ich Euch.$k$pIch werde immer den Mut haben,\nandere zu beschützen, denn ich weiß\nnun, dass Ihr mich beschützen werdet.
+MID_WENDY_VOICE01: えいっ！
+MID_WENDY_VOICE02: はぁっ！
+MID_WENDY_VOICE03: きゃああっ！
+MID_WENDY_VOICE04: I can't...be a burden...
+MID_WENDY_VOICE05: Ich weigere mich zu verlieren!
+MID_WENDY_VOICE06: Ritter dürfen nicht fallen!
+MID_WENDY_VOICE07: Mit all meiner Kraft!
+MID_WENDY_VOICE08: Und jetzt bin ich am Zug!
+MID_WENDY_VOICE09: Sorry...
+MID_WENDY_VOICE10: Heehee
+MID_WENDY_VOICE11: Oh MY! Whew...what a surprise. Next time, maybe just say hi.
+MID_WENDY_VOICE12: Please don't let me fall over in this armor. It'd be impossible to get up again.
+MID_WENDY_VOICE13: A truly loyal knight is ever glad to bear the heaviest of armor.
+MID_WENDY_VOICE14: This armor adds a tremendous amount of bulk! Really, you wouldn't believe it.
+MID_WENDY_VOICE15: I offer my gratitude for your kindness and your consideration.
+MID_WENDY_VOICE16: One, TWO! And one, TWO! Whew!
+MID_WENDY_VOICE17: I give you my solemn vow—to defend you, even at the cost of my life.
+MID_WENDY_VOICE18: Yes?
+MID_WENDY_VOICE19: Certainly.
+MID_WENDY_VOICE20: My turn?

@@ -1,0 +1,38 @@
+[Heroes Archive] (SAVOR)
+
+
+Heroes Message Name: Message
+
+
+MID_SAVOR_HOME1: 要するに、俺は特務機関ってとこに\n雇われちまったってことか？\nあーあ、性に合わねえなあ……
+MID_SAVOR_HOME2: 俺はノーヴァの港で、その日暮らしの\n傭兵稼業で食ってたんだ。\n妙なお嬢ちゃんに雇われるまではな。
+MID_SAVOR_HOME3: また任務かよ？\n働いてばっかじゃいいことねえぞ。\n今度、息抜きに遊んでやるよ。
+MID_SAVOR_HOME4: ……おい、大きな声じゃ言えねえけどよ。\nこう、ぱーっと遊べる場所知らねえか？\n今度こっそり案内しろよ！
+MID_SAVOR_HOME5: 剣を磨いてたのさ。\nこいつが俺の商売道具だからな。\nどうだ、きれいなもんだろ？
+MID_SAVOR_FRIEND: $Nfから伝言だ。\nほう、こっちの世界もなかなか……\n見物して帰るとするか。
+MID_SAVOR_LEVEL1: へえ……\nわれながら大したもんだな。
+MID_SAVOR_LEVEL2: 驚くほどのもんじゃねえな。
+MID_SAVOR_LEVEL3: おっと……\nこいつは予想外だ。
+MID_SAVOR_SKILL: 俺なんかにそんなに期待するなって……\n柄にもなく、張り切っちまうだろ？
+MID_SAVOR_JOIN: セーバーだ。しがない傭兵さ。\nあんたがどこの誰だろうと関係ねえ。\n金さえもらえりゃなんでもやるぜ。
+MID_SAVOR_STRONGEST: おー、$Nu！\nいいところに来たな。これから町に\n遊びにいくんだ。お前も付き合えよ。$k$p遠慮するって……つまんねえ奴だな。\n任務ばかりが人生じゃねえぞ？\nお互い、明日をも知れぬ身じゃねえか。$k$pだからこそ美味いものを食って飲んで、\n美しいものを愛でてだな……\n……わかったわかった。そんな顔すんな。$k$pまったく、説教食らって引っ込むなんて\n天下の傭兵セーバーさまの名が泣くぜ。\nこれが召喚師の力ってやつなのか？$k$pでも悪い気はしねえな。\n結構お前のこと、気に入ってんだよ。\nこれからも俺から目を離してくれるなよ？
+MID_SAVOR_VOICE01: せやあっ
+MID_SAVOR_VOICE02: おらよっ
+MID_SAVOR_VOICE03: いってえな…！
+MID_SAVOR_VOICE04: うわあああーっ！！
+MID_SAVOR_VOICE05: しつこいねえ
+MID_SAVOR_VOICE06: どけよ！
+MID_SAVOR_VOICE07: 勝てないって
+MID_SAVOR_VOICE08: くらいやがれ！
+MID_SAVOR_VOICE09: しくじった…な……
+MID_SAVOR_VOICE10: ははっ
+MID_SAVOR_VOICE11: おいおい、ふざけてんのか？
+MID_SAVOR_VOICE12: まったく……大人をからかうなよ。
+MID_SAVOR_VOICE13: 今日が楽しけりゃ、それでいいのさ。
+MID_SAVOR_VOICE14: どっかにいい女いねえかなあ。
+MID_SAVOR_VOICE15: お嬢ちゃんの相手も疲れるんだぜ。
+MID_SAVOR_VOICE16: 誰にでも、過去ってもんがあるのさ。
+MID_SAVOR_VOICE17: お前、おもしろいやつだなあ。気に入ったぜ。
+MID_SAVOR_VOICE18: おうよ。
+MID_SAVOR_VOICE19: ふむ……
+MID_SAVOR_VOICE20: 任せとけって。

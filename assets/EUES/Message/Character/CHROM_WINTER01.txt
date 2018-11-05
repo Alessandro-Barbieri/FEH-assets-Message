@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: El príncipe Alfonse se probó este\ntraje y me molesta que a él\nle siente mucho mejor que a mí...
+MID_CHROM_WINTER01_HOME2: Cuando llega el festival de invierno,\ndecoramos el castillo de Ylisstol con\nadornos verdes y rojos.$k$p¿Te gustaría hacer lo mismo aquí?
+MID_CHROM_WINTER01_HOME3: ¿No tienes frío? Ten, ponte mi capa.\nNo sería muy heroico dejar que\n$Gnuestro invocador,nuestra invocadora| se congelase.
+MID_CHROM_WINTER01_HOME4: ¿Podrías llevarme a la ciudad tras\nla próxima misión? Quiero comprar\nregalos para todos los héroes.
+MID_CHROM_WINTER01_HOME5: He mirado qué contiene este saco\ny resulta que son regalos para todo\nel ejército. ¡Más me vale no perderlo!
+MID_CHROM_WINTER01_FRIEND: ¡Saludos invernales! Traigo buenas\nnuevas y un montón de regalos. Pero\nsolo si te has portado bien este año.
+MID_CHROM_WINTER01_LEVEL1: Parece que yo también he\nrecibido un regalo.
+MID_CHROM_WINTER01_LEVEL2: Es complicado luchar\narrastrando este saco por ahí.
+MID_CHROM_WINTER01_LEVEL3: Supongo que no he estado\nmuy navideño...
+MID_CHROM_WINTER01_SKILL: ¿Este es tu regalo para mí?\n¡Muchas gracias!
+MID_CHROM_WINTER01_JOIN: ¡Saludos invernales! Soy el príncipe\nChrom, del Sacro Reino de Ylisse.\n¿Te has portado bien o no?
+MID_CHROM_WINTER01_STRONGEST: ¿Vienes a charlar? Te agradezco que\nhayas desafiado al frío para venir\na verme, pero debes cuidarte.$k$pSi te resfrías, no podrás disfrutar\nde las fiestas.$k$pEn Ylisse tenemos una tradición:\nel día del festival de invierno, damos\nregalos a nuestra familia y amigos.$k$pNormalmente soy yo quien entrega\nlos obsequios, pero aquí es distinto.\nYa sé que puede sonar raro, pero...$k$pNo sé, creo que desde que llegué\na Askr, tú me has hecho los regalos\na mí.$k$p¿Sabes a lo que me refiero?$k$pUn obsequio no necesariamente es\nalgo material. Tú me regalas tu tiempo\ny estás a mi lado para animarme.$k$pMe haces más fuerte.$k$pY eso me hace más feliz de lo que\npuedas imaginar. Te lo agradezco\ny haré lo que sea para compensarte.
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: Hey! Cut it out!
+MID_CHROM_WINTER01_VOICE05: ¡Toma tu regalo!
+MID_CHROM_WINTER01_VOICE06: ¡Mira lo que tengo!
+MID_CHROM_WINTER01_VOICE07: ¡Las fiestas me dan fuerzas!
+MID_CHROM_WINTER01_VOICE08: ¡Lo estaba deseando!
+MID_CHROM_WINTER01_VOICE09: Going home...
+MID_CHROM_WINTER01_VOICE10: Heehee...
+MID_CHROM_WINTER01_VOICE11: Lissa made me wear this.
+MID_CHROM_WINTER01_VOICE12: I wonder what kind of present you would like?
+MID_CHROM_WINTER01_VOICE13: This is apparently a winter-celebration outfit from another world.
+MID_CHROM_WINTER01_VOICE14: Red is not my color.
+MID_CHROM_WINTER01_VOICE15: I suppose Falchion CAN be used to slice cake...
+MID_CHROM_WINTER01_VOICE16: Change outfits ONCE and I get summoned...?
+MID_CHROM_WINTER01_VOICE17: I suggest you hang a stocking somewhere tonight.
+MID_CHROM_WINTER01_VOICE18: OK.
+MID_CHROM_WINTER01_VOICE19: On it.
+MID_CHROM_WINTER01_VOICE20: Party?

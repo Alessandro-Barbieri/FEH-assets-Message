@@ -1,0 +1,38 @@
+[Heroes Archive] (DIADORA)
+
+
+Heroes Message Name: Message
+
+
+MID_DIADORA_HOME1: Los árboles que hay aquí son\npreciosos... y algo misteriosos.\nMe resultan familiares.
+MID_DIADORA_HOME2: ¿Quieres que te hable de mi mundo?\nLo siento, pero es que apenas\nrecuerdo nada.
+MID_DIADORA_HOME3: Se te nota el cansancio en la cara.\nIntenta descansar un poco.
+MID_DIADORA_HOME4: A veces siento un desasosiego\ntan intenso que me avasalla...\n¿Alguna vez te ha ocurrido?
+MID_DIADORA_HOME5: Alguien me dijo que no me asociara\ncon otras personas... No recuerdo\nbien, así que no sé por qué me lo dijo.
+MID_DIADORA_FRIEND: Me llamo Deirdre. Vine\na traerte saludos de\n$Nf.
+MID_DIADORA_LEVEL1: No sé por qué, pero...\neste poder me asusta.
+MID_DIADORA_LEVEL2: ¿Crees que soy de ayuda?\nMe alegro mucho.
+MID_DIADORA_LEVEL3: Siento ser una carga.
+MID_DIADORA_SKILL: Es muy amable por tu parte\nayudarme así. Muchas gracias.
+MID_DIADORA_JOIN: Me llamo Deirdre. Perdí casi\ntodos mis recuerdos... Lo siento.
+MID_DIADORA_STRONGEST: Perdí muchos recuerdos... y\neran recuerdos valiosos.$k$pSé que perdí el recuerdo\nde alguien importante.$k$pMe siento intranquila, incluso\nestando aquí contigo. Temo no\nvolverte a ver nunca más.$k$pSi algún día me olvido de ti...,\npor favor...$k$pHabla conmigo y cuéntame todo\nlo que hemos vivido. Hazme\nrecordar lo que olvidé.
+MID_DIADORA_VOICE01: はい…
+MID_DIADORA_VOICE02: I'm sorry...
+MID_DIADORA_VOICE03: きゃああっ！
+MID_DIADORA_VOICE04: Stop...
+MID_DIADORA_VOICE05: No pienso quedarme atrás.
+MID_DIADORA_VOICE06: Perdóname.
+MID_DIADORA_VOICE07: Siento que algo despierta...
+MID_DIADORA_VOICE08: La oscuridad...
+MID_DIADORA_VOICE09: Sigurd...
+MID_DIADORA_VOICE10: cute short giggle
+MID_DIADORA_VOICE11: Try not to overdo it.
+MID_DIADORA_VOICE12: Oh, it's you!
+MID_DIADORA_VOICE13: You have my apologies. I've lost all of my memories...
+MID_DIADORA_VOICE14: It's so nice to be here with you.
+MID_DIADORA_VOICE15: Something dark slumbers in my blood.
+MID_DIADORA_VOICE16: I can't remember...who am I? Who am I?
+MID_DIADORA_VOICE17: Don't worry about me. I'm doing just fine. Being here with you brings me joy.
+MID_DIADORA_VOICE18: Yes?
+MID_DIADORA_VOICE19: What should I do?
+MID_DIADORA_VOICE20: I'll go with you.

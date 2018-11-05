@@ -1,0 +1,38 @@
+[Heroes Archive] (RODY)
+
+
+Heroes Message Name: Message
+
+
+MID_RODY_HOME1: This castle welcomes Heroes, but\ndoes that include me? I'm only\na knight in training!
+MID_RODY_HOME2: The leader we had in our platoon\nback home is someone I\ndeeply respected.$k$pI have to admit that you remind\nme somewhat of that person!
+MID_RODY_HOME3: I want to become a true knight of\nAltea, and thus a man of any\nimportance.$k$pBut to do that, I must complete my\ntime as a knight in training.
+MID_RODY_HOME4: I have known my friend Luke for a\nlong time. He may act rashly,\nbut I know he has a good heart.
+MID_RODY_HOME5: I would like to join you to scout the\narea outside of the castle. It's always\nbest to be prepared for anything.
+MID_RODY_FRIEND: I beg your pardon. I'm Roderick, a\nknight in training. I bring greetings\nfrom $Nf.
+MID_RODY_LEVEL1: I'll savor this only for a\nmoment. There's work to do.
+MID_RODY_LEVEL2: How encouraging. Slow and\nsteady wins the race.
+MID_RODY_LEVEL3: I may falter at this rate. I must\nwork harder.
+MID_RODY_SKILL: I owe you thanks plus a vow to\ngive you my all.
+MID_RODY_JOIN: My name is Roderick, a knight in\ntraining for Altea. I will do my best to\nprove my use.
+MID_RODY_STRONGEST: Have I yet proven my use? I hope\nI have grown strong enough to\nbe of great help to you.$k$pI find it hard to know whether I\nmeasure up, but I sense that\nI haven't disappointed you.$k$pI promise that I'll keep doing my\nbest not to be a burden.$k$pI hope to even lighten your load.\nThis order relies so much on\nyour strength.$k$pI can't imagine what it must be\nlike to bear that load. But if\nyou'll allow me to remain...?$k$pI will help you carry it.
+MID_RODY_VOICE01: はっ！
+MID_RODY_VOICE02: せいっ！
+MID_RODY_VOICE03: うああっ！
+MID_RODY_VOICE04: …I left myself open…
+MID_RODY_VOICE05: I'll give it my all!
+MID_RODY_VOICE06: I won't go easy on you!
+MID_RODY_VOICE07: Brace yourself!
+MID_RODY_VOICE08: Duty, above all!
+MID_RODY_VOICE09: Sorry...
+MID_RODY_VOICE10: Haha
+MID_RODY_VOICE11: May I be of service to you?
+MID_RODY_VOICE12: Oh! You seem to do that a lot.
+MID_RODY_VOICE13: What is our plan for the next battle?
+MID_RODY_VOICE14: I try to remember to battle as a team—never in isolation.
+MID_RODY_VOICE15: If ever you need me, I am delighted to serve.
+MID_RODY_VOICE16: I wonder how everyone in my platoon is doing.
+MID_RODY_VOICE17: I am deeply honored to fight alongside you.
+MID_RODY_VOICE18: Understood.
+MID_RODY_VOICE19: Of course.
+MID_RODY_VOICE20: Ready.

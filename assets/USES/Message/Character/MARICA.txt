@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICA)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICA_HOME1: Este viento tan seco... Me recuerda\nlos desiertos de Jehanna.
+MID_MARICA_HOME2: Me pregunto cómo les irá\na Gerik y a los suyos.
+MID_MARICA_HOME3: Tienes las manos llenas de ampollas.\nNo blandes el arma adecuadamente.\nForra la empuñadura con cuero.
+MID_MARICA_HOME4: A mí solo se me da bien la lucha.\nSi quieres entrenar, aquí me tienes.
+MID_MARICA_HOME5: ¿Querías algo? No te me quedes\nmirando. Me pone nerviosa.
+MID_MARICA_FRIEND: ¿Eres $Nu?\nMe envía $Nf.
+MID_MARICA_LEVEL1: Bien. Pero debo entrenar más\npara dominar la esgrima.
+MID_MARICA_LEVEL2: Ni bien ni mal.\nNo es lo que esperaba.
+MID_MARICA_LEVEL3: No puedo dejar que el jefe\nme vea así...
+MID_MARICA_SKILL: Con esto... ¿me estaré\nacercando a mi padre?
+MID_MARICA_JOIN: Soy Marisa, una espadachina\nde los mercenarios de Gerik.\nPuedes contar con mi espada.
+MID_MARICA_STRONGEST: Ya me acostumbré a que me\nveas entrenar, aunque no sé\npor qué te parece interesante.$k$pPractico a diario. Me enfrenté\na mil hombres y mil veces\nlogré la victoria.$k$pNo pienso perder. Ni contra mis\nenemigos ni contra mí misma.$k$pEn una batalla, no hay segundas\noportunidades. Se gana o se\npierde. No hay término medio.$k$pNo sé adónde te va a llevar el camino\nque recorres. Tal vez tengas que\nenfrentarte a tu propia debilidad.$k$pCuando eso ocurra, solo podrás\ncontar con tu fuerza.$k$pPor eso debes hacerte más fuerte\ny elegir bien el camino que quieras\nrecorrer.
+MID_MARICA_VOICE01: ふっ…！
+MID_MARICA_VOICE02: …斬る
+MID_MARICA_VOICE03: きゃああっ！
+MID_MARICA_VOICE04: 怪我した…
+MID_MARICA_VOICE05: Será solo un momento.
+MID_MARICA_VOICE06: ¡Tómatelo en serio!
+MID_MARICA_VOICE07: Enfréntate a mi acero.
+MID_MARICA_VOICE08: ¿Crees que puedes conmigo?
+MID_MARICA_VOICE09: I...lost...
+MID_MARICA_VOICE10: ふ…
+MID_MARICA_VOICE11: Marisa. It's a name. My name.
+MID_MARICA_VOICE12: Save your strength. Stealth attacks don't work on me.
+MID_MARICA_VOICE13: I'm not upset. This is just...how I am.
+MID_MARICA_VOICE14: I don't dislike talking with you... So let's chat.
+MID_MARICA_VOICE15: What can I do...to help?
+MID_MARICA_VOICE16: When you die, life is over. So all I can do is keep fighting.
+MID_MARICA_VOICE17: If you will help me... I can pay you back by working harder.
+MID_MARICA_VOICE18: OK.
+MID_MARICA_VOICE19: Who do I slice?
+MID_MARICA_VOICE20: Moving out.

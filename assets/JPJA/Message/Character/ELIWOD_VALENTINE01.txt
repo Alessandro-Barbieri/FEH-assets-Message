@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_VALENTINE01_HOME1: 君が元いた世界にも、愛の祭があるんだね。\n人が人を思う気持ちは変わらない…\nということかな。
+MID_ELIWOD_VALENTINE01_HOME2: もしも愛する女性に\n贈り物をするとしたら…\nそうだね、僕なら花を贈るかな。
+MID_ELIWOD_VALENTINE01_HOME3: 君ももしかして贈り物を渡したい\n相手がいるのかい？\n良ければ相談に乗ろうか？
+MID_ELIWOD_VALENTINE01_HOME4: この時期は町中でお菓子が\n売られているみたいだね。\n今度、一緒に行ってみようか？
+MID_ELIWOD_VALENTINE01_HOME5: 子供の頃から、ヘクトルは大切な友だ。\n長年の友情にとても感謝しているよ。\nこの機会に、何か贈り物をしたいな。
+MID_ELIWOD_VALENTINE01_FRIEND: $Nfからの\n挨拶を届けに来たよ。\nそれから、この贈り物もね。
+MID_ELIWOD_VALENTINE01_LEVEL1: 愛する人に想いを伝える…\nそんな強さを得られたのかな？
+MID_ELIWOD_VALENTINE01_LEVEL2: はは、これで僕も\n人気者になれるのかな。
+MID_ELIWOD_VALENTINE01_LEVEL3: すまない、\n気が緩んでいるのかな…
+MID_ELIWOD_VALENTINE01_SKILL: 愛する人たちがいるから…\n僕はこうして強くなれるんだ。
+MID_ELIWOD_VALENTINE01_JOIN: 僕はフェレ侯公子エリウッド。\nもし良ければ\n一緒に愛の祭に行こうか？
+MID_ELIWOD_VALENTINE01_STRONGEST: 愛の祭は、恋人たちのお祭りのように\n言われているけれど、\nでも、実はそれだけではないそうだよ。$k$p友人や、家族への愛…\nそういう気持ちを伝える\nお祭りでもあるんだ。$k$pみんなが相手を思う気持ちを抱けば、\n人々が争い合うことなく、\nいつか平和な世界になる…$k$p愛の祭は、平和への願い…\nそういえるのかもしれないね。$k$pいつもありがとう、\n$Nu。この贈り物は、\n僕からの感謝の気持ちだよ。
+MID_ELIWOD_VALENTINE01_VOICE01: それっ！
+MID_ELIWOD_VALENTINE01_VOICE02: えいっ！
+MID_ELIWOD_VALENTINE01_VOICE03: うああっ！
+MID_ELIWOD_VALENTINE01_VOICE04: このままでは…
+MID_ELIWOD_VALENTINE01_VOICE05: 贈り物だよ
+MID_ELIWOD_VALENTINE01_VOICE06: 受けてもらうよ
+MID_ELIWOD_VALENTINE01_VOICE07: 負ける気はない
+MID_ELIWOD_VALENTINE01_VOICE08: 甘くはないよ
+MID_ELIWOD_VALENTINE01_VOICE09: 甘く…見ていたか…
+MID_ELIWOD_VALENTINE01_VOICE10: ええと
+MID_ELIWOD_VALENTINE01_VOICE11: お祭りは良いね。みんなの笑顔を見ていると、僕も嬉しくなるよ。
+MID_ELIWOD_VALENTINE01_VOICE12: …っと、すまない、ぶつかるところだったかな？
+MID_ELIWOD_VALENTINE01_VOICE13: 僕とヘクトルとの手合わせは、昔から続いているんだ。
+MID_ELIWOD_VALENTINE01_VOICE14: ロイとリリーナは仲が良いようだね…ヘクトルの機嫌が心配だな。
+MID_ELIWOD_VALENTINE01_VOICE15: 僕が欲しいもの？　その気持ちだけで十分だよ。
+MID_ELIWOD_VALENTINE01_VOICE16: 贈り物は、やはり花が良いかな…
+MID_ELIWOD_VALENTINE01_VOICE17: 僕の気持ちを、君に受け取って欲しいんだ。
+MID_ELIWOD_VALENTINE01_VOICE18: うん
+MID_ELIWOD_VALENTINE01_VOICE19: 欲しいものはある？
+MID_ELIWOD_VALENTINE01_VOICE20: 勇気を出そう

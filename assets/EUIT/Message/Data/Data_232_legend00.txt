@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: Gunnthrá
+MPID_HONOR_スリーズ: La voce onirica
+MPID_H_スリーズ: La principessa maggiore di Nifl, il regno\ndel ghiaccio. Un'anima gentile e premurosa\ncon un forte istinto materno.
+MPID_VOICE_スリーズ: Carrie Keranen
+MPID_ILLUST_スリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_スリーズ: Effetto leggendario: vento\nIncremento alleato: PS +3, Res +4\n\nSe quest'unità scende in battaglia durante\nla stagione del vento con alleati che hanno\nil Dono del vento, questi alleati ricevono\nquest'effetto leggendario.
+MSID_ブリザード: Bufera
+MSID_氷の封印: Sigillo gelante
+MSID_H_ブリザード: Conferisce Res +3. L'Att dell'unità aumenta\ndi un valore pari alla somma delle penalità\ndel nemico durante lo scontro.
+MSID_H_氷の封印: Se l'unità ha il 50% o più dei PS all'inizio del turno,\nAtt/Vel -6 al nemico con la Dif minore durante la\nsua prossima azione. Abilità non ereditabile.

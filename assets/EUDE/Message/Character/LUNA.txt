@@ -1,0 +1,38 @@
+[Heroes Archive] (LUNA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUNA_HOME1: Mir ist so langweilig... Kann\nman hier nicht irgendwo gut\neinkaufen gehen?
+MID_LUNA_HOME2: Ich bin Getreue von Milady Camilla.\nSie mag mich, weil ich stark und\nschön bin.$k$pIch darf sie nicht enttäuschen.
+MID_LUNA_HOME3: Seht an, schon wieder auf Rundgang?\nSehr gut! Genauso würde ich es an\nEurer Stelle auch machen.
+MID_LUNA_HOME4: Ihr langweilt Euch wohl auch. Ihr\nkönnt mich ja mal herumführen.\nDas ist jetzt die dritte Welt, in der--$k$pHalt, wartet! Das war ein Witz! Ist\nerst die zweite. Echt, die zweite.
+MID_LUNA_HOME5: Dass ich kämpfen kann, weiß ich.\nAber ich muss auch gut aussehen.$k$pSO schöne Haare wie meine\nbenötigen echt viel Pflege.
+MID_LUNA_FRIEND: Ich komme mit Grüßen von\n$Nf.$k$pAlso... Viele Grüße.
+MID_LUNA_LEVEL1: Durchschnitt? Ich?\nKann nicht sein.
+MID_LUNA_LEVEL2: Pah. Nicht gut genug\nfür mich.
+MID_LUNA_LEVEL3: Das bin ich gar nicht\nvon mir gewohnt!
+MID_LUNA_SKILL: Schönen Dank, dass\nIhr so für mich sorgt.
+MID_LUNA_JOIN: Ich bin Selena, Söldnerin im Dienste\nNohrs. Eine FÄHIGE Söldnerin. Fragt\ndie anderen. Und ich bin süß! Bonus!
+MID_LUNA_STRONGEST: Ah, DA seid Ihr! Hey, möchtet Ihr\nmit mir ein Team bilden?$k$pIch meine, wir verbringen doch\nsowieso schon viel Zeit miteinander...$k$pGroßartig! Wir sind nun die\nSelen$Nu-\nAllianz!$k$pWieso macht Ihr so ein Gesicht?!?\nDas ist kein BESCHEUERTER Name!$k$pDamit Ihr es nur wisst, ich habe eine\nMenge Zeit und Energie investiert,$k$pum mir diesen Namen auszudenken,\ndamit wir Freunde werden können!$k$pBitte? Oh, ja, so ist es besser. Ich\nwusste, ich würde Euch überzeugen.$k$pNun sind wir ein Team, da sollten wir\nkeine Geheimnisse mehr voreinander\nhaben.$k$pMein Name ist nicht Selena, und ich\nstamme auch nicht aus der Welt, aus\nder Ihr mich geholt habt.$k$pBitte nennt mich Severa... wenn wir\nunter uns sind.
+MID_LUNA_VOICE01: せやっ！
+MID_LUNA_VOICE02: はああっ！
+MID_LUNA_VOICE03: きゃあっ！
+MID_LUNA_VOICE04: Gimme a break!
+MID_LUNA_VOICE05: Zeit zum Spielen!
+MID_LUNA_VOICE06: Verlierer!
+MID_LUNA_VOICE07: Bringen wir es hinter uns.
+MID_LUNA_VOICE08: Ich hab genug!
+MID_LUNA_VOICE09: Not fair...
+MID_LUNA_VOICE10: Heh
+MID_LUNA_VOICE11: How's my hair looking today? Good enough? Hope so.
+MID_LUNA_VOICE12: I'll be the best in your whole group. It's just a matter of time.
+MID_LUNA_VOICE13: Nice to have a role model, right? I've got the best one ever.
+MID_LUNA_VOICE14: The uniforms those Order of Heroes people wear... They're so cute!
+MID_LUNA_VOICE15: You keep an eye out for any good clothing stores, OK?
+MID_LUNA_VOICE16: I hate it whenever I'm separated from Lady Camilla.
+MID_LUNA_VOICE17: Hey. If you need my help, ask. Not like I like you or anything.
+MID_LUNA_VOICE18: Yeah?
+MID_LUNA_VOICE19: Where to?
+MID_LUNA_VOICE20: On it.

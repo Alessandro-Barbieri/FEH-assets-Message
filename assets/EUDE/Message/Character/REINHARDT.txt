@@ -1,0 +1,38 @@
+[Heroes Archive] (REINHARDT)
+
+
+Heroes Message Name: Message
+
+
+MID_REINHARDT_HOME1: Prinz Alfonse und Prinzessin Sharena\nscheinen sich sehr nahezustehen.\nDas bringt Erinnerungen zurück...
+MID_REINHARDT_HOME2: Für viele Jahre war es meine Pflicht,\ndie Königin meiner Welt, Königin\nIshtar, zu beschützen.$k$pIch habe meine Aufgabe sehr ernst\ngenommen.
+MID_REINHARDT_HOME3: Bitte pass auf dich auf.$k$pDiese Gruppe wäre verloren,\nwenn sie deinen ausgeprägten\nSinn fürs Taktieren verlieren würde.
+MID_REINHARDT_HOME4: Meine Schwester Olwen ist, eh ich\nmich versah, nicht nur erwachsen\ngeworden.$k$pSie ist ganz aus eigener Kraft einfach\nbeeindruckend geworden.
+MID_REINHARDT_HOME5: In meiner Welt gab es einen Taktiker,\nder war so brillant, dass man sagte,\ner herrsche gottgleich über den Krieg.$k$pIch muss zugeben, deine Befehle\nsind wohl genauso unfehlbar.
+MID_REINHARDT_FRIEND: Entschuldige mein plötzliches\nAuftauchen. Mein Name ist\nReinhardt.$k$pIch überbringe Grüße im\nNamen der Freundschaft.
+MID_REINHARDT_LEVEL1: Besser als erwartet. Ich sollte\nmich stets derart konzentrieren.
+MID_REINHARDT_LEVEL2: Wenn das so weitergeht, könnte\nich meine Ziele wohl erreichen.
+MID_REINHARDT_LEVEL3: Das war schwach. Verliere\nich an Zuversicht?
+MID_REINHARDT_SKILL: Dies ist eine Ehre. Zum Dank\nwerde ich im Kampf bestehen.
+MID_REINHARDT_JOIN: Mein Name ist Reinhardt von Friege.$k$pErlaube mir, mit meiner Donnermagie\nunter deinen Feinden Chaos zu\nverbreiten.
+MID_REINHARDT_STRONGEST: Als ich noch jung war, folgte mir\nmeine jüngere Schwester Olwen\nüberallhin.$k$pAls älterer Bruder sah ich es als\nmeine Pflicht an, sie auf ihrem Pfad\nim Leben zu geleiten und ihr bei$k$pjeder Weggabelung zu helfen.\nAber nun erkenne ich, dass ich dies\nnicht nur für Olwen tat, und auch,$k$pdass ich sie viel weniger leitete,\nals ich es bisher annahm.$k$pEs war mehr so, als ob jeder von\nuns seinen eigenen Weg ging, doch\nwaren wir dabei auf Augenhöhe.$k$pDu hast mir geholfen, dies endlich zu\nerkennen. Du und ich... Wir sind ver-\nschieden und doch beide engagiert.$k$pWas für ein idealer Weg, um zu\nwachsen - nicht führend, nicht\nfolgend...$k$pSondern Seite an Seite gehend.\nIch danke dir.
+MID_REINHARDT_VOICE01: はっ！
+MID_REINHARDT_VOICE02: せいっ！
+MID_REINHARDT_VOICE03: うああっ！
+MID_REINHARDT_VOICE04: You're strong...
+MID_REINHARDT_VOICE05: Das muss Schicksal sein.
+MID_REINHARDT_VOICE06: Ich gebe alles.
+MID_REINHARDT_VOICE07: Du wirst aufgeben.
+MID_REINHARDT_VOICE08: Magie ist alles!
+MID_REINHARDT_VOICE09: Undone...
+MID_REINHARDT_VOICE10: Ha
+MID_REINHARDT_VOICE11: Tell me. What are your orders?
+MID_REINHARDT_VOICE12: Come now! No more of that.
+MID_REINHARDT_VOICE13: You have quite a skill for battle tactics.
+MID_REINHARDT_VOICE14: I knew a brilliant tactician named Saias. You may be his superior.
+MID_REINHARDT_VOICE15: I have a younger sister named Olwen. Do you have any siblings?
+MID_REINHARDT_VOICE16: My sister went her way. I went mine.
+MID_REINHARDT_VOICE17: I will remain with you—no matter the circumstances.
+MID_REINHARDT_VOICE18: Understood.
+MID_REINHARDT_VOICE19: Orders?
+MID_REINHARDT_VOICE20: Let's go.

@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: 絆英雄戦
+MID_MISSION_S201805KIZUNA01_A1: 特殊：絆英雄戦突破
+MID_MISSION_H_S201805KIZUNA01_A1: アンナを自軍に入れて、\n絆英雄戦・ターナ＆アメリアをクリア。
+MID_MISSION_S201805KIZUNA01_A2: 特殊：絆英雄戦突破
+MID_MISSION_H_S201805KIZUNA01_A2: アスク王国の王子アルフォンスを自軍に入れて、\n絆英雄戦・ターナ＆アメリア\nルナティック以上をクリア。
+MID_MISSION_S201805KIZUNA01_A3: 特殊：ターナを撃破
+MID_MISSION_H_S201805KIZUNA01_A3: アンナで、\nレベル４０以上のターナを撃破。
+MID_MISSION_S201805KIZUNA01_A4: 特殊：アメリアを撃破
+MID_MISSION_H_S201805KIZUNA01_A4: アスク王国の王子アルフォンスで、\nレベル４０以上のアメリアを撃破。
+MID_MISSION_S201805KIZUNA01_A5: 特殊：絆英雄戦突破
+MID_MISSION_H_S201805KIZUNA01_A5: 全員重装の仲間で、\n絆英雄戦・ターナ＆アメリア\nルナティック以上をクリア。
+MID_MISSION_S201805SENKA01_DAILY_TITLE: 戦渦の連戦
+MID_MISSION_S201805SENKA01_DAILY_A1: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA01_DAILY_A1: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA01_DAILY_A2: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA01_DAILY_A2: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA01_DAILY_A3: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA01_DAILY_A3: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA01_DAILY_A4: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA01_DAILY_A4: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA02_DAILY_TITLE: 戦渦の連戦
+MID_MISSION_S201805SENKA02_DAILY_A1: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA02_DAILY_A1: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA02_DAILY_A2: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA02_DAILY_A2: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA02_DAILY_A3: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA02_DAILY_A3: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805SENKA02_DAILY_A4: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201805SENKA02_DAILY_A4: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201805STORY02_TITLE: 花嫁たちに捧ぐ花
+MID_MISSION_S201805STORY02_A1: 特殊：外伝２０－１節ルナ突破
+MID_MISSION_H_S201805STORY02_A1: 斧の仲間を自軍に入れて、\n外伝２０－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201805STORY02_A2: 特殊：外伝２０－２節ルナ突破
+MID_MISSION_H_S201805STORY02_A2: 剣の仲間を自軍に入れて、\n外伝２０－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201805STORY02_A3: 特殊：外伝２０－３節ルナ突破
+MID_MISSION_H_S201805STORY02_A3: 槍の仲間を自軍に入れて、\n外伝２０－３節ルナティックを\n４人全員生存でクリア。
+MPID_花婿マルス: マルス
+MPID_花嫁ニニアン: ニニアン
+MPID_花嫁サーリャ: サーリャ
+MPID_花嫁サナキ: サナキ
+MPID_HONOR_花婿マルス: アリティアの花婿
+MPID_HONOR_花嫁ニニアン: 涼やかな花嫁
+MPID_HONOR_花嫁サーリャ: 熱情の花嫁
+MPID_HONOR_花嫁サナキ: 花嫁姿の神使
+MPID_H_花婿マルス: アリティア王国の王子。祖国再興のために戦う。\n花婿の姿に扮し、祭りに参加する。\n（登場：『ファイアーエムブレム　紋章の謎』）
+MPID_H_花嫁ニニアン: 物静かで神秘的な雰囲気を持つ少女。\n旅の途中、成り行きで花嫁の祭りに参加する。\n（登場：『ファイアーエムブレム　烈火の剣』）
+MPID_H_花嫁サーリャ: ペレジア国の呪術師。陰湿で嫉妬深い。\n花嫁のブーケ入手に執念を燃やしている。\n（登場：『ファイアーエムブレム　覚醒』）
+MPID_H_花嫁サナキ: ベグニオン帝国皇帝であり、女神の声を聴く神使。\n好奇心から、花嫁の祭りに参加する。\n（登場：『ファイアーエムブレム　蒼炎の軌跡』）
+MPID_VOICE_花婿マルス: 緑川光
+MPID_VOICE_花嫁ニニアン: 洲崎綾
+MPID_VOICE_花嫁サーリャ: 高田憂希
+MPID_VOICE_花嫁サナキ: 中原麻衣
+MPID_ILLUST_花婿マルス: まよ
+MPID_ILLUST_花嫁ニニアン: 円居雄一郎
+MPID_ILLUST_花嫁サーリャ: 煎茶
+MPID_ILLUST_花嫁サナキ: 富岡二郎
+MID_SEQUENTIAL_MAP_TERM_201805: 炎の国のロキ
+MSID_愛のケーキサーバ: 愛のケーキサーバ
+MSID_愛のケーキサーバ＋: 愛のケーキサーバ＋
+MSID_ムスペルの炎花: ムスペルの炎花
+MSID_清らかなブーケ: 清らかなブーケ
+MSID_清らかなブーケ＋: 清らかなブーケ＋
+MSID_ニフルの氷花: ニフルの氷花
+MSID_攻撃の封印1: 攻撃の封印１
+MSID_攻撃の封印2: 攻撃の封印２
+MSID_攻撃の封印3: 攻撃の封印３
+MSID_守備魔防の連携1: 守備魔防の連携１
+MSID_守備魔防の連携2: 守備魔防の連携２
+MSID_守備魔防の連携3: 守備魔防の連携３
+MSID_速さの共謀1: 速さの共謀１
+MSID_速さの共謀2: 速さの共謀２
+MSID_速さの共謀3: 速さの共謀３
+MSID_H_愛のケーキサーバ: ターン開始時、周囲１マスに味方がいれば、\n自分と周囲１マスの味方の攻撃＋４（１ターン）
+MSID_H_愛のケーキサーバ＋: ターン開始時、周囲１マスに味方がいれば、\n自分と周囲１マスの味方の攻撃＋４（１ターン）
+MSID_H_ムスペルの炎花: 速さ＋３　戦闘中、攻撃、速さが\n周囲２マス以内の味方の人数×２だけ上昇\n（各能力の強化の最大値は＋６）
+MSID_H_清らかなブーケ: ターン開始時、周囲１マスに味方がいれば、\n自分と周囲１マスの味方の速さ＋４（１ターン）
+MSID_H_清らかなブーケ＋: ターン開始時、周囲１マスに味方がいれば、\n自分と周囲１マスの味方の速さ＋４（１ターン）
+MSID_H_ニフルの氷花: 攻撃＋３　戦闘中、攻撃、速さが\n周囲２マス以内の味方の人数×２だけ上昇\n（各能力の強化の最大値は＋６）
+MSID_H_攻撃の封印1: ターン開始時、\n敵軍内で最も攻撃が高い敵の攻撃－３\n（敵の次回行動終了まで）
+MSID_H_攻撃の封印2: ターン開始時、\n敵軍内で最も攻撃が高い敵の攻撃－５\n（敵の次回行動終了まで）
+MSID_H_攻撃の封印3: ターン開始時、\n敵軍内で最も攻撃が高い敵の攻撃－７\n（敵の次回行動終了まで）
+MSID_H_守備魔防の連携1: 移動系補助（体当たり、引き戻し、回り込み等）を\n使用した時、または自分に使用された時、\n自分と相手の守備、魔防＋２（１ターン）
+MSID_H_守備魔防の連携2: 移動系補助（体当たり、引き戻し、回り込み等）を\n使用した時、または自分に使用された時、\n自分と相手の守備、魔防＋４（１ターン）
+MSID_H_守備魔防の連携3: 移動系補助（体当たり、引き戻し、回り込み等）を\n使用した時、または自分に使用された時、\n自分と相手の守備、魔防＋６（１ターン）
+MSID_H_速さの共謀1: 応援を使用した時、または自分に使用された時、\n自分の十字方向にいる敵は、\n速さ－３（敵の次回行動終了まで）
+MSID_H_速さの共謀2: 応援を使用した時、または自分に使用された時、\n自分の十字方向にいる敵は、\n速さ－５（敵の次回行動終了まで）
+MSID_H_速さの共謀3: 応援を使用した時、または自分に使用された時、\n自分の十字方向にいる敵は、\n速さ－７（敵の次回行動終了まで）
+MID_CHAPTER_TITLE_CX019: 外伝２０
+MID_CHAPTER_CX019: 花嫁たちに捧ぐ花
+MID_STAGE_TITLE_X0191: 外伝２０－１節
+MID_STAGE_TITLE_X0192: 外伝２０－２節
+MID_STAGE_TITLE_X0193: 外伝２０－３節
+MID_STAGE_X0191: 結婚式の王子
+MID_STAGE_X0192: 神聖な花嫁たち
+MID_STAGE_X0193: 幸せの花を受け取って
+MID_STAGE_TITLE_ST_X0018: 外伝１９
+MID_STAGE_TITLE_ST_X0019: 外伝２０
+MID_STAGE_TITLE_ST_X1019: 外伝１９～２０
+MID_CHAPTER_ST_CX010: 外伝１９～２０

@@ -1,0 +1,152 @@
+[Heroes Archive] (Data_502_legend04)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201805A_TITLE: Imprese maggio (1)
+MID_MISSION_M201805A_A1: Vinci con unità rosse
+MID_MISSION_H_M201805A_A1: Sconfiggi i nemici con unità di tipo rosso.
+MID_MISSION_M201805A_A2: Vinci con unità volanti
+MID_MISSION_H_M201805A_A2: Sconfiggi i nemici con unità volanti.
+MID_MISSION_M201805A_A3: Batti nemici blu
+MID_MISSION_H_M201805A_A3: Sconfiggi nemici di tipo blu.
+MID_MISSION_M201805A_A4: Batti unità a cavallo
+MID_MISSION_H_M201805A_A4: Sconfiggi unità nemiche a cavallo.
+MID_MISSION_M201805A_A5: Arena: vinci duelli
+MID_MISSION_H_M201805A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201805A_A6: Verde batte nem. Liv 20+
+MID_MISSION_H_M201805A_A6: Sconfiggi nemici di livello 20 o superiore\ncon unità di tipo verde.
+MID_MISSION_M201805A_A7: Cavall. batte nem. Liv 20+
+MID_MISSION_H_M201805A_A7: Sconfiggi nemici di livello 20 o superiore\ncon unità a cavallo.
+MID_MISSION_M201805A_A8: Batti nemici rossi Liv 20+
+MID_MISSION_H_M201805A_A8: Sconfiggi nemici di tipo rosso\ndi livello 20 o superiore.
+MID_MISSION_M201805A_A9: Batti nem. volanti Liv 20+
+MID_MISSION_H_M201805A_A9: Sconfiggi nemici volanti\ndi livello 20 o superiore.
+MID_MISSION_M201805A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201805A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201805A_A11: Blu batte nemici Liv 35+
+MID_MISSION_H_M201805A_A11: Sconfiggi nemici di livello 35 o superiore\ncon unità di tipo blu.
+MID_MISSION_M201805A_A12: Fanter. batte nem. Liv 35+
+MID_MISSION_H_M201805A_A12: Sconfiggi nemici di livello 35 o superiore\ncon unità di fanteria.
+MID_MISSION_M201805A_A13: Batti nemici verdi Liv 35+
+MID_MISSION_H_M201805A_A13: Sconfiggi nemici di tipo verde\ndi livello 35 o superiore.
+MID_MISSION_M201805A_A14: Batti fanteria Liv 35+
+MID_MISSION_H_M201805A_A14: Sconfiggi unità di fanteria\ndi livello 35 o superiore.
+MID_MISSION_M201805A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201805A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_M201805B_TITLE: Imprese maggio (2)
+MID_MISSION_M201805B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201805B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201805B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201805B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201805B_A4: Completa il quarto piano della\ntorre di allenamento. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201805B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201805B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201805B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201805B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201805B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201805B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201805B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201805B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201805B_A12: Completa il decimo piano della torre di\nallenamento con soli alleati corazzati.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201805B_A13: Completa il decimo piano della torre di\nallenamento con soli alleati a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201805B_A14: Completa il decimo piano della torre di\nallenamento con soli alleati volanti. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_TITLE: Imprese maggio (3)
+MID_MISSION_M201805C_A1: Completa 2-1
+MID_MISSION_H_M201805C_A1: Completa il cap. 2, parte 1. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A2: Completa 2-2
+MID_MISSION_H_M201805C_A2: Completa il cap. 2, parte 2 con\nun'unità rossa in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A3: Completa 2-3
+MID_MISSION_H_M201805C_A3: Completa il cap. 2, parte 3 con\nun'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805C_A4: Completa 2-4
+MID_MISSION_H_M201805C_A4: Completa il cap. 2, parte 4 con\nun'unità verde in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A5: Completa 2-5
+MID_MISSION_H_M201805C_A5: Completa il cap. 2, parte 5 con\nun'unità neutra in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A6: Completa 5-1 difficile+
+MID_MISSION_H_M201805C_A6: Completa il cap. 5, parte 1 al livello di\ndifficoltà difficile o superiore. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805C_A7: Completa 5-2 difficile+
+MID_MISSION_H_M201805C_A7: Completa il cap. 5, parte 2 con un'unità rossa in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A8: Completa 5-3 difficile+
+MID_MISSION_H_M201805C_A8: Completa il cap. 5, parte 3 con un'unità blu in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A9: Completa 5-4 difficile+
+MID_MISSION_H_M201805C_A9: Completa il cap. 5, parte 4 con un'unità verde in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A10: Completa 5-5 difficile+
+MID_MISSION_H_M201805C_A10: Completa il cap. 5, parte 5 con un'unità neutra in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A11: Completa 8-1 folle
+MID_MISSION_H_M201805C_A11: Completa il cap. 8, parte 1 al livello di difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201805C_A12: Completa 8-2 folle
+MID_MISSION_H_M201805C_A12: Completa il cap. 8, parte 2 al livello di difficoltà\nfolle con un'unità rossa in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805C_A13: Completa 8-3 folle
+MID_MISSION_H_M201805C_A13: Completa il cap. 8, parte 3 al livello di difficoltà\nfolle con un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805C_A14: Completa 8-4 folle
+MID_MISSION_H_M201805C_A14: Completa il cap. 8, parte 4 al livello di difficoltà\nfolle con un'unità verde in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201805C_A15: Completa 8-5 folle
+MID_MISSION_H_M201805C_A15: Completa il cap. 8, parte 5 al livello di difficoltà\nfolle con un'unità neutra in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201804DAISEIATU02_TITLE: Grandi conquiste
+MID_MISSION_S201804DAISEIATU02_A1: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU02_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU02_A2: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU02_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU02_A3: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU02_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU02_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201804DAISEIATU02_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201804DAISEIATU02_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201804DAISEIATU02_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201804DAISEIATU02_A6: Arena: vinci duelli
+MID_MISSION_H_S201804DAISEIATU02_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201804DAISEIATU02_GW_TITLE: GC: Settim. d'oro
+MID_MISSION_S201804DAISEIATU02_GW_A1: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU02_GW_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201804DAISEIATU02_GW_A2: GC: ottieni punti
+MID_MISSION_H_S201804DAISEIATU02_GW_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201805CHARA01_TITLE: Tre eroi
+MID_MISSION_S201805CHARA01_A1: Vinci
+MID_MISSION_H_S201805CHARA01_A1: Sconfiggi un nemico.
+MID_MISSION_S201805CHARA01_A2: Vinci con Tiki
+MID_MISSION_H_S201805CHARA01_A2: Usa Tiki, la Voce di Naga, per sconfiggere\nnemici.
+MID_MISSION_S201805CHARA01_A3: Vinci con Gaius
+MID_MISSION_H_S201805CHARA01_A3: Usa Gaius, il ladro di dolci, per sconfiggere\nnemici.
+MID_MISSION_S201805CHARA01_B1: Batti nem. Liv 20+
+MID_MISSION_H_S201805CHARA01_B1: Usa Tiki, la Voce di Naga, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201805CHARA01_B2: Batti nem. Liv 20+
+MID_MISSION_H_S201805CHARA01_B2: Usa Gaius, il ladro di dolci, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201805CHARA01_B3: Batti nem. Liv 20+
+MID_MISSION_H_S201805CHARA01_B3: Usa Gunter per sconfiggere un nemico di\nlivello 20 o superiore.
+MID_MISSION_S201805CHARA01_C1: Batti nem. Liv 35+
+MID_MISSION_H_S201805CHARA01_C1: Usa Tiki, la Voce di Naga, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201805CHARA01_C2: Batti nem. Liv 35+
+MID_MISSION_H_S201805CHARA01_C2: Usa Gaius, il ladro di dolci, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201805CHARA01_C3: Batti nem. Liv 35+
+MID_MISSION_H_S201805CHARA01_C3: Usa Gunter per sconfiggere un nemico di\nlivello 35 o superiore.
+MPID_伝承リン: Lyn
+MPID_HONOR_伝承リン: La nomade
+MPID_H_伝承リン: Nobildonna di Caelin. Il suo vero nome è\nLyndis. Secondo la leggenda, una volta\nsalvò un intero continente dal disastro.\nCompare in Fire Emblem: The Blazing Blade.
+MPID_VOICE_伝承リン: Wendee Lee
+MPID_ILLUST_伝承リン: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承リン: Effetto leggendario: vento\nIncremento alleato: PS +3, Att +2\n\nSe quest'unità scende in battaglia durante\nla stagione del vento con alleati che hanno\nil Dono del vento, questi alleati ricevono\nquest'effetto leggendario.
+MSID_疾弓ミュルグレ: Mulagir agile
+MSID_サカの掟: Legge di Sacae
+MSID_速さの指揮1: Tattica Vel 1
+MSID_速さの指揮2: Tattica Vel 2
+MSID_速さの指揮3: Tattica Vel 3
+MSID_H_疾弓ミュルグレ: Efficace contro le unità volanti. Conferisce Res +3.\nSe entro 2 spazi vi sono più alleati (unità esclusa)\nche nemici (bersaglio escluso), Att/Vel +5 durante\nlo scontro.
+MSID_H_サカの掟: Se il nemico attacca per primo e se l'unità\nha almeno 2 alleati entro 2 spazi,\nAtt/Vel/Dif/Res +4 durante lo scontro.
+MSID_H_速さの指揮1: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nVel +2 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_速さの指揮2: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nVel +4 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_速さの指揮3: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nVel +6 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MID_STAGE_HONOR_L0002: La nomade
+MID_STAGE_L0002: Lyn

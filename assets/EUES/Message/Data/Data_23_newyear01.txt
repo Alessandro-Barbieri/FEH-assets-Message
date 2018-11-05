@@ -1,0 +1,260 @@
+[Heroes Archive] (Data_23_newyear01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201801A_TITLE: Retos: enero (1)
+MID_MISSION_M201801A_A1: Victoria glauca
+MID_MISSION_H_M201801A_A1: Vence a enemigos con\nunidades de tipo verde.
+MID_MISSION_M201801A_A2: Victoria ecuestre
+MID_MISSION_H_M201801A_A2: Vence a enemigos con\nunidades de caballería.
+MID_MISSION_M201801A_A3: Objetivo: rojo
+MID_MISSION_H_M201801A_A3: Vence a enemigos de tipo rojo.
+MID_MISSION_M201801A_A4: Objetivo: infantería
+MID_MISSION_H_M201801A_A4: Vence a unidades de a pie.
+MID_MISSION_M201801A_A5: Gladiador
+MID_MISSION_H_M201801A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201801A_A6: Poderío cerúleo
+MID_MISSION_H_M201801A_A6: Vence a enemigos de nivel 20\no superior con unidades de\ntipo azul.
+MID_MISSION_M201801A_A7: Poderío a pie
+MID_MISSION_H_M201801A_A7: Vence a enemigos de nivel 20\no superior con unidades de\ninfantería.
+MID_MISSION_M201801A_A8: Objetivo: nivel 20+ verde
+MID_MISSION_H_M201801A_A8: Vence a enemigos de tipo\nverde de nivel 20 o superior.
+MID_MISSION_M201801A_A9: Objetivo: nivel 20+ caballo
+MID_MISSION_H_M201801A_A9: Vence a unidades de caballería\nde nivel 20 o superior.
+MID_MISSION_M201801A_A10: Gladiador curtido
+MID_MISSION_H_M201801A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201801A_A11: Gloria carmesí
+MID_MISSION_H_M201801A_A11: Vence a enemigos de nivel 35\no superior con unidades de\ntipo rojo.
+MID_MISSION_M201801A_A12: Gloria aérea
+MID_MISSION_H_M201801A_A12: Vence a enemigos de nivel 35 o\nsuperior con unidades aéreas.
+MID_MISSION_M201801A_A13: Objetivo: nivel 35+ azul
+MID_MISSION_H_M201801A_A13: Vence a enemigos de tipo azul\nde nivel 35 o superior.
+MID_MISSION_M201801A_A14: Objetivo: nivel 35+ aéreo
+MID_MISSION_H_M201801A_A14: Vence a unidades aéreas\nde nivel 35 o superior.
+MID_MISSION_M201801A_A15: Maestro gladiador
+MID_MISSION_H_M201801A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201801B_TITLE: Retos: enero (2)
+MID_MISSION_M201801B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201801B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201801B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201801B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201801B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201801B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201801B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201801B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201801B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201801B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201801B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201801B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201801B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201801B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201801B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201801B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201801B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201801B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201801B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201801C_TITLE: Retos: enero (3)
+MID_MISSION_M201801C_A1: Cap. 5 - Parte 1
+MID_MISSION_H_M201801C_A1: Supera la 1.ª parte del capítulo 5\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201801C_A2: Cap. 5 - Parte 2
+MID_MISSION_H_M201801C_A2: Supera la 2.ª parte del capítulo 5 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A3: Cap. 5 - Parte 3
+MID_MISSION_H_M201801C_A3: Supera la 3.ª parte del capítulo 5 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A4: Cap. 5 - Parte 4
+MID_MISSION_H_M201801C_A4: Supera la 4.ª parte del capítulo 5 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A5: Cap. 5 - Parte 5
+MID_MISSION_H_M201801C_A5: Supera la 5.ª parte del capítulo 5 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A6: Cap. 8 - Parte 1 / Difícil+
+MID_MISSION_H_M201801C_A6: Supera la 1.ª parte del capítulo 8\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201801C_A7: Cap. 8 - Parte 2 / Difícil+
+MID_MISSION_H_M201801C_A7: Supera la 2.ª parte del capítulo 8 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201801C_A8: Cap. 8 - Parte 3 / Difícil+
+MID_MISSION_H_M201801C_A8: Supera la 3.ª parte del capítulo 8 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201801C_A9: Cap. 8 - Parte 4 / Difícil+
+MID_MISSION_H_M201801C_A9: Supera la 4.ª parte del capítulo 8 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201801C_A10: Cap. 8 - Parte 5 / Difícil+
+MID_MISSION_H_M201801C_A10: Supera la 5.ª parte del capítulo 8 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201801C_A11: Cap. 11 - Parte 1 / Extr.
+MID_MISSION_H_M201801C_A11: Supera la 1.ª parte del capítulo 11 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201801C_A12: Cap. 11 - Parte 2 / Extr.
+MID_MISSION_H_M201801C_A12: Supera la 2.ª parte del capítulo 11 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A13: Cap. 11 - Parte 3 / Extr.
+MID_MISSION_H_M201801C_A13: Supera la 3.ª parte del capítulo 11 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A14: Cap. 11 - Parte 4 / Extr.
+MID_MISSION_H_M201801C_A14: Supera la 4.ª parte del capítulo 11 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201801C_A15: Cap. 11 - Parte 5 / Extr.
+MID_MISSION_H_M201801C_A15: Supera la 5.ª parte del capítulo 11 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S2018NEWYEAR01_TITLE: Año Nuevo
+MID_MISSION_S2018NEWYEAR01_A1: Vencer enemigos
+MID_MISSION_H_S2018NEWYEAR01_A1: Vence a un enemigo.
+MID_MISSION_S2018NEWYEAR01_A2: Asalto del coliseo
+MID_MISSION_H_S2018NEWYEAR01_A2: Gana en el asalto del coliseo.
+MID_MISSION_S201712SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201712SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201712SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201712SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201712SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201712SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201712STORY02_TITLE: ¡Feliz Año Nuevo!
+MID_MISSION_S201712STORY02_A1: Desvío 17 - 1 / Extremo
+MID_MISSION_H_S201712STORY02_A1: Supera la 1.ª parte del desvío 17 en modo\nextremo con 4 unidades, incluyendo un\nlancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712STORY02_A2: Desvío 17 - 2 / Extremo
+MID_MISSION_H_S201712STORY02_A2: Supera la 2.ª parte del desvío 17 en modo\nextremo con 4 unidades, incluyendo una\ncon hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201712STORY02_A3: Desvío 17 - 3 / Extremo
+MID_MISSION_H_S201712STORY02_A3: Supera la 3.ª parte del desvío 17 en modo\nextremo con 4 unidades, incluyendo un\nespadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801BIND01_TITLE: Maestría a pie
+MID_MISSION_S201801BIND01_A1: Torre de práctica - Nivel 3
+MID_MISSION_H_S201801BIND01_A1: Supera el nivel 3 de la torre\nde práctica con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A2: Desvío 6-1: infantería
+MID_MISSION_H_S201801BIND01_A2: Supera la 1.ª parte del\ndesvío 6 con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A3: Torre de práctica - Nivel 5
+MID_MISSION_H_S201801BIND01_A3: Supera el nivel 5 de la torre\nde práctica con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A4: Desvío 6-2: infant./difícil+
+MID_MISSION_H_S201801BIND01_A4: Supera la 2.ª parte del desvío 6\nen modo difícil o superior con un\nbatallón de unidades de infantería.
+MID_MISSION_S201801BIND01_A5: Torre de práctica - Nivel 7
+MID_MISSION_H_S201801BIND01_A5: Supera el nivel 7 de la torre\nde práctica con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A6: Desvío 6-3: infant./extr.
+MID_MISSION_H_S201801BIND01_A6: Supera la 3.ª parte del desvío 6\nen modo extremo con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A7: Torre de práctica - Nivel 9
+MID_MISSION_H_S201801BIND01_A7: Supera el nivel 9 de la torre\nde práctica con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BIND01_A8: Desvío 7-3: infant./extr.
+MID_MISSION_H_S201801BIND01_A8: Supera la 3.ª parte del desvío 7\nen modo extremo con un batallón\nde unidades de infantería.
+MID_MISSION_S201801BRAVE01_TITLE: Anna
+MID_MISSION_S201801BRAVE01_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_S201801BRAVE01_A1: Supera el primer nivel de la\ntorre de práctica con Anna\nen tu batallón.
+MID_MISSION_S201801BRAVE01_A2: Torre de práctica - Nivel 5
+MID_MISSION_H_S201801BRAVE01_A2: Supera el quinto nivel de la\ntorre de práctica con Anna\nen tu batallón.
+MID_MISSION_S201801BRAVE01_A3: Torre de práctica - Nivel 9
+MID_MISSION_H_S201801BRAVE01_A3: Supera el noveno nivel de la\ntorre de práctica con Anna\nen tu batallón.
+MID_MISSION_S201801BRAVE01_A4: Torre de práctica - Nivel 10
+MID_MISSION_H_S201801BRAVE01_A4: Supera el décimo nivel de la\ntorre de práctica con 3 unidades,\nincluyendo a Anna, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_S201801BRAVE01_A5: Vencer con Anna
+MID_MISSION_H_S201801BRAVE01_A5: Vence a enemigos con Anna.
+MID_MISSION_S201801BRAVE01_A6: Objetivo: nivel 20+
+MID_MISSION_H_S201801BRAVE01_A6: Vence a enemigos de nivel 20\no superior con Anna.
+MID_MISSION_S201801BRAVE01_A7: Objetivo: nivel 40+
+MID_MISSION_H_S201801BRAVE01_A7: Vence a enemigos de nivel 40\no superior con Anna.
+MID_MISSION_S201801KIZUNA01_TITLE: Batalla de vínculos
+MID_MISSION_S201801KIZUNA01_A1: Superar batalla
+MID_MISSION_H_S201801KIZUNA01_A1: Gana la batalla de vínculos contra\nEphraim y Eirika con Anna en tu batallón.
+MID_MISSION_S201801KIZUNA01_A2: Superar batalla
+MID_MISSION_H_S201801KIZUNA01_A2: Gana la batalla de vínculos contra\nEphraim y Eirika, en modo extremo\no superior, con Sharena en tu batallón.
+MID_MISSION_S201801KIZUNA01_A3: Derrotar a Ephraim: 40+
+MID_MISSION_H_S201801KIZUNA01_A3: Con Anna, derrota a Ephraim\nen su versión de nivel 40 o superior.
+MID_MISSION_S201801KIZUNA01_A4: Derrotar a Eirika: 40+
+MID_MISSION_H_S201801KIZUNA01_A4: Con Sharena, derrota a Eirika\nen su versión de nivel 40 o superior.
+MID_MISSION_S201801KIZUNA01_A5: Superar batalla
+MID_MISSION_H_S201801KIZUNA01_A5: Gana la batalla de vínculos contra Ephraim\ny Eirika en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201801VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201801VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201801VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201801VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201801VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201801VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201801VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201801VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201801VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201801VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201801VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201801VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201801VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201801VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201801VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201801VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201801VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201801VOTE01_A9: Gladiador
+MID_MISSION_H_S201801VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801VOTE01_A10: Gladiador
+MID_MISSION_H_S201801VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201801VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201801VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201801VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201801VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201801VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201801VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201801VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201801VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201801VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201801VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201801VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201801VOTE01_A17: Torneo de votos: rojo
+MID_MISSION_H_S201801VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201801VOTE01_A18: Torneo de votos: azul
+MID_MISSION_H_S201801VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201801VOTE01_A19: Torneo de votos: verde
+MID_MISSION_H_S201801VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201801VOTE01_A20: Torneo de votos: gris
+MID_MISSION_H_S201801VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MPID_年明けアクア: Azura
+MPID_年明けカミラ: Camilla
+MPID_年明けカムイ男: Corrin
+MPID_年明けタクミ: Takumi
+MPID_HONOR_年明けアクア: Espíritu jubiloso
+MPID_HONOR_年明けカミラ: Viajera festiva
+MPID_HONOR_年明けカムイ男: Héroe tradicional
+MPID_HONOR_年明けタクミ: Señor de la sopa
+MPID_H_年明けアクア: Una encantadora princesa criada en Hoshido.\nNunca ha perdido un partido de hanetsuki,\nun deporte que suele jugarse en Año Nuevo.\nAparece en Fire Emblem Fates.
+MPID_H_年明けカミラ: Princesa de Nohr y hermana de Corrin,\npor quien siente auténtica devoción. Aprende\nla cultura hoshidana a través de la moda.\nAparece en Fire Emblem Fates.
+MPID_H_年明けカムイ男: Príncipe hoshidano criado en Nohr.\nEl kimono que lleva lo preparó\nMikoto cuando todavía vivía.\nAparece en Fire Emblem Fates.
+MPID_H_年明けタクミ: Príncipe de Hoshido poseedor del arco\nsagrado yumi Fujin. Le encanta la sopa de\nmiso, pero también el zōni que se toma en\nAño Nuevo. Aparece en Fire Emblem Fates.
+MPID_VOICE_年明けアクア: Rena Strober
+MPID_VOICE_年明けカミラ: Misty Lee
+MPID_VOICE_年明けカムイ男: Cam Clarke
+MPID_VOICE_年明けタクミ: Michael Sinterniklaas
+MPID_ILLUST_年明けアクア: kaya8
+MPID_ILLUST_年明けカミラ: Mikuro (みく郎)
+MPID_ILLUST_年明けカムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_ILLUST_年明けタクミ: Tobi
+MSID_門松: Kadomatsu
+MSID_門松＋: Kadomatsu +
+MSID_羽子板: Hagoita
+MSID_羽子板＋: Hagoita +
+MSID_破魔矢: Hama Ya
+MSID_破魔矢＋: Hama Ya +
+MSID_鏡餅: Kagami Mochi
+MSID_鏡餅＋: Kagami Mochi +
+MSID_速さ守備の絆1: Lazo Vel/Def 1
+MSID_速さ守備の絆2: Lazo Vel/Def 2
+MSID_速さ守備の絆3: Lazo Vel/Def 3
+MSID_大地の舞い1: Tierra bailarina 1
+MSID_大地の舞い2: Tierra bailarina 2
+MSID_大地の舞い3: Tierra bailarina 3
+MSID_H_門松: Otorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_門松＋: Otorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_羽子板: Otorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_羽子板＋: Otorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_破魔矢: Eficaz contra unidades aéreas.\nOtorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_破魔矢＋: Eficaz contra unidades aéreas.\nOtorga Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
+MSID_H_鏡餅: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Tras\nun ataque, si la unidad actúa, inflige Def\ny Res - 5 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_鏡餅＋: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Tras\nun ataque, si la unidad actúa, inflige Def\ny Res - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_速さ守備の絆1: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nVel y Def + 3 en combate.
+MSID_H_速さ守備の絆2: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nVel y Def + 4 en combate.
+MSID_H_速さ守備の絆3: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nVel y Def + 5 en combate.
+MSID_H_大地の舞い1: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Def + 3.
+MSID_H_大地の舞い2: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Def + 4.
+MSID_H_大地の舞い3: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Def + 5.
+MID_CHAPTER_TITLE_CX016: Desvío 17
+MID_CHAPTER_CX016: ¡Feliz Año Nuevo!
+MID_STAGE_TITLE_X0161: Desv. 17 - Parte 1
+MID_STAGE_TITLE_X0162: Desv. 17 - Parte 2
+MID_STAGE_TITLE_X0163: Desv. 17 - Parte 3
+MID_STAGE_X0161: Bendición de Año Nuevo
+MID_STAGE_X0162: Princesas en el templo
+MID_STAGE_X0163: Propósito de Año Nuevo
+MID_STAGE_HONOR_T0022: Batalla de vínculos
+MID_STAGE_T0022: R y L

@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN2)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN2_HOME1: 私は激しやすい性格なのかもしれません。\n尊敬する兄を侮辱され、\n上官に剣を向けたことがあります…
+MID_OLWEN2_HOME2: 兄はイシュタル様に深く信頼されていました。\nですが、そのことがユリウス様の\nご不興を招いてしまったようで…
+MID_OLWEN2_HOME3: 新たな魔道の研究をしていました。\n若輩者で無知だからこその…\n怖いもの知らずなのかもしれませんね。
+MID_OLWEN2_HOME4: 兄は誇り高く、優しい方です。\n兄上は、私を生かすために\n亡くなられたようなものです…
+MID_OLWEN2_HOME5: いつか、私も子をもうけたいと思います。\nい、いえ！　だ、誰との子だとか、\nそういう考えがあるわけではないのですが…
+MID_OLWEN2_FRIEND: 失礼致します。私はオルエン。\n$Nf殿にかわり、\nごあいさつに伺いました。
+MID_OLWEN2_LEVEL1: 好調のようですね。\n嬉しいです。
+MID_OLWEN2_LEVEL2: 一歩ずつ、自分の道を\n歩みたいと思います。
+MID_OLWEN2_LEVEL3: 失態です…\n申し訳ありません。
+MID_OLWEN2_SKILL: あなたからいただいた新たな力…\n決して無駄には致しません。
+MID_OLWEN2_JOIN: オルエンと申します。\n身につけた新たな魔道…\nお見せ致します。
+MID_OLWEN2_STRONGEST: 私はかつて祖国に背き…自分が\n正しいと信じる道を歩むと誓いました。\nその道がどれだけ険しくとも…$k$p道の先にあるのが\n敗北でも死でも…構いません。\nそういう生き方をすると決めたのです。$k$pあなたは多くを語る方ではありませんが、\nあなたの瞳には強い信念を感じます。\n時折、吸い込まれそうになるくらい…$k$pあなたにもまた、\nあなたの信じる道があるのですね…\nいつか、私も知る日がくるでしょうか。$k$p私は、あなたと共に\n歩んでいけることを誇りに思います。\nこれからもどうかよろしくお願い致します。
+MID_OLWEN2_VOICE01: はぁっ！
+MID_OLWEN2_VOICE02: 参ります！
+MID_OLWEN2_VOICE03: きゃああっ！
+MID_OLWEN2_VOICE04: まだです…！
+MID_OLWEN2_VOICE05: 私の道を！
+MID_OLWEN2_VOICE06: 新たな力で…
+MID_OLWEN2_VOICE07: おやめください！
+MID_OLWEN2_VOICE08: 駆けよ！
+MID_OLWEN2_VOICE09: どうか…御武運を…
+MID_OLWEN2_VOICE10: うふふっ
+MID_OLWEN2_VOICE11: 私はオルエン。新たな力で、お味方致します。
+MID_OLWEN2_VOICE12: きゃあっ！？　…じ、冗談はおやめください。
+MID_OLWEN2_VOICE13: 偉大な兄上に近づくことが、私の目標でした。でも…
+MID_OLWEN2_VOICE14: たとえ辛くとも険しくとも、私は私の道を。
+MID_OLWEN2_VOICE15: あなたがいてくださるから、私は前に進めるのです。
+MID_OLWEN2_VOICE16: いつか、兄上をお助けできるようになれたら…
+MID_OLWEN2_VOICE17: お許し下さい。これからも、あなたをお守りすることを…
+MID_OLWEN2_VOICE18: 承知しました
+MID_OLWEN2_VOICE19: 迷いはありません
+MID_OLWEN2_VOICE20: あなたと共に

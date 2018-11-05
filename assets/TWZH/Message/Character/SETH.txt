@@ -1,0 +1,38 @@
+[Heroes Archive] (SETH)
+
+
+Heroes Message Name: Message
+
+
+MID_SETH_HOME1: 阿爾馮斯王子真是溫柔。\n溫柔是種美德，但有時候……\n……不，抱歉我說話逾矩了。
+MID_SETH_HOME2: 在下是路奈斯王家的下屬。\n我的願望就是守護\n艾莉可殿下與艾夫拉姆殿下。
+MID_SETH_HOME3: 雜事就交給我吧，\n請您好好保重自己。\n這也是為了我軍全體著想。
+MID_SETH_HOME4: 不用特別照顧我。\n如果是為了求勝，希望您\n能夠讓我犧牲、成為棄子。
+MID_SETH_HOME5: 我正在進行訓練。\n這是從見習騎士開始\n就不可或缺的每日課題。
+MID_SETH_FRIEND: 打擾了。\n$Nf派我\n前來向您致意。
+MID_SETH_LEVEL1: 我必須更進一步提升自己，\n不可就此懈怠。
+MID_SETH_LEVEL2: 我必須持續累積鍛鍊，\n進一步提升自己。
+MID_SETH_LEVEL3: 落後的進度\n必須靠鍛鍊追上才行……
+MID_SETH_SKILL: 感謝您。\n我會做出不負盛讚的貢獻。
+MID_SETH_JOIN: 我是路奈斯王國的騎士賽特。\n艾莉可殿下與艾夫拉姆殿下\n是否在此？
+MID_SETH_STRONGEST: 我衷心感謝您如此重用我，\n然而……\n為免萬一，請容我先說一句。$k$p您不該對我抱有任何感情或羈絆。\n您下令，我執行。\n我們之間的關係應該僅止於此。$k$p萬一您對我有任何私情……\n恐怕將會導致您在戰場上有所誤判。$k$p而若是我對您有任何羈絆……\n可能會對您的勝利造成妨礙……\n這是我所擔憂的。$k$p因此，還請您別將心思放在我身上，\n盡可能別太靠近我。\n這都是為了讓我今後還能繼續守護您……
+MID_SETH_VOICE01: 喝！
+MID_SETH_VOICE02: 嘿！
+MID_SETH_VOICE03: 嗚啊～！
+MID_SETH_VOICE04: 原諒我……
+MID_SETH_VOICE05: ……覺悟吧。
+MID_SETH_VOICE06: 想法令人感佩。
+MID_SETH_VOICE07: 請見諒。
+MID_SETH_VOICE08: 這是我的使命。
+MID_SETH_VOICE09: 非常抱歉……
+MID_SETH_VOICE10: 呵！
+MID_SETH_VOICE11: 請您下令。
+MID_SETH_VOICE12: ！？……您不該太過接近我。
+MID_SETH_VOICE13: 身為一軍之將，有時必須狠下心腸，視兵卒為棄子。
+MID_SETH_VOICE14: 只是舊傷……無須掛懷。
+MID_SETH_VOICE15: 常有人說我是個無趣的男人。非常抱歉。
+MID_SETH_VOICE16: 艾夫拉姆殿下、艾莉可殿下……請守護吾國路奈斯……
+MID_SETH_VOICE17: 我將豁出性命守護您的安危。
+MID_SETH_VOICE18: 瞭解。
+MID_SETH_VOICE19: 請下令。
+MID_SETH_VOICE20: 是！

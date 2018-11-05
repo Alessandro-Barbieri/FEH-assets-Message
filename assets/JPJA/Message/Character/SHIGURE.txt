@@ -1,0 +1,38 @@
+[Heroes Archive] (SHIGURE)
+
+
+Heroes Message Name: Message
+
+
+MID_SHIGURE_HOME1: ここにいると色々な世界の方と会えますね。\n英雄に、特務機関に、それから召喚師。\nあなたの世界は、どんな景色でしたか？
+MID_SHIGURE_HOME2: 俺は秘境という場所で育ちました。でも…\nそこで世話をしてくれた人も友人も皆、\n敵の襲撃で命を落としてしまったんです。
+MID_SHIGURE_HOME3: 見回りなら、俺の天馬に乗りますか？\nついでに空の散歩なんて如何でしょう。\n上空の風はとても気持ちがいいですよ。
+MID_SHIGURE_HOME4: 今度、一緒に風景を見に行きませんか。\n草花の色、星の光、風の匂い。\nここでのことを、憶えていたいんです。
+MID_SHIGURE_HOME5: ちょうど今、絵を描いていたところです。\n我ながら良い題材なんですよ。\n異界の大英雄…つまり、あなたの絵です。
+MID_SHIGURE_FRIEND: 挨拶を届けに飛んできました。\n$Nfさんが、\nあなたを気にかけていましたよ。
+MID_SHIGURE_LEVEL1: 空を飛んでいるような\n素敵な気持ちですね。
+MID_SHIGURE_LEVEL2: 今なら歌も上手く\n歌えそうですね。
+MID_SHIGURE_LEVEL3: 今日は調子が\n悪いみたいです…
+MID_SHIGURE_SKILL: 美しい力ですね…\nとても嬉しいですよ。
+MID_SHIGURE_JOIN: はじめまして。俺はシグレ…\nアクアの息子で、歌が得意です。\n戦場では天馬と槍で力になりますよ。
+MID_SHIGURE_STRONGEST: 来てくれたんですね、嬉しいです。\n今日は虹でも探しに行きますか？\nそれとも任務に同行しましょうか？$k$p俺は一人でいるのが好きなんですが…\nあなたがおしゃべりな方ではないせいか、\n一緒にいて、とても落ち着くんです。$k$p俺はあなたを気に入ってしまいました。\nもしいつか離れる日が来ても、\nその記憶の片隅にいたいと思うほどに。$k$p例えば空を見たとき、歌声を聴いたとき…\n少しでも俺を思い出してくれるなら、\nそれ以上に幸せなことはありません。$k$pただの英雄が召喚師にこんなことを\n望むのはわがままかもしれませんが、\n俺の気持ちだけ…知っておいてください。
+MID_SHIGURE_VOICE01: はいっ
+MID_SHIGURE_VOICE02: せいっ
+MID_SHIGURE_VOICE03: うあっ！
+MID_SHIGURE_VOICE04: まずいですね…
+MID_SHIGURE_VOICE05: ショーの時間です
+MID_SHIGURE_VOICE06: 声を聴かせてください
+MID_SHIGURE_VOICE07: フィナーレです
+MID_SHIGURE_VOICE08: 俺の出番ですね
+MID_SHIGURE_VOICE09: 空が…きれいですね…
+MID_SHIGURE_VOICE10: ふふ…
+MID_SHIGURE_VOICE11: ユラリ、ユルレリ…♪
+MID_SHIGURE_VOICE12: 俺のこと、ずっと憶えていてくださいね
+MID_SHIGURE_VOICE13: 空はいいですよね、自由で、壮大で…
+MID_SHIGURE_VOICE14: 歌は好きです、母さんほど上手ではありませんが
+MID_SHIGURE_VOICE15: ここは景色が良いですね…絵に描きたくなります
+MID_SHIGURE_VOICE16: 元の世界に戻ったら数千年経っていた、なんてことはありませんよね…
+MID_SHIGURE_VOICE17: いつか散歩に付き合ってくれませんか？\nこの美しい世界と…あなたのことを、俺はもっと知りたいです。
+MID_SHIGURE_VOICE18: はい
+MID_SHIGURE_VOICE19: シグレです
+MID_SHIGURE_VOICE20: 行きましょう

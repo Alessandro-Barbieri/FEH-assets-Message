@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: Bendición de viento
+MID_MISSION_S201804BLESS01_A1: Victoria eólica
+MID_MISSION_H_S201804BLESS01_A1: Vence a enemigos con un héroe\nque tenga la bendición de viento.\n(Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A2: Victoria eólica
+MID_MISSION_H_S201804BLESS01_A2: Vence a enemigos de nivel 20 o superior\ncon un héroe que tenga la bendición\nde viento. (Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A3: Victoria eólica
+MID_MISSION_H_S201804BLESS01_A3: Vence a enemigos de tipo rojo de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde viento. (Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A4: Victoria eólica
+MID_MISSION_H_S201804BLESS01_A4: Vence a enemigos de tipo azul de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde viento. (Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A5: Victoria eólica
+MID_MISSION_H_S201804BLESS01_A5: Vence a enemigos de tipo verde de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde viento. (Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A6: Torre de práctica - Nivel 1
+MID_MISSION_H_S201804BLESS01_A6: Supera el primer nivel de la torre de práctica\ncon un héroe que tenga la bendición de viento.\n(Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201804BLESS01_A7: Supera el quinto nivel de la torre de práctica\ncon un héroe que tenga la bendición de viento.\n(Héroes legendarios no incluidos.)
+MID_MISSION_S201804BLESS01_A8: Torre de práctica - Nivel 10
+MID_MISSION_H_S201804BLESS01_A8: Supera el décimo nivel de la torre de práctica\ncon un héroe que tenga la bendición de viento.\n(Héroes legendarios no incluidos.)
+MID_MISSION_S201804GW01_TITLE: Semana Dorada
+MID_MISSION_S201804GW01_A1: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A1: Vence a enemigos de tipo verde\nde nivel 10 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A2: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A2: Vence a enemigos de tipo rojo\nde nivel 10 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A3: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A3: Vence a enemigos de tipo azul\nde nivel 10 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A4: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A4: Vence a enemigos que usen hacha\nde nivel 10 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A5: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A5: Vence a enemigos que usen espada\nde nivel 10 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A6: Objetivo: nivel 10+
+MID_MISSION_H_S201804GW01_A6: Vence a enemigos que usen lanza\nde nivel 10 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A7: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A7: Vence a enemigos de tipo verde\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A8: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A8: Vence a enemigos de tipo rojo\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A9: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A9: Vence a enemigos de tipo azul\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A10: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A10: Vence a enemigos que usen grimorio verde\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A11: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A11: Vence a enemigos que usen grimorio rojo\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A12: Objetivo: nivel 20+
+MID_MISSION_H_S201804GW01_A12: Vence a enemigos que usen grimorio azul\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A13: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A13: Vence a enemigos de tipo verde\nde nivel 35 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A14: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A14: Vence a enemigos de tipo rojo\nde nivel 35 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A15: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A15: Vence a enemigos de tipo azul\nde nivel 35 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A16: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A16: Vence a enemigos de tipo gris\nde nivel 35 o superior con unidades\nde tipo gris.
+MID_MISSION_S201804GW01_A17: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A17: Vence a enemigos que usen bastón\nde nivel 35 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201804GW01_A18: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A18: Vence a enemigos que usen arco\nde nivel 35 o superior con unidades\nde tipo azul.
+MID_MISSION_S201804GW01_A19: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A19: Vence a enemigos que usen daga\nde nivel 35 o superior con unidades\nde tipo verde.
+MID_MISSION_S201804GW01_A20: Objetivo: nivel 35+
+MID_MISSION_H_S201804GW01_A20: Vence a enemigos que usen espada\nde nivel 35 o superior con unidades\nde tipo gris.
+MID_MISSION_S201804KIZUNA02_TITLE: Batalla de vínculos
+MID_MISSION_S201804KIZUNA02_A1: Superar batalla
+MID_MISSION_H_S201804KIZUNA02_A1: Gana la batalla de vínculos contra\nTakumi y Hinoka con Fjorm en tu batallón.
+MID_MISSION_S201804KIZUNA02_A2: Superar batalla
+MID_MISSION_H_S201804KIZUNA02_A2: Gana la batalla de vínculos contra\nTakumi y Hinoka, en modo extremo\no superior, con Anna en tu batallón.
+MID_MISSION_S201804KIZUNA02_A3: Derrotar a Takumi: 40+
+MID_MISSION_H_S201804KIZUNA02_A3: Con Fjorm, derrota a Takumi, Imprevisible,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201804KIZUNA02_A4: Derrotar a Hinoka: 40+
+MID_MISSION_H_S201804KIZUNA02_A4: Con Anna, derrota a Hinoka, Princesa\nguerrera, en su versión de nivel 40 o superior.
+MID_MISSION_S201804KIZUNA02_A5: Superar batalla
+MID_MISSION_H_S201804KIZUNA02_A5: Gana la batalla de vínculos contra Takumi\ny Hinoka en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201804SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201804SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201804SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201804SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201804SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201804SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804STORY02_TITLE: Rito del hielo
+MID_MISSION_S201804STORY02_A1: Cap. 8 - Parte 1 / Extremo
+MID_MISSION_H_S201804STORY02_A1: Supera la 1.ª parte del capítulo 8 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY02_A2: Cap. 8 - Parte 2 / Extremo
+MID_MISSION_H_S201804STORY02_A2: Supera la 2.ª parte del capítulo 8 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY02_A3: Cap. 8 - Parte 3 / Extremo
+MID_MISSION_H_S201804STORY02_A3: Supera la 3.ª parte del capítulo 8 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY02_A4: Cap. 8 - Parte 4 / Extremo
+MID_MISSION_H_S201804STORY02_A4: Supera la 4.ª parte del capítulo 8 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY02_A5: Cap. 8 - Parte 5 / Extremo
+MID_MISSION_H_S201804STORY02_A5: Supera la 5.ª parte del capítulo 8 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804TAPBTL01_D01_TITLE: B. de toques - Día 1
+MID_MISSION_S201804TAPBTL01_D01_A1: Derrotar a Hector
+MID_MISSION_H_S201804TAPBTL01_D01_A1: Derrota al jefe Hector en dificultad Normal\nen Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D01_A2: Superar plantas 21-25
+MID_MISSION_H_S201804TAPBTL01_D01_A2: Supera las plantas 21-25 en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D01_A3: Superar nivel
+MID_MISSION_H_S201804TAPBTL01_D01_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D02_TITLE: B. de toques - Día 2
+MID_MISSION_S201804TAPBTL01_D02_A1: Derrotar a Hector
+MID_MISSION_H_S201804TAPBTL01_D02_A1: Derrota al jefe Hector en dificultad Difícil\nen Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D02_A2: Superar plantas 41-45
+MID_MISSION_H_S201804TAPBTL01_D02_A2: Supera las plantas 41-45 en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D02_A3: Superar nivel
+MID_MISSION_H_S201804TAPBTL01_D02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D03_TITLE: B. de toques - Día 3
+MID_MISSION_S201804TAPBTL01_D03_A1: Derrotar a Ike
+MID_MISSION_H_S201804TAPBTL01_D03_A1: Derrota al jefe Ike en dificultad Normal\nen Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D03_A2: Superar plantas 61-65
+MID_MISSION_H_S201804TAPBTL01_D03_A2: Supera las plantas 61-65 en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D03_A3: Superar nivel
+MID_MISSION_H_S201804TAPBTL01_D03_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D04_TITLE: B. de toques - Día 4
+MID_MISSION_S201804TAPBTL01_D04_A1: Derrotar a Ike
+MID_MISSION_H_S201804TAPBTL01_D04_A1: Derrota al jefe Ike en dificultad Difícil\nen Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D04_A2: Superar plantas 81-85
+MID_MISSION_H_S201804TAPBTL01_D04_A2: Supera las plantas 81-85 en Batalla de toques.
+MID_MISSION_S201804TAPBTL01_D04_A3: Superar nivel
+MID_MISSION_H_S201804TAPBTL01_D04_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201804TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201804TAPBTL02_A1: Superar nivel de jefe
+MID_MISSION_H_S201804TAPBTL02_A1: Supera un nivel de jefe en Batalla de toques.
+MID_MISSION_S201804TAPBTL02_A2: Superar nivel de jefe
+MID_MISSION_H_S201804TAPBTL02_A2: Supera un nivel de jefe en Batalla de toques.
+MID_MISSION_S201804TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201804TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MPID_ヒノカ2: Hinoka
+MPID_カンナ女: Kana
+MPID_カンナ男: Kana
+MPID_シグレ: Shigure
+MPID_スズカゼ: Kaze
+MPID_HONOR_ヒノカ2: Guerrera aérea
+MPID_HONOR_カンナ女: Niña dragontina
+MPID_HONOR_カンナ男: Niño dragontino
+MPID_HONOR_シグレ: Cantante aéreo
+MPID_HONOR_スズカゼ: Ninja afable
+MPID_H_ヒノカ2: Princesa de Hoshido que alza el vuelo\na lomos de una legendaria ave kinshi.\nAparece en Fire Emblem Fates.
+MPID_H_カンナ女: Hija de Corrin. Alegre y fiel,\nhasta ahora ha llevado una vida solitaria.\nAparece en Fire Emblem Fates.
+MPID_H_カンナ男: Hijo de Corrin. Alegre y fiel,\nhasta ahora ha llevado una vida solitaria.\nAparece en Fire Emblem Fates.
+MPID_H_シグレ: Hijo de Azura. Un artista dulce y sensible\ncuya voz rivaliza con la de su madre.\nAparece en Fire Emblem Fates.
+MPID_H_スズカゼ: Ninja serio y disciplinado oriundo de Hoshido.\nTiene un gemelo, Saizo, y mucho éxito entre\nlas mujeres. Aparece en Fire Emblem Fates.
+MPID_VOICE_ヒノカ2: Cindy Robinson
+MPID_VOICE_カンナ女: Claudia Lenz
+MPID_VOICE_カンナ男: Sandy Fox
+MPID_VOICE_シグレ: Matt Mercer
+MPID_VOICE_スズカゼ: Xander Mobus
+MPID_ILLUST_ヒノカ2: Chiko (チーコ)
+MPID_ILLUST_カンナ女: Miwabe Sakura (みわべさくら)
+MPID_ILLUST_カンナ男: kawasumi (かわすみ)
+MPID_ILLUST_シグレ: Yura (由良)
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: Lanza armonía
+MSID_倭鉾＋: Lanza armonía +
+MSID_戦姫の和弓: Yumi guerrero
+MSID_暗殺手裏剣: Shuriken púas
+MSID_暗殺手裏剣＋: Shuriken púas +
+MSID_水のブレス: Aliento de agua
+MSID_水のブレス＋: Aliento de agua +
+MSID_飛燕の構え2: Postura dúplice 2
+MSID_飛燕の構え3: Postura dúplice 3
+MSID_竜刃の紋章: Acicate dragones
+MSID_飛行の先導1: Guía aérea 1
+MSID_飛行の先導2: Guía aérea 2
+MSID_飛行の先導3: Guía aérea 3
+MSID_H_倭鉾: Inflige + 10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_倭鉾＋: Inflige + 10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_戦姫の和弓: Eficaz contra unidades aéreas y acorazadas.\nOtorga Vel + 3. Los aliados en un radio de dos\ncasillas obtienen Ata + 3 en combate.
+MSID_H_暗殺手裏剣: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Tras\nun ataque, si la unidad actúa, inflige Def\ny Res - 5 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_暗殺手裏剣＋: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Tras\nun ataque, si la unidad actúa, inflige Def\ny Res - 7 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción.
+MSID_H_水のブレス: Si el rival inicia el ataque, la unidad obtiene\nDef y Res + 4 durante el enfrentamiento.\nContra enemigos con alcance de 2,\nel daño se calcula a partir de la Def o la Res\ndel enemigo (la que tenga el valor más bajo).
+MSID_H_水のブレス＋: Si el rival inicia el ataque, la unidad obtiene\nDef y Res + 4 durante el enfrentamiento.\nContra enemigos con alcance de 2,\nel daño se calcula a partir de la Def o la Res\ndel enemigo (la que tenga el valor más bajo).
+MSID_H_飛燕の構え2: Si el rival inicia el ataque, la unidad obtiene\nVel + 4 durante el enfrentamiento.
+MSID_H_飛燕の構え3: Si el rival inicia el ataque, la unidad obtiene\nVel + 6 durante el enfrentamiento.
+MSID_H_竜刃の紋章: Otorga Ata y Vel + 4 en combate\na tus unidades dragón en un radio\nde dos casillas.
+MSID_H_飛行の先導1: Si la unidad tiene el 100 % de PV, los aliados\naéreos en un radio de dos casillas podrán\nmoverse a una casilla adyacente a la suya.
+MSID_H_飛行の先導2: Si la unidad tiene PV ≥ 50 %, los aliados\naéreos en un radio de dos casillas podrán\nmoverse a una casilla adyacente a la suya.
+MSID_H_飛行の先導3: Los aliados aéreos en un radio de dos\ncasillas podrán moverse a una casilla\nadyacente a la de la unidad.
+MID_CHAPTER_TITLE_C0208: Libro II - Cap. 8
+MID_CHAPTER_C0208: Rito del hielo
+MID_STAGE_TITLE_S2081: Cap. 8 - Parte 1
+MID_STAGE_TITLE_S2082: Cap. 8 - Parte 2
+MID_STAGE_TITLE_S2083: Cap. 8 - Parte 3
+MID_STAGE_TITLE_S2084: Cap. 8 - Parte 4
+MID_STAGE_TITLE_S2085: Cap. 8 - Parte 5
+MID_STAGE_S2081: Rezo de la hija del hielo
+MID_STAGE_S2082: Domar a la llama salvaje
+MID_STAGE_S2083: Eterna e inextinguible
+MID_STAGE_S2084: Recipiente de poder
+MID_STAGE_S2085: Rito del hielo
+MID_CHAPTER_ST_C0204: Capítulos 7 y 8
+MID_STAGE_TITLE_ST_S0207: Capítulo 7
+MID_STAGE_TITLE_ST_S0208: Capítulo 8
+MID_STAGE_TITLE_ST_S1208: Capítulos 7 y 8
+MID_STAGE_HONOR_T0030: Niño dragontino
+MID_STAGE_T0030: Kana
+MID_TAP_BATTLE_DATA_TITLE_0003: Temibles enemigos
+MID_MUSIC_NAME_BGM_MAP_FE07_02: Los vientos del llano
+MID_MUSIC_NAME_BGM_MAP_FE14_02: Cae la noche (Fuego)
+MID_MUSIC_NAME_BGM_MAP_FES_01: Festival de fans

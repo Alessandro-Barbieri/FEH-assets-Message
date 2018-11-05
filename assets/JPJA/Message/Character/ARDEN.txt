@@ -1,0 +1,38 @@
+[Heroes Archive] (ARDEN)
+
+
+Heroes Message Name: Message
+
+
+MID_ARDEN_HOME1: なかなか堅牢で良い城だな。\n俺はよく城の守りを任されてきたからな、\n城のことには詳しいんだ。
+MID_ARDEN_HOME2: 元の世界ではいろいろあったが…\n俺はただシグルド様にお仕えするだけだ。\n最後の時までな。
+MID_ARDEN_HOME3: はあ…いつかは俺も\n結婚して、子供もできたりして、\n家族のためにがんばりたいぜ。
+MID_ARDEN_HOME4: この鎧を着てみたいって…？\nやめとけ、やめとけ。\n絶対に倒れちまうぞ。
+MID_ARDEN_HOME5: 守って欲しい時は俺を呼んでくれ。\n急に呼ばれてもすぐには行けないからな、\n早めに呼んでくれよ。
+MID_ARDEN_FRIEND: あんたが$Nuか。\n俺はアーダン。\n$Nfから伝言だ。
+MID_ARDEN_LEVEL1: 固い、強い、速いぜ！
+MID_ARDEN_LEVEL2: なんだか鎧が少し\n軽くなったみたいだぜ…！
+MID_ARDEN_LEVEL3: ううっ…心なしか、\n身体が重いぜ…
+MID_ARDEN_SKILL: こんなに期待されたんじゃ、\nまだしばらく死ぬわけにはいかんな。
+MID_ARDEN_JOIN: 俺はアーダン。\nシアルフィ公子シグルド様に\nお仕えしてるんだ。よろしくな！
+MID_ARDEN_STRONGEST: はあ…\nどうしていつも俺は\nみんなに置いていかれるんだ。$k$pいや…わかってるんだ…\n鎧が重すぎて\n足が遅いせいだってな…$k$pだが俺は重騎士。\nこの分厚い装甲で\nみんなを守ることが役目だろ？$k$pその大事な役目を\n捨てるわけにはいかない。\nだから、これでいいんだ。$k$p俺の愚痴を聞いてくれてありがとな。\nお前のおかげで\nなんか元気出てきたぜ！
+MID_ARDEN_VOICE01: ふんっ！
+MID_ARDEN_VOICE02: おりゃっ！
+MID_ARDEN_VOICE03: うああっ！
+MID_ARDEN_VOICE04: こいつはまいるぜ…
+MID_ARDEN_VOICE05: 俺って強いぜ！
+MID_ARDEN_VOICE06: 固い、強い！
+MID_ARDEN_VOICE07: ん…むむ…！
+MID_ARDEN_VOICE08: 死んでたまるか！
+MID_ARDEN_VOICE09: 悔いのない…一生だった…
+MID_ARDEN_VOICE10: わはは
+MID_ARDEN_VOICE11: たまには俺も出陣させてくれよ？
+MID_ARDEN_VOICE12: ん？　なんだなんだ？　この鎧を着てみたいのか？
+MID_ARDEN_VOICE13: 固い、強い、ってのはいいけど遅いってのは気にいらねえな。
+MID_ARDEN_VOICE14: ふぅっ、疲れたぜ。この鎧は重くてたまらん。
+MID_ARDEN_VOICE15: 俺がもう少し素早ければ、彼女ができるかもしれんのになぁ…
+MID_ARDEN_VOICE16: …ああ、さびしい…俺はこんなに固くて強いのに…
+MID_ARDEN_VOICE17: こんな俺でも、お前と一緒ならがんばれるぜ！
+MID_ARDEN_VOICE18: いやあ、疲れたな！
+MID_ARDEN_VOICE19: 出番が来たか！？
+MID_ARDEN_VOICE20: 全力で走るぜ！

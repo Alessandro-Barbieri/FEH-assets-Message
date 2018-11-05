@@ -1,0 +1,38 @@
+[Heroes Archive] (ALESS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALESS_HOME1: まさか父上とお会いできるとは…\n母上から聞いていた通り、いやそれ以上、\nまさしく騎士の理想の体現者だ。
+MID_ALESS_HOME2: 俺はノディオン王家の後継者だが、\n傭兵として戦場を渡り歩いてきたせいか\nどうもこういう場所は居心地が悪い…\n
+MID_ALESS_HOME3: 何をウロウロとしている？\n貴様も戦場に出る者ならば、\n休めるときはきちんと休んでおけ。\n
+MID_ALESS_HOME4: そんな所で突っ立って見ているなら\nこちらに来て訓練に付き合え。\n体を鍛えて損はあるまい。\n
+MID_ALESS_HOME5: 剣の手入れをしていた。\n魔剣といっても所詮は武器の一つだ。\nお前も神器とやらの扱いには気を遣え。\n
+MID_ALESS_FRIEND: 俺の名はアレス。\n$Nfから\n挨拶状を持ってきた。受け取れ。
+MID_ALESS_LEVEL1: これが俺の力だ…！
+MID_ALESS_LEVEL2: 魔剣ミストルティンは\n人の血をほしがる…
+MID_ALESS_LEVEL3: くそっ、こんなことでは…！
+MID_ALESS_SKILL: 新しい力か。\n使いこなして見せるさ。
+MID_ALESS_JOIN: 黒騎士アレスだ。\n俺の前に立ち塞がるものは\n全てこの魔剣の錆になると知れ。
+MID_ALESS_STRONGEST: …$Nuか。\n剣を持てぬ者と最初は侮っていたが\nお前も立派な戦士だった。非礼を詫びよう。$k$pどうにも俺は融通の利かない性格でな…\nそのせいで、愛する者を失いかけたり、\n友に剣を向けたりもした。$k$p騎士とは、信義のために戦う者。\nしかし、そこに囚われてはならない。\nかつての俺がそうだった様に…$k$pお前も、視野を広く持つことだ。\nそして、お前が真に戦うべき理由を\n見出した時…$k$p俺が、お前の敵を打ち滅ぼす剣となろう。\nこの魔剣ミストルティンと、\n黒騎士アレスの名にかけて。
+MID_ALESS_VOICE01: はぁっ！
+MID_ALESS_VOICE02: うおおっ！
+MID_ALESS_VOICE03: うああっ！
+MID_ALESS_VOICE04: くそっ！
+MID_ALESS_VOICE05: ミストルティン！
+MID_ALESS_VOICE06: 餌食になりたいか
+MID_ALESS_VOICE07: 貴様！
+MID_ALESS_VOICE08: 命をもらう！
+MID_ALESS_VOICE09: まさか…この俺が…
+MID_ALESS_VOICE10: はは
+MID_ALESS_VOICE11: 俺は黒騎士アレス…エルトシャンの子だ。
+MID_ALESS_VOICE12: ！？　な、なんのつもりだ？　驚かせるな。
+MID_ALESS_VOICE13: シグルドは我が父の仇、俺はそう信じて生きてきた。だが…
+MID_ALESS_VOICE14: まさか、父上もこの世界にいるのか？
+MID_ALESS_VOICE15: 俺は父上の意志を継ぎ、祖国を再興してみせる。
+MID_ALESS_VOICE16: 魔剣ミストルティンは人の血を欲しがる…
+MID_ALESS_VOICE17: 俺一人ではだめだ。お前の力を貸してほしい。
+MID_ALESS_VOICE18: わかった
+MID_ALESS_VOICE19: 敵は？
+MID_ALESS_VOICE20: 俺は行く

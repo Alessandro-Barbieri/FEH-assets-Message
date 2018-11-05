@@ -1,0 +1,38 @@
+[Heroes Archive] (ALVIS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALVIS_HOME1: Questo mondo è bello davvero. Ma\nnon assomiglia molto a quello che\nvoglio costruire, fondato sugli ideali.
+MID_ALVIS_HOME2: Il mondo da cui provengo è sull'orlo\ndi una nuova era. È battuto dalle\nguerre... ma finiranno presto.
+MID_ALVIS_HOME3: Non fai che correre a destra e a\nmanca. La tua vita è dura e faticosa.\nÈ quello che abbiamo in comune.
+MID_ALVIS_HOME4: Gli ideali non possono realizzarsi\nsenza sacrifici... Sacrifici che in\npochi saprebbero tollerare.
+MID_ALVIS_HOME5: Ho ucciso l'usurpatore. Non ho avuto\nscelta. Per costruire un mondo\ngiusto, Sigurd doveva morire.\n
+MID_ALVIS_FRIEND: Sono Arvis, un emissario di\n$Nf.
+MID_ALVIS_LEVEL1: Chi si pone sul mio cammino\ndiventerà cenere!
+MID_ALVIS_LEVEL2: Devo diventare più forte.
+MID_ALVIS_LEVEL3: Questo è inaccettabile!
+MID_ALVIS_SKILL: Sono un campione della gente,\ncome i crociati prima di me.
+MID_ALVIS_JOIN: Sono Arvis, discendente dei\ncrociati Fjalar e Maera.
+MID_ALVIS_STRONGEST: Come ti immagini questo mondo?\nChe forma dovrebbe prendere,\n$Nu?$k$pDimentichiamo inezie come chi ha\nvinto la battaglia di ieri. In che modo\nvorresti cambiare il mondo?$k$pCapisci cosa intendo dire, vero?\nPersone come noi... Noi abbiamo il\npotere di influenzare il mondo.$k$pLe tue abilità sono straordinarie.\nCapirai perché ritengo che sia il\ntuo dovere guidare la gente.$k$pIo stesso non mi fermerò finché\nnon potrò tornare nel mio mondo\nper dargli la forma ideale.$k$pProprio per questo vorrei sapere\nche mondo desideri vedere.\nDevo sentire la tua risposta.
+MID_ALVIS_VOICE01: ふん
+MID_ALVIS_VOICE02: Burn!
+MID_ALVIS_VOICE03: うああっ！
+MID_ALVIS_VOICE04: Insurgent...
+MID_ALVIS_VOICE05: Ti condanno a morte.
+MID_ALVIS_VOICE06: Per un mondo migliore.
+MID_ALVIS_VOICE07: L'opposizione è tradimento.
+MID_ALVIS_VOICE08: Fiamme infernali su di te!
+MID_ALVIS_VOICE09: Deirdre, Julia...
+MID_ALVIS_VOICE10: Hmmpt
+MID_ALVIS_VOICE11: Well, now. Let's see what you're capable of.
+MID_ALVIS_VOICE12: What is it that you think you're doing? You're getting awfully familiar.
+MID_ALVIS_VOICE13: If you can only understand one thing, make it this: I have no intention of bowing to your will.
+MID_ALVIS_VOICE14: I'm willing to burn the world with my hellfire.
+MID_ALVIS_VOICE15: To make my ideals a reality, I'd sacrifice anything...or anyone.
+MID_ALVIS_VOICE16: I will remake the world—tear down divisions and make things equitable for all.
+MID_ALVIS_VOICE17: So tell me! I want to know what it is that you believe in.
+MID_ALVIS_VOICE18: Out with it!
+MID_ALVIS_VOICE19: What's your gambit?
+MID_ALVIS_VOICE20: Of course.

@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: 夏蓉
+MID_MISSION_S201712BRAVE01_A1: 特殊:突破修練之塔・第1層
+MID_MISSION_H_S201712BRAVE01_A1: 將夏蓉編入我軍，\n過關修練之塔・第1層。
+MID_MISSION_S201712BRAVE01_A2: 特殊:突破修練之塔・第5層
+MID_MISSION_H_S201712BRAVE01_A2: 將夏蓉編入我軍，\n過關修練之塔・第5層。
+MID_MISSION_S201712BRAVE01_A3: 特殊:突破修練之塔・第9層
+MID_MISSION_H_S201712BRAVE01_A3: 將夏蓉編入我軍，\n過關修練之塔・第9層。
+MID_MISSION_S201712BRAVE01_A4: 特殊:突破修練之塔・第10層
+MID_MISSION_H_S201712BRAVE01_A4: 包含夏蓉在内編組3人部隊，\n且於全員生存的狀態下，\n過關修練之塔・第10層。
+MID_MISSION_S201712BRAVE01_A5: 以夏蓉擊敗敵人
+MID_MISSION_H_S201712BRAVE01_A5: 以夏蓉擊敗敵人。
+MID_MISSION_S201712BRAVE01_A6: 特殊:擊敗LV20以上
+MID_MISSION_H_S201712BRAVE01_A6: 以夏蓉\n擊敗等級20以上的敵人。
+MID_MISSION_S201712BRAVE01_A7: 特殊:擊敗LV40以上
+MID_MISSION_H_S201712BRAVE01_A7: 以夏蓉\n擊敗等級40以上的敵人。
+MID_MISSION_S201712CHARA01_TITLE: 三位英雄
+MID_MISSION_S201712CHARA01_A1: 擊敗敵人
+MID_MISSION_H_S201712CHARA01_A1: 擊敗敵人。
+MID_MISSION_S201712CHARA01_A2: 以拉茲沃德擊敗敵人
+MID_MISSION_H_S201712CHARA01_A2: 以拉茲沃德擊敗敵人。
+MID_MISSION_S201712CHARA01_A3: 以芙羅利娜擊敗敵人
+MID_MISSION_H_S201712CHARA01_A3: 以芙羅利娜擊敗敵人。
+MID_MISSION_S201712CHARA01_B1: 特殊:擊敗LV20以上
+MID_MISSION_H_S201712CHARA01_B1: 以拉茲沃德\n擊敗等級20以上的敵人。
+MID_MISSION_S201712CHARA01_B2: 特殊:擊敗LV20以上
+MID_MISSION_H_S201712CHARA01_B2: 以芙羅利娜\n擊敗等級20以上的敵人。
+MID_MISSION_S201712CHARA01_B3: 特殊:擊敗LV20以上
+MID_MISSION_H_S201712CHARA01_B3: 以巴多爾\n擊敗等級20以上的敵人。
+MID_MISSION_S201712CHARA01_C1: 特殊:擊敗LV35以上
+MID_MISSION_H_S201712CHARA01_C1: 以拉茲沃德\n擊敗等級35以上的敵人。
+MID_MISSION_S201712CHARA01_C2: 特殊:擊敗LV35以上
+MID_MISSION_H_S201712CHARA01_C2: 以芙羅利娜\n擊敗等級35以上的敵人。
+MID_MISSION_S201712CHARA01_C3: 特殊:擊敗LV35以上
+MID_MISSION_H_S201712CHARA01_C3: 以巴多爾\n擊敗等級35以上的敵人。
+MID_MISSION_S201712HERO02_TITLE: 大英雄戰
+MID_MISSION_S201712HERO02_A1: 特殊:突破赤色劍士拿巴爾
+MID_MISSION_H_S201712HERO02_A1: 將阿爾馮斯編入我軍，\n過關大英雄戰・赤色劍士拿巴爾。
+MID_MISSION_S201712HERO02_A2: 特殊:突破赤色劍士拿巴爾
+MID_MISSION_H_S201712HERO02_A2: 將拿巴爾編入我軍，\n過關大英雄戰・赤色劍士拿巴爾(超難以上)。
+MID_MISSION_S201712HERO02_A3: 特殊:突破赤色劍士拿巴爾
+MID_MISSION_H_S201712HERO02_A3: 以阿爾馮斯\n擊敗等級40以上的赤色劍士拿巴爾。
+MID_MISSION_S201712HERO02_A4: 特殊:突破赤色劍士拿巴爾
+MID_MISSION_H_S201712HERO02_A4: 以赤色劍士拿巴爾\n擊敗等級40以上的赤色劍士拿巴爾。
+MID_MISSION_S201712HERO02_A5: 特殊:突破赤色劍士拿巴爾
+MID_MISSION_H_S201712HERO02_A5: 我軍全員為步行，\n過關大英雄戰・赤色劍士拿巴爾(超難以上)。
+MID_MISSION_S201712SENKA01_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201712SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201712SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201712SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201712SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201712SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201712SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201712SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201712SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201712STORY01_TITLE: 冬祭使者
+MID_MISSION_S201712STORY01_A1: 特殊:突破外傳16-1節(超難)
+MID_MISSION_H_S201712STORY01_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳16-1節(超難)。
+MID_MISSION_S201712STORY01_A2: 特殊:突破外傳16-2節(超難)
+MID_MISSION_H_S201712STORY01_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳16-2節(超難)。
+MID_MISSION_S201712STORY01_A3: 特殊:突破外傳16-3節(超難)
+MID_MISSION_H_S201712STORY01_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳16-3節(超難)。
+MPID_冬祭クロム: 庫洛武
+MPID_冬祭リズ: 莉茲
+MPID_冬祭ルフレ男: 魯弗萊
+MPID_冬祭サーリャ: 撒拉
+MPID_HONOR_冬祭クロム: 紅色的聖王子
+MPID_HONOR_冬祭リズ: 閃閃發光
+MPID_HONOR_冬祭ルフレ男: 冬祭的策士
+MPID_HONOR_冬祭サーリャ: 「普通的女孩」
+MPID_H_冬祭クロム: 伊里斯聖王國的王子，【英雄王】的後裔。\n在冬祭盛宴時被召喚了出來。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_冬祭リズ: 伊里斯聖王國的公主，庫洛武的妹妹。\n在冬祭的各種美食中，最喜歡的是蛋糕。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_冬祭ルフレ男: 失去記憶的軍師，庫洛武的摯友。\n日夜策劃著如何享受冬祭。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_冬祭サーリャ: 佩萊吉亞國出身的咒術師，雖然個性陰沉，\n但為了某個理由而讓自己表現得很開朗活潑。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_VOICE_冬祭クロム: 杉田智和(Tomokazu Sugita)
+MPID_VOICE_冬祭リズ: 阿澄佳奈(Kana Asumi)
+MPID_VOICE_冬祭ルフレ男: 細谷佳正(Yoshimasa Hosoya)
+MPID_VOICE_冬祭サーリャ: 高田憂希(Yuuki Takada)
+MPID_ILLUST_冬祭クロム: えびら(Ebila)
+MPID_ILLUST_冬祭リズ: 海鵜げそ(Geso Umiu)
+MPID_ILLUST_冬祭ルフレ男: 冨士原良(Ryo Fujiwara)
+MPID_ILLUST_冬祭サーリャ: わし元 (Washimoto)
+MSID_聖樹: 聖樹
+MSID_聖樹＋: 聖樹＋
+MSID_プレゼント袋: 禮物袋
+MSID_プレゼント袋＋: 禮物袋＋
+MSID_ハンドベル: 手鐘
+MSID_ハンドベル＋: 手鐘＋
+MSID_燭台: 燭台
+MSID_燭台＋: 燭台＋
+MSID_攻撃速さの大覚醒1: 攻擊速度大覺醒１
+MSID_攻撃速さの大覚醒2: 攻擊速度大覺醒２
+MSID_攻撃速さの大覚醒3: 攻擊速度大覺醒３
+MSID_攻撃守備の大覚醒1: 攻擊防守大覺醒１
+MSID_攻撃守備の大覚醒2: 攻擊防守大覺醒２
+MSID_攻撃守備の大覚醒3: 攻擊防守大覺醒３
+MSID_攻撃隊形1: 攻擊隊形１
+MSID_攻撃隊形2: 攻擊隊形２
+MSID_攻撃隊形3: 攻擊隊形３
+MSID_迎撃隊形1: 迎擊隊形１
+MSID_迎撃隊形2: 迎擊隊形２
+MSID_迎撃隊形3: 迎擊隊形３
+MSID_赤魔の技量1: 赤魔之技巧１
+MSID_赤魔の技量2: 赤魔之技巧２
+MSID_赤魔の技量3: 赤魔之技巧３
+MSID_H_聖樹: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_聖樹＋: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_プレゼント袋: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_プレゼント袋＋: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_ハンドベル: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_ハンドベル＋: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_燭台: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_燭台＋: 受到敵人攻擊時，戰鬥中的\n攻擊、速度、防守、魔防＋２
+MSID_H_攻撃速さの大覚醒1: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及速度＋３
+MSID_H_攻撃速さの大覚醒2: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及速度＋５
+MSID_H_攻撃速さの大覚醒3: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及速度＋７
+MSID_H_攻撃守備の大覚醒1: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及防守＋３
+MSID_H_攻撃守備の大覚醒2: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及防守＋５
+MSID_H_攻撃守備の大覚醒3: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及防守＋７
+MSID_H_攻撃隊形1: 若自身ＨＰ為１００％，且由自己發動攻擊時，\n必定可進行追擊。因自身攻擊變化的奧義發動計量\n變動量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_攻撃隊形2: 若自身ＨＰ高於５０％，且由自己發動攻擊時，\n必定可進行追擊。因自身攻擊變化的奧義發動計量\n變動量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_攻撃隊形3: 由自己發動攻擊時，必定可進行追擊。\n因自身攻擊變化的奧義發動計量變動量＋１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_迎撃隊形1: 若自身ＨＰ高於９０％，受到敵人攻擊時，\n必定可進行追擊。因自身攻擊變化的奧義發動計量\n變動量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_迎撃隊形2: 若自身ＨＰ高於７０％，受到敵人攻擊時，\n必定可進行追擊。因自身攻擊變化的奧義發動計量\n變動量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_迎撃隊形3: 若自身ＨＰ高於５０％，受到敵人攻擊時，\n必定可進行追擊。因自身攻擊變化的奧義發動計量\n變動量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_赤魔の技量1: 存活時，若自己武器為赤魔，則可透過戰鬥取得１．５倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_赤魔の技量2: 存活時，武器為赤魔的我方皆可透過戰鬥取得１．５倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_赤魔の技量3: 存活時，武器為赤魔的我方皆可透過戰鬥取得２倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MID_CHAPTER_TITLE_CX015: 外傳１６
+MID_CHAPTER_CX015: 冬祭使者
+MID_STAGE_TITLE_X0151: 外傳１６—１節
+MID_STAGE_TITLE_X0152: 外傳１６—２節
+MID_STAGE_TITLE_X0153: 外傳１６—３節
+MID_STAGE_X0151: 肩上背著白色的大袋子
+MID_STAGE_X0152: 身上穿著紅色的衣裳
+MID_STAGE_X0153: 他會來到好孩子的身邊
+MID_STAGE_TITLE_ST_X0014: 外傳１５
+MID_STAGE_TITLE_ST_X0015: 外傳１６
+MID_STAGE_TITLE_ST_X1015: 外傳１５～１６
+MID_CHAPTER_ST_CX008: 外傳１５～１６
+MID_STAGE_HONOR_V0121: 每日更換
+MID_STAGE_V0121: 其之１
+MID_STAGE_HONOR_V0122: 每日更換
+MID_STAGE_V0122: 其之２
+MID_STAGE_HONOR_V0123: 每日更換
+MID_STAGE_V0123: 其之３
+MID_STAGE_HONOR_V0124: 每日更換
+MID_STAGE_V0124: 其之４
+MID_STAGE_HONOR_V0125: 每日更換
+MID_STAGE_V0125: 其之５
+MID_STAGE_HONOR_V0126: 每日更換
+MID_STAGE_V0126: 其之６
+MID_STAGE_HONOR_V0127: 每日更換
+MID_STAGE_V0127: 其之７
+MID_STAGE_HONOR_V0131: 每日更換
+MID_STAGE_V0131: 其之８
+MID_STAGE_HONOR_V0132: 每日更換
+MID_STAGE_V0132: 其之９
+MID_STAGE_HONOR_V0133: 每日更換
+MID_STAGE_V0133: 其之１０
+MID_STAGE_HONOR_V0134: 每日更換
+MID_STAGE_V0134: 其之１１
+MID_STAGE_HONOR_V0135: New year
+MID_STAGE_V0135: 其之１
+MID_STAGE_HONOR_V0136: New year
+MID_STAGE_V0136: 其之２
+MID_STAGE_HONOR_V0137: New year
+MID_STAGE_V0137: 其之３

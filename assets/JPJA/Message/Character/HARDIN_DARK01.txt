@@ -1,0 +1,38 @@
+[Heroes Archive] (HARDIN_DARK01)
+
+
+Heroes Message Name: Message
+
+
+MID_HARDIN_DARK01_HOME1: どの世界でも人の欲望と争いは絶えぬか。\nおもしろい、数多の英雄どもの力とやら、\nとくと拝見しようではないか。
+MID_HARDIN_DARK01_HOME2: 光の王子、救国の騎士…そんなまやかしを\nまつりあげても、民の腹はふくれぬのだ。\n国が強くあらねば、待つのは衰退と滅亡だ。
+MID_HARDIN_DARK01_HOME3: なるほど、貴様の力は稀有のものだ。\nだが、闇のオーブを持つ私には及ばぬ。\n身の程を知り、つけあがらぬことだ…
+MID_HARDIN_DARK01_HOME4: 私は優れた者を正しく登用する主義だ。\n貴様にそのつもりがあるならば、\n我がアカネイア帝国軍に歓迎するぞ。
+MID_HARDIN_DARK01_HOME5: まるで、悪い夢を見ているようだ…\nだが戦いは望むところよ。\n草原の狼の魂、まだ死んではおらん。
+MID_HARDIN_DARK01_FRIEND: ここにも異邦の英雄が集っているのか。\n貴様、我が軍に楯突こうなどと\n考えてはおるまいな？
+MID_HARDIN_DARK01_LEVEL1: 力有る者に、正しき報いあれ！
+MID_HARDIN_DARK01_LEVEL2: 全軍、次の構えに移れ！\nまだ敵は残っているぞ！
+MID_HARDIN_DARK01_LEVEL3: ぬう…　武器の輝きが鈍いようだ。
+MID_HARDIN_DARK01_SKILL: これで戦力は整った！\n全軍出撃！　敵を一掃せよ！
+MID_HARDIN_DARK01_JOIN: 我が名はハーディン。\n偉大なるアカネイア神聖帝国皇帝である。\n我が怒りに触れたくなくば、名乗るがいい。
+MID_HARDIN_DARK01_STRONGEST: 王だ、貴族だなどというものの多くはな、\nふさわしい力も持たぬくせに、\n特権意識に濁り腐ったクズばかりよ。$k$pそんな愚者どもが戦乱を招き、\n弱き者から死んでゆく。\nそんな国や世界に何の価値がある。$k$pいっそ、\n滅んだほうがよいのかもしれぬぞ。\nこの世界とて同じこと…$k$pだが私は、戦乱の中に光を見たのだ。\nアカネイアの本当の宝となるべきもの…\n私は銀の剣に誓った。彼女を守り抜くと。$k$pそのために国を、世を浄化せねばならぬ。\n愚者は追放し、邪魔者は殺す！\nそれが炎の紋章を託された者であってもだ！$k$p…今、私は何を喋っていた？\n私は…　そう、反乱軍を撃滅せねばな。\n全軍、出撃せよ！
+MID_HARDIN_DARK01_VOICE01: ふんっ！
+MID_HARDIN_DARK01_VOICE02: 馬鹿め！
+MID_HARDIN_DARK01_VOICE03: うああっ！
+MID_HARDIN_DARK01_VOICE04: おのれ…！
+MID_HARDIN_DARK01_VOICE05: つけあがるな！
+MID_HARDIN_DARK01_VOICE06: 死にに来たか！
+MID_HARDIN_DARK01_VOICE07: すべて殺す！
+MID_HARDIN_DARK01_VOICE08: 貫いてやろう！
+MID_HARDIN_DARK01_VOICE09: マルス王子…許せ…
+MID_HARDIN_DARK01_VOICE10: くくく…
+MID_HARDIN_DARK01_VOICE11: 私は大陸の支配者、アカネイア帝国の皇帝だ
+MID_HARDIN_DARK01_VOICE12: 貴様…私に無礼は許さんぞ
+MID_HARDIN_DARK01_VOICE13: 私に刃向かう者は、誰とて容赦しない
+MID_HARDIN_DARK01_VOICE14: けがらわしい世界を叩き潰さねばならん…
+MID_HARDIN_DARK01_VOICE15: ぐっ…頭が……　なんだ、この記憶は……？
+MID_HARDIN_DARK01_VOICE16: 私は…彼女を…最後まで…愛していた…
+MID_HARDIN_DARK01_VOICE17: 英雄はここにただ一人…それを貴様に教えてやろう
+MID_HARDIN_DARK01_VOICE18: 良いだろう
+MID_HARDIN_DARK01_VOICE19: 憎い…
+MID_HARDIN_DARK01_VOICE20: 滅べ…

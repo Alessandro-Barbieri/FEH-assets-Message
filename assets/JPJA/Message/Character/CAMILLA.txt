@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_HOME1: 敵国が英雄を狙う気持ち、少しわかるわ。\n自分好みの子がいたら…欲しくなるもの。\n寂しいときだったら、尚更ね。
+MID_CAMILLA_HOME2: 私の臣下はベルカとルーナというの。\n二人とも強くて可愛い、私のお気に入りよ。\nあなたも好きになってくれると嬉しいわ。
+MID_CAMILLA_HOME3: 私を気にかけてくれるなんて優しい子…\n見回りもいいけど、疲れたら私に言うのよ。\n膝枕をして、思い切り甘やかしてあげる。
+MID_CAMILLA_HOME4: この世界の景色は素晴らしいわね。\n今度、一緒に出かけない？\nあなたの好きな場所を私に教えて欲しいの。
+MID_CAMILLA_HOME5: 今ちょうど、お風呂に入ってきたところなの。\nあなたも入るなら、背中を流しましょうか？\nあらあら…照れちゃって、可愛いわね。
+MID_CAMILLA_FRIEND: あなた、$Nuね。\n$Nfから挨拶よ。\nうふふ…仲が良くって、妬けちゃうわね。
+MID_CAMILLA_LEVEL1: 胸がきつくなっちゃったわ。
+MID_CAMILLA_LEVEL2: うふふ。素敵…
+MID_CAMILLA_LEVEL3: あらあら…\nごめんなさいね。
+MID_CAMILLA_SKILL: どうかしら？\n前よりもあなた好みになった？
+MID_CAMILLA_JOIN: 暗夜王国第一王女、カミラよ。\n可愛い子…私を必要としてくれたの？\nあなたは私が守ってあげるわ。
+MID_CAMILLA_STRONGEST: まあ、$Nu…！\n今日も私のところに来てくれたのね。\nその顔を私によく見せてちょうだい？$k$pふふ…良かった、怪我はないみたいね。\nそんな強力な神器を持っているのに\n闘えないだなんて…本当に可愛い子。$k$pあなたを見ているとつい、\n守ってあげたくなってしまうのよ。\nあなたを襲う敵は、私が倒してあげる。$k$pこの感情が英雄と召喚師の\n性でしかないのだとしても…\n私は甘んじてそれを受け入れるわ。$k$p例えほんのひとときでも、\n私はあなたの、特別な英雄でありたいの。\nいつまでも愛しているわ、あなたを…
+MID_CAMILLA_VOICE01: はいっ
+MID_CAMILLA_VOICE02: そぉれ
+MID_CAMILLA_VOICE03: きゃあっ
+MID_CAMILLA_VOICE04: そんな…！
+MID_CAMILLA_VOICE05: 可愛がってあげる
+MID_CAMILLA_VOICE06: こら、駄目よ？
+MID_CAMILLA_VOICE07: しょうがない子…
+MID_CAMILLA_VOICE08: お仕置きよ
+MID_CAMILLA_VOICE09: 仕方ない…わね……
+MID_CAMILLA_VOICE10: うふふ…
+MID_CAMILLA_VOICE11: まあ、私に用かしら？
+MID_CAMILLA_VOICE12: 膝枕でもしてあげましょうか
+MID_CAMILLA_VOICE13: 汗をかいてしまったわ…お風呂に入りたいわね
+MID_CAMILLA_VOICE14: 戦場ではあなたの指示通り、誰でも殺してあげるわ
+MID_CAMILLA_VOICE15: あの子は大丈夫かしら…つい心配してしまうわ。
+MID_CAMILLA_VOICE16: ベルカとルーナはいる？　私の可愛い臣下たちなの
+MID_CAMILLA_VOICE17: あなた、可愛いわね…私の愛するあの子にそっくり。\n私をお姉ちゃんだと思って、いつでも甘えていいのよ？
+MID_CAMILLA_VOICE18: ええ
+MID_CAMILLA_VOICE19: わかったわ
+MID_CAMILLA_VOICE20: 大丈夫よ
+MID_CAMILLA_VOICE21: ふふ…私を呼び出すなんて、いけない子ね

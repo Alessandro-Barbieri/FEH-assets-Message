@@ -1,0 +1,59 @@
+[Heroes Archive] (SHARON)
+
+
+Heroes Message Name: Message
+
+
+MID_SHARON_HOME1: Mio fratello preferisce non caricarmi di\nincombenze. Immagino possa voler\ndire che non mi crede all'altezza.
+MID_SHARON_HOME2: Diventerò amica degli eroi di tutti\ni mondi e di tutti i tempi. E daremo\nuna bellissima festa!
+MID_SHARON_HOME3: Oh, ci sei tu di pattuglia,\n$Nu?\nMa certo, meglio di te non ce n'è!
+MID_SHARON_HOME4: Oh, $Nu,\nhai tempo per chiacchierare?\nSai, io sono brava ad ascoltare!
+MID_SHARON_HOME5: Scrivo sempre delle lettere a mia\nmadre. Viviamo nello stesso castello,\nma ci manca il tempo per parlare!
+MID_SHARON_FRIEND: Come stai? Cosa? Questo è un altro\nAskr? E dimmi, com'è la versione di\nme di questo regno? Carina, vero?
+MID_SHARON_LEVEL1: Che meraviglia! È il mio\nmomento!
+MID_SHARON_LEVEL2: Lieta di aver dimostrato di\nessere all'altezza.
+MID_SHARON_LEVEL3: Ooops! Scusa. So di poter\nfare di meglio.
+MID_SHARON_SKILL: Più potere per me? Potrei\nsvenire per l'emozione!
+MID_SHARON_STRONGEST: Sai, considero un onore grandissimo\ne un privilegio particolare poter\npassare questi momenti con te.$k$pOh, ma chi voglio prendere in giro,\n$Nu?$k$pCi sono! Mettiamo da parte questi\ndiscorsi da reali senza senso. Ci\nsiamo solo io e te ora, vero? Bene!$k$pLa verità è che adoro starti vicino.\nNon sono mai stata così felice!$k$pCerto, sei una valorosa aggiunta\nai Guardiani di Askr. Bla, bla, bla,\nbla, bla, bla.$k$pMa dopo aver passato molto tempo\ncon te, ti considero più come...\n$Gun buon amico,una buona amica|.$k$pAnche tu la pensi così? Siamo $Gamici,amiche|\nio e te? Migliori $Gamici,amiche|? O quasi $Gdei,delle|\nmigliori $Gamici,amiche|?$k$pSì? Ehm, quale delle due? Non\nimporta. Sono così felice... ma così\nfelice... davvero...$k$pBuaaah! Mi hai fatto piangere,\nsciocchin$Go,a|.$k$pNon dimenticherò questa giornata.\nRaccoglierò le mie lacrime di gioia in\nuna fialetta e mi ricorderai per sempre!
+MID_SHARON_VOICE01: はいっ！
+MID_SHARON_VOICE02: What about this?!
+MID_SHARON_VOICE03: きゃっ
+MID_SHARON_VOICE04: That's a fine hello!
+MID_SHARON_VOICE05: Eccomi!
+MID_SHARON_VOICE06: Prima le donne.
+MID_SHARON_VOICE07: Ecco il tuo punto debole!
+MID_SHARON_VOICE08: Mi faccio strada così!
+MID_SHARON_VOICE09: How...?
+MID_SHARON_VOICE10: Teehee
+MID_SHARON_VOICE11: How do you do?
+MID_SHARON_VOICE12: Ha! What was that? A sneak attack?
+MID_SHARON_VOICE13: If there's one thing I'm really good at, it's lighting up the room!
+MID_SHARON_VOICE14: I know my brother can be a bit serious. But I think he's quite fond of you.
+MID_SHARON_VOICE15: The Order of Heroes is simply spectacular since you showed up!
+MID_SHARON_VOICE16: I wish I could summon Heroes like you. Then we'd really have a party!
+MID_SHARON_VOICE17: You know, I pledge forever and ever to be your number-one fan!
+MID_SHARON_VOICE18: Yes?
+MID_SHARON_VOICE19: My turn.
+MID_SHARON_VOICE20: Let's go.
+MID_SHARON_VOICE21: Fire Emblem
+MID_SHARON_VOICE22: Shadow Dragon and the Blade of Light
+MID_SHARON_VOICE23: Gaiden
+MID_SHARON_VOICE24: Mystery of the Emblem
+MID_SHARON_VOICE25: Genealogy of the Holy War
+MID_SHARON_VOICE26: Thracia 776
+MID_SHARON_VOICE27: The Binding Blade
+MID_SHARON_VOICE28: The Blazing Blade
+MID_SHARON_VOICE29: The Sacred Stones
+MID_SHARON_VOICE30: Path of Radiance
+MID_SHARON_VOICE31: Radiant Dawn
+MID_SHARON_VOICE32: Shadow Dragon
+MID_SHARON_VOICE33: New Mystery of the Emblem
+MID_SHARON_VOICE34: Awakening
+MID_SHARON_VOICE35: Fates
+MID_SHARON_VOICE36: An event has started!
+MID_SHARON_VOICE37: A big battle has started!
+MID_SHARON_VOICE38: A strong foe has appeared!
+MID_SHARON_VOICE39: New Heroes are available!
+MID_SHARON_VOICE40: Wait just a little bit.
+MID_SHARON_VOICE_BRAVE: Brave
+MID_SHARON_VOICE_HEROES: Heroes

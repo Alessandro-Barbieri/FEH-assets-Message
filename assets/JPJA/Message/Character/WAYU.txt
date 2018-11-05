@@ -1,0 +1,38 @@
+[Heroes Archive] (WAYU)
+
+
+Heroes Message Name: Message
+
+
+MID_WAYU_HOME1: なになに？\nあたしと剣の勝負したいの？\nわー、やろうやろう！
+MID_WAYU_HOME2: あたしは捕まってたところを\nグレイルさんに助けられて、それから\nグレイル傭兵団に入ったんだ。
+MID_WAYU_HOME3: 元気がない時は一勝負するに限るよ！\n身体動かして汗流してれば\nいつの間にか復活しちゃってるって！
+MID_WAYU_HOME4: ねえねえ、あたしが占ってあげよっか？\nえっ、意外な趣味…？\nもーっ、占ってあげないからね！
+MID_WAYU_HOME5: 白馬に乗ってやってくる\nあたしの宿命のライバル……\n早く来ないかな～。
+MID_WAYU_FRIEND: あっ、いたいた！\n$Nuだよね。\n$Nfがよろしくって！
+MID_WAYU_LEVEL1: なんだかすっごく調子がいいよ！\nこのままどんどん行くよ！
+MID_WAYU_LEVEL2: まあまあかな、\n剣の道は楽じゃないよね。
+MID_WAYU_LEVEL3: うーん…まだまだ修行が足りないね…\n反省、反省。
+MID_WAYU_SKILL: あたしの実力が認められたって\nことだよね！　よっしゃー！
+MID_WAYU_JOIN: あたしはグレイル傭兵団の剣士、\nワユだよ。あたしの剣の実力、\n見せてあげる！
+MID_WAYU_STRONGEST: あ、大将！\nここで会ったが百年目！\n今日こそ、あたしと勝負してもらうからね。$k$pえー、やろうよー！\n剣の振り方ならあたしが教えるからさ。\nかわりに、策の立て方とか教えてよ。$k$p大将の指揮が\nあたしたちを負かした時から、\n大将のことは一目置いてんだよね。$k$pあたし、強くなりたいってのもあるけど、\nでも、一緒に高めあう\n宿命のライバルが欲しいんだ。$k$pお互い、相手に勝つために修行して、\n対決の後に熱い絆が生まれたりするの！\nそういうの最高じゃない？$k$pうんうん、わかるよね。\nじゃ、やってみよ～！\n大丈夫、最初なるべく手加減するから！
+MID_WAYU_VOICE01: ええいっ！
+MID_WAYU_VOICE02: よーし！
+MID_WAYU_VOICE03: きゃああっ！
+MID_WAYU_VOICE04: ま、まだまだぁ！
+MID_WAYU_VOICE05: 絶好調！
+MID_WAYU_VOICE06: いざ、勝負！
+MID_WAYU_VOICE07: いっちょいくよ！
+MID_WAYU_VOICE08: 宿命の対決！
+MID_WAYU_VOICE09: 負けた…？　嘘…
+MID_WAYU_VOICE10: あははっ
+MID_WAYU_VOICE11: ねえねえ大将。あんた、タダモノじゃないって感じするよね。
+MID_WAYU_VOICE12: ひゃああ！　びっくりした、あたしの背後を取るなんてやるじゃん！
+MID_WAYU_VOICE13: 大将！　いっちょ、あたしと勝負してくれない？
+MID_WAYU_VOICE14: 細かいコトは気にしない！　どんどん行こうよ！
+MID_WAYU_VOICE15: あたしの宿命のライバル…もしかして、大将だったり？
+MID_WAYU_VOICE16: 今日負けたら修行して、明日勝つ。明日負けたら明後日…
+MID_WAYU_VOICE17: あたし、大将のこと気に入ったよ。これからもよろしくね！
+MID_WAYU_VOICE18: うん！
+MID_WAYU_VOICE19: 腕がなるねぇ！
+MID_WAYU_VOICE20: いってみよ～う！

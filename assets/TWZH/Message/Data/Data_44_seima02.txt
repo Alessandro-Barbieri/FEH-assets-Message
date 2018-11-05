@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: 三位英雄
+MID_MISSION_S201801CHARA01_A1: 擊敗敵人
+MID_MISSION_H_S201801CHARA01_A1: 擊敗敵人。
+MID_MISSION_S201801CHARA01_A2: 以日向擊敗敵人
+MID_MISSION_H_S201801CHARA01_A2: 以日向擊敗敵人。
+MID_MISSION_S201801CHARA01_A3: 以溫蒂擊敗敵人
+MID_MISSION_H_S201801CHARA01_A3: 以溫蒂擊敗敵人。
+MID_MISSION_S201801CHARA01_B1: 特殊:擊敗LV20以上
+MID_MISSION_H_S201801CHARA01_B1: 以日向擊敗\n等級20以上的敵人。
+MID_MISSION_S201801CHARA01_B2: 特殊:擊敗LV20以上
+MID_MISSION_H_S201801CHARA01_B2: 以溫蒂擊敗\n等級20以上的敵人。
+MID_MISSION_S201801CHARA01_B3: 特殊:擊敗LV20以上
+MID_MISSION_H_S201801CHARA01_B3: 以彩造擊敗\n等級20以上的敵人。
+MID_MISSION_S201801CHARA01_C1: 特殊:擊敗LV35以上
+MID_MISSION_H_S201801CHARA01_C1: 以日向擊敗\n等級35以上的敵人。
+MID_MISSION_S201801CHARA01_C2: 特殊:擊敗LV35以上
+MID_MISSION_H_S201801CHARA01_C2: 以溫蒂擊敗\n等級35以上的敵人。
+MID_MISSION_S201801CHARA01_C3: 特殊:擊敗LV35以上
+MID_MISSION_H_S201801CHARA01_C3: 以彩造擊敗\n等級35以上的敵人。
+MID_MISSION_S201801STORY02_TITLE: 灼熱的決斷
+MID_MISSION_S201801STORY02_A1: 特殊:突破第4章-第1節(超難)
+MID_MISSION_H_S201801STORY02_A1: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第4章-第1節(超難)。
+MID_MISSION_S201801STORY02_A2: 特殊:突破第4章-第2節(超難)
+MID_MISSION_H_S201801STORY02_A2: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第4章-第2節(超難)。
+MID_MISSION_S201801STORY02_A3: 特殊:突破第4章-第3節(超難)
+MID_MISSION_H_S201801STORY02_A3: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第4章-第3節(超難)。
+MID_MISSION_S201801STORY02_A4: 特殊:突破第4章-第4節(超難)
+MID_MISSION_H_S201801STORY02_A4: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第4章-第4節(超難)。
+MID_MISSION_S201801STORY02_A5: 特殊:突破第4章-第5節(超難)
+MID_MISSION_H_S201801STORY02_A5: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第4章-第5節(超難)。
+MPID_エイリーク2: 艾莉可
+MPID_ラーチェル: 拉切爾
+MPID_リオン: 利昂
+MPID_マリカ: 瑪莉卡
+MPID_ミルラ: 梅爾
+MPID_HONOR_エイリーク2: 回憶的善良公主
+MPID_HONOR_ラーチェル: 光之聖公主
+MPID_HONOR_リオン: 影之皇子
+MPID_HONOR_マリカ: 緋閃
+MPID_HONOR_ミルラ: 純真的龍人
+MPID_H_エイリーク2: 路奈斯王國的公主，艾夫拉姆的雙胞胎妹妹。利昂好友。\n小時候和艾夫拉姆、利昂一起學習過許多技藝。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_ラーチェル: 羅斯通聖教國的公主。為了打倒麥格維爾陸地\n各地的魔物，率領多茲拉和雷納克踏上旅程。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_リオン: 格拉多帝國的皇子。\n個性不喜爭鬥。是艾夫拉姆和艾莉可的兒時玩伴。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_マリカ: 吉斯特所率領的傭兵團中的劍客。\n總是沉著冷靜，外號「緋閃」令人聞風喪膽。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_ミルラ: 龍人族的少女。實際年齡遠比外表年長。\n雖然很怕生，卻神奇地很喜歡黏著艾夫拉姆。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_VOICE_エイリーク2: 水橋かおり(Kaori Mizuhashi)
+MPID_VOICE_ラーチェル: 生天目仁美(Hitomi Nabatame)
+MPID_VOICE_リオン: 中村悠一(Yuichi Nakamura)
+MPID_VOICE_マリカ: 中原麻衣(Mai Nakahara)
+MPID_VOICE_ミルラ: 門脇舞以(Mai Kadowaki)
+MPID_ILLUST_エイリーク2: 麻谷知世(Tomoyo Asatani)
+MPID_ILLUST_ラーチェル: 紺藤ココン(Kokon Konfuzi)
+MPID_ILLUST_リオン: ミヤジマハル(Haru Miyajima)
+MPID_ILLUST_マリカ: 藤川祥(Akira Fujikawa)
+MPID_ILLUST_ミルラ: アマガイタロー(Amagaitaro)
+MID_SEQUENTIAL_MAP_TERM_201801_2: 相信你的力量
+MSID_グレイプニル: 格萊普尼爾
+MSID_ナグルファル: 納吉爾法
+MSID_イーヴァルディ: 伊瓦爾蒂
+MSID_神炎のブレス: 神炎吐息
+MSID_竜刃の鼓舞: 龍刃鼓舞
+MSID_魔防の指揮1: 魔防指揮１
+MSID_魔防の指揮2: 魔防指揮２
+MSID_魔防の指揮3: 魔防指揮３
+MSID_赤魔の経験1: 赤魔之經驗１
+MSID_赤魔の経験2: 赤魔之經驗２
+MSID_赤魔の経験3: 赤魔之經驗３
+MSID_H_グレイプニル: 魔防＋３　在敵人的ＨＰ為１００％的狀態下展開戰鬥時，\n自己在戰鬥中的攻擊及速度＋３
+MSID_H_ナグルファル: 和無屬性的敵人戰鬥時，\n自己在三角互克中佔優勢，敵人居劣勢
+MSID_H_イーヴァルディ: 防守＋３　在敵人的ＨＰ為１００％的狀態下展開戰鬥時，\n自己在戰鬥中的攻擊及速度＋３
+MSID_H_神炎のブレス: 攻擊＋３\n自己的防守高出敵人５以上時，則對方無法追擊\n敵人攻擊射程為２格時，以其防守及魔防中較低方計算傷害
+MSID_H_竜刃の鼓舞: 回合開始時，周圍１格内我方龍單位的\n攻擊及速度＋６（１回合）
+MSID_H_魔防の指揮1: 回合開始時，自己周圍２格内我方的魔防＋２（１回合）\n不過，僅限目前我方部隊内\n僅有２個以下相同移動手段的單位
+MSID_H_魔防の指揮2: 回合開始時，自己周圍２格内我方的魔防＋４（１回合）\n不過，僅限目前我方部隊内\n僅有２個以下相同移動手段的單位
+MSID_H_魔防の指揮3: 回合開始時，自己周圍２格内我方的魔防＋６（１回合）\n不過，僅限目前我方部隊内\n僅有２個以下相同移動手段的單位
+MSID_H_赤魔の経験1: 存活時，若自己武器為赤魔，則取得１．５倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_赤魔の経験2: 存活時，武器為赤魔的我方皆可取得１．５倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_赤魔の経験3: 存活時，武器為赤魔的我方皆可取得２倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MID_CHAPTER_TITLE_C0204: 第２部　第４章
+MID_CHAPTER_C0204: 灼熱的決斷
+MID_STAGE_TITLE_S2041: 第４章—第１節
+MID_STAGE_TITLE_S2042: 第４章—第２節
+MID_STAGE_TITLE_S2043: 第４章—第３節
+MID_STAGE_TITLE_S2044: 第４章—第４節
+MID_STAGE_TITLE_S2045: 第４章—第５節
+MID_STAGE_S2041: 為了要守護的人們
+MID_STAGE_S2042: 緋閃女劍士
+MID_STAGE_S2043: 光與影之公主
+MID_STAGE_S2044: 幼小的龍人
+MID_STAGE_S2045: 灼熱的決斷
+MID_CHAPTER_ST_C0202: 第３～４章
+MID_STAGE_TITLE_ST_S0203: 第３章
+MID_STAGE_TITLE_ST_S0204: 第４章
+MID_STAGE_TITLE_ST_S1204: 第３～４章
+MID_STAGE_HONOR_T0024: 影之皇子
+MID_STAGE_T0024: 利昂

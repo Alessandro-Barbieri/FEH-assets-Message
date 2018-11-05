@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_HOME1: ここの王族には特定の臣下がおらぬのだな。\n白夜暗夜とは違った風習なのか、\n護衛が不要なほどに手練の者ということか…
+MID_KAGEROU_HOME2: 私の主はリョウマ様という。\n心身ともに強く凛とした立派な御方だ。\nあの方に仕えられる事を誇りに思っている…
+MID_KAGEROU_HOME3: 貴殿はいつも忙しそうだな。\n良ければ今度抹茶でも点ててやろうか。\n苦いが、甘い菓子ととても合うぞ。
+MID_KAGEROU_HOME4: 貴殿もここに来て日が浅いのか…\nならば今のうちに絵日記を描いては如何か。\n慣れた頃に見返すと趣があるぞ。
+MID_KAGEROU_HOME5: 絵を描いていた…\nこの地の風景なのだが、どうだ？\n…なに？　地獄絵図かと思っただと…？
+MID_KAGEROU_FRIEND: $Nfより挨拶だ。\n今後も宜しくと言っていた…\n確かに伝えたぞ。では、さらば。
+MID_KAGEROU_LEVEL1: 忍びは嬉しくとも\n顔には出さぬ…
+MID_KAGEROU_LEVEL2: まずまずの成果だ。
+MID_KAGEROU_LEVEL3: ……む？
+MID_KAGEROU_SKILL: この力で頑張るゆえ、\nこれからもよろしく頼む。
+MID_KAGEROU_JOIN: 白夜王国のくの一、カゲロウだ。\n私に新たな任を下したのは貴殿か。\n来たからには、陰となり働こう。
+MID_KAGEROU_STRONGEST: $Nu…\n丁度良いところに来てくれた。\nこの地の草花を生けてみたのだが、どうだ？$k$p…………\nそうか。奈落の荒れ野のようか…\n褒め言葉だと受け取っておこう。$k$pしかし、不思議なものだ。\nもしこの世界に来ることがなければ私は、\n一生この草花を見ることはなかった。$k$pこうして貴殿と時間を共にし、\n語り合うこともなかったのだ。\nすべて、貴殿の結んだ縁のおかげだな。$k$p貴殿は全軍の指揮に関わる人物。\nだから…いや、例えそうでなくとも、\n私はあなたを守ると誓おう。\n
+MID_KAGEROU_VOICE01: せいっ
+MID_KAGEROU_VOICE02: はあっ
+MID_KAGEROU_VOICE03: くっ…！
+MID_KAGEROU_VOICE04: これしきで…っ
+MID_KAGEROU_VOICE05: いざ、参らん
+MID_KAGEROU_VOICE06: 御免
+MID_KAGEROU_VOICE07: 始末する
+MID_KAGEROU_VOICE08: 忍法必滅の術
+MID_KAGEROU_VOICE09: 不覚を…取ったか…
+MID_KAGEROU_VOICE10: ふっ…
+MID_KAGEROU_VOICE11: くノ一が珍しいか？
+MID_KAGEROU_VOICE12: ここがどこであろうと、任務を果たすのみ
+MID_KAGEROU_VOICE13: 茶や花など、一人静かに没頭できるものが好きだ
+MID_KAGEROU_VOICE14: 私の作るものは独創的だと称されることが多い
+MID_KAGEROU_VOICE15: 忍びは姿が見えずとも、呼び声ひとつで現れるものだ
+MID_KAGEROU_VOICE16: リョウマ様はいずこにおわす…傍でお守りせねばならぬのに
+MID_KAGEROU_VOICE17: 戦があると聞けば知らぬふりはできぬ…\n貴殿が望むのであれば、私は陰となり働こう
+MID_KAGEROU_VOICE18: ふむ…
+MID_KAGEROU_VOICE19: 御意
+MID_KAGEROU_VOICE20: 参る

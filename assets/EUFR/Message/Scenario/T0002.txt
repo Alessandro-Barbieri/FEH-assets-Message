@@ -1,0 +1,8 @@
+[Heroes Archive] (T0002)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ナバール,ch01_02_Nabarl_M_Normal,Face|$w0|Le bien et le mal ne m'intéressent\npas. Je croise le fer pour mon\nemployeur, voilà tout.$k$pMais attention : mes services ne\nsont pas donnés.$k$p$Sbs1000|

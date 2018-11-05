@@ -1,0 +1,38 @@
+[Heroes Archive] (LEYVAN)
+
+
+Heroes Message Name: Message
+
+
+MID_LEYVAN_HOME1: …俺はただの傭兵だ。\nまわりの王侯貴族たちとは\n話が合いそうにないな…
+MID_LEYVAN_HOME2: いつも怒っているように見える…だと？\n随分失礼なやつだな。\nああ、今は本当に怒っているぞ…
+MID_LEYVAN_HOME3: お前のことは評価している。\n力こそないが…知恵で戦う、\n俺にはない強さを持っている。
+MID_LEYVAN_HOME4: 俺には戦う目的があった。\nそのために力をつけ、武器を替え、\n強さを追い求めてきた。
+MID_LEYVAN_HOME5: もともとは剣を使っていたが…\n力を頼りにする俺にとって\nこの斧は性に合っている。
+MID_LEYVAN_FRIEND: お前が$Nuか。\n代理で挨拶に来た。\n…用はそれだけだ。
+MID_LEYVAN_LEVEL1: 上出来だ。\nこれ以上ないくらいにな。
+MID_LEYVAN_LEVEL2: 悪くない。\n十分な結果だ。
+MID_LEYVAN_LEVEL3: 駄目だ。\nこんなことでは…
+MID_LEYVAN_SKILL: 感謝する。これほどの力を\n感じたことはない…
+MID_LEYVAN_JOIN: 俺の名はレイヴァン。\n…ただの傭兵だ。
+MID_LEYVAN_STRONGEST: つまらない話だが…\n$Nu、\nお前には一応話しておきたい。$k$p俺は失脚したある侯爵家の者だ。\nその復讐のために、\n傭兵に身をやつして戦ってきた…$k$p俺の力は復讐のために\n身につけたものだ。\nだが…それはもうどうでもいい。$k$pお前のおかげで、\n俺は気づかされた。\nこの力で真になすべきことを…$k$p…よくわからんなら、気にするな。忘れろ。\nともかくこれまで通り、\n戦いの役には立ってやる。
+MID_LEYVAN_VOICE01: はぁっ！
+MID_LEYVAN_VOICE02: ふっ！
+MID_LEYVAN_VOICE03: うああっ！
+MID_LEYVAN_VOICE04: 無様だな…
+MID_LEYVAN_VOICE05: 敵は倒す
+MID_LEYVAN_VOICE06: 行くぞ
+MID_LEYVAN_VOICE07: もう黙れ
+MID_LEYVAN_VOICE08: おとなしくしてろ
+MID_LEYVAN_VOICE09: こんなものなのか、俺は…
+MID_LEYVAN_VOICE10: ふっ
+MID_LEYVAN_VOICE11: 俺に言いたいことでもあるのか？
+MID_LEYVAN_VOICE12: …何の冗談だ？
+MID_LEYVAN_VOICE13: 強いて言えば…肉が好きだ
+MID_LEYVAN_VOICE14: …怖い顔だとよく言われる。
+MID_LEYVAN_VOICE15: …怒ってはいない。これが地（じ）だ
+MID_LEYVAN_VOICE16: 俺には、やるべき事がある…
+MID_LEYVAN_VOICE17: 何かあったら俺に言え。
+MID_LEYVAN_VOICE18: ああ
+MID_LEYVAN_VOICE19: 指示を出せ
+MID_LEYVAN_VOICE20: 行くぞ

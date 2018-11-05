@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_F)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_F_HOME1: Ripetetemelo di nuovo... Questa non\nè l'Ylisse? Forse Naga ha compiuto\nuno sbaglio? Ah... no... Lasciate stare.
+MID_MARTH_F_HOME2: La guerra ha consumato il mio\nmondo. Abbiamo lottato con valore,\nma devo evitare l'apocalisse.
+MID_MARTH_F_HOME3: Andate sempre a parlare con tutte\nle vostre truppe? Capisco come vi\nsentite. Fa davvero male perderle.
+MID_MARTH_F_HOME4: Sembra che il principe Alfonse sia uno\nspadaccino di tutto rispetto. Potreste\norganizzare un allenamento con lui?
+MID_MARTH_F_HOME5: Stavo pensando alla mia casa e ai\nmiei compagni. Non sono del tutto\nsicuro del perché io sia qui...$k$pUn giorno, spero di potervi dire di\npiù sul mio passato.
+MID_MARTH_F_FRIEND: Siete $Nu?$k$pVengo a portarvi i saluti di\n$Nf.
+MID_MARTH_F_LEVEL1: Se continuo così diventerò\nimbattibile... come mio padre!
+MID_MARTH_F_LEVEL2: Eccellente, sto migliorando.
+MID_MARTH_F_LEVEL3: Le mie scuse!
+MID_MARTH_F_SKILL: Questa forza non sarà sprecata.\nMi serve ancora il vostro aiuto.\n
+MID_MARTH_F_JOIN: Potete chiamarmi Marth. Non posso\naggiungere altro, per il momento. Se\nvi serve il mio aiuto, sono qui per voi.
+MID_MARTH_F_STRONGEST: È passato del tempo da quando mi\navete evocato. Dovrei essere in un\naltro luogo... e non sono un eroe.$k$pCerto, vi sono comunque grato.\nPosso usare la forza che mi avete\ndato nella missione che mi aspetta.$k$pMa arriverà il giorno in\ncui dovrò andarmene,\n$Nu. $k$pDevo tornare in quella terra che mi\nè tanto cara, dove tutti giurammo\ndi incontrarci di nuovo...$k$pLa terra in cui promettemmo di\ncambiare il nostro destino. Spero,\nun giorno, di potervi dire di più.$k$pAl contrario di altri eroi, non posso\nsvelarvi i miei segreti, che vanno\nprotetti. Ma la mia spada è vostra.
+MID_MARTH_F_VOICE01: はっ！
+MID_MARTH_F_VOICE02: せやあっ！
+MID_MARTH_F_VOICE03: ぐっ…！
+MID_MARTH_F_VOICE04: Drat!
+MID_MARTH_F_VOICE05: Cambierò il destino!
+MID_MARTH_F_VOICE06: Non mi fermerete!
+MID_MARTH_F_VOICE07: So io quando è la fine!
+MID_MARTH_F_VOICE08: La speranza è viva!
+MID_MARTH_F_VOICE09: Beaten...
+MID_MARTH_F_VOICE10: Hmm...
+MID_MARTH_F_VOICE11: I am searching for someone. I can say no more than that.
+MID_MARTH_F_VOICE12: If you care to duel, I would be happy to test myself against you.
+MID_MARTH_F_VOICE13: I am afraid I cannot remove this mask. I have my reasons.
+MID_MARTH_F_VOICE14: I learned swordsmanship at a young age...from my father.
+MID_MARTH_F_VOICE15: I may have come to the wrong place...
+MID_MARTH_F_VOICE16: I wonder what's become of Father and the others...
+MID_MARTH_F_VOICE17: I have a mission of my own, but I will help you for now.
+MID_MARTH_F_VOICE18: Yes.
+MID_MARTH_F_VOICE19: Hmm...
+MID_MARTH_F_VOICE20: Done.

@@ -1,0 +1,38 @@
+[Heroes Archive] (KLEIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KLEIN_HOME1: D'aucuns m'attribuent le titre de\ngénéral archer, mais je me sens\nplus administrateur que général.
+MID_KLEIN_HOME2: Je n'ai peut-être pas les qualités\nmartiales de mes parents mais je\nsais me rendre utile.
+MID_KLEIN_HOME3: Si vous voulez vous soulager de votre\nfardeau, sachez que je serai heureux\nde reprendre certaines de vos tâches.
+MID_KLEIN_HOME4: J'ai une petite sœur du nom de\nClarine. Elle est très gentille, une fois\nque l'on a appris à la connaître.$k$pElle vit un peu dans son propre\nmonde, mais elle a bon fond.
+MID_KLEIN_HOME5: J'applique les règles de bienséance\nde mon monde d'origine, mais\nj'espère ne pas commettre d'impair ici.
+MID_KLEIN_FRIEND: Bien le bonjour. Je suis porteur\nde salutations envoyées par\n$Nf.
+MID_KLEIN_LEVEL1: Quelle surprise ! Voilà qui est\ninhabituel.
+MID_KLEIN_LEVEL2: Je progresse à bon rythme,\nsemble-t-il.
+MID_KLEIN_LEVEL3: Un amer rappel que personne n'est\nexempt de défaut...
+MID_KLEIN_SKILL: Merci, je ferai mon possible pour être\nà la hauteur.
+MID_KLEIN_JOIN: Je suis Klein, fils du comte de Reglay\nd'Etruria. Je suis heureux de pouvoir\nvous accompagner !
+MID_KLEIN_STRONGEST: J'ai la chance d'être de bonne\nfamille, cela m'a permis de\nrencontrer nombre de personnes...$k$pToutes ces rencontres m'ont appris\nà juger les gens pour ce qu'ils sont.$k$pCertains sont prompts à faire des\npromesses qu'ils oublient encore\nplus rapidement.$k$pD'autres parlent peu, ne se vantent\njamais, mais s'expriment par leurs\nactions. Comme vous.$k$pEt comme celui qui m'a sauvé quand\nj'étais enfant. Voilà pourquoi je sais\nque je peux vous faire confiance.$k$pSachez que c'est un honneur pour\nmoi de mettre mes compétences au\nservice de votre cause.
+MID_KLEIN_VOICE01: はっ！
+MID_KLEIN_VOICE02: ふっ！
+MID_KLEIN_VOICE03: うああっ！
+MID_KLEIN_VOICE04: Drat...
+MID_KLEIN_VOICE05: Je ne manquerai pas.
+MID_KLEIN_VOICE06: Imbécile.
+MID_KLEIN_VOICE07: À cette distance...
+MID_KLEIN_VOICE08: À mon tour.
+MID_KLEIN_VOICE09: Fall here...?
+MID_KLEIN_VOICE10: Heh
+MID_KLEIN_VOICE11: Anything I can do for you? Please, name it.
+MID_KLEIN_VOICE12: What?! Oh, you. Caught me off guard.
+MID_KLEIN_VOICE13: I'm always worried about my younger sister. Can't help it!
+MID_KLEIN_VOICE14: Let us stay vigilant, for your sake and that of your family.
+MID_KLEIN_VOICE15: They call me the Archer General, for what that's worth.
+MID_KLEIN_VOICE16: Wouldn't going with the flow be bliss? But in time, what becomes of such a life?
+MID_KLEIN_VOICE17: Please, stay close to me. I want to keep you out of harm's way.
+MID_KLEIN_VOICE18: OK.
+MID_KLEIN_VOICE19: Hmm.
+MID_KLEIN_VOICE20: Of course.

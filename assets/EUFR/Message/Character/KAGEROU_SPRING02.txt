@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU_SPRING02)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_SPRING02_HOME1: Ah... La douce brise du printemps\ncalme toujours le cœur...
+MID_KAGEROU_SPRING02_HOME2: Le printemps me rappelle toujours\nmon pays... Il n'y a rien de plus beau\nque les cerisiers en fleurs d'Hoshido.
+MID_KAGEROU_SPRING02_HOME3: Pour une kunoichi, la discrétion est\nprimordiale. Alors, une tenue comme\ncelle-là, ça n'aide pas vraiment...
+MID_KAGEROU_SPRING02_HOME4: Il est vrai que ce costume ne m'aide\npas à me concentrer, mais...$k$pIl paraît qu'il est assez commun dans\nd'autres mondes. Je devrais donc\npouvoir m'y habituer.
+MID_KAGEROU_SPRING02_HOME5: Regardez, j'ai fait un dessin.\nUne vision de l'enfer ? Euh...$k$pNon, vous n'y êtes pas. Ça ne vient\npas de mon imagination, c'est un\npaysage de mon pays au printemps.
+MID_KAGEROU_SPRING02_FRIEND: $Nf m'envoie\nvous saluer, et vous souhaiter un\nbon printemps.
+MID_KAGEROU_SPRING02_LEVEL1: Je m'épanouis comme une\nfleur au printemps.
+MID_KAGEROU_SPRING02_LEVEL2: Je suis sur le point d'éclore.
+MID_KAGEROU_SPRING02_LEVEL3: Je ne suis encore qu'un\nbourgeon.
+MID_KAGEROU_SPRING02_SKILL: Merci. Vous avez ensoleillé\nmon printemps.
+MID_KAGEROU_SPRING02_JOIN: Vous avez détecté ma présence ?\nAvec la brise du printemps, difficile\nd'être discrète.$k$pJe m'appelle Kagero, et je suis une\nkunoichi.
+MID_KAGEROU_SPRING02_STRONGEST: Où que l'on soit, le printemps est\ntoujours magnifique...$k$pJ'aimerais pouvoir restituer cette\nbeauté sur le papier.$k$pLes cerisiers fleurissent, les plantes\ns'épanouissent, les cours d'eaux\ngelés retrouvent leur liberté...$k$pLe printemps nous offre le spectacle\ndu retour de la vie.$k$pSi je n'étais pas venue ici pour vous\nrejoindre, je n'aurais jamais pu\nadmirer ce paysage.$k$pJe vous remercie. Je vous en prie,\ncontinuez de me guider ainsi.$k$pJ'espère que nous passerons\nd'autres journées comme celle-ci\nensemble.
+MID_KAGEROU_SPRING02_VOICE01: せやっ！
+MID_KAGEROU_SPRING02_VOICE02: いやっ！
+MID_KAGEROU_SPRING02_VOICE03: うああっ！
+MID_KAGEROU_SPRING02_VOICE04: Horrible...
+MID_KAGEROU_SPRING02_VOICE05: Je survivrai.
+MID_KAGEROU_SPRING02_VOICE06: Le printemps est là...
+MID_KAGEROU_SPRING02_VOICE07: Fêtons l'arrivée du printemps !
+MID_KAGEROU_SPRING02_VOICE08: Attaque lapinja !
+MID_KAGEROU_SPRING02_VOICE09: How shameful...
+MID_KAGEROU_SPRING02_VOICE10: ふふ
+MID_KAGEROU_SPRING02_VOICE11: I am Kagero. This outfit is strange, I know. It's for the spring festival.
+MID_KAGEROU_SPRING02_VOICE12: Hey! What do you think you're doing?
+MID_KAGEROU_SPRING02_VOICE13: When at a festival, it is only correct to observe local custom. That's why I'm dressed like this, you see.
+MID_KAGEROU_SPRING02_VOICE14: As a ninja, I'm not used to being seen. But you may look, if you like. I have nothing to be ashamed of.
+MID_KAGEROU_SPRING02_VOICE15: You think this outfit suits me? It's...a little flimsier than what I'm used to.
+MID_KAGEROU_SPRING02_VOICE16: No matter how I may be dressed, I carry the honor of my clan with me. Always.
+MID_KAGEROU_SPRING02_VOICE17: If you have no objections to this attire, then I would continue to serve at your side.
+MID_KAGEROU_SPRING02_VOICE18: Of course.
+MID_KAGEROU_SPRING02_VOICE19: As petals fall...
+MID_KAGEROU_SPRING02_VOICE20: Spring into action.

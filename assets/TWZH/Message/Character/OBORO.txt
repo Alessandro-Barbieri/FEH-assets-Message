@@ -1,0 +1,38 @@
+[Heroes Archive] (OBORO)
+
+
+Heroes Message Name: Message
+
+
+MID_OBORO_HOME1: 幸好特務機關穿的是白衣。\n如果穿得全身黑的話……\n我就會把你們當成暗夜的人，變得很兇哦。
+MID_OBORO_HOME2: 我是拓海殿下的部下。\n殿下實力高強、長相俊美，而且氣質高雅。\n能夠侍奉殿下……是我的榮幸。
+MID_OBORO_HOME3: 你還好嗎？有沒有受傷？\n聽說你無法戰鬥……\n我就用槍在戰場上守護你吧。
+MID_OBORO_HOME4: 下次可以帶我到和服店去嗎？\n沒有的話，洋服店也行。\n我很好奇現在流行什麼款式。
+MID_OBORO_HOME5: 我剛剛在縫製衣裳。\n因為被召喚得很突然，所以沒有替換的衣服。\n要不要幫你也縫些什麼呢？
+MID_OBORO_FRIEND: 這裡的人也都打扮得很入時呢……\n……啊，$Nu！？\n$Nf要我來致意！
+MID_OBORO_LEVEL1: 爸爸、媽媽……\n我變強了喔……
+MID_OBORO_LEVEL2: 太好了。\n這樣就對了。
+MID_OBORO_LEVEL3: 這、這樣一點都不漂亮……！
+MID_OBORO_SKILL: 雖然服裝沒變，\n但內在變得更完美了喔。
+MID_OBORO_JOIN: 我是白夜王國的槍術士，叫做朧。\n需要漂亮服裝的話就包在我身上，\n我會幫你縫製適合的衣服的。
+MID_OBORO_STRONGEST: 哎呀呀，$Nu。\n今天來有什麼事嗎？是衣服脫線了？\n還是沾到了湯漬？$k$p……哦呵呵，我開玩笑的。\n你最近就算沒有事情，\n也會像這樣來找我玩呢。$k$p我很喜歡欣賞你那件白衣喔。\n因為沒有血痕和破損的衣服，\n讓我知道你今天也平安無事。$k$p衣服破了可以補，但命沒了就是沒了。\n要是你有個三長兩短，我會很難過的。\n因為你在我心中很重要啊。$k$p為了讓你的衣服\n在今後也能保持純白無瑕……\n我絕不會讓你受到任何傷害。\n
+MID_OBORO_VOICE01: 如何？
+MID_OBORO_VOICE02: 嘿呀！
+MID_OBORO_VOICE03: 呀！
+MID_OBORO_VOICE04: 衣服……！
+MID_OBORO_VOICE05: 別得意忘形！
+MID_OBORO_VOICE06: 我饒不了你……！
+MID_OBORO_VOICE07: 看我撕裂你！
+MID_OBORO_VOICE08: 給我讓開！
+MID_OBORO_VOICE09: 看你……幹的好事……
+MID_OBORO_VOICE10: 呵呵！
+MID_OBORO_VOICE11: 哎呀呀，怎麼了？
+MID_OBORO_VOICE12: 你們的衣服真漂亮呢。
+MID_OBORO_VOICE13: 要是你有這個國家的布料，能分我一些嗎？
+MID_OBORO_VOICE14: 我只要一生氣，表情就會變得很可怕……
+MID_OBORO_VOICE15: 要出征的話，隨時告訴我，我準備很快的。
+MID_OBORO_VOICE16: 拓海殿下，您現在究竟在哪裡……
+MID_OBORO_VOICE17: 既然來了，我想對你有所貢獻。\n無論是戰鬥還是縫紉，儘管吩咐。
+MID_OBORO_VOICE18: 嗯。
+MID_OBORO_VOICE19: 我準備好了。
+MID_OBORO_VOICE20: 我會努力的。

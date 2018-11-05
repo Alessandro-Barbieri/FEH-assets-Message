@@ -1,0 +1,38 @@
+[Heroes Archive] (ARUM)
+
+
+Heroes Message Name: Message
+
+
+MID_ARUM_HOME1: Il y a tellement de choses que je n'ai\njamais vues ici, tellement de gens que\nje n'aurais jamais cru rencontrer.$k$pC'est vraiment incroyable, et plutôt\nintimidant.
+MID_ARUM_HOME2: La Délivrance lutte pour libérer Zofia\ndu joug du chancelier Desaix.\nC'est une bataille longue et difficile.
+MID_ARUM_HOME3: Vous passez vos troupes en revue ?\nJe comprends. En tant que chef de la\nDélivrance, je dois faire de même.
+MID_ARUM_HOME4: Accepteriez-vous de me parler de\nvous ? J'ai beaucoup à apprendre,\nalors tout m'intéresse.
+MID_ARUM_HOME5: Je m'entraînais à l'épée. Si je ne le\nfais pas, j'ai l'impression d'entendre\nmon grand-père me sermonner.$k$pIl s'appelle Mycen. Je ne veux pas le\ndécevoir, alors j'essaie de faire de\nmon mieux.
+MID_ARUM_FRIEND: Me voici donc dans une version\ndifférente du royaume d'Askr...$k$pOh, bonjour !\nC'est $Nf\nqui m'envoie.
+MID_ARUM_LEVEL1: Je sens la force monter en moi !
+MID_ARUM_LEVEL2: En devenant plus fort, je pourrai\nvous être plus utile.
+MID_ARUM_LEVEL3: Désolé, mes performances\nlaissent à désirer.
+MID_ARUM_SKILL: Vous avez fait ça pour moi ?\nJe vais me donner à fond !
+MID_ARUM_JOIN: Je suis Alm, le chef de la Délivrance.\nJe mets mon épée au service de\nvotre cause.
+MID_ARUM_STRONGEST: Vous arrivez au bon moment. J'ai\nquelque chose à vous dire,\n$Nu.$k$pMon grand-père ne voulait pas que je\nquitte Ram, mon village.$k$pJe ne connais donc\npas grand-chose du monde.$k$pDepuis que vous m'avez invoqué, j'ai\nfait de nombreuses rencontres et\ndécouvertes.$k$pJe n'ai pas la même relation avec\nvous qu'avec mes amis.$k$pJe me sens... apaisé ? À part vous,\nil n'y a qu'une personne qui m'ait fait\nressentir cela.$k$pEt ce n'est pas seulement parce que\nvous me faites découvrir toutes ces\nnouvelles choses.$k$pVous allez me trouver sentimental,\nmais vous avez marqué le début d'un\nnouveau chapitre dans ma vie. Merci.
+MID_ARUM_VOICE01: ええいっ
+MID_ARUM_VOICE02: (heavy attack 2)
+MID_ARUM_VOICE03: No...
+MID_ARUM_VOICE04: What?!
+MID_ARUM_VOICE05: Attention les yeux !
+MID_ARUM_VOICE06: Vous l'aurez voulu...
+MID_ARUM_VOICE07: Tout cela a assez duré !
+MID_ARUM_VOICE08: Prenez ça !
+MID_ARUM_VOICE09: Sorry...
+MID_ARUM_VOICE10: Haha
+MID_ARUM_VOICE11: Is it just me, or is this place strange?
+MID_ARUM_VOICE12: Except for this, I haven't been outside my village much.
+MID_ARUM_VOICE13: I have a lot of learning to do when it comes to...everything.
+MID_ARUM_VOICE14: My friends? Good people. And fun.
+MID_ARUM_VOICE15: There's nothing harder than the training my grandfather put me through. No way.
+MID_ARUM_VOICE16: I wonder what Celica is up to right now...
+MID_ARUM_VOICE17: If you ever need anything, know that you can count on me.
+MID_ARUM_VOICE18: All right.
+MID_ARUM_VOICE19: Hmm...
+MID_ARUM_VOICE20: Leave it to me.

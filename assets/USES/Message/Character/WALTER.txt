@@ -1,0 +1,38 @@
+[Heroes Archive] (WALTER)
+
+
+Heroes Message Name: Message
+
+
+MID_WALTER_HOME1: Vivo para luchar. Por eso, tu ideal\nde alcanzar la paz es... un problema.
+MID_WALTER_HOME2: Eirika... Ephraim... Esos dos son\nmi presa. Y solo una presa digna\npuede saciar mi sed de sangre.
+MID_WALTER_HOME3: ¿Te cansaste? Debes relajarte\nun rato. La debilidad drena las\nmejores cualidades de una presa.
+MID_WALTER_HOME4: Estoy harto de combatir contra\nestos insectos. Necesito una\npresa que sacie mi sed de sangre.
+MID_WALTER_HOME5: ¿Entrenar? Yo no estoy para juegos.\nA matar solo se aprende matando.
+MID_WALTER_FRIEND: Así que es a ti a quien envía saludos\n$Nf.$k$pPareces una presa deliciosa,\n$Nu.
+MID_WALTER_LEVEL1: Qué delicia...
+MID_WALTER_LEVEL2: Bien... Pero aún tengo hambre.
+MID_WALTER_LEVEL3: Aún no estoy saciado...
+MID_WALTER_SKILL: Tengo hambre de más... ¡Más!
+MID_WALTER_JOIN: Soy Valter, "Adularia", de los seis\ngenerales de Grado. ¿Quieres saciar\nmi apetito? Muchos ya lo hicieron...
+MID_WALTER_STRONGEST: Un viejo senil me dijo una vez que era\nuna bestia miserable que solo vive\npara matar y robar lo que quiere.$k$pAlgún día lo asesinaré... Aunque\ntenía razón: soy una bestia con\nmuchos colmillos.$k$pY sí, soy un ladrón. Siempre agarro\nlo que me apetece. De cualquiera.$k$pY a pesar de saber todo eso,\nme invocaste y me diste poder...\nNo te entiendo.$k$p¿Pretendes controlarme, quizás?\n¿O quieres que yo sea tu maestro?$k$pEn cualquier caso, te has convertido\nen mi mejor presa, y no permitiré que\nnadie más sacie su hambre contigo.$k$pSolo yo.
+MID_WALTER_VOICE01: いいぞ
+MID_WALTER_VOICE02: 楽しめ
+MID_WALTER_VOICE03: うああっ！
+MID_WALTER_VOICE04: 雑魚めが…！
+MID_WALTER_VOICE05: ¡Qué divertido!
+MID_WALTER_VOICE06: Solo eres un cadáver.
+MID_WALTER_VOICE07: ¿Quieres escapar? ¡Ja!
+MID_WALTER_VOICE08: ¡Sacia mi sed de sangre!
+MID_WALTER_VOICE09: Ughk... Graaaaaah!
+MID_WALTER_VOICE10: Keke
+MID_WALTER_VOICE11: I am Valter, the Moonstone, one of Grado's six generals.
+MID_WALTER_VOICE12: Hm? You desire to touch me?
+MID_WALTER_VOICE13: Never think that I am yours. If you displease me, you'll regret it.
+MID_WALTER_VOICE14: I will master you. Someday.
+MID_WALTER_VOICE15: Show me. Show me. Grovel like a dog.
+MID_WALTER_VOICE16: Ephraim. Eirika. Delicious prey.
+MID_WALTER_VOICE17: You are mine now. Entertain me! More!
+MID_WALTER_VOICE18: Entertain me!
+MID_WALTER_VOICE19: I hunger!
+MID_WALTER_VOICE20: A feast!

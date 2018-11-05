@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_LEGEND01_HOME1: ¿Un héroe legendario? En mi mundo\nse cuentan historias de los héroes\nque vivieron antaño.$k$pTe refieres a ese tipo de leyendas,\n¿verdad?
+MID_IKE_LEGEND01_HOME2: Mi padre me enseñó esgrima.\nTambién le enseñó al hombre que\nse acabó convirtiendo en su rival...$k$pAmbos nos esforzamos al máximo\npor dominar su estilo de lucha.
+MID_IKE_LEGEND01_HOME3: Nadie es perfecto. Todos cometemos\nerrores, pero también queremos\na nuestros amigos y familiares.$k$pNo hay que olvidar nunca que todas\nlas personas tienen la capacidad\nde amar.
+MID_IKE_LEGEND01_HOME4: He tenido que librar muchas batallas\nen las que tenía pocas posibilidades\nde victoria.$k$pNo me paré a pensar si podría ganar\no no, pero sabía que debía luchar.
+MID_IKE_LEGEND01_HOME5: Te repetiré algo que me dijeron\nuna vez:$k$p«No es sano que aceptéis vuestro\nsino sin pelear. Si habéis de morir,\nhacedlo luchando.»
+MID_IKE_LEGEND01_FRIEND: Me llamo Ike y traigo un\nmensaje de amistad de parte\nde $Nf.
+MID_IKE_LEGEND01_LEVEL1: Un día llegaré a ser tan diestro\ncon la espada como lo fue mi\npadre en su mejor momento.
+MID_IKE_LEGEND01_LEVEL2: No hay entrenamiento mejor que\nenfrentarse a un rival fuerte.
+MID_IKE_LEGEND01_LEVEL3: Los altibajos no me desaniman.\nVoy a hacerme más fuerte.
+MID_IKE_LEGEND01_SKILL: Tengo un objetivo en mente, y\nme voy acercando a él. Gracias.
+MID_IKE_LEGEND01_JOIN: Soy Ike, de los mercenarios de Greil.\nNo sé de qué va esto de los héroes\nlegendarios, pero te ayudaré.
+MID_IKE_LEGEND01_STRONGEST: Siempre es igual. En cualquier era\ny en cualquier mundo, hay guerras.\nLos conflictos nunca terminan.$k$pLuchas por la paz, y a veces parece\nque la batalla nunca termina...,\nque está fuera de tu alcance.$k$pNo te desanimes.\nTus emociones te dan fuerzas.\nTus acciones tienen sentido.$k$pPor difícil que sea, debes seguir\nluchando. Sé que no te rendirás.\nPor ello tienes mi respeto.$k$pDéjame acompañarte en tu camino.\nYo tampoco me rendiré. Si me dejas,\nestaré a tu lado hasta el final.
+MID_IKE_LEGEND01_VOICE01: はぁっ！
+MID_IKE_LEGEND01_VOICE02: むぅんっ！
+MID_IKE_LEGEND01_VOICE03: うああっ！
+MID_IKE_LEGEND01_VOICE04: やるな…
+MID_IKE_LEGEND01_VOICE05: No tendré compasión con el enemigo.
+MID_IKE_LEGEND01_VOICE06: ¡Se acabó!
+MID_IKE_LEGEND01_VOICE07: Te tumbaré de un solo golpe.
+MID_IKE_LEGEND01_VOICE08: Nadie me va a parar.
+MID_IKE_LEGEND01_VOICE09: I...admit defeat.
+MID_IKE_LEGEND01_VOICE10: ははっ
+MID_IKE_LEGEND01_VOICE11: I'm Ike. One thing led to another, and now I'm a general.
+MID_IKE_LEGEND01_VOICE12: Hm? You want to train with me? OK.
+MID_IKE_LEGEND01_VOICE13: I've met a lot of people. Not many are as odd as you, though.
+MID_IKE_LEGEND01_VOICE14: I've had pain, I've had suffering, and I have gotten up and moved on.
+MID_IKE_LEGEND01_VOICE15: I'm not much for politics. I live by my principles, my sword, and my friends.
+MID_IKE_LEGEND01_VOICE16: The Black Knight... He was my father's killer. And my last teacher.
+MID_IKE_LEGEND01_VOICE17: As long as I'm here, I won't let you die. There's too much riding on your survival. Stay close.
+MID_IKE_LEGEND01_VOICE18: Let's move.
+MID_IKE_LEGEND01_VOICE19: What next?
+MID_IKE_LEGEND01_VOICE20: I won't lose.

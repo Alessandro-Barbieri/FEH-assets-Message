@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: 地之祝福
+MID_MISSION_S201803BLESS01_A1: 以地之祝福的我方擊敗
+MID_MISSION_H_S201803BLESS01_A1: 以被賦予地之祝福的英雄擊敗敵人。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A2: 特殊:以地之祝福的我方擊敗
+MID_MISSION_H_S201803BLESS01_A2: 以被賦予地之祝福的英雄，\n擊敗等級20以上的敵人。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A3: 特殊:以地之祝福的我方擊敗
+MID_MISSION_H_S201803BLESS01_A3: 以被賦予地之祝福的英雄，\n擊敗等級35以上的赤屬性敵人。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A4: 特殊:以地之祝福的我方擊敗
+MID_MISSION_H_S201803BLESS01_A4: 以被賦予地之祝福的英雄，\n擊敗等級35以上的青屬性敵人。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A5: 特殊:以地之祝福的我方擊敗
+MID_MISSION_H_S201803BLESS01_A5: 以被賦予地之祝福的英雄，\n擊敗等級35以上的綠屬性敵人。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A6: 特殊:突破修練之塔・第1層
+MID_MISSION_H_S201803BLESS01_A6: 我軍內有被賦予地之祝福的英雄，\n過關修練之塔・第1層。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A7: 特殊:突破修練之塔・第5層
+MID_MISSION_H_S201803BLESS01_A7: 我軍內有被賦予地之祝福的英雄，\n過關修練之塔・第5層。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803BLESS01_A8: 特殊:突破修練之塔・第10層
+MID_MISSION_H_S201803BLESS01_A8: 我軍內有被賦予地之祝福的英雄，\n過關修練之塔・第10層。\n(地的傳承英雄與被賦予地之祝福的英雄不同)
+MID_MISSION_S201803KIZUNA01_TITLE: 羈絆英雄戰
+MID_MISSION_S201803KIZUNA01_A1: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201803KIZUNA01_A1: 將安娜編入我軍，\n過關羈絆英雄戰・尼尼安＆霍克艾。
+MID_MISSION_S201803KIZUNA01_A2: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201803KIZUNA01_A2: 將亞斯克王國的王子阿爾馮斯編入我軍，\n過關羈絆英雄戰・尼尼安＆霍克艾(超難以上)。
+MID_MISSION_S201803KIZUNA01_A3: 特殊:擊敗尼尼安
+MID_MISSION_H_S201803KIZUNA01_A3: 以安娜\n擊敗等級40以上的尼尼安。
+MID_MISSION_S201803KIZUNA01_A4: 特殊:擊敗霍克艾
+MID_MISSION_H_S201803KIZUNA01_A4: 以亞斯克王國的王子阿爾馮斯，\n擊敗等級40以上的霍克艾。
+MID_MISSION_S201803KIZUNA01_A5: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201803KIZUNA01_A5: 我軍全員為騎馬，\n過關羈絆英雄戰・尼尼安＆霍克艾(超難以上)。
+MID_MISSION_S201803SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201803SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201803SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201803SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201803SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201803SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201803SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201803SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201803SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201803STORY02_TITLE: 兔子們的春祭
+MID_MISSION_S201803STORY02_A1: 特殊:突破外傳19-1節(超難)
+MID_MISSION_H_S201803STORY02_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳19-1節(超難)。
+MID_MISSION_S201803STORY02_A2: 特殊:突破外傳19-2節(超難)
+MID_MISSION_H_S201803STORY02_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳19—2節(超難)。
+MID_MISSION_S201803STORY02_A3: 特殊:突破外傳19-3節(超難)
+MID_MISSION_H_S201803STORY02_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳19-3節(超難)。
+MID_MISSION_S201803TAPBTL01_D01_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201803TAPBTL01_D01_A1: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL01_D01_A1: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL01_D01_A2: 過關關卡
+MID_MISSION_H_S201803TAPBTL01_D01_A2: 過關點觸大戰中的關卡。
+MID_MISSION_S201803TAPBTL01_D02_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201803TAPBTL01_D02_A1: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL01_D02_A1: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL01_D02_A2: 過關關卡
+MID_MISSION_H_S201803TAPBTL01_D02_A2: 過關點觸大戰中的關卡。
+MID_MISSION_S201803TAPBTL01_D03_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201803TAPBTL01_D03_A1: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL01_D03_A1: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL01_D03_A2: 過關關卡
+MID_MISSION_H_S201803TAPBTL01_D03_A2: 過關點觸大戰中的關卡。
+MID_MISSION_S201803TAPBTL01_D04_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201803TAPBTL01_D04_A1: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL01_D04_A1: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL01_D04_A2: 過關關卡
+MID_MISSION_H_S201803TAPBTL01_D04_A2: 過關點觸大戰中的關卡。
+MID_MISSION_S201803TAPBTL02_TITLE: 點觸大戰
+MID_MISSION_S201803TAPBTL02_A1: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL02_A1: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL02_A2: 擊敗BOSS
+MID_MISSION_H_S201803TAPBTL02_A2: 於點觸大戰中擊敗BOSS。
+MID_MISSION_S201803TAPBTL02_A3: 過關關卡
+MID_MISSION_H_S201803TAPBTL02_A3: 過關點觸大戰中的關卡。
+MPID_春祭アルフォンス: 阿爾馮斯
+MPID_春祭カゲロウ: 陽炎
+MPID_春祭カチュア: 卡秋雅
+MPID_春祭シャロン: 夏蓉
+MPID_HONOR_春祭アルフォンス: 春色的亞斯克王子
+MPID_HONOR_春祭カゲロウ: 春色的女忍者
+MPID_HONOR_春祭カチュア: 春色的白騎士
+MPID_HONOR_春祭シャロン: 春色的亞斯克公主
+MPID_H_春祭アルフォンス: 亞斯克王國的王子，處事嚴謹且待人溫和。\n現為特務機關的一員，參加本次春祭。
+MPID_H_春祭カゲロウ: 白夜王國的忍者，龍馬的部下。\n為人忠心赤膽，接受密令而參加本次春祭。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_春祭カチュア: 馬其頓王國飛馬三姊妹中的次女。\n個性嚴謹，為完成任務而參加本次春祭。\n（登場作品：『ファイアーエムブレム　紋章の謎』）
+MPID_H_春祭シャロン: 亞斯克王國的公主，阿爾馮斯的妹妹。\n邀請遲疑不定的哥哥一起參加本次春祭。
+MPID_VOICE_春祭アルフォンス: 鈴木達央(Tatsuhisa Suzuki)
+MPID_VOICE_春祭カゲロウ: 村川梨衣(Rie Murakawa)
+MPID_VOICE_春祭カチュア: 生天目仁美(Hitomi Nabatame)
+MPID_VOICE_春祭シャロン: 内田真礼(Maaya Uchida)
+MPID_ILLUST_春祭アルフォンス: コザキユースケ(Yusuke Kozaki)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: アマガイタロー(Amagaitaro)
+MPID_ILLUST_春祭シャロン: コザキユースケ(Yusuke Kozaki)
+MSID_ビッグスプーン: 巨大湯匙
+MSID_ビッグスプーン＋: 巨大湯匙＋
+MSID_ベビーキャロット: 致命卡洛特
+MSID_ベビーキャロット＋: 致命卡洛特＋
+MSID_フギンの魔卵: 福金的魔卵
+MSID_ムニンの魔卵: 霧尼的魔卵
+MSID_飛燕の構え1: 飛燕架勢１
+MSID_飛燕明鏡の構え1: 飛燕明鏡架勢１
+MSID_飛燕明鏡の構え2: 飛燕明鏡架勢２
+MSID_速さ魔防の絆1: 速度魔防的羈絆１
+MSID_速さ魔防の絆2: 速度魔防的羈絆２
+MSID_速さ魔防の絆3: 速度魔防的羈絆３
+MSID_魔防の封印1: 魔防封殺１
+MSID_魔防の封印2: 魔防封殺２
+MSID_魔防の封印3: 魔防封殺３
+MSID_守備の紫煙1: 防守紫煙１
+MSID_守備の紫煙2: 防守紫煙２
+MSID_守備の紫煙3: 防守紫煙３
+MSID_H_ビッグスプーン: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_ビッグスプーン＋: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_ベビーキャロット: 發動奧義時，奧義造成的傷害＋１０\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_ベビーキャロット＋: 發動奧義時，奧義造成的傷害＋１０\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_フギンの魔卵: 魔防＋３\n回合開始時，若自身ＨＰ高於５０％，\n敵軍內魔防最低的敵人攻擊及防守－５\n（直到敵人下次行動結束）
+MSID_H_ムニンの魔卵: 魔防＋３\n回合開始時，若自身ＨＰ高於５０％，\n敵軍內速度最低的敵人攻擊及魔防－５\n（直到敵人下次行動結束）
+MSID_H_飛燕の構え1: 受到敵人攻擊時，戰鬥中的速度＋２
+MSID_H_飛燕明鏡の構え1: 受到敵人攻擊時，戰鬥中的速度及魔防＋２
+MSID_H_飛燕明鏡の構え2: 受到敵人攻擊時，戰鬥中的速度及魔防＋４
+MSID_H_速さ魔防の絆1: 和我方相鄰時，\n自己在戰鬥中的速度及魔防＋３
+MSID_H_速さ魔防の絆2: 和我方相鄰時，\n自己在戰鬥中的速度及魔防＋４
+MSID_H_速さ魔防の絆3: 和我方相鄰時，\n自己在戰鬥中的速度及魔防＋５
+MSID_H_魔防の封印1: 回合開始時，\n敵軍內魔防最高的敵人魔防－３\n（直到敵人下次行動結束）
+MSID_H_魔防の封印2: 回合開始時，\n敵軍內魔防最高的敵人魔防－５\n（直到敵人下次行動結束）
+MSID_H_魔防の封印3: 回合開始時，\n敵軍內魔防最高的敵人魔防－７\n（直到敵人下次行動結束）
+MSID_H_守備の紫煙1: 戰鬥後，對方周圍２格內的敵人防守－３\n（直到敵人下次行動結束）
+MSID_H_守備の紫煙2: 戰鬥後，對方周圍２格內的敵人防守－５\n（直到敵人下次行動結束）
+MSID_H_守備の紫煙3: 戰鬥後，對方周圍２格內的敵人防守－７\n（直到敵人下次行動結束）
+MID_CHAPTER_TITLE_CX018: 外傳１９
+MID_CHAPTER_CX018: 兔子們的春祭
+MID_STAGE_TITLE_X0181: 外傳１９—１節
+MID_STAGE_TITLE_X0182: 外傳１９—２節
+MID_STAGE_TITLE_X0183: 外傳１９—３節
+MID_STAGE_X0181: 兔子兄妹檔
+MID_STAGE_X0182: 為了任務
+MID_STAGE_X0183: 我與我
+MID_TAP_BATTLE_DATA_TITLE_0002: 黑色追憶
+MID_MUSIC_NAME_BGM_MAP_FE12_01: 進擊
+MID_MUSIC_NAME_BGM_MAP_FE07_01: 重要的事物
+MID_MUSIC_NAME_BGM_MAP_FE15_05: 神啊，黃昏啊

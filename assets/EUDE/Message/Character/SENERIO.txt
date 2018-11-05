@@ -1,0 +1,38 @@
+[Heroes Archive] (SENERIO)
+
+
+Heroes Message Name: Message
+
+
+MID_SENERIO_HOME1: Die Wächter von Askr kämpfen nicht\nfür Geld - und auch nicht für Ehre. Es\ngeht nur darum, Leben zu retten.$k$pWie absurd. Ich glaube kaum,\ndass ich mich jemals mit dieser\nDenkweise anfreunden kann.
+MID_SENERIO_HOME2: Ihr wollt etwas über meine Welt\nerfahren? Was hätte ich davon,\nEuch darüber zu berichten?
+MID_SENERIO_HOME3: Wenn Eure Taktik versagt, sterben\nwir und nicht Ihr. Also fragt mich bitte,\nwenn Ihr strategischen Rat braucht.
+MID_SENERIO_HOME4: Nicht, dass es irgendjemanden etwas\nanginge, aber in meiner Welt bin ich\neiner der sogenannten Gezeichneten.$k$pIch bin also seit meiner Geburt dazu\nverdammt, gehasst und geächtet\nzu werden. Na, wie findet Ihr das?
+MID_SENERIO_HOME5: Ich werde die Geschichtsbücher\ndieser Welt studieren. Nicht, dass ich\nreges Interesse an Geschichte hätte.$k$pIch bin lediglich auf der Suche nach\nInformationen, die sich für unsere\nTaktik als nützlich erweisen könnten.
+MID_SENERIO_FRIEND: Ich komme, um Grüße\nvon $Nf\nzu überbringen.$k$pUnd das habe ich hiermit getan.
+MID_SENERIO_LEVEL1: Der Wind des Schicksals weht\ndas Glück in meine Richtung.
+MID_SENERIO_LEVEL2: Jede Verbesserung meiner\nFähigkeiten ist begrüßenswert.
+MID_SENERIO_LEVEL3: Der Wind des Schicksals weht\ndas Glück von mir fort...
+MID_SENERIO_SKILL: Möge die Erhöhung meiner\nStärke Euch zum Vorteil gereichen.
+MID_SENERIO_JOIN: Mein Name? Ich bin der Magier\nSoren. Jetzt zu meiner Frage...\nIst Ike hier?
+MID_SENERIO_STRONGEST: ...und damit ist meine Analyse\nder Fähigkeiten von Helden aus\nanderen Welten abgeschlossen.$k$pWie Ihr nun unschwer erkennen\nkönnt, können wir froh sein, dass\nsie unsere Verbündeten sind.$k$pDarüber hinaus... Verzeihung?\nSchweifen Eure Gedanken etwa\nab, $Nu?$k$pMeine Güte, Ihr bringt mich\nmanchmal dermaßen aus dem\nKonzept, dass ich gar nicht...$k$pSchon gut. Bildet Euch bloß\nnichts darauf ein.$k$pIch bin ohnehin nur vorübergehend\nhier und kann es kaum erwarten,\nnach Hause zurückzukehren.$k$pWeshalb ich dann noch hier bin,\nfragt Ihr Euch? Nun ja, das liegt im\nGrunde daran, dass Ihr... Ihr...$k$pIch meine, hier bekomme ich einen\nEinblick in fremde Welten und in die\nGeheimnisse unserer Feinde.$k$pIch ziehe also einen Nutzen aus\nmeinem Aufenthalt. Und wenn ich\nEuch ebenfalls nützlich sein kann...$k$pNun, wieso sollten wir dann nicht\nweiterhin voneinander profitieren?
+MID_SENERIO_VOICE01: はっ！
+MID_SENERIO_VOICE02: Pointless
+MID_SENERIO_VOICE03: うああっ！
+MID_SENERIO_VOICE04: I miscalculated...
+MID_SENERIO_VOICE05: Seid Ihr bereit zu sterben?
+MID_SENERIO_VOICE06: Ich entledige mich meiner Feinde.
+MID_SENERIO_VOICE07: Aus dem Weg.
+MID_SENERIO_VOICE08: Sind wir hier fertig?
+MID_SENERIO_VOICE09: No...
+MID_SENERIO_VOICE10: Hmp
+MID_SENERIO_VOICE11: You're the tactician for this group? Oh, no... It's nothing.
+MID_SENERIO_VOICE12: I'll take my leave unless you have a specific request of me.
+MID_SENERIO_VOICE13: I am a mercenary. Guided by self-interest. Above bonds and attachments.
+MID_SENERIO_VOICE14: Ike is much more than a leader. No one could compare to him.
+MID_SENERIO_VOICE15: When Ike isn't feeling well, most would never notice that his left eye twitches.
+MID_SENERIO_VOICE16: No matter who I may be...I have a duty.
+MID_SENERIO_VOICE17: Helping you is to our mutual advantage. That is all.
+MID_SENERIO_VOICE18: OK.
+MID_SENERIO_VOICE19: Let's see...
+MID_SENERIO_VOICE20: Very well.

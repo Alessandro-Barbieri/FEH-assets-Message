@@ -1,0 +1,8 @@
+[Heroes Archive] (T0018)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ミネルバ,ch01_21_Minerba_F_Normal,Face|$w0|Are you sure about this, Maria?\nPractice though it may be, I'm not\ncomfortable putting you in danger...$k$p$WmMPID_マリア,ch01_08_Maria_F_Normal,Face|$w0|Don't worry! I want to get stronger.\nHow else can I help you? I need to\ntrain! Please!$k$p$Sbs1000|

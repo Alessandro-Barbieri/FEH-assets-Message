@@ -1,0 +1,38 @@
+[Heroes Archive] (ELTSHAN)
+
+
+Heroes Message Name: Message
+
+
+MID_ELTSHAN_HOME1: Alfonse semble être un prince\nbienveillant et attentionné.\nIl fera un excellent monarque.
+MID_ELTSHAN_HOME2: Oh, Lachesis, ma chère sœur...\nJe sais que je t'ai promis de te\nretrouver au plus vite.$k$pMais les circonstances ont changé.
+MID_ELTSHAN_HOME3: Je m'apprêtais à faire face à la mort\ndans mon monde, mais le sort a voulu\nque je me retrouve finalement ici.$k$pQui que nous soyons, où que nous\nnous trouvions, nous ne sommes\njamais à l'abri des aléas du destin.
+MID_ELTSHAN_HOME4: La loyauté d'un chevalier se doit d'être\nabsolue. Ma sœur pense autrement,\nmais je ne peux faillir à mon devoir.
+MID_ELTSHAN_HOME5: Mon grand ami Sigurd a un garçon\nnommé Seliph. Hmm... Au vu des\nrègles qui régissent ce monde...$k$pSerait-il possible que j'y croise un\nSeliph devenu aussi fort que son\npère ? Ce serait merveilleux.
+MID_ELTSHAN_FRIEND: Je m'appelle Eldigan. Je suis envoyé\npar $Nf pour\ntransmettre ses salutations.
+MID_ELTSHAN_LEVEL1: Je ne m'arrêterai pas en si bon\nchemin, je le promets.
+MID_ELTSHAN_LEVEL2: Un chevalier ne doit tendre que vers\nl'excellence.
+MID_ELTSHAN_LEVEL3: Voilà qui est incongru. Aurais-je\ncommis une erreur ?
+MID_ELTSHAN_SKILL: Je jure de mettre ce pouvoir au\nservice d'une juste cause.
+MID_ELTSHAN_JOIN: Je suis Eldigan. Quiconque défie\nmon seigneur en répond devant moi.\nJ'espère que nous nous entendrons.
+MID_ELTSHAN_STRONGEST: Après avoir été appelé dans ce\nmonde, j'ai eu une révélation.$k$pDans mon monde d'origine, je devais\ntoute ma loyauté à mon seigneur.\nIci, c'est à vous qu'elle revient.$k$pUn chevalier digne de ce nom se doit\nde fidèlement servir son maître, peu\nimportent ses intentions.$k$pC'est en tout cas mon intime\nconviction, mais je dois vous\nconfier quelque chose.$k$pC'est un honneur pour moi de mettre\nma lame au service $Gd'un homme,d'une femme|\n$Gtel,telle| que vous.$k$pUn chevalier ne choisit pas celui ou\ncelle qu'il sert, je m'estime donc\nextrêmement chanceux.$k$pSachez que ma lame et ma loyauté\nvous sont à jamais acquises.
+MID_ELTSHAN_VOICE01: はぁっ！
+MID_ELTSHAN_VOICE02: せいっ！
+MID_ELTSHAN_VOICE03: うああっ！
+MID_ELTSHAN_VOICE04: You are good...
+MID_ELTSHAN_VOICE05: Par Mistilteinn !
+MID_ELTSHAN_VOICE06: Pas de quartier !
+MID_ELTSHAN_VOICE07: Rendez-vous ou mourez !
+MID_ELTSHAN_VOICE08: C'est terminé !
+MID_ELTSHAN_VOICE09: Forgive me...
+MID_ELTSHAN_VOICE10: Ha
+MID_ELTSHAN_VOICE11: I am ever steeled for duty. But for conversation? A bit wooden.
+MID_ELTSHAN_VOICE12: What?! Oh, I thought you a foe. Employ prudence.
+MID_ELTSHAN_VOICE13: What is chivalry but taking a friend's cause to heart?
+MID_ELTSHAN_VOICE14: Honorable knights must sometimes end things honorably—with a battle.
+MID_ELTSHAN_VOICE15: I wield Mystletainn, the Demon Sword, a blade once held by one of the 12 legendary crusaders in my world.
+MID_ELTSHAN_VOICE16: I often wonder if my fatherland is in a state of ruin.
+MID_ELTSHAN_VOICE17: I am a knight. And you, my master here. Thus, I will protect you.
+MID_ELTSHAN_VOICE18: Ah.
+MID_ELTSHAN_VOICE19: Shall we?
+MID_ELTSHAN_VOICE20: Let's go.

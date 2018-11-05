@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: Dono dell'acqua
+MID_MISSION_S201802BLESS01_A1: Vinci con Dono dell'acqua
+MID_MISSION_H_S201802BLESS01_A1: Sconfiggi un nemico usando un eroe a cui\nhai conferito il Dono dell'acqua (non un\neroe leggendario d'acqua).
+MID_MISSION_S201802BLESS01_A2: Vinci con Dono dell'acqua
+MID_MISSION_H_S201802BLESS01_A2: Sconfiggi un nemico di livello 20 o superiore\nusando un eroe a cui hai conferito il Dono\ndell'acqua (non un eroe leggendario d'acqua).
+MID_MISSION_S201802BLESS01_A3: Vinci con Dono dell'acqua
+MID_MISSION_H_S201802BLESS01_A3: Sconfiggi un nemico di tipo rosso di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201802BLESS01_A4: Vinci con Dono dell'acqua
+MID_MISSION_H_S201802BLESS01_A4: Sconfiggi un nemico di tipo blu di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201802BLESS01_A5: Vinci con Dono dell'acqua
+MID_MISSION_H_S201802BLESS01_A5: Sconfiggi un nemico di tipo verde di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono dell'acqua (non un eroe leggendario\nd'acqua).
+MID_MISSION_S201802BLESS01_A6: Torre: vinci al 1º piano
+MID_MISSION_H_S201802BLESS01_A6: Completa il primo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201802BLESS01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201802BLESS01_A7: Completa il quinto piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201802BLESS01_A8: Torre: vinci al 10º piano
+MID_MISSION_H_S201802BLESS01_A8: Completa il decimo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono dell'acqua (non un eroe\nleggendario d'acqua).
+MID_MISSION_S201802STORY02_TITLE: Neve scarlatta
+MID_MISSION_S201802STORY02_A1: Completa 5-1 folle
+MID_MISSION_H_S201802STORY02_A1: Completa il libro II, cap. 5-1 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201802STORY02_A2: Completa 5-2 folle
+MID_MISSION_H_S201802STORY02_A2: Completa il libro II, cap. 5-2 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201802STORY02_A3: Completa 5-3 folle
+MID_MISSION_H_S201802STORY02_A3: Completa il libro II, cap. 5-3 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201802STORY02_A4: Completa 5-4 folle
+MID_MISSION_H_S201802STORY02_A4: Completa il libro II, cap. 5-4 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201802STORY02_A5: Completa 5-5 folle
+MID_MISSION_H_S201802STORY02_A5: Completa il libro II, cap. 5-5 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MEID_レーギャルン: Laegjarn
+MPID_レーギャルン: Laegjarn
+MEID_HONOR_レーギャルン: L'acciaio assorto
+MEID_H_レーギャルン: La principessa maggiore di Múspell, il regno\ndel fuoco, e sorella più grande di Laevatein.\nÈ un generale che comanda gli eserciti\ndi Múspell con dignità.
+MEID_VOICE_レーギャルン: Alicia Stratten
+MEID_ILLUST_レーギャルン: Maeshima Shigeki (前嶋重機)
+MPID_魔女セリカ: Celica
+MPID_HONOR_魔女セリカ: L'anima perduta
+MPID_H_魔女セリカ: Celica in forma di strega, dopo aver donato\nla sua anima a Duma. Talvolta, i suoi vecchi\nricordi tornano in superficie. Compare in\nFire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_魔女セリカ: Erica Lindbeck
+MPID_ILLUST_魔女セリカ: Fujikawa Akira (藤川祥)
+MPID_暗黒ハーディン: Hardin
+MPID_HONOR_暗黒ハーディン: Il sovrano oscuro
+MPID_H_暗黒ハーディン: Imperatore del Sacro Impero di Akaneia. È\nconosciuto come il sovrano oscuro per via del\nsuo regno di sangue e terrore. Compare in\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_暗黒ハーディン: Richard Epcar
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: Daraen
+MPID_HONOR_邪竜ルフレ男: Il maligno redivivo
+MPID_H_邪竜ルフレ男: Daraen, lo stratega d'Ylisse, controllato\nin anima e corpo da Grima, il Drago Maligno.\nCompare in Fire Emblem Awakening.
+MPID_VOICE_邪竜ルフレ男: David Vincent
+MPID_ILLUST_邪竜ルフレ男: Okuma Yugo (大熊ゆうご)
+MPID_眷属タクミ: Takumi
+MPID_HONOR_眷属タクミ: Il guscio vuoto
+MPID_H_眷属タクミ: Principe di Hoshido che usa il malvagio arco\nSkadi. Continua ad amare la sua patria, ma\nè stato costretto a diventare servo di uno dei\nPrimi Draghi. Compare in Fire Emblem Fates.
+MPID_VOICE_眷属タクミ: Michael Sinterniklaas
+MPID_ILLUST_眷属タクミ: Hino Shinnosuke (日野慎之助)
+MSID_ニーウ: Níu
+MSID_宝剣ソフィア: Tesoro di Zofia
+MSID_スカディ: Skadi
+MSID_邪竜のブレス: Estinzione
+MSID_守備魔防の大覚醒1: Dif/Res sfront. 1
+MSID_守備魔防の大覚醒2: Dif/Res sfront. 2
+MSID_守備魔防の大覚醒3: Dif/Res sfront. 3
+MSID_速さの封印1: Vel gelante 1
+MSID_速さの封印2: Vel gelante 2
+MSID_速さの封印3: Vel gelante 3
+MSID_竜盾の紋章: Difesa draghi
+MSID_H_ニーウ: Conferisce Vel +3. Aggiunge il 50% dei\nbonus totali del nemico ad Att/Vel/Dif/Res\ndell'unità durante lo scontro.
+MSID_H_宝剣ソフィア: Conferisce Dif +3. Se l'unità ha tutti i PS\na inizio scontro, Att/Vel/Dif/Res +4, ma se\nl'unità ha attaccato, PS -4 dopo lo scontro.
+MSID_H_スカディ: Efficace contro le unità volanti. Conferisce\nVel +3. Infligge PS -10 ai nemici posti sulla\nstessa colonna dell'unità e su quelle adiacenti\nall'inizio del turno 3, e i loro bonus diventano\npenalità durante le loro prossime azioni.
+MSID_H_邪竜のブレス: L'unità può sferrare un contrattacco da\nqualunque distanza. Contro nemici con\n2 di Rgg, il danno è calcolato usando\nDif o Res del nemico (il valore più basso).
+MSID_H_守備魔防の大覚醒1: Se l'unità ha l'80% o meno dei PS all'inizio\ndello scontro, Dif/Res +3 durante lo scontro.
+MSID_H_守備魔防の大覚醒2: Se l'unità ha l'80% o meno dei PS all'inizio\ndello scontro, Dif/Res +5 durante lo scontro.
+MSID_H_守備魔防の大覚醒3: Se l'unità ha l'80% o meno dei PS all'inizio\ndello scontro, Dif/Res +7 durante lo scontro.
+MSID_H_速さの封印1: Infligge Vel -3 al nemico con la Vel maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_速さの封印2: Infligge Vel -5 al nemico con la Vel maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_速さの封印3: Infligge Vel -7 al nemico con la Vel maggiore\nall'inizio del turno durante la sua prossima\nazione.
+MSID_H_竜盾の紋章: Dif/Res +4 agli alleati draghi entro 2 spazi.
+MID_CHAPTER_TITLE_C0205: Libro II, cap. 5
+MID_CHAPTER_C0205: Neve scarlatta
+MID_STAGE_TITLE_S2051: Capitolo 5-1
+MID_STAGE_TITLE_S2052: Capitolo 5-2
+MID_STAGE_TITLE_S2053: Capitolo 5-3
+MID_STAGE_TITLE_S2054: Capitolo 5-4
+MID_STAGE_TITLE_S2055: Capitolo 5-5
+MID_STAGE_S2051: Inseguimento nella neve
+MID_STAGE_S2052: La danza della strega
+MID_STAGE_S2053: Il risveglio di Grima
+MID_STAGE_S2054: Il sovrano oscuro
+MID_STAGE_S2055: Fiamme cacciatrici
+MID_STAGE_HONOR_T0026: Il guscio vuoto
+MID_STAGE_T0026: Takumi
+MID_STAGE_HONOR_V0181: Giornaliere
+MID_STAGE_V0181: Parte 21
+MID_STAGE_HONOR_V0182: Giornaliere
+MID_STAGE_V0182: Parte 22
+MID_STAGE_HONOR_V0183: Giornaliere
+MID_STAGE_V0183: Parte 23
+MID_STAGE_HONOR_V0184: Giornaliere
+MID_STAGE_V0184: Parte 24
+MID_STAGE_HONOR_V0185: Giornaliere
+MID_STAGE_V0185: Parte 25

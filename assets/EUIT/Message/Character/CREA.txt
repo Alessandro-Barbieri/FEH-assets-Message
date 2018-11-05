@@ -1,0 +1,38 @@
+[Heroes Archive] (CREA)
+
+
+Heroes Message Name: Message
+
+
+MID_CREA_HOME1: L'uniforme che vestono i Guardiani\ndi Askr è splendida! Mi domando se\nme ne lascerebbero indossare una...$k$pRitengo che su di me sarebbe\nperfetta, non è così?
+MID_CREA_HOME2: Ero una cavaliera di Zofia fino al\ncolpo di stato del cancelliere Desaix.\nMio fratello era al mio fianco.
+MID_CREA_HOME3: Ti preoccupi per me? Oh, che gentile.\nNon devi, davvero. Tu prenditi cura di\nte $Gstesso,stessa|, va bene?
+MID_CREA_HOME4: Mi piacerebbe molto che ti unissi a me\nper un tè e arriverei persino a offrirti\ndi preparartelo io stessa.
+MID_CREA_HOME5: Dovrei assolutamente inviare delle\nlettere al maniero di famiglia: a mio\npadre e mia madre, naturalmente!$k$pMa potrei scrivere anche ai servi, alla\ndomestica e alla bambinaia... Oh!\nNon devo dimenticare il nostro tutore.
+MID_CREA_FRIEND: Ti porto i saluti di qualcuno che\nconosci: $Nf.$k$pChe gentile, non credi?
+MID_CREA_LEVEL1: Un risultato che si addice a\nuna nobile.
+MID_CREA_LEVEL2: Mmmh. Immagino di dovermi\naccontentare...
+MID_CREA_LEVEL3: Un tantino insoddisfacente.
+MID_CREA_SKILL: Adesso certamente splenderò\nper tutto il mondo e in eterno!
+MID_CREA_JOIN: Il mio nome è Clair. Combatto al fianco\ndi mio fratello nelle forze dei Liberatori\nche si battono per Zofia.$k$pRingrazia la tua sorte, poiché\nhai potuto incontrarmi oggi!
+MID_CREA_STRONGEST: Ah, eccoti qui, $Gmio caro,mia cara|,\n$Nu!$k$pStavo giusto pensando a quanto\nsarebbe stato bello incontrarti.\nPerché, ti chiedi?$k$pSuppongo che tu stia iniziando\na piacermi. Ti sembra un fatto\nstrano o degno di nota?$k$pSì? No? Forse? Bene,\nbando agli indugi.\nIl nostro legame è innegabile.$k$pSi tratta di un vero mistero. O forse\nè stato il fato... Spero solo che tu\nnon mi fraintenda.$k$pL'affetto più profondo del mio cuore\nè riservato totalmente ad Alm... Oh!\nDimentica ciò che ho appena detto.$k$pIn ogni caso, ecco cosa intendessi.\nIn qualche modo sei $Gdiventato,diventata| molto\nimportante per me. Tutto qui.
+MID_CREA_VOICE01: せやあっ
+MID_CREA_VOICE02: うふふっ
+MID_CREA_VOICE03: Is that all?
+MID_CREA_VOICE04: きゃあっ！
+MID_CREA_VOICE05: In ginocchio!
+MID_CREA_VOICE06: Insolente!
+MID_CREA_VOICE07: Troppo tardi.
+MID_CREA_VOICE08: Dovrebbe essere un onore per te!
+MID_CREA_VOICE09: Oh dear...
+MID_CREA_VOICE10: Heehee
+MID_CREA_VOICE11: I just couldn't be prouder of my brother.
+MID_CREA_VOICE12: My, my...
+MID_CREA_VOICE13: That Alm can be so distant.
+MID_CREA_VOICE14: I would give all I have if it would bring peace to this world.
+MID_CREA_VOICE15: I can't help but feel a little jealous of Mathilda's skill.
+MID_CREA_VOICE16: Honestly, I think Alm knows...
+MID_CREA_VOICE17: I've come to have more respect for you than you'd ever know.
+MID_CREA_VOICE18: Yes?
+MID_CREA_VOICE19: Very well.
+MID_CREA_VOICE20: Stand aside.

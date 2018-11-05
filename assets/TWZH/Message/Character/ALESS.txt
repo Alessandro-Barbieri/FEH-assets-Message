@@ -1,0 +1,38 @@
+[Heroes Archive] (ALESS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALESS_HOME1: 沒想到能見到父親大人……\n跟母親大人說的一樣……不，還在那之上。\n真可說是騎士理念的體現者啊。
+MID_ALESS_HOME2: 雖然我是諾狄恩王族的繼承者，\n但也許是常年作為傭兵在戰場奔走的緣故，\n待在這樣的地方總讓我覺得不舒坦……
+MID_ALESS_HOME3: 為什麼在這裡晃來晃去？\n既然你也是要上戰場的人，\n能休息的時候就好好休息。
+MID_ALESS_HOME4: 與其站在那邊看，\n不如過來陪我一起訓練。\n鍛鍊身體是不會有壞處的。
+MID_ALESS_HOME5: 我剛才在做劍的保養。\n即使被稱為魔劍，但它終究是一把武器，\n你在使用神器時也要多加注意啊。
+MID_ALESS_FRIEND: 我的名字是阿瑞斯。\n我替$Nf\n帶來了問候信。收下吧。
+MID_ALESS_LEVEL1: 這就是我的力量……！
+MID_ALESS_LEVEL2: 魔劍米斯特汀渴望著人的鮮血……
+MID_ALESS_LEVEL3: 可惡，不該是這樣的……！
+MID_ALESS_SKILL: 新的力量嗎……\n我會駕馭它給你看的。
+MID_ALESS_JOIN: 我是黑騎士──阿瑞斯。\n我會讓你知道，阻擋在我面前的人，\n都將成為這把魔劍的祭品。
+MID_ALESS_STRONGEST: ……是$Nu啊。\n一開始我認為\n你是個拿不了劍的人而輕視你。$k$p但其實你也是位非常出色的戰士，\n我為我的無禮向你道歉。$k$p我的個性實在很死板……\n為此我不只差點失去摯愛之人，\n還將友人視為仇敵而以劍相向。$k$p所謂的騎士，是為了信義而戰的人。\n但不該被這種想法束縛，\n就像過去的我一樣……$k$p你也一樣，該擁有寬闊的視野，\n在你找到必須戰鬥的真正理由時……$k$p我會成為你用來消滅敵人的劍。\n我以這把魔劍米斯特汀……\n與黑騎士阿瑞斯之名發誓。
+MID_ALESS_VOICE01: 喝！
+MID_ALESS_VOICE02: 唔喔喔！
+MID_ALESS_VOICE03: 嗚啊～！
+MID_ALESS_VOICE04: 可惡！
+MID_ALESS_VOICE05: 米斯特汀！
+MID_ALESS_VOICE06: 想成為犧牲品嗎？
+MID_ALESS_VOICE07: 你這傢伙！
+MID_ALESS_VOICE08: 納命來！
+MID_ALESS_VOICE09: まさか…この俺が…
+MID_ALESS_VOICE10: はは
+MID_ALESS_VOICE11: 俺は黒騎士アレス…エルトシャンの子だ。
+MID_ALESS_VOICE12: ！？　な、なんのつもりだ？　驚かせるな。
+MID_ALESS_VOICE13: シグルドは我が父の仇、俺はそう信じて生きてきた。だが…
+MID_ALESS_VOICE14: まさか、父上もこの世界にいるのか？
+MID_ALESS_VOICE15: 俺は父上の意志を継ぎ、祖国を再興してみせる。
+MID_ALESS_VOICE16: 魔剣ミストルティンは人の血を欲しがる…
+MID_ALESS_VOICE17: 俺一人ではだめだ。お前の力を貸してほしい。
+MID_ALESS_VOICE18: わかった
+MID_ALESS_VOICE19: 敵は？
+MID_ALESS_VOICE20: 俺は行く

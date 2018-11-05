@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_BRIDE02_HOME1: Cosa vorrei dal mio matrimonio?\nSemplice: sapere che la persona\nche amo sta bene ed è al sicuro.
+MID_MARTH_BRIDE02_HOME2: I membri della guardia reale sono\navvezzi a vestire abiti inconsueti...\nQuesto andrebbe loro a genio.
+MID_MARTH_BRIDE02_HOME3: Jagen, Cain, Abel, Aidraug e Gordin...\nChissà cosa direbbero nel vedermi\nvestito in tal modo.
+MID_MARTH_BRIDE02_HOME4: Ho sentito dire che Shiida ha preso\nparte a una festa nuziale in un recente\npassato, e che si è divertita molto.
+MID_MARTH_BRIDE02_HOME5: Non sono solito lottare in groppa\na un destriero.$k$pDovrò chiedere consiglio ai cavalieri\nd'Altea. Non è facile impugnare\nun'arma mentre si doma tale belva.
+MID_MARTH_BRIDE02_FRIEND: Vi porto i saluti e l'affetto\ndi $Nf.\nChe siate sempre gioiosi.
+MID_MARTH_BRIDE02_LEVEL1: Hah, che sorpresa! Sarà\nil potere dell'amore?
+MID_MARTH_BRIDE02_LEVEL2: Devo diventare più forte per\nproteggere coloro che amo.
+MID_MARTH_BRIDE02_LEVEL3: Le mie scuse... Devo ritrovare\nla concentrazione.
+MID_MARTH_BRIDE02_SKILL: Grazie mille! Il mio cuore\nè in festa!
+MID_MARTH_BRIDE02_JOIN: Saluti, sono il principe Marth d'Altea.\nQuest'abito? È quello tipico dello\nsposo per le feste nuziali, in cui...$k$pBeh... È alquanto difficile da\nspiegare...
+MID_MARTH_BRIDE02_STRONGEST: Mi hanno detto che questo è l'abito\nche un uomo indossa quando si lega\nalla donna che ama.$k$pIn cuor mio, so già chi voglio al mio\nfianco quando reciterò la sacra\npromessa, ma...$k$pFare certi pensieri in queste vesti...\nmi innervosisce un po'.$k$pMa mi sto abituando. Quando sarà\nil momento, sarò pronto.$k$pE quando quel giorno verrà, sarei\nonorato se mi facessi da testimone,\n$Nu.
+MID_MARTH_BRIDE02_VOICE01: やぁっ！
+MID_MARTH_BRIDE02_VOICE02: それっ！
+MID_MARTH_BRIDE02_VOICE03: わわっ！
+MID_MARTH_BRIDE02_VOICE04: Not good...!
+MID_MARTH_BRIDE02_VOICE05: L'amore trionferà!
+MID_MARTH_BRIDE02_VOICE06: Giuro di vincere!
+MID_MARTH_BRIDE02_VOICE07: Per i miei cari!
+MID_MARTH_BRIDE02_VOICE08: Con tutto il cuore!
+MID_MARTH_BRIDE02_VOICE09: Late for the ceremony...
+MID_MARTH_BRIDE02_VOICE10: ええと
+MID_MARTH_BRIDE02_VOICE11: What do you think? It's not...odd, is it?
+MID_MARTH_BRIDE02_VOICE12: There's some dust on my clothes? Would you be so kind as to help brush it off?
+MID_MARTH_BRIDE02_VOICE13: A festival is a brief respite for the soul.
+MID_MARTH_BRIDE02_VOICE14: This attire is...somewhat unsettling.
+MID_MARTH_BRIDE02_VOICE15: I wonder where the perfect place to hold a wedding is around here!
+MID_MARTH_BRIDE02_VOICE16: Someday, when peace returns... I hope to have a wedding of my own.
+MID_MARTH_BRIDE02_VOICE17: I hope I can continue to count on you.
+MID_MARTH_BRIDE02_VOICE18: Of course.
+MID_MARTH_BRIDE02_VOICE19: If only...
+MID_MARTH_BRIDE02_VOICE20: To happiness!

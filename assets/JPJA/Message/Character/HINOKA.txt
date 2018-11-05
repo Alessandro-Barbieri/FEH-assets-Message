@@ -1,0 +1,38 @@
+[Heroes Archive] (HINOKA)
+
+
+Heroes Message Name: Message
+
+
+MID_HINOKA_HOME1: ふうっ、訓練はこのぐらいでいいか。\nどんな世界にいたとしても…私はこの手で\nきょうだいたちや皆を守ってみせる。
+MID_HINOKA_HOME2: 私にはアサマとセツナという臣下がいる。\nおよそ忠臣とは呼べない言動の者たちだが…\nいざという時は頼りになるし、信用している。
+MID_HINOKA_HOME3: よく働くのは感心だが、ほどほどにな？\n見たところ、お前はこの軍の要だ。\n何かあったら皆の士気が下がってしまうぞ。
+MID_HINOKA_HOME4: よければもっと私を頼ってくれないか？\n不思議なんだ…お前を見ているとなんだか、\n弟や妹のように世話をしてやりたくなる。
+MID_HINOKA_HOME5: 天馬の世話をしていた。\n羽の付け根に触れるとふわりとしているぞ。\nお前も触ってみるか？
+MID_HINOKA_FRIEND: $Nuだな？\n$Nfから挨拶だ。\nよろしく頼むと言っていたぞ。
+MID_HINOKA_LEVEL1: 今の私には、\n怖いものなど無い。
+MID_HINOKA_LEVEL2: よし、この調子だ。\nもっと高みを目指すぞ。
+MID_HINOKA_LEVEL3: 思ってたのと違うぞ！？
+MID_HINOKA_SKILL: どうだ？　以前の私よりも\n強そうになったか？
+MID_HINOKA_JOIN: 白夜王国第一の王女、ヒノカだ！\n民たちからは戦姫と呼ばれることもある。\n必要とされたからには、力になろう。
+MID_HINOKA_STRONGEST: $Nu…！\nちょうど今、天馬の手入れをしていたんだ。\nお前と空を飛んでみたいと思ってな。$k$p私はずっと考えていた。\nこの世界に来て最初に出会ったお前と、\nどうしたらもっと親密になれるかと。$k$pそれで考えついたのが、\n空の上で語り合うという案だ。\nどうだ、我ながら名案だと思うんだが…$k$p…なに？　そんなことをしなくても、\nもうじゅうぶん親密だと思っている？\nそ、そうなのか！？　なんだか照れるな…$k$pだが、そう思っていてくれて嬉しいぞ。\nでは改めて今日という日の記念に…\nお前を空の上に誘わせてくれ。いいだろう？\n
+MID_HINOKA_VOICE01: せいっ！
+MID_HINOKA_VOICE02: やああっ！
+MID_HINOKA_VOICE03: うわっ！
+MID_HINOKA_VOICE04: 油断したか…っ
+MID_HINOKA_VOICE05: 負けるものか！
+MID_HINOKA_VOICE06: 退け！
+MID_HINOKA_VOICE07: ヒノカ、参る！
+MID_HINOKA_VOICE08: 頑張れヒノカ！
+MID_HINOKA_VOICE09: つわもの…だな…
+MID_HINOKA_VOICE10: ふふ…
+MID_HINOKA_VOICE11: 私はもっと強くなりたい
+MID_HINOKA_VOICE12: そろそろ天馬の世話をしてやらないとな
+MID_HINOKA_VOICE13: 困った事があったら、私を呼ぶといい
+MID_HINOKA_VOICE14: 兄様たちも、お前のような神器を持っているぞ
+MID_HINOKA_VOICE15: 本当は姫らしく、淑やかにしたほうがいいのだろうか
+MID_HINOKA_VOICE16: アサマとセツナはどこに…　まあ、近くにいない事は確かだろうな
+MID_HINOKA_VOICE17: お前は闘えないのか…私はそういう奴に弱いんだ\nどうしても、守ってやりたくなってしまう
+MID_HINOKA_VOICE18: ああ
+MID_HINOKA_VOICE19: 心配はいらない
+MID_HINOKA_VOICE20: さあ、行くぞ

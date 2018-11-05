@@ -1,0 +1,38 @@
+[Heroes Archive] (CERISE)
+
+
+Heroes Message Name: Message
+
+
+MID_CERISE_HOME1: Mi nación siempre está cubierta de\nnieve. Aquí, en cambio, hace calor.\n¡De hecho, estoy sudando!$k$p¿Sabrías indicarme dónde podría\ndarme un baño?
+MID_CERISE_HOME2: En Nifl, el reino del hielo, los inviernos\nson glaciales. Cuando era pequeña,\ndormía abrazada a mis hermanas.
+MID_CERISE_HOME3: Si te vence el cansancio, es mejor\nque duermas una siesta. ¡Siempre\nles digo lo mismo a mis hermanas!
+MID_CERISE_HOME4: Discúlpame, por favor. Estaba\ntan calentita y a gusto que me\nquedé dormida.
+MID_CERISE_HOME5: Te ayudaré en todo lo que pueda\nen nombre de mis hermanas. No\ndudes en pedirme lo que necesites.
+MID_CERISE_FRIEND: Hoy te traigo saludos de parte\nde $Nf.
+MID_CERISE_LEVEL1: ¡Qué maravilla!
+MID_CERISE_LEVEL2: ¡Qué alivio! Me quité\nun peso de encima.
+MID_CERISE_LEVEL3: Anda... ¿Y ahora qué hago?
+MID_CERISE_SKILL: Me halaga que te hayas\nacordado de mí.
+MID_CERISE_JOIN: Soy Gunnthrá, de Nifl. Por fin nos\nconocemos. Sentí en sueños que\nquerías que nos encontráramos.
+MID_CERISE_STRONGEST: Ay, $Nu...\nDulce $Nu...$k$pSoy yo, Gunnthrá. Nos conocimos\nen un sueño, pero por fin nos\nhemos encontrado en persona.$k$pTal vez recordarás que no puedo\ncomunicarme con cualquiera\nmediante ese rito.$k$pUna vez que se ha creado el vínculo\ncon una persona, ya no es posible\nestablecerlo con ninguna otra.$k$pEsa conexión solo es posible si\nme entrego a esa persona desde\nel fondo de mi corazón.$k$pSeguro que sabes lo que eso\nsignifica, $Nu.$k$pLa primera vez que hablamos,\napenas sabía nada de ti...$k$pAhora, en cambio, estoy\ncompletamente entregada a ti.$k$pPero no te preocupes; nunca\nexigiría nada por tu parte.\n¡Ni siquiera en broma!$k$pSi alguna vez necesitas algo,\nno dudes en decírmelo. Nada\nme haría más feliz que ayudarte.
+MID_CERISE_VOICE01: それっ
+MID_CERISE_VOICE02: だめです
+MID_CERISE_VOICE03: きゃああっ！
+MID_CERISE_VOICE04: だめ、です…
+MID_CERISE_VOICE05: No te muevas.
+MID_CERISE_VOICE06: Espero que me perdones.
+MID_CERISE_VOICE07: Detente ahora mismo.
+MID_CERISE_VOICE08: Vaya aprieto...
+MID_CERISE_VOICE09: Fjorm... I'm sorry.
+MID_CERISE_VOICE10: ふふ…
+MID_CERISE_VOICE11: I am Gunnthrá... The eldest princess of Nifl.
+MID_CERISE_VOICE12: Oh, my! I wasn't expecting you to just...
+MID_CERISE_VOICE13: You saved my dear sister. For that, you have my thanks.
+MID_CERISE_VOICE14: You're a gentle soul, and your hands are so warm.
+MID_CERISE_VOICE15: You must be exhausted. Why don't we take a rest?
+MID_CERISE_VOICE16: I wish that all of my siblings could live happily together. If only...
+MID_CERISE_VOICE17: I want to do whatever I can to help you. Just tell me what you need, and I'll be there.
+MID_CERISE_VOICE18: Of course.
+MID_CERISE_VOICE19: What can I do?
+MID_CERISE_VOICE20: Goodness!

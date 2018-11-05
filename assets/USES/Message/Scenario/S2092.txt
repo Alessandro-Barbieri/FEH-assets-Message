@@ -1,0 +1,8 @@
+[Heroes Archive] (S2092)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アレス,ch06_10_Aless_M_Normal,Face|Mistilteinn, la Hoja Diabólica, exige\nsangre humana. ¿Quieres ser su\npróxima víctima?$k$p$Sbs1000|

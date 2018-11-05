@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_HOME1: Dicen que este reino está sumido\nen una cruel guerra. Allá donde vaya,\nsiempre encuentro el mismo destino.
+MID_ELIWOD_HOME2: Quizás haya héroes más fuertes,\npero nadie me supera en tenacidad.\nPrometo darlo todo siempre.
+MID_ELIWOD_HOME3: Gracias por guiarnos a todos.\nContigo al mando, nos sentimos\nmás seguros en el campo de batalla.
+MID_ELIWOD_HOME4: Si esta tarde hace buen tiempo,\n¿me acompañarás a dar un paseo?
+MID_ELIWOD_HOME5: Qué orgulloso me siento de mi hijo\nRoy... Debo admitir que me superó\nen muchas facetas.$k$pEs mejor luchador que yo y, además,\ntiene un don natural para aprender\nlas lecciones que le da la vida...
+MID_ELIWOD_FRIEND: Me envía $Nf.\nTe manda sus mejores recuerdos.$k$pEspero que su amistad\ndure para siempre.
+MID_ELIWOD_LEVEL1: ¡Ahora sí que voy\na poder ayudarte!
+MID_ELIWOD_LEVEL2: Bien, bien. Tengo que seguir así.
+MID_ELIWOD_LEVEL3: Vaya, no estuve a la altura\nde las circunstancias...
+MID_ELIWOD_SKILL: Mil gracias. Trabajaré con más\nahínco a partir de ahora, si cabe.
+MID_ELIWOD_JOIN: Soy Eliwood y pertenezco a la\nnobleza de Pherae, un pequeño\nreino. Espero servirte de ayuda.
+MID_ELIWOD_STRONGEST: A veces recuerdo nuestro primer\nencuentro y pienso que tuvo que\nser cosa del destino...$k$pLa pericia con la que nos diriges\nnos sacó de un apuro en\nmás de una ocasión.$k$pSin ti, no sé de dónde extraeríamos\nlas fuerzas para proseguir. Eres un\nsímbolo de esperanza para todos.$k$pHacía mucho tiempo que no me\nsentía capaz de cualquier cosa por\ncontar con la ayuda de $Gcierto aliado,cierta aliada|.$k$pEse es el efecto que produces en los\ndemás. Y por eso me gustaría seguir\nsiempre a tu lado.
+MID_ELIWOD_VOICE01: はっ！
+MID_ELIWOD_VOICE02: せいっ！
+MID_ELIWOD_VOICE03: うああっ！
+MID_ELIWOD_VOICE04: Drat...
+MID_ELIWOD_VOICE05: ¡Aléjate de aquí, canalla!
+MID_ELIWOD_VOICE06: ¡A ver qué tal te sienta esto!
+MID_ELIWOD_VOICE07: ¡Intenta detenerme!
+MID_ELIWOD_VOICE08: ¡Vas a ver lo que es bueno!
+MID_ELIWOD_VOICE09: Forgive me...
+MID_ELIWOD_VOICE10: Haha
+MID_ELIWOD_VOICE11: Hmm? Did you need me?
+MID_ELIWOD_VOICE12: Ha! Want to bend my ear? You need only ask!
+MID_ELIWOD_VOICE13: Both you and this place couldn't be more welcoming. Thank you.
+MID_ELIWOD_VOICE14: I'm not the hardiest fighter you'll ever meet, but I'll prove my use.
+MID_ELIWOD_VOICE15: I can tell you're the type to push yourself too hard. So please, take care.
+MID_ELIWOD_VOICE16: You seem to gather very good friends around you. Admirable!
+MID_ELIWOD_VOICE17: May we all return from battle alive and unscathed.
+MID_ELIWOD_VOICE18: Very well.
+MID_ELIWOD_VOICE19: What next?
+MID_ELIWOD_VOICE20: Let's go.

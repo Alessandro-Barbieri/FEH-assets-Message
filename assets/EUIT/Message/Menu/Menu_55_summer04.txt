@@ -1,0 +1,45 @@
+[Heroes Archive] (Menu_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION: Diario eventi
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP: Prove Tempesta
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_OPENING: Introduzione
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_ENDING: Epilogo
+MID_EVENT_RECOLLECTION_INFO: Rileggi i dialoghi di eventi conclusi.
+MID_MAP_RETRY: Riavvia
+MID_MAP_RETRY_CONFIRM: Ricominciare dall'inizio?
+MID_MAP_RETRY_DECIDE: Riavvia
+MID_MAP_RETRY_CANCEL: Abbandona
+MID_MAP_PHASE_WITH_LIMIT: $aFase $a0/$a1
+MID_MISSION_PROGRESS_DIALOG_LIST_ACHIEVED_HELP: Trovi il premio in Imprese e missioni.
+MID_OCCUPATION_HELP_DIALOG_08_02: ◆Ranghi GC◆\n・ Il tuo rango GC aumenterà in\nbase al tuo punteggio finale in\nbattaglia.\n・ All'aumentare del rango GC,\nsaranno aggiunti punti alle zone\nadiacenti a quella in cui ti trovi, a\npartire dalla battaglia successiva\nalla promozione al nuovo rango.\n・ In base al tuo rango GC, puoi\nanche ricevere altri premi.
+MID_OCCUPATION_AREA_ALLY_RANKING_REINFORCE_ONLY: Aiutante
+MID_OCCUPATION_REWARD_SORT_RANK: Pos. in eserc.
+MID_OCCUPATION_REWARD_RANK: Posizione
+MID_OCCUPATION_RANKING: Classifica attuale
+MID_OCCUPATION_RANKING_SORT_TYPE: $aClassifica attuale: $a0
+MID_OCCUPATION_RANKING_SORT_TOP: Gioc. migliori
+MID_OCCUPATION_RANK_OUT_OF_RANGE: inclassif.
+MID_OCCUPATION_RANKING_UNCALCULATED: Calcolo posizioni in corso.
+MID_OCCUPATION_GAINED_REWARDTYPE_ROUND_RANK: $aPremio pos. esercito GC: battaglia $a0
+MID_OCCUPATION_RANKING_SCORE: Punteggio
+MID_SEQUENTIAL_MAP_TERM_201807: Sogni d'oro
+MID_STAGE_SELECT_RULE_TURN_ENEMY_PHASE: $aTurni alla vittoria: $a0 (fase nemici)
+MID_STAGE_SELECT_PUZZLE: Esercitazioni
+MID_STAGE_SELECT_PUZZLE_INFO: Mettiti alla prova!
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC: Le basi
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC_INFO: Rivedi i fondamentali e\naffina la tua tecnica.
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL: Le abilità
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL_INFO: Impara come l'uso delle\nabilità influenza lo scontro.
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS: Per veterani
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS_INFO: Queste sfide sono solo per\ngli strateghi più esperti.
+MID_PUZZLE_HELP_DIALOG_00: Gioca e impara!
+MID_PUZZLE_HELP_DIALOG_01: ◆Esercitazioni◆\nRivedi le regole fondamentali di\nFire Emblem Heroes e perfeziona\nla tua tecnica mentre giochi.\n\nIn ogni mappa troverai una\nsquadra di alleati preselezionati.
+MID_PUZZLE_HELP_DIALOG_02: ◆Per veterani◆\nQueste mappe sono\nestremamente impegnative!\n\nSaranno sbloccate dopo il\ncompletamento del capitolo 13\ndel libro I della storia principale.
+MID_STAGE_OPEN_FIRST_PUZZLE: Esercitazioni sbloccate.
+MID_STAGE_OPEN_NEW_PUZZLE: È disponibile una nuova\nmappa Esercitazioni.
+MID_STAGE_SELECT_RULE_PHASE: $aFasi alla vittoria: $a0
+MID_TAP_BATTLE_RESULT_COMMENT_FULL: Perfetto!

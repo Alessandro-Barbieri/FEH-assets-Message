@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_F)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_F_HOME1: La protection de ce royaume repose\nsur vos épaules, $Gmon ami,mon amie|.$k$pCe rôle ne m'est que trop familier...\nComptez sur moi pour vous protéger\ndu mieux que je peux.
+MID_KAMUI_F_HOME2: J'aime découvrir de nouveaux\nlieux tels que celui-ci.$k$pJe pense que cette curiosité est\ndue au fait que j'ai grandi dans\nune forteresse isolée...
+MID_KAMUI_F_HOME3: Je suis ravie de constater que vous\nprenez votre rôle de $Gprotecteur,protectrice|\ntrès à cœur.$k$pN'hésitez surtout pas à me faire\nsavoir si je peux vous être d'une\nquelconque aide.
+MID_KAMUI_F_HOME4: Avez-vous déjà entendu parler\ndes veines dragunaires ?$k$pDans mon monde, leur pouvoir me\npermet de modifier l'environnement.\nJe me demande s'il y en a ici...
+MID_KAMUI_F_HOME5: J'étais en train de penser à\nmes nombreux frères et sœurs.\nIls me sont tous si chers...
+MID_KAMUI_F_FRIEND: Bonjour ! $Nf\nm'a demandé de venir visiter\nvotre superbe château.
+MID_KAMUI_F_LEVEL1: Les efforts de mes compagnons\nm'aident à devenir plus forte.
+MID_KAMUI_F_LEVEL2: Bien. Je pourrai aider encore plus\nde gens.
+MID_KAMUI_F_LEVEL3: Ce n'est pas ce que j'espérais...
+MID_KAMUI_F_SKILL: J'ai hâte de voir de quoi je suis\ncapable !
+MID_KAMUI_F_JOIN: Je m'appelle Corrin. Je suis née\ndans le royaume d'Hoshido, mais\nj'ai grandi dans celui de Nohr.$k$pJe mets mon pouvoir dragunaire\net Yato, mon épée, à votre service !
+MID_KAMUI_F_STRONGEST: Ah, $Nu !\nÇa me fait plaisir que vous me\nrendiez visite si souvent.$k$pOh, pardonnez-moi, je n'arrête\npas de vous toucher le visage.\nC'est une habitude que j'ai...$k$pCela dit, je trouve que le contact\nphysique aide à renforcer les liens.\nVous voulez essayer ?$k$pOh, vous êtes si $Gdélicat,délicate| ! Ça faisait\nlongtemps qu'on ne m'avait pas\ntouché le visage, pour tout dire.$k$pN'hésitez pas à venir me voir si le\ncontact avec un être humain vous\nmanque, ça nous rapprochera.
+MID_KAMUI_F_VOICE01: はっ！
+MID_KAMUI_F_VOICE02: せやっ！
+MID_KAMUI_F_VOICE03: きゃあっ
+MID_KAMUI_F_VOICE04: That's not good...
+MID_KAMUI_F_VOICE05: Nous ne faillirons pas !
+MID_KAMUI_F_VOICE06: J'ai fait mon choix !
+MID_KAMUI_F_VOICE07: Je ne me rendrai pas !
+MID_KAMUI_F_VOICE08: Mon choix est clair !
+MID_KAMUI_F_VOICE09: This can't be...
+MID_KAMUI_F_VOICE10: Heehee
+MID_KAMUI_F_VOICE11: The small things really count with friends—even a little smile can make a big difference.
+MID_KAMUI_F_VOICE12: I have so many siblings. I couldn't be more fortunate!
+MID_KAMUI_F_VOICE13: I admire the course you've taken here—to fight with everyone's help!
+MID_KAMUI_F_VOICE14: I wonder if there are any Dragon Veins here. Where I'm from, they're everywhere!
+MID_KAMUI_F_VOICE15: You and I are like two peas in a pod. We'll get along very well.
+MID_KAMUI_F_VOICE16: My sacred blade contains the love of everyone I've fought for...even of those I've fought with.
+MID_KAMUI_F_VOICE17: You can lean on me if you're weary. I feel as if you're family. And I, your sister.
+MID_KAMUI_F_VOICE18: OK!
+MID_KAMUI_F_VOICE19: All right.
+MID_KAMUI_F_VOICE20: Here I go!

@@ -1,0 +1,38 @@
+[Heroes Archive] (FREDERIK)
+
+
+Heroes Message Name: Message
+
+
+MID_FREDERIK_HOME1: Die weißen Umhänge Eurer\nUniformen wirken wirklich edel.$k$pAber vielleicht fehlt ihnen noch\nein wenig Stickerei.
+MID_FREDERIK_HOME2: Ich habe lange dem Königshaus\nvon Ylisse gedient. Und werde nach\nmeiner Rückkehr wieder dort dienen.
+MID_FREDERIK_HOME3: Danke, dass Ihr Euch nach mir\nerkundigt. Ich diene einem anderen\nHerrn, aber Ihr habt meinen Respekt.
+MID_FREDERIK_HOME4: Wollt Ihr vielleicht den Garten mit\nmir jäten? Ein gut gepflegter Garten\nist das Zeichen eines edlen Sinns.
+MID_FREDERIK_HOME5: Mit handgestricktem Schal stehe ich\nbereit, um ihn meinem Herrn um den\nHals zu legen, falls er niesen sollte.
+MID_FREDERIK_FRIEND: Verzeiht die Störung, Ich bin im\nAuftrag von\n$Nf hier.$k$pWas für ein Auftrag dies sei? Nun,\nich soll Euch herzlich grüßen.
+MID_FREDERIK_LEVEL1: Meine Stärke wird uns\nalle beschützen!
+MID_FREDERIK_LEVEL2: Langsam, aber sicher\nschreite ich voran.
+MID_FREDERIK_LEVEL3: Ich vermute, ich muss\nmich mehr anstrengen.
+MID_FREDERIK_SKILL: Ich nutze die neuen Kräfte sofort,\num Kiesel vom Weg zu räumen.
+MID_FREDERIK_JOIN: Ich bin Frederick, zweiter Hauptmann\nder Hirten und Ritter des Königs. Es\nist mir eine Ehre, Euch zu begegnen.
+MID_FREDERIK_STRONGEST: Oh, $Nu! Wie\nimmer bei der Arbeit? Lasst mich Euch\nbei dem Kontrollgang assistieren.$k$pIch werde Euren Weg erahnen und\nKiesel, Unkraut sowie andere Hinder-\nnisse aus dem Weg räumen.$k$pMeine erste Pflicht wird natürlich stets\ndie Sorge um das Königshaus von\nYlisse sein. Daran ändert sich nichts.$k$pAber ich sollte mir wohl auch Zeit\nnehmen, Euch zu umsorgen. Vielleicht\nhänge ich auch an Euch...$k$pAber genug getrödelt! Ich muss\nKiesel aus dem Weg räumen. Bitte,\nsetzt Euren Rundgang fort!
+MID_FREDERIK_VOICE01: せいっ！
+MID_FREDERIK_VOICE02: はああっ！
+MID_FREDERIK_VOICE03: ぐあっ！
+MID_FREDERIK_VOICE04: A mistake...
+MID_FREDERIK_VOICE05: Dein Ende ist nah!
+MID_FREDERIK_VOICE06: Uuuund jetzt!
+MID_FREDERIK_VOICE07: Nur über meine Leiche!
+MID_FREDERIK_VOICE08: Für Mylord Chrom!
+MID_FREDERIK_VOICE09: Must retreat...
+MID_FREDERIK_VOICE10: Whew...
+MID_FREDERIK_VOICE11: A knight must constantly strive for excellence.
+MID_FREDERIK_VOICE12: My first task is always the safety of the royal family.
+MID_FREDERIK_VOICE13: Today, like every other day, I woke up early to clear away pebbles.
+MID_FREDERIK_VOICE14: I notice there are weeds about. I shall pluck them until you can hire a gardener.
+MID_FREDERIK_VOICE15: The commissary is serving bear meat? I believe I shall skip dinner today.
+MID_FREDERIK_VOICE16: Where could my lord Chrom be...
+MID_FREDERIK_VOICE17: Should we camp outdoors, you may rely on me for a magnificent campfire.
+MID_FREDERIK_VOICE18: Yes.
+MID_FREDERIK_VOICE19: Indeed.
+MID_FREDERIK_VOICE20: Of course.

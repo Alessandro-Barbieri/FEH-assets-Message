@@ -1,0 +1,63 @@
+[Heroes Archive] (ALFONS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_HOME1: I advise you not to get close to the\nHeroes. It will just make it harder...\nshould you ever be parted.
+MID_ALFONS_HOME2: Some of our kingdom's subjects\nobjected when I joined this order.\nBut I wanted to do my part.$k$pStill, there are others who say that I\ndon't behave quite like a prince\nought to anyway.
+MID_ALFONS_HOME3: I'll be glad to go on patrol with you.\nSome get lost around here. So, really,\nit's best I keep an eye on you.
+MID_ALFONS_HOME4: Someday we should visit the library\ntogether. There's much information\non the Heroes of other worlds.
+MID_ALFONS_HOME5: I was just tending to my sword. Don't\nyou find it a fine blade? The stones in\nthe hilt—they burn like white flames.
+MID_ALFONS_FRIEND: You must be a good friend of\n$Nf, yes?$k$pHmm. An alternate version of my\nAskran Kingdom. Is there\nanother one of me here?
+MID_ALFONS_LEVEL1: All of this is thanks to you,\n$Nu.
+MID_ALFONS_LEVEL2: I have gained the strength I\nrequire to battle on!
+MID_ALFONS_LEVEL3: A humble gain. Perhaps I'll do\nbetter next time.
+MID_ALFONS_SKILL: I deeply appreciate your help,\nSummoner.
+MID_ALFONS_STRONGEST: I have to confess that I never\nintended to become friends with\nyou, Summoner.$k$pBut you're always there when I need\nyou, to the extent that when you're\nnot near, I feel...not quite myself.$k$pIt's a delicate position to be in.\nThe more you have to lose, the\nworse it hurts when you do.$k$pOthers may open themselves to\nsuch hurt, but as a prince,\nI must remain strong.$k$pIt seemed reasonable to keep\neveryone at a distance. But you've\nshown me the folly of that.$k$pI would have never discovered\nour fine friendship, had I not\nwelcomed you in.$k$pAnd then what would I be?\nLess than I am. Now, I can only\nhope you feel the same.$k$pIn any case, I swear to keep you\nsafe. You're my trusted partner,\n$Nu.
+MID_ALFONS_VOICE01: せいっ
+MID_ALFONS_VOICE02: はあっ
+MID_ALFONS_VOICE03: くっ…！
+MID_ALFONS_VOICE04: Drat...
+MID_ALFONS_VOICE05: Above all...the mission!
+MID_ALFONS_VOICE06: Let me through!
+MID_ALFONS_VOICE07: My apologies.
+MID_ALFONS_VOICE08: I'll open the way!
+MID_ALFONS_VOICE09: I've lost...
+MID_ALFONS_VOICE10: Heehee
+MID_ALFONS_VOICE11: How about you and I have a little chat?
+MID_ALFONS_VOICE12: We are fortunate to have you with us. I can't imagine a better summoner.
+MID_ALFONS_VOICE13: My greatest wish is to see our realm at peace. And our people, happy again.
+MID_ALFONS_VOICE14: I find it best not to get too attached these days...especially to Heroes.
+MID_ALFONS_VOICE15: Promise you'll never leave us...without warning me first.
+MID_ALFONS_VOICE16: I am striving to be an excellent prince—and to master the use of Heroes.
+MID_ALFONS_VOICE17: I'm glad to have you here. But someday, I'd like to open the way to your world. We could go there together.
+MID_ALFONS_VOICE18: Yes?
+MID_ALFONS_VOICE19: As you will.
+MID_ALFONS_VOICE20: Shall we?
+MID_ALFONS_VOICE21: Fire Emblem
+MID_ALFONS_VOICE22: Shadow Dragon and the Blade of Light
+MID_ALFONS_VOICE23: Gaiden
+MID_ALFONS_VOICE24: Mystery of the Emblem
+MID_ALFONS_VOICE25: Genealogy of the Holy War
+MID_ALFONS_VOICE26: Thracia 776
+MID_ALFONS_VOICE27: The Binding Blade
+MID_ALFONS_VOICE28: The Blazing Blade
+MID_ALFONS_VOICE29: The Sacred Stones
+MID_ALFONS_VOICE30: Path of Radiance
+MID_ALFONS_VOICE31: Radiant Dawn
+MID_ALFONS_VOICE32: Shadow Dragon
+MID_ALFONS_VOICE33: New Mystery of the Emblem
+MID_ALFONS_VOICE34: Awakening
+MID_ALFONS_VOICE35: Fates
+MID_ALFONS_VOICE36: An event has started.
+MID_ALFONS_VOICE37: A big battle has started.
+MID_ALFONS_VOICE38: A strong foe has appeared.
+MID_ALFONS_VOICE39: New Heroes are available.
+MID_ALFONS_VOICE40: Just a moment, please.
+MID_ALFONS_VOICE41: Keep the weapon triangle in mind.
+MID_ALFONS_VOICE42: You can destroy some walls.
+MID_ALFONS_VOICE43: Fliers are weak to arrows.
+MID_ALFONS_VOICE44: To use a unit's Assist Skill, move the unit onto another one.
+MID_ALFONS_VOICE_BRAVE: Brave
+MID_ALFONS_VOICE_HEROES: Heroes

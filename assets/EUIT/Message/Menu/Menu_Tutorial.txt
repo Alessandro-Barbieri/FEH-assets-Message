@@ -1,0 +1,622 @@
+[Heroes Archive] (Menu_Tutorial)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_TITLE: Arena
+MID_ARENA_TITLE_REWARD: Ricompense
+MID_ARENA_TITLE_HISTORY: Risultati difesa
+MID_ARENA_SEASON_DAYS: $aFine stagione: $a0 giorno/i.
+MID_ARENA_SEASON_HOURS: $aFine stagione: $a0 ora/e
+MID_ARENA_SEASON_MINUTES: $aFine stagione: $a0 minuto/i
+MID_ARENA_RANK: Rng
+MID_ARENA_BONUSCHRS_HEADLINE: Eroi bonus di questa stagione
+MID_ARENA_BONUSCHRS_CAPTION: Mettine uno in squadra per aumentare il punteggio!
+MID_ARENA_COMBO_CAPTION: $aVittorie di fila: $a0/7. Bonus continuità +$a1.
+MID_ARENA_NO_HISTORY: Nessun dato disponibile.
+MID_ARENA_BTN_BATTLE: Combatti
+MID_ARENA_BTN_REWARD: Ricompense
+MID_ARENA_BTN_HISTORY: Risultati difesa
+MID_ARENA_BTN_HELP: Aiuto
+MID_ARENA_BTN_GIVEUP: Arrenditi
+MID_ARENA_BTN_CONFIRM: OK
+MID_ARENA_DEF_WIN: Difesa efficace!
+MID_ARENA_EASY: Facile
+MID_ARENA_NORMAL: Intermedio
+MID_ARENA_HARD: Avanzato
+MID_ARENA_SELECT_OPPONENT_HEADLINE: Scegli un avversario
+MID_ARENA_RESULT_HEADLINE: Esito della battaglia
+MID_ARENA_TOTAL_SCORE: Punteggio totale
+MID_ARENA_THIS_SCORE: Punteggio attuale
+MID_ARENA_COMBO_SCORE: Bonus continuità
+MID_ARENA_RENEWAL_HISCORE: Nuovo record!
+MID_ARENA_STOP_VICTORIES: Serie di vittorie interrotta.
+MID_ARENA_REWARD_TYPE: Categoria
+MID_ARENA_SORT_RANK: Posizione
+MID_ARENA_SORT_OFFENSE: Attacco
+MID_ARENA_SORT_DEFENSE: Difesa
+MID_ARENA_SORT_REWARDTYPE_RANK: Categoria: posizione
+MID_ARENA_SORT_REWARDTYPE_OFFENSE: Categoria: attacco
+MID_ARENA_SORT_REWARDTYPE_DEFENSE: Categoria: difesa
+MID_ARENA_GAINED_REWARDTYPE_RANK: $aArena: ricompensa posizione - Nº $a0
+MID_ARENA_GAINED_REWARDTYPE_OFFENSE: $aArena: ricompensa attacco\nPunt. $a1
+MID_ARENA_GAINED_REWARDTYPE_DEFENSE: $aArena: ricompensa difesa\nPunt. $a2
+MID_ARENA_RANK_OUT_OF_RANGE: inclassif.
+MID_ARENA_CLOSED: Ora l'arena è chiusa.
+MID_ARENA_DIALOG_REWARD_SORT: Scegli un filtro.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Vuoi usare una spada\nda duello e procedere?
+MID_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: Non puoi più abbandonare dopo\naver visto gli eventuali avversari.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_YES: Procedi
+MID_ARENA_DIALOG_BATTLE_CONFIRM_NO: Abbandona
+MID_ARENA_DIALOG_GIVEUP_TEXT: Vuoi ritirarti?
+MID_ARENA_DIALOG_GIVEUP_WARNING: Se deciderai di non combattere,\nciò non interromperà la tua serie\ndi vittorie.
+MID_ARENA_DIALOG_GIVEUP_YES: Ritirati
+MID_ARENA_DIALOG_GIVEUP_NO: Combatti
+MID_ARENA_DIALOG_OPPONENT_DECIDE_TEXT: Vuoi affrontare questo giocatore?
+MID_ARENA_DIALOG_OPPONENT_DECIDE_YES: Combatti
+MID_ARENA_DIALOG_OPPONENT_DECIDE_NO: Abbandona
+MID_ARENA_DIALOG_SEASON_LAST10_TEXT: La stagione sta per terminare.
+MID_ARENA_DIALOG_SEASON_LAST10_WARNING: Se la battaglia si protrae oltre il termine\ndella stagione, gli esiti non conteranno.
+MID_ARENA_DIALOG_SEASON_END_TEXT: Poiché la battaglia si è protratta oltre il\ntermine della stagione, l'esito è nullo.
+MID_ARENA_ROOT_SEASONEND_TEXT: La stagione è finita. Al momento\nnon è possibile combattere.
+MID_ARENA_ROOT_SEASONEND_WARNING: Torna qui all'inizio della nuova stagione\nper combattere di nuovo.
+MID_ARENA_DIALOG_TASKKILLED_TEXT: La battaglia precedente si è conclusa\nin modo scorretto.
+MID_ARENA_DIALOG_TASKKILLED_WARNING: La serie di vittorie e il bonus continuità\nsaranno resettati.
+MID_ARENA_DIALOG_NO_CANDIDATE_TEXT: Nessun avversario trovato.
+MID_ARENA_DIALOG_NO_CANDIDATE_WARNING: Attendi e riprova più tardi.
+MID_ARENA_REWARDS_GAINED_DIALOG: Le ricompense della stagione\nprecedente possono essere\nottenute entrando nell'arena dopo\nche i risultati per quella stagione\nsono stati calcolati ma prima che\ntermini la stagione in corso.
+MID_ARENA_DIALOG_HELP_00: Combatti e vinci ricompense!
+MID_ARENA_DIALOG_HELP_01: ◆Affronta avversari in duello◆\nScegli una delle tre squadre\nnemiche. È necessaria una\nspada da duello.
+MID_ARENA_DIALOG_HELP_02: ◆Punteggio◆\nSe vinci, guadagni tanti più punti\nquanto più forte è il tuo avversario.\nOttieni vittorie consecutive per un\nbonus di continuità che si azzera\ndopo la settima vittoria consecutiva.
+MID_ARENA_DIALOG_HELP_03: ◆Record◆\nCombatti al tuo meglio per scalare\nle classifiche. Il punteggio si\nazzererà ad ogni nuova stagione.
+MID_ARENA_DIALOG_HELP_04: ◆Ricompense◆\nAl termine di ogni stagione otterrai\ndelle ricompense in base al tuo\nmiglior punteggio e alla tua\nposizione in classifica. Se il tuo\npunteggio è abbastanza alto\npotresti anche salire di rango.
+MID_ARENA_DIALOG_HELP_05: ◆Eroi bonus◆\nAd ogni stagione potrai\nraddoppiare il tuo punteggio\nusando determinati eroi.
+MID_ARENA_DIALOG_HELP_2_00: ◆Risultati difesa◆\nSe la tua squadra si difende con\nsuccesso, ottieni un bonus per\nla difesa.
+MID_ARENA_DIALOG_HELP_2_01: ◆Ricompense per la difesa◆\nIl genere di ricompensa per ogni\nstagione dipende dal tuo punteggio.
+MID_ARENA_DIALOG_HELP_2_02: ◆Difensori◆\nLa squadra impiegata per la difesa\nsarà la prima a sinistra.
+MID_ARENA_DIALOG_HELP_3_00: ◆Ricompense◆\nQui puoi controllare le ricompense\nper la stagione in corso. Cambia\nla categoria per vedere quelle\ndisponibili in base alla posizione\ne ai punteggi ottenuti in attacco\ne in difesa.
+MID_ARENA_DIALOG_HELP_3_01: ◆Attacco◆\nElenco delle ricompense in base\nal punteggio ottenuto in attacco.\n\n◆Difesa◆\nElenco delle ricompense in base\nal punteggio ottenuto in difesa.
+MID_ARENA_DIALOG_HELP_3_02: ◆Posizione◆\nElenco delle ricompense in base\nalla posizione raggiunta nell'arena.\nQuella dei primi 100.000 giocatori\nviene ricalcolata ogni ora.\nAttenzione: può volerci un po'\nfinché i dati vengono aggiornati.
+MID_ARENA_DIALOG_HELP_3_03: ◆Ricevere ricompense◆\nPuoi ricevere le ricompense della\nstagione precedente entrando\nnell'arena dopo che i risultati per\nquella stagione sono stati calcolati\nma prima che termini la stagione\nin corso.
+MID_ARENA_RANK01: Recluta 7º plotone
+MID_ARENA_RANK02: Ala Eburnea
+MID_ARENA_RANK03: Dragone
+MID_ARENA_RANK04: Zibellino Nero
+MID_ARENA_RANK05: Ritter lancia
+MID_ARENA_RANK06: Ritter verde
+MID_ARENA_RANK07: Ritter bianco
+MID_ARENA_RANK08: Generale arciere
+MID_ARENA_RANK09: Generale mago
+MID_ARENA_RANK10: Generale cavaliere
+MID_ARENA_RANK11: Gran generale
+MID_ARENA_RANK12: Generale viverna
+MID_ARENA_RANK13: Generale leggenda
+MID_ARENA_RANK14: Generale imperiale
+MID_ARENA_RANK15: Cavaliere del re
+MID_ARENA_RANK16: Guardia sacra
+MID_ARENA_RANK17: Signore dei morti
+MID_ARENA_RANK18: Nobile Hoshido
+MID_ARENA_RANK19: Nobile Nohr
+MID_ARENA_RANK20: Primo Drago
+MID_CONFIG_ON: Sì
+MID_CONFIG_OFF: No
+MID_CONFIG_ANIME_BATTLE: Animazioni\ncombattimento
+MID_CONFIG_ANIME_SUPPORT: Animazioni\nsostegno
+MID_CONFIG_ANIME_PLAYER_TURN: Tuo turno
+MID_CONFIG_OPERATION_COMMAND: Conferma\nazione
+MID_CONFIG_OPERATION_FIXED: Conferma\nmovimento
+MID_CONFIG_OPERATION_AUTO: Autom.
+MID_CONFIG_OPERATION_TAP: Toccando
+MID_CONFIG_AUTO_TURN_END: Fine turno\nautomatico
+MID_CONFIG_UNIT_AUTO_LOCK: Preferiti\nautomatici
+MID_CONFIG_MUTED: Modalità\nsilenziosa
+MID_CONFIG_BGM_VOLUME: Volume musica
+MID_CONFIG_SE_VOLUME: Volume effetti
+MID_CONFIG_VOICE_VOLUME: Volume voce
+MID_CONFIG_MAP_BEGIN: Iniziare mappa
+MID_CONFIG_MAP_BEGIN_BATTLE: Combatti!
+MID_CONFIG_MAP_BEGIN_SORTIE: Scambia posto
+MID_CONFIG_DOUBLE_TAP_FIXED: Tocca 2 volte\nper attendere
+MID_CONFIG_TALK_WAIT_FOR_AUTO_MODE: Testo battaglia\nautomatica
+MID_CONFIG_TALK_WAIT_TAP: Prosegui: tocca
+MID_CONFIG_TALK_WAIT_AUTO: Dialoghi autom.
+MID_CONFIG_AUTO_SHOW_DANGER: Mostra area\ndi attacco
+MID_CONFIG_AUTO_MODE_CONTINUATION: Battaglia autom.\ncontinua
+MID_CONFIG_AUTO_SKIP: Mappa senza\nanimazioni
+MID_CONFIG_AUTO_SKIP_ENEMY_TURN: Turno nemico
+MID_CONFIG_AUTO_SKIP_FOR_AUTO_MODE: Batt. autom. senza\nanimazioni
+MID_CONFIG_AUTO_BUTTON: Pulsante battaglia\nautomatica
+MID_CONFIG_AUTO_BUTTON_MENU: Menu
+MID_CONFIG_AUTO_BUTTON_FOOTER: Barra dei comandi
+MID_CONFIG_AUTO_BUTTON_ALL: Tutte le posizioni
+MID_CONFIG_LEVEL_SORT: Ordinare per livello
+MID_CONFIG_LEVEL_SORT_DEFAULT: Predefiniti
+MID_CONFIG_LEVEL_SORT_IGNORE_LIMIT_BREAK: Ignora Fondi
+MID_CONFIG_SEQUENTIAL_MAP_RECOMMENDATION_ENABLED: Difficoltà suggerita
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE: Mov. autom.\nnemici/alleati
+MID_CONFIG_BATTLE_ENEMY_BGM: Musiche nemici
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Semplice
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Assistito
+MID_CONFIG_BATTLE_BGM: Musica battaglia
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Solo speciale
+MID_TITLE_ASK_NAME: Scegli un nome per il tuo personaggio.
+MID_TITLE_ASK_NAME_CAPTION: Digita il nome del tuo personaggio.
+MID_TITLE_ASK_NAME_INFO: Scegli un nome di 12 caratteri al\nmassimo. Potrai cambiarlo in seguito.\nAlcuni simboli non sono utilizzabili.
+MID_TITLE_USER_NAME_PLACE_HOLDER: Nome
+MID_TITLE_USER_NAME_DEFAULT_NAME: Kiran
+MID_TITLE_USER_NAME_NG: Non usare parole che potrebbero\noffendere altri utenti.
+MID_EXTRA: Varie
+MID_EXTRA_SUBMENU: Altre impostazioni
+MID_EXTRA_ITEMLIST: Inventario
+MID_EXTRA_ITEMLIST_INFO: Una lista di tutti i tuoi oggetti.
+MID_EXTRA_ENVIRONMENT: Impostazioni
+MID_EXTRA_ENVIRONMENT_INFO: Imposta varie opzioni di gioco.
+MID_EXTRA_MOVIELIST: Filmati
+MID_EXTRA_MOVIELIST_PLAY: Guarda
+MID_EXTRA_MOVIELIST_OPENING: Sequenza iniziale
+MID_EXTRA_MOVIELIST_SUMMON: $aEvocazione di $a0
+MID_EXTRA_ACHIVEMENT_ANDROID: Obiettivi Google Play
+MID_EXTRA_ACHIVEMENT_IOS: Game Center
+MID_EXTRA_HELP: Domande frequenti
+MID_EXTRA_CUSTOMER: Servizio clienti
+MID_EXTRA_TERM: Accordo di licenza
+MID_EXTRA_PRIVACY: Policy sulla privacy
+MID_EXTRA_ABOUT: Informazioni sull'app
+MID_EXTRA_CHANGE_LANGUAGE: Cambia lingua
+MID_EXTRA_CHANGE_NAME: Cambia nome e sesso
+MID_EXTRA_PLAY_ANALYTICS: Condivisione dati di utilizzo
+MID_EXTRA_PLAY_ANALYTICS_TERMS: Fire Emblem Heroes raccoglie dati\nrelativi all'utilizzo dell'applicazione\nper migliorare prodotti e servizi e per\npersonalizzare offerte e suggerimenti\nin accordo con la Policy sulla privacy.\n\nPer non ricevere più notifiche al\ndi fuori dell'app, modifica le\nimpostazioni del tuo dispositivo.
+MID_EXTRA_PLAY_ANALYTICS_ON: Condividi i dati
+MID_EXTRA_PLAY_ANALYTICS_OFF: Non condividere i dati
+MID_EXTRA_PLAY_ANALYTICS_CONFIRM: Le impostazioni sulla condivisione\ndei dati di utilizzo sono cambiate.\nLe modifiche verranno applicate\nal riavvio dell'applicazione.
+MID_PRESENT_LIST_TITLE: Lista regali
+MID_PRESENT_LIST_RECEIVED: Accettato
+MID_PRESENT_LIST_RECEIVE: Hai accettato tutti i regali.
+MID_PRESENT_LIST_MAXIMUM: Non puoi accettare questo regalo\npoiché hai già raggiunto il limite\nmassimo per questo oggetto.
+MID_PRESENT_LIST_MAXIMUM_PART: Non hai potuto accettare alcuni\nregali poiché hai già raggiunto il\nlimite massimo per certi oggetti.
+MID_PRESENT_LIST_ERROR_RECEIVE_PART: Non hai potuto accettare alcuni\nregali a causa di un errore.
+MID_PRESENT_LIST_CONFIRM_TO_RECEIVE_ALL: Vuoi accettarli tutti?
+MID_PRESENT_LIST_RECEIVE_BUTTON: Accetta
+MID_PRESENT_LIST_RECEIVE_ALL_BUTTON: Accetta tutti
+MID_PRESENT_LIST_MINUTE: $aAncora $a0 min
+MID_PRESENT_LIST_HOUR: $aAncora $a0 h
+MID_PRESENT_LIST_DAY: $aAncora $a0 g
+MID_FRIEND_LIST_MINUTE: $aMin. dall'ultima partita: $a0
+MID_FRIEND_LIST_HOUR: $aOre dall'ultima partita: $a0
+MID_FRIEND_LIST_DAY: $aGiorni dall'ultima partita: $a0
+MID_FRIEND_LIST_WEAK: $aSett. dall'ultima partita: $a0
+MID_FRIEND_LIST_OLDEST_WEAK: Ultima partita: più di 4 sett. fa
+MID_FRIEND_YOUR_ID: Il tuo ID:
+MID_HOME_PAGE_PREV: Indietro
+MID_FRIEND_LIST_TITLE: Lista di amici
+MID_FRIEND_ACCEPT: Accetta
+MID_FRIEND_ALL_ACCEPT: Accetta tutte
+MID_FRIEND_DIALOG_ACCEPT: Vuoi accettare questa richiesta\ndi amicizia?
+MID_FRIEND_DIALOG_ALL_ACCEPT: Vuoi accettare tutte le richieste\ndi amicizia?
+MID_FRIEND_ACCEPTED: Richiesta accettata.
+MID_FRIEND_REFUSE: Rifiuta
+MID_FRIEND_ALL_REFUSE: Rifiuta tutte
+MID_FRIEND_DIALOG_REFUSE: Vuoi rifiutare la richiesta di amicizia?
+MID_FRIEND_DIALOG_ALL_REFUSE: Vuoi rifiutare tutte le richieste\ndi amicizia?
+MID_FRIEND_REFUSED: Richiesta rifiutata.
+MID_FRIEND_DELETE: Rimuovi amico
+MID_FRIEND_DELETED: Amico rimosso.
+MID_FRIEND_DELETE_CHECK: Vuoi rimuovere questo amico?
+MID_FRIEND_HELLO: Invia omaggi
+MID_FRIEND_DELETE_REQUEST: Cancella richiesta
+MID_FRIEND_ALL_DELETE_REQUEST: Cancella tutte
+MID_FRIEND_DIALOG_DELETE_REQUEST: Vuoi cancellare questa richiesta\ndi amicizia?
+MID_FRIEND_DIALOG_ALL_DELETE_REQUEST: Vuoi cancellare tutte le richieste\ndi amicizia?
+MID_FRIEND_DELETED_REQUEST: Cancellazione eseguita.
+MID_FRIEND_REQUEST: Invia richiesta
+MID_FRIEND_SEARCH_USER_ID: Cerca un ID per inviare una richiesta.
+MID_FRIEND_INPUT_SEARCH: Inserisci l'ID di un utente.
+MID_FRIEND_LIST_SEARCH_CAPTION: Inserisci l'ID da cercare.
+MID_FRIEND_ALREADY_FRIEND: Siete già amici.
+MID_FRIEND_ALREADY_SENT_REQUEST: Richiesta già inviata.
+MID_FRIEND_SEND_REQUEST: Richiesta inviata.
+MID_FRIEND_LIST_EMPTY: Nessun amico trovato.
+MID_FRIEND_SEARCH_EMPTY: Inserisci l'ID di un utente.
+MID_FRIEND_SEARCH_ERROR: L'ID inserito non è valido.
+MID_FRIEND_SEARCH_INVALID: L'ID inserito non è valido.\nDeve contenere 10 cifre.
+MID_FRIEND_SEARCH_EQUAL_MY_ID: Non puoi cercare il tuo ID.
+MID_FRIEND_REQUEST_EMPTY: Nessuna richiesta trovata.
+MID_FRIEND_APPROVAL_EMPTY: Nessuna richiesta in sospeso trovata.
+MID_PRESENT_ACTIVE_EMPTY: Nessun regalo in sospeso trovato.
+MID_PRESENT_RECEIVED_EMPTY: Non hai accettato regali\nnegli ultimi 14 giorni.
+MID_HOME_FRIEND_TALK_SEND: Hai inviato i tuoi omaggi.
+MID_HOME_FRIEND_TALK_RECEIVE: $aOmaggi ricevuti: $a0
+MID_HOME_FRIEND_TALK_RECEIVE_MAX: Hai ricevuto omaggi da più di 5 amici.
+MID_FRIEND_ERROR_SEND_REQUEST: Impossibile inviare la richiesta a\nquesto utente, perché è già tuo\namico, ha raggiunto il numero\nmassimo di amici o aveva già\nricevuto una richiesta da parte tua.
+MID_FRIEND_ERROR_ACCEPT_REQUEST: Non puoi accettare questa richiesta\npoiché hai già raggiunto il numero\nmassimo di amici consentito.
+MID_FRIEND_ERROR_REFUSE_REQUEST: Questa richiesta è già stata rifiutata.
+MID_FRIEND_ERROR_DELETE: Questo utente è già stato\nrimosso dalla lista di amici.
+MID_FRIEND_ERROR_DELETE_REQUEST: La richiesta è stata già\naccettata o rifiutata.
+MID_FRIEND_ERROR_OPERATE: Si è verificato un errore.
+MID_FRIEND_REQUEST_DIALOG: Vuoi inviare una richiesta di\namicizia a questo giocatore?
+MID_FRIEND_REQUEST_DIALOG_DECIDE: Invia
+MID_FRIEND_REQUEST_DIALOG_CANCEL: Non inviare
+MID_INVENTORY_NONE: 
+MID_INVENTORY_MY_NINTENDO_GIFT: Premio My Nintendo
+MID_ITEM_ORB: Sfera
+MID_ITEM_HELP_ORB: Usata per evocare gli eroi e per altre funzioni.
+MID_ITEM_FEATHER: Penna dell'eroe
+MID_ITEM_HELP_FEATHER: Serve a sbloccare il potenziale degli alleati.
+MID_ITEM_STAMINA: Pozione energia
+MID_ITEM_HELP_STAMINA: Dona 50 punti energia.
+MID_ITEM_ARENA: Insegna duello
+MID_ITEM_HELP_ARENA: Ripristina tutte le spade da duello.
+MID_ITEM_VOTE: Stendardo sfida
+MID_ITEM_HELP_VOTE: Permette di partecipare alla sfida ai voti.
+MID_ITEM_RESURRECTION: Protezione luce
+MID_ITEM_HELP_RESURRECTION: Utilizzabile in battaglia. Ripristina tutti i PS,\nil movimento e le abilità speciali degli alleati.
+MID_ITEM_EXP_RED1: Scheggia scarlatta
+MID_ITEM_HELP_EXP_RED1: Permette agli alleati di tipo rosso di livello 19\no inferiore di salire di livello.
+MID_ITEM_EXP_RED2: Cristallo scarlatto
+MID_ITEM_HELP_EXP_RED2: Permette agli alleati di tipo rosso di livello 20\no superiore di salire di livello.
+MID_ITEM_EXP_BLUE1: Scheggia azzurra
+MID_ITEM_HELP_EXP_BLUE1: Permette agli alleati di tipo blu di livello 19\no inferiore di salire di livello.
+MID_ITEM_EXP_BLUE2: Cristallo azzurro
+MID_ITEM_HELP_EXP_BLUE2: Permette agli alleati di tipo blu di livello 20\no superiore di salire di livello.
+MID_ITEM_EXP_GREEN1: Scheggia smeraldo
+MID_ITEM_HELP_EXP_GREEN1: Permette agli alleati di tipo verde di livello 19\no inferiore di salire di livello.
+MID_ITEM_EXP_GREEN2: Cristallo smeraldo
+MID_ITEM_HELP_EXP_GREEN2: Permette agli alleati di tipo verde di livello 20\no superiore di salire di livello.
+MID_ITEM_EXP_NEUTRAL1: Scheggia ialina
+MID_ITEM_HELP_EXP_NEUTRAL1: Permette agli alleati di tipo neutro di livello 19\no inferiore di salire di livello.
+MID_ITEM_EXP_NEUTRAL2: Cristallo ialino
+MID_ITEM_HELP_EXP_NEUTRAL2: Permette agli alleati di tipo neutro di livello 20\no superiore di salire di livello.
+MID_ITEM_EXP_ALL1: Scheggia universale
+MID_ITEM_HELP_EXP_ALL1: Permette agli alleati di qualsiasi tipo, e di\nlivello 19 o inferiore, di salire di livello.
+MID_ITEM_EXP_ALL2: Cristallo universale
+MID_ITEM_HELP_EXP_ALL2: Permette agli alleati di qualsiasi tipo, e di\nlivello 20 o superiore, di salire di livello.
+MID_ITEM_PROMOTION_RED1: Medaglia scarlatta
+MID_ITEM_HELP_PROMOTION_RED1: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo rosso con 3 ★ o meno.
+MID_ITEM_PROMOTION_RED2: Croce scarlatta
+MID_ITEM_HELP_PROMOTION_RED2: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo rosso con 4 ★.
+MID_ITEM_PROMOTION_BLUE1: Medaglia azzurra
+MID_ITEM_HELP_PROMOTION_BLUE1: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo blu con 3 ★ o meno.
+MID_ITEM_PROMOTION_BLUE2: Croce azzurra
+MID_ITEM_HELP_PROMOTION_BLUE2: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo blu con 4 ★.
+MID_ITEM_PROMOTION_GREEN1: Medaglia smeraldo
+MID_ITEM_HELP_PROMOTION_GREEN1: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo verde con 3 ★ o meno.
+MID_ITEM_PROMOTION_GREEN2: Croce smeraldo
+MID_ITEM_HELP_PROMOTION_GREEN2: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo verde con 4 ★.
+MID_ITEM_PROMOTION_NEUTRAL1: Medaglia grigia
+MID_ITEM_HELP_PROMOTION_NEUTRAL1: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo neutro con 3 ★ o meno.
+MID_ITEM_PROMOTION_NEUTRAL2: Croce grigia
+MID_ITEM_HELP_PROMOTION_NEUTRAL2: Sblocca il potenziale degli alleati. Più una ★\nagli alleati di tipo neutro con 4 ★.
+MID_ITEM_GAIN_QUANTITY: $aHai ricevuto: $a0 x$a1!
+MID_ITEM_GAIN_UNIT: $aHai ricevuto: $a0!
+MID_ITEM_PRESENT_QUANTITY: $aNella lista dei regali è stato\naggiunto il seguente oggetto:\n$a0 x$a1\n
+MID_ITEM_PRESENT_UNIT: $aNella lista dei regali è stato\naggiunto il seguente oggetto:\n$a0!
+MID_ITEM_DIRECT_GAIN_QUANTITY: $aHai ottenuto: $a0 x$a1!\n*Ricompensa aggiunta al tuo inventario.
+MID_ITEM_DIRECT_GAIN_UNIT: $aHai ricevuto: $a0!\n*Ricompensa aggiunta alle Unità.
+MID_LOAD_RESUME_CONFIRM: È stato trovato un segnalibro.\nVuoi riprendere da questo punto?
+MID_LOAD_RESUME_DECIDE: Sì
+MID_LOAD_RESUME_CANCEL: No
+MID_LOAD_DISCARD_CONFIRM: Vuoi eliminare il segnalibro?
+MID_LOAD_DISCARD_DECIDE: Elimina
+MID_LOAD_DEVICE_CONFIRM: È possibile che esista un segnalibro\nsu un altro dispositivo. Vuoi eliminare\nquello su questo dispositivo?
+MID_LOAD_DEVICE_DECIDE: Sì
+MID_LOAD_DEVICE_CANCEL: No
+MID_LOAD_RESUME_OTHER_DEVICE: Devi riprendere la partita con\nil dispositivo con il quale hai\ngiocato l'ultima volta.
+MID_LOAD_DATA_NOT_FOUND_CONFIRM: Impossibile ottenere i dati.\nIl segnalibro verrà eliminato.
+MID_LOAD_FAILED_CONFIRM: Impossibile riprendere la partita.
+MID_MAP_TURN: $aTurno $a0
+MID_MAP_TURN_WITH_LIMIT: $aTurno $a0/$a1
+MID_MAP_OBSTACLE: Ostacolo
+MID_MAP_AUTO: Auto
+MID_MAP_AUTO_CONFIRM: Vuoi attivare la battaglia automatica?
+MID_MAP_AUTO_DECIDE: Attiva
+MID_MAP_TURN_END_CONFIRM: Vuoi concludere la tua fase?
+MID_MAP_TURN_END_DECIDE: Fine fase
+MID_MAP_SURRENDER: Resa
+MID_MAP_SURRENDER_CONFIRM: Vuoi arrenderti?
+MID_MAP_SURRENDER_WARNING: Se ti arrendi, perderai l'esperienza\nacquisita su questa mappa.
+MID_MAP_SURRENDER_DECIDE: Resa
+MID_MAP_CONTINUE_CONFIRM: Vuoi continuare?
+MID_MAP_CONTINUE_WARNING: Se abbandoni, perderai l'esperienza\nacquisita su questa mappa.
+MID_MAP_CONTINUE_DECIDE: Continua
+MID_MAP_CONTINUE_CANCEL: Abbandona
+MID_MAP_RESURRECTION: Protezione luce
+MID_MAP_RESURRECTION_CONFIRM_ITEM: Vuoi utilizzare 1 protezione luce?\nIl suo impiego avrà i seguenti effetti:\n・Gli alleati caduti resusciteranno\n・Tutti i PS saranno ripristinati\n・Gli alleati potranno agire di nuovo\n・La abilità speciali saranno attivate
+MID_MAP_RESURRECTION_CONFIRM_ORB: Vuoi pagare 1 sfera?\nIl suo impiego avrà i seguenti effetti:\n・Gli alleati caduti resusciteranno\n・Tutti i PS saranno ripristinati\n・Gli alleati potranno agire di nuovo\n・La abilità speciali saranno attivate
+MID_MAP_RESURRECTION_WARNING: Il numero dei turni non ripartirà da uno.
+MID_MAP_RESURRECTION_DECIDE_ITEM: Procedi
+MID_MAP_RESURRECTION_DECIDE_ORB: Paga
+MID_MAP_RESURRECTION_CANCEL: Annulla
+MID_MAP_GAIN_SKILL_POINT: $aPA +$a0
+MID_MAP_GAIN_HEROISM_POINT: $a+$a0
+MID_MISSION: Imprese e missioni
+MID_MISSION_NONE: Non ci sono imprese da compiere.
+MID_MISSION_STRATUM: Difficoltà
+MID_MISSION_STRATUM_NORMAL: Normale
+MID_MISSION_STRATUM_HARD: Difficile
+MID_MISSION_STRATUM_LUNATIC: Folle
+MID_MISSION_PROGRESS: $aProgresso: $a0/$a1
+MID_MISSION_PROGRESS_ACHIEVED: Impresa compiuta!
+MID_MISSION_PROGRESS_RECEIVED: Ricompensa già ricevuta.
+MID_MISSION_EXPERIENCE: Ci sono nuove imprese da compiere!
+MID_MISSION_APPEAR_STRATUM: Hai compiuto tutte le imprese. Puoi\nprovare a compierne di nuove se\nselezioni un livello di difficoltà diverso.
+MID_MISSION_PROGRESS_DIALOG_TITLE: Progresso impresa
+MID_MISSION_PROGRESS_DIALOG_TITLE_ACHIEVED: Impresa compiuta!
+MID_MISSION_PROGRESS_DIALOG_PROGRESS: $a$a0/$a2 → $a1/$a2
+MID_MISSION_PROGRESS_DIALOG_PROGRESS_HELP: $aCompleta $a0 altra/e volta/e\nper ottenere un premio.
+MID_MISSION_PROGRESS_DIALOG_ACHIEVED_HELP: Reclama la tua ricompensa\ndallo schermo Imprese e\nmissioni.
+MID_MOVIE_SKIP: Vuoi saltare questo filmato?
+MID_MOVIE_SKIP_BUTTON: Salta
+MID_SHOP: Emporio
+MID_SHOP_COMMON_CANCEL: Indietro
+MID_SHOP_ORB_BUY_TITLE: Compra sfere
+MID_SHOP_ORB_CAUTION1: Leggi le informazioni in basso in questa\nfinestra prima di selezionare l'opzione con\nil numero di sfere che vuoi acquistare.
+MID_SHOP_ORB_CAUTION2: $aLe sfere acquistate su sistemi operativi\ndiversi da $a0 non sono utilizzabili\nsu dispositivi $a0.
+MID_SHOP_ORB_CAUTION_IOS: iOS
+MID_SHOP_ORB_CAUTION_ANDROID: Android
+MID_SHOP_ORB_CAUTION3: Puoi controllare il totale delle sfere\nacquistate e ricevute come bonus\nnello schermo Saldo sfere.
+MID_SHOP_ORB_BUY_ACTION: Compra
+MID_SHOP_ORB_BUY_BONUS:  bonus
+MID_SHOP_ORB_CANT_BUY: Effettuando questo acquisto,\nsupereresti il limite massimo.
+MID_SHOP_ORB_NEED_BUY: Non hai abbastanza sfere. Vuoi\ncomprarne altre?
+MID_SHOP_ORB_RESULT_SUCCESS: $aHai acquistato $a0 sfere.
+MID_SHOP_ORB_RESULT_FAILURE: L'acquisto di sfere non\nè andato a buon fine.
+MID_SHOP_ORB_RECOVER_TO_RETRY: L'acquisto di sfere non è andato\na buon fine. I dati errati verranno\nora rimossi.
+MID_SHOP_ORB_RECOVER_TO_TITLE: I dati errati sono stati rimossi.\nTornerai ora allo schermo\ndel titolo.
+MID_SHOP_ORB_RESULT_CANCEL: L'acquisto è stato annullato.
+MID_SHOP_ORB_FSA: 資金決済法に基づく表記
+MID_SHOP_ORB_SCTA: 特定商取引法に基づく表記
+MID_SHOP_ELITE_TITLE: Migliora castello
+MID_SHOP_ELITE_CASTLE_LV0: Essenziale
+MID_SHOP_ELITE_CASTLE_LV1: Con torce
+MID_SHOP_ELITE_CASTLE_LV2: Con colonne
+MID_SHOP_ELITE_CASTLE_LV3: Con tappeto
+MID_SHOP_ELITE_CASTLE_LV4: Ornato
+MID_SHOP_ELITE_CASTLE_LV5: Regale
+MID_SHOP_CHANGE_WP: Cambia castello
+MID_SHOP_CHANGE_WP_TITLE: Seleziona un castello.
+MID_SHOP_CHANGE_WP_CHOSEN: Attuale
+MID_SHOP_ELITE_EFFECT: $aAumenta l'Esp del $a0%!
+MID_SHOP_ELITE_HAVE_BOUGHT: Acquistato
+MID_SHOP_ELITE_CONFIRM1: $aVuoi pagare $a0 sfera/e\ne acquistare il castello\n"$a1"?\n\nI miglioramenti al castello,\novvero alla tua base operativa,\nconferiscono un aumento\npermanente dell'Esp.\n\nPuoi anche cambiare tipo di castello\nscegliendo tra quelli che hai\ngià costruito.
+MID_SHOP_ELITE_CONFIRM2: $aIl bonus di incremento dell'Esp\npasserà dal $a0% al $a1%.
+MID_SHOP_ELITE_BUY: Paga
+MID_SHOP_ELITE_RESULT: $aHai pagato $a0 sfera/e per costruire\nil castello "$a1".
+MID_SHOP_RECOVER: Paga
+MID_SHOP_RECOVER_WITH_ITEM: Ripristina
+MID_SHOP_STAMINA_TITLE: Ripristina energia
+MID_SHOP_STAMINA_CONFIRM_ITEM: Vuoi usare una pozione per\nripristinare la tua energia?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM: Non hai energia sufficiente. Vuoi\nusare una pozione per ripristinare\nla tua energia?
+MID_SHOP_STAMINA_CONFIRM_ORB: Vuoi pagare 1 sfera per\nriprisitinare la tua energia?
+MID_SHOP_STAMINA_NOTENOUGH_ORB: Non hai energia sufficiente. Vuoi\npagare 1 sfera per ripristinare\nla tua energia?
+MID_SHOP_STAMINA_NOTNECESSARY: La tua energia attuale è al massimo.
+MID_SHOP_STAMINA_RESULT_POTION: Hai usato una pozione per\nripristinare la tua energia.
+MID_SHOP_STAMINA_RESULT_ORB: Hai pagato 1 sfera per ripristinare\nla tua energia.
+MID_SHOP_ARENA_TITLE: Ripristina spade da duello
+MID_SHOP_ARENA_CONFIRM_ITEM: Vuoi usare un'insegna duello per\nripristinare le spade da duello?
+MID_SHOP_ARENA_NOTENOUGH_ITEM: Non hai più spade da duello.\nVuoi usare un'insegna duello\nper ripristinarle?
+MID_SHOP_ARENA_CONFIRM_ORB: Vuoi pagare 1 sfera per rispristinare\nle spade da duello?
+MID_SHOP_ARENA_NOTENOUGH_ORB: Non hai più spade da duello. Vuoi\npagare una sfera per ripristinarle?
+MID_SHOP_ARENA_NOTNECESSARY: Puoi ripristinare le spade da duello\nsolo quando non ne hai più.
+MID_SHOP_ARENA_RESULT_POTION: Hai usato un'insegna duello per\nripristinare le spade da duello.
+MID_SHOP_ARENA_RESULT_ORB: Hai pagato 1 sfera per ripristinare\nle spade da duello.
+MID_SHOP_EXPAND_TITLE: Aggiungi alleati
+MID_SHOP_EXPAND_CONFIRM: Vuoi pagare 1 sfera per aumentare\nil numero massimo dei tuoi alleati?
+MID_SHOP_EXPAND_DECIDE: Paga
+MID_SHOP_EXPAND_CANT_UNIT: Hai raggiunto il numero massimo\ndi alleati.
+MID_SHOP_EXPAND_RESULT: Hai pagato 1 sfera per aumentare\nil numero massimo dei tuoi alleati.
+MID_SHOP_UNIT_FULL_INFOR: Hai superato il numero massimo\ndi alleati.
+MID_SHOP_UNIT_FULL_CAN_EXPAND: Puoi pagare delle sfere per aumentare\nil numero massimo di alleati o ridurre\nil loro numero attuale.
+MID_SHOP_UNIT_FULL_NO_EXPAND: Devi rimuovere dei personaggi\nse vuoi aggiungerne di nuovi.
+MID_SHOP_UNIT_FULL_EXPAND: Paga
+MID_SHOP_UNIT_FULL_MOVE: Vai al menu Unità
+MID_SHOP_LIMIT_TEENAGER: Meno di 20
+MID_SHOP_LIMIT_TEENAGER_TEXT: $aMax $a0 sfere (acquistate) al mese
+MID_SHOP_LIMIT_ADULT: 20 o più
+MID_SHOP_LIMIT_ADULT_TEXT: Nessun limite
+MID_SHOP_LIMIT_DESCRIPTION: Il numero delle sfere che si possono\nacquistare cambia in base all'età.\nSeleziona la tua età.
+MID_SHOP_RECOVER_PURCHASE: I dati errati relativi all'acquisto\nsono stati cancellati.\n
+MID_STAGE_SELECT_SCENARIO: Mappe storia
+MID_STAGE_SELECT_EVENT: Mappe speciali
+MID_STAGE_SELECT_ENCOUNT: Torre allenamento
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_00: Ottieni Esp e ricompense!
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_01: ◆La torre di allenamento◆\nQui i tuoi alleati potranno\naccumulare punti esperienza.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_02: ◆Basi◆\nTerreno e nemici possono cambiare\nogni volta che accedi alla torre.\nPrima di combattere, verifica la\ntipologia dei nemici e crea la\nsquadra più adatta.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_03: ◆Ricompense◆\nAlcune ricompense permettono\nagli alleati di salire di livello, altre\ndi sbloccare il loro potenziale.\nQueste categorie includono vari\ntipi di oggetti che cambiano\nin base al giorno.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_04: ◆Schegge e cristalli◆\nPer la prima vittoria del giorno\nnella torre potrai ottenere una\nscheggia che ti servirà per salire\ndi livello.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_05: ◆Medaglie e croci◆\nPer ogni vittoria successiva\npotrai ricevere una medaglia\nper sbloccare il potenziale delle\nunità e aumentarne la rarità\n(misurata in ★).\n\nPuoi ottenere le medaglie solo a\npartire dal sesto piano della torre.
+MID_STAGE_SELECT_ARENA: Arena
+MID_STAGE_SELECT_VOTE: ???
+MID_STAGE_SELECT_DIFFICULTY0: Normale
+MID_STAGE_SELECT_DIFFICULTY1: Difficile
+MID_STAGE_SELECT_DIFFICULTY2: Folle
+MID_STAGE_SELECT_DETAIL_DECREASE_EXP: Otterrai meno Esp e PA su questa\nmappa dato che l'hai già superata.
+MID_STAGE_SELECT_DETAIL_RULE: Obiettivo
+MID_STAGE_SELECT_DETAIL_FIRST_REWARD: Ricompensa 1ª vittoria
+MID_STAGE_SELECT_DETAIL_REWARD: Ricompensa
+MID_STAGE_SELECT_DETAIL_DECIDE: Combatti!
+MID_STAGE_SELECT_DETAIL_FAILED: Impossibile avviare la battaglia.
+MID_STAGE_SELECT_DETAIL_INSUFFICIENT_UNIT: Membri della squadra insufficienti.
+MID_STAGE_SELECT_RULE_SURVIVAL: $aUnità in vita: $a0
+MID_STAGE_SELECT_RULE_TURN: $aMax turni: $a0
+MID_STAGE_SELECT_RULE_NO_CONTINUE: Non puoi usare la protezione luce.
+MID_STAGE_OPEN_NEW_CHAPTER_MAINSTORY: È stato aggiunto un nuovo capitolo\nalla storia principale.
+MID_STAGE_OPEN_NEW_CHAPTER_SIDESTORY: È stato aggiunto un nuovo capitolo\nalle appendici.
+MID_STAGE_OPEN_NEW_DIFFICULTY: $a$a0: sono stati aggiunti\nnuovi livelli di difficoltà.
+MID_STAGE_OPEN_OTHER_THAN_SCENARIO: Sono ora disponibili le mappe\nspeciali, l'arena e altro.
+MID_STAGE_OPEN_FIRST_ENCOUNT: Hai sbloccato la torre di allenamento.
+MID_STAGE_OPEN_NEW_ENCOUNT: È stato aggiunto un nuovo piano\nalla torre di allenamento.
+MID_STAGE_SELECT_BONUS_NOTIFICATION1: $aBonus Esp x$a0!
+MID_STAGE_SELECT_BONUS_NOTIFICATION2: $aBonus PA x$a0!
+MID_STAGE_SELECT_BONUS_NOTIFICATION3: $aBonus PA ed Esp x$a0!
+MID_STAGE_SELECT_SCENARIO_MAIN: Storia principale
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO: Combatti contro l'Impero\nEmbliano per portare la\npace nel mondo di Zenith.
+MID_STAGE_SELECT_SCENARIO_SUB: Appendici
+MID_STAGE_SELECT_SCENARIO_SUB_INFO: Viaggia in altri mondi alla\nricerca degli eroi del posto!
+MID_SUMMON_TITLE: Evoca eroi
+MID_SUMMON_HELP_DIALOG_00: Evoca eroi come alleati!
+MID_SUMMON_HELP_DIALOG_01: Colore della pietra = tipo di eroe
+MID_SUMMON_HELP_DIALOG_02: Evoca più eroi e risparmia!
+MID_SUMMON_HELP_BONUS: Se evochi cinque eroi durante lo stesso\nrituale, risparmierai cinque sfere!
+MID_SUMMON_DECIDE: Evoca
+MID_SUMMON_PAY: Paga
+MID_SUMMON_CANCEL: Smetti
+MID_SUMMON_CANCEL_CONFIRM: Vuoi smettere di evocare eroi?
+MID_SUMMON_CANCEL_WARNING: Se smetti di evocare eroi, il numero di\nsfere e pietre necessarie sarà resettato.
+MID_SUMMON_PROBABILITY: Probabilità
+MID_SUMMON_PROBABILITY_TEXT: Probabilità di comparsa degli\neroi in base alla rarità.
+MID_SUMMON_PROBABILITY_NORMAL_3: 3 ★
+MID_SUMMON_PROBABILITY_NORMAL_4: 4 ★
+MID_SUMMON_PROBABILITY_NORMAL_5: 5 ★
+MID_SUMMON_PROBABILITY_PICKUP_4: 4 ★ (Prefer.)
+MID_SUMMON_PROBABILITY_PICKUP_5: 5 ★ (Prefer.)
+MID_SUMMON_PROBABILITY_PERCENT: %
+MID_SUMMON_DETAIL: Dettagli
+MID_SUMMON_PURCHASE_CONFIRM: Devi pagare cinque sfere\nper evocare un eroe.
+MID_SUMMON_PURCHASE_CONFIRM_CONTINUE: $aVuoi continuare a evocare eroi? Se\npaghi $a0 sfere potrai evocarne uno.
+MID_SUMMON_FIRST_OPERATION: Scegli una pietra. Il suo colore\nindica il tipo di eroe evocato.
+MID_SUMMON_FIRST_OPERATION_CONFIRM: Vuoi usare questa pietra?
+MID_SUMMON_MOVE: Riprendi
+MID_SUMMON_MOVE_CONFIRM: L'ultimo rituale di evocazione è stato\ninterrotto e verrà ora ripreso.
+MID_SUMMON_RESULT: Eroi evocati in questo rituale.
+MID_SUMMON_CANCEL_CONTINUE: Continua a evocare
+MID_SUMMON_ERROR_LIST_FAILED: Impossible ottenere la lista. Controlla la tua\nconnessione Internet e riprova.
+MID_SUMMON_ERROR_NO_LIST: Non puoi evocare eroi in questo momento.
+MID_SUMMON_STONE_NEUTRAL: Pietra neutra: evoca un eroe di tipo neutro\narmato di arco, bastone, ecc.
+MID_SUMMON_STONE_RED: Pietra rossa: evoca un eroe di tipo rosso,\narmato di spada, tomo rosso, ecc.
+MID_SUMMON_STONE_BLUE: Pietra blu: evoca un eroe di tipo blu\narmato di lancia, tomo blu, ecc.
+MID_SUMMON_STONE_GREEN: Pietra verde: evoca un eroe di tipo verde\narmato di ascia, tomo verde, ecc.
+MID_SUMMON_REVIEW: Grazie per aver usato questa\napplicazione. Ti va di scrivere\nuna recensione?
+MID_SUMMON_REVIEW_YES: Sì
+MID_SUMMON_REVIEW_LATER_ON: Più tardi
+MID_SUMMON_REVIEW_NO: No
+MID_SUMMON_REVIEW_CUSTOMER_SUPPORT: Servizio clienti
+MID_UNIT_EDIT_EMPTY: Vuoto
+MID_UNIT_EDIT_UNSET: Rimuovi
+MID_UNIT_EDIT_BOX: Alleati
+MID_UNIT_EDIT_SELECTING: Selezionati
+MID_UNIT_EDIT_GAIN: Pari a:
+MID_UNIT_EDIT_EXPEND: (Costo)
+MID_UNIT_EDIT_SORT: Ordina: 
+MID_UNIT_EDIT_SORT_CONFIRM: Scegli un criterio.
+MID_UNIT_EDIT_SORT_KEY: Evocazione
+MID_UNIT_EDIT_SORT_PERSON: Provenienza
+MID_UNIT_EDIT_SORT_LOCK: Preferiti
+MID_UNIT_EDIT_FILTER: Filtro: 
+MID_UNIT_EDIT_FILTER_CONFIRM: Scegli un filtro.
+MID_UNIT_EDIT_SKILL_HELP_OFF: Dettagli no
+MID_UNIT_EDIT_SKILL_HELP_ON: Dettagli sì
+MID_UNIT_EDIT: Unità
+MID_UNIT_EDIT_ORGANIZE: Squadre
+MID_UNIT_EDIT_SKILL_LEARN: Apprendi abilità
+MID_UNIT_EDIT_SKILL_LEARN_HELP1: Scegli il personaggio che apprenderà l'abilità.
+MID_UNIT_EDIT_SKILL_LEARN_HELP2: Scegli un'abilità.
+MID_UNIT_EDIT_SKILL_LEARN_CONFIRM: Vuoi apprendere quest'abilità?
+MID_UNIT_EDIT_SKILL_LEARN_DECIDE: Apprendi
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CONFIRM: Vuoi attivare quest'abilità?
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_DECIDE: Attiva
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CANCEL: Non attivare
+MID_UNIT_EDIT_SKILL_EQUIP: Attiva abilità
+MID_UNIT_EDIT_SKILL_EQUIP_HELP1: Scegli il personaggio da modificare.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP2: Scegli un'abilità da attivare.
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM: $aVuoi usare $a0 punti energia per\ncambiare le abilità attivate?
+MID_UNIT_EDIT_SKILL_EQUIP_DECIDE: Cambia
+MID_UNIT_EDIT_SKILL_EQUIP_COMPLETE_CONFIRM: Cambio effettuato.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_CONFIRM: Vuoi annullare i cambi?
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_WARNING: I cambi non verranno effettuati.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_DECIDE: Annulla
+MID_UNIT_EDIT_LEVEL_UP: Incrementa livello
+MID_UNIT_EDIT_LEVEL_UP_HELP1: Scegli un personaggio.
+MID_UNIT_EDIT_LEVEL_UP_HELP2: Scegli il livello da raggiungere.
+MID_UNIT_EDIT_LEVEL_UP_CONFIRM: Vuoi incrementare il livello dell'unità?
+MID_UNIT_EDIT_PROMOTION: Sblocca potenziale
+MID_UNIT_EDIT_PROMOTION_HELP1: $aScegli un personaggio di livello $a0 o superiore.
+MID_UNIT_EDIT_PROMOTION_HELP2: $aLivello e parametri torneranno a essere\nquelli iniziali di un eroe da $a0 ★.
+MID_UNIT_EDIT_PROMOTION_CONFIRM: Vuoi incrementare il numero di ★?
+MID_UNIT_EDIT_PROMOTION_DECIDE: Incrementa
+MID_UNIT_EDIT_SELL: Congeda
+MID_UNIT_EDIT_SELL_HELP1: Scegli quali personaggi congedare.
+MID_UNIT_EDIT_SELL_HELP2: Congeda i personaggi selezionati\nper ottenere le penne dell'eroe.
+MID_UNIT_EDIT_SELL_CONFIRM: Vuoi congedare i personaggi\nselezionati?
+MID_UNIT_EDIT_SELL_WARNING: I personaggi che congedi saranno\neliminati dalla tua lista.
+MID_UNIT_EDIT_SELL_DECIDE: Congeda
+MID_UNIT_EDIT_SELL_COMPLETE_CONFIRM: I personaggi selezionati sono\nstati congedati.
+MID_UNIT_EDIT_SENIOR: Crescita avanzata
+MID_UNIT_EDIT_SKILL_STATUS_EQUIP: Attivata
+MID_UNIT_EDIT_SKILL_STATUS_LEARNED: Appresa
+MID_UNIT_EDIT_SKILL_STATUS_INSUFFICIENT_PREREQUISITE:  
+MID_UNIT_EDIT_SKILL_STATUS_NON_INHERITABLE: Non eredit.
+MID_UNIT_EDIT_SKILL_STATUS_UNLEARNED: Non appr.
+MID_UNIT_EDIT_SKILL_WARNING_WEAPON: Questa abilità non può essere ereditata\na causa delle limitazioni alle armi.
+MID_UNIT_EDIT_SKILL_WARNING_MOVE: Questa abilità non può essere ereditata\na causa del tipo di movimento.
+MID_UNIT_EDIT_SKILL_WARNING_FIXED: Questa abilità non può essere ereditata\nin quanto esclusiva.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN1: $aPrerequisito: $a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN2: $aPrerequisiti: $a0\no $a1.
+MID_UNIT_EDIT_LIMITBREAK: Fondi alleati
+MID_UNIT_EDIT_LIMITBREAK_DESTINATION: Riceve
+MID_UNIT_EDIT_LIMITBREAK_SOURCE: Dona
+MID_UNIT_EDIT_LIMITBREAK_HELP1: Scegli due personaggi identici da fondere.
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LVSP: $aVuoi trasferire $a0 PA all'unità\nricevente e migliorarne i parametri?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LV: Vuoi migliorare i parametri\ndell'unità ricevente?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_SP: $aVuoi trasferire $a0 PA\nall'unità ricevente?
+MID_UNIT_EDIT_LIMITBREAK_WARNING: Se l'alleato donatore ha un numero di ★\npari o superiore a quello del ricevente,\nquest'ultimo avrà un incremento dei\nparametri e dei PA. In caso contrario\nriceverà solo PA.
+MID_UNIT_EDIT_LIMITBREAK_WARNING2: $aL'unità ha già ottenuto +$a0, per cui\nriceverà dei PA ma non un ulteriore\nincremento dei parametri.
+MID_UNIT_EDIT_LIMITBREAK_WARNING3: $aLa somma dei PA delle due unità supera\nil limite massimo. Verranno persi $a0 PA.
+MID_UNIT_EDIT_LIMITBREAK_WARNING4: Questa unità ha già raggiunto il limite\nmassimo di PA e non può riceverne altri.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LVSP: $aVuoi migliorare i parametri dell'unità\nricevente e trasferire $a0 PA?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LV: Vuoi migliorare i parametri\ndell'unità ricevente?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_SP: $aVuoi trasferire $a0 PA\nall'unità ricevente?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_WARNING: Una volta completata la fusione,\nl'unità donatore sparirà.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_LV: Incrementa
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_SP: Trasferisci
+MID_UNIT_EDIT_LIMITBREAK_BEFORE: Prima
+MID_UNIT_EDIT_LIMITBREAK_AFTER: Dopo
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00: Crea squadre con le tue unità!
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_01: ◆Modificare le squadre◆\nQui puoi modificare la squadra\nche mandi in battaglia. L'unità\nnella casella a sinistra sarà\nil leader.
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_02: ◆Aggiungere alleati◆\nPer aggiungere un alleato, tocca\nprima una casella poi l'icona del\npersonaggio prescelto.\n\n◆Rimuovere alleati◆\nSeleziona l'alleato che vuoi\nrimuovere dalla squadra, quindi\ntocca Rimuovi.
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_03: ◆Cambiare squadra◆\nTocca le frecce a sinistra o a destra\ndelle caselle per cambiare squadra.\n\n◆Profili degli alleati◆\nTocca per qualche istante l'icona\ndi un personaggio per visualizzarne\nil profilo.
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_00: Usa i PA per imparare le abilità!
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_01: ◆Apprendere abilità◆\nI tuoi alleati possono apprendere\nnuove abilità usando i PA.\n\n◆Ottenere punti abilità (PA)◆\nGli alleati ricevono PA quando\nsalgono di livello (in genere\nsconfiggendo unità nemiche).
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_02: ◆Sbloccare il potenziale◆\nGli alleati possono apprendere\nabilità più potenti sbloccando\nil loro potenziale.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_00: Modifica le abilità attivate!
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_01: ◆Attivare le abilità◆\nQui puoi cambiare le abilità attivate\ndalle tue unità.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_02: ◆Tipi di abilità◆\nCi sono due tipi di abilità, attive\ne passive. Le prime vengono\nattivate dalle tue azioni, mentre\nquelle passive devono essere\nattivate prima della battaglia.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_03: ◆Abilità attive◆\nCi sono tre tipi di abilità attive:\ncon l'arma, di aiuto e speciale.\nPuoi usarle in battaglia dopo\naverle attivate.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_04: ◆Abilità passive◆\nCi sono tre tipi di abilità passive:\nA, B e C. Queste abilità hanno\nefficacia dopo essere state attivate.\nPuoi attivarne una per ogni tipo.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_00: Sali di livello con schegge e cristalli
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_01: ◆Oggetti per salire di livello◆\nPuoi aumentare il livello dei tuoi\nalleati usando schegge e cristalli.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_02: ◆Tipi di schegge e cristalli◆\nLe schegge e i cristalli devono\nessere dello stesso colore della\ntua unità. Quelli universali possono\nessere usati per qualunque unità.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: ◆Uso di schegge e cristalli◆\nLe unità di livello 19 o inferiore\nhanno bisogno di schegge per\nsalire di livello mentre quelle di\nlivello 20 o superiore di cristalli.\nQuesti ultimi possono essere\nottenuti a partire dal sesto\npiano della torre di allenamento.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Converti gli eroi in penne dell'eroe!
+MID_UNIT_EDIT_SELL_HELP_DIALOG_01: ◆Congedare unità◆\nQuando congedi una o più delle tue\nunità, riceverai in cambio alcune\npenne dell'eroe. Gli eroi congedati\nverranno eliminati dalle tue file.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_02: ◆Preferiti◆\nSe aggiungi un'unità ai preferiti,\nnon potrai congedarla o utilizzarla\nin modi che potrebbero portare\nalla sua perdita.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: ◆Aggiungere unità ai preferiti◆\nTocca l'icona a forma di cuore in\nalto a sinistra sul profilo dell'unità\ne poi seleziona il colore che vuoi\nusare. Tocca Rimuovi per\nrimuoverla.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Sblocca il potenziale per più ★!
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: ◆Sbloccare il potenziale◆\nUsando determinati oggetti puoi\nsbloccare il potenziale e aumentare\nle ★ degli alleati di livello 20 o\nsuperiore. Il livello scenderà a 1,\nma i parametri miglioreranno e\npotranno usare abilità più potenti.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: ◆Unità con 1, 2 o 3 ★◆\nPer sbloccare il potenziale di\nqueste unità, ti serviranno le\npenne dell'eroe e le medaglie.\nPuoi ottenere le prime in vari\nmodi (es. nell'arena), mentre\nle medaglie si conseguono solo\nnella torre di allenamento.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_03: ◆Unità con 4 ★◆\nPer sbloccare il potenziale di\nqueste unità, ti serviranno le\npenne dell'eroe e le croci.\nPotrai ottenere queste ultime\ncombattendo nella torre di\nallenamento, dal sesto piano\nin poi.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_04: ◆Perdita dei bonus ai parametri◆\nIncrementando il numero di ★ di\nun alleato, si perdono i bonus ai\nparametri derivanti dalla fusione\ndei personaggi.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_00: Fondi eroi uguali e potenziane uno!
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_01: ◆Fondere unità◆\nPuoi incrementare i parametri di\nun alleato e i suoi PA fondendolo\ncon un'unità che abbia lo stesso\nnome ed epiteto. L'unità\ndonatore verrà perduta.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_02: ◆Incremento dei parametri◆\nSe le due unità hanno lo stesso\nnumero di ★, o se il numero di ★\ndel donatore è più alto, il ricevente\notterrà un incremento ai parametri\ne alcuni PA. In caso contrario\notterrà solo alcuni PA.\n\nNota: sbloccando il potenziale\ndell'unità ricevente, questa\nperderà i bonus ottenuti con\nla fusione.
+MID_NOT_EQQUIPPED: Impossibile usare:
+MID_EQQUIPPED_ONLY_PERSON: Abilità disponibile solo per l'unità originale.
+MID_EQQUIPPED_ONLY_ROD: Abilità disponibile solo per unità armate di bastone.
+MID_UNIT_EDIT_FAVORITE_SET: Scegli l'icona che vuoi usare.
+MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorita $a0
+MID_UNIT_EDIT_FAVORITE_NONE: Rimuovi
+MID_UNIT_EDIT_FAVORITE_FILTER: Gli alleati con un'icona favorita\nverranno mostrati per primi.\nVai nel loro schermo del profilo\nper segnarli come preferiti.
+MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Azzera
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT: Cambia nome
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT_SELECT: Seleziona l'icona favorita a cui\ndesideri cambiare nome.
+MID_UNIT_EDIT_FAVORITE_NAME_PLACE_HOLDER: Inserisci un nome.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK: Inserisci un nome per quest'icona.
+MID_UNIT_EDIT_FAVORITE_NAME_WARNING: Il nome che scegli verrà applicato a tutte\nle unità che usano quest'icona favorita.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK_INFO: Scegli un nome di massimo 9 caratteri.\nAlcuni simboli non sono validi.
+MID_UNIT_INFO_EXP_MAX: MAX
+MID_UNIT_INFO_TO_TALK: Tocca!
+MID_UNIT_INFO_NOW_TALK: Parla!
+MID_UNIT_INFO_EXP_REMAIN: Liv +
+MID_UNIT_INFO_TO_SKILLLIST: Lista abilità
+MID_UNIT_INFO_TO_STATUS: Profilo
+MID_UNIT_INFO_LIMITBREAK: Unità fusa

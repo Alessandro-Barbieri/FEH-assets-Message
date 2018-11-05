@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: 斯利茲
+MPID_HONOR_スリーズ: 夢中的微笑
+MPID_H_スリーズ: 冰之王國尼福爾的第一公主。\n性格穩重，充滿母性。
+MPID_VOICE_スリーズ: 茅野愛衣(Ai Kayano)
+MPID_ILLUST_スリーズ: 前嶋重機(Shigeki Maeshima)
+MPID_LEGEND_スリーズ: 傳承效果：「風」　我方ＨＰ＋３、魔防＋４\n在「風」的季節時，\n被賦予「風」的祝福的夥伴，\n與此英雄一起出擊，將會獲得傳承效果加持。
+MSID_ブリザード: 暴風雪
+MSID_氷の封印: 冰之封印
+MSID_H_ブリザード: 魔防＋３　戰鬥中，\n將敵人受到的弱化狀態合計值計入攻擊
+MSID_H_氷の封印: 回合開始時，若自身ＨＰ高於５０％，\n敵軍內防守最低的敵人攻擊及速度－６\n（直到敵人下次行動結束）（無法繼承）

@@ -1,0 +1,38 @@
+[Heroes Archive] (MINERBA)
+
+
+Heroes Message Name: Message
+
+
+MID_MINERBA_HOME1: アルフォンス王子、\n彼には王としての器量がある。\nマルス王子を思い出す…
+MID_MINERBA_HOME2: こんな穏やかな日は…\n兄妹三人で過ごしていた頃を\n思い出してしまうな…
+MID_MINERBA_HOME3: 今でこそ赤い竜騎士と呼ばれているが、\n昔はペガサスに乗っていたこともあった。\nとても可愛がっていたものだ…
+MID_MINERBA_HOME4: わたしと兄ミシェイルは\n袂を分かち、相争った。\nわたしはこの手で兄を討った…
+MID_MINERBA_HOME5: ミシェイルとわたしは\nもはや兄妹には戻れぬ。だが、\n妹のマリアだけは幸せであって欲しい…
+MID_MINERBA_FRIEND: $Nfの代理として、\n挨拶を届けに来た。\nどうかよろしく頼む。
+MID_MINERBA_LEVEL1: 赤い竜騎士と恐れられた力…\nとくと見るが良い！
+MID_MINERBA_LEVEL2: わたしにはまだ…\nこんな力があるのだな。
+MID_MINERBA_LEVEL3: しょせんわたしは…\n兄上の足元にも及ばぬ…
+MID_MINERBA_SKILL: 感謝する。戦いならば、\nわたしは誰にも負けぬ。
+MID_MINERBA_JOIN: わたしの名はミネルバ。マケドニア王女だ。\n貴公がわたしを必要とするのなら、\n協力は惜しまない。
+MID_MINERBA_STRONGEST: わたしは王の器ではない。\n兄上に代わって\n国を治めていたこともあったが…$k$p反乱を起こされ、捕らえられ、\n醜態を晒した…\n己の無力さを思い知った…$k$pもしも君のような軍師が\n傍にいてくれたら…\nわたしは国を治められただろうか…$k$p君は不思議だな。\nわたしにもまだやれることがあると…\nそんな気にさせてくれる。$k$pありがとう。\nわたしも諦めず、前を向こう。\n君と共に…
+MID_MINERBA_VOICE01: はぁっ！
+MID_MINERBA_VOICE02: でぇいっ！
+MID_MINERBA_VOICE03: うああっ！
+MID_MINERBA_VOICE04: 貴様…！
+MID_MINERBA_VOICE05: 手向かうか
+MID_MINERBA_VOICE06: 行くぞ！
+MID_MINERBA_VOICE07: 覚悟せよ！
+MID_MINERBA_VOICE08: 愚かな…
+MID_MINERBA_VOICE09: 無様…な…
+MID_MINERBA_VOICE10: ふっ
+MID_MINERBA_VOICE11: どうした？　わたしに用か？
+MID_MINERBA_VOICE12: こ、これは異国の挨拶なのか？
+MID_MINERBA_VOICE13: 誇りを胸に、正々堂々戦いたいものだ
+MID_MINERBA_VOICE14: しょせん、わたしは王の器ではない。
+MID_MINERBA_VOICE15: 共に、平和を取り戻そう。
+MID_MINERBA_VOICE16: 昔のように笑いあえる日は…
+MID_MINERBA_VOICE17: 君と過ごすのは、悪い気分ではないな…
+MID_MINERBA_VOICE18: わかった
+MID_MINERBA_VOICE19: 指示を頼む
+MID_MINERBA_VOICE20: 行くとしよう

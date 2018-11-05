@@ -1,0 +1,9 @@
+[Heroes Archive] (S0601)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ナバール,ch01_02_Nabarl_M_Normal,Face|$w0|Os estaba esperando.$k$pNo es nada personal.\nMe han contratado para que haga\nun trabajo. Eso es todo.$k$pMe temo que moriréis en Akaneia.$k$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_ナバール,ch01_02_Nabarl_M_Normal,Face|$w0|Sois fuertes, lo reconozco...\nTanto, que no sabría decir quién es\nmás poderoso, si vosotros... o él.$k$p¡Je! Esto va a ser muy entretenido.\nEstoy seguro de que volveremos\na vernos.$k$Sbs150|

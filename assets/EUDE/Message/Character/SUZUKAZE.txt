@@ -1,0 +1,38 @@
+[Heroes Archive] (SUZUKAZE)
+
+
+Heroes Message Name: Message
+
+
+MID_SUZUKAZE_HOME1: Ich mag die Uniformen der Wächter\nvon Askr. Der frühere König von\nHoshido trug ein ähnliches Gewand.
+MID_SUZUKAZE_HOME2: Ich diene der Adelsfamilie von\nHoshido, bin jedoch nicht einem\neinzelnen Mitglied ergeben.$k$pAls persönlicher Getreuer bin ich\nungeeignet. Als ich jung war, habe\nich es versäumt zu handeln, und...
+MID_SUZUKAZE_HOME3: Ihr scheint beschäftigt zu sein. Sagt\nmir, wie ich helfen kann, und ich\nwerde ohne zu zögern gehorchen.
+MID_SUZUKAZE_HOME4: Ohne Euch würde die Armee in ihre\nEinzelteile zerfallen. Erlaubt mir,\nEuch im Kampf beizustehen.$k$pIch werde Euer Leben beschützen,\nselbst wenn es mich mein eigenes\nkostet.
+MID_SUZUKAZE_HOME5: Ich habe Verstecke in der Nähe des\nSchlosses inspiziert. Als Ninja\noperiere ich gern aus den Schatten.
+MID_SUZUKAZE_FRIEND: Ich überbringe Euch Grüße von\n$Nf.
+MID_SUZUKAZE_LEVEL1: Fast! Ich muss noch\nhärter trainieren!
+MID_SUZUKAZE_LEVEL2: Mit dieser Kraft muss\nich alle beschützen...
+MID_SUZUKAZE_LEVEL3: Das reicht noch nicht.\nIch muss mehr üben.
+MID_SUZUKAZE_SKILL: Meine Dankbarkeit für diese\nneue Stärke ist Euch gewiss.
+MID_SUZUKAZE_JOIN: Mein Name ist Kaze. Ich bin ein Ninja\nund diene gemeinsam mit meinem\nBruder der Adelsfamilie von Hoshido.$k$pWenn Ihr gestattet, werde ich auch\nEuch dienen.
+MID_SUZUKAZE_STRONGEST: Ich weiß es zu schätzen, dass Ihr\nEuch Zeit nehmt, mit mir zu\nsprechen.$k$pIhr müsst mir jedoch keine\nAufmerksamkeit schenken, nur\nweil ich in der Nähe bin.$k$pBetrachtet mich einfach als...\neinen simplen Stein, der immer\nin der Nähe ist.$k$pWie bitte? Ihr sprecht mich aus\nfreien Stücken an und nicht aus\nPflichtgefühl? Das ist nett von Euch.$k$pWenn Ihr ein Gespräch wünscht,\nwerde ich Euch jederzeit mit größter\nHingabe zur Verfügung stehen.$k$pIch bin froh, Euch weiterhin dienen\nzu dürfen.$k$pIch werde meine volle Konzentration\ndarauf richten, Euch zu beschützen.
+MID_SUZUKAZE_VOICE01: はっ！
+MID_SUZUKAZE_VOICE02: せやっ！
+MID_SUZUKAZE_VOICE03: うわっ
+MID_SUZUKAZE_VOICE04: Well done...
+MID_SUZUKAZE_VOICE05: Hier endet es.
+MID_SUZUKAZE_VOICE06: Ich mache es schnell...
+MID_SUZUKAZE_VOICE07: Bitte vergebt mir.
+MID_SUZUKAZE_VOICE08: Nehmt es nicht persönlich.
+MID_SUZUKAZE_VOICE09: I have...failed you...
+MID_SUZUKAZE_VOICE10: Heehee
+MID_SUZUKAZE_VOICE11: I shall stand ready by your side.
+MID_SUZUKAZE_VOICE12: Do you have a retainer of your own?
+MID_SUZUKAZE_VOICE13: Do not hesitate to call upon me.
+MID_SUZUKAZE_VOICE14: For a long time I served no liege. But now...
+MID_SUZUKAZE_VOICE15: A lady -- unknown to me -- just gave me something. Can you explain this?
+MID_SUZUKAZE_VOICE16: I hope my brother isn't pushing himself too hard. He's far from home...
+MID_SUZUKAZE_VOICE17: Let me know if you need a scout. As a ninja, I am trained in stealth.
+MID_SUZUKAZE_VOICE18: Yes.
+MID_SUZUKAZE_VOICE19: Leave it to me.
+MID_SUZUKAZE_VOICE20: Time to move.

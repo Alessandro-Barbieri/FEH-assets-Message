@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: La comandante dei Guardiani di Askr\nfarà strada. È una leader formidabile,\nnonostante la sua giovane età.
+MID_GUNTHER_HOME2: Sono stato tutore di Corrin, oltre che\nal suo servizio per molti anni. Più che\nun servitore, sono un genitore.
+MID_GUNTHER_HOME3: Ammiro il tuo spirito di iniziativa in\nbattaglia. Sarei curioso di ascoltare\nle tue storie davanti a una tazza di tè.
+MID_GUNTHER_HOME4: Anni di allenamento sono stati più che\nsufficienti nel mio mondo, ma che dire\ndi questo... Farò meglio a unirmi a voi.
+MID_GUNTHER_HOME5: Quando sono arrivato, avevo con me\nsolo l'armatura. Ecco perché è per me\ndi vitale importanza prendermene cura.
+MID_GUNTHER_FRIEND: Mmmh, $Nu?\nDunque ti ho trovato infine.\nTi saluta $Nf.$k$pLa mia missione è compiuta.
+MID_GUNTHER_LEVEL1: Sono di nuovo nel\npieno dell'azione!
+MID_GUNTHER_LEVEL2: Potrei imparare\nnuove cose...
+MID_GUNTHER_LEVEL3: Alla mia età, può andare.
+MID_GUNTHER_SKILL: È un grande potere per un uomo\ndella mia età. Ne farò buon uso.
+MID_GUNTHER_JOIN: Sono Gunter, cavaliere del Nohr. C'è\nchi dice che io sia troppo vecchio, ma\nla mia esperienza è ineguagliabile.
+MID_GUNTHER_STRONGEST: La tua comandante dice che tu sei...\n$Gil Grande Eroe,la Grande Eroina|.$k$pForza, allora: sei tu $Gil Grande Eroe,la Grande Eroina|?\nForse sei troppo umile per\nammetterlo.$k$pNon avrai i miei anni sulle spalle, ma\nprendi coscienza di chi sei veramente\ne sviluppa tutto il tuo potenziale!$k$pQuella tua arma... Diventa il tipo\ndi persona che merita di usarla!$k$pAnni fa conoscevo qualcun altro\ncon un simile dilemma.$k$pOra, prima che tu decida di liquidare\nle mie parole come il delirio di un\nanziano, devo dirti una cosa.$k$pL'ho avvertito anche in battaglia.\nUna sorta di scollamento tra il tuo\n"titolo" e la fiducia in te stess$Go,a|.$k$pNon devi scusarti. È del tutto naturale\ned è in questo che potrei servirti.$k$pPermetti a questo veterano di lottare\nancora con te fino a quando avrai\nacquisito maggiore autostima.
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: Non avrò alcuna pietà!
+MID_GUNTHER_VOICE06: Sarà una carneficina.
+MID_GUNTHER_VOICE07: Finiamola qui.
+MID_GUNTHER_VOICE08: Gli errori si pagano!
+MID_GUNTHER_VOICE09: Careless...
+MID_GUNTHER_VOICE10: Yes?
+MID_GUNTHER_VOICE11: Others might trifle with me, but I suspect you won't make that mistake.
+MID_GUNTHER_VOICE12: I find you...intriguing...to say the least.
+MID_GUNTHER_VOICE13: I am glad to have joined you.
+MID_GUNTHER_VOICE14: Remain focused. Always—not just on the battlefield.
+MID_GUNTHER_VOICE15: Curious about the scar on my face? Hmm. Of course you are.
+MID_GUNTHER_VOICE16: My armor has known...so much blood.
+MID_GUNTHER_VOICE17: You and I should spar sometime. Builds character!
+MID_GUNTHER_VOICE18: Hmm?
+MID_GUNTHER_VOICE19: Hmm.
+MID_GUNTHER_VOICE20: Let's go.

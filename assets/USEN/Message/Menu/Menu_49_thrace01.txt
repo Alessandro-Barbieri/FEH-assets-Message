@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: Friend Suggestions
+MID_FRIEND_NUM: $aFriends   $a0/$a1
+MID_FRIEND_HELP_FRIEND: $aFriends helped: $a0
+MID_ITEM_OCCUPATION_POTION: Conquest Lance
+MID_ITEM_HELP_OCCUPATION_POTION: Grants +8 stamina for Grand Conquests.
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $aBattle $a0 has already ended,\nso the results will not be counted.
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $aGC Tier Reward: $a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $aGC Conquer Reward: Battle $a0
+MID_OCCUPATION_AREA: $aArea $a0
+MID_OCCUPATION_TITLE: Grand Conquests
+MID_OCCUPATION_CLOSED: Battles are now closed.
+MID_OCCUPATION_AGGREGATING: Calculating result.
+MID_OCCUPATION_GROUPING_DELAYING: Calculations are currently delayed.\nPlease wait until they are finished.\nThanks for your patience!
+MID_OCCUPATION_REGISTRATION: Registration Check
+MID_OCCUPATION_REGISTER: Join the Battle!
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: Registration check complete.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: Your registration is being processed.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $aPlease wait for Battle $a0 to begin.
+MID_OCCUPATION_REGISTRATION_INTERVAL: $aYou can check your status after Battle $a0 begins.
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: This event has ended.
+MID_OCCUPATION_ROUND_RESULT: $aBattle $a0 has ended.
+MID_OCCUPATION_TERM_RESULT: This event has ended.
+MID_OCCUPATION_ROUND_LEFT_DAY: $aDays until Battle $a0 ends: $a1
+MID_OCCUPATION_ROUND_LEFT_HOUR: $aHours until Battle $a0 ends: $a1
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $aMinutes until Battle $a0 ends: $a1
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $aDays until Battle $a0 begins: $a1
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $aHours until Battle $a0 begins: $a1
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $aMinutes until Battle $a0 begins: $a1
+MID_OCCUPATION_WORLDMAP_HELP: Choose an area and battle!
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $aYou helped out in $a0!\n$a1's supporters +1.\n(You can help once per round.)
+MID_OCCUPATION_GRADE: $aGC Tier $a0
+MID_OCCUPATION_GRADE_POINT_MAX: MAX
+MID_OCCUPATION_GRADE_HELP: $aAdds $a0% of score to neighboring areas
+MID_OCCUPATION_ROUND: $aBattle $a0
+MID_OCCUPATION_GRUOP_ID: $aOutrealm $a0
+MID_OCCUPATION_OPERATION: $aRound $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aMins. left: $a0
+MID_OCCUPATION_STAMINA: Stamina
+MID_OCCUPATION_STAMINA_RECOVER_FULL: Stamina has been fully recovered.
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: You do not have enough stamina.\nWould you like to use a Conquest\nLance to recover 8 stamina?
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: Would you like to use a Conquest\nLance to recover 8 stamina?
+MID_OCCUPATION_STAMINA_RECOVER: Recover Stamina
+MID_OCCUPATION_STAMINA_RECOVER_DONE: You have used a Conquest Lance\nto recover your stamina.
+MID_OCCUPATION_AREA_COUNT: Areas Controlled
+MID_OCCUPATION_REINFORCE: Help Out!
+MID_OCCUPATION_REWARD: Check Rewards
+MID_OCCUPATION_REWARD_SORT: $aReward type: $a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: Reward type
+MID_OCCUPATION_REWARD_SORT_GRADE: GC Tier
+MID_OCCUPATION_REWARD_SORT_AREA: Area Count
+MID_OCCUPATION_AREA_NAME: $aArea $a0
+MID_OCCUPATION_GUILD_NAME_0: Alfonse's army
+MID_OCCUPATION_GUILD_NAME_1: Sharena's army
+MID_OCCUPATION_GUILD_NAME_2: Anna's army
+MID_OCCUPATION_AREA_TOP_USER: $aTop Battler: $a0 ($a1)
+MID_OCCUPATION_AREA_SITUATION: Status of Forces
+MID_OCCUPATION_AREA_ALLY_RANKING: Ally Activity
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $a$a0 hasn't battled here.
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: You
+MID_OCCUPATION_AREA_EFFECT: Area Effects
+MID_OCCUPATION_AREA_EFFECT_NONE: No area effects are active.
+MID_OCCUPATION_AREA_EFFECT_FIXED: Special Effect (This Area)
+MID_OCCUPATION_AREA_EFFECT_IN: Effect from Adjacent Allied Area
+MID_OCCUPATION_AREA_EFFECT_OUT: Effect on Adjacent Allied Areas
+MID_OCCUPATION_POWER_RATE: $aBoost × $a0
+MID_OCCUPATION_POWER_RATE_DIALOG: $a(Boost × $a0)
+MID_OCCUPATION_DIALIG_REFRESH: Battle conditions have changed.\nThe map will change to reflect\ncurrent status.
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $a$a0 troops
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $a$a0 troop
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: You can't battle in this\narea. It's an army's HQ.
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: Unavailable
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: Controlled by: 
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $aKnockout: $a0!\nNo battling till the next round.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: This area doesn't border enemy\nterritory. You can't battle here.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: This area doesn't border allied\nterritory. You can't battle here.
+MID_OCCUPATION_RESULT_FAILED: Defense Unsuccessful
+MID_OCCUPATION_RESULT_DEFEND: Defense Successful
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: Territory Controlled
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: Foe's Fort Conquered
+MID_OCCUPATION_RESULT_DOMINATION_NUM: Camps Controlled:
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: Three armies vie for territory!
+MID_OCCUPATION_HELP_DIALOG_01: Grand Conquests:\nIn Grand Conquests, three armies\nbattle to conquer territory across\na continent.\n\nWhen the battle ends, the armies\nwill earn rewards. The more\nareas a team controls, the better\nthe rewards!
+MID_OCCUPATION_HELP_DIALOG_02: How to Participate:\nSelect an area that is adjacent to\nan enemy to enter battle and earn\npoints. Entering battle consumes\nGrand Conquests-specific\nstamina. Use the boost option to\nconsume more stamina and\nmultiply your score!
+MID_OCCUPATION_HELP_DIALOG_03: Score Effects:\nAfter you battle, you'll earn a\nscore. Points will be added to\nyour army's total in the area\nyou've selected.
+MID_OCCUPATION_HELP_DIALOG_04: Controlling Areas:\n・The army that controls an area\nat the beginning of a round will\naccrue points.\n・The army with the most points\nat the end of a round will gain\ncontrol of that area.
+MID_OCCUPATION_HELP_DIALOG_05: Cooperation Bonus:\nDuring each round, bonus points\nwill be applied to the total points\nearned in an area, based on the\nnumber of allies who battle in the\narea during the round.
+MID_OCCUPATION_HELP_DIALOG_06: Helping Out:\n・You can help out once per\nround.\n・Helping out boosts the number\nof allies battling in a randomly\nselected area by 1, which helps\nboost the cooperation bonus.\nYou might also randomly gain\nan item.
+MID_OCCUPATION_HELP_DIALOG_07: Getting Knocked Out:\n・Armies can be knocked out\nmid-round when battle conditions\nare calculated. If the difference\nbetween first and second place\narmies exceeds the threshold,\nthe winner gains the area\nimmediately.\n・If this happens, no battles can\nbe fought in the area for the\nremainder of the round.
+MID_OCCUPATION_HELP_DIALOG_08: GC Tiers:\n・Your GC Tier will increase\nbased on your cumulative score\nin battle.\n・The higher your GC Tier is, the\nmore points get added to areas\nadjacent to your selected area.\n・You can also earn other\nrewards based on your GC Tier.
+MID_OCCUPATION_GRADE_PROMOTION: $aYour GC Tier has increased from\n$a0 to $a1.
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: Score for neighboring areas
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a+$a0%
+MID_SHOP_REMAINING_MINUTES: $aMins. till offer ends: $a0.
+MID_SHOP_REMAINING_HOURS: $aHours till offer ends: $a0.
+MID_SHOP_REMAINING_DAYS: $aDays till offer ends: $a0.
+MID_TAP_BATTLE_TITLE_1: Tap Battle
+MID_CONQUER_HELP_DIALOG_01_02: Rules for Rival Domains:\n・ The battle won't end even if\none side's forces are depleted—\nfresh troops will continue the fight.\n・ The battle will end after 10 turns\nhave passed or one side's\nfortress is destroyed.\n
+MID_CONQUER_HELP_DIALOG_06: More Rules for Rival Domains:\n・Legendary Effects will not\ntrigger for reinforcements.\n・You cannot earn EXP or SP.\n・Bonds from ally support or\nsummoner support will not\ngrow stronger.
+MID_VOTE_DIALOG_HELP_03_02: Battles:\nAfter a victory, you won't be able\nto battle again in support of your\nHero's army for a set period\nof time.

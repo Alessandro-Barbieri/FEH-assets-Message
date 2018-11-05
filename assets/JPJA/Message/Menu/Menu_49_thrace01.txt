@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: フレンド申請をしてみましょう！
+MID_FRIEND_NUM: $aフレンド   $a0 / $a1
+MID_FRIEND_HELP_FRIEND: $aフレンドを助けた回数：$a0
+MID_ITEM_OCCUPATION_POTION: 制圧の槍
+MID_ITEM_HELP_OCCUPATION_POTION: 大制圧戦のスタミナを+8する
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $a$a0回戦が終了しているため\n結果は反映されませんでした。
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $a大制圧戦・大制圧階級報酬　$a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $a大制圧戦・制圧エリア数報酬　$a0回戦
+MID_OCCUPATION_AREA: $aエリア$a0
+MID_OCCUPATION_TITLE: 大制圧戦
+MID_OCCUPATION_CLOSED: 現在開催していません。
+MID_OCCUPATION_AGGREGATING: 現在集計中です。
+MID_OCCUPATION_GROUPING_DELAYING: 現在集計が遅れています。\n申し訳ありませんが、\n完了までしばらくお待ちください。
+MID_OCCUPATION_REGISTRATION: イベント参加確認
+MID_OCCUPATION_REGISTER: 参加する
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: 参加確認済みです。
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: 処理が完了するまでお待ちください。
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $a$a0回戦開始までお待ちください。
+MID_OCCUPATION_REGISTRATION_INTERVAL: $a参加確認は$a0回戦開始後から可能です。
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: イベントは終了しました。
+MID_OCCUPATION_ROUND_RESULT: $a$a0回戦は終了しました。
+MID_OCCUPATION_TERM_RESULT: イベント期間終了
+MID_OCCUPATION_ROUND_LEFT_DAY: $a$a0回戦終了まであと$a1日
+MID_OCCUPATION_ROUND_LEFT_HOUR: $a$a0回戦終了まであと$a1時間
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $a$a0回戦終了まであと$a1分
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $a$a0回戦開始まであと$a1日
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $a$a0回戦開始まであと$a1時間
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $a$a0回戦開始まであと$a1分
+MID_OCCUPATION_WORLDMAP_HELP: 出撃するエリアを選択してください。
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $a$a0を応援しました。\n$a1の参加人数＋1！\n（応援は1ラウンドにつき1回）
+MID_OCCUPATION_GRADE: $a大制圧階級$a0
+MID_OCCUPATION_GRADE_POINT_MAX: MAX
+MID_OCCUPATION_GRADE_HELP: $aスコアの$a0％を隣接エリアに加算
+MID_OCCUPATION_ROUND: $a$a0回戦
+MID_OCCUPATION_GRUOP_ID: $a第$a0の異界
+MID_OCCUPATION_OPERATION: $aラウンド $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aあと$a0分
+MID_OCCUPATION_STAMINA: スタミナ
+MID_OCCUPATION_STAMINA_RECOVER_FULL: スタミナは最大まで回復しています。
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: スタミナが不足しています。\n制圧の槍×１を消費して\nスタミナを８回復しますか？
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: 制圧の槍×１を消費して\nスタミナを８回復しますか？
+MID_OCCUPATION_STAMINA_RECOVER: 回復する
+MID_OCCUPATION_STAMINA_RECOVER_DONE: 制圧の槍×１を消費して\nスタミナを回復しました。
+MID_OCCUPATION_AREA_COUNT: 制圧エリア数
+MID_OCCUPATION_REINFORCE: 応援する
+MID_OCCUPATION_REWARD: 報酬確認
+MID_OCCUPATION_REWARD_SORT: $a報酬の種類：$a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: 報酬の種類
+MID_OCCUPATION_REWARD_SORT_GRADE: 大制圧階級
+MID_OCCUPATION_REWARD_SORT_AREA: 制圧エリア数
+MID_OCCUPATION_AREA_NAME: $aエリア$a0
+MID_OCCUPATION_GUILD_NAME_0: アルフォンス軍
+MID_OCCUPATION_GUILD_NAME_1: シャロン軍
+MID_OCCUPATION_GUILD_NAME_2: アンナ軍
+MID_OCCUPATION_AREA_TOP_USER: $a戦績１位　$a0（$a1）
+MID_OCCUPATION_AREA_SITUATION: 戦況
+MID_OCCUPATION_AREA_ALLY_RANKING: 味方の活躍
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $a$a0の出撃はありません。
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: 自分
+MID_OCCUPATION_AREA_EFFECT: エリア効果
+MID_OCCUPATION_AREA_EFFECT_NONE: エリア効果はありません。
+MID_OCCUPATION_AREA_EFFECT_FIXED: このエリアで発動する効果
+MID_OCCUPATION_AREA_EFFECT_IN: 隣接する味方エリアから受けている効果
+MID_OCCUPATION_AREA_EFFECT_OUT: このエリアを制圧時、隣接するエリアに与える効果
+MID_OCCUPATION_POWER_RATE: $a$a0倍攻撃
+MID_OCCUPATION_POWER_RATE_DIALOG: $a（$a0倍攻撃）
+MID_OCCUPATION_DIALIG_REFRESH: 全体の戦況が変化したため\n更新を行います。
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $a$a0人
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $a$a0人
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: メインエリアのため、\nこのエリアは戦闘不可です。
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: 戦闘不可
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: 制圧：
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $a$a0によりノックアウトされました。\nこのラウンド終了まで戦闘不可エリアになります。
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: 敵陣営と隣接していないため、\nこのエリアは戦闘不可です。
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: 味方陣営と隣接していないため、\nこのエリアは戦闘不可です。
+MID_OCCUPATION_RESULT_FAILED: 防衛失敗…
+MID_OCCUPATION_RESULT_DEFEND: 防衛成功！
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: 陣地占拠！
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: 敵軍本拠地制圧！
+MID_OCCUPATION_RESULT_DOMINATION_NUM: 陣地占拠数
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: 三勢力に分かれて、領地争奪戦！
+MID_OCCUPATION_HELP_DIALOG_01: ◆大制圧戦◆\n大陸を舞台に、\n三つのチームに分かれて\n三つ巴の戦いを行います。\n\n各回戦が終了した時、チームが\n多くのエリアを制圧しているほど、\n良い報酬を得られます。
+MID_OCCUPATION_HELP_DIALOG_02: ◆出陣◆\n制圧戦スタミナを消費して、\n敵に隣接しているエリア、または、\n敵に隣接されているエリアを選択、\n戦闘を行って、スコアを獲得します。\n\n「〇倍攻撃」を選ぶと、消費スタミナも\nスコアも〇倍になります。
+MID_OCCUPATION_HELP_DIALOG_03: ◆スコアがエリアに与える効果◆\nスコアを獲得すると、\n選択したエリアで自分のチームに\nポイントが加算されます。
+MID_OCCUPATION_HELP_DIALOG_04: ◆エリアの取り合い◆\n・ラウンド開始時、\n　エリアを制圧しているチームに\n　ポイントが加算されます。\n\n・ラウンド終了時、\n　ポイントが最も高いチームが\n　そのエリアを制圧します。
+MID_OCCUPATION_HELP_DIALOG_05: ◆協力ボーナス◆\nラウンド中、\nそのエリアで戦闘した味方が多いほど、\nそのエリアのポイントに\nボーナスが入ります。
+MID_OCCUPATION_HELP_DIALOG_06: ◆応援機能◆\n・１ラウンドに１回、応援が可能です。\n\n・応援すると、ランダムで選ばれた\n　エリアの味方戦闘人数を＋１します。\n（協力ボーナスが得られます）\n　ランダムでアイテムも入手します。
+MID_OCCUPATION_HELP_DIALOG_07: ◆ノックアウト◆\n・ラウンド中の各集計タイミングで、\n　１位と２位のチームのポイント差が\n　一定を越えるとノックアウト、\n　そのエリアを即制圧します。\n\n・ノックアウトが発生したエリアは、\n　そのラウンド中、戦闘できません。
+MID_OCCUPATION_HELP_DIALOG_08: ◆大制圧階級◆\n・自分の獲得スコアの累積によって、\n　大制圧階級が上昇します。\n\n・大制圧階級が上昇すると、戦闘時、\n　選択したエリアの隣接エリアへ\n　加算するポイントがアップします。\n・また、報酬が手に入ります。
+MID_OCCUPATION_GRADE_PROMOTION: $a大制圧階級$a0から\n大制圧階級$a1にランクアップしました。
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: 隣接エリアへのスコア
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a＋$a0％
+MID_SHOP_REMAINING_MINUTES: $a販売終了まで　あと$a0分
+MID_SHOP_REMAINING_HOURS: $a販売終了まで　あと$a0時間
+MID_SHOP_REMAINING_DAYS: $a販売終了まで　あと$a0日
+MID_TAP_BATTLE_TITLE_1: かんたんタップバトル
+MID_CONQUER_HELP_DIALOG_01_02: ◆制圧戦のルール◆\n・一方が全滅しても決着しません。\n　増援が登場して戦いを続けます。\n・１０ターン経過、または\n　どちらかの本拠地破壊で決着です。
+MID_CONQUER_HELP_DIALOG_06: ◆制圧戦のルール　その他◆\n・増援には伝承効果は発生しません。\n\n・経験値、ＳＰは入手できません。\n・「支援」「召喚師との絆の契り」の\n　仲の良さは進展しません。
+MID_VOTE_DIALOG_HELP_03_02: ◆出陣◆\n一度出陣して勝利すると、\n一定時間経つまで出陣できません。

@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: -Efectos legendarios-\n・ En los jardines benditos, los\nefectos de héroes legendarios\nsiempre estarán activos,\nsea la temporada que sea.\n・ Para conferir bendiciones,\nve al menú "Aliados",\nselecciona "Fortalecer" y\nluego "Conferir bendiciones".
+MID_INFO_TITLE: Notificaciones
+MID_ITEM_GAIN_DRESS_ACCESSORY: ¡Conseguiste un accesorio!
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $aNo puedes tener más de un accesorio\ndel mismo tipo. Cualquier duplicado se\nconvertirá en $a0 plumas de héroe.
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $aNo puedes tener más de un sello sacro\no accesorio del mismo tipo.\nCualquier duplicado se convertirá\nen $a0 plumas de héroe.
+MID_CHAIN_ARENA_HELP_DIALOG_09: -Bonificación por bendición-\nCuando envíes a luchar a un\nhéroe legendario o bendecido\ncon uno de los elementos de la\ntemporada, ganarás un punto\nadicional al final de la batalla.\n\n(Disponible a partir de la\ntemporada que empieza tras el\nlanzamiento de la versión 2.6.0).
+MID_SEQUENTIAL_MAP_TERM_201806: Colmillos rivales
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: ¡Superado!
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: ¡Nivel extra desbloqueado!
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: Es un día de playa perfecto.\nTodo el mundo la está pasando\ngenial bañándose.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: Equipar accesorios
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: Elige con qué accesorio quieres equipar al aliado.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: Elige a quién quieres asignar o cambiar un accesorio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: Seleccionar accesorio
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: Seleccionar aliado
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: ¿Quieres equipar este accesorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: ¿Quieres quitar este accesorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 tiene este accesorio.\n¿Quieres cambiarlo y equipar\nal aliado con este accesorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 no puede usar\nel accesorio de la otra unidad, por\nlo que no se equipará con ninguno.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: Confirmar
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Se completó el cambio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: ¿Quieres cancelar el\ncambio de accesorio?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: Todos los cambios se cancelarán.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: Cancelar
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: Sin accesorios.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: Selecciona un criterio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: Fecha
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: Tipo
+MID_DRESSACCESSORY_HELP_DIALOG_00: ¡Vístete con accesorios!
+MID_DRESSACCESSORY_HELP_DIALOG_01: -Equipar accesorios-\n¡Pon elegantes a tus aliados!\n\nNo se puede equipar el mismo\naccesorio a dos unidades\ndistintas al mismo tiempo.
+MID_DRESSACCESSORY_HELP_DIALOG_02: -Tipos de accesorios-\nExisten distintas categorías\nde accesorios.\n\nEl ícono rosa indicará a qué\ntipo pertenece un accesorio.
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: ----------
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: No hay ningún accesorio equipado.
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: No es compatible con esta unidad.
+MID_UNIT_EDIT_EQUIP: Cambiar equipo
+MID_UNIT_EDIT_UNIT_ENFORCE: Fortalecer
+MID_UNIT_EDIT_UNIT_COMMUNICATE: Interactuar
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ① Toca el aliado que quieres quitar.\n② Toca el aliado que quieres añadir.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: ¡Crea héroes únicos!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: -Efectos de bendiciones 1-\nLos aliados bendecidos reciben\nel doble de PH y Exp. de lo normal\nen las batallas.\n\nAunque no se pueden conferir\nbendiciones a los héroes\nlegendarios, estos siempre\nganarán el doble de PH y Exp.\nen las batallas.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: Aprendizaje automático
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: ¿Quieres aprender y gestionar estas\nhabilidades de forma automática?
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: Este aliado no tiene suficiente PH\npara aprender la siguiente\nhabilidad recomendada.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: Este aliado ya aprendió todas\nlas habilidades recomendadas.
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: Accesorio

@@ -1,0 +1,38 @@
+[Heroes Archive] (KLEIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KLEIN_HOME1: 弓軍将、なんて呼ばれたりもするけれど、\nぼくは武官であるより、文官となって\n国に仕える方が向いている気がするんだ。
+MID_KLEIN_HOME2: ぼくは自分を知っているつもりだよ。\n両親ほどの戦いの才はない、\nだから、他のことで役に立たないとね。
+MID_KLEIN_HOME3: 城の雑務なら、ぼくがやっておいたよ。\nきみの負担はとても大きいから、\n少しでも休んでもらいたいと思ってね。
+MID_KLEIN_HOME4: ぼくにはクラリーネという妹がいるんだ。\nとてもいい子なんだけど、\nちょっと夢見がちなのが玉にきずかな…
+MID_KLEIN_HOME5: 宮廷の礼儀作法は\n一通り身につけたつもりだけど、\nこの世界でも大丈夫かな？
+MID_KLEIN_FRIEND: やあ、こんにちは。\n$Nf殿にかわって、\n挨拶に来させてもらったんだ。
+MID_KLEIN_LEVEL1: 驚いたな。\nぼくにしては珍しい。
+MID_KLEIN_LEVEL2: 順調な成長と\nいえるみたいだね。
+MID_KLEIN_LEVEL3: うーん、己の\n非才を痛感してるよ…
+MID_KLEIN_SKILL: ありがとう。がんばって\n期待に応えないといけないね。
+MID_KLEIN_JOIN: ぼくはエトルリア王国\nリグレ公爵家のクレイン。\nぼくもこれから同行させてもらうよ。
+MID_KLEIN_STRONGEST: ぼくは貴族の家に生まれたおかげで、\n色々な人物と接する機会があった。\nだから、人を見る目はあるつもりだよ。$k$pどんなに弁舌たくましくても、\nいざ危機に陥れば\nさっさと逃げてしまう人もいれば…$k$p言葉では何一つ語らなくても、\n幼いぼくを助けるために、\n命がけで戦ってくれた人もいる…$k$pだから、わかるつもりだよ。\nきみは信用できる。\n心から信じられる仲間だ。$k$p今までありがとう。\nこれからも、ぼくのすべてをかけて\nきみのために戦うと約束するよ。
+MID_KLEIN_VOICE01: はっ！
+MID_KLEIN_VOICE02: ふっ！
+MID_KLEIN_VOICE03: うああっ！
+MID_KLEIN_VOICE04: しまった…
+MID_KLEIN_VOICE05: 外さない
+MID_KLEIN_VOICE06: ばかにされたものだ
+MID_KLEIN_VOICE07: この距離なら
+MID_KLEIN_VOICE08: 撃たせてもらう
+MID_KLEIN_VOICE09: 倒れるわけには…
+MID_KLEIN_VOICE10: ふふ
+MID_KLEIN_VOICE11: 何か力になれることはあるかな？
+MID_KLEIN_VOICE12: わっ！？　なんだきみか…びっくりしたよ
+MID_KLEIN_VOICE13: ぼくには小さな妹がいてね、いつも気がかりなんだ。
+MID_KLEIN_VOICE14: 生きて帰ろう。きみを思ってくれる家族のためにもね。
+MID_KLEIN_VOICE15: 弓軍将（ゆみぐんしょう）なんて呼ばれてはいたけれど…
+MID_KLEIN_VOICE16: ただ時が過ぎるに任せる人生はおだやかだけど…
+MID_KLEIN_VOICE17: 傍にいて欲しい。きみが危ない目に遭わないようにね。
+MID_KLEIN_VOICE18: うん
+MID_KLEIN_VOICE19: うーん…
+MID_KLEIN_VOICE20: 了解したよ

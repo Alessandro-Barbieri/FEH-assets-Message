@@ -1,0 +1,38 @@
+[Heroes Archive] (WENDY)
+
+
+Heroes Message Name: Message
+
+
+MID_WENDY_HOME1: この城は守りが堅固ですね。\n敵襲があっても防衛しやすい、\nとても良い城です。
+MID_WENDY_HOME2: 女性の重騎士は珍しいそうですが…\n私は尊敬する兄のようになりたくて\n重騎士の道を選びました。
+MID_WENDY_HOME3: いつも見回り、ありがとうございます。\n次は私もご一緒したいのですが、\n私がいると遅くなるでしょうか…？
+MID_WENDY_HOME4: 最近また筋肉が…\nああっ！\n聞かなかったことにして下さい！
+MID_WENDY_HOME5: 常に重い鎧を\n身にまとう者にとって、\n歩法の訓練は大切な日課です。
+MID_WENDY_FRIEND: $Nuさんですね。\n$Nfさんからの\n挨拶をお伝えに来ました。
+MID_WENDY_LEVEL1: みなぎってきました！\n私に任せてください！
+MID_WENDY_LEVEL2: オスティア重騎士として\nこのくらいは！
+MID_WENDY_LEVEL3: こ、これでは…\n出遅れてしまいます…
+MID_WENDY_SKILL: この湧き上がるような力…！\n私はもっと強くなれる…！
+MID_WENDY_JOIN: 私はオスティアの重騎士ウェンディ。\nこの装甲が伊達ではないと、\n証明してみせます！
+MID_WENDY_STRONGEST: この間は戦闘中に助けてくれて、\nありがとうございました。\n私の方が守られるだなんて…$k$pこれじゃあ重騎士失格ですね…\nえっ？\nその鎧が目立つせいかも、ですか？$k$pそうかもしれませんね。\nでも私が敵の注目を浴びることで\n他の皆から目を反らせられたらって…$k$pあはは、でもそれでやられちゃったら、\n元も子もありませんね。$k$pあの…守ってもらえて嬉しかったです。\nこれからも私のこと、\n守ってくれますか…？
+MID_WENDY_VOICE01: えいっ！
+MID_WENDY_VOICE02: はぁっ！
+MID_WENDY_VOICE03: きゃああっ！
+MID_WENDY_VOICE04: 足手まといには…
+MID_WENDY_VOICE05: 負けません！
+MID_WENDY_VOICE06: 重騎士は無敵！
+MID_WENDY_VOICE07: 全力で！
+MID_WENDY_VOICE08: 攻撃開始！
+MID_WENDY_VOICE09: すみません…
+MID_WENDY_VOICE10: ふふ
+MID_WENDY_VOICE11: きゃっ！？　もう…急に声をかけないでください
+MID_WENDY_VOICE12: 転ぶと、重くて起きられないんです
+MID_WENDY_VOICE13: 鎧の重さは忠誠の証です
+MID_WENDY_VOICE14: 鎧です。太ってませんからっ！
+MID_WENDY_VOICE15: お気づかい、ありがとうございます
+MID_WENDY_VOICE16: いち、に、いち、に…
+MID_WENDY_VOICE17: 命にかえても、お守りします
+MID_WENDY_VOICE18: はいっ！
+MID_WENDY_VOICE19: 了解しました
+MID_WENDY_VOICE20: 行動開始

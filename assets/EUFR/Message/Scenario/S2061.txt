@@ -1,0 +1,12 @@
+[Heroes Archive] (S2061)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_SERIOUS_03
+MID_SCENARIO_OPENING_IMAGE: 007_SnowDreaming
+MID_SCENARIO_OPENING: $WmMPID_スリーズ声,ch90_02_FighterAX_M_Normal,Face|Bonjour,\n$Nu...$k$pJe vous félicite pour votre victoire !\nLa nouvelle s'est répandue jusque\ndans ma cachette.$k$pOn raconte que vous auriez vaincu\ndeux des généraux de Múspell.$k$pVous devenez plus $Gpuissant,puissante| de jour\nen jour. Je suis impatiente de\npouvoir enfin vous rencontrer.$k$pPour me trouver, allez vers l'ouest.\nJe vous attends au sanctuaire de\nSnjárhof.$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_フィヨルム,ch00_06_Fjorm_F_Normal,Face|Il va nous falloir deux semaines\npour arriver à Snjárhof...$k$pCette partie de Nifl a été totalement\nabandonnée... Il n'y reste plus que\ndes ruines.$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|Mais c'est là que nous rencontrerons\nvotre sœur et que nous trouverons le\nmoyen de vaincre Surtr...$k$pIl n'y a pas de temps à perdre !$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|Ces adversaires ne faisaient pas le\npoids face à nous. Continuons notre\nroute.$k$p

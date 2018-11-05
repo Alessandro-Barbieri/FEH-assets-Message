@@ -1,0 +1,38 @@
+[Heroes Archive] (SIMA)
+
+
+Heroes Message Name: Message
+
+
+MID_SIMA_HOME1: Das hier ist ein gutes Schloss.$k$pEinfach, solide, gut zu verteidigen.\nIch hoffe, Gleiches gilt auch für\nEuer Land.
+MID_SIMA_HOME2: Ich bin eine unerfahrene Anführerin.\nAber ich darf die Erwartungen meines\nVolks nicht enttäuschen.
+MID_SIMA_HOME3: Ich danke Euch für alles, das Ihr getan\nhabt. Gibt es etwas, womit ich Euch\nhelfen könnte?
+MID_SIMA_HOME4: Als ich die nahe Stadt besuchte,\nwaren die Straßen voll mit den\nGesichtern glücklicher Menschen.$k$pDie Menschen dieses Reichs\nmüssen beschützt werden.
+MID_SIMA_HOME5: Wie schwer meine Panzerung\nwiegt? Nicht annähernd so schwer\nwie meine Krone.
+MID_SIMA_FRIEND: Ich bin Sheena. Im Auftrag\nvon $Nf\nüberbringe ich Grüße.
+MID_SIMA_LEVEL1: Immer weiter voran, mit\nimmer größeren Kräften!
+MID_SIMA_LEVEL2: Mit jedem Schritt werde ich\nmich langsam verbessern.
+MID_SIMA_LEVEL3: Diesen Schritt einen Fortschritt\nzu nennen, wäre klar übertrieben.
+MID_SIMA_SKILL: Es ist unglaublich. Meine Kraft\nist schon wieder gewachsen!
+MID_SIMA_JOIN: Ich bin Prinzessin Sheena von Gra.\nNur widerstrebend habe ich den Thron\nmeines Vaters, des Königs Jiol, nach$k$pdessen Tod übernommen.
+MID_SIMA_STRONGEST: Ich habe gehört, Ihr seid ursprünglich\ngar nicht von dieser Welt.$k$pWie kommt es dann, dass Ihr\ntrotzdem weiter für sie kämpft?$k$pLiegt es nur daran, dass Ihr die\nFreunde schätzt, die Ihr hier$k$pgefunden habt, und sie nicht im\nStich lassen wollt? Falls es so ist,\nkönnte ich es verstehen.$k$pIch kann diejenige, die meine Hilfe\nbrauchen, auch nicht einfach im\nStich lassen.$k$pUnd so werde ich auch Euch nicht\nallein lassen. Ich verspreche Euch\nzu unterstützen, solange Ihr hierbleibt.
+MID_SIMA_VOICE01: むんっ！
+MID_SIMA_VOICE02: せいっ！
+MID_SIMA_VOICE03: うああっ！
+MID_SIMA_VOICE04: My armor...
+MID_SIMA_VOICE05: Ich bin nicht nur Prinzessin.
+MID_SIMA_VOICE06: Du wirst fallen!
+MID_SIMA_VOICE07: Für das Volk!
+MID_SIMA_VOICE08: Ich gebe niemals auf!
+MID_SIMA_VOICE09: Forgive me.
+MID_SIMA_VOICE10: Hmm...
+MID_SIMA_VOICE11: Did you have something to discuss?
+MID_SIMA_VOICE12: I never know when to be princess and when to be warrior.
+MID_SIMA_VOICE13: I'm not sure if I can lead a kingdom, but I will fight for you.
+MID_SIMA_VOICE14: This armor is the pride of my homeland.
+MID_SIMA_VOICE15: I have often been called...stubborn.
+MID_SIMA_VOICE16: I wonder how my people fare without me...
+MID_SIMA_VOICE17: I will continue to put my trust in you.
+MID_SIMA_VOICE18: Understood.
+MID_SIMA_VOICE19: Command me.
+MID_SIMA_VOICE20: Agreed.

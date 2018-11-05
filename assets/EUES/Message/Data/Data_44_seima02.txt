@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: Tres héroes
+MID_MISSION_S201801CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201801CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201801CHARA01_A2: Vencer con Hinata
+MID_MISSION_H_S201801CHARA01_A2: Vence a enemigos con Hinata.
+MID_MISSION_S201801CHARA01_A3: Vencer con Gwendolyn
+MID_MISSION_H_S201801CHARA01_A3: Vence a enemigos con Gwendolyn.
+MID_MISSION_S201801CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201801CHARA01_B1: Vence a enemigos de nivel 20\no superior con Hinata.
+MID_MISSION_S201801CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201801CHARA01_B2: Vence a enemigos de nivel 20\no superior con Gwendolyn.
+MID_MISSION_S201801CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201801CHARA01_B3: Vence a enemigos de nivel 20\no superior con Saizo.
+MID_MISSION_S201801CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201801CHARA01_C1: Vence a enemigos de nivel 35\no superior con Hinata.
+MID_MISSION_S201801CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201801CHARA01_C2: Vence a enemigos de nivel 35\no superior con Gwendolyn.
+MID_MISSION_S201801CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201801CHARA01_C3: Vence a enemigos de nivel 35\no superior con Saizo.
+MID_MISSION_S201801STORY02_TITLE: Resolución ardiente
+MID_MISSION_S201801STORY02_A1: Cap. 4 - Parte 1 / Extremo
+MID_MISSION_H_S201801STORY02_A1: Supera la 1.ª parte del capítulo 4 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801STORY02_A2: Cap. 4 - Parte 2 / Extremo
+MID_MISSION_H_S201801STORY02_A2: Supera la 2.ª parte del capítulo 4 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801STORY02_A3: Cap. 4 - Parte 3 / Extremo
+MID_MISSION_H_S201801STORY02_A3: Supera la 3.ª parte del capítulo 4 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801STORY02_A4: Cap. 4 - Parte 4 / Extremo
+MID_MISSION_H_S201801STORY02_A4: Supera la 4.ª parte del capítulo 4 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201801STORY02_A5: Cap. 4 - Parte 5 / Extremo
+MID_MISSION_H_S201801STORY02_A5: Supera la 5.ª parte del capítulo 4 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MPID_エイリーク2: Eirika
+MPID_ラーチェル: L'Arachel
+MPID_リオン: Lyon
+MPID_マリカ: Marisa
+MPID_ミルラ: Myrrh
+MPID_HONOR_エイリーク2: Dama nostálgica
+MPID_HONOR_ラーチェル: Dama de la Luz
+MPID_HONOR_リオン: Príncipe sombrío
+MPID_HONOR_マリカ: Centella Carmesí
+MPID_HONOR_ミルラ: Gran Dragón
+MPID_H_エイリーク2: Princesa de Renais, gemela de Ephraim y\namiga de Lyon. Los tres estudiaron juntos\nen su juventud. Aparece en Fire Emblem:\nThe Sacred Stones.
+MPID_H_ラーチェル: Princesa de Rausten. Dozla y Rennac la\nacompañan en su empeño por eliminar a\nlos monstruos que infestan Magvel. Aparece\nen Fire Emblem: The Sacred Stones.
+MPID_H_リオン: Príncipe de Grado al que no le entusiasma\nluchar. Es un buen amigo de la infancia de\nEphraim y Eirika. Aparece en Fire Emblem:\nThe Sacred Stones.
+MPID_H_マリカ: Aguerrida espadachina de un grupo de\nmercenarios liderado por Gerik. Su apodo\nde guerra, Centella Carmesí, inspira temor.\nAparece en Fire Emblem: The Sacred Stones.
+MPID_H_ミルラ: Manakete cuya apariencia infantil esconde\nun espíritu muy viejo. Es tímida, pero tiene\nun estrecho vínculo con Ephraim. Aparece\nen Fire Emblem: The Sacred Stones.
+MPID_VOICE_エイリーク2: Kira Buckland
+MPID_VOICE_ラーチェル: Carrie Keranen
+MPID_VOICE_リオン: Mark P. Whitten
+MPID_VOICE_マリカ: Connor Kelley
+MPID_VOICE_ミルラ: Erica Lindbeck
+MPID_ILLUST_エイリーク2: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_ラーチェル: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_リオン: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_マリカ: Fujikawa Akira (藤川祥)
+MPID_ILLUST_ミルラ: Amagaitaro (アマガイタロー)
+MID_SEQUENTIAL_MAP_TERM_201801_2: El ojo de la Tormenta
+MSID_グレイプニル: Gleipnir
+MSID_ナグルファル: Naglfar
+MSID_イーヴァルディ: Ivaldi
+MSID_神炎のブレス: Gran llama
+MSID_竜刃の鼓舞: Oleada dragón
+MSID_魔防の指揮1: Estrategia Res 1
+MSID_魔防の指揮2: Estrategia Res 2
+MSID_魔防の指揮3: Estrategia Res 3
+MSID_赤魔の経験1: Exp gr. rojo 1
+MSID_赤魔の経験2: Exp gr. rojo 2
+MSID_赤魔の経験3: Exp gr. rojo 3
+MSID_H_グレイプニル: Otorga Res + 3. Al inicio del ataque, si el rival\ntiene el 100 % de PV, la unidad obtiene\nAta y Vel + 3 durante el enfrentamiento.
+MSID_H_ナグルファル: Otorga ventaja de arma ante rivales\nde tipo gris.
+MSID_H_イーヴァルディ: Otorga Def + 3. Al inicio del ataque, si el rival\ntiene el 100 % de PV, la unidad obtiene\nAta y Vel + 3 durante el enfrentamiento.
+MSID_H_神炎のブレス: Ata + 3. Si el rival tiene alcance de 2, el daño\nse calcula a partir de su Def o Res (la que\ntenga el valor más bajo). Si se supera la Def\ndel rival en 5 o más, no podrá ejecutar\nun ataque doble.
+MSID_H_竜刃の鼓舞: Al inicio del turno, las unidades dragón\nadyacentes obtienen Ata y Vel + 6\nhasta el final del turno.
+MSID_H_魔防の指揮1: Al inicio del turno, otorga Res + 2\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_魔防の指揮2: Al inicio del turno, otorga Res + 4\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_魔防の指揮3: Al inicio del turno, otorga Res + 6\na los aliados en un radio de dos casillas\nhasta el final del turno. Se aplica solo\nsi en el batallón hay 2 o menos aliados\ncon el mismo tipo de movimiento.
+MSID_H_赤魔の経験1: Mientras la unidad viva, si usa un grimorio rojo,\nrecibe un 50 % más de Exp.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_赤魔の経験2: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 50 % más de Exp.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_赤魔の経験3: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 100 % más de Exp.\n(Solo se aplica el valor más alto. No acumulable.)
+MID_CHAPTER_TITLE_C0204: Libro II - Cap. 4
+MID_CHAPTER_C0204: Resolución ardiente
+MID_STAGE_TITLE_S2041: Cap. 4 - Parte 1
+MID_STAGE_TITLE_S2042: Cap. 4 - Parte 2
+MID_STAGE_TITLE_S2043: Cap. 4 - Parte 3
+MID_STAGE_TITLE_S2044: Cap. 4 - Parte 4
+MID_STAGE_TITLE_S2045: Cap. 4 - Parte 5
+MID_STAGE_S2041: El deber de proteger
+MID_STAGE_S2042: Centella Carmesí
+MID_STAGE_S2043: Princesas en las tinieblas
+MID_STAGE_S2044: La joven dragona
+MID_STAGE_S2045: Resolución ardiente
+MID_CHAPTER_ST_C0202: Capítulos 3 y 4
+MID_STAGE_TITLE_ST_S0203: Capítulo 3
+MID_STAGE_TITLE_ST_S0204: Capítulo 4
+MID_STAGE_TITLE_ST_S1204: Capítulos 3 y 4
+MID_STAGE_HONOR_T0024: Príncipe sombrío
+MID_STAGE_T0024: Lyon

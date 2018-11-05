@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_BRIDE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_BRIDE01_HOME1: La mia dolce metà? Non ci ho mai\npensato, ma dev'essere una persona\nche amo.
+MID_LIN_BRIDE01_HOME2: Quest'abito è imbarazzante. Le\ndonne si sentono a loro agio a\nsposarsi in un coso simile?
+MID_LIN_BRIDE01_HOME3: La stanchezza sta avendo la meglio?\nFammi sapere se hai bisogno di me,\n$Nu.$k$pNon mi descriverei come una tipa\nrilassante, ma...
+MID_LIN_BRIDE01_HOME4: Pensi che questo vestito mi tenga\nlontana dai campi di battaglia? Umpf!\nSono una guerriera indomabile!$k$pAh, stavo urlando? Anche il mio\nfervore è indomabile.
+MID_LIN_BRIDE01_HOME5: Umpf... Questo vestito mi sta così\nstretto! Ehi... Non guardare me...\nNon l'ho scelto io.
+MID_LIN_BRIDE01_FRIEND: Questo vestito? Lascia stare!\nNon hai visto niente, chiaro? Ah,\n$Nf ti saluta.
+MID_LIN_BRIDE01_LEVEL1: Sono indomabile! Magari\naspetto un po' a cambiarmi...
+MID_LIN_BRIDE01_LEVEL2: Non sono nata per sposarmi,\nma per combattere!
+MID_LIN_BRIDE01_LEVEL3: Non riesco a concentrarmi\nconciata così!
+MID_LIN_BRIDE01_SKILL: Guarda! Con tale potere po-\nAnzi, meno guardi meglio è...
+MID_LIN_BRIDE01_JOIN: Mi chiamo Lyn, e giuro che c'è\nun motivo se sono conciata così.\nMa non parliamo del vestito.
+MID_LIN_BRIDE01_STRONGEST: Oh scusa, ti stavo fissando.\nÈ che mi ricordi una persona,\n$Nu.$k$pLa mia metà? Scherzi, vero?$k$pParlavo di $Guno stratega,una stratega|. Abbiamo\nviaggiato a lungo insieme e ci siamo\npresi cura a vicenda...$k$pQuell'amicizia significa molto per me.$k$pNon so se vi somigliate poi così\ntanto, ma la tua compagnia\nmi rende felice.$k$pSe per te è lo stesso, spero che\nniente ci separi, né ora né mai...$k$pSembrava una proposta? Ma no che\nnon lo era! Ma come ti viene\nin mente?
+MID_LIN_BRIDE01_VOICE01: はいっ！
+MID_LIN_BRIDE01_VOICE02: よいしょ
+MID_LIN_BRIDE01_VOICE03: いやぁっ！
+MID_LIN_BRIDE01_VOICE04: Nooo!
+MID_LIN_BRIDE01_VOICE05: Ma scherziamo?
+MID_LIN_BRIDE01_VOICE06: Non l'ho voluto io il vestito!
+MID_LIN_BRIDE01_VOICE07: Rivoglio la mia spada!
+MID_LIN_BRIDE01_VOICE08: Che guardi?
+MID_LIN_BRIDE01_VOICE09: Not like this...
+MID_LIN_BRIDE01_VOICE10: Heehee
+MID_LIN_BRIDE01_VOICE11: Ti proteggerò.
+MID_LIN_BRIDE01_VOICE12: Sempre al tuo fianco.
+MID_LIN_BRIDE01_VOICE13: I know. I know. I know! This really doesn't suit me.
+MID_LIN_BRIDE01_VOICE14: This dress will be the end of me.
+MID_LIN_BRIDE01_VOICE15: I hope you don't find this whole thing funny.
+MID_LIN_BRIDE01_VOICE16: I wonder if my grandfather would be happy to see me like this...
+MID_LIN_BRIDE01_VOICE17: I would never marry someone who couldn't stand at my side in battle. Hey! Let's spar.
+MID_LIN_BRIDE01_VOICE18: All right.
+MID_LIN_BRIDE01_VOICE19: Here we go.
+MID_LIN_BRIDE01_VOICE20: Try my best.

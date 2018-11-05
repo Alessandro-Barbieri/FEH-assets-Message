@@ -1,0 +1,464 @@
+[Heroes Archive] (Menu_00_first)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_HEROISM_LIST: Liste Mérite héroïque
+MID_EXTRA_HEROISM_LIST_INFO: Afficher le mérite héroïque des alliés.
+MID_HOME_FRIEND_TALK_HEROISM: $aCadeau offert par $a0.
+MID_ITEM_GAIN_ACCESSORY: Vous obtenez un sceau sacré !
+MID_ITEM_GAIN_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_ACCESSORY_WARNING: $aVous ne pouvez avoir qu'un exemplaire de\nchaque sceau sacré. Les doubles seront\nconvertis en $a0 plumes de héros.
+MID_ITEM_HELP_STAMINA_50: Vous octroie 99 points d'énergie.
+MID_MAP_BATTLE_START: À l'attaque !
+MID_SHOP_STAMINA_CONFIRM_ITEM_50: Utiliser 1 élixir d'énergie pour\nrestaurer 99 points d'énergie ?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM_50: Vous n'avez pas assez d'énergie.\nUtiliser 1 élixir d'énergie pour\nrestaurer 99 points d'énergie ?
+MID_SHOP_STAMINA_CONFIRM_ORB_50: Dépenser 1 orbe pour restaurer\n99 points d'énergie ?
+MID_SHOP_STAMINA_NOTENOUGH_ORB_50: Vous n'avez pas assez d'énergie.\nDépenser 1 orbe pour restaurer\n99 points d'énergie ?
+MID_STAGE_SELECT_DETAIL_REINFORCEMENT: L'ennemi recevra des renforts !
+MID_STAGE_SELECT_RULE_TURN_SURVIVAL: $aDéfendre pendant $a0 tour(s)
+MID_UNIT_EDIT_ACCESSORY_EQUIP: Assigner sceaux
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP1: Sélectionnez l'allié qui recevra un sceau ou en changera.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP2: Sélectionnez le sceau à assigner.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CONFIRM: Assigner ce sceau ?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_UNSET_CONFIRM: Retirer ce sceau ?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_CONFIRM: $aCe sceau est utilisé par\n$a0. Voulez-vous\néchanger avec l'allié sélectionné ?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 ne peut pas utiliser le sceau\nsélectionné. Celui-ci va être retiré.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_DECIDE: Modifier
+MID_UNIT_EDIT_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Modification effectuée.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_CONFIRM: Renoncer à la modification ?
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_WARNING: Toutes les modifications seront annulées.
+MID_UNIT_EDIT_ACCESSORY_WARNING_WEAPON: Ce sceau ne peut pas être assigné\nà cause du type d'arme.
+MID_UNIT_EDIT_ACCESSORY_WARNING_MOVE: Ce sceau ne peut pas être assigné\nà cause du type de mouvement.
+MID_UNIT_EDIT_ACCESSORY_EMPTY: Aucun sceau.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_00: Les sceaux renforcent vos héros !
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_01: ◆Assigner des sceaux sacrés◆\nVous pouvez assigner les\nsceaux que vous avez reçus à\nvos alliés. Chaque allié ne peut\nen avoir qu'un.
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_02: ◆Limites des sceaux sacrés◆\nIl est impossible d'avoir plus\nd'un exemplaire du même\nsceau sacré. Les doubles seront\nautomatiquement convertis en\nplumes de héros.
+MID_RELOCATION_TUTORIAL_DIALOG_00: Permutez les emplacements.
+MID_RELOCATION_BUTTON: Permuter
+MID_UNIT_EDIT_ACCESSORY_STATUS_EQUIP: Assig.
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_DECIDE: Renoncer
+MID_UNIT_NAME_WITH_HONOR: $a$a1 : $a0
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM_NO_COST: Modifier les aptitudes assignées ?
+MID_UNIT_EDIT_SKILL_WARNING_RARITY: $aLes unités $a0★ et plus peuvent apprendre\ncette aptitude.
+MID_VOTE_ROUND1: Manche 1
+MID_VOTE_ROUND2: Manche 2
+MID_VOTE_ROUND3: Finale
+MID_VOTE_TITLE: Tournoi
+MID_VOTE_REWARD_TITLE: Récompenses
+MID_VOTE_RANKING_TITLE: Classement
+MID_VOTE_BUTTON_RANKING_RX: $aRang $a0
+MID_VOTE_INVESTMENT_TITLE: Puissance d'attaque
+MID_VOTE_CLOSED: Les batailles sont fermées.
+MID_VOTE_AGGREGATING: Calcul... Réessayez plus tard.
+MID_VOTE_SALLY_MINS: $aProchain combat possible dans $a0 min.
+MID_VOTE_SALLY_BUTTON: Combattre
+MID_VOTE_ROUND1_MINS: $aFin de la manche 1 dans $a0 min.
+MID_VOTE_ROUND1_HOURS: $aFin de la manche 1 dans $a0 h.
+MID_VOTE_ROUND2_MINS: $aFin de la manche 2 dans $a0 min.
+MID_VOTE_ROUND2_HOURS: $aFin de la manche 2 dans $a0 h.
+MID_VOTE_ROUND3_MINS: $aFin de la manche finale dans $a0 min.
+MID_VOTE_ROUND3_HOURS: $aFin de la manche finale dans $a0 h.
+MID_VOTE_FINALRESULT: Les résultats finaux sont tombés.
+MID_VOTE_BUTTON_TO2R: Manche 2
+MID_VOTE_BUTTON_TO3R: Manche finale
+MID_VOTE_BUTTON_TOFR: Résultats finaux
+MID_VOTE_GUILDWIN_REWARD: Victoire du camp
+MID_VOTE_RANK_IN_GUILD: Rang dans le camp
+MID_VOTE_TOTAL_SELF_SCORE: Votre score total
+MID_VOTE_TOTAL_RANK: Rang global
+MID_VOTE_REWARDTYPE_ROUNDWINNER: $aTournoi - $a0\nVictoire du camp
+MID_VOTE_REWARDTYPE_ROUNDRANK: $aTournoi - $a0\nRang dans le camp : nº $a1
+MID_VOTE_REWARDTYPE_TOTALRANK: $aTournoi\nRang global : nº $a1
+MID_VOTE_RUSHDEMO_RATIO: $a× $a0 !
+MID_VOTE_ARMY_NAME: $aPour $a0 !
+MID_VOTE_PLAYER: Vous
+MID_VOTE_OPPONENT: Rival
+MID_VOTE_PLAYER_SCORE: Votre score
+MID_VOTE_SCORE: Score
+MID_VOTE_JOIN: Soutenir
+MID_VOTE_JOIN_CONFIRM: Soutenir ce héros ?
+MID_VOTE_JOIN_EPITHET_AND_NAME: _:_
+MID_VOTE_RANK: Rang
+MID_VOTE_VIEW_RANK_RANGE: Choisir option
+MID_VOTE_VIEW_RANK_PLAYER: Votre rang
+MID_VOTE_VIEW_RANK_TOP: Podium
+MID_VOTE_RANKING_TOP_UNCALCULATED: Calcul du rang...
+MID_VOTE_RANKING_AME_UNCALCULATED: Vous n'avez pas de rang.
+MID_VOTE_REWARD_SORT_ROUND: Manche actuelle
+MID_VOTE_REWARD_SORT_TOURNAMENT: Total
+MID_VOTE_ROUND1_END: Manche 1 terminée.
+MID_VOTE_ROUND2_END: Manche 2 terminée.
+MID_VOTE_ROUND3_END: Manche finale terminée.
+MID_VOTE_ROUND1_RESULT: Manche 1 : résultats
+MID_VOTE_ROUND2_RESULT: Manche 2 : résultats
+MID_VOTE_ROUND3_RESULT: Manche fin. : résultats
+MID_VOTE_SITUATION: Situation actuelle
+MID_VOTE_ATTACK_MAX: Attaque au max
+MID_VOTE_ATTACK_1X: × 1
+MID_VOTE_ATTACK_NX: $a× $a0
+MID_VOTE_SUPERIOR: Favori
+MID_VOTE_INFERIOR: Challenger
+MID_VOTE_EQUAL: Équivalent
+MID_VOTE_WIN: Victoire
+MID_VOTE_LOSE: Défaite
+MID_VOTE_TOURNAMENT_BOTTOM_CAPTION: Qui allez-vous soutenir ?
+MID_VOTE_TOURNAMENT_TOP_CAPTION: Vous recevrez un prix si votre camp\ngagne, si vous faites un bon score, etc.
+MID_VOTE_DIALOG_WIN_TEXT: Votre camp a gagné.
+MID_VOTE_DIALOG_WIN_WARNING: Vous resterez dans ce camp.
+MID_VOTE_DIALOG_LOSE_TEXT: Votre camp a perdu.
+MID_VOTE_DIALOG_LOSE_WARNING: Choisissez un nouveau camp à soutenir.
+MID_VOTE_DIALOG_GO_TEXT: Combattre ?
+MID_VOTE_DIALOG_GO_WARNING: $aVous pourrez réessayer après $a0 min.
+MID_VOTE_DIALOG_GO_YES: Combattre
+MID_VOTE_DIALOG_GO_NO: Retour
+MID_VOTE_DIALOG_INVESTMENT_TEXT: Attaquer ?
+MID_VOTE_DIALOG_INVESTMENT_TEXT_X: $aAttaque avec × $a1 ?
+MID_VOTE_DIALOG_INVESTMENT_WARNING: $a$a0 étendards de bataille seront utilisés.
+MID_VOTE_DIALOG_INVESTMENT_YES: Attaquer !
+MID_VOTE_DIALOG_LAST10MINS_TEXT: $a$a0 bientôt terminée.
+MID_VOTE_DIALOG_LAST10MINS_WARNING: Après, les scores ne comptent pas.
+MID_VOTE_DIALOG_ROUND_END_TEXT: $a$a0 terminée. Vous ne\npouvez plus progresser.
+MID_VOTE_DIALOG_ROUND_END_WARNING: Vous allez revenir à la carte du monde.
+MID_VOTE_DIALOG_JOIN_ERROR_TEXT: Vous n'avez pas pu rejoindre ce camp.
+MID_VOTE_DIALOG_JOIN_ERROR_WRNING: Veuillez réessayer plus tard.
+MID_VOTE_DIALOG_HELP_00: Menez votre favori vers la victoire !
+MID_VOTE_DIALOG_HELP_01: ◆ Tournoi ◆\nChoisissez l'un des huit héros en\nlice pour rejoindre son armée et\naffronter celles de ses rivaux\ndans des combats en équipe.
+MID_VOTE_DIALOG_HELP_02: ◆ Conditions de victoire ◆\nLe héros qui a récolté le plus\nde points à la fin du temps\nimparti est déclaré vainqueur.
+MID_VOTE_DIALOG_HELP_03: ◆ Délai d'attente ◆\nAprès un combat, vous devrez\nattendre un certain temps avant\nde lutter à nouveau pour le camp\nde votre héros.
+MID_VOTE_DIALOG_HELP_04: ◆ Format des combats ◆\nLes combats opposent deux\néquipes de trois. Votre\néquipe est composée de :\n・ Votre leader\n・ Le leader d'un ami, si vous\nen avez\n・ Le leader d'un joueur ne\nfigurant pas dans votre\nliste d'amis
+MID_VOTE_DIALOG_HELP_05: ◆ Étendards de bataille ◆\nAprès une victoire, vous\npouvez utiliser des étendards\nde bataille pour multiplier\nles points reçus.\n\nVous pouvez utiliser plus d'un\nétendard de bataille pour\naugmenter encore votre\ncontribution à votre camp.
+MID_VOTE_DIALOG_HELP_REWARD_00: ◆ Récompenses ◆\nVous pouvez consulter les\nrécompenses actuellement\nen jeu. Utilisez les filtres pour\nconsulter les récompenses\nrelatives à chaque bataille ainsi\nqu'au classement final.
+MID_VOTE_DIALOG_HELP_REWARD_01: ◆ Rang ◆\nVotre rang est actualisé toutes les\nheures, cependant il peut y avoir\nun certain délai d'attente entre le\nmoment où il est calculé et son\nchangement effectif.\n
+MID_UNIT_EDIT_SKILL_INHERIT_DESTINATION: Héritera
+MID_UNIT_EDIT_SKILL_INHERIT_SOURCE: Perdra
+MID_UNIT_EDIT_SKILL_INHERIT_HELP1: Sélectionnez le donneur et le receveur de l'aptitude.
+MID_UNIT_EDIT_SKILL_TALENT_CONFIRM: Procéder à la transmission ?
+MID_UNIT_EDIT_SKILL_INHERIT_WARNING: Une fois la transmission terminée,\nle personnage donneur disparaîtra.
+MID_UNIT_EDIT_SKILL_INHERIT_DECIDE: Transmettre
+MID_UNIT_EDIT_SKILL_TALENT: Transmettre aptitudes
+MID_UNIT_EDIT_SKILL_TALENT_HELP2: Sélectionnez jusqu'à trois aptitudes à transmettre.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00: ◆ Transmission d'aptitude ◆\nUn héros peut recevoir jusqu'à\ntrois aptitudes d'un autre héros,\nmais ce dernier disparaîtra\naprès l'opération.\n\nCes aptitudes sont ajoutées à la\nliste des aptitudes du receveur et\npeuvent être apprises\nnormalement, mais le coût en\nPA habituel est multiplié par 1,5.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_01: Veuillez noter qu'un héros marqué\ncomme favori ne peut pas\ntransmettre ses aptitudes à un\nautre héros.\nPour ce faire, vous devez lui\nretirer son statut de favori\ndepuis son profil.
+MID_UNIT_EDIT_SKILL_STATUS_TALENT: Possédée
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT1: $aCette aptitude est nécessaire :\n$a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT2: $aL'une de ces aptitudes est nécessaire :\n$a0 ou $a1.
+MID_ARENA_SORT_GRADE: Rang (rg d'arène)
+MID_ARENA_SORT_REWARDTYPE_GRADE: Récompenses : Rg d'arène
+MID_ARENA_GAINED_REWARDTYPE_GRADE: $aRécompense - Rg d'arène : $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_CHANGE: $aRécompense - Rg d'arène : $a1 → $a0
+MID_ARENA_DIALOG_HELP_04_1103: ◆ Récompenses ◆\nUne fois la saison terminée, vous\nrecevrez des récompenses en\nfonction de votre record et de\nvotre rang. Si votre meilleur\nscore est assez élevé, vous\npourrez passer au rang\nd'arène supérieur.
+MID_ARENA_DIALOG_HELP_05_1103: ◆ Appel aux armes ◆\nÀ chaque saison, vous pouvez\ndoubler les points obtenus par\nvos équipes d'attaque et de\ndéfense en y incluant certains\nhéros.
+MID_ARENA_DIALOG_HELP_3_00_1103: ◆ Consulter les récompenses ◆\nVous pouvez consulter les\nrécompenses en jeu pour\nla saison en cours. Utilisez\nles filtres pour afficher les\nrécompenses d'attaque,\nde défense et de rang.
+MID_ARENA_DIALOG_HELP_3_02_1103: ◆ Classement ◆\nAffiche les récompenses pour\nvotre rang et les rangs proches\ndu vôtre. Les rangs sont calculés\nau début de chaque heure.\nIl peut s'écouler un certain temps\navant qu'un changement ne soit\nreflété.
+MID_VOTE_INFERIOR_BOOST_RATE: $aPoints × $a1 pour $a0 min.
+MID_SEQUENTIAL_MAP_TERM_201707: L'écho des lames
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT_BIND: $aÉquipes : $a0, Batailles : $a1
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_00: Combattez en changeant d'alliés !
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_01: ◆Assaut en équipes◆\nAprès avoir terminé une carte,\nvous passez immédiatement\nà la suivante.\n\nÀ la fin d'une bataille, les héros\nayant participé sont capturés\net ne peuvent plus combattre.
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_02: ◆Quatre héros par carte◆\nQuatre héros sont nécessaires\npour chaque carte.\n\nCela signifie que pour cinq\nbatailles, vous devez avoir\n20 héros uniques. (Les héros\nen double ne comptent pas.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_03: ◆Règles◆\n・ Il est impossible d'avoir deux\nexemplaires du même héros\ndans une équipe.\n・ Un héros ayant participé à une\nbataille ne peut plus combattre.\n(Cela concerne également les\nautres exemplaires de ce héros.)
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_04: ◆Libération des héros◆\nSi vous terminez une série de\ncartes ou que vous perdez, tous\nles héros seront libérés.\n\nCela signifie qu'ils pourront\ncombattre à nouveau.
+MID_STAGE_OPEN_FIRST_TRIAL: Vous avez débloqué le\ndéfi d'endurance.
+MID_STAGE_OPEN_NEW_TRIAL: De nouvelles batailles ont été\najoutées au défi d'endurance.
+MID_STAGE_OPEN_FIRST_BIND: Vous avez débloqué\nl'assaut en équipes.
+MID_STAGE_OPEN_NEW_BIND: De nouvelles batailles ont été\najoutées à l'assaut en équipes.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT: Impossible d'utiliser plusieurs\nexemplaires du même héros\ndans une équipe.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL: Vous n'avez pas suffisamment\nd'alliés. Chaque équipe doit\ncomporter quatre alliés, sans\ndoubles.
+MID_STAGE_SELECT_TRIAL: Défi d'endurance
+MID_STAGE_SELECT_TRIAL_INFO: Terminez plusieurs cartes à la suite.
+MID_STAGE_SELECT_BIND: Assaut en équipes
+MID_STAGE_SELECT_BIND_INFO: Relevez un défi très corsé.
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO_SHORT: Parcourez l'histoire principale.
+MID_STAGE_SELECT_SCENARIO_SUB_INFO_SHORT: Découvrez d'autres cartes de l'histoire.
+MID_SUMMON_INFORMATION: Détails
+MID_SUMMON_SEASON_DAYS: $aEncore $a0 j
+MID_SUMMON_SEASON_HOURS: $aEncore $a0 h
+MID_SUMMON_SEASON_MINUTES: $aEncore $a0 min
+MID_EXTENDED_SORT: Avancé
+MID_UNIT_EDIT_SORT_GOTO_EXTENDED: Options avancées
+MID_UNIT_EDIT_SORT_GOTO_SIMPLE: Tri normal
+MID_UNIT_EDIT_EXTENDED_SORT_INFO: Sélectionnez les options\net l'ordre de tri.
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITIONS: $a$a0 :
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_ASCENDING: ↑
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_DESCENDING: ↓
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITION_NONE: —
+MID_UNIT_EDIT_EXTENDED_SORT_CLEAR: Réinitialiser
+MID_VOTE_OVERALL_SITUATION: Scores
+MID_CHAIN_ARENA_TITLE: Assaut de l'arène
+MID_CHAIN_ARENA_HEADLINE: Il est impossible d'utiliser plusieurs\nexemplaires du même héros.
+MID_CHAIN_ARENA_ITEMHELP: Choisissez trois objets au maximum. Les\nobjets non utilisés ne sont pas consommés.\nDes objets peuvent apparaître dans l'arène.
+MID_CHAIN_ARENA_SPECIALITEM: Objets spéciaux
+MID_CHAIN_ARENA_WINCOUNT: $aVictoires : $a0/$a1
+MID_CHAIN_ARENA_CURRENT_SCORE: Score actuel
+MID_CHAIN_ARENA_1WIN: $a$a0 victoire !
+MID_CHAIN_ARENA_2WINS: $a$a0 victoires !
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Continuer ?
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: Il n'est pas nécessaire de\ns'acquitter d'une épée de duel.\n\nSeule la première bataille de la\njournée rapporte de l'EXP,\ndes PA et du MH.
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING_TWICE: Il n'est pas nécessaire de\ns'acquitter d'une épée de duel.\n\nVous ne gagnez plus d'EXP, de\nPA ou de MH à partir de la\ndeuxième bataille de la journée.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_TEXT: Voulez-vous capituler ?\nVous ne pourrez plus continuer.
+MID_CHAIN_ARENA_DIALOG_GIVEUP_WARNING: Si vous capitulez, votre score sera\ncalculé en fonction du nombre de\ncartes que vous avez terminées.
+MID_CHAIN_ARENA_DIALOG_BACK_TEXT: Revenir à l'écran précédent ?
+MID_CHAIN_ARENA_DIALOG_BACK_NO: Non
+MID_ARENA_DESCRIPTION: Mesurez-vous à des rivaux du monde\nentier et gagnez des récompenses.\nVisez les sept victoires consécutives !
+MID_CHAIN_ARENA_DESCRIPTION: $aCe mode nécessite plusieurs équipes et\ns'adresse aux joueurs confirmés.\nVisez les $a0 victoires à la suite !
+MID_CHAIN_ARENA_GAINED_REWARDTYPE_RANK: $aAssaut de l'arène :\nrécompense (rang) $a0
+MID_CHARACTER_PICTORIAL_BOOK_TITLE: Livre des héros
+MID_CHARACTER_PICTORIAL_BOOK_TOTAL: Héros
+MID_CHARACTER_PICTORIAL_BOOK_TALK: Dialogue
+MID_CHARACTER_PICTORIAL_BOOK_SUMMON_TALK: Invoquer
+MID_CHARACTER_PICTORIAL_BOOK_STRONGEST_TALK: 5★ niv. 40
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_00: ◆Profils◆\nTouchez un héros pour consulter\nson profil. Les héros croisés au\ncombat sont représentés par des\nsilhouettes. Vos alliés ont un\nprofil complet.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_01: ◆Dialogue◆\nIci, vous pouvez voir ce que disent\nles héros lorsqu'ils sont invoqués\net lorsqu'ils atteignent le maximum\nd'étoiles. Les alliés ayant atteint\nce maximum sont indiqués par un\ncadre brillant dans la liste.
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_02: ◆Illustrations◆\nTouchez la loupe pour afficher\nl'illustration du personnage en\ntaille réelle.\n\n◆Mini unité◆\nTouchez la mini unité pour\ndéclencher une animation.
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_BUTTON: Marquer comme vus
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DIALOG: L'icône « ! » apparaissant sur les\nhéros récemment obtenus sera\nretirée. Continuer ?
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DECIDE: Retirer l'icone « ! »
+MID_PRESENT_LIST_TIME_LIMIT: Cadeaux acceptés au cours des 14 derniers jours.
+MID_YEAR_MONTH_DAY: $a$a2/$a1/$a0
+MID_COUNT_UP_LOGIN_BONUS_PERIOD: $a$a0 - $a1
+MID_ITEM_HOLY_COIN: Pièce sacrée
+MID_ITEM_HELP_HOLY_COIN: Une pièce qui était autrefois\nutilisée dans des cérémonies.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_DECIDE: Utiliser
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_WARNING: Impossible d'utiliser cet objet maintenant\ncar il n'aurait aucun effet.
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_HELP: Sélectionnez l'objet que vous souhaitez\nutiliser.
+MID_SEQUENTIAL_MAP_TERM_201708: Retrouvailles
+MID_SEQUENTIAL_MAP_BOOST: $aBonus : score x$a1. Encore $a0 fois aujourd'hui.
+MID_CHAIN_ARENA_HELP_DIALOG_00: Enchaînez les victoires !
+MID_CHAIN_ARENA_HELP_DIALOG_01: ◆Assaut de l'arène◆\nUn mode conçu pour les joueurs\nconfirmés. Utilisez plusieurs\néquipes pour enchaîner les\nvictoires.\nUtilisez vos objets spéciaux au\nbon moment et terrassez les\nennemis qui vous attendent !
+MID_CHAIN_ARENA_HELP_DIALOG_02: ◆Épées de duels◆\nDans ce mode, il n'est pas\nnécessaire de dépenser des\népées de duel !\n\n◆Puissance des ennemis◆\nÀ chaque manche, la puissance\nde vos ennemis dépend de celle\nde votre équipe de départ.
+MID_CHAIN_ARENA_HELP_DIALOG_03: ◆Gagnez des objets spéciaux◆\nBattez des ennemis de niveau 35\nou plus et enchaînez les victoires\npour gagner des objets :\n\n3 victoires à la suite : 1 objet\n5 victoires à la suite : 2 objets\n7 victoires à la suite : 3 objets
+MID_CHAIN_ARENA_HELP_DIALOG_04: ◆Emportez des objets◆\nQuand vous commencez un\nassaut de l'arène, vous pouvez\nemporter des objets avec vous.\n\nUtilisez-les pendant le combat\npour prendre l'avantage !
+MID_CHAIN_ARENA_HELP_DIALOG_05: ◆Règles◆\n・ Il est impossible d'avoir deux\nexemplaires du même héros\ndans une équipe.\n・ Un héros ayant participé à une\nbataille ne peut plus combattre.\n(Cela concerne également les\nautres exemplaires de ce héros.)
+MID_CHAIN_ARENA_HELP_DIALOG_06: ◆Libération des héros◆\nSi vous terminez une série de\ncartes ou que vous perdez, tous\nles héros seront libérés.\n\nCela signifie qu'ils pourront\ncombattre à nouveau.
+MID_CHAIN_ARENA_HELP_DIALOG_07: ◆Score◆\nVotre score dépend du nombre\nd'ennemis que vous avez\nvaincus.\n\nSi vous enchaînez les victoires,\nvous bénéficierez d'un bonus.
+MID_CHAIN_ARENA_HELP_DIALOG_08: ◆Record◆\nIl s'agit du meilleur score que\nvous avez obtenu. Il est\nréinitialisé à chaque saison.\n\n◆Récompenses◆\nAprès la fin d'une saison, vous\nrecevrez des récompenses en\nfonction de votre rang.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_05_1106: ◆Boost Appel aux armes◆\nSi vous utilisez des personnages\nconcernés par Appel aux armes\ndans la Tourmente, ils bénéficient\nde PV +10 et Atq/Vit/Déf/Rés +4.
+MID_CHAIN_ARENA_DIALOG_HELP_3_00: ◆ Consulter les récompenses ◆\nVous pouvez consulter les\nrécompenses en jeu pour\nla saison en cours.
+MID_CHAIN_ARENA_DIALOG_HELP_3_01: ◆ Obtenir une récompense ◆\nPour recevoir les récompenses\nque vous avez gagnées lors de\nla saison précédente, allez dans\nl'assaut de l'arène après le calcul\ndes résultats de la saison en\nquestion, mais avant la fin de la\nnouvelle saison.
+MID_SUMMON_PULL_ONLY_ONCE: Choisir un héros met fin à la session.\nHéros le plus populaire : Lyn (gris)
+MID_SUMMON_HERO_CONFIRM: Invoquer ce héros ?
+MID_SUMMON_GRANT_CONFIRM: Invoquer ?
+MID_SUMMON_GRANT_WARNING: Vous pouvez invoquer un héros.\n(Vous ne pouvez en choisir qu'un.)
+MID_SUMMON_ONE_TIME_FREE_WARNING: Vous avez une invocation gratuite.\nLes suivantes nécessiteront des orbes.
+MID_SUMMON_LIMITED_BEGINNER_DAYS: $aSoutien de novice : encore $a0 j
+MID_SUMMON_LIMITED_BEGINNER_HOURS: $aSoutien de novice : encore $a0 h
+MID_SUMMON_LIMITED_BEGINNER_MINUTES: $aSoutien de novice : encore $a0 min
+MID_SUMMON_PAY_FREE: Invoquer
+MID_UNIT_EDIT_SKILL_WARNING_SAME: Certaines aptitudes ne peuvent\npas être transmises.\n\nEn fusionnant des héros en\ndouble, vous pourrez transférer\ntoutes les aptitudes.\n\nVoulez-vous continuer ?
+MID_SEQUENTIAL_MAP_LOAD_TROOP_INFO: Choisissez une équipe. Les réserves\ncombattent s'il y a plusieurs cartes.
+MID_SEQUENTIAL_MAP_LOAD_TROOP_BUTTON: Appeler cette équipe
+MID_SEQUENTIAL_MAP_LOAD_TROOP_EDIT: Modifier
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_NORMAL: Équipes principales
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_RESERVE: Équipes réserves
+MID_SEQUENTIAL_MAP_LOAD_TROOP_ORGANIZE_RESERVE: Modifier éq. réserve
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE: Modifier éq. réserve
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_DECIDE: Liste des équipes
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM: Utiliser cette équipe ?
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_DECIDE: Appeler cette équipe
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_CANCEL: Retour
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_00: Créez des équipes réserves !
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01: Les équipes réserves ne peuvent\nêtre créées ou modifiées que dans\nles modes où les batailles se\ndéroulent sur plusieurs cartes.
+MID_UNIT_EDIT_TROOP_LIST_INFO: Sélectionnez l'équipe à modifier.
+MID_UNIT_EDIT_RESERVE_TROOP_LIST_INFO: Sélectionnez l'équipe réserve à modifier.
+MID_UNIT_EDIT_TROOP_LIST_SELECT: Sélectionner cette équipe
+MID_SEQUENTIAL_MAP_TERM_201709: Sombre destin
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH: Recherche d'aptitude
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_CURRENT: Aptitude :
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_HELP: Sélectionnez l'aptitude que vous souhaitez trouver.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_WARNING_RARITY: Transmissible si le rang ★ du donneur augmente.
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_RESET: Effacer
+MID_UNIT_EDIT_RELIANCE_RANK_1: C
+MID_UNIT_EDIT_RELIANCE_RANK_2: B
+MID_UNIT_EDIT_RELIANCE_RANK_3: A
+MID_UNIT_EDIT_RELIANCE_RANK_4: S
+MID_UNIT_EDIT_RELIANCE_RANK_PAIR: Rang de soutien
+MID_UNIT_EDIT_RELIANCE_RANK_PLAYER: Rang de lien
+MID_UNIT_EDIT_RELIANCE_PARTNER: Partenaire
+MID_UNIT_EDIT_RELIANCE: Soutien d'allié
+MID_UNIT_EDIT_RELIANCE_PLAYER: Soutien d'invocateur
+MID_UNIT_EDIT_RELIANCE_SORT: Sélectionnez un critère de tri.
+MID_UNIT_EDIT_RELIANCE_SORT_CHARACTER: Monde
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_ASCENDING: Soutien ↑
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_DESCENDING: Soutien ↓
+MID_UNIT_EDIT_RELIANCE_CONFIRM: $aVoulez-vous que $a0\net $a1 deviennent\npartenaires pour recevoir un\nboost en combattant ensemble ?
+MID_UNIT_EDIT_RELIANCE_WARNING: Un allié ne peut avoir qu'un partenaire\nà la fois. Si un allié change de\npartenaire, le rang de soutien actuel\nsera réinitialisé.
+MID_UNIT_EDIT_RELIANCE_DECIDE: Choisir le soutien
+MID_UNIT_EDIT_RELIANCE_HELP1: Choisissez le partenaire de cet allié.
+MID_UNIT_EDIT_RELIANCE_HELP2: Si l'allié change, le rang de soutien sera réinitialisé.
+MID_UNIT_EDIT_RELIANCE_CHARACTER_NAME_EMPTY: ------
+MID_UNIT_EDIT_PERSON_TOTAL: Alliés
+MID_UNIT_EDIT_RELIANCE_PLAYER_CONFIRM: $aSi vous soutenez un allié, celui-ci\nrecevra un boost. Voulez-vous\nsoutenir $a0 ?
+MID_UNIT_EDIT_RELIANCE_PLAYER_WARNING: Vous ne pouvez soutenir qu'un allié\nà la fois. Si vous changez d'allié,\nle rang de soutien actuel sera\nréinitialisé.
+MID_UNIT_EDIT_RELIANCE_PLAYER_DECIDE: Soutenir l'allié
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP: Vous ne pouvez soutenir qu'un allié à la fois.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C: Les alliés se respectent mutuellement. Ils\nrecevront un boost en combattant ensemble.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C_WITH_USER: Vous vous respectez mutuellement.\nL'allié reçoit un boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B: Les alliés s'entraînent ensemble. Ils\nrecevront un boost en combattant ensemble.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B_WITH_USER: Vous vous entraînez ensemble.\nL'allié reçoit un boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1: Les alliés discutent de tous les sujets. Ils\nrecevront un boost en combattant ensemble.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1_WITH_USER: Vous discutez de tous les sujets.\nL'allié reçoit un boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2: Les alliés se font des confidences. Ils\nrecevront un boost en combattant ensemble.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2_WITH_USER: Vous vous faites des confidences.\nL'allié reçoit un boost.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S: Les alliés sont unis par un lien indestructible.\nIls recevront un boost en combattant ensemble.
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_WITH_USER: Vous êtes unis par un lien indestructible.\nL'allié reçoit un boost.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_00: Créez des liens entre vos alliés !
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_01: ◆Soutien d'allié◆\nDeux alliés peuvent devenir\npartenaires.\n\nIls recevront alors un boost\ns'ils combattent ensemble.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_02: ◆Créer des liens◆\nSélectionnez deux alliés pour\ncréer un lien entre eux et\nen faire des partenaires.\n\nAu départ, ils auront le\nrang de soutien C.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_03: ◆Améliorer le rang de soutien◆\nSi les partenaires sont à moins de\n2 cases de distance et affrontent\ndes ennemis de niveau 35 ou plus,\nleur lien devient plus fort.\n\nLe rang de soutien augmente\nquand le lien atteint un certain\nniveau. Les rangs possibles\nsont C, B, A et S.
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_04: ◆Effets de soutien 1◆\nLes partenaires de rang C ou plus\nreçoivent un boost lorsqu'ils\ncombattent côte à côte.\n\nC : Rés +2\nB : Déf/Rés +2\nA : Vit/Déf/Rés +2\nS : Atq/Vit/Déf/Rés +2
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_05: ◆Effets de soutien 2◆\nSi les partenaires sont séparés\npar une case, ils reçoivent un\nboost moins important.\n\nC : Rés +1\nB : Déf/Rés +1\nA : Vit/Déf/Rés +1\nS : Atq/Vit/Déf/Rés +1
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_06: ◆Limites du soutien d'allié◆\nUn allié ne peut avoir qu'un\npartenaire à la fois. S'il en\nchange, le rang de soutien\nactuel sera réinitialisé.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_00: Soutenez un allié !
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_01: ◆Soutien d'invocateur◆\nEn tant qu'invocateur, vous\npouvez créer un lien avec un\nallié.\n\nCelui-ci recevra alors un boost.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_02: ◆Créer un lien◆\nSélectionnez l'allié que vous\nvoulez soutenir pour créer\nun lien.\n\nAu départ, vous aurez le\nrang de soutien C.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_03: ◆Améliorer le rang de soutien◆\nQuand votre allié affronte des\nennemis de niveau 35 ou plus,\nle lien qui vous unit devient\nplus fort.\n\nLe rang de soutien augmente\nquand le lien atteint un certain\nniveau. Les rangs possibles\nsont C, B, A et S.
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_04: ◆Effets du soutien d'invocateur◆\nAu rang C ou plus, l'allié que vous\nsoutenez recevra un boost.\n\nC : PV +3, Rés +2\nB : PV +4, Déf/Rés +2\nA : PV +4, Vit/Déf/Rés +2\nS : PV +5, Atq/Vit/Déf/Rés +2
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_05: ◆Limites du soutien d'invocateur◆\nVous ne pouvez soutenir qu'un\nallié à la fois. Si vous en changez,\nle rang de soutien actuel sera\nréinitialisé.
+MID_UNIT_EDIT_RELIANCE_SORT_ATTRIBUTE: Type
+MID_UNIT_EDIT_RELIANCE_SORT_WEAPON: Type d'arme
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_1: Rang C
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_2: Rang B
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_3: Rang A
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_4: Rang S
+MID_UNIT_EDIT_RELIANCE_SUMMONER_NAME: Vous
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_TEXT: Impossible de commencer la bataille.
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_WARNING: Votre équipe n'a pas assez de membres.
+MID_PRESENT_LIST_CONFIRM_ALL_RECEIVE: Tout accepter ?
+MID_MISSION_CONFIRM_ALL_RECEIVE: Accepter toutes les récompenses ?
+MID_ITEM_HELP_PROMOTION_RED1_1108: Déverrouille le potentiel d'un allié. Ajoute\nune ★ à un allié rouge de rang 3★ ou inférieur.\nÀ utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_RED2_1108: Déverrouille le potentiel d'un allié. Fait\npasser un allié rouge du rang 4★ au\nrang 5★. À utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_BLUE1_1108: Déverrouille le potentiel d'un allié. Ajoute\nune ★ à un allié bleu de rang 3★ ou inférieur.\nÀ utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_BLUE2_1108: Déverrouille le potentiel d'un allié. Fait\npasser un allié bleu du rang 4★ au\nrang 5★. À utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_GREEN1_1108: Déverrouille le potentiel d'un allié. Ajoute\nune ★ à un allié vert de rang 3★ ou inférieur.\nÀ utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_GREEN2_1108: Déverrouille le potentiel d'un allié. Fait\npasser un allié vert du rang 4★ au\nrang 5★. À utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_NEUTRAL1_1108: Déverrouille le potentiel d'un allié. Ajoute\nune ★ à un allié gris de rang 3★ ou inférieur.\nÀ utiliser dans la forge sacrée.
+MID_ITEM_HELP_PROMOTION_NEUTRAL2_1108: Déverrouille le potentiel d'un allié. Fait\npasser un allié gris du rang 4★ au\nrang 5★. À utiliser dans la forge sacrée.
+MID_ITEM_HELP_HOLY_COIN_1108: Une pièce ancienne à utiliser dans\nla forge sacrée.
+MID_MISSION_JUMP_UNAVAILABLE: Vous ne pouvez accéder à cette\ncarte pour l'instant.
+MID_MISSION_JUMP_CONFIRM: Tenter cette quête ?
+MID_MISSION_JUMP_DECIDE: C'est parti !
+MID_STAGE_OPEN_SKILL_ACCESSORY_PROMOTION: Création et amélioration de sceaux\nsacrés disponible.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_1: PV +3, Rés +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_2: PV +4, Déf/Rés +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_3: PV +4, Vit/Déf/Rés +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_4: PV +5, Atq/Vit/Déf/Rés +2
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_1: Les partenaires bénéficient de Rés +2\ns'ils sont sur des cases adjacentes,\nRés +1 s'ils sont séparés d'une case.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_2: Les partenaires bénéficient de\nDéf/Rés +2 s'ils sont sur des cases\nadjacentes, Déf/Rés +1 s'ils sont\nséparés d'une case.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_3: Les partenaires bénéficient de\nVit/Déf/Rés +2 s'ils sont sur des\ncases adjacentes, Vit/Déf/Rés +1\ns'ils sont séparés d'une case.
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_4: Les partenaires bénéficient de\nAtq/Vit/Déf/Rés +2 s'ils sont sur des\ncases adjacentes, Atq/Vit/Déf/Rés +1\ns'ils sont séparés d'une case.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_AND_PROMOTION: Forge sacrée
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION: Création
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION: Amélioration
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_HELP: Choisissez le sceau sacré à créer.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_NO_TARGET: Impossible de créer un sceau sacré\npour l'instant.
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_CONFIRM: Créer ce sceau sacré ?
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE: Créer
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE_SUCCESS: Le sceau sacré a été créé.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_HELP: Choisissez le sceau sacré à améliorer.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_NO_TARGET: Impossible d'améliorer un sceau pour l'instant.
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_CONFIRM: Améliorer ce sceau sacré ?
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE: Améliorer
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_ARROW: →
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE_SUCCESS: Le sceau sacré a été amélioré.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_00: Améliorez vos sceaux sacrés !
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_01: ◆Création de sceaux sacrés◆\nVous pouvez créer les sceaux\nsacrés que vous n'avez pas en\nutilisant des badges, des insignes\net des pièces sacrées.
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_02: ◆Amélioration de sceaux sacrés◆\nVous pouvez libérer le pouvoir\ncaché des sceaux sacrés en les\naméliorant d'un rang à la fois à\nl'aide de badges, d'insignes et\nde pièces sacrées.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_TEXT: Impossible de commencer la bataille.
+MID_VOTE_DIALOG_NO_LEADER_ERROR_WARNING: Sélectionnez un chef d'équipe.
+MID_SEQUENTIAL_MAP_TERM_201709_2: Face au destin
+MID_SEQUENTIAL_MAP_TERM_201710: Lignée de lumière
+MID_SEQUENTIAL_MAP_TERM_201711: Quasi héroïques
+MID_ARENA_RANK_CALCULATING: Calcul
+MID_ARENA_DIALOG_HELP_2_02_701: ◆ Équipe de défense ◆\nVous pouvez choisir l'équipe\nqui sera utilisée en défense\ndans la section Gérer les\néquipes
+MID_SPRINKLES_GIFT_RECEIVED: Vous avez reçu un bonus de carte\ncadeau Google Play ! Vous le\ntrouverez dans votre liste de cadeaux.
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED: Aucun nouveau bonus de carte cadeau\nGoogle Play n'est disponible pour le\nmoment. *Consultez votre liste de\ncadeaux, vous pourriez avoir déjà\nreçu votre bonus.
+MID_SPRINKLES_INVENTORY_MESSAGE: Bonus de carte cadeau Google Play
+MID_LOAD_OUT_OF_TERM_CONFIRM: Impossible de reprendre la bataille\ncar la période d'activité est\nterminée. Votre signet va être\nsupprimé.
+MID_MISSION_ALL_RECEIVE_COMPLETED: Toutes les récompenses des quêtes\nterminées ont été acceptées.
+MID_MISSION_APPEAR_STRATUM_LIST: De nouveaux modes de difficulté\nont été ajoutés aux quêtes suivantes.
+MID_SEQUENTIAL_MAP: Tourmente
+MID_SEQUENTIAL_MAP_CLOSED: Les batailles sont fermées.
+MID_SEQUENTIAL_MAP_AGGREGATING: Calcul du résultat.
+MID_SEQUENTIAL_MAP_REMAINING_DAYS: $aFin dans $a0 j
+MID_SEQUENTIAL_MAP_REMAINING_HOURS: $aFin dans $a0 h
+MID_SEQUENTIAL_MAP_REMAINING_MINUTES: $aFin dans $a0 min
+MID_SEQUENTIAL_MAP_ENTER_STAGE_SELECT: Choix du niveau
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT: $aÉquipes : $a0, Batailles : $a1
+MID_SEQUENTIAL_MAP_STAGE_SELECT_WARNING: Utilisez Appel aux armes pour obtenir\nun meilleur score.
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_WIN: Récompense (victoire)
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_LOSE: Récompense (défaite)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_TITLE: $aNiveau $a0
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_NUM: $a($a0/$a1)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_TROOP_NUM: $aÉquipe $a0 ($a1/$a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_STAGE_NUM: $aNiveau $a0 ($a1/$a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_TROOP_NUM: $aÉquipe $a0 ($a1/$a2)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_RULE_TITLE: Victoire
+MID_SEQUENTIAL_MAP_REWARD: Récompenses
+MID_SEQUENTIAL_MAP_REWARD_RANK: Rang
+MID_SEQUENTIAL_MAP_OUT_OF_RANGE: aucun
+MID_SEQUENTIAL_MAP_RANK_AGGREGATING: Calcul
+MID_SEQUENTIAL_MAP_REWARD_POINT: Score cumulé
+MID_SEQUENTIAL_MAP_REWARD_POINT_SHORT: Score
+MID_SEQUENTIAL_MAP_REWARD_SORT: $aRécompenses : $a0
+MID_SEQUENTIAL_MAP_REWARD_SORT_POINT: Score
+MID_SEQUENTIAL_MAP_REWARD_SORT_RANK: Rang
+MID_SEQUENTIAL_MAP_REWARD_SORT_DIALOG: Récompenses
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER: Appel aux armes
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_1: Utilisez un de ces alliés pour améliorer votre score !
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_2: (Un seul bonus s'applique.)
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO: $a+$a0 %
+MID_SEQUENTIAL_MAP_REORGANIZE: Modifier l'équipe
+MID_SEQUENTIAL_MAP_REORGANIZE_TROOP_INFO: $aÉquipe $a0 ($a0/$a1)
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER: Capituler
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CONFIRM: Voulez-vous capituler ? Vous\nne pourrez pas continuer.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_WARNING: Si vous capitulez, votre score dépendra\ndu nombre de cartes que vous avez\nterminées cette fois-ci.
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_DECIDE: Capituler
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CANCEL: Retour
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START: Combattre
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CONFIRM: Voulez-vous commencer à combattre\navec l'équipe que vous avez créée ?
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_DECIDE: Combattre
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CANCEL: Retour
+MID_SEQUENTIAL_MAP_REORGANIZE_VIEW_MAP: Carte
+MID_SEQUENTIAL_MAP_REORGANIZE_BONUS_CHARACTER: Appel aux armes
+MID_SEQUENTIAL_MAP_RESULT: Résultats actuels
+MID_SEQUENTIAL_MAP_RESULT_BASIC_POINT: Score de base
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP: Cartes terminées
+MID_SEQUENTIAL_MAP_RESULT_ALIVE_EVALUATION: Survie
+MID_SEQUENTIAL_MAP_RESULT_SPEED_EVALUATION: Vitesse
+MID_SEQUENTIAL_MAP_RESULT_BONUS_CHARACTER: Appel aux armes
+MID_SEQUENTIAL_MAP_RESULT_ADDED_POINT: Score
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_A: A
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_B: B
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_C: C
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_D: D
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_E: E
+MID_SEQUENTIAL_MAP_RESULT_RATE: $a× $a0
+MID_SEQUENTIAL_MAP_RESULT_RATE_NONE: —
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP_NUM: $a$a0/$a1
+MID_SEQUENTIAL_MAP_RESULT_DETAIL: $a($a0)
+MID_SEQUENTIAL_MAP_DIALOG_END_OF_TERM: Vos résultats n'ont pas été pris\nen compte car la saison a pris fin\navant que vous n'ayez pu terminer\nvotre partie.
+MID_SEQUENTIAL_MAP_TERM_EXPIRED: La saison est terminée.
+MID_SEQUENTIAL_MAP_TERM_201706: Awakening dans la Tourmente
+MID_SEQUENTIAL_MAP_HELP_DIALOG_00: Gagnez grâce à vos équipes !
+MID_SEQUENTIAL_MAP_HELP_DIALOG_01: ◆ Tourmente ◆\nDans ce mode, vous devez\nenchaîner les batailles. Quand\nvous terminez une carte, la\nsuivante apparaît immédiatement.\nVos alliés ne récupèrent pas de\nPV entre les cartes.\nTerminez toutes les cartes !
+MID_SEQUENTIAL_MAP_HELP_DIALOG_02: ◆ Changement d'équipe ◆\nSi tous vos alliés de départ sont\nvaincus, vous pouvez en choisir\nd'autres et réessayer.\n\nCependant, la partie se terminera\nsi vous perdez trop de batailles !
+MID_SEQUENTIAL_MAP_HELP_DIALOG_03: ◆ Score ◆\nVotre score dépend de vos\nperformances sur un ensemble\nde cartes.\n\nLes récompenses dépendent\ndu score cumulé obtenu pendant\nla période de l'événement.
+MID_SEQUENTIAL_MAP_HELP_DIALOG_04: ◆ Appel aux armes ◆\nSi un allié concerné par Appel\naux armes combat dans votre\néquipe, vous pourrez augmenter\nvotre score.\nSi vous en ajoutez plusieurs, seul\nle bonus le plus important\ns'appliquera.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_00: ◆ Récompenses ◆\nSélectionnez ce menu pour\nvoir les récompenses actuelles.\n\nUtilisez les différentes options\npour voir les récompenses de\nscore ou de rang.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_01: ◆ Récompenses de score ◆\nVous pouvez voir les récompenses\nattribuées en fonction du score\ncumulé pour cet événement.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_02: ◆ Récompenses de rang ◆\nVous pouvez voir les récompenses\nattribuées en fonction du rang. Les\n500 000 meilleurs scores sont\nclassés.\nIl peut s'écouler un certain temps\navant qu'un changement ne\nsoit reflété.
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_03: ◆ Recevoir des récompenses ◆\nLes récompenses de score sont\nobtenues grâce au score. Pour\nrecevoir les récompenses de\nrang, entrez dans la Tourmente\naprès le calcul des résultats de\nla saison, mais avant la fin de la\nnouvelle saison.
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK: $aTourmente : récompense (rang) - $a0
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK_OUT_OF_RANGE: Tourmente : récompense (rang) - Non classé
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_POINT: $aTourmente : récompense (score) - $a0
+MID_STAGE_TITLE_DIFFICULTY3: Infernal
+MID_UNIT_EDIT_TROOP_INDEX: $aÉq. $a0
+MID_UNIT_EDIT_TROOP_NAME_EDIT: Nom de l'équipe
+MID_UNIT_EDIT_TROOP_NAME_PLACE_HOLDER: Saisir le nom
+MID_UNIT_EDIT_TROOP_NAME_ASK: Veuillez donner un nom à cette équipe.
+MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: Le nom ne doit pas dépasser 12 caractères.\nCertains symboles ne sont pas acceptés.
+MID_UNIT_EDIT_TROOP_SET_DEFENSE: Équipe de défense
+MID_UNIT_EDIT_TROOP_NAME_EMPTY: ----------
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_04_701: ◆ Nom de l'équipe ◆\nCette option vous permet de\nnommer vos équipes.\n\n◆ Équipe de défense ◆\nVous pouvez choisir l'équipe qui\nvous défendra dans l'arène,\nindiquée par une icône de bouclier.

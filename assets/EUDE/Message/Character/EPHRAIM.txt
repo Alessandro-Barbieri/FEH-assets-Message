@@ -1,0 +1,38 @@
+[Heroes Archive] (EPHRAIM)
+
+
+Heroes Message Name: Message
+
+
+MID_EPHRAIM_HOME1: Ich seh vielleicht nicht danach aus,\naber ich hoffe sehr auf baldigen\nFrieden.$k$pIch halte stets meine Lanze bereit,\naber es gibt nichts Wertvolleres als\nein Königreich in ruhigen Zeiten.
+MID_EPHRAIM_HOME2: Ich mache mir ständig Sorgen um\nmeine Schwester Eirika.$k$pWenn ich nicht da bin, um sie zu\nbeschützen, kann einfach alles\npassieren.
+MID_EPHRAIM_HOME3: Ihr passt stets auf uns auf.\nDiese Art der Freundlichkeit erinnert\nmich an meine Schwester.$k$pDeswegen mag ich Euch wohl auch\nso sehr.
+MID_EPHRAIM_HOME4: Waffen in Eurer Welt sehen eher aus\nwie Euer Breidablik?$k$pWie gerne würde ich Eure Welt\nbesuchen und das mit eigenen\nAugen sehen.
+MID_EPHRAIM_HOME5: Die Königlichen der anderen\nWelten scheinen das Schwert zu\nbevorzugen. Ich mag die Lanze.$k$pLanzen sind gegenüber Schwertern\nim Vorteil. Wisst Ihr, einst hatte ich\nden Ehrgeiz, der beste Speerkämpfer$k$pzu werden, den Magvel jemals\ngesehen hat. Magvel ist übrigens\nmein Heimatkontinent.
+MID_EPHRAIM_FRIEND: Ich bin Ephraim. Warum kommen wir\nnicht gleich zur Sache und trainieren\nzusammen?$k$pSo lernen wir uns am besten kennen.
+MID_EPHRAIM_LEVEL1: Meine Kraft wächst. Aber das darf\nmich nicht übermütig machen.
+MID_EPHRAIM_LEVEL2: Ich muss stärker werden.\nUnd das werde ich auch!
+MID_EPHRAIM_LEVEL3: Wie soll ich denn so meine\nSchwester beschützen?
+MID_EPHRAIM_SKILL: Ich werde der Meister meiner\nStärke. Nicht ihr Sklave.
+MID_EPHRAIM_JOIN: Ich bin Ephraim von Renais, ein\nPrinz und erfahren im Umgang\nmit dem Speer.$k$pAlso... Zeigt mir meinen Gegner\nund ich mach mich an die Arbeit.
+MID_EPHRAIM_STRONGEST: Anscheinend bin ich hier viel stärker\ngeworden. Meine Macht fließt fast\nüber.$k$pAber das ist nicht genug. Oh, ich\nspreche nicht von meiner Stärke. Ich\nwar nie auf der schwächlichen Seite.$k$pIch bin der Überzeugung, dass\nStärke allein nicht ausreicht, uns\nzu beschützen.$k$pJa, sie hilft uns, den Gegner zu\nunterwerfen.$k$pAber Stärke kann einen auch blind\nfür die Gefühle der anderen machen.$k$pGenau so habe ich einst einen\nguten Freund verloren.$k$pIch muss sanftmütiger und empa-\nthischer werden, oder ich riskiere,\ndass ich meine Fehler wiederhole.$k$pIhr besitzt diese andere Art von\nStärke. Und daher muss ich an\nEurer Seite bleiben.$k$pDenn dann werde ich alles lernen,\nwas ich noch zu lernen habe.$k$pIhr werdet in mir einen dankbaren\nSchüler haben... und einen\ndankbaren Freund.
+MID_EPHRAIM_VOICE01: はぁっ！
+MID_EPHRAIM_VOICE02: ふんっ！
+MID_EPHRAIM_VOICE03: うああっ！
+MID_EPHRAIM_VOICE04: I can still fight!
+MID_EPHRAIM_VOICE05: Ich komme!
+MID_EPHRAIM_VOICE06: Wunderbar!
+MID_EPHRAIM_VOICE07: Mehr. MEHR!
+MID_EPHRAIM_VOICE08: Also gut. Kämpfen wir!
+MID_EPHRAIM_VOICE09: Eirika...
+MID_EPHRAIM_VOICE10: Heh heh
+MID_EPHRAIM_VOICE11: You can rely on me for anything you require.
+MID_EPHRAIM_VOICE12: Oh! Don't startle me. You almost met with the tip of my lance.
+MID_EPHRAIM_VOICE13: Trust me. I don't pick fights I can't win.
+MID_EPHRAIM_VOICE14: You know, I like you. And I feel I can trust you completely.
+MID_EPHRAIM_VOICE15: Here's some advice. Let the fools spread gossip. The rest of us have work to do.
+MID_EPHRAIM_VOICE16: I must protect Eirika, as a brother ought to do for his sister.
+MID_EPHRAIM_VOICE17: I will protect you. Just believe in me and follow my lead.
+MID_EPHRAIM_VOICE18: All right.
+MID_EPHRAIM_VOICE19: Onward.
+MID_EPHRAIM_VOICE20: Leave it to me.

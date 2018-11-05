@@ -1,0 +1,38 @@
+[Heroes Archive] (LUNA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUNA_HOME1: Pff, je m'ennuie... Est-ce qu'il y a\ndes boutiques intéressantes au\nmoins, dans ce monde ?
+MID_LUNA_HOME2: Je sers Dame Camilla. Elle compte\nsur moi pour être aussi mignonne\nqu'impitoyable, et je le suis !
+MID_LUNA_HOME3: Tiens, vous êtes en patrouille ?\nVous n'auriez pas copié ça sur\nmoi, par hasard ?$k$pTrès bien, on va voir qui de nous\ndeux patrouille le mieux.
+MID_LUNA_HOME4: Vous vous ennuyez, vous aussi ?\nFaites-moi visiter ce monde !\nC'est le troisième que je...$k$pAttendez, non ! Ha ha, je plaisantais.\nC'est le deuxième, bien sûr. Ha ha.
+MID_LUNA_HOME5: Je sais que j'ai l'air redoutable,\nmais je ne dois pas négliger\nmon apparence pour autant.$k$pC'est du travail d'avoir d'aussi\nbeaux cheveux, vous savez.
+MID_LUNA_FRIEND: $Nf vous\npasse le bonjour.\nÇa vous fait plaisir ?
+MID_LUNA_LEVEL1: Ça ne me plaît pas. Je mérite mieux !
+MID_LUNA_LEVEL2: Bah. Pas assez bien pour moi.
+MID_LUNA_LEVEL3: Ça ne me ressemble pas !
+MID_LUNA_SKILL: Merci de votre attention, hein.
+MID_LUNA_JOIN: Je suis Selena, une mercenaire qui\ntravaille pour Nohr. Talentueuse,\nmignonne... Que demander de plus ?
+MID_LUNA_STRONGEST: Ah, vous voilà enfin ! Hé, et si on\nformait une équipe, $Gtous,toutes| les deux ?\nOn est déjà $Gamis,amies|, après tout...$k$pGénial ! J'ai déjà trouvé notre\nnom, en plus : l'Alliance\nSelen$Nu !$k$pPourquoi vous faites cette tête-là ?!\nVous trouvez que ça sonne stupide ?\nN'importe quoi !$k$pJe vous ferai dire que j'y ai beaucoup\nréfléchi ! Je voulais un nom qui\nmontre à quel point on est proches.$k$pAh, on fait moins $Gle malin,la maligne|, hein !\nBon, maintenant qu'on est une\néquipe, je vais vous dire un secret.$k$pJe ne m'appelle pas vraiment Selena,\net je ne suis pas originaire du monde\nduquel je suis arrivée.$k$pVous pouvez m'appeler Severa,\nmais seulement quand on n'est\nque $Gtous,toutes| les deux...
+MID_LUNA_VOICE01: せやっ！
+MID_LUNA_VOICE02: はああっ！
+MID_LUNA_VOICE03: きゃあっ！
+MID_LUNA_VOICE04: Gimme a break!
+MID_LUNA_VOICE05: Jouons un peu !
+MID_LUNA_VOICE06: Moins que rien !
+MID_LUNA_VOICE07: Finissons-en.
+MID_LUNA_VOICE08: Assez !
+MID_LUNA_VOICE09: Not fair...
+MID_LUNA_VOICE10: Heh
+MID_LUNA_VOICE11: How's my hair looking today? Good enough? Hope so.
+MID_LUNA_VOICE12: I'll be the best in your whole group. It's just a matter of time.
+MID_LUNA_VOICE13: Nice to have a role model, right? I've got the best one ever.
+MID_LUNA_VOICE14: The uniforms those Order of Heroes people wear... They're so cute!
+MID_LUNA_VOICE15: You keep an eye out for any good clothing stores, OK?
+MID_LUNA_VOICE16: I hate it whenever I'm separated from Lady Camilla.
+MID_LUNA_VOICE17: Hey. If you need my help, ask. Not like I like you or anything.
+MID_LUNA_VOICE18: Yeah?
+MID_LUNA_VOICE19: Where to?
+MID_LUNA_VOICE20: On it.

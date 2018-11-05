@@ -1,0 +1,12 @@
+[Heroes Archive] (S2071)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_SERIOUS_03
+MID_SCENARIO_OPENING_IMAGE: 007_SnowDreaming
+MID_SCENARIO_OPENING: $WmMPID_スリーズ声,ch90_02_FighterAX_M_Normal,Face|Oh, $Nu...\nPresto ci incontreremo. Il mio\ncuore trabocca di gioia...$k$pMa prima ho qualcosa di importante\nda dirti. C'è una cerimonia a Nifl\nchiamata "rito del Gelo"...$k$pÈ così poderosa che è in grado di\nestinguere addirittura le fiamme di\nMúspell.$k$pL'ultima a praticare questo rito fu mia\nmadre, alle prese con Surtr. Quel\ngiorno la sua vita si spense...$k$pGrazie a ciò, sono sicura che Surtr\nsi crede intoccabile. Ma questo è\nlungi dall'essere vero.$k$pCredo invece che facesse tutto parte\ndel piano di mia madre, concepito per\nprenderlo alla sprovvista.$k$pIn realtà, compì il rito senza i\nmanufatti necessari...$k$pUno è una pietra in mio possesso,\nSnjársteinn. L'altro, invece, è sempre\nstato con te.$k$pÈ la tua arma divina, Breidablik.\nIl suo potere è molto speciale:\npuò controllare i diversi mondi.$k$pQuando ci incontreremo ti affiderò\nla pietra, e con essa potrai essere\nil nostro faro.$k$pIn mano tua, ci mostrerà il vero rito\ndel Gelo e, con esso, la forza per\nsconfiggere Surtr.$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|La disfatta di Laegjarn ha creato\nlo scompiglio più totale tra le file\nnemiche.$k$pUn'occasione così non capita tutti\ni giorni. Forza, in marcia!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|Principessa Fjorm, quanto manca\nancora al santuario dove ci attende\ntua sorella, la principessa Gunnthrá?$k$p$WmMPID_フィヨルム,ch00_06_Fjorm_F_Normal,Face|Direi che per il santuario di Snjárhof\nci vorranno altri tre giorni almeno.$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|Bene. Sbrighiamoci a fare breccia tra\nle file nemiche e dirigiamoci a ovest.\nLa principessa ci aspetta!$k$p$Sbs150|

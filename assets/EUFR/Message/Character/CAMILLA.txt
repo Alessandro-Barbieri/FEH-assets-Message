@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_HOME1: Je peux comprendre que votre\nennemie ait envie de s'emparer\nde dizaines de héros...$k$pTous les moyens sont bons\npour contrer la solitude.
+MID_CAMILLA_HOME2: Mes vassales, Beruka et Selena, sont\naussi adorables que mortelles.$k$pJ'espère que vous apprécierez leur\ncompagnie tout autant que moi !
+MID_CAMILLA_HOME3: Si la fatigue vous prend, n'hésitez\npas à reposer votre tête sur mes\ngenoux, mon ange.
+MID_CAMILLA_HOME4: Nous devrions faire une balade,\nvous et moi. Faites-moi découvrir\ntous vos endroits préférés.
+MID_CAMILLA_HOME5: Vous pouvez compter sur moi,\nnous sommes dans le même bain,\naprès tout. Enfin, figurativement...
+MID_CAMILLA_FRIEND: $Nf veut que\nje vous salue. Vous n'essayez pas\nde me rendre jalouse, au moins ?
+MID_CAMILLA_LEVEL1: Personne ne peut me résister.
+MID_CAMILLA_LEVEL2: Oh ! C'est agréable.
+MID_CAMILLA_LEVEL3: Oh ! Quelle honte...
+MID_CAMILLA_SKILL: C'est pour moi ? Quelle jolie preuve\nd'affection...
+MID_CAMILLA_JOIN: Je suis Camilla, princesse de Nohr.\nVous voulez que je vous protège,\nmon ange ? Je suis toute à vous.
+MID_CAMILLA_STRONGEST: Oh, $Nu...\nÀ chaque fois que je vous vois,\nj'en frissonne de plaisir !$k$pJe n'ai jamais vu un visage aussi\nadorable que le vôtre... Qui pourrait\nbien lui vouloir du mal ?$k$pEt puis cette arme parfaitement\ninoffensive ! Ça me donne envie\nde vous serrer tout fort contre moi !$k$pNe vous en faites pas, votre Camilla\nadorée vous protégera des ennemis\naussi longtemps qu'il le faudra.$k$pPeut-être que je suis si attachée à\nvous parce que vous êtes $Ginvocateur,invocatrice|\net moi héroïne, oui... Et alors ?$k$pDu moment que nous sommes\nensemble, je ne vois pas le problème.\nVous êtes la prunelle de mes yeux !
+MID_CAMILLA_VOICE01: はいっ
+MID_CAMILLA_VOICE02: そぉれ
+MID_CAMILLA_VOICE03: きゃあっ
+MID_CAMILLA_VOICE04: No...!
+MID_CAMILLA_VOICE05: Jouons un peu !
+MID_CAMILLA_VOICE06: Bonne nuit...
+MID_CAMILLA_VOICE07: Fais de beaux rêves...
+MID_CAMILLA_VOICE08: Une punition s'impose !
+MID_CAMILLA_VOICE09: Don't forget me!
+MID_CAMILLA_VOICE10: Heehee
+MID_CAMILLA_VOICE11: Oh? Did you need me? I'm always here for you.
+MID_CAMILLA_VOICE12: Weary, friend? You may always rest your head in my lap.
+MID_CAMILLA_VOICE13: Where are the royal baths here? A girl gets dirty in battle.
+MID_CAMILLA_VOICE14: I'm yours to command. I'll slay anyone for you.
+MID_CAMILLA_VOICE15: Need I worry for you, my sweet? I do hope all is well.
+MID_CAMILLA_VOICE16: Where are Beruka and Selena, my darling retainers?
+MID_CAMILLA_VOICE17: Aren't you adorable? So like my favorite sibling. Why don't you think of me as your big sister?
+MID_CAMILLA_VOICE18: Yes?
+MID_CAMILLA_VOICE19: Of course.
+MID_CAMILLA_VOICE20: All right.
+MID_CAMILLA_VOICE21: Naughty, naughty—calling on me like this!

@@ -1,0 +1,8 @@
+[Heroes Archive] (S2104)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_カアラ,ch03_19_Karla_F_Normal,Face|Me llamo Karla.$k$pNo he venido aquí buscando pelea,\npero tengo un contrato y no puedo\nnegarme a luchar contra vosotros.$k$pVamos allá.$k$p$Sbs1000|

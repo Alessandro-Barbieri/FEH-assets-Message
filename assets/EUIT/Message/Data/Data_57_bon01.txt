@@ -1,0 +1,215 @@
+[Heroes Archive] (Data_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤暗: Pugnale rosso. Raggio: 2. I danni inflitti\nda quest'arma fisica sono ridotti dalla\ndifesa dell'avversario. Può ridurre\ni parametri del nemico per un po'.
+MWID_H_青暗: Pugnale blu. Raggio: 2. I danni inflitti\nda quest'arma fisica sono ridotti dalla\ndifesa dell'avversario. Può ridurre\ni parametri del nemico per un po'.
+MWID_H_緑暗: Pugnale verde. Raggio: 2. I danni inflitti\nda quest'arma fisica sono ridotti dalla\ndifesa dell'avversario. Può ridurre\ni parametri del nemico per un po'.
+MDAID_花のかんざし: Forcina a fiori
+MDAID_H_花のかんざし: Un accessorio per capelli\ntipico delle feste hoshidesi.\nÈ molto popolare.
+MDAID_夏祭りのお面: Maschera estiva
+MDAID_H_夏祭りのお面: Una maschera caratteristica\ndelle feste hoshidesi. Il drago\nche rappresenta è adorabile!
+MID_MISSION_S201808ARM01_TITLE: Esercizi: armi
+MID_MISSION_S201808ARM01_A1: Vinci con spada
+MID_MISSION_H_S201808ARM01_A1: Sconfiggi un nemico con un alleato armato\ndi spada.
+MID_MISSION_S201808ARM01_A2: Vinci con lancia
+MID_MISSION_H_S201808ARM01_A2: Sconfiggi un nemico con un alleato armato\ndi lancia.
+MID_MISSION_S201808ARM01_A3: Vinci con ascia
+MID_MISSION_H_S201808ARM01_A3: Sconfiggi un nemico con un alleato armato\ndi ascia.
+MID_MISSION_S201808ARM01_A4: Vinci con arco neutro
+MID_MISSION_H_S201808ARM01_A4: Sconfiggi un nemico con un alleato armato\ndi arco neutro.
+MID_MISSION_S201808ARM01_A5: Vinci con pugnale neutro
+MID_MISSION_H_S201808ARM01_A5: Sconfiggi un nemico con un alleato armato\ndi pugnale neutro.
+MID_MISSION_S201808ARM01_A6: Vinci con tomo rosso
+MID_MISSION_H_S201808ARM01_A6: Sconfiggi un nemico con un alleato armato\ndi tomo rosso.
+MID_MISSION_S201808ARM01_A7: Vinci con tomo blu
+MID_MISSION_H_S201808ARM01_A7: Sconfiggi un nemico con un alleato armato\ndi tomo blu.
+MID_MISSION_S201808ARM01_A8: Vinci con tomo verde
+MID_MISSION_H_S201808ARM01_A8: Sconfiggi un nemico con un alleato armato\ndi tomo verde.
+MID_MISSION_S201808ARM01_A9: Vinci con bastone
+MID_MISSION_H_S201808ARM01_A9: Sconfiggi un nemico con un alleato armato\ndi bastone.
+MID_MISSION_S201808ARM01_A10: Spada batte nem. 35+
+MID_MISSION_H_S201808ARM01_A10: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di spada.
+MID_MISSION_S201808ARM01_A11: Lancia batte nem. 35+
+MID_MISSION_H_S201808ARM01_A11: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di lancia.
+MID_MISSION_S201808ARM01_A12: Ascia batte nem. 35+
+MID_MISSION_H_S201808ARM01_A12: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di ascia.
+MID_MISSION_S201808ARM01_A13: Arco N batte nem. 35+
+MID_MISSION_H_S201808ARM01_A13: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di arco neutro.
+MID_MISSION_S201808ARM01_A14: Pugnale N batte nem. 35+
+MID_MISSION_H_S201808ARM01_A14: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di pugnale neutro.
+MID_MISSION_S201808ARM01_A15: Tomo R batte nem. 35+
+MID_MISSION_H_S201808ARM01_A15: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di tomo rosso.
+MID_MISSION_S201808ARM01_A16: Tomo B batte nem. 35+
+MID_MISSION_H_S201808ARM01_A16: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di tomo blu.
+MID_MISSION_S201808ARM01_A17: Tomo V batte nem. 35+
+MID_MISSION_H_S201808ARM01_A17: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di tomo verde.
+MID_MISSION_S201808ARM01_A18: Bastone batte nem. 35+
+MID_MISSION_H_S201808ARM01_A18: Sconfiggi un nemico di livello 35 o superiore\ncon un alleato armato di bastone.
+MID_MISSION_S201808KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201808KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201808KIZUNA01_A1: Vinci la Battaglia legame contro Corrin e Azura\ncon Sharena, la principessa di Askr, in squadra.
+MID_MISSION_S201808KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201808KIZUNA01_A2: Vinci la Battaglia legame contro Corrin e Azura\nal livello di difficoltà folle o superiore con Anna\nin squadra.
+MID_MISSION_S201808KIZUNA01_A3: Batti Corrin
+MID_MISSION_H_S201808KIZUNA01_A3: Batti Corrin, il principe del fato, di livello 40\no superiore con Sharena, la principessa\ndi Askr.
+MID_MISSION_S201808KIZUNA01_A4: Batti Azura
+MID_MISSION_H_S201808KIZUNA01_A4: Batti Azura, la lady del lago, di livello 40\no superiore con Anna.
+MID_MISSION_S201808KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201808KIZUNA01_A5: Vinci la Battaglia legame contro Corrin e Azura\nal livello di difficoltà folle o superiore con\nuna squadra di sole unità a cavallo.
+MID_MISSION_S201808SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201808SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201808SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201808SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201808SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201808SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201808SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201808SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201808SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201808SENKA02_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201808SENKA02_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201808STORY01_TITLE: Hoshido in festa
+MID_MISSION_S201808STORY01_A1: Completa app. 23-1 folle
+MID_MISSION_H_S201808STORY01_A1: Completa l'app. 23, parte 1 alla difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808STORY01_A2: Completa app. 23-2 folle
+MID_MISSION_H_S201808STORY01_A2: Completa l'app. 23, parte 2 alla difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808STORY01_A3: Completa app. 23-3 folle
+MID_MISSION_H_S201808STORY01_A3: Completa l'app. 23, parte 3 alla difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201808TAPBTL01_D01_A1: Sconfiggi Lissa
+MID_MISSION_H_S201808TAPBTL01_D01_A1: Sconfiggi il boss Lissa alla difficoltà normale\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201808TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201808TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201808TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201808TAPBTL01_D02_A1: Sconfiggi Lissa
+MID_MISSION_H_S201808TAPBTL01_D02_A1: Sconfiggi il boss Lissa alla difficoltà difficile\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201808TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201808TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201808TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201808TAPBTL01_D03_A1: Sconfiggi Azura
+MID_MISSION_H_S201808TAPBTL01_D03_A1: Sconfiggi il boss Azura alla difficoltà normale\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201808TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201808TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201808TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201808TAPBTL01_D04_A1: Sconfiggi Azura
+MID_MISSION_H_S201808TAPBTL01_D04_A1: Sconfiggi il boss Azura alla difficoltà difficile\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201808TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201808TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201808TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201808TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201808TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201808TAPBTL02_A1: Supera fasi boss
+MID_MISSION_H_S201808TAPBTL02_A1: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201808TAPBTL02_A2: Supera fasi boss
+MID_MISSION_H_S201808TAPBTL02_A2: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201808TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201808TAPBTL02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201808TAPBTL02_A4: Supera fase extra 1
+MID_MISSION_H_S201808TAPBTL02_A4: Completa la fase extra 1 in Battaglia tattile.\nPuoi giocare la fase extra 1 dopo lo sblocco\ndelle fasi extra.
+MID_MISSION_S201808TAPBTL02_A5: Supera 6º-10º
+MID_MISSION_H_S201808TAPBTL02_A5: Supera dal 6º al 10º livello in Battaglia tattile.
+MID_MISSION_S201808TAPBTL02_A6: Supera 81º-85º
+MID_MISSION_H_S201808TAPBTL02_A6: Supera dall'81º all'85º livello in Battaglia tattile.
+MPID_夏祭リョウマ: Ryoma
+MPID_夏祭エリンシア: Elincia
+MPID_夏祭マークス: Xander
+MPID_夏祭ミカヤ: Micaiah
+MPID_HONOR_夏祭リョウマ: Samurai del ballo
+MPID_HONOR_夏祭エリンシア: La dama estiva
+MPID_HONOR_夏祭マークス: Il cav. danzante
+MPID_HONOR_夏祭ミカヤ: La chioma estiva
+MPID_H_夏祭リョウマ: Principe ereditario dell'Hoshido che mette\nsempre il dovere prima del piacere. Sta\npartecipando alla tradizionale festa estiva\nhoshidese. Compare in Fire Emblem Fates.
+MPID_H_夏祭エリンシア: Principessa di Ozna che ama il suo regno\ne il suo popolo. Le fa piacere vedere i balli\ne le danze della festa estiva. Compare in\nFire Emblem: Radiant Dawn.
+MPID_H_夏祭マークス: Erede al trono del Nohr che cerca sempre di\nmigliorarsi. Ha accettato di partecipare a una\nfesta hoshidese con gli abiti tradizionali.\nCompare in Fire Emblem Fates.
+MPID_H_夏祭ミカヤ: Un membro della Brigata della Luce dalla\nchioma argentea. Dover vestire gli abiti della\nfesta estiva la mette un po' a disagio.\nCompare in Fire Emblem: Radiant Dawn.
+MPID_VOICE_夏祭リョウマ: Matt Mercer
+MPID_VOICE_夏祭エリンシア: Amanda Miller
+MPID_VOICE_夏祭マークス: George Spelvin
+MPID_VOICE_夏祭ミカヤ: Veronica Taylor
+MPID_ILLUST_夏祭リョウマ: Kita Senri (北千里)
+MPID_ILLUST_夏祭エリンシア: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_夏祭マークス: PenekoR (п猫Ｒ)
+MPID_ILLUST_夏祭ミカヤ: Chiko (チーコ)
+MSID_第13迷宮の覇者1: Asso squadra M1
+MSID_第13迷宮の覇者2: Asso squadra M2
+MSID_第13迷宮の覇者3: Asso squadra M3
+MSID_青天の舞扇: Maiougi azzurro
+MSID_青天の舞扇＋: Maiougi azzurro+
+MSID_緑雲の舞扇: Maiougi verde
+MSID_緑雲の舞扇＋: Maiougi verde+
+MSID_宵闇の団扇: Uchiwa scuro
+MSID_宵闇の団扇＋: Uchiwa scuro+
+MSID_暁天の神楽鈴: Suzu dell'alba
+MSID_業火静水の舞い1: Danza lava 1
+MSID_業火静水の舞い2: Danza lava 2
+MSID_疾風大地の舞い1: Danza frana 1
+MSID_疾風大地の舞い2: Danza frana 2
+MSID_速さ魔防の紋章1: Migliora Vel/Res 1
+MSID_速さ魔防の紋章2: Migliora Vel/Res 2
+MSID_守備の波・奇数1: Dif dispari 1
+MSID_守備の波・奇数2: Dif dispari 2
+MSID_守備の波・奇数3: Dif dispari 3
+MSID_H_フォルクヴァング改: Se l'unità ha l'80% o meno dei PS all'inizio\ndello scontro, Att/Dif +7 durante\nil combattimento.
+MSID_H_フェンサリル改: I bonus da abilità come Fortifica o Sprone\ndel nemico sono annullati durante lo scontro.
+MSID_H_ノーアトゥーン改: Se l'unità ha il 50% o meno dei PS, può\nspostarsi in uno spazio adiacente a qualsiasi\nalleato.
+MSID_H_第13迷宮の覇者1: Conferisce Res +1.
+MSID_H_第13迷宮の覇者2: Conferisce Res +2.
+MSID_H_第13迷宮の覇者3: Conferisce Res +3.
+MSID_H_青天の舞扇: Efficace contro nemici corazzati. Disattiva\nle abilità che cambiano la priorità di attacco\ndell'unità. Vale anche per i nemici. Se l'unità\nha attaccato, Dif/Res -5 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_青天の舞扇＋: Efficace contro nemici corazzati. Disattiva\nle abilità che cambiano la priorità di attacco\ndell'unità. Vale anche per i nemici. Se l'unità\nha attaccato, Dif/Res -7 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_緑雲の舞扇: Efficace contro i draghi. Disattiva le abilità che\ncambiano la priorità di attacco dell'unità. Vale\nanche per i nemici. Se l'unità ha attaccato,\nDif/Res -5 al bersaglio e ai nemici entro 2\nspazi dal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_緑雲の舞扇＋: Efficace contro i draghi. Disattiva le abilità che\ncambiano la priorità di attacco dell'unità. Vale\nanche per i nemici. Se l'unità ha attaccato,\nDif/Res -7 al bersaglio e ai nemici entro 2\nspazi dal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_宵闇の団扇: Efficace contro nemici a cavallo. Disattiva\nle abilità che cambiano la priorità di attacco\ndell'unità. Vale anche per i nemici. Se l'unità\nha attaccato, Dif/Res -5 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_宵闇の団扇＋: Efficace contro nemici a cavallo. Disattiva\nle abilità che cambiano la priorità di attacco\ndell'unità. Vale anche per i nemici. Se l'unità\nha attaccato, Dif/Res -7 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_暁天の神楽鈴: Efficace contro nemici corazzati e a cavallo.\nConferisce Att +3. Disattiva le abilità che\ncambiano la priorità di attacco dell'unità.\nVale anche per i nemici.
+MSID_H_業火静水の舞い1: Se vengono usati Canto o Danza, conferisce\nAtt +2 e Res +3 all'obiettivo.
+MSID_H_業火静水の舞い2: Se vengono usati Canto o Danza, conferisce\nAtt +3 e Res +4 all'obiettivo.
+MSID_H_疾風大地の舞い1: Se vengono usati Canto o Danza, conferisce\nVel +2 e Dif +3 all'obiettivo.
+MSID_H_疾風大地の舞い2: Se vengono usati Canto o Danza, conferisce\nVel +3 e Dif +4 all'obiettivo.
+MSID_H_速さ魔防の紋章1: Conferisce Vel/Res +2 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_速さ魔防の紋章2: Conferisce Vel/Res +3 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_守備の波・奇数1: Dif +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_守備の波・奇数2: Dif +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MSID_H_守備の波・奇数3: Dif +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni dispari per 1 turno.
+MID_CHAPTER_TITLE_CX022: Appendice 23
+MID_CHAPTER_CX022: Hoshido in festa
+MID_STAGE_TITLE_X0221: Appendice 23-1
+MID_STAGE_TITLE_X0222: Appendice 23-2
+MID_STAGE_TITLE_X0223: Appendice 23-3
+MID_STAGE_X0221: In onore della terra
+MID_STAGE_X0222: Il tramonto degli dèi
+MID_STAGE_X0223: Il vento stesso
+MID_STAGE_HONOR_T0037: Battaglia legame
+MID_STAGE_T0037: M. e S.
+MID_STAGE_TITLE_PC011: Per veterani: 11
+MID_STAGE_PC011: Terre che separano
+MID_STAGE_TITLE_BG_WATER_0011: Acqua 1
+MID_STAGE_TITLE_BG_WIND_0011: Vento 1
+MID_STAGE_TITLE_SB_0013: 13º assalto
+MID_STAGE_HONOR_Q0023: Settimanali
+MID_STAGE_Q0023: Lotta di potere
+MID_STAGE_HONOR_Q0024: Settimanali
+MID_STAGE_Q0024: Lotta di potere
+MID_STAGE_HONOR_Q0025: Settimanali
+MID_STAGE_Q0025: Lotta di potere
+MID_STAGE_HONOR_Q0026: Settimanali
+MID_STAGE_Q0026: Lotta di potere
+MID_TAP_BATTLE_DATA_TITLE_0007: Festa degli eroi
+MID_MUSIC_NAME_BGM_MAP_FES_02: Un'altra festa dei fan
+MID_MUSIC_NAME_BGM_MAP_POPULARITY_01: Eroi impavidi
+MID_MUSIC_NAME_BGM_MAP_FE13_06: Decreto divino (vivace)

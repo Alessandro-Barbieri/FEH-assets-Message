@@ -1,0 +1,38 @@
+[Heroes Archive] (FREDERIK)
+
+
+Heroes Message Name: Message
+
+
+MID_FREDERIK_HOME1: Las capas de los uniformes de los\nGuardianes de Askr son espléndidas.$k$pAunque quizá lucirían más aún\ncon un buen bordado...
+MID_FREDERIK_HOME2: He servido durante largos años a la\ncasa real de Ylisse, y seguiré\nhaciéndolo cuando regrese.
+MID_FREDERIK_HOME3: Gracias por venir a verme. Sabed que\ncontáis con todo mi respeto, por más\nque mi devoción aún sea para otros.
+MID_FREDERIK_HOME4: ¿Qué os parece si atendemos juntos\nla huerta? El trabajo físico ennoblece,\ny además nos mantendrá entretenidos.
+MID_FREDERIK_HOME5: Si me veis pañuelo en ristre es porque\nestoy listo para toda eventualidad.\nIncluidos vuestros estornudos.
+MID_FREDERIK_FRIEND: Perdonad que os moleste...\nDebo haceros llegar saludos de parte\nde $Nf.
+MID_FREDERIK_LEVEL1: ¡Usaré este poder para proteger\nal pueblo!
+MID_FREDERIK_LEVEL2: La constancia es lo que\nforja al caballero.
+MID_FREDERIK_LEVEL3: Tendré que esforzarme\nun poco más.
+MID_FREDERIK_SKILL: ¡Iré a recoger guijarros para\nponer a prueba mi nuevo poder!
+MID_FREDERIK_JOIN: Soy Frederick, segundo al mando\nde los Custodios y caballero del reino\nde Ylisse. Es un honor conoceros.
+MID_FREDERIK_STRONGEST: Ah, $Nu.\nSabía que os encontraría trabajando.\n¿Puedo serviros de ayuda?$k$pSi os parece bien, me dedicaré\na retirar todos los guijarros del\ncamino, para que no tropecéis.$k$pDebo mi lealtad a la casa real de\nYlisse, pero ello no es óbice para que\nme encargue de estos menesteres.$k$pAdemás, reconozco sin ambages\nque me complace pasar mis ratos\nlibres con vos...$k$pEsto... Perdonad, os hago perder\nel tiempo con tanta cháchara. ¡No\nme lo tengáis en cuenta, por favor!
+MID_FREDERIK_VOICE01: せいっ！
+MID_FREDERIK_VOICE02: はああっ！
+MID_FREDERIK_VOICE03: ぐあっ！
+MID_FREDERIK_VOICE04: A mistake...
+MID_FREDERIK_VOICE05: Este será vuestro último aliento.
+MID_FREDERIK_VOICE06: ¡Adelante!
+MID_FREDERIK_VOICE07: ¡Todavía sigo en pie!
+MID_FREDERIK_VOICE08: ¡Por mi señor Chrom!
+MID_FREDERIK_VOICE09: Must retreat...
+MID_FREDERIK_VOICE10: Whew...
+MID_FREDERIK_VOICE11: A knight must constantly strive for excellence.
+MID_FREDERIK_VOICE12: My first task is always the safety of the royal family.
+MID_FREDERIK_VOICE13: Today, like every other day, I woke up early to clear away pebbles.
+MID_FREDERIK_VOICE14: I notice there are weeds about. I shall pluck them until you can hire a gardener.
+MID_FREDERIK_VOICE15: The commissary is serving bear meat? I believe I shall skip dinner today.
+MID_FREDERIK_VOICE16: Where could my lord Chrom be...
+MID_FREDERIK_VOICE17: Should we camp outdoors, you may rely on me for a magnificent campfire.
+MID_FREDERIK_VOICE18: Yes.
+MID_FREDERIK_VOICE19: Indeed.
+MID_FREDERIK_VOICE20: Of course.

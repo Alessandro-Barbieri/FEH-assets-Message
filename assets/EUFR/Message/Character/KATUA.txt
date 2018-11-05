@@ -1,0 +1,38 @@
+[Heroes Archive] (KATUA)
+
+
+Heroes Message Name: Message
+
+
+MID_KATUA_HOME1: Mes sœurs Palla, Est et moi sommes\ntoutes trois des chevaliers pégase.
+MID_KATUA_HOME2: Les unités volantes de Medon sont\ncomposées des Ailes-blanches et\ndes carabins.$k$pLes Ailes-blanches, dont je fais partie,\nsont à dos de pégases. Les carabins\nchevauchent des wyvernes.
+MID_KATUA_HOME3: Aaah...\nAAAH ! Oh non, vous m'avez surprise\nen train de rêvasser ! Quelle honte...
+MID_KATUA_HOME4: Ma sœur Palla me dit souvent\nque je suis intelligente mais\nbutée. Elle a peut-être raison...
+MID_KATUA_HOME5: Allez, à l'entraînement ! Je ne suis\npas aussi douée que mes sœurs\nalors je dois redoubler d'efforts.
+MID_KATUA_FRIEND: $Nf m'a\ndemandé de vous saluer de sa part.\nJ'espère que votre amitié durera !
+MID_KATUA_LEVEL1: C'est une bonne nouvelle, mais je\ndois rester concentrée.
+MID_KATUA_LEVEL2: Je m'améliore doucement...\nmais sûrement.
+MID_KATUA_LEVEL3: Oh, j'espère que personne ne\nm'a vue !
+MID_KATUA_SKILL: Je suis ravie que mes efforts soient\nrécompensés.
+MID_KATUA_JOIN: Je suis Catria, des Ailes-blanches\nde Medon. Mes sœurs et moi\nservont la princesse Minerva.
+MID_KATUA_STRONGEST: Vous aussi vous me trouvez\nsouvent pensive ? C'est que\nça doit être vrai, alors !$k$pCela dit, je pense que je le suis\nmoins qu'avant... et c'est grâce\nà vous, $GInvocateur,Invocatrice|.$k$pVotre présence m'aide à garder\nla tête froide et à me concentrer\nsur nos objectifs.$k$pTant que je serai près de vous,\nrien ne me semblera impossible.
+MID_KATUA_VOICE01: はいっ！
+MID_KATUA_VOICE02: せいっ！
+MID_KATUA_VOICE03: きゃああっ！
+MID_KATUA_VOICE04: Ugh... No...
+MID_KATUA_VOICE05: Me voilà !
+MID_KATUA_VOICE06: Coup de grâce !
+MID_KATUA_VOICE07: Ça devrait suffire !
+MID_KATUA_VOICE08: Quel qu'en soit le prix !
+MID_KATUA_VOICE09: Awwww...
+MID_KATUA_VOICE10: Heehee
+MID_KATUA_VOICE11: Whatever you need, I'll get the job done.
+MID_KATUA_VOICE12: Augh! Er...I mean, what's going on?
+MID_KATUA_VOICE13: I must never bring shame to the Whitewings.
+MID_KATUA_VOICE14: I...I have a lot of respect for you.
+MID_KATUA_VOICE15: Allies help one another.
+MID_KATUA_VOICE16: I know I shouldn't feel this way about...him.
+MID_KATUA_VOICE17: Thank you for having me join you. It means a lot.
+MID_KATUA_VOICE18: Understood.
+MID_KATUA_VOICE19: Easy now...
+MID_KATUA_VOICE20: You got it.

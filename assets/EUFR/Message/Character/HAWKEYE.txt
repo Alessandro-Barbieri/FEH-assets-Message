@@ -1,0 +1,38 @@
+[Heroes Archive] (HAWKEYE)
+
+
+Heroes Message Name: Message
+
+
+MID_HAWKEYE_HOME1: Je vis dans le désert depuis si\nlongtemps... Ce genre d'endroit\nne m'est pas familier.
+MID_HAWKEYE_HOME2: Vous maîtrisez la magie d'invocation.\nPrenez garde, nombreux sont ceux\net celles qu'elle a rendus fous.
+MID_HAWKEYE_HOME3: Merci, $Nu.\nPour tout.
+MID_HAWKEYE_HOME4: Vous n'êtes peut-être pas sur le\nchamp de bataille, mais vous nous\ndirigez avec la férocité d'une bête.
+MID_HAWKEYE_HOME5: La vie d'un gardien du désert est\nsolitaire par nécessité. Veuillez\nm'excuser si je reste en retrait.
+MID_HAWKEYE_FRIEND: $Nu ?\n$Nf vous\nfait parvenir ses vœux d'amitié.
+MID_HAWKEYE_LEVEL1: Waaagh !!!
+MID_HAWKEYE_LEVEL2: Je me sens plus fort. Bien.
+MID_HAWKEYE_LEVEL3: Mon heure approcherait-elle ?
+MID_HAWKEYE_SKILL: Je vous suis reconnaissant,\n$Nu.
+MID_HAWKEYE_JOIN: Je suis Hawkeye, gardien du désert.\nJe protège mon village où humains\net dragons cohabitent en paix.
+MID_HAWKEYE_STRONGEST: Vous voulez me parler, $GInvocateur,Invocatrice| ?\nComme c'est étrange...$k$pPas aussi étrange que moi ?\n... Vraiment ?$k$pJe comprends. J'ai l'habitude qu'on\nme trouve différent parce que je\nviens du désert...$k$pMais nous sommes tous ici pour la\nmême raison : protéger nos mondes\net garantir la paix.$k$pTels les sables du temps qui\ns'écoulent inlassablement...$k$pJe vous promets de combattre\nà vos côtés tant qu'il le faudra.
+MID_HAWKEYE_VOICE01: むんっ！
+MID_HAWKEYE_VOICE02: ふんっ！
+MID_HAWKEYE_VOICE03: うああっ！
+MID_HAWKEYE_VOICE04: むぅっ…！
+MID_HAWKEYE_VOICE05: Waaagh !!!
+MID_HAWKEYE_VOICE06: En garde !
+MID_HAWKEYE_VOICE07: Je ne connais pas la peur.
+MID_HAWKEYE_VOICE08: Votre heure a sonné.
+MID_HAWKEYE_VOICE09: ...Home...
+MID_HAWKEYE_VOICE10: Huh.
+MID_HAWKEYE_VOICE11: If you need to talk, I am always here.
+MID_HAWKEYE_VOICE12: You wish to get my attention? Friend, you have it.
+MID_HAWKEYE_VOICE13: I have a destiny. I will fulfill it.
+MID_HAWKEYE_VOICE14: The desert I guard... There is no desert more in need of a guardian.
+MID_HAWKEYE_VOICE15: I find you...mysterious.
+MID_HAWKEYE_VOICE16: My time as guardian will come to an end. That time draws near.
+MID_HAWKEYE_VOICE17: I believe in you, friend.
+MID_HAWKEYE_VOICE18: Hmm.
+MID_HAWKEYE_VOICE19: Yes?
+MID_HAWKEYE_VOICE20: Of course.

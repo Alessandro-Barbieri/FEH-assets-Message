@@ -1,0 +1,38 @@
+[Heroes Archive] (WENDY)
+
+
+Heroes Message Name: Message
+
+
+MID_WENDY_HOME1: 這個城堡的防禦很堅實呢。\n遇到敵襲時可以輕鬆防衛，\n是一座很優良的城堡。
+MID_WENDY_HOME2: 女性的重騎士好像很少見……\n我因為想變得跟我尊敬的哥哥一樣，\n才選擇了重騎士之路。
+MID_WENDY_HOME3: 非常感謝你總是負責巡邏。\n雖然我也想跟你一起巡邏，\n不過有我在的話，速度是不是會變慢呢……？
+MID_WENDY_HOME4: 最近肌肉又……\n啊～！\n請當作沒聽到！
+MID_WENDY_HOME5: 對經常要身穿\n笨重鎧甲的人來說，\n步法的訓練是重要的例行公事。
+MID_WENDY_FRIEND: 你是$Nu吧。\n我是來傳達$Nf\n給你的問候的喔。
+MID_WENDY_LEVEL1: 我充滿了鬥志！\n請交給我吧！
+MID_WENDY_LEVEL2: 身為奧斯提亞的重騎士，\n這不算什麼！
+MID_WENDY_LEVEL3: 這、這樣下去……\n會慢人一步的……
+MID_WENDY_SKILL: 這股泉湧般的力量……！\n我可以變得更強……！
+MID_WENDY_JOIN: 我是奧斯提亞的重騎士溫蒂。\n這身裝甲絕不是虛有其表，\n我會證明給你看！
+MID_WENDY_STRONGEST: 你上次在戰鬥時幫助了我，\n我要向你道謝。\n居然是我被保護……$k$p這樣一來，我就不配當重騎士了……\n咦？\n是因為這身鎧甲太醒目嗎？$k$p也有可能耶。\n不過，也是因為我吸引了敵人的目光，\n所以他們沒注意到其他夥伴……$k$p啊哈哈，如果是因為這樣被打倒的話，\n那還真是得不償失呢。$k$p呃……我很高興你保護了我。\n從今以後，你也會繼續保護我嗎……？
+MID_WENDY_VOICE01: 嘿！
+MID_WENDY_VOICE02: 喝！
+MID_WENDY_VOICE03: 呀啊～！
+MID_WENDY_VOICE04: 我不會變成累贅……
+MID_WENDY_VOICE05: 我不會輸！
+MID_WENDY_VOICE06: 重騎士是無敵的！
+MID_WENDY_VOICE07: 使出全力！
+MID_WENDY_VOICE08: 開始攻擊！
+MID_WENDY_VOICE09: 不好意思……
+MID_WENDY_VOICE10: 呵呵。
+MID_WENDY_VOICE11: 呀！？真是的……請不要突然出聲叫我。
+MID_WENDY_VOICE12: 要是跌倒了，我會因為太重而起不來的。
+MID_WENDY_VOICE13: 鎧甲的重量就是忠誠的證明。
+MID_WENDY_VOICE14: 這是鎧甲。我才不胖呢！
+MID_WENDY_VOICE15: 非常感謝你的關心。
+MID_WENDY_VOICE16: 一、二、一、二……
+MID_WENDY_VOICE17: 就算要豁出性命，我也會保護你。
+MID_WENDY_VOICE18: 是！
+MID_WENDY_VOICE19: 我瞭解了。
+MID_WENDY_VOICE20: 開始行動。

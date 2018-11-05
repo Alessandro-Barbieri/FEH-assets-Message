@@ -1,0 +1,260 @@
+[Heroes Archive] (Data_23_newyear01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201801A_TITLE: Januar-Quests (1)
+MID_MISSION_M201801A_A1: Grün besiegt Gegner
+MID_MISSION_H_M201801A_A1: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_M201801A_A2: Reiter besiegt Gegner
+MID_MISSION_H_M201801A_A2: Lass berittene Einheiten\ndie Gegner besiegen.
+MID_MISSION_M201801A_A3: Besiege rote Gegner
+MID_MISSION_H_M201801A_A3: Besiege rote Gegner.
+MID_MISSION_M201801A_A4: Besiege Infanterieeinheiten
+MID_MISSION_H_M201801A_A4: Besiege gegnerische\nInfanterieeinheiten.
+MID_MISSION_M201801A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201801A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201801A_A6: Blau besiegt Geg. Lv. 20+
+MID_MISSION_H_M201801A_A6: Lass blaue Verbündete Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201801A_A7: Inf. besiegt Geg. Lv. 20+
+MID_MISSION_H_M201801A_A7: Lass Infanterieeinheiten Gegner\nbesiegen, die Level 20 oder\nhöher sind.
+MID_MISSION_M201801A_A8: Besiege Grün Lv. 20+
+MID_MISSION_H_M201801A_A8: Besiege grüne Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201801A_A9: Besiege Reiter Lv. 20+
+MID_MISSION_H_M201801A_A9: Besiege berittene Gegner,\ndie Level 20 oder höher sind.
+MID_MISSION_M201801A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201801A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201801A_A11: Rot besiegt Geg. Lv. 35+
+MID_MISSION_H_M201801A_A11: Lass rote Verbündete Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201801A_A12: Flieger besiegt Lv. 35+
+MID_MISSION_H_M201801A_A12: Lass fliegende Einheiten Gegner\nbesiegen, die Level 35 oder\nhöher sind.
+MID_MISSION_M201801A_A13: Besiege Blau Lv. 35+
+MID_MISSION_H_M201801A_A13: Besiege blaue Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201801A_A14: Besiege Flieger Lv. 35+
+MID_MISSION_H_M201801A_A14: Besiege fliegende Gegner,\ndie Level 35 oder höher sind.
+MID_MISSION_M201801A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201801A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201801B_TITLE: Januar-Quests (2)
+MID_MISSION_M201801B_A1: Übungsturm: Erste Stufe
+MID_MISSION_H_M201801B_A1: Bewältige die erste Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A2: Übungsturm: Zweite Stufe
+MID_MISSION_H_M201801B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A3: Übungsturm: Dritte Stufe
+MID_MISSION_H_M201801B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A4: Übungsturm: Vierte Stufe
+MID_MISSION_H_M201801B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A5: Übungsturm: Fünfte Stufe
+MID_MISSION_H_M201801B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A6: Übungsturm: Sechste Stufe
+MID_MISSION_H_M201801B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A7: Übungsturm: Siebte Stufe
+MID_MISSION_H_M201801B_A7: Bewältige die siebte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A8: Übungsturm: Achte Stufe
+MID_MISSION_H_M201801B_A8: Bewältige die achte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A9: Übungsturm: Neunte Stufe
+MID_MISSION_H_M201801B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A10: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201801B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201801B_A11: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201801B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201801B_A12: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201801B_A12: 10. Stufe d. Übungsturms nur mit\ngepanzerten Einheiten bewältigen.\nAlle 4 Verb. müssen überleben.
+MID_MISSION_M201801B_A13: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201801B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201801B_A14: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201801B_A14: Bewältige d. 10. Stufe d. Übungs-\nturms nur mit Flugeinheiten. Alle\n4 Verbündeten müssen überleben.
+MID_MISSION_M201801C_TITLE: Januar-Quests (3)
+MID_MISSION_M201801C_A1: Kap. 5 Tl. 1
+MID_MISSION_H_M201801C_A1: Bewältige Kapitel 5 - Teil 1.\nAlle Verbündeten müssen\nüberleben.
+MID_MISSION_M201801C_A2: Kap. 5 Tl. 2
+MID_MISSION_H_M201801C_A2: Bewältige Kap. 5/Tl. 2 mit einem\nroten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A3: Kap. 5 Tl. 3
+MID_MISSION_H_M201801C_A3: Bewältige Kap. 5/Tl. 3 mit einem\nblauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A4: Kap. 5 Tl. 4
+MID_MISSION_H_M201801C_A4: Bewältige Kap. 5/Tl. 4 mit einem\ngrünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A5: Kap. 5 Tl. 5
+MID_MISSION_H_M201801C_A5: Bewältige Kap. 5/Tl. 5 mit einem\nfarblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A6: Kap. 8 Tl. 1 - Schwer+
+MID_MISSION_H_M201801C_A6: Bewältige Kap. 8/Tl. 1 im Modus\nSchwer oder höher. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A7: Kap. 8 Tl. 2 - Schwer+
+MID_MISSION_H_M201801C_A7: Kap. 8/Tl. 2 mit 1 roten Verb. im\nModus Schwer o. höher bewälti-\ngen. Alle Verb. müssen überleben.
+MID_MISSION_M201801C_A8: Kap. 8 Tl. 3 - Schwer+
+MID_MISSION_H_M201801C_A8: Kap. 8/Tl. 3 mit 1 blauen Verb. im\nModus Schwer o. höher bewälti-\ngen. Alle Verb. müssen überleben.
+MID_MISSION_M201801C_A9: Kap. 8 Tl. 4 - Schwer+
+MID_MISSION_H_M201801C_A9: Kap. 8/Tl. 4 mit 1 grünen Verb. im\nModus Schwer o. höher bewälti-\ngen. Alle Verb. müssen überleben.
+MID_MISSION_M201801C_A10: Kap. 8 Tl. 5 - Schwer+
+MID_MISSION_H_M201801C_A10: Kap. 8/Tl. 5 mit 1 farbl. Verb. im\nModus Schwer o. höher bewälti-\ngen. Alle Verb. müssen überleben.
+MID_MISSION_M201801C_A11: Kap. 11 Tl. 1 - Extrem
+MID_MISSION_H_M201801C_A11: Bewältige Kapitel 11 - Teil 1\nim Modus "Extrem". Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201801C_A12: Kap. 11 Tl. 2 - Extrem
+MID_MISSION_H_M201801C_A12: Bewältige Kap. 11/Tl. 2 im Modus\nExtrem mit 1 roten Verbündeten.\nAlle Verbünd. müssen überleben.
+MID_MISSION_M201801C_A13: Kap. 11 Tl. 3 - Extrem
+MID_MISSION_H_M201801C_A13: Bewältige Kap. 11/Tl. 3 im Modus\nExtrem mit 1 blauen Verbündeten.\nAlle Verbünd. müssen überleben.
+MID_MISSION_M201801C_A14: Kap. 11 Tl. 4 - Extrem
+MID_MISSION_H_M201801C_A14: Bewältige Kap. 11/Tl. 4 im Modus\nExtrem mit 1 grünen Verbündeten.\nAlle Verbünd. müssen überleben.
+MID_MISSION_M201801C_A15: Kap. 11 Tl. 5 - Extrem
+MID_MISSION_H_M201801C_A15: Bewältige Kap. 11/Tl. 5 im Modus\nExtrem mit 1 farblosen Verbündeten.\nAlle Verbünd. müssen überleben.
+MID_MISSION_S2018NEWYEAR01_TITLE: Neujahr
+MID_MISSION_S2018NEWYEAR01_A1: Gegner besiegen
+MID_MISSION_H_S2018NEWYEAR01_A1: Besiege einen Gegner.
+MID_MISSION_S2018NEWYEAR01_A2: Gewinne Arenaüberfall
+MID_MISSION_H_S2018NEWYEAR01_A2: Gewinne in Arenaüberfall.
+MID_MISSION_S201712SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201712SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201712SENKA02_DAILY_A1: Bewältige eine letzte\nKarte der Sturmprüfung.
+MID_MISSION_S201712SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201712SENKA02_DAILY_A2: Bewältige eine letzte\nKarte der Sturmprüfung.
+MID_MISSION_S201712SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201712SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201712SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201712STORY02_TITLE: Frohes neues Jahr!
+MID_MISSION_S201712STORY02_A1: Nebenq. 17 Tl. 1 / Extrem
+MID_MISSION_H_S201712STORY02_A1: Bewältige Nebenquest 17 - Tl. 1 im Modus\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712STORY02_A2: Nebenq. 17 Tl. 2 / Extrem
+MID_MISSION_H_S201712STORY02_A2: Bewältige Nebenquest 17 - Tl. 2 im Modus\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201712STORY02_A3: Nebenq. 17 Tl. 3 / Extrem
+MID_MISSION_H_S201712STORY02_A3: Bewältige Nebenquest 17 - Tl. 3 im Modus\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801BIND01_TITLE: Infanteriemeister
+MID_MISSION_S201801BIND01_A1: Übungsturm: 3. Stufe
+MID_MISSION_H_S201801BIND01_A1: Setze ein Infanterieteam ein,\num die 3. Stufe des Übungs-\nturms zu bewältigen.
+MID_MISSION_S201801BIND01_A2: Nebenq. 6 Tl. 1
+MID_MISSION_H_S201801BIND01_A2: Setze ein Infanterieteam ein,\num Nebenquest 6 - Teil 1 zu\nbewältigen.
+MID_MISSION_S201801BIND01_A3: Übungsturm: 5. Stufe
+MID_MISSION_H_S201801BIND01_A3: Setze ein Infanterieteam ein,\num die 5. Stufe des Übungs-\nturms zu bewältigen.
+MID_MISSION_S201801BIND01_A4: Nebenq. 6 Tl. 2 - Schwer+
+MID_MISSION_H_S201801BIND01_A4: Setze ein Infanterieteam ein,\num Nebenq. 6 - Tl. 2 auf\nSchwer o. höher zu bewältigen.
+MID_MISSION_S201801BIND01_A5: Übungsturm: 7. Stufe
+MID_MISSION_H_S201801BIND01_A5: Setze ein Infanterieteam ein,\num die 7. Stufe des Übungs-\nturms zu bewältigen.
+MID_MISSION_S201801BIND01_A6: Nebenq. 6 Tl. 3 - Extrem
+MID_MISSION_H_S201801BIND01_A6: Setze ein Infanterieteam ein,\num Nebenq. 6 - Tl. 3 auf\nExtrem zu bewältigen.
+MID_MISSION_S201801BIND01_A7: Übungsturm: 9. Stufe
+MID_MISSION_H_S201801BIND01_A7: Setze ein Infanterieteam ein,\num die 9. Stufe des Übungs-\nturms zu bewältigen.
+MID_MISSION_S201801BIND01_A8: Nebenq. 7 Tl. 3 - Extrem
+MID_MISSION_H_S201801BIND01_A8: Setze ein Infanterieteam ein,\num Nebenq. 7 - Tl. 3 auf\nExtrem zu bewältigen.
+MID_MISSION_S201801BRAVE01_TITLE: Anna
+MID_MISSION_S201801BRAVE01_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_S201801BRAVE01_A1: Bewältige die erste Stufe\ndes Übungsturms mit\nAnna in deinem Team.
+MID_MISSION_S201801BRAVE01_A2: Übungsturm: 5. Stufe
+MID_MISSION_H_S201801BRAVE01_A2: Bewältige die fünfte Stufe\ndes Übungsturms mit\nAnna in deinem Team.
+MID_MISSION_S201801BRAVE01_A3: Übungsturm: 9. Stufe
+MID_MISSION_H_S201801BRAVE01_A3: Bewältige die neunte Stufe\ndes Übungsturms mit\nAnna in deinem Team.
+MID_MISSION_S201801BRAVE01_A4: Übungsturm: 10. Stufe
+MID_MISSION_H_S201801BRAVE01_A4: Bewältige die 10. Stufe des Übungs-\nturms mit Anna und zwei Verb.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801BRAVE01_A5: Anna greift an
+MID_MISSION_H_S201801BRAVE01_A5: Lass Anna einige\nGegner besiegen.
+MID_MISSION_S201801BRAVE01_A6: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201801BRAVE01_A6: Lass Anna einige Gegner\nbesiegen, die Level 20\noder höher sind.
+MID_MISSION_S201801BRAVE01_A7: Gegner Lv. 40+ besiegen
+MID_MISSION_H_S201801BRAVE01_A7: Lass Anna einige Gegner\nbesiegen, die Level 40\noder höher sind.
+MID_MISSION_S201801KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201801KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201801KIZUNA01_A1: Bewältige den Treue-Heldenkampf\ngg. Ephraim & Eirika mit Anna\nim Team.
+MID_MISSION_S201801KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201801KIZUNA01_A2: Bewältige den Treue-Heldenkampf\ngg. Ephraim & Eirika mit Sharena\nim Team auf Extrem o. höher.
+MID_MISSION_S201801KIZUNA01_A3: Ephraim besiegen
+MID_MISSION_H_S201801KIZUNA01_A3: Besiege Ephraim, der Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201801KIZUNA01_A4: Eirika besiegen
+MID_MISSION_H_S201801KIZUNA01_A4: Besiege Eirika, die Level 40\noder höher ist, mit Sharena.
+MID_MISSION_S201801KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201801KIZUNA01_A5: Treue-Heldenkampf gg. Ephraim &\nEirika mit Infanterieteam auf\nExtrem o. höher bewältigen.
+MID_MISSION_S201801VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201801VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201801VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A2: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201801VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A3: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201801VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A4: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201801VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A5: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201801VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201801VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201801VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201801VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201801VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201801VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201801VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201801VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201801VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201801VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201801VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201801VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201801VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A17: Gewinne einige Kämpfe im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A18: Gewinne einige Kämpfe im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A19: Gewinne einige Kämpfe im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201801VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201801VOTE01_A20: Gewinne einige Kämpfe im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MPID_年明けアクア: Azura
+MPID_年明けカミラ: Camilla
+MPID_年明けカムイ男: Corrin
+MPID_年明けタクミ: Takumi
+MPID_HONOR_年明けアクア: Feierlaune
+MPID_HONOR_年明けカミラ: Winterreisende
+MPID_HONOR_年明けカムイ男: Traditionsfreund
+MPID_HONOR_年明けタクミ: Suppenprinz
+MPID_H_年明けアクア: Eine bezaubernde Prinzessin, die in Hoshido\naufgewachsen ist und noch nie ein Spiel des\ntraditionellen Sports Hanetsuki verloren hat.\nErscheint in Fire Emblem Fates.
+MPID_H_年明けカミラ: Eine nohrische Prinzessin, die in ihren\nBruder Corrin vernarrt ist und mehr über die\nKultur und Mode Hoshidos lernen möchte.\nErscheint in Fire Emblem Fates.
+MPID_H_年明けカムイ男: Ein Prinz von Hoshido, aufgewachsen in\nNohr. Sein Kimono wurde von Mikoto\ngenäht, als sie noch lebte.\nErscheint in Fire Emblem Fates.
+MPID_H_年明けタクミ: Der hoshidische Prinz, der den heiligen\nBogen, den Fujin Yumi, führt. Isst gerne\nMiso-Suppe, aber auch Zōni für das neue\nJahr. Erscheint in Fire Emblem Fates.
+MPID_VOICE_年明けアクア: Rena Strober
+MPID_VOICE_年明けカミラ: Misty Lee
+MPID_VOICE_年明けカムイ男: Cam Clarke
+MPID_VOICE_年明けタクミ: Michael Sinterniklaas
+MPID_ILLUST_年明けアクア: kaya8
+MPID_ILLUST_年明けカミラ: Mikuro (みく郎)
+MPID_ILLUST_年明けカムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_ILLUST_年明けタクミ: Tobi
+MSID_門松: Kadomatsu
+MSID_門松＋: Kadomatsu+
+MSID_羽子板: Hagoita
+MSID_羽子板＋: Hagoita+
+MSID_破魔矢: Hamaya
+MSID_破魔矢＋: Hamaya+
+MSID_鏡餅: Kagami-Mochi
+MSID_鏡餅＋: Kagami-Mochi+
+MSID_速さ守備の絆1: Ges./Ver.-Band 1
+MSID_速さ守備の絆2: Ges./Ver.-Band 2
+MSID_速さ守備の絆3: Ges./Ver.-Band 3
+MSID_大地の舞い1: Erdtanz 1
+MSID_大地の舞い2: Erdtanz 2
+MSID_大地の舞い3: Erdtanz 3
+MSID_H_門松: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_門松＋: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_羽子板: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_羽子板＋: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_破魔矢: Effektiv gegen Flugeinheiten.\nVerleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_破魔矢＋: Effektiv gegen Flugeinheiten.\nVerleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf.
+MSID_H_鏡餅: Beschleunigt Spezialangriffe (Erholungszeit -1).\nHat die Einheit angegriffen, erleiden Ziel und\nGegner im Umkreis von 2 Feldern des Ziels\nnach dem Kampf Ver./Res. -5 bis nach ihren\nnächsten Aktionen.
+MSID_H_鏡餅＋: Beschleunigt Spezialangriffe (Erholungszeit -1).\nHat die Einheit angegriffen, erleiden Ziel und\nGegner im Umkreis von 2 Feldern des Ziels\nnach dem Kampf Ver./Res. -7 bis nach ihren\nnächsten Aktionen.
+MSID_H_速さ守備の絆1: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Ver. +3 im Kampf.
+MSID_H_速さ守備の絆2: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Ver. +4 im Kampf.
+MSID_H_速さ守備の絆3: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Ver. +5 im Kampf.
+MSID_H_大地の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ver. +3.
+MSID_H_大地の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ver. +4.
+MSID_H_大地の舞い3: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ver. +5.
+MID_CHAPTER_TITLE_CX016: Nebenquest 17
+MID_CHAPTER_CX016: Frohes Neues!
+MID_STAGE_TITLE_X0161: Nebenq. 17: Tl. 1
+MID_STAGE_TITLE_X0162: Nebenq. 17: Tl. 2
+MID_STAGE_TITLE_X0163: Nebenq. 17: Tl. 3
+MID_STAGE_X0161: Neujahrsgrüße
+MID_STAGE_X0162: Schreinprinzessinnen
+MID_STAGE_X0163: Neujahrswünsche
+MID_STAGE_HONOR_T0022: Treue-Heldenk.
+MID_STAGE_T0022: R & L

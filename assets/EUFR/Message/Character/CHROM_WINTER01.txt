@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: Le prince Alfonse a essayé ma tenue.\nCe qui m'embête, c'est qu'elle lui va\nbien mieux qu'à moi.
+MID_CHROM_WINTER01_HOME2: Pour le festival de l'hiver, nous\ndécorons le château d'Ylisstol de\nrouge et de vert.$k$pNous pourrions peut-être faire la\nmême chose ici ?
+MID_CHROM_WINTER01_HOME3: Vous n'avez pas froid ? Je serais un\npiètre héros si je laissais notre\n$Ginvocateur,invocatrice| tomber malade.$k$pTenez, prenez ma cape.
+MID_CHROM_WINTER01_HOME4: Après notre prochaine mission,\nj'aimerais acheter des cadeaux\npour tous les héros.
+MID_CHROM_WINTER01_HOME5: J'ai jeté un œil dans mon sac, et il est\nrempli de cadeaux pour toute l'armée.\nJe ferais mieux de ne pas le perdre !
+MID_CHROM_WINTER01_FRIEND: Joyeuses fêtes ! Je vous apporte de\nla joie et des cadeaux... Enfin, si\nvous avez été sage.
+MID_CHROM_WINTER01_LEVEL1: On dirait que c'est à mon tour de\nrecevoir un cadeau.
+MID_CHROM_WINTER01_LEVEL2: Pas facile de se battre en\ntrimballant ce sac.
+MID_CHROM_WINTER01_LEVEL3: On dirait que l'esprit des fêtes\nm'a abandonné.
+MID_CHROM_WINTER01_SKILL: C'est un cadeau pour moi ?\nMerci !
+MID_CHROM_WINTER01_JOIN: Joyeuses fêtes ! Je suis le prince\nChrom du Saint-Royaume d'Ylisse.\nJ'espère que vous avez été sage !
+MID_CHROM_WINTER01_STRONGEST: C'est gentil de braver le froid pour\nvenir me voir, mais faites tout de\nmême attention à votre santé.$k$pSi vous vous enrhumez, vous ne\npourrez pas profiter des fêtes de\nl'hiver.$k$pEn Ylisse, le jour du festival de l'hiver,\nnous offrons des cadeaux à notre\nfamille et à nos amis.$k$pNormalement, c'est moi qui les\ndistribue. Et pourtant...$k$pJ'ai l'impression que depuis que je\nsuis arrivé en Askr, c'est vous qui me\nfaites sans cesse des cadeaux.$k$pVous voyez ce que je veux dire ?$k$pLes cadeaux ne sont pas forcément\ndes objets. Vous passez du temps à\nmes côtés, vous m'encouragez...$k$pVous me rendez plus fort.$k$pEt je vous en suis infiniment\nreconnaissant. J'espère pouvoir vous\nrendre la pareille.
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: Hey! Cut it out!
+MID_CHROM_WINTER01_VOICE05: Un cadeau pour vous !
+MID_CHROM_WINTER01_VOICE06: Tenez, c'est pour vous !
+MID_CHROM_WINTER01_VOICE07: La force de l'hiver !
+MID_CHROM_WINTER01_VOICE08: Je brûle d'impatience !
+MID_CHROM_WINTER01_VOICE09: Going home...
+MID_CHROM_WINTER01_VOICE10: Heehee...
+MID_CHROM_WINTER01_VOICE11: Lissa made me wear this.
+MID_CHROM_WINTER01_VOICE12: I wonder what kind of present you would like?
+MID_CHROM_WINTER01_VOICE13: This is apparently a winter-celebration outfit from another world.
+MID_CHROM_WINTER01_VOICE14: Red is not my color.
+MID_CHROM_WINTER01_VOICE15: I suppose Falchion CAN be used to slice cake...
+MID_CHROM_WINTER01_VOICE16: Change outfits ONCE and I get summoned...?
+MID_CHROM_WINTER01_VOICE17: I suggest you hang a stocking somewhere tonight.
+MID_CHROM_WINTER01_VOICE18: OK.
+MID_CHROM_WINTER01_VOICE19: On it.
+MID_CHROM_WINTER01_VOICE20: Party?

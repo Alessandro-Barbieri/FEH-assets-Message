@@ -1,0 +1,9 @@
+[Heroes Archive] (S1203)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|$w0|Imboscata! Ricordatevi: se ci\nchiudiamo in difesa, il nemico\nprima o poi si ritirerà.$k$pState attenti e non fate niente\ndi impulsivo. Dobbiamo avere\npazienza!$k$p$Sbs1000|

@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_POPULARITY01_HOME1: Ma mère était de sang noble, mais\nelle a choisi de fuir avec celui qu'elle\naimait, un homme des plaines...
+MID_LIN_POPULARITY01_HOME2: Mon père était le chef de la tribu des\nLorca. Je voulais protéger mon peuple\nen son nom, mais... il ne reste que moi.
+MID_LIN_POPULARITY01_HOME3: Vous pouvez vous reposer\nen toute tranquillité.$k$pSi vous le souhaitez, je vous\nréveillerai demain matin.
+MID_LIN_POPULARITY01_HOME4: Voici Mulagir, l'arc du vent tumultueux.\nC'est l'une des armes légendaires.$k$pIl a autrefois été porté par une\nfemme appelée Hanon.
+MID_LIN_POPULARITY01_HOME5: Frapper avec précision une cible\nen mouvement tout en chevauchant\nun cheval au galop...$k$pC'est une pratique courante chez le\npeuple des plaines.
+MID_LIN_POPULARITY01_FRIEND: $Nf vous salue.\nJ'espère que vous...$k$pOh... Excusez mes manières.
+MID_LIN_POPULARITY01_LEVEL1: Père, Mère... Veillez sur moi.
+MID_LIN_POPULARITY01_LEVEL2: Cet arc semble guider mon bras...
+MID_LIN_POPULARITY01_LEVEL3: Je dois prendre garde à ne pas\ntomber de cheval.
+MID_LIN_POPULARITY01_SKILL: Merci. Je tâcherai d'être digne\nde votre confiance.
+MID_LIN_POPULARITY01_JOIN: Je m'appelle Lyndis. Permettez-moi\nde mettre l'arc légendaire de\nSacae à votre service.
+MID_LIN_POPULARITY01_STRONGEST: Je suis à la fois l'héritière d'une\nfamille noble et du peuple\ndes plaines de Sacae.$k$pCes deux origines ont autant\nd'importance à mes yeux.\nJe suis fière de cet héritage...$k$pC'est comme si mes deux parents\nveillaient constamment sur moi.$k$pMoi-même, je veillerai ainsi un jour\nsur mes propres enfants...$k$pMes propos vous étonnent ?\nVous avez raison. Après tout,\nje peux mourir demain...$k$pC'est peut-être cette pensée même\nqui m'inspire. Perpétuer sa lignée...\net assurer l'avenir de ses enfants.
+MID_LIN_POPULARITY01_VOICE01: ええいっ！
+MID_LIN_POPULARITY01_VOICE02: そこよ！
+MID_LIN_POPULARITY01_VOICE03: きゃああっ！
+MID_LIN_POPULARITY01_VOICE04: ま、まだよ…！
+MID_LIN_POPULARITY01_VOICE05: En garde !
+MID_LIN_POPULARITY01_VOICE06: Je ne rate jamais !
+MID_LIN_POPULARITY01_VOICE07: Arc de Sacae !
+MID_LIN_POPULARITY01_VOICE08: Une cible idéale !
+MID_LIN_POPULARITY01_VOICE09: Father... Mother...
+MID_LIN_POPULARITY01_VOICE10: Hmmm...
+MID_LIN_POPULARITY01_VOICE11: You think this outfit suits me? Thanks.
+MID_LIN_POPULARITY01_VOICE12: If you want to use a bow, first quiet your mind and let your body relax...
+MID_LIN_POPULARITY01_VOICE13: I was having a dream, and in that dream, you saved me...
+MID_LIN_POPULARITY01_VOICE14: You REALLY remind me of another tactician I know.
+MID_LIN_POPULARITY01_VOICE15: My father was an incredibly skilled horseman and a great shot with a bow, too.
+MID_LIN_POPULARITY01_VOICE16: Father... Mother... Are you watching over me?
+MID_LIN_POPULARITY01_VOICE17: You're special to me. That feeling has been building for a long time. It crept up on me.
+MID_LIN_POPULARITY01_VOICE18: Yes.
+MID_LIN_POPULARITY01_VOICE19: The enemy!
+MID_LIN_POPULARITY01_VOICE20: Stay close.

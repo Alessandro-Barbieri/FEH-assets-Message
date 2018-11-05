@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: Grande conquête
+MID_MISSION_S201806DAISEIATU01_A1: GC : score
+MID_MISSION_H_S201806DAISEIATU01_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201806DAISEIATU01_A2: GC : score
+MID_MISSION_H_S201806DAISEIATU01_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201806DAISEIATU01_A3: GC : score
+MID_MISSION_H_S201806DAISEIATU01_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201806DAISEIATU01_A4: Tour : deuxième strate
+MID_MISSION_H_S201806DAISEIATU01_A4: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201806DAISEIATU01_A5: Tour : huitième strate
+MID_MISSION_H_S201806DAISEIATU01_A5: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201806DAISEIATU01_A6: Duelliste
+MID_MISSION_H_S201806DAISEIATU01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201806SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201806SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201806SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201806SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201806SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201806SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201806STORY02_TITLE: Voilà l'été
+MID_MISSION_S201806STORY02_A1: Ann. 21 - Acte 1 (Expert)
+MID_MISSION_H_S201806STORY02_A1: Terminer l'acte 1 de l'annexe 21 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY02_A2: Ann. 21 - Acte 2 (Expert)
+MID_MISSION_H_S201806STORY02_A2: Terminer l'acte 2 de l'annexe 21 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806STORY02_A3: Ann. 21 - Acte 3 (Expert)
+MID_MISSION_H_S201806STORY02_A3: Terminer l'acte 3 de l'annexe 21 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_水着ヒーニアス: Innes
+MPID_水着ターナ: Tana
+MPID_水着ティアモ: Cordelia
+MPID_水着ノワール: Noire
+MPID_HONOR_水着ヒーニアス: Grand nageur
+MPID_HONOR_水着ターナ: Noble enjouée
+MPID_HONOR_水着ティアモ: Estivante d'élite
+MPID_HONOR_水着ノワール: Amatrice d'ombre
+MPID_H_水着ヒーニアス: Prince de Frelia et frère de Tana.\nDéterminé à parfaire ses compétences\ndurant l'été. Apparaît dans Fire Emblem:\nThe Sacred Stones.
+MPID_H_水着ターナ: Princesse de Frelia et sœur d'Innes.\nElle a décidé de profiter d'une pause estivale.\nApparaît dans Fire Emblem: The Sacred\nStones.
+MPID_H_水着ティアモ: Seule survivante des chevaliers pégase\nd'Ylisse. Talentueuse, mais peu à l'aise en\nmaillot. Apparaît dans Fire Emblem:\nAwakening.
+MPID_H_水着ノワール: Fille de Tharja. Gare à son autre personnalité,\nqui émerge lorsqu'elle est poussée à bout.\nC'est la première à fuir le soleil. Apparaît\ndans Fire Emblem: Awakening.
+MPID_VOICE_水着ヒーニアス: Xander Mobus
+MPID_VOICE_水着ターナ: Joie Marlowe
+MPID_VOICE_水着ティアモ: Julie Ann Taylor
+MPID_VOICE_水着ノワール: Michelle Ruff
+MPID_ILLUST_水着ヒーニアス: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: Mayo (まよ)
+MPID_ILLUST_水着ノワール: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: Lance coquillage
+MSID_貝殻の槍＋: L. coquillage +
+MSID_ビーチフラッグ: Fanion de plage
+MSID_ビーチフラッグ＋: Fanion de plage +
+MSID_ヤシの実の弓: Arc coco
+MSID_ヤシの実の弓＋: Arc coco +
+MSID_イズンの果実: Fruit d'Iðunn
+MSID_攻撃速さの渾身1: Effort Atq/Vit 1
+MSID_攻撃速さの渾身2: Effort Atq/Vit 2
+MSID_攻撃速さの渾身3: Effort Atq/Vit 3
+MSID_強化無効・近距離1: Affaibl. proche 1
+MSID_強化無効・近距離2: Affaibl. proche 2
+MSID_強化無効・近距離3: Affaibl. proche 3
+MSID_守備の共謀1: Feinte Déf 1
+MSID_守備の共謀2: Feinte Déf 2
+MSID_守備の共謀3: Feinte Déf 3
+MSID_歩行の剛撃1: Ruée infanterie 1
+MSID_歩行の剛撃2: Ruée infanterie 2
+MSID_歩行の剛撃3: Ruée infanterie 3
+MSID_H_貝殻の槍: Si l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_貝殻の槍＋: Si l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ビーチフラッグ: Si l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ビーチフラッグ＋: Si l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ヤシの実の弓: Efficace contre les unités volantes.\nSi l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_ヤシの実の弓＋: Efficace contre les unités volantes.\nSi l'unité initie le combat, confère\nAtq/Vit/Déf/Rés +2 pendant le combat.
+MSID_H_イズンの果実: Confère Vit +3. Si PV ≥ 50 %, les alliés\nà 2 cases ou moins peuvent se déplacer\njusqu'à une case adjacente à l'unité.
+MSID_H_攻撃速さの渾身1: Si PV = 100 % au début du combat, confère\nAtq/Vit +3, mais si l'unité attaque, elle subit\n1 dégât après le combat.
+MSID_H_攻撃速さの渾身2: Si PV = 100 % au début du combat, confère\nAtq/Vit +4, mais si l'unité attaque, elle subit\n1 dégât après le combat.
+MSID_H_攻撃速さの渾身3: Si PV = 100 % au début du combat, confère\nAtq/Vit +5, mais si l'unité attaque, elle subit\n1 dégât après le combat.
+MSID_H_強化無効・近距離1: Si PV = 100 % au début du combat et que\nl'ennemi utilise une épée, une lance, une\nhache ou une dracopierre, les bonus dont\nil bénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_強化無効・近距離2: Si PV ≥ 50 % au début du combat et que\nl'ennemi utilise une épée, une lance, une\nhache ou une dracopierre, les bonus dont\nil bénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_強化無効・近距離3: Si l'ennemi utilise une épée, une lance, une\nhache ou une dracopierre, les bonus dont\nil bénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_守備の共謀1: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -3 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MSID_H_守備の共謀2: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -5 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MSID_H_守備の共謀3: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -7 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MSID_H_歩行の剛撃1: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n5 points ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
+MSID_H_歩行の剛撃2: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n3 points ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
+MSID_H_歩行の剛撃3: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n1 point ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
+MID_CHAPTER_TITLE_CX020: Annexe 21
+MID_CHAPTER_CX020: Voilà l'été
+MID_STAGE_TITLE_X0201: Ann. 21 - Acte 1
+MID_STAGE_TITLE_X0202: Ann. 21 - Acte 2
+MID_STAGE_TITLE_X0203: Ann. 21 - Acte 3
+MID_STAGE_X0201: Une famille de guerriers
+MID_STAGE_X0202: Sous le soleil
+MID_STAGE_X0203: Le bruit des vagues

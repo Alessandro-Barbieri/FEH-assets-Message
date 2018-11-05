@@ -1,0 +1,39 @@
+[Heroes Archive] (NONO_HALLOWEEN01)
+
+
+Heroes Message Name: Message
+
+
+MID_NONO_HALLOWEEN01_HOME1: 英雄って色んな服を着てるから…\nここにいるとみーんな仮装してるみたい！\nえへへ、そしたらずーっと収穫祭だね！
+MID_NONO_HALLOWEEN01_HOME2: 昔ね、異界の収穫祭にも行ったんだよ。\nノノはその日の夜、チキっていうお友達と\nきれいなお星さまを見に行ったんだー！
+MID_NONO_HALLOWEEN01_HOME3: $Nu、忙しそう…\nノノがいっぱいお菓子もらってこようか？\n甘いの食べたら元気もいっぱいだよ！
+MID_NONO_HALLOWEEN01_HOME4: 今度、召喚するとこみせて！\n遺跡で光ってるぴかぴかの石…\nキャンディみたいでノノ大好き！
+MID_NONO_HALLOWEEN01_HOME5: 見て見て、魔女らしくお薬を作ったんだ！\n材料はねえ、そこにいたトカゲの尻尾とー、\nノノのうろことー、よくわかんない草の汁！
+MID_NONO_HALLOWEEN01_FRIEND: お菓子くれなきゃぺしゃんこにするよ！\n…じゃなかった、お菓子もらいにじゃなくて\nノノ、挨拶を届けに来たんだ、はいっ！
+MID_NONO_HALLOWEEN01_LEVEL1: やったやったー！\nこれで大人っぽくなれるかな！
+MID_NONO_HALLOWEEN01_LEVEL2: 魔女ならこれぐらい、\nちょちょいのバーンだもんね！
+MID_NONO_HALLOWEEN01_LEVEL3: 一人前の魔女になるには\nもっとしゅぎょーしなくちゃ…
+MID_NONO_HALLOWEEN01_SKILL: ノノのこと強くしてくれてうれしい！\nお菓子を貰うよりうれしいよーっ！
+MID_NONO_HALLOWEEN01_JOIN: じゃーん！　ノノは魔女だよ！\nノノの魔法で収穫祭をお祝いして、\nお菓子もいっぱい貰っちゃうもんね！
+MID_NONO_HALLOWEEN01_STRONGEST: あっ、$Nuだー！\nいつもノノのところに来てくれてありがとう！\nでもね、ノノ謝らなきゃ…$k$pこんなにいっぱい来てくれてるのにノノ、\nあなたにお菓子をあげられてないから。\nせっかくの収穫祭なのにごめんね…$k$p…え？　お菓子が欲しくて来たんじゃない？\nじゃあ、$Nuは…\nノノに会いたくて来てくれてるの！？$k$pわーい！　ノノとってもうれしいーっ！\nノノもね、お菓子をもらうよりずっとずっと\nこうしてお話しできるほうがうれしいよ！$k$pこれからもこうして、遊びに来てね！\nイタズラしてもわがまま言っても…\nノノはお姉さんだから何でも許してあげる！
+MID_NONO_HALLOWEEN01_VOICE01: ていっ
+MID_NONO_HALLOWEEN01_VOICE02: それっ！
+MID_NONO_HALLOWEEN01_VOICE03: うわわっ
+MID_NONO_HALLOWEEN01_VOICE04: ひっどーい！
+MID_NONO_HALLOWEEN01_VOICE05: トリックオアトリート！
+MID_NONO_HALLOWEEN01_VOICE06: 食べちゃうよーっ！
+MID_NONO_HALLOWEEN01_VOICE07: いたずらしちゃうよ！
+MID_NONO_HALLOWEEN01_VOICE08: ノノは魔女だもん！
+MID_NONO_HALLOWEEN01_VOICE09: ノノがいたずらしたかったな…
+MID_NONO_HALLOWEEN01_VOICE10: えへへっ
+MID_NONO_HALLOWEEN01_VOICE11: え、お菓子くれるの？　ありがとー！！
+MID_NONO_HALLOWEEN01_VOICE12: ノノはみんなよりお姉さんだから、ホントはお菓子あげる側なんだよね
+MID_NONO_HALLOWEEN01_VOICE13: 魔女って昔ホントにいたんだよ、ノノは知ってるんだから！
+MID_NONO_HALLOWEEN01_VOICE14: 収穫祭っておいしいものがいっぱいでだーいすき！
+MID_NONO_HALLOWEEN01_VOICE15: 仮装をするより竜になった方が早い？　うっ、それはそうかも…！
+MID_NONO_HALLOWEEN01_VOICE16: こわいお化けは苦手だけど、今は全然へっちゃらだよ！
+MID_NONO_HALLOWEEN01_VOICE17: ノノにお願いがあるの？　まかせて、それなら魔法で…\nふぎゅっ、失敗しちゃったよーっ！
+MID_NONO_HALLOWEEN01_VOICE18: わーい！
+MID_NONO_HALLOWEEN01_VOICE19: お菓子もらえる？
+MID_NONO_HALLOWEEN01_VOICE20: いたずらしに行こ！
+MID_NONO_HALLOWEEN01_VOICE21: お菓子くれなきゃ、ブレスでぺしゃんこだよっ！

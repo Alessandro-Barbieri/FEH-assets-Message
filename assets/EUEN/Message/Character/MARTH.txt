@@ -1,0 +1,39 @@
+[Heroes Archive] (MARTH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_HOME1: It's strange. I feel like you are a\npart of me—as if we have been\ntogether forever.
+MID_MARTH_HOME2: I am no Hero-King. I only stopped\nthe war thanks to my many allies.
+MID_MARTH_HOME3: Thank you for everything you do for\nus. If ever you find yourself in\nneed, I want you to rely on us.
+MID_MARTH_HOME4: This world is beautiful... It reminds\nme of my own homeland.
+MID_MARTH_HOME5: I cannot allow a single one of my\nfriends to die. Together, you and I,\nwith everyone else, will win this war.
+MID_MARTH_FRIEND: Pardon the intrusion. I was\nasked to come say hello\nby $Nf.
+MID_MARTH_LEVEL1: Let this be a ray of hope that lights\nthe way for others!
+MID_MARTH_LEVEL2: I shall do my best to always\nimprove.
+MID_MARTH_LEVEL3: My apologies. It seems I am not\nmyself today.
+MID_MARTH_SKILL: May I help end the fighting with this\nray of hope.
+MID_MARTH_JOIN: I am Marth, Prince of Altea. It is\ngood to make your acquaintance.\nLike you, I desire peace above all.
+MID_MARTH_STRONGEST: Over all the battles we've fought\ntogether, I have come to see my\nown powerlessness.$k$pAs but one, I cannot accomplish\nanything. Together, we can face\neverything.$k$pThat is why having you at my side\ngives me courage beyond the\ntelling of it.$k$pI shall continue to fight at your\nside as long as you will allow me.$k$pI am eternally grateful that we\nmay count on one another.
+MID_MARTH_VOICE01: せいっ
+MID_MARTH_VOICE02: はあっ
+MID_MARTH_VOICE03: うっ
+MID_MARTH_VOICE04: うわああ！
+MID_MARTH_VOICE05: My prayers are with you.
+MID_MARTH_VOICE06: Forgive me.
+MID_MARTH_VOICE07: I must end you.
+MID_MARTH_VOICE08: Fate has brought us here.
+MID_MARTH_VOICE09: Farewell...
+MID_MARTH_VOICE10: Heh
+MID_MARTH_VOICE11: What's wrong? And how may I help?
+MID_MARTH_VOICE12: I admire how you lead your troops in battle.
+MID_MARTH_VOICE13: You, too, are blessed with wonderful allies.
+MID_MARTH_VOICE14: The circlet I wear? A gift from...someone dear to me.
+MID_MARTH_VOICE15: It seems every world is war torn...
+MID_MARTH_VOICE16: I don't want anyone to die. Surely you feel the same way.
+MID_MARTH_VOICE17: I enjoy this time with you. My troubles seem to melt away.
+MID_MARTH_VOICE18: Understood.
+MID_MARTH_VOICE19: Together.
+MID_MARTH_VOICE20: As you say.
+MID_MARTH_VOICE21: If you will allow me, I can be your strength.

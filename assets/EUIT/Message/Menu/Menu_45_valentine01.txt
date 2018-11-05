@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_JUMP: Vai ora
+MID_HOME_TALK_NAVIGATION_LATER: Più tardi
+MID_HOME_TALK_NAVIGATION_NEVER: Non mostrare più
+MID_STAGE_SELECT_SEASONAL_EVENT: Eventi
+MID_STAGE_SELECT_SEASONAL_EVENT_ENDED: Evento concluso.
+MID_STAGE_SELECT_SEASONAL_EVENT_INTERVAL: Calcolo in corso.
+MID_TAP_BATTLE_TITLE: Battaglia tattile
+MID_TAP_BATTLE_ENVIRONMENT_INFO: Modifica qui le impostazioni.
+MID_TAP_BATTLE_STAGE_SELECT_DIFFICULTY: $aDifficoltà: $a0
+MID_TAP_BATTLE_STAGE_SELECT_MODE: $aModalità: $a0
+MID_TAP_BATTLE_DIFFICULTY0: Normale
+MID_TAP_BATTLE_DIFFICULTY1: Difficile
+MID_TAP_BATTLE_MODE_0: Matricola
+MID_TAP_BATTLE_MODE_1: Esperto
+MID_TAP_BATTLE_ENVIRONMENT: Impostazioni B. tattile
+MID_TAP_BATTLE_CONFIG_MUTE: Muto
+MID_TAP_BATTLE_CONFIG_SE: Effetti
+MID_TAP_BATTLE_CONFIG_VOICE: Voci
+MID_TAP_BATTLE_CONFIG_TIMING: Tempo
+MID_TAP_BATTLE_CONFIG_ADJUST: Tempo
+MID_TAP_BATTLE_CLEAR_RANK: $aRisultato: $a0
+MID_TAP_BATTLE_CLEAR_RANK_0: C
+MID_TAP_BATTLE_CLEAR_RANK_1: B
+MID_TAP_BATTLE_CLEAR_RANK_2: A
+MID_TAP_BATTLE_CLEAR_RANK_3: S
+MID_TAP_BATTLE_CLEAR_RANK_NONE: -
+MID_TAP_BATTLE_ENTER_STAGE_SELECT: Seleziona fase
+MID_TAP_BATTLE_SUBTITLE: Segreta illusoria
+MID_TAP_BATTLE_ENTRANCE_HELP: Continua a toccare per battere i nemici!\nMigliora il tuo tempo per un punteggio alto.
+MID_TAP_BATTLE_ENTRANCE_SETTING: Impostazioni B. tattile
+MID_TAP_BATTLE_START: Inizia!
+MID_TAP_BATTLE_BOSS: Boss!
+MID_TAP_BATTLE_VERSUS_BOSS: $a$a1\n$a0
+MID_TAP_BATTLE_START_BOSS: Preparati!
+MID_TAP_BATTLE_DEFEAT_BOSS: Hai vinto!
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE: $aHai ottenuto il livello S\nin tutte le fasi giocando\nin $a1/$a0!
+MID_TAP_BATTLE_STAGE_SELECT_REWARD: Ricompensa 1ª vittoria:
+MID_TAP_BATTLE_STAGE_SELECT_REWARD_WARNING: Ottenibile solo 1 volta.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING: Fase già completata. Nessuna\nricompensa disponibile.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING_OTHER: Fase già completata in modalità\no difficoltà diverse. Nessuna\nricompensa disponibile.
+MID_TAP_BATTLE_MUSIC_DETAIL_BPM: $aBPM: $a0
+MID_TAP_BATTLE_MUSIC_DETAIL_AUTHORITY: Fonte:
+MID_TAP_BATTLE_PAUSE_SURRENDER: Arrenditi
+MID_TAP_BATTLE_PAUSE_RETRY: Riavvia
+MID_TAP_BATTLE_PAUSE_SURRENDER_DECIDE: Arrenditi
+MID_TAP_BATTLE_PAUSE_SURRENDER_TEXT: Vuoi arrenderti?
+MID_TAP_BATTLE_PAUSE_RETRY_DECIDE: Riavvia
+MID_TAP_BATTLE_PAUSE_RETRY_TEXT: Vuoi riavviare?
+MID_TAP_BATTLE_GAME_OVER_TEXT: Vuoi rigiocare?
+MID_TAP_BATTLE_GAME_OVER_RETRY_FIRST: Riprova
+MID_TAP_BATTLE_GAME_OVER_RETRY_BOSS: Riprova battaglia boss
+MID_TAP_BATTLE_GAME_OVER_QUIT: Abbandona
+MID_TAP_BATTLE_GAME_OVER_TIMING: Tempo
+MID_TAP_BATTLE_RESULT_CURRENT: Risultati
+MID_TAP_BATTLE_RESULT_DIFFICULTY_MODE: $a$a1/$a0
+MID_TAP_BATTLE_RESULT_CONFIRM: OK!
+MID_TAP_BATTLE_RESULT_REPLAY: Riprova fase
+MID_TAP_BATTLE_RESULT_COMMENT_GAME_OVER: La prossima volta riprovaci\nsenza beccarti un Game Over!
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_FULL: $aOttimo lavoro! La tua combo\npiù lunga è stata di $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT: $aPer una giocata perfetta ottieni\naltri $a0 colpi critici!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING: Modifica il tempo di gioco in\nImpostazioni B. tattile.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO: $aLa tua combo più lunga: $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_NEW_RECORD: $aLa tua combo più lunga è stata\ndi $a0: nuovo record!
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO: $aAncora $a0 per una giocata\nperfetta! La tua combo più lunga\nè stata di $a1.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO_NEW_RECORD: $aAncora $a0 per una giocata\nperfetta! La tua combo più lunga\nè stata di $a1: nuovo record!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO: $aLa tua combo più lunga è stata di\n$a0. Modifica il tempo di gioco\nin Impostazioni B. tattile.
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO_NEW_RECORD: $aLa tua combo più lunga è stata di\n$a0: nuovo record! Modifica il tempo\ndi gioco in Impostazioni B. tattile.
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT: Modifica il tempo del gioco qui. Tocca\nlo schermo a tempo con il suono.
+MID_TAP_BATTLE_TIMING_FRAME_INFOMATION: Tocca lo schermo quando\nsenti il suono più alto.
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST: Tempo
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST_MANUALLY: Tempo (manuale)
+MID_TAP_BATTLE_TIMING_DIALOG_COMPLETE: Tempo modificato.\nSalvare?
+MID_TAP_BATTLE_TIMING_DIALOG_DECIDE: Salva
+MID_TAP_BATTLE_TIMING_DIALOG_REVERT: Annulla
+MID_TAP_BATTLE_TIMING_DIALOG_READJUST: Ricomincia
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT_ADJUST_MANUALLY: Imposta il tempo manualmente.
+MID_TAP_BATTLE_TIMING_TEST: Partita di prova
+MID_TAP_BATTLE_CLOSED: Nessuna battaglia in corso.
+MID_TAP_BATTLE_STAGE_SELECT_FAILED: Impossibile avviare la battaglia.
+MID_TAP_BATTLE_STAGE_SELECT_EXPIRED: Segreta non più disponibile.
+MID_TAP_BATTLE_STAGE_SELECT_INSUFFICIENT_UNIT: Non hai abbastanza membri in squadra.
+MID_TAP_BATTLE_STAGE_SELECT_RELOAD: Esci da Battaglia tattile e torna.
+MID_TAP_BATTLE_REMAINING_MINUTES: $aSvanisce tra $a0 min.
+MID_TAP_BATTLE_REMAINING_HOURS: $aSvanisce tra $a0 ora/e.
+MID_TAP_BATTLE_REMAINING_DAYS: $aSvanisce tra $a0 giorno/i.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_MINUTES: $aNuova fase tra $a0 min.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_HOURS: $aNuova fase tra $a0 ora/e.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_DAYS: $aNuova fase tra $a0 giorno/i.
+MID_TAP_BATTLE_DATA_TOP_FLOOR: È una sorgente termale! Tutti quanti\nsi divertono, chiacchierando e\nriscaldandosi.
+MID_TAP_BATTLE_HELP_DIALOG_00: Tocca per sconfiggere i nemici!
+MID_TAP_BATTLE_HELP_DIALOG_01: ◆Battaglia tattile◆\nÈ un gioco d'azione in cui battere\ni nemici toccando lo schermo.\n\nProva a giocare con la musica\ne le voci dei personaggi attivate.
+MID_TAP_BATTLE_HELP_DIALOG_02: ◆Come giocare◆\nTocca l'Evocatore in basso sullo\nschermo per attaccare. Se lo fai\nal momento giusto, infliggerai\nun colpo critico e i nemici\nvoleranno fuori dallo schermo.\nPiù colpi critici consecutivi\ncreeranno una combo.
+MID_TAP_BATTLE_HELP_DIALOG_03: In modalità esperto, tocca le righe!
+MID_TAP_BATTLE_HELP_DIALOG_04: ◆Modalità esperto◆\nIn modalità matricola si gioca\ntoccando l'Evocatore in basso\nsullo schermo. In modalità\nesperto, invece, toccherai\nla riga di ogni alleato per\nfar sì che attacchi.
+MID_TAP_BATTLE_HELP_DIALOG_05: ◆Fasi giocabili◆\nNon tutte le fasi sono disponibili\nimmediatamente all'inizio\ndell'evento.\n\nPassato un certo periodo,\npotrai affrontare nuove fasi.
+MID_TAP_BATTLE_HELP_DIALOG_06: ◆Impostazioni B. tattile◆\nSe non riesci a seguire il tempo,\nprova a modificare le impostazioni.\n\nPotresti trovare un'impostazione\npiù adatta a te, o trovarti meglio\ndisattivando gli effetti sonori e le\nvoci.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_00: ◆Impostazioni B. tattile◆\nModifica le impostazioni per\nrendere il gioco più divertente.\n\nSe non riesci a seguire il tempo,\nprova a modificare le relative\nimpostazioni.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_01: ◆Tempo◆\nPuoi modificare il tempo di gioco\ntoccando a tempo con il suono.\nDopodiché, se ancora non ti trovi\nbene con il ritmo, puoi apportare\nmodifiche manuali. Alza il valore\nse va troppo veloce, abbassalo se\nva troppo lento.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_02: ◆Effetti sonori e voci◆\nPuoi anche disattivare i suoni e le\nvoci dei personaggi. Modificare\nquest'impostazione all'interno di\nImpostazioni B. tattile non applica\nquesta scelta al resto del gioco.
+MID_VOTE_TERM_201801: Festa d'inverno vs capodanno

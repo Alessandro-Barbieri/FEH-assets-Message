@@ -1,0 +1,38 @@
+[Heroes Archive] (SORT)
+
+
+Heroes Message Name: Message
+
+
+MID_SORT_HOME1: Je suis rassuré, tout le monde ici\na l'air gentil. On ne sait jamais,\nquand on arrive quelque part...
+MID_SORT_HOME2: Chez les Veilleurs, je m'occupais des\nchevaux et je repoussais les bandits.\nC'était le bon temps...
+MID_SORT_HOME3: Si votre estomac vous fait souffrir,\nn'hésitez pas à me le dire. Je connais\nune recette de potion infaillible !
+MID_SORT_HOME4: Et si on allait manger un morceau ?\nJe veux absolument essayer toutes\nles spécialités de ce royaume !
+MID_SORT_HOME5: Que pensez-vous de ma coiffure ?\nJe demande parce qu'un jour, une\nOmbre m'a pris pour un légume...
+MID_SORT_FRIEND: Ah, vous voilà enfin !\n$Nf vous\nenvoie ses salutations.
+MID_SORT_LEVEL1: C'est fou ! J'ai du mal à y croire\nmoi-même !
+MID_SORT_LEVEL2: Je suis satisfait de mes progrès !
+MID_SORT_LEVEL3: Hmm... Je vais encore m'améliorer,\npromis !
+MID_SORT_SKILL: Merci ! J'ai hâte de mettre ce nouveau\npouvoir à l'épreuve.
+MID_SORT_JOIN: Je... Je suis Stahl, des Veilleurs.\nBrr, tout ça m'a rendu si nerveux\nque j'en ai l'estomac tout noué !
+MID_SORT_STRONGEST: Ah... ça fait du bien de s'entraîner un\npeu ! Allez, maintenant, c'est l'heure\ndu casse-croûte.$k$pOh, $Nu !\nVous m'avez apporté un sandwich ?\nMerci, c'est trop gentil !$k$pJe peux vraiment compter sur vous,\naussi bien sur le champ de bataille\nqu'en dehors.$k$pJ'espère que vous n'oubliez pas\nde prendre soin de vous de temps\nen temps...$k$pEnfin, ne vous en faites pas.\nJe veille sur vous, moi !
+MID_SORT_VOICE01: はっ！
+MID_SORT_VOICE02: せやあっ！
+MID_SORT_VOICE03: うわっ！
+MID_SORT_VOICE04: Noooo...!
+MID_SORT_VOICE05: J'adore mon travail.
+MID_SORT_VOICE06: Attention...
+MID_SORT_VOICE07: Allons-y !
+MID_SORT_VOICE08: Je le sens bien !
+MID_SORT_VOICE09: Got me good...
+MID_SORT_VOICE10: Heehee
+MID_SORT_VOICE11: Hey, thanks for coming by to chat!
+MID_SORT_VOICE12: I'm a proud member of the Shepherds. We help people.
+MID_SORT_VOICE13: Why are you star— Is my hair sticking up again?
+MID_SORT_VOICE14: If I train hard enough, maybe someday I can match the legendary Panther.
+MID_SORT_VOICE15: My father was an apothecary—I learned a thing or two about medicine from him.
+MID_SORT_VOICE16: M-my stomach hurts—I think I ate too much again...
+MID_SORT_VOICE17: I can be a bit of a fool for food, but I'll work hard for you.
+MID_SORT_VOICE18: Mm-hm.
+MID_SORT_VOICE19: Let's go.
+MID_SORT_VOICE20: Got it.

@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN_HOME1: アルフォンス王子とシャロン王女…\n仲の良いお二人を見ていると、\n和やかな気持ちになります。
+MID_OLWEN_HOME2: 私の兄はラインハルト、\n【聖戦士トードの再来】と称えられる\n素晴らしい武人です。
+MID_OLWEN_HOME3: 魔道なら多少の心得はあります。\nもし訓練をお望みでしたら、\nお付き合い致しましょう。
+MID_OLWEN_HOME4: 兄上…\n私は、私が決めた道を進みます。\nたとえ兄上の敵になろうとも…
+MID_OLWEN_HOME5: 子供たちは国の宝であり、\nやがて国を担う礎にもなります。\nそして、とても愛らしい…
+MID_OLWEN_FRIEND: 私はオルエンと申します。\n$Nf殿にかわり、\nごあいさつに伺いました。
+MID_OLWEN_LEVEL1: 驚きました。\nこのような幸運が…
+MID_OLWEN_LEVEL2: 兄には遠く及びませんが、\n多少は成長できました。
+MID_OLWEN_LEVEL3: なんてこと…\n自分を許せません…
+MID_OLWEN_SKILL: この力に恥じぬ戦いを\nお見せ致します。
+MID_OLWEN_JOIN: 私はオルエンと申します。\nよろしければ、あなた方と\nご一緒させていただけませんか？
+MID_OLWEN_STRONGEST: 私の兄はとても立派な人物で…\nいつも私を助け、導いてくれました。\n兄がいてくれれば私は安心できました。$k$pでも、ある時、私はその兄の庇護から出て、\n自分の生き方を\n自分で決めることを決意したのです。$k$pそれは、すべてを自分で背負うということ。\nその重さに押し潰されそうに\nなった時もありましたが…$k$pあなたと共にいて、わかったのです。\nあなたもまた時に迷い、悩み、\nそれでも自分の答えを出しておられる…$k$pそのことにとても勇気づけられました。\nこれからも、あなたと同じ道を\n歩めることを…とても光栄に思います。\n
+MID_OLWEN_VOICE01: はっ！
+MID_OLWEN_VOICE02: せいっ！
+MID_OLWEN_VOICE03: きゃああっ！
+MID_OLWEN_VOICE04: 卑劣な…
+MID_OLWEN_VOICE05: …おのれ…
+MID_OLWEN_VOICE06: 許せないっ！
+MID_OLWEN_VOICE07: 守ってみせます
+MID_OLWEN_VOICE08: 手出しさせない！
+MID_OLWEN_VOICE09: こんなところで…
+MID_OLWEN_VOICE10: ふふ
+MID_OLWEN_VOICE11: お時間をいただき、ありがとうございます
+MID_OLWEN_VOICE12: きゃっ！　…もう、驚かさないでください！
+MID_OLWEN_VOICE13: つい、思い悩んでしまいます…
+MID_OLWEN_VOICE14: 子供たちの笑顔を守りたいのです
+MID_OLWEN_VOICE15: そうですね、何からお話すればよいのか…
+MID_OLWEN_VOICE16: もし、兄上が私たちの行く手を阻むというなら…
+MID_OLWEN_VOICE17: もしお許しいただけるなら…ご一緒させてください
+MID_OLWEN_VOICE18: はい
+MID_OLWEN_VOICE19: どうすれば…
+MID_OLWEN_VOICE20: 決心致しました

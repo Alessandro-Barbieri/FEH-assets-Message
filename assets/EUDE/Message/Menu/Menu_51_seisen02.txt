@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: Das Punktesystem:\nGewinnst du, erhältst du Punkte\nbasierend auf der Stärke deiner\nGegner. Gewinnst du mehrfach\nhintereinander, bekommst du\nzusätzlich einen Serienbonus.\nDer Serienbonus wird nach dem\n5. Sieg in Folge zurückgesetzt.
+MID_ARENA_DIALOG_HELP_04_51: Prämien:\nAm Ende einer Saison erhältst\ndu Prämien basierend auf\ndeinem Rang.\n\nIst deine Punktzahl hoch genug,\nkannst du einen höheren\nRang in der Arena erreichen.
+MID_ARENA_DIALOG_HELP_06_51: Höhere Werte für Bonushelden:\nWenn Bonushelden in der\nArena eingesetzt werden,\nerhalten sie KP +10 und\nAngr./Ges./Ver./Res. +4.\n\nDieser Wertebonus hat keine\nAuswirkung auf Punkte für\ndir zugewiesene Gegner. Er\ngilt auch nicht für dein\ndefensives Team.
+MID_ARENA_DIALOG_HELP_3_00_51: Die Prämien:\nDu kannst dir die Prämien der\naktuellen Saison ansehen.\nÄndere den Filter, um die\nPrämien für Defensive\nund den Rang aufzurufen.
+MID_ARENA_DIALOG_HELP_3_01_51: Prämie für Defensive:\nPrämien abhängig von der\nBewertung deiner Verteidigung.
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $aErster Arenasieg: Prämie für $a0-Serie
+MID_ARENA_DESCRIPTION_51: Miss dich mit Rivalen aus aller Welt\nund verdiene Prämien. Versuche,\nfünf Siege in Folge zu erzielen!
+MID_ARENA_COMBO_CAPTION2: $a$a0/$a2 Kämpfen in Serie gewonnen! Bonus +$a1!
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: Kampf konnte nicht begonnen\nwerden. Zum Segnen-Menü?
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: Fire Emblem Heroes sammelt\nDaten zur App-Nutzung, um\nunsere Produkte und Dienste\nzu verbessern und Angebote\nund Empfehlungen anzupassen.\nDies erfolgt gemäß der\nDatenschutzrichtlinie.\n\nNach deinen Kontoinformationen\nwurde die Erhebung deiner\nNutzungsdaten gestoppt.\n\nWenn du keine weiteren\nBenachrichtigungen außerhalb\nder App erhalten möchtest,\nändere bitte die Einstellungen\ndeines Geräts.
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $aVerfügbar ab GE-Rang $a0
+MID_SUMMON_ONLY_ONCE_DECIDE: Kostenl. 5-★-Held
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: Zum Angriff Beschwörer antippen!
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: Zum Angriff eine Reihe antippen!
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: Extrastufen
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $aBoss ($a0)
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a1: $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ???
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: Songtitel
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: Extrastufe 1
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: Extrastufe 2
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: Extrastufe 3
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $aVerfügbar in $a0 Min.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $aVerfügbar in $a0 Std.
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $aVerfügbar in $a0 T.
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a$a0\nDu hast im Modus "$a2"\nauf $a1 auf jeder\nStufe Rang S erreicht!
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a$a0\nDu hast im Modus "$a2"\nauf $a1 auf jeder Extra-\nstufe Rang S erreicht!
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: Bewältige mind. Ebene\n-19 im Dungeon mit -99\nEbenen, um Extrastufen\nspielen zu können.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0 erscheint\nin $a1 Min.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0 erscheint\nin $a1 Std.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0 erscheint\nin $a1 T.
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: Geschenk fürs Spielen

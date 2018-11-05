@@ -1,0 +1,38 @@
+[Heroes Archive] (ELTSHAN)
+
+
+Heroes Message Name: Message
+
+
+MID_ELTSHAN_HOME1: Prinz Alfonse scheint rücksichtsvoll\nund umsichtig zu sein.$k$pEr wird ein ausgezeichneter\nHerrscher dieses Reiches werden.
+MID_ELTSHAN_HOME2: Oh, meine geliebte Schwester\nLachesis...$k$pIch weiß, ich habe gelobt, bald\nzu dir zurückzukehren, lebendig\nund wohlauf.$k$pAber die Umstände haben sich\ngeändert.
+MID_ELTSHAN_HOME3: In meiner Welt war ich darauf\nvorbereitet, dem Tod ins Auge\nzu blicken.$k$pAber eine Fügung des Schicksals\nbrachte mich hierher.$k$pVielleicht ist auch dies Teil der\nverworrenen Natur der Vorsehung.
+MID_ELTSHAN_HOME4: Die Loyalität eines Ritters muss\nimmer vollkommen bleiben. Meine\nSchwester ist anderer Meinung.$k$pDoch ich kann von meiner Pflicht\nnicht abweichen.
+MID_ELTSHAN_HOME5: Mein bester Freund, Sigurd, hat einen\nkleinen Sohn namens Seliph.$k$pIch frage mich, ob in diesem\nseltsamen Reich, in dem wir uns hier\nbefinden...$k$pOb ich in diesem Reich vielleicht\nauf einen erwachsenen Seliph\ntreffen kann.$k$pEr wäre gewiss ein heroischer\nMann, genau wie sein Vater.\nDas wäre einfach großartig.
+MID_ELTSHAN_FRIEND: Mein Name ist Eldigan. Ich bringe\nEuch die freundlichsten Grüße von\n$Nf.
+MID_ELTSHAN_LEVEL1: Ich werde meine Ziele noch\nhöher setzen. Das schwöre ich.
+MID_ELTSHAN_LEVEL2: Ein Ritter muss danach streben,\nexzellente Leistungen zu zeigen.
+MID_ELTSHAN_LEVEL3: Inadäquat. Ist mir mein Gefühl für\nGröße abhandengekommen?
+MID_ELTSHAN_SKILL: Ich schwöre, diese Macht einem\nbestimmten Zweck zuzuführen.
+MID_ELTSHAN_JOIN: Ich bin Eldigan. Die, die sich meinem\nHerrn widersetzen, werden mein\nSchwert zu spüren bekommen.$k$pAber ich bin sicher, dass Ihr und\nich dieses Problem nicht haben\nwerden.
+MID_ELTSHAN_STRONGEST: Nachdem ich in dieses Reich gerufen\nwurde, hatte ich eine seltsame\nOffenbarung.$k$pIn meiner Heimat habe ich meinem\nLord absolute Loyalität geschworen.\nAber hier seid Ihr $Gmein Lord,meine Lady|.$k$pEin Ritter von meinem Stand muss\n$Gseinem Lord,seiner Lady| dienen - egal, von\nwelchem Charakter $Gdieser,diese| ist.$k$pDaran glaubte ich jedenfalls bisher.$k$pAber nachdem ich so viel Zeit mit\nEuch verbracht habe, muss ich\netwas gestehen.$k$pEs ist mir wahrhaftig eine Ehre,\nmein Schwert in die Dienste$k$p$Geines Herrn,einer Herrin| mit Euren Qualitäten\nzu stellen. Ein Ritter kann\n$Gseinen Herrn,seine Herrin| nicht frei wählen.$k$pUnd so schätze ich mich äußerst\nglücklich, Euch getroffen zu haben.$k$pIch schwöre, mein Schwert für alle\nZeiten in Euren Dienst zu stellen und\nEuch stets loyal zur Seite zu stehen.
+MID_ELTSHAN_VOICE01: はぁっ！
+MID_ELTSHAN_VOICE02: せいっ！
+MID_ELTSHAN_VOICE03: うああっ！
+MID_ELTSHAN_VOICE04: You are good...
+MID_ELTSHAN_VOICE05: Bei Misteltein!
+MID_ELTSHAN_VOICE06: Keine Gnade!
+MID_ELTSHAN_VOICE07: Halte ein oder stirb!
+MID_ELTSHAN_VOICE08: Du bist erledigt!
+MID_ELTSHAN_VOICE09: Forgive me...
+MID_ELTSHAN_VOICE10: Ha
+MID_ELTSHAN_VOICE11: I am ever steeled for duty. But for conversation? A bit wooden.
+MID_ELTSHAN_VOICE12: What?! Oh, I thought you a foe. Employ prudence.
+MID_ELTSHAN_VOICE13: What is chivalry but taking a friend's cause to heart?
+MID_ELTSHAN_VOICE14: Honorable knights must sometimes end things honorably—with a battle.
+MID_ELTSHAN_VOICE15: I wield Mystletainn, the Demon Sword, a blade once held by one of the 12 legendary crusaders in my world.
+MID_ELTSHAN_VOICE16: I often wonder if my fatherland is in a state of ruin.
+MID_ELTSHAN_VOICE17: I am a knight. And you, my master here. Thus, I will protect you.
+MID_ELTSHAN_VOICE18: Ah.
+MID_ELTSHAN_VOICE19: Shall we?
+MID_ELTSHAN_VOICE20: Let's go.

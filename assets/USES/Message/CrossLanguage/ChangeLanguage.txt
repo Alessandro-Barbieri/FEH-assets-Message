@@ -1,0 +1,8 @@
+[Heroes Archive] (ChangeLanguage)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_CHANGE_LANGUAGE_DIALOG_FIRST: $a¿Quieres cambiar a este idioma?\n$a0
+MID_EXTRA_CHANGE_LANGUAGE_DIALOG_SECOND: Es posible que se tengan que\ndescargar datos del idioma elegido.\nVolverás a la pantalla del título.\n¿Quieres continuar?

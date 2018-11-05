@@ -1,0 +1,38 @@
+[Heroes Archive] (OGUMA)
+
+
+Heroes Message Name: Message
+
+
+MID_OGUMA_HOME1: Giorni come questo mi ricordano di\nquando ero un gladiatore. E di altre\ncose che vorrei dimenticare...
+MID_OGUMA_HOME2: Sono tre gli uomini di cui mi fido\nciecamente: Bord, Cord e Barst.\nTutti e tre sono veri guerreri.
+MID_OGUMA_HOME3: Riposati quando puoi. Devi essere\npronto a reagire nel momento in cui\nla battaglia si accende.
+MID_OGUMA_HOME4: Sai usare una spada? Sto cercando\nqualcuno con cui allenarmi. Non che\nio sia bravo a contenermi...
+MID_OGUMA_HOME5: Ho sempre molta cura della mia\nspada. Evito che arrugginisca. È\nuna mia vecchia abitudine.
+MID_OGUMA_FRIEND: Tu sei $Nu?\n$Nf, per cui io\nlavoro, mi ha mandato a salutarti.
+MID_OGUMA_LEVEL1: Mh. Quindi avevo ancora\ndel potere nascosto in me.
+MID_OGUMA_LEVEL2: Immagino di essere\nmigliorato.
+MID_OGUMA_LEVEL3: Ne ho ancora di strada\nda fare.
+MID_OGUMA_SKILL: Grazie. Ti ripagherò sul\ncampo di battaglia.
+MID_OGUMA_JOIN: Sono Ogma, un mercenario talyseo.\nSe è di forza che hai bisogno, sono\nil tuo uomo.
+MID_OGUMA_STRONGEST: Da quando ho incontrato tutti voi\nho capito che la forza può avere\ndiverse forme.$k$pLa forza di combattere per la pace...\nnon è quella che ho imparato quando,\nda gladiatore, uccidevo per sport.$k$pMi hai insegnato molto,\n$Nu.\nE continuerò a fare progressi.$k$pDiventerò più forte e imparerò a\nbrandire la mia spada al servizio\ndi una pace duratura.
+MID_OGUMA_VOICE01: はぁっ！
+MID_OGUMA_VOICE02: うおおっ！
+MID_OGUMA_VOICE03: うああっ！
+MID_OGUMA_VOICE04: You're... not bad...
+MID_OGUMA_VOICE05: Devo toglierti di mezzo.
+MID_OGUMA_VOICE06: Non è niente di personale.
+MID_OGUMA_VOICE07: Metterò fine a tutto questo.
+MID_OGUMA_VOICE08: Arrivo!
+MID_OGUMA_VOICE09: The end...
+MID_OGUMA_VOICE10: Hmm...
+MID_OGUMA_VOICE11: What do you need?
+MID_OGUMA_VOICE12: You're an odd one.
+MID_OGUMA_VOICE13: I'm not good at conversation.
+MID_OGUMA_VOICE14: If I start a job, I finish it.
+MID_OGUMA_VOICE15: I've only ever been good at one thing.
+MID_OGUMA_VOICE16: I need to get ready for the next battle.
+MID_OGUMA_VOICE17: I can't lose. For either of our sakes.
+MID_OGUMA_VOICE18: All right.
+MID_OGUMA_VOICE19: What now?
+MID_OGUMA_VOICE20: Let's move.

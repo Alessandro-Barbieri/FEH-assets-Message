@@ -1,0 +1,38 @@
+[Heroes Archive] (LAGARTO)
+
+
+Heroes Message Name: Message
+
+
+MID_LAGARTO_HOME1: Nice place. What I like best is that\nthere seems to be little need for\nthose in my line of work.
+MID_LAGARTO_HOME2: The Black Fang was formed with a\ngoal of ridding the world of those who\ndeserved it...$k$pThings changed, though. I know well\nwhose fault that was.
+MID_LAGARTO_HOME3: On patrol, are you? Don't forget to\ntake a break every now and again.
+MID_LAGARTO_HOME4: I know a great spot to relax. Why\ndon't you join me?$k$pIt's quite the luxury, not having to\nworry about what you're going to\neat or where you're going to sleep.
+MID_LAGARTO_HOME5: As a rule, assassins are weaklings...\nThey can't win if they fight fair, so they\nuse trickery.$k$pKeep your eyes peeled—that's my\nadvice.
+MID_LAGARTO_FRIEND: Sorry for sneaking up on you. Old\nhabits... I'm just here to say hello for\n$Nf.
+MID_LAGARTO_LEVEL1: They don't call me the Hurricane\nfor nothing.
+MID_LAGARTO_LEVEL2: I still have some skill.
+MID_LAGARTO_LEVEL3: I've lost my touch...
+MID_LAGARTO_SKILL: You're hanging your hopes on\nme? I'll have to get to work.
+MID_LAGARTO_JOIN: Me? I'm just a small-time thief. You\ncan call me Legault.$k$pI don't know if I'll be able to live up to\nyour expectations, but I'll do what I\ncan...within reason.
+MID_LAGARTO_STRONGEST: Hi there, $Nu.$k$pYou did well today. I did...well enough,\nI suppose.$k$pYou might guess it by looking at me,\nbut I don't scare easily. Coming here\ndid put me on edge, though...$k$pI wondered what bunch of scoundrels\nmight summon somebody like me to\nfight for them.$k$pNow, though... We've been through\nit all. I've come to realize you're not\nup to no good.$k$pIn fact, you have an aura of downright\ngoodness. It reminds me of old\ntimes...$k$pKeep to your path, and keep moving\nforward. I'd hate to see something\nlike this fall to pieces again.
+MID_LAGARTO_VOICE01: ほらよっ
+MID_LAGARTO_VOICE02: 悪いね
+MID_LAGARTO_VOICE03: うああっ！
+MID_LAGARTO_VOICE04: 参ったね…
+MID_LAGARTO_VOICE05: You'll be dead soon.
+MID_LAGARTO_VOICE06: Gotta fight dirty.
+MID_LAGARTO_VOICE07: How does this make you feel?
+MID_LAGARTO_VOICE08: Right here.
+MID_LAGARTO_VOICE09: I guess it's time...
+MID_LAGARTO_VOICE10: Haha
+MID_LAGARTO_VOICE11: I'm Legault, former Black Fang. Now I'm just a humble thief.
+MID_LAGARTO_VOICE12: I’m your new hobby, is that it? You falling for me?
+MID_LAGARTO_VOICE13: Don't get the wrong idea. As a rule, assassins are weaklings.
+MID_LAGARTO_VOICE14: I can't win in a fair fight, so I use trickery.
+MID_LAGARTO_VOICE15: Catch your target unaware. Poison them. Take hostages. That's the way I fight.
+MID_LAGARTO_VOICE16: Being an assassin's not a job to brag about, but everyone had a kind of pride in what they did.
+MID_LAGARTO_VOICE17: Why do I stick with you? Well, it's a little thing they call love.
+MID_LAGARTO_VOICE18: Nice.
+MID_LAGARTO_VOICE19: Hm?
+MID_LAGARTO_VOICE20: Who next?

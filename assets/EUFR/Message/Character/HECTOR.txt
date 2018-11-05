@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_HOME1: C'est un très beau château, c'est\nsûr, mais je n'aime pas rester\nenfermé. Allons nous battre !
+MID_HECTOR_HOME2: Ma hache, l'Armadès, appartenait\nautrefois à un guerrier légendaire.$k$pJ'ai eu l'occasion de le rencontrer,\net laissez-moi vous dire qu'il n'a\npas l'air très commode.
+MID_HECTOR_HOME3: Un de mes meilleurs amis s'appelle\nEliwood. On s'entraîne ensemble,\net ça lui arrive même de gagner !
+MID_HECTOR_HOME4: Je m'ennuie... Et si on s'entraînait\nensemble ? Ne vous en faites pas,\nj'essaierai d'y aller doucement !
+MID_HECTOR_HOME5: Il paraît que les chevaliers doivent\ntoujours rester à leur poste...\nCe n'est vraiment pas mon truc.
+MID_HECTOR_FRIEND: Bonjour, $Nu !\n$Nf m'envoie\npour vous saluer.
+MID_HECTOR_LEVEL1: Ouah ! Je me sens déjà plus\npuissant !
+MID_HECTOR_LEVEL2: Parfait, continuons comme cela.
+MID_HECTOR_LEVEL3: Si je continue comme ça, Eliwood va\ngagner notre prochain duel !
+MID_HECTOR_SKILL: Bon choix ! Vous allez voir de quoi est\ncapable Hector d'Ositia !
+MID_HECTOR_JOIN: Je suis Hector, du royaume d'Ositia.\nMon frère Uther en est le dirigeant.
+MID_HECTOR_STRONGEST: Je ne suis pas très doué avec les\nmots, alors veuillez m'excuser si\nje suis un peu confus...$k$pAvant de vous rencontrer, je pensais\nque les choses étaient simples...$k$pQu'il me suffisait de brandir ma hache\npour que les ennemis tombent et que\nmes alliés soient sains et saufs.$k$pMais vous... Vous m'avez appris que\nla frontière entre la vie et la mort était\nbien plus subtile que ça.$k$pÉtrangement, j'y pense souvent...\nQuoi qu'il en soit, vous pouvez\ncompter sur moi, $GInvocateur,Invocatrice|.
+MID_HECTOR_VOICE01: おらっ！
+MID_HECTOR_VOICE02: おらぁっ！
+MID_HECTOR_VOICE03: うああっ！
+MID_HECTOR_VOICE04: Better than I thought!
+MID_HECTOR_VOICE05: Je ne reculerai pas !
+MID_HECTOR_VOICE06: En garde !
+MID_HECTOR_VOICE07: Assez plaisanté !
+MID_HECTOR_VOICE08: C'est parti !
+MID_HECTOR_VOICE09: Not here!
+MID_HECTOR_VOICE10: Heh
+MID_HECTOR_VOICE11: You need me for something, friend?
+MID_HECTOR_VOICE12: Oho! Feels like you're ready to head out. Me too!
+MID_HECTOR_VOICE13: Push your limits—that's what I say. But don't burn yourself out.
+MID_HECTOR_VOICE14: How about we spar a bit? What say you?
+MID_HECTOR_VOICE15: I know we're all in it together. Just letting you know: I'm ALL in.
+MID_HECTOR_VOICE16: So...I'm going to die on the battlefield...
+MID_HECTOR_VOICE17: I'd better keep an eye on you. Trouble abounds in battle.
+MID_HECTOR_VOICE18: Oho!
+MID_HECTOR_VOICE19: All right!
+MID_HECTOR_VOICE20: On it!

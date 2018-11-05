@@ -1,0 +1,38 @@
+[Heroes Archive] (JORJUE)
+
+
+Heroes Message Name: Message
+
+
+MID_JORJUE_HOME1: 這個世界的人大都既純真又善良呢。\n對我這個看盡王公貴族爾虞我詐的人來說，\n實在是太耀眼了。
+MID_JORJUE_HOME2: 什麼陸地第一的神射手，忘掉這種謠言吧。\n那不過是我的家族為了沽名釣譽\n放出來的風聲罷了。
+MID_JORJUE_HOME3: 謝謝你，$Nu。\n我總是受到你的幫助呢。\n偶爾也讓我致上謝意吧。
+MID_JORJUE_HOME4: 我出身於名門貴族。我的族人\n不諳武藝，卻擅長權謀術數……\n簡單來說，就是一群討人厭的傢伙。
+MID_JORJUE_HOME5: 若要百發百中，必須具備遇到\n任何妨礙都不為所動的堅韌精神。\n如何？要試一次看看嗎？
+MID_JORJUE_FRIEND: 我受$Nf之託\n來跟你致意。\n今後也請多多關照。
+MID_JORJUE_LEVEL1: 真是出乎預料……\n這就是所謂的驚喜吧。
+MID_JORJUE_LEVEL2: 嗯，大概就這樣吧。\n結果還算妥當。
+MID_JORJUE_LEVEL3: 傷腦筋……\n真讓人煩躁啊……
+MID_JORJUE_SKILL: 你對我期望這麼高，\n我得做出回應才行啊。
+MID_JORJUE_JOIN: 我是阿卡奈亞的弓騎士喬爾裘。\n雖然不知道能不能幫上忙，\n總之，請多指教。
+MID_JORJUE_STRONGEST: 你聽到了不少我的緋聞？\n……傷腦筋，\n我還以為自己保密得很好呢……$k$p這種謠言傳得還真快啊。\n算了，\n先不管那些是不是事實……$k$p大家之所以能毫無忌諱地談論\n這些話題，或許是因為這裡的人\n全都打從心底信賴著彼此吧……$k$p嗯，這裡待起來……\n還挺不錯的呢。$k$p就讓我在這裡\n再叼擾一陣子吧。\n嗯，請多關照。
+MID_JORJUE_VOICE01: 喝！
+MID_JORJUE_VOICE02: 呼！
+MID_JORJUE_VOICE03: 嗚啊～！
+MID_JORJUE_VOICE04: 是我預測錯了……
+MID_JORJUE_VOICE05: 我絕不會落空。
+MID_JORJUE_VOICE06: 抱歉。
+MID_JORJUE_VOICE07: 不准動。
+MID_JORJUE_VOICE08: 如我所料……
+MID_JORJUE_VOICE09: 誤判……了嗎……？
+MID_JORJUE_VOICE10: 呵……！
+MID_JORJUE_VOICE11: 怎麼了？對我很好奇嗎？
+MID_JORJUE_VOICE12: 居然來這招，真是出乎預料啊。
+MID_JORJUE_VOICE13: 了不起的只有家世而已。
+MID_JORJUE_VOICE14: 我的確是被稱為陸地第一。
+MID_JORJUE_VOICE15: 呵，我還真看不透你的行為啊。
+MID_JORJUE_VOICE16: 這也是算計嗎……？
+MID_JORJUE_VOICE17: 如果我說我對你有好感……你會相信嗎？
+MID_JORJUE_VOICE18: 嗯。
+MID_JORJUE_VOICE19: 要怎麼走？
+MID_JORJUE_VOICE20: 就走這一步。

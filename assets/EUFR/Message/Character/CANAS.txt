@@ -1,0 +1,38 @@
+[Heroes Archive] (CANAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CANAS_HOME1: Fascinant ! Alors, ça voudrait dire\nque... Mais oui ! Et dans ce cas...$k$pOh ! Ne faites pas attention à moi !\nJe suis encore perdu dans mes\nlivres...
+MID_CANAS_HOME2: Il paraît qu'il y a dans ce monde $Gun,une|\n$Ginvocateur,invocatrice| qui est capable de faire\napparaître des héros...$k$pPourriez-vous me $Gle,la| présenter ?
+MID_CANAS_HOME3: N'allez pas croire que je ne vous\nai pas $Gvu,vue| patrouiller sans arrêt\ndans le château...$k$pFaites attention au surmenage.\nPour bien travailler, il faut aussi\nsavoir faire des pauses.
+MID_CANAS_HOME4: Vous savez, la lecture est un bon\nmoyen de se détendre.$k$pTenez, par exemple, je peux vous\nrecommander ce livre. Vous verrez,\nça se lit tout seul !
+MID_CANAS_HOME5: La bibliothèque du château est\nvraiment extraordinaire...$k$pIl y a tant d'ouvrages ! J'aimerais\npouvoir rester ici pour toujours...
+MID_CANAS_FRIEND: Bonjour, je m'appelle Canas.\n$Nf m'envoie\nvous transmettre ses salutations.
+MID_CANAS_LEVEL1: Formidable ! Mon savoir\ncroît de jour en jour...
+MID_CANAS_LEVEL2: Je n'ai pas fait mieux que la\nmoyenne, cette fois...
+MID_CANAS_LEVEL3: Il faut croire que je ne suis\npas assez talentueux...
+MID_CANAS_SKILL: Ça alors ! J'aimerais savoir\nce que vous préparez...
+MID_CANAS_JOIN: Quel endroit fascinant... Oh, mais\noù sont mes manières ? Je m'appelle\nCanas et je suis un humble savant.
+MID_CANAS_STRONGEST: Oh, pardonnez-moi... J'étais\ntellement absorbé par mon livre\nque je ne vous ai pas $Gvu,vue|...$k$pÀ ma décharge, ce que j'étais en\ntrain de lire est vraiment fascinant !$k$pPourquoi est-ce que je passe autant\nde temps à lire ? Probablement par\ncuriosité...$k$pQuand je découvre un sujet\nintéressant, je veux en connaître\ntous les aspects.$k$pParfois, je me demande où cela\nfinira par me mener...$k$pAprès tout, mes frères ont connu un\ndestin funeste après avoir poussé\ntrop loin l'étude de la magie...$k$pMais pour tout vous dire, je suis\nincapable de résister à ma soif\nde connaissances.$k$pJe sais que c'est un défaut. On\npourrait même dire que c'est une\nforme d'avidité...$k$pAu bout du compte, le fait est que je\nne peux pas imaginer de vivre sans\nlire.$k$pD'ailleurs, tant que vous êtes là,\nj'aurais une question pour vous...$k$pRegardez le symbole sur cette page.\nJe n'ai jamais rien vu de tel dans mon\nmonde. Pourriez-vous m'expliquer...
+MID_CANAS_VOICE01: ええと
+MID_CANAS_VOICE02: すみません…
+MID_CANAS_VOICE03: うああっ！
+MID_CANAS_VOICE04: 面目ない…
+MID_CANAS_VOICE05: Le côté sombre m'attire.
+MID_CANAS_VOICE06: Au-delà des ténèbres.
+MID_CANAS_VOICE07: C'est terrifiant.
+MID_CANAS_VOICE08: La réponse est dans ce livre.
+MID_CANAS_VOICE09: What a shame.
+MID_CANAS_VOICE10: *sigh*
+MID_CANAS_VOICE11: Ah, hello there. My name is Canas.
+MID_CANAS_VOICE12: What? What? What is it? I must be in your way! I'm so sorry!
+MID_CANAS_VOICE13: I read for the thrill of new knowledge.\nThis book is a rather fascinating\nexcursion.
+MID_CANAS_VOICE14: I'm currently reading "Roland the Hero."\nHe was a hero who fought dragons a\nlong time ago.
+MID_CANAS_VOICE15: To use this magic, I must invite the dark\nforces within me. The temptation to submit\nto the darkness...will be great.
+MID_CANAS_VOICE16: The darkness took my brothers.
+MID_CANAS_VOICE17: I somehow get the feeling that you could understand me.
+MID_CANAS_VOICE18: Y-yes?
+MID_CANAS_VOICE19: Oh, yes.
+MID_CANAS_VOICE20: This book, you see...

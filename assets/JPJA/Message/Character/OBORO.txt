@@ -1,0 +1,38 @@
+[Heroes Archive] (OBORO)
+
+
+Heroes Message Name: Message
+
+
+MID_OBORO_HOME1: 特務機関の服が白で良かった。\nもし真っ黒だったら私…\n暗夜の者とみなして怖い顔をしてしまうわ。
+MID_OBORO_HOME2: 私はタクミ様の臣下なのよ。\nタクミ様は強くて綺麗で、その上高貴なの。\nあの方にお仕えできて私…幸せだわ。
+MID_OBORO_HOME3: 大丈夫？　怪我とかしていない？\nあなたは戦えないって聞いたから…\n戦場では私の槍で守ってあげるわね。
+MID_OBORO_HOME4: 今度、呉服屋に連れて行ってくれない？\nなければ洋装の店でも構わないわよ。\nどんな服が流行なのか、興味があるの。
+MID_OBORO_HOME5: 着物を仕立てていたのよ。\n急に呼ばれたから、着替えがなくって。\nあなたにも何か仕立ててあげましょうか？
+MID_OBORO_FRIEND: ここの人たちもお洒落ね…\n…あっ、$Nu！？\n$Nfから挨拶よ！
+MID_OBORO_LEVEL1: 父さん、母さん…\n私、強くなったわ…
+MID_OBORO_LEVEL2: 良かった。\nこの調子ね。
+MID_OBORO_LEVEL3: ぜ、全然お洒落じゃないわ…！
+MID_OBORO_SKILL: 服は変わってないけど、\n内面はもっと素敵になったわよ。
+MID_OBORO_JOIN: 白夜王国の槍術士、オボロよ。\nお洒落な着物のことなら私に任せて。\nあなたに似合うものを仕立ててあげるわ。
+MID_OBORO_STRONGEST: あら、$Nu。\n今日はどうしたの？　服がほつれた？\nそれともまたスープのシミでもつけたの？$k$p…うふふ、冗談よ。\n最近はあなた、何か用がなくたって\nこうして来てくれるようになったものね。$k$p私、あなたの真っ白な服を見るのが好きよ。\n血痕も破れもない服は教えてくれるもの、\n今日は何事もなかったんだって。$k$p服は繕えば直るけど、命はそうじゃない。\n私はあなたに何かあったら悲しいわ。\nだって、大切に思っているんだもの。$k$pこれからもあなたの服がずっと\n汚れのない白であり続けるように…\n絶対にあなたを守ってみせるわ。\n
+MID_OBORO_VOICE01: どう？
+MID_OBORO_VOICE02: せいやぁ！
+MID_OBORO_VOICE03: ひゃっ！
+MID_OBORO_VOICE04: 着物が…っ！
+MID_OBORO_VOICE05: 調子に乗らないで！
+MID_OBORO_VOICE06: 許さない…！
+MID_OBORO_VOICE07: 引き裂いてあげる！
+MID_OBORO_VOICE08: そこ通るのよ！
+MID_OBORO_VOICE09: なんてこと…するの…
+MID_OBORO_VOICE10: ふふっ
+MID_OBORO_VOICE11: あら、どうしたの？
+MID_OBORO_VOICE12: あなたたちの服、すごくお洒落ね
+MID_OBORO_VOICE13: この国の布、あったら分けてくれないかしら
+MID_OBORO_VOICE14: 私、怒ると怖い顔になっちゃうのよ…
+MID_OBORO_VOICE15: 出陣ならいつでも言って。私、支度は早いから
+MID_OBORO_VOICE16: タクミ様、どちらにいらっしゃるのかしら…
+MID_OBORO_VOICE17: ここに来たからには役に立つつもりよ\n戦闘でもお裁縫でも、何でも言ってちょうだい
+MID_OBORO_VOICE18: ええ
+MID_OBORO_VOICE19: 準備はいいわ
+MID_OBORO_VOICE20: 頑張るわ

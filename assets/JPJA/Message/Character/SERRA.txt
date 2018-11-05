@@ -1,0 +1,38 @@
+[Heroes Archive] (SERRA)
+
+
+Heroes Message Name: Message
+
+
+MID_SERRA_HOME1: 聖女エリミーヌ様…\nみんなが無事で過ごせますように…\nあと、みんなが私にひれ伏しますように…
+MID_SERRA_HOME2: 内緒なんだけど…実は私、\nとある伯爵家のお嬢様なの。\nほら、私ってなんか高貴な感じするでしょ？
+MID_SERRA_HOME3: 疲れたり怪我したら、私に言いなさいよ。\n私はシスターなんだから、癒してあげる。\nもちろんお礼はもらうけど。
+MID_SERRA_HOME4: 私の言うことを何でも聞いてくれて、\n私にひたすら尽くしてくれる下僕が\n一人欲しいんだけど、なってみる気ない？
+MID_SERRA_HOME5: 欲しいものを一つだけ？\nえっと、名声と報酬と宝石と\n豪勢な食事とカッコいい人と…
+MID_SERRA_FRIEND: 私はセーラ。\nわざわざ挨拶に来てあげたんだから、\nありがたく思いなさいよ！
+MID_SERRA_LEVEL1: やっぱり私って\n才能の塊なのよね～
+MID_SERRA_LEVEL2: ふふっ、これが高貴な生まれである\n証拠なんだから。
+MID_SERRA_LEVEL3: し、信じないわ！\n信じないんだから！
+MID_SERRA_SKILL: えー、私って強くなっちゃったの？\n今まで以上に働けってこと？
+MID_SERRA_JOIN: セーラよ。\nかよわいシスターなんだから、\n無理はさせないでよね。
+MID_SERRA_STRONGEST: ああ…\n聖女エリミーヌ様…\nどうして私ばかりこんな目に…$k$pだって、そうじゃない。\nあんたってば、かよわい私を\nむりやりさんざんこき使って…$k$pあんたのせいで、\nこんなに強くなっちゃったじゃない。\nああ…珠のお肌が荒れちゃうわ。$k$pでもまあ、みんなに頼られるのは\n悪い気分じゃないわね。\n…あんたのことも助けてあげられるし…$k$pこれからも、助けてあげる。\nだから私のことはセーラ様って\n呼びなさいよね。わかった？
+MID_SERRA_VOICE01: えいっ！
+MID_SERRA_VOICE02: もうっ！
+MID_SERRA_VOICE03: きゃああっ！
+MID_SERRA_VOICE04: も…もうっ！
+MID_SERRA_VOICE05: かよわいんだから！
+MID_SERRA_VOICE06: 絶対服従よ！
+MID_SERRA_VOICE07: ひどいじゃない！
+MID_SERRA_VOICE08: 私がかわいそうでしょ！
+MID_SERRA_VOICE09: 神様のいじわる…！
+MID_SERRA_VOICE10: ふふ
+MID_SERRA_VOICE11: お礼してよね！
+MID_SERRA_VOICE12: セーラ様のおかげね
+MID_SERRA_VOICE13: 私に何かプレゼント？
+MID_SERRA_VOICE14: ん？　肩をマッサージしてくれるの？
+MID_SERRA_VOICE15: あーんもう、珠のお肌が荒れちゃうわ
+MID_SERRA_VOICE16: …私は伯爵家の娘、なんだから…
+MID_SERRA_VOICE17: ちゃんと私のこと、守ってよね？
+MID_SERRA_VOICE18: は～い
+MID_SERRA_VOICE19: 任せなさいって
+MID_SERRA_VOICE20: 行くわよ！

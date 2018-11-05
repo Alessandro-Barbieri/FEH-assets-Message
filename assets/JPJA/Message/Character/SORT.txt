@@ -1,0 +1,38 @@
+[Heroes Archive] (SORT)
+
+
+Heroes Message Name: Message
+
+
+MID_SORT_HOME1: 良かった…ここの人たちはみんな、\nいい人ばかりみたいだ。\n最初は不安だったんだよね。
+MID_SORT_HOME2: 自警団では馬の世話をしたり、\n賊と戦って治安を守ったりしてたよ。\nあの頃はまだ、平和だったなあ…
+MID_SORT_HOME3: 今日も元気そうだね。\nでも、もし体調が悪くなったら言って。\n胃薬ぐらいなら調合できるからさ。
+MID_SORT_HOME4: ねえ、一緒にご飯食べに行かない？\nせっかくだし、この国の名物を色々と\n開拓しておきたくってさ。
+MID_SORT_HOME5: 寝癖を直してたんだけど…どうかな？\n昔、野菜と間違えられて、\n屍兵に狙われたことがあるんだよね…
+MID_SORT_FRIEND: あ、やっと見つけた！\n$Nfが君に、\nよろしく伝えてって言ってたよ。
+MID_SORT_LEVEL1: 今までの僕より\nずっと強くなれたよ！
+MID_SORT_LEVEL2: 良かった…！\n成長できた…！
+MID_SORT_LEVEL3: ご、ごめんね。\nもっと頑張るよ…
+MID_SORT_SKILL: 力をくれてありがとう。\nこれからもっと腕を磨くよ！
+MID_SORT_JOIN: こんにちは、僕はソール。\nクロム自警団の一員だよ。\nき、緊張してお腹痛くなってきた…！
+MID_SORT_STRONGEST: ふう、今日も訓練頑張ったなあ。\nちょっとお腹が空いたかも…\nあ、$Nu…！$k$pえ？　このパンを僕に？\nもうすぐお腹が空くだろうと思って\n持ってきてくれたの？　ありがとう！$k$p君ってよくみんなのことを見てるよね。\n戦場でも、君の指示に何度助けられたか\nわからないほどだよ。$k$pでもね、人を気にする人は\n自分のことが疎かになりがちなんだ。\n…だから君のことは僕が見てる。$k$p君が無理をしないように…\n僕だって君を支えてみせるから、\nこれからも一緒に頑張ろうね。\n
+MID_SORT_VOICE01: はっ！
+MID_SORT_VOICE02: せやあっ！
+MID_SORT_VOICE03: うわっ！
+MID_SORT_VOICE04: そんなぁ…！
+MID_SORT_VOICE05: これで決める！
+MID_SORT_VOICE06: 覚悟…っ！
+MID_SORT_VOICE07: やっちゃうよー！
+MID_SORT_VOICE08: 勝たせてよね！
+MID_SORT_VOICE09: 負けを…認めるよ…
+MID_SORT_VOICE10: へへっ
+MID_SORT_VOICE11: 話しかけてくれて、嬉しいよ
+MID_SORT_VOICE12: 僕はクロム自警団の一員なんだよ
+MID_SORT_VOICE13: もしかして僕、髪に寝癖ついてる…？
+MID_SORT_VOICE14: 伝説の「黒豹」目指して、訓練訓練
+MID_SORT_VOICE15: 僕の実家は薬屋なんだ。薬の調合は得意だよ
+MID_SORT_VOICE16: お、お腹が痛い…また食べ過ぎちゃったかな…
+MID_SORT_VOICE17: 僕、たまにおっちょこちょいだけど…\n君たちのために頑張ってみせるよ
+MID_SORT_VOICE18: うんっ
+MID_SORT_VOICE19: 行こう！
+MID_SORT_VOICE20: 待ってよー

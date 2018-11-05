@@ -1,0 +1,38 @@
+[Heroes Archive] (JEROME)
+
+
+Heroes Message Name: Message
+
+
+MID_JEROME_HOME1: La mia famiglia non è più con me. Mia\nmadre andò in battaglia... e tornò solo\nla sua viverna Minerva.$k$pTornò, ma aveva subìto molte ferite.
+MID_JEROME_HOME2: Sono qui per liberare Minerva...\nNon voglio immischiarmi negli\naffari di altri mondi.$k$pPerché mai dovrei aiutarti?
+MID_JEROME_HOME3: Tu lavori troppo. Perché lo fai?\nAnche tu arrivi da un altro mondo,\nnon è così?
+MID_JEROME_HOME4: Forse, poiché sei l'$GEvocatore,Evocatrice|, potresti\nevocare i miei defunti genitori... No,\nniente, dimentica quello che ho detto.
+MID_JEROME_HOME5: Il mio mantello aveva diversi strappi,\nquindi li stavo rammendando.$k$pTi sorprende il fatto che io sappia\ncucire?
+MID_JEROME_FRIEND: Sei $Nu?\nTanti saluti da\n$Nf.$k$pEvocare eroi e rimandarli nei loro\nmondi ti diverte?
+MID_JEROME_LEVEL1: Anche tu sembri felice,\nMinerva.
+MID_JEROME_LEVEL2: È un inizio.
+MID_JEROME_LEVEL3: Umpf... Il destino è\navaro oggi.
+MID_JEROME_SKILL: Vale troppo. Forse dovrebbe\nandare a qualcun altro.
+MID_JEROME_JOIN: Sono Gerome, il figlio di Zelcher.\nDevi sapere che non voglio essere\ncoinvolto negli affari di questo mondo.
+MID_JEROME_STRONGEST: Sei qui per fare due chiacchiere?\nCerte persone proprio non vogliono\ncapire.$k$pPerò sembra che tu piaccia a\nMinerva, che io lo voglia o meno.$k$pD'altro canto, suppongo di dover\nrimanere educato con qualcuno che\nha l'approvazione di Minerva.$k$pCome ti ho già detto, non voglio\nimmischiarmi negli affari di altri\nmondi. Se l'Askr deve cadere...$k$p... non mi riguarda.$k$pTuttavia, se vuoi davvero proteggere\nquesto mondo e i suoi abitanti,\nMinerva e io saremo al tuo fianco.$k$pDopo tutto... conosciamo bene\nla sofferenza che deriva dal\nperdere qualcuno.
+MID_JEROME_VOICE01: せいっ！
+MID_JEROME_VOICE02: はあっ！
+MID_JEROME_VOICE03: ぐうっ…！
+MID_JEROME_VOICE04: Fate is...cruel...
+MID_JEROME_VOICE05: Accetta il fato.
+MID_JEROME_VOICE06: Questo è un addio.
+MID_JEROME_VOICE07: Patetico.
+MID_JEROME_VOICE08: Minerva, ora!
+MID_JEROME_VOICE09: Cruel fate...
+MID_JEROME_VOICE10: Hmm...
+MID_JEROME_VOICE11: I am not here to make friends.
+MID_JEROME_VOICE12: How did I get to this point?
+MID_JEROME_VOICE13: My wyvern is lovely, is she not?
+MID_JEROME_VOICE14: This is not my only mask—if you broke this one, I'd still be covered.
+MID_JEROME_VOICE15: I've seen too much of fate's cruel work to doubt it.
+MID_JEROME_VOICE16: I wanted parents—instead I got heroic martyrs...
+MID_JEROME_VOICE17: I must feed Minervykins before bed—oh! Forget you heard that!
+MID_JEROME_VOICE18: Understood.
+MID_JEROME_VOICE19: Very well.
+MID_JEROME_VOICE20: Minerva.

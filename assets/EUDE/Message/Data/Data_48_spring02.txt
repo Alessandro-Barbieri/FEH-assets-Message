@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: Erdsegen
+MID_MISSION_S201803BLESS01_A1: Sieg mit Erdsegen
+MID_MISSION_H_S201803BLESS01_A1: Besiege Gegner mit einem Helden mit\nErdsegen. (Bezieht sich nicht auf\nLegendäre Helden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A2: Sieg mit Erdsegen
+MID_MISSION_H_S201803BLESS01_A2: Besiege Gegner, die mind. Lv. 20 sind,\nmit einem Helden mit Erdsegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A3: Sieg mit Erdsegen
+MID_MISSION_H_S201803BLESS01_A3: Besiege rote Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Erdsegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A4: Sieg mit Erdsegen
+MID_MISSION_H_S201803BLESS01_A4: Besiege blaue Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Erdsegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A5: Sieg mit Erdsegen
+MID_MISSION_H_S201803BLESS01_A5: Besiege grüne Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Erdsegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A6: Übungsturm: 1. Stufe
+MID_MISSION_H_S201803BLESS01_A6: Schließe die erste Stufe des Übungs-\nturms mit einem Helden mit Erdsegen\nab. (Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201803BLESS01_A7: Schließe die fünfte Stufe des Übungs-\nturms mit einem Helden mit Erdsegen\nab. (Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803BLESS01_A8: Übungsturm: 10. Stufe
+MID_MISSION_H_S201803BLESS01_A8: Schließe die zehnte Stufe des Übungs-\nturms mit einem Helden mit Erdsegen\nab. (Bezieht sich nicht auf Legendäre\nHelden mit Erdelement.)
+MID_MISSION_S201803KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201803KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201803KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Ninian und Hawkeye mit\nAnna im Team.
+MID_MISSION_S201803KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201803KIZUNA01_A2: Gewinne den Treue-Heldenkampf gegen\nNinian & Hawkeye auf Extrem o. höher\nmit Alfonse: Prinz von Askr im Team.
+MID_MISSION_S201803KIZUNA01_A3: Ninian besiegen
+MID_MISSION_H_S201803KIZUNA01_A3: Besiege Ninian, die Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201803KIZUNA01_A4: Hawkeye besiegen
+MID_MISSION_H_S201803KIZUNA01_A4: Besiege Hawkeye, der\nLevel 40 oder höher ist,\nmit Alfonse: Prinz von Askr.
+MID_MISSION_S201803KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201803KIZUNA01_A5: Gewinne den Treue-Heldenkampf gegen\nNinian & Hawkeye auf Extrem o. höher\nnur mit Kavallerieeinheiten.
+MID_MISSION_S201803SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201803SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201803SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201803SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201803SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201803SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201803STORY02_TITLE: Hoppelparade
+MID_MISSION_S201803STORY02_A1: Nebenq. 19 Tl. 1 - Extrem
+MID_MISSION_H_S201803STORY02_A1: Bewältige Nebenquest 19 - Tl. 1 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY02_A2: Nebenq. 19 Tl. 2 - Extrem
+MID_MISSION_H_S201803STORY02_A2: Bewältige Nebenquest 19 - Tl. 2 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803STORY02_A3: Nebenq. 19 Tl. 3 - Extrem
+MID_MISSION_H_S201803STORY02_A3: Bewältige Nebenquest 19 - Tl. 3 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201803TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201803TAPBTL01_D01_A1: Boss besiegen
+MID_MISSION_H_S201803TAPBTL01_D01_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL01_D01_A2: Stufe abschließen
+MID_MISSION_H_S201803TAPBTL01_D01_A2: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201803TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201803TAPBTL01_D02_A1: Boss besiegen
+MID_MISSION_H_S201803TAPBTL01_D02_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL01_D02_A2: Stufe abschließen
+MID_MISSION_H_S201803TAPBTL01_D02_A2: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201803TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201803TAPBTL01_D03_A1: Boss besiegen
+MID_MISSION_H_S201803TAPBTL01_D03_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL01_D03_A2: Stufe abschließen
+MID_MISSION_H_S201803TAPBTL01_D03_A2: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201803TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201803TAPBTL01_D04_A1: Boss besiegen
+MID_MISSION_H_S201803TAPBTL01_D04_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL01_D04_A2: Stufe abschließen
+MID_MISSION_H_S201803TAPBTL01_D04_A2: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201803TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201803TAPBTL02_A1: Boss besiegen
+MID_MISSION_H_S201803TAPBTL02_A1: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL02_A2: Boss besiegen
+MID_MISSION_H_S201803TAPBTL02_A2: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201803TAPBTL02_A3: Stufe abschließen
+MID_MISSION_H_S201803TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MPID_春祭アルフォンス: Alfonse
+MPID_春祭カゲロウ: Kagero
+MPID_春祭カチュア: Catria
+MPID_春祭シャロン: Sharena
+MPID_HONOR_春祭アルフォンス: Frühlingsprinz
+MPID_HONOR_春祭カゲロウ: Frühlingsninja
+MPID_HONOR_春祭カチュア: Frühl.-Schwinge
+MPID_HONOR_春祭シャロン: Frühl.-Prinzessin
+MPID_H_春祭アルフォンス: Ein freundlicher und ernster Prinz von Askr.\nEr nimmt als Mitglied der Wächter von Askr\nam Frühlingsfest teil.
+MPID_H_春祭カゲロウ: Eine von Ryomas Getreuen und eine Ninja\naus Hoshido. Erhielt die Mission, am\nFrühlingsfest teilzunehmen, und erfüllt\nihre Pflicht. Erscheint in Fire Emblem Fates.
+MPID_H_春祭カチュア: Die mittlere von drei Schwestern, die als\nPegasusritter in Medon dienen. Besucht\npflichtbewusst das Frühlingsfest. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_H_春祭シャロン: Prinzessin von Askr und Alfonses\njüngere Schwester. Hat ihren\nBruder dazu überredet, mit ihr\nam Frühlingsfest teilzunehmen.
+MPID_VOICE_春祭アルフォンス: Ray Chase
+MPID_VOICE_春祭カゲロウ: Sarah Blandy
+MPID_VOICE_春祭カチュア: Connor Kelley
+MPID_VOICE_春祭シャロン: Julie Kliewer
+MPID_ILLUST_春祭アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_春祭シャロン: Kozaki Yusuke (コザキユースケ)
+MSID_ビッグスプーン: Riesenlöffel
+MSID_ビッグスプーン＋: Riesenlöffel+
+MSID_ベビーキャロット: Todesmöhrchen
+MSID_ベビーキャロット＋: Todesmöhrch.+
+MSID_フギンの魔卵: Hugins Ei
+MSID_ムニンの魔卵: Munins Ei
+MSID_飛燕の構え1: Sturzflugstand 1
+MSID_飛燕明鏡の構え1: Flinker Stand 1
+MSID_飛燕明鏡の構え2: Flinker Stand 2
+MSID_速さ魔防の絆1: Ges./Res.-Band 1
+MSID_速さ魔防の絆2: Ges./Res.-Band 2
+MSID_速さ魔防の絆3: Ges./Res.-Band 3
+MSID_魔防の封印1: Res.-Bremse 1
+MSID_魔防の封印2: Res.-Bremse 2
+MSID_魔防の封印3: Res.-Bremse 3
+MSID_守備の紫煙1: Ver.-Rauch 1
+MSID_守備の紫煙2: Ver.-Rauch 2
+MSID_守備の紫煙3: Ver.-Rauch 3
+MSID_H_ビッグスプーン: Verursacht +10 Schaden, wenn\nSpezialangriff ausgelöst wird.
+MSID_H_ビッグスプーン＋: Verursacht +10 Schaden, wenn\nSpezialangriff ausgelöst wird.
+MSID_H_ベビーキャロット: Verursacht +10 Schaden, wenn Spezialangriff\nausgelöst wird. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von 2\nFeldern vom Ziel nach dem Kampf Ver./Res. -5\nbis nach ihren nächsten Aktionen.
+MSID_H_ベビーキャロット＋: Verursacht +10 Schaden, wenn Spezialangriff\nausgelöst wird. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von 2\nFeldern vom Ziel nach dem Kampf Ver./Res. -7\nbis nach ihren nächsten Aktionen.
+MSID_H_フギンの魔卵: Gewährt Res. +3. Sind die KP der Einheit zu\nBeginn des Zuges ≥ 50, erleidet der Gegner\nmit der geringsten Res. Angr./Ver -5 bis\nnach seiner nächsten Aktion.
+MSID_H_ムニンの魔卵: Gewährt Res. +3. Sind die KP der Einheit zu\nBeginn des Zuges ≥ 50, erleidet der Gegner\nmit der geringsten Ges. Angr./Res. -5 bis\nnach seiner nächsten Aktion.
+MSID_H_飛燕の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges. +2 im Kampf.
+MSID_H_飛燕明鏡の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Res. +2 im Kampf.
+MSID_H_飛燕明鏡の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Res. +4 im Kampf.
+MSID_H_速さ魔防の絆1: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Res. +3 im Kampf.
+MSID_H_速さ魔防の絆2: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Res. +4 im Kampf.
+MSID_H_速さ魔防の絆3: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nGes./Res. +5 im Kampf.
+MSID_H_魔防の封印1: Der Gegner mit der höchsten Res.\nerleidet zu Beginn des Zuges Res. -3\nbis nach seiner nächsten Aktion.
+MSID_H_魔防の封印2: Der Gegner mit der höchsten Res.\nerleidet zu Beginn des Zuges Res. -5\nbis nach seiner nächsten Aktion.
+MSID_H_魔防の封印3: Der Gegner mit der höchsten Res.\nerleidet zu Beginn des Zuges Res. -7\nbis nach seiner nächsten Aktion.
+MSID_H_守備の紫煙1: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Ver. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_守備の紫煙2: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Ver. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_守備の紫煙3: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Ver. -7 bis nach\nihren nächsten Aktionen.
+MID_CHAPTER_TITLE_CX018: Nebenquest 19
+MID_CHAPTER_CX018: Hoppelparade
+MID_STAGE_TITLE_X0181: Nebenq. 19: Tl. 1
+MID_STAGE_TITLE_X0182: Nebenq. 19: Tl. 2
+MID_STAGE_TITLE_X0183: Nebenq. 19: Tl. 3
+MID_STAGE_X0181: Häschengeschwister
+MID_STAGE_X0182: Häschenmission
+MID_STAGE_X0183: Häschenbande
+MID_TAP_BATTLE_DATA_TITLE_0002: Dunkle Erinnerungen
+MID_MUSIC_NAME_BGM_MAP_FE12_01: Vorwärts
+MID_MUSIC_NAME_BGM_MAP_FE07_01: Kostbare Dinge
+MID_MUSIC_NAME_BGM_MAP_FE15_05: Der Götter Zwielicht

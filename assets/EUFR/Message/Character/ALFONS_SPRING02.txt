@@ -1,0 +1,38 @@
+[Heroes Archive] (ALFONS_SPRING02)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_SPRING02_HOME1: Je comprends que ce genre de tenue\npuisse plaire à Sharena, mais...\npourquoi moi ?
+MID_ALFONS_SPRING02_HOME2: Avez-vous déjà entendu parler des\nTagüels ?$k$pIls vivent dans le monde d'Awakening,\net ils peuvent se transformer en\nlapin !
+MID_ALFONS_SPRING02_HOME3: Je crois que ma sœur a aussi\npréparé un costume pour vous.$k$pElle dit que nous serions moins gênés\nsi vous étiez $Gdéguisé,déguisée|, vous aussi...\nAlors, où l'a-t-elle mis ?
+MID_ALFONS_SPRING02_HOME4: Avez-vous un peu de temps libre ?\nJ'aimerais m'entraîner avec vous...$k$pNon, pas à sautiller comme un lapin,\nmerci bien.
+MID_ALFONS_SPRING02_HOME5: Mon père est très strict et sérieux...\nS'il me voyait dans cette tenue, il\ns'évanouirait probablement.
+MID_ALFONS_SPRING02_FRIEND: Hum. $Nf\nm'envoie vous saluer.$k$pEt maintenant... si vous voulez\nbien m'excuser...
+MID_ALFONS_SPRING02_LEVEL1: Je renais avec le printemps !
+MID_ALFONS_SPRING02_LEVEL2: Je récolte le fruit de mes efforts.
+MID_ALFONS_SPRING02_LEVEL3: Il fait encore un peu froid,\nvous ne trouvez pas ?
+MID_ALFONS_SPRING02_SKILL: Merci. Vous êtes aussi\n$Gchaleureux,chaleureuse| que le printemps.
+MID_ALFONS_SPRING02_JOIN: Je suis le prince Alfonse d'Askr. Je\nvous remercierai de ne pas faire de\ncommentaires sur ma tenue.
+MID_ALFONS_SPRING02_STRONGEST: Ah, $Nu...$k$pJe me suis renseigné sur les\nsymboles du festival du printemps.\nC'est vraiment fascinant...$k$pLes œufs représentent la vie, la\nnaissance. Quant aux lapins, ils sont\nconnus pour leur fertilité, donc...$k$pOh, le costume ? Je crois que je suis\ncondamné à le porter jusqu'à ce\nque Sharena m'autorise à l'enlever.$k$pC'est bizarre, on s'habitue vraiment\nà tout. Ça fait presque peur.$k$pÀ force de porter ce costume, l'idée\nde m'habiller autrement me semble\ntotalement extravagante...$k$pCe qui me rassure, c'est de savoir\nque, quelle que soit ma tenue, nous\nresterons amis, vous et moi !$k$pMerci, $Nu.\nJe suis vraiment heureux de pouvoir\ncompter sur vous.
+MID_ALFONS_SPRING02_VOICE01: えいっ！
+MID_ALFONS_SPRING02_VOICE02: それっ！
+MID_ALFONS_SPRING02_VOICE03: うああっ！
+MID_ALFONS_SPRING02_VOICE04: I let my guard down...
+MID_ALFONS_SPRING02_VOICE05: Le printemps est là !
+MID_ALFONS_SPRING02_VOICE06: Vive le printemps !
+MID_ALFONS_SPRING02_VOICE07: C'est la saison du renouveau !
+MID_ALFONS_SPRING02_VOICE08: Place au printemps !
+MID_ALFONS_SPRING02_VOICE09: Spring is...fleeting...
+MID_ALFONS_SPRING02_VOICE10: はは
+MID_ALFONS_SPRING02_VOICE11: Would you like to celebrate spring with me?
+MID_ALFONS_SPRING02_VOICE12: Hey! What's gotten into you?
+MID_ALFONS_SPRING02_VOICE13: Festivals have been important to people since ancient times.
+MID_ALFONS_SPRING02_VOICE14: It never occurred to me that I'd be the one dressing like this.
+MID_ALFONS_SPRING02_VOICE15: You think this outfit looks good on me? I'm not sure how I feel about that.
+MID_ALFONS_SPRING02_VOICE16: At times like these, I'm envious of Sharena's carefree attitude.
+MID_ALFONS_SPRING02_VOICE17: Next time the spring festival rolls around, it's your turn to dress up like this. Do we have a deal?
+MID_ALFONS_SPRING02_VOICE18: Right.
+MID_ALFONS_SPRING02_VOICE19: Spring weather is quite nice.
+MID_ALFONS_SPRING02_VOICE20: Spring sunshine...

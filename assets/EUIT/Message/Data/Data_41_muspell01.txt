@@ -1,0 +1,493 @@
+[Heroes Archive] (Data_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201712A_TITLE: Imprese dic. (1)
+MID_MISSION_M201712A_A1: Vinci con unità blu
+MID_MISSION_H_M201712A_A1: Sconfiggi i nemici con unità di tipo blu.
+MID_MISSION_M201712A_A2: Vinci con unità di fanteria
+MID_MISSION_H_M201712A_A2: Sconfiggi i nemici con unità di fanteria.
+MID_MISSION_M201712A_A3: Batti nemici verdi
+MID_MISSION_H_M201712A_A3: Sconfiggi nemici di tipo verde.
+MID_MISSION_M201712A_A4: Batti unità volanti
+MID_MISSION_H_M201712A_A4: Sconfiggi nemici volanti.
+MID_MISSION_M201712A_A5: Arena: vinci duelli
+MID_MISSION_H_M201712A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201712A_A6: Rosso batte nem. Liv 20+
+MID_MISSION_H_M201712A_A6: Sconfiggi nemici di livello 20 o superiore\ncon unità di tipo rosso.
+MID_MISSION_M201712A_A7: Volant. batte nem. Liv 20+
+MID_MISSION_H_M201712A_A7: Sconfiggi nemici di livello 20 o superiore\ncon unità volanti.
+MID_MISSION_M201712A_A8: Batti nemici blu Liv 20+
+MID_MISSION_H_M201712A_A8: Sconfiggi nemici di tipo blu\ndi livello 20 o superiore.
+MID_MISSION_M201712A_A9: Batti fanteria Liv 20+
+MID_MISSION_H_M201712A_A9: Sconfiggi unità di fanteria\ndi livello 20 o superiore.
+MID_MISSION_M201712A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201712A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201712A_A11: Verde batte nem. Liv 35+
+MID_MISSION_H_M201712A_A11: Sconfiggi nemici di livello 35 o superiore\ncon unità di tipo verde.
+MID_MISSION_M201712A_A12: Cavall. batte nem. Liv 35+
+MID_MISSION_H_M201712A_A12: Sconfiggi nemici di livello 35 o superiore\ncon unità a cavallo.
+MID_MISSION_M201712A_A13: Batti nemici rossi Liv 35+
+MID_MISSION_H_M201712A_A13: Sconfiggi nemici di tipo rosso\ndi livello 35 o superiore.
+MID_MISSION_M201712A_A14: Batti cavalleria Liv 35+
+MID_MISSION_H_M201712A_A14: Sconfiggi nemici a cavallo\ndi livello 35 o superiore.
+MID_MISSION_M201712A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201712A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_S201712ARENA01_TITLE: Arena
+MID_MISSION_S201712ARENA01_A1: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A1: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A2: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A2: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A3: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A3: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A4: Assalto arena: 3 di fila
+MID_MISSION_H_S201712ARENA01_A4: Vinci tre battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201712ARENA01_A5: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A6: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A7: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A7: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A8: Assalto arena: 5 di fila
+MID_MISSION_H_S201712ARENA01_A8: Vinci cinque battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201712ARENA01_A9: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A10: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A11: Arena: vinci duelli
+MID_MISSION_H_S201712ARENA01_A11: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712ARENA01_A12: Assalto arena: 7 di fila
+MID_MISSION_H_S201712ARENA01_A12: Vinci sette battaglie consecutive\nin Assalto arena.
+MID_MISSION_M201712B_TITLE: Imprese dic. (2)
+MID_MISSION_M201712B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201712B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201712B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201712B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201712B_A4: Completa il quarto piano della\ntorre di allenamento. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201712B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201712B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201712B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201712B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201712B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201712B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201712B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201712B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201712B_A12: Completa il decimo piano della torre di\nallenamento con soli alleati corazzati.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201712B_A13: Completa il decimo piano della torre di\nallenamento con soli alleati a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201712B_A14: Completa il decimo piano della torre di\nallenamento con soli alleati volanti. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_TITLE: Imprese dic. (3)
+MID_MISSION_M201712C_A1: Completa 4-1
+MID_MISSION_H_M201712C_A1: Completa il cap. 4, parte 1. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A2: Completa 4-2
+MID_MISSION_H_M201712C_A2: Completa il cap. 4, parte 2 con\nun'unità rossa in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A3: Completa 4-3
+MID_MISSION_H_M201712C_A3: Completa il cap. 4, parte 3 con\nun'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712C_A4: Completa 4-4
+MID_MISSION_H_M201712C_A4: Completa il cap. 4, parte 4 con\nun'unità verde in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A5: Completa 4-5
+MID_MISSION_H_M201712C_A5: Completa il cap. 4, parte 5 con\nun'unità neutra in squadra. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A6: Completa 7-1 difficile+
+MID_MISSION_H_M201712C_A6: Completa il cap. 7, parte 1 al livello di\ndifficoltà difficile o superiore. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712C_A7: Completa 7-2 difficile+
+MID_MISSION_H_M201712C_A7: Completa il cap. 7, parte 2 con un'unità rossa in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A8: Completa 7-3 difficile+
+MID_MISSION_H_M201712C_A8: Completa il cap. 7, parte 3 con un'unità blu in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A9: Completa 7-4 difficile+
+MID_MISSION_H_M201712C_A9: Completa il cap. 7, parte 4 con un'unità verde in\nsquadra al livello di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A10: Completa 7-5 difficile+
+MID_MISSION_H_M201712C_A10: Completa il cap. 7, parte 5 con un'unità neutra\nin squadra al liv. di difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A11: Completa 10-1 folle
+MID_MISSION_H_M201712C_A11: Completa il cap. 10, parte 1 al livello di difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201712C_A12: Completa 10-2 folle
+MID_MISSION_H_M201712C_A12: Completa il cap. 10, parte 2 al livello di difficoltà\nfolle con un'unità rossa in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712C_A13: Completa 10-3 folle
+MID_MISSION_H_M201712C_A13: Completa il cap. 10, parte 3 al livello di difficoltà\nfolle con un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712C_A14: Completa 10-4 folle
+MID_MISSION_H_M201712C_A14: Completa il cap. 10, parte 4 al livello di difficoltà\nfolle con un'unità verde in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201712C_A15: Completa 10-5 folle
+MID_MISSION_H_M201712C_A15: Completa il cap. 10, parte 5 al livello di difficoltà\nfolle con un'unità neutra in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201712RENSEI01_TITLE: Officina delle armi
+MID_MISSION_S201712RENSEI01_A1: Vinci
+MID_MISSION_H_S201712RENSEI01_A1: Sconfiggi nemici.
+MID_MISSION_S201712RENSEI01_A2: Vinci con unità rosse
+MID_MISSION_H_S201712RENSEI01_A2: Sconfiggi i nemici con unità di tipo rosso.
+MID_MISSION_S201712RENSEI01_A3: Vinci con unità blu
+MID_MISSION_H_S201712RENSEI01_A3: Sconfiggi i nemici con unità di tipo blu.
+MID_MISSION_S201712RENSEI01_A4: Vinci con unità verdi
+MID_MISSION_H_S201712RENSEI01_A4: Sconfiggi i nemici con unità di tipo verde.
+MID_MISSION_S201712RENSEI01_A5: Vinci con unità neutre
+MID_MISSION_H_S201712RENSEI01_A5: Sconfiggi i nemici con unità di tipo neutro.
+MID_MISSION_S201712RENSEI01_A6: Vinci con unità di fanteria
+MID_MISSION_H_S201712RENSEI01_A6: Sconfiggi i nemici con unità di fanteria.
+MID_MISSION_S201712RENSEI01_A7: Vinci con unità corazzate
+MID_MISSION_H_S201712RENSEI01_A7: Sconfiggi i nemici con unità corazzate.
+MID_MISSION_S201712RENSEI01_A8: Vinci con unità a cavallo
+MID_MISSION_H_S201712RENSEI01_A8: Sconfiggi i nemici con unità a cavallo.
+MID_MISSION_S201712RENSEI01_A9: Vinci con unità volanti
+MID_MISSION_H_S201712RENSEI01_A9: Sconfiggi i nemici con unità volanti.
+MID_MISSION_S201712RENSEI01_A10: Arena: vinci duelli
+MID_MISSION_H_S201712RENSEI01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712RENSEI01_A11: Assalto arena: 7 di fila
+MID_MISSION_H_S201712RENSEI01_A11: Vinci sette battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201712RENSEI01_A12: Vinci con Fjorm
+MID_MISSION_H_S201712RENSEI01_A12: Usa Fjorm per sconfiggere un nemico.
+MID_MISSION_S201712RENSEI01_A13: Batti nemico Liv 20+
+MID_MISSION_H_S201712RENSEI01_A13: Sconfiggi un nemico di livello 20\no superiore con Fjorm.
+MID_MISSION_S201712RENSEI01_A14: Batti nemico Liv 40+
+MID_MISSION_H_S201712RENSEI01_A14: Sconfiggi un nemico di livello 40\no superiore con Fjorm.
+MID_MISSION_S201712RENSEI01_A15: Torre: vinci al 1º piano
+MID_MISSION_H_S201712RENSEI01_A15: Completa il primo piano della torre di\nallenamento con Fjorm nella squadra.
+MID_MISSION_S201712RENSEI01_A16: Torre: vinci al 5º piano
+MID_MISSION_H_S201712RENSEI01_A16: Completa il quinto piano della torre di\nallenamento con Fjorm nella squadra.
+MID_MISSION_S201712RENSEI01_A17: Torre: vinci al 9º piano
+MID_MISSION_H_S201712RENSEI01_A17: Completa il nono piano della torre di\nallenamento con Fjorm nella squadra.
+MID_MISSION_S201712RENSEI01_A18: Torre: vinci al 10º piano
+MID_MISSION_H_S201712RENSEI01_A18: Completa il 10º piano della torre di allenamento\ncon Fjorm e altri 2 alleati in squadra. Tutti e 3\ngli alleati devono sopravvivere.
+MID_MISSION_S201711SENKA03_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201711SENKA03_DAILY_A1: Completa prove
+MID_MISSION_H_S201711SENKA03_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201711SENKA03_DAILY_A2: Completa prove
+MID_MISSION_H_S201711SENKA03_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201711SENKA03_DAILY_A3: Completa prove
+MID_MISSION_H_S201711SENKA03_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201711SENKA03_DAILY_A4: Completa prove
+MID_MISSION_H_S201711SENKA03_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201711STORY02_TITLE: La fiamma
+MID_MISSION_S201711STORY02_A1: Completa 1-1 folle
+MID_MISSION_H_S201711STORY02_A1: Completa il libro II, cap. 1-1 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY02_A2: Completa 1-2 folle
+MID_MISSION_H_S201711STORY02_A2: Completa il libro II, cap. 1-2 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY02_A3: Completa 1-3 folle
+MID_MISSION_H_S201711STORY02_A3: Completa il libro II, cap. 1-3 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY02_A4: Completa 1-4 folle
+MID_MISSION_H_S201711STORY02_A4: Completa il libro II, cap. 1-4 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY02_A5: Completa 1-5 folle
+MID_MISSION_H_S201711STORY02_A5: Completa il libro II, cap. 1-5 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY03_TITLE: La dama del gelo
+MID_MISSION_S201711STORY03_A1: Completa 2-1 folle
+MID_MISSION_H_S201711STORY03_A1: Completa il libro II, cap. 2-1 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY03_A2: Completa 2-2 folle
+MID_MISSION_H_S201711STORY03_A2: Completa il libro II, cap. 2-2 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY03_A3: Completa 2-3 folle
+MID_MISSION_H_S201711STORY03_A3: Completa il libro II, cap. 2-3 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY03_A4: Completa 2-4 folle
+MID_MISSION_H_S201711STORY03_A4: Completa il libro II, cap. 2-4 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201711STORY03_A5: Completa 2-5 folle
+MID_MISSION_H_S201711STORY03_A5: Completa il libro II, cap. 2-5 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712HERO01_TITLE: Grandi battaglie
+MID_MISSION_S201712HERO01_A1: Batti Berkut
+MID_MISSION_H_S201712HERO01_A1: Con Sharena nella tua squadra,\nvinci la Grande battaglia contro\nBerkut, il fiero signore.
+MID_MISSION_S201712HERO01_A2: Batti Berkut
+MID_MISSION_H_S201712HERO01_A2: Con Berkut, il fiero signore, nella tua squadra,\nvinci la Grande battaglia contro Berkut, il fiero\nsignore, al livello di difficoltà folle o superiore.
+MID_MISSION_S201712HERO01_A3: Batti Berkut
+MID_MISSION_H_S201712HERO01_A3: Batti Berkut, il fiero signore, di livello 40\no superiore con Sharena.
+MID_MISSION_S201712HERO01_A4: Batti Berkut
+MID_MISSION_H_S201712HERO01_A4: Batti Berkut, il fiero signore, di livello 40\no superiore con Berkut, il fiero signore.
+MID_MISSION_S201712HERO01_A5: Batti Berkut
+MID_MISSION_H_S201712HERO01_A5: Vinci la Grande battaglia contro Berkut, il fiero\nsignore, al livello di difficoltà folle o superiore\ncon una squadra di sole unità di fanteria.
+MID_MISSION_S201712VMAP01_TITLE: Sfida gli sviluppatori
+MID_MISSION_S201712VMAP01_A1: Completa Effie, la forzuta
+MID_MISSION_H_S201712VMAP01_A1: Completa Effie, la forzuta di Shingoroid\ncon un'unità rossa in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A2: Completa Ombra sull'iride
+MID_MISSION_H_S201712VMAP01_A2: Completa Ombra sull'iride di Taroimo\ncon un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A3: Completa I fascinosi 4
+MID_MISSION_H_S201712VMAP01_A3: Completa I fascinosi quattro di Rokumoji\ncon un'unità verde in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A4: Completa Le leggiadre
+MID_MISSION_H_S201712VMAP01_A4: Completa Le leggiadre di Arayang con\nun'unità neutra in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A5: Completa Il muro di ferro
+MID_MISSION_H_S201712VMAP01_A5: Completa Il muro di ferro di ryo. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A6: Completa Effie, la forzuta
+MID_MISSION_H_S201712VMAP01_A6: Completa Effie, la forzuta di Shingoroid al livello\ndi difficoltà folle con un'unità rossa in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A7: Completa Ombra sull'iride
+MID_MISSION_H_S201712VMAP01_A7: Completa Ombra sull'iride di Taroimo al livello\ndi difficoltà folle con un'unità blu in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A8: Completa I fascinosi 4
+MID_MISSION_H_S201712VMAP01_A8: Completa I fascinosi quattro di Rokumoji al liv.\ndi difficoltà folle con un'unità verde in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A9: Completa Le leggiadre
+MID_MISSION_H_S201712VMAP01_A9: Completa Le leggiadre di Arayang al livello di\ndifficoltà folle con un'unità neutra in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712VMAP01_A10: Completa Il muro di ferro
+MID_MISSION_H_S201712VMAP01_A10: Completa Il muro di ferro di ryo al livello\ndi difficoltà folle. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_S201712VOTE01_TITLE: Sfida ai voti
+MID_MISSION_S201712VOTE01_A1: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A1: Vinci una battaglia nella sfida ai voti.
+MID_MISSION_S201712VOTE01_A2: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A2: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201712VOTE01_A3: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A3: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201712VOTE01_A4: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A4: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201712VOTE01_A5: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A5: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201712VOTE01_A6: Torre: vinci al 2º piano
+MID_MISSION_H_S201712VOTE01_A6: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201712VOTE01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201712VOTE01_A7: Vinci al quinto piano della torre\ndi allenamento.
+MID_MISSION_S201712VOTE01_A8: Torre: vinci all'8º piano
+MID_MISSION_H_S201712VOTE01_A8: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201712VOTE01_A9: Arena: vinci duelli
+MID_MISSION_H_S201712VOTE01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712VOTE01_A10: Arena: vinci duelli
+MID_MISSION_H_S201712VOTE01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201712VOTE01_A11: Arena: vinci duelli int.+
+MID_MISSION_H_S201712VOTE01_A11: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201712VOTE01_A12: Arena: vinci duelli int.+
+MID_MISSION_H_S201712VOTE01_A12: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201712VOTE01_A13: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A13: Vinci una battaglia nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201712VOTE01_A14: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A14: Vinci una battaglia nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201712VOTE01_A15: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A15: Vinci una battaglia nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201712VOTE01_A16: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A16: Vinci una battaglia nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MID_MISSION_S201712VOTE01_A17: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A17: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201712VOTE01_A18: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A18: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201712VOTE01_A19: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A19: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201712VOTE01_A20: Sfida ai voti
+MID_MISSION_H_S201712VOTE01_A20: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MEID_ラウアマムクート: Manakete rosso
+MEID_ブラーマムクート: Manakete blu
+MEID_グルンマムクート: Manakete verde
+MEID_ソードドラゴン: Drago spada
+MEID_ランスドラゴン: Drago lancia
+MEID_アクスドラゴン: Drago ascia
+MEID_H_ラウアマムクート: Un manakete di tipo rosso.\nPuò trasformarsi in un drago\ndurante la battaglia.
+MEID_H_ブラーマムクート: Un manakete di tipo blu.\nPuò trasformarsi in un drago\ndurante la battaglia.
+MEID_H_グルンマムクート: Un manakete di tipo verde.\nPuò trasformarsi in un drago\ndurante la battaglia.
+MEID_H_ソードドラゴン: Cavaliere viverna con una spada.\nVola sopra fiumi e montagne.\nVulnerabile agli archi.
+MEID_H_ランスドラゴン: Cavaliere viverna con una lancia.\nVola sopra fiumi e montagne.\nVulnerabile agli archi.
+MEID_H_アクスドラゴン: Cavaliere viverna con un'ascia.\nVola sopra fiumi e montagne.\nVulnerabile agli archi.
+MEID_スルト: Surtr
+MEID_レーヴァテイン: Laevatein
+MEID_ロキ: Loki
+MPID_スルト: Surtr
+MPID_フィヨルム: Fjorm
+MPID_レーヴァテイン: Laevatein
+MPID_ロキ: Loki
+MPID_スリーズ声: Gunnthrá
+MPID_ソレイユ: Soleil
+MPID_シャラ: Rhajat
+MPID_シノノメ: Shiro
+MPID_ジークベルト: Siegbert
+MEID_HONOR_スルト: Il re del fuoco
+MPID_HONOR_フィヨルム: La dama del gelo
+MEID_HONOR_レーヴァテイン: L'acciaio rovente
+MEID_HONOR_ロキ: L'ingannatrice
+MPID_HONOR_ソレイユ: L'adoratrice
+MPID_HONOR_シャラ: La maga oscura
+MPID_HONOR_シノノメ: Il diamante grezzo
+MPID_HONOR_ジークベルト: Il futuro re
+MEID_H_スルト: Re di Múspell, il regno del fuoco. Nelle sue\nvene scorre il sangue del drago del fuoco.\nÈ un sovrano severo il cui desiderio di\nconquista è implacabile.
+MPID_H_フィヨルム: La gentile principessa minore di Nifl, il regno\ndel ghiaccio. Cerca vendetta contro Surtr.
+MEID_H_レーヴァテイン: La principessa minore di Múspell, il regno del\nfuoco. Vede sé stessa e la lama che brandisce\ncome un'entità unica e tiene le sue emozioni\ncostantemente sotto controllo.
+MEID_H_ロキ: È la stratega di Múspell, il regno del fuoco.\nNon fa che ingannare e manipolare la gente.
+MPID_H_ソレイユ: Figlia di Laslow. È allegra e per niente timida,\ne prende le donne forti come suo modello.\nCompare in Fire Emblem Fates.
+MPID_H_シャラ: Figlia di Hayato. Tende a essere\nossessiva e ha un brutto carattere.\nCompare in Fire Emblem Fates.
+MPID_H_シノノメ: Figlio di Ryoma, si addestra con grande\nimpegno. Attivo ed estroverso, è un\nragazzo con cui è facile andare d'accordo.\nCompare in Fire Emblem Fates.
+MPID_H_ジークベルト: Figlio di Xander. Ha ricevuto un'educazione\ndegna di un futuro re. È gentile e serioso.\nCompare in Fire Emblem Fates.
+MEID_VOICE_スルト: —
+MPID_VOICE_フィヨルム: Heather Watson
+MEID_VOICE_レーヴァテイン: Sarah Williams
+MEID_VOICE_ロキ: Erika Ishii
+MPID_VOICE_ソレイユ: Michelle Ruff
+MPID_VOICE_シャラ: Stephanie Sheh
+MPID_VOICE_シノノメ: Kaiji Tang
+MPID_VOICE_ジークベルト: Todd Haberkorn
+MEID_ILLUST_スルト: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_フィヨルム: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_レーヴァテイン: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_ロキ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ソレイユ: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_シャラ: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MPID_ILLUST_シノノメ: Arai Teruko (新井テル子)
+MPID_ILLUST_ジークベルト: Arai Teruko (新井テル子)
+MPID_LEGEND_フィヨルム: Effetto leggendario: acqua\nIncremento alleato: PS +3, Vel +3\n\nSe quest'unità scende in battaglia durante\nla stagione dell'acqua con alleati che hanno\nil Dono dell'acqua, questi alleati ricevono\nquest'effetto leggendario.
+MSID_アーマーキラー2: Sfondacotta
+MSID_アーマーキラー2＋: Sfondacotta+
+MSID_貫きの槍2: Asta falciante
+MSID_貫きの槍2＋: Asta falciante+
+MSID_ハンマー2: Martello falciante
+MSID_ハンマー2＋: Martel. falciante+
+MSID_遠距離防御の弓: Arco difensivo
+MSID_遠距離防御の弓＋: Arco difensivo+
+MSID_ラウアウルフ2: Rubinlupo lesto
+MSID_ラウアウルフ2＋: Rubinlupo lesto+
+MSID_ブラーウルフ2: Turchinlupo lesto
+MSID_ブラーウルフ2＋: Turchinl. lesto+
+MSID_グルンウルフ2: Viridelupo lesto
+MSID_グルンウルフ2＋: Viridelupo lesto+
+MSID_アブゾーブ＋: Assorbimento+
+MSID_フィアー＋: Paura+
+MSID_スロウ＋: Lentezza+
+MSID_グラビティ＋: Gravità+
+MSID_ペイン＋: Dolore+
+MSID_パニック＋: Panico+
+MSID_キャンドル＋: Lume candela+
+MSID_リブロー＋: Lenimento+
+MSID_リカバー＋: Recupero+
+MSID_セインツ＋: Martirio+
+MSID_リバース＋: Riabilitazione+
+MSID_第5迷宮の覇者1: Asso squadra E1
+MSID_第5迷宮の覇者2: Asso squadra E2
+MSID_第5迷宮の覇者3: Asso squadra E3
+MSID_レーヴァテイン: Laevatein
+MSID_レイプト: Leiptr
+MSID_シンモラ: Sinmara
+MSID_セック: Thökk
+MSID_氷の聖鏡: Specchio gelo
+MSID_攻撃守備の絆1: Vincolo Att/Dif 1
+MSID_攻撃守備の絆2: Vincolo Att/Dif 2
+MSID_攻撃守備の絆3: Vincolo Att/Dif 3
+MSID_火薙ぎの剣: Tagliafuoco
+MSID_火薙ぎの剣＋: Tagliafuoco+
+MSID_黒き血の大剣: Spadone scuro
+MSID_白き血の薙刀: Naginata chiaro
+MSID_攻撃守備の応援: Sprone Att/Dif
+MSID_攻撃の指揮1: Tattica Att 1
+MSID_攻撃の指揮2: Tattica Att 2
+MSID_攻撃の指揮3: Tattica Att 3
+MSID_守備の指揮1: Tattica Dif 1
+MSID_守備の指揮2: Tattica Dif 2
+MSID_守備の指揮3: Tattica Dif 3
+MSID_ムスペルの炎: Fuoco di Múspell
+MSID_H_アーマーキラー2: Efficace contro nemici corazzati.
+MSID_H_アーマーキラー2＋: Efficace contro nemici corazzati.
+MSID_H_貫きの槍2: Efficace contro nemici corazzati.
+MSID_H_貫きの槍2＋: Efficace contro nemici corazzati.
+MSID_H_ハンマー2: Efficace contro nemici corazzati.
+MSID_H_ハンマー2＋: Efficace contro nemici corazzati.
+MSID_H_遠距離防御の弓: Efficace contro nemici volanti. Se il nemico\nattacca per primo e usa arco, pugnale, tomo\no bastone, l'unità riceve Dif/Res +6 durante\nlo scontro.
+MSID_H_遠距離防御の弓＋: Efficace contro nemici volanti. Se il nemico\nattacca per primo e usa arco, pugnale, tomo\no bastone, l'unità riceve Dif/Res +6 durante\nlo scontro.
+MSID_H_ラウアウルフ2: Efficace contro nemici a cavallo.
+MSID_H_ラウアウルフ2＋: Efficace contro nemici a cavallo.
+MSID_H_ブラーウルフ2: Efficace contro nemici a cavallo.
+MSID_H_ブラーウルフ2＋: Efficace contro nemici a cavallo.
+MSID_H_グルンウルフ2: Efficace contro nemici a cavallo.
+MSID_H_グルンウルフ2＋: Efficace contro nemici a cavallo.
+MSID_H_アブゾーブ＋: Ripristina un numero di PS pari a metà\ndel danno inflitto. Se l'unità ha attaccato,\nripristina 7 PS agli alleati entro 2 spazi\ndopo lo scontro.
+MSID_H_フィアー＋: Se l'unità ha attaccato, infligge Att -7\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_スロウ＋: Se l'unità ha attaccato, infligge Vel -7\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_グラビティ＋: Se l'unità ha attaccato, il bersaglio e i nemici\nentro 1 spazio dal bersaglio possono muoversi\nmassimo di 1 spazio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_ペイン＋: Infligge PS -10 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro.
+MSID_H_パニック＋: Se l'unità ha attaccato, i bonus del bersaglio\ne dei nemici entro 2 spazi dal bersaglio\ndiventano penalità dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_キャンドル＋: Se l'unità ha attaccato, il bersaglio e i nemici\nentro 2 spazi dal bersaglio non possono\ncontrattaccare dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_リブロー＋: Ripristina PS pari ad Att/2.\nMinimo 8 PS. Rgg: 2.
+MSID_H_リカバー＋: Ripristina PS pari a (Att/2)+10.\nMinimo 15 PS.
+MSID_H_セインツ＋: Il bersaglio riceve PS pari alla metà\ndell'attacco più i danni subiti dall'unità\n(minimo 7 PS), mentre quest’ultima\nguarisce di metà dei danni.
+MSID_H_リバース＋: Ripristina PS pari a (Att/2)-10.\nMinimo 7 PS. Se il bersaglio ha il 50%\no meno dei PS, più la sua salute è bassa,\npiù PS vengono recuperati.
+MSID_H_第5迷宮の覇者1: Conferisce Att +1.
+MSID_H_第5迷宮の覇者2: Conferisce Att +2.
+MSID_H_第5迷宮の覇者3: Conferisce Att +3.
+MSID_H_ソールカティ改: Se l'unità attacca per prima con il 75% o\nmeno dei PS, l'eventuale attacco doppio\navrà luogo prima del contrattacco avversario.
+MSID_H_ジークムント改: Att +4 agli alleati adiacenti all'inizio del turno\nper 1 turno.
+MSID_H_風神弓改: Efficace contro nemici volanti. Se l'unità ha\nalmeno 50% PS, non subisce rallentamenti\ndal terreno (non si applica al terreno\nimpraticabile).
+MSID_H_死神の暗器改: Se l'unità ha attaccato, infligge PS -10\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio e Dif/Res -7 dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_銀の暗器＋改: Se l'unità ha attaccato, infligge Dif/Res -7\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_紫煙の暗器＋改: Se l'unità ha attaccato, Att/Vel/Dif/Res -6\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_盗賊の暗器＋改: Se l'unità ha attaccato, infligge Dif/Res -6\nal bersaglio e ai nemici entro 2 spazi dal\nbersaglio dopo lo scontro durante le loro\nprossime azioni. Dif/Res +6 all'unità\ne agli alleati entro 2 spazi per 1 turno.
+MSID_H_灼熱のブレス＋改: Contro nemici con 2 di Rgg, il danno è\ncalcolato usando Dif o Res del nemico\n(il valore più basso).
+MSID_H_光のブレス＋改: Se l'unità ha attaccato, Att/Vel/Dif/Res +5\nall'unità e agli alleati entro 2 spazi dopo\nlo scontro per 1 turno. Contro nemici con 2\ndi Rgg, il danno è calcolato usando Dif o Res\ndel nemico (il valore più basso).
+MSID_H_闇のブレス＋改: Se l'unità ha attaccato, Att/Vel -7 al bersaglio\ne ai nemici entro 2 spazi dal bersaglio dopo\nlo scontro durante la loro prossima azione.\nContro nemici con 2 di Rgg, il danno è\ncalcolato usando Dif o Res del nemico\n(il valore più basso).
+MSID_H_雷のブレス＋改: Ritarda l'attivazione dell'abilità speciale\n(contatore +1). L'unità può sferrare un\ncontrattacco da qualunque distanza.\nContro nemici con 2 di Rgg, il danno è\ncalcolato usando Dif o Res del nemico\n(il valore più basso).
+MSID_H_ローローの斧＋改: Se l'unità ha attaccato, i bonus del bersaglio\ne dei nemici entro 2 spazi dal bersaglio\ndiventano penalità dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_クライネの弓＋改: Efficace contro i nemici volanti. Se l'unità\nha attaccato, Att/Vel -5 al bersaglio e\nai nemici entro 2 spazi dal bersaglio dopo\nlo scontro durante le loro prossime azioni.
+MSID_H_ベルクトの槍＋改: Se il nemico attacca per primo, Res +7\ndurante lo scontro.
+MSID_H_ニンジンの槍＋改: Se l'unità ha attaccato, recupera 4 PS\ndopo lo scontro.
+MSID_H_ニンジンの斧＋改: Se l'unità ha attaccato, recupera 4 PS\ndopo lo scontro.
+MSID_H_青の卵＋改: Se l'unità ha attaccato, recupera 4 PS\ndopo lo scontro.
+MSID_H_緑の卵＋改: Se l'unità ha attaccato, recupera 4 PS\ndopo lo scontro.
+MSID_H_ファーストバイト＋改: Se l'unità ha attaccato, Dif/Res +5 all'unità\ne agli alleati entro 2 spazi dopo lo scontro\nper 1 turno.
+MSID_H_キューピッドの矢＋改: Efficace contro i nemici volanti. Se l'unità ha\nattaccato, Dif/Res +5 all'unità e agli alleati\nentro 2 spazi dopo lo scontro per 1 turno.
+MSID_H_聖なるブーケ＋改: Se l'unità ha attaccato, Dif/Res +5 all'unità\ne agli alleati entro 2 spazi dopo lo scontro\nper 1 turno.
+MSID_H_貝殻＋改: Se l'unità ha tutti i PS all'inizio dello scontro,\nriceve Att/Vel/Dif/Res +2, ma se ha attaccato\nperde 2 PS dopo lo scontro. Se l'unità ha\nattaccato, Dif/Res -7 al bersaglio e ai nemici\nentro 2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_扇子＋改: Se l'unità attacca per prima, gli alleati\nadiacenti recuperano 7 PS dopo lo scontro.\nSe l'unità ha attaccato, Dif/Res -7\nal bersaglio e ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_骨の弓＋改: Efficace contro i nemici volanti. Se l'unità\nha attaccato, i bonus del bersaglio e dei\nnemici entro 2 spazi dal bersaglio diventano\npenalità dopo lo scontro durante le loro\nprossime azioni.
+MSID_H_ゴーストの魔道書＋改: Se l'unità ha attaccato, i bonus del bersaglio\ne dei nemici entro 2 spazi dal bersaglio\ndiventano penalità dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_差し違えR75: Se l'unità attacca per prima con il 75%\no meno dei PS un nemico in grado\ndi contrattaccare, l'unità esegue\nun attacco doppio.
+MSID_H_追撃攻R90: Se l'unità attacca per prima con il 90% o più\ndei PS, l'unità esegue un attacco doppio.
+MSID_H_追従R50: Se l'unità ha almeno il 50% dei PS,\nsi può spostare accanto a un\nalleato entro 2 spazi.
+MSID_H_奥義ダメージR10: Aumenta il danno inflitto di +10\nall'attivazione dell'abilità speciale.
+MSID_H_反撃抑制R魔: Se il nemico usa la magia, non\npuò contrattaccare.
+MSID_H_強化無効R重装: Se il nemico è corazzato, i suoi bonus\nda abilità come Fortifica o Sprone sono\nannullati nello scontro.
+MSID_H_強化無効R騎馬: Se il nemico è a cavallo, i suoi bonus\nda abilità come Fortifica o Sprone sono\nannullati nello scontro.
+MSID_H_レーヴァテイン: Conferisce Att +3. Aggiunge ai danni inflitti\nla somma di eventuali bonus dell'unità.
+MSID_H_レイプト: L'unità può sferrare un contrattacco da\nqualunque distanza.
+MSID_H_シンモラ: Conferisce Dif +3. PS -20 ai nemici entro 2 spazi\nall'inizio del turno.
+MSID_H_セック: Danni da bastone calcolati come le altre armi.\nIl nemico in un punto cardinale che usa arco,\npugnale, tomo o bastone e con minimo 3 PS\nin meno rispetto all'unità all'inizio del turno\npuò spostarsi massimo di 1 spazio durante\nla sua prossima azione.
+MSID_H_氷の聖鏡: Il danno che l'unità subisce da nemici lontani\n2 spazi è ridotto del 30%. Se l'ab. speciale si\nattiva aggiunge ai danni del seguente attacco\nla somma delle riduzioni al danno subito,\nprovocate da qualsiasi fonte. L'effetto si\nazzera a fine scontro. Abilità non ereditabile.
+MSID_H_攻撃守備の絆1: Att/Dif +3 durante lo scontro se\nl'unità è adiacente a un alleato.
+MSID_H_攻撃守備の絆2: Att/Dif +4 durante lo scontro se\nl'unità è adiacente a un alleato.
+MSID_H_攻撃守備の絆3: Att/Dif +5 durante lo scontro se\nl'unità è adiacente a un alleato.
+MSID_H_火薙ぎの剣: Unità e nemici non possono contrattaccare.
+MSID_H_火薙ぎの剣＋: Unità e nemici non possono contrattaccare.
+MSID_H_黒き血の大剣: Se l'unità attacca per prima, Att/Vel +4\ndurante lo scontro.
+MSID_H_白き血の薙刀: Se il nemico attacca per primo, Att/Dif +4\ndurante lo scontro.
+MSID_H_攻撃守備の応援: Att/Dif +3 a un alleato per 1 turno.
+MSID_H_攻撃の指揮1: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nAtt +2 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_攻撃の指揮2: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nAtt +4 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_攻撃の指揮3: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nAtt +6 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_守備の指揮1: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nDif +2 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_守備の指揮2: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nDif +4 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_守備の指揮3: Se nella squadra ci sono al massimo\n2 unità con lo stesso tipo di movimento,\nDif +6 agli alleati entro 2 spazi all'inizio\ndel turno per 1 turno.
+MSID_H_ムスペルの炎: L'unità non subisce danni.
+MID_CHAPTER_TITLE_C0016: Intermezzo
+MID_CHAPTER_C0016: Il rito delle lame
+MID_STAGE_TITLE_S1601: Intermezzo 1
+MID_STAGE_S1601: Il rito delle lame
+MID_CHAPTER_TITLE_C0201: Libro II, cap. 1
+MID_CHAPTER_C0201: La fiamma
+MID_STAGE_TITLE_S2011: Capitolo 1-1
+MID_STAGE_TITLE_S2012: Capitolo 1-2
+MID_STAGE_TITLE_S2013: Capitolo 1-3
+MID_STAGE_TITLE_S2014: Capitolo 1-4
+MID_STAGE_TITLE_S2015: Capitolo 1-5
+MID_STAGE_S2011: Fiamme eterne
+MID_STAGE_S2012: Monti ardenti
+MID_STAGE_S2013: Si leva il vapore
+MID_STAGE_S2014: Stelle incenerite
+MID_STAGE_S2015: Incantatrice della nebbia
+MID_CHAPTER_TITLE_C0202: Libro II, cap. 2
+MID_CHAPTER_C0202: La dama del gelo
+MID_STAGE_TITLE_S2021: Capitolo 2-1
+MID_STAGE_TITLE_S2022: Capitolo 2-2
+MID_STAGE_TITLE_S2023: Capitolo 2-3
+MID_STAGE_TITLE_S2024: Capitolo 2-4
+MID_STAGE_TITLE_S2025: Capitolo 2-5
+MID_STAGE_S2021: La dama della neve
+MID_STAGE_S2022: Figli della luce
+MID_STAGE_S2023: Figli dell'ombra
+MID_STAGE_S2024: Luce e ombra
+MID_STAGE_S2025: Il re del fuoco
+MID_STAGE_TITLE_SB_0005: 5º assalto
+MID_CHAPTER_ST_C0201: Capitoli 1 e 2
+MID_STAGE_TITLE_ST_S0201: Capitolo 1
+MID_STAGE_TITLE_ST_S0202: Capitolo 2
+MID_STAGE_TITLE_ST_S1202: Capitoli 1 e 2
+MID_STAGE_HONOR_T0021: Battaglia legame
+MID_STAGE_T0021: A. e D.
+MID_STAGE_HONOR_V0141: Effie, la forzuta
+MID_STAGE_V0141: Shingoroid
+MID_STAGE_HONOR_V0142: Ombra sull'iride
+MID_STAGE_V0142: Taroimo
+MID_STAGE_HONOR_V0143: I fascinosi quattro
+MID_STAGE_V0143: Rokumoji
+MID_STAGE_HONOR_V0144: Le leggiadre
+MID_STAGE_V0144: Arayang
+MID_STAGE_HONOR_V0145: Il muro di ferro
+MID_STAGE_V0145: ryo

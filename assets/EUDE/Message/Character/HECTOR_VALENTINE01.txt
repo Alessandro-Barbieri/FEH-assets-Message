@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_VALENTINE01_HOME1: Auch in Eurer Welt gibt es ein\nFestival, bei dem die Zuneigung\ngefeiert wird?$k$pWelche Art von Leuten gewinnt in\nEurer Welt den Wettbewerb?
+MID_HECTOR_VALENTINE01_HOME2: Wenn Ihr mich um Ratschläge\nzu Geschenken fragen wollt,\nverschwendet Ihr Eure Zeit.$k$pWas ich zu diesem Thema zu\nsagen habe, kann man kaum\nals "Ratschläge" bezeichnen.
+MID_HECTOR_VALENTINE01_HOME3: Ich weiß nicht, ob es an diesem\nFest liegt, aber... Verhalten sich\nnicht alle ein bisschen seltsam?
+MID_HECTOR_VALENTINE01_HOME4: In der Stadt gibt es jede Menge\nStände, die Süßigkeiten verkaufen.$k$pAber ehrlich gesagt ist mir eher\nnach einem ordentlichen\nWettbewerb zumute!
+MID_HECTOR_VALENTINE01_HOME5: Eliwood und ich haben früher ständig\nTrainingskämpfe gegeneinander\nbestritten.$k$pEr ist zwar nicht so kräftig wie\nich, aber er hat mir trotzdem\nimmer alles abverlangt!
+MID_HECTOR_VALENTINE01_FRIEND: Ich habe ein Geschenk für Euch\nvon $Nf.$k$pAber wenn Ihr es nicht wollt, kann\nich es gern selbst behalten.
+MID_HECTOR_VALENTINE01_LEVEL1: Der Sieg beim Wettbewerb\nwird mir gehören!
+MID_HECTOR_VALENTINE01_LEVEL2: Ich muss mich trotz des\nTrubels konzentrieren.
+MID_HECTOR_VALENTINE01_LEVEL3: Vielleicht wollte ich\nein wenig zu viel...
+MID_HECTOR_VALENTINE01_SKILL: Ich schulde Euch einen Gefallen.\nAlso, äh... Was wollt Ihr?
+MID_HECTOR_VALENTINE01_JOIN: Ich bin Hector. Hm? Ihr habt mich\ndoch nicht etwa in der Hoffnung\nauf ein Geschenk beschworen?
+MID_HECTOR_VALENTINE01_STRONGEST: Geschenke sind nicht meine Welt,\naber ich weiß, dass ein Geschenk\ngut Dankbarkeit ausdrücken kann.$k$pVielleicht sollte ich auch ein paar\ndavon verteilen...$k$pIch werde etwas für meine Tochter\nLilina und für Eliwood besorgen.$k$pAber ich weiß nie, was ich sagen soll,\nwenn ich ein Geschenk übergebe. Es\nist immer ein bisschen... peinlich...$k$pSagt, $Nu...\nKönnt Ihr mir nicht auf die Sprünge\nhelfen? Ich bin wirklich verzweifelt.$k$pIhr helft mir? Großartig! Ich stehe in\nEurer Schuld. Dann muss ich Euch\nwohl auch ein Geschenk besorgen!
+MID_HECTOR_VALENTINE01_VOICE01: おおっ！
+MID_HECTOR_VALENTINE01_VOICE02: Take this!
+MID_HECTOR_VALENTINE01_VOICE03: うああっ！
+MID_HECTOR_VALENTINE01_VOICE04: What?!
+MID_HECTOR_VALENTINE01_VOICE05: Ich habe ein Geschenk für Euch!
+MID_HECTOR_VALENTINE01_VOICE06: Nehmt das!
+MID_HECTOR_VALENTINE01_VOICE07: Ein Fest für meinen Arm!
+MID_HECTOR_VALENTINE01_VOICE08: Ich bin nicht süß!
+MID_HECTOR_VALENTINE01_VOICE09: Took 'em too lightly...
+MID_HECTOR_VALENTINE01_VOICE10: ははっ！
+MID_HECTOR_VALENTINE01_VOICE11: The name's Hector. Now, where's this tournament I heard about?
+MID_HECTOR_VALENTINE01_VOICE12: Whoa! Hey, what's with you? Don't sneak up on a guy like that!
+MID_HECTOR_VALENTINE01_VOICE13: So, is Eliwood around? I can't relax until we spar.
+MID_HECTOR_VALENTINE01_VOICE14: Just so we're clear... I will not, under any circumstances, allow my daughter to get married! She's not gonna be anybody's bride.
+MID_HECTOR_VALENTINE01_VOICE15: What would I like? Well, I guess… Maybe a bite to eat. Or a good weapon!
+MID_HECTOR_VALENTINE01_VOICE16: Never thought I'd see the day my daughter was giving me presents...
+MID_HECTOR_VALENTINE01_VOICE17: I've never been great at picking out gifts, but I promise I'll keep you safe.
+MID_HECTOR_VALENTINE01_VOICE18: Nice.
+MID_HECTOR_VALENTINE01_VOICE19: What do you want?
+MID_HECTOR_VALENTINE01_VOICE20: You'll make the right choice.

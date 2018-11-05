@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_M_DARK01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_DARK01_HOME1: 世界の平和のために、ね…\nきれいごとばかり口にするな。\n虫唾が走る。
+MID_REFLET_M_DARK01_HOME2: 時空を超えた反動か、\n記憶を遡ろうとすると意識が混濁する…\nくっ、脆い身体だな。
+MID_REFLET_M_DARK01_HOME3: この世界のみんなの幸せのために戦う？\nそれは本当に、君の考えなのかな？\n僕に本当の望みを言ってごらんよ…
+MID_REFLET_M_DARK01_HOME4: 君は人間の割に見所があるね。\n無礼を働かないなら、小間使いくらいには\nしてやってもいいんだよ。
+MID_REFLET_M_DARK01_HOME5: どれだけ儀式を重ねても記憶が戻らない。\n腹立たしいことこの上ないね。\n気晴らしに戦争でも起こしてやろうか…
+MID_REFLET_M_DARK01_FRIEND: $Nfの代わりに\n遊びに来たよ。\nふふふ…　僕は気まぐれでね。
+MID_REFLET_M_DARK01_LEVEL1: ははは！\n薄汚い虫けらどもに！\n力の本当の使い方を教えてあげよう！
+MID_REFLET_M_DARK01_LEVEL2: ふん…\n虫けらを潰すくらい\nこれで十分さ。
+MID_REFLET_M_DARK01_LEVEL3: 人間どもを始末する程度、\n今以上に力をつける必要もないか…
+MID_REFLET_M_DARK01_SKILL: 神にも勝るこの力で\nこの世界にも破滅と絶望を…
+MID_REFLET_M_DARK01_JOIN: 我はギムレー。破滅と絶望の竜。\n相応の敬意を払うなら、君も\n苦しまずに殺してあげるよ。
+MID_REFLET_M_DARK01_STRONGEST: 君は物好きだね。たったひとりで僕と…\n邪竜と世間話したいとでも言うのかい。\n知っているだろうが、人間は嫌いなんだ。$k$p都合の良い時には神威の力を頼り、\nすぐにその恩を忘れ、溺れ、\n学ぶことなく同じ過ちを繰り返す…$k$p誰かのためと言いながら\n私欲を取り繕い、自分だけは\n悪者にならないようにする。$k$p僕は、そんな人間の醜さによって\nより醜悪な存在になったんだよ。$k$p我は、世界から邪悪であることを望まれた。\nそんな僕を、何者かが必要とするだと？\n…ふざけるなよ虫けら！ $k$pそんな顔で我を…　僕を哀れむな…！
+MID_REFLET_M_DARK01_VOICE01: はぁっ！
+MID_REFLET_M_DARK01_VOICE02: 殺すよ
+MID_REFLET_M_DARK01_VOICE03: うああっ！
+MID_REFLET_M_DARK01_VOICE04: 面倒だね…
+MID_REFLET_M_DARK01_VOICE05: 我はギムレー
+MID_REFLET_M_DARK01_VOICE06: 消えるかい？
+MID_REFLET_M_DARK01_VOICE07: 食い殺してあげるよ
+MID_REFLET_M_DARK01_VOICE08: おしまいだよ
+MID_REFLET_M_DARK01_VOICE09: こんな…虫けらに…
+MID_REFLET_M_DARK01_VOICE10: ふふっ
+MID_REFLET_M_DARK01_VOICE11: 我はギムレー。破滅と絶望の竜…
+MID_REFLET_M_DARK01_VOICE12: 僕の体に興味があるのかい？
+MID_REFLET_M_DARK01_VOICE13: 空（そら）を越えた際に…記憶を半ば失ったようだね…
+MID_REFLET_M_DARK01_VOICE14: 妙だな。君には、僕と近しい何かを感じる…
+MID_REFLET_M_DARK01_VOICE15: 僕の記憶を取り戻す手伝いをすれば、命は助けてあげるよ。
+MID_REFLET_M_DARK01_VOICE16: 僕が人間なら…君たちと共に生きられる存在だったなら…
+MID_REFLET_M_DARK01_VOICE17: 僕の半身となるか、それとも死ぬか…選ばせてあげるよ。
+MID_REFLET_M_DARK01_VOICE18: うん
+MID_REFLET_M_DARK01_VOICE19: 誰から殺す？
+MID_REFLET_M_DARK01_VOICE20: 選ばせてあげよう。

@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN_HOME1: Le prince Alfonse et la princesse\nSharena ont l'air de bien s'entendre.\nÇa me rassure.
+MID_OLWEN_HOME2: Mon frère, Reinhardt, est\nabsolument redoutable sur\nle champ de bataille.$k$pCertains disent même qu'il est la\nréincarnation d'un des plus grands\ncroisés que notre monde ait connu.
+MID_OLWEN_HOME3: La magie vous intrigue ? Je peux\nvous entraîner, j'ai quelques\nconnaissances dans le domaine.
+MID_OLWEN_HOME4: Mon frère et moi sommes déterminés\nà suivre nos voies respectives...\nmême si cela fait de nous des ennemis.
+MID_OLWEN_HOME5: Les enfants sont notre trésor le plus\nprécieux. Il faut les chérir car le temps\nvenu, ils bâtiront le monde de demain.\n
+MID_OLWEN_FRIEND: Je m'appelle Olwen.\n$Nf vous fait\npart de ses salutations.
+MID_OLWEN_LEVEL1: C'est merveilleux !
+MID_OLWEN_LEVEL2: Bien, mais je suis encore loin\nd'égaler mon frère.
+MID_OLWEN_LEVEL3: Comment ?! Je ne m'en remettrai\njamais...
+MID_OLWEN_SKILL: J'en ferai bon usage pour vous rendre\n$Gfier,fière|.
+MID_OLWEN_JOIN: Je m'appelle Olwen, permettez-moi\nde rejoindre vos rangs. Ce serait un\nhonneur, croyez-moi.
+MID_OLWEN_STRONGEST: Mon frère est un être remarquable,\nil a toujours su être là pour moi. Avec\nlui, je me sentais à l'abri du danger.$k$pCependant, il a un jour fallu que\nj'apprenne à vivre sans lui, et à\ntrouver ma propre voie.$k$pÇa n'a pas été facile, loin de là.\nParfois j'ai même senti que je\nn'y arriverais jamais.$k$pEn vous rejoignant, j'ai pu observer\ncomment vous trouviez toujours une\nsolution, quel que soit le problème.$k$pVous êtes une source d'inspiration\npour moi, et...$k$pJ'aimerais rester à vos côtés\nencore quelques temps, si vous\nle voulez bien.
+MID_OLWEN_VOICE01: はっ！
+MID_OLWEN_VOICE02: せいっ！
+MID_OLWEN_VOICE03: きゃああっ！
+MID_OLWEN_VOICE04: How cowardly...
+MID_OLWEN_VOICE05: Ordure !
+MID_OLWEN_VOICE06: Pas de pitié !
+MID_OLWEN_VOICE07: Je les protégerai !
+MID_OLWEN_VOICE08: Je vous arrêterai !
+MID_OLWEN_VOICE09: Not here...
+MID_OLWEN_VOICE10: huhu
+MID_OLWEN_VOICE11: I thank you deeply for giving me your time.
+MID_OLWEN_VOICE12: Aaah! Ha ha! I scare easily, I guess.
+MID_OLWEN_VOICE13: I'm sometimes at a loss about how to proceed.
+MID_OLWEN_VOICE14: Children should be happy. I will always fight to keep their smiles bright.
+MID_OLWEN_VOICE15: Where should I even begin, expressing my thoughts?
+MID_OLWEN_VOICE16: If ever my brother stands in my way? Well, I will do what I must.
+MID_OLWEN_VOICE17: I would like to fight on the side of good, for as long as goodness will have me.
+MID_OLWEN_VOICE18: OK.
+MID_OLWEN_VOICE19: Yes?
+MID_OLWEN_VOICE20: Onward.

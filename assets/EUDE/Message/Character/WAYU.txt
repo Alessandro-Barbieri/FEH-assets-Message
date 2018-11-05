@@ -1,0 +1,38 @@
+[Heroes Archive] (WAYU)
+
+
+Heroes Message Name: Message
+
+
+MID_WAYU_HOME1: Hallo, $Nu.\nMöchtest du dich vielleicht duellieren?\nIm Morgengrauen vielleicht?$k$pIch liebe Duelle im Morgengrauen!
+MID_WAYU_HOME2: Ich habe mich Greils Söldnern\nangeschlossen, nachdem Greil mich\naus einer Gefangenschaft befreit hat.
+MID_WAYU_HOME3: Es gibt keine bessere Aufheiterung\nals ein schönes Übungsduell! Man\nbewegt sich, schwitzt...$k$pUnd bevor man sich versieht, fühlt\nman sich wie neugeboren!
+MID_WAYU_HOME4: He! Soll ich für dich weissagen? Hm?\nIch wirke nicht wie jemand, der sich\nfür so etwas interessiert?$k$pNa schön! Ich ziehe das Angebot\nzurück!
+MID_WAYU_HOME5: Ich kann es kaum erwarten, dass\nsich meine Wahrsagung erfüllt.\nHabe ich dir davon erzählt?$k$p"Mit weißem, wehendem Gewande\nreitet Euch Euer Erzfeind entgegen."\nKlingt aufregend, oder?!
+MID_WAYU_FRIEND: Da bist du ja! Du bist\n$Nu, oder?$k$p$Nf lässt\nGrüße ausrichten!
+MID_WAYU_LEVEL1: Ich fühle mich großartig! Lass\nuns weitermachen!
+MID_WAYU_LEVEL2: Nicht schlecht... Der Umgang mit\ndem Schwert ist nicht einfach.
+MID_WAYU_LEVEL3: Ich schätze, ich muss meine\nFähigkeiten noch verbessern.
+MID_WAYU_SKILL: Ihr glaubt also, dass ich gut\ngenug bin? Schön!
+MID_WAYU_JOIN: Ich bin Mia, von Greils Söldnern. Ich\nbin ein holder Sturmwind singenden\nStahls! Und ich werde es beweisen!
+MID_WAYU_STRONGEST: Hallo, Boss! Es muss mein Glückstag\nsein, dass ich dir jetzt begegne.\nDiesmal müssen wir einfach üben!$k$pIch dulde keine Widerrede! Ich bringe\ndir bei, wie man ein Schwert hält, und\ndu zeigst mir Taktiken und so.$k$pIch habe dich im Auge behalten, seit\ndu mich mit deinen Taktiken besiegt\nhast.$k$pIch möchte selbst stärker werden,\naber ich brauche auch einen\nErzrivalen, der mit mir wächst.$k$pWir würden üben, uns gegenseitig im\nKampf zu besiegen, und dadurch\neine stärkere Bindung eingehen.$k$pUnd dann kommt der entscheidende\nKampf! Kannst du dir etwas noch\nAufregenderes vorstellen?$k$pIch wusste, du würdest zustimmen,\nBoss! Also, legen wir los! Keine\nSorge, ich schone dich... vorerst!
+MID_WAYU_VOICE01: ええいっ！
+MID_WAYU_VOICE02: よーし！
+MID_WAYU_VOICE03: きゃああっ！
+MID_WAYU_VOICE04: ま、まだまだぁ！
+MID_WAYU_VOICE05: Heute ist ein guter Tag!
+MID_WAYU_VOICE06: Ihr seid dran!
+MID_WAYU_VOICE07: Nehmt dies, Feind!
+MID_WAYU_VOICE08: Kämpft gegen mich!
+MID_WAYU_VOICE09: I've been beaten?
+MID_WAYU_VOICE10: Ahaha
+MID_WAYU_VOICE11: Heya, Boss! For some reason, I get the feeling there's something special about you...
+MID_WAYU_VOICE12: Ack! You scared me! Hah, sneaking up behind me like that... You're a crafty one!
+MID_WAYU_VOICE13: Want to spar for a bit?
+MID_WAYU_VOICE14: Never mind the details! I'm counting on you, so just keep going!
+MID_WAYU_VOICE15: What if my grand archrival...turned out to be you?!
+MID_WAYU_VOICE16: If I lose today, I'll train harder and win tomorrow. And if I lose tomorrow, I'll train even harder for the next day...
+MID_WAYU_VOICE17: You know what, Boss? I like you. So let's keep this good thing going.
+MID_WAYU_VOICE18: Yeah!
+MID_WAYU_VOICE19: Can't wait!
+MID_WAYU_VOICE20: Let's go!

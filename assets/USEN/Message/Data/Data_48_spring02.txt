@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: Earth Blessing
+MID_MISSION_S201803BLESS01_A1: KO w/Earth Blessed Hero
+MID_MISSION_H_S201803BLESS01_A1: Defeat a foe using a Hero that has the\nEarth Blessing conferred on them.\n(Note: This is not an earth-type Legendary Hero.)
+MID_MISSION_S201803BLESS01_A2: KO w/Earth Blessed Hero
+MID_MISSION_H_S201803BLESS01_A2: Defeat a level 20+ foe using a Hero that has\nthe Earth Blessing conferred on them.\n(Note: This is not an earth-type Legendary Hero.)
+MID_MISSION_S201803BLESS01_A3: KO w/Earth Blessed Hero
+MID_MISSION_H_S201803BLESS01_A3: Defeat a level 35+ red foe using a Hero that\nhas the Earth Blessing conferred on them.\n(Note: This is not an earth-type Legendary Hero.)
+MID_MISSION_S201803BLESS01_A4: KO w/Earth Blessed Hero
+MID_MISSION_H_S201803BLESS01_A4: Defeat a level 35+ blue foe using a Hero that\nhas the Earth Blessing conferred on them.\n(Note: This is not an earth-type Legendary Hero.)
+MID_MISSION_S201803BLESS01_A5: KO w/Earth Blessed Hero
+MID_MISSION_H_S201803BLESS01_A5: Defeat a level 35+ green foe using a Hero that\nhas the Earth Blessing conferred on them.\n(Note: This is not an earth-type Legendary Hero.)
+MID_MISSION_S201803BLESS01_A6: Tower: 1st Stratum
+MID_MISSION_H_S201803BLESS01_A6: Clear the First Stratum of the Training Tower\nusing a Hero that has the Earth Blessing\nconferred on them. (Note: This is not an earth-\ntype Legendary Hero.)
+MID_MISSION_S201803BLESS01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201803BLESS01_A7: Clear the Fifth Stratum of the Training Tower\nusing a Hero that has the Earth Blessing\nconferred on them. (Note: This is not an earth-\ntype Legendary Hero.)
+MID_MISSION_S201803BLESS01_A8: Tower: 10th Stratum
+MID_MISSION_H_S201803BLESS01_A8: Clear the Tenth Stratum of the Training Tower\nusing a Hero that has the Earth Blessing\nconferred on them. (Note: This is not an earth-\ntype Legendary Hero.)
+MID_MISSION_S201803KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201803KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201803KIZUNA01_A1: With Anna on your team, clear the Bound\nHero Battle against Ninian & Hawkeye.
+MID_MISSION_S201803KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201803KIZUNA01_A2: With Alfonse: Prince of Askr on your team,\nclear the Bound Hero Battle against Ninian\n& Hawkeye on Lunatic or higher.
+MID_MISSION_S201803KIZUNA01_A3: Defeat Ninian
+MID_MISSION_H_S201803KIZUNA01_A3: Defeat level 40 or higher Ninian with Anna.
+MID_MISSION_S201803KIZUNA01_A4: Defeat Hawkeye
+MID_MISSION_H_S201803KIZUNA01_A4: Defeat level 40 or higher Hawkeye with\nAlfonse: Prince of Askr.
+MID_MISSION_S201803KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201803KIZUNA01_A5: Win the Bound Hero Battle against Ninian\n& Hawkeye on Lunatic or higher with an\nall-cavalry team.
+MID_MISSION_S201803SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201803SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201803SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201803SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201803SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201803SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803STORY02_TITLE: Hares at the Fair
+MID_MISSION_S201803STORY02_A1: Clear P19-1 on Lunatic
+MID_MISSION_H_S201803STORY02_A1: Clear Paralogue 19: Part 1 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201803STORY02_A2: Clear P19-2 on Lunatic
+MID_MISSION_H_S201803STORY02_A2: Clear Paralogue 19: Part 2 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201803STORY02_A3: Clear P19-3 on Lunatic
+MID_MISSION_H_S201803STORY02_A3: Clear Paralogue 19: Part 3 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201803TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201803TAPBTL01_D01_A1: Defeat Boss
+MID_MISSION_H_S201803TAPBTL01_D01_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D01_A2: Clear Stage
+MID_MISSION_H_S201803TAPBTL01_D01_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201803TAPBTL01_D02_A1: Defeat Boss
+MID_MISSION_H_S201803TAPBTL01_D02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D02_A2: Clear Stage
+MID_MISSION_H_S201803TAPBTL01_D02_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201803TAPBTL01_D03_A1: Defeat Boss
+MID_MISSION_H_S201803TAPBTL01_D03_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D03_A2: Clear Stage
+MID_MISSION_H_S201803TAPBTL01_D03_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201803TAPBTL01_D04_A1: Defeat Boss
+MID_MISSION_H_S201803TAPBTL01_D04_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL01_D04_A2: Clear Stage
+MID_MISSION_H_S201803TAPBTL01_D04_A2: Clear a stage in Tap Battle.
+MID_MISSION_S201803TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201803TAPBTL02_A1: Defeat Boss
+MID_MISSION_H_S201803TAPBTL02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL02_A2: Defeat Boss
+MID_MISSION_H_S201803TAPBTL02_A2: Defeat a boss in Tap Battle.
+MID_MISSION_S201803TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201803TAPBTL02_A3: Clear a stage in Tap Battle.
+MPID_春祭アルフォンス: Alfonse
+MPID_春祭カゲロウ: Kagero
+MPID_春祭カチュア: Catria
+MPID_春祭シャロン: Sharena
+MPID_HONOR_春祭アルフォンス: Spring Prince
+MPID_HONOR_春祭カゲロウ: Spring Ninja
+MPID_HONOR_春祭カチュア: Spring Whitewing
+MPID_HONOR_春祭シャロン: Spring Princess
+MPID_H_春祭アルフォンス: A prince of Askr who's kind and serious.\nHe's taking part in the spring festival as a\nmember of the Order of Heroes.
+MPID_H_春祭カゲロウ: One of Ryoma's retainers, and a ninja of Hoshido.\nShe was given the mission to participate in the\nSpring Festival, and she's fulfilling that duty.\nAppears in Fire Emblem Fates.
+MPID_H_春祭カチュア: Middle of three sisters who are pegasus knights\nfor Macedon. She takes her duty to participate\nin the Spring Festival seriously. Appears in Fire\nEmblem: Mystery of the Emblem.
+MPID_H_春祭シャロン: Princess of Askr and Alfonse's younger sister.\nShe cajoled her brother into participating\nin the Spring Festival with her.
+MPID_VOICE_春祭アルフォンス: Ray Chase
+MPID_VOICE_春祭カゲロウ: Sarah Blandy
+MPID_VOICE_春祭カチュア: Connor Kelley
+MPID_VOICE_春祭シャロン: Julie Kliewer
+MPID_ILLUST_春祭アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_春祭シャロン: Kozaki Yusuke (コザキユースケ)
+MSID_ビッグスプーン: Giant Spoon
+MSID_ビッグスプーン＋: Giant Spoon+
+MSID_ベビーキャロット: Lethal Carrot
+MSID_ベビーキャロット＋: Lethal Carrot+
+MSID_フギンの魔卵: Huginn's Egg
+MSID_ムニンの魔卵: Muninn's Egg
+MSID_飛燕の構え1: Darting Stance 1
+MSID_飛燕明鏡の構え1: Swift Stance 1
+MSID_飛燕明鏡の構え2: Swift Stance 2
+MSID_速さ魔防の絆1: Spd/Res Bond 1
+MSID_速さ魔防の絆2: Spd/Res Bond 2
+MSID_速さ魔防の絆3: Spd/Res Bond 3
+MSID_魔防の封印1: Chill Res 1
+MSID_魔防の封印2: Chill Res 2
+MSID_魔防の封印3: Chill Res 3
+MSID_守備の紫煙1: Def Smoke 1
+MSID_守備の紫煙2: Def Smoke 2
+MSID_守備の紫煙3: Def Smoke 3
+MSID_H_ビッグスプーン: Deals +10 damage when\nSpecial triggers.
+MSID_H_ビッグスプーン＋: Deals +10 damage when\nSpecial triggers.
+MSID_H_ベビーキャロット: Deals +10 damage when Special\ntriggers. After combat, if unit attacked,\ninflicts Def/Res-5 on target and foes\nwithin 2 spaces of target through their\nnext actions.
+MSID_H_ベビーキャロット＋: Deals +10 damage when Special\ntriggers. After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes\nwithin 2 spaces of target through their\nnext actions.
+MSID_H_フギンの魔卵: Grants Res+3. At start of turn, if unit's\nHP ≥ 50%, inflicts Atk/Def-5 on foe\non the enemy team with the lowest Res\nthrough its next action.
+MSID_H_ムニンの魔卵: Grants Res+3. At start of turn, if unit's\nHP ≥ 50%, inflicts Atk/Res-5 on foe\non the enemy team with the lowest Spd\nthrough its next action.
+MSID_H_飛燕の構え1: If foe initiates combat, grants Spd+2 during\ncombat.
+MSID_H_飛燕明鏡の構え1: If foe initiates combat, grants Spd/Res+2 during\ncombat.
+MSID_H_飛燕明鏡の構え2: If foe initiates combat, grants Spd/Res+4 during\ncombat.
+MSID_H_速さ魔防の絆1: If unit is adjacent to an ally, grants Spd/Res+3\nduring combat.
+MSID_H_速さ魔防の絆2: If unit is adjacent to an ally, grants Spd/Res+4\nduring combat.
+MSID_H_速さ魔防の絆3: If unit is adjacent to an ally, grants Spd/Res+5\nduring combat.
+MSID_H_魔防の封印1: At start of turn, inflicts Res-3 on foe\non the enemy team with the highest\nRes through its next action.
+MSID_H_魔防の封印2: At start of turn, inflicts Res-5 on foe\non the enemy team with the highest\nRes through its next action.
+MSID_H_魔防の封印3: At start of turn, inflicts Res-7 on foe\non the enemy team with the highest\nRes through its next action.
+MSID_H_守備の紫煙1: Inflicts Def-3 on foes within 2 spaces of target\nthrough their next actions after combat.
+MSID_H_守備の紫煙2: Inflicts Def-5 on foes within 2 spaces of target\nthrough their next actions after combat.
+MSID_H_守備の紫煙3: Inflicts Def-7 on foes within 2 spaces of target\nthrough their next actions after combat.
+MID_CHAPTER_TITLE_CX018: Paralogue 19
+MID_CHAPTER_CX018: Hares at the Fair
+MID_STAGE_TITLE_X0181: Paralogue 19-1
+MID_STAGE_TITLE_X0182: Paralogue 19-2
+MID_STAGE_TITLE_X0183: Paralogue 19-3
+MID_STAGE_X0181: The Hare Pair
+MID_STAGE_X0182: Duty-Bound Bunnies
+MID_STAGE_X0183: Rabbiting On
+MID_TAP_BATTLE_DATA_TITLE_0002: Shadowed Memories
+MID_MUSIC_NAME_BGM_MAP_FE12_01: Advance
+MID_MUSIC_NAME_BGM_MAP_FE07_01: Precious Things
+MID_MUSIC_NAME_BGM_MAP_FE15_05: Twilight of the Gods

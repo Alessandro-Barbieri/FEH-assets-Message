@@ -1,0 +1,38 @@
+[Heroes Archive] (RONKUU)
+
+
+Heroes Message Name: Message
+
+
+MID_RONKUU_HOME1: I hope to truly master the\nsword...but something might\nbe throwing off my hand.$k$pMaybe if I...steadied myself\naround women, that would\ndo the trick.
+MID_RONKUU_HOME2: Before becoming a Shepherd, I was\nright hand to Basilio, West-Khan\nof Regna Ferox.
+MID_RONKUU_HOME3: If you are too busy, I can patrol in\nyour stead.
+MID_RONKUU_HOME4: Would you care to spar? If you\nhave no combat training, you could\nalways throw rocks at me.
+MID_RONKUU_HOME5: I was just sharpening my sword.\nIf it won't work when I need it,\nthen that will be the end of me.
+MID_RONKUU_FRIEND: I think you're the one I was\nsent here to find. You know\n$Nf, yes?$k$pI'm here to deliver a hello. Now\nthat I have, I will leave.
+MID_RONKUU_LEVEL1: This is only the start of what\nI can do.
+MID_RONKUU_LEVEL2: ...Good.
+MID_RONKUU_LEVEL3: The path to mastering the\nsword is a lonely one.
+MID_RONKUU_SKILL: Being granted power instead of\nslowly earning it...isn't so bad.
+MID_RONKUU_JOIN: I'm Lon'qu, a swordsman from\nRegna Ferox. And...that's all\nthere is to know about me.
+MID_RONKUU_STRONGEST: You're here again. Why? What\nhave I done to deserve this\nattention?$k$pI have no wealth, no power.\nNothing but my skills as a\nswordsman.$k$pWhat? You value my presence?\nYou find my help...reassuring?$k$pNo one has ever said that to\nme before, but I am glad my\npresence gives you strength.$k$pUnderstood. I shall be your\nbodyguard, then.$k$pI will stay by your side for as long\nas you want me.
+MID_RONKUU_VOICE01: はっ！
+MID_RONKUU_VOICE02: せいっ！
+MID_RONKUU_VOICE03: くっ…！
+MID_RONKUU_VOICE04: Damn...
+MID_RONKUU_VOICE05: No hard feelings.
+MID_RONKUU_VOICE06: Be silent!
+MID_RONKUU_VOICE07: You're no challenge.
+MID_RONKUU_VOICE08: Give up.
+MID_RONKUU_VOICE09: ...Ugh...
+MID_RONKUU_VOICE10: Heh.
+MID_RONKUU_VOICE11: I, um, have trouble speaking to women.
+MID_RONKUU_VOICE12: Did you need something?
+MID_RONKUU_VOICE13: You're distracting me from my training.
+MID_RONKUU_VOICE14: Before coming here, I was the West-Khan's right-hand man...
+MID_RONKUU_VOICE15: Don't come to me for conversation.
+MID_RONKUU_VOICE16: The path to mastering the sword is a lonely one...
+MID_RONKUU_VOICE17: Why would you want to talk to me?
+MID_RONKUU_VOICE18: Yes.
+MID_RONKUU_VOICE19: Let's go.
+MID_RONKUU_VOICE20: Orders?

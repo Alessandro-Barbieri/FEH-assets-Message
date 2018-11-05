@@ -1,0 +1,152 @@
+[Heroes Archive] (Data_502_legend04)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201805A_TITLE: May Quests (1)
+MID_MISSION_M201805A_A1: KO Foes w/Red
+MID_MISSION_H_M201805A_A1: Use red-type allies to defeat foes.
+MID_MISSION_M201805A_A2: KO Foes w/Fliers
+MID_MISSION_H_M201805A_A2: Use flying allies to defeat foes.
+MID_MISSION_M201805A_A3: KO Blue Foes
+MID_MISSION_H_M201805A_A3: Defeat blue-type foes.
+MID_MISSION_M201805A_A4: KO Cavalry Foes
+MID_MISSION_H_M201805A_A4: Defeat cavalry foes.
+MID_MISSION_M201805A_A5: Win Arena Duels
+MID_MISSION_H_M201805A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201805A_A6: KO Lvl. 20+ Foes w/Green
+MID_MISSION_H_M201805A_A6: Defeat foes that are level 20 or higher with\ngreen-type allies.
+MID_MISSION_M201805A_A7: KO Lvl. 20+ Foes w/Cav.
+MID_MISSION_H_M201805A_A7: Defeat foes that are level 20 or higher with\ncavalry allies.
+MID_MISSION_M201805A_A8: KO Lvl. 20+ Red Foes
+MID_MISSION_H_M201805A_A8: Defeat red-type foes that are level 20 or higher.
+MID_MISSION_M201805A_A9: KO Lvl. 20+ Flier Foes
+MID_MISSION_H_M201805A_A9: Defeat flying foes that are level 20 or higher.
+MID_MISSION_M201805A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201805A_A10: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_M201805A_A11: KO Lvl. 35+ Foes w/Blue
+MID_MISSION_H_M201805A_A11: Defeat foes that are level 35 or higher with\nblue-type allies.
+MID_MISSION_M201805A_A12: KO Lvl. 35+ Foes w/Inf.
+MID_MISSION_H_M201805A_A12: Defeat foes that are level 35 or higher with\ninfantry allies.
+MID_MISSION_M201805A_A13: KO Lvl. 35+ Green Foes
+MID_MISSION_H_M201805A_A13: Defeat green-type foes that are level 35 or\nhigher.
+MID_MISSION_M201805A_A14: KO Lvl. 35+ Infantry Foes
+MID_MISSION_H_M201805A_A14: Defeat infantry foes that are level 35 or higher.
+MID_MISSION_M201805A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201805A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201805B_TITLE: May Quests (2)
+MID_MISSION_M201805B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201805B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201805B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201805B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201805B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201805B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201805B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201805B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201805B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201805B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201805B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201805B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201805B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201805B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201805B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201805B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201805B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201805B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201805B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201805C_TITLE: May Quests (3)
+MID_MISSION_M201805C_A1: Clear 2-1
+MID_MISSION_H_M201805C_A1: Clear Chapter 2: Part 1. All four allies must\nsurvive.
+MID_MISSION_M201805C_A2: Clear 2-2
+MID_MISSION_H_M201805C_A2: Clear Chapter 2: Part 2 with a red-type ally on\nyour team. All four allies must survive.
+MID_MISSION_M201805C_A3: Clear 2-3
+MID_MISSION_H_M201805C_A3: Clear Chapter 2: Part 3 with a blue-type ally on\nyour team. All four allies must survive.
+MID_MISSION_M201805C_A4: Clear 2-4
+MID_MISSION_H_M201805C_A4: Clear Chapter 2: Part 4 with a green-type ally\non your team. All four allies must survive.
+MID_MISSION_M201805C_A5: Clear 2-5
+MID_MISSION_H_M201805C_A5: Clear Chapter 2: Part 5 with a colorless-type\nally on your team. All four allies must survive.
+MID_MISSION_M201805C_A6: Clear 5-1 on Hard
+MID_MISSION_H_M201805C_A6: Clear Chapter 5: Part 1 on Hard or higher\ndifficulty. All four allies must survive.
+MID_MISSION_M201805C_A7: Clear 5-2 on Hard
+MID_MISSION_H_M201805C_A7: Clear Chapter 5: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201805C_A8: Clear 5-3 on Hard
+MID_MISSION_H_M201805C_A8: Clear Chapter 5: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201805C_A9: Clear 5-4 on Hard
+MID_MISSION_H_M201805C_A9: Clear Chapter 5: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201805C_A10: Clear 5-5 on Hard
+MID_MISSION_H_M201805C_A10: Clear Chapter 5: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201805C_A11: Clear 8-1 on Lunatic
+MID_MISSION_H_M201805C_A11: Clear Chapter 8: Part 1 on Lunatic difficulty.\nAll four allies must survive.
+MID_MISSION_M201805C_A12: Clear 8-2 on Lunatic
+MID_MISSION_H_M201805C_A12: Clear Chapter 8: Part 2 on Lunatic difficulty\nwith a red-type ally on your team. All four\nallies must survive.
+MID_MISSION_M201805C_A13: Clear 8-3 on Lunatic
+MID_MISSION_H_M201805C_A13: Clear Chapter 8: Part 3 on Lunatic difficulty\nwith a blue-type ally on your team. All four allies\nmust survive.
+MID_MISSION_M201805C_A14: Clear 8-4 on Lunatic
+MID_MISSION_H_M201805C_A14: Clear Chapter 8: Part 4 on Lunatic difficulty\nwith a green-type ally on your team. All four\nallies must survive.
+MID_MISSION_M201805C_A15: Clear 8-5 on Lunatic
+MID_MISSION_H_M201805C_A15: Clear Chapter 8: Part 5 on Lunatic difficulty\nwith a colorless-type ally on your team. All four\nallies must survive.
+MID_MISSION_S201804DAISEIATU02_TITLE: Grand Conquests
+MID_MISSION_S201804DAISEIATU02_A1: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU02_A1: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU02_A2: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU02_A2: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU02_A3: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU02_A3: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU02_A4: Tower: Second Stratum
+MID_MISSION_H_S201804DAISEIATU02_A4: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201804DAISEIATU02_A5: Tower: Eighth Stratum
+MID_MISSION_H_S201804DAISEIATU02_A5: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201804DAISEIATU02_A6: Win Arena Duels
+MID_MISSION_H_S201804DAISEIATU02_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201804DAISEIATU02_GW_TITLE: GC: Golden Week
+MID_MISSION_S201804DAISEIATU02_GW_A1: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU02_GW_A1: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU02_GW_A2: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU02_GW_A2: Earn points in Grand Conquests.
+MID_MISSION_S201805CHARA01_TITLE: Three Heroes
+MID_MISSION_S201805CHARA01_A1: KO Foe
+MID_MISSION_H_S201805CHARA01_A1: Defeat a foe.
+MID_MISSION_S201805CHARA01_A2: KO with Tiki
+MID_MISSION_H_S201805CHARA01_A2: Use Tiki: Naga's Voice to defeat a foe.
+MID_MISSION_S201805CHARA01_A3: KO with Gaius
+MID_MISSION_H_S201805CHARA01_A3: Use Gaius: Candy Stealer to defeat a foe.
+MID_MISSION_S201805CHARA01_B1: KO Level 20+ Foe
+MID_MISSION_H_S201805CHARA01_B1: Use Tiki: Naga's Voice to defeat a level 20 or\nhigher foe.
+MID_MISSION_S201805CHARA01_B2: KO Level 20+ Foe
+MID_MISSION_H_S201805CHARA01_B2: Use Gaius: Candy Stealer to defeat a level 20\nor higher foe.
+MID_MISSION_S201805CHARA01_B3: KO Level 20+ Foe
+MID_MISSION_H_S201805CHARA01_B3: Use Gunter to defeat a level 20 or higher\nfoe.
+MID_MISSION_S201805CHARA01_C1: KO Level 35+ Foe
+MID_MISSION_H_S201805CHARA01_C1: Use Tiki: Naga's Voice to defeat a level 35 or\nhigher foe.
+MID_MISSION_S201805CHARA01_C2: KO Level 35+ Foe
+MID_MISSION_H_S201805CHARA01_C2: Use Gaius: Candy Stealer to defeat a level 35\nor higher foe.
+MID_MISSION_S201805CHARA01_C3: KO Level 35+ Foe
+MID_MISSION_H_S201805CHARA01_C3: Use Gunter to defeat a level 35 or higher\nfoe.
+MPID_伝承リン: Lyn
+MPID_HONOR_伝承リン: Lady of the Wind
+MPID_H_伝承リン: Noblewoman of Caelin whose true name is\nLyndis. Legends say she once secretly helped\nsave a continent from disaster. Appears in\nFire Emblem: The Blazing Blade.
+MPID_VOICE_伝承リン: Wendee Lee
+MPID_ILLUST_伝承リン: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承リン: Legendary Effect: Wind\nAlly Boost: HP+3, Atk+2\n\nGrants allies this Legendary Effect\nduring Wind season, if the Wind\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_疾弓ミュルグレ: Swift Mulagir
+MSID_サカの掟: Laws of Sacae
+MSID_速さの指揮1: Spd Tactic 1
+MSID_速さの指揮2: Spd Tactic 2
+MSID_速さの指揮3: Spd Tactic 3
+MSID_H_疾弓ミュルグレ: Effective against flying foes. Grants Res+3.\nIf the number of allies within 2 spaces\n(excluding unit) > the number of foes\nwithin 2 spaces (excluding target), grants\nAtk/Spd+5 during combat.
+MSID_H_サカの掟: If foe initiates combat and the number\nof allies within 2 spaces ≥ 2, grants\nAtk/Spd/Def/Res+4 during combat.
+MSID_H_速さの指揮1: At start of turn, grants Spd+2 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_速さの指揮2: At start of turn, grants Spd+4 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_速さの指揮3: At start of turn, grants Spd+6 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MID_STAGE_HONOR_L0002: Lady of the Wind
+MID_STAGE_L0002: Lyn

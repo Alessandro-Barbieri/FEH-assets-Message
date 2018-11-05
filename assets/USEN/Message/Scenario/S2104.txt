@@ -1,0 +1,8 @@
+[Heroes Archive] (S2104)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_カアラ,ch03_19_Karla_F_Normal,Face|My name is Karla. I did not come here\nlooking for a fight, but I am bound by\na contract and cannot refuse you.$k$pLet us begin.$k$p$Sbs1000|

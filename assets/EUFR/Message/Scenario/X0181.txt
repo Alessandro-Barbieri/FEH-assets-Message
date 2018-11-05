@@ -1,0 +1,12 @@
+[Heroes Archive] (X0181)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Smile|Vite, $Nu !\nLe festival du printemps va\ncommencer !$k$p$EFace|Tous ces héros déguisés en lapins...\nOh là là, j'en bous d'impatience ! En\nroute !$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_02
+MID_SCENARIO_MAP_BEGIN: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Aah ! Alfonse, regarde ! Là-bas !$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|Quoi ? Oh, non...$k$p$WmMPID_春祭シャロン,ch00_02_Sharon_F_SpringFes18,Face|Allez, grand frère ! Maintenant que\nnous avons le costume, essayons\nde parler comme des lapins !$k$p« Boing boing ! Vive le festival du\nprintemps ! » À ton tour, maintenant !$k$p$WmMPID_春祭アルフォンス,ch00_01_Alfons_M_SpringFes18,Face|Parler comme un lapin ? Mais ça ne\nparle pas, les lapins ! Je porte le\ncostume, ça ne te suffit pas ?$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Ça alors ! Ce sont des versions de\ntoi et moi venues d'un autre monde !$k$p$EFace_Smile|De nous voir passer un si bon\nmoment, ça me fait chaud au cœur !\nPas toi ?$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|Tu trouves qu'on a l'air de passer un\nbon moment ?$k$pBon courage, alter Alfonse...$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_春祭シャロン,ch00_02_Sharon_F_SpringFes18,Face|Oh, nous avons perdu... Allez, hop !\nRetour au terrier !$k$p$WmMPID_春祭アルフォンス,ch00_01_Alfons_M_SpringFes18,Face|Tu peux me regarder comme ça tant\nque tu veux, je ne sautillerai pas,\nSharena. Allons-y.$k$p$Sbs150|

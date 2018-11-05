@@ -1,0 +1,38 @@
+[Heroes Archive] (CAMUS)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMUS_HOME1: 特務機関、か…\n祖国のために戦い続ける、\nその忠誠心は尊敬に値する。
+MID_CAMUS_HOME2: 忘れ得ぬ人か…\n誰しもそういう相手は\nいるのかもしれないな…
+MID_CAMUS_HOME3: ………………\nなんだ…？\n私の顔に何かついているのか？
+MID_CAMUS_HOME4: 祖国のため…\nただそのためだけに…\n生きてきた。
+MID_CAMUS_HOME5: 私は辺境の騎士、\n時間の過ごし方といえば\n訓練ぐらいしか知らぬ。
+MID_CAMUS_FRIEND: $Nfに頼まれて来た。\n君が$Nuだな。\nこれからもよろしく頼む。
+MID_CAMUS_LEVEL1: この力を…\n祖国と主君のために…！
+MID_CAMUS_LEVEL2: 次の戦いに備えよう。
+MID_CAMUS_LEVEL3: いかんな…\nもっと己を鍛えねば…
+MID_CAMUS_SKILL: 我らグルニア騎士団の精強さ、\n我が身をもって示そう。
+MID_CAMUS_JOIN: 私の名はカミュ。\nグルニア王国黒騎士団の\n団長を務めている。
+MID_CAMUS_STRONGEST: いつの頃からか…\n人には極力近寄らぬように\n心がけてきた…$k$pそれは私の過去に関わることでもある。\nだが、君と共に戦ってきたからだろうか。\n私の考えも少し変わったようだ…$k$pたとえ身を裂かれるような別離に\n苦しむことになったとしても…$k$pそれを恐れて、\n他者と関わらないままでは、\n大切なものは何も得られない。$k$p君が教えてくれたことだ。\n感謝する。
+MID_CAMUS_VOICE01: はぁっ！
+MID_CAMUS_VOICE02: せいっ！
+MID_CAMUS_VOICE03: うああっ！
+MID_CAMUS_VOICE04: 見事だ…
+MID_CAMUS_VOICE05: かわいそうだが…
+MID_CAMUS_VOICE06: 不運だったな
+MID_CAMUS_VOICE07: 参る
+MID_CAMUS_VOICE08: 諦めてくれ
+MID_CAMUS_VOICE09: さらば…だ…
+MID_CAMUS_VOICE10: ふっ…
+MID_CAMUS_VOICE11: 私に何か用だろうか？
+MID_CAMUS_VOICE12: 辺境の武人ゆえ…許されよ。
+MID_CAMUS_VOICE13: 祖国を裏切ることだけはできぬ。
+MID_CAMUS_VOICE14: 君の身は、私が守ろう。
+MID_CAMUS_VOICE15: 国を、民を…守らねばならぬ。
+MID_CAMUS_VOICE16: 騎士として生き、騎士として死ぬ…
+MID_CAMUS_VOICE17: こうして君と過ごした日々は忘れない。
+MID_CAMUS_VOICE18: 心得た
+MID_CAMUS_VOICE19: どうすべきか…
+MID_CAMUS_VOICE20: では参ろう

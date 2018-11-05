@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: Three Heroes
+MID_MISSION_S201801CHARA01_A1: KO Foe
+MID_MISSION_H_S201801CHARA01_A1: Defeat an enemy.
+MID_MISSION_S201801CHARA01_A2: KO with Hinata
+MID_MISSION_H_S201801CHARA01_A2: Use Hinata to defeat an enemy.
+MID_MISSION_S201801CHARA01_A3: KO with Gwendolyn
+MID_MISSION_H_S201801CHARA01_A3: Use Gwendolyn to defeat an enemy.
+MID_MISSION_S201801CHARA01_B1: KO Level 20+ Foe
+MID_MISSION_H_S201801CHARA01_B1: Defeat an enemy that is level 20\nor higher with Hinata.
+MID_MISSION_S201801CHARA01_B2: KO Level 20+ Foe
+MID_MISSION_H_S201801CHARA01_B2: Defeat an enemy that is level 20\nor higher with Gwendolyn.
+MID_MISSION_S201801CHARA01_B3: KO Level 20+ Foe
+MID_MISSION_H_S201801CHARA01_B3: Defeat an enemy that is level 20 or\nhigher with Saizo.
+MID_MISSION_S201801CHARA01_C1: KO Level 35+ Foe
+MID_MISSION_H_S201801CHARA01_C1: Defeat an enemy that is level 35\nor higher with Hinata.
+MID_MISSION_S201801CHARA01_C2: KO Level 35+ Foe
+MID_MISSION_H_S201801CHARA01_C2: Defeat an enemy that is level 35\nor higher with Gwendolyn.
+MID_MISSION_S201801CHARA01_C3: KO Level 35+ Foe
+MID_MISSION_H_S201801CHARA01_C3: Defeat an enemy that is level 35 or\nhigher with Saizo.
+MID_MISSION_S201801STORY02_TITLE: Fiery Resolve
+MID_MISSION_S201801STORY02_A1: Clear 4-1 on Lunatic
+MID_MISSION_H_S201801STORY02_A1: Clear Book II, Chapter 4: Part 1 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY02_A2: Clear 4-2 on Lunatic
+MID_MISSION_H_S201801STORY02_A2: Clear Book II, Chapter 4: Part 2 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY02_A3: Clear 4-3 on Lunatic
+MID_MISSION_H_S201801STORY02_A3: Clear Book II, Chapter 4: Part 3 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY02_A4: Clear 4-4 on Lunatic
+MID_MISSION_H_S201801STORY02_A4: Clear Book II, Chapter 4: Part 4 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201801STORY02_A5: Clear 4-5 on Lunatic
+MID_MISSION_H_S201801STORY02_A5: Clear Book II, Chapter 4: Part 5 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MPID_エイリーク2: Eirika
+MPID_ラーチェル: L'Arachel
+MPID_リオン: Lyon
+MPID_マリカ: Marisa
+MPID_ミルラ: Myrrh
+MPID_HONOR_エイリーク2: Anamnesis Lady
+MPID_HONOR_ラーチェル: Princess of Light
+MPID_HONOR_リオン: Shadow Prince
+MPID_HONOR_マリカ: Crimson Flash
+MPID_HONOR_ミルラ: Great Dragon
+MPID_H_エイリーク2: Princess of Renais, Ephraim's twin sister,\nand Lyon's friend. The three of them studied\nmany things together in their youth. Appears\nin Fire Emblem: The Sacred Stones.
+MPID_H_ラーチェル: Princess of Rausten. Dozla and Rennac\naccompany her on their quest to defeat\nthe monsters around Magvel. Appears in\nFire Emblem: The Sacred Stones.
+MPID_H_リオン: Prince of Grado; not fond of fighting. A childhood\nfriend of Ephraim and Eirika. Appears in Fire\nEmblem: The Sacred Stones.
+MPID_H_マリカ: An aloof swordfighter in a mercenary group led\nby Gerik. Her nom de guerre, Crimson Flash,\nstrikes fear in others. Appears in Fire Emblem:\nThe Sacred Stones.
+MPID_H_ミルラ: A manakete who is much older than her\nappearance suggests. She's shy but oddly\nattached to Ephraim. Appears in Fire Emblem:\nThe Sacred Stones.
+MPID_VOICE_エイリーク2: Kira Buckland
+MPID_VOICE_ラーチェル: Carrie Keranen
+MPID_VOICE_リオン: Mark P. Whitten
+MPID_VOICE_マリカ: Connor Kelley
+MPID_VOICE_ミルラ: Erica Lindbeck
+MPID_ILLUST_エイリーク2: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_ラーチェル: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_リオン: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_マリカ: Fujikawa Akira (藤川祥)
+MPID_ILLUST_ミルラ: Amagaitaro (アマガイタロー)
+MID_SEQUENTIAL_MAP_TERM_201801_2: Shrouded by the Storm
+MSID_グレイプニル: Gleipnir
+MSID_ナグルファル: Naglfar
+MSID_イーヴァルディ: Ivaldi
+MSID_神炎のブレス: Great Flame
+MSID_竜刃の鼓舞: Hone Dragons
+MSID_魔防の指揮1: Res Tactic 1
+MSID_魔防の指揮2: Res Tactic 2
+MSID_魔防の指揮3: Res Tactic 3
+MSID_赤魔の経験1: R Tome Exp. 1
+MSID_赤魔の経験2: R Tome Exp. 2
+MSID_赤魔の経験3: R Tome Exp. 3
+MSID_H_グレイプニル: Grants Res+3. At start of combat, if foe's\nHP = 100%, grants Atk/Spd+3 during\ncombat.
+MSID_H_ナグルファル: Grants weapon-triangle advantage against\ncolorless foes, and inflicts weapon-triangle\ndisadvantage on colorless foes during combat.
+MSID_H_イーヴァルディ: Grants Def+3. At start of combat, if foe's\nHP = 100%, grants Atk/Spd+3 during\ncombat.
+MSID_H_神炎のブレス: Grants Atk+3. If unit’s Def ≥ foe’s Def+5, foe\ncannot make a follow-up attack. If foe's\nRange = 2, calculates damage using the\nlower of foe's Def or Res.
+MSID_H_竜刃の鼓舞: At start of turn, grants Atk/Spd+6 to adjacent\ndragon allies for 1 turn.
+MSID_H_魔防の指揮1: At start of turn, grants Res+2 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_魔防の指揮2: At start of turn, grants Res+4 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_魔防の指揮3: At start of turn, grants Res+6 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_赤魔の経験1: While unit lives and uses a red tome, unit\ngets 1.5x EXP. (Only highest value applied.\nDoes not stack.)
+MSID_H_赤魔の経験2: While unit lives, all red tome allies on team\nget 1.5x EXP. (Only highest value applied.\nDoes not stack.)
+MSID_H_赤魔の経験3: While unit lives, all red tome allies on team\nget 2x EXP. (Only highest value applied.\nDoes not stack.)
+MID_CHAPTER_TITLE_C0204: Book II, Chapter 4
+MID_CHAPTER_C0204: Fiery Resolve
+MID_STAGE_TITLE_S2041: Chapter 4: Part 1
+MID_STAGE_TITLE_S2042: Chapter 4: Part 2
+MID_STAGE_TITLE_S2043: Chapter 4: Part 3
+MID_STAGE_TITLE_S2044: Chapter 4: Part 4
+MID_STAGE_TITLE_S2045: Chapter 4: Part 5
+MID_STAGE_S2041: Protecting the People
+MID_STAGE_S2042: Crimson Flash
+MID_STAGE_S2043: Princesses in Shadow
+MID_STAGE_S2044: The Young Dragon
+MID_STAGE_S2045: Fiery Resolve
+MID_CHAPTER_ST_C0202: Chapters 3 & 4
+MID_STAGE_TITLE_ST_S0203: Chapter 3
+MID_STAGE_TITLE_ST_S0204: Chapter 4
+MID_STAGE_TITLE_ST_S1204: Chapters 3 & 4
+MID_STAGE_HONOR_T0024: Shadow Prince
+MID_STAGE_T0024: Lyon

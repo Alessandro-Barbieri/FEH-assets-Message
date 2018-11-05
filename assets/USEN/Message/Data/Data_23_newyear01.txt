@@ -1,0 +1,260 @@
+[Heroes Archive] (Data_23_newyear01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201801A_TITLE: Jan Quests (1)
+MID_MISSION_M201801A_A1: KO Foes w/Green
+MID_MISSION_H_M201801A_A1: Use green-type allies to defeat enemies.
+MID_MISSION_M201801A_A2: KO Foes w/Cavalry
+MID_MISSION_H_M201801A_A2: Use cavalry allies to defeat enemies.
+MID_MISSION_M201801A_A3: KO Red Foes
+MID_MISSION_H_M201801A_A3: Defeat red-type enemies.
+MID_MISSION_M201801A_A4: KO Infantry Foes
+MID_MISSION_H_M201801A_A4: Defeat infantry enemies.
+MID_MISSION_M201801A_A5: Win Arena Duels
+MID_MISSION_H_M201801A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201801A_A6: KO Lvl. 20+ Foes w/Blue
+MID_MISSION_H_M201801A_A6: Defeat enemies that are level 20\nor higher with blue-type allies.
+MID_MISSION_M201801A_A7: KO Lvl. 20+ Foes w/Inf.
+MID_MISSION_H_M201801A_A7: Defeat enemies that are level 20\nor higher with infantry allies.
+MID_MISSION_M201801A_A8: KO Lvl. 20+ Green Foes
+MID_MISSION_H_M201801A_A8: Defeat green-type enemies that\nare level 20 or higher.
+MID_MISSION_M201801A_A9: KO Lvl. 20+ Cavalry Foes
+MID_MISSION_H_M201801A_A9: Defeat cavalry enemies that\nare level 20 or higher.
+MID_MISSION_M201801A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201801A_A10: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_M201801A_A11: KO Lvl. 35+ Foes w/Red
+MID_MISSION_H_M201801A_A11: Defeat enemies that are level 35\nor higher with red-type allies.
+MID_MISSION_M201801A_A12: KO Lvl. 35+ Foes w/Fliers
+MID_MISSION_H_M201801A_A12: Defeat enemies that are level 35\nor higher with flier allies.
+MID_MISSION_M201801A_A13: KO Lvl. 35+ Blue Foes
+MID_MISSION_H_M201801A_A13: Defeat blue-type enemies that\nare level 35 or higher.
+MID_MISSION_M201801A_A14: KO Lvl. 35+ Flier Foes
+MID_MISSION_H_M201801A_A14: Defeat flier enemies\nthat are level 35 or higher.
+MID_MISSION_M201801A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201801A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201801B_TITLE: Jan Quests (2)
+MID_MISSION_M201801B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201801B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201801B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201801B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201801B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201801B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201801B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201801B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201801B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201801B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201801B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201801B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201801B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201801B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201801B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201801B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201801B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201801B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201801B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201801C_TITLE: Jan Quests (3)
+MID_MISSION_M201801C_A1: Clear 5-1
+MID_MISSION_H_M201801C_A1: Clear Chapter 5: Part 1. All\nfour allies must survive.
+MID_MISSION_M201801C_A2: Clear 5-2
+MID_MISSION_H_M201801C_A2: Clear Chapter 5: Part 2 with a\nred-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A3: Clear 5-3
+MID_MISSION_H_M201801C_A3: Clear Chapter 5: Part 3 with a\nblue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A4: Clear 5-4
+MID_MISSION_H_M201801C_A4: Clear Chapter 5: Part 4 with a\ngreen-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A5: Clear 5-5
+MID_MISSION_H_M201801C_A5: Clear Chapter 5: Part 5 with a\ncolorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A6: Clear 8-1 on Hard+
+MID_MISSION_H_M201801C_A6: Clear Chapter 8: Part 1 on Hard\nor higher difficulty. All four\nallies must survive.
+MID_MISSION_M201801C_A7: Clear 8-2 on Hard+
+MID_MISSION_H_M201801C_A7: Clear Chapter 8: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A8: Clear 8-3 on Hard+
+MID_MISSION_H_M201801C_A8: Clear Chapter 8: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201801C_A9: Clear 8-4 on Hard+
+MID_MISSION_H_M201801C_A9: Clear Chapter 8: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201801C_A10: Clear 8-5 on Hard+
+MID_MISSION_H_M201801C_A10: Clear Chapter 8: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201801C_A11: Clear 11-1 on Lunatic
+MID_MISSION_H_M201801C_A11: Clear Chapter 11: Part 1 on Lunatic\ndifficulty. All four allies must survive.
+MID_MISSION_M201801C_A12: Clear 11-2 on Lunatic
+MID_MISSION_H_M201801C_A12: Clear Chapter 11: Part 2 on Lunatic\ndifficulty with a red-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201801C_A13: Clear 11-3 on Lunatic
+MID_MISSION_H_M201801C_A13: Clear Chapter 11: Part 3 on Lunatic\ndifficulty with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201801C_A14: Clear 11-4 on Lunatic
+MID_MISSION_H_M201801C_A14: Clear Chapter 11: Part 4 on Lunatic\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201801C_A15: Clear 11-5 on Lunatic
+MID_MISSION_H_M201801C_A15: Clear Chapter 11: Part 5 on Lunatic\ndifficulty with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S2018NEWYEAR01_TITLE: New Year's
+MID_MISSION_S2018NEWYEAR01_A1: KO Foe
+MID_MISSION_H_S2018NEWYEAR01_A1: Defeat an enemy.
+MID_MISSION_S2018NEWYEAR01_A2: Arena Assault Win
+MID_MISSION_H_S2018NEWYEAR01_A2: Win in Arena Assault.
+MID_MISSION_S201712SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201712SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201712SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201712SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201712SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201712SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201712STORY02_TITLE: Happy New Year!
+MID_MISSION_S201712STORY02_A1: Clear P17-1 on Lunatic
+MID_MISSION_H_S201712STORY02_A1: Clear Paralogue 17: Part 1 on Lunatic\ndifficulty with a lance ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712STORY02_A2: Clear P17-2 on Lunatic
+MID_MISSION_H_S201712STORY02_A2: Clear Paralogue 17: Part 2 on Lunatic\ndifficulty with an axe ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712STORY02_A3: Clear P17-3 on Lunatic
+MID_MISSION_H_S201712STORY02_A3: Clear Paralogue 17: Part 3 on Lunatic\ndifficulty with a sword ally on your\nteam. All four allies must survive.
+MID_MISSION_S201801BIND01_TITLE: Infantry Mastery
+MID_MISSION_S201801BIND01_A1: Tower: 3rd Stratum
+MID_MISSION_H_S201801BIND01_A1: Use a team of infantry allies to clear the\nThird Stratum of the Training Tower.
+MID_MISSION_S201801BIND01_A2: Clear P6-1
+MID_MISSION_H_S201801BIND01_A2: Use a team of infantry allies to clear\nParalogue 6: Part 1.
+MID_MISSION_S201801BIND01_A3: Tower: 5th Stratum
+MID_MISSION_H_S201801BIND01_A3: Use a team of infantry allies to clear the\nFifth Stratum of the Training Tower.
+MID_MISSION_S201801BIND01_A4: Clear P6-2 on Hard+
+MID_MISSION_H_S201801BIND01_A4: Use a team of infantry allies to clear\nParalogue 6: Part 2 on Hard or higher.
+MID_MISSION_S201801BIND01_A5: Tower: 7th Stratum
+MID_MISSION_H_S201801BIND01_A5: Use a team of infantry allies to clear the\nSeventh Stratum of the Training Tower.
+MID_MISSION_S201801BIND01_A6: Clear P6-3 on Lunatic
+MID_MISSION_H_S201801BIND01_A6: Use a team of infantry allies to clear\nParalogue 6: Part 3 on Lunatic.
+MID_MISSION_S201801BIND01_A7: Tower: 9th Stratum
+MID_MISSION_H_S201801BIND01_A7: Use a team of infantry allies to clear the\nNinth Stratum of the Training Tower.
+MID_MISSION_S201801BIND01_A8: Clear P7-3 on Lunatic
+MID_MISSION_H_S201801BIND01_A8: Use a team of infantry allies to clear\nParalogue 7: Part 3 on Lunatic.
+MID_MISSION_S201801BRAVE01_TITLE: Anna
+MID_MISSION_S201801BRAVE01_A1: Tower: 1st Stratum
+MID_MISSION_H_S201801BRAVE01_A1: Clear First Stratum of the\nTraining Tower with Anna\non your team.
+MID_MISSION_S201801BRAVE01_A2: Tower: 5th Stratum
+MID_MISSION_H_S201801BRAVE01_A2: Clear Fifth Stratum of the\nTraining Tower with Anna\non your team.
+MID_MISSION_S201801BRAVE01_A3: Tower: 9th Stratum
+MID_MISSION_H_S201801BRAVE01_A3: Clear Ninth Stratum of the\nTraining Tower with Anna\non your team.
+MID_MISSION_S201801BRAVE01_A4: Tower: 10th Stratum
+MID_MISSION_H_S201801BRAVE01_A4: Clear Tenth Stratum of the Training Tower\nwith Anna and two allies on your team.\nAll three allies must survive.
+MID_MISSION_S201801BRAVE01_A5: KO with Anna
+MID_MISSION_H_S201801BRAVE01_A5: Use Anna to defeat an enemy.
+MID_MISSION_S201801BRAVE01_A6: KO Level 20+ Foe
+MID_MISSION_H_S201801BRAVE01_A6: Defeat an enemy that is level 20\nor higher with Anna.
+MID_MISSION_S201801BRAVE01_A7: KO Level 40+ Foe
+MID_MISSION_H_S201801BRAVE01_A7: Defeat an enemy that is level 40\nor higher with Anna.
+MID_MISSION_S201801KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201801KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201801KIZUNA01_A1: With Anna on your team, clear\nthe Bound Hero Battle against\nEphraim & Eirika.
+MID_MISSION_S201801KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201801KIZUNA01_A2: With Sharena on your team, clear\nthe Bound Hero Battle against\nEphraim & Eirika on Lunatic or higher.
+MID_MISSION_S201801KIZUNA01_A3: Defeat Ephraim
+MID_MISSION_H_S201801KIZUNA01_A3: Defeat level 40 or higher Ephraim\nwith Anna.
+MID_MISSION_S201801KIZUNA01_A4: Defeat Eirika
+MID_MISSION_H_S201801KIZUNA01_A4: Defeat level 40 or higher Eirika\nwith Sharena.
+MID_MISSION_S201801KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201801KIZUNA01_A5: With an all-infantry team, clear the\nBound Hero Battle against Ephraim\n& Eirika on Lunatic or higher.
+MID_MISSION_S201801VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201801VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201801VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201801VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201801VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201801VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201801VOTE01_A6: Tower: Second Stratum
+MID_MISSION_H_S201801VOTE01_A6: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201801VOTE01_A7: Tower: Fifth Stratum
+MID_MISSION_H_S201801VOTE01_A7: Clear the Fifth Stratum\nof the Training Tower.
+MID_MISSION_S201801VOTE01_A8: Tower: Eighth Stratum
+MID_MISSION_H_S201801VOTE01_A8: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201801VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201801VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201801VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201801VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201801VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201801VOTE01_A11: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201801VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201801VOTE01_A12: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201801VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A13: Win a battle in the Voting Gauntlet\nwith a red-type ally on your team.
+MID_MISSION_S201801VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A14: Win a battle in the Voting Gauntlet\nwith a blue-type ally on your team.
+MID_MISSION_S201801VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A15: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201801VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A16: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MID_MISSION_S201801VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A17: Win a battle in the Voting Gauntlet with\na red-type ally on your team.
+MID_MISSION_S201801VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A18: Win a battle in the Voting Gauntlet with\na blue-type ally on your team.
+MID_MISSION_S201801VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A19: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201801VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201801VOTE01_A20: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MPID_年明けアクア: Azura
+MPID_年明けカミラ: Camilla
+MPID_年明けカムイ男: Corrin
+MPID_年明けタクミ: Takumi
+MPID_HONOR_年明けアクア: Celebratory Spirit
+MPID_HONOR_年明けカミラ: Holiday Traveler
+MPID_HONOR_年明けカムイ男: Enjoying Tradition
+MPID_HONOR_年明けタクミ: Prince of Soup
+MPID_H_年明けアクア: An enchanting princess raised in Hoshido\nwho has never lost a match of the traditional\nsport hanetsuki when played at the New\nYear. Appears in Fire Emblem Fates.
+MPID_H_年明けカミラ: A princess of Nohr who dotes on her sibling\nCorrin and is trying to learn about Hoshidan\nculture through fashion. Appears in Fire\nEmblem Fates.
+MPID_H_年明けカムイ男: A Hoshidan prince raised in Nohr. His\nkimono was prepared by Mikoto while\nshe was still alive. Appears in Fire\nEmblem Fates.
+MPID_H_年明けタクミ: The Hoshidan prince who wields the divine\nbow Fujin Yumi. Loves miso soup, but loves\nozoni, eaten at the New Year, just as much.\nAppears in Fire Emblem Fates.
+MPID_VOICE_年明けアクア: Rena Strober
+MPID_VOICE_年明けカミラ: Misty Lee
+MPID_VOICE_年明けカムイ男: Cam Clarke
+MPID_VOICE_年明けタクミ: Michael Sinterniklaas
+MPID_ILLUST_年明けアクア: kaya8
+MPID_ILLUST_年明けカミラ: Mikuro (みく郎)
+MPID_ILLUST_年明けカムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_ILLUST_年明けタクミ: Tobi
+MSID_門松: Kadomatsu
+MSID_門松＋: Kadomatsu+
+MSID_羽子板: Hagoita
+MSID_羽子板＋: Hagoita+
+MSID_破魔矢: Hama Ya
+MSID_破魔矢＋: Hama Ya+
+MSID_鏡餅: Kagami Mochi
+MSID_鏡餅＋: Kagami Mochi+
+MSID_速さ守備の絆1: Spd/Def Bond 1
+MSID_速さ守備の絆2: Spd/Def Bond 2
+MSID_速さ守備の絆3: Spd/Def Bond 3
+MSID_大地の舞い1: Earth Dance 1
+MSID_大地の舞い2: Earth Dance 2
+MSID_大地の舞い3: Earth Dance 3
+MSID_H_門松: Grants Def/Res+2 to allies within 2 spaces\nduring combat.
+MSID_H_門松＋: Grants Def/Res+2 to allies within 2 spaces\nduring combat.
+MSID_H_羽子板: Grants Def/Res+2 to allies within 2 spaces\nduring combat.
+MSID_H_羽子板＋: Grants Def/Res+2 to allies within 2 spaces\nduring combat.
+MSID_H_破魔矢: Effective against flying foes. Grants\nDef/Res+2 to allies within 2 spaces during\ncombat.
+MSID_H_破魔矢＋: Effective against flying foes. Grants\nDef/Res+2 to allies within 2 spaces during\ncombat.
+MSID_H_鏡餅: Accelerates Special trigger (cooldown\ncount-1). After combat, if unit attacked,\ninflicts Def/Res-5 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_鏡餅＋: Accelerates Special trigger (cooldown\ncount-1). After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_速さ守備の絆1: If unit is adjacent to an ally, grants\nSpd/Def+3 during combat.
+MSID_H_速さ守備の絆2: If unit is adjacent to an ally, grants\nSpd/Def+4 during combat.
+MSID_H_速さ守備の絆3: If unit is adjacent to an ally, grants\nSpd/Def+5 during combat.
+MSID_H_大地の舞い1: If Sing or Dance is used, grants\nDef+3 to target.
+MSID_H_大地の舞い2: If Sing or Dance is used, grants\nDef+4 to target.
+MSID_H_大地の舞い3: If Sing or Dance is used, grants\nDef+5 to target.
+MID_CHAPTER_TITLE_CX016: Paralogue 17
+MID_CHAPTER_CX016: Happy New Year!
+MID_STAGE_TITLE_X0161: Paralogue 17-1
+MID_STAGE_TITLE_X0162: Paralogue 17-2
+MID_STAGE_TITLE_X0163: Paralogue 17-3
+MID_STAGE_X0161: New Year's Greetings
+MID_STAGE_X0162: Princesses at the Shrine
+MID_STAGE_X0163: Wishes for the New Year
+MID_STAGE_HONOR_T0022: Bound Hero Battle
+MID_STAGE_T0022: R & L

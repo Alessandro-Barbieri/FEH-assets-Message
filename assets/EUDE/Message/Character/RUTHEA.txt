@@ -1,0 +1,38 @@
+[Heroes Archive] (RUTHEA)
+
+
+Heroes Message Name: Message
+
+
+MID_RUTHEA_HOME1: Dieses Königreich ist mit solch einem\nÜberfluss gesegnet - und wird geehrt\ndurch strahlende Seelen!$k$pIch glaube, dieser Ort ist ein so glück-\nlicher, dass sich, falls überhaupt, nur\nwenige Waisen hier ungeliebt fühlen.
+MID_RUTHEA_HOME2: Sollte Euch jemand fragen, dann teilt\nihm ruhig mit, dass ich ein Mann bin\nund keine Frau.$k$pDas geht zwar niemanden etwas an,\naber diese Frage stellt sich mir seit\nJahren immer wieder in den Weg.
+MID_RUTHEA_HOME3: Ich habe mich in die Dienste von\nLord Raym-- oh, entschuldigt, ich\nmeine natürlich Raven, gestellt.$k$pIch mache mir weiterhin Sorgen\num sein Wohlbefinden.
+MID_RUTHEA_HOME4: Mein Stab kann zum Wohle meiner\nVerbündeten eingesetzt werden, kann\naber auch meine Gegner verletzen.$k$pAber letzteres nur, wenn ich es wirklich\nmuss.
+MID_RUTHEA_HOME5: Einen Moment... Ich bitte Euch...$k$pAh, schon gut. Was mich schmerzt\nist schon vorüber.
+MID_RUTHEA_FRIEND: Ihr müsst $Nu\nsein. Ich bringe Euch Neuigkeiten\nvon $Nf.
+MID_RUTHEA_LEVEL1: Solch ein Erfolg steht anderen\nin unserer Gruppe besser.
+MID_RUTHEA_LEVEL2: Es geht mir gut - und ich werde\ndies zum Vorteil aller nutzen.
+MID_RUTHEA_LEVEL3: Entschuldigt... Nur einen\nMoment... der Schwäche.
+MID_RUTHEA_SKILL: Ich hoffe, Körper und Geist\nsind jetzt gestärkt.
+MID_RUTHEA_JOIN: Mein Name ist Lucius. Ich kann mich\num Eure Verwundeten kümmern.$k$pDaher bitte ich Euch: nehmt meine\nDienste unverzüglich an.
+MID_RUTHEA_STRONGEST: Ich vertraue Euch mehr als den\nmeisten, die ich bisher getroffen\nhabe.$k$pDaher möchte ich die Geschichte\nmeines Lebens mit Euch teilen.$k$pAls ich noch ein Kind war, habe\nich in einem Waisenhaus unsagbar\ngelitten.$k$pKinder sollten niemals so gequält\nwerden.$k$pIch leide unter etwas, was jemand\nmal "Krankheit der Seele" nannte.$k$pWas genau das ist, ist schwer zu\nsagen. Selbst jetzt, während ich\nmich daran erinnere, wie ich$k$pgelitten habe, damals im Waisen-\nhaus... verfällt mein Körper in$k$pKrämpfe und ich habe Gedächt-\nnisausfälle.$k$pEs tut mir leid. Ich hätte Euch all dies\nschon früher erzählen sollen.$k$pAber ich fühlte mich nicht wohl bei\ndem Gedanken daran, Euch das\nanzuvertrauen.$k$pIch hatte Angst, dass Ihr den Respekt\nvor mir verlieren würdet, wenn Ihr die\nWahrheit über mich wüsstet, oder$k$pvielleicht wäret Ihr von mir\nabgestoßen gewesen.$k$pIch vollbringe gute Taten und sollte\nmir darum keine Gedanken machen,\naber wenn es um Euch geht... so$k$pmache ich mir welche.\nDaher begebe ich mich in Eure\nHände. Werdet Ihr mich mögen oder$k$pverabscheuen? Was es auch sei:\nIhr könnt Euch meiner Loyalität\nsicher sein.
+MID_RUTHEA_VOICE01: はっ！
+MID_RUTHEA_VOICE02: えいっ！
+MID_RUTHEA_VOICE03: うああっ！
+MID_RUTHEA_VOICE04: No...
+MID_RUTHEA_VOICE05: Dies erniedrigt uns!
+MID_RUTHEA_VOICE06: Oh, welch Schmerz!
+MID_RUTHEA_VOICE07: Möge Glaube genügen!
+MID_RUTHEA_VOICE08: Hände, blutbefleckt!
+MID_RUTHEA_VOICE09: Into the light...!
+MID_RUTHEA_VOICE10: Heehee
+MID_RUTHEA_VOICE11: Finsternis, weiche.
+MID_RUTHEA_VOICE12: Süße Erleichterung.
+MID_RUTHEA_VOICE13: Hmm. What is troubling you?
+MID_RUTHEA_VOICE14: You may hear it questioned whether I am a man. I say the question...is a wrong one.
+MID_RUTHEA_VOICE15: Those who mock the way others look cause great suffering in the world. I have suffered...considerably.
+MID_RUTHEA_VOICE16: I hope always for my soul to soar. But sometimes I am weak. For that, I am sorry.
+MID_RUTHEA_VOICE17: If ever your mind is troubled, please speak with me.
+MID_RUTHEA_VOICE18: Yes?
+MID_RUTHEA_VOICE19: Of course.
+MID_RUTHEA_VOICE20: Shall we?

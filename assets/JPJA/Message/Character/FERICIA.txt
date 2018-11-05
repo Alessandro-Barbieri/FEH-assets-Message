@@ -1,0 +1,38 @@
+[Heroes Archive] (FERICIA)
+
+
+Heroes Message Name: Message
+
+
+MID_FERICIA_HOME1: 特務機関って、かっこいいですねーっ！\n真っ白なマントをなびかせて…はうう…\n私も一度入ってみたいですー！
+MID_FERICIA_HOME2: 私はカムイ様のメイドなんです！\nジョーカーさんやギュンターさん、それから\n姉さんと一緒にお世話をしてるんですよー！
+MID_FERICIA_HOME3: はうう…気にかけてくださって嬉しいです。\nでもでも、見回りなら私がやりますよ！？\nドジしないよう精一杯頑張りますから！
+MID_FERICIA_HOME4: あのあの、この紅茶どうですか？\n頑張って入れてみたんですけど…\n…え、苦いですか！？　すみませんー！
+MID_FERICIA_HOME5: お茶を運ぶ練習をしていました！\n見てください、今日は順調に運べて…\nはわわーっ！　足元に石がーっ！？
+MID_FERICIA_FRIEND: 挨拶ですよーっ！\n$Nfさんから、\nあなたへのご挨拶を届けに来ましたー！
+MID_FERICIA_LEVEL1: これでもうドジなんて\nしませんよーっ！
+MID_FERICIA_LEVEL2: やりましたよ！\n強くなれました！
+MID_FERICIA_LEVEL3: はわわ、すみません！\nこんな時までドジで…！
+MID_FERICIA_SKILL: 新しい力…嬉しいです！\nフェリシア、がんばりますよ！
+MID_FERICIA_JOIN: 私はフェリシアです。\n暗夜王国の敏腕メイドで…\nはわわ～！　お茶こぼしちゃいました～っ！
+MID_FERICIA_STRONGEST: $Nuさーん！！\nこ、これを…これをどうぞ！！\n紅茶が奇跡的に成功したんです～！$k$pはわわ、嘘なんかじゃありませんってば～！\n騙されたと思って、ほら！\n…い、如何でしょうか？$k$p！！　美味しい、ですか！？\n良かったです…！　これで私…\nやっとやっとあなたにお礼が言えますね。$k$p私、いつもドジばかりなのに…\n初めて会った日からずっと傍にいてくれて、\n本当にありがとうございます…！$k$pいつか敏腕メイドらしいことができたら、\nこの気持ちをお伝えしたかったんですよ。\nフェリシア、これからも頑張りますっ。\n
+MID_FERICIA_VOICE01: それっ！
+MID_FERICIA_VOICE02: えーいっ！
+MID_FERICIA_VOICE03: ひゃっ！
+MID_FERICIA_VOICE04: はわわ～！
+MID_FERICIA_VOICE05: 容赦しません！
+MID_FERICIA_VOICE06: いっきますよー！
+MID_FERICIA_VOICE07: 敏腕メイドですから！
+MID_FERICIA_VOICE08: ご主人様のために！
+MID_FERICIA_VOICE09: ごめんなさい…
+MID_FERICIA_VOICE10: えへへ…
+MID_FERICIA_VOICE11: 朝起こすのは、お任せください！
+MID_FERICIA_VOICE12: 私は氷の部族の出身なんですよ。
+MID_FERICIA_VOICE13: 特務機関の方って、凛々しくって憧れちゃいます
+MID_FERICIA_VOICE14: 私のご主人様は、とーっても素敵な方なんですよ！
+MID_FERICIA_VOICE15: はわわっ、お皿が割れちゃいましたぁ～！
+MID_FERICIA_VOICE16: 紅茶を入れる練習、失敗続きです…
+MID_FERICIA_VOICE17: 私、あなたのお役に立ちたいなあって思うんです\nドジもしちゃいますけど、いっぱい頑張りますからね。
+MID_FERICIA_VOICE18: はいっ
+MID_FERICIA_VOICE19: はわわっ
+MID_FERICIA_VOICE20: 準備ＯＫです！

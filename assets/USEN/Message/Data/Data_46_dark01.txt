@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: Water Blessing
+MID_MISSION_S201802BLESS01_A1: KO w/Water Blessed Hero
+MID_MISSION_H_S201802BLESS01_A1: Defeat a foe using a Hero that has the\nWater Blessing conferred on them.\n(Note: This is not a water-type Legendary Hero.)
+MID_MISSION_S201802BLESS01_A2: KO w/Water Blessed Hero
+MID_MISSION_H_S201802BLESS01_A2: Defeat a level 20+ foe using a Hero that has\nthe Water Blessing conferred on them.\n(Note: This is not a water-type Legendary Hero.)
+MID_MISSION_S201802BLESS01_A3: KO w/Water Blessed Hero
+MID_MISSION_H_S201802BLESS01_A3: Defeat a level 35+ red foe using a Hero that\nhas the Water Blessing conferred on them.\n(Note: This is not a water-type Legendary Hero.)
+MID_MISSION_S201802BLESS01_A4: KO w/Water Blessed Hero
+MID_MISSION_H_S201802BLESS01_A4: Defeat a level 35+ blue foe using a Hero that\nhas the Water Blessing conferred on them.\n(Note: This is not a water-type Legendary Hero.)
+MID_MISSION_S201802BLESS01_A5: KO w/Water Blessed Hero
+MID_MISSION_H_S201802BLESS01_A5: Defeat a level 35+ green foe using a Hero that\nhas the Water Blessing conferred on them.\n(Note: This is not a water-type Legendary Hero.)
+MID_MISSION_S201802BLESS01_A6: Tower: 1st Stratum
+MID_MISSION_H_S201802BLESS01_A6: Clear the First Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201802BLESS01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201802BLESS01_A7: Clear the Fifth Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201802BLESS01_A8: Tower: 10th Stratum
+MID_MISSION_H_S201802BLESS01_A8: Clear the Tenth Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201802STORY02_TITLE: Blood and Snow
+MID_MISSION_S201802STORY02_A1: Clear 5-1 on Lunatic
+MID_MISSION_H_S201802STORY02_A1: Clear Book II, Chapter 5: Part 1 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201802STORY02_A2: Clear 5-2 on Lunatic
+MID_MISSION_H_S201802STORY02_A2: Clear Book II, Chapter 5: Part 2 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201802STORY02_A3: Clear 5-3 on Lunatic
+MID_MISSION_H_S201802STORY02_A3: Clear Book II, Chapter 5: Part 3 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201802STORY02_A4: Clear 5-4 on Lunatic
+MID_MISSION_H_S201802STORY02_A4: Clear Book II, Chapter 5: Part 4 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201802STORY02_A5: Clear 5-5 on Lunatic
+MID_MISSION_H_S201802STORY02_A5: Clear Book II, Chapter 5: Part 5 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MEID_レーギャルン: Laegjarn
+MPID_レーギャルン: Laegjarn
+MEID_HONOR_レーギャルン: Sheathed Steel
+MEID_H_レーギャルン: The eldest princess of Múspell, the Flame\nKingdom, and Laevatein's older sister. A\ngeneral who leads Múspell's army with dignity.
+MEID_VOICE_レーギャルン: Alicia Stratten
+MEID_ILLUST_レーギャルン: Maeshima Shigeki (前嶋重機)
+MPID_魔女セリカ: Celica
+MPID_HONOR_魔女セリカ: Imprisoned Soul
+MPID_H_魔女セリカ: Celica's form as a witch after giving her\nsoul to Duma. It seems her old memories\noccassionally rise to the surface. Appears\nin Fire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_魔女セリカ: Erica Lindbeck
+MPID_ILLUST_魔女セリカ: Fujikawa Akira (藤川祥)
+MPID_暗黒ハーディン: Hardin
+MPID_HONOR_暗黒ハーディン: Dark Emperor
+MPID_H_暗黒ハーディン: Emperor of the Holy Empire of Archanea.\nKnown as the Dark Emperor due to his\nbloody reign. Appears in Fire Emblem:\nMystery of the Emblem.
+MPID_VOICE_暗黒ハーディン: Richard Epcar
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: Robin
+MPID_HONOR_邪竜ルフレ男: Fell Reincarnation
+MPID_H_邪竜ルフレ男: The Ylissean tactician Robin with body\nand soul ruled by the Fell Dragon, Grima.\nAppears in Fire Emblem Awakening.
+MPID_VOICE_邪竜ルフレ男: David Vincent
+MPID_ILLUST_邪竜ルフレ男: Okuma Yugo (大熊ゆうご)
+MPID_眷属タクミ: Takumi
+MPID_HONOR_眷属タクミ: Empty Vessel
+MPID_H_眷属タクミ: Prince of Hoshido who wields the evil bow\nSkadi. While his love for his homeland remains,\nhe was forced to become a servant of one of the\nFirst Dragons. Appears in Fire Emblem Fates.
+MPID_VOICE_眷属タクミ: Michael Sinterniklaas
+MPID_ILLUST_眷属タクミ: Hino Shinnosuke (日野慎之助)
+MSID_ニーウ: Níu
+MSID_宝剣ソフィア: Beloved Zofia
+MSID_スカディ: Skadi
+MSID_邪竜のブレス: Expiration
+MSID_守備魔防の大覚醒1: Brazen Def/Res 1
+MSID_守備魔防の大覚醒2: Brazen Def/Res 2
+MSID_守備魔防の大覚醒3: Brazen Def/Res 3
+MSID_速さの封印1: Chill Spd 1
+MSID_速さの封印2: Chill Spd 2
+MSID_速さの封印3: Chill Spd 3
+MSID_竜盾の紋章: Ward Dragons
+MSID_H_ニーウ: Grants Spd+3. Adds 50% of total bonuses\non foe to unit's Atk/Spd/Def/Res during\ncombat.
+MSID_H_宝剣ソフィア: Grants Def+3. At start of combat, if unit's\nHP = 100%, grants Atk/Spd/Def/Res+4, but\nafter combat, if unit attacked, deals 4\ndamage to unit.
+MSID_H_スカディ: Effective against flying foes. Grants Spd+3.\nAt the start of turn 3, deals 10 damage to\nfoes within 3 columns centered on unit, and\nconverts bonuses on those foes into\npenalties through their next actions.
+MSID_H_邪竜のブレス: Unit can counterattack regardless of foe's\nrange. If foe's Range = 2, calculates damage\nusing the lower of foe's Def or Res.
+MSID_H_守備魔防の大覚醒1: At start of combat, if unit's HP ≤ 80%, grants\nDef/Res+3 during combat.
+MSID_H_守備魔防の大覚醒2: At start of combat, if unit's HP ≤ 80%, grants\nDef/Res+5 during combat.
+MSID_H_守備魔防の大覚醒3: At start of combat, if unit's HP ≤ 80%, grants\nDef/Res+7 during combat.
+MSID_H_速さの封印1: At start of turn, inflicts Spd-3 on foe on the\nenemy team with the highest Spd through its\nnext action.
+MSID_H_速さの封印2: At start of turn, inflicts Spd-5 on foe on the\nenemy team with the highest Spd through its\nnext action.
+MSID_H_速さの封印3: At start of turn, inflicts Spd-7 on foe on the\nenemy team with the highest Spd through its\nnext action.
+MSID_H_竜盾の紋章: Grants Def/Res+4 to dragon allies within\n2 spaces during combat.
+MID_CHAPTER_TITLE_C0205: Book II, Chapter 5
+MID_CHAPTER_C0205: Blood and Snow
+MID_STAGE_TITLE_S2051: Chapter 5: Part 1
+MID_STAGE_TITLE_S2052: Chapter 5: Part 2
+MID_STAGE_TITLE_S2053: Chapter 5: Part 3
+MID_STAGE_TITLE_S2054: Chapter 5: Part 4
+MID_STAGE_TITLE_S2055: Chapter 5: Part 5
+MID_STAGE_S2051: Snowfield Pursuit
+MID_STAGE_S2052: Dance of the Witch
+MID_STAGE_S2053: The Fell Dragon Rises
+MID_STAGE_S2054: The Dark Emperor
+MID_STAGE_S2055: Hunted by the Flames
+MID_STAGE_HONOR_T0026: Empty Vessel
+MID_STAGE_T0026: Takumi
+MID_STAGE_HONOR_V0181: Daily
+MID_STAGE_V0181: Part 21
+MID_STAGE_HONOR_V0182: Daily
+MID_STAGE_V0182: Part 22
+MID_STAGE_HONOR_V0183: Daily
+MID_STAGE_V0183: Part 23
+MID_STAGE_HONOR_V0184: Daily
+MID_STAGE_V0184: Part 24
+MID_STAGE_HONOR_V0185: Daily
+MID_STAGE_V0185: Part 25

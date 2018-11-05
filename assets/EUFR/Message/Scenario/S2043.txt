@@ -1,0 +1,8 @@
+[Heroes Archive] (S2043)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ラーチェル,ch08_10_Larchel_F_Normal,Face|Prenez garde, infects héros ! Vous\nallez avoir l'honneur d'être vaincus\npar la grande L'Arachel !$k$pÀ l'attaque, Eirika !$k$p$WmMPID_エイリーク2,ch08_01_Eirik_F_Normal2,Face|Tant que ce contrat existera, nous\nn'aurons d'autre choix que de nous\nbattre !$k$p$Sbs1000|

@@ -1,0 +1,38 @@
+[Heroes Archive] (HINOKA2)
+
+
+Heroes Message Name: Message
+
+
+MID_HINOKA2_HOME1: Toute ma vie, je me suis entraînée\nau combat. Je n'ai jamais appris la\ncouture et les choses de ce genre.$k$pMais peut-être serait-il intéressant\nd'élargir mes horizons... Qu'en\npensez-vous ?
+MID_HINOKA2_HOME2: Les kinshi sont des oiseaux\nlégendaires de mon monde.$k$pUn jour, j'aimerais vous faire venir\nen Hoshido pour que nous puissions\nles observer ensemble.
+MID_HINOKA2_HOME3: Je sais que vous avez beaucoup\nd'expérience avec les héros, mais\nj'ai un conseil pour vous...$k$pRéfléchissez bien avant de choisir\nun vassal ! Autrement, vous vous\nexposez à de mauvaises surprises...
+MID_HINOKA2_HOME4: Je vais courir un peu pour me\npréparer à la prochaine bataille.\nVous voulez m'accompagner ?
+MID_HINOKA2_HOME5: Contre les cibles volantes, rien ne\nvaut l'arc. Mais sans technique, il\nne vaut rien.$k$pC'est pour cela que je ne néglige\njamais l'entraînement. Je pratique\ntous les jours !
+MID_HINOKA2_FRIEND: Suis-je au bon endroit ? Est-ce\nque... $Nu\nest là ?$k$pParfait ! $Nf\nm'envoie vous saluer !
+MID_HINOKA2_LEVEL1: Je sens la puissance monter en\nmoi. Allez, Hinoka, tu peux le\nfaire !
+MID_HINOKA2_LEVEL2: Bon ! Je dois continuer de\nm'entraîner !
+MID_HINOKA2_LEVEL3: J'avais peut-être la tête dans\nles nuages...
+MID_HINOKA2_SKILL: Maintenant, je suis mieux\npréparée pour le combat !
+MID_HINOKA2_JOIN: Je suis Hinoka, princesse d'Hoshido.\nSi vous avez besoin d'aide, vous\npouvez compter sur mon arc !$k$pVous ennemis tomberont tous sous\nnos flèches !
+MID_HINOKA2_STRONGEST: Vous avez tout donné lors de la\ndernière bataille. Je dois avouer\nque c'est impressionnant !$k$pVous trouvez que je me suis bien\nbattue, moi aussi ? Merci. Et\npourtant...$k$pJe n'ai pas toujours été une\nguerrière. Quand j'étais jeune, j'étais\nune petite fille bien éduquée.$k$pEt puis, il s'est passé... quelque\nchose, et j'ai décidé que je devais\napprendre à combattre.$k$pEt depuis ce jour, je m'entraîne\nrégulièrement. Et je ne le regrette\npas !$k$pSans ça, vous ne m'auriez jamais\ninvoquée, et je n'aurais jamais pu\ncombattre à vos côtés.$k$pHé hé... Je devrais envoyer\nune lettre de remerciement\nà l'ancienne Hinoka.$k$pHmm... Je me sens un peu gênée\nd'avoir dit ça. Je vais aller me\npromener dans les nuages...$k$pEt vous m'accompagnez !
+MID_HINOKA2_VOICE01: はっ！
+MID_HINOKA2_VOICE02: 当たれ！
+MID_HINOKA2_VOICE03: きゃああっ！
+MID_HINOKA2_VOICE04: く、この…！
+MID_HINOKA2_VOICE05: Le tout pour le tout !
+MID_HINOKA2_VOICE06: J'ai besoin que d'une flèche !
+MID_HINOKA2_VOICE07: Faire le vide...
+MID_HINOKA2_VOICE08: Vise bien, Hinoka !
+MID_HINOKA2_VOICE09: Shot down...
+MID_HINOKA2_VOICE10: Hm?
+MID_HINOKA2_VOICE11: Did you call for me?
+MID_HINOKA2_VOICE12: You've got to get up pretty early to sneak up on me.
+MID_HINOKA2_VOICE13: Kinshi are giant birds that live in my homeland, Hoshido.
+MID_HINOKA2_VOICE14: There's no weapon better suited for taking down a flying target than a bow.
+MID_HINOKA2_VOICE15: When it comes to a fight in the skies, you can count on me.
+MID_HINOKA2_VOICE16: Hinoka, moving out! Yeah, that sounds good.
+MID_HINOKA2_VOICE17: Being here, flying through the skies with you? Nothing makes me happier.
+MID_HINOKA2_VOICE18: I got this.
+MID_HINOKA2_VOICE19: Got 'em in my sights!
+MID_HINOKA2_VOICE20: Time to fly!

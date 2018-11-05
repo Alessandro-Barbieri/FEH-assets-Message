@@ -1,0 +1,616 @@
+[Heroes Archive] (Menu_Tutorial)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_TITLE: Arena
+MID_ARENA_TITLE_REWARD: Prämien
+MID_ARENA_TITLE_HISTORY: Defensivbilanz
+MID_ARENA_SEASON_DAYS: $aTage bis Saisonende: $a0
+MID_ARENA_SEASON_HOURS: $aStunden bis Saisonende: $a0
+MID_ARENA_SEASON_MINUTES: $aMinuten bis Saisonende: $a0
+MID_ARENA_RANK: Rg.
+MID_ARENA_BONUSCHRS_HEADLINE: Bonushelden dieser Saison
+MID_ARENA_BONUSCHRS_CAPTION: Hole einen in dein Team, um deine Punkte zu erhöhen!
+MID_ARENA_COMBO_CAPTION: $a$a0/7 Kämpfen in Serie gewonnen! Bonus +$a1!
+MID_ARENA_NO_HISTORY: Keine Aufzeichnungen.
+MID_ARENA_BTN_BATTLE: Kampf
+MID_ARENA_BTN_REWARD: Prämien
+MID_ARENA_BTN_HISTORY: Defensivbilanz
+MID_ARENA_BTN_HELP: Hilfe
+MID_ARENA_BTN_GIVEUP: Aufgeben
+MID_ARENA_BTN_CONFIRM: O.K.
+MID_ARENA_DEF_WIN: Erfolgreich verteidigt!
+MID_ARENA_EASY: Leicht
+MID_ARENA_NORMAL: Mittel
+MID_ARENA_HARD: Für Kenner
+MID_ARENA_SELECT_OPPONENT_HEADLINE: Wähle einen Gegner.
+MID_ARENA_RESULT_HEADLINE: Ergebnis/akt. Kampf
+MID_ARENA_TOTAL_SCORE: Gesamtergebnis
+MID_ARENA_THIS_SCORE: Aktuelle Punktz.
+MID_ARENA_COMBO_SCORE: Serienbonus
+MID_ARENA_RENEWAL_HISCORE: Neuer Highscore!
+MID_ARENA_STOP_VICTORIES: Siegserie unterbrochen...
+MID_ARENA_REWARD_TYPE: Bewertung
+MID_ARENA_SORT_RANK: Platz
+MID_ARENA_SORT_OFFENSE: Offensiv.
+MID_ARENA_SORT_DEFENSE: Defens.
+MID_ARENA_SORT_REWARDTYPE_RANK: Bewertung: Listenplatz
+MID_ARENA_SORT_REWARDTYPE_OFFENSE: Bewertung: Offensive
+MID_ARENA_SORT_REWARDTYPE_DEFENSE: Bewertung: Defensive
+MID_ARENA_GAINED_REWARDTYPE_RANK: $aArena: Prämie/Platzierung #$a0
+MID_ARENA_GAINED_REWARDTYPE_OFFENSE: $aArena: Prämie/Offensive - Punkte:\n$a1
+MID_ARENA_GAINED_REWARDTYPE_DEFENSE: $aArena: Prämie/Defensive - Punkte:\n$a2
+MID_ARENA_RANK_OUT_OF_RANGE: - keiner -
+MID_ARENA_CLOSED: Die Arena ist geschlossen.
+MID_ARENA_DIALOG_REWARD_SORT: Wähle einen Filter.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: Duellschwert einsetzen\nund fortfahren?
+MID_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: Nachdem du deinen potentiellen\nGegner gesehen hast, kannst du\nnicht aufgeben.
+MID_ARENA_DIALOG_BATTLE_CONFIRM_YES: Fortfahren
+MID_ARENA_DIALOG_BATTLE_CONFIRM_NO: Beenden
+MID_ARENA_DIALOG_GIVEUP_TEXT: Aufgeben?
+MID_ARENA_DIALOG_GIVEUP_WARNING: Wenn du ohne Kampf auf-\ngibst, wird deine aktuelle\nSiegserie nicht unterbrochen.
+MID_ARENA_DIALOG_GIVEUP_YES: Aufgeben
+MID_ARENA_DIALOG_GIVEUP_NO: Kämpfen
+MID_ARENA_DIALOG_OPPONENT_DECIDE_TEXT: Gegen diesen\nSpieler kämpfen?
+MID_ARENA_DIALOG_OPPONENT_DECIDE_YES: Kämpfen
+MID_ARENA_DIALOG_OPPONENT_DECIDE_NO: Beenden
+MID_ARENA_DIALOG_SEASON_LAST10_TEXT: Die Saison endet bald.
+MID_ARENA_DIALOG_SEASON_LAST10_WARNING: Sollte der Kampf bis nach dem Ende\nder aktuellen Saison andauern, wird\ndas Ergebnis nicht gewertet.
+MID_ARENA_DIALOG_SEASON_END_TEXT: Der Kampf endete erst nach dem\nEnde der Saison. Das Ergebnis\nwird nicht gewertet.
+MID_ARENA_ROOT_SEASONEND_TEXT: Die Saison ist beendet. Du\nkannst jetzt nicht kämpfen.
+MID_ARENA_ROOT_SEASONEND_WARNING: Bitte nimm an den Kämpfen\nder nächsten Saison teil.
+MID_ARENA_DIALOG_TASKKILLED_TEXT: Der vorherige Kampf wurde\nnicht ordnungsgemäß beendet.
+MID_ARENA_DIALOG_TASKKILLED_WARNING: Die Siegesserie und der\nSerienbonus werden zurückgesetzt.
+MID_ARENA_DIALOG_NO_CANDIDATE_TEXT: Keine Gegner gefunden.
+MID_ARENA_DIALOG_NO_CANDIDATE_WARNING: Bitte warte und versuche es später erneut.
+MID_ARENA_REWARDS_GAINED_DIALOG: Prämien, die in der vorigen\nSaison in der Arena verdient\nwurden, können abgerufen\nwerden, indem die Arena\nbetreten wird, nachdem die\nErgebnisse der vorigen Saison\nberechnet wurden, aber bevor\ndie aktuelle Saison endet.
+MID_ARENA_DIALOG_HELP_00: Bekämpfe Rivalen für Prämien!
+MID_ARENA_DIALOG_HELP_01: Tritt gegen Rivalen aus aller\nWelt an:\nWähle aus drei Armeen, um die\nHerausforderung zu beginnen.\nPro Kampf wird ein Duellschwert\nbenötigt.
+MID_ARENA_DIALOG_HELP_02: Das Punktesystem:\nGewinnst du, erhältst du Punkte\nbasierend auf der Stärke deiner\nGegner. Gewinnst du mehrfach\nhintereinander, bekommst du\nzusätzlich einen Serienbonus.\nDer Serienbonus wird nach dem\n7. Sieg in Folge zurückgesetzt.
+MID_ARENA_DIALOG_HELP_03: Dein Highscore:\nVersuch deine erfolgreichste\nSaison abzuschließen.\nDer Punktestand wird am\nEnde dieser Periode\nzurückgesetzt.
+MID_ARENA_DIALOG_HELP_04: Prämien:\nAm Ende einer Saison erhältst\ndu Prämien basierend auf\nHighscore und Platzierung.\nIst dein Highscore hoch genug,\nkannst du einen höheren\nRang in der Arena erreichen.
+MID_ARENA_DIALOG_HELP_05: Charakterbonus:\nDu kannst deine Punktzahl in\njeder Saison verdoppeln, indem\ndu bestimmte Charaktere einsetzt.
+MID_ARENA_DIALOG_HELP_2_00: Defensivbilanz:\nBei einer erfolgreichen\nVerteidigung deines Teams,\nerhältst du einen Bonus.\n
+MID_ARENA_DIALOG_HELP_2_01: Defensivprämie:\nDie Prämie der Saison ist von\ndeinem Highscore abhängig.
+MID_ARENA_DIALOG_HELP_2_02: Defensivteam:\nDein Team im linken Platz\nist dein Defensivteam.
+MID_ARENA_DIALOG_HELP_3_00: Die Prämien:\nDu kannst dir die Prämien\nder aktuellen Saison ansehen.\nÄndere den Filter, um die\nPrämien für Offensive,\nDefensive und den\nListenplatz aufzurufen.
+MID_ARENA_DIALOG_HELP_3_01: Prämie für Offensive:\nPrämie abhängig von der\nBewertung deiner Angriffe.\n\nPrämie für Defensive:\nPrämien abhängig von der\nBewertung deiner Verteidigung.
+MID_ARENA_DIALOG_HELP_3_02: Prämien für den Listenplatz:\nDiese hängen von der Platzierung\nin der Arena ab. Eine Liste zeigt\ndie besten 100 000 Ergebnisse,\ndie zu jeder vollen Stunde neu\nberechnet werden. Achtung:\nEs kann einige Zeit dauern,\nbis die neu berechneten\nErgebnisse zu sehen sind.
+MID_ARENA_DIALOG_HELP_3_03: Prämien erhalten:\nDu kannst Prämien, die du\nin der vorigen Saison in der\nArena verdient hast, abrufen,\nindem du die Arena betrittst,\nnachdem die Ergebnisse der\nSaison berechnet wurden, aber\nbevor die aktuelle Saison endet.
+MID_ARENA_RANK01: Rekrut
+MID_ARENA_RANK02: Weißschwinge
+MID_ARENA_RANK03: Dragoner
+MID_ARENA_RANK04: Schwarzordenritter
+MID_ARENA_RANK05: Lanzenritter
+MID_ARENA_RANK06: Grünritter
+MID_ARENA_RANK07: Weißritter
+MID_ARENA_RANK08: Bogengeneral
+MID_ARENA_RANK09: Magiegeneral
+MID_ARENA_RANK10: Rittergeneral
+MID_ARENA_RANK11: Oberster General
+MID_ARENA_RANK12: 3. Wyverngeneral
+MID_ARENA_RANK13: Acht Generale
+MID_ARENA_RANK14: Imperiumsgeneral
+MID_ARENA_RANK15: Vier Reiter
+MID_ARENA_RANK16: Heilige Garde
+MID_ARENA_RANK17: 12 Todesfürsten
+MID_ARENA_RANK18: Adel von Hoshido
+MID_ARENA_RANK19: Adel von Nohr
+MID_ARENA_RANK20: Erste Drachen
+MID_CONFIG_ON: Ein
+MID_CONFIG_OFF: Aus
+MID_CONFIG_ANIME_BATTLE: Kampfanimationen
+MID_CONFIG_ANIME_SUPPORT: Unterstützungs-\nanimationen
+MID_CONFIG_ANIME_PLAYER_TURN: Eigener Zug
+MID_CONFIG_OPERATION_COMMAND: Aktion\nbestätigen
+MID_CONFIG_OPERATION_FIXED: Bewegung\nbestätigen
+MID_CONFIG_OPERATION_AUTO: Auto
+MID_CONFIG_OPERATION_TAP: Berühren
+MID_CONFIG_AUTO_TURN_END: Autom. Ende
+MID_CONFIG_UNIT_AUTO_LOCK: Favoritenein-\nstellung (Auto)
+MID_CONFIG_MUTED: Stumm
+MID_CONFIG_BGM_VOLUME: Musik
+MID_CONFIG_SE_VOLUME: SFX
+MID_CONFIG_VOICE_VOLUME: Stimmen
+MID_CONFIG_MAP_BEGIN: Karte starten
+MID_CONFIG_MAP_BEGIN_BATTLE: Turnierstart
+MID_CONFIG_MAP_BEGIN_SORTIE: Tausch
+MID_CONFIG_DOUBLE_TAP_FIXED: Warten: 2x Tippen
+MID_CONFIG_TALK_WAIT_FOR_AUTO_MODE: Auto-Kampf-Text
+MID_CONFIG_TALK_WAIT_TAP: Weiter:Tippen
+MID_CONFIG_TALK_WAIT_AUTO: Autom. weiter
+MID_CONFIG_AUTO_SHOW_DANGER: Gefahrenzone\nanzeigen
+MID_CONFIG_AUTO_MODE_CONTINUATION: Dauer-Auto-Kampf
+MID_CONFIG_AUTO_SKIP: Karte: Keine\nAnimation
+MID_CONFIG_AUTO_SKIP_ENEMY_TURN: Nur gegn. Zug
+MID_CONFIG_AUTO_SKIP_FOR_AUTO_MODE: Autom.: Keine\nAnimation
+MID_CONFIG_AUTO_BUTTON: Auto-Kampf-Taste
+MID_CONFIG_AUTO_BUTTON_MENU: Im Menü
+MID_CONFIG_AUTO_BUTTON_FOOTER: In Tastenleiste
+MID_CONFIG_AUTO_BUTTON_ALL: Alle Orte
+MID_CONFIG_LEVEL_SORT: Nach Level ordnen
+MID_CONFIG_LEVEL_SORT_DEFAULT: Standard
+MID_CONFIG_LEVEL_SORT_IGNORE_LIMIT_BREAK: Ohne Verbindg.
+MID_CONFIG_SEQUENTIAL_MAP_RECOMMENDATION_ENABLED: SP: Empfehlung
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE: Auto-Kampf-Bewe-\ngung (Geg./Verb.)
+MID_CONFIG_BATTLE_ENEMY_BGM: Gegnermusik
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Einfach
+MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Gesteuert
+MID_CONFIG_BATTLE_BGM: Kampfmusik
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Nur Spezialmusik
+MID_TITLE_ASK_NAME: Gib den Namen für deinen Charakter ein.
+MID_TITLE_ASK_NAME_CAPTION: Gib deinen Charakternamen ein.
+MID_TITLE_ASK_NAME_INFO: Du kannst max. 12 Zeichen verwenden.\nDu kannst den Namen später ändern.\nEinige Sonderzeichen sind inaktiv.
+MID_TITLE_USER_NAME_PLACE_HOLDER: Spitzname
+MID_TITLE_USER_NAME_DEFAULT_NAME: Kiran
+MID_TITLE_USER_NAME_NG: Wörter, die andere beleidigen könnten,\nkönnen nicht verwendet werden.
+MID_EXTRA: Sonstiges
+MID_EXTRA_SUBMENU: FAQ/Etc.
+MID_EXTRA_ITEMLIST: Inventar
+MID_EXTRA_ITEMLIST_INFO: Eine Übersicht über deine Items.
+MID_EXTRA_ENVIRONMENT: Einstellungen
+MID_EXTRA_ENVIRONMENT_INFO: Hier kannst du diverse Einstellungen vornehmen.
+MID_EXTRA_MOVIELIST: Filme
+MID_EXTRA_MOVIELIST_PLAY: Start
+MID_EXTRA_MOVIELIST_OPENING: Eröffnungsfilm
+MID_EXTRA_MOVIELIST_SUMMON: $a$a0 beschwören
+MID_EXTRA_ACHIVEMENT_ANDROID: Google Play - Erfolge
+MID_EXTRA_ACHIVEMENT_IOS: Game Center
+MID_EXTRA_HELP: FAQ
+MID_EXTRA_CUSTOMER: Kundenservice
+MID_EXTRA_TERM: Lizenzvertrag
+MID_EXTRA_PRIVACY: Datenschutzrichtlinie
+MID_EXTRA_ABOUT: Über diese App
+MID_EXTRA_CHANGE_LANGUAGE: Sprache ändern
+MID_EXTRA_CHANGE_NAME: Name/Geschlecht ändern
+MID_EXTRA_PLAY_ANALYTICS: Nutzungsdaten teilen
+MID_EXTRA_PLAY_ANALYTICS_TERMS: Fire Emblem Heroes sammelt\nDaten zur App-Nutzung, um\nunsere Produkte und Dienste\nzu verbessern und Angebote\nund Empfehlungen anzupassen.\nDies erfolgt gemäß der\nDatenschutzrichtlinie.\n\nWenn du keine weiteren\nBenachrichtigungen außerhalb\nder App erhalten möchtest,\nändere bitte die Einstellungen\ndeines Geräts.
+MID_EXTRA_PLAY_ANALYTICS_ON: Nutzungsdaten teilen
+MID_EXTRA_PLAY_ANALYTICS_OFF: Daten nicht teilen
+MID_EXTRA_PLAY_ANALYTICS_CONFIRM: Die Einstellungen zum Teilen deiner\nNutzungsdaten wurden geändert.\nSobald die App neu gestartet wird,\ntreten die Änderungen in Kraft.
+MID_PRESENT_LIST_TITLE: Geschenkliste
+MID_PRESENT_LIST_RECEIVED: Erhalten.
+MID_PRESENT_LIST_RECEIVE: Alle Items wurden\nangenommen.
+MID_PRESENT_LIST_MAXIMUM: Geschenk kann nicht empfangen\nwerden, da die Itemzahl begrenzt ist.
+MID_PRESENT_LIST_MAXIMUM_PART: Einige Geschenke können\nnicht empfangen werden,\nda die Itemzahl begrenzt ist.
+MID_PRESENT_LIST_ERROR_RECEIVE_PART: Aufgrund eines Fehlers konnten einige\nGeschenke nicht empfangen werden.
+MID_PRESENT_LIST_CONFIRM_TO_RECEIVE_ALL: Alle annehmen?
+MID_PRESENT_LIST_RECEIVE_BUTTON: Annehmen
+MID_PRESENT_LIST_RECEIVE_ALL_BUTTON: Alle annehmen
+MID_PRESENT_LIST_MINUTE: $aNoch $a0 Min.
+MID_PRESENT_LIST_HOUR: $aNoch $a0 Std.
+MID_PRESENT_LIST_DAY: $aNoch $a0 Tag(e)
+MID_FRIEND_LIST_MINUTE: $aZuletzt gespielt v. $a0 Min.
+MID_FRIEND_LIST_HOUR: $aZuletzt gespielt v. $a0 Std.
+MID_FRIEND_LIST_DAY: $aZul. gespielt v. $a0 Tag(en)
+MID_FRIEND_LIST_WEAK: $aZul. gespielt v. $a0 Woch.
+MID_FRIEND_LIST_OLDEST_WEAK: Zul. gespielt vor +4 Wochen.
+MID_FRIEND_YOUR_ID: Deine ID:
+MID_HOME_PAGE_PREV: Zurück
+MID_FRIEND_LIST_TITLE: Freundesliste
+MID_FRIEND_ACCEPT: Annehmen
+MID_FRIEND_ALL_ACCEPT: Alle annehm.
+MID_FRIEND_DIALOG_ACCEPT: Diese Freundesanfrage annehmen?
+MID_FRIEND_DIALOG_ALL_ACCEPT: Alle Freundesanfragen annehmen?
+MID_FRIEND_ACCEPTED: Angenommen.
+MID_FRIEND_REFUSE: Ablehnen
+MID_FRIEND_ALL_REFUSE: Alle ablehnen
+MID_FRIEND_DIALOG_REFUSE: Freundesanfrage ablehnen?
+MID_FRIEND_DIALOG_ALL_REFUSE: Alle Freundesanfragen ablehnen?
+MID_FRIEND_REFUSED: Abgelehnt.
+MID_FRIEND_DELETE: Freund löschen
+MID_FRIEND_DELETED: Freund gelöscht.
+MID_FRIEND_DELETE_CHECK: Diesen Freund löschen?
+MID_FRIEND_HELLO: Grüßen
+MID_FRIEND_DELETE_REQUEST: Anfrage löschen
+MID_FRIEND_ALL_DELETE_REQUEST: Alle Anfragen löschen
+MID_FRIEND_DIALOG_DELETE_REQUEST: Diese Freundesanfrage löschen?
+MID_FRIEND_DIALOG_ALL_DELETE_REQUEST: Alle Freundesanfragen löschen?
+MID_FRIEND_DELETED_REQUEST: Gelöscht.
+MID_FRIEND_REQUEST: Freundesanfrage senden
+MID_FRIEND_SEARCH_USER_ID: Suche via ID, um Freundesanfrage zu senden.
+MID_FRIEND_INPUT_SEARCH: ID des Freundes eingeben.
+MID_FRIEND_LIST_SEARCH_CAPTION: Gib die ID ein, die gesucht werden soll.
+MID_FRIEND_ALREADY_FRIEND: Bereits befreundet.
+MID_FRIEND_ALREADY_SENT_REQUEST: Anfrage bereits gesendet.
+MID_FRIEND_SEND_REQUEST: Angefragt.
+MID_FRIEND_LIST_EMPTY: Keine Freunde gefunden.
+MID_FRIEND_SEARCH_EMPTY: Gib die ID des Nutzers ein.
+MID_FRIEND_SEARCH_ERROR: Die angegebene ID ist ungültig.
+MID_FRIEND_SEARCH_INVALID: Die angegebene ID ist ungültig.\nBitte gib eine 10-stellige ID ein.
+MID_FRIEND_SEARCH_EQUAL_MY_ID: Du kannst nicht nach\ndeiner eigenen ID suchen.
+MID_FRIEND_REQUEST_EMPTY: Keine Anfragen gefunden.
+MID_FRIEND_APPROVAL_EMPTY: Keine offenen Anfragen gefunden.
+MID_PRESENT_ACTIVE_EMPTY: Keine nicht akzeptierten\nGeschenke gefunden.
+MID_PRESENT_RECEIVED_EMPTY: Du hast in den letzten 14 Tagen\nkeine Geschenke akzeptiert.
+MID_HOME_FRIEND_TALK_SEND: Du hast Grüße gesendet.
+MID_HOME_FRIEND_TALK_RECEIVE: $aEmpfangene Grüße: $a0
+MID_HOME_FRIEND_TALK_RECEIVE_MAX: Du hast v. 5+ Freunden Grüße erhalten.
+MID_FRIEND_ERROR_SEND_REQUEST: Die Freundesanfrage konnte nicht\ngesendet werden. Entweder hat der\nNutzer die max. Anzahl an Freunden\nerreicht oder du hast die Anfrage\nbereits gesendet.
+MID_FRIEND_ERROR_ACCEPT_REQUEST: Du hast die max. Zahl an Freunden\nerreicht und kannst die Freundes-\nanfrage daher nicht annehmen.
+MID_FRIEND_ERROR_REFUSE_REQUEST: Diese Anfrage wurde bereits abgelehnt.
+MID_FRIEND_ERROR_DELETE: Der Nutzer wurde bereits gelöscht.
+MID_FRIEND_ERROR_DELETE_REQUEST: Die Anfrage wurde bereits\nangenommen oder abgelehnt.
+MID_FRIEND_ERROR_OPERATE: Ein Fehler ist aufgetreten.
+MID_FRIEND_REQUEST_DIALOG: Möchtest du diesem Spieler\neine Freundesanfrage senden?
+MID_FRIEND_REQUEST_DIALOG_DECIDE: Senden
+MID_FRIEND_REQUEST_DIALOG_CANCEL: Nicht senden
+MID_INVENTORY_NONE: 
+MID_INVENTORY_MY_NINTENDO_GIFT: My Nintendo-Belohnung
+MID_ITEM_ORB: Sphäre
+MID_ITEM_HELP_ORB: Wird beim Beschwören und bei\nanderen Fähigkeiten/Funktionen eingesetzt.
+MID_ITEM_FEATHER: Heldenfeder
+MID_ITEM_HELP_FEATHER: Setzt Potential der Verbündeten frei.
+MID_ITEM_STAMINA: Energietrank
+MID_ITEM_HELP_STAMINA: Gibt +50 Energie.
+MID_ITEM_ARENA: Duellstern
+MID_ITEM_HELP_ARENA: Stellt alle Duellschwerter wieder her.
+MID_ITEM_VOTE: Kampfflagge
+MID_ITEM_HELP_VOTE: Mit dieser kann an Wahlturnieren\nteilgenommen werden.
+MID_ITEM_RESURRECTION: Segen des Lichts
+MID_ITEM_HELP_RESURRECTION: Im Kampf verwendbar. Stellt Bewegung,\nKP u. Spezial aller Verbündeten wieder her.
+MID_ITEM_EXP_RED1: Scharlachfragment
+MID_ITEM_HELP_EXP_RED1: Wird beim Level up verwendet.\nFür rote Verbündete bis Level 19.
+MID_ITEM_EXP_RED2: Scharlachkristall
+MID_ITEM_HELP_EXP_RED2: Wird beim Level up verwendet.\nFür rote Verbündete ab Level 20.
+MID_ITEM_EXP_BLUE1: Azurfragment
+MID_ITEM_HELP_EXP_BLUE1: Wird beim Level up verwendet.\nFür blaue Verbündete bis Level 19.
+MID_ITEM_EXP_BLUE2: Azurkristall
+MID_ITEM_HELP_EXP_BLUE2: Wird beim Level up verwendet.\nFür blaue Verbündete ab Level 20.
+MID_ITEM_EXP_GREEN1: Viridianfragment
+MID_ITEM_HELP_EXP_GREEN1: Wird beim Level up verwendet.\nFür grüne Verbündete bis Level 19.
+MID_ITEM_EXP_GREEN2: Viridiankristall
+MID_ITEM_HELP_EXP_GREEN2: Wird beim Level up verwendet.\nFür grüne Verbündete ab Level 20.
+MID_ITEM_EXP_NEUTRAL1: Reinfragment
+MID_ITEM_HELP_EXP_NEUTRAL1: Wird beim Level up verwendet. Für\nfarblose Verbündete bis Level 19.
+MID_ITEM_EXP_NEUTRAL2: Reinkristall
+MID_ITEM_HELP_EXP_NEUTRAL2: Wird beim Level up verwendet. Für\nfarblose Verbündete ab Level 20.
+MID_ITEM_EXP_ALL1: Universalfragment
+MID_ITEM_HELP_EXP_ALL1: Wird beim Level up verwendet.\nFür alle Verbündete bis Level 19.
+MID_ITEM_EXP_ALL2: Universalkristall
+MID_ITEM_HELP_EXP_ALL2: Wird beim Level up verwendet.\nFür alle Verbündete ab Level 20.
+MID_ITEM_PROMOTION_RED1: Scharlachorden
+MID_ITEM_HELP_PROMOTION_RED1: Setzt Potential der Verbündeten frei. Erhöht\n★ für roten Verbündeten mit 3 ★ o. weniger.
+MID_ITEM_PROMOTION_RED2: Großer Scharlachorden
+MID_ITEM_HELP_PROMOTION_RED2: Setzt Potential der Verbündeten frei. Erhöht\n★ für roten Verbündeten mit 4 ★ o. weniger.
+MID_ITEM_PROMOTION_BLUE1: Azurorden
+MID_ITEM_HELP_PROMOTION_BLUE1: Setzt Potential der Verbündeten frei. Erhöht\n★ für blauen Verbündeten mit 3 ★ o. weniger.
+MID_ITEM_PROMOTION_BLUE2: Großer Azurorden
+MID_ITEM_HELP_PROMOTION_BLUE2: Setzt Potential der Verbündeten frei. Erhöht\n★ für blauen Verbündeten mit 4 ★ o. weniger.
+MID_ITEM_PROMOTION_GREEN1: Viridianorden
+MID_ITEM_HELP_PROMOTION_GREEN1: Setzt Potential der Verbündeten frei. Erhöht\n★ für grünen Verbündeten mit 3 ★ o. weniger.
+MID_ITEM_PROMOTION_GREEN2: Großer Viridianorden
+MID_ITEM_HELP_PROMOTION_GREEN2: Setzt Potential der Verbündeten frei. Erhöht\n★ für grünen Verbündeten mit 4 ★ o. weniger.
+MID_ITEM_PROMOTION_NEUTRAL1: Reinorden
+MID_ITEM_HELP_PROMOTION_NEUTRAL1: Setzt Potential der Verbündeten frei. Erhöht\n★ für farbl. Verbündeten mit 3 ★ o. weniger.
+MID_ITEM_PROMOTION_NEUTRAL2: Großer Reinorden
+MID_ITEM_HELP_PROMOTION_NEUTRAL2: Setzt Potential der Verbündeten frei. Erhöht\n★ für farbl. Verbündeten mit 4 ★ o. weniger.
+MID_ITEM_GAIN_QUANTITY: $a$a1 x $a0 erhalten!
+MID_ITEM_GAIN_UNIT: $a$a0 erhalten!
+MID_ITEM_PRESENT_QUANTITY: $aZur Geschenkliste gesandt:\n$a1 x $a0
+MID_ITEM_PRESENT_UNIT: $aZur Geschenkliste gesandt:\n$a0
+MID_ITEM_DIRECT_GAIN_QUANTITY: $aDu hast $a1 × $a0 erhalten!\n*Bitte schau im Inventar nach.
+MID_ITEM_DIRECT_GAIN_UNIT: $aDu hast $a0 erhalten!\n*Bitte schau unter "Einh." nach.
+MID_LOAD_RESUME_CONFIRM: Lesezeichendaten gefunden.\nVon diesem Punkt an fortfahren?
+MID_LOAD_RESUME_DECIDE: Fortfahren
+MID_LOAD_RESUME_CANCEL: Nicht fortfahren
+MID_LOAD_DISCARD_CONFIRM: Lesezeichendaten löschen?
+MID_LOAD_DISCARD_DECIDE: Löschen
+MID_LOAD_DEVICE_CONFIRM: Es ist möglich, dass Lesezeichen-\ndaten auf einem anderen Gerät\nbestehen. Lokale Daten löschen?
+MID_LOAD_DEVICE_DECIDE: Löschen
+MID_LOAD_DEVICE_CANCEL: Nicht löschen
+MID_LOAD_RESUME_OTHER_DEVICE: Bitte setze das Spiel auf dem\nGerät fort, mit dem du es zuletzt\ngespielt hast.
+MID_LOAD_DATA_NOT_FOUND_CONFIRM: Konnte keine Daten erhalten.\nLeszeichendaten werden gelöscht.
+MID_LOAD_FAILED_CONFIRM: Spiel konnte nicht fortgesetzt werden.
+MID_MAP_TURN: $aZug $a0
+MID_MAP_TURN_WITH_LIMIT: $aZug $a0/$a1
+MID_MAP_OBSTACLE: Hindernis
+MID_MAP_AUTO: Auto-Kampf
+MID_MAP_AUTO_CONFIRM: Auto-Kampf aktivieren?
+MID_MAP_AUTO_DECIDE: Aktivieren
+MID_MAP_TURN_END_CONFIRM: Spielerphase beenden?
+MID_MAP_TURN_END_DECIDE: Phase beenden
+MID_MAP_SURRENDER: Aufgeben
+MID_MAP_SURRENDER_CONFIRM: Aufgeben?
+MID_MAP_SURRENDER_WARNING: Wenn du aufgibst, verlierst du die auf der\nKarte bisher gesammelte Erfahrung.
+MID_MAP_SURRENDER_DECIDE: Aufgeben
+MID_MAP_CONTINUE_CONFIRM: Fortsetzen?
+MID_MAP_CONTINUE_WARNING: Wenn du aufhörst, verlierst du die auf der\nKarte bisher gesammelte Erfahrung.
+MID_MAP_CONTINUE_DECIDE: Fortsetzen
+MID_MAP_CONTINUE_CANCEL: Aufhören
+MID_MAP_RESURRECTION: Segen des Lichts
+MID_MAP_RESURRECTION_CONFIRM_ITEM: 1 Segen des Lichts einsetzen?\nDies hat folgende Wirkung:\n・ Verbündete werden wiederbelebt\n・ KP werden wiederhergestellt\n・ Verbündete können erneut ziehen\n・ Spezialangriffe werden aktiviert
+MID_MAP_RESURRECTION_CONFIRM_ORB: 1 Sphäre zahlen?\nDies hat folgende Wirkung:\n・ Verbündete werden wiederbelebt\n・ KP werden wiederhergestellt\n・ Verbündete können erneut ziehen\n・ Spezialangriffe werden aktiviert
+MID_MAP_RESURRECTION_WARNING: Züge werden nicht wiederhergestellt.
+MID_MAP_RESURRECTION_DECIDE_ITEM: Einverstanden
+MID_MAP_RESURRECTION_DECIDE_ORB: Bezahlen
+MID_MAP_RESURRECTION_CANCEL: Zurück
+MID_MAP_GAIN_SKILL_POINT: $aFP +$a0
+MID_MAP_GAIN_HEROISM_POINT: $a+$a0
+MID_MISSION: Quests & Missionen
+MID_MISSION_NONE: Keine Quests vorhanden.
+MID_MISSION_STRATUM: Modus
+MID_MISSION_STRATUM_NORMAL: Normal
+MID_MISSION_STRATUM_HARD: Schwer
+MID_MISSION_STRATUM_LUNATIC: Extrem
+MID_MISSION_PROGRESS: $aQuestfortschritt: $a0/$a1
+MID_MISSION_PROGRESS_ACHIEVED: Quest geschafft!
+MID_MISSION_PROGRESS_RECEIVED: Belohnung bereits erhalten.
+MID_MISSION_EXPERIENCE: Neue Quests wurden hinzugefügt!
+MID_MISSION_APPEAR_STRATUM: Alle Quests wurden erfolgreich\nbeendet. Sie stehen dir auf einem\nanderen Schwierigkeitsgrad weiter\nzur Verfügung.
+MID_MISSION_PROGRESS_DIALOG_TITLE: Questfortschritt
+MID_MISSION_PROGRESS_DIALOG_TITLE_ACHIEVED: Quest geschafft!
+MID_MISSION_PROGRESS_DIALOG_PROGRESS: $a$a0/$a2 → $a1/$a2
+MID_MISSION_PROGRESS_DIALOG_PROGRESS_HELP: $aNoch $a0-mal beenden → Belohnung.
+MID_MISSION_PROGRESS_DIALOG_ACHIEVED_HELP: Hol dir deine Belohnung\nunter Quests & Missionen.
+MID_MOVIE_SKIP: Film überspringen?
+MID_MOVIE_SKIP_BUTTON: Überspringen
+MID_SHOP: Handelsposten
+MID_SHOP_COMMON_CANCEL: Zurück
+MID_SHOP_ORB_BUY_TITLE: Sphären kaufen
+MID_SHOP_ORB_CAUTION1: Bitte lies die unten angegebenen\nInformationen und wähle dann die\nAnzahl der Sphären aus, die du\nkaufen möchtest.
+MID_SHOP_ORB_CAUTION2: $aBitte beachte, dass Sphären, die auf\nanderen Betriebssystemen als $a0\ngekauft wurden, mit $a0-Geräten\nnicht kompatibel sind und daher nicht\nauf diesen verwendet werden können.
+MID_SHOP_ORB_CAUTION_IOS: iOS
+MID_SHOP_ORB_CAUTION_ANDROID: Android
+MID_SHOP_ORB_CAUTION3: Auf dem Guthaben-Bildschirm kannst du\nsehen, wie viele Sphären du gekauft und\nwie viele du als Bonus erhalten hast.
+MID_SHOP_ORB_BUY_ACTION: Bezahlen
+MID_SHOP_ORB_BUY_BONUS:  Bonus
+MID_SHOP_ORB_CANT_BUY: Mit diesem Kauf würdest du das\nLimit überschreiten.
+MID_SHOP_ORB_NEED_BUY: Sphären reichen nicht aus.\nWeitere Sphären kaufen?
+MID_SHOP_ORB_RESULT_SUCCESS: $aDu hast $a0 Sphären erworben.
+MID_SHOP_ORB_RESULT_FAILURE: Sphärenkauf fehlgeschlagen.
+MID_SHOP_ORB_RECOVER_TO_RETRY: Der Kaufvorgang konnte nicht be-\nendet werden, daher müssen fehler-\nhafte Informationen gelöscht werden.
+MID_SHOP_ORB_RECOVER_TO_TITLE: Alle fehlerhaften Informationen\nwurden gelöscht. Der Titelbild-\nschirm wird aufgerufen.
+MID_SHOP_ORB_RESULT_CANCEL: Kauf abgebrochen.
+MID_SHOP_ORB_FSA: 資金決済法に基づく表記
+MID_SHOP_ORB_SCTA: 特定商取引法に基づく表記
+MID_SHOP_ELITE_TITLE: Schloss aufwerten
+MID_SHOP_ELITE_CASTLE_LV0: Schlossgraben
+MID_SHOP_ELITE_CASTLE_LV1: Schlossgemäuer
+MID_SHOP_ELITE_CASTLE_LV2: Kleines Schloss
+MID_SHOP_ELITE_CASTLE_LV3: Jagdschloss
+MID_SHOP_ELITE_CASTLE_LV4: Landschloss
+MID_SHOP_ELITE_CASTLE_LV5: Prunkschloss
+MID_SHOP_CHANGE_WP: Umgestalten
+MID_SHOP_CHANGE_WP_TITLE: Wähle ein Schlossdesign.
+MID_SHOP_CHANGE_WP_CHOSEN: Aktuell
+MID_SHOP_ELITE_EFFECT: $aErhaltene Erf. wird um $a0 % erhöht!
+MID_SHOP_ELITE_HAVE_BOUGHT: Gekauft
+MID_SHOP_ELITE_CONFIRM1: $a$a0 Sphäre(n) bezahlen,\num $a1 zu erwerben?\n\nDas Aufrüsten des Schlosses\ngibt einen permanenten Bonus\nauf alle gewonnene Erf.\n\nDu kannst aus den Schlossarten\nwählen, die du erworben hast, und\nso das Aussehen deines Schlosses\nändern.
+MID_SHOP_ELITE_CONFIRM2: $aErf.-Bonus erhöht sich von\n$a0 % auf $a1 %.
+MID_SHOP_ELITE_BUY: Kaufen
+MID_SHOP_ELITE_RESULT: $aDu hast $a0 Sphäre(n) bezahlt, um\nein $a1 zu errichten.
+MID_SHOP_RECOVER: Bezahlen
+MID_SHOP_RECOVER_WITH_ITEM: Wiederherstellen
+MID_SHOP_STAMINA_TITLE: Energie wiederherst.
+MID_SHOP_STAMINA_CONFIRM_ITEM: Einen Energietrank einsetzen, um\ndeine Energie wiederherzustellen?
+MID_SHOP_STAMINA_NOTENOUGH_ITEM: Du hast nicht genug Energie.\nEinen Energietrank einsetzen, um\ndeine Energie wiederherzustellen?
+MID_SHOP_STAMINA_CONFIRM_ORB: 1 Sphäre zahlen, um Energie\nwiederherzustellen?
+MID_SHOP_STAMINA_NOTENOUGH_ORB: Du hast nicht genug Energie.\n1 Sphäre zahlen, um Energie\nwiederherzustellen?
+MID_SHOP_STAMINA_NOTNECESSARY: Deine Energie ist auf dem Maximum.
+MID_SHOP_STAMINA_RESULT_POTION: Es wurde ein Energietrank eingesetzt,\num deine Energie wiederherzustellen.
+MID_SHOP_STAMINA_RESULT_ORB: Du hast 1 Sphäre gezahlt, um\ndeine Energie wiederherzustellen.
+MID_SHOP_ARENA_TITLE: Duellschw. wiederher.
+MID_SHOP_ARENA_CONFIRM_ITEM: Duellstern verwenden, um Duell-\nschwerter wiederherzustellen?
+MID_SHOP_ARENA_NOTENOUGH_ITEM: Du hast keine Duellschwerter.\nDuellstern verwenden, um\nsie wiederherzustellen?
+MID_SHOP_ARENA_CONFIRM_ORB: 1 Sphäre zahlen, um Duell-\nschwerter wiederherzustellen?
+MID_SHOP_ARENA_NOTENOUGH_ORB: Du hast keine Duellschwerter.\n1 Sphäre zahlen, um Duell-\nschwerter wiederherzustellen?
+MID_SHOP_ARENA_NOTNECESSARY: Du kannst Duellschwerter nur\nwiederherstellen, wenn du\nkeine mehr zur Verfügung hast.
+MID_SHOP_ARENA_RESULT_POTION: Duellstern wurde verwendet, um\nDuellschwerter wiederherzustellen.
+MID_SHOP_ARENA_RESULT_ORB: Du hast 1 Sphäre gezahlt, um\nDuellschwerter wiederherzustellen.
+MID_SHOP_EXPAND_TITLE: Unterkünfte erweitern
+MID_SHOP_EXPAND_CONFIRM: 1 Sphäre zahlen, um die Anzahl der\nmöglichen Verbündeten zu erhöhen?
+MID_SHOP_EXPAND_DECIDE: Bezahlen
+MID_SHOP_EXPAND_CANT_UNIT: Die Unterkünfte können nicht\nmehr erweitert werden.
+MID_SHOP_EXPAND_RESULT: Du hast 1 Sphäre gezahlt, um d. Anzahl\nd. möglichen Verbündeten zu erhöhen.
+MID_SHOP_UNIT_FULL_INFOR: Du hast die maximale Anzahl\nan Verbündeten erreicht.
+MID_SHOP_UNIT_FULL_CAN_EXPAND: Bitte kaufe weitere Unterkünfte oder\nreduziere die Zahl der Verbündeten.
+MID_SHOP_UNIT_FULL_NO_EXPAND: Du musst Verbündete entlassen,\nwenn du neue hinzufügen möchtest.
+MID_SHOP_UNIT_FULL_EXPAND: Kaufen
+MID_SHOP_UNIT_FULL_MOVE: Verbündetenmenü
+MID_SHOP_LIMIT_TEENAGER: Unter 20
+MID_SHOP_LIMIT_TEENAGER_TEXT: $aBegrenzt auf $a0 Stk./Monat (gekauft)
+MID_SHOP_LIMIT_ADULT: 20 und älter
+MID_SHOP_LIMIT_ADULT_TEXT: Unbegrenzt
+MID_SHOP_LIMIT_DESCRIPTION: Die Anzahl der Sphären, die du kaufen\nkannst, ist von deinem Alter abhängig.\nBitte wähle dein Alter aus.
+MID_SHOP_RECOVER_PURCHASE: Alle fehlerhaften Informationen\nim Zusammenhang mit dem\nKaufprozess wurden gelöscht.
+MID_STAGE_SELECT_SCENARIO: Hauptkarten
+MID_STAGE_SELECT_EVENT: Spezialkarten
+MID_STAGE_SELECT_ENCOUNT: Übungsturm
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_00: Erhalte Fragmente, Orden & Erf.!
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_01: Der Übungsturm:\nIm Übungsturm können deine\nVerbündeten jede Menge\nErf. sammeln!
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_02: Übungsturm - Grundsätzliches:\nDie Gegner und die Karten\nkönnen bei jedem Versuch im\nÜbungsturm verschieden sein.\nPrüfe daher die Gegnertypen\nvor dem Kampf genau und stelle\ndann ein schlagkräftiges Team\nzusammen.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_03: Prämien im Übungsturm:\nEinige Prämien ermöglichen\ndeinen Verbündeten ein Level\nup. Andere setzen Potential\nfrei. Es gibt viele verschiedene\nPrämien in diesen Kategorien.\nDie Art der Prämie ist abhängig\nvom Wochentag.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_04: Fragmente/Kristalle -\n1. Durchspielen:\nWenn du das erste Mal an\neinem Tag eine Stufe erfolgreich\nschaffst, erhältst du ein Fragment\noder einen Kristall. Diese kannst\ndu für ein Level up einsetzen.\nKristalle gibt es ab der 8. Stufe.
+MID_STAGE_SELECT_ENCOUNT_HELP_DIALOG_05: Orden für jedes Durchspielen:\nSchaffst du erfolgreich eine Stufe,\nkannst du einen Orden oder\nGroßen Orden erhalten, mit\ndem du Potential freisetzen\nkannst (in ★).\nDu bekommst Große Orden\nab der 6. Stufe.
+MID_STAGE_SELECT_ARENA: Arenaduelle
+MID_STAGE_SELECT_VOTE: ???
+MID_STAGE_SELECT_DIFFICULTY0: Normal
+MID_STAGE_SELECT_DIFFICULTY1: Schwer
+MID_STAGE_SELECT_DIFFICULTY2: Extrem
+MID_STAGE_SELECT_DETAIL_DECREASE_EXP: Da du diese Karte schon geschafft hast,\nerhältst du hier weniger Erf. und FP.
+MID_STAGE_SELECT_DETAIL_RULE: Ziel
+MID_STAGE_SELECT_DETAIL_FIRST_REWARD: Prämie für ersten Erfolg
+MID_STAGE_SELECT_DETAIL_REWARD: Prämie
+MID_STAGE_SELECT_DETAIL_DECIDE: Kämpfen!
+MID_STAGE_SELECT_DETAIL_FAILED: Kampf konnte nicht begonnen werden.
+MID_STAGE_SELECT_DETAIL_INSUFFICIENT_UNIT: Nicht genug Einheiten.
+MID_STAGE_SELECT_RULE_SURVIVAL: $aÜberlebende: $a0
+MID_STAGE_SELECT_RULE_TURN: $aZüge zum Sieg: $a0
+MID_STAGE_SELECT_RULE_NO_CONTINUE: Segen des Lichts nicht anwendbar
+MID_STAGE_OPEN_NEW_CHAPTER_MAINSTORY: Ein neues Kapitel wurde\nder Story hinzugefügt.
+MID_STAGE_OPEN_NEW_CHAPTER_SIDESTORY: Ein neues Kapitel wurde den\nNebenquests hinzugefügt.
+MID_STAGE_OPEN_NEW_DIFFICULTY: $a$a0: Neue\nModi wurden hinzugefügt.
+MID_STAGE_OPEN_OTHER_THAN_SCENARIO: Spezialkarten, die Arena und\nmehr wurden freigeschaltet.
+MID_STAGE_OPEN_FIRST_ENCOUNT: Du kannst jetzt den\nÜbungsturm nutzen.
+MID_STAGE_OPEN_NEW_ENCOUNT: Dem Übungsturm wurde eine\nneue Stufe hinzugefügt.
+MID_STAGE_SELECT_BONUS_NOTIFICATION1: $aAktueller Bonus: Erf. x $a0!
+MID_STAGE_SELECT_BONUS_NOTIFICATION2: $aAktueller Bonus: FP x $a0!
+MID_STAGE_SELECT_BONUS_NOTIFICATION3: $aAktueller Bonus: FP und Erf. x $a0!
+MID_STAGE_SELECT_SCENARIO_MAIN: Story
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO: Kämpfe gegen das Emblanische\nImperium, um der Welt von Zenith\nden Frieden zu bringen!
+MID_STAGE_SELECT_SCENARIO_SUB: Nebenquests
+MID_STAGE_SELECT_SCENARIO_SUB_INFO: Reise in andere Welten\nund triff Helden, die du\nsonst nirgends triffst!
+MID_SUMMON_TITLE: Helden rufen
+MID_SUMMON_HELP_DIALOG_00: Rufe Helden, deine Verbündeten!
+MID_SUMMON_HELP_DIALOG_01: Steinfarbe = Heldentyp
+MID_SUMMON_HELP_DIALOG_02: Beschwöre mehr, spare Spähren.
+MID_SUMMON_HELP_BONUS: Du sparst Sphären, wenn du mehr\nals einen Helden aus der gleichen\nSteinauswahl beschwörst. Du sparst\nam meisten, wenn du 5 Helden rufst.
+MID_SUMMON_DECIDE: Beschwören
+MID_SUMMON_PAY: Bezahlen
+MID_SUMMON_CANCEL: Beenden
+MID_SUMMON_CANCEL_CONFIRM: Beschwören beenden?
+MID_SUMMON_CANCEL_WARNING: Brichst du das Beschwören nun ab,\nwird der Status der Steinfarbe und\nder Status der Sphären zurückgesetzt.
+MID_SUMMON_PROBABILITY: Erscheinungsrate
+MID_SUMMON_PROBABILITY_TEXT: Dies ist die relative Häufigkeit, in der\ndie Helden erscheinen. Sie basiert auf\nder Seltenheit der Helden.
+MID_SUMMON_PROBABILITY_NORMAL_3: 3 ★
+MID_SUMMON_PROBABILITY_NORMAL_4: 4 ★
+MID_SUMMON_PROBABILITY_NORMAL_5: 5 ★
+MID_SUMMON_PROBABILITY_PICKUP_4: 4 ★ (Fokus)
+MID_SUMMON_PROBABILITY_PICKUP_5: 5 ★ (Fokus)
+MID_SUMMON_PROBABILITY_PERCENT:  %
+MID_SUMMON_DETAIL: Details
+MID_SUMMON_PURCHASE_CONFIRM: Wenn du 5 Sphären zahlst, wirst\ndu einen Helden herbeirufen.
+MID_SUMMON_PURCHASE_CONFIRM_CONTINUE: $aMit dem Beschwören fortfahren? 1 Held\nkostet $a0 Sphären.
+MID_SUMMON_FIRST_OPERATION: Wähle einen Stein. Die Farbe\nbestimmt den Typ des Helden.
+MID_SUMMON_FIRST_OPERATION_CONFIRM: Mit diesem Stein beschwören?
+MID_SUMMON_MOVE: Fortsetzen
+MID_SUMMON_MOVE_CONFIRM: Die letzte Beschwörung wurde ab-\ngebrochen u. wird nun fortgesetzt.
+MID_SUMMON_RESULT: Ergebnisse der Beschwörung.
+MID_SUMMON_CANCEL_CONTINUE: Weitermachen
+MID_SUMMON_ERROR_LIST_FAILED: Liste konnte nicht abgerufen werden. Bitte prüfe\ndie Internetverbindung und versuche es erneut.
+MID_SUMMON_ERROR_NO_LIST: Im Moment kann nicht\nbeschworen werden.
+MID_SUMMON_STONE_NEUTRAL: Beschwörerstein (farblos): Ruft farblosen\nHelden, der einen Bogen, Stab etc. führt.
+MID_SUMMON_STONE_RED: Beschwörerstein (rot): Ruft roten Helden,\nder ein Schwert, ein rotes Buch etc. führt.
+MID_SUMMON_STONE_BLUE: Beschwörerstein (blau): Ruft blauen Helden,\nder eine Lanze, ein blaues Buch etc. führt.
+MID_SUMMON_STONE_GREEN: Beschwörerstein (grün): Ruft grünen Helden,\nder eine Axt, ein grünes Buch etc. führt.
+MID_SUMMON_REVIEW: Vielen Dank, dass du die App\nverwendest. Möchtest du eine\nBewertung abgeben?
+MID_SUMMON_REVIEW_YES: Ja
+MID_SUMMON_REVIEW_LATER_ON: Später
+MID_SUMMON_REVIEW_NO: Nein
+MID_SUMMON_REVIEW_CUSTOMER_SUPPORT: Kundenservice
+MID_UNIT_EDIT_EMPTY: Leer
+MID_UNIT_EDIT_UNSET: Annull.
+MID_UNIT_EDIT_BOX: Team
+MID_UNIT_EDIT_SELECTING: Gewählt
+MID_UNIT_EDIT_GAIN: Gewinn:
+MID_UNIT_EDIT_EXPEND: Verw.
+MID_UNIT_EDIT_SORT: Sortieren: 
+MID_UNIT_EDIT_SORT_CONFIRM: Nach welchem Kriterium sortieren?
+MID_UNIT_EDIT_SORT_KEY: Erhalten
+MID_UNIT_EDIT_SORT_PERSON: Herkunft
+MID_UNIT_EDIT_SORT_LOCK: Favorit
+MID_UNIT_EDIT_FILTER: Filter: 
+MID_UNIT_EDIT_FILTER_CONFIRM: Lege einen Filter fest.
+MID_UNIT_EDIT_SKILL_HELP_OFF: Hilfetexte aus
+MID_UNIT_EDIT_SKILL_HELP_ON: Hilfetexte an
+MID_UNIT_EDIT: Verbündete
+MID_UNIT_EDIT_ORGANIZE: Team erstellen
+MID_UNIT_EDIT_SKILL_LEARN: Fähigkeiten lernen
+MID_UNIT_EDIT_SKILL_LEARN_HELP1: Wähle den Charakter aus, der die Fähigkeit lernen soll.
+MID_UNIT_EDIT_SKILL_LEARN_HELP2: Wähle eine Fähigkeit.
+MID_UNIT_EDIT_SKILL_LEARN_CONFIRM: Diese Fähigkeit lernen?
+MID_UNIT_EDIT_SKILL_LEARN_DECIDE: Lernen
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CONFIRM: Fähigkeit nun ausrüsten?
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_DECIDE: Ausrüsten
+MID_UNIT_EDIT_SKILL_LEARN_EQUIP_CANCEL: Nicht ausrüsten
+MID_UNIT_EDIT_SKILL_EQUIP: Fähigkeiten ausrüsten
+MID_UNIT_EDIT_SKILL_EQUIP_HELP1: Wähle den Charakter aus, der ausgerüstet werden soll.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP2: Wähle die Fähigkeit aus, die ausgerüstet werden soll.
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM: $a$a0 Energie verwenden, um die\nausgerüstete Fähigkeit zu ändern?
+MID_UNIT_EDIT_SKILL_EQUIP_DECIDE: Ändern
+MID_UNIT_EDIT_SKILL_EQUIP_COMPLETE_CONFIRM: Vorgang abgeschlossen.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_CONFIRM: Änderungen der Fähigkeit verwerfen?
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_WARNING: Die Änderungen werden nicht\nübernommen.
+MID_UNIT_EDIT_SKILL_EQUIP_CANCEL_DECIDE: Wegwerfen
+MID_UNIT_EDIT_LEVEL_UP: Level up
+MID_UNIT_EDIT_LEVEL_UP_HELP1: Wähle einen Charakter für ein Level up aus.
+MID_UNIT_EDIT_LEVEL_UP_HELP2: Lege fest, wie viele Level der Charakter gewinnen soll.
+MID_UNIT_EDIT_LEVEL_UP_CONFIRM: Level des Charakters erhöhen?
+MID_UNIT_EDIT_PROMOTION: Potential freisetzen
+MID_UNIT_EDIT_PROMOTION_HELP1: $aWähle einen Charakter mit einem Level von $a0 oder höher.
+MID_UNIT_EDIT_PROMOTION_HELP2: $a$a0-★-Charakter: Level und Status-\nwerte gehen auf Ausgangswerte zurück.
+MID_UNIT_EDIT_PROMOTION_CONFIRM: Seltenheit erhöhen?
+MID_UNIT_EDIT_PROMOTION_DECIDE: Erhöhen
+MID_UNIT_EDIT_SELL: Nach Hause senden
+MID_UNIT_EDIT_SELL_HELP1: Wähle Helden, die nach Hause sollen.
+MID_UNIT_EDIT_SELL_HELP2: Gib ausgewählte Helden zurück,\num Heldenfedern zu erhalten.
+MID_UNIT_EDIT_SELL_CONFIRM: Nach Hause senden?
+MID_UNIT_EDIT_SELL_WARNING: Helden, die nach Hause gesandt\nwurden, werden aus deiner Liste\nentfernt.
+MID_UNIT_EDIT_SELL_DECIDE: Nach Hause
+MID_UNIT_EDIT_SELL_COMPLETE_CONFIRM: Vielen Dank und gute Reise.
+MID_UNIT_EDIT_SENIOR: Erweitertes Training
+MID_UNIT_EDIT_SKILL_STATUS_EQUIP: Ausrüstg.
+MID_UNIT_EDIT_SKILL_STATUS_LEARNED: Erlernt
+MID_UNIT_EDIT_SKILL_STATUS_INSUFFICIENT_PREREQUISITE:  
+MID_UNIT_EDIT_SKILL_STATUS_NON_INHERITABLE: Unerbbar
+MID_UNIT_EDIT_SKILL_STATUS_UNLEARNED: Zu lernen
+MID_UNIT_EDIT_SKILL_WARNING_WEAPON: Diese Fähigkeit kann aufgrund von Waffentyp-\nBeschränkungen nicht geerbt werden.
+MID_UNIT_EDIT_SKILL_WARNING_MOVE: Diese Fähigkeit kann aufgrund von Bewegungstyp-\nBeschränkungen nicht geerbt werden.
+MID_UNIT_EDIT_SKILL_WARNING_FIXED: Diese Fähigkeit kann nicht vererbt werden,\nda es sich um eine exklusive Fähigkeit handelt.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN1: $aBenötigt: $a0.
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_LEARN2: $aBenötigt: $a0 oder\n$a1.
+MID_UNIT_EDIT_LIMITBREAK: Verbündete verbinden
+MID_UNIT_EDIT_LIMITBREAK_DESTINATION: Gewinn
+MID_UNIT_EDIT_LIMITBREAK_SOURCE: Verlust
+MID_UNIT_EDIT_LIMITBREAK_HELP1: Verbinde dieselben Einh., um FP o. Statusboni zu erh.
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LVSP: $aStatuswerte des Zielverbündeten ver-\nbessern und ihm $a0 FP geben?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_LV: Statuswerte des Zielverbündeten\nverbessern?
+MID_UNIT_EDIT_LIMITBREAK_CONFIRM_SP: $aZielverbündetem\n$a0 FP geben?
+MID_UNIT_EDIT_LIMITBREAK_WARNING: Werden 2 Verbündete mit gleicher\n★-Anzahl verbunden, o. ist die\n★-Anzahl der Ursprungseinheit\nhöher, bekommt die verbleibende\nEinheit FP u. bessere Statuswerte.\nAndernfalls erhält sie nur FP.
+MID_UNIT_EDIT_LIMITBREAK_WARNING2: $aDa der Verbündete bereits +$a0 erreicht\nhat, erhält er FP, aber keine Statusboni.
+MID_UNIT_EDIT_LIMITBREAK_WARNING3: $aDer Verbündete erbt FP und überschreitet\nso die max. FP. $a0 FP gehen verloren.
+MID_UNIT_EDIT_LIMITBREAK_WARNING4: Dieser Verbündete hat die max. FP\nerreicht und kann keine FP erben.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LVSP: $aStatuswerte des Zielverbündeten ver-\nbessern und ihm $a0 FP geben?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_LV: Statuswert des Zielverbündeten\nverbessern?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_SP: $aZielverbündetem $a0 FP geben?
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_WARNING: Der Spender wird verschwinden.
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_LV: Verbessern
+MID_UNIT_EDIT_LIMITBREAK_DIALOG_DECIDE_SP: Erben
+MID_UNIT_EDIT_LIMITBREAK_BEFORE: Vorher
+MID_UNIT_EDIT_LIMITBREAK_AFTER: Nachher
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00: Teams aus Verbündeten
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_01: Ein Team erstellen:\nDu kannst dein Team, das in den\nKampf zieht, formieren.\nDer Verbündete ganz links führt\ndas Team an.
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_02: Verbündete hinzufügen:\nBerühre zuerst einen der Plätze\nund dann den Verbündeten, den\ndu dort platzieren möchtest.\n\nVerbündete entfernen:\nBerühre einen Verbündeten aus\ndem Team und dann "Annull."
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_03: Teams wechseln:\nBerühre den Pfeil rechts oder\nlinks vom Team, um die Teams\nzu wechseln.\n\nVerbündetenprofile:\nUm das Profil eines Verbündeten\nzu sehen, berühre und halte ihn.
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_00: FP und Fähigkeiten
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_01: Fähigkeiten lernen:\nVerbündete können Fähigkeiten\nlernen, wenn du ihre Fähigkeits-\npunkte (FP) einsetzt.\n\nVerbündete verdienen sich FP,\nindem sie Gegner besiegen und\nwenn sie aufleveln.
+MID_UNIT_EDIT_SKILL_LEARN_HELP_DIALOG_02: Potential freisetzen:\nVerbündete können noch stärkere\nFähigkeiten lernen, wenn ihr\nPotential freigesetzt wird.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_00: Ausgerüstete Fähgkeiten tauschen
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_01: Fähigkeiten ausrüsten:\nDu kannst die Fähigkeiten\ndeiner Verbündeten ändern.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_02: Aktive und passive Fähigkeiten:\nDie aktiven Fähigkeiten werden\ndurch Handlungen im Kampf\nausgelöst.\nBei den passiven Fähigkeiten\nreicht es, sie einfach nur\nauszurüsten.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_03: Aktive Fähigkeit:\nEs gibt drei Arten der aktiven\nFähigkeiten:\nWaffen, Beistehen sowie Spezial.\nSie können im Kampf eingesetzt\nwerden, sobald sie ausgerüstet\nsind.
+MID_UNIT_EDIT_SKILL_EQUIP_HELP_DIALOG_04: Passive Fähigkeit:\nEs gibt drei Arten der passiven\nFähigkeiten: Diverses A,\nDiverses B sowie Diverses C.\nDiese Fähigkeiten müssen einfach\nnur ausgerüstet werden.\nVon jeder Fähigkeitsart kann\njeweils eine ausgerüstet werden.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_00: Fragmente & Kristalle für Level up
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_01: Mit Items Level gewinnen:\nDu kannst deine Verbündeten\nmit Fragmenten und Kristallen\naufleveln.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_02: Fragment- und Kristallarten:\nDas Fragment oder der Kristall\nmuss zum Typ des Verbündeten\npassen.\nDie Universalfragmente und\nUniversalkristalle können bei\njedem Typ von Verbündeten\neingesetzt werden.
+MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: Fragmente und Kristalle\neinsetzen:\nVerbündete können mithilfe\nvon Fragmenten bis zum\nLevel 20 aufgelevelt werden.\nFür höhere Level werden Kristalle\nbenötigt. Diese bekommst du ab\nder 6. Stufe des Übungsturms.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Helden zu Heldenfedern
+MID_UNIT_EDIT_SELL_HELP_DIALOG_01: Verbündete nach Hause senden:\nSendest du Verbündete zurück in\nihre Welten, erhältst du im Aus-\ntausch dafür Heldenfedern.\nDu verlierst diese Verbündeten\naber dauerhaft!
+MID_UNIT_EDIT_SELL_HELP_DIALOG_02: Favoriten:\nHast du einen Verbündeten als\nFavorit gesetzt, kannst du ihn\nnicht nach Hause senden oder\nauf andere Weise nutzen, bei\nder du ihn verlieren könntest.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: Einen Verbündeten als\nFavoriten setzen:\nUm einen Verbündeten als\nFavorit zu setzen, berühre das\nHerz oben links in seinem Profil.\nBerühre es erneut, um den Status\nwieder zu ändern.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Potential und die Zahl der ★
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: Potential freisetzen:\nErhöhst du die ★-Bewertung eines\nVerbündeten, setzt du mehr Poten-\ntial von ihm frei. Der Verbündete\nmuss Level 20 oder höher erreicht\nhaben und du benötigst besondere\nItems.\nDer Level des Verbündeten fällt\nauf 1. Aber mit einer höheren\n★-Bewertung verbessern sich die\nStatuswerte und stärkere Fähig-\nkeiten können erlernt werden.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: Verbündete mit 1-3 ★:\nUm ★-Bewertungen zu ver-\nbessern, werden Heldenfedern\nbenötigt. Diese können u.a. bei\nArenaduellen verdient werden.\nDu brauchst auch Orden, die\ndu im Übungsturm bekommst.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_03: Verbündete mit 4 ★:\nUm ★-Bewertungen zu erhöhen,\nwerden Heldenfedern und Große\nOrden benötigt. Große Orden\nsind ab Stufe 6 im Übungsturm\nerhältlich.
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_04: Verlust der Statuswerte:\nVerbesserst du die ★-Bewertung\neiner Einheit, gehen die Status-\nwerte verloren, die durch das\nVerbinden mit einer anderen\nEinheit gewonnen wurden.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_00: Verbinde Helden für ein Plus
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_01: Verbündete verbinden:\nDu kannst die Statuswerte\neines Verbündeten verbessern\nsowie FP erhalten, wenn du ihn\nmit einem Verbündeten gleichen\nNamens und Titels verbindest.\nAllerdings geht der Ursprungs-\nverbündete dabei verloren.
+MID_UNIT_EDIT_LIMITBREAK_HELP_DIALOG_02: Statuswerte verbessern:\nBesitzen die Verbündeten die\ngleiche ★-Bewertung, oder ist die\ndes Ursprungsverbündeten höher,\nerhält die verbleibende Einheit\nbessere Statuswerte und FP.\nAndernfalls werden nur FP hinzu-\ngewonnen. Erhöht sich die ★-\nBewertung des verbliebenen Ver-\nbündeten durch Freisetzen seines\nPotentials, wird die Erhöhung d.\nStatuswerte rückgängig gemacht.
+MID_NOT_EQQUIPPED: Nicht möglich:
+MID_EQQUIPPED_ONLY_PERSON: Nur die ursprüngliche Einheit\nkann die Fähigkeit nutzen.
+MID_EQQUIPPED_ONLY_ROD: Nur Stabbenutzer können die Fähigkeit nutzen.
+MID_UNIT_EDIT_FAVORITE_SET: Wähle dein bevorzugtes Symbol.
+MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorit $a0
+MID_UNIT_EDIT_FAVORITE_NONE: Entfernen
+MID_UNIT_EDIT_FAVORITE_FILTER: Verbündete mit dem gewählten\nFavoritensymbol erscheinen zuerst.\nMarkiere Verbündete in ihrem\nProfilbildschirm als Favoriten.
+MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Frei
+MID_UNIT_INFO_EXP_MAX: MAX
+MID_UNIT_INFO_TO_TALK: Berühren!
+MID_UNIT_INFO_NOW_TALK: Reden
+MID_UNIT_INFO_EXP_REMAIN: Lv. up: 
+MID_UNIT_INFO_TO_SKILLLIST: Fähigkeiten
+MID_UNIT_INFO_TO_STATUS: Status
+MID_UNIT_INFO_LIMITBREAK: Verbunden

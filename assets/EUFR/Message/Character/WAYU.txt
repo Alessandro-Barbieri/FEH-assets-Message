@@ -1,0 +1,38 @@
+[Heroes Archive] (WAYU)
+
+
+Heroes Message Name: Message
+
+
+MID_WAYU_HOME1: Dites, $Nu,\nça vous dirait, un duel ? À l'aube,\npeut-être ? J'adore me battre à l'aube.
+MID_WAYU_HOME2: Je me suis fait capturer, et Greil m'a\nsauvée. C'est pour ça que j'ai rejoint\nson équipe de mercenaires.
+MID_WAYU_HOME3: Pour retrouver la forme, rien de tel\nqu'un bon entraînement. On se\ndépense, on transpire...$k$pEt en un rien de temps, on se sent\ncomme neuf !
+MID_WAYU_HOME4: Dites, vous voulez que je vous lise\nvotre avenir ? Comment ça, ça n'a\npas l'air d'être mon truc ?$k$pEh bien, si c'est comme ça, vous le\nlirez vous-même, votre avenir !
+MID_WAYU_HOME5: J'ai hâte que ma prédiction se\nréalise ! Je ne vous en ai jamais\nparlé ?$k$p« Vêtu d'une robe blanche flottant\ndans le vent, ton pire rival vient vers\ntoi... » Ça a l'air chouette, non ?
+MID_WAYU_FRIEND: Ah ! $Nu ?\n$Nf vous\npasse le bonjour !
+MID_WAYU_LEVEL1: Génial ! Continuons comme ça !
+MID_WAYU_LEVEL2: Ça pourrait être pire... L'épée\nest une arme difficile à maîtriser.
+MID_WAYU_LEVEL3: J'ai encore des progrès à faire.
+MID_WAYU_SKILL: Alors, vous pensez que je suis à\nla hauteur ? Super !
+MID_WAYU_JOIN: Mia, des mercenaires de Greil, à\nvotre service. Je suis un tourbillon\nde grâce et d'acier !
+MID_WAYU_STRONGEST: Ah, bonjour ! Je suis contente de\nvous croiser. Cette fois, vous allez\nvous entraîner avec moi !$k$pIl n'y a pas de « mais » qui vaille ! Je\nvous apprends à manier l'épée, et\nvous, vous m'apprenez la stratégie.$k$pJe vous surveille depuis que vous\nm'avez vaincue grâce à vos\ntactiques.$k$pJe veux devenir plus forte, mais\nj'aimerais que $Gmon grand rival,ma grande rivale|\nprogresse avec moi !$k$pEn nous entraînant ensemble,\nchaque défaite et chaque\nvictoire nous rapprocherait...$k$pEt la grande bataille décisive n'en\nserait que plus passionnante !\nQu'en dites-vous ?$k$pJe savais que vous comprendriez.\nNe vous inquiétez pas, je vais y aller\ndoucement... au début, en tout cas !
+MID_WAYU_VOICE01: ええいっ！
+MID_WAYU_VOICE02: よーし！
+MID_WAYU_VOICE03: きゃああっ！
+MID_WAYU_VOICE04: ま、まだまだぁ！
+MID_WAYU_VOICE05: Quelle belle journée !
+MID_WAYU_VOICE06: C'est parti !
+MID_WAYU_VOICE07: À l'assaut !
+MID_WAYU_VOICE08: L'affrontement final !
+MID_WAYU_VOICE09: I've been beaten?
+MID_WAYU_VOICE10: Ahaha
+MID_WAYU_VOICE11: Heya, Boss! For some reason, I get the feeling there's something special about you...
+MID_WAYU_VOICE12: Ack! You scared me! Hah, sneaking up behind me like that... You're a crafty one!
+MID_WAYU_VOICE13: Want to spar for a bit?
+MID_WAYU_VOICE14: Never mind the details! I'm counting on you, so just keep going!
+MID_WAYU_VOICE15: What if my grand archrival...turned out to be you?!
+MID_WAYU_VOICE16: If I lose today, I'll train harder and win tomorrow. And if I lose tomorrow, I'll train even harder for the next day...
+MID_WAYU_VOICE17: You know what, Boss? I like you. So let's keep this good thing going.
+MID_WAYU_VOICE18: Yeah!
+MID_WAYU_VOICE19: Can't wait!
+MID_WAYU_VOICE20: Let's go!

@@ -1,0 +1,8 @@
+[Heroes Archive] (T0013)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アルム,ch10_00_Arum_M_Normal,Face|$w0|Vamos, Celica. Contigo a mi lado,\nnadie podrá derrotarnos.$k$p$WmMPID_セリカ,ch10_08_Cellica_F_Normal,Face|$w0|Alm... No hagas nada imprudente.\nNo podemos bajar la guardia.$k$p$Sbs1000|

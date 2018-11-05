@@ -1,0 +1,38 @@
+[Heroes Archive] (SIGLUD)
+
+
+Heroes Message Name: Message
+
+
+MID_SIGLUD_HOME1: 私はディアドラを愛している。\nたとえこの愛が罪だとしても、\n決して後悔などしない。
+MID_SIGLUD_HOME2: 我が友エルトシャン…\nなぜ彼が死ななければならなかったのか…
+MID_SIGLUD_HOME3: 無理にきみばかりが動く必要はない。\nきみには私を含め、\n多くの仲間たちがいるだろう？
+MID_SIGLUD_HOME4: セリスは…\n我が子は無事でいてくれた。\nそれを何より嬉しく思う。
+MID_SIGLUD_HOME5: 戦いが終われば、必ず\n我が子セリスを迎えに行く…\n私はかつてそう約束した。
+MID_SIGLUD_FRIEND: きみが$Nuか。\n$Nfの頼みで\nこの書状を届けに来た。
+MID_SIGLUD_LEVEL1: 私も聖戦士バルドの末裔、\nきみの信頼を裏切りはしない。
+MID_SIGLUD_LEVEL2: 強くならなければならない。\n国を、民を守るために。
+MID_SIGLUD_LEVEL3: これでは皆に示しがつかないな…
+MID_SIGLUD_SKILL: 身に余る名誉だ。\nさらなる貢献を約束しよう。
+MID_SIGLUD_JOIN: 私はシグルド。\nシアルフィ公国公子、\n聖戦士バルドの血を受け継ぐ者だ。
+MID_SIGLUD_STRONGEST: …かつて、\n我が父と私は、謀略によって\n反逆者の汚名を着せられた。$k$p私は真実を明らかにし、\n名誉を取り戻すために戦った。\nだが…私は敗れた。$k$pセリスは\n私の無念を晴らそうと、\n幼いながらも懸命に戦ってくれた…$k$p光の皇子が、亡き父の仇を討つ…\n邪悪を退け、世界に光を取り戻す…\n人々が求める筋書きではあるのだろう。$k$pだが…真実は一つではない。\n悪と断じられる側の…真実の姿…\n私がそれを知ったのはずいぶん後のことだ。$k$pセリスにも、伝えねばならない。\nそれが父である私の役目だ。\nセリスが真の王となるために…
+MID_SIGLUD_VOICE01: はっ！
+MID_SIGLUD_VOICE02: せいっ！
+MID_SIGLUD_VOICE03: うああっ！
+MID_SIGLUD_VOICE04: くっ…だが…
+MID_SIGLUD_VOICE05: 私が討つ！
+MID_SIGLUD_VOICE06: 一気に撃破する！
+MID_SIGLUD_VOICE07: 許せない…
+MID_SIGLUD_VOICE08: 剣をおさめよ！
+MID_SIGLUD_VOICE09: すまない…ディアドラ…
+MID_SIGLUD_VOICE10: ふふ
+MID_SIGLUD_VOICE11: もしよければ、私の相談相手になってもらえたらありがたい。
+MID_SIGLUD_VOICE12: ？　すまない、私を呼んだだろうか？
+MID_SIGLUD_VOICE13: 君が多くの人から慕われる理由は、その優しさにあるのだろうな。
+MID_SIGLUD_VOICE14: これからも君の力を貸してほしい。…ああ、そうだ。君が欲しい。
+MID_SIGLUD_VOICE15: この愛が罪だというのなら…罰は私一人が受けよう…
+MID_SIGLUD_VOICE16: セリス、父を許せよ…どうか…立派に育ってくれ…
+MID_SIGLUD_VOICE17: 私の力のかぎり、君を守ると約束しよう。
+MID_SIGLUD_VOICE18: わかった
+MID_SIGLUD_VOICE19: 君を信じよう
+MID_SIGLUD_VOICE20: 約束しよう

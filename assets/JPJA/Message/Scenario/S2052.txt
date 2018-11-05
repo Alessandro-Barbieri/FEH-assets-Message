@@ -1,0 +1,9 @@
+[Heroes Archive] (S2052)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|くっ…こんなに早く\n敵軍に捕捉されるなんて…！\nみんな、戦闘準備を！$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|敵の包囲が狭まりつつある…\n急いで！　他の敵が来る前に\n場所を変えるわよ！$k$p$Sbs150|

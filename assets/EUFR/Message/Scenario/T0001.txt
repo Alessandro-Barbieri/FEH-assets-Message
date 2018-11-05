@@ -1,0 +1,8 @@
+[Heroes Archive] (T0001)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ルフレ女,ch04_08_Reflet_F_Normal,Face|$w0|Parlons un peu de stratégie.\nComment affronteriez-vous une\nformation ennemie comme celle-ci ?$k$pN'hésitez pas à me faire part de\nvos commentaires pendant le\ncombat.$k$p$Sbs1000|

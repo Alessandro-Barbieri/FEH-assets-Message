@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKUT)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKUT_HOME1: Perché dovrei ingoiare il mio\norgoglio e fraternizzare con la plebe?\nÈ un'umiliazione intollerabile!
+MID_BERKUT_HOME2: Sin da fanciullo non ho mai smesso\ndi affinare le mie abilità, come si\naddice all'erede al trono imperiale.$k$pSono orgoglioso del potere che ho\nconquistato col sudore della fronte.
+MID_BERKUT_HOME3: Te ne vai ad occuparti dell'ennesimo\nincarico? Sei una creatura diligente.\nSaresti $Gun ottimo servitore,un'ottima servitrice|.
+MID_BERKUT_HOME4: Ehi, tu. Portami da un orafo. Non\nche mi serva qualcosa, sappilo. E\ncomunque non ti devo spiegazioni.
+MID_BERKUT_HOME5: Cosa faccio? Lucido il mio anello,\novviamente. Ma non è cosa che ti\nriguardi. Allontanati dalla mia vista.
+MID_BERKUT_FRIEND: Chi ha osato affidarmi un\nincarico? Nient'altri che\n$Nf.
+MID_BERKUT_LEVEL1: Hah! Ora conosci il mio valore.
+MID_BERKUT_LEVEL2: Mi aspettavo di meglio.
+MID_BERKUT_LEVEL3: Non l'accetto!
+MID_BERKUT_SKILL: Saggia scelta. Hai guadagnato\nuna briciola del mio rispetto.
+MID_BERKUT_JOIN: Io sono Berkut. Un giorno salirò\nal trono dell'Impero Rigeliano.\nRingrazia gli dèi di avermi qui.
+MID_BERKUT_STRONGEST: Oh, sei tu. Che creatura irrequieta\nche sei. È indecoroso. Ora calmati\ne siediti un momento.$k$pDopo tante battaglie, riconosco\nche hai delle doti come $Gcondottiero,condottiera|.\nE mi costa alquanto ammetterlo.$k$pQuando tornerò in Rigel, potrei offrirti\nun ruolo di comando. Che ne dici?$k$pHah! Un "no" veloce e convinto.\nMa d'altronde è la risposta\nche mi aspettavo da te.$k$pRingrazia il cielo che non ci troviamo\nin Rigel, altrimenti la tua testa\nstarebbe già rotolando. Pazienza.$k$pUn grande uomo non ha il lusso di\nchiamare qualcuno amico, ma tu...\nÈ questo che sei per me? Chissà...
+MID_BERKUT_VOICE01: てえい！
+MID_BERKUT_VOICE02: Drop dead!
+MID_BERKUT_VOICE03: ぬうっ…
+MID_BERKUT_VOICE04: You worm!
+MID_BERKUT_VOICE05: La fine è giunta!
+MID_BERKUT_VOICE06: Muori, verme!
+MID_BERKUT_VOICE07: Che insolenza!
+MID_BERKUT_VOICE08: Dileguati!
+MID_BERKUT_VOICE09: Never...
+MID_BERKUT_VOICE10: Hmph
+MID_BERKUT_VOICE11: Ugh. What are you doing?
+MID_BERKUT_VOICE12: Again? How infantile.
+MID_BERKUT_VOICE13: Enough of that. State your purpose, if you have one.\n
+MID_BERKUT_VOICE14: My uncle is owed all of the respect in the world.
+MID_BERKUT_VOICE15: I must gather my might. I will need it.
+MID_BERKUT_VOICE16: I will rule Valentia in due course.
+MID_BERKUT_VOICE17: You do intrigue me. I should keep my eye on you.
+MID_BERKUT_VOICE18: All right.
+MID_BERKUT_VOICE19: Hmpf.
+MID_BERKUT_VOICE20: I'll do it.

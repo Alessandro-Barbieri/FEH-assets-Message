@@ -1,0 +1,38 @@
+[Heroes Archive] (MIST)
+
+
+Heroes Message Name: Message
+
+
+MID_MIST_HOME1: Quel endroit extraordinaire.\nL'air y est, comment dire... si frais.\nOn doit vraiment être très haut !
+MID_MIST_HOME2: Je n'aime pas trop les combats,\nmais j'ai envie de me rendre utile.\nVous savez ce que j'adore faire ?$k$pLe ménage et la lessive...\nCroyez-moi ou non !
+MID_MIST_HOME3: Vous devriez vous détendre un peu,\n$Nu.$k$pJe vais aller vous chercher un\nverre d'eau.
+MID_MIST_HOME4: Oh, Père... Mère... Et mon frère...
+MID_MIST_HOME5: Le vent souffle fort par ici. Mon linge\nrisque de s'envoler !
+MID_MIST_FRIEND: Euh... Qu'est-ce que je fais là, déjà ?\nAh oui ! $Nf\nm'envoie vous passer le bonjour !
+MID_MIST_LEVEL1: Encore plus de puissance !\nJe tiens bien de mon père !
+MID_MIST_LEVEL2: On dirait que je m'améliore petit\nà petit !
+MID_MIST_LEVEL3: Vous voyez ? Le combat, ce\nn'est pas pour moi !
+MID_MIST_SKILL: Merci, mais j'espère que vous\nn'aviez rien de mieux à faire.
+MID_MIST_JOIN: Bonjour, je suis Mist ! Mais où\nsuis-je ? Tout est allé si vite ! Vous\nallez m'aider à m'y retrouver, hein ?
+MID_MIST_STRONGEST: Oh, $Nu !$k$pVous me surprenez au beau milieu\nde ma lessive. Croyez-le ou non,\nça m'aide à me détendre.$k$pVous savez, je ne suis pas très\nà l'aise sur le champ de bataille,\nmais j'aime aider les autres.$k$pJ'aime être ici, au milieu de tout ce\nmonde. Vous avez dû remarquer que\nj'étais un peu nerveuse au départ.$k$pJ'étais intimidée par certains héros !\nMais j'ai tout de suite su que je\npouvais vous faire confiance.$k$pJe ne sais pas pourquoi, mais ça a\nété instantané. En tout cas, je suis\ncontente de pouvoir vous aider.$k$pEt... Qu'est-ce que je voulais dire ?\nAh oui ! Merci ! Et comptez sur\nmoi, je ferai de mon mieux !
+MID_MIST_VOICE01: えいっ！
+MID_MIST_VOICE02: Stay away!
+MID_MIST_VOICE03: きゃああっ！
+MID_MIST_VOICE04: あ…うっ！
+MID_MIST_VOICE05: Je... Je vais faire de mon mieux !
+MID_MIST_VOICE06: Je peux le faire !
+MID_MIST_VOICE07: Je dois y arriver !
+MID_MIST_VOICE08: En garde !
+MID_MIST_VOICE09: Sorry...
+MID_MIST_VOICE10: Heeheehee
+MID_MIST_VOICE11: Prenez soin de vous.
+MID_MIST_VOICE12: Ensemble, nous y arriverons !
+MID_MIST_VOICE13: Oh! You surprised me!
+MID_MIST_VOICE14: Do you know my brother? He can be...a bit of an odd one.
+MID_MIST_VOICE15: Always glad when you have time for me. Thank you so much!
+MID_MIST_VOICE16: Father... Mother... Ike...
+MID_MIST_VOICE17: You know I will never forgive you if you—you know—die on me. Please remember that.
+MID_MIST_VOICE18: OK!
+MID_MIST_VOICE19: What next?
+MID_MIST_VOICE20: Time to shine.

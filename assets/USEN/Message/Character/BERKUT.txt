@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKUT)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKUT_HOME1: Why should I swallow my pride and\nfraternize with commoners? This is\nnothing less than total humiliation!
+MID_BERKUT_HOME2: I have honed my skills unceasingly\nsince my youth. As next in line for the\nimperial throne, it is my duty.$k$pI take pride in the power I've worked\nso hard for.
+MID_BERKUT_HOME3: Beavering away on another task?\nYou're a diligent creature, no doubt of\nthat. You'd make a fine servant.
+MID_BERKUT_HOME4: You there. Show me to a jeweler. Not\nfor myself, I'll have you know. Not that\nI owe you an explanation!
+MID_BERKUT_HOME5: What am I doing? I'm polishing a ring,\nobviously. It's...none of your concern.\nBegone! Now!
+MID_BERKUT_FRIEND: Who has the temerity to send me\non errands? Oh, none other than\n$Nf.
+MID_BERKUT_LEVEL1: Hah! Now you understand what\nI'm made of.
+MID_BERKUT_LEVEL2: I expected better.
+MID_BERKUT_LEVEL3: I refuse to accept this!
+MID_BERKUT_SKILL: Wise choice. You may have\nearned a little of my respect...
+MID_BERKUT_JOIN: I am Berkut. Someday I shall stand\natop the Rigelian Empire. You should\nthank the gods I'm here with you now.\n
+MID_BERKUT_STRONGEST: Oh, it's you. Such a restless creature\nyou are. It's undignified. Be calm, and\nsit down for a moment, at least.$k$pAfter so many battles, I can see that\nyou have some skill as a leader.\nThough it pains me, I must admit it.$k$pOn my return to Rigel, you could even\njoin my forces as a commander. What\nsay you?$k$pHah! That "no" was both quick and\nfirm. Of course, that's the answer I\nexpected from you.$k$pJust be glad this is not Rigel. Your\nhead would be rolling on the floor\nright now. Oh, well...$k$pThe fate of a great man is to have no\none he might call a friend. But you...\nIs that what you are to me? Perhaps.
+MID_BERKUT_VOICE01: てえい！
+MID_BERKUT_VOICE02: Drop dead!
+MID_BERKUT_VOICE03: ぬうっ…
+MID_BERKUT_VOICE04: You worm!
+MID_BERKUT_VOICE05: Meet your end!
+MID_BERKUT_VOICE06: Die, worm!
+MID_BERKUT_VOICE07: Know your damn place!
+MID_BERKUT_VOICE08: Be gone from my sight!
+MID_BERKUT_VOICE09: Never...
+MID_BERKUT_VOICE10: Hmph
+MID_BERKUT_VOICE11: Ugh. What are you doing?
+MID_BERKUT_VOICE12: Again? How infantile.
+MID_BERKUT_VOICE13: Enough of that. State your purpose, if you have one.\n
+MID_BERKUT_VOICE14: My uncle is owed all of the respect in the world.
+MID_BERKUT_VOICE15: I must gather my might. I will need it.
+MID_BERKUT_VOICE16: I will rule Valentia in due course.
+MID_BERKUT_VOICE17: You do intrigue me. I should keep my eye on you.
+MID_BERKUT_VOICE18: All right.
+MID_BERKUT_VOICE19: Hmpf.
+MID_BERKUT_VOICE20: I'll do it.

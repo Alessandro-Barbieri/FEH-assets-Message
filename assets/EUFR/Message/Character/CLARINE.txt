@@ -1,0 +1,38 @@
+[Heroes Archive] (CLARINE)
+
+
+Heroes Message Name: Message
+
+
+MID_CLARINE_HOME1: Ça alors, vous semblez avoir de\nbonnes manières. Les avez-vous\napprises dans votre monde ?
+MID_CLARINE_HOME2: Un jour, je deviendrai un superbe\ngénéral magicien, comme Dame\nCecilia.$k$pJ'espère que mon grand frère\nsera là pour voir ça !
+MID_CLARINE_HOME3: Oh, votre apparence n'est pas\nsi terrible que ça, finalement.\nÉvidemment, à côté de...$k$pHé, vous m'écoutez au moins ?!
+MID_CLARINE_HOME4: Je suis très occupée, mais\nallez-y, je vous écoute.\nFaites vite, quand même.
+MID_CLARINE_HOME5: Que porter, comment danser,\ncomment se tenir... Tout ça,\nc'est une évidence pour moi !
+MID_CLARINE_FRIEND: $Nu ?\nVous avez l'honneur de recevoir\ndes salutations de ma part.
+MID_CLARINE_LEVEL1: Je suis resplendissante, comme\nd'habitude !
+MID_CLARINE_LEVEL2: C'est tout naturel. Je viens d'une\nlignée prestigieuse, après tout.
+MID_CLARINE_LEVEL3: C'est tout ? Révoltant.
+MID_CLARINE_SKILL: Une dame se doit d'allier force et\nélégance.
+MID_CLARINE_JOIN: Je suis Clarine, la talentueuse\nfille du comte de Reglay d'Etruria.\nÀ qui ai-je l'honneur ?
+MID_CLARINE_STRONGEST: N'est-ce qu'une impression, ou est-ce\nque personne ici ne sait se tenir\ncorrectement en société ?$k$pPas vous, bien sûr. Je n'aurais pas\nla vulgarité de vous le dire en face,\nsi c'était le cas.$k$pCela dit... Je me dois de vous faire\nsavoir que tout le monde aimerait\nque vous soyez plus... $Gdistingué,distinguée|.$k$pJe ne mens pas ! C'est un fait bien\nconnu qu'un mauvais usage des\nserviettes de table mène à l'anarchie.$k$pN'ayez crainte, $GInvocateur,Invocatrice|. Pour vous\nremercier de prendre soin de nous,\nje vais faire de vous mon $Gapprenti,apprentie|.$k$pJe vais faire de vous $Gun,une| as des\nbonnes manières ! Vous allez voir,\non va bien s'amuser !
+MID_CLARINE_VOICE01: えいっ！
+MID_CLARINE_VOICE02: それっ！
+MID_CLARINE_VOICE03: きゃああっ！
+MID_CLARINE_VOICE04: You beast!
+MID_CLARINE_VOICE05: Arrêtez ça !
+MID_CLARINE_VOICE06: Quelle insolence !
+MID_CLARINE_VOICE07: Reculez !
+MID_CLARINE_VOICE08: Je vais vous éblouir !
+MID_CLARINE_VOICE09: Brother...
+MID_CLARINE_VOICE10: Uhuhu
+MID_CLARINE_VOICE11: J'arrive.
+MID_CLARINE_VOICE12: De rien !
+MID_CLARINE_VOICE13: Do you need me for something? Whatever can it be?
+MID_CLARINE_VOICE14: Now, just who do you think you are, getting my attention that way!
+MID_CLARINE_VOICE15: I shall teach you the ways of superlative style.
+MID_CLARINE_VOICE16: A lady must always aspire to the highest standards of beauty.
+MID_CLARINE_VOICE17: Tea, with me... You know, I think I shall.
+MID_CLARINE_VOICE18: Yes?
+MID_CLARINE_VOICE19: Very well.
+MID_CLARINE_VOICE20: Shall we?

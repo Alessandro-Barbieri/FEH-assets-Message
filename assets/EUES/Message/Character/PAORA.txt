@@ -1,0 +1,38 @@
+[Heroes Archive] (PAORA)
+
+
+Heroes Message Name: Message
+
+
+MID_PAORA_HOME1: Me preocupa el bienestar de Catria\ny Est. Supongo que es normal, al\ntratarse de mis hermanas menores.
+MID_PAORA_HOME2: Dicen que se me da bien cuidar de\nlos demás. Será que me ha servido\nla experiencia con mis hermanas...
+MID_PAORA_HOME3: Gracias por tomarte tantas molestias.\nPero, por favor, descansa cuando\nacabes la ronda, ¿de acuerdo?
+MID_PAORA_HOME4: ¿Cómo te encuentras? Si notas\nel cansancio de la batalla en los\nmúsculos, puedo darte un masaje.
+MID_PAORA_HOME5: ¡Ay, me he olvidado de atender\na los pegasos!
+MID_PAORA_FRIEND: ¡Es un honor conocerte!\nMe ha enviado a saludarte\n$Nf.
+MID_PAORA_LEVEL1: ¡Qué maravilla! Esto es como\nuna inyección de moral.
+MID_PAORA_LEVEL2: ¡Sé que todavía puedo hacerlo\nmucho mejor!
+MID_PAORA_LEVEL3: Qué decepción...
+MID_PAORA_SKILL: Muchas gracias. Seguiré dando\nlo mejor de mí misma.
+MID_PAORA_JOIN: Soy Palla, caballero pegaso de las\nAlas Blancas de Medonia. Es un\nhonor servir a tus órdenes.
+MID_PAORA_STRONGEST: Como sabrás, mi lealtad hacia la\nprincesa Minerva es inquebrantable.$k$pY luego están mis hermanas, que\nson lo más importante para mí.$k$pPero admito que aquí he conocido\na otra persona que ya ocupa un\nlugar en mi corazón.$k$pEjem... No sé si me he explicado bien.\nLo que quiero decir es que me llena\nde orgullo servir bajo tus órdenes.$k$p¡No lo cambiaría por nada\nen el mundo!
+MID_PAORA_VOICE01: はいっ！
+MID_PAORA_VOICE02: ええいっ！
+MID_PAORA_VOICE03: きゃああっ！
+MID_PAORA_VOICE04: Oh no...!
+MID_PAORA_VOICE05: Mis disculpas.
+MID_PAORA_VOICE06: Con tu permiso.
+MID_PAORA_VOICE07: No mostraré clemencia.
+MID_PAORA_VOICE08: ¡No me subestimes!
+MID_PAORA_VOICE09: I'm sorry.
+MID_PAORA_VOICE10: Heehee
+MID_PAORA_VOICE11: Is something the matter?
+MID_PAORA_VOICE12: AH! Oh, you startled me, you trickster you.
+MID_PAORA_VOICE13: We must all strive to do our best out there.
+MID_PAORA_VOICE14: You aren't hurt, are you?
+MID_PAORA_VOICE15: I can't help but take care of you and the others.
+MID_PAORA_VOICE16: Please, make sure you take time to rest. We need you!
+MID_PAORA_VOICE17: If you need my help with anything, please let me know.
+MID_PAORA_VOICE18: Yes?
+MID_PAORA_VOICE19: Here we go.
+MID_PAORA_VOICE20: Onward.

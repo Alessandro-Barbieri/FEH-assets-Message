@@ -1,0 +1,216 @@
+[Heroes Archive] (Data_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_無竜: Souffle gris. Portée : 1. Attaque dont\nles dégâts dépendent de la Résistance\nde l'ennemi.
+MID_MISSION_S201803ARM01_TITLE: À vos armes
+MID_MISSION_S201803ARM01_A1: Victoire : épée
+MID_MISSION_H_S201803ARM01_A1: Vaincre des ennemis avec des unités maniant\nl'épée.
+MID_MISSION_S201803ARM01_A2: Victoire : lance
+MID_MISSION_H_S201803ARM01_A2: Vaincre des ennemis avec des unités maniant\nla lance.
+MID_MISSION_S201803ARM01_A3: Victoire : hache
+MID_MISSION_H_S201803ARM01_A3: Vaincre des ennemis avec des unités maniant\nla hache.
+MID_MISSION_S201803ARM01_A4: Victoire : arc
+MID_MISSION_H_S201803ARM01_A4: Vaincre des ennemis avec des unités maniant\nl'arc.
+MID_MISSION_S201803ARM01_A5: Victoire : dague
+MID_MISSION_H_S201803ARM01_A5: Vaincre des ennemis avec des unités maniant\nla dague.
+MID_MISSION_S201803ARM01_A6: Victoire : tome rouge
+MID_MISSION_H_S201803ARM01_A6: Vaincre des ennemis avec des unités utilisant\nun tome rouge.
+MID_MISSION_S201803ARM01_A7: Victoire : tome bleu
+MID_MISSION_H_S201803ARM01_A7: Vaincre des ennemis avec des unités utilisant\nun tome bleu.
+MID_MISSION_S201803ARM01_A8: Victoire : tome vert
+MID_MISSION_H_S201803ARM01_A8: Vaincre des ennemis avec des unités utilisant\nun tome vert.
+MID_MISSION_S201803ARM01_A9: Victoire : bâton
+MID_MISSION_H_S201803ARM01_A9: Vaincre des ennemis avec des unités maniant\nle bâton.
+MID_MISSION_S201803ARM01_A10: Domination : épée
+MID_MISSION_H_S201803ARM01_A10: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant l'épée.
+MID_MISSION_S201803ARM01_A11: Domination : lance
+MID_MISSION_H_S201803ARM01_A11: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la lance.
+MID_MISSION_S201803ARM01_A12: Domination : hache
+MID_MISSION_H_S201803ARM01_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la hache.
+MID_MISSION_S201803ARM01_A13: Domination : arc
+MID_MISSION_H_S201803ARM01_A13: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant l'arc.
+MID_MISSION_S201803ARM01_A14: Domination : dague
+MID_MISSION_H_S201803ARM01_A14: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la dague.
+MID_MISSION_S201803ARM01_A15: Domination : tome rouge
+MID_MISSION_H_S201803ARM01_A15: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome rouge.
+MID_MISSION_S201803ARM01_A16: Domination : tome bleu
+MID_MISSION_H_S201803ARM01_A16: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome bleu.
+MID_MISSION_S201803ARM01_A17: Domination : tome vert
+MID_MISSION_H_S201803ARM01_A17: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome vert.
+MID_MISSION_S201803ARM01_A18: Domination : bâton
+MID_MISSION_H_S201803ARM01_A18: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant\nle bâton.
+MID_MISSION_S201803HERO01_TITLE: Grandes batailles
+MID_MISSION_S201803HERO01_A1: Zephiel
+MID_MISSION_H_S201803HERO01_A1: Remporter la grande bataille contre\nZephiel, le libérateur, avec\nAlfonse dans votre équipe.
+MID_MISSION_S201803HERO01_A2: Zephiel
+MID_MISSION_H_S201803HERO01_A2: Remporter la grande bataille contre Zephiel,\nle libérateur, en Expert ou supérieur avec\nZephiel, le libérateur, dans votre équipe.
+MID_MISSION_S201803HERO01_A3: Zephiel
+MID_MISSION_H_S201803HERO01_A3: Avec Alfonse, vaincre une version\nde niveau 40 ou supérieur de Zephiel,\nle libérateur.
+MID_MISSION_S201803HERO01_A4: Zephiel
+MID_MISSION_H_S201803HERO01_A4: Avec Zephiel, le libérateur, vaincre\nune version de niveau 40 ou supérieur\nde Zephiel, le libérateur.
+MID_MISSION_S201803HERO01_A5: Zephiel
+MID_MISSION_H_S201803HERO01_A5: Remporter la grande bataille contre Zephiel, le\nlibérateur, en Expert ou supérieur avec une\néquipe ne comportant que des unités cuirassées.
+MID_MISSION_S201803SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201803SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201803SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201803SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201803SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201803SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803STORY01_TITLE: La véritable proie
+MID_MISSION_S201803STORY01_A1: Chap. 6 - Acte 1 (Expert)
+MID_MISSION_H_S201803STORY01_A1: Terminer Livre II, Chap. 6, Acte 1 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY01_A2: Chap. 6 - Acte 2 (Expert)
+MID_MISSION_H_S201803STORY01_A2: Terminer Livre II, Chap. 6, Acte 2 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY01_A3: Chap. 6 - Acte 3 (Expert)
+MID_MISSION_H_S201803STORY01_A3: Terminer Livre II, Chap. 6, Acte 3 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY01_A4: Chap. 6 - Acte 4 (Expert)
+MID_MISSION_H_S201803STORY01_A4: Terminer Livre II, Chap. 6, Acte 4 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY01_A5: Chap. 6 - Acte 5 (Expert)
+MID_MISSION_H_S201803STORY01_A5: Terminer Livre II, Chap. 6, Acte 5 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_クロム2: Chrom
+MPID_ジェローム: Gerome
+MPID_マーク女: Linfan
+MPID_マーク男: Linfan
+MPID_HONOR_クロム2: Saint-chevalier
+MPID_HONOR_ジェローム: Cavalier masqué
+MPID_HONOR_マーク女: Fille lointaine
+MPID_HONOR_マーク男: Fils lointain
+MPID_H_クロム2: Prince d'Ylisse ayant découvert un nouveau\npouvoir. Il combat avec courage sur sa\nfidèle monture. Apparaît dans Fire Emblem:\nAwakening.
+MPID_H_ジェローム: Fils de Zelcher. Peu habitué à interagir avec\nd'autres personnes. Sa wyverne, Minerva,\nappartenait à sa défunte mère. Apparaît\ndans Fire Emblem: Awakening.
+MPID_H_マーク女: Fille de Daraen. Stratège en herbe amnésique\nau tempérament enthousiaste, adore étudier.\nApparaît dans Fire Emblem: Awakening.
+MPID_H_マーク男: Fils de Daraen. Stratège en herbe amnésique\nau tempérament enthousiaste, adore étudier.\nApparaît dans Fire Emblem: Awakening.
+MPID_VOICE_クロム2: Matt Mercer
+MPID_VOICE_ジェローム: Orion Acaba
+MPID_VOICE_マーク女: Nicole Balick
+MPID_VOICE_マーク男: Todd Haberkorn
+MPID_ILLUST_クロム2: Yamada Kotaro (山田孝太郎)
+MPID_ILLUST_ジェローム: Meka (めか)
+MPID_ILLUST_マーク女: Tobi
+MPID_ILLUST_マーク男: Tobi
+MID_SEQUENTIAL_MAP_TERM_201803: Liens et destinée
+MSID_深き印の風: Marque du vent
+MSID_第8迷宮の覇者1: Assaut réussi H 1
+MSID_第8迷宮の覇者2: Assaut réussi H 2
+MSID_第8迷宮の覇者3: Assaut réussi H 3
+MSID_封剣ファルシオン: Falchion scellée
+MSID_ポールアクス: Hache polaire
+MSID_ポールアクス＋: Hache polaire +
+MSID_魔書ギムレー: Œil de Grima
+MSID_ブラーサーペント: Crochets saphir
+MSID_ブラーサーペント＋: Crochets saphir +
+MSID_鬼神明鏡の構え1: Posture résolue 1
+MSID_鬼神明鏡の構え2: Posture résolue 2
+MSID_守備の封印1: Gel Déf 1
+MSID_守備の封印2: Gel Déf 2
+MSID_守備の封印3: Gel Déf 3
+MSID_強化無効・遠距離1: Affaibl. distance 1
+MSID_強化無効・遠距離2: Affaibl. distance 2
+MSID_強化無効・遠距離3: Affaibl. distance 3
+MSID_H_深き印の風: En début de tour, inflige Atq -7 à l'ennemi\navec l'Atq la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_ジークリンデ改: En début de tour, confère Atq +4 aux\nalliés adjacents pendant un tour.
+MSID_H_ブリュンヒルデ改: Si l'ennemi utilise la magie, réduit les dégâts\nde sa première attaque de 30 %.
+MSID_H_アウルR: Pendant le combat, confère un boost\nd'Atq/Vit/Déf/Rés correspondant au\ndouble du nombre d'alliés adjacents.
+MSID_H_強化共有R: Pour chaque caractéristique (Atq/Vit/Déf/Rés),\nconfère le boost le plus élevé parmi ceux des\nalliés à deux cases ou moins pendant le combat.
+MSID_H_追撃不可R遠守備1: Si l'ennemi utilise un arc, une dague, la magie\nou un bâton et que Déf unité > Déf ennemi,\ndouble frappe impossible pour l'ennemi.
+MSID_H_第8迷宮の覇者1: Confère Rés +1.
+MSID_H_第8迷宮の覇者2: Confère Rés +2.
+MSID_H_第8迷宮の覇者3: Confère Rés +3.
+MSID_H_封剣ファルシオン: Efficace contre les dragons. Si\nPV < 100 % au début du combat, confère\nAtq/Vit/Déf/Rés +5 pendant le combat.
+MSID_H_ポールアクス: Efficace contre la cavalerie.
+MSID_H_ポールアクス＋: Efficace contre la cavalerie.
+MSID_H_魔書ギムレー: Confère Déf +3. Après le combat, si l'unité\na attaqué, inflige Atq/Vit -5 à la cible et aux\nennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase, et confère\nAtq/Vit +5 à l'unité et aux alliés à 2 cases\nou moins pendant 1 tour.
+MSID_H_ブラーサーペント: Si un ennemi utilisant un arc, une dague,\nla magie ou un bâton initie le combat,\nconfère Déf/Rés +6 pendant le combat.
+MSID_H_ブラーサーペント＋: Si un ennemi utilisant un arc, une dague,\nla magie ou un bâton initie le combat,\nconfère Déf/Rés +6 pendant le combat.
+MSID_H_鬼神明鏡の構え1: Si l'ennemi initie le combat, confère Atq/Rés +2\npendant le combat.
+MSID_H_鬼神明鏡の構え2: Si l'ennemi initie le combat, confère Atq/Rés +4\npendant le combat.
+MSID_H_守備の封印1: En début de tour, inflige Déf -3 à l'ennemi\navec la Déf la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_守備の封印2: En début de tour, inflige Déf -5 à l'ennemi\navec la Déf la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_守備の封印3: En début de tour, inflige Déf -7 à l'ennemi\navec la Déf la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_強化無効・遠距離1: Si PV = 100 % au début du combat et que\nl'ennemi utilise un arc, une dague, la magie,\nou un bâton, les bonus dont il bénéficie grâce\nà des aptitudes comme Prudence ou Ralliement\nsont annulés pendant le combat.
+MSID_H_強化無効・遠距離2: Si PV ≥ 50 % au début du combat et que\nl'ennemi utilise un arc, une dague, la magie,\nou un bâton, les bonus dont il bénéficie grâce\nà des aptitudes comme Prudence ou Ralliement\nsont annulés pendant le combat.
+MSID_H_強化無効・遠距離3: Si l'ennemi utilise un arc, une dague,\nla magie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MID_CHAPTER_TITLE_C0206: Livre II, Chap. 6
+MID_CHAPTER_C0206: La véritable proie
+MID_STAGE_TITLE_S2061: Ch. 6 - Acte 1
+MID_STAGE_TITLE_S2062: Ch. 6 - Acte 2
+MID_STAGE_TITLE_S2063: Ch. 6 - Acte 3
+MID_STAGE_TITLE_S2064: Ch. 6 - Acte 4
+MID_STAGE_TITLE_S2065: Ch. 6 - Acte 5
+MID_STAGE_S2061: Rêve lointain
+MID_STAGE_S2062: Le chevalier marqué
+MID_STAGE_S2063: La fille du stratège
+MID_STAGE_S2064: Le fils de la stratège
+MID_STAGE_S2065: Écrin ardent
+MID_HEADQUARTERS_TUTORIAL_DIALOG_00: Détruisez la forteresse ennemie !
+MID_WARPBASE_TUTORIAL_DIALOG_00: Allez et venez entre vos territoires.
+MID_STAGE_TITLE_SB_0008: 8e assaut
+MID_CHAPTER_ST_C0203: Chapitres 5 et 6
+MID_STAGE_TITLE_ST_S0205: Chapitre 5
+MID_STAGE_TITLE_ST_S0206: Chapitre 6
+MID_STAGE_TITLE_ST_S1206: Chapitres 5 et 6
+MID_STAGE_HONOR_T0027: Héros liés
+MID_STAGE_T0027: C & L
+MID_STAGE_HONOR_V0221: Awakening
+MID_STAGE_V0221: Tharja
+MID_STAGE_HONOR_V0222: Awakening
+MID_STAGE_V0222: Olivia
+MID_STAGE_HONOR_V0223: Fates
+MID_STAGE_V0223: Odin
+MID_STAGE_HONOR_Q0001: Hebdo.
+MID_STAGE_Q0001: Domaines rivaux
+MID_STAGE_HONOR_Q0002: Hebdo.
+MID_STAGE_Q0002: Domaines rivaux
+MID_STAGE_HONOR_Q0003: Hebdo.
+MID_STAGE_Q0003: Domaines rivaux
+MID_STAGE_HONOR_Q0004: Hebdo.
+MID_STAGE_Q0004: Domaines rivaux
+MID_STAGE_HONOR_Q0005: Hebdo.
+MID_STAGE_Q0005: Domaines rivaux
+MID_STAGE_TITLE_BG_WATER_0001: Eau 1
+MID_STAGE_BG_WATER_0001: Grande porte
+MID_STAGE_TITLE_BG_WATER_0002: Eau 2
+MID_STAGE_BG_WATER_0002: Allée
+MID_STAGE_TITLE_BG_WATER_0003: Eau 3
+MID_STAGE_BG_WATER_0003: Statue
+MID_STAGE_TITLE_BG_WATER_0004: Eau 4
+MID_STAGE_BG_WATER_0004: Pavillon
+MID_STAGE_TITLE_BG_WATER_0005: Eau 5
+MID_STAGE_BG_WATER_0005: Grotte
+MID_STAGE_TITLE_BG_WATER_0006: Eau 6
+MID_STAGE_BG_WATER_0006: Sanctuaire
+MID_STAGE_TITLE_BG_WIND_0001: Vent 1
+MID_STAGE_BG_WIND_0001: Grande porte
+MID_STAGE_TITLE_BG_WIND_0002: Vent 2
+MID_STAGE_BG_WIND_0002: Allée
+MID_STAGE_TITLE_BG_WIND_0003: Vent 3
+MID_STAGE_BG_WIND_0003: Statue
+MID_STAGE_TITLE_BG_WIND_0004: Vent 4
+MID_STAGE_BG_WIND_0004: Pavillon
+MID_STAGE_TITLE_BG_WIND_0005: Vent 5
+MID_STAGE_BG_WIND_0005: Grotte
+MID_STAGE_TITLE_BG_EARTH_0001: Terre 1
+MID_STAGE_BG_EARTH_0001: Grande porte
+MID_STAGE_TITLE_BG_EARTH_0002: Terre 2
+MID_STAGE_BG_EARTH_0002: Allée
+MID_STAGE_TITLE_BG_EARTH_0003: Terre 3
+MID_STAGE_BG_EARTH_0003: Statue
+MID_STAGE_TITLE_BG_EARTH_0004: Terre 4
+MID_STAGE_BG_EARTH_0004: Pavillon
+MID_STAGE_TITLE_BG_EARTH_0005: Terre 5
+MID_STAGE_BG_EARTH_0005: Grotte
+MID_STAGE_TITLE_BG_FIRE_0001: Feu 1
+MID_STAGE_BG_FIRE_0001: Grande porte
+MID_STAGE_TITLE_BG_FIRE_0002: Feu 2
+MID_STAGE_BG_FIRE_0002: Allée
+MID_STAGE_TITLE_BG_FIRE_0003: Feu 3
+MID_STAGE_BG_FIRE_0003: Statue
+MID_STAGE_TITLE_BG_FIRE_0004: Feu 4
+MID_STAGE_BG_FIRE_0004: Pavillon
+MID_STAGE_TITLE_BG_FIRE_0005: Feu 5
+MID_STAGE_BG_FIRE_0005: Grotte

@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: Roter Bogen. Reichw.: 2 - Phys. Waffe.\nVer. des Angriffsziels reduziert Schaden.\nExtraschaden bei fliegenden Gegnern.
+MWID_H_青弓: Blauer Bogen. Reichw.: 2 - Phys. Waffe.\nVer. des Angriffsziels reduziert Schaden.\nExtraschaden bei fliegenden Gegnern.
+MWID_H_緑弓: Grüner Bogen. Reichw.: 2 - Phys. Waffe.\nVer. des Angriffsziels reduziert Schaden.\nExtraschaden bei fliegenden Gegnern.
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: Dieses Angebot ist nicht nutzbar.\nDer Verkauf wurde eingestellt.
+MID_MISSION_S201804DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201804DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201804DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201804DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201804DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201804DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201804DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201804MOVE01_TITLE: Bewegungstyp
+MID_MISSION_S201804MOVE01_A1: Infanterie besiegt Rot
+MID_MISSION_H_S201804MOVE01_A1: Besiege rote Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201804MOVE01_A2: Infanterie besiegt Blau
+MID_MISSION_H_S201804MOVE01_A2: Besiege blaue Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201804MOVE01_A3: Infanterie besiegt Grün
+MID_MISSION_H_S201804MOVE01_A3: Besiege grüne Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201804MOVE01_A4: Infanterie besiegt Farblos
+MID_MISSION_H_S201804MOVE01_A4: Besiege farblose Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201804MOVE01_A5: Gepanzert besiegt Rot
+MID_MISSION_H_S201804MOVE01_A5: Besiege rote Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201804MOVE01_A6: Gepanzert besiegt Blau
+MID_MISSION_H_S201804MOVE01_A6: Besiege blaue Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201804MOVE01_A7: Gepanzert besiegt Grün
+MID_MISSION_H_S201804MOVE01_A7: Besiege grüne Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201804MOVE01_A8: Gepanzert besiegt Farblos
+MID_MISSION_H_S201804MOVE01_A8: Besiege farblose Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201804MOVE01_A9: Kavallerie besiegt Rot
+MID_MISSION_H_S201804MOVE01_A9: Besiege rote Gegner mit\nKavallerieeinheiten.
+MID_MISSION_S201804MOVE01_A10: Kavallerie besiegt Blau
+MID_MISSION_H_S201804MOVE01_A10: Besiege blaue Gegner mit\nKavallerieeinheiten.
+MID_MISSION_S201804MOVE01_A11: Kavallerie besiegt Grün
+MID_MISSION_H_S201804MOVE01_A11: Besiege grüne Gegner mit\nKavallerieeinheiten.
+MID_MISSION_S201804MOVE01_A12: Kavallerie besiegt Farblos
+MID_MISSION_H_S201804MOVE01_A12: Besiege farblose Gegner mit\nKavallerieeinheiten.
+MID_MISSION_S201804MOVE01_A13: Flieger besiegt Rot
+MID_MISSION_H_S201804MOVE01_A13: Besiege rote Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201804MOVE01_A14: Flieger besiegt Blau
+MID_MISSION_H_S201804MOVE01_A14: Besiege blaue Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201804MOVE01_A15: Flieger besiegt Grün
+MID_MISSION_H_S201804MOVE01_A15: Besiege grüne Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201804MOVE01_A16: Flieger besiegt Farblos
+MID_MISSION_H_S201804MOVE01_A16: Besiege farblose Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201804SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201804SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201804SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201804SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201804SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201804SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201804SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201804SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201804SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201804YEAR01_TITLE: GHK-Elite 2
+MID_MISSION_S201804YEAR01_A1: Legion besiegen
+MID_MISSION_H_S201804YEAR01_A1: Gewinne den Großen Heldenkampf\ngegen Legion: Lachende Maske.
+MID_MISSION_S201804YEAR01_A2: Legion besiegen
+MID_MISSION_H_S201804YEAR01_A2: Gewinne den Großen Heldenkampf\ngegen Legion: Lachende Maske auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A3: Legion besiegen
+MID_MISSION_H_S201804YEAR01_A3: Gewinne den Großen Heldenkampf\ngegen Legion: Lachende Maske auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A4: Legion besiegen
+MID_MISSION_H_S201804YEAR01_A4: Gewinne den Großen Heldenkampf\ngegen Legion: Lachende Maske auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A5: Legion besiegen
+MID_MISSION_H_S201804YEAR01_A5: Gewinne den Großen Heldenkampf\ngegen Legion: Lachende Maske auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A6: Clarisse besiegen
+MID_MISSION_H_S201804YEAR01_A6: Gewinne den Großen Heldenkampf\ngegen Clarisse: Dunkle Schützin.
+MID_MISSION_S201804YEAR01_A7: Clarisse besiegen
+MID_MISSION_H_S201804YEAR01_A7: Gewinne den Großen Heldenkampf\ngegen Clarisse: Dunkle Schützin auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A8: Clarisse besiegen
+MID_MISSION_H_S201804YEAR01_A8: Gewinne den Großen Heldenkampf\ngegen Clarisse: Dunkle Schützin auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A9: Clarisse besiegen
+MID_MISSION_H_S201804YEAR01_A9: Gewinne den Großen Heldenkampf\ngegen Clarisse: Dunkle Schützin auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A10: Clarisse besiegen
+MID_MISSION_H_S201804YEAR01_A10: Gewinne den Großen Heldenkampf\ngegen Clarisse: Dunkle Schützin auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A11: Berkut besiegen
+MID_MISSION_H_S201804YEAR01_A11: Gewinne den Großen Heldenkampf\ngegen Berkut: Stolzer Prinz.
+MID_MISSION_S201804YEAR01_A12: Berkut besiegen
+MID_MISSION_H_S201804YEAR01_A12: Gewinne den Großen Heldenkampf\ngegen Berkut: Stolzer Prinz auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A13: Berkut besiegen
+MID_MISSION_H_S201804YEAR01_A13: Gewinne den Großen Heldenkampf\ngegen Berkut: Stolzer Prinz auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A14: Berkut besiegen
+MID_MISSION_H_S201804YEAR01_A14: Gewinne den Großen Heldenkampf\ngegen Berkut: Stolzer Prinz auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A15: Berkut besiegen
+MID_MISSION_H_S201804YEAR01_A15: Gewinne den Großen Heldenkampf\ngegen Berkut: Stolzer Prinz auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A16: Valter besiegen
+MID_MISSION_H_S201804YEAR01_A16: Gewinne den Großen Heldenkampf\ngegen Valter: Der Mondstein.
+MID_MISSION_S201804YEAR01_A17: Valter besiegen
+MID_MISSION_H_S201804YEAR01_A17: Gewinne den Großen Heldenkampf\ngegen Valter: Der Mondstein auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A18: Valter besiegen
+MID_MISSION_H_S201804YEAR01_A18: Gewinne den Großen Heldenkampf\ngegen Valter: Der Mondstein auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A19: Valter besiegen
+MID_MISSION_H_S201804YEAR01_A19: Gewinne den Großen Heldenkampf\ngegen Valter: Der Mondstein auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A20: Valter besiegen
+MID_MISSION_H_S201804YEAR01_A20: Gewinne den Großen Heldenkampf\ngegen Valter: Der Mondstein auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A21: Arvis besiegen
+MID_MISSION_H_S201804YEAR01_A21: Gewinne den Großen Heldenkampf\ngegen Arvis: Flammenkaiser.
+MID_MISSION_S201804YEAR01_A22: Arvis besiegen
+MID_MISSION_H_S201804YEAR01_A22: Gewinne den Großen Heldenkampf\ngegen Arvis: Flammenkaiser auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A23: Arvis besiegen
+MID_MISSION_H_S201804YEAR01_A23: Gewinne den Großen Heldenkampf\ngegen Arvis: Flammenkaiser auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A24: Arvis besiegen
+MID_MISSION_H_S201804YEAR01_A24: Gewinne den Großen Heldenkampf\ngegen Arvis: Flammenkaiser auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A25: Arvis besiegen
+MID_MISSION_H_S201804YEAR01_A25: Gewinne den Großen Heldenkampf\ngegen Arvis: Flammenkaiser auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A26: Zephiel besiegen
+MID_MISSION_H_S201804YEAR01_A26: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter.
+MID_MISSION_S201804YEAR01_A27: Zephiel besiegen
+MID_MISSION_H_S201804YEAR01_A27: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A28: Zephiel besiegen
+MID_MISSION_H_S201804YEAR01_A28: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A29: Zephiel besiegen
+MID_MISSION_H_S201804YEAR01_A29: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A30: Zephiel besiegen
+MID_MISSION_H_S201804YEAR01_A30: Gewinne den Großen Heldenkampf\ngegen Zephiel: Der Erretter auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804YEAR01_A31: Camus besiegen
+MID_MISSION_H_S201804YEAR01_A31: Gewinne den Großen Heldenkampf\ngegen Camus: Der Schwarze.
+MID_MISSION_S201804YEAR01_A32: Camus besiegen
+MID_MISSION_H_S201804YEAR01_A32: Gewinne den Großen Heldenkampf\ngegen Camus: Der Schwarze auf\nExtrem oder höher und setze dabei\nnur Helden mit Wassersegen oder\nLegendäre Wasserhelden ein.
+MID_MISSION_S201804YEAR01_A33: Camus besiegen
+MID_MISSION_H_S201804YEAR01_A33: Gewinne den Großen Heldenkampf\ngegen Camus: Der Schwarze auf\nExtrem oder höher und setze dabei\nnur Helden mit Windsegen oder\nLegendäre Windhelden ein.
+MID_MISSION_S201804YEAR01_A34: Camus besiegen
+MID_MISSION_H_S201804YEAR01_A34: Gewinne den Großen Heldenkampf\ngegen Camus: Der Schwarze auf\nExtrem oder höher und setze dabei\nnur Helden mit Erdsegen oder\nLegendäre Erdhelden ein.
+MID_MISSION_S201804YEAR01_A35: Camus besiegen
+MID_MISSION_H_S201804YEAR01_A35: Gewinne den Großen Heldenkampf\ngegen Camus: Der Schwarze auf\nExtrem oder höher und setze dabei\nnur Helden mit Feuersegen oder\nLegendäre Feuerhelden ein.
+MID_MISSION_S201804STORY01_TITLE: Schnee und Asche
+MID_MISSION_S201804STORY01_A1: Kap. 7 Tl. 1 - Extrem
+MID_MISSION_H_S201804STORY01_A1: Bewältige Buch II, Kapitel 7: Teil 1\nauf Extrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201804STORY01_A2: Kap. 7 Tl. 2 - Extrem
+MID_MISSION_H_S201804STORY01_A2: Bewältige Buch II, Kapitel 7: Teil 2\nauf Extrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201804STORY01_A3: Kap. 7 Tl. 3 - Extrem
+MID_MISSION_H_S201804STORY01_A3: Bewältige Buch II, Kapitel 7: Teil 3\nauf Extrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201804STORY01_A4: Kap. 7 Tl. 4 - Extrem
+MID_MISSION_H_S201804STORY01_A4: Bewältige Buch II, Kapitel 7: Teil 4\nauf Extrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201804STORY01_A5: Kap. 7 Tl. 5 - Extrem
+MID_MISSION_H_S201804STORY01_A5: Bewältige Buch II, Kapitel 7: Teil 5\nauf Extrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_H_OCCUPATION_RULE_歩行能力強化: Verleiht Infanterieeinheiten\nAngr./Ges./Ver./Res.+4.
+MID_H_OCCUPATION_RULE_歩行奥義: Erholungszeit beschleunigt sich pro\nAngriff auf Infanterieeinheiten um +1.\n(Nur der höchste Wert zählt, nicht\nkombinierbar.)
+MID_H_OCCUPATION_RULE_重装能力強化: Verleiht gepanzerten Einheiten\nAngr./Ges./Ver./Res. +4.
+MID_H_OCCUPATION_RULE_重装移動強化: Zu Beginn des Zuges können sich\ngepanzerte Einheiten 1 zusätzliches\nFeld bewegen. (Nur in dieser Runde,\nnicht kombinierbar.)
+MID_H_OCCUPATION_RULE_騎馬能力強化: Verleiht Kavallerieeinheiten\nAngr./Ges./Ver./Res. +4.
+MID_H_OCCUPATION_RULE_騎馬追撃: Wenn Kavallerieeinheiten zuerst\nangreifen, führen Einheiten\ngarantiert einen Folgeangriff aus.
+MID_H_OCCUPATION_RULE_飛行能力強化: Verleiht Flugeinheiten\nAngr./Ges./Ver./Res. +4.
+MID_H_OCCUPATION_RULE_飛行先導: Einheiten können sich auf ein\nbenachbartes Feld einer Flugeinheit\ninnerhalb von 2 Feldern bewegen.
+MPID_サイアス: Saias
+MPID_フィン: Finn
+MPID_リーフ: Leif
+MPID_ナンナ: Nanna
+MPID_オルエン2: Olwen
+MPID_ラインハルト2: Reinhardt
+MPID_HONOR_サイアス: Flammenbischof
+MPID_HONOR_フィン: Lanze der Sagen
+MPID_HONOR_リーフ: Prinz von Leonster
+MPID_HONOR_ナンナ: Sanfte Prinzessin
+MPID_HONOR_オルエン2: Gerechte Ritterin
+MPID_HONOR_ラインハルト2: Donners Schwert
+MPID_H_サイアス: Ein Heiler von Velthomer, der als begnadeter\nTaktiker bekannt ist. In seinem Körper befindet\nsich das Mal der Heiligen Ritterin Fjalar.\nErscheint in Fire Emblem: Thracia 776.
+MPID_H_フィン: Er dient dem Reich Leonster und hat Leifs\nVater Quan die Treue geschworen. Sein\noberstes Lebensziel ist der Schutz von Leif.\nErscheint in Fire Emblem: Thracia 776.
+MPID_H_リーフ: Quans Sohn. Er hielt sich in Fiana versteckt,\nlehnte sich nach einem Angriff imperialer\nStreitkräfte jedoch auf. Erscheint in\nFire Emblem: Thracia 776.
+MPID_H_ナンナ: Tochter von Lachesis. Eine charismatische\njunge Dame, die die würdevolle Art ihrer\nMutter geerbt hat. Erscheint in\nFire Emblem: Thracia 776.
+MPID_H_オルエン2: Eine Magieritterin in Frieges Armee. Geht\nnach der Trennung von ihrem geliebten\nBruder Reinhardt ihren eigenen Weg.\nErscheint in Fire Emblem: Thracia 776.
+MPID_H_ラインハルト2: Ein herausragender Magieritter in Frieges\nArmee und Olwens älterer Bruder.\nEr wurde von Prinz Leif bezwungen.\nErscheint in Fire Emblem: Thracia 776.
+MPID_VOICE_サイアス: Ben Lepley
+MPID_VOICE_フィン: Robert Clotworthy
+MPID_VOICE_リーフ: Nicolas Roye
+MPID_VOICE_ナンナ: Alicia Stratten
+MPID_VOICE_オルエン2: Tara Sands
+MPID_VOICE_ラインハルト2: Chris Smith
+MPID_ILLUST_サイアス: Teita (悌太)
+MPID_ILLUST_フィン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_リーフ: Aoji (あおじ)
+MPID_ILLUST_ナンナ: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: Donners Faust
+MID_SEQUENTIAL_MAP_BOOST_49: $a$a1x Pkte + Verb.-Bonus; heute noch $a0x
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: Punkte- und Verbündetenbonus:\nZweimal pro Tag kannst du die\nPunkte verdreifachen und alle\nVerbündeten erhalten KP +10\nund Angr./Ges./Ver./Res. +4.\n\nAußerdem verdienst du doppelte\nErf. und FP!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $aPunkte\n+$a0 %
+MID_SEQUENTIAL_MAP_RECOMMENDED: Empfohlen
+MSID_無銘の一門の剣: Geheime Klinge
+MSID_フォルブレイズ: Fegefeuer
+MSID_第9迷宮の覇者1: Überfall-Ass I 1
+MSID_第9迷宮の覇者2: Überfall-Ass I 2
+MSID_第9迷宮の覇者3: Überfall-Ass I 3
+MSID_マスターソード: Meisterschwert
+MSID_光の剣: Lichtklinge
+MSID_軍神の書: Kriegsgott-Buch
+MSID_雷旋トルネード: Gewitterwolke
+MSID_レスト: Erneuerung
+MSID_レスト＋: Erneuerung+
+MSID_Ｓドリンク: G-Getränk
+MSID_攻撃守備の紋章1: Ang./Ver. ansp. 1
+MSID_攻撃守備の紋章2: Ang./Ver. ansp. 2
+MSID_緑魔の経験1: Buch-Erf. (grün) 1
+MSID_緑魔の経験2: Buch-Erf. (grün) 2
+MSID_緑魔の経験3: Buch-Erf. (grün) 3
+MSID_H_無銘の一門の剣: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_フォルブレイズ: Verursacht zu Beginn des Zuges\nRes. -7 beim Gegner mit der höchsten\nRes. bis nach seiner nächsten Aktion.
+MSID_H_封印の剣改: Effektiv gegen Drachen. Initiiert der\nGegner den Kampf, erhält die\nEinheit Ver./Res. +4 im Kampf.
+MSID_H_リガルブレイド改: Sind die KP des Gegners zu Beginn des\nKampfes = 100 %, erhält die Einheit\nAngr./Ges. +3 im Kampf.
+MSID_H_切り返しR50: Initiiert der Gegner den Kampf und sind die\nKP der Einheit ≥ 50 %, führt die Einheit\ngarantiert einen Folgeangriff aus.
+MSID_H_絆R歩行魔法: Befindet sich die Einheit im Umkreis von\n2 Feldern einer verbündeten Infanterie-\neinheit, die Magie verwendet, erhält sie\nAngr./Ges./Ver./Res. +3 im Kampf.
+MSID_H_第9迷宮の覇者1: Verleiht Ges. +1
+MSID_H_第9迷宮の覇者2: Verleiht Ges. +2
+MSID_H_第9迷宮の覇者3: Verleiht Ges. +3
+MSID_H_マスターソード: Verursacht Ges. -5. Die Einheit\ngreift zweimal an. (Auch wenn\nder Gegner zuerst angreift.)
+MSID_H_光の剣: Verleiht Ver. +3. Ist Ver. des Gegners um\nmindestens 5 höher als Res. des Gegners,\nerhält die Einheit +7 auf Schaden.
+MSID_H_軍神の書: Gegner in Himmelsrichtungen mit\ngeringerer Res. als die Einheit erleiden\nzu Beginn des Zuges Angr./Res. -4 bis\nzum Ende ihrer nächsten Aktion.
+MSID_H_雷旋トルネード: Erhöht zugefügten Schaden um\ndie Anzahl der Boni der Einheit.
+MSID_H_レスト: Stellt 8 KP wieder her. Entfernt negative\nEffekte (durch Fähigkeiten wie Panik,\nGefährden usw.) und neg. Statuseffekte\n(kein Gegenangriff, eingeschränkte\nBewegung usw.), die bis nach der\nnächsten Aktion des Verbündeten dauern.
+MSID_H_レスト＋: Stellt KP um 50 % des Angr. wieder her\n(mindestens 8 KP). Entfernt neg. Effekte\n(durch Fähigkeiten wie Panik, Gefährden\nusw.) und Statuseffekte (kein Gegenangriff,\neinges. Bewegung usw.), die bis nach der\nnächsten Aktion des Verbündeten dauern.
+MSID_H_Ｓドリンク: Zu Beginn des 1. Zuges: Stellt 99 KP\nwieder her und erhöht Chance auf\nSpezialangriffe (Erholungszeit -1).
+MSID_H_攻撃守備の紋章1: Verleiht benachbarten Verbündeten\nAngr./Ver. +2 im Kampf.
+MSID_H_攻撃守備の紋章2: Verleiht benachbarten Verbündeten\nAngr./Ver. +3 im Kampf.
+MSID_H_緑魔の経験1: Überlebt die Einheit und verwendet ein\ngrünes Buch, erhält sie Erf. x 1,5. (Bei\nmehreren ähnlichen Effekten wird nur\nder höchste angewandt.)
+MSID_H_緑魔の経験2: Überlebt die Einheit, erhalten alle\nVerbündeten im Team, die ein grünes\nBuch verwenden, Erf. x 1,5. (Bei\nmehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
+MSID_H_緑魔の経験3: Überlebt die Einheit, erhalten alle\nVerbündeten im Team, die ein grünes\nBuch verwenden, Erf. x 2. (Bei\nmehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
+MID_CHAPTER_TITLE_C0207: Buch II: Kapitel 7
+MID_CHAPTER_C0207: Schnee und Asche
+MID_STAGE_TITLE_S2071: Kapitel 7 - Teil 1
+MID_STAGE_TITLE_S2072: Kapitel 7 - Teil 2
+MID_STAGE_TITLE_S2073: Kapitel 7 - Teil 3
+MID_STAGE_TITLE_S2074: Kapitel 7 - Teil 4
+MID_STAGE_TITLE_S2075: Kapitel 7 - Teil 5
+MID_STAGE_S2071: Echo der Träume
+MID_STAGE_S2072: Klinge des Magieritters
+MID_STAGE_S2073: Unbeugsamer Geist
+MID_STAGE_S2074: Buch und Klinge
+MID_STAGE_S2075: Schnee und Asche
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: Großer-Heldenkampf-Rotation (2):\nFolgende Helden wechseln täglich.\nZephiel: Der Erretter, Camus: Der\nSchwarze, Legion: Lachende Maske,\nClarisse: Dunkle Schützin, Berkut:\nStolzer Prinz, Valter: Der Mondstein\nund Arvis: Flammenkaiser.
+MID_STAGE_TITLE_SB_0009: 9. Überfall
+MID_STAGE_HONOR_V0231: Prämienkarte
+MID_STAGE_V0231: Gegen Xander
+MID_STAGE_HONOR_V0232: Prämienkarte
+MID_STAGE_V0232: Gegen Camilla
+MID_STAGE_HONOR_V0233: Prämienkarte
+MID_STAGE_V0233: Gegen Azura
+MID_STAGE_HONOR_V0234: Prämienkarte
+MID_STAGE_V0234: Gegen Ike
+MID_STAGE_HONOR_V0235: Prämienkarte
+MID_STAGE_V0235: Gegen Roy
+MID_STAGE_HONOR_V0236: Prämienkarte
+MID_STAGE_V0236: Gg. Daraen (m)
+MID_STAGE_HONOR_V0237: Prämienkarte
+MID_STAGE_V0237: Gegen Takumi
+MID_STAGE_HONOR_V0238: Prämienkarte
+MID_STAGE_V0238: Gg. Daraen (w)
+MID_STAGE_HONOR_V0239: Prämienkarte
+MID_STAGE_V0239: Gegen Lucina
+MID_STAGE_HONOR_V0240: Prämienkarte
+MID_STAGE_V0240: Gegen Chrom
+MID_STAGE_HONOR_V0241: Prämienkarte
+MID_STAGE_V0241: Gegen Lyn
+MID_STAGE_HONOR_T0029: Flammenbischof
+MID_STAGE_T0029: Saias
+MID_STAGE_HONOR_Q0006: Wöchentlich
+MID_STAGE_Q0006: Revierkampf
+MID_STAGE_HONOR_Q0007: Wöchentlich
+MID_STAGE_Q0007: Revierkampf
+MID_STAGE_HONOR_Q0008: Wöchentlich
+MID_STAGE_Q0008: Revierkampf
+MID_STAGE_HONOR_Q0009: Wöchentlich
+MID_STAGE_Q0009: Revierkampf
+MID_STAGE_TITLE_BG_WATER_0007: Wasser 7
+MID_STAGE_BG_WATER_0007: Wassersäulen
+MID_STAGE_TITLE_BG_WIND_0006: Wind 6
+MID_STAGE_BG_WIND_0006: Heiligtum
+MID_STAGE_TITLE_BG_EARTH_0006: Erde 6
+MID_STAGE_BG_EARTH_0006: Heiligtum
+MID_STAGE_TITLE_BG_FIRE_0006: Feuer 6
+MID_STAGE_BG_FIRE_0006: Heiligtum

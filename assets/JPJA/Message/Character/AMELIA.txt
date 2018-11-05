@@ -1,0 +1,38 @@
+[Heroes Archive] (AMELIA)
+
+
+Heroes Message Name: Message
+
+
+MID_AMELIA_HOME1: あたしはグラド帝国のシルバ村から来たの。\n国のために戦おうと思って…\n村のみんな、元気かな…
+MID_AMELIA_HOME2: あたしは…あたしの、\n自分の思う正義を信じたい…
+MID_AMELIA_HOME3: 疲れてるなら、あたしが手伝うよ。\nこれでも、ほらっ、\n一応兵士のはしくれだし…ねっ？
+MID_AMELIA_HOME4: ねえねえ、あっちで小鳥が鳴いてるよ。\nすごくキレイな声だから、\n一緒に聴きにいかない？
+MID_AMELIA_HOME5: 毎日訓練はしてるよ。\n憧れのデュッセル将軍に少しでも\n近づけたらって思ってるんだ。
+MID_AMELIA_FRIEND: $Nfに言われてきたんだよ。\n$Nuはお友達なんだよね。\nこれからも仲良くしてね。
+MID_AMELIA_LEVEL1: あたしでもこんなに\n強くなれるんだ…！
+MID_AMELIA_LEVEL2: あたしも、一人前の\n兵士っぽくなれたかな？
+MID_AMELIA_LEVEL3: やっぱりあたしには\n素質ないのかなぁ…
+MID_AMELIA_SKILL: これって強くなれたって\nことだよね、嬉しい！
+MID_AMELIA_JOIN: あ、あたしはグラド帝国の兵士、\nアメリアです。若輩者ですが、\nよろしくおねがいします！
+MID_AMELIA_STRONGEST: あたし…強くなれたのかな？\n一人前の兵士になれたのかな？\n大切な人を守れるくらいに…$k$p…あたしのお母さんはね…\nあたしが子供の頃、\n山賊に連れていかれたの…$k$pあたしは震えてるだけで…\n何もできなかった…\nお母さんを…守れなかった…$k$pだから、あたし…強くなりたかったの…\n自分の大切な人を\n今度こそ守れるように…っ…$k$p…ありがとう、\n$Nu…\nあたしの話、聞いてくれて。$k$pこれからも見ててね。\nあたしの大切な人のこと…\nちゃんと守ってみせるから…
+MID_AMELIA_VOICE01: えいっ！
+MID_AMELIA_VOICE02: うんしょっ！
+MID_AMELIA_VOICE03: きゃああっ！
+MID_AMELIA_VOICE04: 捕虜にされちゃう…
+MID_AMELIA_VOICE05: が、がんばるぞ！
+MID_AMELIA_VOICE06: 守りたい！
+MID_AMELIA_VOICE07: こ、怖くなんか…
+MID_AMELIA_VOICE08: え、えええっ！？
+MID_AMELIA_VOICE09: がんばれた…かな…？
+MID_AMELIA_VOICE10: あはっ
+MID_AMELIA_VOICE11: 強くなって、大切な人を守りたいの。
+MID_AMELIA_VOICE12: ひゃんっ！？　もう…心臓止まりそうになったよ～。
+MID_AMELIA_VOICE13: よ、鎧、重くて…倒れちゃいそう…
+MID_AMELIA_VOICE14: えいっ！　それっ！　たぁっ！　？　…ど、どこ見てるの？
+MID_AMELIA_VOICE15: あはっ、なんだかちょっと…照れる…
+MID_AMELIA_VOICE16: お母さん…あたしが…もっと強かったら……うぅっ……
+MID_AMELIA_VOICE17: あたしは、あなたを守る盾になりたい…
+MID_AMELIA_VOICE18: うんっ
+MID_AMELIA_VOICE19: いち、に、いち、に
+MID_AMELIA_VOICE20: どきどきする…

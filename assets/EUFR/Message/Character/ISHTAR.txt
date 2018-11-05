@@ -1,0 +1,38 @@
+[Heroes Archive] (ISHTAR)
+
+
+Heroes Message Name: Message
+
+
+MID_ISHTAR_HOME1: Le prince Alfonse est à la fois\nraisonnable et généreux...$k$pIl me rappelle... Oh, pardonnez-moi.\nJe ne veux pas vous ennuyer avec\ncela.
+MID_ISHTAR_HOME2: Je savais que l'empire n'existait que\ngrâce à l'oppression...$k$pMalgré cela, je n'ai fait que combattre\nl'armée qui voulait libérer le peuple...
+MID_ISHTAR_HOME3: Vos vêtements sont tout froissés !\nEn tant qu'$Ginvocateur,invocatrice|, vous devriez\nsoigner un peu plus votre apparence.
+MID_ISHTAR_HOME4: Si vous continuez à ce rythme, vous\nn'aurez plus de forces au moment où\nnous aurons le plus besoin de vous.$k$pPourquoi ne feriez-vous pas une\npause ?
+MID_ISHTAR_HOME5: Monseigneur Julius...\nPardonnez-moi...
+MID_ISHTAR_FRIEND: Je suis Ishtar. Puisse votre amitié\navec $Nf\ndurer encore longtemps.
+MID_ISHTAR_LEVEL1: Voyez la puissance d'Ishtar,\nla déesse de l'éclair !
+MID_ISHTAR_LEVEL2: Petit à petit, je progresse.
+MID_ISHTAR_LEVEL3: Mon incompétence est\ninexcusable.
+MID_ISHTAR_SKILL: Merci. Je vais redoubler d'efforts,\net les résultats ne tarderont pas.
+MID_ISHTAR_JOIN: Je suis Ishtar de Friege. Ma magie\nest à votre service.
+MID_ISHTAR_STRONGEST: $Nu...\nY a-t-il quelqu'un qui fait battre\nvotre cœur ?$k$pUne personne que vous aimez...\npeu importe si elle vous aime en\nretour ou non.$k$pJ'imagine que cette question doit\nvous surprendre, mais j'ai besoin\nde comprendre quelque chose...$k$pIl y a peu de temps, j'ai combattu\npour celui que j'aime.$k$pPourtant, je savais que, moralement\net militairement parlant, ce n'était\npas la bonne décision.$k$pIl est possible que vous soyez un jour\n$Gconfronté,confrontée| à une situation similaire...$k$pPromettez-moi que si cela se produit,\nvous ne ferez pas un choix que vous\nregretteriez par la suite.
+MID_ISHTAR_VOICE01: はぁっ！
+MID_ISHTAR_VOICE02: せいっ！
+MID_ISHTAR_VOICE03: きゃああっ！
+MID_ISHTAR_VOICE04: Wh..what...!
+MID_ISHTAR_VOICE05: Pardonnez-moi.
+MID_ISHTAR_VOICE06: Il n'y a plus rien à dire.
+MID_ISHTAR_VOICE07: Vous allez mourir ici.
+MID_ISHTAR_VOICE08: La colère de Mjölnir !
+MID_ISHTAR_VOICE09: Lord Julius... I...
+MID_ISHTAR_VOICE10: Hehe
+MID_ISHTAR_VOICE11: I am Ishtar, known as the goddess of thunder.
+MID_ISHTAR_VOICE12: Ah! What do you want?
+MID_ISHTAR_VOICE13: Sacrifice children to that dark god? I cannot do it.
+MID_ISHTAR_VOICE14: Lord Julius... Please forgive me.
+MID_ISHTAR_VOICE15: Reinhardt served me ever since I was a child...
+MID_ISHTAR_VOICE16: Perhaps... Perhaps I was in the wrong.
+MID_ISHTAR_VOICE17: When I'm with you, I feel my doubts melt away.
+MID_ISHTAR_VOICE18: Yes.
+MID_ISHTAR_VOICE19: Your orders?
+MID_ISHTAR_VOICE20: Send me.

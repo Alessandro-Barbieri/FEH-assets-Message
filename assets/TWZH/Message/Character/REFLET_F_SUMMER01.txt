@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F_SUMMER01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_SUMMER01_HOME1: 我看庫洛武他們都穿著泳裝，\n覺得很羨慕，所以也試穿了一下，\n沒想到就這樣被你召喚出來……
+MID_REFLET_F_SUMMER01_HOME2: 又是發現奇怪生物，又是塗抹芳香精油，\n又是排列糖果，又要把槍丟出去……\n……南國真是個好玩的地方啊。
+MID_REFLET_F_SUMMER01_HOME3: 請務必安排我上前線喔。\n不必因為我穿泳裝就有所顧慮。\n身為軍師，就該有能力配合裝備改變戰術！
+MID_REFLET_F_SUMMER01_HOME4: 我想請你帶我去看這個世界的大海。\n因為我沒有加入軍隊之前的記憶，所以……\n很想見識看看各種事物呢。
+MID_REFLET_F_SUMMER01_HOME5: 我一直在觀察大家……\n很多人都穿得蠻正式的，\n害我覺得有點害羞了起來。
+MID_REFLET_F_SUMMER01_FRIEND: $Nf要我問候你。\n……你問我為什麼穿著泳裝？\n這是那個……讓敵方大意的計策！
+MID_REFLET_F_SUMMER01_LEVEL1: 盡情享受夏天的計策\n進行得非常順利呢！
+MID_REFLET_F_SUMMER01_LEVEL2: 因為身體比平時輕盈，\n所以動作都變俐落了！
+MID_REFLET_F_SUMMER01_LEVEL3: 嗚嗚……我沒料到\n竟然會這麼熱……
+MID_REFLET_F_SUMMER01_SKILL: 這是能讓我變強的計策嗎？\n好，這個夏天就讓我們全力以赴吧！
+MID_REFLET_F_SUMMER01_JOIN: 我是魯弗萊。\n儘管身處異界的度假村，\n只要有人需要計策，我就無法坐視不管！
+MID_REFLET_F_SUMMER01_STRONGEST: 今天也在酷暑中撐過來了呢。\n有沒有不小心在戰場上發愣啊？\n這樣啊……那太好了！$k$p在南國作戰的時候，\n不可思議的是，我並不覺得熱。\n一定是因為我專注於計策的緣故吧。$k$p呵呵……真高興你也認同。\n真沒想到能談論這樣的話題……\n能遇到像你這樣的人，真是太好了。$k$p雖然異界的度假村也很好玩，\n但我還是覺得像這樣\n討論策略的感覺是最棒的。$k$p身為軍師的我雖然正在放暑假，\n但是，追求終極戰術的同志啊，\n今後也要繼續像這樣跟我討論喔。
+MID_REFLET_F_SUMMER01_VOICE01: 嘿呀！
+MID_REFLET_F_SUMMER01_VOICE02: 嘿！
+MID_REFLET_F_SUMMER01_VOICE03: 呀啊！？
+MID_REFLET_F_SUMMER01_VOICE04: 真是棘手啊……
+MID_REFLET_F_SUMMER01_VOICE05: 溺水吧！
+MID_REFLET_F_SUMMER01_VOICE06: 我要跳進去囉！
+MID_REFLET_F_SUMMER01_VOICE07: 這也是夏天的一部分！
+MID_REFLET_F_SUMMER01_VOICE08: 南國攻擊！
+MID_REFLET_F_SUMMER01_VOICE09: 真希望還能再會呢……
+MID_REFLET_F_SUMMER01_VOICE10: 哦呵呵。
+MID_REFLET_F_SUMMER01_VOICE11: 泳裝這東西很讓人害羞耶。
+MID_REFLET_F_SUMMER01_VOICE12: 你也常去海邊嗎？
+MID_REFLET_F_SUMMER01_VOICE13: 真希望能讓你也看看我在海邊看到的奇怪生物。
+MID_REFLET_F_SUMMER01_VOICE14: 跟我一起創造許許多多的夏日回憶吧。
+MID_REFLET_F_SUMMER01_VOICE15: 游泳、撿貝殼……享受海岸的計策是沒有極限的。
+MID_REFLET_F_SUMMER01_VOICE16: 唉……兵法書被海水弄得溼答答的……
+MID_REFLET_F_SUMMER01_VOICE17: 沒想到像我這樣的人也可以幫上忙……\n呵呵，看來這個夏天會跟我預計的一樣快樂無比喔。
+MID_REFLET_F_SUMMER01_VOICE18: 是！
+MID_REFLET_F_SUMMER01_VOICE19: 天氣很熱呢。
+MID_REFLET_F_SUMMER01_VOICE20: 要游泳嗎？

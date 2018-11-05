@@ -1,0 +1,39 @@
+[Heroes Archive] (SALLYA_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_SALLYA_WINTER01_HOME1: La princesse Sharena est venue me\nvoir alors que je m'entraînais à être\n« normale ».$k$pElle a eu l'air de m'apprécier, alors je\nn'ose plus être moi-même devant\nelle.
+MID_SALLYA_WINTER01_HOME2: Daraen m'a dit que je devrais essayer\nd'être plus « normale », alors je\nm'entraîne ! Belle journée, non ?
+MID_SALLYA_WINTER01_HOME3: Est-ce que j'ai froid dans cette\ntenue ? C'est gentil de vous inquiéter\npour moi ! Mais je vais bien.$k$pPour tout vous dire, en général, c'est\nplutôt moi qui donne la chair de poule\naux autres. Oh ho ho...
+MID_SALLYA_WINTER01_HOME4: Auriez-vous l'obligeance d'aller faire\nles boutiques avec moi ? Je veux\nacheter un cadeau pour Daraen.
+MID_SALLYA_WINTER01_HOME5: Oh, vous aimez ma tenue ? Hi hi...\nSi vous continuez de me dévisager\nainsi...$k$pJe vous brûlerai avec cette bougie.
+MID_SALLYA_WINTER01_FRIEND: $Nf m'envoie\nvous offrir de la joie et de la bonne\nhumeur ! Oh ho ho !
+MID_SALLYA_WINTER01_LEVEL1: Quels progrès ! J'espère que ce\nn'est pas un mauvais sort.
+MID_SALLYA_WINTER01_LEVEL2: Formidable ! Êtes-vous $Gfier,fière|\nde moi ?
+MID_SALLYA_WINTER01_LEVEL3: Comment est-ce possible ?
+MID_SALLYA_WINTER01_SKILL: Formidable ! Euh... C'est ce que\nles gens normaux disent, non ?
+MID_SALLYA_WINTER01_JOIN: Oh ho ho ! Je suis Tharja, une jeune\nfille tout ce qu'il y a de plus normal !\nJoyeux festival de l'hiver !$k$pVous pensez que Daraen a vu\ncomme je suis normale ?
+MID_SALLYA_WINTER01_STRONGEST: Bien le bonjour ! Comment va ?\nOn profite du beau temps ?$k$pFigurez-vous que je vous ai préparé\nune tarte. Avec un joli glaçage\nsangl... aux fruits rouges !$k$pC'est un cadeau spécial rien que\npour vous, qui êtes toujours si\n$Ggentil,gentille| avec moi !$k$pLaissez-moi juste la taillader...\nje veux dire, la couper...$k$pOh ho ho, quelle belle tranche !\nRegardez ce jus qui coule, on\ndirait une malédict...$k$pEuh... Je veux dire... Oh, misère,\nje ne me suis pas assez entraînée\nà être « normale ».$k$pInutile de continuer la mascarade,\nvoici ma vraie nature : une sorcière\nqui aime maudire tout ce qui bouge.$k$pVous devez être $Gdéçu,déçue|...$k$pNon ? Vraiment ? Merci. Vous êtes\nvraiment très $Ggentil,gentille|...$k$pPuisque je suis à vos côtés, je\nresterai moi-même pour le festival\nde l'hiver.
+MID_SALLYA_WINTER01_VOICE01: ほら☆
+MID_SALLYA_WINTER01_VOICE02: Well?
+MID_SALLYA_WINTER01_VOICE03: ううっ
+MID_SALLYA_WINTER01_VOICE04: I'll curse you!
+MID_SALLYA_WINTER01_VOICE05: Faisons la fête.
+MID_SALLYA_WINTER01_VOICE06: Voilà pour vous.
+MID_SALLYA_WINTER01_VOICE07: Vous allez voir rouge.
+MID_SALLYA_WINTER01_VOICE08: C'est l'heure du festin !
+MID_SALLYA_WINTER01_VOICE09: I'll go change...
+MID_SALLYA_WINTER01_VOICE10: Heeheehee
+MID_SALLYA_WINTER01_VOICE11: This is a typically normally plain Winter Festival outfit! Isn't it...?
+MID_SALLYA_WINTER01_VOICE12: This outfit is a bit...merrier than I'm used to...
+MID_SALLYA_WINTER01_VOICE13: I'm going to cook you a Winter Festival feast! I already have a chicken…
+MID_SALLYA_WINTER01_VOICE14: Allow me to slice you some cake. I have just the blade...
+MID_SALLYA_WINTER01_VOICE15: Come sunrise, you may find a little gift beneath your pillow...
+MID_SALLYA_WINTER01_VOICE16: I wonder if this is normal enough for Robin...
+MID_SALLYA_WINTER01_VOICE17: You've been a good Summoner this year, so I have a present for you! Don't worry. It's perfectly safe…
+MID_SALLYA_WINTER01_VOICE18: Good day!
+MID_SALLYA_WINTER01_VOICE19: Huzzah?
+MID_SALLYA_WINTER01_VOICE20: What?
+MID_SALLYA_WINTER01_VOICE21: Look at me. All dressed up and ready to celebrate! Huzzah!

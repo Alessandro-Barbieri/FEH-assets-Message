@@ -1,0 +1,38 @@
+[Heroes Archive] (TURNER)
+
+
+Heroes Message Name: Message
+
+
+MID_TURNER_HOME1: Mi hermano no tiene ni un pelo\nde tonto, menos con Ephraim...\nLo ve como a un rival.
+MID_TURNER_HOME2: Me escapé del castillo sin el permiso\nde mi padre. Me pregunto si estará\nenfadado conmigo...
+MID_TURNER_HOME3: ¿Cómo estás? Avísame si necesitas\nalgo, ¿vale? Para eso están los\namigos, ¿no?
+MID_TURNER_HOME4: Ven, vamos a relajarnos un rato.\nHasta en la guerra es necesario\ndesconectar de vez en cuando.$k$pSi no lo haces, acabará afectándote.
+MID_TURNER_HOME5: ¿Cuando no estoy entrenando?\nPues... paso el rato haciendo amigos.$k$pSolo quiero conocer a gente con\nlas mismas aspiraciones que yo.
+MID_TURNER_FRIEND: ¡Hola, $Nu!$k$pGracias por tener una amistad\ntan bonita con\n$Nf.
+MID_TURNER_LEVEL1: Ahora mi hermano tendrá que\nreconocer mi destreza.
+MID_TURNER_LEVEL2: Ojalá pudiésemos ser más como\nEirika y Ephraim. Quizá ahora...
+MID_TURNER_LEVEL3: Ya me imagino lo que opinará\nmi hermano sobre esto.
+MID_TURNER_SKILL: Puedo luchar junto a los demás\ncon la frente bien alta. ¡Gracias!
+MID_TURNER_JOIN: Me llamo Tana y soy caballero\npegaso.$k$pAh, y también soy princesa de Frelia.\nPero espero que eso no nos impida\ntrabar una buena amistad.
+MID_TURNER_STRONGEST: Cuando abandoné el castillo sabía\ntan poco del mundo... Pero, por algún\nmotivo, pensé que estaba lista.$k$pMe equivocaba. Venir aquí me ha\ndemostrado que hay demasiadas\ncosas que aún no entiendo.$k$pPero este viaje contigo me ha abierto\nlos ojos, de eso no hay duda.$k$pYa sé que Eirika es mi mejor amiga,\npero tú te has convertido en alguien\ntan importante como ella.$k$pQuiero a Eirika, a Ephraim y a mi\nhermano con todo mi corazón.\n¡Y a ti también!
+MID_TURNER_VOICE01: えーいっ！
+MID_TURNER_VOICE02: もうっ！
+MID_TURNER_VOICE03: きゃああっ！
+MID_TURNER_VOICE04: けだもの…
+MID_TURNER_VOICE05: ¡Te ayudaré!
+MID_TURNER_VOICE06: Qué mal...
+MID_TURNER_VOICE07: ¡Bestia!
+MID_TURNER_VOICE08: ¡Soy caballero de Frelia!
+MID_TURNER_VOICE09: I've long been prepared...
+MID_TURNER_VOICE10: Heehee
+MID_TURNER_VOICE11: Shall we chat? Yes? Lovely!
+MID_TURNER_VOICE12: Aah! Please don't tease me like that.
+MID_TURNER_VOICE13: My brother is so cruel. You should hear what he said to me.
+MID_TURNER_VOICE14: I'm afraid I haven't been very much help to you.
+MID_TURNER_VOICE15: I feel I should apologize. I'm still in training and not quite battle-ready.
+MID_TURNER_VOICE16: Am I a little bit stronger now? I hope so...
+MID_TURNER_VOICE17: Thank you—truly, thank you—for making an effort to understand how I feel.
+MID_TURNER_VOICE18: Yes?
+MID_TURNER_VOICE19: Tell me.
+MID_TURNER_VOICE20: All right.

@@ -1,0 +1,38 @@
+[Heroes Archive] (ZELGIUS)
+
+
+Heroes Message Name: Message
+
+
+MID_ZELGIUS_HOME1: Estamos en plena batalla, pero\nen este castillo reina la paz.\nUno podría hasta olvidar su deber.
+MID_ZELGIUS_HOME2: Mi mundo también estaba lleno de\nsufrimiento, pero una luz nos guiaba.\nA ella le juré mi vida y mi honor.
+MID_ZELGIUS_HOME3: Si las convicciones de un hombre\nson inflexibles, es su espíritu el que\nacaba quebrándose.$k$pComo general, es mi deber\nreparar el daño sufrido.
+MID_ZELGIUS_HOME4: Prepararse para la batalla es\nadmirable. Te ofrezco que\nentrenemos juntos cuando quieras.
+MID_ZELGIUS_HOME5: Me llamo Zelgius. Solía ocultar\nmi nombre, pero ya no hace falta.\nTodo aquello forma parte del pasado.
+MID_ZELGIUS_FRIEND: Te traigo deseos de salud\ny felicidad de parte de\n$Nf.
+MID_ZELGIUS_LEVEL1: Supongo que será un presagio\nde buena suerte.
+MID_ZELGIUS_LEVEL2: Esto será suficiente.
+MID_ZELGIUS_LEVEL3: Penoso.
+MID_ZELGIUS_SKILL: Si este poder significa que\nesperas más de mí, me\nesforzaré más.
+MID_ZELGIUS_JOIN: Soy Zelgius. Como general, he\nluchado para dos reinos. Ahora\nobedezco tus órdenes.$k$pYa veremos por cuánto tiempo.
+MID_ZELGIUS_STRONGEST: ¿Has venido a vigilarme?\nMe sorprende que tengas tiempo\npara entrenar conmigo.$k$pHe visto que siempre te centras en\nlo importante y eres capaz de dar\nórdenes crueles sin dudar.$k$pTu carácter racional es\nidóneo para la batalla.\nPero $Nu...$k$pAún eres joven. No te precipites.\nLos resultados no lo son todo.\nYa lo irás viendo.$k$pAlgunas cosas solo las valoramos\ncuando las perdemos.$k$pHaz lo que quieras con ese consejo.\nY recuerda: cuando no logres ver\nel camino frente a ti...$k$pYo iré por delante, abriéndote paso\ncon mi espada. Incluso a través\nde tus enemigos.$k$pTe lo juro en nuestro contrato.\nPor mi espada sagrada.
+MID_ZELGIUS_VOICE01: はぁっ！
+MID_ZELGIUS_VOICE02: ...Pointless.
+MID_ZELGIUS_VOICE03: うああっ！
+MID_ZELGIUS_VOICE04: Impressive...
+MID_ZELGIUS_VOICE05: Di tus últimas palabras.
+MID_ZELGIUS_VOICE06: Veamos cómo te desenvuelves.
+MID_ZELGIUS_VOICE07: No habrá empate ni salida.
+MID_ZELGIUS_VOICE08: Uno vivirá y el otro morirá.
+MID_ZELGIUS_VOICE09: That...settles it...
+MID_ZELGIUS_VOICE10: ふふっ
+MID_ZELGIUS_VOICE11: My name is Zelgius. I have been a general for two different countries in my time.
+MID_ZELGIUS_VOICE12: I've lived a long life, and have experienced much... But I've never met someone quite as unpredictable as you.
+MID_ZELGIUS_VOICE13: I'm a soldier. I am in no position to question the orders of my superiors.
+MID_ZELGIUS_VOICE14: I have spent most of my life shrouded in darkness... But at least I had a purpose.
+MID_ZELGIUS_VOICE15: We should focus on winning this war.
+MID_ZELGIUS_VOICE16: Ike... We will soon meet again.
+MID_ZELGIUS_VOICE17: I will become your shield. The enemy will not lay a finger on you.
+MID_ZELGIUS_VOICE18: Your orders.
+MID_ZELGIUS_VOICE19: What's your plan?
+MID_ZELGIUS_VOICE20: I'll keep you alive.

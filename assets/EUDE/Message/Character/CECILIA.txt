@@ -1,0 +1,38 @@
+[Heroes Archive] (CECILIA)
+
+
+Heroes Message Name: Message
+
+
+MID_CECILIA_HOME1: Kommandantin Anna ist wohl eine\ngute Lehrerin.$k$pIch habe andere Methoden, aber\nwir werden uns verstehen.
+MID_CECILIA_HOME2: Ich war die Lehrerin von Roy und\nLilina, zwei meiner Lieblingstudenten.$k$pSie waren wirklich wunderbare\nSchüler.
+MID_CECILIA_HOME3: Das Ersinnen der Taktik ist sicher sehr\nanstrengend. Vielleicht sollten wir mal\nzusammen eine Teepause machen?
+MID_CECILIA_HOME4: Du bist das Taktikgenie im Kampf.\nUnd ich bin deine Soldatin.$k$pLass unsere Freundschaft der\nBefehlskette nicht im Weg stehen.
+MID_CECILIA_HOME5: Ich habe zwar anderen die\nKriegskunst gelehrt, zum\nBeispiel Roy.$k$pAber ich will alles lernen,\nwas du mich lehren kannst.
+MID_CECILIA_FRIEND: Wie geht es? Ich glaube, du bist\n$Nu?\nIch bin Cecilia. Sei gegrüßt.
+MID_CECILIA_LEVEL1: Was für eine Freude, noch\nso viel lernen zu können!
+MID_CECILIA_LEVEL2: Jeder Fortschritt ist\nein guter Schritt!
+MID_CECILIA_LEVEL3: Wenn das so weitergeht, muss\nich auf meinen Titel verzichten.
+MID_CECILIA_SKILL: Du hast mir diese Pflicht aufer-\nlegt. Und ich werde sie erfüllen!
+MID_CECILIA_JOIN: Ich bin Cecilia, Magiegeneralin\naus Etruria. Du ersinnst unsere\nTaktik?$k$pDann freue ich mich, dich zu sehen.
+MID_CECILIA_STRONGEST: Als ich dich zum ersten Mal sah,\nwollte ich dir etwas beibringen.$k$pSo wie ich es bei meinen Schülern\nRoy und Lilina getan habe.$k$pAber dann sah ich, wie schnell du\nin deine Rolle hier hineingewachsen\nbist. Du hast sogar mich überflügelt.$k$pEs ist für jede Lehrerin ein traurig-\nschöner Moment, wenn sie sieht,\nwie ihre Schüler flügge werden.$k$pDas ist der Moment, in dem sie sich\nverlassen fühlt...$k$pWie? Du brauchst mich immer noch?\nDas erleichtert mich wirklich! Vielleicht\nkann ich dir ja doch noch mehr$k$pbeibringen.\nNun, dann ist es abgemacht. Ich\nbleibe hier bei dir und du bei mir!
+MID_CECILIA_VOICE01: はっ！
+MID_CECILIA_VOICE02: はぁっ！
+MID_CECILIA_VOICE03: きゃああっ！
+MID_CECILIA_VOICE04: I let my guard down...
+MID_CECILIA_VOICE05: Jetzt und hier!
+MID_CECILIA_VOICE06: Unterschätz mich nicht!
+MID_CECILIA_VOICE07: Komm näher, und du bereust es!
+MID_CECILIA_VOICE08: Das ist meine Chance!
+MID_CECILIA_VOICE09: The light...
+MID_CECILIA_VOICE10: Heehee
+MID_CECILIA_VOICE11: How fare you, tactician?
+MID_CECILIA_VOICE12: Now, now... No need to nudge me. You have my attention.
+MID_CECILIA_VOICE13: I sense a great deal of talent in you. You're a natural.
+MID_CECILIA_VOICE14: Shall we discuss battle strategy?\n
+MID_CECILIA_VOICE15: Should you wish to know anything at all, simply ask!
+MID_CECILIA_VOICE16: I will ever do my best to fulfill my role.
+MID_CECILIA_VOICE17: You have much to teach, and even I have much to learn.
+MID_CECILIA_VOICE18: Mm-hmm?
+MID_CECILIA_VOICE19: Yes?
+MID_CECILIA_VOICE20: Your orders.

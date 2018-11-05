@@ -1,0 +1,176 @@
+[Heroes Archive] (Data_482_legend03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201804A_TITLE: April-Quests (1)
+MID_MISSION_M201804A_A1: Grün besiegt Gegner
+MID_MISSION_H_M201804A_A1: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_M201804A_A2: Reiter besiegt Gegner
+MID_MISSION_H_M201804A_A2: Lass berittene Einheiten\ndie Gegner besiegen.
+MID_MISSION_M201804A_A3: Besiege rote Gegner
+MID_MISSION_H_M201804A_A3: Besiege rote Gegner.
+MID_MISSION_M201804A_A4: Besiege Infanterie
+MID_MISSION_H_M201804A_A4: Besiege Infanterieeinheiten.
+MID_MISSION_M201804A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201804A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201804A_A6: Blau besiegt Lv. 20+
+MID_MISSION_H_M201804A_A6: Besiege Gegner, die Level 20\noder höher sind, mit blauen\nVerbündeten.
+MID_MISSION_M201804A_A7: Inf. besiegt Lv. 20+
+MID_MISSION_H_M201804A_A7: Besiege Gegner, die Level 20\noder höher sind, mit\nInfanterieeinheiten.
+MID_MISSION_M201804A_A8: Besiege Grün Lv. 20+
+MID_MISSION_H_M201804A_A8: Besiege grüne Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201804A_A9: Besiege Reiter Lv. 20+
+MID_MISSION_H_M201804A_A9: Besiege berittene Gegner,\ndie Level 20 oder höher sind.
+MID_MISSION_M201804A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201804A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201804A_A11: Rot besiegt Lv. 35+
+MID_MISSION_H_M201804A_A11: Besiege Gegner, die Level 35\noder höher sind, mit roten\nVerbündeten.
+MID_MISSION_M201804A_A12: Flieger besiegt Lv. 35+
+MID_MISSION_H_M201804A_A12: Besiege Gegner, die Level 35\noder höher sind, mit fliegenden\nVerbündeten.
+MID_MISSION_M201804A_A13: Besiege Blau Lv. 35+
+MID_MISSION_H_M201804A_A13: Besiege blaue Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201804A_A14: Besiege Flieger Lv. 35+
+MID_MISSION_H_M201804A_A14: Besiege fliegende Gegner,\ndie Level 35 oder höher sind.
+MID_MISSION_M201804A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201804A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201804B_TITLE: April-Quests (2)
+MID_MISSION_M201804B_A1: Übungsturm: Erste Stufe
+MID_MISSION_H_M201804B_A1: Bewältige die erste Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A2: Übungsturm: Zweite Stufe
+MID_MISSION_H_M201804B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A3: Übungsturm: Dritte Stufe
+MID_MISSION_H_M201804B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A4: Übungsturm: Vierte Stufe
+MID_MISSION_H_M201804B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A5: Übungsturm: Fünfte Stufe
+MID_MISSION_H_M201804B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A6: Übungsturm: Sechste Stufe
+MID_MISSION_H_M201804B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A7: Übungsturm: Siebte Stufe
+MID_MISSION_H_M201804B_A7: Bewältige die siebte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A8: Übungsturm: Achte Stufe
+MID_MISSION_H_M201804B_A8: Bewältige die achte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A9: Übungsturm: Neunte Stufe
+MID_MISSION_H_M201804B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A10: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201804B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201804B_A11: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201804B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201804B_A12: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201804B_A12: Bewältige die zehnte Stufe des Übungs-\nturms nur mit gepanzerten Einheiten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804B_A13: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201804B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201804B_A14: Übungsturm: Zehnte Stufe
+MID_MISSION_H_M201804B_A14: Bewältige die zehnte Stufe des\nÜbungsturms nur mit Flugeinheiten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_TITLE: April-Quests (3)
+MID_MISSION_M201804C_A1: Kap. 1 Tl. 1
+MID_MISSION_H_M201804C_A1: Bewältige Kapitel 1 - Teil 1. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A2: Kap. 1 Tl. 2
+MID_MISSION_H_M201804C_A2: Bewältige Kapitel 1 - Teil 2 mit einem\nroten Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A3: Kap. 1 Tl. 3
+MID_MISSION_H_M201804C_A3: Bewältige Kapitel 1 - Teil 3 mit einem\nblauen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A4: Kap. 1 Tl. 4
+MID_MISSION_H_M201804C_A4: Bewältige Kapitel 1 - Teil 4 mit einem\ngrünen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A5: Kap. 1 Tl. 5
+MID_MISSION_H_M201804C_A5: Bewältige Kapitel 1 - Teil 5 mit einem\nfarblosen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A6: Kap. 4 Tl. 1 - Schwer+
+MID_MISSION_H_M201804C_A6: Bewältige Kapitel 4 - Teil 1 im\nModus Schwer oder höher. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201804C_A7: Kap. 4 Tl. 2 - Schwer+
+MID_MISSION_H_M201804C_A7: Bewältige Kapitel 4 - Teil 2 auf Schwer\no. höher mit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A8: Kap. 4 Tl. 3 - Schwer+
+MID_MISSION_H_M201804C_A8: Bewältige Kapitel 4 - Teil 3 auf Schwer\no. höher mit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A9: Kap. 4 Tl. 4 - Schwer+
+MID_MISSION_H_M201804C_A9: Bewältige Kapitel 4 - Teil 4 auf Schwer\no. höher mit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A10: Kap. 4 Tl. 5 - Schwer+
+MID_MISSION_H_M201804C_A10: Bewältige Kapitel 4 - Teil 5 auf Schwer\no. höher mit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A11: Kap. 7 Tl. 1 - Extrem
+MID_MISSION_H_M201804C_A11: Bewältige Kapitel 7 - Teil 1 im\nModus Extrem. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201804C_A12: Kap. 7 Tl. 2 - Extrem
+MID_MISSION_H_M201804C_A12: Bewältige Kapitel 7 - Teil 2 auf Extrem\nmit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A13: Kap. 7 Tl. 3 - Extrem
+MID_MISSION_H_M201804C_A13: Bewältige Kapitel 7 - Teil 3 auf Extrem\nmit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A14: Kap. 7 Tl. 4 - Extrem
+MID_MISSION_H_M201804C_A14: Bewältige Kapitel 7 - Teil 4 auf Extrem\nmit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201804C_A15: Kap. 7 Tl. 5 - Extrem
+MID_MISSION_H_M201804C_A15: Bewältige Kapitel 7 - Teil 5 auf Extrem\nmit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201804KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201804KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201804KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Minerva & Maria mit\nAlfonse: Prinz von Askr im Team.
+MID_MISSION_S201804KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201804KIZUNA01_A2: Gewinne den Treue-Heldenkampf gegen\nMinerva & Maria auf Extrem oder höher\nmit Fjorm im Team.
+MID_MISSION_S201804KIZUNA01_A3: Minerva besiegen
+MID_MISSION_H_S201804KIZUNA01_A3: Besiege Minerva, die\nLevel 40 oder höher ist,\nmit Alfonse: Prinz von Askr.
+MID_MISSION_S201804KIZUNA01_A4: Maria besiegen
+MID_MISSION_H_S201804KIZUNA01_A4: Besiege Maria, die Level 40\noder höher ist, mit Fjorm.
+MID_MISSION_S201804KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201804KIZUNA01_A5: Gewinne den Treue-Heldenkampf gegen\nMinerva & Maria auf Extrem oder höher\nnur mit fliegenden Einheiten.
+MID_MISSION_S201804TRIAL01_TITLE: Serienprüfung
+MID_MISSION_S201804TRIAL01_A1: Serienprüfung
+MID_MISSION_H_S201804TRIAL01_A1: Bewältige in der Serienprüfung\ndie letze Karte in Nebenquest 1.
+MID_MISSION_S201804TRIAL01_A2: Serienprüfung
+MID_MISSION_H_S201804TRIAL01_A2: Bewältige in der Serienprüfung\ndie letze Karte in Nebenquest 2\nauf Schwer oder höher.
+MID_MISSION_S201804TRIAL01_A3: Serienprüfung
+MID_MISSION_H_S201804TRIAL01_A3: Bewältige in der Serienprüfung die\nletze Karte in Nebenquest 1 & 2\nauf Extrem.
+MID_MISSION_S201804TRIAL01_A4: Gruppenüberfall
+MID_MISSION_H_S201804TRIAL01_A4: Bewältige im Gruppenüberfall\ndie letzte Karte des 5. Überfalls.
+MID_MISSION_S201804VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201804VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201804VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A2: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201804VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A3: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201804VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A4: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201804VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A5: Gewinne einige Kämpfe\nim Wahlturnier.
+MID_MISSION_S201804VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201804VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201804VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201804VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201804VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201804VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201804VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201804VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201804VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201804VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201804VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201804VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201804VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201804VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201804VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A17: Gewinne einige Kämpfe im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A18: Gewinne einige Kämpfe im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A19: Gewinne einige Kämpfe im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201804VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201804VOTE01_A20: Gewinne einige Kämpfe im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MPID_伝承ルフレ女: Daraen
+MPID_HONOR_伝承ルフレ女: Dämonengefäß
+MPID_H_伝承ルフレ女: Die Taktikerin Daraen, deren Körper\nund Seele vom Dämonendrachen\nGrima kontrolliert werden. Erscheint\nin Fire Emblem: Awakening.
+MPID_VOICE_伝承ルフレ女: Lauren Landa
+MPID_ILLUST_伝承ルフレ女: Chiko (チーコ)
+MPID_LEGEND_伝承ルフレ女: Legendärer Effekt: Erde\nVerbündetenbonus: KP +3, Ges. +3\n\nGewährt Verbündeten diesen legendären\nEffekt in der Erdsaison, wenn sie mit\nErde gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_邪竜の鱗: Drachenhaut
+MSID_魔防の紫煙1: Res.-Rauch 1
+MSID_魔防の紫煙2: Res.-Rauch 2
+MSID_魔防の紫煙3: Res.-Rauch 3
+MSID_H_邪竜の鱗: Hebt "Effektiv gegen Flugeinheiten"-Boni\nauf. Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver./Res. +4 im Kampf.
+MSID_H_魔防の紫煙1: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Res. -3 bis nach\nihren nächsten Aktionen.
+MSID_H_魔防の紫煙2: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Res. -5 bis nach\nihren nächsten Aktionen.
+MSID_H_魔防の紫煙3: Gegner im Umkreis von 2 Feldern\ndes Ziels erleiden Res. -7 bis nach\nihren nächsten Aktionen.
+MID_STAGE_HONOR_T0028: Treue-Heldenkampf
+MID_STAGE_T0028: Tiki/Nowi
+MID_STAGE_HONOR_L0001: Dämonengefäß
+MID_STAGE_L0001: Daraen

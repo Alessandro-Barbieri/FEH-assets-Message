@@ -1,0 +1,38 @@
+[Heroes Archive] (CREA)
+
+
+Heroes Message Name: Message
+
+
+MID_CREA_HOME1: 特務機関のお衣装、すてきですわ！\nわたくしにとてもよく似合いそう……\nお願いしたら、着せてもらえるかしら？
+MID_CREA_HOME2: 宰相ドゼーのクーデターが起こるまでは\nソフィア騎士団で活躍しておりましたのよ。\nもちろんお兄さまといっしょに！
+MID_CREA_HOME3: わたくしを気遣ってくださるの？\nうふふっ、おやさしいのね……\nでも、あなたも無理は禁物ですことよ？
+MID_CREA_HOME4: ちょうどお茶にしようと思ってましたの。\nよろしかったらあなたもいかが？\n特別にわたくしが淹れてさし上げましてよ。
+MID_CREA_HOME5: 屋敷の皆に手紙を書いていたんですの。\nお父さまとお母さま、使用人頭に乳母に\n侍女に家庭教師の先生、あとは……
+MID_CREA_FRIEND: $Nfからの挨拶を\n持ってきてさし上げましたわ！\n感謝なさることね。
+MID_CREA_LEVEL1: 高貴なわたくしに\nふさわしい結果ですわ！
+MID_CREA_LEVEL2: ま、こんなものですわね。
+MID_CREA_LEVEL3: あら……\nなんだか物足りませんこと。
+MID_CREA_SKILL: さらに輝くわたくしから、\n目を離さないでくださいませね……！
+MID_CREA_JOIN: わたくしはクレア。ソフィア解放軍で\nお兄さまと共に戦っておりますの。\n仲良くしてさし上げてもよろしくってよ？
+MID_CREA_STRONGEST: まあ、$Nu！\nお会いできてうれしいですわ。\nあなたの顔が見たいと思ってましたの。$k$pなぜって？　それは……あなたのことを\n気に入っているからですわ。\nそれではいけませんの？$k$pでしょう？　うふふ……\nでも本当に、あなたには\n不思議なご縁を感じますの。$k$pこれが運命というものなのでしょうか？\nああ、誤解なさらないで。わたくしには\nアルムという心に決めた人が……$k$pきゃあ！　今のは忘れてくださいまし！\nだからその、それだけあなたが\nわたくしにとって特別だということですわ！
+MID_CREA_VOICE01: せやあっ
+MID_CREA_VOICE02: うふふっ
+MID_CREA_VOICE03: これしき…！
+MID_CREA_VOICE04: きゃあっ！
+MID_CREA_VOICE05: ひざまづきなさい
+MID_CREA_VOICE06: 無礼者！
+MID_CREA_VOICE07: 遅くってよ？
+MID_CREA_VOICE08: 光栄に思いなさい！
+MID_CREA_VOICE09: うそですわ……
+MID_CREA_VOICE10: ふふっ
+MID_CREA_VOICE11: お兄さまはわたくしの自慢ですの。
+MID_CREA_VOICE12: まあ……高くつきますわよ？
+MID_CREA_VOICE13: アルムったら、つれないんですのよ。
+MID_CREA_VOICE14: 早く平和になればよろしいわね……
+MID_CREA_VOICE15: マチルダさまには、少し嫉妬してしまいます。
+MID_CREA_VOICE16: 本当はわかってますのよ、アルムは……
+MID_CREA_VOICE17: お慕いしておりましてよ、あなたのこと。
+MID_CREA_VOICE18: ええ。
+MID_CREA_VOICE19: そうですわね……
+MID_CREA_VOICE20: 行きますわよ！

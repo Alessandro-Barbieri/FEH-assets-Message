@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201805KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201805KIZUNA01_A1: Remporter la bataille de héros liés d'Amelia et\nTana avec Anna dans votre équipe.
+MID_MISSION_S201805KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201805KIZUNA01_A2: Remporter la bataille de héros liés d'Amelia et\nTana avec Alfonse, le prince d'Askr, dans\nvotre équipe.
+MID_MISSION_S201805KIZUNA01_A3: Tana
+MID_MISSION_H_S201805KIZUNA01_A3: Avec Anna, vaincre une version de\nniveau 40 ou supérieur de Tana.
+MID_MISSION_S201805KIZUNA01_A4: Amelia
+MID_MISSION_H_S201805KIZUNA01_A4: Avec Alfonse, le prince d'Askr, vaincre\nune version de niveau 40 ou supérieur\nd'Amelia.
+MID_MISSION_S201805KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201805KIZUNA01_A5: Remporter la bataille de héros liés d'Amelia et\nTana en Expert ou supérieur avec une équipe\ncomposée exclusivement d'unités en armure.
+MID_MISSION_S201805SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201805SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201805SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201805SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201805SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201805SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201805SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201805SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201805SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201805SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201805SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201805STORY02_TITLE: C'est le bouquet
+MID_MISSION_S201805STORY02_A1: Ann. 20 - Acte 1 (Expert)
+MID_MISSION_H_S201805STORY02_A1: Terminer l'acte 1 de l'annexe 20 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY02_A2: Ann. 20 - Acte 2 (Expert)
+MID_MISSION_H_S201805STORY02_A2: Terminer l'acte 2 de l'annexe 20 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY02_A3: Ann. 20 - Acte 3 (Expert)
+MID_MISSION_H_S201805STORY02_A3: Terminer l'acte 3 de l'annexe 20 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_花婿マルス: Marth
+MPID_花嫁ニニアン: Ninian
+MPID_花嫁サーリャ: Tharja
+MPID_花嫁サナキ: Sanaki
+MPID_HONOR_花婿マルス: Marié d'Altea
+MPID_HONOR_花嫁ニニアン: Mariée innocente
+MPID_HONOR_花嫁サーリャ: Mariée possessive
+MPID_HONOR_花嫁サナキ: Apôtre en blanc
+MPID_H_花婿マルス: Prince du royaume d'Altea qui se bat pour\nsa patrie. S'est habillé en marié pour\nparticiper à un festival. Apparaît dans\nFire Emblem: Mystery of the Emblem.
+MPID_H_花嫁ニニアン: Une jeune danseuse à l'aura mystique et\nempreinte de sérénité. S'est retrouvée dans\nun festival consacré aux mariées. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_H_花嫁サーリャ: Mage de Plegia. Sinistre et de nature\npossessive. Décidée à remporter le prix\ndu festival : un bouquet. Apparaît dans\nFire Emblem: Awakening.
+MPID_H_花嫁サナキ: Impératrice et apôtre de Begnion. Sa\ncuriosité l'a conduite à participer à un\nfestival consacré aux mariées. Apparaît\ndans Fire Emblem: Path of Radiance.
+MPID_VOICE_花婿マルス: Yuri Lowenthal
+MPID_VOICE_花嫁ニニアン: Brianna Knickerbocker
+MPID_VOICE_花嫁サーリャ: Stephanie Sheh
+MPID_VOICE_花嫁サナキ: Sara Beth
+MPID_ILLUST_花婿マルス: Mayo (まよ)
+MPID_ILLUST_花嫁ニニアン: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_花嫁サーリャ: Sencha (煎茶)
+MPID_ILLUST_花嫁サナキ: Tomioka Jiro (富岡二郎)
+MID_SEQUENTIAL_MAP_TERM_201805: Le feu de Loki
+MSID_愛のケーキサーバ: Pelle à tarte
+MSID_愛のケーキサーバ＋: Pelle à tarte +
+MSID_ムスペルの炎花: Fleurs de Múspell
+MSID_清らかなブーケ: Bouquet frais
+MSID_清らかなブーケ＋: Bouquet frais +
+MSID_ニフルの氷花: Fleurs de Nifl
+MSID_攻撃の封印1: Gel Atq 1
+MSID_攻撃の封印2: Gel Atq 2
+MSID_攻撃の封印3: Gel Atq 3
+MSID_守備魔防の連携1: Lien Déf/Rés 1
+MSID_守備魔防の連携2: Lien Déf/Rés 2
+MSID_守備魔防の連携3: Lien Déf/Rés 3
+MSID_速さの共謀1: Feinte Vit 1
+MSID_速さの共謀2: Feinte Vit 2
+MSID_速さの共謀3: Feinte Vit 3
+MSID_H_愛のケーキサーバ: En début de tour, si l'unité se trouve à côté\nd'un allié, confère Atq +4 à l'unité et aux\nalliés adjacents pendant un tour.
+MSID_H_愛のケーキサーバ＋: En début de tour, si l'unité se trouve à côté\nd'un allié, confère Atq +4 à l'unité et aux\nalliés adjacents pendant un tour.
+MSID_H_ムスペルの炎花: Confère Vit +3. Pendant le combat, l'unité\nreçoit un boost d'Atq/Vit correspondant au\ndouble du nombre d'alliés situés à 2 cases\nou moins (6 points maximum pour chaque\ncaractéristique).
+MSID_H_清らかなブーケ: En début de tour, si l'unité se trouve à côté\nd'un allié, confère Vit +4 à l'unité et aux\nalliés adjacents pendant un tour.
+MSID_H_清らかなブーケ＋: En début de tour, si l'unité se trouve à côté\nd'un allié, confère Vit +4 à l'unité et aux\nalliés adjacents pendant un tour.
+MSID_H_ニフルの氷花: Confère Atq +3. Pendant le combat, l'unité\nreçoit un boost d'Atq/Vit correspondant au\ndouble du nombre d'alliés situés à 2 cases\nou moins (6 points maximum pour chaque\ncaractéristique).
+MSID_H_攻撃の封印1: En début de tour, inflige Atq -3 à l'ennemi\navec l'Atq la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_攻撃の封印2: En début de tour, inflige Atq -5 à l'ennemi\navec l'Atq la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_攻撃の封印3: En début de tour, inflige Atq -7 à l'ennemi\navec l'Atq la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_守備魔防の連携1: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nDéf/Rés +2 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_守備魔防の連携2: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nDéf/Rés +4 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_守備魔防の連携3: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nDéf/Rés +6 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_速さの共謀1: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Vit -3 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MSID_H_速さの共謀2: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Vit -5 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MSID_H_速さの共謀3: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Vit -7 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
+MID_CHAPTER_TITLE_CX019: Annexe 20
+MID_CHAPTER_CX019: C'est le bouquet
+MID_STAGE_TITLE_X0191: Ann. 20 - Acte 1
+MID_STAGE_TITLE_X0192: Ann. 20 - Acte 2
+MID_STAGE_TITLE_X0193: Ann. 20 - Acte 3
+MID_STAGE_X0191: Le marié fait son entrée
+MID_STAGE_X0192: Sentiments voilés
+MID_STAGE_X0193: En amour comme à la guerre
+MID_STAGE_TITLE_ST_X0018: Annexe 19
+MID_STAGE_TITLE_ST_X0019: Annexe 20
+MID_STAGE_TITLE_ST_X1019: Annexes 19 et 20
+MID_CHAPTER_ST_CX010: Annexes 19 et 20

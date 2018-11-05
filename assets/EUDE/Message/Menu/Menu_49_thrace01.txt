@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: Freundesvorschläge
+MID_FRIEND_NUM: $aFreunde   $a0/$a1
+MID_FRIEND_HELP_FRIEND: $aFreunden geholfen: $a0
+MID_ITEM_OCCUPATION_POTION: Eroberungslanze
+MID_ITEM_HELP_OCCUPATION_POTION: Gewährt +8 Energie für Große Eroberung.
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $aDer Kampf $a0 ist bereits\nzu Ende. Das Ergebnis wird\nnicht gewertet.
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $aGE-Rangprämie: $a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $aGE-Erfolgsprämie: Kampf $a0
+MID_OCCUPATION_AREA: $aGebiet $a0
+MID_OCCUPATION_TITLE: Große Eroberung
+MID_OCCUPATION_CLOSED: Kämpfe sind jetzt geschlossen.
+MID_OCCUPATION_AGGREGATING: Ergebnis wird berechnet.
+MID_OCCUPATION_GROUPING_DELAYING: Die Berechnung ist verzögert.\nBitte warte, bis sie beendet ist.\nDanke für deine Geduld.
+MID_OCCUPATION_REGISTRATION: Anmeldeprüfung
+MID_OCCUPATION_REGISTER: Teilnehmen!
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: Anmeldeprüfung beendet.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: Deine Anmeldung wird bearbeitet.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $aBitte warte, bis Kampf $a0 beginnt.
+MID_OCCUPATION_REGISTRATION_INTERVAL: $aPrüfe deinen Status nach Beginn von Kampf: $a0.
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: Dieser Event ist beendet.
+MID_OCCUPATION_ROUND_RESULT: $aKampf $a0 ist beendet.
+MID_OCCUPATION_TERM_RESULT: Dieser Event ist beendet.
+MID_OCCUPATION_ROUND_LEFT_DAY: $aTage, bis Kampf $a0 endet: $a1
+MID_OCCUPATION_ROUND_LEFT_HOUR: $aStunden, bis Kampf $a0 endet: $a1
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $aMinuten, bis Kampf $a0 endet: $a1
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $aTage, bis Kampf $a0 beginnt: $a1
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $aStunden, bis Kampf $a0 beginnt: $a1
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $aMinuten, bis Kampf $a0 beginnt: $a1
+MID_OCCUPATION_WORLDMAP_HELP: Wähle ein Gebiet und kämpfe!
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $aDu hast in $a0 ausgeholfen!\nVerbündete in $a1 +1.\n(Aushelfen einmal pro Runde möglich.)
+MID_OCCUPATION_GRADE: $aGE-Rang $a0
+MID_OCCUPATION_GRADE_POINT_MAX: MAX
+MID_OCCUPATION_GRADE_HELP: $aFügt angrenzenden Gebieten $a0 % Punkte hinzu.
+MID_OCCUPATION_ROUND: $aKampf $a0
+MID_OCCUPATION_GRUOP_ID: $aDimension $a0
+MID_OCCUPATION_OPERATION: $aRunde $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aNoch $a0 Min.
+MID_OCCUPATION_STAMINA: Energie
+MID_OCCUPATION_STAMINA_RECOVER_FULL: Energie vollständig wiederhergestellt.
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: Du hast nicht genug Energie.\nEroberungslanze verwenden,\num 8 Energie aufzufüllen?
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: Eroberungslanze verwenden,\num 8 Energie aufzufüllen?
+MID_OCCUPATION_STAMINA_RECOVER: Energie auffüllen
+MID_OCCUPATION_STAMINA_RECOVER_DONE: Du hast eine Eroberungslanze\nverwendet und Energie erhalten.
+MID_OCCUPATION_AREA_COUNT: Gebietskontrolle
+MID_OCCUPATION_REINFORCE: Aushelfen
+MID_OCCUPATION_REWARD: Prämien ansehen
+MID_OCCUPATION_REWARD_SORT: $aPrämientyp: $a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: Prämientyp
+MID_OCCUPATION_REWARD_SORT_GRADE: GE-Rang
+MID_OCCUPATION_REWARD_SORT_AREA: Gebiete
+MID_OCCUPATION_AREA_NAME: $aGebiet $a0
+MID_OCCUPATION_GUILD_NAME_0: Alfonses Armee
+MID_OCCUPATION_GUILD_NAME_1: Sharenas Armee
+MID_OCCUPATION_GUILD_NAME_2: Annas Armee
+MID_OCCUPATION_AREA_TOP_USER: $aBester Kämpfer: $a0 ($a1)
+MID_OCCUPATION_AREA_SITUATION: Kampfstatus
+MID_OCCUPATION_AREA_ALLY_RANKING: Verbündeten-Aktivität
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $a$a0 hat hier nicht gekämpft.
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: Du
+MID_OCCUPATION_AREA_EFFECT: Gebietseffekte
+MID_OCCUPATION_AREA_EFFECT_NONE: Keine Gebietseffekte aktiv.
+MID_OCCUPATION_AREA_EFFECT_FIXED: Spezialeffekt (Dieses Gebiet)
+MID_OCCUPATION_AREA_EFFECT_IN: Effekt des angrenzenden Verb.-Gebiets
+MID_OCCUPATION_AREA_EFFECT_OUT: Effekt auf angrenzende Verb.-Gebiete
+MID_OCCUPATION_POWER_RATE: $a$a0x Bonus
+MID_OCCUPATION_POWER_RATE_DIALOG: $a($a0x Bonus)
+MID_OCCUPATION_DIALIG_REFRESH: Kampfbedingungen haben sich\ngeändert. Die Karte wird sich\nentsprechend verändern.
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $a$a0 Einheiten
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $a$a0 Einheit
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: Im Hauptquartier einer Armee\nkannst du nicht kämpfen.
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: Nicht verfügbar
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: Kontrolliert von:
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $aBesiegt durch $a0!\nKein Kampf bis zur nächsten Runde.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: Gebiet grenzt nicht an Feind-\ngebiet. Kämpfen nicht möglich.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: Gebiet grenzt nicht an Verb.-\ngebiet. Kämpfen nicht möglich.
+MID_OCCUPATION_RESULT_FAILED: Verteidigung erfolglos
+MID_OCCUPATION_RESULT_DEFEND: Verteidigung erfolgreich
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: Gebiet kontrolliert
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: Gegnerfestung erobert
+MID_OCCUPATION_RESULT_DOMINATION_NUM: Kontrollierte Lager:
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: 3 Armeen wetteifern um Gebiete!
+MID_OCCUPATION_HELP_DIALOG_01: Große Eroberung:\nIn "Große Eroberung" kämpfen\ndrei Armeen, um Gebiete\neines Kontinents zu erobern.\n\nNach dem Kampf erhalten die\nArmeen Belohnungen. Je mehr\nGebiete eine Armee kontrolliert,\ndesto besser die Belohnungen.
+MID_OCCUPATION_HELP_DIALOG_02: So nimmst du teil:\nWähle ein Gebiet, das an einen\nFeind grenzt, um dem Kampf\nbeizutreten und Punkte zu ver-\ndienen. Für den Beitritt wird\neine spezielle Art von Energie\nbenötigt, die es nur in "Große\nEroberung" gibt. Nutze die\nBonusoption, um mehr Energie\neinzusetzen und deine Punkte\nzu vervielfachen.
+MID_OCCUPATION_HELP_DIALOG_03: Punkteffekte:\nNach dem Kämpfen erhältst\ndu Punkte. Diese werden\nder Gesamtpunktzahl deiner\nArmee im von dir gewählten\nGebiet hinzugefügt.
+MID_OCCUPATION_HELP_DIALOG_04: Gebiete kontrollieren:\n・ Die Armee, die ein Gebiet zu\nBeginn einer Runde kontrolliert,\nerhält Punkte.\n・ Die Armee mit den meisten\nPunkten am Ende einer Runde\nerhält die Kontrolle über dieses\nGebiet.
+MID_OCCUPATION_HELP_DIALOG_05: Kooperationsbonus:\nWährend jeder Runde werden\nBonuspunkte zu den insgesamt\nverdienten Punkten in einem\nGebiet hinzugefügt, je nachdem,\nwie viele Verbündete während\nder Runde im Gebiet kämpfen.
+MID_OCCUPATION_HELP_DIALOG_06: Aushelfen:\n・ Du kannst einmal pro Runde\naushelfen.\n・ Durch Aushelfen wird die Anzahl\nder kämpfenden Verbündeten in\neinem zufälligen Gebiet um 1\nerhöht, wodurch die Chance auf\nden Kooperationsbonus steigt.\nMöglicherweise erhältst du\nauch ein zufälliges Item.
+MID_OCCUPATION_HELP_DIALOG_07: Besiegt werden:\n・ Armeen können während einer\nRunde besiegt werden, wenn die\nKampfbedingungen berechnet\nwerden. Wenn der Unterschied\nzwischen Platz eins und zwei die\nGrenze überschreitet, erhält der\nGewinner das Gebiet sofort.\n・ Wenn dies passiert, kann in\ndiesem Gebiet für den Rest der\nRunde nicht gekämpft werden.
+MID_OCCUPATION_HELP_DIALOG_08: GE-Ränge:\n・ Dein GE-Rang erhöht sich je\nnach deiner Gesamtpunktzahl\nim Kampf.\n・ Je höher dein GE-Rang, desto\nmehr Punkte werden Gebieten\nhinzugefügt, die an dein gewähltes\nGebiet grenzen.\n・ Je nach deinem GE-Rang kannst\ndu weitere Prämien verdienen.
+MID_OCCUPATION_GRADE_PROMOTION: $aDein GE-Rang hat sich von\n$a0 auf $a1 erhöht.
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: Punkte für angrenzende Gebiete
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a+$a0 %
+MID_SHOP_REMAINING_MINUTES: $aMinuten bis Angebotsende: $a0
+MID_SHOP_REMAINING_HOURS: $aStunden bis Angebotsende: $a0
+MID_SHOP_REMAINING_DAYS: $aTage bis Angebotsende: $a0
+MID_TAP_BATTLE_TITLE_1: Tipp-Kampf
+MID_CONQUER_HELP_DIALOG_01_02: Regeln des Revierkampfs:\n・ Sind alle Einheiten einer Seite\nbesiegt, werden neue Truppen\nden Kampf fortsetzen.\n・ Der Kampf endet nach 10\nZügen oder wenn die Festung\neiner Seite zerstört wird\n
+MID_CONQUER_HELP_DIALOG_06: Weitere Regeln des Revierkampfs:\n・ Verstärkungstruppen haben keine\nBoni durch legendäre Effekte.\n・ Du verdienst keine Erf. oder FP.\n・ Bindungen durch Verbündeten-\nhilfe oder Beschwörerhilfe werden\nnicht stärker.
+MID_VOTE_DIALOG_HELP_03_02: Kämpfe:\nNach einem Sieg musst du eine\nbestimmte Zeit warten, bevor du\nerneut die Armee deines Helden\nim Kampf unterstützen kannst.

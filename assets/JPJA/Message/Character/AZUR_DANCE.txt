@@ -1,0 +1,39 @@
+[Heroes Archive] (AZUR_DANCE)
+
+
+Heroes Message Name: Message
+
+
+MID_AZUR_DANCE_HOME1: ここには、色んな英雄がいるんだね。\n異界にはこんなにいっぱい\nかわいい子がいるのかあ…！
+MID_AZUR_DANCE_HOME2: 男の踊りじゃ元気にならないって\nそう言われることもあったけど…\n今の僕なら、みんなの力になれるよ。
+MID_AZUR_DANCE_HOME3: 今の僕の姿を見たら、\n死んじゃった母さんは笑ってくれるかな。\n踊りを受け継いだこと、喜んでくれるかな…
+MID_AZUR_DANCE_HOME4: 舞踏祭では友達みんなで演奏をしたり\n演劇をやったりしたんだよ。\nここでもそういうお祭り、開いてみない？
+MID_AZUR_DANCE_HOME5: 踊ってる時だけはね、笑顔でいようって\nそう思わなくてもいいんだ。\n踊ってると自然に、笑顔になるものだから。
+MID_AZUR_DANCE_FRIEND: $Nfさんから、\n挨拶を届けに来たよ！　…え、この衣装？\n踊るための服なんだよ。綺麗でしょ？
+MID_AZUR_DANCE_LEVEL1: 君がいっぱい踊らせてくれた\nおかげだね！
+MID_AZUR_DANCE_LEVEL2: せっかくダンサーになったんだもん、\nこれぐらい頑張らないとね！
+MID_AZUR_DANCE_LEVEL3: は、恥ずかしい…！\nもっと練習してくるよ…！
+MID_AZUR_DANCE_SKILL: これからも僕を見ててね。\n君がくれた力で、もっと綺麗に踊るから！
+MID_AZUR_DANCE_JOIN: 僕はアズール。\nダンサーは僕の夢だったんだ。\nこの舞台で、精いっぱい踊ってみせるよ。
+MID_AZUR_DANCE_STRONGEST: ありがとう$Nu。\nこの世界に僕を呼んでくれて、\n色んな英雄たちの前で踊らせてくれて。$k$p僕はね、今まで色んな世界を旅してきた。\n色んな場所で、大切な人たちと出会った。\nでも、その中の誰ひとりにも…$k$p夢を叶えた姿を見せられなかったんだ。\nだけど君のおかげで今、それが叶ってる。\nこれ以上に嬉しいことなんてないよ。$k$p君は僕に夢の続きをくれたんだ。\nこんなこと言うのは恥ずかしいけど…\n恩人に出会えたって、そう思ってる。$k$p君の笑顔も、夢も、大切な人も…\n今度は僕が守るから傍にいさせて。\nこれからもずっと…君のこと大好きだよ！
+MID_AZUR_DANCE_VOICE01: せいっ！
+MID_AZUR_DANCE_VOICE02: いくよ！
+MID_AZUR_DANCE_VOICE03: わあっ！
+MID_AZUR_DANCE_VOICE04: 恥ずかしいよー！
+MID_AZUR_DANCE_VOICE05: 笑って踊ろうね
+MID_AZUR_DANCE_VOICE06: 一曲お相手を
+MID_AZUR_DANCE_VOICE07: 目をそらさないで
+MID_AZUR_DANCE_VOICE08: エンディングだよ
+MID_AZUR_DANCE_VOICE09: もう…踊れないや…
+MID_AZUR_DANCE_VOICE10: えへへ
+MID_AZUR_DANCE_VOICE11: 僕を見ていて
+MID_AZUR_DANCE_VOICE12: 君のために踊るよ
+MID_AZUR_DANCE_VOICE13: この衣装、似合ってる？　お祭りのために用意したんだ
+MID_AZUR_DANCE_VOICE14: れ、練習を見られるのだけは…やっぱりまだ恥ずかしいかも
+MID_AZUR_DANCE_VOICE15: この姿ならいよいよモテるんじゃないかな？　なんてね
+MID_AZUR_DANCE_VOICE16: やっと夢が叶ったよ。この力で、みんなを笑顔にしてみせる…
+MID_AZUR_DANCE_VOICE17: 僕の特別な踊り…君にだけ見せてあげる。\n心を込めて踊るから、最後まで見ていてね。
+MID_AZUR_DANCE_VOICE18: わかった
+MID_AZUR_DANCE_VOICE19: 踊っていいの？
+MID_AZUR_DANCE_VOICE20: お茶でも行かない？
+MID_AZUR_DANCE_VOICE21: みんなを元気づける踊り…今の僕になら！

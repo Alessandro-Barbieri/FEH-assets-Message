@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_HOME1: Non mi sento diversa, anche se non\nsono a casa. Quindi cos'è che mi\nrende un'eroina in questo mondo?
+MID_REFLET_F_HOME2: Chrom mi trovò in stato d'incoscienza.\nNon ricordavo nulla del mio passato.\nLui mi aiutò e io mi unii ai Pastori.
+MID_REFLET_F_HOME3: Ammiro la tua diligenza. Il modo in cui\nti dai costantemente da fare mi ricorda\nmolto... me stessa.
+MID_REFLET_F_HOME4: Ho un piano, ma non so se funzionerà\nin questo mondo. Hai tempo per\nrivederlo insieme a me?
+MID_REFLET_F_HOME5: La vostra biblioteca è fantastica! Ci\nsono così tanti libri interessanti... Ops!\nDovevo chiederti il permesso?
+MID_REFLET_F_FRIEND: Piacere di conoscerti. Io sono Daraen.\n$Nf mi ha\nchiesto di passare a salutarti.
+MID_REFLET_F_LEVEL1: Nemmeno io avrei potuto\nprevederlo!
+MID_REFLET_F_LEVEL2: Fa tutto parte del piano.
+MID_REFLET_F_LEVEL3: Ehm, tutto qui?
+MID_REFLET_F_SKILL: Sono contenta che tu riconosca\nil mio valore strategico.
+MID_REFLET_F_JOIN: Sono Daraen, stratega dei Pastori\ndi Chrom. Sono certa che ti sarò\nutile sul campo di battaglia.
+MID_REFLET_F_STRONGEST: Abbiamo superato molte difficoltà\nsul campo di battaglia e ti ho\nosservat$Go,a| passo dopo passo.$k$pNon per essere presuntuosa, ma\nle tue abilità tattiche, il modo in cui\ncombatti e tieni tutti al sicuro...$k$pTutto mi ricorda me stessa e il modo\nin cui ho guidato i miei amici in\nbattaglia nel mio mondo.$k$pCiò significa che so anche quanto\nciascuno di noi conti per te e quanto\ndolore possa portarti il tuo ruolo.$k$pSe questo dovesse pesarti troppo,\nvorrei ti avvalessi del mio aiuto.\nDopotutto ci sono passata anch'io.$k$pPotrei anche mettere a punto un piano\nche risolva tutti i tuoi problemi, anche\nal di fuori del campo di battaglia.
+MID_REFLET_F_VOICE01: えい！
+MID_REFLET_F_VOICE02: はあっ！
+MID_REFLET_F_VOICE03: きゃっ！
+MID_REFLET_F_VOICE04: Part of the plan...
+MID_REFLET_F_VOICE05: Ora si cambia!
+MID_REFLET_F_VOICE06: Non te l'aspettavi, eh?
+MID_REFLET_F_VOICE07: Come prevedevo!
+MID_REFLET_F_VOICE08: Il legame ci rafforza!
+MID_REFLET_F_VOICE09: Oops.
+MID_REFLET_F_VOICE10: Heehee
+MID_REFLET_F_VOICE11: Oh, hey! I was just thinking I'd like to chat with you.
+MID_REFLET_F_VOICE12: Let's work on a battle plan together.
+MID_REFLET_F_VOICE13: I understand you're the tactician for this team.
+MID_REFLET_F_VOICE14: I don't know why, but I feel a strange kinship with you.
+MID_REFLET_F_VOICE15: My time before I arrived in Ylisse was a blank. No memories at all.
+MID_REFLET_F_VOICE16: I wonder if Chrom is around here...
+MID_REFLET_F_VOICE17: I look forward to working with you for a good, long time.
+MID_REFLET_F_VOICE18: OK.
+MID_REFLET_F_VOICE19: On it.
+MID_REFLET_F_VOICE20: Right.

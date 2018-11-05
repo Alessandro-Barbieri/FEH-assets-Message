@@ -1,0 +1,39 @@
+[Heroes Archive] (MARTH)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_HOME1: C'est étrange... J'ai l'impression que\nvous faites partie de moi... que nous\nsommes liés depuis toujours.
+MID_MARTH_HOME2: Ne m'appelez pas Roi-Héros.\nSi je suis parvenu à arrêter la guerre,\nc'est grâce à mes nombreux alliés.
+MID_MARTH_HOME3: Nous sommes tous reconnaissants\nenvers vous, $GInvocateur,Invocatrice|. Vous\npouvez compter sur notre soutien.
+MID_MARTH_HOME4: Ce monde est magnifique...\nIl me rappelle beaucoup le mien.
+MID_MARTH_HOME5: Je n'accepterai pas de perdre un\nseul de mes alliés. Tous ensemble,\nnous mettrons fin à cette guerre.
+MID_MARTH_FRIEND: J'espère ne pas vous déranger.\n$Nf m'a\ndemandé de vous saluer.
+MID_MARTH_LEVEL1: Que cette lueur d'espoir illumine le\nchemin de mes alliés !
+MID_MARTH_LEVEL2: Je ferai tout mon possible pour\ncontinuer à m'améliorer.
+MID_MARTH_LEVEL3: Je vous prie de m'excuser.\nCe n'est pas mon jour...
+MID_MARTH_SKILL: Que cette lueur d'espoir m'aide à\nmettre fin aux combats.
+MID_MARTH_JOIN: Je suis Marth, prince d'Altea.\nComme vous, je mets tout en\nœuvre pour la paix.
+MID_MARTH_STRONGEST: Les batailles que nous avons\nmenées ensemble m'ont permis\nd'accepter mes propres failles.$k$pSeul, je ne vaux rien. Mais lorsque\nnous nous unissons face à l'ennemi,\nrien ne peut nous arrêter.$k$pÀ vos côtés, je me sens imbu d'un\ncourage dont je ne me savais pas\ncapable.$k$pN'ayez aucune crainte. Je resterai\ndans votre armée aussi longtemps\nque vous voudrez de moi.$k$pC'est un honneur pour moi de savoir\nque nous pouvons compter l'un sur\nl'autre, $GInvocateur,Invocatrice|.
+MID_MARTH_VOICE01: せいっ
+MID_MARTH_VOICE02: はあっ
+MID_MARTH_VOICE03: うっ
+MID_MARTH_VOICE04: うわああ！
+MID_MARTH_VOICE05: Je prie pour vous.
+MID_MARTH_VOICE06: Pardonnez-moi.
+MID_MARTH_VOICE07: Je dois en finir.
+MID_MARTH_VOICE08: Le destin en a voulu ainsi.
+MID_MARTH_VOICE09: Farewell...
+MID_MARTH_VOICE10: Heh
+MID_MARTH_VOICE11: What's wrong? And how may I help?
+MID_MARTH_VOICE12: I admire how you lead your troops in battle.
+MID_MARTH_VOICE13: You, too, are blessed with wonderful allies.
+MID_MARTH_VOICE14: The circlet I wear? A gift from...someone dear to me.
+MID_MARTH_VOICE15: It seems every world is war torn...
+MID_MARTH_VOICE16: I don't want anyone to die. Surely you feel the same way.
+MID_MARTH_VOICE17: I enjoy this time with you. My troubles seem to melt away.
+MID_MARTH_VOICE18: Understood.
+MID_MARTH_VOICE19: Together.
+MID_MARTH_VOICE20: As you say.
+MID_MARTH_VOICE21: If you will allow me, I can be your strength.

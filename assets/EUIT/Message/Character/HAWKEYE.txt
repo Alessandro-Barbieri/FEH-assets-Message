@@ -1,0 +1,38 @@
+[Heroes Archive] (HAWKEYE)
+
+
+Heroes Message Name: Message
+
+
+MID_HAWKEYE_HOME1: Ho vissuto a lungo nel deserto.\nLuoghi come questo mi sono\nassolutamente sconosciuti.
+MID_HAWKEYE_HOME2: Attenzione al potere dell'evocazione.\nCol tempo, simili abilità possono\ncondurre gli uomini alla pazzia.
+MID_HAWKEYE_HOME3: Ti sono molto grato per quello\nche fai. Volevo che lo sapessi.
+MID_HAWKEYE_HOME4: So che non hai esperienza militare e\ntuttavia conduci le battaglie come\nuna bestia feroce.
+MID_HAWKEYE_HOME5: La vita di una sentinella del deserto\nè solitaria. Così è giusto che sia.\nPerdonami se resto in disparte.
+MID_HAWKEYE_FRIEND: Sei $Nu?\nVengo a porgerti i saluti di\n$Nf.
+MID_HAWKEYE_LEVEL1: UUU-OOOH!
+MID_HAWKEYE_LEVEL2: La mia forza è aumentata.\nMolto bene.
+MID_HAWKEYE_LEVEL3: Dunque il mio tempo come\nsentinella è finito?
+MID_HAWKEYE_SKILL: Ti sono riconoscente per ciò\nche mi hai dato.
+MID_HAWKEYE_JOIN: Sono una sentinella del deserto,\ndifensore del territorio che circonda\nil villaggio dei draghi, luogo in cui vivo.$k$pTu puoi chiamarmi Tronk.
+MID_HAWKEYE_STRONGEST: È arrivato per noi il momento di fare\nun discorso serio. Tu e io, adesso.$k$pHo la sensazione che mi trovi strano.\nForse più strano di quanto mi\nconsideri in genere la gente.$k$pProvengo dal deserto sconfinato e\nso che la gente mi percepisce\ncome un estraneo.$k$pAnche per te è così? Mi vedi anche\ntu allo stesso modo? O forse sei tu\na sentirti estraneo a me?$k$pIo e te siamo uguali, da un certo punto\ndi vista. Entrambi vogliamo far sì che\nla pace sia duratura.$k$pCome le sabbie del tempo, che\nscorrono sempre uguali a sé stesse,\nio e te continueremo a combattere.
+MID_HAWKEYE_VOICE01: むんっ！
+MID_HAWKEYE_VOICE02: ふんっ！
+MID_HAWKEYE_VOICE03: うああっ！
+MID_HAWKEYE_VOICE04: むぅっ…！
+MID_HAWKEYE_VOICE05: UUU-OOOH!
+MID_HAWKEYE_VOICE06: COMBATTI!
+MID_HAWKEYE_VOICE07: Non temo NULLA!
+MID_HAWKEYE_VOICE08: Sto arrivando!
+MID_HAWKEYE_VOICE09: ...Home...
+MID_HAWKEYE_VOICE10: Huh.
+MID_HAWKEYE_VOICE11: If you need to talk, I am always here.
+MID_HAWKEYE_VOICE12: You wish to get my attention? Friend, you have it.
+MID_HAWKEYE_VOICE13: I have a destiny. I will fulfill it.
+MID_HAWKEYE_VOICE14: The desert I guard... There is no desert more in need of a guardian.
+MID_HAWKEYE_VOICE15: I find you...mysterious.
+MID_HAWKEYE_VOICE16: My time as guardian will come to an end. That time draws near.
+MID_HAWKEYE_VOICE17: I believe in you, friend.
+MID_HAWKEYE_VOICE18: Hmm.
+MID_HAWKEYE_VOICE19: Yes?
+MID_HAWKEYE_VOICE20: Of course.

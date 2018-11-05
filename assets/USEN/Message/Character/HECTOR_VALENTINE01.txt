@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_VALENTINE01_HOME1: So your world has a festival that\ncelebrates love too, huh?$k$pWhat kind of people would win your\nworld's tournament?
+MID_HECTOR_VALENTINE01_HOME2: You're wasting your time if you came\nto me for gift-giving advice.$k$pWhat I have to share on that matter\ncould hardly be classified as "advice."
+MID_HECTOR_VALENTINE01_HOME3: I don't know if it's because of the\nfestival or what, but... Does everyone\nseem a bit rowdy to you?
+MID_HECTOR_VALENTINE01_HOME4: There's a whole row of stalls in town\nselling all sorts of treats. And they all\nlook mighty sweet to me.$k$pBut the only treat I need is a good\ntournament!
+MID_HECTOR_VALENTINE01_HOME5: Eliwood and I used to spar all the\ntime. He's not as sturdy as I am, but\nhe still gave me a run for my money!
+MID_HECTOR_VALENTINE01_FRIEND: I've got a gift for you, from\n$Nf. But if you\ndon't want it... I'll take it.
+MID_HECTOR_VALENTINE01_LEVEL1: Victory at the tournament will\nbe mine!
+MID_HECTOR_VALENTINE01_LEVEL2: Can't lose focus just because it's\nfestival time.
+MID_HECTOR_VALENTINE01_LEVEL3: Maybe I'm getting a little ahead\nof myself here...
+MID_HECTOR_VALENTINE01_SKILL: Guess I need to return the favor.\nSo, uh... What do you want?
+MID_HECTOR_VALENTINE01_JOIN: I'm Hector. Huh? You didn't summon\nme here hoping for a gift, did you?
+MID_HECTOR_VALENTINE01_STRONGEST: Gift giving isn't really my thing, but I\nknow a good gift can show someone\nhow grateful you are to them.$k$pSo I guess that means I should hand\nsome out... I'll get something for my\ndaughter Lilina, and for Eliwood.$k$pBut I never know what to say when I\nhand over a gift. It's always just kind\nof...embarrassing...$k$pSay, $Nu...\nWhy don't you help me come up with\nsomething? I'm really hopeless here.$k$pYou'll do it? Great! I owe you big time!\nHeh, guess that means I'll have to get\nsomething for you, too.
+MID_HECTOR_VALENTINE01_VOICE01: おおっ！
+MID_HECTOR_VALENTINE01_VOICE02: Take this!
+MID_HECTOR_VALENTINE01_VOICE03: うああっ！
+MID_HECTOR_VALENTINE01_VOICE04: What?!
+MID_HECTOR_VALENTINE01_VOICE05: Got a present for you!
+MID_HECTOR_VALENTINE01_VOICE06: Take this!
+MID_HECTOR_VALENTINE01_VOICE07: My arm is singin'!
+MID_HECTOR_VALENTINE01_VOICE08: I ain't sweet!
+MID_HECTOR_VALENTINE01_VOICE09: Took 'em too lightly...
+MID_HECTOR_VALENTINE01_VOICE10: ははっ！
+MID_HECTOR_VALENTINE01_VOICE11: The name's Hector. Now, where's this tournament I heard about?
+MID_HECTOR_VALENTINE01_VOICE12: Whoa! Hey, what's with you? Don't sneak up on a guy like that!
+MID_HECTOR_VALENTINE01_VOICE13: So, is Eliwood around? I can't relax until we spar.
+MID_HECTOR_VALENTINE01_VOICE14: Just so we're clear... I will not, under any circumstances, allow my daughter to get married! She's not gonna be anybody's bride.
+MID_HECTOR_VALENTINE01_VOICE15: What would I like? Well, I guess… Maybe a bite to eat. Or a good weapon!
+MID_HECTOR_VALENTINE01_VOICE16: Never thought I'd see the day my daughter was giving me presents...
+MID_HECTOR_VALENTINE01_VOICE17: I've never been great at picking out gifts, but I promise I'll keep you safe.
+MID_HECTOR_VALENTINE01_VOICE18: Nice.
+MID_HECTOR_VALENTINE01_VOICE19: What do you want?
+MID_HECTOR_VALENTINE01_VOICE20: You'll make the right choice.

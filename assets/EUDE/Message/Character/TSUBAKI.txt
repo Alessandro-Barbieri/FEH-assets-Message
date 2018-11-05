@@ -1,0 +1,38 @@
+[Heroes Archive] (TSUBAKI)
+
+
+Heroes Message Name: Message
+
+
+MID_TSUBAKI_HOME1: Ich kann kaum glauben, dass ich aus\nEurer Waffe geschlüpft sein soll.$k$pIn diesem Reich ist wirklich alles\nanders als in meiner Heimat, dem\nKönigreich Hoshido.
+MID_TSUBAKI_HOME2: Ich diene Milady Sakura. Ihre Anmut\nist ohnegleichen.$k$pSie zeigt selbst angesichts meiner\ngröbsten Unzulänglichkeiten eine\nunglaubliche Geduld.
+MID_TSUBAKI_HOME3: Eure Rundgänge in diesem großen\nAreal müssen sehr ermüdend sein.$k$pIch werde gern meine Pflicht tun,\nwenn Ihr der Ruhe bedürft.
+MID_TSUBAKI_HOME4: Ihr werdet merken, dass ich in der\nSchlacht stets bemüht bin, perfekte\nLeistungen zu bringen.$k$pUnd ich schwöre: Für Euch werde ich\nmeine Anstrengungen verdoppeln!
+MID_TSUBAKI_HOME5: Vielleicht fällt Euch ein blumiger Duft\nan mir auf. Verzeiht, wenn das Eure\nNase beleidigen sollte.$k$pEs handelt sich um ein Haaröl\naus Kamelienblüten.
+MID_TSUBAKI_FRIEND: Hallo. Ich bin mir absolut sicher, dass\nIhr $Nu seid.$k$pJa? Gut. Ich bringe Euch\ndie schönsten Grüße von\n$Nf!
+MID_TSUBAKI_LEVEL1: Ich werde wirklich\nimmer besser, oder?
+MID_TSUBAKI_LEVEL2: Das wird für eine\nWeile reichen.
+MID_TSUBAKI_LEVEL3: Vielleicht sollte ich\nmehr üben.
+MID_TSUBAKI_SKILL: Dank Eurer Hilfe bin ich der\nPerfektion ein Stück näher.
+MID_TSUBAKI_JOIN: Ich bin Subaki, Luftritter aus dem\nKönigreich Hoshido. Es ist eine große\nFreude, Euch dienen zu dürfen.
+MID_TSUBAKI_STRONGEST: Ihr und ich haben nun schon viele\nMale gemeinsam den Feind$k$pbezwungen, nicht wahr,\n$Nu?$k$pIch bin sicher, Euch ist aufgefallen,\ndass ich hier und da ganz kleine\nFehler mache.$k$pDas ist ja auch verständlich.$k$pDennoch ärgert mich das, besonders\nhier, wo ich meinen Platz zwischen all\nden Helden behaupten muss, die in$k$pdiese Welt gerufen wurden. Ich habe\ndas Gefühl, ich muss hier noch\nperfekter sein als in meiner Heimat.$k$pUnd Ihr, $GLegendärer Held,Legendäre Heldin|! Ihr müsst\nunter noch größerem Druck stehen,\n$Gder,die| Beste der Besten zu sein!$k$pWie? Ihr sagt, manchmal sei Eure\nTaktik nicht ganz auf der Höhe?$k$pAha! Das ist wunderbar. Ihr und ich,\nwir beide verstecken unsere kleinen\nFehler.$k$pNun, Euer Geheimnis ist sicher bei\nmir.$k$pWir werden einander helfen, die abso-\nlute Perfektion zu erreichen. Bis dahin\nkönnt Ihr auf mich zählen - absolut!
+MID_TSUBAKI_VOICE01: はいっ！
+MID_TSUBAKI_VOICE02: せやっ！
+MID_TSUBAKI_VOICE03: うあっ！
+MID_TSUBAKI_VOICE04: Drat...
+MID_TSUBAKI_VOICE05: Das war alles ich!
+MID_TSUBAKI_VOICE06: Schau zu und lerne!
+MID_TSUBAKI_VOICE07: Erwarte Perfektion!
+MID_TSUBAKI_VOICE08: Du wirst scheitern. Nicht ich!
+MID_TSUBAKI_VOICE09: So close...
+MID_TSUBAKI_VOICE10: Heehee
+MID_TSUBAKI_VOICE11: Gracious thanks, friend, for any and all concern!
+MID_TSUBAKI_VOICE12: I'm the perfect partner, whether in battle or simply socializing.
+MID_TSUBAKI_VOICE13: If I have any flaws, it's that I fuss too much over my appearance.
+MID_TSUBAKI_VOICE14: You can rely on me to do a thing right. I assume that's why you summoned me.
+MID_TSUBAKI_VOICE15: What? That wasn't my stomach growling. You must be mistaken.
+MID_TSUBAKI_VOICE16: Where is Lady Sakura? I must serve her well, even in her absence.
+MID_TSUBAKI_VOICE17: Perfection is a fool's errand. I suppose that makes me the perfect fool!
+MID_TSUBAKI_VOICE18: Yes?
+MID_TSUBAKI_VOICE19: Absolutely.
+MID_TSUBAKI_VOICE20: Let's go.

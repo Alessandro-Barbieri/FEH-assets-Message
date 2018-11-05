@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_POPULARITY01_HOME1: 我媽媽出生於貴族之家，\n但卻和身為草原之民的爸爸私奔，\n然後，生下了我……
+MID_LIN_POPULARITY01_HOME2: 我爸爸是羅卡族的族長。\n我原本想代替爸爸，守護部落……\n但卻失敗了。\n
+MID_LIN_POPULARITY01_HOME3: 如果我也能做些什麼，\n讓你能好好休息就好了……\n……像是早上叫醒你之類的？
+MID_LIN_POPULARITY01_HOME4: 這把疾風之弓叫做【妙爾葛雷】……\n是被稱為神將器的特殊武器。\n聽說原本的主人是位叫做哈蓉的女性喔。
+MID_LIN_POPULARITY01_HOME5: 從晃動的馬背上\n瞄準會動的目標……然後射擊。\n草原之民至少都有這種本事喔。
+MID_LIN_POPULARITY01_FRIEND: $Nf要我來向你致意。\n希望今後……啊，要是不合禮法的話，\n我先向你道歉。
+MID_LIN_POPULARITY01_LEVEL1: 爸爸，媽媽，\n要看著我喔……
+MID_LIN_POPULARITY01_LEVEL2: 感覺這把弓\n將會引導我……
+MID_LIN_POPULARITY01_LEVEL3: 我會小心\n以避免中箭落馬……
+MID_LIN_POPULARITY01_SKILL: 好開心喔。\n真想回應你的期望。
+MID_LIN_POPULARITY01_JOIN: 我叫做琳迪絲。\n我就用這把塞迦部落相傳的弓\n助你一臂之力吧。
+MID_LIN_POPULARITY01_STRONGEST: 我身上流著兩種血統。\n侯爵家的貴族之血……\n以及草原部落之血……$k$p兩邊都是，我……我所珍惜的血緣。\n我總覺得爸爸和媽媽……\n他們一直在守護著我。$k$p將來要是我結了婚，\n生兒育女的話……\n我也會想守護我的孩子……$k$p……就這樣吧。\n在或許明天就會戰死的戰爭中，\n想這些事很奇怪吧。$k$p不過，正因為是在這種時代裡，我才會這樣想。\n希望繼承了我的血脈的孩子……\n能夠獲得幸福……
+MID_LIN_POPULARITY01_VOICE01: 嘿！
+MID_LIN_POPULARITY01_VOICE02: 看招！
+MID_LIN_POPULARITY01_VOICE03: 呀啊～！
+MID_LIN_POPULARITY01_VOICE04: 還、還沒……！
+MID_LIN_POPULARITY01_VOICE05: 覺悟吧！
+MID_LIN_POPULARITY01_VOICE06: 絕不落空！
+MID_LIN_POPULARITY01_VOICE07: 領教塞迦之弓吧！
+MID_LIN_POPULARITY01_VOICE08: 命中吧！
+MID_LIN_POPULARITY01_VOICE09: 爸爸……媽媽……
+MID_LIN_POPULARITY01_VOICE10: 嗯……
+MID_LIN_POPULARITY01_VOICE11: 我穿成這樣很好看？謝謝。
+MID_LIN_POPULARITY01_VOICE12: 拉弓時，要保持平靜、放鬆身體……
+MID_LIN_POPULARITY01_VOICE13: 我做了一個夢。在夢中，你拯救了我……
+MID_LIN_POPULARITY01_VOICE14: 你果然很像我認識的那位軍師呢……
+MID_LIN_POPULARITY01_VOICE15: 不管是騎術還是弓箭，爸爸都相當了得喔。
+MID_LIN_POPULARITY01_VOICE16: 爸爸……媽媽……你們有在看著我嗎？
+MID_LIN_POPULARITY01_VOICE17: 從很久以前開始……你就是我最珍惜的人喔。
+MID_LIN_POPULARITY01_VOICE18: 嗯。
+MID_LIN_POPULARITY01_VOICE19: 敵人在哪裡？
+MID_LIN_POPULARITY01_VOICE20: 要待在我身邊喔。

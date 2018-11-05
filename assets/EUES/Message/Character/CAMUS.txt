@@ -1,0 +1,38 @@
+[Heroes Archive] (CAMUS)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMUS_HOME1: Así que "Guardianes de Askr"...\nBueno, al menos eso indica que\nsois leales a vuestra patria.
+MID_CAMUS_HOME2: Supongo que todos tenemos a una\npersona especial cuyo recuerdo\nnos acompañará siempre...
+MID_CAMUS_HOME3: ¿Por qué me miras así? ¿Acaso\ntengo monos en la cara?
+MID_CAMUS_HOME4: Dedico mi vida a mi patria. ¿Que si\nmoriría también por ella? Derramaría\nhasta la última gota de mi sangre.
+MID_CAMUS_HOME5: Cuando era caballero, me destinaron\na un lugar remoto, donde entrenar\nera el único entretenimiento posible.
+MID_CAMUS_FRIEND: Vengo de una tierra lejana en busca\nde $Nu.\n¿Eres tú?$k$pMe ha pedido que te visite\n$Nf para\nsaludarte en su nombre. Es un placer.
+MID_CAMUS_LEVEL1: ¡Mi poder siempre estará\nal servicio de la patria!
+MID_CAMUS_LEVEL2: Bien. Y ahora, preparémonos\npara la próxima batalla.
+MID_CAMUS_LEVEL3: Qué momento tan amargo...
+MID_CAMUS_SKILL: ¡Te mostraré de lo que es capaz\nun guerrero de Grust!
+MID_CAMUS_JOIN: Soy Camus, guerrero y capitán\nde la Orden Ópalo de Grust.
+MID_CAMUS_STRONGEST: Si te soy sincero, no recuerdo bien\ncuándo ni por qué empecé a\napartarme de los demás.$k$pSupongo que mi pasado me\ncondiciona, pero todo es distinto\ndesde que lucho a tu lado.$k$pAunque al principio pretendiera seguir\naislándome para ahorrarme el dolor\nde perder a alguien querido,$k$phe acabado entendiendo que\ncercenar una relación por miedo es\nuna privación mucho más dolorosa.$k$pY también menos valiente, claro.\nSolo por esa lección mereces\nmi gratitud eterna.
+MID_CAMUS_VOICE01: はぁっ！
+MID_CAMUS_VOICE02: せいっ！
+MID_CAMUS_VOICE03: うああっ！
+MID_CAMUS_VOICE04: Bravo...
+MID_CAMUS_VOICE05: Pagarás con tu vida.
+MID_CAMUS_VOICE06: Me das lástima.
+MID_CAMUS_VOICE07: ¡A la carga!
+MID_CAMUS_VOICE08: ¡Ríndete!
+MID_CAMUS_VOICE09: Farewell...
+MID_CAMUS_VOICE10: Hm...
+MID_CAMUS_VOICE11: Do you have need of my service?
+MID_CAMUS_VOICE12: I am but a man of war... Forgive me my impertinence.
+MID_CAMUS_VOICE13: The one thing I cannot do is betray my motherland.
+MID_CAMUS_VOICE14: I will stand as your shield.
+MID_CAMUS_VOICE15: Devotion to one’s motherland is the highest calling. And the loneliest one.
+MID_CAMUS_VOICE16: I have lived as a knight, and I intend to die as one.
+MID_CAMUS_VOICE17: I pray you meet someone who will bring joy into your life.
+MID_CAMUS_VOICE18: Understood.
+MID_CAMUS_VOICE19: What can I do?
+MID_CAMUS_VOICE20: Shall we?

@@ -1,0 +1,38 @@
+[Heroes Archive] (RUKE)
+
+
+Heroes Message Name: Message
+
+
+MID_RUKE_HOME1: Ein Schloss braucht Ritter und ein\nRitter braucht etwas Romantik. Also\nist die logische Schlussfolgerung...$k$p...Dass ein Schloss etwas Romantik\nbraucht! Wartet. Das ergibt keinen\nSinn.
+MID_RUKE_HOME2: He, haltet schön die Augen offen.\nNach was? Nach dem Einzigen,\nwofür es sich lohnt!$k$pDamen für Luke! Jeder Art - wenn\nsie schön anzuschauen sind.
+MID_RUKE_HOME3: Ich bin ein angehender Ritter von\nAltea und das bedeutet auch, dass\nich eine angehende Legende bin!
+MID_RUKE_HOME4: Ich kenne meinen Freund Roderick\nschon lange. Macht sich zu viele\nSorgen, aber er ist ein guter Kerl!
+MID_RUKE_HOME5: Wir sollten losziehen und nach\nAbenteuern suchen! Oder nach\nHerzen zum Erobern!
+MID_RUKE_FRIEND: Hallo! Ihr seid jetzt Teil der Legende\nvon Luke! Bedankt Euch bei\n$Nf dafür.
+MID_RUKE_LEVEL1: Die Legende von Luke wird\nimmer besser und besser!
+MID_RUKE_LEVEL2: Ziemlich gut, aber eine Legende\nwie ich ist zu mehr imstande!
+MID_RUKE_LEVEL3: Das ist alles? Unmöglich. Nicht\nbei mir.
+MID_RUKE_SKILL: Danke für Euren Anteil an der\nLegende von Luke!
+MID_RUKE_JOIN: Ruft nach Euren Barden, sie werden\nLieder über mich schreiben wollen:\nLuke, der beste Ritter von Altea!
+MID_RUKE_STRONGEST: Gefällt Euch, was aus der Legende\nvon Luke geworden ist? Sie ist so\ngroßartig, wie Ihr dachtet, oder?$k$pEs gibt keinen stärkeren, mutigeren\nRitter als mich. Es macht mir beinahe\nAngst.$k$pAber eine Legende lässt sich\nnicht unterkriegen!$k$pHa! Ich scherze nur. Ich bin eigentlich\nnur ein Idiot, an den Ihr trotz meiner\nAufschneiderei geglaubt habt.$k$pOhne Eure Hilfe könnte ich mich keine\nMinute konzentrieren. Also, ich glaube,\ndass IHR es wirklich draufhabt.$k$pWas? Überrascht Euch das? Tief\ndrinnen bin ich ganz bescheiden. Aber\nverratet es niemandem, versprochen?
+MID_RUKE_VOICE01: はぁっ！
+MID_RUKE_VOICE02: せいっ！
+MID_RUKE_VOICE03: うああっ！
+MID_RUKE_VOICE04: Ouch!
+MID_RUKE_VOICE05: Luke muss man gernhaben!
+MID_RUKE_VOICE06: Nachsicht mit Euch haben? Ha!
+MID_RUKE_VOICE07: Eine angehende Legende!
+MID_RUKE_VOICE08: Der legendäre Luke!
+MID_RUKE_VOICE09: Ich habe verloren...?
+MID_RUKE_VOICE10: Haha
+MID_RUKE_VOICE11: Need the Luke, huh? Here to help!
+MID_RUKE_VOICE12: Hey, now! You'll mess up the Luke's hair.
+MID_RUKE_VOICE13: Who's larger than life? Me, Luke!
+MID_RUKE_VOICE14: Want a nickname? I'll give you one that will really stick!
+MID_RUKE_VOICE15: Any pretty healers around? Cuz I need some healing!
+MID_RUKE_VOICE16: People like big deals, right? Not average deals?
+MID_RUKE_VOICE17: Who wants to be a leader? Not me. All work, no glory!
+MID_RUKE_VOICE18: On it!
+MID_RUKE_VOICE19: All mine!
+MID_RUKE_VOICE20: Onward!

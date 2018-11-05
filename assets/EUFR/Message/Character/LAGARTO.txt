@@ -1,0 +1,38 @@
+[Heroes Archive] (LAGARTO)
+
+
+Heroes Message Name: Message
+
+
+MID_LAGARTO_HOME1: J'ai l'impression qu'ici, il n'y a pas\nbeaucoup de travail pour les gens\nde mon métier. Ça me plaît.
+MID_LAGARTO_HOME2: Quand le Black Fang s'est créé, son\nobjectif était de débarrasser le monde\nde la vermine...$k$pMais, à cause d'une certaine\npersonne, les choses ont fini par\nchanger...
+MID_LAGARTO_HOME3: Vous patrouillez ? N'oubliez pas de\nfaire une pause de temps en temps.
+MID_LAGARTO_HOME4: J'ai trouvé un bon coin pour se\ndétendre. Vous voulez venir avec\nmoi ?$k$pQuel luxe d'avoir un toit au-dessus\nde la tête et de ne pas se soucier\ndu prochain repas !
+MID_LAGARTO_HOME5: Les assassins sont en général des\nêtres faibles. Ils ne peuvent pas\ngagner s'ils se battent dans les règles.$k$pAlors, ils utilisent tout un tas d'artifices\net de stratagèmes. Je vous conseille\nde rester sur vos gardes.
+MID_LAGARTO_FRIEND: Oh, désolé, je ne voulais pas vous\nsurprendre... Une vieille habitude\ndont j'ai du mal à me débarrasser...$k$p$Nf m'a\ndemandé de venir vous saluer, c'est\nla seule raison de ma présence.
+MID_LAGARTO_LEVEL1: Ce n'est pas pour rien qu'on\nm'appelle l'Ouragan.
+MID_LAGARTO_LEVEL2: Je suis encore bon à\nquelque chose.
+MID_LAGARTO_LEVEL3: Je ne suis plus ce que j'étais...
+MID_LAGARTO_SKILL: Si vous m'accordez une telle\nconfiance, je vais devoir faire\nplus d'efforts.
+MID_LAGARTO_JOIN: Vous pouvez m'appeler Legault. Je\nne suis qu'un voleur à la petite\nsemaine.$k$pCe n'est peut-être pas ce que vous\nespériez, mais je ferai ce que je\npeux.
+MID_LAGARTO_STRONGEST: Bonjour, $Nu.$k$pVous avez fait du bon travail,\naujourd'hui. Et moi... je ne me suis\npas trop mal débrouillé.$k$pVous savez, je n'ai pas peur de\ngrand-chose. Pourtant, en arrivant\nici, je n'étais pas rassuré...$k$pUne équipe prête à combattre aux\ncôtés de quelqu'un comme moi, ça\nne m'inspirait pas confiance.$k$pMais maintenant que nous avons\npassé du temps ensemble, je vois\nque je m'inquiétais pour rien.$k$pJ'irais même jusqu'à dire qu'il y a une\ncertaine bonté qui émane de vous...\nÇa me rappelle des jours meilleurs...$k$pContinuez d'avancer sur le droit\nchemin. Je ne voudrais pas voir un\nautre beau projet s'effondrer.
+MID_LAGARTO_VOICE01: ほらよっ
+MID_LAGARTO_VOICE02: 悪いね
+MID_LAGARTO_VOICE03: うああっ！
+MID_LAGARTO_VOICE04: 参ったね…
+MID_LAGARTO_VOICE05: Votre vie s'achève.
+MID_LAGARTO_VOICE06: Tous les coups sont permis.
+MID_LAGARTO_VOICE07: Vous croyez que ça me fait plaisir ?
+MID_LAGARTO_VOICE08: Je suis là.
+MID_LAGARTO_VOICE09: I guess it's time...
+MID_LAGARTO_VOICE10: Haha
+MID_LAGARTO_VOICE11: I'm Legault, former Black Fang. Now I'm just a humble thief.
+MID_LAGARTO_VOICE12: I’m your new hobby, is that it? You falling for me?
+MID_LAGARTO_VOICE13: Don't get the wrong idea. As a rule, assassins are weaklings.
+MID_LAGARTO_VOICE14: I can't win in a fair fight, so I use trickery.
+MID_LAGARTO_VOICE15: Catch your target unaware. Poison them. Take hostages. That's the way I fight.
+MID_LAGARTO_VOICE16: Being an assassin's not a job to brag about, but everyone had a kind of pride in what they did.
+MID_LAGARTO_VOICE17: Why do I stick with you? Well, it's a little thing they call love.
+MID_LAGARTO_VOICE18: Nice.
+MID_LAGARTO_VOICE19: Hm?
+MID_LAGARTO_VOICE20: Who next?

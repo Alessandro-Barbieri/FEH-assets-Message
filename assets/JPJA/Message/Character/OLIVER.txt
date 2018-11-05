@@ -1,0 +1,38 @@
+[Heroes Archive] (OLIVER)
+
+
+Heroes Message Name: Message
+
+
+MID_OLIVER_HOME1: うぬぬ…、可憐でほどよい私が\nこのようなみすぼらしい城になど…\n嗚呼、女神は何故斯様な試練を私に…
+MID_OLIVER_HOME2: 私はタナス公爵、オリヴァーであるぞ。\n本来ならばおぬしのようなむさくるしい\n者とは口もきかぬところだが、仕方がない。
+MID_OLIVER_HOME3: どうしたのだ？　ぱっとしない顔が\nいつもに増して幸薄そうになっておるぞ。\n私の輝く笑顔を見習うのだ。ホラ、ホラ！
+MID_OLIVER_HOME4: 美とは深淵、美とは泡沫、美とは愛…\nんん、なんだ、その渋い顔は？\nおぬしが美に興味があるというから！
+MID_OLIVER_HOME5: 地味っぺらい世界かと思えば、\nどうして麗しい小鳥もいるではないか。\nこれ、そこにある娘、名はなんという？
+MID_OLIVER_FRIEND: $Nf殿が\nおぬしを心配しておったぞ。\n私の方が美しいのにのう。
+MID_OLIVER_LEVEL1: またひとつ…\n美しさを手に入れてしまったか…
+MID_OLIVER_LEVEL2: ふーむ。一見普通に見えつつも、常人には\nわからぬ魅力を身につけてしまった。
+MID_OLIVER_LEVEL3: こ、これは！　完璧な私を妬んだ神の試練！\n負けぬ…負けませぬぞー！
+MID_OLIVER_SKILL: あふれ出るこの力…\n嗚呼、自分が恐ろしい！
+MID_OLIVER_JOIN: 私はベグニオン帝国の元老院が一角。\n美と智慧とを兼ね備えた偉大なるこの私を\n呼ぶがいい！　オリヴァーと！　さあ！
+MID_OLIVER_STRONGEST: はぁ～、最近の$Nuは\n気がつけばいつもしかめ面で、\nむさくるしい上に実につまらん奴だのう！$k$pどうにもならないことを思い悩んで\n一体なんになるというのだ？\n一度きりの！　輝かしい人生のこの時を！$k$p私と違い、凡人にすぎぬおぬしに\nできることなどたかが知れておるのだ。\nやるだけやって、考えるのは後にせよ。$k$pそうそう、ぱっとしないおぬしでも、\n笑っているほうが幾分か見た目が良いわ。\n病は気から、美しさは笑顔から、であるぞ。$k$pほほ、心に響く説法であったろう！\nこのオリヴァーのはんなりほどよい言葉、\n今後も末永く耳に刻むが良いぞ！
+MID_OLIVER_VOICE01: ほぁっ
+MID_OLIVER_VOICE02: おぉ！
+MID_OLIVER_VOICE03: うああっ！
+MID_OLIVER_VOICE04: 誰かあれ！
+MID_OLIVER_VOICE05: 華麗に舞おうぞ
+MID_OLIVER_VOICE06: こわいこわい
+MID_OLIVER_VOICE07: しっとりほどよい
+MID_OLIVER_VOICE08: 美の完成じゃ！
+MID_OLIVER_VOICE09: 美とは…儚き…
+MID_OLIVER_VOICE10: ほほ
+MID_OLIVER_VOICE11: 死の淵より蘇りし私はほどよく進化を遂げた
+MID_OLIVER_VOICE12: 美しきものに触れたくなる、そなたの気持ちはよくわかるぞ
+MID_OLIVER_VOICE13: 我が美の前に敵はなく、我が美の後にも敵はなし。
+MID_OLIVER_VOICE14: 私という美を存分に褒め称えることを許そうぞ。
+MID_OLIVER_VOICE15: 美の庇護者は常に美しき者の味方なのじゃ
+MID_OLIVER_VOICE16: …うーむ、頭に霞が…美しくないものは思い出せぬ。
+MID_OLIVER_VOICE17: そなたは美しき我が宝…死してはならぬぞ。
+MID_OLIVER_VOICE18: わかっておる
+MID_OLIVER_VOICE19: まろやかに…
+MID_OLIVER_VOICE20: はんなりと…

@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: Vous ne pouvez pas acheter ce pack.\nVous l'avez déjà acheté et ne pouvez\ndonc pas l'acheter à nouveau.
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Bonjour, $Nu !\nJe suis très contente de vous voir !$k$pJe suis rassurée de voir que vous\nvous portez bien. J'avais un peu peur\nqu'il ne vous soit arrivé malheur...$k$p$EFace_Smile|On dirait que je m'inquiétais pour rien.\nEn tout cas, votre aide sur le champ\nde bataille serait la bienvenue !$k$p
+MID_MISSION_S201801ARENA01_TITLE: Arène
+MID_MISSION_S201801ARENA01_A1: Duelliste
+MID_MISSION_H_S201801ARENA01_A1: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A2: Duelliste
+MID_MISSION_H_S201801ARENA01_A2: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A3: Duelliste
+MID_MISSION_H_S201801ARENA01_A3: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A4: Assaut (arène) : 3 cartes
+MID_MISSION_H_S201801ARENA01_A4: Remporter trois batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201801ARENA01_A5: Duelliste
+MID_MISSION_H_S201801ARENA01_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A6: Duelliste
+MID_MISSION_H_S201801ARENA01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A7: Duelliste
+MID_MISSION_H_S201801ARENA01_A7: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A8: Assaut (arène) : 5 cartes
+MID_MISSION_H_S201801ARENA01_A8: Remporter cinq batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201801ARENA01_A9: Duelliste
+MID_MISSION_H_S201801ARENA01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A10: Duelliste
+MID_MISSION_H_S201801ARENA01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A11: Duelliste
+MID_MISSION_H_S201801ARENA01_A11: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201801ARENA01_A12: Assaut (arène) : 7 cartes
+MID_MISSION_H_S201801ARENA01_A12: Remporter sept batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201801SENKA01_DAILY_TITLE: La Tourmente - Mini 
+MID_MISSION_S201801SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201801SENKA01_DAILY_A1: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201801SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201801SENKA01_DAILY_A2: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201801SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201801SENKA01_DAILY_A3: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201801SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201801SENKA01_DAILY_A4: Terminer des cartes finales dans\nla Tourmente.
+MID_MISSION_S201801STORY01_TITLE: Guidés par un rêve
+MID_MISSION_S201801STORY01_A1: Chap. 3 - Acte 1 (Expert)
+MID_MISSION_H_S201801STORY01_A1: Terminer Livre II, Chap. 3, Acte 1 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY01_A2: Chap. 3 - Acte 2 (Expert)
+MID_MISSION_H_S201801STORY01_A2: Terminer Livre II, Chap. 3, Acte 2 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY01_A3: Chap. 3 - Acte 3 (Expert)
+MID_MISSION_H_S201801STORY01_A3: Terminer Livre II, Chap. 3, Acte 3 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY01_A4: Chap. 3 - Acte 4 (Expert)
+MID_MISSION_H_S201801STORY01_A4: Terminer Livre II, Chap. 3, Acte 4 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY01_A5: Chap. 3 - Acte 5 (Expert)
+MID_MISSION_H_S201801STORY01_A5: Terminer Livre II, Chap. 3, Acte 5 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801TRIAL01_TITLE: Défi d'endurance
+MID_MISSION_S201801TRIAL01_A1: Défi d'endurance
+MID_MISSION_H_S201801TRIAL01_A1: Dans le défi d'endurance, terminer la carte\nfinale pour le chapitre 1.
+MID_MISSION_S201801TRIAL01_A2: Défi d'endurance
+MID_MISSION_H_S201801TRIAL01_A2: Dans le défi d'endurance, terminer la carte\nfinale pour le chapitre 2 en Difficile ou\nsupérieur.
+MID_MISSION_S201801TRIAL01_A3: Défi d'endurance
+MID_MISSION_H_S201801TRIAL01_A3: Dans le défi d'endurance, terminer la carte\nfinale pour les chapitres 1 et 2 en Expert.
+MID_MISSION_S201801TRIAL01_A4: Assaut en équipes
+MID_MISSION_H_S201801TRIAL01_A4: Dans l'assaut en équipes, terminer la carte\nfinale du 3e assaut
+MID_MISSION_S201801VMAP01_TITLE: Armes améliorées
+MID_MISSION_S201801VMAP01_A1: Phase 1
+MID_MISSION_H_S201801VMAP01_A1: Terminer la phase 1 avec une unité rouge\ndans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A2: Phase 2
+MID_MISSION_H_S201801VMAP01_A2: Terminer la phase 2 avec une unité bleue\ndans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A3: Phase 3
+MID_MISSION_H_S201801VMAP01_A3: Terminer la phase 3 avec une unité verte\ndans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A4: Phase 4
+MID_MISSION_H_S201801VMAP01_A4: Terminer la phase 4 avec une unité grise\ndans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A5: Phase 5
+MID_MISSION_H_S201801VMAP01_A5: Terminer la phase 5 avec une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A6: Phase 1 (Difficile)
+MID_MISSION_H_S201801VMAP01_A6: Terminer la phase 1 en Difficile ou supérieur\navec une unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A7: Phase 2 (Difficile)
+MID_MISSION_H_S201801VMAP01_A7: Terminer la phase 2 en Difficile ou supérieur\navec une unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A8: Phase 3 (Difficile)
+MID_MISSION_H_S201801VMAP01_A8: Terminer la phase 3 en Difficile ou supérieur\navec une unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A9: Phase 4 (Difficile)
+MID_MISSION_H_S201801VMAP01_A9: Terminer la phase 4 en Difficile ou supérieur\navec une unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801VMAP01_A10: Phase 5 (Difficile)
+MID_MISSION_H_S201801VMAP01_A10: Terminer la phase 5 en Difficile ou supérieur\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MPID_ミカヤ: Micaiah
+MPID_サザ: Sothe
+MPID_ゼルギウス: Zelgius
+MPID_オリヴァー: Oliver
+MPID_HONOR_ミカヤ: Prêtresse de l'Aube
+MPID_HONOR_サザ: Zéphyr vaillant
+MPID_HONOR_ゼルギウス: Général noir
+MPID_HONOR_オリヴァー: Amateur de beauté
+MPID_H_ミカヤ: Membre de la Brigade de l'Aube aux cheveux\nargentés et aux pouvoirs mystérieux. Sothe\net elle sont comme frère et sœur. Apparaît\ndans Fire Emblem: Radiant Dawn.
+MPID_H_サザ: Voleur de la Brigade de l'Aube. S'intéresse\npeu aux autres, mais est très protecteur\nenvers Micaiah, qu'il considère comme une\nsœur. Apparaît Fire Emblem: Radiant Dawn.
+MPID_H_ゼルギウス: Général surnommé « Chevalier Noir » en raison\nde la couleur de son armure. Son épée sacrée\nAlondite a le pouvoir de déchirer les cieux.\nApparaît dans Fire Emblem: Radiant Dawn.
+MPID_H_オリヴァー: Sénateur de Begnion. Voue un culte à tout ce\nqui est beau et se consacre à la préservation\ndes œuvres d'art. Apparaît dans Fire Emblem:\nRadiant Dawn.
+MPID_VOICE_ミカヤ: Veronica Taylor
+MPID_VOICE_サザ: Nicolas Roye
+MPID_VOICE_ゼルギウス: Robert Clotworthy
+MPID_VOICE_オリヴァー: Richard Epcar
+MPID_ILLUST_ミカヤ: Chiko (チーコ)
+MPID_ILLUST_サザ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: Homazo (ホマ蔵)
+MSID_第6迷宮の覇者1: Assaut réussi F 1
+MSID_第6迷宮の覇者2: Assaut réussi F 2
+MSID_第6迷宮の覇者3: Assaut réussi F 3
+MSID_ペシュカド: Faucheur
+MSID_ライト: Lumière
+MSID_エルライト: Éclat
+MSID_シャイン: Flash
+MSID_シャイン＋: Flash +
+MSID_セイニー: Thani
+MSID_癒しの手: Sacrifice
+MSID_転移の粉: Poudre magique
+MSID_攻撃速さの紋章1: Ence. Atq/Vit 1
+MSID_攻撃速さの紋章2: Ence. Atq/Vit 2
+MSID_H_パルティア改: Efficace contre les unités volantes. Si\nl'ennemi utilise la magie, réduit les\ndégâts de sa première attaque de 30 %.
+MSID_H_シムベリン改: Confère Atq +3 aux alliés à 2 cases\nou moins pendant le combat.
+MSID_H_対遠距離戦闘R攻撃: Si l'ennemi utilise un arc, une dague,\nla magie ou un bâton, confère Atq +6\npendant le combat.
+MSID_H_攻撃魔防の絆R飛行: Si l'unité se trouve à 2 cases ou moins\nd'une unité volante alliée, confère\nAtq/Rés +5 pendant le combat.
+MSID_H_第6迷宮の覇者1: Confère PV +3.
+MSID_H_第6迷宮の覇者2: Confère PV +4.
+MSID_H_第6迷宮の覇者3: Confère PV +5.
+MSID_H_ペシュカド: Après le combat, si l'unité a attaqué, inflige\nAtq/Vit/Déf/Rés -4 à la cible et aux ennemis\nà 2 cases ou moins de la cible jusqu'à la fin\nde leur phase, et confère Atq/Vit/Déf/Rés +4\nà l'unité et aux alliés à 2 cases ou moins\npendant un tour.
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: Confère Rés +3. Efficace contre les unités en\narmure et les cavaliers. Si l'ennemi utilise un\narc, une dague, la magie ou un bâton, réduit\nles dégâts de sa première attaque de 30 %.
+MSID_H_癒しの手: Convertit les malus de la cible en bonus.\nRend des PV à la cible à hauteur des\nPV de l'unité moins 1. Les PV restaurés\nsont déduits de ceux de l'unité.
+MSID_H_転移の粉: Si PV ≥ 80 %, l'unité peut se déplacer\njusqu'à une case adjacente à un allié situé\nà 2 cases ou moins.
+MSID_H_攻撃速さの紋章1: Confère Atq/Vit +2 aux alliés adjacents\npendant le combat.
+MSID_H_攻撃速さの紋章2: Confère Atq/Vit +3 aux alliés adjacents\npendant le combat.
+MID_CHAPTER_TITLE_C0203: Livre II, Chap. 3
+MID_CHAPTER_C0203: Guidés par un rêve
+MID_STAGE_TITLE_S2031: Ch. 3 - Acte 1
+MID_STAGE_TITLE_S2032: Ch. 3 - Acte 2
+MID_STAGE_TITLE_S2033: Ch. 3 - Acte 3
+MID_STAGE_TITLE_S2034: Ch. 3 - Acte 4
+MID_STAGE_TITLE_S2035: Ch. 3 - Acte 5
+MID_STAGE_S2031: En route vers Nifl
+MID_STAGE_S2032: La Chevelure d'Argent
+MID_STAGE_S2033: Le piège de la beauté
+MID_STAGE_S2034: Un guerrier menaçant
+MID_STAGE_S2035: Les ravages de la lame
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: Les cavaliers n'avancent que\nd'une case dans les tranchées.
+MID_STAGE_TITLE_SB_0006: 6e assaut
+MID_STAGE_HONOR_T0023: Amateur de beauté
+MID_STAGE_T0023: Oliver
+MID_STAGE_HONOR_V0151: Armes améliorées
+MID_STAGE_V0151: Phase 1
+MID_STAGE_HONOR_V0152: Armes améliorées
+MID_STAGE_V0152: Phase 2
+MID_STAGE_HONOR_V0153: Armes améliorées
+MID_STAGE_V0153: Phase 3
+MID_STAGE_HONOR_V0154: Armes améliorées
+MID_STAGE_V0154: Phase 4
+MID_STAGE_HONOR_V0155: Armes améliorées
+MID_STAGE_V0155: Phase 5
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: Choix du sceau sacré
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: Choix de l'allié
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: Choisi :

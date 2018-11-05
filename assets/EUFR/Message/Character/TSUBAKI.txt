@@ -1,0 +1,38 @@
+[Heroes Archive] (TSUBAKI)
+
+
+Heroes Message Name: Message
+
+
+MID_TSUBAKI_HOME1: Alors je suis vraiment sorti de votre\narme ? Ça alors... Ce royaume est\ntrès différent du mien !
+MID_TSUBAKI_HOME2: Je sers Dame Sakura, dont la grâce\nest inégalée. Elle accepte même les\npires de mes imperfections.
+MID_TSUBAKI_HOME3: Votre dévotion force l'admiration.\nJe serais ravi de vous assister,\nsi vous en ressentez le besoin.
+MID_TSUBAKI_HOME4: Je vous promets de me battre avec\nune ardeur inégalée, $GInvocateur,Invocatrice|.\nJe n'aspire qu'à la perfection.
+MID_TSUBAKI_HOME5: J'enduis mes cheveux d'huile de\ncamélia afin qu'ils resplendissent.\nL'odeur ne vous importune pas trop ?
+MID_TSUBAKI_FRIEND: $Nf vous\nenvoie ses chaleureuses salutations.\nRavi d'avoir pu en être le messager !
+MID_TSUBAKI_LEVEL1: Je fais de réels progrès, non ?
+MID_TSUBAKI_LEVEL2: Cela suffira pour l'instant.
+MID_TSUBAKI_LEVEL3: Peut-être devrais-je m'entraîner plus ?
+MID_TSUBAKI_SKILL: Merci de m'aider à m'approcher un\npeu plus de la perfection.
+MID_TSUBAKI_JOIN: Je suis Subaki, un chevalier céleste\ndu royaume d'Hoshido. Je suis ravi\nde vous apporter mon soutien.
+MID_TSUBAKI_STRONGEST: J'ai foulé le champ de bataille en votre\ncompagnie un nombre incalculable\nde fois, $Nu.$k$pJe suis sûr que vous avez remarqué\nque je fais parfois des erreurs...\nRien de plus normal, me direz-vous.$k$pCela dit, cela me dérange, d'autant\nplus que ma présence a été requise\nau sein de votre armée.$k$pAu milieu de tous ces puissants\nhéros, je me dois d'être encore\nplus irréprochable qu'avant !$k$pQuant à vous, $GGrand,Grande| Stratège,\nje n'imagine pas le poids de la\npression sur vos épaules...$k$pComment ? Vous dites que vos\ntactiques ne sont pas toujours\ncalibrées à la perfection ?$k$pHa ha ! Ça me rassure. Ne vous en\nfaites pas, j'emporterai votre secret\ndans la tombe.$k$pComptez sur moi pour vous aider\nà atteindre la perfection. Je sais\nque vous me rendrez la pareille !
+MID_TSUBAKI_VOICE01: はいっ！
+MID_TSUBAKI_VOICE02: せやっ！
+MID_TSUBAKI_VOICE03: うあっ！
+MID_TSUBAKI_VOICE04: Drat...
+MID_TSUBAKI_VOICE05: À moi de jouer !
+MID_TSUBAKI_VOICE06: Admirez le travail !
+MID_TSUBAKI_VOICE07: La perfection ou rien !
+MID_TSUBAKI_VOICE08: Je serai victorieux !
+MID_TSUBAKI_VOICE09: So close...
+MID_TSUBAKI_VOICE10: Heehee
+MID_TSUBAKI_VOICE11: Gracious thanks, friend, for any and all concern!
+MID_TSUBAKI_VOICE12: I'm the perfect partner, whether in battle or simply socializing.
+MID_TSUBAKI_VOICE13: If I have any flaws, it's that I fuss too much over my appearance.
+MID_TSUBAKI_VOICE14: You can rely on me to do a thing right. I assume that's why you summoned me.
+MID_TSUBAKI_VOICE15: What? That wasn't my stomach growling. You must be mistaken.
+MID_TSUBAKI_VOICE16: Where is Lady Sakura? I must serve her well, even in her absence.
+MID_TSUBAKI_VOICE17: Perfection is a fool's errand. I suppose that makes me the perfect fool!
+MID_TSUBAKI_VOICE18: Yes?
+MID_TSUBAKI_VOICE19: Absolutely.
+MID_TSUBAKI_VOICE20: Let's go.

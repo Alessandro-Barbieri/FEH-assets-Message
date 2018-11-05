@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: 特務機関の上官殿は良い方ですな。\n時に厳しく、優しく皆を導いている。\nまだ歳若いのに、大したものです。
+MID_GUNTHER_HOME2: 私の主君はカムイ様という御方です。\n幼い頃より面倒をみてきたせいか、\n臣下より親代わりのようなものでしたが。
+MID_GUNTHER_HOME3: 見回りとは感心ですな。\n終わる頃に紅茶でも用意しましょう。\n執事でなくとも、茶ぐらい入れられますぞ。
+MID_GUNTHER_HOME4: 今までの訓練ではこの世界で\n通用するかわからぬな…\n今度、機関の訓練にご一緒して宜しいか。
+MID_GUNTHER_HOME5: 武具の手入れをしておりました。\nこの身ひとつで来てしまったので、\n装備品は大切に使わないといけませんな。
+MID_GUNTHER_FRIEND: $Nu殿ですな？\n$Nf殿より、\n挨拶です。確かに伝えましたぞ。
+MID_GUNTHER_LEVEL1: こんな気分は\n久しぶりだ。
+MID_GUNTHER_LEVEL2: 少し腕が上がったか。
+MID_GUNTHER_LEVEL3: 老いた身では、\n所詮この程度。
+MID_GUNTHER_SKILL: この老いぼれの身には余る力…\nだが、使いこなしてみせよう。
+MID_GUNTHER_JOIN: 私はギュンター。\n暗夜王国の騎士だ。\n老いた身とはいえ甘く見てはいけませんぞ。
+MID_GUNTHER_STRONGEST: 上官殿から聞いたのだが…\n$Nu殿は、\n異界の大英雄と称される方なのですな。$k$pああ、そう謙遜する必要はありません。\n最初は誰しも見習いです。\n今は若くとも、実力が見合っておらずとも…$k$p器を与えられた者はいつか、\nその器に相応しい人間へと成長する。\n私はそのような方を知っておりますぞ。$k$pきっと今にあなたも、真の大英雄となる…\nこれは老いぼれの戯言ではなく、\n傍で共に闘い、感じたことです。$k$pしかし、まだ未熟であることも事実。\n戦場では私があなたの剣となりますゆえ、\nこれまで以上に頼ってくだされ。\n
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: ここまでだな
+MID_GUNTHER_VOICE06: 本気を出すぞ
+MID_GUNTHER_VOICE07: 生き急いだな
+MID_GUNTHER_VOICE08: 覚悟は良いな？
+MID_GUNTHER_VOICE09: 油断…したか……
+MID_GUNTHER_VOICE10: はい
+MID_GUNTHER_VOICE11: 戯れですかな？
+MID_GUNTHER_VOICE12: 面白い方だ…
+MID_GUNTHER_VOICE13: お供いたしましょう
+MID_GUNTHER_VOICE14: 油断は禁物ですぞ
+MID_GUNTHER_VOICE15: 顔の傷が気になるのですか？
+MID_GUNTHER_VOICE16: この鎧はたくさんの血を吸っております…
+MID_GUNTHER_VOICE17: お話も良いですが、次は訓練でもいかがですかな…？
+MID_GUNTHER_VOICE18: ！
+MID_GUNTHER_VOICE19: ふん
+MID_GUNTHER_VOICE20: 腕が鳴るな

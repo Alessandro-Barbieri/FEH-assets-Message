@@ -1,0 +1,10 @@
+[Heroes Archive] (S2034)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ゼルギウス,ch11_03_Zelgius_M_Normal,Face|私は帝国の将ゼルギウス。\n貴殿らが異界の強者…\n相手にとって不足はない。$k$p$Sbs1000|
+MID_SCENARIO_ENDING_IMAGE: 001_BraveForest
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_フィヨルム,ch00_06_Fjorm_F_Normal,Face|もうすぐです、皆さん。\nこの山を越えれば、私がニフルから\n来る時に通った、儀式の【門】が…$k$p$EFace_Anger|！　あの炎は…？$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|街に火の手が…！\nあれは…ムスペル軍…！？$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|くっ…！　急ごう！$k$p$Sbs150|

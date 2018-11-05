@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_POPULARITY01_HOME1: Der Krieg hat also auch diese Welt\nerreicht und ihr Volk muss leiden.\nDas klingt nach Arbeit für mich.
+MID_IKE_POPULARITY01_HOME2: Mein Vater führte einst Greils Söldner\nan. Jeder unter seinem Kommando\nvertraute ihm voll und ganz.
+MID_IKE_POPULARITY01_HOME3: Lass mich dir Arbeit abnehmen, damit\ndu eine Pause machen kannst. Ich...\nHmm... Ich werde Feuerholz hacken!
+MID_IKE_POPULARITY01_HOME4: Das ist Urvan, die Axt meines Vaters.\nSie ist stark und unbeugsam. Sie\nerinnert mich an ihn.
+MID_IKE_POPULARITY01_HOME5: Eine Axt wird nicht wie ein Schwert\ngeführt. Ich muss stärker werden,\num die nötige Kraft dafür zu haben.
+MID_IKE_POPULARITY01_FRIEND: Ich bin Ike von Greils Söldnern. Ich\nhabe eine Nachricht für dich. Sie\nist von $Nf.
+MID_IKE_POPULARITY01_LEVEL1: Das Führen dieser Axt geht\nmir in Fleisch und Blut über.
+MID_IKE_POPULARITY01_LEVEL2: Mein Körper scheint sich\nendlich daran zu gewöhnen.
+MID_IKE_POPULARITY01_LEVEL3: Meine Ausbildung ist noch lange\nnicht beendet.
+MID_IKE_POPULARITY01_SKILL: Ich schätze, ich muss hier jetzt\nnoch etwas härter arbeiten.
+MID_IKE_POPULARITY01_JOIN: Ich bin Ike von Greils Söldnern und\ndiese Axt ist Urvan. Man könnte sie\nmeinen derzeitigen Partner nennen.
+MID_IKE_POPULARITY01_STRONGEST: Ich habe geträumt, ich sei auf einer\nanderen Welt und dort hätten ganze\nScharen meinen Namen gerufen.$k$pUnzählige Leute, die mir zujubelten.\nUnglaublich. Ich verstehe Magie nicht\ngut, aber...$k$pEs würde mich nicht überraschen,\nwenn der Jubel der Grund dafür war,\nwarum ich in diese Welt gerufen$k$pwurde.\nAber wenn es so ist... muss ich dafür\nsorgen, dass ich sie nicht enttäusche.$k$pIch bin kein Ritter und sicherlich kein\nAdliger. Mein Vater war mein einziges\nVorbild eines wahren Mannes.$k$pAlso muss ich seine Vision ausführen\nund dafür sorgen, dass er stolz auf\nunsere Söldnertruppe wäre.$k$pMein Wunsch ist, für die Menschen\nzu kämpfen, nicht für das Geld.
+MID_IKE_POPULARITY01_VOICE01: おおぉっ！
+MID_IKE_POPULARITY01_VOICE02: 行くぞ！
+MID_IKE_POPULARITY01_VOICE03: うああっ！
+MID_IKE_POPULARITY01_VOICE04: 倒れるわけには…！
+MID_IKE_POPULARITY01_VOICE05: Danke an alle!
+MID_IKE_POPULARITY01_VOICE06: Hier endet es.
+MID_IKE_POPULARITY01_VOICE07: Ich werde siegen!
+MID_IKE_POPULARITY01_VOICE08: Mit Dankbarkeit.
+MID_IKE_POPULARITY01_VOICE09: Argh... I'm sorry...
+MID_IKE_POPULARITY01_VOICE10: Haha
+MID_IKE_POPULARITY01_VOICE11: This reminds me of something my father wore.
+MID_IKE_POPULARITY01_VOICE12: Hmm? What is it? Do you need something?
+MID_IKE_POPULARITY01_VOICE13: I had a strange dream. Thousands of people... And they were all saying my name!
+MID_IKE_POPULARITY01_VOICE14: I was called to this world to answer the wishes of many. Or so it seems.
+MID_IKE_POPULARITY01_VOICE15: I can't really remember that dream I had. But I do remember that you helped me.
+MID_IKE_POPULARITY01_VOICE16: Father, watch over me. One day, I swear...
+MID_IKE_POPULARITY01_VOICE17: I'm grateful to you. You've done so much for me. You are a true friend.
+MID_IKE_POPULARITY01_VOICE18: Understood.
+MID_IKE_POPULARITY01_VOICE19: Orders?
+MID_IKE_POPULARITY01_VOICE20: It's all for you.

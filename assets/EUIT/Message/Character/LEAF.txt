@@ -1,0 +1,38 @@
+[Heroes Archive] (LEAF)
+
+
+Heroes Message Name: Message
+
+
+MID_LEAF_HOME1: Questo reame sembra tranquillo,\nma la guerra è riuscita a farsi largo\nanche qui.$k$pNon possiamo lasciare che\nimperversi. Trionferemo! So\nche ce la faremo!
+MID_LEAF_HOME2: La mia patria è caduta sotto le grinfie\ndegli invasori. Ma io la riconquisterò.$k$pL'ho giurato a mio padre, caduto per\nmano dei nemici.
+MID_LEAF_HOME3: Sei di pattuglia? Ti voglio tenere\nd'occhio. Vorrei apprendere le\ntue doti di comando.
+MID_LEAF_HOME4: Hai tempo per parlare? Speravo che\ntu potessi darmi qualche consiglio.\nVorrei tanto apprendere da te.
+MID_LEAF_HOME5: Ho bisogno di diventare più forte, così\nmi stavo allenando con la spada. Del\nresto, discendo da uno dei 12 crociati.
+MID_LEAF_FRIEND: Questo è il castello di\n$Nu, vero?$k$pDevo portare un messaggio da parte\ndi $Nf.
+MID_LEAF_LEVEL1: Con una forza come questa,\nsaprò proteggere il popolo!
+MID_LEAF_LEVEL2: Ottimo, divento più forte!
+MID_LEAF_LEVEL3: Non può essere tutto qui.\nNon è possibile!
+MID_LEAF_SKILL: Grazie! Farò tutto quello che\nposso per non deluderti.
+MID_LEAF_JOIN: Sono Leif, principe di Leonster. Ho\nmolto da imparare sul mondo, ma\nmetterò la mia spada al tuo servizio.
+MID_LEAF_STRONGEST: Volevo dirti che apprezzo davvero\ntutto quello che hai fatto per me.$k$pGrazie a te sono molto più forte.\nDiscendo da uno dei crociati, ma...$k$pNon posso impugnare l'arma divina\ndella nostra famiglia e non sono\naffatto abile come mio padre.$k$pLa frustrazione che ho provato per\ntanti anni mi ha portato a commettere\ndei brutti errori...$k$pMa ho imparato una cosa: non si\ndiventa più forti in un giorno. Posso\nsolo continuare a migliorarmi...$k$pE voglio rimanere al tuo fianco,\ncombattere con te. Imparerò così\ncos'è la vera forza.$k$pCiò che voglio, più di ogni altra cosa,\nè apprendere a proteggere coloro\nche mi stanno più a cuore.
+MID_LEAF_VOICE01: はっ！
+MID_LEAF_VOICE02: ええいっ！
+MID_LEAF_VOICE03: うああっ！
+MID_LEAF_VOICE04: It's nothing...
+MID_LEAF_VOICE05: Non fuggirò più.
+MID_LEAF_VOICE06: Farò di tutto!
+MID_LEAF_VOICE07: Mi riprenderò tutto!
+MID_LEAF_VOICE08: È la mia battaglia!
+MID_LEAF_VOICE09: I failed you...
+MID_LEAF_VOICE10: light laugh
+MID_LEAF_VOICE11: I must become stronger. Much stronger.
+MID_LEAF_VOICE12: Whuh... Is that some kind of greeting where you come from?
+MID_LEAF_VOICE13: The night my country fell, the sky was red. I remember looking up at it from Finn's arms... I didn't understand what had happened.
+MID_LEAF_VOICE14: I fled the castle. I abandoned them all — all the people it was my duty to protect.
+MID_LEAF_VOICE15: I will never again let someone sacrifice their life in exchange for mine.
+MID_LEAF_VOICE16: If I was stronger...just a little bit stronger...
+MID_LEAF_VOICE17: You're a leader. There's a lot I can learn by watching you.
+MID_LEAF_VOICE18: Yeah.
+MID_LEAF_VOICE19: OK. Now what?
+MID_LEAF_VOICE20: Come on!

@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: Arco rojo. Alcance: 2. Inflige daño físico\nque la Def del enemigo puede prevenir.\nEficaz contra enemigos aéreos.
+MWID_H_青弓: Arco azul. Alcance: 2. Inflige daño físico\nque la Def del enemigo puede prevenir.\nEficaz contra enemigos aéreos.
+MWID_H_緑弓: Arco verde. Alcance: 2. Inflige daño físico\nque la Def del enemigo puede prevenir.\nEficaz contra enemigos aéreos.
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: No puedes comprar esta oferta\nporque ya no está disponible.
+MID_MISSION_S201804DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201804DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201804DAISEIATU01_A1: Gana puntos en las grandes conquistas.
+MID_MISSION_S201804DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201804DAISEIATU01_A2: Gana puntos en las grandes conquistas.
+MID_MISSION_S201804DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201804DAISEIATU01_A3: Gana puntos en las grandes conquistas.
+MID_MISSION_S201804MOVE01_TITLE: Movimiento
+MID_MISSION_S201804MOVE01_A1: Victoria pedestre carmesí
+MID_MISSION_H_S201804MOVE01_A1: Vence a enemigos de tipo rojo\ncon unidades de infantería.
+MID_MISSION_S201804MOVE01_A2: Victoria pedestre cerúlea
+MID_MISSION_H_S201804MOVE01_A2: Vence a enemigos de tipo azul\ncon unidades de infantería.
+MID_MISSION_S201804MOVE01_A3: Victoria pedestre glauca
+MID_MISSION_H_S201804MOVE01_A3: Vence a enemigos de tipo verde\ncon unidades de infantería.
+MID_MISSION_S201804MOVE01_A4: Victoria pedestre grísea
+MID_MISSION_H_S201804MOVE01_A4: Vence a enemigos de tipo gris\ncon unidades de infantería.
+MID_MISSION_S201804MOVE01_A5: Victoria acoraz. carmesí
+MID_MISSION_H_S201804MOVE01_A5: Vence a enemigos de tipo rojo\ncon unidades acorazadas.
+MID_MISSION_S201804MOVE01_A6: Victoria acoraz. cerúlea
+MID_MISSION_H_S201804MOVE01_A6: Vence a enemigos de tipo azul\ncon unidades acorazadas.
+MID_MISSION_S201804MOVE01_A7: Victoria acorazada glauca
+MID_MISSION_H_S201804MOVE01_A7: Vence a enemigos de tipo verde\ncon unidades acorazadas.
+MID_MISSION_S201804MOVE01_A8: Victoria acorazada grísea
+MID_MISSION_H_S201804MOVE01_A8: Vence a enemigos de tipo gris\ncon unidades acorazadas.
+MID_MISSION_S201804MOVE01_A9: Victoria ecuestre carmesí
+MID_MISSION_H_S201804MOVE01_A9: Vence a enemigos de tipo rojo\ncon unidades de caballería.
+MID_MISSION_S201804MOVE01_A10: Victoria ecuestre cerúlea
+MID_MISSION_H_S201804MOVE01_A10: Vence a enemigos de tipo azul\ncon unidades de caballería.
+MID_MISSION_S201804MOVE01_A11: Victoria ecuestre glauca
+MID_MISSION_H_S201804MOVE01_A11: Vence a enemigos de tipo verde\ncon unidades de caballería.
+MID_MISSION_S201804MOVE01_A12: Victoria ecuestre grísea
+MID_MISSION_H_S201804MOVE01_A12: Vence a enemigos de tipo gris\ncon unidades de caballería.
+MID_MISSION_S201804MOVE01_A13: Victoria aérea carmesí
+MID_MISSION_H_S201804MOVE01_A13: Vence a enemigos de tipo rojo\ncon unidades aéreas.
+MID_MISSION_S201804MOVE01_A14: Victoria aérea cerúlea
+MID_MISSION_H_S201804MOVE01_A14: Vence a enemigos de tipo azul\ncon unidades aéreas.
+MID_MISSION_S201804MOVE01_A15: Victoria aérea glauca
+MID_MISSION_H_S201804MOVE01_A15: Vence a enemigos de tipo verde\ncon unidades aéreas.
+MID_MISSION_S201804MOVE01_A16: Victoria aérea grísea
+MID_MISSION_H_S201804MOVE01_A16: Vence a enemigos de tipo gris\ncon unidades aéreas.
+MID_MISSION_S201804SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201804SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201804SENKA01_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201804SENKA01_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201804SENKA01_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201804SENKA01_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201804YEAR01_TITLE: Grandes retos (2)
+MID_MISSION_S201804YEAR01_A1: Derrotar a Legion
+MID_MISSION_H_S201804YEAR01_A1: Gana la gran batalla contra\nLegion, Loco camuflado.
+MID_MISSION_S201804YEAR01_A2: Derrotar a Legion: agua
+MID_MISSION_H_S201804YEAR01_A2: Gana la gran batalla contra Legion, Loco\ncamuflado, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A3: Derrotar a Legion: viento
+MID_MISSION_H_S201804YEAR01_A3: Gana la gran batalla contra Legion, Loco\ncamuflado, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A4: Derrotar a Legion: tierra
+MID_MISSION_H_S201804YEAR01_A4: Gana la gran batalla contra Legion, Loco\ncamuflado, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A5: Derrotar a Legion: fuego
+MID_MISSION_H_S201804YEAR01_A5: Gana la gran batalla contra Legion, Loco\ncamuflado, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A6: Derrotar a Clarisse
+MID_MISSION_H_S201804YEAR01_A6: Gana la gran batalla contra\nClarisse, Tiradora oscura.
+MID_MISSION_S201804YEAR01_A7: Derrotar a Clarisse: agua
+MID_MISSION_H_S201804YEAR01_A7: Gana la gran batalla contra Clarisse, Tiradora\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A8: Derrotar a Clarisse: viento
+MID_MISSION_H_S201804YEAR01_A8: Gana la gran batalla contra Clarisse, Tiradora\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A9: Derrotar a Clarisse: tierra
+MID_MISSION_H_S201804YEAR01_A9: Gana la gran batalla contra Clarisse, Tiradora\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A10: Derrotar a Clarisse: fuego
+MID_MISSION_H_S201804YEAR01_A10: Gana la gran batalla contra Clarisse, Tiradora\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A11: Derrotar a Berkut
+MID_MISSION_H_S201804YEAR01_A11: Gana la gran batalla contra\nBerkut, Príncipe altivo.
+MID_MISSION_S201804YEAR01_A12: Derrotar a Berkut: agua
+MID_MISSION_H_S201804YEAR01_A12: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A13: Derrotar a Berkut: viento
+MID_MISSION_H_S201804YEAR01_A13: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A14: Derrotar a Berkut: tierra
+MID_MISSION_H_S201804YEAR01_A14: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A15: Derrotar a Berkut: fuego
+MID_MISSION_H_S201804YEAR01_A15: Gana la gran batalla contra Berkut, Príncipe\naltivo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A16: Derrotar a Valter
+MID_MISSION_H_S201804YEAR01_A16: Gana la gran batalla contra\nValter, Adularia oscura.
+MID_MISSION_S201804YEAR01_A17: Derrotar a Valter: agua
+MID_MISSION_H_S201804YEAR01_A17: Gana la gran batalla contra Valter, Adularia\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A18: Derrotar a Valter: viento
+MID_MISSION_H_S201804YEAR01_A18: Gana la gran batalla contra Valter, Adularia\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A19: Derrotar a Valter: tierra
+MID_MISSION_H_S201804YEAR01_A19: Gana la gran batalla contra Valter, Adularia\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A20: Derrotar a Valter: fuego
+MID_MISSION_H_S201804YEAR01_A20: Gana la gran batalla contra Valter, Adularia\noscura, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A21: Derrotar a Arvis
+MID_MISSION_H_S201804YEAR01_A21: Gana la gran batalla contra\nArvis, Señor del fuego.
+MID_MISSION_S201804YEAR01_A22: Derrotar a Arvis: agua
+MID_MISSION_H_S201804YEAR01_A22: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A23: Derrotar a Arvis: viento
+MID_MISSION_H_S201804YEAR01_A23: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A24: Derrotar a Arvis: tierra
+MID_MISSION_H_S201804YEAR01_A24: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A25: Derrotar a Arvis: fuego
+MID_MISSION_H_S201804YEAR01_A25: Gana la gran batalla contra Arvis, Señor\ndel fuego, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A26: Derrotar a Zephiel
+MID_MISSION_H_S201804YEAR01_A26: Gana la gran batalla contra\nZephiel, Rey liberador.
+MID_MISSION_S201804YEAR01_A27: Derrotar a Zephiel: agua
+MID_MISSION_H_S201804YEAR01_A27: Gana la gran batalla contra Zephiel, Rey\nliberador, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A28: Derrotar a Zephiel: viento
+MID_MISSION_H_S201804YEAR01_A28: Gana la gran batalla contra Zephiel, Rey\nliberador, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A29: Derrotar a Zephiel: tierra
+MID_MISSION_H_S201804YEAR01_A29: Gana la gran batalla contra Zephiel, Rey\nliberador, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A30: Derrotar a Zephiel: fuego
+MID_MISSION_H_S201804YEAR01_A30: Gana la gran batalla contra Zephiel, Rey\nliberador, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804YEAR01_A31: Derrotar a Camus
+MID_MISSION_H_S201804YEAR01_A31: Gana la gran batalla contra\nCamus, Caballero Ópalo.
+MID_MISSION_S201804YEAR01_A32: Derrotar a Camus: agua
+MID_MISSION_H_S201804YEAR01_A32: Gana la gran batalla contra Camus, Caballero\nÓpalo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde agua o de héroes legendarios de agua.
+MID_MISSION_S201804YEAR01_A33: Derrotar a Camus: viento
+MID_MISSION_H_S201804YEAR01_A33: Gana la gran batalla contra Camus, Caballero\nÓpalo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde viento o de héroes legendarios de viento.
+MID_MISSION_S201804YEAR01_A34: Derrotar a Camus: tierra
+MID_MISSION_H_S201804YEAR01_A34: Gana la gran batalla contra Camus, Caballero\nÓpalo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde tierra o de héroes legendarios de tierra.
+MID_MISSION_S201804YEAR01_A35: Derrotar a Camus: fuego
+MID_MISSION_H_S201804YEAR01_A35: Gana la gran batalla contra Camus, Caballero\nÓpalo, en modo extremo o superior con\nun batallón solo de unidades con bendición\nde fuego o de héroes legendarios de fuego.
+MID_MISSION_S201804STORY01_TITLE: Nieve y ceniza
+MID_MISSION_S201804STORY01_A1: Cap. 7 - Parte 1 / Extremo
+MID_MISSION_H_S201804STORY01_A1: Supera la 1.ª parte del capítulo 7 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY01_A2: Cap. 7 - Parte 2 / Extremo
+MID_MISSION_H_S201804STORY01_A2: Supera la 2.ª parte del capítulo 7 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY01_A3: Cap. 7 - Parte 3 / Extremo
+MID_MISSION_H_S201804STORY01_A3: Supera la 3.ª parte del capítulo 7 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY01_A4: Cap. 7 - Parte 4 / Extremo
+MID_MISSION_H_S201804STORY01_A4: Supera la 4.ª parte del capítulo 7 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201804STORY01_A5: Cap. 7 - Parte 5 / Extremo
+MID_MISSION_H_S201804STORY01_A5: Supera la 5.ª parte del capítulo 7 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_H_OCCUPATION_RULE_歩行能力強化: Otorga Ata, Vel, Def y Res + 4\na las unidades de infantería.
+MID_H_OCCUPATION_RULE_歩行奥義: Cuenta atrás - 1 por acometida a unidades\nde infantería durante ataques. (Solo se\naplica el valor más alto. No acumulable.)
+MID_H_OCCUPATION_RULE_重装能力強化: Otorga Ata, Vel, Def y Res + 4\na las unidades acorazadas.
+MID_H_OCCUPATION_RULE_重装移動強化: Al principio del turno, las unidades\nacorazadas podrán moverse una\ncasilla más ese turno. (No acumulable.)
+MID_H_OCCUPATION_RULE_騎馬能力強化: Otorga Ata, Vel, Def y Res + 4\na las unidades de caballería.
+MID_H_OCCUPATION_RULE_騎馬追撃: Ataque doble garantizado a las\nunidades de caballería si inician\nel ataque.
+MID_H_OCCUPATION_RULE_飛行能力強化: Otorga Ata, Vel, Def y Res + 4\na las unidades aéreas.
+MID_H_OCCUPATION_RULE_飛行先導: Las unidades podrán moverse\na una casilla adyacente a un aliado\naéreo en un radio de dos casillas.
+MPID_サイアス: Saias
+MPID_フィン: Finn
+MPID_リーフ: Leif
+MPID_ナンナ: Nanna
+MPID_オルエン2: Olwen
+MPID_ラインハルト2: Reinhardt
+MPID_HONOR_サイアス: Obispo del fuego
+MPID_HONOR_フィン: Lancero mítico
+MPID_HONOR_リーフ: Noble leonstino
+MPID_HONOR_ナンナ: Noble nordiense
+MPID_HONOR_オルエン2: Maga verde
+MPID_HONOR_ラインハルト2: Hoja del trueno
+MPID_H_サイアス: Sacerdote de Velthomer conocido como\nuno de los mejores estrategas. Por sus\nvenas corre la sangre de Fjalar, el cruzado.\nAparece en Fire Emblem: Thracia 776.
+MPID_H_フィン: Sirviente de Leonster que juró lealtad\na Quan, el padre de Leif. Su principal\nobjetivo en la vida es proteger a Leif.\nAparece en Fire Emblem: Thracia 776.
+MPID_H_リーフ: Hijo de Quan y príncipe de Leonster. Se\nescondía en Fiana, pero decidió tomar partido\ncuando las fuerzas imperiales atacaron.\nAparece en Fire Emblem: Thracia 776.
+MPID_H_ナンナ: Hija de Lachesis y princesa de Nordion.\nUna doncella carismática que ha heredado\nel porte elegante de su madre.\nAparece en Fire Emblem: Thracia 776.
+MPID_H_オルエン2: Jinete maga del ejército de Friege.\nTras separarse su querido hermano,\nReinhardt, sigue su propio camino.\nAparece en Fire Emblem: Thracia 776.
+MPID_H_ラインハルト2: Temible y admirado jinete mago del ejército\nde Friege y hermano mayor de Olwen.\nFue derrotado a manos del príncipe Leif.\nAparece en Fire Emblem: Thracia 776.
+MPID_VOICE_サイアス: Ben Lepley
+MPID_VOICE_フィン: Robert Clotworthy
+MPID_VOICE_リーフ: Nicolas Roye
+MPID_VOICE_ナンナ: Alicia Stratten
+MPID_VOICE_オルエン2: Tara Sands
+MPID_VOICE_ラインハルト2: Chris Smith
+MPID_ILLUST_サイアス: Teita (悌太)
+MPID_ILLUST_フィン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_リーフ: Aoji (あおじ)
+MPID_ILLUST_ナンナ: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: Puño del trueno
+MID_SEQUENTIAL_MAP_BOOST_49: $a¡$a1 veces más puntos! ($a0 más hoy)
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: -Puntos y mejoras de atributos-\nRecibirás el triple de puntos\ndos veces al día, y tus unidades\nrecibirán PV + 10 y Ata, Vel, Def\ny Res + 4.\n\n¡También ganarás el doble\nde Exp y de PH!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $aPuntos:\n+ $a0 %
+MID_SEQUENTIAL_MAP_RECOMMENDED: ¡Pruébalo!
+MSID_無銘の一門の剣: Hoja sin nombre
+MSID_フォルブレイズ: Forblaze
+MSID_第9迷宮の覇者1: As del asalto I 1
+MSID_第9迷宮の覇者2: As del asalto I 2
+MSID_第9迷宮の覇者3: As del asalto I 3
+MSID_マスターソード: Meisterschwert
+MSID_光の剣: Espada luminosa
+MSID_軍神の書: Dios de la guerra
+MSID_雷旋トルネード: Centella
+MSID_レスト: Restaurar
+MSID_レスト＋: Restaurar +
+MSID_Ｓドリンク: Poción de vigor
+MSID_攻撃守備の紋章1: Mejora Ata/Def 1
+MSID_攻撃守備の紋章2: Mejora Ata/Def 2
+MSID_緑魔の経験1: Exp gr. verde 1
+MSID_緑魔の経験2: Exp gr. verde 2
+MSID_緑魔の経験3: Exp gr. verde 3
+MSID_H_無銘の一門の剣: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás.
+MSID_H_フォルブレイズ: Al inicio del turno, inflige Res - 7 al rival\nque tenga más Res en su próxima acción.
+MSID_H_封印の剣改: Eficaz contra dragones. Si el rival inicia\nel ataque, la unidad obtiene Def y Res + 4\ndurante el enfrentamiento.
+MSID_H_リガルブレイド改: Al inicio del ataque, si el rival tiene el 100 %\nde PV, la unidad obtiene Ata y Vel + 3\ndurante el enfrentamiento.
+MSID_H_切り返しR50: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 50 %, esta ejecuta un ataque doble\ngarantizado.
+MSID_H_絆R歩行魔法: Si la unidad se encuentra en un radio\nde dos casillas de un aliado de infantería\nque use un grimorio, obtiene Ata, Vel, Def\ny Res + 3 en combate.
+MSID_H_第9迷宮の覇者1: Otorga Vel + 1.
+MSID_H_第9迷宮の覇者2: Otorga Vel + 2.
+MSID_H_第9迷宮の覇者3: Otorga Vel + 3.
+MSID_H_マスターソード: Inflige Vel - 5. La unidad ataca dos veces\nindependientemente de quién inicie\nel ataque.
+MSID_H_光の剣: Otorga Def + 3. Si la Def del rival es mayor\no igual que su Res + 5, inflige + 7 de daño.
+MSID_H_軍神の書: Al inicio del turno, inflige Ata y Res - 4\na todos los enemigos situados en cruz\nrespecto a la unidad y con Res inferior\na la suya en su próxima acción.
+MSID_H_雷旋トルネード: Convierte la cantidad total de bonificaciones\nde la unidad en daño adicional.
+MSID_H_レスト: Devuelve 8 PV. Elimina las penalizaciones\nde habilidades, como Pánico o Reducir, y\nlos efectos negativos, como las restricciones\nde desplazamiento o de contrataque,\nhasta la siguiente acción del aliado.
+MSID_H_レスト＋: Devuelve PV iguales al 50 % del Ata.\n(Mínimo de 8 PV). Elimina las penalizaciones\nde habilidades, como Pánico o Reducir, y los\nefectos negativos, como las restricciones\nde desplazamiento o de contrataque,\nhasta la siguiente acción del aliado.
+MSID_H_Ｓドリンク: Al inicio del primer turno, devuelve 99 PV\ny facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás.
+MSID_H_攻撃守備の紋章1: Otorga Ata y Def + 2 a los aliados\nadyacentes en combate.
+MSID_H_攻撃守備の紋章2: Otorga Ata y Def + 3 a los aliados\nadyacentes en combate.
+MSID_H_緑魔の経験1: Mientras la unidad viva, si usa un grimorio\nverde, recibe un 50 % más de Exp.\n(Solo se aplica el valor más alto.\nNo acumulable.)
+MSID_H_緑魔の経験2: Mientras la unidad viva, quienes usen un grimorio\nverde en el batallón reciben un 50 % más de Exp.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_緑魔の経験3: Mientras la unidad viva, quienes usen un grimorio\nverde en el batallón reciben un 100 % más de Exp.\n(Solo se aplica el valor más alto. No acumulable.)
+MID_CHAPTER_TITLE_C0207: Libro II - Cap. 7
+MID_CHAPTER_C0207: Nieve y ceniza
+MID_STAGE_TITLE_S2071: Cap. 7 - Parte 1
+MID_STAGE_TITLE_S2072: Cap. 7 - Parte 2
+MID_STAGE_TITLE_S2073: Cap. 7 - Parte 3
+MID_STAGE_TITLE_S2074: Cap. 7 - Parte 4
+MID_STAGE_TITLE_S2075: Cap. 7 - Parte 5
+MID_STAGE_S2071: Sueños cercanos
+MID_STAGE_S2072: La hoja del jinete mago
+MID_STAGE_S2073: Espíritus indomables
+MID_STAGE_S2074: Grimorio y espada
+MID_STAGE_S2075: Nieve y ceniza
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: -Rotación de grandes batallas-\nEstos héroes rotan a diario:\nZephiel, Rey liberador\nCamus, Caballero Ópalo\nLegion, Loco camuflado\nClarisse, Tiradora oscura\nBerkut, Príncipe altivo\nValter, Adularia oscura\nArvis, Señor del fuego
+MID_STAGE_TITLE_SB_0009: 9.º asalto
+MID_STAGE_HONOR_V0231: Recompensa
+MID_STAGE_V0231: Vs. Xander
+MID_STAGE_HONOR_V0232: Recompensa
+MID_STAGE_V0232: Vs. Camilla
+MID_STAGE_HONOR_V0233: Recompensa
+MID_STAGE_V0233: Vs. Azura
+MID_STAGE_HONOR_V0234: Recompensa
+MID_STAGE_V0234: Vs. Ike
+MID_STAGE_HONOR_V0235: Recompensa
+MID_STAGE_V0235: Vs. Roy
+MID_STAGE_HONOR_V0236: Recompensa
+MID_STAGE_V0236: Vs. Daraen M
+MID_STAGE_HONOR_V0237: Recompensa
+MID_STAGE_V0237: Vs. Takumi
+MID_STAGE_HONOR_V0238: Recompensa
+MID_STAGE_V0238: Vs. Daraen F
+MID_STAGE_HONOR_V0239: Recompensa
+MID_STAGE_V0239: Vs. Lucina
+MID_STAGE_HONOR_V0240: Recompensa
+MID_STAGE_V0240: Vs. Chrom
+MID_STAGE_HONOR_V0241: Recompensa
+MID_STAGE_V0241: Vs. Lyn
+MID_STAGE_HONOR_T0029: Recompensa
+MID_STAGE_T0029: Vs. Saias
+MID_STAGE_HONOR_Q0006: Semanal
+MID_STAGE_Q0006: Dominios rivales
+MID_STAGE_HONOR_Q0007: Semanal
+MID_STAGE_Q0007: Dominios rivales
+MID_STAGE_HONOR_Q0008: Semanal
+MID_STAGE_Q0008: Dominios rivales
+MID_STAGE_HONOR_Q0009: Semanal
+MID_STAGE_Q0009: Dominios rivales
+MID_STAGE_TITLE_BG_WATER_0007: Agua 7
+MID_STAGE_BG_WATER_0007: Galería
+MID_STAGE_TITLE_BG_WIND_0006: Viento 6
+MID_STAGE_BG_WIND_0006: Santuario
+MID_STAGE_TITLE_BG_EARTH_0006: Tierra 6
+MID_STAGE_BG_EARTH_0006: Santuario
+MID_STAGE_TITLE_BG_FIRE_0006: Fuego 6
+MID_STAGE_BG_FIRE_0006: Santuario

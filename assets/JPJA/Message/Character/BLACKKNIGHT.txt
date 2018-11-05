@@ -1,0 +1,38 @@
+[Heroes Archive] (BLACKKNIGHT)
+
+
+Heroes Message Name: Message
+
+
+MID_BLACKKNIGHT_HOME1: このような世界があったのか…\nここでなら…私は…
+MID_BLACKKNIGHT_HOME2: 故あって、貴殿に力を貸そう。\nだが、私が仕える御方はただ一人…
+MID_BLACKKNIGHT_HOME3: ガウェイン将軍…\nあなたを超えることこそ\n我が剣の終着…\n
+MID_BLACKKNIGHT_HOME4: グレイル傭兵団のアイクと\n私の剣技は同じ…\n同じ師から学んだものだ。\n
+MID_BLACKKNIGHT_HOME5: 私には剣の師と仰いだ男がいた…\nだがその男は…\nいや、何も言うまい。
+MID_BLACKKNIGHT_FRIEND: 貴殿が$Nuか。\n私は$Nfの使いだ。\nこの書状を受け取られよ。
+MID_BLACKKNIGHT_LEVEL1: 師を超える。\nそれが我が望み。
+MID_BLACKKNIGHT_LEVEL2: 我が師の剣は\nより強く、速い。
+MID_BLACKKNIGHT_LEVEL3: …………
+MID_BLACKKNIGHT_SKILL: 我が剣は貴殿のために。
+MID_BLACKKNIGHT_JOIN: 私はデイン王国の将、\n【四駿】の位を冠する者。
+MID_BLACKKNIGHT_STRONGEST: 我が剣の師は\n【四駿】ガウェイン…\n神騎将と呼ばれた比類なき将…$k$p私は師と戦い、勝利した。\nだが、その時の師は\n既に剣を封じていた…$k$pそれでは、師を超えたことにはならん。\nかつての師に匹敵する強者と戦い、倒す…\nそれでこそ、私は師を超えられる。$k$pその戦いを\n私はずっと待ち望んでいる。$k$p…くだらぬ話をしたな。\nこのような話、\n余人には理解できぬだろうが…$k$p貴殿が戦いに生きる者ならば、\nあるいは…そう思っただけだ。
+MID_BLACKKNIGHT_VOICE01: ふんっ！
+MID_BLACKKNIGHT_VOICE02: …どけ。
+MID_BLACKKNIGHT_VOICE03: うああっ！
+MID_BLACKKNIGHT_VOICE04: かなり、やる…
+MID_BLACKKNIGHT_VOICE05: 身の程をわきまえよ
+MID_BLACKKNIGHT_VOICE06: 来ないのか？
+MID_BLACKKNIGHT_VOICE07: …愚か者め
+MID_BLACKKNIGHT_VOICE08: 死力を尽くせ
+MID_BLACKKNIGHT_VOICE09: 体が…動かん…
+MID_BLACKKNIGHT_VOICE10: ふっ…
+MID_BLACKKNIGHT_VOICE11: …私の素顔？　知らぬ方が身のためだ。
+MID_BLACKKNIGHT_VOICE12: ？　…貴殿の親愛の挨拶にはいささか面食らうな…
+MID_BLACKKNIGHT_VOICE13: この鎧は女神の祝福を与えられしもの…
+MID_BLACKKNIGHT_VOICE14: 私の見込み違い…ではないことを願うぞ
+MID_BLACKKNIGHT_VOICE15: 己の腕をわきまえ、時に退くことも知らねばならん
+MID_BLACKKNIGHT_VOICE16: ガウェインの息子…アイクといったか…あれは、私の獲物だ。
+MID_BLACKKNIGHT_VOICE17: 私は貴殿を守るため、ここにいる。
+MID_BLACKKNIGHT_VOICE18: 承知した。
+MID_BLACKKNIGHT_VOICE19: 気遣いは無用。
+MID_BLACKKNIGHT_VOICE20: では、参る。

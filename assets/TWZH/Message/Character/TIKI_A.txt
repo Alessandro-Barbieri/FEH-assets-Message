@@ -1,0 +1,38 @@
+[Heroes Archive] (TIKI_A)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_A_HOME1: 呼啊……開始睏了……這個地方\n會讓人不自覺地放鬆心情呢。\n跟神龍大地很像喔。
+MID_TIKI_A_HOME2: 我是活了三千年的龍……\n已經經歷過很多次的邂逅與別離了。\n我也會一直記得你的。
+MID_TIKI_A_HOME3: 謝謝你……因為被你召喚過來，\n我才能夠再度跟思念的人們相見。\n也可以見到以前最喜歡的哥哥……
+MID_TIKI_A_HOME4: 這次跟我好好聊一聊吧？\n你散發著一種跟這個世界的其他人\n和英雄們都截然不同的感覺……
+MID_TIKI_A_HOME5: 哎呀呀，$Nu。\n我正好散步回來了喔。不管活到幾歲，\n新的世界還是讓我很開心呢。
+MID_TIKI_A_FRIEND: $Nf要我問候你一聲……\n他一直都很在乎你呢。\n今後也請跟他好好相處。
+MID_TIKI_A_LEVEL1: 我會挺身保護……\n有英雄們一起存在的這個世界……
+MID_TIKI_A_LEVEL2: 呵呵，這個感覺\n好像還蠻令人懷念的……
+MID_TIKI_A_LEVEL3: 畢竟我已經三千歲了……\n真是沒辦法……
+MID_TIKI_A_SKILL: 你賜給了我力量呢。\n我們今後也一起戰鬥吧。
+MID_TIKI_A_JOIN: 我是琪姬。\n我是能夠化身為龍的神龍族……\n人們都叫我神龍巫女喔。
+MID_TIKI_A_STRONGEST: $Nu……\n你對這個世界有什麼看法？\n如果我快要回去了，你會覺得寂寞嗎？$k$p我啊，現在凡事都往開心的方向去想。\n對於跟這個世界、還有夥伴們，\n總有一天還是要分開這件事。$k$p剛才……對於要跟你分開這件事，\n我忽然感到很寂寞。\n這是因為我已經對你敞開心房了吧。$k$p呵呵。你說我太急性子了？\n的確，你說得沒錯。\n我們還有很多時間嘛。$k$p我們就一起把握當下吧。\n希望有一天懷念起這段時光的時候……\n回憶中出現的都是閃耀著光輝的模樣。\n
+MID_TIKI_A_VOICE01: 喝！
+MID_TIKI_A_VOICE02: 嘿！
+MID_TIKI_A_VOICE03: 嗚嗚……！
+MID_TIKI_A_VOICE04: 我得專心才行……
+MID_TIKI_A_VOICE05: 別靠近我……！
+MID_TIKI_A_VOICE06: 我要稍微認真一點了！
+MID_TIKI_A_VOICE07: 晚安。
+MID_TIKI_A_VOICE08: 這是神龍的氣息。
+MID_TIKI_A_VOICE09: 我竟然……會被打敗……
+MID_TIKI_A_VOICE10: 呵呵……
+MID_TIKI_A_VOICE11: 有點睏了……
+MID_TIKI_A_VOICE12: 你呼喚我過來，我很高興。
+MID_TIKI_A_VOICE13: 我們的力量有善也有惡。
+MID_TIKI_A_VOICE14: 看著星空，就開始感到寂寞。
+MID_TIKI_A_VOICE15: 哥哥也來到這裡了嗎……？
+MID_TIKI_A_VOICE16: 一下被稱為巫女、一下被稱為英雄，我還真忙呢……
+MID_TIKI_A_VOICE17: 就算注定總有一天要分開，我現在還是會跟你們同行。
+MID_TIKI_A_VOICE18: 嗯。
+MID_TIKI_A_VOICE19: 要走啦。
+MID_TIKI_A_VOICE20: 請帶路吧。

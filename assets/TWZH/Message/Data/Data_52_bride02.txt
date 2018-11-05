@@ -1,0 +1,105 @@
+[Heroes Archive] (Data_52_bride02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805KIZUNA01_TITLE: 羈絆英雄戰
+MID_MISSION_S201805KIZUNA01_A1: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201805KIZUNA01_A1: 將安娜編入我軍，\n過關羈絆英雄戰・塔娜＆亞美利雅。
+MID_MISSION_S201805KIZUNA01_A2: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201805KIZUNA01_A2: 將亞斯克王國的王子阿爾馮斯編入我軍，\n過關羈絆英雄戰・塔娜＆亞美利雅(超難以上)。
+MID_MISSION_S201805KIZUNA01_A3: 特殊:擊敗塔娜
+MID_MISSION_H_S201805KIZUNA01_A3: 以安娜\n擊敗等級40以上的塔娜。
+MID_MISSION_S201805KIZUNA01_A4: 特殊:擊敗亞美利雅
+MID_MISSION_H_S201805KIZUNA01_A4: 以亞斯克王國的王子阿爾馮斯\n擊敗等級40以上的亞美利雅。
+MID_MISSION_S201805KIZUNA01_A5: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201805KIZUNA01_A5: 我軍全員為重裝，\n過關羈絆英雄戰・塔娜＆亞美利雅(超難以上)。
+MID_MISSION_S201805SENKA01_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201805SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201805SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201805SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201805STORY02_TITLE: 獻給新娘們的捧花
+MID_MISSION_S201805STORY02_A1: 特殊:突破外傳20-1節(超難)
+MID_MISSION_H_S201805STORY02_A1: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳20-1節(超難)。
+MID_MISSION_S201805STORY02_A2: 特殊:突破外傳20-2節(超難)
+MID_MISSION_H_S201805STORY02_A2: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳20-2節(超難)。
+MID_MISSION_S201805STORY02_A3: 特殊:突破外傳20-3節(超難)
+MID_MISSION_H_S201805STORY02_A3: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳20-3節(超難)。
+MPID_花婿マルス: 馬爾斯
+MPID_花嫁ニニアン: 尼尼安
+MPID_花嫁サーリャ: 撒拉
+MPID_花嫁サナキ: 莎娜琪
+MPID_HONOR_花婿マルス: 阿利提亞的新郎
+MPID_HONOR_花嫁ニニアン: 清爽的新娘
+MPID_HONOR_花嫁サーリャ: 熱情的新娘
+MPID_HONOR_花嫁サナキ: 新娘打扮的神使
+MPID_H_花婿マルス: 阿利提亞王國的王子，為了復興祖國而戰。\n打扮成新郎的樣子，前來參加這場祭典。\n（登場作品：『ファイアーエムブレム　紋章の謎』）
+MPID_H_花嫁ニニアン: 文靜而帶有神秘色彩的少女。\n在旅途過程中，順勢參加了這場新娘祭典。\n（登場作品：『ファイアーエムブレム　烈火の剣』）
+MPID_H_花嫁サーリャ: 佩萊吉亞國的咒術師，個性陰沉而善妒。\n內心正熊熊燃燒著想得到新娘捧花的執念。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_花嫁サナキ: 貝格尼昂帝國的皇帝，可聽聞女神神諭的神使。\n出於好奇心而參加了新娘祭典。\n（登場作品：『ファイアーエムブレム　蒼炎の軌跡』）
+MPID_VOICE_花婿マルス: 緑川光(Hikaru Midorikawa)
+MPID_VOICE_花嫁ニニアン: 洲崎綾(Aya Suzaki)
+MPID_VOICE_花嫁サーリャ: 高田憂希(Yuuki Takada)
+MPID_VOICE_花嫁サナキ: 中原麻衣(Mai Nakahara)
+MPID_ILLUST_花婿マルス: まよ(Mayo)
+MPID_ILLUST_花嫁ニニアン: 円居雄一郎(Yuichiro Enkyo)
+MPID_ILLUST_花嫁サーリャ: 煎茶(Sencha)
+MPID_ILLUST_花嫁サナキ: 富岡二郎(Jiro Tomioka)
+MID_SEQUENTIAL_MAP_TERM_201805: 炎之王國的洛基
+MSID_愛のケーキサーバ: 愛之蛋糕鏟
+MSID_愛のケーキサーバ＋: 愛之蛋糕鏟＋
+MSID_ムスペルの炎花: 穆斯貝爾之炎花
+MSID_清らかなブーケ: 純潔花束
+MSID_清らかなブーケ＋: 純潔花束＋
+MSID_ニフルの氷花: 尼福爾之冰花
+MSID_攻撃の封印1: 攻擊封殺１
+MSID_攻撃の封印2: 攻擊封殺２
+MSID_攻撃の封印3: 攻擊封殺３
+MSID_守備魔防の連携1: 防守魔防連動１
+MSID_守備魔防の連携2: 防守魔防連動２
+MSID_守備魔防の連携3: 防守魔防連動３
+MSID_速さの共謀1: 速度共謀１
+MSID_速さの共謀2: 速度共謀２
+MSID_速さの共謀3: 速度共謀３
+MSID_H_愛のケーキサーバ: 回合開始時，若周圍１格內有我方單位，\n則自己和周圍１格內的我方單位攻擊＋４（１回合）
+MSID_H_愛のケーキサーバ＋: 回合開始時，若周圍１格內有我方單位，\n則自己和周圍１格內的我方單位攻擊＋４（１回合）
+MSID_H_ムスペルの炎花: 速度＋３　戰鬥中的攻擊及速度提升\n（提升數值為：周圍２格內的我方人數×２)\n（各能力提升的最大值為＋６）
+MSID_H_清らかなブーケ: 回合開始時，若周圍１格內有我方單位，\n則自己和周圍１格內的我方單位速度＋４（１回合）
+MSID_H_清らかなブーケ＋: 回合開始時，若周圍１格內有我方單位，\n則自己和周圍１格內的我方單位速度＋４（１回合）
+MSID_H_ニフルの氷花: 攻擊＋３　戰鬥中的攻擊及速度提升\n（提升數值為：周圍２格內的我方人數×２)\n（各能力提升的最大值為＋６）
+MSID_H_攻撃の封印1: 回合開始時，\n敵軍內攻擊最高的敵人攻擊－３\n（直到敵人下次行動結束）
+MSID_H_攻撃の封印2: 回合開始時，\n敵軍內攻擊最高的敵人攻擊－５\n（直到敵人下次行動結束）
+MSID_H_攻撃の封印3: 回合開始時，\n敵軍內攻擊最高的敵人攻擊－７\n（直到敵人下次行動結束）
+MSID_H_守備魔防の連携1: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的防守及魔防＋２（１回合）
+MSID_H_守備魔防の連携2: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的防守及魔防＋４（１回合）
+MSID_H_守備魔防の連携3: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的防守及魔防＋６（１回合）
+MSID_H_速さの共謀1: 使用或被施放支援技能時，\n位於自己十字方向上的敵人速度－３\n（直到敵人下次行動結束）
+MSID_H_速さの共謀2: 使用或被施放支援技能時，\n位於自己十字方向上的敵人速度－５\n（直到敵人下次行動結束）
+MSID_H_速さの共謀3: 使用或被施放支援技能時，\n位於自己十字方向上的敵人速度－７\n（直到敵人下次行動結束）
+MID_CHAPTER_TITLE_CX019: 外傳２０
+MID_CHAPTER_CX019: 獻給新娘們的捧花
+MID_STAGE_TITLE_X0191: 外傳２０—１節
+MID_STAGE_TITLE_X0192: 外傳２０—２節
+MID_STAGE_TITLE_X0193: 外傳２０—３節
+MID_STAGE_X0191: 婚禮上的王子
+MID_STAGE_X0192: 神聖的新娘
+MID_STAGE_X0193: 收下幸福的花束吧
+MID_STAGE_TITLE_ST_X0018: 外傳１９
+MID_STAGE_TITLE_ST_X0019: 外傳２０
+MID_STAGE_TITLE_ST_X1019: 外傳１９～２０
+MID_CHAPTER_ST_CX010: 外傳１９～２０

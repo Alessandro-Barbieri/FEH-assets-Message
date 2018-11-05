@@ -1,0 +1,38 @@
+[Heroes Archive] (LLEU)
+
+
+Heroes Message Name: Message
+
+
+MID_LLEU_HOME1: ¡Dominaré las artes oscuras aunque\ntenga que destruir un par de mundos\nen el intento! Lo digo muy en serio...
+MID_LLEU_HOME2: Sin poder es imposible proteger\na nadie, ni siquiera a tus más\nallegados...$k$pDe ahí que quiera controlar\nlas artes oscuras a toda costa.
+MID_LLEU_HOME3: Sé que parezco un poco distante,\npero tengo mucho en lo que pensar.\nY para eso necesito estar solo.
+MID_LLEU_HOME4: Perdona que me entrometa, pero\ndescansa de vez en cuando, ¿vale?$k$pSi te hartas de hacer rondas, tendré\nque encargarme yo... Y ya tengo\nbastante con lo mío.
+MID_LLEU_HOME5: Vas de acá para allá tan campante,\ncomo si la vida fuera un camino de\nrosas. Resulta de lo más irritante.$k$pPero, en fin, no dejes que mi mal\nhumor te arruine el día. Ya se me\npasará, supongo.
+MID_LLEU_FRIEND: ¿Eres $Nu?\nRayos, sí que cuesta dar contigo...\nAlguien te manda saludos.
+MID_LLEU_LEVEL1: ¡Con todo este poder por fin\npodré...! Mmm. Nada, olvídalo.
+MID_LLEU_LEVEL2: ¡Debo obtener más poder!
+MID_LLEU_LEVEL3: ¡Maldición! Esto no me sirve\nde nada...
+MID_LLEU_SKILL: Te daría las gracias, pero\n¿de qué serviría?
+MID_LLEU_JOIN: Soy un estudiante de las artes\noscuras más arcanas. Mi nombre\nes Raigh, si insistes en saberlo...
+MID_LLEU_STRONGEST: Buf. Tu manía de meter la nariz\nen los asuntos ajenos me irrita\nsobremanera. Pero en fin...$k$pQuizá sin tu fastidio constante\nno habría notado tanta mejoría\nen mi dominio de las artes oscuras.$k$pPero no te emociones, ¿eh?\nHe dicho "quizá".$k$pAdemás, en el fondo sé que solo\npasas tiempo conmigo porque te\napiadas de mi mente retorcida.$k$pVenga, admítelo. De otra forma,\nestoy seguro de que no merecería\ntantas atenciones por tu parte.$k$pLo peor es que ahora ya no me basta\ncon cuidar de mí mismo. También he\nde velar por ti. Muchas gracias, ¿eh?
+MID_LLEU_VOICE01: フン
+MID_LLEU_VOICE02: フフン
+MID_LLEU_VOICE03: うああっ！
+MID_LLEU_VOICE04: ...Hmph.
+MID_LLEU_VOICE05: ¡Te aniquilaré sin piedad!
+MID_LLEU_VOICE06: ¡Contempla mi poder!
+MID_LLEU_VOICE07: ¡Sucumbe ante la oscuridad!
+MID_LLEU_VOICE08: Me aburres.
+MID_LLEU_VOICE09: Fools...
+MID_LLEU_VOICE10: Heh.
+MID_LLEU_VOICE11: What do you want?
+MID_LLEU_VOICE12: Enough. You have my attention.
+MID_LLEU_VOICE13: You push yourself way too hard. And for what? Other people?
+MID_LLEU_VOICE14: I have to admit, I've never met someone...quite like you.
+MID_LLEU_VOICE15: Don't tell anyone that I'm anything but...diabolical.
+MID_LLEU_VOICE16: I must protect...what I must protect!
+MID_LLEU_VOICE17: You think I'll help you? You are fooling yourself.
+MID_LLEU_VOICE18: Heh!
+MID_LLEU_VOICE19: Fine...
+MID_LLEU_VOICE20: All right.

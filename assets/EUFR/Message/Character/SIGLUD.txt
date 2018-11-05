@@ -1,0 +1,38 @@
+[Heroes Archive] (SIGLUD)
+
+
+Heroes Message Name: Message
+
+
+MID_SIGLUD_HOME1: J'aime Deirdre. Même si mon amour\nétait un crime, je n'aurais pas le\nmoindre remords.
+MID_SIGLUD_HOME2: Eldigan, mon ami, pourquoi le\ndestin cruel t'a-t-il ôté la vie ?
+MID_SIGLUD_HOME3: Je sais qu'il y a beaucoup à faire,\net que vos troupes comptent sur\nvous.$k$pMais, tout de même, vous pourriez\ndéléguer quelques tâches. Pour ma\npart, je serais ravi de vous aider.
+MID_SIGLUD_HOME4: Mon fils Seliph est sain et sauf. Rien\nne saurait me rendre plus heureux.
+MID_SIGLUD_HOME5: Quand la guerre sera terminée, je\nretrouverai mon fils, Seliph. Je le\nlui ai promis.
+MID_SIGLUD_FRIEND: $Nu ?\n$Nf m'envoie\nvous porter cette lettre.
+MID_SIGLUD_LEVEL1: Je dois être un digne\ndescendant de Baldr.
+MID_SIGLUD_LEVEL2: Je dois devenir plus fort. Mon\npays a besoin de moi.
+MID_SIGLUD_LEVEL3: Je donne un bien mauvais\nexemple.
+MID_SIGLUD_SKILL: C'est plus que je ne mérite.\nJe ne serai pas ingrat.
+MID_SIGLUD_JOIN: Je suis Sigurd, héritier du duché\nde Chalphy et descendant du\ncroisé Baldr.
+MID_SIGLUD_STRONGEST: Suite à un complot, mon père et moi\nsommes passés pour des traîtres.\nNotre nom a été souillé.$k$pJ'ai tenté de rétablir la vérité et de\nlaver notre honneur, mais j'ai\néchoué.$k$pMalgré son jeune âge, Seliph a tout\nfait pour me faire oublier mes\nregrets...$k$pLe héros de la lumière, pourfendant\nles ténèbres et vengeant son père...\nC'est ainsi que les gens le voient.$k$pBien entendu, il y a toujours plusieurs\npoints de vue. Certains voient le mal\ncomme le bien, et vice-versa.$k$pMalheureusement, c'est une chose\nque j'ai apprise trop tard.$k$pEn tant que père, je dois expliquer\ntout cela à Seliph, et l'aider à devenir\nun véritable roi.
+MID_SIGLUD_VOICE01: はっ！
+MID_SIGLUD_VOICE02: せいっ！
+MID_SIGLUD_VOICE03: うああっ！
+MID_SIGLUD_VOICE04: くっ…だが…
+MID_SIGLUD_VOICE05: À l'assaut !
+MID_SIGLUD_VOICE06: Cette attaque sera décisive !
+MID_SIGLUD_VOICE07: Je ne vous laisserai pas faire.
+MID_SIGLUD_VOICE08: En garde !
+MID_SIGLUD_VOICE09: Deirdre, I'm sorry.
+MID_SIGLUD_VOICE10: (light chuckle)
+MID_SIGLUD_VOICE11: I'd be honored to have you as an advisor, if you're willing.
+MID_SIGLUD_VOICE12: Hm? My apologies. Did you call for me?
+MID_SIGLUD_VOICE13: Your kindness and concern for others is the reason so many people look up to you. I'm sure of it.
+MID_SIGLUD_VOICE14: I hope I can always count on your strength. It's true. I need your help.
+MID_SIGLUD_VOICE15: If my love for Deirdre is a crime, please punish me, and only me!
+MID_SIGLUD_VOICE16: Seliph, I hope that you can forgive me one day. Please... Grow into a strong man. One people look up to.
+MID_SIGLUD_VOICE17: I swear that I will use every ounce of my strength to protect you.
+MID_SIGLUD_VOICE18: Very well.
+MID_SIGLUD_VOICE19: I trust you.
+MID_SIGLUD_VOICE20: I swear it.

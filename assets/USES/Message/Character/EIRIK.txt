@@ -1,0 +1,38 @@
+[Heroes Archive] (EIRIK)
+
+
+Heroes Message Name: Message
+
+
+MID_EIRIK_HOME1: Me pregunto si algún día alguno\nde nosotros verá un mundo feliz,\npróspero y en paz.
+MID_EIRIK_HOME2: En mi mundo mi hermano siempre\ntenía que venir en mi ayuda. Me\navergüenza admitirlo, ¿sabes?
+MID_EIRIK_HOME3: Estoy bien, gracias. Eres muy\namable por preguntar.
+MID_EIRIK_HOME4: ¿Cómo es el mundo del que\nprocedes? ¿Está arrasado por\nla guerra o vive en paz?
+MID_EIRIK_HOME5: Estoy practicando con la espada.\nMi hermano me echaría una buena\nreprimenda si me saltara un solo día.
+MID_EIRIK_FRIEND: Me envía alguien que te estima:\n$Nf.\nQue su amistad sea duradera.
+MID_EIRIK_LEVEL1: Ojalá Ephraim pudiera verme.
+MID_EIRIK_LEVEL2: ¡Qué bien! ¡Veo que mi duro\nentrenamiento da resultados!
+MID_EIRIK_LEVEL3: Mi hermano nunca me\npermitiría olvidar esto.
+MID_EIRIK_SKILL: Esto compensará mi falta\nde fuerza física.
+MID_EIRIK_JOIN: Me llamo Eirika. No soy una\nguerrera nata, pero haré todo\nlo que pueda para ayudarte.
+MID_EIRIK_STRONGEST: ¿Crees que me volví lo bastante\nfuerte? Si a ti te parece suficiente,\na mí también.$k$pCuando era niña, mi padre y mi\nhermano siempre elogiaban mi\namabilidad, lo cual me alegraba.$k$pPero esa cualidad puede tornarse en\nuna debilidad en tiempos de tiranía\ny engaño. Ojalá fuese de otro modo.$k$pCuando se trata de proteger a los\nseres queridos, es preciso ser fuerte.$k$pAunque, a pesar de todo, me niego a\ndejar de lado la bondad y la ternura.$k$pTú me ayudaste a hacerme más\nfuerte sin tener que traicionarme.$k$pTe estoy eternamente agradecida.\n¡Tienes mi palabra de que siempre\npermaneceré a tu lado!
+MID_EIRIK_VOICE01: えいっ！
+MID_EIRIK_VOICE02: やぁっ！
+MID_EIRIK_VOICE03: きゃああっ！
+MID_EIRIK_VOICE04: No...
+MID_EIRIK_VOICE05: ¡Ahora me toca a mí!
+MID_EIRIK_VOICE06: ¡Tengo que darlo todo!
+MID_EIRIK_VOICE07: ¡No puedo permitirlo!
+MID_EIRIK_VOICE08: ¡Tengo que luchar!
+MID_EIRIK_VOICE09: Ephraim...
+MID_EIRIK_VOICE10: Heehee
+MID_EIRIK_VOICE11: I am grateful for your kindness.
+MID_EIRIK_VOICE12: Ah! Oh, no more of that. You'll vex me!
+MID_EIRIK_VOICE13: It's best to resolve conflict without fighting. When possible.
+MID_EIRIK_VOICE14: Would you be willing to assist with my sword training?
+MID_EIRIK_VOICE15: How curious. I feel such warmth and hope when near you.
+MID_EIRIK_VOICE16: My brother and I, and our friend Lyon—we once had grand ideas about the future.
+MID_EIRIK_VOICE17: Promise me, please, that you won't leave me alone.
+MID_EIRIK_VOICE18: Yes?
+MID_EIRIK_VOICE19: Ready.
+MID_EIRIK_VOICE20: Let's go.

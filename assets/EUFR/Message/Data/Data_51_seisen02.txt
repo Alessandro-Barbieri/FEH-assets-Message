@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201805ARM01_TITLE: À vos armes
+MID_MISSION_S201805ARM01_A1: Victoire : épée
+MID_MISSION_H_S201805ARM01_A1: Vaincre des ennemis avec des unités maniant\nl'épée.
+MID_MISSION_S201805ARM01_A2: Victoire : lance
+MID_MISSION_H_S201805ARM01_A2: Vaincre des ennemis avec des unités maniant\nla lance.
+MID_MISSION_S201805ARM01_A3: Victoire : hache
+MID_MISSION_H_S201805ARM01_A3: Vaincre des ennemis avec des unités maniant\nla hache.
+MID_MISSION_S201805ARM01_A4: Victoire : arc gris
+MID_MISSION_H_S201805ARM01_A4: Vaincre des ennemis avec des unités maniant\nl'arc gris.
+MID_MISSION_S201805ARM01_A5: Victoire : dague
+MID_MISSION_H_S201805ARM01_A5: Vaincre des ennemis avec des unités maniant\nla dague.
+MID_MISSION_S201805ARM01_A6: Victoire : tome rouge
+MID_MISSION_H_S201805ARM01_A6: Vaincre des ennemis avec des unités utilisant\nun tome rouge.
+MID_MISSION_S201805ARM01_A7: Victoire : tome bleu
+MID_MISSION_H_S201805ARM01_A7: Vaincre des ennemis avec des unités utilisant\nun tome bleu.
+MID_MISSION_S201805ARM01_A8: Victoire : tome vert
+MID_MISSION_H_S201805ARM01_A8: Vaincre des ennemis avec des unités utilisant\nun tome vert.
+MID_MISSION_S201805ARM01_A9: Victoire : bâton
+MID_MISSION_H_S201805ARM01_A9: Vaincre des ennemis avec des unités maniant\nle bâton.
+MID_MISSION_S201805ARM01_A10: Domination : épée
+MID_MISSION_H_S201805ARM01_A10: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant l'épée.
+MID_MISSION_S201805ARM01_A11: Domination : lance
+MID_MISSION_H_S201805ARM01_A11: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la lance.
+MID_MISSION_S201805ARM01_A12: Domination : hache
+MID_MISSION_H_S201805ARM01_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la hache.
+MID_MISSION_S201805ARM01_A13: Domination : arc gris
+MID_MISSION_H_S201805ARM01_A13: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant l'arc\ngris.
+MID_MISSION_S201805ARM01_A14: Domination : dague
+MID_MISSION_H_S201805ARM01_A14: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant la dague.
+MID_MISSION_S201805ARM01_A15: Domination : tome rouge
+MID_MISSION_H_S201805ARM01_A15: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome rouge.
+MID_MISSION_S201805ARM01_A16: Domination : tome bleu
+MID_MISSION_H_S201805ARM01_A16: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome bleu.
+MID_MISSION_S201805ARM01_A17: Domination : tome vert
+MID_MISSION_H_S201805ARM01_A17: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités utilisant\nun tome vert.
+MID_MISSION_S201805ARM01_A18: Domination : bâton
+MID_MISSION_H_S201805ARM01_A18: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités maniant\nle bâton.
+MID_MISSION_S201805DAISEIATU01_TITLE: Grande conquête
+MID_MISSION_S201805DAISEIATU01_A1: GC : score
+MID_MISSION_H_S201805DAISEIATU01_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201805DAISEIATU01_A2: GC : score
+MID_MISSION_H_S201805DAISEIATU01_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201805DAISEIATU01_A3: GC : score
+MID_MISSION_H_S201805DAISEIATU01_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201805DAISEIATU01_A4: Tour : deuxième strate
+MID_MISSION_H_S201805DAISEIATU01_A4: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201805DAISEIATU01_A5: Tour : huitième strate
+MID_MISSION_H_S201805DAISEIATU01_A5: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201805DAISEIATU01_A6: Duelliste
+MID_MISSION_H_S201805DAISEIATU01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201805STORY01_TITLE: Arrivée en enfer
+MID_MISSION_S201805STORY01_A1: Chap. 9 - Acte 1 (Expert)
+MID_MISSION_H_S201805STORY01_A1: Terminer Livre II, Chap. 9, Acte 1 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY01_A2: Chap. 9 - Acte 2 (Expert)
+MID_MISSION_H_S201805STORY01_A2: Terminer Livre II, Chap. 9, Acte 2 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY01_A3: Chap. 9 - Acte 3 (Expert)
+MID_MISSION_H_S201805STORY01_A3: Terminer Livre II, Chap. 9, Acte 3 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY01_A4: Chap. 9 - Acte 4 (Expert)
+MID_MISSION_H_S201805STORY01_A4: Terminer Livre II, Chap. 9, Acte 4 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805STORY01_A5: Chap. 9 - Acte 5 (Expert)
+MID_MISSION_H_S201805STORY01_A5: Terminer Livre II, Chap. 9, Acte 5 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201805TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201805TAPBTL01_D01_A1: Elise
+MID_MISSION_H_S201805TAPBTL01_D01_A1: Vaincre Elise dans les niveaux 16-20\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201805TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201805TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201805TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201805TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201805TAPBTL01_D02_A1: Elise
+MID_MISSION_H_S201805TAPBTL01_D02_A1: Vaincre Elise dans les niveaux 16-20\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201805TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201805TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201805TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201805TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201805TAPBTL01_D03_A1: Mae
+MID_MISSION_H_S201805TAPBTL01_D03_A1: Vaincre Mae dans les niveaux 36-40\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201805TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201805TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201805TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201805TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201805TAPBTL01_D04_A1: Mae
+MID_MISSION_H_S201805TAPBTL01_D04_A1: Vaincre Mae dans les niveaux 36-40\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201805TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201805TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201805TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201805TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201805TAPBTL02_A1: Boss
+MID_MISSION_H_S201805TAPBTL02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL02_A2: Boss
+MID_MISSION_H_S201805TAPBTL02_A2: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL02_A3: Niveau
+MID_MISSION_H_S201805TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201805TAPBTL02_A4: Extra 1
+MID_MISSION_H_S201805TAPBTL02_A4: Terminer le niveau Extra 1 (disponible une\nfois que les niveaux Extra sont débloqués)\ndans le mode Bataille tactile.
+MPID_ユルグ: Ylgr
+MPID_ヘルビンディ: Helbindi
+MEID_ヘルビンディ: Helbindi
+MEID_HONOR_ヘルビンディ: Fléau infernal
+MEID_H_ヘルビンディ: Général violent de Múspell, le monde des\nflammes. Parti de rien, il a gravi les rangs\nde l'armée grâce à ses prouesses au\ncombat.
+MEID_VOICE_ヘルビンディ: Raymond K. Essel
+MEID_ILLUST_ヘルビンディ: Maeshima Shigeki (前嶋重機)
+MPID_アレス: Ares
+MPID_イシュタル: Ishtar
+MPID_リーン: Lene
+MPID_ユリウス: Julius
+MPID_HONOR_アレス: Chevalier noir
+MPID_HONOR_イシュタル: Déesse de l'éclair
+MPID_HONOR_リーン: Danseuse enjouée
+MPID_HONOR_ユリウス: Héros de l'ombre
+MPID_H_アレス: Fils d'Eldigan et héritier de Mistilteinn. A\nrejoint l'équipe du mercenaire Javarro\naprès la mort de ses parents. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_H_イシュタル: Héritière de Mjölnir et descendante de la\nfamille royale de Friege. Le comportement\nde son bien-aimé Julius l'inquiète. Apparaît\ndans Fire Emblem: Genealogy of the Holy War.
+MPID_H_リーン: Danseuse et descendante du grand prêtre\nBragi. Sait comment le monde fonctionne,\nmais ne se laisse pas abattre. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_H_ユリウス: Prince de l'empire de Grannvale. Était\nautrefois un gentil garçon, mais est\nsoudainement devenu cruel. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_アレス: Robbie Daymond
+MPID_VOICE_イシュタル: Ratana
+MPID_VOICE_リーン: Faye Mata
+MPID_VOICE_ユリウス: Griffin Burns
+MPID_ILLUST_アレス: PenekoR (п猫Ｒ)
+MPID_ILLUST_イシュタル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_リーン: Yoshiku (四々九)
+MPID_ILLUST_ユリウス: sachie (茶ちえ)
+MSID_ロムファイア: Rhomphaïa
+MSID_カミラの艶斧: Hache de Camilla
+MSID_第10迷宮の覇者1: Assaut réussi J 1
+MSID_第10迷宮の覇者2: Assaut réussi J 2
+MSID_第10迷宮の覇者3: Assaut réussi J 3
+MSID_魔剣ミストルティン: Mistilteinn Enfer
+MSID_守りの剣: Épée protectrice
+MSID_守りの剣＋: Épée protect. +
+MSID_ビューレイスト: Býleistr
+MSID_ロプトウス: Loptous
+MSID_トールハンマー: Mjölnir
+MSID_守備魔防封じ1: Sceau Déf/Rés 1
+MSID_守備魔防封じ2: Sceau Déf/Rés 2
+MSID_業火疾風の舞い1: Danse brasier 1
+MSID_業火疾風の舞い2: Danse brasier 2
+MSID_攻撃の波・奇数1: Impair Atq 1
+MSID_攻撃の波・奇数2: Impair Atq 2
+MSID_攻撃の波・奇数3: Impair Atq 3
+MSID_H_ロムファイア: Efficace contre les unités en armure\net la cavalerie.
+MSID_H_カミラの艶斧: Si l'unité se trouve à 2 cases ou moins d'un\ncavalier ou d'une unité volante alliée, confère\nAtq/Vit +4 pendant le combat.
+MSID_H_夜刀神改: Confère Atq/Vit/Déf/Rés +2.
+MSID_H_大紋章R騎飛刃3: Confère Atq/Vit +3 aux cavaliers et unités\nvolantes alliés à 2 cases ou moins pendant\nle combat.
+MSID_H_不思議な魅力R4: Si l'unité se trouve à 2 cases ou moins\nde son partenaire, celui-ci reçoit\nAtq/Vit/Déf/Rés +4 pendant le combat.
+MSID_H_第10迷宮の覇者1: Confère Atq +1.
+MSID_H_第10迷宮の覇者2: Confère Atq +2.
+MSID_H_第10迷宮の覇者3: Confère Atq +3.
+MSID_H_魔剣ミストルティン: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si l'aptitude spéciale se\ndéclenche avant ou pendant le combat,\ncompteur -2 après le combat.
+MSID_H_守りの剣: Si l'ennemi initie le combat, confère\nDéf +7 pendant le combat.
+MSID_H_守りの剣＋: Si l'ennemi initie le combat, confère\nDéf +7 pendant le combat.
+MSID_H_ビューレイスト: Au début des tours impairs, confère\nAtq/Vit/Déf/Rés +4 à l'unité et aux alliés\nadjacents pendant un tour (l'unité reçoit ce\nboost même s'il n'y a pas d'unités\nadjacentes).
+MSID_H_ロプトウス: Confère Rés +3. Les aptitudes efficaces\ncontre les dragons sont efficaces contre\nl'unité. Si l'ennemi n'a pas de telles\naptitudes, inflige Atq -6 pendant le combat.
+MSID_H_トールハンマー: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si l'unité initie le combat,\nconfère Vit +6 pendant le combat.
+MSID_H_守備魔防封じ1: Après le combat, inflige Déf/Rés -3\nà l'ennemi jusqu'à la fin de sa phase.
+MSID_H_守備魔防封じ2: Après le combat, inflige Déf/Rés -5\nà l'ennemi jusqu'à la fin de sa phase.
+MSID_H_業火疾風の舞い1: Si l'aptitude Chant ou Danse est utilisée,\nconfère Atq/Vit +2 à la cible.
+MSID_H_業火疾風の舞い2: Si l'aptitude Chant ou Danse est utilisée,\nconfère Atq/Vit +3 à la cible.
+MSID_H_攻撃の波・奇数1: Au début des tours impairs, confère\nAtq +2 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_攻撃の波・奇数2: Au début des tours impairs, confère\nAtq +4 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_攻撃の波・奇数3: Au début des tours impairs, confère\nAtq +6 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MID_CHAPTER_TITLE_C0209: Livre II, Chap. 9
+MID_CHAPTER_C0209: Arrivée en enfer
+MID_STAGE_TITLE_S2091: Ch. 9 - Acte 1
+MID_STAGE_TITLE_S2092: Ch. 9 - Acte 2
+MID_STAGE_TITLE_S2093: Ch. 9 - Acte 3
+MID_STAGE_TITLE_S2094: Ch. 9 - Acte 4
+MID_STAGE_TITLE_S2095: Ch. 9 - Acte 5
+MID_STAGE_S2091: Le geôlier infernal
+MID_STAGE_S2092: L'épée démoniaque
+MID_STAGE_S2093: La déesse de l'éclair
+MID_STAGE_S2094: La danseuse des flammes
+MID_STAGE_S2095: Bataille infernale
+MID_STAGE_TITLE_SB_0010: 10e assaut
+MID_STAGE_HONOR_T0031: Héros de l'ombre
+MID_STAGE_T0031: Julius
+MID_STAGE_HONOR_Q0010: Hebdo.
+MID_STAGE_Q0010: Domaines rivaux
+MID_STAGE_HONOR_Q0011: Hebdo.
+MID_STAGE_Q0011: Domaines rivaux
+MID_STAGE_HONOR_Q0012: Hebdo.
+MID_STAGE_Q0012: Domaines rivaux
+MID_STAGE_HONOR_Q0013: Hebdo.
+MID_STAGE_Q0013: Domaines rivaux
+MID_STAGE_TITLE_BG_WATER_0008: Eau 8
+MID_STAGE_BG_WATER_0008: Pont
+MID_STAGE_TITLE_BG_WIND_0007: Vent 7
+MID_STAGE_BG_WIND_0007: Colonnade
+MID_STAGE_TITLE_BG_EARTH_0007: Terre 7
+MID_STAGE_BG_EARTH_0007: Colonnade
+MID_STAGE_TITLE_BG_FIRE_0007: Feu 7
+MID_STAGE_BG_FIRE_0007: Colonnade
+MID_TAP_BATTLE_DATA_TITLE_0004: Sanctuaire des mages
+MID_MUSIC_NAME_BGM_MAP_FE15_02: Sous l'égide de Mila
+MID_MUSIC_NAME_BGM_BATTLE_FE06_01: À l'attaque !
+MID_MUSIC_NAME_BGM_BATTLE_FE14_01: Il t'appartient de poursuivre ta voie

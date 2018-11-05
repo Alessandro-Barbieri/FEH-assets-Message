@@ -1,0 +1,38 @@
+[Heroes Archive] (PIERI)
+
+
+Heroes Message Name: Message
+
+
+MID_PIERI_HOME1: あなたの上官、素敵なの！\n髪の毛が真っ赤で綺麗なのよ。\nあれって返り血で染まったの？
+MID_PIERI_HOME2: ピエリの主君はマークス様なの！\nマークス様、いつもはとっても怖いけど…\nいっぱい戦わせてくれるから大好きなのよ！
+MID_PIERI_HOME3: 見回りご苦労さまなの！\n疲れたらピエリがいい子いい子したげるの。\nピエリのお胸はふかふかなのよ。
+MID_PIERI_HOME4: ピエリ、今度お肉屋さんに行きたいの！\n赤い血の滴るお肉をえいってやって…\nおいしいシチューを作っちゃうのよ！
+MID_PIERI_HOME5: ちょっとだけ、お母さんを思い出してたの。\nもう会えないけど、ピエリ…\nお母さんとおんなじお料理が作れるのよ。
+MID_PIERI_FRIEND: $Nu見つけたの！\nあなたに挨拶してきて欲しいって、\n$Nf言ってたの！
+MID_PIERI_LEVEL1: 早く誰か殺したいの！\nもっともっとなの！
+MID_PIERI_LEVEL2: 敵なんてズタズタに\nしちゃうのよ！
+MID_PIERI_LEVEL3: ふえーん！\n大して変わってないのーっ！
+MID_PIERI_SKILL: ピエリを強くしてくれたのね。\nお礼に誰でも殺しちゃうのよっ！
+MID_PIERI_JOIN: ピエリは、ピエリっていうの！\n暗夜王国のソシアルナイトなのよ！\n敵はみーんなグチャグチャにするのっ！
+MID_PIERI_STRONGEST: 探したの、$Nu！\n今日はあなたに渡したいものがあるのよ。\nじゃーん！　ピエリお手製のお料理なの！$k$pお肉はピエリがえいってして、\nグサグサーってやった死にたてのやつなの。\nそれからお野菜もとっても新鮮なのよ？$k$pさ、食べて食べてなの！\n…どうなの？　おいしいの？？\nわーい！　喜んでくれて嬉しいの！$k$pピエリのお母さんはお料理上手だったの。\nだから娘のピエリもお料理上手なの。\nピエリはこの血に感謝してるのよ、だって…$k$pピエリはあなたが大好きだから！\nあなたが喜んでくれるならピエリ、\n闘いもお料理もがんばっちゃうのよ！\n
+MID_PIERI_VOICE01: それっ！
+MID_PIERI_VOICE02: えーいなの！
+MID_PIERI_VOICE03: ふええ…！
+MID_PIERI_VOICE04: 痛いのーっ！
+MID_PIERI_VOICE05: ひれ伏せなのー！
+MID_PIERI_VOICE06: 死んじゃえなのー！
+MID_PIERI_VOICE07: ピエリのおもちゃなの！
+MID_PIERI_VOICE08: この子殺していいの！？
+MID_PIERI_VOICE09: え…？　うそ…
+MID_PIERI_VOICE10: えへへ
+MID_PIERI_VOICE11: イライラしたら、えいってするの
+MID_PIERI_VOICE12: ピエリ、お料理が得意なの！
+MID_PIERI_VOICE13: 特務機関のお洋服、とってもかわいいの！
+MID_PIERI_VOICE14: その真っ白なマントを返り血で染めるのよね？
+MID_PIERI_VOICE15: あなた頑張ってるから、いい子いい子してあげるのよ！
+MID_PIERI_VOICE16: マークス様はどこなの？　ピエリ臣下だから傍にいなきゃなの
+MID_PIERI_VOICE17: ピエリ頑張るから、また戦場に出してほしいの\nそれでいっぱい殺せたら、いっぱい褒めてほしいの！
+MID_PIERI_VOICE18: はぁい
+MID_PIERI_VOICE19: 誰をやるの？
+MID_PIERI_VOICE20: 殺しちゃうの

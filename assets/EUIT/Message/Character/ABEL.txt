@@ -1,0 +1,38 @@
+[Heroes Archive] (ABEL)
+
+
+Heroes Message Name: Message
+
+
+MID_ABEL_HOME1: Ho tradito il principe Marth, pur di\nsalvare la vita di Esther. Porterò\ncon me questa colpa per sempre.
+MID_ABEL_HOME2: Possiedo un piccolo negozio in Altea.\nSe avessi bisogno di qualcosa, non\nhai che da chiedere.
+MID_ABEL_HOME3: Prendi questa torcia per le pattuglie.\nTi aiuterà a trovare la strada anche\nin caso di scarsa visibilità.
+MID_ABEL_HOME4: Mi piacerebbe dare un'occhiata ai\nnegozi in città. Ti andrebbe di venire\ncon me uno di questi giorni?
+MID_ABEL_HOME5: La mia Esther prepara dei piatti\ndavvero prelibati. Dovresti\nproprio assaggiarli...
+MID_ABEL_FRIEND: Tu sei $Nu,\ngiusto? $Nf\nti invia i suoi più cordiali saluti.
+MID_ABEL_LEVEL1: Per la mia patria e per\nla mia adorata.
+MID_ABEL_LEVEL2: Noto con piacere di non essermi\ntroppo arrugginito.
+MID_ABEL_LEVEL3: Dannazione. Ho trascurato\ni miei allenamenti...
+MID_ABEL_SKILL: Grazie. Sarò sempre un\norgoglioso cavaliere di Altea.
+MID_ABEL_JOIN: Io sono Abel, cavaliere di Altea. O\nmeglio, lo ero un tempo. Ora sono\nun semplice negoziante.
+MID_ABEL_STRONGEST: Il principe Marth e la mia amata Esther\nsono di somma importanza per me.$k$pLa lealtà verso il mio signore e\nl'amore per la mia adorata sono\nentrambi sentimenti molto forti.$k$pMi chiedo però se per te io provi\nlealtà poiché mi hai evocato...\no sincera e crescente amicizia?$k$pProprio non saprei. Ciò che so con\ncertezza è che una nuova persona\nimportante fa ora parte della mia vita.$k$pMi auguro che continuerai a contare\nsul mio appoggio come hai fatto finora.
+MID_ABEL_VOICE01: はっ！
+MID_ABEL_VOICE02: せいっ！
+MID_ABEL_VOICE03: うああっ！
+MID_ABEL_VOICE04: You're...strong...
+MID_ABEL_VOICE05: È arrivata la tua ora.
+MID_ABEL_VOICE06: Non ho ancora finito!
+MID_ABEL_VOICE07: Nessuna pietà!
+MID_ABEL_VOICE08: Mi avevi sottovalutato!
+MID_ABEL_VOICE09: Apologies...
+MID_ABEL_VOICE10: Haha
+MID_ABEL_VOICE11: What's wrong?
+MID_ABEL_VOICE12: I fear that I've grown soft since leaving the knights.
+MID_ABEL_VOICE13: I run a small shop. Perhaps you can visit someday.
+MID_ABEL_VOICE14: Let me know if you need anything—anything at all.
+MID_ABEL_VOICE15: I was once known as...Abel the Panther.
+MID_ABEL_VOICE16: When there are two precious things in your life, you must choose between them.
+MID_ABEL_VOICE17: I swear on my life never to betray you.
+MID_ABEL_VOICE18: Of course.
+MID_ABEL_VOICE19: Advance?
+MID_ABEL_VOICE20: Yes.

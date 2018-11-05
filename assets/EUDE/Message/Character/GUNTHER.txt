@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: Ob die Damen mich nun wohl\neher wahrnehmen, wenn ich\nden Wächtern von Askr beitrete?$k$pIch bin der Farbe Weiß\nallerdings nicht sehr zugetan.
+MID_GUNTHER_HOME2: Viele Jahre habe ich mich um meinen\nSchützling Corrin gekümmert.$k$pUnd so bin ich denn mehr ein Vater\nals ein Getreuer.
+MID_GUNTHER_HOME3: Euer Eifer bei Patrouillen ist vorbild-\nlich. Wir sollten unsere Erfahrungen\nbald bei etwas Tee austauschen.$k$pIch bin kein Diener, bereite aber\nguten Tee zu.
+MID_GUNTHER_HOME4: Ein Leben voller Übung hat mir in\nmeiner Welt genützt. Aber wie sieht\nes hier wohl aus, im Dienst der$k$pWächter von Askr? Vielleicht sollte\nich mit Euch Wächtern von Askr üben.
+MID_GUNTHER_HOME5: Ich pflege meine Rüstung regelmäßig.$k$pAls ich hierherkam, hatte ich nicht viel\nmehr als sie am Leibe. Deshalb ist sie\nmir so wichtig.
+MID_GUNTHER_FRIEND: Hmmm... Ich nehme an, Ihr seid\n$Nu,\nnicht wahr?$k$pDann habe ich Euch endlich\ngefunden. Ich bringe Euch Grüße\nvon $Nf.
+MID_GUNTHER_LEVEL1: Schön, wieder im\nGetümmel zu sein!
+MID_GUNTHER_LEVEL2: Ein alter Hund lernt\nneue Tricks...
+MID_GUNTHER_LEVEL3: In meinem Alter nehm\nich, was kommt.
+MID_GUNTHER_SKILL: Viel Kraft für einen alten Mann...\nUnd ich werde sie weise nutzen!
+MID_GUNTHER_JOIN: Ich bin Gunter, Ritter von Nohr.\nManche denke, ich sei zu alt.$k$pAber das ist ein Fehler. Ich bin ein\nerfahrener Veteran!
+MID_GUNTHER_STRONGEST: Ich habe von unserer Kommandantin\nerfahren, dass Ihr...\n$Gein Legendärer Held,eine Legendäre Heldin| seid.$k$pKommt schon, raus damit. Seid Ihr\nwirklich so heroisch? Vielleicht seid\nIhr ja zu bescheiden, es zuzugeben.$k$pIhr mögt noch nicht meine Jahre an\nErfahrung haben, aber akzeptiert, wer\nIhr seid und entwickelt Euer Potential!$k$pEure Waffe - verwandelt Euch in die\nPerson, die dieser Waffe gerecht wird\nund die es wert ist, sie zu führen!$k$pEinst kannte ich jemanden, der ein\nähnliches Schicksal teilte.$k$pBevor Ihr dies als Gebrabbel eines\nalten Mannes abtut, hört Euch noch\ndies an:$k$pIch habe im Kampf etwas bemerkt...\nEuer Selbstvertrauen wird Eurem\nTitel nicht gerecht.$k$pKein Grund, Euch zu entschuldigen.\nDas ist doch nur natürlich. Und hier\nkomme ich ins Spiel.$k$pLasst diesen Veteranen noch etwas\nlänger an Eurer Seite kämpfen.$k$pIch biete Euch mein Schwert und\nmeine Jahre, bis Ihr groß in jeder\nBeziehung seid.
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: Das wirst du bezahlen!
+MID_GUNTHER_VOICE06: Ich werde dich vernichten!
+MID_GUNTHER_VOICE07: Hier endet es!
+MID_GUNTHER_VOICE08: Ein schwerer Fehler...
+MID_GUNTHER_VOICE09: Careless...
+MID_GUNTHER_VOICE10: Yes?
+MID_GUNTHER_VOICE11: Others might trifle with me, but I suspect you won't make that mistake.
+MID_GUNTHER_VOICE12: I find you...intriguing...to say the least.
+MID_GUNTHER_VOICE13: I am glad to have joined you.
+MID_GUNTHER_VOICE14: Remain focused. Always—not just on the battlefield.
+MID_GUNTHER_VOICE15: Curious about the scar on my face? Hmm. Of course you are.
+MID_GUNTHER_VOICE16: My armor has known...so much blood.
+MID_GUNTHER_VOICE17: You and I should spar sometime. Builds character!
+MID_GUNTHER_VOICE18: Hmm?
+MID_GUNTHER_VOICE19: Hmm.
+MID_GUNTHER_VOICE20: Let's go.

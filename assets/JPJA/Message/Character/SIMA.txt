@@ -1,0 +1,38 @@
+[Heroes Archive] (SIMA)
+
+
+Heroes Message Name: Message
+
+
+MID_SIMA_HOME1: 質実にして堅牢。良い城だ。\n城は国をあらわすものだ。\n良い国なのだろうな。
+MID_SIMA_HOME2: 私は王としては甚だ未熟…\nだが、私を望んでくれる民たちの\n期待を裏切ることはできぬ。
+MID_SIMA_HOME3: そなたにはいつも感謝している。\n何か、恩返しができれば良いのだが…\n私が役立てることはあるだろうか？
+MID_SIMA_HOME4: 近くの街を見てきたが、\n人々の笑顔にあふれていた。\n守りたいものだな、この国の民を。
+MID_SIMA_HOME5: この鎧が重くないか…と？\nいや、王位の重責に比べれば\n羽毛のようなものだ。
+MID_SIMA_FRIEND: 私はシーマ。\n$Nfの代理として\n挨拶に伺った。
+MID_SIMA_LEVEL1: 私は進もう。\nさらなる力をもって！
+MID_SIMA_LEVEL2: これでいい。\n一歩ずつ己を高めるのだ。
+MID_SIMA_LEVEL3: …ううむ…さすがに\n成長の歩みが鈍すぎるか…
+MID_SIMA_SKILL: これが…私の力か…\nいささか信じられぬ…
+MID_SIMA_JOIN: 私はグラの王女シーマだ。\n父王ジオル亡き後…\nグラの王位を継いだ者だ。
+MID_SIMA_STRONGEST: そなたはもとは\nこの世界の民ではなく…\n成り行きでここにいるのだと聞いた。$k$pそなたはなにゆえ\nこの世界で戦い続ける？$k$pこの世界の仲間たちへの思い…\n彼らを見捨てたくないという\n気持ちか…？$k$pだとすれば…私にもわかる。\n私を必要としてくれる者たちを\n見捨てることはできぬ…$k$p私も、そなたを置いてはいかぬ。\nそなたがここにいる限り、\nそなたを支えると約束しよう。
+MID_SIMA_VOICE01: むんっ！
+MID_SIMA_VOICE02: せいっ！
+MID_SIMA_VOICE03: うああっ！
+MID_SIMA_VOICE04: 鎧が…
+MID_SIMA_VOICE05: 軽くはないぞ！
+MID_SIMA_VOICE06: 行くぞ！
+MID_SIMA_VOICE07: 民のために！
+MID_SIMA_VOICE08: 諦めるものか！
+MID_SIMA_VOICE09: 許せ…
+MID_SIMA_VOICE10: ふむ…
+MID_SIMA_VOICE11: 何か話があるのか？
+MID_SIMA_VOICE12: すまぬな、女らしい所作はわからぬ
+MID_SIMA_VOICE13: 一国の王としては頼りないが…
+MID_SIMA_VOICE14: この鎧は我が祖国の誇り
+MID_SIMA_VOICE15: 堅物だと…よく言われたものだ
+MID_SIMA_VOICE16: 民たちは無事だろうか…？
+MID_SIMA_VOICE17: 貴殿を信じよう
+MID_SIMA_VOICE18: 心得た
+MID_SIMA_VOICE19: どこを守る？
+MID_SIMA_VOICE20: 一歩ずつ行くぞ

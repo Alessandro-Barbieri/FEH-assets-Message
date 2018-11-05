@@ -1,0 +1,38 @@
+[Heroes Archive] (RUKE)
+
+
+Heroes Message Name: Message
+
+
+MID_RUKE_HOME1: 城と言えば騎士！\n騎士と言えばロマンス！\nロマンスと言えば城！
+MID_RUKE_HOME2: はー。どっかにいないかな？\n若くて綺麗で優しくて可愛い女の子か\n妖艶で美人でお色気たっぷりなお姉様…
+MID_RUKE_HOME3: オレはアリティア王国の従騎士！\n従騎士ってのは見習い騎士のことだぜ。\nでも従騎士って名前、なんか格好良いよな！
+MID_RUKE_HOME4: ロディはオレの長年の相棒なんだ。\nちょっと悩み過ぎのとこがあるけど、\n良い奴だぜ！
+MID_RUKE_HOME5: なあ、一緒に街に行こうぜ。\n美しいご婦人と道でぶつかって\nロマンスに発展するかもしれないだろ？
+MID_RUKE_FRIEND: オレは明日の聖騎士ルーク！\n$Nfのかわりに\nオレが直々に挨拶に来たぜ！　良かったな！
+MID_RUKE_LEVEL1: 暁の聖騎士ルークの\n伝説が今、始まる！
+MID_RUKE_LEVEL2: オレは成長した！\nふつうの成長だけどな！
+MID_RUKE_LEVEL3: ば、ばかな…\nこのオレが…
+MID_RUKE_SKILL: 明日の聖騎士ルークの\n明日からの活躍を見逃すなよ！
+MID_RUKE_JOIN: オレの名はルーク！\nアリティア一の名騎士と\n後にうたわれる予定の男だ！
+MID_RUKE_STRONGEST: どうだ、このオレの力強い姿！\nこの伝説の聖騎士ルークは\nついに最強の騎士になったぜ。$k$pふっ、我ながらオレの才能が恐ろしいぜ。\nオレに隠された真の実力が\nどうやら表に出ちまったみたいだな！$k$p…なーんてな、冗談だよ。\n本当はお前のおかげさ。\nいくらオレでもそれくらいはわかる。$k$p大局を見てくれるお前の指示があったから、\nオレは目の前のことに集中できたんだ。\n感謝してるぜ、本当に。$k$p…なんだよ？　その意外そうな顔は。\nお前、オレのこと馬鹿だと思ってただろ！\nオレだってたまにはこういうこと言うんだよ！\n\n
+MID_RUKE_VOICE01: はぁっ！
+MID_RUKE_VOICE02: せいっ！
+MID_RUKE_VOICE03: うああっ！
+MID_RUKE_VOICE04: いてぇっ！
+MID_RUKE_VOICE05: オレに惚れるなよ！
+MID_RUKE_VOICE06: 手加減しないぜ！
+MID_RUKE_VOICE07: ここで目立つ！
+MID_RUKE_VOICE08: 大活躍だ！
+MID_RUKE_VOICE09: まいるぜ…まったく…
+MID_RUKE_VOICE10: ははっ
+MID_RUKE_VOICE11: お、ついにオレの出番か？
+MID_RUKE_VOICE12: よせ、髪型が乱れるだろ
+MID_RUKE_VOICE13: オレの活躍を見せつけてやるぜ！
+MID_RUKE_VOICE14: オレが格好いい異名をつけてやろうか？
+MID_RUKE_VOICE15: どっかに癒し系のシスターいないかな？
+MID_RUKE_VOICE16: オレ、イマイチもてないんだよな～
+MID_RUKE_VOICE17: リーダーとか、めんどくさいのは任せた！
+MID_RUKE_VOICE18: おう！
+MID_RUKE_VOICE19: オレに任せろ！
+MID_RUKE_VOICE20: 行くぜ！

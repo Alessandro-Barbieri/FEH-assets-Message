@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM2)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM2_HOME1: さて、今日の鍛錬を始めるか。\nあまりゆっくりしていると、あいつらに\nどやされてしまいそうだからな。
+MID_CHROM2_HOME2: 徒歩で大地を踏みしめるのもいいが、\nこいつの背中から見る世界も良いものだ。\n…ああ、いい風だな。
+MID_CHROM2_HOME3: どうした？　なんだか元気がないな。\n近くの丘に早駆けにでもいくか？\n風に当たればすっきりするぞ。
+MID_CHROM2_HOME4: む、この林檎か？　馬にやるつもりだったが\n美味そうでつい、な。\nお前もかじるか？　ほら、遠慮するな。
+MID_CHROM2_HOME5: ああ、$Nuか。\nいま愛馬の手入れをしていたところだ。\nお前も触れてみないか？　可愛いぞ。
+MID_CHROM2_FRIEND: ここが$Nuの城か。\n$Nfの城に\n負けず劣らずの陣容だな。
+MID_CHROM2_LEVEL1: この力で戦乱の渦を斬り開く！\n集え、この旗の下に！
+MID_CHROM2_LEVEL2: 更なる研鑽をここに誓おう！
+MID_CHROM2_LEVEL3: 変化がない…　本当か？\nすまん！　俺の不徳が成せるわざかもしれん！
+MID_CHROM2_SKILL: 新たなこの技と、\nイーリス聖王国王子の名にかけて\nお前の力となることを誓おう！
+MID_CHROM2_JOIN: イーリス聖王国の王子、クロムだ。\nん？　この姿が珍しいか？\n安心しろ、騎馬の扱いにも心得がある。
+MID_CHROM2_STRONGEST: お前は騎士とはどんな存在だと思う？\n己の身を犠牲にしてでも味方を守り、\n決して恐れず、誇りを持って戦い抜く…$k$pそうなんだが、どうもしっくりこないな。\n己を犠牲に誰かを助けるというのは確かに\n尊い行いだ。誰にでもできることではない。$k$pだが、それは同時に自分を大切に思う誰かを\n傷つける行為でもある。わかるか？\n…そうだ、$Nu！$k$pこの言葉はお前に向けている。\n誰かを救おうと思うなら、まず自分のことを\n救うべきだと俺は思う！$k$p苦難は分け合い、同じ信念を持つ友として\n支えあおう。絆を交わした者、同志として。\nいざ、これからも共に！
+MID_CHROM2_VOICE01: はぁっ！
+MID_CHROM2_VOICE02: むんっ！
+MID_CHROM2_VOICE03: うああっ！
+MID_CHROM2_VOICE04: しまった…！
+MID_CHROM2_VOICE05: 今助けるぞ！
+MID_CHROM2_VOICE06: 突撃するぞ！
+MID_CHROM2_VOICE07: 急には止まれん！
+MID_CHROM2_VOICE08: 人馬一体！
+MID_CHROM2_VOICE09: すまん…みんな…
+MID_CHROM2_VOICE10: はははっ
+MID_CHROM2_VOICE11: 心配するな、騎馬での戦いも心得がある。
+MID_CHROM2_VOICE12: ん？　今、俺を呼んだのか？
+MID_CHROM2_VOICE13: 騎馬の利点は機動力だ。すぐに仲間を助けに行ける。
+MID_CHROM2_VOICE14: 馬との付き合い方は、フレデリクに学ぶのが良い。
+MID_CHROM2_VOICE15: 色々な戦い方ができれば、もっと強くなれるはずだ。
+MID_CHROM2_VOICE16: むう…馬上でも、やはり壁に穴をあけてしまうな…
+MID_CHROM2_VOICE17: 困ったら俺を呼べ。どこにいようと必ず駆けつける。
+MID_CHROM2_VOICE18: 今行くぞ
+MID_CHROM2_VOICE19: どうする？
+MID_CHROM2_VOICE20: 救援に向かう！

@@ -1,0 +1,471 @@
+[Heroes Archive] (Data_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0001: $WmMPID_スリーズ,ch00_10_Cerise_F_Normal,Face|Je suis Gunnthrá, princesse de Nifl,\nle monde des glaces. Je vous en\nprie, sauvez ma sœur, Fjorm !$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0001: Recrutez Fjorm en terminant\nl'acte 5 du chapitre 1 du livre II !
+MID_MISSION_S201802BRAVE01_TITLE: Askr et Fjorm
+MID_MISSION_S201802BRAVE01_A1: Cible : unités vertes
+MID_MISSION_H_S201802BRAVE01_A1: Vaincre des unités vertes avec Alfonse.
+MID_MISSION_S201802BRAVE01_A2: Cible : niveau ≥ 20
+MID_MISSION_H_S201802BRAVE01_A2: Vaincre des unités vertes de niveau 20 ou\nsupérieur avec Alfonse.
+MID_MISSION_S201802BRAVE01_A3: Cible : niveau ≥ 40
+MID_MISSION_H_S201802BRAVE01_A3: Vaincre des unités vertes de niveau 40 ou\nsupérieur avec Alfonse.
+MID_MISSION_S201802BRAVE01_A4: Cible : infanterie
+MID_MISSION_H_S201802BRAVE01_A4: Vaincre des fantassins avec Alfonse.
+MID_MISSION_S201802BRAVE01_A5: Cible : unités rouges
+MID_MISSION_H_S201802BRAVE01_A5: Vaincre des unités rouges avec Sharena.
+MID_MISSION_S201802BRAVE01_A6: Cible : niveau ≥ 20
+MID_MISSION_H_S201802BRAVE01_A6: Vaincre des unités rouges de niveau 20 ou\nsupérieur avec Sharena.
+MID_MISSION_S201802BRAVE01_A7: Cible : niveau ≥ 40
+MID_MISSION_H_S201802BRAVE01_A7: Vaincre des unités rouges de niveau 40 ou\nsupérieur avec Sharena.
+MID_MISSION_S201802BRAVE01_A8: Cible : unités cuirassées
+MID_MISSION_H_S201802BRAVE01_A8: Vaincre des unités cuirassées avec Sharena.
+MID_MISSION_S201802BRAVE01_A9: Cible : unités bleues
+MID_MISSION_H_S201802BRAVE01_A9: Vaincre des unités bleues avec Anna.
+MID_MISSION_S201802BRAVE01_A10: Cible : niveau ≥ 20
+MID_MISSION_H_S201802BRAVE01_A10: Vaincre des unités bleues de niveau 20 ou\nsupérieur avec Anna.
+MID_MISSION_S201802BRAVE01_A11: Cible : niveau ≥ 40
+MID_MISSION_H_S201802BRAVE01_A11: Vaincre des unités bleues de niveau 40 ou\nsupérieur avec Anna.
+MID_MISSION_S201802BRAVE01_A12: Cible : unités volantes
+MID_MISSION_H_S201802BRAVE01_A12: Vaincre des unités volantes avec Anna.
+MID_MISSION_S201802BRAVE01_A13: Cible : unités rouges
+MID_MISSION_H_S201802BRAVE01_A13: Vaincre des unités rouges avec Fjorm.
+MID_MISSION_S201802BRAVE01_A14: Cible : niveau ≥ 20
+MID_MISSION_H_S201802BRAVE01_A14: Vaincre des unités rouges de niveau 20 ou\nsupérieur avec Fjorm.
+MID_MISSION_S201802BRAVE01_A15: Cible : niveau ≥ 40
+MID_MISSION_H_S201802BRAVE01_A15: Vaincre des unités rouges de niveau 40 ou\nsupérieur avec Fjorm.
+MID_MISSION_S201802BRAVE01_A16: Cible : cavalerie
+MID_MISSION_H_S201802BRAVE01_A16: Vaincre des cavaliers avec Fjorm.
+MID_MISSION_S201802RENSEI01_TITLE: Atelier d'armement
+MID_MISSION_S201802RENSEI01_A1: Victoire : unité rouge
+MID_MISSION_H_S201802RENSEI01_A1: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_S201802RENSEI01_A2: Victoire : unité bleue
+MID_MISSION_H_S201802RENSEI01_A2: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_S201802RENSEI01_A3: Victoire : unité verte
+MID_MISSION_H_S201802RENSEI01_A3: Vaincre des ennemis avec des unités vertes.
+MID_MISSION_S201802RENSEI01_A4: Victoire : unité rouge
+MID_MISSION_H_S201802RENSEI01_A4: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_S201802RENSEI01_A5: Victoire : unité bleue
+MID_MISSION_H_S201802RENSEI01_A5: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_S201802RENSEI01_A6: Victoire : unité verte
+MID_MISSION_H_S201802RENSEI01_A6: Vaincre des ennemis avec des unités vertes.
+MID_MISSION_S201802RENSEI01_A7: Victoire : unité rouge
+MID_MISSION_H_S201802RENSEI01_A7: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_S201802RENSEI01_A8: Victoire : unité bleue
+MID_MISSION_H_S201802RENSEI01_A8: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_S201802RENSEI01_A9: Victoire : unité verte
+MID_MISSION_H_S201802RENSEI01_A9: Vaincre des ennemis avec des unités vertes.
+MID_MISSION_S201802SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201802SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201802SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201802SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201802SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201802SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201802SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201802SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201802SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201802SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201802SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802STORY01_TITLE: L'amour toujours
+MID_MISSION_S201802STORY01_A1: Ann. 18 - Acte 1 (Expert)
+MID_MISSION_H_S201802STORY01_A1: Terminer l'acte 1 de l'annexe 18 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY01_A2: Ann. 18 - Acte 2 (Expert)
+MID_MISSION_H_S201802STORY01_A2: Terminer l'acte 2 de l'annexe 18 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY01_A3: Ann. 18 - Acte 3 (Expert)
+MID_MISSION_H_S201802STORY01_A3: Terminer l'acte 3 de l'annexe 18 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802YEAR02_TITLE: GB - Élite
+MID_MISSION_S201802YEAR02_A1: Lloyd
+MID_MISSION_H_S201802YEAR02_A1: Remporter la grande bataille contre\nLloyd, le loup blanc.
+MID_MISSION_S201802YEAR02_A2: Lloyd
+MID_MISSION_H_S201802YEAR02_A2: Remporter la grande bataille contre Lloyd,\nle loup blanc, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A3: Lloyd
+MID_MISSION_H_S201802YEAR02_A3: Remporter la grande bataille contre Lloyd,\nle loup blanc, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A4: Lloyd
+MID_MISSION_H_S201802YEAR02_A4: Remporter la grande bataille contre Lloyd,\nle loup blanc, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A5: Lloyd
+MID_MISSION_H_S201802YEAR02_A5: Remporter la grande bataille contre Lloyd,\nle loup blanc, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A6: Michalis
+MID_MISSION_H_S201802YEAR02_A6: Remporter la grande bataille contre\nMichalis, le roi ambitieux.
+MID_MISSION_S201802YEAR02_A7: Michalis
+MID_MISSION_H_S201802YEAR02_A7: Remporter la grande bataille contre Michalis,\nle roi ambitieux, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A8: Michalis
+MID_MISSION_H_S201802YEAR02_A8: Remporter la grande bataille contre Michalis,\nle roi ambitieux, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A9: Michalis
+MID_MISSION_H_S201802YEAR02_A9: Remporter la grande bataille contre Michalis,\nle roi ambitieux, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A10: Michalis
+MID_MISSION_H_S201802YEAR02_A10: Remporter la grande bataille contre Michalis,\nle roi ambitieux, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A11: Xander
+MID_MISSION_H_S201802YEAR02_A11: Remporter la grande bataille contre\nXander, le chevalier d'élite.
+MID_MISSION_S201802YEAR02_A12: Xander
+MID_MISSION_H_S201802YEAR02_A12: Remporter la grande bataille contre Xander,\nle chevalier d'élite, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A13: Xander
+MID_MISSION_H_S201802YEAR02_A13: Remporter la grande bataille contre Xander,\nle chevalier d'élite, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A14: Xander
+MID_MISSION_H_S201802YEAR02_A14: Remporter la grande bataille contre Xander,\nle chevalier d'élite, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A15: Xander
+MID_MISSION_H_S201802YEAR02_A15: Remporter la grande bataille contre Xander,\nle chevalier d'élite, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A16: Narcian
+MID_MISSION_H_S201802YEAR02_A16: Remporter la grande bataille contre\nNarcian, le général wyverne.
+MID_MISSION_S201802YEAR02_A17: Narcian
+MID_MISSION_H_S201802YEAR02_A17: Remporter la grande bataille contre Narcian,\nle général wyverne, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A18: Narcian
+MID_MISSION_H_S201802YEAR02_A18: Remporter la grande bataille contre Narcian,\nle général wyverne, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A19: Narcian
+MID_MISSION_H_S201802YEAR02_A19: Remporter la grande bataille contre Narcian,\nle général wyverne, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A20: Narcian
+MID_MISSION_H_S201802YEAR02_A20: Remporter la grande bataille contre Narcian,\nle général wyverne, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A21: Nabarl
+MID_MISSION_H_S201802YEAR02_A21: Remporter la grande bataille contre\nNabarl, l'épée taciturne.
+MID_MISSION_S201802YEAR02_A22: Nabarl
+MID_MISSION_H_S201802YEAR02_A22: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A23: Nabarl
+MID_MISSION_H_S201802YEAR02_A23: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A24: Nabarl
+MID_MISSION_H_S201802YEAR02_A24: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A25: Nabarl
+MID_MISSION_H_S201802YEAR02_A25: Remporter la grande bataille contre Nabarl,\nl'épée taciturne, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A26: Daraen
+MID_MISSION_H_S201802YEAR02_A26: Remporter la grande bataille contre\nDaraen, la stratège sensée.
+MID_MISSION_S201802YEAR02_A27: Daraen
+MID_MISSION_H_S201802YEAR02_A27: Remporter la grande bataille contre Daraen,\nla stratège sensée, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A28: Daraen
+MID_MISSION_H_S201802YEAR02_A28: Remporter la grande bataille contre Daraen,\nla stratège sensée, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A29: Daraen
+MID_MISSION_H_S201802YEAR02_A29: Remporter la grande bataille contre Daraen,\nla stratège sensée, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A30: Daraen
+MID_MISSION_H_S201802YEAR02_A30: Remporter la grande bataille contre Daraen,\nla stratège sensée, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802YEAR02_A31: Ursula
+MID_MISSION_H_S201802YEAR02_A31: Remporter la grande bataille contre\nUrsula, l'oiseau bleu.
+MID_MISSION_S201802YEAR02_A32: Ursula
+MID_MISSION_H_S201802YEAR02_A32: Remporter la grande bataille contre Ursula,\nl'oiseau bleu, en Infernal avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201802YEAR02_A33: Ursula
+MID_MISSION_H_S201802YEAR02_A33: Remporter la grande bataille contre Ursula,\nl'oiseau bleu, en Infernal avec une équipe\ncomposée exclusivement d'unités cuirassées.
+MID_MISSION_S201802YEAR02_A34: Ursula
+MID_MISSION_H_S201802YEAR02_A34: Remporter la grande bataille contre Ursula,\nl'oiseau bleu, en Infernal avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201802YEAR02_A35: Ursula
+MID_MISSION_H_S201802YEAR02_A35: Remporter la grande bataille contre Ursula,\nl'oiseau bleu, en Infernal avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201802TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201802TAPBTL01_D01_A1: Boss
+MID_MISSION_H_S201802TAPBTL01_D01_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D01_A2: Niveau
+MID_MISSION_H_S201802TAPBTL01_D01_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201802TAPBTL01_D02_A1: Boss
+MID_MISSION_H_S201802TAPBTL01_D02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D02_A2: Niveau
+MID_MISSION_H_S201802TAPBTL01_D02_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201802TAPBTL01_D03_A1: Boss
+MID_MISSION_H_S201802TAPBTL01_D03_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D03_A2: Niveau
+MID_MISSION_H_S201802TAPBTL01_D03_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201802TAPBTL01_D04_A1: Boss
+MID_MISSION_H_S201802TAPBTL01_D04_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL01_D04_A2: Niveau
+MID_MISSION_H_S201802TAPBTL01_D04_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201802TAPBTL02_A1: Boss
+MID_MISSION_H_S201802TAPBTL02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL02_A2: Boss
+MID_MISSION_H_S201802TAPBTL02_A2: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201802TAPBTL02_A3: Niveau
+MID_MISSION_H_S201802TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MPID_愛の祭エリウッド: Eliwood
+MPID_愛の祭ヘクトル: Hector
+MPID_愛の祭リリーナ: Lilina
+MPID_愛の祭リン: Lyn
+MPID_愛の祭ロイ: Roy
+MPID_HONOR_愛の祭エリウッド: Soupirant dévoué
+MPID_HONOR_愛の祭ヘクトル: Guerrier obstiné
+MPID_HONOR_愛の祭リリーナ: Rose indécise
+MPID_HONOR_愛の祭リン: Étreinte du vent
+MPID_HONOR_愛の祭ロイ: Amant généreux
+MPID_H_愛の祭エリウッド: Noble sincère de Pherae. Aimerait profiter\ndu festival avec ses amis Hector et Lyn.\nApparaît dans Fire Emblem: The Blazing\nBlade.
+MPID_H_愛の祭ヘクトル: Ami d'Eliwood et frère du marquis d'Ositia.\nEspère gagner le grand tournoi. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_H_愛の祭リリーナ: Noble d'Ositia et amie d'enfance de Roy.\nSon objectif est de trouver des cadeaux\npour ses proches. Apparaît dans Fire\nEmblem: The Binding Blade.
+MPID_H_愛の祭リン: Noble de Caelin dont le nom complet est\nLyndis. Tente d'exprimer ses sentiments avec\ndes cadeaux plutôt que des mots. Apparaît\ndans Fire Emblem: The Blazing Blade.
+MPID_H_愛の祭ロイ: Fils d'Eliwood, marquis de Pherae. A décidé\nd'assister au festival après avoir été invité par\nLilina. Apparaît dans Fire Emblem: The\nBinding Blade.
+MPID_VOICE_愛の祭エリウッド: Yuri Lowenthal
+MPID_VOICE_愛の祭ヘクトル: Patrick Seitz
+MPID_VOICE_愛の祭リリーナ: Julie Kliewer
+MPID_VOICE_愛の祭リン: Wendee Lee
+MPID_VOICE_愛の祭ロイ: Ray Chase
+MPID_ILLUST_愛の祭エリウッド: Ito Misei (伊藤未生)
+MPID_ILLUST_愛の祭ヘクトル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_愛の祭リリーナ: BUNBUN
+MPID_ILLUST_愛の祭リン: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_愛の祭ロイ: BUNBUN
+MID_SEQUENTIAL_MAP_TERM_201802: Vent du destin
+MSID_ウイングソード: Épée ailée
+MSID_ヒノカの紅薙刀: Lance d'Hinoka
+MSID_バシリコス: Basilikos
+MSID_フェリシアの氷皿: Plat de Felicia
+MSID_第7迷宮の覇者1: Assaut réussi G 1
+MSID_第7迷宮の覇者2: Assaut réussi G 2
+MSID_第7迷宮の覇者3: Assaut réussi G 3
+MSID_カサブランカ: Casablanca
+MSID_カサブランカ＋: Casablanca +
+MSID_狂斧アルマーズ: Armadès berserk
+MSID_グラーティア: Gratia
+MSID_グラーティア＋: Gratia +
+MSID_青のプレゼント箱: Cadeau bleu
+MSID_青のプレゼント箱＋: Cadeau bleu +
+MSID_緑のプレゼント箱: Cadeau vert
+MSID_緑のプレゼント箱＋: Cadeau vert +
+MSID_HP攻撃1: PV/Atq 1
+MSID_HP攻撃2: PV/Atq 2
+MSID_攻撃速さの絆1: Lien Atq/Vit 1
+MSID_攻撃速さの絆2: Lien Atq/Vit 2
+MSID_攻撃速さの絆3: Lien Atq/Vit 3
+MSID_弓の技量1: Tech. arc 1
+MSID_弓の技量2: Tech. arc 2
+MSID_弓の技量3: Tech. arc 3
+MSID_重装のブーツ: Bottes blindées
+MSID_H_ウイングソード: Efficace contre les unités en armure\net la cavalerie.
+MSID_H_ヒノカの紅薙刀: Si l'unité se trouve à 2 cases ou moins d'un\nfantassin ou d'une unité volante alliée,\nconfère Atq/Vit +4 pendant le combat.
+MSID_H_バシリコス: Accélère l'activation des aptitudes\nspéciales (compteur -1).
+MSID_H_フェリシアの氷皿: Après le combat, si l'unité a attaqué, inflige\nDéf/Rés -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la\nfin de leur phase. Les dégâts sont calculés\navec la Déf ou Rés de l'ennemi (la valeur\nla plus faible).
+MSID_H_ファルシオン改: Efficace contre les dragons. Tous les 2 tours,\nrend 10 PV à l'unité en début de tour.
+MSID_H_ファルシオン覚醒改: Efficace contre les dragons. Tous les 2 tours,\nrend 10 PV à l'unité en début de tour.
+MSID_H_ファルシオン外伝改: Efficace contre les dragons. Tous les 2 tours,\nrend 10 PV à l'unité en début de tour.
+MSID_H_エッケザックス改: En début de tour, inflige Déf -6 aux ennemis\n(en dehors des dragons) à 2 cases ou moins\njusqu'à la fin de leur phase.
+MSID_H_先導R歩行飛行: Les fantassins et unités volantes alliés\nà 2 cases ou moins peuvent se déplacer\njusqu'à une case adjacente à l'unité.
+MSID_H_TP変動R魔: Si l'ennemi utilise la magie, compteur -1.\n(S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.)
+MSID_H_大紋章R全2: Confère Atq/Vit/Déf/Rés +2 aux alliés\nà 2 cases ou moins pendant le combat.
+MSID_H_絆R全4: Si l'unité se trouve à côté d'un allié, confère\nAtq/Vit/Déf/Rés +4 pendant le combat.
+MSID_H_連撃消耗: Si l'unité initie le combat et que PV = 100 %,\nl'unité attaque deux fois puis subit 5 dégâts\naprès le combat.
+MSID_H_第7迷宮の覇者1: Confère Déf +1.
+MSID_H_第7迷宮の覇者2: Confère Déf +2.
+MSID_H_第7迷宮の覇者3: Confère Déf +3.
+MSID_H_カサブランカ: Si l'ennemi utilise un arc, une dague,\nla magie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_カサブランカ＋: Si l'ennemi utilise un arc, une dague,\nla magie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_狂斧アルマーズ: Accélère l'activation des aptitudes spéciales\n(compteur -1). En début de tour, si\nPV ≤ 75 % et que l'aptitude spéciale est\nactivée en attaquant, compteur -1. Si\nl'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_グラーティア: Efficace contre les unités volantes. Si\nl'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_グラーティア＋: Efficace contre les unités volantes. Si\nl'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_青のプレゼント箱: Si l'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_青のプレゼント箱＋: Si l'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_緑のプレゼント箱: Si l'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_緑のプレゼント箱＋: Si l'ennemi utilise un arc, une dague, la\nmagie ou un bâton, les bonus dont il\nbénéficie grâce à des aptitudes comme\nPrudence ou Ralliement sont annulés\npendant le combat.
+MSID_H_HP攻撃1: Confère PV +3 et Atq +1.
+MSID_H_HP攻撃2: Confère PV +4 et Atq +2.
+MSID_H_攻撃速さの絆1: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Vit +3 pendant le combat.
+MSID_H_攻撃速さの絆2: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Vit +4 pendant le combat.
+MSID_H_攻撃速さの絆3: Si l'unité se trouve à côté d'un allié,\nconfère Atq/Vit +5 pendant le combat.
+MSID_H_弓の技量1: Si l'unité utilise un arc et survit, elle reçoit\nPA x 1,5. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_弓の技量2: Si l'unité survit, toutes les unités dotées d'arcs\nde l'équipe reçoivent PA x 1,5. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
+MSID_H_弓の技量3: Si l'unité survit, toutes les unités dotées d'arcs\nde l'équipe reçoivent PA x 2. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
+MSID_H_重装のブーツ: Si PV = 100 % en début de tour, l'unité\npeut se déplacer d'une case supplémentaire\n(valable pour ce tour uniquement, non\ncumulable).
+MID_CHAPTER_TITLE_CX017: Annexe 18
+MID_CHAPTER_CX017: L'amour toujours
+MID_STAGE_TITLE_X0171: Ann. 18 - Acte 1
+MID_STAGE_TITLE_X0172: Ann. 18 - Acte 2
+MID_STAGE_TITLE_X0173: Ann. 18 - Acte 3
+MID_STAGE_X0171: Enfants dévoués
+MID_STAGE_X0172: Pères dévoués
+MID_STAGE_X0173: Sentiments sincères
+MID_STAGE_HONOR_V0168: Quotidien
+MID_STAGE_V0168: Phase 8
+MID_STAGE_HONOR_V0169: Quotidien
+MID_STAGE_V0169: Phase 9
+MID_STAGE_HONOR_V0170: Quotidien
+MID_STAGE_V0170: Phase 10
+MID_STAGE_HONOR_V0171: Quotidien
+MID_STAGE_V0171: Phase 11
+MID_STAGE_HONOR_V0172: Quotidien
+MID_STAGE_V0172: Phase 12
+MID_STAGE_HONOR_V0173: Quotidien
+MID_STAGE_V0173: Phase 13
+MID_STAGE_HONOR_V0174: Quotidien
+MID_STAGE_V0174: Phase 14
+MID_STAGE_HONOR_V0175: Quotidien
+MID_STAGE_V0175: Phase 15
+MID_STAGE_HONOR_V0176: Quotidien
+MID_STAGE_V0176: Phase 16
+MID_STAGE_HONOR_V0177: Quotidien
+MID_STAGE_V0177: Phase 17
+MID_STAGE_HONOR_V0178: Quotidien
+MID_STAGE_V0178: Phase 18
+MID_STAGE_HONOR_V0179: Quotidien
+MID_STAGE_V0179: Phase 19
+MID_STAGE_HONOR_V0180: Quotidien
+MID_STAGE_V0180: Phase 20
+MID_STAGE_HONOR_V0201: Entraînement
+MID_STAGE_V0201: Rapproché
+MID_STAGE_HONOR_V0202: Entraînement
+MID_STAGE_V0202: Distance
+MID_STAGE_HONOR_V0203: Entraînement
+MID_STAGE_V0203: Arcs
+MID_STAGE_HONOR_V0204: Entraînement
+MID_STAGE_V0204: Magie
+MID_STAGE_HONOR_V0205: Entraînement
+MID_STAGE_V0205: Complet
+MID_STAGE_HONOR_V0211: Shadow Dragon
+MID_STAGE_V0211: Nabarl
+MID_STAGE_HONOR_V0212: Shadow Dragon
+MID_STAGE_V0212: Linde
+MID_STAGE_HONOR_V0213: Shadow Dragon
+MID_STAGE_V0213: Minerva
+MID_STAGE_HONOR_T0025: Héros liés
+MID_STAGE_T0025: C & A
+MID_STAGE_TITLE_SB_0007: 7e assaut
+MID_CHAPTER_ST_CX009: Annexes 17 et 18
+MID_STAGE_TITLE_ST_X0016: Annexe 17
+MID_STAGE_TITLE_ST_X0017: Annexe 18
+MID_STAGE_TITLE_ST_X1017: Annexes 17 et 18
+MID_MARKS_TUTORIAL_DIALOG_00: Une carte spéciale pour Xander !
+MID_SPECIALMAP_TUTORIAL_DIALOG_00: Recrutez des héros en gagnant.
+MID_SPECIALMAP_TUTORIAL_DIALOG_01: ◆ Héros du jour ◆\nChaque jour, l'un de ces héros\nsera disponible dans une bataille :\nFelicia, Wrys, Olivia, Stahl,\nSophia, Virion, Hana, Subaki,\nDonnel, Lissa, Gunter, Cecilia.
+MID_SPECIALMAP_TUTORIAL_DIALOG_02: ◆ Grande bataille du jour ◆\nRetrouvez les héros suivants :\nNarcian, le général wyverne,\nNabarl, l'épée taciturne, Daraen,\nla stratège sensée, Ursula,\nl'oiseau bleu, Lloyd, le loup blanc,\nMichalis, le roi ambitieux, et\nXander, le chevalier d'élite.
+MID_SPECIALMAP_TUTORIAL_DIALOG_03: ◆ Autres batailles ◆\n\nEn plus des batailles de héros et\ndes grandes batailles, d'autres\ndéfis à durée limitée vous\nattendent dans les cartes\nspéciales.
+MID_TAP_BATTLE_DATA_TITLE_0001: Labyrinthe de brumes
+MID_MUSIC_AUTHORITY_0: Fire Emblem:\nShadow Dragon and the Blade of Light
+MID_MUSIC_AUTHORITY_1: Fire Emblem: Gaiden
+MID_MUSIC_AUTHORITY_2: Fire Emblem: Mystery of the Emblem
+MID_MUSIC_AUTHORITY_3: Fire Emblem:\nGenealogy of the Holy War
+MID_MUSIC_AUTHORITY_4: Fire Emblem: Thracia 776
+MID_MUSIC_AUTHORITY_5: Fire Emblem: The Binding Blade
+MID_MUSIC_AUTHORITY_6: Fire Emblem: The Blazing Blade
+MID_MUSIC_AUTHORITY_7: Fire Emblem: The Sacred Stones
+MID_MUSIC_AUTHORITY_8: Fire Emblem: Path of Radiance
+MID_MUSIC_AUTHORITY_9: Fire Emblem: Radiant Dawn
+MID_MUSIC_AUTHORITY_10: Fire Emblem: Shadow Dragon
+MID_MUSIC_AUTHORITY_11: Fire Emblem:\nNew Mystery of the Emblem
+MID_MUSIC_AUTHORITY_12: Fire Emblem Awakening
+MID_MUSIC_AUTHORITY_13: Fire Emblem Fates
+MID_MUSIC_AUTHORITY_14: Fire Emblem Echoes:\nShadows of Valentia
+MID_MUSIC_AUTHORITY_15: Fire Emblem Warriors
+MID_MUSIC_AUTHORITY_16: Fire Emblem Heroes
+MID_MUSIC_NAME_BGM_MAP_FE06_01: Vers des cieux lointains -\nLe départ de Roy
+MID_MUSIC_NAME_BGM_MAP_FE12_02: Le courage de changer l'histoire
+MID_MUSIC_NAME_BGM_MAP_FE13_01: Destinée (en flammes)
+MID_TAP_BATTLE_STAGE_FLOOR_1: Niveau 1
+MID_TAP_BATTLE_STAGE_FLOOR_2: Niveau 2
+MID_TAP_BATTLE_STAGE_FLOOR_3: Niveau 3
+MID_TAP_BATTLE_STAGE_FLOOR_4: Niveau 4
+MID_TAP_BATTLE_STAGE_FLOOR_5: Niveau 5
+MID_TAP_BATTLE_STAGE_FLOOR_6: Niveau 6
+MID_TAP_BATTLE_STAGE_FLOOR_7: Niveau 7
+MID_TAP_BATTLE_STAGE_FLOOR_8: Niveau 8
+MID_TAP_BATTLE_STAGE_FLOOR_9: Niveau 9
+MID_TAP_BATTLE_STAGE_FLOOR_10: Niveau 10
+MID_TAP_BATTLE_STAGE_FLOOR_11: Niveau 11
+MID_TAP_BATTLE_STAGE_FLOOR_12: Niveau 12
+MID_TAP_BATTLE_STAGE_FLOOR_13: Niveau 13
+MID_TAP_BATTLE_STAGE_FLOOR_14: Niveau 14
+MID_TAP_BATTLE_STAGE_FLOOR_15: Niveau 15
+MID_TAP_BATTLE_STAGE_FLOOR_16: Niveau 16
+MID_TAP_BATTLE_STAGE_FLOOR_17: Niveau 17
+MID_TAP_BATTLE_STAGE_FLOOR_18: Niveau 18
+MID_TAP_BATTLE_STAGE_FLOOR_19: Niveau 19
+MID_TAP_BATTLE_STAGE_FLOOR_20: Niveau 20
+MID_TAP_BATTLE_STAGE_FLOOR_21: Niveau 21
+MID_TAP_BATTLE_STAGE_FLOOR_22: Niveau 22
+MID_TAP_BATTLE_STAGE_FLOOR_23: Niveau 23
+MID_TAP_BATTLE_STAGE_FLOOR_24: Niveau 24
+MID_TAP_BATTLE_STAGE_FLOOR_25: Niveau 25
+MID_TAP_BATTLE_STAGE_FLOOR_26: Niveau 26
+MID_TAP_BATTLE_STAGE_FLOOR_27: Niveau 27
+MID_TAP_BATTLE_STAGE_FLOOR_28: Niveau 28
+MID_TAP_BATTLE_STAGE_FLOOR_29: Niveau 29
+MID_TAP_BATTLE_STAGE_FLOOR_30: Niveau 30
+MID_TAP_BATTLE_STAGE_FLOOR_31: Niveau 31
+MID_TAP_BATTLE_STAGE_FLOOR_32: Niveau 32
+MID_TAP_BATTLE_STAGE_FLOOR_33: Niveau 33
+MID_TAP_BATTLE_STAGE_FLOOR_34: Niveau 34
+MID_TAP_BATTLE_STAGE_FLOOR_35: Niveau 35
+MID_TAP_BATTLE_STAGE_FLOOR_36: Niveau 36
+MID_TAP_BATTLE_STAGE_FLOOR_37: Niveau 37
+MID_TAP_BATTLE_STAGE_FLOOR_38: Niveau 38
+MID_TAP_BATTLE_STAGE_FLOOR_39: Niveau 39
+MID_TAP_BATTLE_STAGE_FLOOR_40: Niveau 40
+MID_TAP_BATTLE_STAGE_FLOOR_41: Niveau 41
+MID_TAP_BATTLE_STAGE_FLOOR_42: Niveau 42
+MID_TAP_BATTLE_STAGE_FLOOR_43: Niveau 43
+MID_TAP_BATTLE_STAGE_FLOOR_44: Niveau 44
+MID_TAP_BATTLE_STAGE_FLOOR_45: Niveau 45
+MID_TAP_BATTLE_STAGE_FLOOR_46: Niveau 46
+MID_TAP_BATTLE_STAGE_FLOOR_47: Niveau 47
+MID_TAP_BATTLE_STAGE_FLOOR_48: Niveau 48
+MID_TAP_BATTLE_STAGE_FLOOR_49: Niveau 49
+MID_TAP_BATTLE_STAGE_FLOOR_50: Niveau 50
+MID_TAP_BATTLE_STAGE_FLOOR_51: Niveau 51
+MID_TAP_BATTLE_STAGE_FLOOR_52: Niveau 52
+MID_TAP_BATTLE_STAGE_FLOOR_53: Niveau 53
+MID_TAP_BATTLE_STAGE_FLOOR_54: Niveau 54
+MID_TAP_BATTLE_STAGE_FLOOR_55: Niveau 55
+MID_TAP_BATTLE_STAGE_FLOOR_56: Niveau 56
+MID_TAP_BATTLE_STAGE_FLOOR_57: Niveau 57
+MID_TAP_BATTLE_STAGE_FLOOR_58: Niveau 58
+MID_TAP_BATTLE_STAGE_FLOOR_59: Niveau 59
+MID_TAP_BATTLE_STAGE_FLOOR_60: Niveau 60
+MID_TAP_BATTLE_STAGE_FLOOR_61: Niveau 61
+MID_TAP_BATTLE_STAGE_FLOOR_62: Niveau 62
+MID_TAP_BATTLE_STAGE_FLOOR_63: Niveau 63
+MID_TAP_BATTLE_STAGE_FLOOR_64: Niveau 64
+MID_TAP_BATTLE_STAGE_FLOOR_65: Niveau 65
+MID_TAP_BATTLE_STAGE_FLOOR_66: Niveau 66
+MID_TAP_BATTLE_STAGE_FLOOR_67: Niveau 67
+MID_TAP_BATTLE_STAGE_FLOOR_68: Niveau 68
+MID_TAP_BATTLE_STAGE_FLOOR_69: Niveau 69
+MID_TAP_BATTLE_STAGE_FLOOR_70: Niveau 70
+MID_TAP_BATTLE_STAGE_FLOOR_71: Niveau 71
+MID_TAP_BATTLE_STAGE_FLOOR_72: Niveau 72
+MID_TAP_BATTLE_STAGE_FLOOR_73: Niveau 73
+MID_TAP_BATTLE_STAGE_FLOOR_74: Niveau 74
+MID_TAP_BATTLE_STAGE_FLOOR_75: Niveau 75
+MID_TAP_BATTLE_STAGE_FLOOR_76: Niveau 76
+MID_TAP_BATTLE_STAGE_FLOOR_77: Niveau 77
+MID_TAP_BATTLE_STAGE_FLOOR_78: Niveau 78
+MID_TAP_BATTLE_STAGE_FLOOR_79: Niveau 79
+MID_TAP_BATTLE_STAGE_FLOOR_80: Niveau 80
+MID_TAP_BATTLE_STAGE_FLOOR_81: Niveau 81
+MID_TAP_BATTLE_STAGE_FLOOR_82: Niveau 82
+MID_TAP_BATTLE_STAGE_FLOOR_83: Niveau 83
+MID_TAP_BATTLE_STAGE_FLOOR_84: Niveau 84
+MID_TAP_BATTLE_STAGE_FLOOR_85: Niveau 85
+MID_TAP_BATTLE_STAGE_FLOOR_86: Niveau 86
+MID_TAP_BATTLE_STAGE_FLOOR_87: Niveau 87
+MID_TAP_BATTLE_STAGE_FLOOR_88: Niveau 88
+MID_TAP_BATTLE_STAGE_FLOOR_89: Niveau 89
+MID_TAP_BATTLE_STAGE_FLOOR_90: Niveau 90
+MID_TAP_BATTLE_STAGE_FLOOR_91: Niveau 91
+MID_TAP_BATTLE_STAGE_FLOOR_92: Niveau 92
+MID_TAP_BATTLE_STAGE_FLOOR_93: Niveau 93
+MID_TAP_BATTLE_STAGE_FLOOR_94: Niveau 94
+MID_TAP_BATTLE_STAGE_FLOOR_95: Niveau 95
+MID_TAP_BATTLE_STAGE_FLOOR_96: Niveau 96
+MID_TAP_BATTLE_STAGE_FLOOR_97: Niveau 97
+MID_TAP_BATTLE_STAGE_FLOOR_98: Niveau 98
+MID_TAP_BATTLE_STAGE_FLOOR_99: Niveau 99
+MID_TAP_BATTLE_STAGE_FLOOR_100: Niveau 100
+MID_TAP_BATTLE_STAGE_TITLE_1_5: Niveaux 1-5
+MID_TAP_BATTLE_STAGE_TITLE_6_10: Niveaux 6-10
+MID_TAP_BATTLE_STAGE_TITLE_11_15: Niveaux 11-15
+MID_TAP_BATTLE_STAGE_TITLE_16_20: Niveaux 16-20
+MID_TAP_BATTLE_STAGE_TITLE_21_25: Niveaux 21-25
+MID_TAP_BATTLE_STAGE_TITLE_26_30: Niveaux 26-30
+MID_TAP_BATTLE_STAGE_TITLE_31_35: Niveaux 31-35
+MID_TAP_BATTLE_STAGE_TITLE_36_40: Niveaux 36-40
+MID_TAP_BATTLE_STAGE_TITLE_41_45: Niveaux 41-45
+MID_TAP_BATTLE_STAGE_TITLE_46_50: Niveaux 46-50
+MID_TAP_BATTLE_STAGE_TITLE_51_55: Niveaux 51-55
+MID_TAP_BATTLE_STAGE_TITLE_56_60: Niveaux 56-60
+MID_TAP_BATTLE_STAGE_TITLE_61_65: Niveaux 61-65
+MID_TAP_BATTLE_STAGE_TITLE_66_70: Niveaux 66-70
+MID_TAP_BATTLE_STAGE_TITLE_71_75: Niveaux 71-75
+MID_TAP_BATTLE_STAGE_TITLE_76_80: Niveaux 76-80
+MID_TAP_BATTLE_STAGE_TITLE_81_85: Niveaux 81-85
+MID_TAP_BATTLE_STAGE_TITLE_86_90: Niveaux 86-90
+MID_TAP_BATTLE_STAGE_TITLE_91_95: Niveaux 91-95
+MID_TAP_BATTLE_STAGE_TITLE_96_100: Niveaux 96-100

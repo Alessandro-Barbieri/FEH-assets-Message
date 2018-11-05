@@ -1,0 +1,38 @@
+[Heroes Archive] (ELTSHAN)
+
+
+Heroes Message Name: Message
+
+
+MID_ELTSHAN_HOME1: アルフォンス王子は思慮深く、\n人を思いやる心を持っている。\n良い王になられるだろう。
+MID_ELTSHAN_HOME2: すまない、ラケシス…\nお前を置いて死にはしない、\nそう約束したというのに…
+MID_ELTSHAN_HOME3: 俺は元の世界で死を覚悟した身…\nだが、何の因果かこうしてここにいる。\nこれもまた運命ということか…
+MID_ELTSHAN_HOME4: 騎士の忠誠は絶対だ。\n妹を悲しませることになろうと…\n俺は騎士の生き方しかできぬ。\n
+MID_ELTSHAN_HOME5: 我が友シグルドの息子セリス…\n本来ならば、このような地で\n会うことなどあり得ぬのだが…
+MID_ELTSHAN_FRIEND: 我が名はエルトシャン。\n$Nfにかわり、\n友好の挨拶に参じた。
+MID_ELTSHAN_LEVEL1: 気を緩めず、\nさらなる高みを目指す。
+MID_ELTSHAN_LEVEL2: 騎士として、\n常に己を高めねば。
+MID_ELTSHAN_LEVEL3: いかんな。\n腕が鈍ったか…
+MID_ELTSHAN_SKILL: 授かったこの力、\n決して無駄にはしない。
+MID_ELTSHAN_JOIN: 我が名はエルトシャン。\n主君に仇なす輩は、\n我が剣をもって討ち果たす。
+MID_ELTSHAN_STRONGEST: この地に呼ばれ、君と出会った時…\n奇妙なことだが、\n啓示のようなものがあった。$k$pこの世界において、\n俺が忠誠を尽くす主君は\n君だ…という啓示だ。$k$p騎士は、主君がいかなる人物であろうと\n絶対の忠誠を尽くすもの…\nゆえにその生き方に不満などなかった。$k$pだが、こうして君と長い間共にいて…\n我が剣を捧げる相手が\n君であったことを心から感謝している。$k$p騎士は主君を選べぬ。\nだからこそ、君のような主君と\n巡り合えたことをうれしく思う。$k$p我が剣、我が忠誠は\n君のためにある。\nここに改めて、誓おう。
+MID_ELTSHAN_VOICE01: はぁっ！
+MID_ELTSHAN_VOICE02: せいっ！
+MID_ELTSHAN_VOICE03: うああっ！
+MID_ELTSHAN_VOICE04: やるな…
+MID_ELTSHAN_VOICE05: ミストルティンよ！
+MID_ELTSHAN_VOICE06: 容赦はしない
+MID_ELTSHAN_VOICE07: 近寄るな…！
+MID_ELTSHAN_VOICE08: 破ってみせよ！
+MID_ELTSHAN_VOICE09: 許せ…
+MID_ELTSHAN_VOICE10: ふっ
+MID_ELTSHAN_VOICE11: 私のような堅物と話しても楽くはないと思うが…
+MID_ELTSHAN_VOICE12: ！？　…驚かせるな、敵襲かと思ったぞ
+MID_ELTSHAN_VOICE13: 友の為に戦うのが騎士の生き方だ
+MID_ELTSHAN_VOICE14: 騎士の名に恥じない戦いをするだけだ
+MID_ELTSHAN_VOICE15: これは魔剣ミストルティン…十二聖戦士の武器の一つだ
+MID_ELTSHAN_VOICE16: …我が祖国は、滅びたのだろうか…
+MID_ELTSHAN_VOICE17: 私は騎士として主君を…あなたを守ろう
+MID_ELTSHAN_VOICE18: ああ
+MID_ELTSHAN_VOICE19: どうすべきか…
+MID_ELTSHAN_VOICE20: 行くぞ！

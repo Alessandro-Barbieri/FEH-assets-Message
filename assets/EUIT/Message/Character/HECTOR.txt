@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_HOME1: Devo dire che hai un bel castello.\nPerò non sono tipo da stare rinchiuso\ntutto il giorno, andiamo a combattere!
+MID_HECTOR_HOME2: La mia ascia ha un nome: Fragore.\nDevi sapere che un tempo apparteneva\na un berserker leggendario.$k$pHo anche avuto modo di incontrarlo.\nSembrava un tipo estremamente\npericoloso, puoi credermi.
+MID_HECTOR_HOME3: Mi alleno spesso con uno dei miei\npiù cari amici, Eliwood. Riesce persino\na battermi. La metà delle volte!
+MID_HECTOR_HOME4: Mi annoio. Perché non ci alleniamo?\nTi prometto che ci andrò piano!
+MID_HECTOR_HOME5: Dicono che un buon cavaliere debba\nmantenere la sua posizione. Io non\nsono d'accordo, non fa per me.
+MID_HECTOR_FRIEND: Sei $Nu, vero?\nIo sono Hector. Ti porto i saluti di\n$Nf.
+MID_HECTOR_LEVEL1: Per gli dèi! Ora sì che si ragiona!
+MID_HECTOR_LEVEL2: Non male come risultato.\nOra devo continuare così.
+MID_HECTOR_LEVEL3: Mah! Se non miglioro,\nEliwood mi supererà.
+MID_HECTOR_SKILL: Ti mostrerò di cosa è capace\nHector di Ositia!
+MID_HECTOR_JOIN: Io sono Hector di Ositia. Il mio paese\nè governato da mio fratello Ather.
+MID_HECTOR_STRONGEST: $GAmico mio,Amica mia|, non sono un poeta, quindi\ncerca di capirmi. Ho difficoltà a trovare\nle parole giuste per esprimermi.$k$pPrima di unirmi a te, credevo che\nin battaglia sarebbe stato sufficiente\ncontinuare ad assestare colpi.$k$pIn questo modo ne sarei sempre\nuscito vincitore e avrei riportato\ntutti quanti a casa sani e salvi.$k$pPoi ho notato che tu, essendo $Guno,una|\nstratega, distingui la linea che separa\nla vita dalla morte come nessun altro.$k$pNon so perché, ma la cosa mi ha\nmolto colpito. Sappi comunque che ti\nproteggerò, se farai lo stesso con me.
+MID_HECTOR_VOICE01: おらっ！
+MID_HECTOR_VOICE02: おらぁっ！
+MID_HECTOR_VOICE03: うああっ！
+MID_HECTOR_VOICE04: Better than I thought!
+MID_HECTOR_VOICE05: Non mi arrenderò!
+MID_HECTOR_VOICE06: Hai coraggio vedo!
+MID_HECTOR_VOICE07: Basta con le chiacchiere!
+MID_HECTOR_VOICE08: Prendi questo!
+MID_HECTOR_VOICE09: Not here!
+MID_HECTOR_VOICE10: Heh
+MID_HECTOR_VOICE11: You need me for something, friend?
+MID_HECTOR_VOICE12: Oho! Feels like you're ready to head out. Me too!
+MID_HECTOR_VOICE13: Push your limits—that's what I say. But don't burn yourself out.
+MID_HECTOR_VOICE14: How about we spar a bit? What say you?
+MID_HECTOR_VOICE15: I know we're all in it together. Just letting you know: I'm ALL in.
+MID_HECTOR_VOICE16: So...I'm going to die on the battlefield...
+MID_HECTOR_VOICE17: I'd better keep an eye on you. Trouble abounds in battle.
+MID_HECTOR_VOICE18: Oho!
+MID_HECTOR_VOICE19: All right!
+MID_HECTOR_VOICE20: On it!

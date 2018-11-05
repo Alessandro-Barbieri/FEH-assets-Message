@@ -1,0 +1,63 @@
+[Heroes Archive] (ALFONS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_HOME1: Bindet Euch nicht zu sehr an die\nHelden. Es würde einen Abschied\nnur erschweren.
+MID_ALFONS_HOME2: Manche Untertanen waren dagegen,\ndass ich mich Euch anschließe. Aber\nich wollte meinen Beitrag im Kampf$k$pleisten. Andere sagen, dass ich mich\nohnedies nicht so verhalte, wie es von\neinem Prinzen erwartet wird.
+MID_ALFONS_HOME3: Es wäre mir eine Ehre, mit Euch zu\npatrouillieren. Man verläuft sich hier\nleicht. Ich passe lieber auf Euch auf.
+MID_ALFONS_HOME4: Wir sollten mal zusammen ins Archiv\ngehen. Es gibt viel zu erfahren über\ndie Helden anderer Welten.
+MID_ALFONS_HOME5: Ich habe gerade mein Schwert poliert.\nIst es nicht wunderbar? Die Steine im\nGriff leuchten wie weiße Flammen.
+MID_ALFONS_FRIEND: Ihr seid mit $Nf\nbefreundet? Dann ist dies also ein\nalternatives Königreich Askr.$k$pGibt es etwa auch... eine alternative\nVersion von mir?
+MID_ALFONS_LEVEL1: All dies habt Ihr bewirkt,\n$Nu.
+MID_ALFONS_LEVEL2: Nun bin ich genug gestärkt,\num weiterzukämpfen!
+MID_ALFONS_LEVEL3: Ein knapper Sieg. Das nächste\nMal muss besser laufen!
+MID_ALFONS_SKILL: Ich danke Euch von Herzen\nfür Eure Hilfe, o $GBeschwörer,Beschwörerin|.
+MID_ALFONS_STRONGEST: Ich muss Euch gestehen, dass ich\nniemals vorhatte, mit Euch Freund-\nschaft zu schließen, $GBeschwörer,Beschwörerin|.$k$pAber Ihr seid stets da, wenn ich Euch\nbrauche. Und so fühle ich mich...\nunwohl, wenn Ihr mal nicht in meiner$k$pNähe seid. Es ist schon eine\nschwierige Situation.$k$pJe mehr man zu verlieren hat,\ndesto mehr schmerzt der Verlust.$k$pAndere scheinen solch einen\nSchmerz zu umarmen, aber als\nPrinz muss ich stark sein.$k$pEs schien vernünftig, jeden auf\nDistanz zu halten. Aber Ihr habt\nmir gezeigt, wie töricht das ist.$k$pNiemals hätte ich unsere wunderbare\nFreundschaft entdecken können, hätte\nich Euch nicht willkommen geheißen.$k$pAber was wäre ich dann? Ein\nGeringerer, als ich es heute bin.$k$pIch kann nur hoffen, Ihr fühlt auf die\ngleiche Weise.$k$pDoch schwöre ich Euch in jedem\nFall, dass ich Euch beschützen\nwerden.$k$pWir sind Partner,\n$Nu.
+MID_ALFONS_VOICE01: せいっ
+MID_ALFONS_VOICE02: はあっ
+MID_ALFONS_VOICE03: くっ…！
+MID_ALFONS_VOICE04: Drat...
+MID_ALFONS_VOICE05: Wichtig ist nur... die Mission!
+MID_ALFONS_VOICE06: Lasst mich durch!
+MID_ALFONS_VOICE07: Verzeiht!
+MID_ALFONS_VOICE08: Ich ebne den Weg!
+MID_ALFONS_VOICE09: I've lost...
+MID_ALFONS_VOICE10: Heehee
+MID_ALFONS_VOICE11: How about you and I have a little chat?
+MID_ALFONS_VOICE12: We are fortunate to have you with us. I can't imagine a better summoner.
+MID_ALFONS_VOICE13: My greatest wish is to see our realm at peace. And our people, happy again.
+MID_ALFONS_VOICE14: I find it best not to get too attached these days...especially to Heroes.
+MID_ALFONS_VOICE15: Promise you'll never leave us...without warning me first.
+MID_ALFONS_VOICE16: I am striving to be an excellent prince—and to master the use of Heroes.
+MID_ALFONS_VOICE17: I'm glad to have you here. But someday, I'd like to open the way to your world. We could go there together.
+MID_ALFONS_VOICE18: Yes?
+MID_ALFONS_VOICE19: As you will.
+MID_ALFONS_VOICE20: Shall we?
+MID_ALFONS_VOICE21: Fire Emblem
+MID_ALFONS_VOICE22: Shadow Dragon and the Blade of Light
+MID_ALFONS_VOICE23: Gaiden
+MID_ALFONS_VOICE24: Mystery of the Emblem
+MID_ALFONS_VOICE25: Genealogy of the Holy War
+MID_ALFONS_VOICE26: Thracia 776
+MID_ALFONS_VOICE27: The Binding Blade
+MID_ALFONS_VOICE28: The Blazing Blade
+MID_ALFONS_VOICE29: The Sacred Stones
+MID_ALFONS_VOICE30: Path of Radiance
+MID_ALFONS_VOICE31: Radiant Dawn
+MID_ALFONS_VOICE32: Shadow Dragon
+MID_ALFONS_VOICE33: New Mystery of the Emblem
+MID_ALFONS_VOICE34: Awakening
+MID_ALFONS_VOICE35: Fates
+MID_ALFONS_VOICE36: An event has started.
+MID_ALFONS_VOICE37: A big battle has started.
+MID_ALFONS_VOICE38: A strong foe has appeared.
+MID_ALFONS_VOICE39: New Heroes are available.
+MID_ALFONS_VOICE40: Just a moment, please.
+MID_ALFONS_VOICE41: Keep the weapon triangle in mind.
+MID_ALFONS_VOICE42: You can destroy some walls.
+MID_ALFONS_VOICE43: Fliers are weak to arrows.
+MID_ALFONS_VOICE44: To use a unit's Assist Skill, move the unit onto another one.
+MID_ALFONS_VOICE_BRAVE: Brave
+MID_ALFONS_VOICE_HEROES: Heroes

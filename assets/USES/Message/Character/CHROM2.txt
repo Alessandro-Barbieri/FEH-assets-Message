@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM2)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM2_HOME1: Va siendo hora de empezar mi\nentrenamiento diario. De lo contrario,\nseguro que me regañarán.
+MID_CHROM2_HOME2: Me gusta ir a pie, pero la vista\na lomos de mi caballo no está\nnada mal...$k$p¡Qué brisa tan agradable!
+MID_CHROM2_HOME3: ¿En qué piensas?\nTe veo muy $Gensimismado,ensimismada|...$k$p¿Y si echamos una carrera hasta\nesa colina? El aire fresco siempre\nme ayuda a despejar la mente.
+MID_CHROM2_HOME4: ¿Eh? Ah, ¿esta manzana?\nSe la iba a dar a mi caballo,\npero tenía tan buena pinta...$k$p¿Quieres darle un bocado?\n¡Adelante, no seas $Gtímido,tímida|!
+MID_CHROM2_HOME5: ¡Hola, $Nu!\nEstoy almohazando a mi caballo.\nPuedes acariciarlo; no muerde.
+MID_CHROM2_FRIEND: Así que este es tu castillo,\n$Nu...$k$pEs tan impresionante como\nel de $Nf.
+MID_CHROM2_LEVEL1: Conquistaremos el caos.\n¡Reúnanse bajo mi estandarte!
+MID_CHROM2_LEVEL2: Prometo aquí y ahora que\nseguiré apuntando a lo más alto.
+MID_CHROM2_LEVEL3: ¿Esto es todo? ¿En serio?\nSerá culpa mía. ¡Discúlpame!
+MID_CHROM2_SKILL: Juro por mi honor que este\npoder será tu fuerza.
+MID_CHROM2_JOIN: Soy Chrom, príncipe del Sacro Reino\nde Ylisse. ¿Por qué me miras así?\nNo te preocupes; sé montar a caballo.
+MID_CHROM2_STRONGEST: Quiero hacerte una pregunta.\n¿Qué significa para ti la palabra\n"caballero"?$k$p¿Alguien noble que se sacrificaría\npor el bien de sus aliados? Mmm...$k$pUn guerrero que lucha con orgullo,\ny que no se amedrenta en el campo\nde batalla... Entiendo.$k$pPero lo cierto es que yo lo veo\nde otro modo...$k$pSer capaz de sacrificarse por los\ndemás es algo admirable, sin duda.\nNo puede hacerlo cualquiera.$k$pPero si lo piensas... Si haces eso,\nacabas hiriendo a quienes se\npreocupan por ti...$k$pSí, efectivamente. Me refiero\na ti, $Nu.$k$pDebes tomar decisiones difíciles...\npero, si quieres proteger a los demás,\nprimero debes protegerte a ti $Gmismo,misma|.$k$pPodemos ayudarnos mutuamente.\nHablemos de nuestros ideales y de\nlas adversidades que afrontamos.$k$pAhora somos compañeros de armas.\n¡Ese vínculo no se romperá jamás!
+MID_CHROM2_VOICE01: はぁっ！
+MID_CHROM2_VOICE02: むんっ！
+MID_CHROM2_VOICE03: うああっ！
+MID_CHROM2_VOICE04: しまった…！
+MID_CHROM2_VOICE05: ¡Estoy siendo de ayuda!
+MID_CHROM2_VOICE06: ¡A la carga!
+MID_CHROM2_VOICE07: ¡No puedo parar!
+MID_CHROM2_VOICE08: ¡Soy uno con mi caballo!
+MID_CHROM2_VOICE09: I'm sorry...everyone...
+MID_CHROM2_VOICE10: はははっ
+MID_CHROM2_VOICE11: Don't worry. I took a lesson on mounted combat a few years ago.
+MID_CHROM2_VOICE12: Did you call for me?
+MID_CHROM2_VOICE13: Mobility is one of the many strengths of being on horseback. If your friends need help, you can reach them in an instant.
+MID_CHROM2_VOICE14: If you want to learn how to make friends with a horse, just ask Frederick. His best friend is a horse!
+MID_CHROM2_VOICE15: Mastering different combat styles is sure to make me stronger.
+MID_CHROM2_VOICE16: Now that I've been charging around on horseback, the amount of training dummies I've been able to break has increased nearly tenfold...
+MID_CHROM2_VOICE17: If you're ever in trouble, just call for me. Wherever you are, I'll come running with the wind at my back.
+MID_CHROM2_VOICE18: Be right there.
+MID_CHROM2_VOICE19: What now?
+MID_CHROM2_VOICE20: Here to help!

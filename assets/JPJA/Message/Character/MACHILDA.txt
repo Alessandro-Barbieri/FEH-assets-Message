@@ -1,0 +1,38 @@
+[Heroes Archive] (MACHILDA)
+
+
+Heroes Message Name: Message
+
+
+MID_MACHILDA_HOME1: 城も人も規律正しく整然としていて……\nここは素晴らしいところだな。\nきっと国王のお人柄の表れだろう。
+MID_MACHILDA_HOME2: 私は解放軍の一員として戦っていたのだが\n敵に捕らえられてしまって……\nその節は、皆に迷惑をかけた。
+MID_MACHILDA_HOME3: 君がそうやって見守ってくれるから\n皆も安心して戦えるのだろうな。\nいつもありがとう。
+MID_MACHILDA_HOME4: 君がこの国でいちばん美しいと思う場所に\n案内してもらえないか？\n私の恋人にも見せてあげたいんだ。
+MID_MACHILDA_HOME5: 槍の手入れをしていたんだ。\n皆を守れないようなことが\nあってはならないからな。
+MID_MACHILDA_FRIEND: $Nfからの挨拶を\n届けに来た。\n君が息災であればなによりだ。
+MID_MACHILDA_LEVEL1: いまの私に\n敵う者があるものか！
+MID_MACHILDA_LEVEL2: 日頃の鍛錬の賜物だな。
+MID_MACHILDA_LEVEL3: これは……\n失望させてしまったな。
+MID_MACHILDA_SKILL: 全身全霊をもって\n君の期待に応えてみせよう！
+MID_MACHILDA_JOIN: 私はマチルダ。ソフィア解放軍の一員だ。\n戦場では男も女もない。\nいかなる任務でも遂行してみせよう！
+MID_MACHILDA_STRONGEST: あの……少し相談に乗ってくれないか。\n私の恋人の妹のことなんだが……\nどうも彼女に嫌われているようでな。$k$pだが私は、もっと仲良くしたいんだ。\n彼女は恋人に似て、美しく利発で\n武芸にも優れていて……$k$pああ、話がそれてしまったな。\nどうだろう。私はどうすれば……\nなにかする必要はない？$k$pそこまで思っていれば、いつかきっと\nわかってくれる……そうか。\n君がそういうなら信じてみよう。$k$p不思議だな。こんな情けない話も\n君になら自然に話せてしまうんだ。\nこれからも、どうか頼らせてくれ。
+MID_MACHILDA_VOICE01: せやあっ
+MID_MACHILDA_VOICE02: いくぞ！
+MID_MACHILDA_VOICE03: ああああーっ！
+MID_MACHILDA_VOICE04: ばかな…！
+MID_MACHILDA_VOICE05: 身の程を知れ！
+MID_MACHILDA_VOICE06: 悪く思うな！
+MID_MACHILDA_VOICE07: 覚悟！
+MID_MACHILDA_VOICE08: 目ざわりだ
+MID_MACHILDA_VOICE09: 無念だ……
+MID_MACHILDA_VOICE10: ふっ……
+MID_MACHILDA_VOICE11: ははっ、甘えたいのか？
+MID_MACHILDA_VOICE12: この世界も、なかなか興味深いな。
+MID_MACHILDA_VOICE13: 私の恋人は、世界一の男なんだ。
+MID_MACHILDA_VOICE14: 悩みがあるならいつでも言ってくれ。
+MID_MACHILDA_VOICE15: クレアとも、もっと仲良くしたいのだが……
+MID_MACHILDA_VOICE16: この槍はあの人のために……
+MID_MACHILDA_VOICE17: お前と共に戦えること、誇りに思うぞ。
+MID_MACHILDA_VOICE18: いいだろう。
+MID_MACHILDA_VOICE19: 厄介だな……
+MID_MACHILDA_VOICE20: 参る！

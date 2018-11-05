@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: Chi ha un Dono: alla pugna!
+MID_BLESSINGMAP_HELP_DIALOG_01: ◆Parchi dei Doni◆\n"Un luogo paradisiaco in cui\nriposano immensi tesori". È\ncosì che le leggende descrivono\nquesti antichi giardini. Solo gli\neroi leggendari e gli eroi con\nun Dono possono accedere a\nqueste terre sacre.
+MID_BLESSINGMAP_HELP_DIALOG_02: ◆Regole dei Parchi dei Doni◆\nSolo agli eroi leggendari di tipo\nacqua e agli eroi a cui hai\nconferito un Dono dell'acqua è\nconcesso mettere piede nel\nParco dell'acqua. La stessa\nregola si applica per i Parchi del\nvento, della terra e del fuoco.
+MID_BLESSINGMAP_HELP_DIALOG_03: ◆Regole dei Parchi dei Doni◆\n・ La tua squadra deve essere\ncomposta da 4 unità.\n・ La tua squadra non può\ncontenere eroi duplicati.\n・ Non puoi usare la protezione\nluce.
+MID_BLESSINGMAP_HELP_DIALOG_04: ◆Effetti leggendari◆\n・ Nei Parchi dei Doni, gli effetti\nderivanti dagli eroi leggendari\nsaranno sempre attivi, a\nprescindere dalla stagione.\n・ Per conferire un Dono, tocca\nUnità, poi Crescita avanzata e\ninfine Conferisci Dono.
+MID_STAGE_SELECT_BLESSING_GARDEN: Parchi dei Doni
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: Parco dell'acqua
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: Parco del vento
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: Parco della terra
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: Parco del fuoco
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: Possono entrarvi solo eroi leggendari di\ntipo acqua ed eroi con il Dono dell'acqua.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: Possono entrarvi solo eroi leggendari di\ntipo vento ed eroi con il Dono del vento.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: Possono entrarvi solo eroi leggendari di\ntipo terra ed eroi con il Dono della terra.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: Possono entrarvi solo eroi leggendari di\ntipo fuoco ed eroi con il Dono del fuoco.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: Solo le squadre formate da eroi\nleggendari di tipo fuoco e da eroi\ncon il Dono del fuoco possono\naccedere a questa mappa.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: Solo le squadre formate da eroi\nleggendari di tipo acqua e da eroi\ncon il Dono dell'acqua possono\naccedere a questa mappa.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: Solo le squadre formate da eroi\nleggendari di tipo vento e da eroi\ncon il Dono del vento possono\naccedere a questa mappa.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: Solo le squadre formate da eroi\nleggendari di tipo terra e da eroi\ncon il Dono della terra possono\naccedere a questa mappa.
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: Bonus prima visita: Parchi dei Doni
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $aMinuti alla nuova mappa: $a0.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $aOre alla nuova mappa: $a0.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $aGiorni alla nuova mappa: $a0.
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: Hai sbloccato i Parchi dei Doni.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: La tua squadra deve contenere 4 unità.\nGli eroi duplicati non sono ammessi.
+MID_OCCUPATION_MAP_FORTRESS: Fortino
+MID_OCCUPATION_MAP_HUB: Campo
+MID_OCCUPATION_MAP_SCORE_KILL: Sconfitti
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: Campi
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: PS fortino
+MID_OCCUPATION_MAP_SCORE_BONUS: Bonus
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: Lotta di potere
+MID_OCCUPATION_STAGE_TELOP_RULE: $aBattaglia a $a0 turni
+MID_OCCUPATION_RESULT: Risultati
+MID_OCCUPATION_RESULT_KILL: Nemici sconfitti
+MID_OCCUPATION_RESULT_DEFENCE: Difesa del fortino
+MID_OCCUPATION_RESULT_OFFENCE: Attacco al fortino
+MID_OCCUPATION_RESULT_DOMINATION: Campi in controllo
+MID_OCCUPATION_RESULT_SCORE: Punteggio
+MID_OCCUPATION_RESULT_SCORE_BORDER: Punti obiettivo
+MID_OCCUPATION_RESULT_BONUS: Bonus
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: Obiettivo raggiunto!
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: Punti all'obiettivo:
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: Ricompensa per completamento mappa!
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: Ricompensa mappa già ottenuta.
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: Raggiungi l'obiettivo per una ricompensa!
+MID_OCCUPATION_STAGE_SELECT_SCORE: Punteggio
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: Punteggio/Bonus
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: Record
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: Punti obiettivo
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: Raggiungi i punti obiettivo per ottenere\nil premio per il superamento della mappa.
+MID_OCCUPATION_BONUS_歩行: +1 pt per aver vinto con unità di fanteria.
+MID_OCCUPATION_BONUS_重装: +1 pt per aver vinto con unità corazzate.
+MID_OCCUPATION_BONUS_騎馬: +1 pt per aver vinto con unità a cavallo.
+MID_OCCUPATION_BONUS_飛行: +1 pt per aver vinto con unità volanti.
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: Fase già completata. Nessuna\nricompensa disponibile.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: È ammesso solo 1 alleato\ncon Canto o Danza nella\nbrigata. Gli eroi duplicati\nnon sono consentiti.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: La tua brigata contiene\npersonaggi che non possono\nessere usati insieme.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: Affronta Lotta di potere con\nuna brigata da 20 alleati!
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: ◆Modifica brigate◆\nLa brigata è una squadra che usi\nin Lotta di potere.\nPuoi scegliere fino a 20 unità dal\ntuo esercito o quello degli amici.\nSe ti mancano eroi, ti verranno\nassegnati in automatico.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: ◆Limiti delle brigate◆\n・ In una brigata può esserci 1\nsolo eroe con le abilità Canto\no Danza.\n・ La tua brigata non può\ncontenere eroi duplicati.
+MID_CONQUER_HELP_DIALOG_00: Unisci le forze con gli amici!
+MID_CONQUER_HELP_DIALOG_01: ◆Regole di Lotta di potere◆\n・ La battaglia non termina con\nla sconfitta delle unità nemiche:\nnuove unità arrivano di continuo.\n・ La battaglia termina dopo 10\nturni o con la distruzione del\nfortino di un avversario.\n・ Non otterrai Esp né PA.\n・ I rinforzi non ricevono aumenti\nai parametri da effetti leggendari.
+MID_CONQUER_HELP_DIALOG_02: ◆I fortini◆\n・ Servono 3 colpi per distruggere\nun fortino.\n・ Se li controlli, puoi trasferirti\nda un fortino all'altro.\n・ Gli alleati dentro un fortino\nrecuperano 10 PS per turno.\n・ I fortini sono considerati\nterreno difensivo.
+MID_CONQUER_HELP_DIALOG_03: ◆I campi◆\n・ Servono 2 colpi per distruggere\nun campo, che così diventa tuo.\n・ Se li controlli, puoi trasferirti\nda un campo all'altro.\n・ Gli alleati dentro un campo\nrecuperano 10 PS per turno.\n・ I campi sono considerati\nterreno difensivo.
+MID_CONQUER_HELP_DIALOG_04: ◆I trasferimenti◆\nGli alleati adiacenti a un fortino\no campo che controllano possono\nistantaneamente trasferirsi su\nuno spazio adiacente a un altro\nfortino o campo che controllano.
+MID_CONQUER_HELP_DIALOG_05: ◆Punteggi di Lotta di potere◆\nAlla fine della battaglia riceverai\nun punteggio.\n\nPuoi aumentare il tuo punteggio\nproteggendo i tuoi fortini e i tuoi\ncampi mentre sconfiggi i nemici\ne conquisti il loro fortino.
+MID_UNIT_EDIT_LARGE_FORCE: Modifica brigate
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $aBrigata $a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: Alleato
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: Aggiorna amici
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: Aggiornare amici?
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: Le tue unità
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: Unità degli amici
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: Vuoi aggiornare le unità degli\namici al loro stato più recente?
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: Tutte le unità degli amici\nsaranno aggiornate.
+MID_UNIT_EDIT_FRIEND_BOX: Amici

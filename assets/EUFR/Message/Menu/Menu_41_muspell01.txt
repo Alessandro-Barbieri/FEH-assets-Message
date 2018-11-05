@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: Ouverture du livre II
+MID_ITEM_REFINE_STONE: Pierre d'amélioration
+MID_ITEM_HELP_REFINE_STONE: Sert à améliorer les armes normales.\nÀ utiliser dans l'atelier d'armement.
+MID_ITEM_GOD_REFINE_STONE: Rosée divine
+MID_ITEM_HELP_GOD_REFINE_STONE: Sert à améliorer certaines armes\nspéciales. À utiliser dans l'atelier\nd'armement.
+MID_ITEM_ARENA_MEDAL: Médaille de l'arène
+MID_ITEM_HELP_ARENA_MEDAL: À utiliser dans l'atelier d'armement.
+MID_ITEM_BLESSING_FIRE: Bénédiction (feu)
+MID_ITEM_HELP_BLESSING_FIRE: Confère la bénédiction du feu\nà un allié. À utiliser dans la\nsection Bénédiction.
+MID_ITEM_BLESSING_WATER: Bénédiction (eau)
+MID_ITEM_HELP_BLESSING_WATER: Confère la bénédiction de l'eau\nà un allié. À utiliser dans la\nsection Bénédiction.
+MID_ITEM_BLESSING_WIND: Bénédiction (vent)
+MID_ITEM_HELP_BLESSING_WIND: Confère la bénédiction du vent\nà un allié. À utiliser dans la\nsection Bénédiction.
+MID_ITEM_BLESSING_EARTH: Bénédiction (terre)
+MID_ITEM_HELP_BLESSING_EARTH: Confère la bénédiction de la terre\nà un allié. À utiliser dans la\nsection Bénédiction.
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: Livre I
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: Livre II
+MID_STAGE_OPEN_WEAPON_REFINE: Atelier d'armement\ndisponible.
+MID_SUMMON_SEASON2_DAYS: $a$a1 Encore $a0 j.
+MID_SUMMON_SEASON2_HOURS: $a$a1 Encore $a0 h.
+MID_SUMMON_SEASON2_MINUTES: $a$a1 Encore $a0 min.
+MID_SUMMON_LIMITED_BEGINNER: Pour les débutants !
+MID_SUMMON_ONE_TIME_FREE: Une invocation gratuite !
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: Une invocation gratuite,\npour les débutants !
+MID_SUMMON_ONE_TIME_FREE_DECIDE: Invoquer
+MID_UNIT_EDIT_WEAPON_REFINE: Atelier d'armement
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: Améliorer l'aptitude ci-dessous ?
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: Améliorer
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: Sélectionnez un personnage.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: Sélectionnez l'aptitude à améliorer.
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: Aptitude améliorée non transmissible.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: Améliorez vos armes !
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: ◆Atelier d'armement◆\nVous pouvez améliorer vos armes\npour les rendre plus puissantes.\n\nPour ce faire, vous aurez besoin\nde pierres d'améliorations, de\nmédailles de l'arène (obtenues\ndans l'arène) et de PA.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: ◆Rosée divine◆\nL'amélioration de certaines armes\nnécessite de la rosée divine et non\ndes pierres d'amélioration.\n\nCet objet peut être créé à partir\nde pierres d'amélioration dans\nl'atelier d'armement.
+MID_UNIT_EDIT_BLESSING: Bénédiction
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: Bénédiction des héros légendaires !
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: ◆Bénir◆\nUtilisez un objet de bénédiction\npour bénir l'un de vos alliés.\n\nLes héros légendaires tels que\nFjorm ne peuvent pas recevoir\nde bénédictions.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: ◆Effets des bénédictions - 1◆\nLes alliés qui ont été bénis\nreçoivent deux fois plus de PA.\n\nBien qu'ils ne puissent pas être\nbénis, les héros légendaires\nreçoivent toujours deux fois\nplus de PA que la normale.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: ◆Effets des bénédictions - 2◆\nUtilisez un héros légendaire et\nune bénédiction du même type\nque la saison en cours pour\nobtenir un bonus.\n\nPar exemple, en utilisant Fjorm\net la bénédiction de l'eau pendant\nla saison de l'eau, les héros\nbénis recevront PV +3 et Vit +3.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: ◆Calendrier des saisons◆\nPour en savoir plus sur la saison\nen cours, vous pouvez entre\nautres consulter la partie\nsupérieure de l'écran de combat.\n\n◆Héros légendaires◆\nCes héros sont indiqués par une\nicône spéciale sur leur profil.\nTouchez-la pour savoir quel\nest le type de leur effet.
+MID_UNIT_EDIT_SORT_BLESSING: Bénédictions
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・ La quantité d'EXP et de PA\nreçue en combattant est doublée.\n・ Pendant la saison du feu, l'allié\nbénéficie d'un boost si un héros\nlégendaire de type Feu participe\nà la bataille.
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・ La quantité d'EXP et de PA\nreçue en combattant est doublée.\n・ Pendant la saison de l'eau, l'allié\nbénéficie d'un boost si un héros\nlégendaire de type Eau participe\nà la bataille.
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・ La quantité d'EXP et de PA\nreçue en combattant est doublée.\n・ Pendant la saison du vent, l'allié\nbénéficie d'un boost si un héros\nlégendaire de type Vent participe\nà la bataille.
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・ La quantité d'EXP et de PA\nreçue en combattant est doublée.\n・ Pendant la saison de la terre,\nl'allié bénéficie d'un boost si un\nhéros légendaire de type Terre\nparticipe à la bataille.
+MID_UNIT_EDIT_BLESSING_HELP1: Choisissez le personnage que vous voulez bénir.
+MID_UNIT_EDIT_BLESSING_HELP2: Choisissez une bénédiction.
+MID_UNIT_EDIT_BLESSING_APPLIED: Active
+MID_UNIT_EDIT_BLESSING_SELECTED: Choisie
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: Indisp.
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: Conférer la bénédiction du feu ?\n\nPendant la saison du feu, l'allié\nbénéficiera d'un boost si un\nhéros légendaire de type Feu\nparticipe à la bataille.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: Conférer la bénédiction de l'eau ?\n\nPendant la saison de l'eau, l'allié\nbénéficiera d'un boost si un\nhéros légendaire de type Eau\nparticipe à la bataille.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: Conférer la bénédiction du vent ?\n\nPendant la saison du vent, l'allié\nbénéficiera d'un boost si un\nhéros légendaire de type Vent\nparticipe à la bataille.
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: Conférer la bénédiction de la\nterre ?\n\nPendant la saison de la Terre,\nl'allié bénéficiera d'un boost si\nun héros légendaire de type\nTerre participe à la bataille.
+MID_UNIT_EDIT_BLESSING_WARNING: Si vous utilisez une bénédiction, les\neffets de la précédente seront annulés.
+MID_UNIT_EDIT_BLESSING_DECIDE: Bénir
+MID_SEASON_HELP_FIRE: ◆Saison du feu◆\nLes alliés ayant reçu la bénédiction du\nfeu obtiennent un boost en combattant\navec un héros légendaire de type Feu.
+MID_SEASON_HELP_WATER: ◆Saison de l'eau◆\nLes alliés ayant reçu la bénédiction de\nl'eau obtiennent un boost en combattant\navec un héros légendaire de type Eau.
+MID_SEASON_HELP_WIND: ◆Saison du vent◆\nLes alliés ayant reçu la bénédiction du\nvent obtiennent un boost en combattant\navec un héros légendaire de type Vent.
+MID_SEASON_HELP_EARTH: ◆Saison de la terre◆\nLes alliés ayant reçu la bénédiction de la\nterre obtiennent un boost en combattant\navec un héros légendaire de type Terre.
+MID_SEASON_HELP_FIREWATER: ◆Saison du feu et de l'eau◆\nLes alliés ayant reçu la bénédiction du\nfeu obtiennent un boost en combattant\navec un héros légendaire de type Feu.\nLes alliés ayant reçu la bénédiction de\nl'eau obtiennent un boost en combattant\navec un héros légendaire de type Eau.
+MID_SEASON_HELP_FIREWIND: ◆Saison du feu et du vent◆\nLes alliés ayant reçu la bénédiction du\nfeu obtiennent un boost en combattant\navec un héros légendaire de type Feu.\nLes alliés ayant reçu la bénédiction du\nvent obtiennent un boost en combattant\navec un héros légendaire de type Vent.
+MID_SEASON_HELP_FIREEARTH: ◆Saison du feu et de la terre◆\nLes alliés ayant reçu la bénédiction du\nfeu obtiennent un boost en combattant\navec un héros légendaire de type Feu.\nLes alliés ayant reçu la bénédiction de la\nterre obtiennent un boost en combattant\navec un héros légendaire de type Terre.
+MID_SEASON_HELP_WATERWIND: ◆Saison de l'eau et du vent◆\nLes alliés ayant reçu la bénédiction de\nl'eau obtiennent un boost en combattant\navec un héros légendaire de type Eau.\nLes alliés ayant reçu la bénédiction du\nvent obtiennent un boost en combattant\navec un héros légendaire de type Vent.
+MID_SEASON_HELP_WATEREARTH: ◆Saison de l'eau et de la terre◆\nLes alliés ayant reçu la bénédiction de\nl'eau obtiennent un boost en combattant\navec un héros légendaire de type Eau.\nLes alliés ayant reçu la bénédiction de la\nterre obtiennent un boost en combattant\navec un héros légendaire de type Terre.
+MID_SEASON_HELP_WINDEARTH: ◆Saison du vent et de la terre◆\nLes alliés ayant reçu la bénédiction du\nvent obtiennent un boost en combattant\navec un héros légendaire de type Vent.\nLes alliés ayant reçu la bénédiction de la\nterre obtiennent un boost en combattant\navec un héros légendaire de type Terre.

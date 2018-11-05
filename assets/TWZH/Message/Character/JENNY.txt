@@ -1,0 +1,38 @@
+[Heroes Archive] (JENNY)
+
+
+Heroes Message Name: Message
+
+
+MID_JENNY_HOME1: 這座城堡真是漂亮呢。\n感覺自己就像個公主一樣……！\n要是能一直待在這裡就好了。
+MID_JENNY_HOME2: 我啊，是在修道院長大的。\n雖然現在無法相見，但我有爸爸喔。\n真想跟他見面……
+MID_JENNY_HOME3: 你啊，總是跑來跑去的，\n真令人擔心……\n偶爾也一起睡個午覺吧？
+MID_JENNY_HOME4: 我正在寫自己編的故事，\n希望有人能讀看看……\n欸，下次可以拜託你嗎？
+MID_JENNY_HOME5: …………啊！對不起。\n我剛剛在想故事情節。\n哦呵呵……想聽嗎？
+MID_JENNY_FRIEND: 那、那個……\n$Nf\n要我來向你問候。
+MID_JENNY_LEVEL1: 嘩～……！\n我變得很強了吧？
+MID_JENNY_LEVEL2: 耶嘿嘿，好開心喔。
+MID_JENNY_LEVEL3: 怎麼會……\n真沒意思。
+MID_JENNY_SKILL: 總覺得輕飄飄的……\n我是不是成長了呢？
+MID_JENNY_JOIN: 我叫做傑妮。\n這裡的人我都不認識，好不安喔……\n你要對我溫柔點唷！
+MID_JENNY_STRONGEST: $Nu……\n可以請你聽聽我的心願嗎？\n我想繼續待在你身邊喔。$k$p有空時一起喝茶，\n或是到森林跟湖邊散步……\n所以，希望你能再多來探望我。$k$p雖然你已經來得很頻繁了……\n我這麼愛撒嬌，你會討厭嗎？\n……耶嘿嘿，謝謝你。$k$p嗯。大家都說我很像妹妹喔。\n不過，我不想當妹妹……\n我想成為你心中獨一無二的人。$k$p為了實現目標，我不能老是撒嬌，\n還得努力變得更強才行。\n所以……要好好看著我喔！
+MID_JENNY_VOICE01: 嘿咻！
+MID_JENNY_VOICE02: 嘿～！
+MID_JENNY_VOICE03: 呀啊啊――！
+MID_JENNY_VOICE04: 騙人，為什麼……？
+MID_JENNY_VOICE05: 讓開啦。
+MID_JENNY_VOICE06: 我生氣囉！
+MID_JENNY_VOICE07: 我討厭你……
+MID_JENNY_VOICE08: 對不起喔！
+MID_JENNY_VOICE09: 討厭啦……
+MID_JENNY_VOICE10: 耶嘿嘿……
+MID_JENNY_VOICE11: 是的，你還好嗎？
+MID_JENNY_VOICE12: 打起精神來吧。
+MID_JENNY_VOICE13: 咦？什麼事？
+MID_JENNY_VOICE14: 討厭，好癢喔。
+MID_JENNY_VOICE15: 哦呵呵，你真是愛撒嬌呢。
+MID_JENNY_VOICE16: 好想見到爸爸喔……
+MID_JENNY_VOICE17: 那個……只要是為了你，我什麼都願意做喔。
+MID_JENNY_VOICE18: 嗯，好啊。
+MID_JENNY_VOICE19: 呃……
+MID_JENNY_VOICE20: 要看著我喔！

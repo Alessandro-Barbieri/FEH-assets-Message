@@ -1,0 +1,38 @@
+[Heroes Archive] (SHIGURE)
+
+
+Heroes Message Name: Message
+
+
+MID_SHIGURE_HOME1: Les gens qui sont ici viennent de\ntant de mondes différents... Dites-moi,\nà quoi ressemble le vôtre ?
+MID_SHIGURE_HOME2: J'ai grandi dans les terres oubliées,\nmais tous mes amis, et tous ceux\nqui avaient pris soin de moi...$k$pIls ont tous péri aux mains de\nl'ennemi.
+MID_SHIGURE_HOME3: Quand vous patrouillez, pourquoi ne\nchevaucheriez-vous pas mon\npégase, au lieu de marcher ?$k$pNous pourrions faire une promenade\ndans le ciel. Et puis, là-haut, le vent\nest très agréable.
+MID_SHIGURE_HOME4: Et si nous allions nous promener\nensemble, pour admirer le paysage ?$k$pJe veux graver chaque détail de\nce monde dans ma mémoire.
+MID_SHIGURE_HOME5: J'étais en train de dessiner. J'essaie\nde faire le portrait $Gd'un grand,d'une grande|\nstratège d'un autre monde...
+MID_SHIGURE_FRIEND: $Nf m'envoie\nvous saluer et vous transmettre son\nbon souvenir.
+MID_SHIGURE_LEVEL1: Je suis aux anges !
+MID_SHIGURE_LEVEL2: Chantons pour fêter ça.\nUn, deux, trois...
+MID_SHIGURE_LEVEL3: Ce n'était pas mon meilleur\nspectacle...
+MID_SHIGURE_SKILL: Quel formidable pouvoir...\nMerci.
+MID_SHIGURE_JOIN: Quelle joie de vous rencontrer.\nJe suis Shigure, fils d'Azura.$k$pEn plus d'être bon chanteur, je saurai\nme rendre utile au combat grâce à\nma lance et mon pégase.
+MID_SHIGURE_STRONGEST: Je suis content de vous voir.\nVoulez-vous que je vous\naccompagne dans une mission ?$k$pOu avez-vous simplement envie\nd'aller voir un arc-en-ciel ?$k$pJ'aime être seul, mais j'apprécie\nbeaucoup votre compagnie. C'est\npeut-être parce que...$k$pVous n'êtes pas très $Gbavard,bavarde|.$k$pVous comptez beaucoup pour moi.\nSi nos chemins se séparent, j'espère\nque vous ne m'oublierez pas.$k$pJe serais si heureux de savoir que\nvous pensez à moi en observant le\nciel ou en écoutant une chanson.$k$pC'est peut-être présomptueux de la\npart d'un héros de demander cela à\n$Gun invocateur,une invocatrice|...$k$pMais c'est ce que je ressens, et je\ntenais à vous le dire.
+MID_SHIGURE_VOICE01: はいっ
+MID_SHIGURE_VOICE02: せいっ
+MID_SHIGURE_VOICE03: うあっ！
+MID_SHIGURE_VOICE04: This is bad...
+MID_SHIGURE_VOICE05: En scène !
+MID_SHIGURE_VOICE06: Un rappel ? Si vous insistez...
+MID_SHIGURE_VOICE07: Fin du spectacle !
+MID_SHIGURE_VOICE08: J'entre en scène.
+MID_SHIGURE_VOICE09: The sky, so beautiful...
+MID_SHIGURE_VOICE10: Heehee...
+MID_SHIGURE_VOICE11: You are the ocean's gray waves...
+MID_SHIGURE_VOICE12: Please...never forget me.
+MID_SHIGURE_VOICE13: When I gaze at the majesty of the open sky, I feel so free. Don't you?
+MID_SHIGURE_VOICE14: I'm not as skilled as my mother, but I do enjoy singing.
+MID_SHIGURE_VOICE15: The scenery here is so beautiful... I want to pick up my paintbrush again. It's inspirational.
+MID_SHIGURE_VOICE16: Tell me. When I leave here, will thousands of years have passed in my own world?
+MID_SHIGURE_VOICE17: Would you walk with me sometime? You could tell me more about this beautiful world and about yourself as well.
+MID_SHIGURE_VOICE18: All right.
+MID_SHIGURE_VOICE19: I'm Shigure.
+MID_SHIGURE_VOICE20: Shall we go?

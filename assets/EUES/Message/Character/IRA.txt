@@ -1,0 +1,38 @@
+[Heroes Archive] (IRA)
+
+
+Heroes Message Name: Message
+
+
+MID_IRA_HOME1: Me he fijado en la gente que hay aquí.\nSaben muy bien lo que hacen. Eso\nme reconforta.
+MID_IRA_HOME2: Mi país está al borde de la\ndestrucción. Ahora nuestra prioridad\nes proteger a nuestro príncipe.
+MID_IRA_HOME3: Luché junto al señor Sigurd hasta el\nfinal. No me arrepiento de nada.
+MID_IRA_HOME4: Si quieres aprender esgrima, te\nenseñaré. Pero si aceptas mi oferta,\nno esperes que me contenga.
+MID_IRA_HOME5: ¿Flores? ¿Vestidos? No, gracias.\nSi tuviera tiempo para esas cosas,\nlo aprovecharía para entrenar más.
+MID_IRA_FRIEND: Me llamo Ayra. Traigo saludos de\n$Nf.
+MID_IRA_LEVEL1: ¡Esto es gracias a la sangre\nde Od!
+MID_IRA_LEVEL2: El camino de la espada es muy\nlargo, y lo recorro a diario.
+MID_IRA_LEVEL3: Debo seguir entrenando.
+MID_IRA_SKILL: En Isaach, las deudas se pagan.\nLo haré en el campo de batalla.
+MID_IRA_JOIN: Soy la princesa Ayra de Isaach.\nLlevo la sangre de Od, el cruzado.
+MID_IRA_STRONGEST: Antes de venir aquí, luché con mis\ncamaradas en una gran batalla.\nNos derrotaron...$k$pA lo hecho, pecho. La verdad es\nque, si lo hubiera sabido, habría\ndecidido luchar igualmente.$k$pSí, habría luchado hasta el final.\nSin duda. Lo más importante es\ncómo eliges vivir tu vida.$k$pAhora que estoy aquí, contigo...\nLa verdad es que no me puedo\nquejar. Estoy muy bien.$k$pPero puede que un día nos\nseparemos. Por eso hay que\naprovechar bien el tiempo.
+MID_IRA_VOICE01: はぁっ！
+MID_IRA_VOICE02: やぁっ！
+MID_IRA_VOICE03: きゃああっ！
+MID_IRA_VOICE04: ゆ、許さん…
+MID_IRA_VOICE05: Patético.
+MID_IRA_VOICE06: Acabaré contigo.
+MID_IRA_VOICE07: Tu vida me pertenece.
+MID_IRA_VOICE08: A ver cómo te las arreglas.
+MID_IRA_VOICE09: Sorry...
+MID_IRA_VOICE10: (a sigh)
+MID_IRA_VOICE11: You need something? No? All right, then.
+MID_IRA_VOICE12: Huh? Do that again, and you'll pull back a stump.
+MID_IRA_VOICE13: If you're trying to give me a gift, save it. You should find a girl who cares about such things.
+MID_IRA_VOICE14: Thanks to your strategy, I'm still here. I just wanted to let you know that I'm grateful.
+MID_IRA_VOICE15: Ladylike? Me? You've got to be joking.
+MID_IRA_VOICE16: There's no way I'm dying before the Kingdom of Isaach is restored.
+MID_IRA_VOICE17: In Isaach, we repay our debts. My sword arm is yours.
+MID_IRA_VOICE18: Got it.
+MID_IRA_VOICE19: You have my word.
+MID_IRA_VOICE20: Orders?

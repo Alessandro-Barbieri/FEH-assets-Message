@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: Prinz Alfonse hat diese Sachen für\nmich anprobiert. Es ärgert mich, wie\nviel besser sie ihm stehen als mir.
+MID_CHROM_WINTER01_HOME2: Wenn das Winterfest näher rückt,\nschmücken wir das Schloss bei\nYlisstol in Rot und Grün.$k$pSollen wir das auch hier tun?
+MID_CHROM_WINTER01_HOME3: Ist dir nicht kalt? Ich wäre kein Held,\nwürde ich $Gunseren Beschwörer,unsere Beschwörerin|\nerfrieren lassen. $k$pHier, nimm meinen Umhang.
+MID_CHROM_WINTER01_HOME4: Begleitest du mich nach unserer\nnächsten Mission in die Stadt?\nIch möchte für unsere tüchtigen$k$pHelden Geschenke kaufen.
+MID_CHROM_WINTER01_HOME5: Ich habe einen Blick in diesen Beutel\ngeworfen... Er ist voller Geschenke für\ndie ganze Armee. Ich passe besser$k$pauf ihn auf!
+MID_CHROM_WINTER01_FRIEND: Fröhliche Festtage! Ich überbringe\nfrohe Kunde und Geschenke... Wenn\nalle brav waren.
+MID_CHROM_WINTER01_LEVEL1: Ich habe auch ein Geschenk\nerhalten.
+MID_CHROM_WINTER01_LEVEL2: Mit diesem Beutel im Schlepptau\nlässt es sich schwer kämpfen.
+MID_CHROM_WINTER01_LEVEL3: Für einen Augenblick ist mir die\nFesttagslaune vergangen.
+MID_CHROM_WINTER01_SKILL: Ist das dein Geschenk für\nmich? Vielen Dank!
+MID_CHROM_WINTER01_JOIN: Frohe Festtage! Ich bin Prinz Chrom\naus dem Königreich von Ylisse. Warst\ndu brav oder unartig? Heraus damit!
+MID_CHROM_WINTER01_STRONGEST: Wolltest du reden? Ich weiß es zu\nschätzen, dass du für mich sogar der\nKälte trotzt, aber achte auf deine$k$pGesundheit. Wenn du dich erkältest,\nverpasst du die Winterfeierlichkeiten.$k$pIn Ylisse haben wir eine Tradition...\nAm Tag des Winterfests geben wir\nunseren Verwandten und engsten$k$pFreunden Geschenke. Normaler-\nweise verteile ich die Geschenke,\naber, und ich meine das ernst...$k$pSeit meiner Ankunft in Askr\nkommt es mir so vor, als ob du\nmir ständig Geschenke machst.$k$pGeht es dir auch so?$k$pMit Geschenken meine ich nicht nur\nDinge. Du verbringst Zeit mit mir. Du\nbist an meiner Seite, gibst mir Kraft.$k$pDu machst mich stärker.$k$pDas macht mich glücklicher, als du\ndir vorstellen kannst. Ich bin wirklich\ndankbar. Ich werde alles geben, um$k$pes dir gleichzutun.
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: Hey! Cut it out!
+MID_CHROM_WINTER01_VOICE05: Hier ist Euer Geschenk!
+MID_CHROM_WINTER01_VOICE06: Seht nur, was ich habe!
+MID_CHROM_WINTER01_VOICE07: Feste geben mir Kraft!
+MID_CHROM_WINTER01_VOICE08: Ich kann es kaum erwarten!
+MID_CHROM_WINTER01_VOICE09: Going home...
+MID_CHROM_WINTER01_VOICE10: Heehee...
+MID_CHROM_WINTER01_VOICE11: Lissa made me wear this.
+MID_CHROM_WINTER01_VOICE12: I wonder what kind of present you would like?
+MID_CHROM_WINTER01_VOICE13: This is apparently a winter-celebration outfit from another world.
+MID_CHROM_WINTER01_VOICE14: Red is not my color.
+MID_CHROM_WINTER01_VOICE15: I suppose Falchion CAN be used to slice cake...
+MID_CHROM_WINTER01_VOICE16: Change outfits ONCE and I get summoned...?
+MID_CHROM_WINTER01_VOICE17: I suggest you hang a stocking somewhere tonight.
+MID_CHROM_WINTER01_VOICE18: OK.
+MID_CHROM_WINTER01_VOICE19: On it.
+MID_CHROM_WINTER01_VOICE20: Party?

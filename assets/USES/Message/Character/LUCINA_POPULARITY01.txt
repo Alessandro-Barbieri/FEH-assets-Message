@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_POPULARITY01_HOME1: Padre, madre...\nHaré todo lo posible por\nponer fin a esta contienda.
+MID_LUCINA_POPULARITY01_HOME2: Mi padre lo es todo para mí.\nSi alguien intenta hacerle daño,\nno tendré más remedio que...
+MID_LUCINA_POPULARITY01_HOME3: Te mereces un descanso. ¿Quieres\nque me encargue de alguna cosa\nque tengas que hacer?
+MID_LUCINA_POPULARITY01_HOME4: Esta lanza Geirskögul viene de\notro mundo. No es algo a lo que\nnormalmente... podría acceder.
+MID_LUCINA_POPULARITY01_HOME5: ¡Perdón! Sin querer he destrozado\notro muñeco de entrenamiento.\nTengo poca experiencia con lanzas.
+MID_LUCINA_POPULARITY01_FRIEND: $Nf me pidió\nque te saludara de su parte.\nLes une una buena amistad, ¿eh?
+MID_LUCINA_POPULARITY01_LEVEL1: ¡Va por ti, padre!
+MID_LUCINA_POPULARITY01_LEVEL2: Creo que ya empiezo a dominar\nlas técnicas con lanza ylissenses.
+MID_LUCINA_POPULARITY01_LEVEL3: Quizá el truco esté en asir\nla lanza con más fuerza...
+MID_LUCINA_POPULARITY01_SKILL: ¡Muchísimas gracias!\nNo malgastaré este poder.
+MID_LUCINA_POPULARITY01_JOIN: Soy Lucina, de Ylisse. Geirskögul\ny yo nos ponemos a tu servicio.
+MID_LUCINA_POPULARITY01_STRONGEST: Aprendí de mi padre a dominar\nla espada. Comenzó a entrenarme\ndesde mi más tierna infancia.$k$pAl principio, aquel entrenamiento\nera más bien un juego, claro. Guardo\nun recuerdo maravilloso de ello.$k$pSin embargo, pese a todo el tiempo\nque pasamos entrenando, nunca\nme enseñó a usar lanzas.$k$pEste mundo tiene un curioso\nefecto en mí: ha renovado\nmis esperanzas.$k$pMe permite reunirme con quienes\nhabía perdido, con personas de\ngran importancia para mí...$k$pEstoy acostumbrada a viajar entre\nmundos, así que no te preocupes,\nno malgastaré esta oportunidad.
+MID_LUCINA_POPULARITY01_VOICE01: せいっ！
+MID_LUCINA_POPULARITY01_VOICE02: いきます！
+MID_LUCINA_POPULARITY01_VOICE03: きゃああっ！
+MID_LUCINA_POPULARITY01_VOICE04: こんなことって…
+MID_LUCINA_POPULARITY01_VOICE05: ¡Por mi padre!
+MID_LUCINA_POPULARITY01_VOICE06: ¡Tengo vía libre!
+MID_LUCINA_POPULARITY01_VOICE07: ¡Teme mi lanza!
+MID_LUCINA_POPULARITY01_VOICE08: ¡Guía mi mano!
+MID_LUCINA_POPULARITY01_VOICE09: Father...I'm sorry...
+MID_LUCINA_POPULARITY01_VOICE10: Heehee
+MID_LUCINA_POPULARITY01_VOICE11: Maybe it's a bit silly, but...I feel a little closer to my father now.
+MID_LUCINA_POPULARITY01_VOICE12: My father taught me the sword. I hope he'll teach me all about the lance as well.
+MID_LUCINA_POPULARITY01_VOICE13: Was there some kind of...contest in your world?
+MID_LUCINA_POPULARITY01_VOICE14: I dreamt that heroes from another world brought hope to a dark future.
+MID_LUCINA_POPULARITY01_VOICE15: This weapon was entrusted to me by people from another world. I'm certain of it.
+MID_LUCINA_POPULARITY01_VOICE16: Father... I hope I can fight by your side in this world, too.
+MID_LUCINA_POPULARITY01_VOICE17: Our bond... gives me strength!
+MID_LUCINA_POPULARITY01_VOICE18: Understood.
+MID_LUCINA_POPULARITY01_VOICE19: What's next?
+MID_LUCINA_POPULARITY01_VOICE20: Your orders?

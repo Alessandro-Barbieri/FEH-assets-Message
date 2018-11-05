@@ -1,0 +1,8 @@
+[Heroes Archive] (T0021)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ターナ,ch08_05_Turner_F_Normal,Face|$w0|Fidati di me, Amelia. Se lavoriamo\ninsieme, tutto andrà bene.$k$p$WmMPID_アメリア,ch08_04_Amelia_F_Normal,Face|$w0|D'accordo! Farò del mio meglio per\nil bene di entrambe!$k$p$Sbs1000|

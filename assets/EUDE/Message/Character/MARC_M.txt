@@ -1,0 +1,38 @@
+[Heroes Archive] (MARC_M)
+
+
+Heroes Message Name: Message
+
+
+MID_MARC_M_HOME1: Deine weiße Robe ist der Wahnsinn!\nAber kein Wunder, du bist schließlich\n$Gder Taktiker,die Taktikerin| der Wächter von Askr.$k$pMeinst du, wir könnten vielleicht...\nRoben tauschen? Nur ganz kurz?
+MID_MARC_M_HOME2: Ich habe keine Erinnerung an meine\nWelt. Ich weiß nur meinen Namen\nund ein wenig über meine Mutter...$k$pAber ich werde mich bestimmt bald\nwieder an alles erinnern!
+MID_MARC_M_HOME3: Auf Patrouille? Danke für deine gute\nArbeit! Manchmal kommt man beim\nSpazierengehen auf neue Taktiken.$k$pIst dir auf deinen Rundgängen auch\nschon mal etwas Bahnbrechendes\neingefallen?
+MID_MARC_M_HOME4: Du kommst aus einer anderen Welt,\ngenau wie ich. Es ist gut zu wissen,\ndass wir etwas gemeinsam haben.$k$pLass uns gemeinsam dieses\nKönigreich kennenlernen.
+MID_MARC_M_HOME5: Ich habe die Gegend um das Schloss\nerkundet. Die Geografie dieser Welt\nist so neu und aufregend für mich!$k$pUnd in der Nähe der Ruinen hatte ich\nsogar das Gefühl... mich an etwas\nerinnern zu können...
+MID_MARC_M_FRIEND: Du bist $Nu,\noder? Schönen Gruß von\n$Nf!
+MID_MARC_M_LEVEL1: Hui... Ich hole schnell\nauf, Mutter!
+MID_MARC_M_LEVEL2: Ein großer Schritt in\nRichtung meines Zieles!
+MID_MARC_M_LEVEL3: Hmm... Das ist ein\nwenig enttäuschend.
+MID_MARC_M_SKILL: Wie damals, als meine Mutter\nmir ein neues Taktikbuch gab!
+MID_MARC_M_JOIN: Ich bin Linfan, der Sohn der genialen\nTaktikerin Daraen! Hmmm... Aber ist\nmeine Mutter denn auch hier?
+MID_MARC_M_STRONGEST: Oh, du hast mich also gesehen! Ich\nhabe dich von da drüben beobachtet,\naber ich dachte, du merkst es nicht...$k$pAber $Gvom zweitbesten Taktiker,von der zweitbesten Taktikerin|,\n$Gden,die| ich kenne, hätte ich eigentlich\nnichts anderes erwarten dürfen!$k$pDie klügste Taktikerin von allen ist\nnatürlich meine Mutter. Aber du\nwärst $Gein würdiger Rivale,eine würdige Rivalin| für sie!$k$pUnd deshalb warte ich auf eine\nGelegenheit, dich zu fragen,\nob ich dein Lehrling sein darf.$k$pOh, nein! Ich habe meinen Plan\nherausposaunt! Jetzt nimmst du mich\nbestimmt nicht mehr als Lehrling...$k$pHm? Du bildest mich trotzdem aus?\nWirklich?! Tausend Dank! Du bist\nso nett - genau wie meine Mutter.$k$pIch freue mich schon darauf, von dir\nalles über Taktik zu lernen. Ich werde\nnicht mehr von deiner Seite weichen!$k$pEgal, was passiert - ich werde bis\nzum Ende immer an dich glauben!
+MID_MARC_M_VOICE01: はいっ！
+MID_MARC_M_VOICE02: Here I go!
+MID_MARC_M_VOICE03: うあっ！
+MID_MARC_M_VOICE04: N-no...
+MID_MARC_M_VOICE05: Schachmatt!
+MID_MARC_M_VOICE06: Anfänger.
+MID_MARC_M_VOICE07: Genau wie geplant!
+MID_MARC_M_VOICE08: So gewinnst du nicht!
+MID_MARC_M_VOICE09: Bad move...
+MID_MARC_M_VOICE10: Heehee
+MID_MARC_M_VOICE11: My mother is the greatest tactician who's ever lived, you know.
+MID_MARC_M_VOICE12: I've learned a lot watching your tactical style.
+MID_MARC_M_VOICE13: Would it be OK for me to browse through the Order's library?
+MID_MARC_M_VOICE14: Heh. I dug a pitfall nearby—don't tell anyone!
+MID_MARC_M_VOICE15: Huh? How'd I wind up with two copies of this strategy book?
+MID_MARC_M_VOICE16: Someday, I hope to be a strategist to rival my mother...
+MID_MARC_M_VOICE17: I'm glad to be able to help out, even if I've got a lot to learn.
+MID_MARC_M_VOICE18: OK!
+MID_MARC_M_VOICE19: Hmmm...
+MID_MARC_M_VOICE20: What's the plan?

@@ -1,0 +1,38 @@
+[Heroes Archive] (DIADORA)
+
+
+Heroes Message Name: Message
+
+
+MID_DIADORA_HOME1: Die Bäume hier sind wunderschön...\nSie haben etwas Geheimnisvolles an\nsich. Es kommt mir bekannt vor...
+MID_DIADORA_HOME2: Ihr möchtet mehr über meine\nHeimatwelt wissen? Ich erinnere\nmich leider nicht an viel.
+MID_DIADORA_HOME3: Ihr seht so müde aus. Gönnt Euch\nbald etwas Ruhe.
+MID_DIADORA_HOME4: Manchmal überkommt mich ein\nunerträgliches Unbehagen...\nPassiert Euch das auch?
+MID_DIADORA_HOME5: Ich wurde angewiesen, niemals\nUmgang mit anderen zu pflegen...\nIch erinnere mich nur vage daran.
+MID_DIADORA_FRIEND: Mein Name ist Deirdre. Ich\nüberbringe Euch Grüße von\n$Nf.
+MID_DIADORA_LEVEL1: Ich weiß nicht warum, aber...\nes macht mir Angst.
+MID_DIADORA_LEVEL2: Bin ich Euch eine Hilfe? Das\nmacht mich glücklich.
+MID_DIADORA_LEVEL3: Ich falle Euch zur Last.\nEs tut mir leid.
+MID_DIADORA_SKILL: Es ist so nett von Euch, mir so\nzu helfen. Vielen Dank.
+MID_DIADORA_JOIN: Mein Name ist Deirdre. Meine\nErinnerungen... sind jetzt größtenteils\nverschwunden. Es tut mir leid.
+MID_DIADORA_STRONGEST: So viele meiner Erinnerungen, die\nmir viel bedeutet haben...\nSie sind einfach weg.$k$pIch weiß, dass jemand für mich\nWichtiges in dieser Dunkelheit\nverschwunden ist.$k$pIch... Ich fühle mich unbehaglich.\nSelbst hier, mit Euch. Ich befürchte,\nich könnte Euch nie wiedersehen.$k$pWenn ich Euch auch vergesse...\nBitte, ich flehe Euch an...$k$pKommt und redet mit mir und erzählt\nmir alles von unserer gemeinsamen\nZeit.$k$pBringt die Erinnerungen zurück, die\nich verloren habe.
+MID_DIADORA_VOICE01: はい…
+MID_DIADORA_VOICE02: I'm sorry...
+MID_DIADORA_VOICE03: きゃああっ！
+MID_DIADORA_VOICE04: Stop...
+MID_DIADORA_VOICE05: Ich werde nicht zurückbleiben.
+MID_DIADORA_VOICE06: Es tut mir leid.
+MID_DIADORA_VOICE07: Etwas erwacht...
+MID_DIADORA_VOICE08: Die Dunkelheit...
+MID_DIADORA_VOICE09: Sigurd...
+MID_DIADORA_VOICE10: cute short giggle
+MID_DIADORA_VOICE11: Try not to overdo it.
+MID_DIADORA_VOICE12: Oh, it's you!
+MID_DIADORA_VOICE13: You have my apologies. I've lost all of my memories...
+MID_DIADORA_VOICE14: It's so nice to be here with you.
+MID_DIADORA_VOICE15: Something dark slumbers in my blood.
+MID_DIADORA_VOICE16: I can't remember...who am I? Who am I?
+MID_DIADORA_VOICE17: Don't worry about me. I'm doing just fine. Being here with you brings me joy.
+MID_DIADORA_VOICE18: Yes?
+MID_DIADORA_VOICE19: What should I do?
+MID_DIADORA_VOICE20: I'll go with you.

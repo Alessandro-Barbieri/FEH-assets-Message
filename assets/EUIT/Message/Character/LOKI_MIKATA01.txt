@@ -1,0 +1,38 @@
+[Heroes Archive] (LOKI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LOKI_MIKATA01_HOME1: Chi avrebbe mai detto che avrei\npassato tanto tempo a chiacchierare\ncon te e il principe Alfonse...$k$pSuccedono cose davvero interessanti\nin questo mondo, non trovi?
+MID_LOKI_MIKATA01_HOME2: La principessa Veronica è adorabile,\nnon trovi? Non ci si stanca mai di\npunzecchiarla.
+MID_LOKI_MIKATA01_HOME3: Se la Loki di questo mondo è tua\nnemica, allora io sarò tua alleata. Così\nle cose si faranno più interessanti!
+MID_LOKI_MIKATA01_HOME4: Il potere di evocare... La capacità\ndei reali askriani di aprire portali\nverso altri mondi...$k$pNon hai una voglia irresistibile di\nsvelare questi misteri fino al più\nminuscolo dettaglio?
+MID_LOKI_MIKATA01_HOME5: Se desideri usarmi, non devi fare altro\nche... chiedere. Non è forse per\nquesto che mi hai evocato?
+MID_LOKI_MIKATA01_FRIEND: Sono Loki, tesoro. Appartengo anima\ne corpo a una persona che conosci.$k$pEsatto, mi riferisco all'affascinante\n$Nf.
+MID_LOKI_MIKATA01_LEVEL1: Eh eh eh... Che piacevole sensazione!
+MID_LOKI_MIKATA01_LEVEL2: Guardami bene... Che ne pensi?
+MID_LOKI_MIKATA01_LEVEL3: Ci vuole di più per soddisfarmi.
+MID_LOKI_MIKATA01_SKILL: Grazie! Ti mostrerò la mia gratitudine\nin una maniera che non ti deluderà.\n
+MID_LOKI_MIKATA01_JOIN: Mi hai evocato? Non ti fermi davanti\na nulla, pur di farmi tua... Che ardore!
+MID_LOKI_MIKATA01_STRONGEST: Leggo dal tuo sguardo che sei qui per\nconfessare il tuo amore.$k$pMa prima di andare al sodo... Perché\nnon mi presti la tua arma divina?\nPrometto di restituirla subito...$k$pQuanto potere! Decisamente troppo,\nnelle mani di un essere umano!$k$pPotresti regnare sui nove mondi e su\nogni possibile Altrotempo...$k$pIl potere di cui disponi è simile a\nquello di una divinità.$k$pHo già in mente alcune cose che mi\npiacerebbe fare, se me la prestassi...$k$pNon vuoi? Uff, sei troppo $Gsevero,severa|!$k$pÈ un peccato, ma me lo aspettavo.\nDobbiamo prima conoscerci meglio...$k$pCosì quando sarò diventata colei a cui\ntieni di più al mondo, non saprai dirmi\ndi no.
+MID_LOKI_MIKATA01_VOICE01: うふふっ
+MID_LOKI_MIKATA01_VOICE02: 嬉しい？
+MID_LOKI_MIKATA01_VOICE03: きゃああっ！
+MID_LOKI_MIKATA01_VOICE04: やぁん…もう…
+MID_LOKI_MIKATA01_VOICE05: Meraviglioso...
+MID_LOKI_MIKATA01_VOICE06: Sei al traguardo!
+MID_LOKI_MIKATA01_VOICE07: Ti guido alla tua tomba.
+MID_LOKI_MIKATA01_VOICE08: Non ti divertirai.
+MID_LOKI_MIKATA01_VOICE09: No more...
+MID_LOKI_MIKATA01_VOICE10: うふふ
+MID_LOKI_MIKATA01_VOICE11: Dai, fai una pausa.
+MID_LOKI_MIKATA01_VOICE12: Ti serve... qualcosa?
+MID_LOKI_MIKATA01_VOICE13: Whatever you need... I'll do.
+MID_LOKI_MIKATA01_VOICE14: Ah! You really shouldn't tease me.
+MID_LOKI_MIKATA01_VOICE15: You're very interested in touching me, aren't you?
+MID_LOKI_MIKATA01_VOICE16: Looking forward to what I'll say next?
+MID_LOKI_MIKATA01_VOICE17: I feel like you've put a spell on me. You're so bad.
+MID_LOKI_MIKATA01_VOICE18: Yes?
+MID_LOKI_MIKATA01_VOICE19: Ooh!
+MID_LOKI_MIKATA01_VOICE20: Mm-hmm...

@@ -1,0 +1,102 @@
+[Heroes Archive] (Data_44_seima02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201801CHARA01_TITLE: Trois héros
+MID_MISSION_S201801CHARA01_A1: Victoire
+MID_MISSION_H_S201801CHARA01_A1: Vaincre des ennemis.
+MID_MISSION_S201801CHARA01_A2: Victoire : Hinata
+MID_MISSION_H_S201801CHARA01_A2: Vaincre des ennemis avec Hinata.
+MID_MISSION_S201801CHARA01_A3: Victoire : Gwendolyn
+MID_MISSION_H_S201801CHARA01_A3: Vaincre des ennemis avec Gwendolyn.
+MID_MISSION_S201801CHARA01_B1: Cible : niveau ≥ 20
+MID_MISSION_H_S201801CHARA01_B1: Vaincre des ennemis de niveau 20 ou supérieur\navec Hinata.
+MID_MISSION_S201801CHARA01_B2: Cible : niveau ≥ 20
+MID_MISSION_H_S201801CHARA01_B2: Vaincre des ennemis de niveau 20 ou supérieur\navec Gwendolyn.
+MID_MISSION_S201801CHARA01_B3: Cible : niveau ≥ 20
+MID_MISSION_H_S201801CHARA01_B3: Vaincre des ennemis de niveau 20 ou supérieur\navec Saizo.
+MID_MISSION_S201801CHARA01_C1: Cible : niveau ≥ 35
+MID_MISSION_H_S201801CHARA01_C1: Vaincre des ennemis de niveau 35 ou supérieur\navec Hinata.
+MID_MISSION_S201801CHARA01_C2: Cible : niveau ≥ 35
+MID_MISSION_H_S201801CHARA01_C2: Vaincre des ennemis de niveau 35 ou supérieur\navec Gwendolyn.
+MID_MISSION_S201801CHARA01_C3: Cible : niveau ≥ 35
+MID_MISSION_H_S201801CHARA01_C3: Vaincre des ennemis de niveau 35 ou supérieur\navec Saizo.
+MID_MISSION_S201801STORY02_TITLE: Rage ardente
+MID_MISSION_S201801STORY02_A1: Chap. 4 - Acte 1 (Expert)
+MID_MISSION_H_S201801STORY02_A1: Terminer Livre II, Chap. 4, Acte 1 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY02_A2: Chap. 4 - Acte 2 (Expert)
+MID_MISSION_H_S201801STORY02_A2: Terminer Livre II, Chap. 4, Acte 2 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY02_A3: Chap. 4 - Acte 3 (Expert)
+MID_MISSION_H_S201801STORY02_A3: Terminer Livre II, Chap. 4, Acte 3 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY02_A4: Chap. 4 - Acte 4 (Expert)
+MID_MISSION_H_S201801STORY02_A4: Terminer Livre II, Chap. 4, Acte 4 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201801STORY02_A5: Chap. 4 - Acte 5 (Expert)
+MID_MISSION_H_S201801STORY02_A5: Terminer Livre II, Chap. 4, Acte 5 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_エイリーク2: Eirika
+MPID_ラーチェル: L'Arachel
+MPID_リオン: Lyon
+MPID_マリカ: Marisa
+MPID_ミルラ: Myrrh
+MPID_HONOR_エイリーク2: Figure du souvenir
+MPID_HONOR_ラーチェル: Dame de lumière
+MPID_HONOR_リオン: Prince de l'ombre
+MPID_HONOR_マリカ: Éclair écarlate
+MPID_HONOR_ミルラ: Grand dragon
+MPID_H_エイリーク2: Princesse de Renais, sœur jumelle d'Ephraim\net amie de Lyon. Quand elle était jeune, elle a\nappris beaucoup de choses avec eux. Apparaît\ndans Fire Emblem: The Sacred Stones.
+MPID_H_ラーチェル: Princesse de Rausten. Dozla et Rennac\nl'accompagnent dans sa quête contre les\nmonstres dans tout Magvel. Apparaît dans\nFire Emblem: The Sacred Stones.
+MPID_H_リオン: Prince de Grado et ami d'enfance d'Ephraim\net Eirika. N'aime pas se battre. Apparaît dans\nFire Emblem: The Sacred Stones.
+MPID_H_マリカ: Épéiste réservée faisant partie des mercenaires\nde Gerik. Son nom de guerre, « l'éclair\nécarlate », suffit à inspirer la peur. Apparaît\ndans Fire Emblem: The Sacred Stones.
+MPID_H_ミルラ: Manakete bien plus âgée qu'il n'y paraît. Elle\nest timide, mais curieusement attachée à\nEphraim. Apparaît dans Fire Emblem:\nThe Sacred Stones.
+MPID_VOICE_エイリーク2: Kira Buckland
+MPID_VOICE_ラーチェル: Carrie Keranen
+MPID_VOICE_リオン: Mark P. Whitten
+MPID_VOICE_マリカ: Connor Kelley
+MPID_VOICE_ミルラ: Erica Lindbeck
+MPID_ILLUST_エイリーク2: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_ラーチェル: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_リオン: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_マリカ: Fujikawa Akira (藤川祥)
+MPID_ILLUST_ミルラ: Amagaitaro (アマガイタロー)
+MID_SEQUENTIAL_MAP_TERM_201801_2: Dans la tempête
+MSID_グレイプニル: Gleipnir
+MSID_ナグルファル: Nagalfar
+MSID_イーヴァルディ: Ivaldi
+MSID_神炎のブレス: Grande flamme
+MSID_竜刃の鼓舞: Élan (Dragons)
+MSID_魔防の指揮1: Tactique Rés 1
+MSID_魔防の指揮2: Tactique Rés 2
+MSID_魔防の指揮3: Tactique Rés 3
+MSID_赤魔の経験1: Exp. tome (R) 1
+MSID_赤魔の経験2: Exp. tome (R) 2
+MSID_赤魔の経験3: Exp. tome (R) 3
+MSID_H_グレイプニル: Confère Rés +3. Si PV de l'ennemi = 100 %\nau début du combat, confère Atq/Vit +3\npendant le combat.
+MSID_H_ナグルファル: Pendant le combat, octroie un avantage\ntactique contre les unités grises et leur\ninflige un désavantage tactique.
+MSID_H_イーヴァルディ: Confère Déf +3. Si PV de l'ennemi = 100 %\nau début du combat, confère Atq/Vit +3\npendant le combat.
+MSID_H_神炎のブレス: Confère Atq +3. Si Déf de l'unité > Déf de\nl'ennemi de 5 points ou plus, double frappe\nimpossible pour l'ennemi. Les dégâts sont\ncalculés avec la Déf ou Rés (la valeur la\nplus faible) pour les ennemis avec une\nportée de 2.
+MSID_H_竜刃の鼓舞: En début de tour, confère Atq/Vit +6 aux\ndragons alliés adjacents pendant un tour.
+MSID_H_魔防の指揮1: En début de tour, confère Rés +2 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_魔防の指揮2: En début de tour, confère Rés +4 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_魔防の指揮3: En début de tour, confère Rés +6 aux alliés\nà 2 cases ou moins dont le type de\nmouvement apparaît deux fois ou moins\ndans l'équipe pendant un tour.
+MSID_H_赤魔の経験1: Si l'unité utilise un tome rouge et survit, elle reçoit\nEXP x 1,5. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_赤魔の経験2: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent EXP x 1,5. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MSID_H_赤魔の経験3: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent EXP x 2. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MID_CHAPTER_TITLE_C0204: Livre II, Chap. 4
+MID_CHAPTER_C0204: Rage ardente
+MID_STAGE_TITLE_S2041: Ch. 4 - Acte 1
+MID_STAGE_TITLE_S2042: Ch. 4 - Acte 2
+MID_STAGE_TITLE_S2043: Ch. 4 - Acte 3
+MID_STAGE_TITLE_S2044: Ch. 4 - Acte 4
+MID_STAGE_TITLE_S2045: Ch. 4 - Acte 5
+MID_STAGE_S2041: Protéger le peuple
+MID_STAGE_S2042: Éclair écarlate
+MID_STAGE_S2043: Ombres princières
+MID_STAGE_S2044: Le jeune dragon
+MID_STAGE_S2045: Rage ardente
+MID_CHAPTER_ST_C0202: Chapitres 3 et 4
+MID_STAGE_TITLE_ST_S0203: Chapitre 3
+MID_STAGE_TITLE_ST_S0204: Chapitre 4
+MID_STAGE_TITLE_ST_S1204: Chapitres 3 et 4
+MID_STAGE_HONOR_T0024: Prince de l'ombre
+MID_STAGE_T0024: Lyon

@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: Red bow. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nExtra damage to flying foes.
+MWID_H_青弓: Blue bow. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nExtra damage to flying foes.
+MWID_H_緑弓: Green bow. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nExtra damage to flying foes.
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: You cannot purchase this offer.\nIt is no longer offered for sale.
+MID_MISSION_S201804DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201804DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201804DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201804DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201804MOVE01_TITLE: Movement Type
+MID_MISSION_S201804MOVE01_A1: KO Red Foes w/Infantry
+MID_MISSION_H_S201804MOVE01_A1: Defeat red-type foes with infantry allies.
+MID_MISSION_S201804MOVE01_A2: KO Blue Foes w/Infantry
+MID_MISSION_H_S201804MOVE01_A2: Defeat blue-type foes with infantry allies.
+MID_MISSION_S201804MOVE01_A3: KO Green Foes w/Infantry
+MID_MISSION_H_S201804MOVE01_A3: Defeat green-type foes with infantry allies.
+MID_MISSION_S201804MOVE01_A4: KO Colorless Foes w/Inf.
+MID_MISSION_H_S201804MOVE01_A4: Defeat colorless-type foes with infantry allies.
+MID_MISSION_S201804MOVE01_A5: KO Red Foes w/Armored
+MID_MISSION_H_S201804MOVE01_A5: Defeat red-type foes with armored allies.
+MID_MISSION_S201804MOVE01_A6: KO Blue Foes w/Armored
+MID_MISSION_H_S201804MOVE01_A6: Defeat blue-type foes with armored allies.
+MID_MISSION_S201804MOVE01_A7: KO Green Foes w/Armored
+MID_MISSION_H_S201804MOVE01_A7: Defeat green-type foes with armored allies.
+MID_MISSION_S201804MOVE01_A8: KO Colorless Foes w/Arm.
+MID_MISSION_H_S201804MOVE01_A8: Defeat colorless-type foes with armored allies.
+MID_MISSION_S201804MOVE01_A9: KO Red Foes w/Cavalry
+MID_MISSION_H_S201804MOVE01_A9: Defeat red-type foes with cavalry allies.
+MID_MISSION_S201804MOVE01_A10: KO Blue Foes w/Cavalry
+MID_MISSION_H_S201804MOVE01_A10: Defeat blue-type foes with cavalry allies.
+MID_MISSION_S201804MOVE01_A11: KO Green Foes w/Cavalry
+MID_MISSION_H_S201804MOVE01_A11: Defeat green-type foes with cavalry allies.
+MID_MISSION_S201804MOVE01_A12: KO Colorless Foes w/Cav.
+MID_MISSION_H_S201804MOVE01_A12: Defeat colorless-type foes with cavalry allies.
+MID_MISSION_S201804MOVE01_A13: KO Red Foes w/Flier
+MID_MISSION_H_S201804MOVE01_A13: Defeat red-type foes with flying allies.
+MID_MISSION_S201804MOVE01_A14: KO Blue Foes w/Flier
+MID_MISSION_H_S201804MOVE01_A14: Defeat blue-type foes with flying allies.
+MID_MISSION_S201804MOVE01_A15: KO Green Foes w/Flier
+MID_MISSION_H_S201804MOVE01_A15: Defeat green-type foes with flying allies.
+MID_MISSION_S201804MOVE01_A16: KO Colorless Foes w/Flier
+MID_MISSION_H_S201804MOVE01_A16: Defeat colorless-type foes with flying allies.
+MID_MISSION_S201804SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201804SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201804SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201804SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201804SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201804SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201804YEAR01_TITLE: GHB Elite 2
+MID_MISSION_S201804YEAR01_A1: Defeat Legion
+MID_MISSION_H_S201804YEAR01_A1: Win the Grand Hero Battle against Legion:\nMasked Maniac.
+MID_MISSION_S201804YEAR01_A2: Defeat Legion
+MID_MISSION_H_S201804YEAR01_A2: Win the Grand Hero Battle against\nLegion: Masked Maniac on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A3: Defeat Legion
+MID_MISSION_H_S201804YEAR01_A3: Win the Grand Hero Battle against\nLegion: Masked Maniac on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A4: Defeat Legion
+MID_MISSION_H_S201804YEAR01_A4: Win the Grand Hero Battle against\nLegion: Masked Maniac on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A5: Defeat Legion
+MID_MISSION_H_S201804YEAR01_A5: Win the Grand Hero Battle against\nLegion: Masked Maniac on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A6: Defeat Clarisse
+MID_MISSION_H_S201804YEAR01_A6: Win the Grand Hero Battle against Clarisse:\nSniper in the Dark.
+MID_MISSION_S201804YEAR01_A7: Defeat Clarisse
+MID_MISSION_H_S201804YEAR01_A7: Win the Grand Hero Battle against\nClarisse: Sniper in the Dark on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A8: Defeat Clarisse
+MID_MISSION_H_S201804YEAR01_A8: Win the Grand Hero Battle against\nClarisse: Sniper in the Dark on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A9: Defeat Clarisse
+MID_MISSION_H_S201804YEAR01_A9: Win the Grand Hero Battle against\nClarisse: Sniper in the Dark on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A10: Defeat Clarisse
+MID_MISSION_H_S201804YEAR01_A10: Win the Grand Hero Battle against\nClarisse: Sniper in the Dark on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A11: Defeat Berkut
+MID_MISSION_H_S201804YEAR01_A11: Win the Grand Hero Battle against Berkut:\nPrideful Prince.
+MID_MISSION_S201804YEAR01_A12: Defeat Berkut
+MID_MISSION_H_S201804YEAR01_A12: Win the Grand Hero Battle against\nBerkut: Prideful Prince on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A13: Defeat Berkut
+MID_MISSION_H_S201804YEAR01_A13: Win the Grand Hero Battle against\nBerkut: Prideful Prince on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A14: Defeat Berkut
+MID_MISSION_H_S201804YEAR01_A14: Win the Grand Hero Battle against\nBerkut: Prideful Prince on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A15: Defeat Berkut
+MID_MISSION_H_S201804YEAR01_A15: Win the Grand Hero Battle against\nBerkut: Prideful Prince on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A16: Defeat Valter
+MID_MISSION_H_S201804YEAR01_A16: Win the Grand Hero Battle against Valter:\nDark Moonstone.
+MID_MISSION_S201804YEAR01_A17: Defeat Valter
+MID_MISSION_H_S201804YEAR01_A17: Win the Grand Hero Battle against\nValter: Dark Moonstone on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A18: Defeat Valter
+MID_MISSION_H_S201804YEAR01_A18: Win the Grand Hero Battle against\nValter: Dark Moonstone on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A19: Defeat Valter
+MID_MISSION_H_S201804YEAR01_A19: Win the Grand Hero Battle against\nValter: Dark Moonstone on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A20: Defeat Valter
+MID_MISSION_H_S201804YEAR01_A20: Win the Grand Hero Battle against\nValter: Dark Moonstone on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A21: Defeat Arvis
+MID_MISSION_H_S201804YEAR01_A21: Win the Grand Hero Battle against Arvis:\nEmperor of Flame.
+MID_MISSION_S201804YEAR01_A22: Defeat Arvis
+MID_MISSION_H_S201804YEAR01_A22: Win the Grand Hero Battle against\nArvis: Emperor of Flame on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A23: Defeat Arvis
+MID_MISSION_H_S201804YEAR01_A23: Win the Grand Hero Battle against\nArvis: Emperor of Flame on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A24: Defeat Arvis
+MID_MISSION_H_S201804YEAR01_A24: Win the Grand Hero Battle against\nArvis: Emperor of Flame on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A25: Defeat Arvis
+MID_MISSION_H_S201804YEAR01_A25: Win the Grand Hero Battle against\nArvis: Emperor of Flame on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A26: Defeat Zephiel
+MID_MISSION_H_S201804YEAR01_A26: Win the Grand Hero Battle against Zephiel:\nThe Liberator.
+MID_MISSION_S201804YEAR01_A27: Defeat Zephiel
+MID_MISSION_H_S201804YEAR01_A27: Win the Grand Hero Battle against\nZephiel: The Liberator on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A28: Defeat Zephiel
+MID_MISSION_H_S201804YEAR01_A28: Win the Grand Hero Battle against\nZephiel: The Liberator on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A29: Defeat Zephiel
+MID_MISSION_H_S201804YEAR01_A29: Win the Grand Hero Battle against\nZephiel: The Liberator on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A30: Defeat Zephiel
+MID_MISSION_H_S201804YEAR01_A30: Win the Grand Hero Battle against\nZephiel: The Liberator on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A31: Defeat Camus
+MID_MISSION_H_S201804YEAR01_A31: Win the Grand Hero Battle against Camus:\nSable Knight.
+MID_MISSION_S201804YEAR01_A32: Defeat Camus
+MID_MISSION_H_S201804YEAR01_A32: Win the Grand Hero Battle against\nCamus: Sable Knight on Lunatic or\nhigher using only Heroes that have the\nWater Blessing conferred on them\nor water-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A33: Defeat Camus
+MID_MISSION_H_S201804YEAR01_A33: Win the Grand Hero Battle against\nCamus: Sable Knight on Lunatic or\nhigher using only Heroes that have the\nWind Blessing conferred on them\nor wind-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A34: Defeat Camus
+MID_MISSION_H_S201804YEAR01_A34: Win the Grand Hero Battle against\nCamus: Sable Knight on Lunatic or\nhigher using only Heroes that have the\nEarth Blessing conferred on them\nor earth-type Legendary Heroes.
+MID_MISSION_S201804YEAR01_A35: Defeat Camus
+MID_MISSION_H_S201804YEAR01_A35: Win the Grand Hero Battle against\nCamus: Sable Knight on Lunatic or\nhigher using only Heroes that have the\nFire Blessing conferred on them\nor fire-type Legendary Heroes.
+MID_MISSION_S201804STORY01_TITLE: Snow and Ash
+MID_MISSION_S201804STORY01_A1: Clear 7-1 on Lunatic
+MID_MISSION_H_S201804STORY01_A1: Clear Book II, Chapter 7: Part 1 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201804STORY01_A2: Clear 7-2 on Lunatic
+MID_MISSION_H_S201804STORY01_A2: Clear Book II, Chapter 7: Part 2 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201804STORY01_A3: Clear 7-3 on Lunatic
+MID_MISSION_H_S201804STORY01_A3: Clear Book II, Chapter 7: Part 3 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201804STORY01_A4: Clear 7-4 on Lunatic
+MID_MISSION_H_S201804STORY01_A4: Clear Book II, Chapter 7: Part 4 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201804STORY01_A5: Clear 7-5 on Lunatic
+MID_MISSION_H_S201804STORY01_A5: Clear Book II, Chapter 7: Part 5 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_H_OCCUPATION_RULE_歩行能力強化: Grants Atk/Spd/Def/Res+4 to infantry units.
+MID_H_OCCUPATION_RULE_歩行奥義: Grants Special cooldown charge +1 per\nattack to infantry units during combat. (Only\nhighest value applied. Does not stack.)
+MID_H_OCCUPATION_RULE_重装能力強化: Grants Atk/Spd/Def/Res+4 to armored units.
+MID_H_OCCUPATION_RULE_重装移動強化: At start of turn, armored units can move\n1 extra space. (That turn only. Does\nnot stack.)
+MID_H_OCCUPATION_RULE_騎馬能力強化: Grants Atk/Spd/Def/Res+4 to cavalry units.
+MID_H_OCCUPATION_RULE_騎馬追撃: If cavalry units initiate combat, units\nmake a guaranteed follow-up attack.
+MID_H_OCCUPATION_RULE_飛行能力強化: Grants Atk/Spd/Def/Res+4 to flying units.
+MID_H_OCCUPATION_RULE_飛行先導: Units can move to a space adjacent to\na flying ally within 2 spaces.
+MPID_サイアス: Saias
+MPID_フィン: Finn
+MPID_リーフ: Leif
+MPID_ナンナ: Nanna
+MPID_オルエン2: Olwen
+MPID_ラインハルト2: Reinhardt
+MPID_HONOR_サイアス: Bishop of Flame
+MPID_HONOR_フィン: Lance of Legend
+MPID_HONOR_リーフ: Prince of Leonster
+MPID_HONOR_ナンナ: Nordion Princess
+MPID_HONOR_オルエン2: Righteous Knight
+MPID_HONOR_ラインハルト2: Thunder's Sword
+MPID_H_サイアス: A priest of Velthomer; known as one of the\ngreatest tacticians. The brand of the crusader\nFjalar resides in his body. Appears in Fire\nEmblem: Thracia 776.
+MPID_H_フィン: A servant of Leonster who swore his loyalty\nto Leif's father, Quan. His main objective in\nlife is to protect Leif. Appears in Fire Emblem:\nThracia 776.
+MPID_H_リーフ: Quan's son. He was hiding in Fiana\nbut rose up after an attack by imperial\nforces. Appears in Fire Emblem:\nThracia 776.
+MPID_H_ナンナ: Lachesis's daughter. A charismatic young\nlady, she has her mother's graceful bearing.\nAppears in Fire Emblem: Thracia 776.
+MPID_H_オルエン2: A mage knight in Friege's army. She\nnow walks her own path after parting\nways with her beloved brother, Reinhardt.\nAppears in Fire Emblem: Thracia 776.
+MPID_H_ラインハルト2: A formidable mage knight in Friege's\narmy and Olwen's older brother. He was\ndefeated by Prince Leif. Appears in\nFire Emblem: Thracia 776.
+MPID_VOICE_サイアス: Ben Lepley
+MPID_VOICE_フィン: Robert Clotworthy
+MPID_VOICE_リーフ: Nicolas Roye
+MPID_VOICE_ナンナ: Alicia Stratten
+MPID_VOICE_オルエン2: Tara Sands
+MPID_VOICE_ラインハルト2: Chris Smith
+MPID_ILLUST_サイアス: Teita (悌太)
+MPID_ILLUST_フィン: Itagaki Hako (板垣ハコ)
+MPID_ILLUST_リーフ: Aoji (あおじ)
+MPID_ILLUST_ナンナ: Konfuzi Kokon (紺藤ココン)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: Thunder's Fist
+MID_SEQUENTIAL_MAP_BOOST_49: $a$a1x points + ally boost ($a0x left today.)
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: Point Bonus and Ally Stat Boost:\nTwice a day, you'll earn triple the\nscore, and all of your allies will\nbe granted HP+10 and Atk/Spd/\nDef/Res+4.\n\nYou'll also earn double EXP and\nSP!
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $aScore\n+$a0%
+MID_SEQUENTIAL_MAP_RECOMMENDED: Try this!
+MSID_無銘の一門の剣: Nameless Blade
+MSID_フォルブレイズ: Forblaze
+MSID_第9迷宮の覇者1: Squad Ace I 1
+MSID_第9迷宮の覇者2: Squad Ace I 2
+MSID_第9迷宮の覇者3: Squad Ace I 3
+MSID_マスターソード: Meisterschwert
+MSID_光の剣: Light Brand
+MSID_軍神の書: Wargod's Tome
+MSID_雷旋トルネード: Thunderhead
+MSID_レスト: Restore
+MSID_レスト＋: Restore+
+MSID_Ｓドリンク: S Drink
+MSID_攻撃守備の紋章1: Spur Atk/Def 1
+MSID_攻撃守備の紋章2: Spur Atk/Def 2
+MSID_緑魔の経験1: G Tome Exp. 1
+MSID_緑魔の経験2: G Tome Exp. 2
+MSID_緑魔の経験3: G Tome Exp. 3
+MSID_H_無銘の一門の剣: Accelerates Special trigger\n(cooldown count-1).
+MSID_H_フォルブレイズ: At start of turn, inflicts Res-7 on foe\non the enemy team with the highest\nRes through its next action.
+MSID_H_封印の剣改: Effective against dragon foes. If foe initiates\ncombat, grants Def/Res+4 during combat.
+MSID_H_リガルブレイド改: At start of combat, if foe's HP = 100%,\ngrants Atk/Spd+3 during combat.
+MSID_H_切り返しR50: If unit’s HP ≥ 50% and foe initiates combat,\nunit makes a guaranteed follow-up attack.
+MSID_H_絆R歩行魔法: If unit is within 2 spaces of an infantry\nmagic ally, grants Atk/Spd/Def/Res+3\nduring combat.
+MSID_H_第9迷宮の覇者1: Grants Spd+1.
+MSID_H_第9迷宮の覇者2: Grants Spd+2.
+MSID_H_第9迷宮の覇者3: Grants Spd+3.
+MSID_H_マスターソード: Inflicts Spd-5. Unit attacks twice. (Even if foe\ninitiates combat, unit attacks twice.)
+MSID_H_光の剣: Grants Def+3. If foe's Def ≥ foe's Res+5,\ndeals +7 damage.
+MSID_H_軍神の書: At start of turn, inflicts Atk/Res-4 on foes\nin cardinal directions with Res < unit's Res\nthrough their next actions.
+MSID_H_雷旋トルネード: Adds total bonuses on unit to damage dealt.
+MSID_H_レスト: Restores 8 HP. Neutralizes ally's penalties\n(from skills like Panic, Threaten, etc.) and\nnegative status effects (preventing\ncounterattacks, restricting movement, etc.)\nthat last through ally's next action.
+MSID_H_レスト＋: Restores HP = 50% of Atk. (Minimum of 8\nHP.) Neutralizes ally's penalties (from skills\nlike Panic, Threaten, etc.) and negative\nstatus effects (preventing counterattacks,\nrestricting movement, etc.) that last through\nally's next action.
+MSID_H_Ｓドリンク: At the start of turn 1, restores 99 HP and\ngrants Special cooldown count-1.
+MSID_H_攻撃守備の紋章1: Grants Atk/Def+2 to adjacent allies during\ncombat.
+MSID_H_攻撃守備の紋章2: Grants Atk/Def+3 to adjacent allies during\ncombat.
+MSID_H_緑魔の経験1: While unit lives and uses a green tome,\nunit gets 1.5x EXP. (Only highest value\napplied. Does not stack.)
+MSID_H_緑魔の経験2: While unit lives, all green tome allies on team\nget 1.5x EXP. (Only highest value applied.\nDoes not stack.)
+MSID_H_緑魔の経験3: While unit lives, all green tome allies on team\nget 2x EXP. (Only highest value applied.\nDoes not stack.)
+MID_CHAPTER_TITLE_C0207: Book II, Chapter 7
+MID_CHAPTER_C0207: Snow and Ash
+MID_STAGE_TITLE_S2071: Chapter 7: Part 1
+MID_STAGE_TITLE_S2072: Chapter 7: Part 2
+MID_STAGE_TITLE_S2073: Chapter 7: Part 3
+MID_STAGE_TITLE_S2074: Chapter 7: Part 4
+MID_STAGE_TITLE_S2075: Chapter 7: Part 5
+MID_STAGE_S2071: Echoing Dreams
+MID_STAGE_S2072: Blade of the Mage Knight
+MID_STAGE_S2073: Indomitable Spirits
+MID_STAGE_S2074: Book and Blade
+MID_STAGE_S2075: Snow and Ash
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: Grand Hero Battle Rotation (2):\nThe following Heroes rotate daily.\nZephiel: The Liberator, Camus:\nSable Knight, Legion: Masked\nManiac, Clarisse: Sniper in the\nDark, Berkut: Prideful Prince,\nValter: Dark Moonstone, and\nArvis: Emperor of Flame.
+MID_STAGE_TITLE_SB_0009: 9th Assault
+MID_STAGE_HONOR_V0231: Reward Map
+MID_STAGE_V0231: Vs. Xander
+MID_STAGE_HONOR_V0232: Reward Map
+MID_STAGE_V0232: Vs. Camilla
+MID_STAGE_HONOR_V0233: Reward Map
+MID_STAGE_V0233: Vs. Azura
+MID_STAGE_HONOR_V0234: Reward Map
+MID_STAGE_V0234: Vs. Ike
+MID_STAGE_HONOR_V0235: Reward Map
+MID_STAGE_V0235: Vs. Roy
+MID_STAGE_HONOR_V0236: Reward Map
+MID_STAGE_V0236: Vs. Robin M
+MID_STAGE_HONOR_V0237: Reward Map
+MID_STAGE_V0237: Vs. Takumi
+MID_STAGE_HONOR_V0238: Reward Map
+MID_STAGE_V0238: Vs. Robin F
+MID_STAGE_HONOR_V0239: Reward Map
+MID_STAGE_V0239: Vs. Lucina
+MID_STAGE_HONOR_V0240: Reward Map
+MID_STAGE_V0240: Vs. Chrom
+MID_STAGE_HONOR_V0241: Reward Map
+MID_STAGE_V0241: Vs. Lyn
+MID_STAGE_HONOR_T0029: Bishop of Flame
+MID_STAGE_T0029: Saias
+MID_STAGE_HONOR_Q0006: Weekly
+MID_STAGE_Q0006: Rival Domains
+MID_STAGE_HONOR_Q0007: Weekly
+MID_STAGE_Q0007: Rival Domains
+MID_STAGE_HONOR_Q0008: Weekly
+MID_STAGE_Q0008: Rival Domains
+MID_STAGE_HONOR_Q0009: Weekly
+MID_STAGE_Q0009: Rival Domains
+MID_STAGE_TITLE_BG_WATER_0007: Water 7
+MID_STAGE_BG_WATER_0007: Colonnade
+MID_STAGE_TITLE_BG_WIND_0006: Wind 6
+MID_STAGE_BG_WIND_0006: Sanctuary
+MID_STAGE_TITLE_BG_EARTH_0006: Earth 6
+MID_STAGE_BG_EARTH_0006: Sanctuary
+MID_STAGE_TITLE_BG_FIRE_0006: Fire 6
+MID_STAGE_BG_FIRE_0006: Sanctuary

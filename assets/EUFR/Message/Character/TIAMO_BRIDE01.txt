@@ -1,0 +1,39 @@
+[Heroes Archive] (TIAMO_BRIDE01)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMO_BRIDE01_HOME1: Le mariage idéal ? Eh bien...\nMon mari et moi, nous nous\nentendrions très bien, et...$k$pJ'aimerais bien que nous ayons\nune fille.
+MID_TIAMO_BRIDE01_HOME2: Contrairement à ce qu'on pourrait\ncroire, je n'ai pas été invoquée au\nbeau milieu de mon mariage.$k$pLà d'où je viens, ma tenue est\nun uniforme de combat.
+MID_TIAMO_BRIDE01_HOME3: Cette robe me laisse libre de mes\nmouvements, alors n'hésitez pas\nà m'envoyer en mission.
+MID_TIAMO_BRIDE01_HOME4: S'il y a quelqu'un qui vous plaît,\nje pourrais vous aider à conquérir\nson cœur avec mon arc.$k$pJe plaisante, bien entendu.
+MID_TIAMO_BRIDE01_HOME5: Hmm... Si on compare à l'armure...\nAh ! $Nu !\nJ'étais en train d'ajuster ma robe !
+MID_TIAMO_BRIDE01_FRIEND: $Nf m'envoie\nvous saluer.$k$pEst-ce que je vais à un mariage ?\nNon, mais je comprends pourquoi\nvous posez la question.
+MID_TIAMO_BRIDE01_LEVEL1: J'ai tout ce qu'il faut\npour le combat et le mariage.
+MID_TIAMO_BRIDE01_LEVEL2: Finalement, cette robe\nn'est pas un handicap.
+MID_TIAMO_BRIDE01_LEVEL3: À ce rythme, je ne trouverai\njamais l'amour !
+MID_TIAMO_BRIDE01_SKILL: Grâce à vous, je peux porter\ncette robe avec fierté.
+MID_TIAMO_BRIDE01_JOIN: Je m'appelle Cordelia. Cette tenue\nne me gênera pas dans la bataille.\nCe n'est pas une robe de mariée !
+MID_TIAMO_BRIDE01_STRONGEST: Je vous cherchais,\n$Nu.\nJ'ai terminé ma patrouille.$k$pComment ? Ce n'est pas un travail\npour une mariée ? Allons, vous\nsavez bien que je suis une guerrière.$k$pOu alors... Vous avez peur que\nje salisse ma belle robe ?$k$pC'est ça ? Eh bien, j'imagine que\nc'est un compliment, merci.$k$pVous êtes toujours si $Ggentil,gentille| avec\nmoi... Alors je serai votre mariée\npour la journée !$k$pHa ! Vous rougissez ! C'est adorable.$k$pBras dessus, bras dessous sur le\nchamp de bataille, nous ferions\nun beau couple, non ?
+MID_TIAMO_BRIDE01_VOICE01: それっ！
+MID_TIAMO_BRIDE01_VOICE02: Here I go!
+MID_TIAMO_BRIDE01_VOICE03: ええっ！？
+MID_TIAMO_BRIDE01_VOICE04: You'll ruin my dress!
+MID_TIAMO_BRIDE01_VOICE05: En plein cœur !
+MID_TIAMO_BRIDE01_VOICE06: Vous êtes à moi !
+MID_TIAMO_BRIDE01_VOICE07: Attaque de la mariée déchaînée !
+MID_TIAMO_BRIDE01_VOICE08: Au nom de l'amour !
+MID_TIAMO_BRIDE01_VOICE09: Oh, love...
+MID_TIAMO_BRIDE01_VOICE10: Heehee...
+MID_TIAMO_BRIDE01_VOICE11: Well, as you can see, this is just perfect.
+MID_TIAMO_BRIDE01_VOICE12: I'll prove myself no matter what I'm wearing.
+MID_TIAMO_BRIDE01_VOICE13: There's a saying: bride in June, groom shall swoon.
+MID_TIAMO_BRIDE01_VOICE14: In Ylisse, it's tradition to pledge your devotion...to Naga, the divine dragon.
+MID_TIAMO_BRIDE01_VOICE15: A proposal ought to be done only when the time is right, never sooner.
+MID_TIAMO_BRIDE01_VOICE16: Someday...someday...I would love to be married in a dress like this.
+MID_TIAMO_BRIDE01_VOICE17: Will I ever pledge my love to anyone...? We shall see. Until then, I pledge my service to you.
+MID_TIAMO_BRIDE01_VOICE18: OK.
+MID_TIAMO_BRIDE01_VOICE19: Be happy.
+MID_TIAMO_BRIDE01_VOICE20: I will.
+MID_TIAMO_BRIDE01_VOICE21: Who doesn't admire a stunning bride?

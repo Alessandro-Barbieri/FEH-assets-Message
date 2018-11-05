@@ -1,0 +1,38 @@
+[Heroes Archive] (SOTHE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOTHE_HOME1: Als ich erfuhr, dass ich in einer\nanderen Welt bin, bereitete ich\nmich auf das Schlimmste vor.$k$pDabei ist es hier gar nicht so\nanders. Ich vermisse nur das\ngute Essen aus meiner Heimat.
+MID_SOTHE_HOME2: Egal, wo ich lande und wem ich\ndort begegne - meine Persönlichkeit\nund meine Ziele bleiben gleich.$k$pUnd genauso wenig ändern sich\ndie Dinge, auf die es mir ankommt.
+MID_SOTHE_HOME3: Ihr seid erschöpft, das sehe ich\ndoch auf den ersten Blick.$k$pEs wäre nicht gut für die Moral der\nTruppe, wenn $Gunser Taktiker,unsere Taktikerin|.\nplötzlich umkippen würde.$k$pSchüttet Euch etwas kaltes Wasser\nins Gesicht, danach geht es Euch\nbestimmt wieder besser.
+MID_SOTHE_HOME4: Ganz egal, wer Ihr seid - wenn Ihr\nMicaiah auch nur ein Haar krümmt,\nbekommt Ihr es mit mir zu tun.
+MID_SOTHE_HOME5: Meine Messer sind geschärft. Man\nmuss auf alles gefasst sein und kann\nsich nur auf sich selbst verlassen.
+MID_SOTHE_FRIEND: Fragt nicht, wieso gerade ich darum\ngebeten wurde, aber schönen Gruß\nvon $Nf.
+MID_SOTHE_LEVEL1: So werde ich weiterhin\nmithalten können.
+MID_SOTHE_LEVEL2: Das habe ich erwartet. Ich\nwerde weiter an mir arbeiten.
+MID_SOTHE_LEVEL3: Das war alles? Ich muss\nstärker werden!
+MID_SOTHE_SKILL: Was ist das? Hoffentlich wird\nes mir nützlich sein.
+MID_SOTHE_JOIN: Ich bin Sothe. Ich habe zwar keine\nbesonderen Kräfte, aber ich tue alles\nfür diejenigen, die mir wichtig sind.
+MID_SOTHE_STRONGEST: Micaiah und ich sehen uns nicht\nähnlich? Aber natürlich nicht. Wir\nsind schließlich nicht blutsverwandt.$k$pAls ich klein war, nahm mich Micaiah\nan die Hand. Sie wollte nur, dass ich\nnicht mehr weinen muss...$k$pSie gab mir Halt, und so wurden\nwir zu einer Familie.$k$pUns verbindet mehr als Blut. Wir\nunterstützen einander um jeden\nPreis und vertrauen uns blind.$k$pWenn ich sehe, wie Ihr gemeinsam\nmit Alfonse und den anderen kämpft,\nohne eine Belohnung zu fordern...$k$pNun, wenn ich die Augen\nzusammenkneife, ist es fast so,\nals würde ich Micaiah zusehen.$k$pIch kann noch nicht sagen, dass ich\nEuch bedingungslos vertraue. Nicht\nso, wie ich ihr vertraue...$k$pAber ich glaube an Euch, weil Ihr\nfür andere kämpft. Das ist eine\ngute Grundlage für Vertrauen.
+MID_SOTHE_VOICE01: はっ！
+MID_SOTHE_VOICE02: Stop
+MID_SOTHE_VOICE03: うああっ！
+MID_SOTHE_VOICE04: I messed up...
+MID_SOTHE_VOICE05: Ich bin entschlossen.
+MID_SOTHE_VOICE06: Ich muss kämpfen!
+MID_SOTHE_VOICE07: Ich werde überleben!
+MID_SOTHE_VOICE08: Ich besiege Euch!
+MID_SOTHE_VOICE09: If I only...had power...
+MID_SOTHE_VOICE10: ふっ
+MID_SOTHE_VOICE11: I'm Sothe of the Dawn Brigade.
+MID_SOTHE_VOICE12: Wha--?! Sometimes, I just don't understand why you do the things you do...
+MID_SOTHE_VOICE13: I swore to protect Micaiah. Even if it means fighting Commander Ike...
+MID_SOTHE_VOICE14: If you hold strong to your feelings, you will get what you want.
+MID_SOTHE_VOICE15: I may not have any special powers, but I've been told I have a fire inside.
+MID_SOTHE_VOICE16: I owe Commander Ike my life... I want to be just like him.
+MID_SOTHE_VOICE17: Don't leave my side. I'll protect you with all I've got.
+MID_SOTHE_VOICE18: Sure.
+MID_SOTHE_VOICE19: What are you thinking?
+MID_SOTHE_VOICE20: Gotta stay on guard.

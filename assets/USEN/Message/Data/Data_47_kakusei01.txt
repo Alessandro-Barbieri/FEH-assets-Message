@@ -1,0 +1,216 @@
+[Heroes Archive] (Data_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_無竜: Colorless Breath. Magical weapon. Range: 1.\nDamage reduced by target's Res.
+MID_MISSION_S201803ARM01_TITLE: Weapon Workout
+MID_MISSION_S201803ARM01_A1: KO Foe w/Sword
+MID_MISSION_H_S201803ARM01_A1: Use a sword ally to defeat foes.
+MID_MISSION_S201803ARM01_A2: KO Foe w/Lance
+MID_MISSION_H_S201803ARM01_A2: Use a lance ally to defeat foes.
+MID_MISSION_S201803ARM01_A3: KO Foe w/Axe
+MID_MISSION_H_S201803ARM01_A3: Use an axe ally to defeat foes.
+MID_MISSION_S201803ARM01_A4: KO Foe w/Bow
+MID_MISSION_H_S201803ARM01_A4: Use a bow ally to defeat foes.
+MID_MISSION_S201803ARM01_A5: KO Foe w/Dagger
+MID_MISSION_H_S201803ARM01_A5: Use a dagger ally to defeat foes.
+MID_MISSION_S201803ARM01_A6: KO Foe w/Red Tome
+MID_MISSION_H_S201803ARM01_A6: Use a red tome ally to defeat foes.
+MID_MISSION_S201803ARM01_A7: KO Foe w/Blue Tome
+MID_MISSION_H_S201803ARM01_A7: Use a blue tome ally to defeat foes.
+MID_MISSION_S201803ARM01_A8: KO Foe w/Green Tome
+MID_MISSION_H_S201803ARM01_A8: Use a green ally to defeat foes.
+MID_MISSION_S201803ARM01_A9: KO Foe w/Staff
+MID_MISSION_H_S201803ARM01_A9: Use a staff ally to defeat enemies.
+MID_MISSION_S201803ARM01_A10: KO Lvl. 35+ Foe w/Sword
+MID_MISSION_H_S201803ARM01_A10: Use sword ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A11: KO Lvl. 35+ Foe w/Lance
+MID_MISSION_H_S201803ARM01_A11: Use lance ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A12: KO Lvl. 35+ Foe w/Axe
+MID_MISSION_H_S201803ARM01_A12: Use axe ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A13: KO Lvl. 35+ Foe w/Bow
+MID_MISSION_H_S201803ARM01_A13: Use bow ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A14: KO Lvl. 35+ Foe w/Dagger
+MID_MISSION_H_S201803ARM01_A14: Use dagger ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A15: KO Lvl. 35+ Foe w/R Tome
+MID_MISSION_H_S201803ARM01_A15: Use red tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A16: KO Lvl. 35+ Foe w/B Tome
+MID_MISSION_H_S201803ARM01_A16: Use blue tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A17: KO Lvl. 35+ Foe w/G Tome
+MID_MISSION_H_S201803ARM01_A17: Use green tome ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803ARM01_A18: KO Lvl. 35+ Foe w/Staff
+MID_MISSION_H_S201803ARM01_A18: Use staff ally to defeat foes level 35\nor higher.
+MID_MISSION_S201803HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201803HERO01_A1: Defeat Zephiel
+MID_MISSION_H_S201803HERO01_A1: With Alfonse on your team, win the Grand\nHero Battle against Zephiel: The Liberator.
+MID_MISSION_S201803HERO01_A2: Defeat Zephiel
+MID_MISSION_H_S201803HERO01_A2: With Zephiel: The Liberator on your team,\nwin the Grand Hero Battle against Zephiel:\nThe Liberator on Lunatic or higher.
+MID_MISSION_S201803HERO01_A3: Defeat Zephiel
+MID_MISSION_H_S201803HERO01_A3: Use Alfonse to defeat a level 40 or higher\nZephiel: The Liberator.
+MID_MISSION_S201803HERO01_A4: Defeat Zephiel
+MID_MISSION_H_S201803HERO01_A4: Use Zephiel: The Liberator to defeat a level\n40 or higher Zephiel: The Liberator.
+MID_MISSION_S201803HERO01_A5: Defeat Zephiel
+MID_MISSION_H_S201803HERO01_A5: Win the Grand Hero Battle against Zephiel:\nThe Liberator on Lunatic or higher using an\nall-armored team.
+MID_MISSION_S201803SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201803SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201803SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201803SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201803SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201803SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201803STORY01_TITLE: The True Quarry
+MID_MISSION_S201803STORY01_A1: Clear 6-1 on Lunatic
+MID_MISSION_H_S201803STORY01_A1: Clear Book II, Chapter 6: Part 1 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201803STORY01_A2: Clear 6-2 on Lunatic
+MID_MISSION_H_S201803STORY01_A2: Clear Book II, Chapter 6: Part 2 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201803STORY01_A3: Clear 6-3 on Lunatic
+MID_MISSION_H_S201803STORY01_A3: Clear Book II, Chapter 6: Part 3 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201803STORY01_A4: Clear 6-4 on Lunatic
+MID_MISSION_H_S201803STORY01_A4: Clear Book II, Chapter 6: Part 4 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201803STORY01_A5: Clear 6-5 on Lunatic
+MID_MISSION_H_S201803STORY01_A5: Clear Book II, Chapter 6: Part 5 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MPID_クロム2: Chrom
+MPID_ジェローム: Gerome
+MPID_マーク女: Morgan
+MPID_マーク男: Morgan
+MPID_HONOR_クロム2: Knight Exalt
+MPID_HONOR_ジェローム: Masked Rider
+MPID_HONOR_マーク女: Lass from Afar
+MPID_HONOR_マーク男: Lad from Afar
+MPID_H_クロム2: The prince of Ylisse, awakened to new power.\nBravely rides into battle on his stalwart steed.\nAppears in Fire Emblem Awakening.
+MPID_H_ジェローム: Cherche's son. Unaccustomed to interpersonal\ninteractions. His wyvern Minerva belonged to his\nlate mother. Appears in Fire Emblem Awakening.
+MPID_H_マーク女: Robin's daughter. An aspiring tactician with\nno memory. Cheerful and loves to study.\nAppears in Fire Emblem Awakening.
+MPID_H_マーク男: Robin's son. An aspiring tactician with\nno memory. Cheerful and loves to study.\nAppears in Fire Emblem Awakening.
+MPID_VOICE_クロム2: Matt Mercer
+MPID_VOICE_ジェローム: Orion Acaba
+MPID_VOICE_マーク女: Nicole Balick
+MPID_VOICE_マーク男: Todd Haberkorn
+MPID_ILLUST_クロム2: Yamada Kotaro (山田孝太郎)
+MPID_ILLUST_ジェローム: Meka (めか)
+MPID_ILLUST_マーク女: Tobi
+MPID_ILLUST_マーク男: Tobi
+MID_SEQUENTIAL_MAP_TERM_201803: Invisible Ties
+MSID_深き印の風: Wind's Brand
+MSID_第8迷宮の覇者1: Squad Ace H 1
+MSID_第8迷宮の覇者2: Squad Ace H 2
+MSID_第8迷宮の覇者3: Squad Ace H 3
+MSID_封剣ファルシオン: Sealed Falchion
+MSID_ポールアクス: Poleaxe
+MSID_ポールアクス＋: Poleaxe+
+MSID_魔書ギムレー: Grima's Truth
+MSID_ブラーサーペント: Blárserpent
+MSID_ブラーサーペント＋: Blárserpent+
+MSID_鬼神明鏡の構え1: Mirror Stance 1
+MSID_鬼神明鏡の構え2: Mirror Stance 2
+MSID_守備の封印1: Chill Def 1
+MSID_守備の封印2: Chill Def 2
+MSID_守備の封印3: Chill Def 3
+MSID_強化無効・遠距離1: Dull Ranged 1
+MSID_強化無効・遠距離2: Dull Ranged 2
+MSID_強化無効・遠距離3: Dull Ranged 3
+MSID_H_深き印の風: At start of turn, inflicts Atk-7 on foe\non the enemy team with the highest\nAtk through its next action.
+MSID_H_ジークリンデ改: At start of turn, grants Atk+4 to adjacent allies for\n1 turn.
+MSID_H_ブリュンヒルデ改: Reduces damage from magic foe's first attack\nby 30%.
+MSID_H_アウルR: During combat, boosts unit's Atk/Spd/Def/Res\nby number of adjacent allies × 2.
+MSID_H_強化共有R: Grants bonus to Atk/Spd/Def/Res = highest bonus\non allies within 2 spaces during combat.\nCalculates each stat bonus independently.
+MSID_H_追撃不可R遠守備1: If foe uses bow, dagger, magic, or staff and\nunit's Def > foe's Def, foe cannot make a\nfollow-up attack.
+MSID_H_第8迷宮の覇者1: Grants Res+1.
+MSID_H_第8迷宮の覇者2: Grants Res+2.
+MSID_H_第8迷宮の覇者3: Grants Res+3.
+MSID_H_封剣ファルシオン: Effective against dragon foes. At start of combat,\nif unit's HP < 100%, grants Atk/Spd/Def/Res+5\nduring combat.
+MSID_H_ポールアクス: Effective against cavalry foes.
+MSID_H_ポールアクス＋: Effective against cavalry foes.
+MSID_H_魔書ギムレー: Grants Def+3. After combat, if unit attacked,\ninflicts Atk/Spd-5 on target and foes within 2\nspaces of target through their next actions,\nand grants Atk/Spd+5 to unit and allies within\n2 spaces for 1 turn.
+MSID_H_ブラーサーペント: If foe initiates combat and uses bow, dagger,\nmagic, or staff, grants Def/Res+6 during combat.
+MSID_H_ブラーサーペント＋: If foe initiates combat and uses bow, dagger,\nmagic, or staff, grants Def/Res+6 during combat.
+MSID_H_鬼神明鏡の構え1: If foe initiates combat, grants Atk/Res+2 during\ncombat.
+MSID_H_鬼神明鏡の構え2: If foe initiates combat, grants Atk/Res+4 during\ncombat.
+MSID_H_守備の封印1: At start of turn, inflicts Def-3 on foe\non the enemy team with the highest\nDef through its next action.
+MSID_H_守備の封印2: At start of turn, inflicts Def-5 on foe\non the enemy team with the highest\nDef through its next action.
+MSID_H_守備の封印3: At start of turn, inflicts Def-7 on foe\non the enemy team with the highest\nDef through its next action.
+MSID_H_強化無効・遠距離1: At start of combat, if unit's HP = 100% and foe\nuses bow, dagger, magic, or staff, neutralizes\nfoe's bonuses (from skills like Fortify, Rally, etc.)\nduring combat.
+MSID_H_強化無効・遠距離2: At start of combat, if unit's HP ≥ 50% and foe uses\nbow, dagger, magic, or staff, neutralizes foe's\nbonuses (from skills like Fortify, Rally, etc.) during\ncombat.
+MSID_H_強化無効・遠距離3: If foe uses bow, dagger, magic, or staff,\nneutralizes foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MID_CHAPTER_TITLE_C0206: Book II, Chapter 6
+MID_CHAPTER_C0206: The True Quarry
+MID_STAGE_TITLE_S2061: Chapter 6: Part 1
+MID_STAGE_TITLE_S2062: Chapter 6: Part 2
+MID_STAGE_TITLE_S2063: Chapter 6: Part 3
+MID_STAGE_TITLE_S2064: Chapter 6: Part 4
+MID_STAGE_TITLE_S2065: Chapter 6: Part 5
+MID_STAGE_S2061: A Distant Dream
+MID_STAGE_S2062: The Branded Knight
+MID_STAGE_S2063: The Tactician's Daughter
+MID_STAGE_S2064: The Tactician's Son
+MID_STAGE_S2065: Sheathed Steel
+MID_HEADQUARTERS_TUTORIAL_DIALOG_00: Crush the enemy fortress and win!
+MID_WARPBASE_TUTORIAL_DIALOG_00: Warp to/from territory you control.
+MID_STAGE_TITLE_SB_0008: 8th Assault
+MID_CHAPTER_ST_C0203: Chapters 5 & 6
+MID_STAGE_TITLE_ST_S0205: Chapter 5
+MID_STAGE_TITLE_ST_S0206: Chapter 6
+MID_STAGE_TITLE_ST_S1206: Chapters 5 & 6
+MID_STAGE_HONOR_T0027: Bound Hero Battle
+MID_STAGE_T0027: C & L
+MID_STAGE_HONOR_V0221: Awakening
+MID_STAGE_V0221: Tharja
+MID_STAGE_HONOR_V0222: Awakening
+MID_STAGE_V0222: Olivia
+MID_STAGE_HONOR_V0223: Fates
+MID_STAGE_V0223: Odin
+MID_STAGE_HONOR_Q0001: Weekly
+MID_STAGE_Q0001: Rival Domains
+MID_STAGE_HONOR_Q0002: Weekly
+MID_STAGE_Q0002: Rival Domains
+MID_STAGE_HONOR_Q0003: Weekly
+MID_STAGE_Q0003: Rival Domains
+MID_STAGE_HONOR_Q0004: Weekly
+MID_STAGE_Q0004: Rival Domains
+MID_STAGE_HONOR_Q0005: Weekly
+MID_STAGE_Q0005: Rival Domains
+MID_STAGE_TITLE_BG_WATER_0001: Water 1
+MID_STAGE_BG_WATER_0001: Main Gates
+MID_STAGE_TITLE_BG_WATER_0002: Water 2
+MID_STAGE_BG_WATER_0002: Winding Path
+MID_STAGE_TITLE_BG_WATER_0003: Water 3
+MID_STAGE_BG_WATER_0003: Statuary
+MID_STAGE_TITLE_BG_WATER_0004: Water 4
+MID_STAGE_BG_WATER_0004: Arbor
+MID_STAGE_TITLE_BG_WATER_0005: Water 5
+MID_STAGE_BG_WATER_0005: Grotto
+MID_STAGE_TITLE_BG_WATER_0006: Water 6
+MID_STAGE_BG_WATER_0006: Sanctuary
+MID_STAGE_TITLE_BG_WIND_0001: Wind 1
+MID_STAGE_BG_WIND_0001: Main Gates
+MID_STAGE_TITLE_BG_WIND_0002: Wind 2
+MID_STAGE_BG_WIND_0002: Winding Path
+MID_STAGE_TITLE_BG_WIND_0003: Wind 3
+MID_STAGE_BG_WIND_0003: Statuary
+MID_STAGE_TITLE_BG_WIND_0004: Wind 4
+MID_STAGE_BG_WIND_0004: Arbor
+MID_STAGE_TITLE_BG_WIND_0005: Wind 5
+MID_STAGE_BG_WIND_0005: Grotto
+MID_STAGE_TITLE_BG_EARTH_0001: Earth 1
+MID_STAGE_BG_EARTH_0001: Main Gates
+MID_STAGE_TITLE_BG_EARTH_0002: Earth 2
+MID_STAGE_BG_EARTH_0002: Winding Path
+MID_STAGE_TITLE_BG_EARTH_0003: Earth 3
+MID_STAGE_BG_EARTH_0003: Statuary
+MID_STAGE_TITLE_BG_EARTH_0004: Earth 4
+MID_STAGE_BG_EARTH_0004: Arbor
+MID_STAGE_TITLE_BG_EARTH_0005: Earth 5
+MID_STAGE_BG_EARTH_0005: Grotto
+MID_STAGE_TITLE_BG_FIRE_0001: Fire 1
+MID_STAGE_BG_FIRE_0001: Main Gates
+MID_STAGE_TITLE_BG_FIRE_0002: Fire 2
+MID_STAGE_BG_FIRE_0002: Winding Path
+MID_STAGE_TITLE_BG_FIRE_0003: Fire 3
+MID_STAGE_BG_FIRE_0003: Statuary
+MID_STAGE_TITLE_BG_FIRE_0004: Fire 4
+MID_STAGE_BG_FIRE_0004: Arbor
+MID_STAGE_TITLE_BG_FIRE_0005: Fire 5
+MID_STAGE_BG_FIRE_0005: Grotto

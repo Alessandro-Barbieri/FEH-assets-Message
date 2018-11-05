@@ -1,0 +1,38 @@
+[Heroes Archive] (LAZWARD)
+
+
+Heroes Message Name: Message
+
+
+MID_LAZWARD_HOME1: Oye, ¿les gustará a las chicas\nel uniforme de los Guardianes?\nA mí el blanco no me convence...
+MID_LAZWARD_HOME2: Soy vasallo del señor Xander. Es mi\ndeber protegerlo a toda costa aunque\nsiempre me esté dando la tabarra.
+MID_LAZWARD_HOME3: ¡Eh, gracias por estar tan pendiente\nde nosotros! Cuando acabes la ronda,\n¿te vienes a tomar un té conmigo?
+MID_LAZWARD_HOME4: Tendríamos que ir juntos de excursión\nun día de estos. Seguro que hay sitios\npreciosos que todavía no he visto.
+MID_LAZWARD_HOME5: ¡Me has pillado bailando! Bueno...\nsolo era un ensayo, ¿eh? ¡La\ncoreografía aún no está completa!
+MID_LAZWARD_FRIEND: Hola, ¿tienes un momento, si no es\nmucha molestia? Traigo saludos para\nti de $Nf.
+MID_LAZWARD_LEVEL1: ¡Toma ya! Soy tan poderoso que\ncasi me da vergüenza...
+MID_LAZWARD_LEVEL2: Si sigo así, ¡volveré locas\na las damas!
+MID_LAZWARD_LEVEL3: ¡D-deja de mirarme, por favor!\nYa lo haré mejor...
+MID_LAZWARD_SKILL: ¡Cuánta generosidad! Gracias\npor darme tanto poder.
+MID_LAZWARD_JOIN: Soy Laslow, mercenario de Nohr.\n¿Puedo invitarte a tomar un té?\n¡Es lo mejor para romper el hielo!
+MID_LAZWARD_STRONGEST: ¡Justamente estaba pensando en ti,\n$Nu!\nDebe de ser cosa del destino.$k$pEs que hay algo que necesito\ncompartir contigo. Pero ¡solo si me\nprometes mantenerlo en secreto!$k$pVerás... Resulta que no es la primera\nvez que viajo entre mundos, ¿sabes?\nYa soy un experto en la materia.$k$pComo recordarás, llegué aquí\nprocedente de Nohr... pero no fue\nese el reino que me vio nacer, no...$k$pYo provengo de un mundo distinto,\ny al llegar a Nohr modifiqué mi\nnombre y mi aspecto.$k$pEn realidad me llamo Íñigo... Pero\nbueno, eso no cambia en nada la\nlealtad que te profeso.$k$p¡Ni la admiración que siento por ti!\nEn fin, y dicho todo esto... ¿qué tal\nsi me acompañas a tomar un té?
+MID_LAZWARD_VOICE01: はっ！
+MID_LAZWARD_VOICE02: でぇい！
+MID_LAZWARD_VOICE03: うあっ！
+MID_LAZWARD_VOICE04: That hurts...
+MID_LAZWARD_VOICE05: ¡Te tengo a mi merced!
+MID_LAZWARD_VOICE06: ¿Bailamos?
+MID_LAZWARD_VOICE07: ¡Hasta la vista!
+MID_LAZWARD_VOICE08: No me hagas reír.
+MID_LAZWARD_VOICE09: Sweet home—!
+MID_LAZWARD_VOICE10: Heehee
+MID_LAZWARD_VOICE11: I'm rather skilled as a dancer, you know.
+MID_LAZWARD_VOICE12: I have to admit, I shy from a steady gaze.
+MID_LAZWARD_VOICE13: I find that a smile brightens the darkest of days. Don't you?
+MID_LAZWARD_VOICE14: Join me in a laugh? It's the best medicine. Ha ha!
+MID_LAZWARD_VOICE15: The Order of Heroes has a fair share of exquisite creatures!
+MID_LAZWARD_VOICE16: Where is my Lord Xander? He gets so cross if he thinks I'm lazing about.
+MID_LAZWARD_VOICE17: How I enjoy our little tête-à-têtes. I hope to never leave your side.
+MID_LAZWARD_VOICE18: OK!
+MID_LAZWARD_VOICE19: Shall we?
+MID_LAZWARD_VOICE20: I'll do my best.

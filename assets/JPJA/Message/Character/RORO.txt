@@ -1,0 +1,38 @@
+[Heroes Archive] (RORO)
+
+
+Heroes Message Name: Message
+
+
+MID_RORO_HOME1: トクムキカン？\nなんだそれ、格好良い。\nオレ、そういうの大好き。
+MID_RORO_HOME2: オレはいっぱいいるし、\nオレは全員で一人。\nわかる？
+MID_RORO_HOME3: あり？　今日も見回り？\nあんたって実はヒマ人？\nウキキ。
+MID_RORO_HOME4: アイネとクライネ、オレの仲間。\nクライネはつんつんしてて、\nアイネが嫌いだけど、アイネが好き。
+MID_RORO_HOME5: オレのやってた訓練？\nオレとオレが戦って、\nどっちか死んだら終わり。
+MID_RORO_FRIEND: オレオレ、\nオレ$Nfの仲間。\n仲良くしよう、ウキキ。
+MID_RORO_LEVEL1: オレ、すごい。\nウキキ。
+MID_RORO_LEVEL2: オレ、まあまあ。
+MID_RORO_LEVEL3: オレ、ぜんぜんだめ…
+MID_RORO_SKILL: さあさあさあさあ、\n戦いに行こうぜー。
+MID_RORO_JOIN: あり？　あんたがオレを呼んだ？\nオレはローロー。オレもローロー。\nウキキ。
+MID_RORO_STRONGEST: オレ、めちゃくちゃ強くなった？\n強くて強い？　ウキキ。$k$pあんたがなんでオレを使うのか、\nオレはわからない。\nわかるようでわからないようでわからない。$k$pオレは壊れてる。\n心も、何もかも。\nなんか人間じゃない気がする。$k$pオレはあんたを好きだし、\nあんたをオレは嫌いだと思う。\nオレは壊れてるからよくわからない。$k$pでもオレはあんたと一緒にいる。\nよくわからないけど。ウキキ…
+MID_RORO_VOICE01: あーい
+MID_RORO_VOICE02: いーあ
+MID_RORO_VOICE03: うああっ！
+MID_RORO_VOICE04: あり？
+MID_RORO_VOICE05: さあさあさあさあ
+MID_RORO_VOICE06: まだまだまだまだ
+MID_RORO_VOICE07: オレとやろう
+MID_RORO_VOICE08: ウキキ
+MID_RORO_VOICE09: オレは…死なない…
+MID_RORO_VOICE10: ウキキ
+MID_RORO_VOICE11: ウキキ？　オレの出番？
+MID_RORO_VOICE12: オレの仮面の下、見たい？
+MID_RORO_VOICE13: オレたち仕事はきちんとする
+MID_RORO_VOICE14: あいあい、オレたちきょうだい
+MID_RORO_VOICE15: いあいあ、オレはいっぱいいる
+MID_RORO_VOICE16: オレは誰か、オレも忘れた
+MID_RORO_VOICE17: あんた、良い奴。オレ、嬉しい
+MID_RORO_VOICE18: あいあい
+MID_RORO_VOICE19: オレもオレも
+MID_RORO_VOICE20: 仕事する

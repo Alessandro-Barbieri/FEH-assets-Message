@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: アルフォンス王子にこの装束を勧めたら\n快く着てくれたのだが…\n…俺よりも似合っていて悔しかった。
+MID_CHROM_WINTER01_HOME2: 冬祭りの日、イーリス城の内部は\n赤や緑の装飾で彩られていた。\nこの場所も飾り付けてみるか？
+MID_CHROM_WINTER01_HOME3: お前はそんな格好で寒くないのか？\n召喚師に倒れられては英雄の名が廃る…\n良ければマントくらい貸すぞ。
+MID_CHROM_WINTER01_HOME4: 任務の合間に、町に案内してくれ。\nいつも頑張っている英雄たちに何か\n贈り物を用意したいと思う。
+MID_CHROM_WINTER01_HOME5: 袋の中身を確認していた。\n軍の皆への贈り物が入っているから\n失くさないように持ち帰らないとな。
+MID_CHROM_WINTER01_FRIEND: 冬祭りおめでとう。\n$Nuに挨拶と…\nいい子にしていた褒美を届けに来たぞ。
+MID_CHROM_WINTER01_LEVEL1: よし、聖者の贈り物は\n俺にも届いたようだな。
+MID_CHROM_WINTER01_LEVEL2: 贈り物袋で戦ったにしては\n頑張った方ではないか？
+MID_CHROM_WINTER01_LEVEL3: むう…せっかくの祭りだというのに、\n何がダメだったんだ。
+MID_CHROM_WINTER01_SKILL: 俺にも冬祭りの贈り物をくれるのか？\n礼を言うぞ。
+MID_CHROM_WINTER01_JOIN: 冬祭りおめでとう。\n俺はイーリス聖王国の王子クロム。\nお前は今年、いい子にしていたか？
+MID_CHROM_WINTER01_STRONGEST: 来たのか、$Nu。\n寒い中来てくれるのはいいが、\n風邪でもひいたら冬祭りを楽しめんぞ？$k$pイーリスでは冬祭りの日、\n親しい者に贈り物をする習慣がある。\n本来なら俺は配る側のはずなのだが…$k$pアスク王国に来てからというもの、\nお前から贈り物をもらってばかりだな。\n…なんだ、心当たりがないのか？$k$p贈り物は何も、モノだけではない。\nお前はいつも俺を気にかけてくれる。\n傍にいて、励まして、強くしてくれる。$k$pそれが俺にとっては何より嬉しいんだ。\nありがとう…お前には感謝している。\nいつか俺からも贈り物をさせてくれ。
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: おいやめろ！
+MID_CHROM_WINTER01_VOICE05: 贈り物だ！
+MID_CHROM_WINTER01_VOICE06: 受け取れええ！
+MID_CHROM_WINTER01_VOICE07: これが祝いだ！
+MID_CHROM_WINTER01_VOICE08: 本気で行くぞ！
+MID_CHROM_WINTER01_VOICE09: イーリスに戻るか…
+MID_CHROM_WINTER01_VOICE10: ふふ…
+MID_CHROM_WINTER01_VOICE11: リズに言われて、この格好をしていた
+MID_CHROM_WINTER01_VOICE12: プレゼントは何がいいんだ？
+MID_CHROM_WINTER01_VOICE13: 異国の冬祭りの装束だ…おい、笑うな
+MID_CHROM_WINTER01_VOICE14: 俺には赤が大して似合わんということが証明されたな
+MID_CHROM_WINTER01_VOICE15: これは大きめのケーキナイフではない、ファルシオンだ
+MID_CHROM_WINTER01_VOICE16: なぜパーティーの最中に呼び出されたんだ…
+MID_CHROM_WINTER01_VOICE17: お前、靴下は持っているか？\n今夜はそれを枕元につるして…なるべく深く眠っていろ
+MID_CHROM_WINTER01_VOICE18: ああ
+MID_CHROM_WINTER01_VOICE19: 行こう
+MID_CHROM_WINTER01_VOICE20: 祭りか？

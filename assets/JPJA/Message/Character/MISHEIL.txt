@@ -1,0 +1,38 @@
+[Heroes Archive] (MISHEIL)
+
+
+Heroes Message Name: Message
+
+
+MID_MISHEIL_HOME1: 異世界の英雄どもが居並ぶ城、か。\n奴らを配下に従えたならば、\n並ぶもののない強国になるだろうな。
+MID_MISHEIL_HOME2: 俺は父王を殺し、王位を簒奪した。\n誰に操られたわけでもなく…\n俺自身の意志でな。
+MID_MISHEIL_HOME3: 貴様に礼など言わんぞ。\n俺を御せるというのならば\nやってみるがいい。
+MID_MISHEIL_HOME4: マルス…奴のことは好きになれん。\n俺とは生涯相容れぬだろう。\nだが…奴は確かに王の器だ。
+MID_MISHEIL_HOME5: 俺とミネルバは敵同士、\n今さら兄妹には戻れぬ。だが、\n妹のマリアのことだけは気がかりだ…
+MID_MISHEIL_FRIEND: $Nfに頼まれた。\n貴様に挨拶しろとな。\n…王に使い走りとは不遜極まる…
+MID_MISHEIL_LEVEL1: 我が野望の炎は\nいまだ潰えぬ！
+MID_MISHEIL_LEVEL2: この程度で喜ぶな。\n俺にしてみれば当然の事だ。
+MID_MISHEIL_LEVEL3: こんなところで…\n足踏みなどしていられん…
+MID_MISHEIL_SKILL: 運命はまだ俺に\n戦い続けろと言うのか…
+MID_MISHEIL_JOIN: 我はミシェイル。\nマケドニア王ミシェイルだ。
+MID_MISHEIL_STRONGEST: 俺は一度は死んだ身…\nミネルバに破れ、\nあの戦で描いていた野望は潰えた…$k$pそのはずだったが…\n俺の虚ろな胸の内に\n燻るものがある…$k$pそれは、認めたくはないが…\n貴様と過ごす日々の中で\n少しずつ芽生えたものなのやもしれぬ…$k$p俺は貴様という力を得て、\n再び世界の覇者たらんと望んでいるのか…\nそれとも…$k$pまあ良い。\n我が心が定まるまで、今しばらく\n貴様の座興に付き合ってやろう。
+MID_MISHEIL_VOICE01: はぁっ！
+MID_MISHEIL_VOICE02: むんっ！
+MID_MISHEIL_VOICE03: うああっ！
+MID_MISHEIL_VOICE04: この俺が…
+MID_MISHEIL_VOICE05: 面白い
+MID_MISHEIL_VOICE06: 失せるがいい
+MID_MISHEIL_VOICE07: くれてやるぞ
+MID_MISHEIL_VOICE08: 光栄に思え
+MID_MISHEIL_VOICE09: 無様だな…
+MID_MISHEIL_VOICE10: フン
+MID_MISHEIL_VOICE11: 俺を気安く呼ぶな
+MID_MISHEIL_VOICE12: 貴様…何のつもりだ？
+MID_MISHEIL_VOICE13: マケドニア王、ミシェイルだ
+MID_MISHEIL_VOICE14: 世界の覇者、それが望みだ。
+MID_MISHEIL_VOICE15: 王に対して物怖じせぬか。
+MID_MISHEIL_VOICE16: せめてもの罪滅ぼし、か…
+MID_MISHEIL_VOICE17: この俺が力を貸してやろう。
+MID_MISHEIL_VOICE18: いいだろう
+MID_MISHEIL_VOICE19: ふむ…
+MID_MISHEIL_VOICE20: これも一興

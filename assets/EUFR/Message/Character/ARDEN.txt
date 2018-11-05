@@ -1,0 +1,38 @@
+[Heroes Archive] (ARDEN)
+
+
+Heroes Message Name: Message
+
+
+MID_ARDEN_HOME1: Ça, c'est un beau château, bien\nsolide. Et croyez-moi, en tant que\ngarde, je m'y connais !
+MID_ARDEN_HOME2: En ce moment, les choses vont plutôt\nmal, dans mon monde. Moi, je me\ncontente de servir le seigneur Sigurd.
+MID_ARDEN_HOME3: Un jour, j'aimerais me marier, avoir\ndes enfants et travailler dur pour ma\nfamille...
+MID_ARDEN_HOME4: Vous voulez essayer mon armure ?\nAllons, vous n'arriveriez même pas à\ntenir debout !
+MID_ARDEN_HOME5: Si vous avez besoin de protection,\nvous pouvez compter sur moi.$k$pMais essayez de m'appeler en\navance, je mettrai sûrement un\nmoment à arriver.
+MID_ARDEN_FRIEND: Arden au rapport ! Vous devez être\n$Nu.$k$p$Nf m'envoie\nvous transmettre un message.
+MID_ARDEN_LEVEL1: Je suis fort... et je ne suis pas\nun lambin !
+MID_ARDEN_LEVEL2: J'ai l'impression que mon armure\nest devenue plus légère !
+MID_ARDEN_LEVEL3: Je sens comme un grand poids\nsur mes épaules.
+MID_ARDEN_SKILL: Je ferai tout pour ne pas vous\ndécevoir !
+MID_ARDEN_JOIN: Je m'appelle Arden ! Je suis l'un des\nhommes du seigneur Sigurd de\nChalphy. Enchanté !
+MID_ARDEN_STRONGEST: Pourquoi est-ce que tout le monde\npart toujours sans moi ?$k$pÀ vrai dire, je comprends... Mon\narmure est lourde, et à cause\nde ça, je suis trop lent.$k$pMais c'est mon travail ! Je suis un\nchevalier en armure, je dois en\nporter une pour protéger les gens !$k$pJe ne vais pas abandonner mon\nposte, alors je dois me faire à\nl'idée.$k$pEnfin... Merci de m'avoir écouté me\nplaindre. Je me sens beaucoup\nmieux, maintenant !
+MID_ARDEN_VOICE01: ふんっ！
+MID_ARDEN_VOICE02: おりゃっ！
+MID_ARDEN_VOICE03: うああっ！
+MID_ARDEN_VOICE04: This ain't good...
+MID_ARDEN_VOICE05: Je suis plus fort que vous !
+MID_ARDEN_VOICE06: Je suis le plus fort !
+MID_ARDEN_VOICE07: Aah !
+MID_ARDEN_VOICE08: Je ne vais pas perdre !
+MID_ARDEN_VOICE09: I lived like I wanted...
+MID_ARDEN_VOICE10: Ahaha!
+MID_ARDEN_VOICE11: Hey! Don't forget to put me on the front line!
+MID_ARDEN_VOICE12: Huh? You want to try on my armor? You pulling my leg?
+MID_ARDEN_VOICE13: Strong and tough is good. I like that. But I'm beggin' ya... Don't call me slow.
+MID_ARDEN_VOICE14: Phew! So damn tired. This is some heavy armor.
+MID_ARDEN_VOICE15: If I was a little bit quicker, I might have more luck with the ladies.
+MID_ARDEN_VOICE16: It's a cryin' shame. I'm strong and I'm tough, but...
+MID_ARDEN_VOICE17: I like fighting with you! I do a lot better than I normally would.
+MID_ARDEN_VOICE18: I'm beat!
+MID_ARDEN_VOICE19: My turn?
+MID_ARDEN_VOICE20: Full power!

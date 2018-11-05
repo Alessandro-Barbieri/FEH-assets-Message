@@ -1,0 +1,38 @@
+[Heroes Archive] (VIAUR)
+
+
+Heroes Message Name: Message
+
+
+MID_VIAUR_HOME1: うーむ、貴族的に退屈だ。\n鏡の前に行って美しいものでも\n眺めることにしようかね。
+MID_VIAUR_HOME2: 私はヴァルム大陸ロザンヌ地方を治める\nれっきとした貴族なのだよ。\n今は故あって領地から離れているがね。
+MID_VIAUR_HOME3: おや…見回り、ご苦労だね。\n君の頑張りはいつも見ているとも。\n貴族的な熱視線…嬉しいだろう？
+MID_VIAUR_HOME4: ああ君、私とチェスをしないかい？\nもちろん卑劣な手は後半にしか使わないさ。\nおっと、なんだねその嫌そうな顔は。
+MID_VIAUR_HOME5: 私は今ハーブティーを飲んでいたのだよ。\nその辺に生えていた新鮮なハーブを使って…\nなに、これはただの雑草だと…！？
+MID_VIAUR_FRIEND: ごきげんよう、諸君。\n$Nfくんからの\n挨拶の言葉を、優雅に伝えに来たよ。
+MID_VIAUR_LEVEL1: あぁ…皆の羨望の\n眼差しが痛い…
+MID_VIAUR_LEVEL2: 貴族的にはこれくらい\n当然だよ…
+MID_VIAUR_LEVEL3: なんと！\nあまり変わらなかったね。
+MID_VIAUR_SKILL: どうだい、美しく華麗な姿…\n惚れ惚れするだろう？
+MID_VIAUR_JOIN: 私はヴィオール。\nとある国から流れてきた、美しき貴族だよ。\n来たからには華麗に活躍させてもらおう。
+MID_VIAUR_STRONGEST: おや、$Nuくん。\n今、異国の盤面遊びに興じていたのだが…\n暇をしているのなら君も試さないかい？$k$pこれが戦場、この美しい小石が私。\n実際の戦のように駒を動かすんだよ。\nそうそう、さすが飲み込みが早いね。$k$p…おや、その小石を見捨てないのかい？\n戦略上、それさえ犠牲にすれば…\n他の味方はずいぶん楽になるんだがね。$k$pそれに、私や他の誰を失ったとしても、\nまた新しい英雄を召喚すれば戦力は…\n…それは嫌だ？　そうか…ありがとう。$k$p君も誰一人犠牲にしない精神の者なのだね。\nでは、一番初めに召喚された英雄として、\n我が主の期待に応えよう…貴族的にね。
+MID_VIAUR_VOICE01: はっ！
+MID_VIAUR_VOICE02: そぉれ！
+MID_VIAUR_VOICE03: おわっ！？
+MID_VIAUR_VOICE04: 困ったねえ…
+MID_VIAUR_VOICE05: 華麗な一撃を…！
+MID_VIAUR_VOICE06: 活躍させてもらう
+MID_VIAUR_VOICE07: 優雅に行こう
+MID_VIAUR_VOICE08: 贈り物だよ
+MID_VIAUR_VOICE09: なんてことだ…
+MID_VIAUR_VOICE10: ふっ…
+MID_VIAUR_VOICE11: ごきげんよう、今日も元気そうだね
+MID_VIAUR_VOICE12: ハーブティーが飲みたい気分だよ
+MID_VIAUR_VOICE13: 私の優雅な所作にうっとりしているのかい？
+MID_VIAUR_VOICE14: お洒落なスカーフだろう？　なに？　よだれかけだと…！？
+MID_VIAUR_VOICE15: ちょ、ちょっと君…そんな目で見るのはやめてくれたまえ！
+MID_VIAUR_VOICE16: ふむ…何か貴族的な暇つぶし方法はないものか…
+MID_VIAUR_VOICE17: 戦が終わるまではこの私が手を貸そう。\nあくまで、貴族的にね…
+MID_VIAUR_VOICE18: ああ
+MID_VIAUR_VOICE19: 承知したよ
+MID_VIAUR_VOICE20: 貴族的にね

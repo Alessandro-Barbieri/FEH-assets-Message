@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_LEGEND01_HOME1: アスク王国は不思議なところね。\n故郷の草原ともキアランとも違う…\nでもなぜか…懐かしい気持ちになるの。
+MID_LIN_LEGEND01_HOME2: 草原の民は、狩りで何本も矢を放たないわ。\n一射で仕留めるの。\n獲物を長く苦しませないように。
+MID_LIN_LEGEND01_HOME3: あなたが楽になるように\n私がしてあげられることって…\n…肩をほぐしてあげる、とか？
+MID_LIN_LEGEND01_HOME4: この弓には精霊の加護が宿っているの。\nほら、そっと触ってみて…\n草原の風を感じるでしょう？
+MID_LIN_LEGEND01_HOME5: ひゃあっ！？\nちょ、ちょっと、瞑想している時は\n急に肩をたたかないで…！
+MID_LIN_LEGEND01_FRIEND: $Nfから挨拶よ。\nこれからも良い関係で\nいられたら嬉しいわ。
+MID_LIN_LEGEND01_LEVEL1: すごい…きっと\n精霊たちのおかげね。
+MID_LIN_LEGEND01_LEVEL2: 追い風よ。\n矢も良く飛びそう。
+MID_LIN_LEGEND01_LEVEL3: 向かい風ね…\nでも、次を見てて。
+MID_LIN_LEGEND01_SKILL: あなたがいてくれるから、\n私は戦えるの。
+MID_LIN_LEGEND01_JOIN: 私はリンディス。あなたの力になるわ。\n人々を苦しめる災いがあるのなら、\nそれを払うために戦いたいの。
+MID_LIN_LEGEND01_STRONGEST: 私とエリウッドとヘクトルは、\nみんなで大きな戦いに挑んで…\nそして、世界を覆う災いを振り払ったわ。$k$p大賢者アトス様は言ったの。\n凶星が来る時、この地は再び血にまみれる…\n…私は、その日が来ることを恐れていた。$k$pでも…今はもう、怖くない。\n一度救えたのなら、次だって…\nあなたと一緒にいると、そう思えるの。$k$p草原でたった一人だったあの時も…\n不安で胸が締めつけられそうな時も…\nあなたがいてくれたから…私は…$k$pありがとう、$Nu。\n私の、とても大切な人…
+MID_LIN_LEGEND01_VOICE01: はぁっ！
+MID_LIN_LEGEND01_VOICE02: 風よ…
+MID_LIN_LEGEND01_VOICE03: きゃああっ！
+MID_LIN_LEGEND01_VOICE04: 負けない…！
+MID_LIN_LEGEND01_VOICE05: 終わりにするわ！
+MID_LIN_LEGEND01_VOICE06: 狙いは不要
+MID_LIN_LEGEND01_VOICE07: 一射一殺
+MID_LIN_LEGEND01_VOICE08: 正射必中
+MID_LIN_LEGEND01_VOICE09: みんな…許して…
+MID_LIN_LEGEND01_VOICE10: ふふふ
+MID_LIN_LEGEND01_VOICE11: リンよ。伝承の英雄…？　私はそんな大それた人間じゃないわ。
+MID_LIN_LEGEND01_VOICE12: きゃあっ！？　…だから、怒るって言ったでしょ！
+MID_LIN_LEGEND01_VOICE13: すぅぅぅ…はぁぁぁ…
+MID_LIN_LEGEND01_VOICE14: 感じる…？　肌を撫でるこの風に…矢を乗せるの。
+MID_LIN_LEGEND01_VOICE15: 撃てば、狙った場所に行く。ずっと鍛錬してたら、そうなってたわ。
+MID_LIN_LEGEND01_VOICE16: 一つの世界を救えたのなら、この世界も…
+MID_LIN_LEGEND01_VOICE17: ずっと傍にいてね。大切な人を…失いたくないから…
+MID_LIN_LEGEND01_VOICE18: いくわ
+MID_LIN_LEGEND01_VOICE19: 策を考えてるの？
+MID_LIN_LEGEND01_VOICE20: 射抜いてみせるわ

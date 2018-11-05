@@ -1,0 +1,38 @@
+[Heroes Archive] (LEAF)
+
+
+Heroes Message Name: Message
+
+
+MID_LEAF_HOME1: この穏やかに見える世界にも争いが…\nでも、諦めなければ何とかなるはずだ。\nそう、必ず…
+MID_LEAF_HOME2: ぼくの故郷は帝国に占領されてしまった。\nだけど、必ず取り戻してみせる。\n亡き父上に誓って。
+MID_LEAF_HOME3: やあ、見回りをしているのかい？\n人を率いる者としてその細かな気遣い、\nぼくも見習わないといけないね。
+MID_LEAF_HOME4: そうだ、$Nu。\nよかったら話をしていかないか？\n少しでも知識を蓄えておきたいからね。
+MID_LEAF_HOME5: 剣の稽古をしていたんだ。\n聖戦士の血を継ぐ者に\nふさわしい強さを身につけないと。
+MID_LEAF_FRIEND: ここが$Nuの城かい？\n$Nfからの\n挨拶を届けに来たんだ。
+MID_LEAF_LEVEL1: この力で、みんなを助けてみせる！
+MID_LEAF_LEVEL2: よし、また強くなった…！
+MID_LEAF_LEVEL3: ぼくの力はこんなものなのか…？
+MID_LEAF_SKILL: ぼくに力を授けてくれるのかい？\nきっとその期待に応えてみせるよ！
+MID_LEAF_JOIN: ぼくはレンスターの王子リーフ。\n未熟者だけど君の力になれるよう頑張るよ。\n
+MID_LEAF_STRONGEST: やあ、$Nu、\nきみのおかげで、ぼくはここまで強くなれた。\n本当に感謝しているよ。$k$pぼくは聖戦士の血を引いているけれど\nまだ父上には遠く及ばないし、\n聖なる武器を扱うこともできない。$k$pそれで気が焦ってばかりで、\n取り返しのつかない失敗を\nしてしまった事もある…$k$pだけど、人は急に強くなるなんてできない。\n少しずつ、進んでいくしかないんだ。\nだから…$k$pこれからも、きみと共に戦うことで\n確かな強さを身につけていきたいんだ。\n大切な人たちを守れる強さを。
+MID_LEAF_VOICE01: はっ！
+MID_LEAF_VOICE02: ええいっ！
+MID_LEAF_VOICE03: うああっ！
+MID_LEAF_VOICE04: このくらい…！
+MID_LEAF_VOICE05: もう逃げない！
+MID_LEAF_VOICE06: どんなことでも！
+MID_LEAF_VOICE07: ぼくが取り戻す！
+MID_LEAF_VOICE08: 戦わなければ！
+MID_LEAF_VOICE09: みんな…すまない…
+MID_LEAF_VOICE10: ふふ
+MID_LEAF_VOICE11: もっともっと、強くならなければ…
+MID_LEAF_VOICE12: わっ！？　え、今のがあなたの国の挨拶なのか？
+MID_LEAF_VOICE13: 祖国が落ちた夜…ぼくはフィンの腕の中で、呆然と赤い空を見上げていた…
+MID_LEAF_VOICE14: ぼくは守るべき民を捨て、城から逃げ出した…
+MID_LEAF_VOICE15: ぼくはもう、誰かを犠牲にして生きるのはいやなんだ。
+MID_LEAF_VOICE16: ぼくに、もう少しでも力があれば…
+MID_LEAF_VOICE17: 国を統べる者として、あなたから学ばせてほしい
+MID_LEAF_VOICE18: うん
+MID_LEAF_VOICE19: あなたの策は？
+MID_LEAF_VOICE20: 行こう

@@ -1,0 +1,38 @@
+[Heroes Archive] (EFI)
+
+
+Heroes Message Name: Message
+
+
+MID_EFI_HOME1: Je suis... dans un monde totalement\ndifférent du mien ? Bah, tant qu'Alm\nest dans le coin, ça me va.
+MID_EFI_HOME2: Je n'aime pas tellement me battre,\nmais Alm a rejoint la Délivrance...\nalors je l'ai suivi !
+MID_EFI_HOME3: Encore en patrouille ? Merci de nous\nprotéger ! Si vous croisez Alm, vous\npourriez lui faire passer un message ?$k$pOh, pas grand-chose... Juste un petit\ncoucou de ma part !
+MID_EFI_HOME4: Le royaume d'Askr est si joli !\nJ'aimerais visiter tous ses recoins...\nPas besoin de vous dire avec qui.
+MID_EFI_HOME5: Je brode un porte-bonheur. Alm\nm'a toujours porté chance, alors je\npense à lui à chaque coup d'aiguille !
+MID_EFI_FRIEND: Oh, bonjour ! Vous êtes\n$Nu ?$k$pDevinez qui m'envoie...\nC'est $Nf !
+MID_EFI_LEVEL1: Je dois m'améliorer,\npour Alm et tous les autres !
+MID_EFI_LEVEL2: Qu'est-ce que vous en dites ?\nPas mal, non ?
+MID_EFI_LEVEL3: Oh... J'ai pourtant\nfait de mon mieux.
+MID_EFI_SKILL: Comme c'est gentil ! Avec ça,\nje vais me rendre plus utile !
+MID_EFI_JOIN: Je suis Faye. J'espère vous être utile.\nJe me suis un peu entraînée avec la\nDélivrance, pour Alm et mes amis.
+MID_EFI_STRONGEST: Oh ! Ah, c'est vous,\n$Nu.$k$pDès que j'aperçois une\nsilhouette, j'espère que c'est...\nvous savez qui.$k$pEt vous savez quoi ? Vous n'êtes\npas Alm, mais ce n'est pas grave.\nPlus maintenant, en tout cas.$k$pParfois, on est tellement obsédé\npar une personne qu'on en oublie\ncelles qui sont à nos côtés.$k$pJ'imagine que ça vous étonne,\nque je dise ce genre de choses,\nmais c'est vrai.$k$pJ'en ai la preuve. Je fabrique un\nporte-bonheur pour vous. J'ai pensé\nà vous à chaque coup d'aiguille.$k$pJ'espère qu'il vous plaît ! Vous êtes\ntrès $Gimportant,importante| pour moi, alors\nje veux qu'il soit magnifique !
+MID_EFI_VOICE01: ええいっ
+MID_EFI_VOICE02: Gotcha!
+MID_EFI_VOICE03: っあっ…
+MID_EFI_VOICE04: Ahhhhh!
+MID_EFI_VOICE05: Ça suffit !
+MID_EFI_VOICE06: J'en ai assez !
+MID_EFI_VOICE07: Vous avez commis une erreur.
+MID_EFI_VOICE08: Pour Alm !
+MID_EFI_VOICE09: Alm...
+MID_EFI_VOICE10: Heehee...
+MID_EFI_VOICE11: Now, now—what do you want?
+MID_EFI_VOICE12: Oh, you! Trying to get my attention?
+MID_EFI_VOICE13: Oh, Alm... Can't you see how much I love you?
+MID_EFI_VOICE14: I'd love to show you our village someday.
+MID_EFI_VOICE15: What do I like? Sewing, flowers, and...sewing flowers. How about you?
+MID_EFI_VOICE16: I wonder what Alm is thinking about right now...
+MID_EFI_VOICE17: I'm really fond of Alm, as you know by now. But I've come to care for you too!
+MID_EFI_VOICE18: OK.
+MID_EFI_VOICE19: All right.
+MID_EFI_VOICE20: Try my best.

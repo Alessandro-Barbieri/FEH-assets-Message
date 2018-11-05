@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: Das Paket kann nicht gekauft werden.\nDu hast dieses Paket bereits gekauft\nund kannst es nicht noch einmal kaufen.
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Hallo, $Nu!\nWie schön, Euch zu sehen!$k$pIch bin wirklich froh, dass es Euch\ngut geht. Ich dachte schon, Euch\nwäre etwas zugestoßen...$k$p$EFace_Smile|Aber jetzt muss ich mir keine Sorgen\nmehr machen! Wir können Eure\nHilfe im Kampf gut gebrauchen!$k$p
+MID_MISSION_S201801ARENA01_TITLE: Arena
+MID_MISSION_S201801ARENA01_A1: Gewinne Arenaduell
+MID_MISSION_H_S201801ARENA01_A1: Gewinne ein Arenaduell eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A2: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A2: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A3: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A3: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A4: Arenaüberfall: 3 Siege
+MID_MISSION_H_S201801ARENA01_A4: Gewinne beim Arenaüberfall\ndrei Kämpfe in Folge.
+MID_MISSION_S201801ARENA01_A5: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A7: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A7: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A8: Arenaüberfall: 5 Siege
+MID_MISSION_H_S201801ARENA01_A8: Gewinne beim Arenaüberfall\nfünf Kämpfe in Folge.
+MID_MISSION_S201801ARENA01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A11: Gewinne Arenaduelle
+MID_MISSION_H_S201801ARENA01_A11: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201801ARENA01_A12: Arenaüberfall: 7 Siege
+MID_MISSION_H_S201801ARENA01_A12: Gewinne beim Arenaüberfall\nsieben Kämpfe in Folge.
+MID_MISSION_S201801SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201801SENKA01_DAILY_A1: Prüfung abschließen (!)
+MID_MISSION_H_S201801SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA01_DAILY_A2: Prüfung abschließen (!)
+MID_MISSION_H_S201801SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA01_DAILY_A3: Prüfung abschließen (!)
+MID_MISSION_H_S201801SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801SENKA01_DAILY_A4: Prüfung abschließen (!)
+MID_MISSION_H_S201801SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201801STORY01_TITLE: Auf Traumpfaden
+MID_MISSION_S201801STORY01_A1: Kap. 3 Tl. 1 - Extrem
+MID_MISSION_H_S201801STORY01_A1: Bewältige Buch II: Kap. 3/Tl. 1 auf Extrem\nmit einem Lanzenträger im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY01_A2: Kap. 3 Tl. 2 - Extrem
+MID_MISSION_H_S201801STORY01_A2: Bewältige Buch II: Kap. 3/Tl. 2 auf\nExtrem mit einem Axtträger im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY01_A3: Kap. 3 Tl. 3 - Extrem
+MID_MISSION_H_S201801STORY01_A3: Bewältige Buch II: Kap. 3/Tl. 3 auf Extrem\nmit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY01_A4: Kap. 3 Tl. 4 - Extrem
+MID_MISSION_H_S201801STORY01_A4: Bewältige Buch II: Kap. 3/Tl. 4 auf Extrem\nmit einem Lanzenträger im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801STORY01_A5: Kap. 3 Tl. 5 - Extrem
+MID_MISSION_H_S201801STORY01_A5: Bewältige Buch II: Kap. 3/Tl. 5 auf\nExtrem mit einem Axtträger im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801TRIAL01_TITLE: Serienprüfung
+MID_MISSION_S201801TRIAL01_A1: Serienprüfung
+MID_MISSION_H_S201801TRIAL01_A1: Bewältige in der Serienprüfung\ndie letze Karte in Kapitel 1.
+MID_MISSION_S201801TRIAL01_A2: Serienprüfung
+MID_MISSION_H_S201801TRIAL01_A2: Bewältige in der Serienprüfung\ndie letze Karte in Kapitel 2 im\nModus Schwer oder höher.
+MID_MISSION_S201801TRIAL01_A3: Serienprüfung
+MID_MISSION_H_S201801TRIAL01_A3: Bewältige in der Serienprüfung\ndie letze Karte in Kapitel 1 und 2\nim Modus Extrem.
+MID_MISSION_S201801TRIAL01_A4: Gruppenüberfall
+MID_MISSION_H_S201801TRIAL01_A4: Bewältige im Gruppenüberfall\ndie letzte Karte des 3. Überfalls.
+MID_MISSION_S201801VMAP01_TITLE: Veredelte Waffen
+MID_MISSION_S201801VMAP01_A1: Teil 1
+MID_MISSION_H_S201801VMAP01_A1: Bewältige Teil 1 mit einem roten\nVerbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A2: Teil 2
+MID_MISSION_H_S201801VMAP01_A2: Bewältige Teil 2 mit einem blauen\nVerbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A3: Teil 3
+MID_MISSION_H_S201801VMAP01_A3: Bewältige Teil 3 mit einem grünen\nVerbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A4: Teil 4
+MID_MISSION_H_S201801VMAP01_A4: Bewältige Teil 4 mit einem farblosen\nVerbündeten in deinem Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A5: Teil 5
+MID_MISSION_H_S201801VMAP01_A5: Bewältige Teil 5. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201801VMAP01_A6: Teil 1 - Schwer
+MID_MISSION_H_S201801VMAP01_A6: Bewältige Teil 1 auf Schwer oder höher\nmit einem roten Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A7: Teil 2 - Schwer
+MID_MISSION_H_S201801VMAP01_A7: Bewältige Teil 2 auf Schwer oder höher\nmit einem blauen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A8: Teil 3 - Schwer
+MID_MISSION_H_S201801VMAP01_A8: Bewältige Teil 3 auf Schwer oder höher\nmit einem grünen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A9: Teil 4 - Schwer
+MID_MISSION_H_S201801VMAP01_A9: Bewältige Teil 4 auf Schwer oder höher\nmit einem farblosen Verb. im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201801VMAP01_A10: Teil 5 - Schwer
+MID_MISSION_H_S201801VMAP01_A10: Bewältige Teil 5 auf Schwer oder höher.\nAlle Verbündeten müssen überleben.
+MPID_ミカヤ: Micaiah
+MPID_サザ: Sothe
+MPID_ゼルギウス: Zelgius
+MPID_オリヴァー: Oliver
+MPID_HONOR_ミカヤ: Lichtpriesterin
+MPID_HONOR_サザ: Zephir
+MPID_HONOR_ゼルギウス: Dunkler General
+MPID_HONOR_オリヴァー: Ästhet
+MPID_H_ミカヤ: Mitglied des Bunds der Morgenröte. Hat\nSilberhaare und mysteriöse Kräfte. Ist wie\neine Schwester für Sothe. Erscheint in\nFire Emblem: Radiant Dawn.
+MPID_H_サザ: Ein Dieb des Bunds der Morgenröte. Zeigt\nkein Interesse an anderen, aber beschützt\nMicaiah wie eine Schwester. Erscheint in\nFire Emblem: Radiant Dawn.
+MPID_H_ゼルギウス: Ein General in schwarzer Rüstung und daher\nals Schwarzer Ritter bekannt. Sein heiliges\nSchwert Alondite spaltet den Himmel selbst.\nErscheint in Fire Emblem: Radiant Dawn.
+MPID_H_オリヴァー: Mitglied des Senats von Begnion.\nBewundert alles Schöne. Sein höchstes\nZiel ist es, Kunst und Kultur zu bewahren.\nErscheint in Fire Emblem: Radiant Dawn.
+MPID_VOICE_ミカヤ: Veronica Taylor
+MPID_VOICE_サザ: Nicolas Roye
+MPID_VOICE_ゼルギウス: Robert Clotworthy
+MPID_VOICE_オリヴァー: Richard Epcar
+MPID_ILLUST_ミカヤ: Chiko (チーコ)
+MPID_ILLUST_サザ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: Homazo (ホマ蔵)
+MSID_第6迷宮の覇者1: Überfall-Ass F 1
+MSID_第6迷宮の覇者2: Überfall-Ass F 2
+MSID_第6迷宮の覇者3: Überfall-Ass F 3
+MSID_ペシュカド: Peshkatz
+MSID_ライト: Licht
+MSID_エルライト: Elfenblitz
+MSID_シャイン: Glanz
+MSID_シャイン＋: Glanz+
+MSID_セイニー: Thani
+MSID_癒しの手: Opfer
+MSID_転移の粉: Teleportier-Puder
+MSID_攻撃速さの紋章1: Agr./Ges. ansp.1
+MSID_攻撃速さの紋章2: Agr./Ges. ansp.2
+MSID_H_パルティア改: Effektiv gegen Flugeinheiten. Im Kampf gegen\nMagieanwender erleidet die Einheit 30 %\nweniger Schaden durch den ersten Angriff.
+MSID_H_シムベリン改: Verleiht Verbündeten im Umkreis\nvon 2 Feldern Angr. +3 im Kampf.
+MSID_H_対遠距離戦闘R攻撃: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, erhält die\nEinheit Angr. +6 im Kampf.
+MSID_H_攻撃魔防の絆R飛行: Befindet sich die Einheit im Umkreis von\n2 Feldern eines fliegenden Verbündeten,\nerhält sie Angr./Res. +5 im Kampf.
+MSID_H_第6迷宮の覇者1: Verleiht KP +3.
+MSID_H_第6迷宮の覇者2: Verleiht KP +4.
+MSID_H_第6迷宮の覇者3: Verleiht KP +5.
+MSID_H_ペシュカド: Hat die Einheit angegriffen, erleiden Ziel\nund Geg. im Umkreis von 2 Feldern des\nZiels nach dem Kampf Angr./Ges./\nVer./Res. -4. bis nach ihrer nächsten\nAktion. Einh. u. Verb. im Umkreis von\n2 Feldern: Agr./Ges./Ver./Res. +4 für 1 Zug.
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: Effektiv gegen gepanzerte und berittene\nGegner. Verleiht Res. +3. Im Kampf\ngegen gepanzerte oder berittene Gegner\nmit Bogen, Dolch, Magie oder Stab\nerleidet die Einheit 30 % weniger\nSchaden durch den ersten Angriff.
+MSID_H_癒しの手: Wandelt neg. Effekte des Ziels in Boni um.\nStellt KP des Ziels um aktuelle KP der\nEinheit -1 wieder her. Die KP der Einheit\nwerden um die Anzahl reduziert, die beim\nZiel wiederhergestellt wird.
+MSID_H_転移の粉: Sind die KP der Einheit ≥ 80 %, kann sie sich\nauf ein benachbartes Feld eines Verbündeten\nim Umkreis von 2 Feldern bewegen.
+MSID_H_攻撃速さの紋章1: Verleiht benachbarten Verbündeten\nAngr./Ges. +2 im Kampf.
+MSID_H_攻撃速さの紋章2: Verleiht benachbarten Verbündeten\nAngr./Ges. +3 im Kampf.
+MID_CHAPTER_TITLE_C0203: Buch II: Kapitel 3
+MID_CHAPTER_C0203: Auf Traumpfaden
+MID_STAGE_TITLE_S2031: Kapitel 3 - Teil 1
+MID_STAGE_TITLE_S2032: Kapitel 3 - Teil 2
+MID_STAGE_TITLE_S2033: Kapitel 3 - Teil 3
+MID_STAGE_TITLE_S2034: Kapitel 3 - Teil 4
+MID_STAGE_TITLE_S2035: Kapitel 3 - Teil 5
+MID_STAGE_S2031: Der Weg nach Nifl
+MID_STAGE_S2032: Mädchen des Silberlichts
+MID_STAGE_S2033: Im Bann der Schönheit
+MID_STAGE_S2034: Bedrohliche Klinge
+MID_STAGE_S2035: Stahl versengt das Land
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: Kavallerie zieht 1 Feld in Gräben.
+MID_STAGE_TITLE_SB_0006: 6. Überfall
+MID_STAGE_HONOR_T0023: Ästhet
+MID_STAGE_T0023: Oliver
+MID_STAGE_HONOR_V0151: Veredelte Waffen
+MID_STAGE_V0151: Teil 1
+MID_STAGE_HONOR_V0152: Veredelte Waffen
+MID_STAGE_V0152: Teil 2
+MID_STAGE_HONOR_V0153: Veredelte Waffen
+MID_STAGE_V0153: Teil 3
+MID_STAGE_HONOR_V0154: Veredelte Waffen
+MID_STAGE_V0154: Teil 4
+MID_STAGE_HONOR_V0155: Veredelte Waffen
+MID_STAGE_V0155: Teil 5
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: Heiliges Siegel wählen
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: Verbündeten wählen
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: Auswahl:

@@ -1,0 +1,38 @@
+[Heroes Archive] (SERGE)
+
+
+Heroes Message Name: Message
+
+
+MID_SERGE_HOME1: まあ、可愛い毛虫ちゃんがいるわ。\n捕まえて$Nuに\n見せてあげようかしら…
+MID_SERGE_HOME2: 故郷ではヴィオール公爵家に仕えていたの。\n覚えにくい場合は主の存在ごと、\n全て忘れてくれて結構よ。
+MID_SERGE_HOME3: 私を気にかけてくれたの？　ありがとう。\nいつも忙しそうだけれど…\nまたこうして話してちょうだいね。
+MID_SERGE_HOME4: ねえ、一緒にミネルヴァちゃんのご飯を\n探しに行ってくれないかしら？\nできれば新鮮なお肉がいいのだけれど。
+MID_SERGE_HOME5: みんなのお洋服の破れを繕っていたわ。\nもしお裁縫やお洗濯が必要なら言って。\n白い服は汚れが目立つものね。
+MID_SERGE_FRIEND: あなたが$Nuね。\n$Nfからあなたに\nよろしく伝えて欲しいと言われたの。
+MID_SERGE_LEVEL1: ミネルヴァちゃんよりも\n強くなれたかしら？
+MID_SERGE_LEVEL2: ミネルヴァちゃんと\n頑張ったおかげね。
+MID_SERGE_LEVEL3: まあ…\nこれは困ったわね。
+MID_SERGE_SKILL: なんだか素敵な気分よ。\nあなたのおかげね。
+MID_SERGE_JOIN: セルジュと申します。\nヴァルム大陸出身のドラゴンナイトよ。\n愛竜ミネルヴァちゃんと一緒に頑張るわね。
+MID_SERGE_STRONGEST: いつも私とミネルヴァちゃんの\n傍にいてくれてありがとう。\nあなたの姿を見ると、安心するのよ。$k$p実を言うと私、最初は不安だったの…\n新しい世界で暮らすこと。\n新しい敵と戦うこと。$k$pそりゃあ一度は国を離れたけど、\nヴァルム大陸からイーリス大陸に渡るのとは\nわけがちがうものね。$k$pけれどあなたと一緒にいて、\nこの世界を知って…思うようになったの。\n私もこの国を守りたいって。$k$p私の故郷ロザンヌも、アスク王国のように\n緑の多い豊かな土地だったのよ。\nいつか、あなたにも見せたいわ。\n
+MID_SERGE_VOICE01: はいっ
+MID_SERGE_VOICE02: せやっ
+MID_SERGE_VOICE03: きゃあっ
+MID_SERGE_VOICE04: あらまあ…
+MID_SERGE_VOICE05: お別れの時間よ
+MID_SERGE_VOICE06: 楽にしてあげる
+MID_SERGE_VOICE07: 行くわよミネルヴァちゃん
+MID_SERGE_VOICE08: 怒るわよ…？
+MID_SERGE_VOICE09: 負けちゃった…
+MID_SERGE_VOICE10: うふふ
+MID_SERGE_VOICE11: お料理やお裁縫は得意よ
+MID_SERGE_VOICE12: 時間があるのなら、お話でもしましょうか
+MID_SERGE_VOICE13: 怒らせたら怖いだなんて、そんなことはないわよ
+MID_SERGE_VOICE14: 昔は使用人をしていたの…でも、戦う方が好きだわ
+MID_SERGE_VOICE15: ここにはかわいい敵はいないの？　屍兵ちゃんみたいな
+MID_SERGE_VOICE16: ロザンヌは今頃、どうなっているのかしら
+MID_SERGE_VOICE17: 戦況は厳しいけれど…\nいつでも私とミネルヴァちゃんを頼ってちょうだいね
+MID_SERGE_VOICE18: あら
+MID_SERGE_VOICE19: 行きましょうか
+MID_SERGE_VOICE20: ミネルヴァちゃん

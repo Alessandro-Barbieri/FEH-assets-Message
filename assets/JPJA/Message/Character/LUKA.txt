@@ -1,0 +1,38 @@
+[Heroes Archive] (LUKA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUKA_HOME1: この世界も争っているのですか。\nやれやれ……人間の業は、\nたとえ異世界でも変わらないようですね。
+MID_LUKA_HOME2: 私は地方の貴族だったのですが\n国が乱れ、成り行きで解放軍に\n参加することになったのですよ。
+MID_LUKA_HOME3: 君はこの国の人間ではないのでしょう？\nなのに、いつも皆のために活動していて\n頭が下がります。
+MID_LUKA_HOME4: 今日はいい天気ですね。\nどうです、いっしょに散歩でもしませんか？\nお互い、気晴らしも必要でしょう。
+MID_LUKA_HOME5: 本を読んでいました。小説です。\n意外ですか？　日常を忘れて\n空想の世界に浸るのもいいものですよ。
+MID_LUKA_FRIEND: $Nfさんから\n挨拶をことづかってきました。\nよろしくお伝えするようにと。
+MID_LUKA_LEVEL1: 私にこれほどの力が……\n柄にもなく高揚してしまいます。
+MID_LUKA_LEVEL2: 妥当な結果といったところでしょうか。
+MID_LUKA_LEVEL3: これは少々\n拍子抜けですね。
+MID_LUKA_SKILL: 私の力を信じてくださるんですね……\nええ、お応えしましょう。
+MID_LUKA_JOIN: 初めまして、私はルカ。\nソフィア解放軍の者です。\n最善は尽くしますよ。
+MID_LUKA_STRONGEST: ああ、$Nuさん。\nちょうどよかった、\n私も休憩しようと思っていたんです。$k$pそれにしても、あなたも私もよくよく\n数奇な運命に巻き込まれたものですね。\n異世界の扉に、召喚の英雄たち……$k$pまあ私は、もといた世界でも\n周囲に流されるまま生き方を定められ\n受け入れてきたようなものですけど。$k$pそれでも、みずから望んだ道ではなくても\n私は後悔はしたくありません。\nあなたもそうではありませんか？$k$p……ふふっ、でしょう？\n私たち、よい理解者になれそうですね。\nこれからもよろしくお願いします。
+MID_LUKA_VOICE01: せやあっ
+MID_LUKA_VOICE02: そこです！
+MID_LUKA_VOICE03: やりますね…！
+MID_LUKA_VOICE04: ああああっ！！
+MID_LUKA_VOICE05: 終わりです
+MID_LUKA_VOICE06: いきますよ！
+MID_LUKA_VOICE07: 覚悟！
+MID_LUKA_VOICE08: あきらめなさい
+MID_LUKA_VOICE09: すみません……
+MID_LUKA_VOICE10: ふふっ
+MID_LUKA_VOICE11: はい、なんでしょう？
+MID_LUKA_VOICE12: 困りましたね……
+MID_LUKA_VOICE13: 遊んでほしいのですか？
+MID_LUKA_VOICE14: ソフィアはとても緑豊かな国なんですよ。
+MID_LUKA_VOICE15: 私の仲間は、みな個性的な人ばかりで苦労します。
+MID_LUKA_VOICE16: わが解放軍は、どうなるのでしょう……
+MID_LUKA_VOICE17: あなたと出会えたのは僥倖でした。
+MID_LUKA_VOICE18: はい。
+MID_LUKA_VOICE19: そうですね……
+MID_LUKA_VOICE20: 任せてください。

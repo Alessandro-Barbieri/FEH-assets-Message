@@ -1,0 +1,38 @@
+[Heroes Archive] (FREDERIK_SUMMER01)
+
+
+Heroes Message Name: Message
+
+
+MID_FREDERIK_SUMMER01_HOME1: Hmm... Il y a beaucoup de héros ici,\nmais la plupart sont bien plus\nhabillés que moi...
+MID_FREDERIK_SUMMER01_HOME2: La plage des Multivers est un\nendroit merveilleux ! Je me suis\nentraîné, j'ai corrigé des gredins...$k$pMais je dois admettre que j'ai\naussi commis quelques péchés...
+MID_FREDERIK_SUMMER01_HOME3: Quand je pense aux âmes\ninsouciantes qui pourraient marcher\npieds nus sur des cailloux...$k$pJe sais que je dois redoubler d'efforts\net tout faire pour déblayer le terrain\ndu moindre obstacle ou débris !
+MID_FREDERIK_SUMMER01_HOME4: Vous entraîneriez-vous avec moi ?\nIl m'en coûte de vous le dire, mais\nvotre défense laisse à désirer.$k$pPeut-être pourrons-nous vous doter\nd'un corps d'acier à la hauteur\nde votre cœur d'or !
+MID_FREDERIK_SUMMER01_HOME5: Je ne peux pas m'empêcher de\npenser au prince Chrom et à dame\nLissa.$k$pEt s'il leur arrivait malheur en mon\nabsence ? Et si l'un d'eux marchait\nsur un coquillage ?
+MID_FREDERIK_SUMMER01_FRIEND: Excusez ma tenue, mais\n$Nf m'envoie\nvous transmettre ses salutations.
+MID_FREDERIK_SUMMER01_LEVEL1: Formidable. J'ai envie de fêter\ncela en plongeant dans la mer !
+MID_FREDERIK_SUMMER01_LEVEL2: On dirait que mon entraînement\nbalnéaire a porté ses fruits.
+MID_FREDERIK_SUMMER01_LEVEL3: Quelle déception. C'est peut-être\nà cause de la chaleur...
+MID_FREDERIK_SUMMER01_SKILL: Quel honneur. Je vais\ncontinuer de nettoyer la plage.
+MID_FREDERIK_SUMMER01_JOIN: Je m'appelle Frederick. Je veillais\nsur le prince Chrom, à la plage...\nmais où suis-je, maintenant ?
+MID_FREDERIK_SUMMER01_STRONGEST: J'ai le sentiment d'être devenu\nbeaucoup plus fort. Vous m'avez\nbien entraîné.$k$pAu départ, j'avais des doutes.\nDans une telle tenue, qui allait\nme prendre au sérieux ?...$k$pMais j'avais tort. Vous m'avez aidé\nà progresser. Malgré tout, je ne\nparvenais pas à vous faire confiance.$k$pJe craignais que vous me forciez\nsoudain à manger de la viande\nd'ours... J'en perdais le sommeil.$k$pMais avec le recul, je ne vois pas\npourquoi vous auriez fait une chose\npareille, $GInvocateur,Invocatrice|.$k$pPour me faire pardonner d'avoir\ndouté de vous, je donnerai tout\nsur le champ de bataille.$k$pJ'ai toujours compté sur mon armure,\nmais à présent, c'est ma dévotion\nqui déplacera des montagnes !
+MID_FREDERIK_SUMMER01_VOICE01: はいっ
+MID_FREDERIK_SUMMER01_VOICE02: でやあ！
+MID_FREDERIK_SUMMER01_VOICE03: くっ…！
+MID_FREDERIK_SUMMER01_VOICE04: Always impressive.
+MID_FREDERIK_SUMMER01_VOICE05: Je vais vous couler !
+MID_FREDERIK_SUMMER01_VOICE06: Ne vous emportez pas !
+MID_FREDERIK_SUMMER01_VOICE07: Par le sable de la plage !
+MID_FREDERIK_SUMMER01_VOICE08: Attaque tropicale !
+MID_FREDERIK_SUMMER01_VOICE09: Sunset...
+MID_FREDERIK_SUMMER01_VOICE10: Hahaha
+MID_FREDERIK_SUMMER01_VOICE11: My apologies for my lack of decorum...and suitable clothing.
+MID_FREDERIK_SUMMER01_VOICE12: Out of my armor, I am actually a rather accomplished swimmer.
+MID_FREDERIK_SUMMER01_VOICE13: I usually dress more modestly, but I am attempting to, uh, relax.
+MID_FREDERIK_SUMMER01_VOICE14: The Shepherds once visited an otherworldly tropical resort. It was...nice.
+MID_FREDERIK_SUMMER01_VOICE15: I have cleared the beach of trash, as well as driftwood and shells.
+MID_FREDERIK_SUMMER01_VOICE16: I wish I had managed to catch a sea creature to bring home.
+MID_FREDERIK_SUMMER01_VOICE17: I hope you enjoy this summer. I will, of course, still be at your side in the fall.
+MID_FREDERIK_SUMMER01_VOICE18: Of course.
+MID_FREDERIK_SUMMER01_VOICE19: Whew! Hot out.
+MID_FREDERIK_SUMMER01_VOICE20: Ah, shell.

@@ -1,0 +1,493 @@
+[Heroes Archive] (Data_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201712A_TITLE: Dec Quests (1)
+MID_MISSION_M201712A_A1: KO Foes w/Blue
+MID_MISSION_H_M201712A_A1: Use blue-type allies to defeat foes.
+MID_MISSION_M201712A_A2: KO Foes w/Infantry
+MID_MISSION_H_M201712A_A2: Use infantry allies to defeat foes.
+MID_MISSION_M201712A_A3: KO Green Foes
+MID_MISSION_H_M201712A_A3: Defeat green-type foes.
+MID_MISSION_M201712A_A4: KO Flying Foes
+MID_MISSION_H_M201712A_A4: Defeat flying foes.
+MID_MISSION_M201712A_A5: Win Arena Duels
+MID_MISSION_H_M201712A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201712A_A6: KO Lvl 20+ Foes w/Red
+MID_MISSION_H_M201712A_A6: Defeat foes that are level 20\nor higher with red-type allies.
+MID_MISSION_M201712A_A7: KO Lvl 20+ Foes w/Fliers
+MID_MISSION_H_M201712A_A7: Defeat foes that are level 20\nor higher with flying allies.
+MID_MISSION_M201712A_A8: KO Lvl 20+ Blue Foes
+MID_MISSION_H_M201712A_A8: Defeat blue-type foes that are\nlevel 20 or higher.
+MID_MISSION_M201712A_A9: KO Lvl 20+ Infantry Foes
+MID_MISSION_H_M201712A_A9: Defeat infantry foes that\nare level 20 or higher.
+MID_MISSION_M201712A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201712A_A10: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_M201712A_A11: KO Lvl 35+ Foes w/Green
+MID_MISSION_H_M201712A_A11: Defeat foes that are level 35\nor higher with green-type allies.
+MID_MISSION_M201712A_A12: KO Lvl 35+ Foes w/Cavalry
+MID_MISSION_H_M201712A_A12: Defeat foes that are level 35\nor higher with cavalry allies.
+MID_MISSION_M201712A_A13: KO Lvl 35+ Red Foes
+MID_MISSION_H_M201712A_A13: Defeat red-type foes that are\nlevel 35 or higher.
+MID_MISSION_M201712A_A14: KO Lvl 35+ Cavalry Foes
+MID_MISSION_H_M201712A_A14: Defeat cavalry foes that\nare level 35 or higher.
+MID_MISSION_M201712A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201712A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_S201712ARENA01_TITLE: Arena
+MID_MISSION_S201712ARENA01_A1: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A1: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A2: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A2: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A3: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A3: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A4: Arena Assault: 3 in a Row
+MID_MISSION_H_S201712ARENA01_A4: Win three consecutive battles\nin Arena Assault.
+MID_MISSION_S201712ARENA01_A5: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A5: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A6: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A7: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A7: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A8: Arena Assault: 5 in a Row
+MID_MISSION_H_S201712ARENA01_A8: Win five consecutive battles\nin Arena Assault.
+MID_MISSION_S201712ARENA01_A9: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A10: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A11: Win Arena Duels
+MID_MISSION_H_S201712ARENA01_A11: Win Arena Duels at any difficulty.
+MID_MISSION_S201712ARENA01_A12: Arena Assault: 7 in a Row
+MID_MISSION_H_S201712ARENA01_A12: Win seven consecutive battles\nin Arena Assault.
+MID_MISSION_M201712B_TITLE: Dec Quests (2)
+MID_MISSION_M201712B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201712B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201712B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201712B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201712B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201712B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201712B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201712B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201712B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201712B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201712B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201712B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201712B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201712B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201712B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201712B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201712B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201712B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201712B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201712C_TITLE: Dec Quests (3)
+MID_MISSION_M201712C_A1: Clear 4-1
+MID_MISSION_H_M201712C_A1: Clear Chapter 4: Part 1. All\nfour allies must survive.
+MID_MISSION_M201712C_A2: Clear 4-2
+MID_MISSION_H_M201712C_A2: Clear Chapter 4: Part 2 with a\nred-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A3: Clear 4-3
+MID_MISSION_H_M201712C_A3: Clear Chapter 4: Part 3 with a\nblue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A4: Clear 4-4
+MID_MISSION_H_M201712C_A4: Clear Chapter 4: Part 4 with a\ngreen-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A5: Clear 4-5
+MID_MISSION_H_M201712C_A5: Clear Chapter 4: Part 5 with a\ncolorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A6: Clear 7-1 on Hard+
+MID_MISSION_H_M201712C_A6: Clear Chapter 7: Part 1 on Hard\nor higher difficulty. All four\nallies must survive.
+MID_MISSION_M201712C_A7: Clear 7-2 on Hard+
+MID_MISSION_H_M201712C_A7: Clear Chapter 7: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A8: Clear 7-3 on Hard+
+MID_MISSION_H_M201712C_A8: Clear Chapter 7: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201712C_A9: Clear 7-4 on Hard+
+MID_MISSION_H_M201712C_A9: Clear Chapter 7: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201712C_A10: Clear 7-5 on Hard+
+MID_MISSION_H_M201712C_A10: Clear Chapter 7: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201712C_A11: Clear 10-1 on Lunatic
+MID_MISSION_H_M201712C_A11: Clear Chapter 10: Part 1 on Lunatic\ndifficulty. All four allies must survive.
+MID_MISSION_M201712C_A12: Clear 10-2 on Lunatic
+MID_MISSION_H_M201712C_A12: Clear Chapter 10: Part 2 on Lunatic\ndifficulty with a red-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201712C_A13: Clear 10-3 on Lunatic
+MID_MISSION_H_M201712C_A13: Clear Chapter 10: Part 3 on Lunatic\ndifficultly with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201712C_A14: Clear 10-4 on Lunatic
+MID_MISSION_H_M201712C_A14: Clear Chapter 10: Part 4 on Lunatic\ndifficultly with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201712C_A15: Clear 10-5 on Lunatic
+MID_MISSION_H_M201712C_A15: Clear Chapter 10: Part 5 on Lunatic\ndifficultly with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201712RENSEI01_TITLE: Weapon Refinery
+MID_MISSION_S201712RENSEI01_A1: KO Foe
+MID_MISSION_H_S201712RENSEI01_A1: Defeat a foe.
+MID_MISSION_S201712RENSEI01_A2: KO Foes w/Red
+MID_MISSION_H_S201712RENSEI01_A2: Use red-type allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A3: KO Foes w/Blue
+MID_MISSION_H_S201712RENSEI01_A3: Use blue-type allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A4: KO Foes w/Green
+MID_MISSION_H_S201712RENSEI01_A4: Use green-type allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A5: KO Foes w/Colorless
+MID_MISSION_H_S201712RENSEI01_A5: Use colorless-type allies to defeat\nfoes.
+MID_MISSION_S201712RENSEI01_A6: KO Foes w/Infantry
+MID_MISSION_H_S201712RENSEI01_A6: Use infantry allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A7: KO Foes w/Armored
+MID_MISSION_H_S201712RENSEI01_A7: Use armored allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A8: KO Foes w/Cavalry
+MID_MISSION_H_S201712RENSEI01_A8: Use cavalry allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A9: KO Foes w/Fliers
+MID_MISSION_H_S201712RENSEI01_A9: Use flying allies to defeat foes.
+MID_MISSION_S201712RENSEI01_A10: Win Arena Duels
+MID_MISSION_H_S201712RENSEI01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201712RENSEI01_A11: Arena Assault: 7 in a Row
+MID_MISSION_H_S201712RENSEI01_A11: Win seven consecutive battles\nin Arena Assault.
+MID_MISSION_S201712RENSEI01_A12: KO with Fjorm
+MID_MISSION_H_S201712RENSEI01_A12: Use Fjorm to defeat a foe.
+MID_MISSION_S201712RENSEI01_A13: KO Lvl 20+ Foe
+MID_MISSION_H_S201712RENSEI01_A13: Defeat a foe that is level 20\nor higher with Fjorm.
+MID_MISSION_S201712RENSEI01_A14: KO Lvl 40+ Foe
+MID_MISSION_H_S201712RENSEI01_A14: Defeat a foe that is level 40\nor higher with Fjorm.
+MID_MISSION_S201712RENSEI01_A15: Tower: 1st Stratum
+MID_MISSION_H_S201712RENSEI01_A15: Clear First Stratum of the Training\nTower with Fjorm on your team.
+MID_MISSION_S201712RENSEI01_A16: Tower: 5th Stratum
+MID_MISSION_H_S201712RENSEI01_A16: Clear Fifth Stratum of the Training\nTower with Fjorm on your team.
+MID_MISSION_S201712RENSEI01_A17: Tower: 9th Stratum
+MID_MISSION_H_S201712RENSEI01_A17: Clear Ninth Stratum of the Training\nTower with Fjorm on your team.
+MID_MISSION_S201712RENSEI01_A18: Tower: 10th Stratum
+MID_MISSION_H_S201712RENSEI01_A18: Clear Tenth Stratum of the Training\nTower with Fjorm and two other allies on\nyour team. All three allies must survive.
+MID_MISSION_S201711SENKA03_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201711SENKA03_DAILY_A1: Clear Trial
+MID_MISSION_H_S201711SENKA03_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201711SENKA03_DAILY_A2: Clear Trial
+MID_MISSION_H_S201711SENKA03_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201711SENKA03_DAILY_A3: Clear Trial
+MID_MISSION_H_S201711SENKA03_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201711SENKA03_DAILY_A4: Clear Trial
+MID_MISSION_H_S201711SENKA03_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201711STORY02_TITLE: The Flame
+MID_MISSION_S201711STORY02_A1: Clear 1-1 on Lunatic
+MID_MISSION_H_S201711STORY02_A1: Clear Book II, Chapter 1: Part 1 on Lunatic\nwith an axe user on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY02_A2: Clear 1-2 on Lunatic
+MID_MISSION_H_S201711STORY02_A2: Clear Book II, Chapter 1: Part 2 on Lunatic\nwith a sword user on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY02_A3: Clear 1-3 on Lunatic
+MID_MISSION_H_S201711STORY02_A3: Clear Book II, Chapter 1: Part 3 on Lunatic\nwith a lance user on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY02_A4: Clear 1-4 on Lunatic
+MID_MISSION_H_S201711STORY02_A4: Clear Book II, Chapter 1: Part 4 on Lunatic\nwith an axe user on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY02_A5: Clear 1-5 on Lunatic
+MID_MISSION_H_S201711STORY02_A5: Clear Book II, Chapter 1: Part 5 on Lunatic\nwith a sword user on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY03_TITLE: Princess of Ice
+MID_MISSION_S201711STORY03_A1: Clear 2-1 on Lunatic
+MID_MISSION_H_S201711STORY03_A1: Clear Book II, Chapter 2: Part 1 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY03_A2: Clear 2-2 on Lunatic
+MID_MISSION_H_S201711STORY03_A2: Clear Book II, Chapter 2: Part 2 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY03_A3: Clear 2-3 on Lunatic
+MID_MISSION_H_S201711STORY03_A3: Clear Book II, Chapter 2: Part 3 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY03_A4: Clear 2-4 on Lunatic
+MID_MISSION_H_S201711STORY03_A4: Clear Book II, Chapter 2: Part 4 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201711STORY03_A5: Clear 2-5 on Lunatic
+MID_MISSION_H_S201711STORY03_A5: Clear Book II, Chapter 2: Part 5 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201712HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201712HERO01_A1: Defeat Berkut
+MID_MISSION_H_S201712HERO01_A1: With Sharena on your team, win the Grand\nHero Battle against Berkut: Prideful Prince.
+MID_MISSION_S201712HERO01_A2: Defeat Berkut
+MID_MISSION_H_S201712HERO01_A2: With Berkut: Prideful Prince on your team,\nwin the Grand Hero Battle against Berkut:\nPrideful Prince on Lunatic or higher.
+MID_MISSION_S201712HERO01_A3: Defeat Berkut
+MID_MISSION_H_S201712HERO01_A3: Defeat a level 40 or higher Berkut: Prideful\nPrince with Sharena.
+MID_MISSION_S201712HERO01_A4: Defeat Berkut
+MID_MISSION_H_S201712HERO01_A4: Defeat a level 40 or higher Berkut: Prideful\nPrince with Berkut: Prideful Prince.
+MID_MISSION_S201712HERO01_A5: Defeat Berkut
+MID_MISSION_H_S201712HERO01_A5: Win the Grand Hero Battle against Berkut:\nPrideful Prince on Lunatic or higher using\nan all-infantry team.
+MID_MISSION_S201712VMAP01_TITLE: Devs Say Thanks!
+MID_MISSION_S201712VMAP01_A1: Clear Effie the Strong
+MID_MISSION_H_S201712VMAP01_A1: Clear Effie the Strong by Shingoroid\nwith a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A2: Clear Dark Rainbow
+MID_MISSION_H_S201712VMAP01_A2: Clear Dark Rainbow by Taroimo\nwith a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A3: Clear The Alluring Four
+MID_MISSION_H_S201712VMAP01_A3: Clear The Alluring Four by Rokumoji\nwith a green-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A4: Clear Light and Breezy
+MID_MISSION_H_S201712VMAP01_A4: Clear Light and Breezy by Arayang\nwith a colorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A5: Clear The Iron Wall
+MID_MISSION_H_S201712VMAP01_A5: Clear The Iron Wall by ryo.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A6: Clear Effie the Strong
+MID_MISSION_H_S201712VMAP01_A6: Clear Effie the Strong by Shingoroid on\nLunatic with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201712VMAP01_A7: Clear Dark Rainbow
+MID_MISSION_H_S201712VMAP01_A7: Clear Dark Rainbow by Taroimo on\nLunatic with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712VMAP01_A8: Clear The Alluring Four
+MID_MISSION_H_S201712VMAP01_A8: Clear The Alluring Four by Rokumoji\non Lunatic with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712VMAP01_A9: Clear Light and Breezy
+MID_MISSION_H_S201712VMAP01_A9: Clear Light and Breezy by Arayang on\nLunatic with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_S201712VMAP01_A10: Clear The Iron Wall
+MID_MISSION_H_S201712VMAP01_A10: Clear The Iron Wall by ryo on Lunatic.\nAll four allies must survive.
+MID_MISSION_S201712VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201712VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201712VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201712VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201712VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201712VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201712VOTE01_A6: Tower: 2nd Stratum
+MID_MISSION_H_S201712VOTE01_A6: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201712VOTE01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201712VOTE01_A7: Clear the Fifth Stratum\nof the Training Tower.
+MID_MISSION_S201712VOTE01_A8: Tower: 8th Stratum
+MID_MISSION_H_S201712VOTE01_A8: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201712VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201712VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201712VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201712VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201712VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201712VOTE01_A11: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201712VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201712VOTE01_A12: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201712VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A13: Win a battle in the Voting Gauntlet\nwith a red-type ally on your team.
+MID_MISSION_S201712VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A14: Win a battle in the Voting Gauntlet\nwith a blue-type ally on your team.
+MID_MISSION_S201712VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A15: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201712VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A16: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MID_MISSION_S201712VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A17: Win a battle in the Voting Gauntlet\nwith a red-type ally on your team.
+MID_MISSION_S201712VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A18: Win a battle in the Voting Gauntlet\nwith a blue-type ally on your team.
+MID_MISSION_S201712VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A19: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201712VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201712VOTE01_A20: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MEID_ラウアマムクート: Red Manakete
+MEID_ブラーマムクート: Blue Manakete
+MEID_グルンマムクート: Green Manakete
+MEID_ソードドラゴン: Sword Dragon
+MEID_ランスドラゴン: Lance Dragon
+MEID_アクスドラゴン: Axe Dragon
+MEID_H_ラウアマムクート: A red-type manakete. Can transform\ninto a dragon during battle.
+MEID_H_ブラーマムクート: A blue-type manakete. Can transform\ninto a dragon during battle.
+MEID_H_グルンマムクート: A green-type manakete. Can transform\ninto a dragon during battle.
+MEID_H_ソードドラゴン: Wyvern rider with a sword. Flies over rivers\nand mountains. Weak against bows.
+MEID_H_ランスドラゴン: Wyvern rider with a lance. Flies over rivers\nand mountains. Weak against bows.
+MEID_H_アクスドラゴン: Wyvern rider with an axe. Flies over rivers\nand mountains. Weak against bows.
+MEID_スルト: Surtr
+MEID_レーヴァテイン: Laevatein
+MEID_ロキ: Loki
+MPID_スルト: Surtr
+MPID_フィヨルム: Fjorm
+MPID_レーヴァテイン: Laevatein
+MPID_ロキ: Loki
+MPID_スリーズ声: Gunnthrá
+MPID_ソレイユ: Soleil
+MPID_シャラ: Rhajat
+MPID_シノノメ: Shiro
+MPID_ジークベルト: Siegbert
+MEID_HONOR_スルト: Ruler of Flame
+MPID_HONOR_フィヨルム: Princess of Ice
+MEID_HONOR_レーヴァテイン: Searing Steel
+MEID_HONOR_ロキ: The Trickster
+MPID_HONOR_ソレイユ: Adorable Adorer
+MPID_HONOR_シャラ: Black Magician
+MPID_HONOR_シノノメ: Raw Talent
+MPID_HONOR_ジークベルト: Future King
+MEID_H_スルト: King of Múspell, the Kingdom of Flame. Carries\nthe blood of the Flame Dragon. A harsh ruler\nwhose desire for conquest is relentless.
+MPID_H_フィヨルム: The gentle second princess of Nifl, the\nKingdom of Ice. Seeks revenge against Surtr.
+MEID_H_レーヴァテイン: The second princess of Múspell, the Kingdom\nof Flame. She sees herself and the blade she\nwields as one and the same, and keeps her\nemotions in check.
+MEID_H_ロキ: Strategist for Múspell, the Kingdom of Flame.\nLikes to play tricks and manipulate people.
+MPID_H_ソレイユ: Laslow's daughter. Cheerful and not even\nslightly shy. Looks up to cool women.\nAppears in Fire Emblem Fates.
+MPID_H_シャラ: Hayato's daughter. Tends toward the\nobsessive and has a horrifying temper.\nAppears in Fire Emblem Fates.
+MPID_H_シノノメ: Ryoma's son. Doesn't slack on training.\nOutgoing and easy to get along with.\nAppears in Fire Emblem Fates.
+MPID_H_ジークベルト: Xander's son. As a king-to-be, he received\nthe finest education. Serious and kind.\nAppears in Fire Emblem Fates.
+MEID_VOICE_スルト: —
+MPID_VOICE_フィヨルム: Heather Watson
+MEID_VOICE_レーヴァテイン: Sarah Williams
+MEID_VOICE_ロキ: Erika Ishii
+MPID_VOICE_ソレイユ: Michelle Ruff
+MPID_VOICE_シャラ: Stephanie Sheh
+MPID_VOICE_シノノメ: Kaiji Tang
+MPID_VOICE_ジークベルト: Todd Haberkorn
+MEID_ILLUST_スルト: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_フィヨルム: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_レーヴァテイン: Maeshima Shigeki (前嶋重機)
+MEID_ILLUST_ロキ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ソレイユ: Enkyo Yuichiro (円居雄一郎)
+MPID_ILLUST_シャラ: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MPID_ILLUST_シノノメ: Arai Teruko (新井テル子)
+MPID_ILLUST_ジークベルト: Arai Teruko (新井テル子)
+MPID_LEGEND_フィヨルム: Legendary Effect: Water\nAlly Boost: HP+3, Spd+3\n\nGrants allies this Legendary Effect\nduring Water season, if the Water\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_アーマーキラー2: Armorsmasher
+MSID_アーマーキラー2＋: Armorsmasher+
+MSID_貫きの槍2: Slaying Spear
+MSID_貫きの槍2＋: Slaying Spear+
+MSID_ハンマー2: Slaying Hammer
+MSID_ハンマー2＋: Slaying Hammer+
+MSID_遠距離防御の弓: Guard Bow
+MSID_遠距離防御の弓＋: Guard Bow+
+MSID_ラウアウルフ2: Keen Rauðrwolf
+MSID_ラウアウルフ2＋: Keen Rauðrwolf+
+MSID_ブラーウルフ2: Keen Blárwolf
+MSID_ブラーウルフ2＋: Keen Blárwolf+
+MSID_グルンウルフ2: Keen Gronnwolf
+MSID_グルンウルフ2＋: Keen Gronnwolf+
+MSID_アブゾーブ＋: Absorb+
+MSID_フィアー＋: Fear+
+MSID_スロウ＋: Slow+
+MSID_グラビティ＋: Gravity+
+MSID_ペイン＋: Pain+
+MSID_パニック＋: Panic+
+MSID_キャンドル＋: Candlelight+
+MSID_リブロー＋: Physic+
+MSID_リカバー＋: Recover+
+MSID_セインツ＋: Martyr+
+MSID_リバース＋: Rehabilitate+
+MSID_第5迷宮の覇者1: Squad Ace E 1
+MSID_第5迷宮の覇者2: Squad Ace E 2
+MSID_第5迷宮の覇者3: Squad Ace E 3
+MSID_レーヴァテイン: Laevatein
+MSID_レイプト: Leiptr
+MSID_シンモラ: Sinmara
+MSID_セック: Thökk
+MSID_氷の聖鏡: Ice Mirror
+MSID_攻撃守備の絆1: Atk/Def Bond 1
+MSID_攻撃守備の絆2: Atk/Def Bond 2
+MSID_攻撃守備の絆3: Atk/Def Bond 3
+MSID_火薙ぎの剣: Firesweep S
+MSID_火薙ぎの剣＋: Firesweep S+
+MSID_黒き血の大剣: Dark Greatsword
+MSID_白き血の薙刀: Bright Naginata
+MSID_攻撃守備の応援: Rally Atk/Def
+MSID_攻撃の指揮1: Atk Tactic 1
+MSID_攻撃の指揮2: Atk Tactic 2
+MSID_攻撃の指揮3: Atk Tactic 3
+MSID_守備の指揮1: Def Tactic 1
+MSID_守備の指揮2: Def Tactic 2
+MSID_守備の指揮3: Def Tactic 3
+MSID_ムスペルの炎: Múspellflame
+MSID_H_アーマーキラー2: Effective against armored foes.
+MSID_H_アーマーキラー2＋: Effective against armored foes.
+MSID_H_貫きの槍2: Effective against armored foes.
+MSID_H_貫きの槍2＋: Effective against armored foes.
+MSID_H_ハンマー2: Effective against armored foes.
+MSID_H_ハンマー2＋: Effective against armored foes.
+MSID_H_遠距離防御の弓: Effective against flying foes. If foe initiates\ncombat and uses bow, dagger, magic, or\nstaff, grants Def/Res+6 to unit during\ncombat.
+MSID_H_遠距離防御の弓＋: Effective against flying foes. If foe initiates\ncombat and uses bow, dagger, magic, or\nstaff, grants Def/Res+6 to unit during\ncombat.
+MSID_H_ラウアウルフ2: Effective against cavalry foes.
+MSID_H_ラウアウルフ2＋: Effective against cavalry foes.
+MSID_H_ブラーウルフ2: Effective against cavalry foes.
+MSID_H_ブラーウルフ2＋: Effective against cavalry foes.
+MSID_H_グルンウルフ2: Effective against cavalry foes.
+MSID_H_グルンウルフ2＋: Effective against cavalry foes.
+MSID_H_アブゾーブ＋: Restores HP = 50% of damage dealt.\nAfter combat, if unit attacked, restores\n7 HP to allies within 2 spaces of unit.
+MSID_H_フィアー＋: After combat, if unit attacked, inflicts Atk-7\non target and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_スロウ＋: After combat, if unit attacked, inflicts Spd-7\non target and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_グラビティ＋: After combat, if unit attacked, inflicts status\non target and foes within 1 space of target\nrestricting movement to 1 space through\ntheir next actions.
+MSID_H_ペイン＋: Deals 10 damage to target and foes\nwithin 2 spaces of target after combat.
+MSID_H_パニック＋: After combat, if unit attacked, converts\nbonuses on target and foes within 2 spaces\nof target into penalties through their next\nactions.
+MSID_H_キャンドル＋: After combat, if unit attacked, inflicts status\non target and foes within 2 spaces of target\npreventing counterattacks through their\nnext actions.
+MSID_H_リブロー＋: Restores HP = 50% of Atk. (Minimum of\n8 HP.) Range = 2.
+MSID_H_リカバー＋: Restores HP = 50% of Atk +10.\n(Minimum of 15 HP.)
+MSID_H_セインツ＋: Restores HP = damage dealt to unit +50%\nof Atk. (Minimum of 7 HP.) Restores HP to\nunit = half damage dealt to unit.
+MSID_H_リバース＋: Restores HP = 50% of Atk -10.\n(Minimum of 7 HP.) If target's HP\nis ≤ 50%, the lower the target's HP,\nthe more HP is restored.
+MSID_H_第5迷宮の覇者1: Grants Atk+1.
+MSID_H_第5迷宮の覇者2: Grants Atk+2.
+MSID_H_第5迷宮の覇者3: Grants Atk+3.
+MSID_H_ソールカティ改: If unit’s HP ≤ 75% and unit initiates combat,\nunit can make a follow-up attack before foe\ncan counterattack.
+MSID_H_ジークムント改: At start of turn, grants Atk+4 to adjacent\nallies for 1 turn.
+MSID_H_風神弓改: Effective against flying foes. If unit's\nHP ≥ 50%, unit cannot be slowed by terrain.\n(Does not apply to impassable terrain.)
+MSID_H_死神の暗器改: After combat, if unit attacked, deals 10\ndamage to target and foes within 2 spaces\nof target and inflicts Def/Res-7 through\ntheir next actions.
+MSID_H_銀の暗器＋改: After combat, if unit attacked, inflicts\nDef/Res-7 on target and foes within 2\nspaces of target through their next actions.
+MSID_H_紫煙の暗器＋改: After combat, if unit attacked, inflicts\nAtk/Spd/Def/Res-6 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_盗賊の暗器＋改: After combat, if unit attacked, inflicts\nDef/Res-6 on target and foes within 2\nspaces of target through their next actions,\nand grants Def/Res+6 to unit and allies\nwithin 2 spaces for 1 turn.
+MSID_H_灼熱のブレス＋改: If foe's Range = 2, calculates damage using\nthe lower of foe's Def or Res.
+MSID_H_光のブレス＋改: After combat, if unit attacked, grants\nAtk/Spd/Def/Res+5 to unit and allies within\n2 spaces of unit for 1 turn. If foe's\nRange = 2, calculates damage using the\nlower of foe's Def or Res.
+MSID_H_闇のブレス＋改: After combat, if unit attacked, inflicts\nAtk/Spd-7 on target and foes within\n2 spaces of target through their next actions.\nIf foe's Range = 2, calculates damage using\nthe lower of foe's Def or Res.
+MSID_H_雷のブレス＋改: Slows Special trigger (cooldown count+1).\nUnit can counterattack regardless of foe's\nrange. If foe's Range = 2, calculates damage\nusing the lower of foe's Def or Res.
+MSID_H_ローローの斧＋改: After combat, if unit attacked, converts\nbonuses on target and foes within 2 spaces\nof target into penalties through their next\nactions.
+MSID_H_クライネの弓＋改: Effective against flying foes. After combat,\nif unit attacked, inflicts Atk/Spd-5 on target\nand foes within 2 spaces of target through\ntheir next actions.
+MSID_H_ベルクトの槍＋改: If foe initiates combat, grants Res+7 during\ncombat.
+MSID_H_ニンジンの槍＋改: After combat, if unit attacked, restores 4 HP.
+MSID_H_ニンジンの斧＋改: After combat, if unit attacked, restores 4 HP.
+MSID_H_青の卵＋改: After combat, if unit attacked, restores 4 HP.
+MSID_H_緑の卵＋改: After combat, if unit attacked, restores 4 HP.
+MSID_H_ファーストバイト＋改: After combat, if unit attacked, grants Def/\nRes+5 to unit and allies within 2 spaces\nof unit for 1 turn.
+MSID_H_キューピッドの矢＋改: Effective against flying foes. After combat,\nif unit attacked, grants Def/Res+5 to unit\nand allies within 2 spaces of unit for 1 turn.
+MSID_H_聖なるブーケ＋改: After combat, if unit attacked, grants Def/\nRes+5 to unit and allies within 2 spaces\nof unit for 1 turn.
+MSID_H_貝殻＋改: At start of combat, if unit's HP = 100%,\ngrants Atk/Spd/Def/Res+2, but after combat,\nif unit attacked, deals 2 damage to unit. After\ncombat, if unit attacked, inflicts Def/Res-7 on\ntarget and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_扇子＋改: If unit initiates combat, restores 7 HP to adjacent\nallies after combat. After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_骨の弓＋改: Effective against flying foes. After combat, if\nunit attacked, converts bonuses on target\nand foes within 2 spaces of target into\npenalties through their next actions.
+MSID_H_ゴーストの魔道書＋改: After combat, if unit attacked, converts\nbonuses on target and foes within 2 spaces\nof target into penalties through their next\nactions.
+MSID_H_差し違えR75: If unit initiates combat against a foe that\ncan counter and unit's HP ≤ 75%, unit\nmakes a guaranteed follow-up attack.
+MSID_H_追撃攻R90: If unit's HP ≥ 90% and unit initiates combat,\nunit makes a guaranteed follow-up attack.
+MSID_H_追従R50: If unit's HP ≥ 50%, unit can move to a space\nadjacent to any ally within 2 spaces.
+MSID_H_奥義ダメージR10: Deals +10 damage when Special triggers.
+MSID_H_反撃抑制R魔: Magic foes cannot counterattack.
+MSID_H_強化無効R重装: Neutralizes armored foes’ bonuses (from\nskills like Fortify, Rally, etc.) during combat.
+MSID_H_強化無効R騎馬: Neutralizes cavalry foes’ bonuses (from skills\nlike Fortify, Rally, etc.) during combat.
+MSID_H_レーヴァテイン: Grants Atk+3. Adds total bonuses on unit\nto damage dealt.
+MSID_H_レイプト: Unit can counterattack regardless of foe's range.
+MSID_H_シンモラ: Grants Def+3. At start of turn, deals\n20 damage to foes within 2 spaces.
+MSID_H_セック: Calculates damage from staff like other\nweapons. At start of turn, if foe's HP ≤ unit's\nHP+3 and foe is in cardinal direction and\nuses bow, dagger, magic, or staff, foe\ncannot move more than 1 space through its\naction.
+MSID_H_氷の聖鏡: If foe's Range = 2, reduces damage from\nfoe's attacks by 30%. Boosts unit's next\nattack by total damage reduced (by any\nsource, including other skills) when Special\ntriggers. Resets at end of combat. (Skill\ncannot be inherited.)
+MSID_H_攻撃守備の絆1: If unit is adjacent to an ally, grants Atk/Def+3\nduring combat.
+MSID_H_攻撃守備の絆2: If unit is adjacent to an ally, grants Atk/Def+4\nduring combat.
+MSID_H_攻撃守備の絆3: If unit is adjacent to an ally, grants Atk/Def+5\nduring combat.
+MSID_H_火薙ぎの剣: Unit and foe cannot counterattack.
+MSID_H_火薙ぎの剣＋: Unit and foe cannot counterattack.
+MSID_H_黒き血の大剣: If unit initiates combat, grants Atk/Spd+4\nduring combat.
+MSID_H_白き血の薙刀: If foe initiates combat, grants Atk/Def+4\nduring combat.
+MSID_H_攻撃守備の応援: Grants Atk/Def+3 to target ally for 1 turn.
+MSID_H_攻撃の指揮1: At start of turn, grants Atk+2 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_攻撃の指揮2: At start of turn, grants Atk+4 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_攻撃の指揮3: At start of turn, grants Atk+6 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_守備の指揮1: At start of turn, grants Def+2 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_守備の指揮2: At start of turn, grants Def+4 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_守備の指揮3: At start of turn, grants Def+6 to allies within 2\nspaces for 1 turn. Granted only if number of\nthat ally's movement type on current team\n≤ 2.
+MSID_H_ムスペルの炎: Reduces damage dealt to unit to 0.
+MID_CHAPTER_TITLE_C0016: Intermission
+MID_CHAPTER_C0016: The Rite of Blades
+MID_STAGE_TITLE_S1601: Intermission 1
+MID_STAGE_S1601: The Rite of Blades
+MID_CHAPTER_TITLE_C0201: Book II, Chapter 1
+MID_CHAPTER_C0201: The Flame
+MID_STAGE_TITLE_S2011: Chapter 1: Part 1
+MID_STAGE_TITLE_S2012: Chapter 1: Part 2
+MID_STAGE_TITLE_S2013: Chapter 1: Part 3
+MID_STAGE_TITLE_S2014: Chapter 1: Part 4
+MID_STAGE_TITLE_S2015: Chapter 1: Part 5
+MID_STAGE_S2011: Undying Flame
+MID_STAGE_S2012: Mountains Burn
+MID_STAGE_S2013: Steam Billows
+MID_STAGE_S2014: Stars Become Cinders
+MID_STAGE_S2015: Enchantress of the Mist
+MID_CHAPTER_TITLE_C0202: Book II, Chapter 2
+MID_CHAPTER_C0202: Princess of Ice
+MID_STAGE_TITLE_S2021: Chapter 2: Part 1
+MID_STAGE_TITLE_S2022: Chapter 2: Part 2
+MID_STAGE_TITLE_S2023: Chapter 2: Part 3
+MID_STAGE_TITLE_S2024: Chapter 2: Part 4
+MID_STAGE_TITLE_S2025: Chapter 2: Part 5
+MID_STAGE_S2021: Lady of Snow
+MID_STAGE_S2022: Children of the Light
+MID_STAGE_S2023: Children of the Shadow
+MID_STAGE_S2024: Shadows and Light
+MID_STAGE_S2025: Ruler of Flame
+MID_STAGE_TITLE_SB_0005: 5th Assault
+MID_CHAPTER_ST_C0201: Chapters 1 & 2
+MID_STAGE_TITLE_ST_S0201: Chapter 1
+MID_STAGE_TITLE_ST_S0202: Chapter 2
+MID_STAGE_TITLE_ST_S1202: Chapters 1 & 2
+MID_STAGE_HONOR_T0021: Bound Hero Battle
+MID_STAGE_T0021: A & T
+MID_STAGE_HONOR_V0141: Effie the Strong
+MID_STAGE_V0141: Shingoroid
+MID_STAGE_HONOR_V0142: Dark Rainbow
+MID_STAGE_V0142: Taroimo
+MID_STAGE_HONOR_V0143: The Alluring Four
+MID_STAGE_V0143: Rokumoji
+MID_STAGE_HONOR_V0144: Light and Breezy
+MID_STAGE_V0144: Arayang
+MID_STAGE_HONOR_V0145: The Iron Wall
+MID_STAGE_V0145: ryo

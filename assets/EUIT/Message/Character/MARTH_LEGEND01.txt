@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_LEGEND01_HOME1: I sette regni di Akaneia stanno per\ndiventare uno... E la gente vuole che\nsia io a guidarlo.
+MID_MARTH_LEGEND01_HOME2: La stessa oscurità bellicosa che\navvolse Akaneia ha raggiunto questo\nmondo... Riesco a sentirlo.
+MID_MARTH_LEGEND01_HOME3: Vi prego, non vi preoccupate per me.\nNon vi sembrerà, ma ho già\nsperimentato la guerra sulla mia pelle.$k$pTuttavia, voi dovreste riposarvi.
+MID_MARTH_LEGEND01_HOME4: Questo? Oh, è un infuso medicinale\nche Shiida ha preparato per me.\nÈ solo che... è un po' troppo dolce.
+MID_MARTH_LEGEND01_HOME5: Perché rischiate la vita combattendo\nper questo regno? Oh, non fatemi\nquesto sguardo bieco.$k$pVorrei solo conoscere la vostra\nonesta opinione.
+MID_MARTH_LEGEND01_FRIEND: Salve, ben $Gincontrato,incontrata|!\n$Nf mi ha riferito\nparecchie cose positive su di voi.
+MID_MARTH_LEGEND01_LEVEL1: Perseguendo la vittoria!
+MID_MARTH_LEGEND01_LEVEL2: Bene... Devo semplicemente\ncontinuare così.
+MID_MARTH_LEGEND01_LEVEL3: È possibile che ciò sia il frutto\ndi quest'oscura presenza che\npercepisco?!
+MID_MARTH_LEGEND01_SKILL: Combinando le nostre forze, non\nsoccomberemo al nemico!
+MID_MARTH_LEGEND01_JOIN: Il mio nome è Marth. Per chi\ncombattete, e per quale ragione?\nQual è la vostra idea di giustizia?
+MID_MARTH_LEGEND01_STRONGEST: Da quando la gente ha iniziato a\nchiamarmi "il re eroico", mi sono\nspesso chiesto cosa sia la giustizia.$k$pLa vittoria genera la sconfitta, e\ngli sconfitti giurano di vendicarsi\na denti stretti.$k$pQuesto significa che la storia\ncontinuerà a ripetersi in un ciclo\ncontinuo.$k$pMio padre battuto, la mia terra\nconquistata... Anche io ho fatto parte\ndegli sconfitti, quindi posso capire. $k$pDopo essere fuggito, ho giurato che\navrei recuperato la mia terra natia\ne avrei ritrovato i miei compagni.$k$pFu Nyna ad affidarmi l'Emblema\ndi Fuoco. Questo ha rafforzato\nla mia volontà di combattere.$k$pNon ero più spinto dalla vendetta,\nné dalla voglia di rivincita... Ma\ncombattevo per il popolo.$k$pHo trionfato perché ho trovato tanti\nalleati che condividevano con me\nun forte senso della giustizia.$k$pAbbiamo unito le nostre forze e\ncombattuto come una sola entità.$k$pE adesso sono convinto che voi\ncondividete quello stesso senso\ndella giustizia.$k$pContinuiamo a combattere come\nuna persona sola,\n$Nu.
+MID_MARTH_LEGEND01_VOICE01: はっ！
+MID_MARTH_LEGEND01_VOICE02: 行こう！
+MID_MARTH_LEGEND01_VOICE03: うああっ！
+MID_MARTH_LEGEND01_VOICE04: ぼくはまだ…！
+MID_MARTH_LEGEND01_VOICE05: Combattiamo insieme!
+MID_MARTH_LEGEND01_VOICE06: Non cederò!
+MID_MARTH_LEGEND01_VOICE07: Fino alla fine!
+MID_MARTH_LEGEND01_VOICE08: Falchion, risplendi!
+MID_MARTH_LEGEND01_VOICE09: Forgive me, friends...
+MID_MARTH_LEGEND01_VOICE10: はは
+MID_MARTH_LEGEND01_VOICE11: I'm Marth, Prince of Altea.
+MID_MARTH_LEGEND01_VOICE12: Has something gotten into you?
+MID_MARTH_LEGEND01_VOICE13: Legendary Hero? Please, I've done nothing so grand as to earn such a title.
+MID_MARTH_LEGEND01_VOICE14: I can accomplish nothing on my own. It's thanks to my friends I've come as far as I have.
+MID_MARTH_LEGEND01_VOICE15: My hope is for people of all worlds to live happily.
+MID_MARTH_LEGEND01_VOICE16: If I'm not dependable, everyone else will suffer for it.
+MID_MARTH_LEGEND01_VOICE17: As a friend, you are irreplaceable. I will protect you.
+MID_MARTH_LEGEND01_VOICE18: Right.
+MID_MARTH_LEGEND01_VOICE19: What's my move?
+MID_MARTH_LEGEND01_VOICE20: Together.

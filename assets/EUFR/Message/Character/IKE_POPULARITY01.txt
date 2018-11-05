@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_POPULARITY01_HOME1: Ce monde est aussi frappé par la\nguerre, et des gens souffrent. J'ai du\npain sur la planche, on dirait.
+MID_IKE_POPULARITY01_HOME2: Mon père était jadis à la tête des\nmercenaires de Greil. C'était un chef\nrespecté de tous.
+MID_IKE_POPULARITY01_HOME3: Je peux réaliser certaines tâches\npour vous aider. Comme...\ncouper du bois, par exemple ?
+MID_IKE_POPULARITY01_HOME4: Voici Urvan, la hache de mon père...\nElle est puissante et tenace, comme\nlui.
+MID_IKE_POPULARITY01_HOME5: Le maniement de la hache diffère de\nl'épée. Il requiert la force plutôt que\nl'habileté. Je manque de pratique.
+MID_IKE_POPULARITY01_FRIEND: Je suis Ike, membre des mercenaires\nde Greil. $Nf\nme charge de vous porter un message.
+MID_IKE_POPULARITY01_LEVEL1: Manier cette hache devient\ncomme une deuxième nature.
+MID_IKE_POPULARITY01_LEVEL2: Mon corps s'habitue peu à peu\nà cette pratique.
+MID_IKE_POPULARITY01_LEVEL3: Mon entraînement est loin\nd'être fini.
+MID_IKE_POPULARITY01_SKILL: Je dois poursuivre mon\nentraînement sans relâche.
+MID_IKE_POPULARITY01_JOIN: Je suis Ike, membre des mercenaires\nde Greil. Et voici ma fidèle alliée :\nma hache Urvan.
+MID_IKE_POPULARITY01_STRONGEST: J'ai fait un rêve étrange... J'étais\ncomme dans un autre monde,\net des gens scandaient mon nom.$k$pUne foule immense m'acclamait.\nVous imaginez ? Je ne connais rien\nà la magie, mais...$k$pJ'ai le sentiment que c'est\ncette clameur qui m'a invoqué\ndans ce monde.$k$pSi cela est vrai... je ne peux me\npermettre de les décevoir.$k$pJe ne suis pas chevalier, et encore\nmoins noble. Mais j'ai toujours\nsuivi l'exemple donné par mon père.$k$pJe dois faire honneur à sa mémoire...\net préserver la grandeur des\nmercenaires.$k$pPeu m'importe la solde, je veux me\nbattre au nom du peuple...
+MID_IKE_POPULARITY01_VOICE01: おおぉっ！
+MID_IKE_POPULARITY01_VOICE02: 行くぞ！
+MID_IKE_POPULARITY01_VOICE03: うああっ！
+MID_IKE_POPULARITY01_VOICE04: 倒れるわけには…！
+MID_IKE_POPULARITY01_VOICE05: Merci bien !
+MID_IKE_POPULARITY01_VOICE06: Finissons-en.
+MID_IKE_POPULARITY01_VOICE07: Je vaincrai !
+MID_IKE_POPULARITY01_VOICE08: Avec mes remerciements.
+MID_IKE_POPULARITY01_VOICE09: Argh... I'm sorry...
+MID_IKE_POPULARITY01_VOICE10: Haha
+MID_IKE_POPULARITY01_VOICE11: This reminds me of something my father wore.
+MID_IKE_POPULARITY01_VOICE12: Hmm? What is it? Do you need something?
+MID_IKE_POPULARITY01_VOICE13: I had a strange dream. Thousands of people... And they were all saying my name!
+MID_IKE_POPULARITY01_VOICE14: I was called to this world to answer the wishes of many. Or so it seems.
+MID_IKE_POPULARITY01_VOICE15: I can't really remember that dream I had. But I do remember that you helped me.
+MID_IKE_POPULARITY01_VOICE16: Father, watch over me. One day, I swear...
+MID_IKE_POPULARITY01_VOICE17: I'm grateful to you. You've done so much for me. You are a true friend.
+MID_IKE_POPULARITY01_VOICE18: Understood.
+MID_IKE_POPULARITY01_VOICE19: Orders?
+MID_IKE_POPULARITY01_VOICE20: It's all for you.

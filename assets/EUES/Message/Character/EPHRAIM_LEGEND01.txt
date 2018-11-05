@@ -1,0 +1,38 @@
+[Heroes Archive] (EPHRAIM_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_EPHRAIM_LEGEND01_HOME1: ¿Un héroe legendario? No sabía\nque fuera tan importante.$k$pCreo que las historias que se\ncuentan sobre mí suelen omitir\nmi sed de lucha.
+MID_EPHRAIM_LEGEND01_HOME2: Eirika es mi hermana gemela.\nSiempre hemos estado juntos,\nincluso desde antes de nacer.
+MID_EPHRAIM_LEGEND01_HOME3: Algunos dicen que mi forma de luchar\nes demasiado temeraria. Pero no es\nuna temeridad si siempre gano.
+MID_EPHRAIM_LEGEND01_HOME4: Estudiar es un aburrimiento...\nSolo me resultaba llevadero\ncuando lo hacía con mi amigo Lyon.
+MID_EPHRAIM_LEGEND01_HOME5: Tengo mucha experiencia luchando\na caballo. Me interesa todo lo que me\npueda dar ventaja sobre el enemigo.
+MID_EPHRAIM_LEGEND01_FRIEND: Soy Ephraim.\n¿Quieres batirte en duelo conmigo?\nPondré tu batallón a prueba.
+MID_EPHRAIM_LEGEND01_LEVEL1: Cuando sea rey defenderé a mi\npueblo con mis propias manos.
+MID_EPHRAIM_LEGEND01_LEVEL2: Todo lo que he aprendido\nen la batalla me da fuerzas.
+MID_EPHRAIM_LEGEND01_LEVEL3: Un mal día lo tiene cualquiera.\nLo daré todo la próxima vez.
+MID_EPHRAIM_LEGEND01_SKILL: Debo templar mi carácter para\nque el poder nunca me ciegue.
+MID_EPHRAIM_LEGEND01_JOIN: Soy el príncipe Ephraim de Renais.\n¿Dices que soy un héroe legendario?$k$pSi fui capaz de vencer al Rey\nDemonio fue gracias a todas las\npersonas que me prestaron su fuerza.
+MID_EPHRAIM_LEGEND01_STRONGEST: Tu capacidad de invocar héroes\nte ha puesto en una situación\nde liderazgo.$k$pEs una responsabilidad enorme,\ncapaz de poner mundos del revés.$k$pTe pido que sopeses el efecto que\npodrías tener. ¿Qué enemigo podría\nestar fuera de tu alcance?$k$pEs una idea extraña, pero llevo\ntiempo dándole vueltas...$k$pLa lucha me apasiona. Cuanto más\nfuerte soy, más quiero pelear.\nBusco ponerme a prueba.$k$pEs mi forma de ser, pero sé que\nestos impulsos no son adecuados\npara un rey.$k$pLos lugareños me llaman héroe\nlegendario y cuentan mis hazañas...$k$pDicen que soy un buen rey que ha\njurado proteger a su pueblo.\nPero todavía no lo soy.$k$pUn día seré rey y protegeré a los\nmíos. Y también a quienes trató de\nsalvar hace tiempo un amigo.$k$pAspiro a ser un rey que supere las\nexpectativas y rompa los límites de\nla debilidad humana.$k$pEspero lograrlo algún día.
+MID_EPHRAIM_LEGEND01_VOICE01: せやっ！
+MID_EPHRAIM_LEGEND01_VOICE02: Take this!
+MID_EPHRAIM_LEGEND01_VOICE03: うああっ！
+MID_EPHRAIM_LEGEND01_VOICE04: You've done it now...
+MID_EPHRAIM_LEGEND01_VOICE05: ¿Querías pelea?
+MID_EPHRAIM_LEGEND01_VOICE06: ¡Ríndete o muere!
+MID_EPHRAIM_LEGEND01_VOICE07: ¡Soy imparable!
+MID_EPHRAIM_LEGEND01_VOICE08: Por fin un rival digno.
+MID_EPHRAIM_LEGEND01_VOICE09: Forgive me, Eirika.
+MID_EPHRAIM_LEGEND01_VOICE10: ははっ
+MID_EPHRAIM_LEGEND01_VOICE11: I am Ephraim, Prince of Renais. Legendary Hero? Where did you get that from?
+MID_EPHRAIM_LEGEND01_VOICE12: Tread carefully, my friend. There are limits to what I find amusing.
+MID_EPHRAIM_LEGEND01_VOICE13: When I was growing up, I never thought about becoming king. But now...
+MID_EPHRAIM_LEGEND01_VOICE14: I will be king, and I will dedicate myself to the happiness of my people.
+MID_EPHRAIM_LEGEND01_VOICE15: This is Siegmund, the Flame Lance. It carries with it the power to save the world.
+MID_EPHRAIM_LEGEND01_VOICE16: Lyon... If I could have one wish, I would be with you again, my friend.
+MID_EPHRAIM_LEGEND01_VOICE17: I will fight. To bring peace to this world, and for your sake, too.
+MID_EPHRAIM_LEGEND01_VOICE18: I understand.
+MID_EPHRAIM_LEGEND01_VOICE19: I'm going in!
+MID_EPHRAIM_LEGEND01_VOICE20: To victory!

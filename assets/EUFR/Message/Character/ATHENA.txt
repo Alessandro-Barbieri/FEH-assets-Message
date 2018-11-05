@@ -1,0 +1,38 @@
+[Heroes Archive] (ATHENA)
+
+
+Heroes Message Name: Message
+
+
+MID_ATHENA_HOME1: Gardons d'Askr ? C'est pour faire\nsoupe de poisson ?
+MID_ATHENA_HOME2: Nous ne sommes pas professeur,\nmais dans autre monde, nous avons\neu élèves pour combat.
+MID_ATHENA_HOME3: Vous êtes toujours $Goccupé,occupée|. Jamais\nassez dormir. Allez faire petite sieste,\nnous faisons patrouille pour vous.
+MID_ATHENA_HOME4: Héros, ça ? Il faut faire mariole\ndans beau costume blanc\npour être héros ?
+MID_ATHENA_HOME5: Gens d'ici menacés par empire, alors\nnous aidons. Moindre des choses.
+MID_ATHENA_FRIEND: Chez nous, proverbe dit :\n« Bleu est bleu. Couleur si profonde,\ncontient tous les bleus. »$k$pFait réfléchir, hein ?
+MID_ATHENA_LEVEL1: Aujourd'hui bonne journée.
+MID_ATHENA_LEVEL2: Aujourd'hui pas mauvaise journée.
+MID_ATHENA_LEVEL3: Aujourd'hui mauvaise journée.
+MID_ATHENA_SKILL: Nous remercions vous.\nNous revaudrons ça.
+MID_ATHENA_JOIN: Vous appelez nous ? Athenais n'est\npas chien-chien qu'on siffle. Mais\nvous êtes $Ggentil,gentille|. Nous restons.
+MID_ATHENA_STRONGEST: Nous comprenons beaucoup mots\ncompliqués, maintenant.$k$p« Invoquer » veut dire appeler\nhéros, comme vous faites.$k$p« Breidablik » est arme bizarre.\nPardon, arme divine.$k$pEt « tirer » veut dire tirer.\nÇa, même bébés savent.$k$pNous remercions vous\npour patience.$k$pChez nous, proverbe dit :\n« Équipe de vrais guerriers se bat\ncomme corps avec beaucoup bras. »$k$pAlors nous heureuse d'aider alliés,\net d'offrir deux bras à nous.$k$pDernier mot appris :\nnous sommes... Comment\nvous dites ? Femme ?$k$pNon ! Amie. Nous sommes amie à\nvous. Et nous espérons apprendre\nautres mots avec vous.
+MID_ATHENA_VOICE01: はぁっ！
+MID_ATHENA_VOICE02: えいっ！
+MID_ATHENA_VOICE03: きゃああっ！
+MID_ATHENA_VOICE04: So frustrating...
+MID_ATHENA_VOICE05: Nous payons toujours dettes !
+MID_ATHENA_VOICE06: Grosse attaque pour vous !
+MID_ATHENA_VOICE07: Nous tranchons vous, maintenant !
+MID_ATHENA_VOICE08: Préparez-vous pour souffrance.
+MID_ATHENA_VOICE09: We failed.
+MID_ATHENA_VOICE10: hehe
+MID_ATHENA_VOICE11: You have need of us?
+MID_ATHENA_VOICE12: Is that hello in home country?
+MID_ATHENA_VOICE13: I try speak your tongue, but is twisted.
+MID_ATHENA_VOICE14: Half things people say sound like curse words. I know not. But sound like!
+MID_ATHENA_VOICE15: This Odor of Heroes... Why not they just take bath, if smell?
+MID_ATHENA_VOICE16: We pledge self to you for life. Is least we can do.
+MID_ATHENA_VOICE17: We feel bond with you.
+MID_ATHENA_VOICE18: Understood.
+MID_ATHENA_VOICE19: What next?
+MID_ATHENA_VOICE20: Ready.

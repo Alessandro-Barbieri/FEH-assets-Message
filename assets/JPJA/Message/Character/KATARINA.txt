@@ -1,0 +1,38 @@
+[Heroes Archive] (KATARINA)
+
+
+Heroes Message Name: Message
+
+
+MID_KATARINA_HOME1: 書物で学んだ素晴らしい英雄たちと\n同じ戦場で戦うなんて…\nな、なんだか緊張してしまいます。
+MID_KATARINA_HOME2: クライネは、私の妹なんですよ。\n孤児だった私たちは…\n幼い頃にそういう約束をしたんです。
+MID_KATARINA_HOME3: あまり無理をなさらず、休んでくださいね。\n眠れないようでしたら、ええと…\nこ、子守唄など歌ってみましょうか…？
+MID_KATARINA_HOME4: あなたの指揮はいつも素晴らしいです。\n私も軍師として学んだことがあるのですが、\n向いてなかったみたいで…
+MID_KATARINA_HOME5: あの、$Nu様は…\n前に…私と会ったことがありませんか？\n私が元いた世界で…
+MID_KATARINA_FRIEND: こんにちは。私はカタリナと申します。\n$Nf様の御命令で\nあなたにごあいさつに参りました。
+MID_KATARINA_LEVEL1: や、やりました…！\nあの、褒めてくださいますか…？
+MID_KATARINA_LEVEL2: なかなか良かったです。\n…で、ですよね？
+MID_KATARINA_LEVEL3: だめみたいです…\nあの、お叱りになりますか…？
+MID_KATARINA_SKILL: あなたのためでしたら、\n私、何でもします…
+MID_KATARINA_JOIN: 私はカタリナと申します。\n軍師志望、だったのですが才能がなくて…\nあ、魔道は少し使うことができます。
+MID_KATARINA_STRONGEST: 私、元いた世界で、\nとっても大切な人がいたんです…\nその人は、あなたにとてもよく似ていて…$k$pその人は今、どちらの世界にもいません。\n不思議なんです。あの人もまた英雄なのに…\n私、異界にまつわる様々な文献を調べて…$k$pそして…思ったんです。\nもしかして、あなたが…\nあなたがあの人なのかもって…$k$pす、すみません…気味悪いですよね…\nもしそうだったとしても、\nあなたは何も覚えているはずがないのに…$k$pそうだったとしても、そうでなくても…\n私、あなたのために一生懸命がんばります。\nふつつか者ですが、よろしくお願いします。
+MID_KATARINA_VOICE01: えいっ！
+MID_KATARINA_VOICE02: それっ！
+MID_KATARINA_VOICE03: きゃああっ！
+MID_KATARINA_VOICE04: 予想外です…
+MID_KATARINA_VOICE05: 倒します
+MID_KATARINA_VOICE06: 終わりにします
+MID_KATARINA_VOICE07: ごめんなさい
+MID_KATARINA_VOICE08: 殺しに来ました
+MID_KATARINA_VOICE09: …夢を…見てました…
+MID_KATARINA_VOICE10: ふふ
+MID_KATARINA_VOICE11: はい、御用でしょうか？
+MID_KATARINA_VOICE12: ひゃあっ…す、すすすみません！
+MID_KATARINA_VOICE13: 私、軍師見習いなんです
+MID_KATARINA_VOICE14: あなたの戦術は素晴らしいです、学ばせてください
+MID_KATARINA_VOICE15: ご命令いただければ、何でもします
+MID_KATARINA_VOICE16: …いつか、償いができるでしょうか…？
+MID_KATARINA_VOICE17: あなたの仲間でいられて、嬉しいです
+MID_KATARINA_VOICE18: はい
+MID_KATARINA_VOICE19: どうしましょうか？
+MID_KATARINA_VOICE20: 行きます

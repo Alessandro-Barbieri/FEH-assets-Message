@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_HOME1: ¿Por qué sendas discurrirá el futuro\nde este reino? No me corresponde\na mí tomar las decisiones, sino a ti.
+MID_KAMUI_M_HOME2: Una vez me vi forzado a elegir entre\nel reino que me vio nacer y aquel en\nel que me crie. Fue un momento duro.
+MID_KAMUI_M_HOME3: Verte hacer la ronda me trae\nrecuerdos de mi propio castillo.\n¡Qué tiempos aquellos!
+MID_KAMUI_M_HOME4: En mi castillo había tantas cosas\nque hacer... ¡Y mis aposentos eran\nel lugar perfecto para descansar!
+MID_KAMUI_M_HOME5: Ah, hola. Estaba pensando en\nmi familia. ¿Tú también tienes\nhermanos?
+MID_KAMUI_M_FRIEND: Te traigo saludos de parte de\n$Nf.\n¡Me encanta tu castillo, por cierto!
+MID_KAMUI_M_LEVEL1: No lo habría conseguido\nsin la ayuda de todos.
+MID_KAMUI_M_LEVEL2: Genial. Ahora podré\nayudar a más amigos.
+MID_KAMUI_M_LEVEL3: No parece que haya\nmejorado mucho...
+MID_KAMUI_M_SKILL: ¡Tengo ganas de ponerme\na prueba!
+MID_KAMUI_M_JOIN: Soy Corrin, nacido en Hoshido,\naunque criado en Nohr. Pongo mi\nYato y mi poder dragontino a tus pies.
+MID_KAMUI_M_STRONGEST: ¡Hola, $Nu!\nMe alegro de verte. Siempre me\nsiento intranquilo cuando no te veo.$k$pQuizá sea demasiado protector...\nLo cual es curioso, teniendo en\ncuenta mi historia.$k$pToda mi vida me he sentido\nsobreprotegido; sin embargo, ahora\nsoy yo el que vela por los demás.$k$pPero tú eres esencial para la defensa\nde este reino. Necesito hacer todo\nlo posible para mantenerte a salvo.
+MID_KAMUI_M_VOICE01: はっ！
+MID_KAMUI_M_VOICE02: でやっ！
+MID_KAMUI_M_VOICE03: うああっ
+MID_KAMUI_M_VOICE04: No...
+MID_KAMUI_M_VOICE05: ¡No me rendiré!
+MID_KAMUI_M_VOICE06: ¡Mi senda está elegida!
+MID_KAMUI_M_VOICE07: ¡Te detendré!
+MID_KAMUI_M_VOICE08: ¡El destino me llama!
+MID_KAMUI_M_VOICE09: This can't be...
+MID_KAMUI_M_VOICE10: Heehee
+MID_KAMUI_M_VOICE11: Thank you very much for looking out for everyone.
+MID_KAMUI_M_VOICE12: Between friends, even the smallest gestures can mean so much.
+MID_KAMUI_M_VOICE13: I have so many siblings. I'm very fortunate.
+MID_KAMUI_M_VOICE14: Ever made a choice that, either way, meant losing something you loved?
+MID_KAMUI_M_VOICE15: I grew up in a fortress, where I was...never allowed outside.
+MID_KAMUI_M_VOICE16: I'm certain that you've chosen the path of peace.
+MID_KAMUI_M_VOICE17: You can lean on me if you're weary. My brothers may be bigger, but I can shoulder more than my share.
+MID_KAMUI_M_VOICE18: All right.
+MID_KAMUI_M_VOICE19: Let's go.
+MID_KAMUI_M_VOICE20: Of course.

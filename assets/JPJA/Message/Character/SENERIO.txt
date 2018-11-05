@@ -1,0 +1,38 @@
+[Heroes Archive] (SENERIO)
+
+
+Heroes Message Name: Message
+
+
+MID_SENERIO_HOME1: 特務機関は、報酬や名誉のためではなく、\nただ人々を救うために戦う…\n僕には理解できません。
+MID_SENERIO_HOME2: 僕が元いた世界のこと、ですか？\nあなたにそんなことを話して\n僕に何の利があるというのですか。
+MID_SENERIO_HOME3: 戦術について何かあれば相談に乗ります。\nあなたの策が失敗すれば、\n死ぬのは僕たちですから。
+MID_SENERIO_HOME4: …僕は…おそらく…【印付き】…\n誰からも忌み嫌われる\n不浄の存在…
+MID_SENERIO_HOME5: この世界の歴史書を読んでいました。\n歴史に興味はありませんが、戦争で\n役に立つことがあるかもしれませんから。
+MID_SENERIO_FRIEND: $Nfからの\n依頼で挨拶に来ました。\nでは、僕はこれで失礼します。
+MID_SENERIO_LEVEL1: 幸運不運は常に移ろうもの。\nたまたま、運が良かっただけのことです。
+MID_SENERIO_LEVEL2: 自身の戦力が増すのは、\n歓迎すべきことです。
+MID_SENERIO_LEVEL3: 幸運不運は常に移ろうもの。\nたまたま、運が悪かっただけのことです。
+MID_SENERIO_SKILL: 礼は言いません。僕の力が増すのは、\nあなたにとっての利益ですから。
+MID_SENERIO_JOIN: …僕はセネリオ、魔道士です。\n聞きたいことがあります。\nアイクはここに来ていますか？
+MID_SENERIO_STRONGEST: …以上が、異界の英雄たちの戦力評価です。\n彼らは敵に回すには厄介ですが、\n味方にできれば貴重な…$k$p…$Nu？\nちゃんと聞いてますか？\nまったく、あなたという人は…$k$p言っておきますが、勘違いしないでください。\n本来の僕の居場所はここではありません。\nここにはただ、一時いるだけですから。$k$p？　なぜ僕がここにいるか、ですか？\n……。\nそれは…あなたが…$k$p…ただの敵情視察です。\n異国に潜り込み、その国の内情を探る…\nただそれだけのことです。$k$pですが、あなたが\n僕を必要としているというのなら…\nもう少しだけ、あなたに力を貸しましょう。\n
+MID_SENERIO_VOICE01: はっ！
+MID_SENERIO_VOICE02: 無駄です
+MID_SENERIO_VOICE03: うああっ！
+MID_SENERIO_VOICE04: 誤算です…
+MID_SENERIO_VOICE05: …覚悟はいいですね？
+MID_SENERIO_VOICE06: 敵は殺します
+MID_SENERIO_VOICE07: …邪魔です
+MID_SENERIO_VOICE08: もういいですか
+MID_SENERIO_VOICE09: …こんな、ところで…
+MID_SENERIO_VOICE10: ふっ
+MID_SENERIO_VOICE11: あなたがこの軍の参謀、ですか。…いえ、別に。
+MID_SENERIO_VOICE12: …特に御用がなければ、僕はこれで失礼します。
+MID_SENERIO_VOICE13: 傭兵は利によって動くもの。情や絆など期待しないでください。
+MID_SENERIO_VOICE14: アイクは一国の将にとどまらない器です。それに比べてあなたは…
+MID_SENERIO_VOICE15: 調子の悪い時のアイクは、眉間の皺が深くなるんです。
+MID_SENERIO_VOICE16: たとえ僕が何者でも…僕の居場所は…
+MID_SENERIO_VOICE17: あなたを助けることは僕の利になる…それだけのことですから。
+MID_SENERIO_VOICE18: はい
+MID_SENERIO_VOICE19: 打てる策は…
+MID_SENERIO_VOICE20: わかりました

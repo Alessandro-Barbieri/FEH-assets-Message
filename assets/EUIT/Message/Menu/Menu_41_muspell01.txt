@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: Seq. iniziale libro II
+MID_ITEM_REFINE_STONE: Pietra levigante
+MID_ITEM_HELP_REFINE_STONE: Si usa per perfezionare armi\nnormali nell'Officina delle armi.
+MID_ITEM_GOD_REFINE_STONE: Rugiada divina
+MID_ITEM_HELP_GOD_REFINE_STONE: Si usa per perfezionare alcune armi\nspeciali nell'Officina delle armi.
+MID_ITEM_ARENA_MEDAL: Medaglia dell'arena
+MID_ITEM_HELP_ARENA_MEDAL: Si usa nell'Officina delle armi.
+MID_ITEM_BLESSING_FIRE: Dono del fuoco
+MID_ITEM_HELP_BLESSING_FIRE: Si usa in Conferisci Dono. Conferisce\nil Dono del fuoco a un alleato.
+MID_ITEM_BLESSING_WATER: Dono dell'acqua
+MID_ITEM_HELP_BLESSING_WATER: Si usa in Conferisci Dono. Conferisce\nil Dono dell'acqua a un alleato.
+MID_ITEM_BLESSING_WIND: Dono del vento
+MID_ITEM_HELP_BLESSING_WIND: Si usa in Conferisci Dono. Conferisce\nil Dono del vento a un alleato.
+MID_ITEM_BLESSING_EARTH: Dono della terra
+MID_ITEM_HELP_BLESSING_EARTH: Si usa in Conferisci Dono. Conferisce\nil Dono della terra a un alleato.
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: Libro I
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: Libro II
+MID_STAGE_OPEN_WEAPON_REFINE: Officina delle armi sbloccata.
+MID_SUMMON_SEASON2_DAYS: $a$a1 Finisce tra $a0 giorno/i.
+MID_SUMMON_SEASON2_HOURS: $a$a1 Finisce tra $a0 ora/e.
+MID_SUMMON_SEASON2_MINUTES: $a$a1 Finisce tra $a0 min.
+MID_SUMMON_LIMITED_BEGINNER: Solo per i nuovi!
+MID_SUMMON_ONE_TIME_FREE: Un'evocazione gratis!
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: Un'evocazione gratis,\nsolo per i nuovi!
+MID_SUMMON_ONE_TIME_FREE_DECIDE: Evoca
+MID_UNIT_EDIT_WEAPON_REFINE: Officina delle armi
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: Vuoi perfezionare questo?
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: Perfeziona
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: Seleziona personaggio e perfezionane l'abilità.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: Seleziona un'abilità.
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: Questa abilità perfezionata non è ereditabile.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: Perfeziona le tue armi!
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: ◆Officina delle armi◆\nPuoi perfezionare le tue armi\nper renderle più potenti.\n\nQuesto processo richiede pietre\nleviganti, medaglie dell'arena e\nPA. Puoi ottenere le medaglie\ndell'arena nell'arena.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: ◆Rugiada divina◆\nPer perfezionare alcune armi, ti\nservirà la rugiada divina invece\ndelle pietre leviganti.\n\nPuoi creare la rugiada divina\nnell'Officina delle armi usando\nle pietre leviganti.
+MID_UNIT_EDIT_BLESSING: Conferisci Dono
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: Un dono degli eroi leggendari!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: ◆Conferire Doni◆\nUsa un oggetto Dono per conferire\nun Dono ai tuoi alleati.\n\nI Doni non possono essere conferiti\na Fjorm né ad altri eroi leggendari.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: ◆1º effetto dei Doni◆\nGli alleati con un Dono ottengono\nil doppio dei PA normali.\n\nRicorda che anche se gli eroi\nleggendari non possono ricevere\nDoni, in battaglia essi ottengono\nsempre il doppio dei PA normali.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: ◆2º effetto dei Doni◆\nAbbina l'eroe leggendario,\nl'elemento della stagione attuale\ne il Dono dei tuoi alleati per\nricevere un bonus.\n\nPer esempio, scendi in campo\ndurante la stagione dell'acqua con\nl'eroina leggendaria d'acqua Fjorm\ne gli alleati con il Dono dell'acqua\ne avrai un bonus di PS +3 e Vel +3.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: ◆Calendario della stagione◆\nTrovi le informazioni sulla stagione\nattuale in alto sullo schermo di\nbattaglia e in altre posizioni.\n\n◆Eroi leggendari◆\nGli eroi leggendari hanno un'icona\nspeciale nel loro profilo. Toccala\nper scoprire l'effetto leggendario\ndi cui dispongono.
+MID_UNIT_EDIT_SORT_BLESSING: Doni
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・Esp e PA doppi nelle battaglie.\n・Durante la stagione del fuoco,\nricevi un potenziamento speciale\nda un eroe leggendario di tipo\nfuoco quando lotti al suo fianco.
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・Esp e PA doppi nelle battaglie.\n・Durante la stagione dell'acqua,\nricevi un potenziamento speciale\nda un eroe leggendario di tipo\nacqua quando lotti al suo fianco.
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・Esp e PA doppi nelle battaglie.\n・Durante la stagione del vento,\nricevi un potenziamento speciale\nda un eroe leggendario di tipo\nvento quando lotti al suo fianco.
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・Esp e PA doppi nelle battaglie.\n・Durante la stagione della terra,\nricevi un potenziamento speciale\nda un eroe leggendario di tipo\nterra quando lotti al suo fianco.
+MID_UNIT_EDIT_BLESSING_HELP1: Scegli un personaggio a cui dare il Dono.
+MID_UNIT_EDIT_BLESSING_HELP2: Scegli un Dono.
+MID_UNIT_EDIT_BLESSING_APPLIED: In uso
+MID_UNIT_EDIT_BLESSING_SELECTED: Scelto
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: N/A
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: Conferire il Dono del fuoco?\n\nL'alleato con questo Dono riceverà\nun potenziamento se lotta al fianco\ndi un eroe leggendario di tipo fuoco\ndurante la stagione del fuoco.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: Conferire il Dono dell'acqua?\n\nL'alleato con questo Dono riceverà\nun potenziamento se lotta al fianco\ndi un eroe leggendario di tipo acqua\ndurante la stagione dell'acqua.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: Conferire il Dono del vento?\n\nL'alleato con questo Dono riceverà\nun potenziamento se lotta al fianco\ndi un eroe leggendario di tipo vento\ndurante la stagione del vento.
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: Conferire il Dono della terra?\n\nL'alleato con questo Dono riceverà\nun potenziamento se lotta al fianco\ndi un eroe leggendario di tipo terra\ndurante la stagione della terra.
+MID_UNIT_EDIT_BLESSING_WARNING: Se conferisci un nuovo Dono, quello\nprecedente e i suoi effetti saranno nulli.
+MID_UNIT_EDIT_BLESSING_DECIDE: Conferisci il Dono
+MID_SEASON_HELP_FIRE: ◆Stagione del fuoco◆\nGli alleati con Dono del fuoco ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo fuoco.
+MID_SEASON_HELP_WATER: ◆Stagione dell'acqua◆\nGli alleati con Dono dell'acqua ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo acqua.
+MID_SEASON_HELP_WIND: ◆Stagione del vento◆\nGli alleati con Dono del vento ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo vento.
+MID_SEASON_HELP_EARTH: ◆Stagione della terra◆\nGli alleati con Dono della terra ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo terra.
+MID_SEASON_HELP_FIREWATER: ◆Stagione del fuoco e dell'acqua◆\nGli alleati con Dono del fuoco ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo fuoco.\nGli alleati con Dono dell'acqua ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo acqua.
+MID_SEASON_HELP_FIREWIND: ◆Stagione del fuoco e del vento◆\nGli alleati con Dono del fuoco ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo fuoco.\nGli alleati con Dono del vento ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo vento.
+MID_SEASON_HELP_FIREEARTH: ◆Stagione del fuoco e della terra◆\nGli alleati con Dono del fuoco ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo fuoco.\nGli alleati con Dono della terra ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo terra.
+MID_SEASON_HELP_WATERWIND: ◆Stagione dell'acqua e del vento◆\nGli alleati con Dono dell'acqua ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo acqua.\nGli alleati con Dono del vento ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo vento.
+MID_SEASON_HELP_WATEREARTH: ◆Stagione dell'acqua e della terra◆\nGli alleati con Dono dell'acqua ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo acqua.\nGli alleati con Dono della terra ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo terra.
+MID_SEASON_HELP_WINDEARTH: ◆Stagione del vento e della terra◆\nGli alleati con Dono del vento ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo vento.\nGli alleati con Dono della terra ottengono\nun potenziamento quando lottano al fianco\ndi un eroe leggendario di tipo terra.

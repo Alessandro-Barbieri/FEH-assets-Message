@@ -1,0 +1,38 @@
+[Heroes Archive] (KARLA)
+
+
+Heroes Message Name: Message
+
+
+MID_KARLA_HOME1: 兄者…\n昔には戻れぬと分かっていても\nそれでも私は…
+MID_KARLA_HOME2: 我が一族の剣を継ぐのはただ一人。\n兄者を除いて他の者は既に無く、\nいずれ私も…だが。
+MID_KARLA_HOME3: 日々の務め、まことにご苦労。\nおぬしの勤勉さは見上げたものだが\nあまり根を詰めすぎるなよ。
+MID_KARLA_HOME4: 私も旅をしていろんなものを見てきたが\nここは更に珍しいものが多いな。\nよければ少し案内してもらえるか？
+MID_KARLA_HOME5: 剣を振っていた。\n己には不要と思ってみても\n身に付いた習慣は抜けぬものだな。
+MID_KARLA_FRIEND: 私はカアラ。挨拶に参った。\n$Nfを\nよろしく頼むぞ。
+MID_KARLA_LEVEL1: 体が軽いな…\nこれが剣を振るうということか。
+MID_KARLA_LEVEL2: 少しでも兄者に近づけただろうか。
+MID_KARLA_LEVEL3: 私では及ばぬということか…
+MID_KARLA_SKILL: このような力が…\nうむ、ありがたく使わせてもらうぞ。
+MID_KARLA_JOIN: 私はカアラと申す。\nここはまた妙な所だな…\nそしておぬしは何者だ？
+MID_KARLA_STRONGEST: 我が一族は剣の為に生きてきた。\nひたすらに技を磨き、敵を斬り、\n家族すら刃の下に捨て去った。$k$pしかし草原を出て、旅をするうちに\nそれだけが強さではないと知った。\n剣はただ剣でしかないと。$k$pある男が、強さを求める姿勢を教えてくれた。\n兄者も、切り捨てるだけが\n剣の道ではないと気づいてくれた…$k$pだが、おぬしを見ていると…\nまた別の強さを感じる。\n戦えぬがゆえに持つ強さというべきか。$k$p今の私には、それがとても興味深い。\nそれが何か理解できるまで、\n付き合ってもらうぞ。
+MID_KARLA_VOICE01: はっ！
+MID_KARLA_VOICE02: ふっ
+MID_KARLA_VOICE03: きゃああっ！
+MID_KARLA_VOICE04: 未熟…
+MID_KARLA_VOICE05: お相手致す
+MID_KARLA_VOICE06: 是非もない
+MID_KARLA_VOICE07: 戦いは好かぬが
+MID_KARLA_VOICE08: 死ぬぞ？
+MID_KARLA_VOICE09: これでは到底…兄者には…
+MID_KARLA_VOICE10: ふぅむ…
+MID_KARLA_VOICE11: 剣を継ぐのは、一人…それが、我らの掟。
+MID_KARLA_VOICE12: っ！？　隙があったな…今、斬られても文句は言えぬ。
+MID_KARLA_VOICE13: 私は兄者を捜して旅をしていた…未練だな。だが断ち切れぬ。
+MID_KARLA_VOICE14: 兄者は強者（つわもの）のもとに現れる…
+MID_KARLA_VOICE15: 我らは人ではない…この刃と何も変わらぬ。
+MID_KARLA_VOICE16: 兄者…かなうものなら、ずっとあのままでいたかった…
+MID_KARLA_VOICE17: 私は世の中を知らぬのでな…そなたに教えてもらいたい。
+MID_KARLA_VOICE18: 承知
+MID_KARLA_VOICE19: 兄者…
+MID_KARLA_VOICE20: ほう、なるほど

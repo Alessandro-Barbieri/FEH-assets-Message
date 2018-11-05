@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: No se puede realizar la compra.\nYa compraste este paquete y\nno se puede volver a comprar.
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|¡Hola, $Nu!\nMe alegra mucho que hayas vuelto.$k$pTienes buen aspecto.\nEstaba un poco preocupada\npor si te había pasado algo...$k$p$EFace_Smile|¡Pero veo que estás bien!\n¿Ayudarás en las batallas?\nNos vendría genial tu ayuda.$k$p
+MID_MISSION_S201801ARENA01_TITLE: Coliseo
+MID_MISSION_S201801ARENA01_A1: Gladiador
+MID_MISSION_H_S201801ARENA01_A1: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A2: Gladiador
+MID_MISSION_H_S201801ARENA01_A2: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A3: Gladiador
+MID_MISSION_H_S201801ARENA01_A3: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A4: Asalto del coliseo: 3 mapas
+MID_MISSION_H_S201801ARENA01_A4: Gana tres batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201801ARENA01_A5: Gladiador
+MID_MISSION_H_S201801ARENA01_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A6: Gladiador
+MID_MISSION_H_S201801ARENA01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A7: Gladiador
+MID_MISSION_H_S201801ARENA01_A7: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A8: Asalto del coliseo: 5 mapas
+MID_MISSION_H_S201801ARENA01_A8: Gana cinco batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201801ARENA01_A9: Gladiador
+MID_MISSION_H_S201801ARENA01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A10: Gladiador
+MID_MISSION_H_S201801ARENA01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A11: Gladiador
+MID_MISSION_H_S201801ARENA01_A11: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201801ARENA01_A12: Asalto del coliseo: 7 mapas
+MID_MISSION_H_S201801ARENA01_A12: Gana siete batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201801SENKA01_DAILY_TITLE: La Tormenta mini
+MID_MISSION_S201801SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201801SENKA01_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201801SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201801SENKA01_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201801SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201801SENKA01_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201801SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201801SENKA01_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201801STORY01_TITLE: Siguiendo un sueño
+MID_MISSION_S201801STORY01_A1: Cap. 3 - Parte 1: Extremo
+MID_MISSION_H_S201801STORY01_A1: En el libro II, supera la 1.ª parte del capítulo 3\nen modo extremo con un lancero en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201801STORY01_A2: Cap. 3 - Parte 2: Extremo
+MID_MISSION_H_S201801STORY01_A2: En el libro II, supera la 2.ª parte del capítulo 3 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201801STORY01_A3: Cap. 3 - Parte 3: Extremo
+MID_MISSION_H_S201801STORY01_A3: En el libro II, supera la 3.ª parte del capítulo 3\nen modo extremo con un espadachín en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201801STORY01_A4: Cap. 3 - Parte 4: Extremo
+MID_MISSION_H_S201801STORY01_A4: En el libro II, supera la 4.ª parte del capítulo 3\nen modo extremo con un lancero en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201801STORY01_A5: Cap. 3 - Parte 5: Extremo
+MID_MISSION_H_S201801STORY01_A5: En el libro II, supera la 5.ª parte del capítulo 3 en\nmodo extremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201801TRIAL01_TITLE: Reto en cadena
+MID_MISSION_S201801TRIAL01_A1: Superar reto en cadena
+MID_MISSION_H_S201801TRIAL01_A1: Supera el mapa final del capítulo 1\ndel reto en cadena.
+MID_MISSION_S201801TRIAL01_A2: Superar reto en cadena
+MID_MISSION_H_S201801TRIAL01_A2: Supera el mapa final del capítulo 2\ndel reto en cadena en modo difícil\no superior.
+MID_MISSION_S201801TRIAL01_A3: Superar reto en cadena
+MID_MISSION_H_S201801TRIAL01_A3: Supera el mapa final de los capítulos 1 y 2\ndel reto en cadena en modo extremo.
+MID_MISSION_S201801TRIAL01_A4: Superar escuad. de asalto
+MID_MISSION_H_S201801TRIAL01_A4: Supera el mapa final del\ntercer escuadrón de asalto.
+MID_MISSION_S201801VMAP01_TITLE: Armas mejoradas
+MID_MISSION_S201801VMAP01_A1: Parte 1
+MID_MISSION_H_S201801VMAP01_A1: Supera la 1.ª parte con una unidad de\ntipo rojo en tu batallón. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A2: Parte 2
+MID_MISSION_H_S201801VMAP01_A2: Supera la 2.ª parte con una unidad de\ntipo azul en tu batallón. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A3: Parte 3
+MID_MISSION_H_S201801VMAP01_A3: Supera la 3.ª parte con una unidad de\ntipo verde en tu batallón. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A4: Parte 4
+MID_MISSION_H_S201801VMAP01_A4: Supera la 4.ª parte con una unidad de\ntipo gris en tu batallón. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A5: Parte 5
+MID_MISSION_H_S201801VMAP01_A5: Supera la quinta parte. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A6: Parte 1: Difícil
+MID_MISSION_H_S201801VMAP01_A6: Supera la 1.ª parte en modo difícil o superior\ncon una unidad de tipo rojo en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A7: Parte 2: Difícil
+MID_MISSION_H_S201801VMAP01_A7: Supera la 2.ª parte en modo difícil o superior\ncon una unidad de tipo azul en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A8: Parte 3: Difícil
+MID_MISSION_H_S201801VMAP01_A8: Supera la 3.ª parte en modo difícil o superior\ncon una unidad de tipo verde en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A9: Parte 4: Difícil
+MID_MISSION_H_S201801VMAP01_A9: Supera la 4.ª parte en modo difícil o superior\ncon una unidad de tipo gris en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201801VMAP01_A10: Parte 5: Difícil
+MID_MISSION_H_S201801VMAP01_A10: Supera la 5.ª parte en modo difícil\no superior. Los cuatro aliados deben\nsobrevivir.
+MPID_ミカヤ: Micaiah
+MPID_サザ: Sothe
+MPID_ゼルギウス: Zelgius
+MPID_オリヴァー: Oliver
+MPID_HONOR_ミカヤ: Dama del Alba
+MPID_HONOR_サザ: Céfiro
+MPID_HONOR_ゼルギウス: General Negro
+MPID_HONOR_オリヴァー: Adalid de lo bello
+MPID_H_ミカヤ: Miembro de la Brigada del Alba de cabello de\nplata y misteriosos poderes. No tienen lazos\nde sangre, pero es una hermana para Sothe.\nAparece en Fire Emblem: Radiant Dawn.
+MPID_H_サザ: Ladrón de la Brigada del Alba. No se suele\ninteresar por los demás, pero sobreprotege\na Micaiah, que es como una hermana para él.\nAparece en Fire Emblem: Radiant Dawn.
+MPID_H_ゼルギウス: General ataviado con una armadura azabache\ny conocido como Caballero Negro. Su espada\nsagrada, Alondite, tiene el poder de cortar el\ncielo. Aparece en Fire Emblem: Radiant Dawn.
+MPID_H_オリヴァー: Miembro del Senado de Begnion. Adora todo\naquello que es hermoso y se esfuerza al\nmáximo por preservar las artes. Aparece en\nFire Emblem: Radiant Dawn.
+MPID_VOICE_ミカヤ: Veronica Taylor
+MPID_VOICE_サザ: Nicolas Roye
+MPID_VOICE_ゼルギウス: Robert Clotworthy
+MPID_VOICE_オリヴァー: Richard Epcar
+MPID_ILLUST_ミカヤ: Chiko (チーコ)
+MPID_ILLUST_サザ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: Homazo (ホマ蔵)
+MSID_第6迷宮の覇者1: As del asalto F 1
+MSID_第6迷宮の覇者2: As del asalto F 2
+MSID_第6迷宮の覇者3: As del asalto F 3
+MSID_ペシュカド: Peshkatz
+MSID_ライト: Luz
+MSID_エルライト: Ellight
+MSID_シャイン: Resplandor
+MSID_シャイン＋: Resplandor +
+MSID_セイニー: Thani
+MSID_癒しの手: Sacrificio
+MSID_転移の粉: Polvo mágico
+MSID_攻撃速さの紋章1: Mejora Atq./Vel. 1
+MSID_攻撃速さの紋章2: Mejora Atq./Vel. 2
+MSID_H_パルティア改: Eficaz contra unidades aéreas. Si el\nenemigo usa magia, se reduce en un\n30 % el daño que sufre la unidad en\nel primer ataque del combate.
+MSID_H_シムベリン改: Atq. +3 a los aliados en un radio\nde dos casillas durante ataques.
+MSID_H_対遠距離戦闘R攻撃: Atq. +6 durante ataques si el enemigo\nusa arco, dagas, magia o bastón.
+MSID_H_攻撃魔防の絆R飛行: Atq. y Res. +5 durante ataques si\nla unidad se encuentra en un radio\nde dos casillas de un aliado aéreo.
+MSID_H_第6迷宮の覇者1: Otorga PV +3.
+MSID_H_第6迷宮の覇者2: Otorga PV +4.
+MSID_H_第6迷宮の覇者3: Otorga PV +5.
+MSID_H_ペシュカド: Tras un ataque, si la unidad ha acometido al rival,\nAtq., Vel., Def. y Res. -4 al rival y a los enemigos\nen un radio de dos casillas de este hasta el fin\nde su turno. Otorga Atq., Vel., Def. y Res. +4 a la\nunidad y los aliados en un radio de dos casillas\ndurante un turno.
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: Otorga Res. +3. Eficaz contra unidades\nacorazadas y de caballería. Contra rivales\nacorazados y de caballería que usan arco,\ndagas, magia o bastón, se reduce en un\n30 % el daño que sufre la unidad en el primer\nataque del combate.
+MSID_H_癒しの手: Convierte las penalizaciones del objetivo\nen bonificaciones. Devuelve PV al objetivo\niguales a los PV actuales de la unidad -1.\nLos PV de la unidad se reducen en la\ncantidad restaurada.
+MSID_H_転移の粉: Si la unidad tiene el 80 % de PV o más,\npodrá moverse a una casilla adyacente\na un aliado en un radio de dos casillas.
+MSID_H_攻撃速さの紋章1: Atq. y Vel. +2 a los aliados adyacentes\ndurante ataques.
+MSID_H_攻撃速さの紋章2: Atq. y Vel. +3 a los aliados adyacentes\ndurante ataques.
+MID_CHAPTER_TITLE_C0203: Libro II - Cap. 3
+MID_CHAPTER_C0203: Siguiendo un sueño
+MID_STAGE_TITLE_S2031: Cap. 3 - Parte 1
+MID_STAGE_TITLE_S2032: Cap. 3 - Parte 2
+MID_STAGE_TITLE_S2033: Cap. 3 - Parte 3
+MID_STAGE_TITLE_S2034: Cap. 3 - Parte 4
+MID_STAGE_TITLE_S2035: Cap. 3 - Parte 5
+MID_STAGE_S2031: El camino a Nifl
+MID_STAGE_S2032: Cabello de Plata
+MID_STAGE_S2033: Protector de la belleza
+MID_STAGE_S2034: Espadachín amenazador
+MID_STAGE_S2035: Incendio de acero
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: Las unidades de caballería se\nmueven una casilla en las zanjas.
+MID_STAGE_TITLE_SB_0006: Asalto 6
+MID_STAGE_HONOR_T0023: Adalid de lo bello
+MID_STAGE_T0023: Oliver
+MID_STAGE_HONOR_V0151: Armas mejoradas
+MID_STAGE_V0151: Parte 1
+MID_STAGE_HONOR_V0152: Armas mejoradas
+MID_STAGE_V0152: Parte 2
+MID_STAGE_HONOR_V0153: Armas mejoradas
+MID_STAGE_V0153: Parte 3
+MID_STAGE_HONOR_V0154: Armas mejoradas
+MID_STAGE_V0154: Parte 4
+MID_STAGE_HONOR_V0155: Armas mejoradas
+MID_STAGE_V0155: Parte 5
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: Seleccionar sello sacro
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: Seleccionar unidad
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: Selección:

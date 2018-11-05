@@ -1,0 +1,38 @@
+[Heroes Archive] (ROY_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_POPULARITY01_HOME1: Mi piace immaginare che gli eroi\nnascano dai desideri della gente.\n
+MID_ROY_POPULARITY01_HOME2: Mio padre è Eliwood, il marchese di\nPherae. È un eroe conosciuto come\nil cavaliere di Lycia.
+MID_ROY_POPULARITY01_HOME3: Voglio dare una mano, così potrai\nriposarti. Posso osservarti per un po',\nper capire bene come ti muovi?
+MID_ROY_POPULARITY01_HOME4: Questa è Durandal, la spada del\nfuoco sacro. È un'arma leggendaria\ne fu brandita anche da mio padre.
+MID_ROY_POPULARITY01_HOME5: Non mi sono addestrato molto nei\ncombattimenti a cavallo. Ho ancora\nparecchio da imparare.
+MID_ROY_POPULARITY01_FRIEND: Sei tu $Nu?\nTi porto un messaggio da parte\ndi $Nf.
+MID_ROY_POPULARITY01_LEVEL1: Un giorno sarò proprio come\nmio padre!
+MID_ROY_POPULARITY01_LEVEL2: Inizio a capire come si\ncombatte in sella.
+MID_ROY_POPULARITY01_LEVEL3: Devo imparare di più\nda mio padre.
+MID_ROY_POPULARITY01_SKILL: È tutto grazie a te. Ti\nsono riconoscente.
+MID_ROY_POPULARITY01_JOIN: Sono Roy. Con questa spada in\nmano, Durandal, aiuterò il tuo\nesercito al posto di mio padre.
+MID_ROY_POPULARITY01_STRONGEST: Marcus era un cavaliere che serviva\nda tempo la mia famiglia, e quando\nero giovane mi parlava di mio padre.$k$pMi raccontava di imprese eroiche di\ngioventù, dei molti alleati che aveva\nincontrato durante i suoi viaggi...$k$pMi raccontò anche come si erano\nconosciuti i miei genitori.$k$pQuelle storie mi emozionavano\nmoltissimo e non aspettavo altro\nche sentirne di altre.$k$pEcco perché ammiro mio padre così\ntanto: è il mio eroe.$k$pForse gli assomiglio, ma ho ancora\ncosì tanto da apprendere, io.$k$pE prima di poter dire di essere come\nlui devo diventare molto più forte!\nStando al tuo fianco, col tuo aiuto...$k$p... sicuramente potrò raggiungere\nquell'obiettivo. Ti prometto che\ncontinuerò a fare del mio meglio.
+MID_ROY_POPULARITY01_VOICE01: ええいっ！
+MID_ROY_POPULARITY01_VOICE02: 行くよ！
+MID_ROY_POPULARITY01_VOICE03: うああっ！
+MID_ROY_POPULARITY01_VOICE04: しまった…
+MID_ROY_POPULARITY01_VOICE05: Per mio padre!
+MID_ROY_POPULARITY01_VOICE06: Proteggerò tutti!
+MID_ROY_POPULARITY01_VOICE07: Ho appena iniziato!
+MID_ROY_POPULARITY01_VOICE08: Durandal!
+MID_ROY_POPULARITY01_VOICE09: Father...I'm sorry.
+MID_ROY_POPULARITY01_VOICE10: Haha
+MID_ROY_POPULARITY01_VOICE11: I can't measure up to my father, but if I work hard, I hope I'll become more like him.
+MID_ROY_POPULARITY01_VOICE12: Hm? Did you call for me?
+MID_ROY_POPULARITY01_VOICE13: I had a strange dream. So many people, calling my name...
+MID_ROY_POPULARITY01_VOICE14: I want to repay all those who have supported me.
+MID_ROY_POPULARITY01_VOICE15: My father is unmatched at fighting, even on horseback. I have much to learn from him.
+MID_ROY_POPULARITY01_VOICE16: People are swayed by their desires. However, they can also overcome them.
+MID_ROY_POPULARITY01_VOICE17: Sometimes I feel like the two of us have known each other for a long time.
+MID_ROY_POPULARITY01_VOICE18: Got it.
+MID_ROY_POPULARITY01_VOICE19: Now what?
+MID_ROY_POPULARITY01_VOICE20: The fight is on!

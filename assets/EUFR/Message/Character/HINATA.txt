@@ -1,0 +1,38 @@
+[Heroes Archive] (HINATA)
+
+
+Heroes Message Name: Message
+
+
+MID_HINATA_HOME1: J'ai une idée : on devrait organiser\nun tournoi pour déterminer qui est\nle meilleur héros d'entre nous !
+MID_HINATA_HOME2: Je suis un des vassaux de Messire\nTakumi. Sachez que je n'hésiterais\npas à sacrifier ma vie pour la sienne.
+MID_HINATA_HOME3: Salut ! Vous êtes en patrouille ?\nSi vous avez besoin d'un coup\nde main, y'a qu'à demander !
+MID_HINATA_HOME4: Dites, $Nu,\nça vous dirait un entraînement ?\nJe commence à me ramollir !
+MID_HINATA_HOME5: Je viens d'acheter des légumes\nà une jolie fille. Oui, ils étaient\nun peu chers, c'est sûr...$k$pMais il devait y avoir une bonne\nraison ! Une si jolie fille n'arnaquerait\njamais un homme comme moi !
+MID_HINATA_FRIEND: $Nu ?\n$Nf vous\nsalue ! L'amitié, c'est important.
+MID_HINATA_LEVEL1: J'ai envie de le crier sur tous les toits.
+MID_HINATA_LEVEL2: Oh, ouah ! Je suis de plus en plus\nfort !
+MID_HINATA_LEVEL3: Je voulais devenir encore plus fort...
+MID_HINATA_SKILL: Ça va être un sacré changement !
+MID_HINATA_JOIN: Je m'appelle Hinata ! Je suis un\nsamouraï d'Hoshido. Mon katana\net moi, on est inséparables !
+MID_HINATA_STRONGEST: Hé, salut, $GInvocateur,Invocatrice| ! Je voulais\njuste vous remercier de m'envoyer\nsi souvent au combat.$k$pC'est ma raison de vivre, vous savez.\nEt puis ça nous évite de rouiller,\nma lame et moi. Ha ha !$k$pJe ne vais pas vous mentir, quand je\nsuis arrivé ici, j'avais le mal du pays...$k$pPas de dojo, pas de soupe miso...\nHonnêtement, comparé à Hoshido,\nce royaume ne fait pas le poids !$k$pMais pour finir, j'ai appris à être\nheureux ici, même sans soupe miso !$k$pC'est important de garder l'esprit\nouvert, n'est-ce pas ? Sinon, la\nvie serait bien triste...$k$pEn plus, tous ces combats me\nrendent plus apte à défendre\nMessire Takumi.$k$pMais je ne vous oublie pas pour\nautant. Je vous protègerai jusqu'à\nla fin, vous pouvez compter sur moi !
+MID_HINATA_VOICE01: そらよ！
+MID_HINATA_VOICE02: どりゃあっ！
+MID_HINATA_VOICE03: おわっ！
+MID_HINATA_VOICE04: Damn it!
+MID_HINATA_VOICE05: Oh, non alors !
+MID_HINATA_VOICE06: C'est parti !
+MID_HINATA_VOICE07: Je suis là !
+MID_HINATA_VOICE08: Hé, salut !
+MID_HINATA_VOICE09: Shoot...
+MID_HINATA_VOICE10: Haha
+MID_HINATA_VOICE11: Ha! Might not look it, but I'm actually pretty good at stuff!
+MID_HINATA_VOICE12: Aw, maybe I am a little scruffy. But I give the pits a splash every day!
+MID_HINATA_VOICE13: This realm has such wide, open fields. Man, you gotta love that!
+MID_HINATA_VOICE14: I train really hard—until I'm dead on the floor. Keeps a guy alive!
+MID_HINATA_VOICE15: My blade is devoted to my liege. There's nothing I take more seriously.
+MID_HINATA_VOICE16: Where's Lord Takumi? I gotta protect him no matter what!
+MID_HINATA_VOICE17: I'll always have your back. You just leave it to me, buddy.
+MID_HINATA_VOICE18: All right!
+MID_HINATA_VOICE19: Here I go!
+MID_HINATA_VOICE20: Where to?

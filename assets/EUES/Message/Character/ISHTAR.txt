@@ -1,0 +1,38 @@
+[Heroes Archive] (ISHTAR)
+
+
+Heroes Message Name: Message
+
+
+MID_ISHTAR_HOME1: El príncipe Alfonse es tan bueno y\nsensible... Me recuerda a...\nNo importa. No quiero aburrirte.
+MID_ISHTAR_HOME2: El imperio triunfó a base de\nrepresión. Yo lo sabía y, aun así,\nluché contra el ejército de liberación.\n
+MID_ISHTAR_HOME3: ¡Llevas la ropa arrugada! Si piensas\nencabezar batallas, deberías tener\naspecto de líder.
+MID_ISHTAR_HOME4: Tienes mucha tensión acumulada. Si\nno descansas, no podrás intervenir\ncuando todo el mundo te necesite.
+MID_ISHTAR_HOME5: Señor Julius, perdóname... Yo...
+MID_ISHTAR_FRIEND: Soy Ishtar. Sé que tu amistad con\n$Nf durará.\n
+MID_ISHTAR_LEVEL1: ¡Observa mi talento! Soy Ishtar,\nla diosa del trueno.
+MID_ISHTAR_LEVEL2: Poco a poco me hago\nmás fuerte.
+MID_ISHTAR_LEVEL3: Perdona mi torpeza. No tengo\nexcusa.
+MID_ISHTAR_SKILL: Muchas gracias. Me esforzaré\ntodavía más. ¡Ya verás!
+MID_ISHTAR_JOIN: Soy Ishtar, de Friege. Mis\nconocimientos de brujería\nte serán útiles.
+MID_ISHTAR_STRONGEST: $Nu, dime...\n¿Amas a alguien?$k$p¿Y es un amor correspondido?$k$pSé que es una pregunta rara, pero\nnecesito entender una cosa...$k$pHace poco luché por alguien a\nquien amaba de verdad.$k$pLo hice a pesar de que sabía,\ncomo guerrera y como mujer,\nque no era lo correcto.$k$pPuede que llegue un momento en el\nque tengas que tomar decisiones\ndifíciles, como me pasó a mí...$k$pProméteme que, si eso ocurre, no\nharás una elección de la que luego\npuedas arrepentirte.
+MID_ISHTAR_VOICE01: はぁっ！
+MID_ISHTAR_VOICE02: せいっ！
+MID_ISHTAR_VOICE03: きゃああっ！
+MID_ISHTAR_VOICE04: Wh..what...!
+MID_ISHTAR_VOICE05: Lo siento.
+MID_ISHTAR_VOICE06: Sobran las palabras.
+MID_ISHTAR_VOICE07: Vas a morir aquí.
+MID_ISHTAR_VOICE08: ¡Siente la furia de Mjölnir!
+MID_ISHTAR_VOICE09: Lord Julius... I...
+MID_ISHTAR_VOICE10: Hehe
+MID_ISHTAR_VOICE11: I am Ishtar, known as the goddess of thunder.
+MID_ISHTAR_VOICE12: Ah! What do you want?
+MID_ISHTAR_VOICE13: Sacrifice children to that dark god? I cannot do it.
+MID_ISHTAR_VOICE14: Lord Julius... Please forgive me.
+MID_ISHTAR_VOICE15: Reinhardt served me ever since I was a child...
+MID_ISHTAR_VOICE16: Perhaps... Perhaps I was in the wrong.
+MID_ISHTAR_VOICE17: When I'm with you, I feel my doubts melt away.
+MID_ISHTAR_VOICE18: Yes.
+MID_ISHTAR_VOICE19: Your orders?
+MID_ISHTAR_VOICE20: Send me.

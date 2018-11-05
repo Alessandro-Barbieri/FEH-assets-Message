@@ -1,0 +1,38 @@
+[Heroes Archive] (CLARINE)
+
+
+Heroes Message Name: Message
+
+
+MID_CLARINE_HOME1: あなた、見かけによらずレディに対する\n礼儀を知っているようですわね。\n元の世界で学んだんですの？
+MID_CLARINE_HOME2: 将来はセシリア様のように、\n強く美しい魔道軍将になってみせますわ！\nお兄様、待っててくださいな。
+MID_CLARINE_HOME3: あら、あなた。よーくよーく見てみると、\n元の素材は意外と悪くないようですわ。\n私が麗しいお顔に変え…って聞いてますの！
+MID_CLARINE_HOME4: 私に何か御用ですの？\n私は忙しい身ですから、\n要件は早く済ませていただけないかしら？
+MID_CLARINE_HOME5: ドレスの着こなし、ダンスの作法…\n私にかかれば\nお茶の子さいさいですわ！
+MID_CLARINE_FRIEND: $Nuですわね。\n私がじきじきに、特別に、\nご挨拶に来てあげましたわ。
+MID_CLARINE_LEVEL1: ふふっ！\nこれが私の実力ですわ！
+MID_CLARINE_LEVEL2: 由緒ある血筋ですもの、\nこのくらい当然ですわ。
+MID_CLARINE_LEVEL3: そんな…\n信じられませんわ…
+MID_CLARINE_SKILL: レディたる者、強く美しく\nなければいけませんわ。
+MID_CLARINE_JOIN: エトルリア貴族リグレ公爵家の\n才女クラリーネとは私のことですわ！\nところで、あなたはどなた？
+MID_CLARINE_STRONGEST: まったく！\nここの皆様はなっておりませんわ！\n礼儀作法というものを軽んじています！$k$pいいですか！　皆が礼儀を守らなければ、\n皆を指揮する立場である\nあなたが笑われてしまうんですのよ！$k$pえっ…？　べ、べつに\n私はあなたや皆様のために\n言っているわけではございませんわ！$k$p…仕方ありませんわね。\n私がじきじきに、まずあなたに\n礼儀作法を指導してさしあげます。$k$pいいですこと、\nこれはとても「特別」なんですの！\nあなただから教えてさしあげるんですのよ！
+MID_CLARINE_VOICE01: えいっ！
+MID_CLARINE_VOICE02: それっ！
+MID_CLARINE_VOICE03: きゃああっ！
+MID_CLARINE_VOICE04: けだもの…！
+MID_CLARINE_VOICE05: おやめなさいっ！
+MID_CLARINE_VOICE06: 無礼者っ！
+MID_CLARINE_VOICE07: お下がりなさいな！
+MID_CLARINE_VOICE08: 驚きなさい！
+MID_CLARINE_VOICE09: 助けて…兄さま…
+MID_CLARINE_VOICE10: うふふ
+MID_CLARINE_VOICE11: 助けてあげますわ
+MID_CLARINE_VOICE12: 感謝なさいな
+MID_CLARINE_VOICE13: あら？　私（わたくし）に何か御用ですの？
+MID_CLARINE_VOICE14: きゃっ！？　わっ、私（わたくし）を誰だと思っていますの！
+MID_CLARINE_VOICE15: 身だしなみを教えてさしあげますわ
+MID_CLARINE_VOICE16: レディたる者、常に美しくあらねば
+MID_CLARINE_VOICE17: 本日はあなたとお茶会ですわよ
+MID_CLARINE_VOICE18: わかりましたわ
+MID_CLARINE_VOICE19: 仕方ありませんわね
+MID_CLARINE_VOICE20: 参りますわよ

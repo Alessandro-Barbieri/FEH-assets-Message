@@ -1,0 +1,38 @@
+[Heroes Archive] (RONKUU)
+
+
+Heroes Message Name: Message
+
+
+MID_RONKUU_HOME1: J'aimerais acquérir une maîtrise\ntotale de ma lame, mais...\nquelque chose m'en empêche.$k$pPeut-être que si je n'avais pas\nautant peur des femmes...
+MID_RONKUU_HOME2: Avant de rejoindre les Veilleurs,\nj'étais le bras droit de Basilio,\nle Khan de l'Ouest de Ferox.
+MID_RONKUU_HOME3: Si vous le souhaitez, je peux\npatrouiller à votre place.
+MID_RONKUU_HOME4: J'ai besoin de m'entraîner. Vous\nne savez pas manier d'armes ?\nJetez-moi des pierres, alors.
+MID_RONKUU_HOME5: Ma lame se doit d'être toujours\nparfaitement aiguisée. Elle est\nma plus précieuse alliée.
+MID_RONKUU_FRIEND: $Nf m'a\nchargé de vous saluer.\nBien, je m'en vais à présent.
+MID_RONKUU_LEVEL1: Et ce n'est que le début de ce que je\npeux faire.
+MID_RONKUU_LEVEL2: Bien.
+MID_RONKUU_LEVEL3: La maîtrise de l'épée est un art\nsolitaire...
+MID_RONKUU_SKILL: Obtenir un pouvoir sans avoir fait\nd'efforts ? Je pourrais m'y faire.
+MID_RONKUU_JOIN: Je suis Lon'zu, un épéiste venu\nde Regna Ferox. Je n'ai rien\nd'autre à ajouter.
+MID_RONKUU_STRONGEST: Encore vous. Qu'ai-je fait pour\nmériter tant d'attention ?$k$pJe n'ai ni argent, ni pouvoir.\nJe ne suis qu'un épéiste.$k$pMa présence vous rassure ?\nC'est... C'est la première fois\nqu'on me le dit.$k$pTrès bien. Je serai votre garde\ndu corps, dans ce cas.$k$pJe resterai à vos côtés tant\nque vous le souhaiterez.
+MID_RONKUU_VOICE01: はっ！
+MID_RONKUU_VOICE02: せいっ！
+MID_RONKUU_VOICE03: くっ…！
+MID_RONKUU_VOICE04: Damn...
+MID_RONKUU_VOICE05: Sans rancune.
+MID_RONKUU_VOICE06: Silence !
+MID_RONKUU_VOICE07: C'est trop facile.
+MID_RONKUU_VOICE08: Abandonnez.
+MID_RONKUU_VOICE09: ...Ugh...
+MID_RONKUU_VOICE10: Heh.
+MID_RONKUU_VOICE11: I, um, have trouble speaking to women.
+MID_RONKUU_VOICE12: Did you need something?
+MID_RONKUU_VOICE13: You're distracting me from my training.
+MID_RONKUU_VOICE14: Before coming here, I was the West-Khan's right-hand man...
+MID_RONKUU_VOICE15: Don't come to me for conversation.
+MID_RONKUU_VOICE16: The path to mastering the sword is a lonely one...
+MID_RONKUU_VOICE17: Why would you want to talk to me?
+MID_RONKUU_VOICE18: Yes.
+MID_RONKUU_VOICE19: Let's go.
+MID_RONKUU_VOICE20: Orders?

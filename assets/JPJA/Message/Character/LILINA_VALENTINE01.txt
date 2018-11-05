@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_VALENTINE01_HOME1: プレゼントのお菓子は、\nやっぱり手作りが良いのかしら？\nねえ、あなたはどう思う？
+MID_LILINA_VALENTINE01_HOME2: あなたの世界にも愛の祭はあったの？\n誰かに想いを伝えたりした？\nそれとも、想いを受け取る側だった？
+MID_LILINA_VALENTINE01_HOME3: 女の子の方から告白だなんて…\nそんなの…\nそんなのまだ早すぎます！
+MID_LILINA_VALENTINE01_HOME4: ねえ、もし良かったら\n焼き菓子の作り方を\n教えてもらえないかしら？
+MID_LILINA_VALENTINE01_HOME5: 日頃の感謝の気持ち…\n改めて伝えるのって、\nなかなか難しいのね。
+MID_LILINA_VALENTINE01_FRIEND: $Nfさんから\n挨拶を頼まれてきたの。\nこのお菓子も、良かったらどうぞ。
+MID_LILINA_VALENTINE01_LEVEL1: 勇気が出てきたわ…\nわたし、言えそう…！
+MID_LILINA_VALENTINE01_LEVEL2: 嬉しいわ。\n今日は良いことあるのかも。
+MID_LILINA_VALENTINE01_LEVEL3: プレゼントを渡すのは、\nまた明日にしましょう…
+MID_LILINA_VALENTINE01_SKILL: ありがとう。\nお返し、期待しててね？
+MID_LILINA_VALENTINE01_JOIN: わたしはオスティア侯の娘リリーナよ。\nねえ、あなたも誰かに\nプレゼントをあげたりするの？
+MID_LILINA_VALENTINE01_STRONGEST: どうやって渡せばいいのかな…\nどんなプレゼントがいいのかな…\nなんて言えばいいのかな…？$k$pあっ、ご、ごめんなさい！\nなんでもないの…\n気にしないで…$k$pでも…\nもし良かったら少しだけ\n相談に乗ってもらえるかしら…？$k$pうん…\n愛の祭のことで、あなたに\n色々と教えてもらいたいの…$k$pふふっ、ありがとう。\nあなたは本当に優しい人ね。\n頼らせてもらっちゃおうかな？
+MID_LILINA_VALENTINE01_VOICE01: えーいっ
+MID_LILINA_VALENTINE01_VOICE02: それっ！
+MID_LILINA_VALENTINE01_VOICE03: きゃああっ！
+MID_LILINA_VALENTINE01_VOICE04: やだっ…
+MID_LILINA_VALENTINE01_VOICE05: プレゼント
+MID_LILINA_VALENTINE01_VOICE06: あなたにあげる
+MID_LILINA_VALENTINE01_VOICE07: 大切な人に…
+MID_LILINA_VALENTINE01_VOICE08: 甘くないわよ
+MID_LILINA_VALENTINE01_VOICE09: ああ…プレゼントが…
+MID_LILINA_VALENTINE01_VOICE10: ふふふっ
+MID_LILINA_VALENTINE01_VOICE11: わたしはリリーナ。ちょうどお祭りの最中だったの。
+MID_LILINA_VALENTINE01_VOICE12: きゃっ！？　…え、プレゼントが落ちそうだった？
+MID_LILINA_VALENTINE01_VOICE13: お父様にもプレゼントをさしあげなくちゃ。
+MID_LILINA_VALENTINE01_VOICE14: 大切な人に、贈り物をするお祭りなのよ。
+MID_LILINA_VALENTINE01_VOICE15: わたしが好きなもの？　ええ、甘いお菓子は好きよ。
+MID_LILINA_VALENTINE01_VOICE16: 男の人って…何をもらったら嬉しいのかしら？
+MID_LILINA_VALENTINE01_VOICE17: あの…わたしの気持ち…受け取ってくれる？
+MID_LILINA_VALENTINE01_VOICE18: 素敵ね
+MID_LILINA_VALENTINE01_VOICE19: 悩んじゃうわ…
+MID_LILINA_VALENTINE01_VOICE20: 受け取ってね

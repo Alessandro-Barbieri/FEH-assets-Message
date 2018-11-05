@@ -1,0 +1,12 @@
+[Heroes Archive] (X0201)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Cool|È di nuovo estate... Spero che tutti\nabbiamo sfruttato l'anno trascorso\nper prepararsi al meglio!$k$pEroi in costume da bagno che\ncorrono spensierati... Che stagione\nmeravigliosa!$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|Comandante Anna... Ti prego, dimmi\nche non importuneremo gli eroi\nin spiaggia come l'anno passato...$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|Oh, Alfonse... Sarà tutta un'altra\nstoria... perché quest'anno ho\nun tomo nuovo di zecca!$k$pInvece di catturare le immagini, è\nin grado di registrare i suoni... Lo\nriempiremo con i versi degli eroi!$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Cool2|Scommetto che alla fine avrai\nun debito esorbitante con l'Anna\ndell'altro mondo, non è così?$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face|Ti sbagli! Sono riuscita a togliere un\npo' di zeri dalla sua richiesta iniziale...$k$pE ora che ho siglato un accordo\nnon si può più tornare indietro!$k$pPrendete le vostre cose:\nla spiaggia ci aspetta!$k$pPer il futuro dei Guardiani di Askr...\nO, per meglio dire, per le sue\nfinanze!$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_02
+MID_SCENARIO_MAP_BEGIN: $WmMPID_水着ヒーニアス,ch08_03_Heanius_M_Swim18,Face|Ero venuto qui per chiudere i conti\ncon Ephraim... E invece mi ritrovo\nin questo pasticcio.$k$pIl contratto ci lega mani e piedi.\nNon abbiamo altra scelta se non\ncombattere.$k$p$WmMPID_水着ターナ,ch08_05_Turner_F_Swim18,Face|Innes, aspetta! Ti darò una mano!$k$p$WmMPID_水着ヒーニアス,ch08_03_Heanius_M_Swim18,Face|Dana! Quelle vesti...$k$pRitieni che sia appropriato per\nuna principessa di Frelia farsi\nvedere in pubblico così?$k$p$WmMPID_水着ターナ,ch08_05_Turner_F_Swim18,Face|Ma senti chi parla! Cos'hai in mano,\nuno stendardo? O è un asciugamano?$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_水着ターナ,ch08_05_Turner_F_Swim18,Face|Innes... Scusa. Abbiamo perso.$k$p$WmMPID_水着ヒーニアス,ch08_03_Heanius_M_Swim18,Face|Risparmia le tue scuse per qualcosa\ndi veramente oltraggioso... Come le\ntue vesti! Meglio battere in ritirata.$k$p$Sbs150|

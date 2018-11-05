@@ -1,0 +1,38 @@
+[Heroes Archive] (HINOKA)
+
+
+Heroes Message Name: Message
+
+
+MID_HINOKA_HOME1: Bueno, mañana seguiré entrenando.\nTengo que estar en forma para\nproteger a toda mi familia...
+MID_HINOKA_HOME2: Es posible que Azama y Setsuna no\nparezcan muy eficientes, pero te\naseguro que no hay vasallos mejores.
+MID_HINOKA_HOME3: Descansa, ¿de acuerdo? Está bien\nque te preocupes por nosotros, pero te\nnecesitamos en forma para la batalla.
+MID_HINOKA_HOME4: Tienes algo que me inspira confianza,\ncomo si fuéramos de la misma familia...\n¡Puedes contar con mi apoyo!
+MID_HINOKA_HOME5: Ah, estaba cuidando de mi pegaso.\n¿Quieres acariciarlo? Verás\nqué suaves son sus plumas...
+MID_HINOKA_FRIEND: ¿Tú eres $Nu?\nPor fin te encuentro... Te envía\nsaludos $Nf.
+MID_HINOKA_LEVEL1: No le tengo miedo\na nada ni a nadie.
+MID_HINOKA_LEVEL2: ¡Bien hecho! Ahora,\n¡a seguir entrenando!
+MID_HINOKA_LEVEL3: Qué decepción...\nHabrá que hacerlo mejor.
+MID_HINOKA_SKILL: ¿Y bien? ¿Parezco ya\nmás fuerte?
+MID_HINOKA_JOIN: Soy Hinoka, la princesa guerrera de\nHoshido. Si así lo deseas, ¡combatiré\na tu lado en el campo de batalla!
+MID_HINOKA_STRONGEST: ¡Eh, hola! Estaba atendiendo a mi\npegaso y... Me preguntaba si te\napetecería dar un paseo $Gjuntos,juntas|.$k$pQuería aireame un poco, y no\nse me ocurre mejor forma de hacerlo\nque surcando los cielos.$k$pLas cosas se ven muy distintas\ndesde allí arriba, ¿sabes? Estoy\nconvencida de que te gustará.$k$p¿Cómo dices? ¿Que no necesito\nbuscar excusas para estar contigo?\nVas a hacer que me ruborice...$k$pDe todas formas, sigo pensando\nque es una excelente idea.\nBueno, ¿vienes o no?
+MID_HINOKA_VOICE01: せいっ！
+MID_HINOKA_VOICE02: やああっ！
+MID_HINOKA_VOICE03: うわっ！
+MID_HINOKA_VOICE04: I was careless...
+MID_HINOKA_VOICE05: ¡No me vencerás!
+MID_HINOKA_VOICE06: ¡Fuera de mi vista!
+MID_HINOKA_VOICE07: ¡Ya estoy aquí!
+MID_HINOKA_VOICE08: ¡Yo me encargo de esto!
+MID_HINOKA_VOICE09: Too strong!
+MID_HINOKA_VOICE10: Heh...
+MID_HINOKA_VOICE11: I want to get stronger. No, I have to get stronger!
+MID_HINOKA_VOICE12: I take very good care of my pegasus. I should be doing it now!
+MID_HINOKA_VOICE13: Just shout anytime you need help. I'll come running.
+MID_HINOKA_VOICE14: You have a divine weapon? Neat. My brothers do too!
+MID_HINOKA_VOICE15: I sometimes wonder if I should be more graceful and gentle. You know, a princess.
+MID_HINOKA_VOICE16: I wonder where Azama and Setsuna are? You never know with those two!
+MID_HINOKA_VOICE17: You can't fight in battle, so I'm happy to help you. More than happy!
+MID_HINOKA_VOICE18: Yes?
+MID_HINOKA_VOICE19: Got it.
+MID_HINOKA_VOICE20: Let's go!

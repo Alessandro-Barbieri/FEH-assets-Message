@@ -1,0 +1,38 @@
+[Heroes Archive] (ATHENA)
+
+
+Heroes Message Name: Message
+
+
+MID_ATHENA_HOME1: とくむきかん…？\nアテナ、わからない。\nとくむきかんは黄色くて甘いもの？
+MID_ATHENA_HOME2: アテナ、教えるのは苦手。\nでも剣を使うことなら負けない。\nもとの世界で、剣術指南役もしてた。
+MID_ATHENA_HOME3: お前、いつも忙しい。いつも大変。\n少し休んで、ゆっくり寝る。\nお前の仕事、アテナがかわりにやっておく。
+MID_ATHENA_HOME4: 「えいゆう」…？\nそれくらいわかる。ばか。\nえいゆうとは、青くてひらひらした服の者。
+MID_ATHENA_HOME5: この国の人、敵の国に攻められている。\n困っている人を助ける、\nこれ、人として当たり前のこと。
+MID_ATHENA_FRIEND: アテナの祖国に、\nこういうことわざがある。\n「青は青で、青より青」
+MID_ATHENA_LEVEL1: アテナ、すごく良い。
+MID_ATHENA_LEVEL2: アテナ、良い。
+MID_ATHENA_LEVEL3: …アテナ、良くない。
+MID_ATHENA_SKILL: かたじけない。\nアテナ、この恩義に報いる。
+MID_ATHENA_JOIN: アテナ、呼ばれたか？\nアテナ、子供と違う。剣士。\n見ればわかる。ばか。
+MID_ATHENA_STRONGEST: 「しょうかん」は、呼び出すこと。\n「ぶれいざぶりく」は、神器のこと。\nアテナ、くわしくなった。$k$p「撃つ」？\n撃つは、撃つこと。\nそれくらいわかる。ばか。$k$pでも、アテナ、嬉しい。\nお前にいっぱい教えてもらった。\nとても感謝している。$k$p「剣士は相身互い身」\nアテナの故郷のことわざ。\nアテナも相手を思い、助け合うべき。$k$pだからアテナ、お前の女になる。\n…違う？　お前の友になる。\nもっといっぱい、色々教えて欲しい。
+MID_ATHENA_VOICE01: はぁっ！
+MID_ATHENA_VOICE02: えいっ！
+MID_ATHENA_VOICE03: きゃああっ！
+MID_ATHENA_VOICE04: …悔しい…
+MID_ATHENA_VOICE05: かたじけない
+MID_ATHENA_VOICE06: おもてなし
+MID_ATHENA_VOICE07: 斬る
+MID_ATHENA_VOICE08: アテナ、参る
+MID_ATHENA_VOICE09: アテナ…未熟…
+MID_ATHENA_VOICE10: ふふ
+MID_ATHENA_VOICE11: アテナに用か？
+MID_ATHENA_VOICE12: んん？　それは、異国の挨拶？
+MID_ATHENA_VOICE13: 異国の言葉、むずかしい
+MID_ATHENA_VOICE14: イロイロとは、いやらしいこと？
+MID_ATHENA_VOICE15: ぐんぎとは、甘くて丸いもの？
+MID_ATHENA_VOICE16: お礼に、おまえの嫁になる
+MID_ATHENA_VOICE17: アテナ、おまえに絆を感じてる
+MID_ATHENA_VOICE18: わかった
+MID_ATHENA_VOICE19: どうする？
+MID_ATHENA_VOICE20: 行く

@@ -1,0 +1,10 @@
+[Heroes Archive] (S2034)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ゼルギウス,ch11_03_Zelgius_M_Normal,Face|Io sono il generale imperiale Zelgius.\nGuerrieri da un altro mondo...\nSembrate forti. Bene.$k$pAccetterò la vostra sfida.$k$p$Sbs1000|
+MID_SCENARIO_ENDING_IMAGE: 001_BraveForest
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_フィヨルム,ch00_06_Fjorm_F_Normal,Face|Ci siamo quasi.$k$pAl di là di queste montagne\nc'è il portale per Nifl.$k$p$EFace_Anger|E quel fumo da dove viene?!$k$p$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|Il villaggio sta bruciando! Quello...\nè l'esercito di Múspell?$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|Muoviamoci!$k$p$Sbs150|

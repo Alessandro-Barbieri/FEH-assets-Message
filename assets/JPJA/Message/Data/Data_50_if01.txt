@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: 風の祝福
+MID_MISSION_S201804BLESS01_A1: 風の祝福の味方で撃破
+MID_MISSION_H_S201804BLESS01_A1: 風の祝福を付与された英雄で、敵を撃破。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A2: 特殊：風の祝福の味方で撃破
+MID_MISSION_H_S201804BLESS01_A2: 風の祝福を付与された英雄で、\nレベル２０以上の敵を撃破。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A3: 特殊：風の祝福の味方で撃破
+MID_MISSION_H_S201804BLESS01_A3: 風の祝福を付与された英雄で、\nレベル３５以上の赤属性の敵を撃破。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A4: 特殊：風の祝福の味方で撃破
+MID_MISSION_H_S201804BLESS01_A4: 風の祝福を付与された英雄で、\nレベル３５以上の青属性の敵を撃破。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A5: 特殊：風の祝福の味方で撃破
+MID_MISSION_H_S201804BLESS01_A5: 風の祝福を付与された英雄で、\nレベル３５以上の緑属性の敵を撃破。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A6: 特殊：修練の塔・第１階層突破
+MID_MISSION_H_S201804BLESS01_A6: 風の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１階層をクリア。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A7: 特殊：修練の塔・第５階層突破
+MID_MISSION_H_S201804BLESS01_A7: 風の祝福を付与された英雄を自軍に入れて、\n修練の塔・第５階層をクリア。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804BLESS01_A8: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_S201804BLESS01_A8: 風の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１０階層をクリア。\n（風の伝承英雄は、\n　風の祝福を付与された英雄とは異なる）
+MID_MISSION_S201804GW01_TITLE: ＧＷスペシャル
+MID_MISSION_S201804GW01_A1: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A1: 赤属性の味方で、\nレベル１０以上の緑属性の敵を撃破。
+MID_MISSION_S201804GW01_A2: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A2: 青属性の味方で、\nレベル１０以上の赤属性の敵を撃破。
+MID_MISSION_S201804GW01_A3: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A3: 緑属性の味方で、\nレベル１０以上の青属性の敵を撃破。
+MID_MISSION_S201804GW01_A4: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A4: 赤属性の味方で、\nレベル１０以上の斧の敵を撃破。
+MID_MISSION_S201804GW01_A5: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A5: 青属性の味方で、\nレベル１０以上の剣の敵を撃破。
+MID_MISSION_S201804GW01_A6: 特殊：LV１０以上を撃破
+MID_MISSION_H_S201804GW01_A6: 緑属性の味方で、\nレベル１０以上の槍の敵を撃破。
+MID_MISSION_S201804GW01_A7: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A7: 赤属性の味方で、\nレベル２０以上の緑属性の敵を撃破。
+MID_MISSION_S201804GW01_A8: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A8: 青属性の味方で、\nレベル２０以上の赤属性の敵を撃破。
+MID_MISSION_S201804GW01_A9: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A9: 緑属性の味方で、\nレベル２０以上の青属性の敵を撃破。
+MID_MISSION_S201804GW01_A10: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A10: 赤属性の味方で、\nレベル２０以上の緑魔の敵を撃破。
+MID_MISSION_S201804GW01_A11: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A11: 青属性の味方で、\nレベル２０以上の赤魔の敵を撃破。
+MID_MISSION_S201804GW01_A12: 特殊：LV２０以上を撃破
+MID_MISSION_H_S201804GW01_A12: 緑属性の味方で、\nレベル２０以上の青魔の敵を撃破。
+MID_MISSION_S201804GW01_A13: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A13: 赤属性の味方で、\nレベル３５以上の緑属性の敵を撃破。
+MID_MISSION_S201804GW01_A14: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A14: 青属性の味方で、\nレベル３５以上の赤属性の敵を撃破。
+MID_MISSION_S201804GW01_A15: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A15: 緑属性の味方で、\nレベル３５以上の青属性の敵を撃破。
+MID_MISSION_S201804GW01_A16: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A16: 無属性の味方で、\nレベル３５以上の無属性の敵を撃破。
+MID_MISSION_S201804GW01_A17: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A17: 赤属性の味方で、\nレベル３５以上の杖の敵を撃破。
+MID_MISSION_S201804GW01_A18: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A18: 青属性の味方で、\nレベル３５以上の弓の敵を撃破。
+MID_MISSION_S201804GW01_A19: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A19: 緑属性の味方で、\nレベル３５以上の暗器の敵を撃破。
+MID_MISSION_S201804GW01_A20: 特殊：LV３５以上を撃破
+MID_MISSION_H_S201804GW01_A20: 無属性の味方で、\nレベル３５以上の剣の敵を撃破。
+MID_MISSION_S201804KIZUNA02_TITLE: 絆英雄戦
+MID_MISSION_S201804KIZUNA02_A1: 特殊：絆英雄戦突破
+MID_MISSION_H_S201804KIZUNA02_A1: フィヨルムを自軍に入れて、\n絆英雄戦・タクミ＆ヒノカをクリア。
+MID_MISSION_S201804KIZUNA02_A2: 特殊：絆英雄戦突破
+MID_MISSION_H_S201804KIZUNA02_A2: アンナを自軍に入れて、\n絆英雄戦・タクミ＆ヒノカ\nルナティック以上をクリア。
+MID_MISSION_S201804KIZUNA02_A3: 特殊：タクミを撃破
+MID_MISSION_H_S201804KIZUNA02_A3: フィヨルムで、\nレベル４０以上の神弓の使い手タクミを撃破。
+MID_MISSION_S201804KIZUNA02_A4: 特殊：ヒノカを撃破
+MID_MISSION_H_S201804KIZUNA02_A4: アンナで、\nレベル４０以上の紅の戦姫ヒノカを撃破。
+MID_MISSION_S201804KIZUNA02_A5: 特殊：絆英雄戦突破
+MID_MISSION_H_S201804KIZUNA02_A5: 全員歩行の仲間で、\n絆英雄戦・タクミ＆ヒノカ\nルナティック以上をクリア。
+MID_MISSION_S201804SENKA02_DAILY_TITLE: 戦渦の連戦
+MID_MISSION_S201804SENKA02_DAILY_A1: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201804SENKA02_DAILY_A1: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201804SENKA02_DAILY_A2: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201804SENKA02_DAILY_A2: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201804SENKA02_DAILY_A3: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201804SENKA02_DAILY_A3: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201804SENKA02_DAILY_A4: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201804SENKA02_DAILY_A4: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201804STORY02_TITLE: 氷の儀
+MID_MISSION_S201804STORY02_A1: 特殊：８章－１節ルナ突破
+MID_MISSION_H_S201804STORY02_A1: 剣の仲間を自軍に入れて、\n＜第２部＞８章－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201804STORY02_A2: 特殊：８章－２節ルナ突破
+MID_MISSION_H_S201804STORY02_A2: 槍の仲間を自軍に入れて、\n＜第２部＞８章－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201804STORY02_A3: 特殊：８章－３節ルナ突破
+MID_MISSION_H_S201804STORY02_A3: 斧の仲間を自軍に入れて、\n＜第２部＞８章－３節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201804STORY02_A4: 特殊：８章－４節ルナ突破
+MID_MISSION_H_S201804STORY02_A4: 剣の仲間を自軍に入れて、\n＜第２部＞８章－４節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201804STORY02_A5: 特殊：８章－５節ルナ突破
+MID_MISSION_H_S201804STORY02_A5: 槍の仲間を自軍に入れて、\n＜第２部＞８章－５節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201804TAPBTL01_D01_TITLE: タップバトル・デイリー
+MID_MISSION_S201804TAPBTL01_D01_A1: 特殊：ヘクトルを撃破
+MID_MISSION_H_S201804TAPBTL01_D01_A1: かんたんタップバトルで、\n難易度ノーマルのボス・ヘクトルを撃破。
+MID_MISSION_S201804TAPBTL01_D01_A2: 第２１～２５階層をクリア
+MID_MISSION_H_S201804TAPBTL01_D01_A2: かんたんタップバトルで、\n第２１～２５階層のステージをクリア。
+MID_MISSION_S201804TAPBTL01_D01_A3: ステージクリア
+MID_MISSION_H_S201804TAPBTL01_D01_A3: かんたんタップバトルで、\nステージをクリア。
+MID_MISSION_S201804TAPBTL01_D02_TITLE: タップバトル・デイリー
+MID_MISSION_S201804TAPBTL01_D02_A1: 特殊：ヘクトルを撃破
+MID_MISSION_H_S201804TAPBTL01_D02_A1: かんたんタップバトルで、\n難易度ハードのボス・ヘクトルを撃破。
+MID_MISSION_S201804TAPBTL01_D02_A2: 第４１～４５階層をクリア
+MID_MISSION_H_S201804TAPBTL01_D02_A2: かんたんタップバトルで、\n第４１～４５階層のステージをクリア。
+MID_MISSION_S201804TAPBTL01_D02_A3: ステージクリア
+MID_MISSION_H_S201804TAPBTL01_D02_A3: かんたんタップバトルで、\nステージをクリア。
+MID_MISSION_S201804TAPBTL01_D03_TITLE: タップバトル・デイリー
+MID_MISSION_S201804TAPBTL01_D03_A1: 特殊：アイクを撃破
+MID_MISSION_H_S201804TAPBTL01_D03_A1: かんたんタップバトルで、\n難易度ノーマルのボス・アイクを撃破。
+MID_MISSION_S201804TAPBTL01_D03_A2: 第６１～６５階層をクリア
+MID_MISSION_H_S201804TAPBTL01_D03_A2: かんたんタップバトルで、\n第６１～６５階層のステージをクリア。
+MID_MISSION_S201804TAPBTL01_D03_A3: ステージクリア
+MID_MISSION_H_S201804TAPBTL01_D03_A3: かんたんタップバトルで、\nステージをクリア。
+MID_MISSION_S201804TAPBTL01_D04_TITLE: タップバトル・デイリー
+MID_MISSION_S201804TAPBTL01_D04_A1: 特殊：アイクを撃破
+MID_MISSION_H_S201804TAPBTL01_D04_A1: かんたんタップバトルで、\n難易度ハードのボス・アイクを撃破。
+MID_MISSION_S201804TAPBTL01_D04_A2: 第８１～８５階層をクリア
+MID_MISSION_H_S201804TAPBTL01_D04_A2: かんたんタップバトルで、\n第８１～８５階層のステージをクリア。
+MID_MISSION_S201804TAPBTL01_D04_A3: ステージクリア
+MID_MISSION_H_S201804TAPBTL01_D04_A3: かんたんタップバトルで、\nステージをクリア。
+MID_MISSION_S201804TAPBTL02_TITLE: タップバトル
+MID_MISSION_S201804TAPBTL02_A1: ボスを撃破
+MID_MISSION_H_S201804TAPBTL02_A1: かんたんタップバトルで、\nボスを撃破。
+MID_MISSION_S201804TAPBTL02_A2: ボスを撃破
+MID_MISSION_H_S201804TAPBTL02_A2: かんたんタップバトルで、\nボスを撃破。
+MID_MISSION_S201804TAPBTL02_A3: ステージクリア
+MID_MISSION_H_S201804TAPBTL02_A3: かんたんタップバトルで、\nステージをクリア。
+MPID_ヒノカ2: ヒノカ
+MPID_カンナ女: カンナ
+MPID_カンナ男: カンナ
+MPID_シグレ: シグレ
+MPID_スズカゼ: スズカゼ
+MPID_HONOR_ヒノカ2: 蒼天の戦姫
+MPID_HONOR_カンナ女: 竜の幼姫
+MPID_HONOR_カンナ男: 竜の御子
+MPID_HONOR_シグレ: 青空に描く想い
+MPID_HONOR_スズカゼ: 涼風の忍
+MPID_H_ヒノカ2: 白夜王国の王女。\n伝説の金鵄を駆り、遥かな高みへと飛ぶ。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_H_カンナ女: カムイの娘。明るく素直で元気だが、\n本当は寂しがり屋で泣き虫。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_H_カンナ男: カムイの息子。明るく素直で元気だが、\n本当は寂しがり屋で泣き虫。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_H_シグレ: アクアの息子。物腰穏やかな性格。\n感性が鋭く芸術家肌で、歌も上手い。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_H_スズカゼ: 白夜王国の忍。サイゾウの双子の弟。\n礼儀正しく真面目な性格で、異性に人気がある。\n（登場：『ファイアーエムブレム　ｉｆ』）
+MPID_VOICE_ヒノカ2: 名塚佳織
+MPID_VOICE_カンナ女: 佐藤聡美
+MPID_VOICE_カンナ男: 島﨑信長
+MPID_VOICE_シグレ: 細谷佳正
+MPID_VOICE_スズカゼ: 小野大輔
+MPID_ILLUST_ヒノカ2: チーコ
+MPID_ILLUST_カンナ女: みわべさくら
+MPID_ILLUST_カンナ男: かわすみ
+MPID_ILLUST_シグレ: 由良
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: 倭鉾
+MSID_倭鉾＋: 倭鉾＋
+MSID_戦姫の和弓: 戦姫の和弓
+MSID_暗殺手裏剣: 暗殺手裏剣
+MSID_暗殺手裏剣＋: 暗殺手裏剣＋
+MSID_水のブレス: 水のブレス
+MSID_水のブレス＋: 水のブレス＋
+MSID_飛燕の構え2: 飛燕の構え２
+MSID_飛燕の構え3: 飛燕の構え３
+MSID_竜刃の紋章: 竜刃の紋章
+MSID_飛行の先導1: 飛行の先導１
+MSID_飛行の先導2: 飛行の先導２
+MSID_飛行の先導3: 飛行の先導３
+MSID_H_倭鉾: 奥義発動時、奥義によるダメージ＋１０
+MSID_H_倭鉾＋: 奥義発動時、奥義によるダメージ＋１０
+MSID_H_戦姫の和弓: 重装、飛行特効　速さ＋３\n周囲２マスの味方は、\n戦闘中、攻撃＋３
+MSID_H_暗殺手裏剣: 奥義が発動しやすい（発動カウント－１）\n戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの\n敵の守備、魔防－５（敵の次回行動終了まで）
+MSID_H_暗殺手裏剣＋: 奥義が発動しやすい（発動カウント－１）\n戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの\n敵の守備、魔防－７（敵の次回行動終了まで）
+MSID_H_水のブレス: 敵から攻撃された時、戦闘中、\n守備、魔防＋４\n射程２の敵に、敵の守備か魔防の低い方でダメージ計算
+MSID_H_水のブレス＋: 敵から攻撃された時、戦闘中、\n守備、魔防＋４\n射程２の敵に、敵の守備か魔防の低い方でダメージ計算
+MSID_H_飛燕の構え2: 敵から攻撃された時、戦闘中、速さ＋４
+MSID_H_飛燕の構え3: 敵から攻撃された時、戦闘中、速さ＋６
+MSID_H_竜刃の紋章: 周囲２マスの味方竜は、\n戦闘中、攻撃、速さ＋４
+MSID_H_飛行の先導1: 自身のＨＰが１００％の時、周囲２マス以内の\n味方飛行は、自身の隣接マスに移動可能
+MSID_H_飛行の先導2: 自身のＨＰが５０％以上の時、周囲２マス以内の\n味方飛行は、自身の隣接マスに移動可能
+MSID_H_飛行の先導3: 周囲２マス以内の味方飛行は、\n自身の隣接マスに移動可能
+MID_CHAPTER_TITLE_C0208: 第２部　８章
+MID_CHAPTER_C0208: 氷の儀
+MID_STAGE_TITLE_S2081: ８章－１節
+MID_STAGE_TITLE_S2082: ８章－２節
+MID_STAGE_TITLE_S2083: ８章－３節
+MID_STAGE_TITLE_S2084: ８章－４節
+MID_STAGE_TITLE_S2085: ８章－５節
+MID_STAGE_S2081: 氷の子はここに願う
+MID_STAGE_S2082: 荒ぶる炎鎮める力を
+MID_STAGE_S2083: 不死を殺し、不滅を滅す
+MID_STAGE_S2084: その力を、器に
+MID_STAGE_S2085: 氷の儀
+MID_CHAPTER_ST_C0204: ７～８章
+MID_STAGE_TITLE_ST_S0207: ７章
+MID_STAGE_TITLE_ST_S0208: ８章
+MID_STAGE_TITLE_ST_S1208: ７～８章
+MID_STAGE_HONOR_T0030: 竜の御子
+MID_STAGE_T0030: カンナ
+MID_TAP_BATTLE_DATA_TITLE_0003: 強者集う
+MID_MUSIC_NAME_BGM_MAP_FE07_02: 草原の風
+MID_MUSIC_NAME_BGM_MAP_FE14_02: 黄昏をつれて～焔
+MID_MUSIC_NAME_BGM_MAP_FES_01: ファンフェスト

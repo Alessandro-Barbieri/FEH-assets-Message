@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_HOME1: Was wird die Zukunft diesem Reich\nbringen? Es obliegt nicht mir, das zu\nentscheiden. Dies ist Eure Aufgabe.
+MID_KAMUI_M_HOME2: Ich musste einst eine schwere\nEntscheidung fällen...\n$k$pSollte ich für das Land meiner\nGeburt kämpfen oder für das, in\ndem ich aufgewachsen war?
+MID_KAMUI_M_HOME3: Es beruhigt mich, Euch auf\nPatrouille zu sehen, so wie ich es\nfrüher in meinem Schloss tat.$k$pDas ruft Erinnerungen an vergangene\nTage wach.
+MID_KAMUI_M_HOME4: Ich wünschte, ich könnte Euch mein\nSchloss zeigen. Dort gibt es immer\netwas zu tun.$k$pEs gibt dort sogar ein Baumhaus...\nin dem ich schlafe!
+MID_KAMUI_M_HOME5: Ich musste gerade an meine\nGeschwister denken.$k$pIch habe einige. Habt Ihr auch\nBrüder oder Schwestern?
+MID_KAMUI_M_FRIEND: Ich übermittle Grüße von\n$Nf. Ihr\nhabt ein schönes Schloss.
+MID_KAMUI_M_LEVEL1: Durch die Hilfe aller\nbin ich so stark geworden.
+MID_KAMUI_M_LEVEL2: Gut. Jetzt kann ich\nnoch besser helfen.
+MID_KAMUI_M_LEVEL3: So viel stärker bin\nich gar nicht geworden...
+MID_KAMUI_M_SKILL: Mal sehen, was ich\njetzt alles kann!
+MID_KAMUI_M_JOIN: Ich bin Corrin... geboren in Hoshido,\naber in Nohr aufgewachsen.$k$pMit dem Yato und als Drache kämpfe\nich für Euch.
+MID_KAMUI_M_STRONGEST: Schön, Euch zu sehen. Wir haben so\nviel Zeit miteinander verbracht, dass\nich mich unwohl fühle, wenn Ihr nicht$k$pin meiner Nähe seid. Am liebsten wäre\nes mir, wenn ich Euch stets im Auge\nhaben könnte. Aber die anderen$k$pwürden mich dann wohl überfürsorg-\nlich nennen.$k$pHahaha. Ich habe mich mein ganzes\nLeben... überbehütet gefühlt.$k$pDaher ist es ein komisches Gefühl,\ndass ich auf einmal selbst den Drang\nverspüre, Euch zu behüten.$k$pIhr seid ganz offensichtlich unentbehr-\nlich für die Verteidigung dieses\nReiches, und so ist ganz natürlich,$k$pdass ich Euch beschütze.\nWas ich damit sagen möchte, ist\nFolgendes:$k$pWir stehen hinter Euch, egal, für\nwelchen Weg Ihr Euch entscheidet,\nalso sorgt Euch bitte nicht.$k$pGeht einfach voran.
+MID_KAMUI_M_VOICE01: はっ！
+MID_KAMUI_M_VOICE02: でやっ！
+MID_KAMUI_M_VOICE03: うああっ
+MID_KAMUI_M_VOICE04: No...
+MID_KAMUI_M_VOICE05: Wir geben niemals auf!
+MID_KAMUI_M_VOICE06: Meine Wahl ist getroffen!
+MID_KAMUI_M_VOICE07: Ich werde dich aufhalten!
+MID_KAMUI_M_VOICE08: Mein Weg steht fest!
+MID_KAMUI_M_VOICE09: This can't be...
+MID_KAMUI_M_VOICE10: Heehee
+MID_KAMUI_M_VOICE11: Thank you very much for looking out for everyone.
+MID_KAMUI_M_VOICE12: Between friends, even the smallest gestures can mean so much.
+MID_KAMUI_M_VOICE13: I have so many siblings. I'm very fortunate.
+MID_KAMUI_M_VOICE14: Ever made a choice that, either way, meant losing something you loved?
+MID_KAMUI_M_VOICE15: I grew up in a fortress, where I was...never allowed outside.
+MID_KAMUI_M_VOICE16: I'm certain that you've chosen the path of peace.
+MID_KAMUI_M_VOICE17: You can lean on me if you're weary. My brothers may be bigger, but I can shoulder more than my share.
+MID_KAMUI_M_VOICE18: All right.
+MID_KAMUI_M_VOICE19: Let's go.
+MID_KAMUI_M_VOICE20: Of course.

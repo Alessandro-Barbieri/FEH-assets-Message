@@ -1,0 +1,38 @@
+[Heroes Archive] (ARUM)
+
+
+Heroes Message Name: Message
+
+
+MID_ARUM_HOME1: ここは見たことないものばかりで、\nいろんな人たちがいて……\n圧倒されちゃうな。
+MID_ARUM_HOME2: 解放軍は、宰相ドゼーに乗っ取られた\nソフィアを解放するために戦っているんだ。\n厳しい戦いが続いているよ。
+MID_ARUM_HOME3: みんなの様子を見て回ってるのかい？\nさすがだね。\n僕も解放軍のリーダーとして見習わなきゃ。
+MID_ARUM_HOME4: ねえ、君の話を聞かせてくれないか？\n僕は知らないことだらけで……\nどんな話を聞いてもワクワクするよ。
+MID_ARUM_HOME5: 剣の稽古をしてたんだ。\nじっとしてると落ち着かなくて……\nマイセンじいさんの怒鳴り声が懐かしいよ。
+MID_ARUM_FRIEND: $Nfが、\n君によろしくだって。\nへえ、ここが異界のアスク王国か……
+MID_ARUM_LEVEL1: 力がみなぎってくる……\n確かな手応えを感じるよ。
+MID_ARUM_LEVEL2: この力で、\nもっと君の役に立つよ。\n
+MID_ARUM_LEVEL3: 調子が悪いな……\nごめんよ、$Nu。\n
+MID_ARUM_SKILL: 僕に力を与えてくれたのかい？\nありがとう、きっと期待に応えてみせるよ！\n
+MID_ARUM_JOIN: 僕はアルム。ソフィア解放軍の\nリーダーをやっているんだ。\nこの剣で、きっと君の役に立ってみせる！
+MID_ARUM_STRONGEST: やあ、$Nu。\nよかった、君とゆっくり\n話をしたいと思ってたんだ。$k$p僕は育ての親のじいさんの言いつけで\nずっとラムの村から出られなかった。\nだから、世界のことをなにも知らない。$k$p君がこの世界に招いてくれて、\n様々なことを知って、いろんな人と会えて\n毎日が驚きと感動の連続だよ。$k$pそれに、君にも……村の友達とは違う、\n不思議な絆を感じるんだ。\nそばにいるとほっとするような……$k$pこんなふうに感じるのは、君で二人目だ。\n知識や経験だけじゃない。\n君との出会いも、うれしい驚きだよ。
+MID_ARUM_VOICE01: ええいっ
+MID_ARUM_VOICE02: そこだ！
+MID_ARUM_VOICE03: まずいっ……！
+MID_ARUM_VOICE04: なんだって…？！
+MID_ARUM_VOICE05: これで決める！
+MID_ARUM_VOICE06: いくよ！
+MID_ARUM_VOICE07: 負けない！
+MID_ARUM_VOICE08: 受けてみろ！
+MID_ARUM_VOICE09: ごめん、みんな……
+MID_ARUM_VOICE10: ははっ
+MID_ARUM_VOICE11: ここは不思議なところだね。
+MID_ARUM_VOICE12: 僕、村からほとんど出たことがないんだ。
+MID_ARUM_VOICE13: もっと世界のことを勉強しないとね。
+MID_ARUM_VOICE14: 僕の友達は、楽しくていい奴ばかりなんだ。
+MID_ARUM_VOICE15: 辛くても、じいさんの修業ほどじゃないよ。
+MID_ARUM_VOICE16: セリカ、どうしているかな……
+MID_ARUM_VOICE17: 僕の力が君の役に立つならうれしいよ。
+MID_ARUM_VOICE18: よし！
+MID_ARUM_VOICE19: えっと……
+MID_ARUM_VOICE20: 任せて。

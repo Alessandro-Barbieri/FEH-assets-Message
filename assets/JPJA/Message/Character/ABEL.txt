@@ -1,0 +1,38 @@
+[Heroes Archive] (ABEL)
+
+
+Heroes Message Name: Message
+
+
+MID_ABEL_HOME1: おれは…マルス様を裏切ったことがある。\nエストを人質にとられて…\nその罪は、償わなくてはならないんだ。
+MID_ABEL_HOME2: アリティアで小さな店を開いていたんだ。\n足りないものがあったら\n気軽に声をかけて欲しい。
+MID_ABEL_HOME3: いつも見回りありがとう。良かったら、\nこのたいまつを持っていくといい。\n夜歩く時に便利なはずだ。
+MID_ABEL_HOME4: 良かったら、今度一緒に\n町に出かけてみないか？\nどんな店があるのか見てみたいんだ。
+MID_ABEL_HOME5: エストが作ってくれた料理は\nとても美味しいんだ。\n君もぜひ食べてみて欲しい。
+MID_ABEL_FRIEND: 君が$Nuだろう？\n$Nfに頼まれたんだ。\n君に挨拶してほしいってね。
+MID_ABEL_LEVEL1: 祖国と愛する人のために…\nおれは強くなろう。
+MID_ABEL_LEVEL2: 腕はなまってなかった\nみたいだな。
+MID_ABEL_LEVEL3: くっ…訓練は怠っていない\nつもりだったんだが…
+MID_ABEL_SKILL: まだ騎士としての矜持がある…\nおれはまだ戦える。
+MID_ABEL_JOIN: おれはアリティアの騎士アベル。\nいや…元騎士かな。\n今は城下で店を開いているんだ。
+MID_ABEL_STRONGEST: マルス様とエスト…\nおれにとって二人は\nとても大切な人だ。$k$p主君への忠誠、\n恋人への愛情…\nどちらもはっきりした気持ちがある。$k$p君に感じるこの気持ちは…\n契約からの忠誠だろうか？\nそれとも仲間としての友情…？$k$pおれにもわからない。\nでも、心から大切な人が\nまた一人できた…それは確かだ。$k$pこれからもよろしく頼むよ。\n今まで通りに仲良くさせて欲しい。
+MID_ABEL_VOICE01: はっ！
+MID_ABEL_VOICE02: せいっ！
+MID_ABEL_VOICE03: うああっ！
+MID_ABEL_VOICE04: 強い…な…
+MID_ABEL_VOICE05: 迎撃する！
+MID_ABEL_VOICE06: 下がってくれ！
+MID_ABEL_VOICE07: 許さない！
+MID_ABEL_VOICE08: 甘く見たな
+MID_ABEL_VOICE09: すまない…
+MID_ABEL_VOICE10: はは
+MID_ABEL_VOICE11: どうしたんだ？
+MID_ABEL_VOICE12: 軍を退いて、体がなまってしまったな
+MID_ABEL_VOICE13: 今は、小さな店をやってるんだ
+MID_ABEL_VOICE14: 欲しいものがあれば言って欲しい
+MID_ABEL_VOICE15: 【黒豹】アベル、と呼ばれていたよ
+MID_ABEL_VOICE16: 大切なものは…両方は手に入らない
+MID_ABEL_VOICE17: おれは君を裏切らない
+MID_ABEL_VOICE18: ああ
+MID_ABEL_VOICE19: 進むか下がるか…
+MID_ABEL_VOICE20: 慎重に行こう

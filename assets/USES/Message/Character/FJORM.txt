@@ -1,0 +1,38 @@
+[Heroes Archive] (FJORM)
+
+
+Heroes Message Name: Message
+
+
+MID_FJORM_HOME1: Askr es un lugar precioso y la gente\nha sido muy amable conmigo. Quiero\ncombatir para proteger esta paz.
+MID_FJORM_HOME2: La blancura de Nifl se extiende hasta\ndonde alcanza la vista y la nieve brilla\nbajo el sol.$k$pEse es solo uno de los motivos por\nlos que amo mi hogar.
+MID_FJORM_HOME3: Tienes muchísimo poder, pero nunca\npresumes de ello. Nos tratas con una\ngran amabilidad y te lo agradezco.
+MID_FJORM_HOME4: En mi reino tenemos una costumbre:\nsi te rescatan de la nieve, estás\nen deuda con esa persona.$k$pTe ruego que me permitas saldar\nmi deuda contigo.
+MID_FJORM_HOME5: Mi arma es Leiptr, la lanza de hielo.\nEs un arma legendaria, y se dice que\nnació del pico más alto de Nifl.
+MID_FJORM_FRIEND: Soy la princesa Fjorm, de Nifl, el reino\ndel hielo. Estoy aquí en nombre de\n$Nf.$k$pEspero que su amistad perdure.
+MID_FJORM_LEVEL1: Debo toda mi fuerza a\n$Nu.
+MID_FJORM_LEVEL2: Madre... Prometo esforzarme\nal máximo.
+MID_FJORM_LEVEL3: Mis disculpas. Te aseguro que\nla próxima vez lo haré mejor.
+MID_FJORM_SKILL: Gracias. No te preocupes,\nte compensaré por tu bondad.
+MID_FJORM_JOIN: Soy la princesa Fjorm, de Nifl, el reino\ndel hielo.$k$pNo descansaré hasta haber vengado\nmi reino y haber restaurado la paz.
+MID_FJORM_STRONGEST: Un manto de nieve cubre Nifl, el reino\ndel hielo y mi hogar. Evidentemente,\nlas avalanchas son peligrosas a veces...$k$pSi una te entierra y alguien te salva,\nestás en deuda con esa persona.$k$pDe donde vengo, esta lección es muy\nimportante, y tú me rescataste a mí,\n$Nu.$k$pAhora comprendes por qué quiero\ncompensarte luchando junto a ti.$k$pPero no importa cuánto me esfuerce,\nsiento que siempre eres tú quien me\nayuda a mí y no al revés.$k$pEs como si las capas de mi deuda\ncontigo se amontonaran igual que\nla nieve en las montañas.$k$pPor eso quería hablarte. Dime si hay\nalgo que pueda hacer por ti, lo que\nsea, y te ayudaré.$k$pDeseo devolverte todas tus muestras\nde bondad y te prometo que lo haré.
+MID_FJORM_VOICE01: はっ！
+MID_FJORM_VOICE02: いきます！
+MID_FJORM_VOICE03: きゃああっ！
+MID_FJORM_VOICE04: いけません…！
+MID_FJORM_VOICE05: ¡Leiptr, lanza de hielo!
+MID_FJORM_VOICE06: ¡No te dejaré pasar!
+MID_FJORM_VOICE07: ¿Todo listo?
+MID_FJORM_VOICE08: ¡Con toda mi fuerza!
+MID_FJORM_VOICE09: I let you down...
+MID_FJORM_VOICE10: ふふっ
+MID_FJORM_VOICE11: I am Fjorm, princess of Nifl, the Kingdom of Ice.
+MID_FJORM_VOICE12: Aah! Oh...it's you.
+MID_FJORM_VOICE13: Oh... I'm told touching me is like touching ice.
+MID_FJORM_VOICE14: I will not give up until I retake my homeland.
+MID_FJORM_VOICE15: I owe you my life. I will never forget my debt to you. You have my word.
+MID_FJORM_VOICE16: Mother... I promise to try my hardest and be my best.
+MID_FJORM_VOICE17: I will give you my all. I owe you that much. No, more.
+MID_FJORM_VOICE18: Yes.
+MID_FJORM_VOICE19: Orders, please.
+MID_FJORM_VOICE20: As you say.

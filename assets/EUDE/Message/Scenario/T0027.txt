@@ -1,0 +1,8 @@
+[Heroes Archive] (T0027)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_リズ,ch04_11_Liz_F_Normal,Face|$w0|Also gut, ich bin bereit! Ich habe\nmeinen Stab und... Äh, wie sieht\neigentlich unser Plan aus?$k$p$WmMPID_クロム,ch04_00_Chrom_M_Normal,Face|$w0|Ohne Du-weißt-schon-wen...\nhaben wir keine Strategie.$k$pAber wir haben auch keine Zeit, uns\ndarüber den Kopf zu zerbrechen.\nKomm, Lissa! Los geht's!$k$p$Sbs1000|

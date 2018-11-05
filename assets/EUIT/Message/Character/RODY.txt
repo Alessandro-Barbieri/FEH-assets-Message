@@ -1,0 +1,38 @@
+[Heroes Archive] (RODY)
+
+
+Heroes Message Name: Message
+
+
+MID_RODY_HOME1: In questo castello gli eroi sono ben\naccetti. Anche io? Non sono altro\nche un cavaliere in addestramento.
+MID_RODY_HOME2: Rispettavo molto la persona al\ncomando del mio plotone, nel\nmio mondo.$k$pDevo ammettere che tu\nme la ricordi alquanto!
+MID_RODY_HOME3: Intendo diventare un vero cavaliere\nd'Altea, un uomo dalle molte\nresponsabilità.$k$pMa per farlo, devo prima completare\nil mio addestramento.
+MID_RODY_HOME4: Luke è un caro amico, lo conosco da\nmolto. Talvolta è avventato e\nsconsiderato, ma ha un buon cuore.
+MID_RODY_HOME5: Vorrei venire in ricognizione intorno al\ncastello insieme a te. È importante\nessere sempre preparati a tutto.
+MID_RODY_FRIEND: Salve, sono Roderick, un cavaliere\nin addestramento. Ti porto i saluti\ndi $Nf.
+MID_RODY_LEVEL1: Assaporerò questo successo\nsolo per un momento. C'è molto\nlavoro da fare.
+MID_RODY_LEVEL2: Incoraggiante. Chi va piano,\nva sano e va lontano.
+MID_RODY_LEVEL3: A questo ritmo non raggiungerò i\nmiei obiettivi. Devo impegnarmi\ndi più.
+MID_RODY_SKILL: Ti devo i miei ringraziamenti,\npiù un giuramento: ti darò\ntutto me stesso.
+MID_RODY_JOIN: Il mio nome è Roderick, cavaliere\nd'Altea in addestramento. Ti\ndimostrerò il mio valore.
+MID_RODY_STRONGEST: Ti ho già dimostrato il mio valore?\nSpero di diventare forte abbastanza\nda poterti essere di grande aiuto.$k$pFatico a capire se sono alla tua\naltezza, ma suppongo di non\naverti ancora deluso.$k$pGiuro sul mio onore di fare del\nmio meglio sempre e di non\nessere un peso.$k$pVorrei poter alleggerire il fardello\nche grava sulle tue spalle. Questo\nordine ha bisogno della tua forza.$k$pNon riesco a immaginare cosa\nsignifichi avere tanti oneri.\nMa se mi permetterai di rimanere...$k$p... li condividerò con te.
+MID_RODY_VOICE01: はっ！
+MID_RODY_VOICE02: せいっ！
+MID_RODY_VOICE03: うああっ！
+MID_RODY_VOICE04: …I left myself open…
+MID_RODY_VOICE05: Darò tutto me stesso!
+MID_RODY_VOICE06: Non indugerò!
+MID_RODY_VOICE07: Preparati!
+MID_RODY_VOICE08: Il dovere prima di tutto!
+MID_RODY_VOICE09: Sorry...
+MID_RODY_VOICE10: Haha
+MID_RODY_VOICE11: May I be of service to you?
+MID_RODY_VOICE12: Oh! You seem to do that a lot.
+MID_RODY_VOICE13: What is our plan for the next battle?
+MID_RODY_VOICE14: I try to remember to battle as a team—never in isolation.
+MID_RODY_VOICE15: If ever you need me, I am delighted to serve.
+MID_RODY_VOICE16: I wonder how everyone in my platoon is doing.
+MID_RODY_VOICE17: I am deeply honored to fight alongside you.
+MID_RODY_VOICE18: Understood.
+MID_RODY_VOICE19: Of course.
+MID_RODY_VOICE20: Ready.

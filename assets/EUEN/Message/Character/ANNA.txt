@@ -1,0 +1,62 @@
+[Heroes Archive] (ANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_ANNA_HOME1: Alfonse was once friends with a great\nHero. But when Alfonse lost his friend\nin battle, he was never the same.
+MID_ANNA_HOME2: We can revive Heroes who fall\nduring battle as long as you're\nwith us, Summoner.$k$pStill, though this reverses the\nravages of the battlefield,\nthey feel pain—just as we do.
+MID_ANNA_HOME3: Checking up on everyone? Thank\nyou. That's helpful. Let me know\nif you spot anything unusual!
+MID_ANNA_HOME4: How about we get some practice in?\nThat'd make you a stronger member\nof our group—summoning and all!
+MID_ANNA_HOME5: Good timing. I made some official\nmerchandise for the Order of Heroes.\nThink they'll sell?
+MID_ANNA_FRIEND: Looks like your group is strong. I'd\nbetter keep building mine. Oh, hello\nfrom $Nf!
+MID_ANNA_LEVEL1: I'm going to push myself even\nharder now!
+MID_ANNA_LEVEL2: Good! But as commander, I must\nkeep striving for more.
+MID_ANNA_LEVEL3: I expect much more of myself\nthan that!
+MID_ANNA_SKILL: Thanks for helping me get stronger.\nI swear to make it worth your trouble.
+MID_ANNA_STRONGEST: I have an assessment to make.\nYou've become more dependable\nthan I ever imagined.$k$pFrankly, I wasn't certain about you\nfrom the start. You were new to\nus. We were new to you.$k$pBut look at you now—a great\ntactician, giving us directions that\nare often excellent!$k$pRemember when you first showed up\nand I said you didn't look like the\nGreat Hero from our legend?$k$pI'm sorry about all of that. As the\ncommander here, I should know to\nnever judge a book by its cover.$k$pThe person who was once my\nsuperior drilled that into my head.\nSo, I should have known better.$k$pYou are the Great Hero, and you\nhave lived up to the legend!$k$pStill, you're also part of my Order of\nHeroes, so don't expect any\npreferential treatment.$k$pBut until the day comes when we\nsave this kingdom once and for all,\nyou and I are in this...together.
+MID_ANNA_VOICE01: はっ！
+MID_ANNA_VOICE02: せいっ！
+MID_ANNA_VOICE03: くっ…！
+MID_ANNA_VOICE04: What gives!
+MID_ANNA_VOICE05: This one's on the house!
+MID_ANNA_VOICE06: More than you bargained for?
+MID_ANNA_VOICE07: We will triumph!
+MID_ANNA_VOICE08: Onward to victory!
+MID_ANNA_VOICE09: Fall back...
+MID_ANNA_VOICE10: Heehee
+MID_ANNA_VOICE11: Rule number one! Treat Heroes with utmost respect!
+MID_ANNA_VOICE12: Rule number two! Defend the gateways at any cost!
+MID_ANNA_VOICE13: Think I have a familiar face? Hmm. How curious.
+MID_ANNA_VOICE14: That divine weapon of yours was just lying around here... None of us could use it.
+MID_ANNA_VOICE15: Some of us befriend Heroes. Others stay detached. What will you do, I wonder...
+MID_ANNA_VOICE16: Know a quick way to make a profit? Then let's hear it!
+MID_ANNA_VOICE17: I give you my vow as commander that I will keep you safe.
+MID_ANNA_VOICE18: Yes?
+MID_ANNA_VOICE19: Let's go.
+MID_ANNA_VOICE20: Onward!
+MID_ANNA_VOICE21: Fire Emblem
+MID_ANNA_VOICE22: Shadow Dragon and the Blade of Light
+MID_ANNA_VOICE23: Gaiden
+MID_ANNA_VOICE24: Mystery of the Emblem
+MID_ANNA_VOICE25: Genealogy of the Holy War
+MID_ANNA_VOICE26: Thracia 776
+MID_ANNA_VOICE27: The Binding Blade
+MID_ANNA_VOICE28: The Blazing Blade
+MID_ANNA_VOICE29: The Sacred Stones
+MID_ANNA_VOICE30: Path of Radiance
+MID_ANNA_VOICE31: Radiant Dawn
+MID_ANNA_VOICE32: Shadow Dragon
+MID_ANNA_VOICE33: New Mystery of the Emblem
+MID_ANNA_VOICE34: Awakening
+MID_ANNA_VOICE35: Fates
+MID_ANNA_VOICE36: An event has started.
+MID_ANNA_VOICE37: A big battle has started.
+MID_ANNA_VOICE38: A strong foe has appeared.
+MID_ANNA_VOICE39: New Heroes are available.
+MID_ANNA_VOICE40: Wait just a moment.
+MID_ANNA_VOICE41: Now, let's move.
+MID_ANNA_VOICE42: Now, attack.
+MID_ANNA_VOICE43: When using a bow, you must keep space between you and your foe.
+MID_ANNA_VOICE_BRAVE: Brave
+MID_ANNA_VOICE_HEROES: Heroes

@@ -1,0 +1,16 @@
+[Heroes Archive] (Data_232_legend00)
+
+
+Heroes Message Name: Message
+
+
+MPID_スリーズ: Gunnthrá
+MPID_HONOR_スリーズ: Traumstimme
+MPID_H_スリーズ: Die älteste Prinzessin von Nifl, dem\nEiskönigreich. Eine sanfte, fürsorgliche\nSeele mit starkem Mutterinstinkt.
+MPID_VOICE_スリーズ: Carrie Keranen
+MPID_ILLUST_スリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_スリーズ: Legendärer Effekt: Wind\nVerbündetenbonus: KP +3, Res. +4\n\nGewährt Verbündeten diesen legendären\nEffekt in der Windsaison, wenn sie mit\nWind gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_ブリザード: Blizzard
+MSID_氷の封印: Eissiegel
+MSID_H_ブリザード: Verleiht Res. +3. Erhöht Angr. der\nEinheit um den Gesamtwert der\nnegativen Effekte des Gegners.
+MSID_H_氷の封印: Sind die KP der Einheit zu Beginn des\nZuges ≥ 50 %, erleidet der Gegner mit\nder geringsten Ver. bis nach seiner\nnächsten Aktion Angr./Ges. -6.\n(Fähigkeit kann nicht geerbt werden.)

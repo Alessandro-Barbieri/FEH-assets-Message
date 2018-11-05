@@ -1,0 +1,38 @@
+[Heroes Archive] (MACHILDA)
+
+
+Heroes Message Name: Message
+
+
+MID_MACHILDA_HOME1: Este es un lugar maravilloso. Todo\nestá muy organizado, tanto la gente\ncomo el propio castillo.$k$pEstoy segura de que es el espíritu\nde este reino y de sus habitantes.
+MID_MACHILDA_HOME2: El enemigo me capturó y eso trajo\nvarios quebraderos de cabeza, pero\nahora lucho con los Libertadores.
+MID_MACHILDA_HOME3: Viendo la forma en que miras a los\ndemás, no me cabe duda de que les\nhaces sentir a salvo. Te lo agradezco.
+MID_MACHILDA_HOME4: Enséñame el lugar que te parezca\nel más hermoso. Me gustaría llevar\na mi amado.
+MID_MACHILDA_HOME5: Estaba afilando mi lanza. Debo\nestar lista cuando haya que luchar\npara poder proteger a todo el mundo.
+MID_MACHILDA_FRIEND: Me alegra verte bien.\nTe traigo recuerdos de\n$Nf.
+MID_MACHILDA_LEVEL1: Ahora nadie podrá conmigo.
+MID_MACHILDA_LEVEL2: Entreno todos los días para\nir mejorando poco a poco.
+MID_MACHILDA_LEVEL3: Esto es un poco decepcionante.
+MID_MACHILDA_SKILL: Me esforzaré al máximo. Es lo\nmínimo que te debo.
+MID_MACHILDA_JOIN: Soy Mathilda, de los Libertadores.\nTe demostraré que puedo hacerle\nfrente a cualquiera en una batalla.
+MID_MACHILDA_STRONGEST: ¿Tienes un momento? Necesito un\nconsejo sobre la hermana de Clive.\nNada de lo que hago es suficiente.$k$pMe gustaría conocerla mejor.\nNo son tan distintos: son atractivos\ninteligentes y muy fuertes.$k$pMe estoy desviando del tema. ¿Tú\nqué crees que debería hacer?$k$p¿Piensas que, si me importa tanto,\nse acabará dando cuenta? Eso\nespero. Confiaré en tu palabra.$k$pEs curioso lo fácil que es hablar\ncontigo, incluso de temas complejos.\nEspero poder hablar más veces.
+MID_MACHILDA_VOICE01: せやあっ
+MID_MACHILDA_VOICE02: Here I go!
+MID_MACHILDA_VOICE03: ああああーっ！
+MID_MACHILDA_VOICE04: Can't be...!
+MID_MACHILDA_VOICE05: ¡Vaya insolencia!
+MID_MACHILDA_VOICE06: ¡Ahora me toca a mí!
+MID_MACHILDA_VOICE07: ¡Desaparece!
+MID_MACHILDA_VOICE08: Ya vi suficiente.
+MID_MACHILDA_VOICE09: Not now...
+MID_MACHILDA_VOICE10: Hm...
+MID_MACHILDA_VOICE11: All right. What do you want?
+MID_MACHILDA_VOICE12: This world is quite the diversion.
+MID_MACHILDA_VOICE13: Should I tell you of my lover? Why not. He's the best man in my world.
+MID_MACHILDA_VOICE14: If you have a concern, I'll be here for you, day or night.
+MID_MACHILDA_VOICE15: I wonder if I'll ever get any closer to Clair...
+MID_MACHILDA_VOICE16: I take up my lance in the service of one man, and one man alone.
+MID_MACHILDA_VOICE17: I'm proud to fight at your side.
+MID_MACHILDA_VOICE18: All right.
+MID_MACHILDA_VOICE19: A task.
+MID_MACHILDA_VOICE20: I'm off.

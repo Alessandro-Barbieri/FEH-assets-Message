@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_LEGEND01_HOME1: Winde dich wie ein Wurm und flieh\noder werde zerquetscht wie eine\nwertlose Made.$k$pSo oder so bist du nicht viel\nmehr als ein Insekt.
+MID_REFLET_F_LEGEND01_HOME2: Argh... Mein Kopf... Ich erinnere mich\nan nichts aus meiner Zeit in dieser\nanderen Welt... An rein gar nichts.
+MID_REFLET_F_LEGEND01_HOME3: Hör auf mit diesem selbstlosen Getue\nund sag mir, was du wirklich willst.\nVielleicht kann ich es dir gewähren.
+MID_REFLET_F_LEGEND01_HOME4: Du hast mehr Potential als alle\nanderen hier. Du bist sozusagen\n$Gder,die| Einäugige unter den Blinden.$k$pIch spiele sogar mit dem Gedanken,\ndich an meiner Seite zu behalten.
+MID_REFLET_F_LEGEND01_HOME5: Mit oder ohne Erinnerungen - ich\nwerde die Welt in Schutt und Asche\nlegen.$k$pOder hältst du mich etwa für so\nwankelmütig, dass ich meine\nMeinung diesbezüglich ändere?
+MID_REFLET_F_LEGEND01_FRIEND: Sieh mich nicht so ängstlich an.\n$Nf ist sicher.\nZumindest vorerst.
+MID_REFLET_F_LEGEND01_LEVEL1: Unverschämte Würmer... Ich\nzeige euch, was wahre Angst ist.
+MID_REFLET_F_LEGEND01_LEVEL2: Das wird reichen, um niedere\nInsekten zu zertrampeln.
+MID_REFLET_F_LEGEND01_LEVEL3: Ich habe bereits mehr als genug\nKraft, um alle zu vernichten.
+MID_REFLET_F_LEGEND01_SKILL: Diese Macht übersteigt die der\nGötter. Ich bringe Zerstörung...
+MID_REFLET_F_LEGEND01_JOIN: Ich bin die Schwinge der Verzweiflung,\nder Atem der Verderbnis.\nIch bin der Dämonendrache Grima.$k$pZolle mir gebührenden Respekt und\ndu darfst auf einen schmerzlosen\nTod hoffen, wenn es so weit ist.
+MID_REFLET_F_LEGEND01_STRONGEST: Willst du mir wieder Honig ums\nMaul schmieren? Wie lästig. Ich\nhabe nichts mit dir zu besprechen.$k$pDu und deinesgleichen - ihr sprecht\nvon Idealen, aber das ist nichts\nals heiße Luft.$k$pIhr sagt, ihr könntet Unterschiede\nüberwinden und verschiedene\nSpezies und Ideologien vereinen.$k$pDabei lässt sich die Wahrheit hier\ntäglich bewundern. Alles, wozu ihr\nimstande seid, sind endlose Kriege.$k$pDie Zufriedenheit des Einen ist\ndas Leid des Anderen. Das ist\ndie Realität in allen Welten.$k$pEinzig vor meiner zerstörerischen\nMacht sind alle gleich.$k$pGlaubst du, dass jemand die Welt\nmit solch hochtrabenden Idealen wie\nLiebe und Bande der Freundschaft$k$pregieren kann?\nDenjenigen würde ich gern\nkennenlernen.$k$pHmpf. Du nimmst den Mund immer\nnoch so voll?$k$pNun gut. Ich behalte dich im Auge.\nBis zu deinem bitteren Ende.
+MID_REFLET_F_LEGEND01_VOICE01: はぁっ！
+MID_REFLET_F_LEGEND01_VOICE02: 殺します
+MID_REFLET_F_LEGEND01_VOICE03: きゃああっ！
+MID_REFLET_F_LEGEND01_VOICE04: 面倒ですね…
+MID_REFLET_F_LEGEND01_VOICE05: Ich bin der Dämonendrache.
+MID_REFLET_F_LEGEND01_VOICE06: Ich mache dir den Garaus!
+MID_REFLET_F_LEGEND01_VOICE07: Ich verschlinge dich!
+MID_REFLET_F_LEGEND01_VOICE08: Dies ist das Ende.
+MID_REFLET_F_LEGEND01_VOICE09: Mere...worms...
+MID_REFLET_F_LEGEND01_VOICE10: ふふっ
+MID_REFLET_F_LEGEND01_VOICE11: I am the wings of despair. I am the breath of ruin. I am the Fell Dragon, Grima.
+MID_REFLET_F_LEGEND01_VOICE12: Am I really so interesting you must pester me?
+MID_REFLET_F_LEGEND01_VOICE13: I seem to have lost some of my memories when I crossed the skies.
+MID_REFLET_F_LEGEND01_VOICE14: How odd... I sense something...familiar about you...
+MID_REFLET_F_LEGEND01_VOICE15: If you can help me regain my memories... I shall spare your life.
+MID_REFLET_F_LEGEND01_VOICE16: If I were human, and able to live among you... Then perhaps...
+MID_REFLET_F_LEGEND01_VOICE17: Will you be my ally, or do you long for death? The choice is yours.
+MID_REFLET_F_LEGEND01_VOICE18: Yes.
+MID_REFLET_F_LEGEND01_VOICE19: Who dies first?
+MID_REFLET_F_LEGEND01_VOICE20: Choose.

@@ -1,0 +1,74 @@
+[Heroes Archive] (Menu_41_muspell01)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_MOVIELIST_OPENING2: Buch II - Eröffnungsfilm
+MID_ITEM_REFINE_STONE: Veredelungsstein
+MID_ITEM_HELP_REFINE_STONE: Wird bei der Waffenveredelung\nvon normalen Waffen benutzt.
+MID_ITEM_GOD_REFINE_STONE: Göttertau
+MID_ITEM_HELP_GOD_REFINE_STONE: Wird bei der Waffenveredelung\nvon speziellen Waffen benutzt.
+MID_ITEM_ARENA_MEDAL: Arenamedaille
+MID_ITEM_HELP_ARENA_MEDAL: Wird bei der Waffenveredelung\nbenutzt.
+MID_ITEM_BLESSING_FIRE: Feuersegen
+MID_ITEM_HELP_BLESSING_FIRE: Wird beim Segnen benutzt. Belegt\nVerbündete mit dem Feuersegen.
+MID_ITEM_BLESSING_WATER: Wassersegen
+MID_ITEM_HELP_BLESSING_WATER: Wird beim Segnen benutzt. Belegt\nVerbündete mit dem Wassersegen.
+MID_ITEM_BLESSING_WIND: Windsegen
+MID_ITEM_HELP_BLESSING_WIND: Wird beim Segnen benutzt. Belegt\nVerbündete mit dem Windsegen.
+MID_ITEM_BLESSING_EARTH: Erdsegen
+MID_ITEM_HELP_BLESSING_EARTH: Wird beim Segnen benutzt. Belegt\nVerbündete mit dem Erdsegen.
+MID_SHOP_ORB_SCTA_TWD: 消費者保護法標示事項
+MID_SHOP_ORB_SCTA_HKD: 其他重要資訊
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_1: Buch I
+MID_STAGE_SELECT_SCENARIO_MAIN_PART_2: Buch II
+MID_STAGE_OPEN_WEAPON_REFINE: Die Waffenveredelung\nwurde freigeschaltet.
+MID_SUMMON_SEASON2_DAYS: $a$a1 Noch $a0 Tag(e).
+MID_SUMMON_SEASON2_HOURS: $a$a1 Noch $a0 Std.
+MID_SUMMON_SEASON2_MINUTES: $a$a1 Noch $a0 Min.
+MID_SUMMON_LIMITED_BEGINNER: Nur für Neulinge!
+MID_SUMMON_ONE_TIME_FREE: 1 Gratis-Beschwörung!
+MID_SUMMON_ONE_TIME_FREE_AND_LIMITED_BEGINNER: Eine Gratis-Beschwörung,\nnur für Neulinge!
+MID_SUMMON_ONE_TIME_FREE_DECIDE: Einlösen
+MID_UNIT_EDIT_WEAPON_REFINE: Waffenveredelung
+MID_UNIT_EDIT_WEAPON_REFINE_CONFIRM: Folgende Fähigkeit veredeln?
+MID_UNIT_EDIT_WEAPON_REFINE_DECIDE: Veredeln
+MID_UNIT_EDIT_WEAPON_REFINE_HELP1: Wähle den Charakter mit zu veredelnder Fähigkeit.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP2: Bitte wähle eine Fähigkeit.
+MID_UNIT_EDIT_SKILL_WARNING_REFINE: Diese veredelte Fähigkeit ist nicht vererbbar.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: Veredele Waffen für mehr Macht!
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: Waffenveredelung:\nDu kannst Waffen veredeln, um\nsie mächtiger zu machen.\n\nVeredeln benötigt Veredelungs-\nsteine, Arenamedaillen und FP.\nArenamedaillen erhältst du in\nder Arena.
+MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: Göttertau:\nZum Veredeln mancher Waffen\nbrauchst du Göttertau statt\nVeredelungssteinen.\n\nGöttertau kann bei der Waffen-\nveredelung durch Veredelungs-\nsteine erschaffen werden.
+MID_UNIT_EDIT_BLESSING: Segnen
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: Gesegnet von legendären Helden!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: Segnen:\nBenutze ein Segen-Item, um\ndeine Verbündeten zu segnen.\n\nFjorm oder andere legendäre\nHelden können nicht gesegnet\nwerden.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: Segeneffekte 1:\nGesegnete Verbündete erhalten\ndie doppelte Menge an FP.\n\nLegendäre Helden können zwar\nnicht gesegnet werden, aber sie\nerhalten im Kampf immer doppelt\nso viele FP wie gewöhnlich.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03: Segeneffekte 2:\nKombiniere einen legendären\nHelden, den Typ der aktuellen\nSaison und die Segen deiner\nVerbündeten für einen Bonus.\n\nKämpfe z. B. in der Wasser-\nsaison mit dem legendären\nWasserhelden Fjorm und mit\nWasser gesegneten Verb. für\n+3 KP und +3 Ges.
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04: Saisonzeitplan:\nInformationen zur aktuellen\nSaison erhältst du unter anderem\noben auf dem Kampfbildschirm.\n\nLegendäre Helden:\nLegendäre Helden haben ein\nspezielles Symbol in ihrem Profil.\nTippe es an, um ihren legendären\nEffekt zu sehen.
+MID_UNIT_EDIT_SORT_BLESSING: Segen
+MID_UNIT_EDIT_BLESSING_HELP_FIRE: ・Erhalte bei Kämpfen doppelte Erf. und FP.\n・Erhalte während der Feuersaison\neinen speziellen Bonus von einem\nlegendären Feuerhelden, wenn du mit\ndiesem in den Kampf ziehst.
+MID_UNIT_EDIT_BLESSING_HELP_WATER: ・Erhalte bei Kämpfen doppelte Erf. und FP.\n・Erhalte während der Wassersaison\neinen speziellen Bonus von einem\nlegendären Wasserhelden, wenn du mit\ndiesem in den Kampf ziehst.
+MID_UNIT_EDIT_BLESSING_HELP_WIND: ・Erhalte bei Kämpfen doppelte Erf. und FP.\n・Erhalte während der Windsaison\neinen speziellen Bonus von einem\nlegendären Windhelden, wenn du mit\ndiesem in den Kampf ziehst.
+MID_UNIT_EDIT_BLESSING_HELP_EARTH: ・Erhalte bei Kämpfen doppelte Erf. und FP.\n・Erhalte während der Erdsaison\neinen speziellen Bonus von einem\nlegendären Erdhelden, wenn du mit\ndiesem in den Kampf ziehst.
+MID_UNIT_EDIT_BLESSING_HELP1: Wähle den zu segnenden Charakter.
+MID_UNIT_EDIT_BLESSING_HELP2: Wähle einen Segen.
+MID_UNIT_EDIT_BLESSING_APPLIED: Aktiv
+MID_UNIT_EDIT_BLESSING_SELECTED: Gewählt
+MID_UNIT_EDIT_BLESSING_NOT_HAVING: Fehlt
+MID_UNIT_EDIT_BLESSING_CONFIRM_FIRE: Feuersegen sprechen?\n\nDer gesegnete Verbündete erhält\neinen Bonus, wenn er mit einem\nlegendären Feuerhelden in der\nFeuersaison in den Kampf zieht.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WATER: Wassersegen sprechen?\n\nDer gesegnete Verbündete erhält\neinen Bonus, wenn er mit einem\nlegendären Wasserhelden in der\nWassersaison in den Kampf zieht.
+MID_UNIT_EDIT_BLESSING_CONFIRM_WIND: Windsegen sprechen?\n\nDer gesegnete Verbündete erhält\neinen Bonus, wenn er mit einem\nlegendären Windhelden in der\nWindsaison in den Kampf zieht.
+MID_UNIT_EDIT_BLESSING_CONFIRM_EARTH: Erdsegen sprechen?\n\nDer gesegnete Verbündete erhält\neinen Bonus, wenn er mit einem\nlegendären Erdhelden in der\nErdsaison in den Kampf zieht.
+MID_UNIT_EDIT_BLESSING_WARNING: Sprichst du einen neuen Segen, werden\nalle aktiven Segen und Effekte aufgehoben.
+MID_UNIT_EDIT_BLESSING_DECIDE: Diesen Segen sprechen
+MID_SEASON_HELP_FIRE: Feuersaison:\nVerbündete mit Feuersegen erhalten einen\nBonus, wenn sie mit einem legendären\nFeuerhelden in den Kampf ziehen.
+MID_SEASON_HELP_WATER: Wassersaison:\nVerbündete mit Wassersegen erhalten einen\nBonus, wenn sie mit einem legendären\nWasserhelden in den Kampf ziehen.
+MID_SEASON_HELP_WIND: Windsaison:\nVerbündete mit Windsegen erhalten einen\nBonus, wenn sie mit einem legendären\nWindhelden in den Kampf ziehen.
+MID_SEASON_HELP_EARTH: Erdsaison:\nVerbündete mit Erdsegen erhalten einen\nBonus, wenn sie mit einem legendären\nErdhelden in den Kampf ziehen.
+MID_SEASON_HELP_FIREWATER: Feuer-/Wassersaison:\nVerbündete mit Feuersegen erhalten einen\nBonus, wenn sie mit einem legendären\nFeuerhelden in den Kampf ziehen.\nVerbündete mit Wassersegen erhalten einen\nBonus, wenn sie mit einem legendären\nWasserhelden in den Kampf ziehen.
+MID_SEASON_HELP_FIREWIND: Feuer-/Windsaison:\nVerbündete mit Feuersegen erhalten einen\nBonus, wenn sie mit einem legendären\nFeuerhelden in den Kampf ziehen.\nVerbündete mit Windsegen erhalten einen\nBonus, wenn sie mit einem legendären\nWindhelden in den Kampf ziehen.
+MID_SEASON_HELP_FIREEARTH: Feuer-/Erdsaison:\nVerbündete mit Feuersegen erhalten einen\nBonus, wenn sie mit einem legendären\nFeuerhelden in den Kampf ziehen.\nVerbündete mit Erdsegen erhalten einen\nBonus, wenn sie mit einem legendären\nErdhelden in den Kampf ziehen.
+MID_SEASON_HELP_WATERWIND: Wasser-/Windsaison:\nVerbündete mit Wassersegen erhalten einen\nBonus, wenn sie mit einem legendären\nWasserhelden in den Kampf ziehen.\nVerbündete mit Windsegen erhalten einen\nBonus, wenn sie mit einem legendären\nWindhelden in den Kampf ziehen.
+MID_SEASON_HELP_WATEREARTH: Wasser-/Erdsaison:\nVerbündete mit Wassersegen erhalten einen\nBonus, wenn sie mit einem legendären\nWasserhelden in den Kampf ziehen.\nVerbündete mit Erdsegen erhalten einen\nBonus, wenn sie mit einem legendären\nErdhelden in den Kampf ziehen.
+MID_SEASON_HELP_WINDEARTH: Wind-/Erdsaison:\nVerbündete mit Windsegen erhalten einen\nBonus, wenn sie mit einem legendären\nWindhelden in den Kampf ziehen.\nVerbündete mit Erdsegen erhalten einen\nBonus, wenn sie mit einem legendären\nErdhelden in den Kampf ziehen.

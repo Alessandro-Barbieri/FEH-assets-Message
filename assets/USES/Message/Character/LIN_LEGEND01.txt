@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_LEGEND01_HOME1: El reino de Askr es un lugar extraño.\nNo hay nada parecido a las llanuras\nde mi patria, ni a Caelin.$k$pAunque por algún motivo me\nresulta familiar.
+MID_LIN_LEGEND01_HOME2: La gente de las llanuras no\nmalgasta flechas cazando.\nMatan a su presa a la primera.$k$pAsí no sufre innecesariamente.
+MID_LIN_LEGEND01_HOME3: ¿Qué puedo hacer para aliviar\nparte de tu carga? ¡Seguro que\nuna sesión de entrenamiento ayuda!
+MID_LIN_LEGEND01_HOME4: En este arco habita un\nespíritu protector. Tócalo.\n¿Notas el viento de las llanuras?
+MID_LIN_LEGEND01_HOME5: ¡Aiyáá! Uy, si eres tú, ¡perdona!\nEspera, te ayudo a levantarte.$k$pEs que no puedes tocarme el hombro\nde repente mientras estoy meditando.
+MID_LIN_LEGEND01_FRIEND: Me encantaría que siguieras siendo\n$Gamigo,amiga| de $Nf.
+MID_LIN_LEGEND01_LEVEL1: ¡Increíble! ¡Seguro que esto es\ngracias a los espíritus!
+MID_LIN_LEGEND01_LEVEL2: Hay un viento a favor muy fuerte.\n¡Mis flechas darán en el blanco!
+MID_LIN_LEGEND01_LEVEL3: Ahora el viento sopla en contra,\npero la próxima vez ya verás...
+MID_LIN_LEGEND01_SKILL: Lucho bien porque estás a mi lado.
+MID_LIN_LEGEND01_JOIN: Me llamo Lyndis y estoy aquí\npara ayudarte.$k$pTodas las amenazas del mundo\nsaltarán por los aires.
+MID_LIN_LEGEND01_STRONGEST: Una vez, Eliwood, Héctor y yo\nluchamos ferozmente para evitar\nuna catástrofe mundial.$k$pEl archisabio Athos dijo que una\nestrella maligna se alzaría y\nbañaría la tierra en sangre otra vez.$k$pAguardaba con miedo ese día y\nme preguntaba cuándo ocurriría.$k$pAhora ya no tengo miedo.\nSi salvamos el mundo una vez,\npodemos hacerlo de nuevo.$k$pMe siento mucho más segura\ndespués del tiempo que\nhe pasado contigo.$k$pLa próxima vez que esté sola en\nlas llanuras o que se me encoja\nel corazón... Gracias a ti... yo...$k$pEstos momentos especiales contigo\nme darán fuerza para seguir adelante.\nGracias, $Nu.
+MID_LIN_LEGEND01_VOICE01: はぁっ！
+MID_LIN_LEGEND01_VOICE02: Wind...
+MID_LIN_LEGEND01_VOICE03: きゃああっ！
+MID_LIN_LEGEND01_VOICE04: I won't lose!
+MID_LIN_LEGEND01_VOICE05: Acabemos con esto.
+MID_LIN_LEGEND01_VOICE06: ¡No fallaré!
+MID_LIN_LEGEND01_VOICE07: Una flecha, un cadáver.
+MID_LIN_LEGEND01_VOICE08: Apunta bien y vencerás.
+MID_LIN_LEGEND01_VOICE09: I let you down...
+MID_LIN_LEGEND01_VOICE10: ふふふ
+MID_LIN_LEGEND01_VOICE11: You're calling me a Legendary Hero? I'm just Lyn. I'm nowhere near that grand.
+MID_LIN_LEGEND01_VOICE12: Look, I'm pretty sure I told you this before—cut it out already.
+MID_LIN_LEGEND01_VOICE13: *deep breathes in and out*
+MID_LIN_LEGEND01_VOICE14: Can you feel it? The same breeze that caresses our skin carries my arrows to their targets.
+MID_LIN_LEGEND01_VOICE15: Once loosed, an arrow will go where I aim it. I've trained long enough—I know.
+MID_LIN_LEGEND01_VOICE16: If I was able to save one world, then surely I can save this one too.
+MID_LIN_LEGEND01_VOICE17: Stick by me. I don't want to lose anyone I care about.
+MID_LIN_LEGEND01_VOICE18: Onward.
+MID_LIN_LEGEND01_VOICE19: What's the plan?
+MID_LIN_LEGEND01_VOICE20: Taking aim!

@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_WINTER01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_WINTER01_HOME1: Ho fatto provare quest'abito\nal principe Alfonse e gli sta molto\nmeglio che a me. Che fastidio!
+MID_CHROM_WINTER01_HOME2: In occasione della festa d'inverno,\naddobbiamo il castello di Ylisstol\ndi rosso e verde.$k$pPotremmo fare la stessa cosa qui,\nche ne dici?
+MID_CHROM_WINTER01_HOME3: Non hai freddo? Che eroe sarei\nse lasciassi congelare $Gil nostro,la nostra|\n$GEvocatore,Evocatrice|? Prendi il mio mantello.
+MID_CHROM_WINTER01_HOME4: Mi accompagni a fare un giro in città\ndopo la prossima missione? Voglio\nregalare qualcosa a tutti gli eroi.
+MID_CHROM_WINTER01_HOME5: Ho sbirciato dentro al sacco...\nÈ pieno di regali per tutto l'esercito.\nMeglio non perderlo.
+MID_CHROM_WINTER01_FRIEND: Felice stagione! Porto buone\nnuove e regali... Ma solo se hai\nfatto $Gil bravo,la brava|.
+MID_CHROM_WINTER01_LEVEL1: Finalmente un regalo\nanche per me.
+MID_CHROM_WINTER01_LEVEL2: Non è facile combattere\nportandosi appresso\nquesto sacco.
+MID_CHROM_WINTER01_LEVEL3: Per un momento ho perso\nlo spirito delle feste.
+MID_CHROM_WINTER01_SKILL: Questo è da parte tua?\nGrazie!
+MID_CHROM_WINTER01_JOIN: Felice stagione! Sono il principe\nChrom del Regno d'Ylisse. $GSei stato,Sei stata|\n$Gbuono o cattivo,buona o cattiva|? Rispondi!
+MID_CHROM_WINTER01_STRONGEST: In vena di chiacchiere? Apprezzo che\ntu abbia sfidato il freddo per venire\nda me, ma pensa anche alla salute.$k$pSe ti ammali, non potrai goderti\nle celebrazioni invernali.$k$pIn Ylisse, abbiamo una tradizione...\nIl giorno della festa d'inverno, ci si\nscambia regali con amici e parenti.$k$pNormalmente, sono io quello che dà\npiù degli altri, ma qui le cose sono\ndiverse.$k$pMi sembra che, da quando sono\narrivato qui in Askr, non ho fatto altro\nche ricevere doni da te.$k$pCapisci cosa voglio dire?$k$pI doni migliori non sono materiali.\nMi tieni compagnia e, all'occorrenza,\nsei al mio fianco per risollevarmi.$k$pMi rendi più forte.$k$pE ciò... mi rende più felice di quanto\ntu possa immaginare. Grazie.\nFarò di tutto per contraccambiare.
+MID_CHROM_WINTER01_VOICE01: はっ！
+MID_CHROM_WINTER01_VOICE02: ふんっ！
+MID_CHROM_WINTER01_VOICE03: んお！？
+MID_CHROM_WINTER01_VOICE04: Hey! Cut it out!
+MID_CHROM_WINTER01_VOICE05: Ecco a te!
+MID_CHROM_WINTER01_VOICE06: Guarda qua!
+MID_CHROM_WINTER01_VOICE07: Spirito delle feste!
+MID_CHROM_WINTER01_VOICE08: Non vedo l'ora!
+MID_CHROM_WINTER01_VOICE09: Going home...
+MID_CHROM_WINTER01_VOICE10: Heehee...
+MID_CHROM_WINTER01_VOICE11: Lissa made me wear this.
+MID_CHROM_WINTER01_VOICE12: I wonder what kind of present you would like?
+MID_CHROM_WINTER01_VOICE13: This is apparently a winter-celebration outfit from another world.
+MID_CHROM_WINTER01_VOICE14: Red is not my color.
+MID_CHROM_WINTER01_VOICE15: I suppose Falchion CAN be used to slice cake...
+MID_CHROM_WINTER01_VOICE16: Change outfits ONCE and I get summoned...?
+MID_CHROM_WINTER01_VOICE17: I suggest you hang a stocking somewhere tonight.
+MID_CHROM_WINTER01_VOICE18: OK.
+MID_CHROM_WINTER01_VOICE19: On it.
+MID_CHROM_WINTER01_VOICE20: Party?

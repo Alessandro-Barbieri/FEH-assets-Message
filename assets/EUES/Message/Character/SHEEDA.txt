@@ -1,0 +1,38 @@
+[Heroes Archive] (SHEEDA)
+
+
+Heroes Message Name: Message
+
+
+MID_SHEEDA_HOME1: Ah, buenos días... Por casualidad\nno te habrás cruzado con\nel príncipe Marth, ¿verdad?
+MID_SHEEDA_HOME2: Soy princesa, sí, pero mi reino es\nuna pequeña isla, así que podemos\nhablar de igual a igual.
+MID_SHEEDA_HOME3: Siempre estás tan pendiente de tus\nobligaciones... Si puedo servirte de\nayuda, házmelo saber, por favor.
+MID_SHEEDA_HOME4: Estoy convencida de que, si les\ndiésemos una oportunidad, nuestros\nrivales podrían convertirse en aliados.
+MID_SHEEDA_HOME5: El guiso ya está listo. Si te apetece\nprobarlo, no esperes a que\nse enfríe...
+MID_SHEEDA_FRIEND: Me envía $Nf\npara que te dé recuerdos.\nHabla maravillas de ti.
+MID_SHEEDA_LEVEL1: ¡Noto el poder en mi interior!
+MID_SHEEDA_LEVEL2: Gracias a esto podré ser\naún de más ayuda.
+MID_SHEEDA_LEVEL3: Lo lamento. Mi rendimiento\ndeja mucho que desear...
+MID_SHEEDA_SKILL: Usaré este poder para ayudar\na los demás.
+MID_SHEEDA_JOIN: Soy la princesa Shiida, de Talys.\nTambién soy caballero pegaso,\naunque sé que no lo aparento.
+MID_SHEEDA_STRONGEST: Yo siempre he buscado refugio\nen otros para paliar mis debilidades.\nDe ahí que tus poderes me asombren.$k$pPero hasta hace poco, además de\nimpresionarme, también me daban\ncierta envidia...$k$pHasta que entendí que extraes fuerza\nde tus aliados. Y que yo también\npuedo combatir así mis carencias.$k$pEstoy convencida de que seguir\na tu lado me permitiría descubrir\naún más secretos como ese...$k$p¿Te parecería bien? ¿De verdad?\n¡Gracias! Créeme, no pienso\nperderte de vista ni un instante...
+MID_SHEEDA_VOICE01: はいっ！
+MID_SHEEDA_VOICE02: えいっ！
+MID_SHEEDA_VOICE03: きゃああっ！
+MID_SHEEDA_VOICE04: I won't...lose...
+MID_SHEEDA_VOICE05: ¡Entrega las armas!
+MID_SHEEDA_VOICE06: ¡Fuera de mi camino!
+MID_SHEEDA_VOICE07: ¡Cumpliré con mi deber!
+MID_SHEEDA_VOICE08: ¡No deseo herirte!
+MID_SHEEDA_VOICE09: Too weak...
+MID_SHEEDA_VOICE10: Heehee
+MID_SHEEDA_VOICE11: What's the matter? Can I help?
+MID_SHEEDA_VOICE12: Ahh! Don't startle me like that!
+MID_SHEEDA_VOICE13: You seem to be a very kindhearted person.
+MID_SHEEDA_VOICE14: Tell me—do you believe in love?
+MID_SHEEDA_VOICE15: I'm so glad we have a chance to talk! It's always a pleasure.
+MID_SHEEDA_VOICE16: Would you consider me a "tomboy"?
+MID_SHEEDA_VOICE17: Let us fight side by side forever.
+MID_SHEEDA_VOICE18: Certainly.
+MID_SHEEDA_VOICE19: What next?
+MID_SHEEDA_VOICE20: Let's go.

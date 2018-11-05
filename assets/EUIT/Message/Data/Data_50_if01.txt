@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: Dono del vento
+MID_MISSION_S201804BLESS01_A1: Vinci con Dono del vento
+MID_MISSION_H_S201804BLESS01_A1: Sconfiggi un nemico usando un eroe a cui\nhai conferito il Dono del vento (non un\neroe leggendario di tipo vento).
+MID_MISSION_S201804BLESS01_A2: Vinci con Dono del vento
+MID_MISSION_H_S201804BLESS01_A2: Sconfiggi nemici di livello 20 o superiore\nusando un eroe a cui hai conferito il Dono del\nvento (non un eroe leggendario di tipo vento).
+MID_MISSION_S201804BLESS01_A3: Vinci con Dono del vento
+MID_MISSION_H_S201804BLESS01_A3: Sconfiggi nemici di tipo rosso di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono del vento (non un eroe leggendario\ndi tipo vento).
+MID_MISSION_S201804BLESS01_A4: Vinci con Dono del vento
+MID_MISSION_H_S201804BLESS01_A4: Sconfiggi nemici di tipo blu di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono del vento (non un eroe leggendario\ndi tipo vento).
+MID_MISSION_S201804BLESS01_A5: Vinci con Dono del vento
+MID_MISSION_H_S201804BLESS01_A5: Sconfiggi nemici di tipo verde di livello 35 o\nsuperiore usando un eroe a cui hai conferito il\nDono del vento (non un eroe leggendario\ndi tipo vento).
+MID_MISSION_S201804BLESS01_A6: Torre: vinci al 1º piano
+MID_MISSION_H_S201804BLESS01_A6: Completa il primo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del vento (non un eroe\nleggendario di tipo vento).
+MID_MISSION_S201804BLESS01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201804BLESS01_A7: Completa il quinto piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del vento (non un eroe\nleggendario di tipo vento).
+MID_MISSION_S201804BLESS01_A8: Torre: vinci al 10º piano
+MID_MISSION_H_S201804BLESS01_A8: Completa il decimo piano della torre di\nallenamento usando un eroe a cui hai\nconferito il Dono del vento (non un eroe\nleggendario di tipo vento).
+MID_MISSION_S201804GW01_TITLE: Settimana d'oro
+MID_MISSION_S201804GW01_A1: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A1: Sconfiggi nemici di tipo verde di livello 10\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A2: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A2: Sconfiggi nemici di tipo rosso di livello 10\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A3: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A3: Sconfiggi nemici di tipo blu di livello 10\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A4: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A4: Sconfiggi nemici con ascia di livello 10\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A5: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A5: Sconfiggi nemici con spada di livello 10\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A6: Batti nem. Liv 10+
+MID_MISSION_H_S201804GW01_A6: Sconfiggi nemici con lancia di livello 10\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A7: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A7: Sconfiggi nemici di tipo verde di livello 20\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A8: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A8: Sconfiggi nemici di tipo rosso di livello 20\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A9: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A9: Sconfiggi nemici di tipo blu di livello 20\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A10: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A10: Sconfiggi nemici con magia verde di livello 20\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A11: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A11: Sconfiggi nemici con magia rossa di livello 20\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A12: Batti nem. Liv 20+
+MID_MISSION_H_S201804GW01_A12: Sconfiggi nemici con magia blu di livello 20\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A13: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A13: Sconfiggi nemici di tipo verde di livello 35\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A14: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A14: Sconfiggi nemici di tipo rosso di livello 35\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A15: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A15: Sconfiggi nemici di tipo blu di livello 35\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A16: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A16: Sconfiggi nemici di tipo neutro di livello 35\no superiore con unità di tipo neutro.
+MID_MISSION_S201804GW01_A17: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A17: Sconfiggi nemici con bastone di livello 35\no superiore con unità di tipo rosso.
+MID_MISSION_S201804GW01_A18: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A18: Sconfiggi nemici con arco di livello 35\no superiore con unità di tipo blu.
+MID_MISSION_S201804GW01_A19: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A19: Sconfiggi nemici con pugnale di livello 35\no superiore con unità di tipo verde.
+MID_MISSION_S201804GW01_A20: Batti nem. Liv 35+
+MID_MISSION_H_S201804GW01_A20: Sconfiggi nemici con spada di livello 35\no superiore con unità di tipo neutro.
+MID_MISSION_S201804KIZUNA02_TITLE: Battaglia legame
+MID_MISSION_S201804KIZUNA02_A1: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA02_A1: Con Fjorm nella tua squadra, vinci la\nBattaglia legame contro Takumi e Hinoka.
+MID_MISSION_S201804KIZUNA02_A2: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA02_A2: Con Anna nella tua squadra, vinci la\nBattaglia legame contro Takumi e Hinoka\nal livello di difficoltà folle o superiore.
+MID_MISSION_S201804KIZUNA02_A3: Batti Takumi
+MID_MISSION_H_S201804KIZUNA02_A3: Batti Takumi, l'imprevedibile, di livello 40\no superiore con Fjorm.
+MID_MISSION_S201804KIZUNA02_A4: Batti Hinoka
+MID_MISSION_H_S201804KIZUNA02_A4: Batti Hinoka, la dama di ferro, di livello 40\no superiore con Anna.
+MID_MISSION_S201804KIZUNA02_A5: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA02_A5: Vinci la Battaglia legame contro Takumi e\nHinoka al livello folle o superiore con una\nsquadra di sole unità di fanteria.
+MID_MISSION_S201804SENKA02_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201804SENKA02_DAILY_A1: Completa prove
+MID_MISSION_H_S201804SENKA02_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA02_DAILY_A2: Completa prove
+MID_MISSION_H_S201804SENKA02_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA02_DAILY_A3: Completa prove
+MID_MISSION_H_S201804SENKA02_DAILY_A3: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804SENKA02_DAILY_A4: Completa prove
+MID_MISSION_H_S201804SENKA02_DAILY_A4: Completa mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201804STORY02_TITLE: Il rito del Gelo
+MID_MISSION_S201804STORY02_A1: Completa 8-1 folle
+MID_MISSION_H_S201804STORY02_A1: Completa il libro II, cap. 8-1 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY02_A2: Completa 8-2 folle
+MID_MISSION_H_S201804STORY02_A2: Completa il libro II, cap. 8-2 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY02_A3: Completa 8-3 folle
+MID_MISSION_H_S201804STORY02_A3: Completa il libro II, cap. 8-3 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY02_A4: Completa 8-4 folle
+MID_MISSION_H_S201804STORY02_A4: Completa il libro II, cap. 8-4 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804STORY02_A5: Completa 8-5 folle
+MID_MISSION_H_S201804STORY02_A5: Completa il libro II, cap. 8-5 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201804TAPBTL01_D01_A1: Batti Hector
+MID_MISSION_H_S201804TAPBTL01_D01_A1: Sconfiggi il boss Hector al livello di\ndifficoltà normale in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201804TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201804TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201804TAPBTL01_D02_A1: Batti Hector
+MID_MISSION_H_S201804TAPBTL01_D02_A1: Sconfiggi il boss Hector al livello di\ndifficoltà difficile in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201804TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201804TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201804TAPBTL01_D03_A1: Batti Ike
+MID_MISSION_H_S201804TAPBTL01_D03_A1: Sconfiggi il boss Ike al livello di\ndifficoltà normale in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201804TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201804TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201804TAPBTL01_D04_A1: Batti Ike
+MID_MISSION_H_S201804TAPBTL01_D04_A1: Sconfiggi il boss Ike al livello di\ndifficoltà difficile in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201804TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201804TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201804TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201804TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201804TAPBTL02_A1: Supera fasi boss
+MID_MISSION_H_S201804TAPBTL02_A1: Completa fasi boss in Battaglia tattile.
+MID_MISSION_S201804TAPBTL02_A2: Supera fasi boss
+MID_MISSION_H_S201804TAPBTL02_A2: Completa fasi boss in Battaglia tattile.
+MID_MISSION_S201804TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201804TAPBTL02_A3: Completa fasi in Battaglia tattile.
+MPID_ヒノカ2: Hinoka
+MPID_カンナ女: Kana
+MPID_カンナ男: Kana
+MPID_シグレ: Shigure
+MPID_スズカゼ: Kaze
+MPID_HONOR_ヒノカ2: La dama dei cieli
+MPID_HONOR_カンナ女: L'eredit. del drago
+MPID_HONOR_カンナ男: L'erede del drago
+MPID_HONOR_シグレ: L'artista aligero
+MPID_HONOR_スズカゼ: Il ninja rilassato
+MPID_H_ヒノカ2: Principessa dell'Hoshido. Si libra in alto nei\ncieli sulla schiena di un kinshi leggendario.\nCompare in Fire Emblem Fates.
+MPID_H_カンナ女: Figlia di Corrin. Ha avuto una vita solitaria,\nma è sempre felice. Compare in\nFire Emblem Fates.
+MPID_H_カンナ男: Figlio di Corrin. Ha avuto una vita solitaria,\nma è sempre felice. Compare in\nFire Emblem Fates.
+MPID_H_シグレ: Figlio di Azura. Artista sensibile e gentile,\nla sua voce è bella come quella della madre.\nCompare in Fire Emblem Fates.
+MPID_H_スズカゼ: Un ninja dell'Hoshido, serioso e composto.\nHa un fratello gemello, Saizo, ed è molto\namato dalle donne. Compare in Fire Emblem\nFates.
+MPID_VOICE_ヒノカ2: Cindy Robinson
+MPID_VOICE_カンナ女: Claudia Lenz
+MPID_VOICE_カンナ男: Sandy Fox
+MPID_VOICE_シグレ: Matt Mercer
+MPID_VOICE_スズカゼ: Xander Mobus
+MPID_ILLUST_ヒノカ2: Chiko (チーコ)
+MPID_ILLUST_カンナ女: Miwabe Sakura (みわべさくら)
+MPID_ILLUST_カンナ男: kawasumi (かわすみ)
+MPID_ILLUST_シグレ: Yura (由良)
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: Lancia armonia
+MSID_倭鉾＋: Lancia armonia+
+MSID_戦姫の和弓: Yumi principesco
+MSID_暗殺手裏剣: Shaken
+MSID_暗殺手裏剣＋: Shaken+
+MSID_水のブレス: Soffio d'acqua
+MSID_水のブレス＋: Soffio d'acqua+
+MSID_飛燕の構え2: Posa saetta 2
+MSID_飛燕の構え3: Posa saetta 3
+MSID_竜刃の紋章: Attacco draghi
+MSID_飛行の先導1: Guida volanti 1
+MSID_飛行の先導2: Guida volanti 2
+MSID_飛行の先導3: Guida volanti 3
+MSID_H_倭鉾: Aumenta il danno inflitto di +10\nall'attivazione dell'abilità speciale.
+MSID_H_倭鉾＋: Aumenta il danno inflitto di +10\nall'attivazione dell'abilità speciale.
+MSID_H_戦姫の和弓: Efficace contro le unità corazzate e volanti.\nConferisce Vel +3. Conferisce Att +3 agli\nalleati entro 2 spazi durante lo scontro.
+MSID_H_暗殺手裏剣: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità ha attaccato,\nDif/Res -5 al bersaglio e ai nemici entro\n2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_暗殺手裏剣＋: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità ha attaccato,\nDif/Res -7 al bersaglio e ai nemici entro\n2 spazi dal bersaglio dopo lo scontro\ndurante le loro prossime azioni.
+MSID_H_水のブレス: Se il nemico attacca per primo, Dif/Res +4\ndurante lo scontro. Contro nemici con 2 di\nRgg, il danno è calcolato usando Dif o Res\ndel nemico (il valore più basso).
+MSID_H_水のブレス＋: Se il nemico attacca per primo, Dif/Res +4\ndurante lo scontro. Contro nemici con 2 di\nRgg, il danno è calcolato usando Dif o Res\ndel nemico (il valore più basso).
+MSID_H_飛燕の構え2: Se il nemico attacca per primo,\nVel +4 durante lo scontro.
+MSID_H_飛燕の構え3: Se il nemico attacca per primo,\nVel +6 durante lo scontro.
+MSID_H_竜刃の紋章: Att/Vel +4 agli alleati draghi entro 2 spazi\ndurante lo scontro.
+MSID_H_飛行の先導1: Se l'unità ha tutti i PS, gli alleati volanti\nentro 2 spazi si possono muovere in uno\nspazio adiacente all'unità.
+MSID_H_飛行の先導2: Se l'unità ha almeno 50% PS, gli alleati\nvolanti entro 2 spazi si possono muovere\nin uno spazio adiacente all'unità.
+MSID_H_飛行の先導3: Gli alleati volanti entro 2 spazi si possono\nmuovere in uno spazio adiacente all'unità.
+MID_CHAPTER_TITLE_C0208: Libro II, cap. 8
+MID_CHAPTER_C0208: Il rito del Gelo
+MID_STAGE_TITLE_S2081: Capitolo 8-1
+MID_STAGE_TITLE_S2082: Capitolo 8-2
+MID_STAGE_TITLE_S2083: Capitolo 8-3
+MID_STAGE_TITLE_S2084: Capitolo 8-4
+MID_STAGE_TITLE_S2085: Capitolo 8-5
+MID_STAGE_S2081: Una preghiera a Nifl
+MID_STAGE_S2082: Domare la fiamma selvaggia
+MID_STAGE_S2083: Eterno e inestinguibile
+MID_STAGE_S2084: Il ricettacolo del potere
+MID_STAGE_S2085: Il rito del Gelo
+MID_CHAPTER_ST_C0204: Capitoli 7 e 8
+MID_STAGE_TITLE_ST_S0207: Capitolo 7
+MID_STAGE_TITLE_ST_S0208: Capitolo 8
+MID_STAGE_TITLE_ST_S1208: Capitoli 7 e 8
+MID_STAGE_HONOR_T0030: L'erede del drago
+MID_STAGE_T0030: Kana
+MID_TAP_BATTLE_DATA_TITLE_0003: Nemici formidabili
+MID_MUSIC_NAME_BGM_MAP_FE07_02: Brezze soffiano in pianura
+MID_MUSIC_NAME_BGM_MAP_FE14_02: Tramonto (fuoco)
+MID_MUSIC_NAME_BGM_MAP_FES_01: Festa dei fan

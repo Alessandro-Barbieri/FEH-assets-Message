@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_POPULARITY01_HOME1: Father... Mother...\nI'll do all I can to bring this\nfighting to an end.
+MID_LUCINA_POPULARITY01_HOME2: My father means everything to me.\nIf anyone tries to harm him, then\nI would have no choice but to...
+MID_LUCINA_POPULARITY01_HOME3: You deserve some rest. Is there\na task you'd like me to take care\nof for you? Any errands to run?
+MID_LUCINA_POPULARITY01_HOME4: This lance Geirskögul comes from\nanother world. It's not something...\nI would normally have access to.
+MID_LUCINA_POPULARITY01_HOME5: I'm sorry, but...I accidentally\ndestroyed another training\ndummy. Lances are still new to me.
+MID_LUCINA_POPULARITY01_FRIEND: Your friend asked me to deliver a\ngreeting. You must cherish your bond\nwith $Nf.
+MID_LUCINA_POPULARITY01_LEVEL1: To protect my father!
+MID_LUCINA_POPULARITY01_LEVEL2: I think I'm starting to get the hang\nof Ylissean lance techniques.
+MID_LUCINA_POPULARITY01_LEVEL3: Perhaps the trick is to tighten\nmy grip on the lance...
+MID_LUCINA_POPULARITY01_SKILL: Thank you so much.\nI will not waste this power.
+MID_LUCINA_POPULARITY01_JOIN: I am Lucina of Ylisse. With Geirskögul\nin hand, I pledge my strength to you!
+MID_LUCINA_POPULARITY01_STRONGEST: I learned all my sword techniques\nfrom my father. He started training\nme when I was still very young.$k$pThough at that age, our "training"\nmay have been more like playing.\nThose are precious memories...$k$pBut despite all our time together,\nhe never got the chance to teach\nme how to use a lance.$k$pThis world has an odd effect on me...\nIt has renewed my sense of hope.$k$pIt offers the chance to reunite with\nthe people I've lost. Those most\nimportant to me...$k$pI'm no stranger to traveling between\nworlds, so you can rest assured\nI will not waste this opportunity.
+MID_LUCINA_POPULARITY01_VOICE01: せいっ！
+MID_LUCINA_POPULARITY01_VOICE02: いきます！
+MID_LUCINA_POPULARITY01_VOICE03: きゃああっ！
+MID_LUCINA_POPULARITY01_VOICE04: こんなことって…
+MID_LUCINA_POPULARITY01_VOICE05: For my father!
+MID_LUCINA_POPULARITY01_VOICE06: My path is clear!
+MID_LUCINA_POPULARITY01_VOICE07: With this lance!
+MID_LUCINA_POPULARITY01_VOICE08: Guide my hand!
+MID_LUCINA_POPULARITY01_VOICE09: Father...I'm sorry...
+MID_LUCINA_POPULARITY01_VOICE10: Heehee
+MID_LUCINA_POPULARITY01_VOICE11: Maybe it's a bit silly, but...I feel a little closer to my father now.
+MID_LUCINA_POPULARITY01_VOICE12: My father taught me the sword. I hope he'll teach me all about the lance as well.
+MID_LUCINA_POPULARITY01_VOICE13: Was there some kind of...contest in your world?
+MID_LUCINA_POPULARITY01_VOICE14: I dreamt that heroes from another world brought hope to a dark future.
+MID_LUCINA_POPULARITY01_VOICE15: This weapon was entrusted to me by people from another world. I'm certain of it.
+MID_LUCINA_POPULARITY01_VOICE16: Father... I hope I can fight by your side in this world, too.
+MID_LUCINA_POPULARITY01_VOICE17: Our bond... gives me strength!
+MID_LUCINA_POPULARITY01_VOICE18: Understood.
+MID_LUCINA_POPULARITY01_VOICE19: What's next?
+MID_LUCINA_POPULARITY01_VOICE20: Your orders?

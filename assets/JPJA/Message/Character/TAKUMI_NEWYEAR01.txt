@@ -1,0 +1,39 @@
+[Heroes Archive] (TAKUMI_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_TAKUMI_NEWYEAR01_HOME1: 着物の英雄はあまりいないし、\n鏡餅を持ってるのなんて僕だけだし、\nなんだか場違いな気がしてきた…
+MID_TAKUMI_NEWYEAR01_HOME2: シラサギ城で新年を祝っていたのに、\n急に呼び出すなんて困るよ。\nおかげで【風神弓】も置いてきてしまった。
+MID_TAKUMI_NEWYEAR01_HOME3: 年明けの季節は冷えるね…\nあんたは大丈夫か？\nお雑煮ぐらい持ってくればよかったかな。
+MID_TAKUMI_NEWYEAR01_HOME4: はあ？　おみくじってやつがしたい？\n仕方ないなあ…じゃあ白夜王国の英雄が\nこの広間に三人以上いたら大吉だよ。
+MID_TAKUMI_NEWYEAR01_HOME5: 新しい年だからね…今日ぐらいは素直に\n振る舞ってみてもいいかもしれない。\nあんたの戦術…僕は認めてるからね。
+MID_TAKUMI_NEWYEAR01_FRIEND: あけましておめでとう。\n$Nfから、\n新年のあいさつを言付かってるよ。
+MID_TAKUMI_NEWYEAR01_LEVEL1: 初日の出を見た時と同じ\n素晴らしい気分だ。
+MID_TAKUMI_NEWYEAR01_LEVEL2: 去年の僕よりも\n強くなってみせるさ。
+MID_TAKUMI_NEWYEAR01_LEVEL3: 来年はこんな風に\nならないようにしないと…
+MID_TAKUMI_NEWYEAR01_SKILL: 新年だから、新しい力をくれたのか？\n…ありがとう。
+MID_TAKUMI_NEWYEAR01_JOIN: あけましておめでとう。\n僕はタクミ…白夜王国の王子だよ。\nお年玉でもくれるつもりなのか？
+MID_TAKUMI_NEWYEAR01_STRONGEST: 年が明けてからずっとここにいるけど、\nあんたたちは新年を祝わないのか？\n白夜王国では色んな風習があるんだよ。$k$p例えば光竜の姿を象った飾り物を\n日の出の方向に置いて魔を祓う…とかね。\n他にも特別な料理を作ったり…$k$p…何だよ、その目は。もっと聞きたいって？\n言っておくけど白夜の風習は奥が深いんだ。\nそんなにすぐには語りつくせないよ。$k$pまあ、それでもいいなら教えるけどさ。\n幸か不幸か、僕はいつになったら\n白夜王国に戻れるかわからないし…$k$pここにいる間は、話し相手になってあげる。\nあんたのこと、僕は別に嫌いじゃないし。\n今年も…いや、これからもよろしく頼むよ。
+MID_TAKUMI_NEWYEAR01_VOICE01: やあっ！
+MID_TAKUMI_NEWYEAR01_VOICE02: えいっ！
+MID_TAKUMI_NEWYEAR01_VOICE03: ええっ！？
+MID_TAKUMI_NEWYEAR01_VOICE04: やめろって！
+MID_TAKUMI_NEWYEAR01_VOICE05: あけましておめでとう！
+MID_TAKUMI_NEWYEAR01_VOICE06: お年玉だよ！
+MID_TAKUMI_NEWYEAR01_VOICE07: 僕が祝う！
+MID_TAKUMI_NEWYEAR01_VOICE08: 謹賀新年！
+MID_TAKUMI_NEWYEAR01_VOICE09: 帰って…寝ようかな…
+MID_TAKUMI_NEWYEAR01_VOICE10: ふふっ
+MID_TAKUMI_NEWYEAR01_VOICE11: なんだよ、じろじろ見て…ただの袴だよ
+MID_TAKUMI_NEWYEAR01_VOICE12: 僕は夢見が悪いから、初夢は嫌な予感がするなあ
+MID_TAKUMI_NEWYEAR01_VOICE13: 白夜の男性はこういう着物で新年を祝うんだ
+MID_TAKUMI_NEWYEAR01_VOICE14: お年玉が欲しい？　なんで白夜の風習を知ってるんだよ
+MID_TAKUMI_NEWYEAR01_VOICE15: あんたは今年、どんな一年にしたい？
+MID_TAKUMI_NEWYEAR01_VOICE16: この服で戦いに駆り出されるとは思わなかったよ
+MID_TAKUMI_NEWYEAR01_VOICE17: そんなに僕が必要なら仕方ないね。\nこのまま次の年を越すまで、一緒にいてあげてもいいけど？
+MID_TAKUMI_NEWYEAR01_VOICE18: ああ
+MID_TAKUMI_NEWYEAR01_VOICE19: おめでとう
+MID_TAKUMI_NEWYEAR01_VOICE20: よーし
+MID_TAKUMI_NEWYEAR01_VOICE21: もう…新年早々、何の用事だよ

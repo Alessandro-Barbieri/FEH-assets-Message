@@ -1,0 +1,8 @@
+[Heroes Archive] (T0020)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヒノカ,ch05_26_Hinoka_F_Normal,Face|$w0|Bist du bereit, Takumi? Wir werden\ngenau wie geplant kämpfen. Sie\nwerden die Macht von Geschwistern$k$perleben, die gemeinsam üben!$k$p$WmMPID_タクミ,ch05_09_Takumi_M_Normal,Face|$w0|Ich habe dich beim ersten Mal\ngehört, Hinoka. Ich werde nichts\nLeichtsinniges tun.$k$pWir werden wie eine Einheit\nkämpfen.$k$p$Sbs1000|

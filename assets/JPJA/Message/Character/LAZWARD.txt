@@ -1,0 +1,38 @@
+[Heroes Archive] (LAZWARD)
+
+
+Heroes Message Name: Message
+
+
+MID_LAZWARD_HOME1: 特務機関って、なんかかっこいいね。\n所属すれば僕もモテるかも！？\n白い服が似合うかは自信ないけど。
+MID_LAZWARD_HOME2: 僕はマークス様の臣下をしてるんだよ。\nいつも怒られてばっかりだけど…\n絶対守るって決めてるんだ、何があっても。
+MID_LAZWARD_HOME3: 見回りしてくれてるの？　ありがとう！\n終わったら僕とお茶でもしようよ。\n疲れはすぐに取っておかないとね！
+MID_LAZWARD_HOME4: 時間があったら一緒に出かけない？\nせっかくだしこの世界を見て回りたいんだ。\nいつ離れる日が来ても、思い出せるように。
+MID_LAZWARD_HOME5: わわっ、$Nu！？\n今、踊りの練習をしてたんだ。\n完成したら、君にいちばんに見せるからね。
+MID_LAZWARD_FRIEND: 声をかけてくれてありがとう！\n$Nfが君にね、\nよろしく伝えて欲しいって言ってたよ。
+MID_LAZWARD_LEVEL1: こんなになっちゃって…\nは、恥ずかしいよー！
+MID_LAZWARD_LEVEL2: 可愛い女の子が\n見てくれてますように！
+MID_LAZWARD_LEVEL3: ご、ごめん…\nそんな目で見ないでよー！
+MID_LAZWARD_SKILL: 僕を強くしてくれたんだね。\nうれしいよ、ありがとう。
+MID_LAZWARD_JOIN: 僕はラズワルド。暗夜王国の傭兵だよ。\n急に呼ばれて恥ずかしいけど…\nこの出会いを祝して、お茶でも行かない？
+MID_LAZWARD_STRONGEST: あっ、$Nu！\nちょうど今、君のこと考えてたんだよ。\nこうして会えるなんて運命かもね！$k$p…今日は君にね、話があるんだ。\n内緒だけど僕、新しい世界に来るのは\nこれが初めてじゃないんだよ。$k$p僕は元の世界から旅立ったあと、\n姿も名前も変えて暗夜王国に来た。\n本当の名前は…アズールっていうんだ。$k$p急に変なこと言っちゃってごめん。\n君とはすごく仲良くなれたから、\n隠し事はしたくないなって思って。$k$p僕、君がずっと笑っていられるように\n頑張って戦うから…見ててよね。\nそれじゃ今から、二人でお茶でも行こう！\n
+MID_LAZWARD_VOICE01: はっ！
+MID_LAZWARD_VOICE02: でぇい！
+MID_LAZWARD_VOICE03: うあっ！
+MID_LAZWARD_VOICE04: 痛いなあ…
+MID_LAZWARD_VOICE05: ひれ伏しなよ
+MID_LAZWARD_VOICE06: 踊らせてあげる
+MID_LAZWARD_VOICE07: また会おうね
+MID_LAZWARD_VOICE08: 笑わせないでよ
+MID_LAZWARD_VOICE09: 帰れなく…なっちゃった…
+MID_LAZWARD_VOICE10: ふふっ
+MID_LAZWARD_VOICE11: 僕、踊りが得意なんだよ
+MID_LAZWARD_VOICE12: じーっと見られたら…は、恥ずかしいよ…
+MID_LAZWARD_VOICE13: どんなに辛くても、笑顔で乗り越えてきたんだ
+MID_LAZWARD_VOICE14: 笑ってたらいい事あるよ。ほらほら、君も…えへへ
+MID_LAZWARD_VOICE15: 特務機関って、可愛い女の子が多いんだね
+MID_LAZWARD_VOICE16: マークス様、どこだろう…サボってたら怒られちゃうよ
+MID_LAZWARD_VOICE17: ありがとう、君といるといつも楽しいよ。\nこれからもこうして…傍に置いてくれる？
+MID_LAZWARD_VOICE18: うん
+MID_LAZWARD_VOICE19: 行こっか
+MID_LAZWARD_VOICE20: 頑張るよ

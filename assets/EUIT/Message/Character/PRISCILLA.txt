@@ -1,0 +1,38 @@
+[Heroes Archive] (PRISCILLA)
+
+
+Heroes Message Name: Message
+
+
+MID_PRISCILLA_HOME1: Ho sentito dire che mio fratello\nRaymond si fa chiamare Raven,\ndi questi tempi.$k$pE quel che è peggio, fa il mercenario!\nCosa lo avrà mai fatto cambiare così\ntanto?
+MID_PRISCILLA_HOME2: Sono la figlia del conte Caerleon,\nma devi sapere che le mie origini\nsono piuttosto complesse.
+MID_PRISCILLA_HOME3: Oh, Raymond... Raymond...\nChe cosa ti è accaduto, fratello mio?
+MID_PRISCILLA_HOME4: Non sono abile a combattere.\nLo trovo violento e spaventoso,\nperciò preferirei restare al castello.
+MID_PRISCILLA_HOME5: Ti va di prendere un tè insieme?\nQualcuno di gentile mi ha procurato\nanche dei dolcetti per accompagnarlo.
+MID_PRISCILLA_FRIEND: Il mio nome è Priscilla. Vengo\na porgerti i saluti da parte di\n$Nf.
+MID_PRISCILLA_LEVEL1: È un risultato tanto straordinario?\nAmmetto di non averne idea!
+MID_PRISCILLA_LEVEL2: È un risultato accettabile?\nLo spero davvero.
+MID_PRISCILLA_LEVEL3: Temo che non basti affatto.
+MID_PRISCILLA_SKILL: Bizzarro che tu mi renda\npiù forte!
+MID_PRISCILLA_JOIN: Mi chiamo Priscilla. Mi permetteresti\ndi restare al tuo fianco per un po'?
+MID_PRISCILLA_STRONGEST: Posso chiederti una cosa? Non\nvoglio importunarti ma... ti sembro\nforse più forte?$k$pDa quando sono giunta in questo\nposto non mi riconosco quasi più.$k$pPrima non sapevo nulla del mondo...\no meglio, dei mondi. E di battaglie\ne scontri anche meno.$k$pSono cambiata davvero tanto ed\nè certamente merito tuo. Non credi\nanche tu?$k$pCerto, anch'io ho fatto la mia parte.\nFormiamo proprio una bella squadra,\nspero che continueremo così.
+MID_PRISCILLA_VOICE01: はいっ
+MID_PRISCILLA_VOICE02: それっ
+MID_PRISCILLA_VOICE03: きゃああっ！
+MID_PRISCILLA_VOICE04: ...It can't...
+MID_PRISCILLA_VOICE05: Eccomi!
+MID_PRISCILLA_VOICE06: Non costringetemi!
+MID_PRISCILLA_VOICE07: Non lo accetto!
+MID_PRISCILLA_VOICE08: Allevierò il tuo dolore.
+MID_PRISCILLA_VOICE09: Brother...!
+MID_PRISCILLA_VOICE10: Heehee...
+MID_PRISCILLA_VOICE11: Curare è la mia vocazione.
+MID_PRISCILLA_VOICE12: Allevierò il tuo dolore.
+MID_PRISCILLA_VOICE13: If you find yourself injured? Please find me. I'll heal you immediately.
+MID_PRISCILLA_VOICE14: What an exceptional individual you are.
+MID_PRISCILLA_VOICE15: Someone once made me a very important promise.
+MID_PRISCILLA_VOICE16: I'd like to say I'm above jealousy. But there have been occasions.
+MID_PRISCILLA_VOICE17: I will stay by your side for as long as you need me.
+MID_PRISCILLA_VOICE18: Yes?
+MID_PRISCILLA_VOICE19: As you will.
+MID_PRISCILLA_VOICE20: Onward.

@@ -1,0 +1,38 @@
+[Heroes Archive] (SHINONOME)
+
+
+Heroes Message Name: Message
+
+
+MID_SHINONOME_HOME1: Si j'avais des pouvoirs d'invocateur,\nj'appellerais les héros les plus\npuissants pour m'entraîner avec eux !
+MID_SHINONOME_HOME2: On ne dirait pas, comme ça, mais je\nsuis un prince d'Hoshido. Je\npourrais devenir roi, un jour...$k$pJ'ai encore du mal à me faire à l'idée.\nSi on m'avait dit ça quand je vivais\ndans les terres oubliées...
+MID_SHINONOME_HOME3: Si vous travaillez trop, vous allez\nnégliger votre entraînement. Je\npeux vous aider pour la pêche.$k$pRien de tel qu'un poisson grillé\npour se requinquer !
+MID_SHINONOME_HOME4: Même si vous n'êtes pas $Gun,une|\n$Gguerrier,guerrière|, j'aimerais connaître votre\nforce. Un bras de fer, ça vous tente ?
+MID_SHINONOME_HOME5: Ah, $Nu !\nJ'étais en train de m'entraîner. Je me\ndébrouille bien avec une lance, non ?
+MID_SHINONOME_FRIEND: Pfiou... $Nf\nvoulait vous passer le bonjour, alors\nj'ai couru jusqu'ici.
+MID_SHINONOME_LEVEL1: Mon entraînement porte ses\nfruits !
+MID_SHINONOME_LEVEL2: Ha ! Je deviens plus fort\nchaque jour !
+MID_SHINONOME_LEVEL3: Je devrais peut-être m'entraîner\nun peu plus dur...
+MID_SHINONOME_SKILL: C'est votre manière de m'aider à\ndevenir plus fort ?
+MID_SHINONOME_JOIN: Je suis Shiro ! Vous avez entendu\nparler de mon père, Ryoma ? Je\nveux devenir encore plus fort que lui !
+MID_SHINONOME_STRONGEST: Dites, vous avez un moment ? Il\ny a quelque chose dont j'aimerais\nvous parler...$k$pVous êtes $Gle plus fort,la plus forte| des\nGardiens d'Askr, pas vrai ? Vous\ncréez toutes ces stratégies...$k$pEt vous invoquez des héros\nsurpuissants !$k$pGrâce à vous, j'ai compris que\npour être fort, il ne suffit pas\nd'agiter son arme.$k$pJ'admire votre force. Mais puisque\nvous ne pouvez pas combattre\ncomme nous, je vais vous aider.$k$pSi vous êtes en mauvaise posture,\nappelez-moi et je viendrai écraser\ntous vos ennemis !$k$pVous avez maîtrisé la puissance de\nvotre âme. Tant que je n'en aurai\npas fait de même...$k$pPermettez-moi de combattre à\nvos côtés.
+MID_SHINONOME_VOICE01: はっ！
+MID_SHINONOME_VOICE02: むんっ！
+MID_SHINONOME_VOICE03: うわっ！
+MID_SHINONOME_VOICE04: 強いな…！
+MID_SHINONOME_VOICE05: Vos dernières paroles ?
+MID_SHINONOME_VOICE06: Préparez-vous !
+MID_SHINONOME_VOICE07: Je n'abandonnerai pas !
+MID_SHINONOME_VOICE08: Vous ne l'emporterez pas !
+MID_SHINONOME_VOICE09: Father... I'm sorry...
+MID_SHINONOME_VOICE10: Haha
+MID_SHINONOME_VOICE11: You're saying I can get stronger by helping the Order of Heroes?
+MID_SHINONOME_VOICE12: If you're feeling a bit sluggish, let's head out for a run.
+MID_SHINONOME_VOICE13: Lances beat katana, so that means I should be able to best my father.
+MID_SHINONOME_VOICE14: If it's all right with you, let me help out with your work around here. I can turn anything into a training session!
+MID_SHINONOME_VOICE15: I want to test my skills. Do you know any Heroes who would be up for sparring?
+MID_SHINONOME_VOICE16: Someday I'll inherit Raijinto from my father...
+MID_SHINONOME_VOICE17: I always try to fight the strongest foes I can find, but I don't try to take them on alone anymore. I want to keep fighting by your side.
+MID_SHINONOME_VOICE18: Right!
+MID_SHINONOME_VOICE19: I'm Shiro!
+MID_SHINONOME_VOICE20: Let's battle!

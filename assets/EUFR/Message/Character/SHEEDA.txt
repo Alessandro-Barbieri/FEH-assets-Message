@@ -1,0 +1,38 @@
+[Heroes Archive] (SHEEDA)
+
+
+Heroes Message Name: Message
+
+
+MID_SHEEDA_HOME1: Bien le bonjour, $GInvocateur,Invocatrice|.\nAuriez-vous la bonté de me dire si\nvous avez aperçu le prince Marth ?
+MID_SHEEDA_HOME2: Je viens de Talys, un royaume très\nmodeste. Oubliez donc mon titre,\net soyons simplement $Gamis,amies|.
+MID_SHEEDA_HOME3: Si je peux vous être utile, je tiens\nà ce que vous me le fassiez savoir\nsans détour.
+MID_SHEEDA_HOME4: Je suis convaincue que si nous\ntendions la main à nos ennemis,\nils pourraient devenir nos alliés.
+MID_SHEEDA_HOME5: Je viens de cuisiner un délicieux\nragoût. Voulez-vous que je vous\nen serve une assiette ?
+MID_SHEEDA_FRIEND: $Nf vous\ntient en haute estime,\nsoyez-en $Gassuré,assurée|.
+MID_SHEEDA_LEVEL1: Je deviens plus forte !
+MID_SHEEDA_LEVEL2: Je vais pouvoir mieux aider mes\nalliés, à présent.
+MID_SHEEDA_LEVEL3: Navrée. Il semblerait que je ne sois\npas en forme, aujourd'hui...
+MID_SHEEDA_SKILL: Grâce à ce pouvoir, je vais pouvoir\nprotéger mes alliés.
+MID_SHEEDA_JOIN: Je suis la princesse Shiida de Talys.\nJe n'en ai pas l'apparence, mais je\nsuis également un chevalier pégase.
+MID_SHEEDA_STRONGEST: J'ai toujours eu le sentiment d'être\nfaible, d'avoir besoin d'être protégée\npar plus fort que moi...$k$pEt votre force m'a impressionnée.\nJ'ai voulu connaître votre secret,\net je pense l'avoir enfin trouvé.$k$pCe qui vous rend $Gfort,forte|, c'est votre\nconfiance absolue en vos alliés.\nMa « faiblesse » est votre atout.$k$pSi vous l'acceptez, j'aimerais que\nvous me montriez comment utiliser\ncette confiance à mon avantage.$k$pJe vous remercie, $GInvocateur,Invocatrice|.\nJ'ai hâte de commencer mon\napprentissage à vos côtés.
+MID_SHEEDA_VOICE01: はいっ！
+MID_SHEEDA_VOICE02: えいっ！
+MID_SHEEDA_VOICE03: きゃああっ！
+MID_SHEEDA_VOICE04: I won't...lose...
+MID_SHEEDA_VOICE05: Baissez les armes !
+MID_SHEEDA_VOICE06: Hors de mon chemin !
+MID_SHEEDA_VOICE07: Je peux le faire !
+MID_SHEEDA_VOICE08: Pardonnez-moi !
+MID_SHEEDA_VOICE09: Too weak...
+MID_SHEEDA_VOICE10: Heehee
+MID_SHEEDA_VOICE11: What's the matter? Can I help?
+MID_SHEEDA_VOICE12: Ahh! Don't startle me like that!
+MID_SHEEDA_VOICE13: You seem to be a very kindhearted person.
+MID_SHEEDA_VOICE14: Tell me—do you believe in love?
+MID_SHEEDA_VOICE15: I'm so glad we have a chance to talk! It's always a pleasure.
+MID_SHEEDA_VOICE16: Would you consider me a "tomboy"?
+MID_SHEEDA_VOICE17: Let us fight side by side forever.
+MID_SHEEDA_VOICE18: Certainly.
+MID_SHEEDA_VOICE19: What next?
+MID_SHEEDA_VOICE20: Let's go.

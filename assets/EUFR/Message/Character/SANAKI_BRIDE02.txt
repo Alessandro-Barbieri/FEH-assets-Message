@@ -1,0 +1,38 @@
+[Heroes Archive] (SANAKI_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_SANAKI_BRIDE02_HOME1: Non, je ne vais pas me marier. Je\nporte cette tenue pour un genre de\nfestival, c'est tout.
+MID_SANAKI_BRIDE02_HOME2: Il paraît que dans les mariages, il y a\ntoutes sortes de plats délicieux, mais\nla mariée n'a pas le temps d'y goûter.$k$pNe pas pouvoir profiter d'un festin qui\nest donné en votre honneur, vous ne\ntrouvez pas cela tragique ?
+MID_SANAKI_BRIDE02_HOME3: Que diraient mes gardes, Sigrun et\nTanith, s'ils me voyaient dans cette\ntenue ?
+MID_SANAKI_BRIDE02_HOME4: Je ne voudrais pas me prendre les\npieds dans ma robe, alors je vous\nautorise à m'escorter.$k$pEn me tenant à votre bras, je ne\ntomberai pas.
+MID_SANAKI_BRIDE02_HOME5: Il paraît qu'à la fin d'une cérémonie de\nmariage, le couple s'embrasse... Mais\nles baisers... c'est...
+MID_SANAKI_BRIDE02_FRIEND: Vous pouvez poser le genou à terre.\nVous êtes en présence de...$k$pAh, non ! $Nf\na un message pour vous. Je devrais\ncommencer par là.
+MID_SANAKI_BRIDE02_LEVEL1: Serait-ce grâce au pouvoir\nde l'amour ?
+MID_SANAKI_BRIDE02_LEVEL2: Même dans cette tenue,\nj'excelle.
+MID_SANAKI_BRIDE02_LEVEL3: Cette maudite robe m'empêche\nde progresser !
+MID_SANAKI_BRIDE02_SKILL: Ai-je grandi ? Me faut-il\nune nouvelle robe ?
+MID_SANAKI_BRIDE02_JOIN: Vous êtes en présence de Sanaki,\nimpératrice de Begnion ! Je suis\nl'ap... Hein ? Ma robe ?$k$pNe vous préoccupez pas de cela.\nEt cessez de m'interrompre !
+MID_SANAKI_BRIDE02_STRONGEST: Je suis la 37e impératrice de\nBegnion. Je suis née et j'ai été\nélevée pour remplir cette fonction.$k$pJe n'ai rien à voir avec le bas peuple.\nMon mariage devra donc être tout\naussi exceptionnel que moi.$k$pJe ne choisirai pas mon époux en\nfonction de mes seuls sentiments.$k$pPourtant, j'aimerais être avec\nquelqu'un que j'aime. En cela, je\nsuis... comme tout le monde.$k$pC'est en passant du temps avec vous\nque j'ai compris cela... Et un jour, je...$k$pHé ! N'allez pas répéter cela à qui ce\nsoit ! C'est un secret !$k$pC'est compris ?
+MID_SANAKI_BRIDE02_VOICE01: それっ！
+MID_SANAKI_BRIDE02_VOICE02: ゆくぞ！
+MID_SANAKI_BRIDE02_VOICE03: きゃああっ！
+MID_SANAKI_BRIDE02_VOICE04: …おのれ…！
+MID_SANAKI_BRIDE02_VOICE05: Tenez, de l'amour !
+MID_SANAKI_BRIDE02_VOICE06: Encore plus d'amour !
+MID_SANAKI_BRIDE02_VOICE07: Quelle impertinence !
+MID_SANAKI_BRIDE02_VOICE08: Prosternez-vous !
+MID_SANAKI_BRIDE02_VOICE09: Ooh... Too much!
+MID_SANAKI_BRIDE02_VOICE10: ふふふっ
+MID_SANAKI_BRIDE02_VOICE11: This outfit is just for the festival. Don't get any weird ideas.
+MID_SANAKI_BRIDE02_VOICE12: What do you think you're doing? Is that how you treat a bride?
+MID_SANAKI_BRIDE02_VOICE13: I'm not a kid! I know about love and...things. Really, I do.
+MID_SANAKI_BRIDE02_VOICE14: OK. I will hear your thoughts on my outfit!
+MID_SANAKI_BRIDE02_VOICE15: I look pretty? You have not earned the right to speak on such matters!
+MID_SANAKI_BRIDE02_VOICE16: Someday, I'll dress like this, but for real, and—\nYou heard nothing!
+MID_SANAKI_BRIDE02_VOICE17: Tell me—why do people make vows of love?
+MID_SANAKI_BRIDE02_VOICE18: I'll manage!
+MID_SANAKI_BRIDE02_VOICE19: Pledge your love!
+MID_SANAKI_BRIDE02_VOICE20: Happily ever after...

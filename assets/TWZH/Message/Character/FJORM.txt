@@ -1,0 +1,38 @@
+[Heroes Archive] (FJORM)
+
+
+Heroes Message Name: Message
+
+
+MID_FJORM_HOME1: 亞斯克王國擁有美麗的風景和溫和的人民。\n請務必讓我幫忙\n守護這個國家難能可貴的和平。
+MID_FJORM_HOME2: 尼福爾王國是一望無際的銀白世界……\n白雪會反射陽光，閃閃發亮。\n我非常喜歡那樣美麗的祖國。
+MID_FJORM_HOME3: 你擁有非常強大的力量，\n但卻不因此變得自大狂妄，\n反而對我們十分溫柔……我很尊敬你。
+MID_FJORM_HOME4: 在我們的國家，若是被人從雪堆中救出來，\n有著必當報相救之恩的風俗。\n因此，請務必讓我回報你的恩情。
+MID_FJORM_HOME5: 這是我的槍【冰槍雷依普特】。\n是誕生於尼福爾王國最高峰的傳說之槍。
+MID_FJORM_FRIEND: 我是尼福爾王國的公主菲約爾姆。\n我代表$Nf殿下來此。\n今後還請您多多指教。
+MID_FJORM_LEVEL1: 都是託了$Nu殿下的福。
+MID_FJORM_LEVEL2: 母后……\n我會加油的。
+MID_FJORM_LEVEL3: 真是非常抱歉。\n下次我一定會……
+MID_FJORM_SKILL: 謝謝你。\n這份恩情必當泉湧以報。
+MID_FJORM_JOIN: 我是尼弗爾王國的公主菲約爾姆。\n在討伐仇敵、奪回祖國之前，\n我絕不輕言放棄。
+MID_FJORM_STRONGEST: 我的故鄉尼福爾王國\n被一望無際的白雪覆蓋著……\n有時會有人被雪崩埋在下頭。$k$p我們有著這樣的習俗，\n從崩塌的白雪底下被救出來的人，\n會對拯救自己的人報恩。$k$p$Nu殿下，\n被你拯救的我原本是為了報相救之恩而戰。$k$p但是，現在的我仍然不斷受到你的幫助……$k$p本想報恩，\n但受到的恩惠卻像雪人一般越堆越高……$k$p所以，$Nu殿下……\n有沒有什麼是我可以做的呢？\n不論是什麼我都願意幫忙。$k$p為了能回報你的恩情，\n我會努力成為你的助力。
+MID_FJORM_VOICE01: 喝！
+MID_FJORM_VOICE02: 我要上了！
+MID_FJORM_VOICE03: 呀啊～！
+MID_FJORM_VOICE04: 這樣不行……！
+MID_FJORM_VOICE05: 冰槍雷依普特！
+MID_FJORM_VOICE06: 請止步！
+MID_FJORM_VOICE07: 請覺悟！
+MID_FJORM_VOICE08: 豁出性命！
+MID_FJORM_VOICE09: 對不起……給你添麻煩了……
+MID_FJORM_VOICE10: 呵呵！
+MID_FJORM_VOICE11: 我是冰之王國尼福爾的公主，名叫菲約爾姆。
+MID_FJORM_VOICE12: 呀！？原、原來是你啊……
+MID_FJORM_VOICE13: 請問，我的皮膚……你不覺得很冷嗎？
+MID_FJORM_VOICE14: 在復興祖國之前……我絕不能輕言放棄。
+MID_FJORM_VOICE15: 你是我的救命恩人……大恩大德，永生難忘。
+MID_FJORM_VOICE16: 母后……我會努力的……
+MID_FJORM_VOICE17: 我會為你盡心盡力，以報答這份恩情。
+MID_FJORM_VOICE18: 是。
+MID_FJORM_VOICE19: 請指示。
+MID_FJORM_VOICE20: 遵命。

@@ -1,0 +1,38 @@
+[Heroes Archive] (SIMA)
+
+
+Heroes Message Name: Message
+
+
+MID_SIMA_HOME1: Ce château est simple, solide, facile\nà défendre. J'espère qu'il est à\nl'image de votre royaume.
+MID_SIMA_HOME2: J'ai peu d'expérience à la tête de\nmon royaume, mais je ne trahirai\npas les attentes de mon peuple.
+MID_SIMA_HOME3: J'aimerais vous exprimer ma\nprofonde gratitude, $GInvocateur,Invocatrice|.\nComment puis-je vous aider ?
+MID_SIMA_HOME4: Les habitants de votre royaume\nm'ont chaleureusement accueillie.\nJe ferai tout pour les protéger.
+MID_SIMA_HOME5: Mon armure vous paraît lourde ?\nCe n'est pourtant rien comparé\nau poids de ma couronne...
+MID_SIMA_FRIEND: Je suis Sheena. J'ai été envoyée\npar $Nf\npour vous saluer.
+MID_SIMA_LEVEL1: En avant !
+MID_SIMA_LEVEL2: Je m'améliore un peu chaque jour.
+MID_SIMA_LEVEL3: Je n'ai pas le sentiment d'avoir\naccompli grand-chose.
+MID_SIMA_SKILL: Incroyable, je deviens encore plus\npuissante...
+MID_SIMA_JOIN: Je suis la princesse Sheena de Gra.\nJ'ai accepté le trône à contrecœur\naprès la mort de mon père, le roi Jiol.
+MID_SIMA_STRONGEST: On m'a dit que vous n'étiez pas\noriginaire de ce royaume.$k$pAlors pourquoi continuez-vous\nà le défendre sans relâche ?$k$pEst-ce par volonté de protéger\nles amis que vous vous êtes\nfaits ici ?$k$pJe vous comprends. Je n'arrive pas\nnon plus à fermer les yeux lorsque\nquelqu'un a besoin de mon aide...$k$pQuoi qu'il en soit, n'ayez crainte.\nJe resterai à vos côtés tant que\nvous aurez besoin de moi.
+MID_SIMA_VOICE01: むんっ！
+MID_SIMA_VOICE02: せいっ！
+MID_SIMA_VOICE03: うああっ！
+MID_SIMA_VOICE04: My armor...
+MID_SIMA_VOICE05: Je suis plus qu'une princesse.
+MID_SIMA_VOICE06: Vous allez mourir !
+MID_SIMA_VOICE07: Pour le peuple !
+MID_SIMA_VOICE08: Je n'abandonnerai pas !
+MID_SIMA_VOICE09: Forgive me.
+MID_SIMA_VOICE10: Hmm...
+MID_SIMA_VOICE11: Did you have something to discuss?
+MID_SIMA_VOICE12: I never know when to be princess and when to be warrior.
+MID_SIMA_VOICE13: I'm not sure if I can lead a kingdom, but I will fight for you.
+MID_SIMA_VOICE14: This armor is the pride of my homeland.
+MID_SIMA_VOICE15: I have often been called...stubborn.
+MID_SIMA_VOICE16: I wonder how my people fare without me...
+MID_SIMA_VOICE17: I will continue to put my trust in you.
+MID_SIMA_VOICE18: Understood.
+MID_SIMA_VOICE19: Command me.
+MID_SIMA_VOICE20: Agreed.

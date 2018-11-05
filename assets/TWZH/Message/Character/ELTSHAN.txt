@@ -1,0 +1,38 @@
+[Heroes Archive] (ELTSHAN)
+
+
+Heroes Message Name: Message
+
+
+MID_ELTSHAN_HOME1: 阿爾馮斯王子既深謀遠慮，\n又有著善體人意的好心腸。\n肯定會成為一位名君吧。
+MID_ELTSHAN_HOME2: 抱歉，拉克西絲……\n我們明明約好了，\n我絕不會拋下妳獨自赴死……
+MID_ELTSHAN_HOME3: 我在原本的世界裡早已豁出性命……\n不知什麼原因，現在卻來到了這裡。\n難道這也是命運嗎……？
+MID_ELTSHAN_HOME4: 騎士是忠貞不二的。\n即使會讓妹妹悲傷……\n我也只能選擇騎士的生存之道。\n
+MID_ELTSHAN_HOME5: 吾友西格爾特之子賽列斯……\n原本的話，我是不可能\n在這種地方遇到他的……
+MID_ELTSHAN_FRIEND: 我的名字是艾爾多尚。\n我代替$Nf\n前來向你致意。
+MID_ELTSHAN_LEVEL1: 不可鬆懈，\n要以更高的境界為目標。
+MID_ELTSHAN_LEVEL2: 身為騎士，\n應該隨時磨練自我才對。
+MID_ELTSHAN_LEVEL3: 這可不行。\n本領生疏了嗎……？
+MID_ELTSHAN_SKILL: 你授予我的這份力量，\n我一定會善加利用的。
+MID_ELTSHAN_JOIN: 我的名字是艾爾多尚。\n凡與主君為敵者，\n我必以此劍將其誅除。
+MID_ELTSHAN_STRONGEST: 當我被召喚到此地邂逅你時……\n雖然這樣講很奇妙，\n但我彷彿得到了神諭。$k$p你就是我在這個世界應當效忠的主君……\n這就是神諭的內容。$k$p無論主君是何等人物，\n騎士都必須絕對效忠……\n因此我不曾對這種生存之道感到不滿。$k$p然而，與你並肩作戰這麼久之後……\n對於我效忠的主君是你這件事，\n我由衷地感到慶幸。$k$p騎士無法選擇主君。\n正因為如此，\n我才慶幸自己能夠遇到像你這樣的主君。$k$p我的劍、我的忠誠，\n都為了你而存在。\n我在此再次發誓。
+MID_ELTSHAN_VOICE01: 喝！
+MID_ELTSHAN_VOICE02: 嘿！
+MID_ELTSHAN_VOICE03: 嗚啊～！
+MID_ELTSHAN_VOICE04: 厲害……
+MID_ELTSHAN_VOICE05: 米斯特汀！
+MID_ELTSHAN_VOICE06: 我不會手下留情。
+MID_ELTSHAN_VOICE07: 別靠近我……！
+MID_ELTSHAN_VOICE08: 能破解就破給我看！
+MID_ELTSHAN_VOICE09: 原諒我……
+MID_ELTSHAN_VOICE10: 呵！
+MID_ELTSHAN_VOICE11: 我是個老古板，跟我聊天也不會有趣吧……
+MID_ELTSHAN_VOICE12: ！？……別嚇我，我還以為是敵襲。
+MID_ELTSHAN_VOICE13: 為朋友而戰才是騎士的生存之道。
+MID_ELTSHAN_VOICE14: 我只是不想在戰鬥中讓騎士之名蒙羞罷了。
+MID_ELTSHAN_VOICE15: 這是魔劍米斯特汀……十二聖戰士的武器之一。
+MID_ELTSHAN_VOICE16: ……我的祖國，是否已滅亡了呢……
+MID_ELTSHAN_VOICE17: 身為騎士，我將保護主君……保護你。
+MID_ELTSHAN_VOICE18: 嗯。
+MID_ELTSHAN_VOICE19: 該怎麼辦呢……？
+MID_ELTSHAN_VOICE20: 要上了！

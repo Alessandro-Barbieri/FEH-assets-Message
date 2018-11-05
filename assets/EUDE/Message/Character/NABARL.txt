@@ -1,0 +1,38 @@
+[Heroes Archive] (NABARL)
+
+
+Heroes Message Name: Message
+
+
+MID_NABARL_HOME1: Hier versammeln sich also die\ngrößten Krieger aller Welten?
+MID_NABARL_HOME2: ...Du stehst mir im Weg!
+MID_NABARL_HOME3: Verschwende deine Zeit nicht mit\nGesprächen! Konzentrier dich auf\nden nächsten Kampf!
+MID_NABARL_HOME4: Wenn du nichts weiter brauchst,\nwäre ich jetzt gern allein.
+MID_NABARL_HOME5: Dieses Schloss ist voller seltsamer\nGestalten... und dazu zähle ich auch\ndich!
+MID_NABARL_FRIEND: ...Ich bringe Grüße\nvon $Nf.
+MID_NABARL_LEVEL1: Nicht schlecht.
+MID_NABARL_LEVEL2: So viel dazu.
+MID_NABARL_LEVEL3: ...
+MID_NABARL_SKILL: Alles, was ich tue, ist kämpfen.\nIch brauche keine Anerkennung.
+MID_NABARL_JOIN: Nenn mich Nabarl. Ich bin ein\nSöldner, aber mein Preis ist hoch!
+MID_NABARL_STRONGEST: Normalerweise kämpfe ich allein.\nUnd doch...$k$pIch kann mir eine Zukunft vorstellen,\nin der ich gemeinsam mit euch allen\nkämpfe.$k$pAch, nichts. Hör nicht auf das,\nwas ich gesagt habe.$k$pDas ist nur Geschwätz, und dir gebe\nich die Schuld für diese Rührseligkeit,\n$Nu.
+MID_NABARL_VOICE01: はぁっ！
+MID_NABARL_VOICE02: せいっ！
+MID_NABARL_VOICE03: うああっ！
+MID_NABARL_VOICE04: Che...
+MID_NABARL_VOICE05: Zeit zu sterben!
+MID_NABARL_VOICE06: Willst du mich herausfordern?
+MID_NABARL_VOICE07: Du oder ich.
+MID_NABARL_VOICE08: Tut mir leid!
+MID_NABARL_VOICE09: This is it.
+MID_NABARL_VOICE10: ...sigh
+MID_NABARL_VOICE11: What?
+MID_NABARL_VOICE12: I don't work cheap.
+MID_NABARL_VOICE13: I'm busy right now.
+MID_NABARL_VOICE14: I'll help, but I don't "chat."
+MID_NABARL_VOICE15: I have vowed never to turn a blade on a woman.
+MID_NABARL_VOICE16: I doubt there is anyone who can cross blades with me and live.
+MID_NABARL_VOICE17: Don't die out there.
+MID_NABARL_VOICE18: All right.
+MID_NABARL_VOICE19: Now what?
+MID_NABARL_VOICE20: Done.

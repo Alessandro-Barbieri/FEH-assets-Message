@@ -1,0 +1,8 @@
+[Heroes Archive] (T0017)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ホークアイ,ch03_01_Hawkeye_M_Normal,Face|$w0|人と竜は互いを恐れ、争ってきた…\nだが、いつか…いつか必ず、\nわかりあえる日は来る。$k$p$WmMPID_ニニアン,ch03_16_Ninian_F_Normal,Face|$w0|はい…\nわたしも…そう信じます。$k$p$Sbs1000|

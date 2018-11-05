@@ -1,0 +1,63 @@
+[Heroes Archive] (ALFONS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_HOME1: Ti consiglio di non entrare troppo in\nconfidenza con gli eroi che evochi.\nRende solo le cose più difficili...
+MID_ALFONS_HOME2: Alcuni sudditi non hanno gradito che\ndiventassi un Guardiano, ma a me è\nparso giusto fare la mia parte.$k$pD'altro canto, altri sostengono che\nnon mi comporto comunque come si\nconverrebbe a un principe.
+MID_ALFONS_HOME3: Sarò felice di accompagnarti durante\ni pattugliamenti. Avrai bisogno del mio\naiuto. È facile perdersi da queste parti.
+MID_ALFONS_HOME4: Un giorno dovremmo visitare insieme\nla biblioteca. La documentazione sugli\neroi di altri mondi è immensa.
+MID_ALFONS_HOME5: Non trovi che la mia sia un'arma\nmagnifica? Le pietre incastonate\nbruciano come fiamme bianche.
+MID_ALFONS_FRIEND: Conosci $Nf,\ngiusto? Dici che questo è un altro\nAskr? Che ci sia un altro me? Uhm...
+MID_ALFONS_LEVEL1: Tutto ciò è solo merito tuo,\n$Nu.
+MID_ALFONS_LEVEL2: Ho guadagnato nuova forza\nper continuare la battaglia!
+MID_ALFONS_LEVEL3: Che risultato misero. Farò\nmeglio un'altra volta.
+MID_ALFONS_SKILL: Apprezzo molto il tuo aiuto,\n$Nu.
+MID_ALFONS_STRONGEST: Devo confessarti che non avevo\nintenzione di diventare tuo amico,\n$GEvocatore,Evocatrice|.$k$pMa mi sei stat$Go,a| vicin$Go,a| nel bisogno, e\nora non mi sento più me stesso, se\nnon sei nelle vicinanze.$k$pLa mia è una posizione delicata.\nPiù si ha da perdere e più si soffre,\nquando questo succede.$k$pLa gente comune può esternare\nil proprio dolore, ma come principe\ndevo essere forte.$k$pMi sembrava ragionevole tenere tutti\na distanza, ma tu mi hai mostrato\nquanto ciò fosse insensato.$k$pNon avrei mai scoperto la nostra\npreziosa amicizia, se non ti avessi\npermesso di avvicinarmi.$k$pE ora cosa sarei? Qualcuno a\ncui manca qualcosa. E posso solo\nsperare che anche per te sia così.$k$pIn ogni caso, giuro che ti proteggerò.\nPerché su di te posso contare,\n$Nu.
+MID_ALFONS_VOICE01: せいっ
+MID_ALFONS_VOICE02: はあっ
+MID_ALFONS_VOICE03: くっ…！
+MID_ALFONS_VOICE04: Drat...
+MID_ALFONS_VOICE05: La missione... prima di tutto!
+MID_ALFONS_VOICE06: Lasciami passare!
+MID_ALFONS_VOICE07: Ti porgo le mie scuse.
+MID_ALFONS_VOICE08: Aprirò un varco!
+MID_ALFONS_VOICE09: I've lost...
+MID_ALFONS_VOICE10: Heehee
+MID_ALFONS_VOICE11: How about you and I have a little chat?
+MID_ALFONS_VOICE12: We are fortunate to have you with us. I can't imagine a better summoner.
+MID_ALFONS_VOICE13: My greatest wish is to see our realm at peace. And our people, happy again.
+MID_ALFONS_VOICE14: I find it best not to get too attached these days...especially to Heroes.
+MID_ALFONS_VOICE15: Promise you'll never leave us...without warning me first.
+MID_ALFONS_VOICE16: I am striving to be an excellent prince—and to master the use of Heroes.
+MID_ALFONS_VOICE17: I'm glad to have you here. But someday, I'd like to open the way to your world. We could go there together.
+MID_ALFONS_VOICE18: Yes?
+MID_ALFONS_VOICE19: As you will.
+MID_ALFONS_VOICE20: Shall we?
+MID_ALFONS_VOICE21: Fire Emblem
+MID_ALFONS_VOICE22: Shadow Dragon and the Blade of Light
+MID_ALFONS_VOICE23: Gaiden
+MID_ALFONS_VOICE24: Mystery of the Emblem
+MID_ALFONS_VOICE25: Genealogy of the Holy War
+MID_ALFONS_VOICE26: Thracia 776
+MID_ALFONS_VOICE27: The Binding Blade
+MID_ALFONS_VOICE28: The Blazing Blade
+MID_ALFONS_VOICE29: The Sacred Stones
+MID_ALFONS_VOICE30: Path of Radiance
+MID_ALFONS_VOICE31: Radiant Dawn
+MID_ALFONS_VOICE32: Shadow Dragon
+MID_ALFONS_VOICE33: New Mystery of the Emblem
+MID_ALFONS_VOICE34: Awakening
+MID_ALFONS_VOICE35: Fates
+MID_ALFONS_VOICE36: An event has started.
+MID_ALFONS_VOICE37: A big battle has started.
+MID_ALFONS_VOICE38: A strong foe has appeared.
+MID_ALFONS_VOICE39: New Heroes are available.
+MID_ALFONS_VOICE40: Just a moment, please.
+MID_ALFONS_VOICE41: Keep the weapon triangle in mind.
+MID_ALFONS_VOICE42: You can destroy some walls.
+MID_ALFONS_VOICE43: Fliers are weak to arrows.
+MID_ALFONS_VOICE44: To use a unit's Assist Skill, move the unit onto another one.
+MID_ALFONS_VOICE_BRAVE: Brave
+MID_ALFONS_VOICE_HEROES: Heroes

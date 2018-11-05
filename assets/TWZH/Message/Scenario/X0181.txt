@@ -1,0 +1,12 @@
+[Heroes Archive] (X0181)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_OPENING: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face_Smile|今年也迎來了春祭！\n$Nu！$k$p$EFace|真期待今年會遇見什麼樣的兔子英雄呢！\n我們這就出發吧！$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_02
+MID_SCENARIO_MAP_BEGIN: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|啊──！\n哥哥，你快看那邊！\n那是！$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|？\n那是……$k$p$WmMPID_春祭シャロン,ch00_02_Sharon_F_SpringFes18,Face|聽好囉，哥哥。\n打扮成這樣時，\n句尾都要加上「蹦」唷！$k$p春祭加油蹦！！\n來吧，哥哥也一起說！$k$p$WmMPID_春祭アルフォンス,ch00_01_Alfons_M_SpringFes18,Face|抱、抱歉……\n我實在辦不到。$k$p$WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|那是異界的哥哥！\n還有異界的我！$k$p$EFace_Smile|兩人似乎都玩得很盡興呢！$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face_Pain|可是「那個我」看起來好像不怎麼開心……$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_春祭シャロン,ch00_02_Sharon_F_SpringFes18,Face|被打敗了～\n哥哥，暫時先撤退蹦！\n可以嗎蹦？$k$p$WmMPID_春祭アルフォンス,ch00_01_Alfons_M_SpringFes18,Face|……就算妳用期待的眼神看我，\n我也不會說「蹦」的。\n暫且先撤退吧。$k$p$Sbs150|

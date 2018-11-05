@@ -1,0 +1,38 @@
+[Heroes Archive] (KATARINA)
+
+
+Heroes Message Name: Message
+
+
+MID_KATARINA_HOME1: 居然能和我在書上看到的偉大英雄\n在同一個戰場上並肩作戰……\n總、總覺得好緊張啊。
+MID_KATARINA_HOME2: 克萊涅是我妹妹喔。\n我們本是孤兒……\n在小時候立下了這個約定。
+MID_KATARINA_HOME3: 請好好休息，不要太勉強了。\n要是睡不著的話，呃……\n就、就讓我唱首搖籃曲看看吧……？
+MID_KATARINA_HOME4: 你的調度指揮總是如此出色。\n我雖然也曾以軍師身分學習過，\n但結果好像不太適合……
+MID_KATARINA_HOME5: 請問，$Nu殿下……\n你之前……曾經見過我嗎？\n在我原本的世界裡……
+MID_KATARINA_FRIEND: 您好，我名叫卡達麗娜。\n遵照$Nf殿下的命令，\n前來向您致意。
+MID_KATARINA_LEVEL1: 成、成功了……！\n請問您可以稱讚我嗎……？
+MID_KATARINA_LEVEL2: 結果還不錯。\n……對、對吧？
+MID_KATARINA_LEVEL3: 好像不行呢……\n請問，我會被罵嗎……？
+MID_KATARINA_SKILL: 只要是為了你，\n我什麼都願意做……
+MID_KATARINA_JOIN: 我名叫卡達麗娜。\n原本以軍師為志向，但卻缺乏才幹……\n啊，不過倒是會使用一點魔道。
+MID_KATARINA_STRONGEST: 我在原本的世界裡，\n有位無比重要的人……\n他跟你十分相像……$k$p他現在並不在這兩個世界裡。\n真是不可思議，他明明也是英雄啊……\n我調查了眾多與異界有關的文獻……$k$p然後……做出了一個結論。\n或許……\n你就是那個人也不一定……$k$p對、對不起……你一定覺得很詭異吧……\n明明就算真是如此，\n你也不可能會記得的……$k$p但不管事實如何……\n我都會為了你努力奮戰。\n小女子不才，還請多多指教。
+MID_KATARINA_VOICE01: 嘿！
+MID_KATARINA_VOICE02: 看招！
+MID_KATARINA_VOICE03: 呀啊～！
+MID_KATARINA_VOICE04: 出乎我的預料……
+MID_KATARINA_VOICE05: 我要打倒你。
+MID_KATARINA_VOICE06: 讓一切結束吧。
+MID_KATARINA_VOICE07: 對不起。
+MID_KATARINA_VOICE08: 我是來殺你的。
+MID_KATARINA_VOICE09: 我做了……一場夢……
+MID_KATARINA_VOICE10: 呵呵。
+MID_KATARINA_VOICE11: 是的，請問有什麼事嗎？
+MID_KATARINA_VOICE12: 呀啊！……對、對對對對不起！
+MID_KATARINA_VOICE13: 我是見習軍師喔。
+MID_KATARINA_VOICE14: 你的戰術真是精采，請讓我向你學習。
+MID_KATARINA_VOICE15: 只要你一聲令下，赴湯蹈火在所不辭。
+MID_KATARINA_VOICE16: ……我是否終有一天能夠贖罪呢……？
+MID_KATARINA_VOICE17: 能成為你的夥伴，我很開心。
+MID_KATARINA_VOICE18: 是的。
+MID_KATARINA_VOICE19: 該怎麼做呢？
+MID_KATARINA_VOICE20: 我出發了。

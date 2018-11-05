@@ -1,0 +1,87 @@
+[Heroes Archive] (Menu_47_kakusei01)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_00: Those who are blessed, do battle!
+MID_BLESSINGMAP_HELP_DIALOG_01: Blessed Gardens:\n"A heavenly domain where vast\ntreasure sleeps..." That's how the\nlegends describe these ancient\ngardens. Only Legendary Heroes\nand Heroes who have had a\nblessing conferred on them can\nenter these hallowed grounds.
+MID_BLESSINGMAP_HELP_DIALOG_02: Rules for Blessed Gardens:\nThe only Heroes that can set foot\nin the Garden of Water are\nWater-type Legendary Heroes\nand Heroes with the Water\nBlessing conferred on them.\nThe gardens of Wind, Earth,\nand Fire work the same way.
+MID_BLESSINGMAP_HELP_DIALOG_03: Rules for Blessed Gardens:\n・ Your team must have four\nallies.\n・ Your team may not contain\nduplicate Heroes.\n・ You cannot use a Light's\nBlessing.
+MID_BLESSINGMAP_HELP_DIALOG_04: Legendary Effects:\n・ In the Blessed Gardens, effects\nfrom Legendary Heroes will\nalways be active, regardless of\nthe current season.\n・ To confer a blessing, tap Allies,\nthen Advanced Growth, and Confer\nBlessing.
+MID_STAGE_SELECT_BLESSING_GARDEN: Blessed Gardens
+MID_STAGE_SELECT_BLESSING_GARDEN_WATER: Garden of Water
+MID_STAGE_SELECT_BLESSING_GARDEN_WIND: Garden of Wind
+MID_STAGE_SELECT_BLESSING_GARDEN_EARTH: Garden of Earth
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRE: Garden of Fire
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WATER: Only Water-type Legendary Heroes\nand Water-blessed Heroes can enter.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_WIND: Only Wind-type Legendary Heroes\nand Wind-blessed Heroes can enter.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_EARTH: Only Earth-type Legendary Heroes\nand Earth-blessed Heroes can enter.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_FIRE: Only Fire-type Legendary Heroes\nand Fire-blessed Heroes can enter.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_FIRE: This map can be accessed only\nby teams made up of Fire-type\nLegendary Heroes and Heroes\nwith the Fire blessing.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WATER: This map can be accessed only\nby teams made up of Water-type\nLegendary Heroes and Heroes\nwith the Water blessing.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_WIND: This map can be accessed only\nby teams made up of Wind-type\nLegendary Heroes and Heroes\nwith the Wind blessing.
+MID_STAGE_SELECT_DETAIL_NOT_BLESSING_UNIT_EARTH: This map can be accessed only\nby teams made up of Earth-type\nLegendary Heroes and Heroes\nwith the Earth blessing.
+MID_STAGE_SELECT_BLESSING_GARDEN_FIRST_TIME_REWARD_TITLE: First Visit Bonus: Blessed Gardens
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_MINUTE: $aMinutes until new map: $a0.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_HOUR: $aHours until new map: $a0.
+MID_STAGE_SELECT_BLESSING_GARDEN_NEXT_DAY: $aDays until new map: $a0.
+MID_STAGE_OPEN_FIRST_BLESSING_GARDEN: The Blessed Gardens have been\nunlocked.
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO: Your team must have four allies. It may\nnot contain duplicate Heroes.
+MID_OCCUPATION_MAP_FORTRESS: Fortress
+MID_OCCUPATION_MAP_HUB: Camp
+MID_OCCUPATION_MAP_SCORE_KILL: Defeated
+MID_OCCUPATION_MAP_SCORE_HUB_NUM: Camps
+MID_OCCUPATION_MAP_SCORE_FORTRESS_HP: Fort HP
+MID_OCCUPATION_MAP_SCORE_BONUS: Bonus
+MID_OCCUPATION_STAGE_TELOP_RULE_TITLE: Rival Domains
+MID_OCCUPATION_STAGE_TELOP_RULE: $a$a0-turn battle
+MID_OCCUPATION_RESULT: Results
+MID_OCCUPATION_RESULT_KILL: Foes Defeated
+MID_OCCUPATION_RESULT_DEFENCE: Fortress Defense
+MID_OCCUPATION_RESULT_OFFENCE: Fortress Offense
+MID_OCCUPATION_RESULT_DOMINATION: Camps Held
+MID_OCCUPATION_RESULT_SCORE: Score
+MID_OCCUPATION_RESULT_SCORE_BORDER: Target Score
+MID_OCCUPATION_RESULT_BONUS: Bonus
+MID_OCCUPATION_RESULT_EVALUATION_S: S
+MID_OCCUPATION_RESULT_EVALUATION_A: A
+MID_OCCUPATION_RESULT_EVALUATION_B: B
+MID_OCCUPATION_RESULT_EVALUATION_C: C
+MID_OCCUPATION_RESULT_DETAIL: $a($a0)
+MID_OCCUPATION_RESULT_SCORE_SUFFICIENT: Target Reached!
+MID_OCCUPATION_RESULT_SCORE_INSUFFICIENT: Points needed to reach target:
+MID_OCCUPATION_RESULT_ACHIEVEMENT_UNLOCK: You earned the reward for clearing this map!
+MID_OCCUPATION_RESULT_ACHIEVEMENT_RECEIVED: You already earned the reward for this map.
+MID_OCCUPATION_RESULT_ACHIEVEMENT_DETAIL: Reach the target score to earn a reward!
+MID_OCCUPATION_STAGE_SELECT_SCORE: Score
+MID_OCCUPATION_STAGE_SELECT_SCORE_AND_BONUS: Score/Bonus
+MID_OCCUPATION_STAGE_SELECT_SCORE_MAX: High Score
+MID_OCCUPATION_STAGE_SELECT_SCORE_BORDER: Target Score
+MID_OCCUPATION_STAGE_SELECT_ACHIEVEMENT_DETAIL: Reach the target score to earn a\nreward for clearing this map.
+MID_OCCUPATION_BONUS_歩行: +1 Bonus for defeating foe with infantry.
+MID_OCCUPATION_BONUS_重装: +1 Bonus for defeating foe with armored.
+MID_OCCUPATION_BONUS_騎馬: +1 Bonus for defeating foe with cavalry.
+MID_OCCUPATION_BONUS_飛行: +1 Bonus for defeating foe with flier.
+MID_OCCUPATION_STAGE_SELECT_NO_REWARD_WARNING: This stage has already been cleared.\nNo reward is available.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION: You can include only one ally\nthat can use Sing or Dance\nin your brigade, and duplicate\nHeroes are not allowed.
+MID_OCCUPATION_STAGE_SELECT_DETAIL_RESTRICTED_ORGANIZATION_HELP: Your brigade contains characters\nthat cannot be used together.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_00: With a brigade of 20 allies, take\non Rival Domains!
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01: Edit Brigades:\nA brigade is the team you use in\nRival Domains.\nYou can choose up to 20 allies\nfrom your army or your friends'.\nAny empty slots will automatically\nbe filled with reinforcements.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_02: Brigade Limits:\n・ You can include only one ally\nwho can use the abilities Sing or\nDance within your brigade.\n・ Your brigade may not contain\nduplicate Heroes.
+MID_CONQUER_HELP_DIALOG_00: Your allies join friends' allies!
+MID_CONQUER_HELP_DIALOG_01: Rules for Rival Domains:\n・ The battle won't end even if\none side's forces are depleted—\nfresh troops will continue the fight.\n・ The battle will end after 10 turns\nhave passed or one side's\nfortress is destroyed.\n・ You will not earn EXP or SP.\n・ Reinforcements will not gain\nboosts from Legendary Effects.
+MID_CONQUER_HELP_DIALOG_02: About Fortresses:\n・ It takes three hits to destroy a\nfortress.\n・ You can warp to a fortress you\ncontrol.\n・ Allies in a fortress recover 10\nHP per turn.\n・ Fortresses are considered\ndefensive terrain.
+MID_CONQUER_HELP_DIALOG_03: About Camps:\n・ It takes two hits to defeat a\ncamp. It then becomes yours.\n・ You can warp to a camp you\ncontrol.\n・ Allies in a camp recover 10\nHP per turn.\n・ Camps are considered\ndefensive terrain.
+MID_CONQUER_HELP_DIALOG_04: Warping:\nAllies adjacent to a fortress or\ncamp they control can instantly\nwarp to a space adjacent to\nanother fortress or camp they\ncontrol.
+MID_CONQUER_HELP_DIALOG_05: Rival Domains Scoring:\nYou'll receive a score after\nthe battle has ended.\n\nYou can earn a higher score\nby protecting your fortress and\ncamps while defeating foes and\ncapturing the enemy's fortress.
+MID_UNIT_EDIT_LARGE_FORCE: Edit Brigades
+MID_UNIT_EDIT_LARGE_FORCE_INDEX: $aBrigade $a0
+MID_UNIT_EDIT_LARGE_FORCE_GUEST: Ally
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD: Update Friends
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_DIALOG_CONFIRM: Update Friends?
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_PLAYER: Your Allies
+MID_UNIT_EDIT_LARGE_FORCE_ORGANIZE_FRIEND: Friends' Allies
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM: Would you like to update your friends'\nallies to their most current state?
+MID_UNIT_EDIT_LARGE_FORCE_FRIEND_RELOAD_CONFIRM_WARNING: All of your friends' allies\nwill be updated.
+MID_UNIT_EDIT_FRIEND_BOX: Friends

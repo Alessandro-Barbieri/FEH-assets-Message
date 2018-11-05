@@ -1,0 +1,38 @@
+[Heroes Archive] (KANNA_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KANNA_M_HOME1: Sei $Gil migliore,la migliore|, $GEvocatore,Evocatrice|!\nPuoi evocare tutti gli eroi\nche vuoi, vero?$k$pAnche un amico con cui possa\ngiocare? O qualcuno che sappia\ntrasformarsi in drago come me?
+MID_KANNA_M_HOME2: Sono cresciuto in una zona\ndel Regno etereo.$k$pAll'inizio non sapevo lottare quasi\nper niente, ma ora so usare la\nspada e la pietra drago.
+MID_KANNA_M_HOME3: Grazie per essere qui. Quando finisci\ni tuoi incarichi, giochiamo insieme.\nRadunerò un sacco di gente!
+MID_KANNA_M_HOME4: Nella prossima battaglia, dovresti\ncavalcarmi quando sono in forma\ndi drago!$k$pSo che non partecipi di solito,\nma se stai sulla mia groppa\nla vittoria è assicurata!
+MID_KANNA_M_HOME5: Non dire alla mamma che gioco con\nla mia pietra drago. Guarda, quando\nla lancio brilla così intensamente!
+MID_KANNA_M_FRIEND: Ehi! Ciao, $Nu!$k$pTi saluta $Nf!
+MID_KANNA_M_LEVEL1: Sarò mai forte come\nla mia mamma?
+MID_KANNA_M_LEVEL2: Visto? Sono bravo, no?
+MID_KANNA_M_LEVEL3: Mi impegnerò di più, lo prometto.
+MID_KANNA_M_SKILL: Grazie. Sei davvero gentile,\nproprio come la mia mamma.
+MID_KANNA_M_JOIN: Piacere di conoscerti! Sono Kana.\nCorrin è la mia mamma. Quando mi\ntrasformo in drago, lotto alla grande!
+MID_KANNA_M_STRONGEST: Ehi, mamma! Guarda cosa... Ah, no,\nsei tu, $Nu.$k$pChe errore da ridere! Come avrò\nfatto a scambiarti per la mamma?\nNon le assomigli per niente...$k$pSarà perché ti voglio bene come\na lei. Non lo sapevi? È la verità!$k$pGiochi sempre con me e mi dici\ncosa fare sul campo di battaglia.$k$pMi alleno tutto il tempo per migliorare\nnegli scontri... L'hai notato? Hai visto\nquanto sono forte?$k$pPuoi dormire sonni tranquilli. Con i\nmiei poteri di drago ti proteggerò\nper sempre!
+MID_KANNA_M_VOICE01: えいっ！
+MID_KANNA_M_VOICE02: でえいっ！
+MID_KANNA_M_VOICE03: わあっ！
+MID_KANNA_M_VOICE04: Ow ow ow!!
+MID_KANNA_M_VOICE05: Non ci arrenderemo!
+MID_KANNA_M_VOICE06: Non mi fermerai!
+MID_KANNA_M_VOICE07: Proteggerò tutti!
+MID_KANNA_M_VOICE08: Per la mamma!
+MID_KANNA_M_VOICE09: Mama...
+MID_KANNA_M_VOICE10: Heehee
+MID_KANNA_M_VOICE11: Thanks for coming to play with me!
+MID_KANNA_M_VOICE12: I'm really good at using my dragon powers. I'll show you soon!
+MID_KANNA_M_VOICE13: This whole place is kinda weird, isn't it?
+MID_KANNA_M_VOICE14: My Mama is really strong. I wanna be just like her.
+MID_KANNA_M_VOICE15: You have one of those div...divine weapons? Oh, neat!
+MID_KANNA_M_VOICE16: I wonder where Mama is... Wait, she hasn't gotten lost, has she?
+MID_KANNA_M_VOICE17: You just watch. I'm going to grow into the strongest one around here. And then I'll keep you safe!
+MID_KANNA_M_VOICE18: OK!
+MID_KANNA_M_VOICE19: Do my best!
+MID_KANNA_M_VOICE20: Hi!

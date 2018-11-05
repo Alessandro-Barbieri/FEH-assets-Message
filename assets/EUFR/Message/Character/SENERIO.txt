@@ -1,0 +1,38 @@
+[Heroes Archive] (SENERIO)
+
+
+Heroes Message Name: Message
+
+
+MID_SENERIO_HOME1: Les Gardiens d'Askr ne se battent\nni pour l'argent, ni pour l'honneur,\nmais pour sauver des vies...$k$pC'est bien étrange. Cette façon\nde penser m'échappe.
+MID_SENERIO_HOME2: Vous voulez en savoir plus sur mon\nmonde ? Qu'ai-je à gagner en vous\nlivrant de telles informations ?
+MID_SENERIO_HOME3: Si votre tactique échoue, c'est notre\nvie qui est en jeu. Alors, n'hésitez pas\nà me demander des conseils.
+MID_SENERIO_HOME4: Non pas que cela vous regarde, mais\ndans mon monde, je suis ce que l'on\nappelle un « Marqué »...$k$pDès mon plus jeune âge, j'ai été\ncondamné à être haï et exclu.\nTel est mon destin.
+MID_SENERIO_HOME5: J'ai étudié les chroniques de ce monde.\nOh, je ne suis pas particulièrement\nféru d'histoire...$k$pJe cherche simplement des\ninformations qui pourraient nous être\nutiles sur le plan tactique.
+MID_SENERIO_FRIEND: $Nf m'envoie\nvous transmettre ses salutations.$k$pCela étant fait, je vous quitte.
+MID_SENERIO_LEVEL1: Les vents de la fortune soufflent\ndans ma direction, aujourd'hui.
+MID_SENERIO_LEVEL2: Toute amélioration de mes\ntalents est bonne à prendre.
+MID_SENERIO_LEVEL3: Les vents de la fortune ne sont\npas avec moi, aujourd'hui.
+MID_SENERIO_SKILL: Vous m'avez rendu plus fort,\nj'espère que cela vous sera utile.
+MID_SENERIO_JOIN: Hmm. Mon nom ? Je suis le mage\nSoren. À mon tour de poser des\nquestions : Ike est-il ici ?
+MID_SENERIO_STRONGEST: ... et cela conclut mon analyse des\ncompétences des héros venus\nd'autres mondes.$k$pComme vous le voyez, ils feraient\nde redoutables adversaires s'ils\nn'étaient pas nos alliés.$k$pDe plus... Pardonnez-moi, mais\nai-je toute votre attention,\n$Nu ?$k$pCroyez-moi, vous avez parfois\nle don de m'irriter à un point...$k$pEnfin, oublions cela. Mais sachez\nceci.$k$pRetourner dans mon monde est\nla seule chose qui me préoccupe.\nMa présence ici n'est que temporaire.$k$pPourquoi ne suis-je pas simplement\nparti ? Eh bien, c'est parce que\nvous...$k$pJe veux dire, c'est parce qu'ici,\nje peux explorer d'autres mondes\net étudier nos ennemis.$k$pC'est très utile pour moi. Et... si je\npeux également vous être utile...$k$pAppelons cela un échange de\nbons procédés.
+MID_SENERIO_VOICE01: はっ！
+MID_SENERIO_VOICE02: Pointless
+MID_SENERIO_VOICE03: うああっ！
+MID_SENERIO_VOICE04: I miscalculated...
+MID_SENERIO_VOICE05: Préparez-vous à mourir !
+MID_SENERIO_VOICE06: J'élimine tous mes ennemis.
+MID_SENERIO_VOICE07: Hors de mon chemin.
+MID_SENERIO_VOICE08: Vous avez votre compte ?
+MID_SENERIO_VOICE09: No...
+MID_SENERIO_VOICE10: Hmp
+MID_SENERIO_VOICE11: You're the tactician for this group? Oh, no... It's nothing.
+MID_SENERIO_VOICE12: I'll take my leave unless you have a specific request of me.
+MID_SENERIO_VOICE13: I am a mercenary. Guided by self-interest. Above bonds and attachments.
+MID_SENERIO_VOICE14: Ike is much more than a leader. No one could compare to him.
+MID_SENERIO_VOICE15: When Ike isn't feeling well, most would never notice that his left eye twitches.
+MID_SENERIO_VOICE16: No matter who I may be...I have a duty.
+MID_SENERIO_VOICE17: Helping you is to our mutual advantage. That is all.
+MID_SENERIO_VOICE18: OK.
+MID_SENERIO_VOICE19: Let's see...
+MID_SENERIO_VOICE20: Very well.

@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: La jeune femme qui dirige votre\nordre est sévère mais juste.\nElle a l'étoffe des plus grands.
+MID_GUNTHER_HOME2: Pendant des années, j'ai pris soin\nde Corrin. Je me sens davantage\nparent que vassal.
+MID_GUNTHER_HOME3: Nous devrions prendre le thé\nensemble un jour et échanger\nnos histoires de campagne.
+MID_GUNTHER_HOME4: Je suis suffisamment entraîné\npour les dangers de mon monde,\nmais ceux d'ici me sont étrangers.
+MID_GUNTHER_HOME5: Je prends grand soin de mon\néquipement. C'est tout ce que\nj'ai, dans ce monde.
+MID_GUNTHER_FRIEND: Bonjour, $Nu.\n$Nf vous\nsalue. Ma mission est accomplie.
+MID_GUNTHER_LEVEL1: Être au cœur de l'action me grise !
+MID_GUNTHER_LEVEL2: On dirait que je peux encore\napprendre...
+MID_GUNTHER_LEVEL3: Au moins, je ne me suis pas affaibli...
+MID_GUNTHER_SKILL: Un tel pouvoir dans les mains d'un\nvieil homme... Merci.
+MID_GUNTHER_JOIN: Je suis Gunter, chevalier de Nohr.\nJe ne suis pas vieux, je suis un\nvétéran. Apprenez la différence !
+MID_GUNTHER_STRONGEST: On m'a dit que vous étiez\n$Gle Grand,la Grande| Stratège...$k$pEst-ce vrai ? Allons, vous pouvez\nme le dire ! Ou peut-être êtes-vous\ntrop humble pour l'avouer ?$k$pVous n'avez peut-être pas mon vécu,\nmais vous pouvez être $Gfier,fière| de ce\nque vous êtes et de votre potentiel !$k$pBombez le torse. Montrez-vous\ndigne de porter cette arme !$k$pJ'ai connu quelqu'un dans une\nsituation similaire à la vôtre, il\nn'y a pas si longtemps...$k$pOh je sais, vous pensez que je ne\nsuis qu'un vieil homme qui radote !\nMais écoutez-moi un instant...$k$pLorsque nous sommes au combat,\nje sens que vous n'êtes pas aussi\n$Gconfiant,confiante| que vous devriez l'être.$k$pNe vous en excusez pas, c'est\ntout à fait normal. Et c'est là que\nmon expérience peut vous aider.$k$pGardez-moi à vos côtés, et je ferai\nde vous $Gle grand héros,la grande héroïne| que\nvous méritez d'être.
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: J'aurai ma revanche !
+MID_GUNTHER_VOICE06: Je vous anéantirai.
+MID_GUNTHER_VOICE07: Finissons-en.
+MID_GUNTHER_VOICE08: Quelle erreur...
+MID_GUNTHER_VOICE09: Careless...
+MID_GUNTHER_VOICE10: Yes?
+MID_GUNTHER_VOICE11: Others might trifle with me, but I suspect you won't make that mistake.
+MID_GUNTHER_VOICE12: I find you...intriguing...to say the least.
+MID_GUNTHER_VOICE13: I am glad to have joined you.
+MID_GUNTHER_VOICE14: Remain focused. Always—not just on the battlefield.
+MID_GUNTHER_VOICE15: Curious about the scar on my face? Hmm. Of course you are.
+MID_GUNTHER_VOICE16: My armor has known...so much blood.
+MID_GUNTHER_VOICE17: You and I should spar sometime. Builds character!
+MID_GUNTHER_VOICE18: Hmm?
+MID_GUNTHER_VOICE19: Hmm.
+MID_GUNTHER_VOICE20: Let's go.

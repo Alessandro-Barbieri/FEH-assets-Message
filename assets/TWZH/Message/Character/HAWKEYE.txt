@@ -1,0 +1,38 @@
+[Heroes Archive] (HAWKEYE)
+
+
+Heroes Message Name: Message
+
+
+MID_HAWKEYE_HOME1: 我是居住於沙漠者，\n不習慣待在……\n這種地方……
+MID_HAWKEYE_HOME2: 召喚啊……我雖不懂魔道，\n但仍要提醒你當心。\n強大的力量會迷惑人心……
+MID_HAWKEYE_HOME3: ……我很感謝你。\n……這點我必須先告訴你。
+MID_HAWKEYE_HOME4: 你並不是戰士，\n然而，你卻勇於跟英雄戰鬥，\n你的意志有如野獸般強悍而兇猛。
+MID_HAWKEYE_HOME5: 身為沙漠的守護者，\n我理應與孤獨為伍，\n所以甚少與人交往……真抱歉……
+MID_HAWKEYE_FRIEND: 你就是$Nu嗎？\n我代替$Nf\n前來向你致意……
+MID_HAWKEYE_LEVEL1: 喔喔喔喔――――！
+MID_HAWKEYE_LEVEL2: 我的力量\n好像正在滋長當中……
+MID_HAWKEYE_LEVEL3: 我的死期……\n已近了嗎……？
+MID_HAWKEYE_SKILL: 感謝你……\n讓我獲得了新的力量。
+MID_HAWKEYE_JOIN: 我是霍克艾，\n居住於納巴塔沙漠深處的龍之里，\n也被稱為沙漠的守護者……
+MID_HAWKEYE_STRONGEST: 你想跟我說話……？\n你還真是個奇人啊……$k$p什麼？我比較奇怪……？\n嗯……這樣啊……$k$p的確，我是沙漠的子民……\n和這裡的人相較起來，\n或許顯得很格格不入……$k$p但是……我想守護世界\n安寧的意志和大家一樣……$k$p我在此承諾……\n這份意志將會如同\n亙古黃沙般永恆不變。
+MID_HAWKEYE_VOICE01: 哼！
+MID_HAWKEYE_VOICE02: 哼！
+MID_HAWKEYE_VOICE03: 嗚啊～！
+MID_HAWKEYE_VOICE04: 嗚……！
+MID_HAWKEYE_VOICE05: 嗚喔喔喔喔――――！
+MID_HAWKEYE_VOICE06: 唯有戰鬥一途。
+MID_HAWKEYE_VOICE07: 我無所畏懼。
+MID_HAWKEYE_VOICE08: 開始戰鬥……
+MID_HAWKEYE_VOICE09: 無法……生還嗎……？
+MID_HAWKEYE_VOICE10: 呵！
+MID_HAWKEYE_VOICE11: 有事找我嗎？
+MID_HAWKEYE_VOICE12: ……我不明白你的行為。
+MID_HAWKEYE_VOICE13: 達成使命是我唯一的心願……
+MID_HAWKEYE_VOICE14: 我是【沙漠的守護者】。
+MID_HAWKEYE_VOICE15: 你真是不可思議。
+MID_HAWKEYE_VOICE16: 我的死期已近……
+MID_HAWKEYE_VOICE17: ……我相信你。
+MID_HAWKEYE_VOICE18: 嗯。
+MID_HAWKEYE_VOICE19: 咦……？
+MID_HAWKEYE_VOICE20: 瞭解。

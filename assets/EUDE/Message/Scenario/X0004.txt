@@ -1,0 +1,10 @@
+[Heroes Archive] (X0004)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_IMAGE: 001_Brave
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|Verstehe ich das richtig?$k$pWir sind alle hier, um zu entscheiden,\nwelches Geschwisterpaar das\nfähigste aller Paare ist?$k$p$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|So ist es. Dieses Reich wird\nganz offensichtlich zu unserem\nSchlachtfeld.$k$p$WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|Aber warum bin ICH dann hier?\nIch bin nicht Euer Bruder.$k$p$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|Und ich bin nicht deine Schwester...$k$pIch bin Sanaki, Kaiserin von Begnion!\nDie Hohepriesterin!\nDie Stimme der Göttin!$k$pAber was viel wichtiger ist... Ich\nlasse nicht zu, dass irgendeine$k$pkleine Schwester sich ein höheres\nAnsehen verdient als ich.$k$pAuf in den Kampf!$k$p$WmMPID_クレイン,ch02_13_Klein_M_Normal,Face|$w0|Wo bin ich da nur wieder\nhineingeraten?$k
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_サナキ,ch09_01_Sanaki_F_Normal,Face|$w0|Du... du... du hast uns geschlagen?$k$pNun, ich denke, es wird das Beste\nsein - im Hinblick auf die Situation -\ndie Niederlage einzugestehen.$k$pSchließlich passiert es nicht jeden\nTag, dass sich jemand als stärker\nerweist als...$k$pSanaki, Kaiserin von Begnion!$k$Sbs150|

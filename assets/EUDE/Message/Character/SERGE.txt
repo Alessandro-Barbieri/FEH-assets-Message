@@ -1,0 +1,38 @@
+[Heroes Archive] (SERGE)
+
+
+Heroes Message Name: Message
+
+
+MID_SERGE_HOME1: Was für ein schönes Insekt! Das\nmuss ich unbedingt fangen und\n$Nu zeigen.
+MID_SERGE_HOME2: In meiner Heimat habe ich dem Haus\nVirion gedient. Aber meinen früheren\nHerrn könnt Ihr ruhig vergessen...
+MID_SERGE_HOME3: Es ist nett, dass du nach mir\nsiehst, aber du hast sicher viel\nzu tun.$k$pKomm vorbei und rede mit mir,\nwenn es deine Aufgaben eher\nerlauben.
+MID_SERGE_HOME4: Sag, willst du nicht einmal mit\nMinerva und mir auf die Jagd\ngehen?$k$pEs ist so nett anzusehen, wenn\nsie ein ganzes Reh verschlingt.
+MID_SERGE_HOME5: Ich habe alle beschädigten\nUniformen ausgebessert.$k$pSag mir, wenn du Hilfe\nmit Flecken auf den weißen\nUmhängen benötigst.
+MID_SERGE_FRIEND: Hey, du da. Dich nennt man\n$Nu,\nhab ich Recht?$k$pIch komme, um Hallo von\n$Nf zu sagen.
+MID_SERGE_LEVEL1: Ich fühle mich stärker!\nDu auch, Minerva?
+MID_SERGE_LEVEL2: Siehst du, Minerva? Harte\nArbeit zahlt sich eben aus.
+MID_SERGE_LEVEL3: Nun ja. Das ist... ärgerlich.
+MID_SERGE_SKILL: Ich fühle mich einfach groß-\nartig! Danke, vielen Dank!
+MID_SERGE_JOIN: Ich bin Zelcher, eine Wyvernritterin\naus Valm. Meine liebe Minerva und\nich, wir schließen uns deiner Sache an.
+MID_SERGE_STRONGEST: Danke, dass du mich und meine\nliebste Minerva immer unterstützt.\nBei dir fühlen wir uns beide sicher.$k$pAm Anfang war ich ehrlich besorgt.\nDas Leben in einer fremden Welt...\nDer Kampf gegen neue Gegner...$k$pIch habe schon einmal meine Heimat\nverlassen. Hierherzukommen ist aber\nganz anders, als von Valm nach$k$pYlisse zu kommen. Doch seit ich dich\nkenne und diese Welt kennenlernte,\nbin ich entschlossen, sie zu schützen.$k$pWie Askr ist auch meine Heimat\nRosanne grün und wunderschön. Ich\nwürde sie dir gern einmal zeigen.
+MID_SERGE_VOICE01: はいっ
+MID_SERGE_VOICE02: せやっ
+MID_SERGE_VOICE03: きゃあっ
+MID_SERGE_VOICE04: Oh my...
+MID_SERGE_VOICE05: Ich sage Lebewohl!
+MID_SERGE_VOICE06: Ruhe in Stückchen!
+MID_SERGE_VOICE07: Es gibt Fresschen, Minerva!
+MID_SERGE_VOICE08: Du hast mich geärgert.
+MID_SERGE_VOICE09: Tragic...
+MID_SERGE_VOICE10: Heehee
+MID_SERGE_VOICE11: I love to sew and cook, so if you have need of such things, don't hesitate to ask.
+MID_SERGE_VOICE12: If you have time, let's chat together awhile.
+MID_SERGE_VOICE13: Some say I'm terrifying when angry, but that's simply not true.
+MID_SERGE_VOICE14: I used to be a servant—now I ride a wyvern into battle. Life is strange, is it not?
+MID_SERGE_VOICE15: Are there any really adorable monsters here? Like the Risen?
+MID_SERGE_VOICE16: I wonder how things fare back in Rosanne...
+MID_SERGE_VOICE17: No matter how dire the circumstance, you may rely on me and Minerva.
+MID_SERGE_VOICE18: Quite so.
+MID_SERGE_VOICE19: Shall we?
+MID_SERGE_VOICE20: Minerva?

@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_HOME1: Ich fühle mich hier nicht anders als in\nmeiner Heimat. Wieso sollte ich also\neine "Heldin" in dieser Welt sein?
+MID_REFLET_F_HOME2: Chrom fand mich bewusstlos und\nohne Erinnerung. Er half mir, also\nschloss ich mich den Hirten an.
+MID_REFLET_F_HOME3: Ich bewundere deine Gewissenhaftig-\nkeit. Wie du hier immer herumläufst,\ndas erinnert mich an mich selbst.
+MID_REFLET_F_HOME4: Ich habe einen Plan, aber ich weiß\nnicht, ob er in dieser Welt funktioniert.\nWir sollten mal darüber sprechen.
+MID_REFLET_F_HOME5: Die Archive hier sind fantastisch! So\nviele großartige Bücher. Ich sollte mir\ndie Erlaubnis holen, darin zu lesen.
+MID_REFLET_F_FRIEND: Schön, dich zu treffen! Ich bin\nDaraen. $Nf\nschickt mich mit Grüßen zu dir.
+MID_REFLET_F_LEVEL1: Nicht einmal ich habe\ndas kommen sehen!
+MID_REFLET_F_LEVEL2: Das ist alles Teil\ndes Plans!
+MID_REFLET_F_LEVEL3: Sag mal, war\ndas jetzt alles?
+MID_REFLET_F_SKILL: Schön, dass du meinen Wert\nfür die Truppe anerkennst.
+MID_REFLET_F_JOIN: Mein Name ist Daraen, ich bin die\nTaktikerin bei Chroms Hirten. Ich kann\ndir in der Schlacht sicher nützlich sein.
+MID_REFLET_F_STRONGEST: Wir haben auf dem Schlachtfeld viel\nzusammen erlebt, und ich habe jeden\ndeiner Schritte beobachtet.$k$pIch will nicht anmaßend sein, aber wie\ndu kämpfst, dein taktisches Geschick,\nwie du für die Sicherheit aller sorgst...$k$pDas erinnert mich an mich selbst, wie\nich meine Freunde in meiner Welt in\ndie Schlacht geführt habe.$k$pDaher weiß ich auch, wie sehr du dich\num uns alle sorgst und wie schwer die\nBürde sein kann, die du trägst.$k$pWenn sie zu schwer wird, lass mich\ndeine Stütze sein.$k$pIch bin schließlich schon eine Weile\nin diesem Geschäft...$k$pVielleicht habe ich ja einen Plan, der\ndeine Probleme löst... sowohl auf dem\nSchlachtfeld als auch darüber hinaus.
+MID_REFLET_F_VOICE01: えい！
+MID_REFLET_F_VOICE02: はあっ！
+MID_REFLET_F_VOICE03: きゃっ！
+MID_REFLET_F_VOICE04: Part of the plan...
+MID_REFLET_F_VOICE05: Zeit, das Blatt zu wenden!
+MID_REFLET_F_VOICE06: Das hast du wohl nicht erwartet!
+MID_REFLET_F_VOICE07: Wie ich's gesagt habe!
+MID_REFLET_F_VOICE08: Unsere Bindung gibt mir Kraft!
+MID_REFLET_F_VOICE09: Oops.
+MID_REFLET_F_VOICE10: Heehee
+MID_REFLET_F_VOICE11: Oh, hey! I was just thinking I'd like to chat with you.
+MID_REFLET_F_VOICE12: Let's work on a battle plan together.
+MID_REFLET_F_VOICE13: I understand you're the tactician for this team.
+MID_REFLET_F_VOICE14: I don't know why, but I feel a strange kinship with you.
+MID_REFLET_F_VOICE15: My time before I arrived in Ylisse was a blank. No memories at all.
+MID_REFLET_F_VOICE16: I wonder if Chrom is around here...
+MID_REFLET_F_VOICE17: I look forward to working with you for a good, long time.
+MID_REFLET_F_VOICE18: OK.
+MID_REFLET_F_VOICE19: On it.
+MID_REFLET_F_VOICE20: Right.

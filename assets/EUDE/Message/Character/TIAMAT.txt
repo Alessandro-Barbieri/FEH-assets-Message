@@ -1,0 +1,38 @@
+[Heroes Archive] (TIAMAT)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMAT_HOME1: Die Wächter von Askr erwarten\nfür ihre guten Taten weder\nBelohnungen noch Anerkennung.$k$pIhr einziges Ziel ist es, Leben zu\nretten. Ich finde das wirklich\nbewundernswert.
+MID_TIAMAT_HOME2: Unserer Söldnertruppe eilt der\neigenartige Ruf voraus, Aufträge\nohne Bezahlung zu erledigen.$k$pManche Aufträge nehmen wir nur an,\num jemandem in Not zu helfen. Wir\narbeiten nie wegen des Geldes allein.
+MID_TIAMAT_HOME3: Kann ich Euch behilflich sein? Als\nMitglied einer Söldnertruppe weiß\nich jede Aufgabe zu schätzen.$k$pManchmal helfe ich Alja sogar mit\nder Wäsche - eine schmutzigere\nArbeit gibt es bei uns nicht.
+MID_TIAMAT_HOME4: Wer auf dem Schlachtfeld überleben\nwill, dem müssen Trainingsübungen\nin Fleisch und Blut übergehen.$k$pDeshalb müssen wir lernen, unsere\nFähigkeiten und unsere Körper\nperfekt zu beherrschen.
+MID_TIAMAT_HOME5: Ich wünschte, Greil könnte mit\neigenen Augen sehen, wie gut\nsich sein Sohn entwickelt hat.$k$pEr ist in der Lage, als unser Anführer\ndie großen Fußstapfen auszufüllen,\ndie Greil hinterlassen hat.
+MID_TIAMAT_FRIEND: Hallo. Ich überbringe Euch\nfreundschaftliche Grüße\nvon $Nf.
+MID_TIAMAT_LEVEL1: Herrlich! Das erinnert mich an\nmeine ersten Tage im Kampf.
+MID_TIAMAT_LEVEL2: Jeder Kampf hält für mich\nneue Erfahrungen bereit.
+MID_TIAMAT_LEVEL3: Mitunter zeigt sich, dass ich nicht\nmehr so agil wie damals bin.
+MID_TIAMAT_SKILL: Danke für Euer Vertrauen. Ich\nwerde Euch nicht enttäuschen.
+MID_TIAMAT_JOIN: Ich bin Titania, stellvertretende\nKommandantin von Greils Söldnern.\nWas kann ich für Euch tun?
+MID_TIAMAT_STRONGEST: Heute will ich Euch den Umgang\nmit der Axt näherbringen,\n$Nu.$k$pErste Lektion: Sorgt dafür, dass\nIhr die Axt schwingt und nicht\ndie Axt Euch.$k$pVersucht es einmal mit meiner Axt.\nNicht schlecht, aber achtet immer\ndarauf, in der Hüfte stabil zu bleiben.$k$pOh, Ihr wollt schon aufhören?\nEtwas mehr Übung könnte Euch\neines Tages das Leben retten.$k$pAber ich nehme an, das ist meine\nAufgabe. Und ich bin froh, dass Ihr\nmich dafür gerufen habt.$k$pIch wollte schon immer stolz für\nandere Menschen kämpfen, ohne\nAnspruch auf Geld oder Ehre.$k$pIch kann mich glücklich schätzen,\nin Euch $Geinen Freund,eine Freundin| gefunden\nzu haben.$k$pWenn Ihr wünscht, beschütze ich\nals wahre Freundin Euer Leben,\nsolange ich hier bin.
+MID_TIAMAT_VOICE01: はぁっ！
+MID_TIAMAT_VOICE02: せいっ！
+MID_TIAMAT_VOICE03: きゃああっ！
+MID_TIAMAT_VOICE04: N-not yet!
+MID_TIAMAT_VOICE05: Ich werde triumphieren!
+MID_TIAMAT_VOICE06: Alles für den Auftrag!
+MID_TIAMAT_VOICE07: Wir werden überleben!
+MID_TIAMAT_VOICE08: Macht mich nicht wütend!
+MID_TIAMAT_VOICE09: Go on...
+MID_TIAMAT_VOICE10: Heehee
+MID_TIAMAT_VOICE11: I am with the Greil Mercenaries. Have you a job for us?
+MID_TIAMAT_VOICE12: Wha—? Phew! That was close. Not a good idea to sneak up on me.
+MID_TIAMAT_VOICE13: So you're the Great Hero I'm hearing about? A legend already at your age!
+MID_TIAMAT_VOICE14: I'd like to ask you—how many years do you think I've been doing this?
+MID_TIAMAT_VOICE15: Some think daily training is boring. I think it keeps you alive. So let's keep it up, all right?
+MID_TIAMAT_VOICE16: What to do...? A battle of strength? You do realize who you're talking to, right?
+MID_TIAMAT_VOICE17: Whatever the path you choose, I will be there right beside you.
+MID_TIAMAT_VOICE18: Yes.
+MID_TIAMAT_VOICE19: Stay alert.
+MID_TIAMAT_VOICE20: Live on.

@@ -1,0 +1,38 @@
+[Heroes Archive] (TIAMAT)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMAT_HOME1: Les Gardiens d'Askr ne se battent\npas pour la fortune ou la gloire.$k$pIls veulent uniquement sauver des\nvies. Je trouve cela formidable.
+MID_TIAMAT_HOME2: Nous sommes différents des\nautres mercenaires. Il nous arrive\nde travailler sans rémunération.$k$pParfois, nous acceptons une mission\njuste pour sauver des vies. L'argent\nn'est jamais notre seule motivation.
+MID_TIAMAT_HOME3: Puis-je vous aider pour quoi que ce\nsoit ? En tant que mercenaire, aucune\ntâche ne me fait peur.$k$pIl m'est même arrivé d'aider Mist pour\nla lessive, qui est un travail de titan\ndans notre groupe, croyez-moi.
+MID_TIAMAT_HOME4: Il faut s'entraîner à chaque instant\nsi l'on veut espérer survivre\nsur le champ de bataille.$k$pNous devons affûter nos talents et\ndompter nos corps jusqu'à ce que\nle combat devienne un instinct.
+MID_TIAMAT_HOME5: J'aimerais que l'ancien commandant\nde notre groupe, Greil, puisse voir\ncomment son fils a grandi.$k$pIl a admirablement succédé à son\npère à la tête de notre équipe.
+MID_TIAMAT_FRIEND: Bonjour. $Nf\nm'envoie pour vous saluer.
+MID_TIAMAT_LEVEL1: Formidable ! Cela me rappelle\nmes premières batailles.
+MID_TIAMAT_LEVEL2: Chaque combat est une\noccasion de progresser.
+MID_TIAMAT_LEVEL3: Parfois, il est clair que je n'ai\nplus l'énergie de ma jeunesse.
+MID_TIAMAT_SKILL: Merci de votre confiance.\nJ'essaierai d'en être digne.
+MID_TIAMAT_JOIN: Je suis Titania, capitaine des\nmercenaires de Greil. Vous avez\ndu travail pour moi ? Je suis prête.
+MID_TIAMAT_STRONGEST: Aujourd'hui, je vais vous apprendre\nà manier la hache,\n$Nu.$k$pPremière leçon ! Quand vous portez\nun coup, faites attention à ce que la\nhache ne vous emporte pas avec elle.$k$pEssayez avec la mienne. C'est bien,\nmais placez bien vos hanches pour\navoir une position plus stable.$k$pOh ? Vous voulez déjà arrêter ? Cet\nentraînement pourrait bien vous\nsauver la vie, un jour.$k$pMais sauver des vies, c'est mon\ntravail. Je suis heureuse que vous\nm'ayez invoquée pour le faire.$k$pJ'ai toujours voulu combattre avec\nfierté et sauver des gens sans me\nsoucier de l'argent et des honneurs.$k$pQuelle chance j'ai d'être votre amie.$k$pSi tel est votre désir, je vous protégerai\nfidèlement, aussi longtemps que vous\nle voudrez.
+MID_TIAMAT_VOICE01: はぁっ！
+MID_TIAMAT_VOICE02: せいっ！
+MID_TIAMAT_VOICE03: きゃああっ！
+MID_TIAMAT_VOICE04: N-not yet!
+MID_TIAMAT_VOICE05: Je vaincrai !
+MID_TIAMAT_VOICE06: Au nom de notre cause !
+MID_TIAMAT_VOICE07: Nous survivrons !
+MID_TIAMAT_VOICE08: N'attisez pas ma colère !
+MID_TIAMAT_VOICE09: Go on...
+MID_TIAMAT_VOICE10: Heehee
+MID_TIAMAT_VOICE11: I am with the Greil Mercenaries. Have you a job for us?
+MID_TIAMAT_VOICE12: Wha—? Phew! That was close. Not a good idea to sneak up on me.
+MID_TIAMAT_VOICE13: So you're the Great Hero I'm hearing about? A legend already at your age!
+MID_TIAMAT_VOICE14: I'd like to ask you—how many years do you think I've been doing this?
+MID_TIAMAT_VOICE15: Some think daily training is boring. I think it keeps you alive. So let's keep it up, all right?
+MID_TIAMAT_VOICE16: What to do...? A battle of strength? You do realize who you're talking to, right?
+MID_TIAMAT_VOICE17: Whatever the path you choose, I will be there right beside you.
+MID_TIAMAT_VOICE18: Yes.
+MID_TIAMAT_VOICE19: Stay alert.
+MID_TIAMAT_VOICE20: Live on.

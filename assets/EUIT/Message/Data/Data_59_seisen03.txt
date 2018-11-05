@@ -1,0 +1,178 @@
+[Heroes Archive] (Data_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_桃色のアヒル: Paperella color pesca
+MDAID_H_桃色のアヒル: Una papera gonfiabile che galleggia\nsull'acqua. Vederla ondeggiare su\ne giù ha un effetto calmante.
+MDAID_夏うさぎの帽子: Capp. coniglio estivo
+MDAID_H_夏うさぎの帽子: Un cappello indossato in passato da\nun'eroina che ama i cieli d'estate.\nLa faccia di coniglio ha personalità.
+MID_MISSION_S201809KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201809KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201809KIZUNA01_A1: Vinci la Battaglia legame contro Chrom e Lissa\ncon Sharena, la principessa di Askr, in squadra.
+MID_MISSION_S201809KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201809KIZUNA01_A2: Vinci la Battaglia legame contro Chrom e Lissa\nal livello di difficoltà folle o superiore con Fjorm\nin squadra.
+MID_MISSION_S201809KIZUNA01_A3: Batti Chrom
+MID_MISSION_H_S201809KIZUNA01_A3: Batti Chrom, il nuovo Eletto, di livello 40\no superiore con Sharena, la principessa\ndi Askr.
+MID_MISSION_S201809KIZUNA01_A4: Batti Lissa
+MID_MISSION_H_S201809KIZUNA01_A4: Batti Lissa, la delicatina, di livello 40\no superiore con Fjorm.
+MID_MISSION_S201809KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201809KIZUNA01_A5: Vinci la Battaglia legame contro Chrom e Lissa\nal livello di difficoltà folle o superiore con\nuna squadra di sole unità volanti.
+MID_MISSION_S201809SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201809SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201809SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201809SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201809SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201809SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201809STORY01_TITLE: Gocce di veleno
+MID_MISSION_S201809STORY01_A1: Completa 12-1 folle
+MID_MISSION_H_S201809STORY01_A1: Completa il libro II, cap. 12-1 alla difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY01_A2: Completa 12-2 folle
+MID_MISSION_H_S201809STORY01_A2: Completa il libro II, cap. 12-2 alla difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY01_A3: Completa 12-3 folle
+MID_MISSION_H_S201809STORY01_A3: Completa il libro II, cap. 12-3 alla difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY01_A4: Completa 12-4 folle
+MID_MISSION_H_S201809STORY01_A4: Completa il libro II, cap. 12-4 alla difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809STORY01_A5: Completa 12-5 folle
+MID_MISSION_H_S201809STORY01_A5: Completa il libro II, cap. 12-5 alla difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201809TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201809TAPBTL01_D01_A1: Batti Legault
+MID_MISSION_H_S201809TAPBTL01_D01_A1: Sconfiggi il boss Legault alla difficoltà normale\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201809TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201809TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201809TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201809TAPBTL01_D02_A1: Batti Legault
+MID_MISSION_H_S201809TAPBTL01_D02_A1: Sconfiggi il boss Legault alla difficoltà difficile\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201809TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201809TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201809TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201809TAPBTL01_D03_A1: Batti Linus
+MID_MISSION_H_S201809TAPBTL01_D03_A1: Sconfiggi il boss Linus alla difficoltà normale\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201809TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201809TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201809TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201809TAPBTL01_D04_A1: Batti Linus
+MID_MISSION_H_S201809TAPBTL01_D04_A1: Sconfiggi il boss Linus alla difficoltà difficile\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201809TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201809TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201809TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201809TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201809TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201809TAPBTL02_A1: Supera fasi boss
+MID_MISSION_H_S201809TAPBTL02_A1: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201809TAPBTL02_A2: Supera fasi boss
+MID_MISSION_H_S201809TAPBTL02_A2: Completa una fase boss in Battaglia tattile.
+MID_MISSION_S201809TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201809TAPBTL02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201809TAPBTL02_A4: Supera fase extra 1
+MID_MISSION_H_S201809TAPBTL02_A4: Completa la fase extra 1 in Battaglia tattile.\nPuoi giocare la fase extra 1 dopo lo sblocco\ndelle fasi extra.
+MPID_キュアン: Quan
+MPID_エスリン: Ethlyn
+MPID_レヴィン: Lewyn
+MPID_シルヴィア: Silvia
+MPID_HONOR_キュアン: Il lanciere fulgido
+MPID_HONOR_エスリン: La nobile vivace
+MPID_HONOR_レヴィン: La brezza guida
+MPID_HONOR_シルヴィア: L'errante ballerina
+MPID_H_キュアン: Principe di Leonster ed erede della lancia\nGáe Bolg. Marito di Ethlyn, la sorella minore\ndel suo caro amico Sigurd. Compare in\nFire Emblem: Genealogy of the Holy War.
+MPID_H_エスリン: L'avventurosa sorella minore di Sigurd\ndi Chalphy e moglie del principe Quan\ndi Leonster, con il quale ha avuto un figlio\ne una figlia. Tiene molto alla famiglia. Compare\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_レヴィン: Principe di Silesse ed erede del tomo del vento\nForseti. Discende da Ced, uno dei leggendari\ndodici crociati. Compare in Fire Emblem:\nGenealogy of the Holy War.
+MPID_H_シルヴィア: Una danzatrice che viaggia per il mondo.\nIl suo dolce aspetto non sempre si rispecchia\nnelle sue azioni. Discende dal gran sacerdote\nBragi. Compare in Fire Emblem:\nGenealogy of the Holy War.
+MPID_VOICE_キュアン: Chris Hackney
+MPID_VOICE_エスリン: Allegra Clark
+MPID_VOICE_レヴィン: Steve Staley
+MPID_VOICE_シルヴィア: Laura Post
+MPID_ILLUST_キュアン: Aoji (あおじ)
+MPID_ILLUST_エスリン: kaya8
+MPID_ILLUST_レヴィン: Suda Ayaka (須田彩加)
+MPID_ILLUST_シルヴィア: Chiko (チーコ)
+MSID_セルジュの恐斧: Ascia di Zelcher
+MSID_オーディンの黒書: Grimorio di Odin
+MSID_第14迷宮の覇者1: Asso squadra N1
+MSID_第14迷宮の覇者2: Asso squadra N2
+MSID_第14迷宮の覇者3: Asso squadra N3
+MSID_バリアの剣: Lama barriera
+MSID_バリアの剣＋: Lama barriera+
+MSID_ゲイボルグ: Gáe Bolg
+MSID_フォルセティ: Forseti
+MSID_速さ守備の応援＋: Sprone Vel/Dif+
+MSID_飛燕金剛の構え1: Postura decisa 1
+MSID_飛燕金剛の構え2: Postura decisa 2
+MSID_奥義の螺旋1: Spira speciale 1
+MSID_奥義の螺旋2: Spira speciale 2
+MSID_奥義の螺旋3: Spira speciale 3
+MSID_疾風静水の舞い1: Danza diluvio 1
+MSID_疾風静水の舞い2: Danza diluvio 2
+MSID_H_セルジュの恐斧: Infligge Vel -5. Se l'unità attacca\nper prima, esegue due attacchi.
+MSID_H_オーディンの黒書: Aggiunge ai danni inflitti la somma\ndi eventuali bonus dell'unità.
+MSID_H_ライナロック改: Conferisce Att/Vel +5 durante lo scontro.\nSe l'unità ha attaccato, subisce PS -5\ndopo lo scontro.
+MSID_H_攻撃速さの連携R6: Se l'unità usa un'abilità di aiuto al movimento,\ncome Perno, Spostamento o Spinta, su un\nalleato o viceversa, Att/Vel +6 all'unità e\nall'alleato per 1 turno.
+MSID_H_第14迷宮の覇者1: Conferisce Vel +1.
+MSID_H_第14迷宮の覇者2: Conferisce Vel +2.
+MSID_H_第14迷宮の覇者3: Conferisce Vel +3.
+MSID_H_バリアの剣: Se il nemico attacca per primo, Res +7\ndurante lo scontro.
+MSID_H_バリアの剣＋: Se il nemico attacca per primo, Res +7\ndurante lo scontro.
+MSID_H_ゲイボルグ: Se il nemico è di fanteria, corazzato o a cavallo,\nAtt/Dif +5 durante lo scontro.
+MSID_H_フォルセティ: Conferisce Vel +3. Se l'unità attacca per prima\ncon almeno il 50% dei PS, l'eventuale attacco\ndoppio avrà luogo prima del contrattacco\navversario.
+MSID_H_速さ守備の応援＋: Conferisce Vel/Dif +6 a un alleato per 1 turno.
+MSID_H_飛燕金剛の構え1: Se il nemico attacca per primo,\nVel/Dif +2 durante lo scontro.
+MSID_H_飛燕金剛の構え2: Se il nemico attacca per primo,\nVel/Dif +4 durante lo scontro.
+MSID_H_奥義の螺旋1: Se l'unità attacca per prima e l'abilità speciale\nsi attiva prima o durante il combattimento,\ncontatore -1 dopo lo scontro.
+MSID_H_奥義の螺旋2: Se l'abilità speciale si attiva prima o durante\nil combattimento, contatore -1 dopo lo scontro.
+MSID_H_奥義の螺旋3: Se l'abilità speciale si attiva prima o durante\nil combattimento, contatore -2 dopo lo scontro.
+MSID_H_疾風静水の舞い1: Se vengono usati Canto o Danza, conferisce\nVel +2 e Res +3 all'obiettivo.
+MSID_H_疾風静水の舞い2: Se vengono usati Canto o Danza, conferisce\nVel +3 e Res +4 all'obiettivo.
+MID_CHAPTER_TITLE_C0212: Libro II, cap. 12
+MID_CHAPTER_C0212: Gocce di veleno
+MID_STAGE_TITLE_S2121: Capitolo 12-1
+MID_STAGE_TITLE_S2122: Capitolo 12-2
+MID_STAGE_TITLE_S2123: Capitolo 12-3
+MID_STAGE_TITLE_S2124: Capitolo 12-4
+MID_STAGE_TITLE_S2125: Capitolo 12-5
+MID_STAGE_S2121: Sospetti
+MID_STAGE_S2122: Progenie dei crociati
+MID_STAGE_S2123: Una bestia alla deriva
+MID_STAGE_S2124: Seguendo la brezza
+MID_STAGE_S2125: La serpe in seno
+MID_STAGE_TITLE_BG_EARTH_0011: Terra 1
+MID_STAGE_TITLE_BG_FIRE_0011: Fuoco 1
+MID_STAGE_TITLE_BG_WATER_0012: Acqua 2
+MID_STAGE_TITLE_BG_WIND_0012: Vento 2
+MID_STAGE_TITLE_BG_EARTH_0012: Terra 2
+MID_STAGE_TITLE_SB_0014: 14º assalto
+MID_CHAPTER_ST_C0206: Capitoli 11 e 12
+MID_STAGE_TITLE_ST_S0211: Capitolo 11
+MID_STAGE_TITLE_ST_S0212: Capitolo 12
+MID_STAGE_TITLE_ST_S1212: Cap. 11 e 12
+MID_STAGE_TITLE_PB027: Le abilità: 27
+MID_STAGE_PB027: Forseti: attacco doppio
+MID_STAGE_TITLE_PC013: Per veterani: 13
+MID_STAGE_PC013: Discrezione e valore
+MID_STAGE_HONOR_OCCUPATION: Mappa evento
+MID_STAGE_OCCUPATION: Lotta di potere
+MID_STAGE_HONOR_OCCUPATION_DEFENSE: Mappa evento
+MID_STAGE_OCCUPATION_DEFENSE: Difesa alterna
+MID_STAGE_TITLE_OCCUPATION_DEFENSE0: 1ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE1: 2ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE2: 3ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE3: 4ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE4: 5ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE5: 6ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE6: 7ª mappa
+MID_STAGE_TITLE_OCCUPATION_DEFENSE7: 8ª mappa
+MID_HEADQUARTERS_RELAY_TUTORIAL_DIALOG_00: Proteggi il fortino e i campi!
+MID_WARPBASE_RELAY_TUTORIAL_DIALOG_00: Spostati tra i fortini e i campi!
+MID_TAP_BATTLE_DATA_TITLE_0008: Addii
+MID_MUSIC_NAME_BGM_MAP_FE07_03: Amicizia e avventura
+MID_MUSIC_NAME_BGM_MAP_FE15_03: Alla fine del cammino
+MID_MUSIC_NAME_BGM_BATTLE_FE13_01: Addestramento (impetuoso)

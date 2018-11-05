@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_HOME1: $Nuと\nアルフォンスのことを見ていると…\n昔のあいつと俺を思い出すな。
+MID_CHROM_HOME2: 自警団では、各地にはびこる賊や\n屍兵という化け物を退治していた。\nここでは、英雄との戦闘が主なのだな。
+MID_CHROM_HOME3: 何だ、見回りか。\nお前はうちの軍師とやることが似ているな。\nあまり無理はするなよ？
+MID_CHROM_HOME4: 今度俺と訓練をしないか？\n護身術くらいなら教えてやるぞ。\nそれなら壁に穴も空かん。
+MID_CHROM_HOME5: …すまん、$Nu。\nファルシオンで素振りをしていたら、\n飾ってあった壷を粉砕してしまった…
+MID_CHROM_FRIEND: ここがお前の城か？\n$Nfがお前に\nよろしく頼むと言っていたぞ。
+MID_CHROM_LEVEL1: もう俺は誰にも負けん…！
+MID_CHROM_LEVEL2: 俺はもっと強くなる！
+MID_CHROM_LEVEL3: すまん。\nあまり変わらなかったな…
+MID_CHROM_SKILL: 力をくれたのか、礼を言う。\n決して後悔はさせんぞ。
+MID_CHROM_JOIN: イーリス聖王国の王子、クロムだ。\n自警団の団長をしている。\n仲間のため、世界のために…俺は戦う。
+MID_CHROM_STRONGEST: お前と戦場に出るようになってから\nもうずいぶん経つ気がするな。\n最初は戸惑うことばかりだったが…$k$p$Nuが俺のことを\n導いてくれて心強かったぞ。\nこれからもどうか、共にいてくれ。$k$pそれにしても…\n初めて見た時から思っていたが、\nお前はルフレによく似ている。$k$pいや、見た目の話じゃない。\n戦略を立てて皆の力になるところや\n誰一人死なせまいとするその思いがだ。$k$pお前も、今に素晴らしい軍師になるだろう。\n俺も英雄として力を貸す。\nお前との絆は…永遠だ。\n
+MID_CHROM_VOICE01: はっ！
+MID_CHROM_VOICE02: せやあっ！
+MID_CHROM_VOICE03: ぐあっ！
+MID_CHROM_VOICE04: くそっ…！
+MID_CHROM_VOICE05: 運命を変える！
+MID_CHROM_VOICE06: 俺は負けん！
+MID_CHROM_VOICE07: これが絆だ！
+MID_CHROM_VOICE08: とどめは任せろ！
+MID_CHROM_VOICE09: ち、ち…くしょう…！
+MID_CHROM_VOICE10: ふっ…
+MID_CHROM_VOICE11: この絆は、運命なんかよりもずっと強い
+MID_CHROM_VOICE12: お前の武器は、変わっているな
+MID_CHROM_VOICE13: とくむきかん、とは…自警団のようなものか？
+MID_CHROM_VOICE14: イーリスは大丈夫なのだろうか…
+MID_CHROM_VOICE15: 俺には頼りになる軍師がついている
+MID_CHROM_VOICE16: むう…また壁に穴を開けてしまった…
+MID_CHROM_VOICE17: この絆は永遠…俺はそう信じている。\n望めばいつでも、この手を貸そう。…友よ。
+MID_CHROM_VOICE18: ああ
+MID_CHROM_VOICE19: よし
+MID_CHROM_VOICE20: 行くぞ

@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN_HOME1: Es reconfortante ver lo bien\nque se llevan el príncipe Alfonse\ny la princesa Sharena.
+MID_OLWEN_HOME2: Mi hermano, Reinhardt, es un\nguerrero extraordinario.$k$pIncluso hay quienes creen\nque es la reencarnación de uno\nde los míticos Doce Cruzados.
+MID_OLWEN_HOME3: ¿Te interesa la magia? Yo estoy\nversada en la artes arcanas.\nSi quieres, puedo enseñarte.
+MID_OLWEN_HOME4: Mi hermano, Reinhardt, seguirá su\ncamino y yo el mío, aunque eso\nnos convierta un día en enemigos.
+MID_OLWEN_HOME5: Los niños son el bien más valioso de\nun reino. En el futuro se encargarán\nde soportar la carga del país.
+MID_OLWEN_FRIEND: Mi nombre es Olwen. Me han pedido\nque te traiga saludos de parte de\n$Nf.
+MID_OLWEN_LEVEL1: ¡Qué suerte! Es fantástico.
+MID_OLWEN_LEVEL2: No está mal, pero mi hermano\navanza mucho más rápido.
+MID_OLWEN_LEVEL3: ¿Cómo? Nunca seré capaz\nde superar esta decepción.
+MID_OLWEN_SKILL: Lo usaré en batalla para honrar\ntu generosidad.
+MID_OLWEN_JOIN: Me llamo Olwen. ¿Me permites\nque me una a tu causa? Te estaría\neternamente agradecida.
+MID_OLWEN_STRONGEST: Mi hermano es una persona especial.\nSiempre me ha servido de guía.\nA su lado me sentía segura.$k$pPero un día quedé fuera de su\nmanto protector y tuve que aprender\na valerme por mí misma.$k$pNo me fue fácil acostumbrarme a mi\nnueva situación, a veces la carga me\nresultaba abrumadora.$k$pDesde que me uní a ti he visto que\neres capaz de encontrar respuestas\nincluso en los momentos sombríos.$k$pEres una inspiración para mí.\nSerá un honor permanecer a tu\nlado todo el tiempo que quieras.
+MID_OLWEN_VOICE01: はっ！
+MID_OLWEN_VOICE02: せいっ！
+MID_OLWEN_VOICE03: きゃああっ！
+MID_OLWEN_VOICE04: How cowardly...
+MID_OLWEN_VOICE05: ¡Atrás, canalla!
+MID_OLWEN_VOICE06: ¡Sin piedad!
+MID_OLWEN_VOICE07: ¡Por los necesitados!
+MID_OLWEN_VOICE08: ¡Yo te pararé!
+MID_OLWEN_VOICE09: Not here...
+MID_OLWEN_VOICE10: huhu
+MID_OLWEN_VOICE11: I thank you deeply for giving me your time.
+MID_OLWEN_VOICE12: Aaah! Ha ha! I scare easily, I guess.
+MID_OLWEN_VOICE13: I'm sometimes at a loss about how to proceed.
+MID_OLWEN_VOICE14: Children should be happy. I will always fight to keep their smiles bright.
+MID_OLWEN_VOICE15: Where should I even begin, expressing my thoughts?
+MID_OLWEN_VOICE16: If ever my brother stands in my way? Well, I will do what I must.
+MID_OLWEN_VOICE17: I would like to fight on the side of good, for as long as goodness will have me.
+MID_OLWEN_VOICE18: OK.
+MID_OLWEN_VOICE19: Yes?
+MID_OLWEN_VOICE20: Onward.

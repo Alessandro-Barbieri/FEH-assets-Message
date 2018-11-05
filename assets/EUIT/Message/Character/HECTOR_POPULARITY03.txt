@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_POPULARITY03_HOME1: Ather... Vorrei poter essere stato\nal tuo fianco per aiutarti, fratello...
+MID_HECTOR_POPULARITY03_HOME2: Questa è la lancia del gelo Maltet.\nE, proprio come Fragore, è una\ndelle armi leggendarie di Elibe.$k$pMa a livello di uso, è tutt'altra\nstoria rispetto alla mia Fragore.
+MID_HECTOR_POPULARITY03_HOME3: Non avvicinarti troppo. Un passo\nfalso e quest'imponente armatura\npotrebbe schiacciarti. Ah ah, scherzo!$k$pBeh, in ogni caso fai attenzione\nquando sono in giro...
+MID_HECTOR_POPULARITY03_HOME4: L'allenamento giornaliero è essenziale\nper potersi muovere con un'armatura\npesante come questa. Ti unisci a me?$k$pQuando ci si abitua al dolore e\nalla fatica risulta alquanto spassoso!
+MID_HECTOR_POPULARITY03_HOME5: Ehi, perché mi guardi in quel modo\nstrano? Ah, questo? È soltanto\nun libro.$k$pCosa?! Ma dai. Leggo anch'io!\nUn nobile deve acculturarsi un po'!
+MID_HECTOR_POPULARITY03_FRIEND: Sono Hector, marchese di Ositia.\nTi porto un messaggio da parte di\n$Nf.
+MID_HECTOR_POPULARITY03_LEVEL1: Eh, ora non potrei perdere\nneanche se volessi!
+MID_HECTOR_POPULARITY03_LEVEL2: Mi sto finalmente abituando\na questa lancia.
+MID_HECTOR_POPULARITY03_LEVEL3: Urgh... Pesantuccia, quest'armatura...
+MID_HECTOR_POPULARITY03_SKILL: Oh! Grazie! Ti ripagherò\nsul campo di battaglia!
+MID_HECTOR_POPULARITY03_JOIN: Sono Hector, marchese di Ositia.\nMi domandavo perché fossi stato\nevocato qui...$k$pSe hai bisogno di annientare qualche\nnemico, ho una lancia che fa al caso\ntuo, e una mano per usarla a dovere.
+MID_HECTOR_POPULARITY03_STRONGEST: Lascia che ti faccia una domanda...\nQuali qualità ritieni che un sovrano\ndebba avere?$k$pCi penso da quando ho ereditato\nil trono. E a parte il coraggio non\nmi viene in mente nient'altro...$k$pIl rispetto del prossimo, dici? Mmmh...\nSenza il sostegno del popolo non si\npuò governare...$k$pSì, credo che abbia senso.$k$pTuttavia, il rispetto non è qualcosa\nche si può vedere con gli occhi.$k$pEh? Non serve vedere per credere?\nWow, dispensi saggezza prima ancora\nche io capisca di cosa parliamo...$k$pBeh, se queste sono le qualità che ci\nsi aspetta da un sovrano, non mi resta\nche farle mie...$k$p... per tutti coloro che credono in me\ne per il mio amato fratello.
+MID_HECTOR_POPULARITY03_VOICE01: せいっ！
+MID_HECTOR_POPULARITY03_VOICE02: いくぜっ！
+MID_HECTOR_POPULARITY03_VOICE03: うああっ！
+MID_HECTOR_POPULARITY03_VOICE04: まだまだ…！
+MID_HECTOR_POPULARITY03_VOICE05: Preparatevi a morire!
+MID_HECTOR_POPULARITY03_VOICE06: Fate largo!
+MID_HECTOR_POPULARITY03_VOICE07: La fortuna è finita!
+MID_HECTOR_POPULARITY03_VOICE08: Vai, Maltet!
+MID_HECTOR_POPULARITY03_VOICE09: Uther... I...
+MID_HECTOR_POPULARITY03_VOICE10: うーむ
+MID_HECTOR_POPULARITY03_VOICE11: This here is heavy armor from House Ostia. And let me tell you, they don't call it "heavy" for nothing!
+MID_HECTOR_POPULARITY03_VOICE12: Who was that? This bulky armor makes it so hard to move. Normally I'm lighter on my feet, I swear!
+MID_HECTOR_POPULARITY03_VOICE13: Get this. "For generations, Corrupt neither the body nor the mind has been the dominant ideology of Ostia."
+MID_HECTOR_POPULARITY03_VOICE14: My brother Uther was the Marquess of Ostia. He was a great man... Someone you could truly respect.
+MID_HECTOR_POPULARITY03_VOICE15: My dream was to one day grow wiser so I could sit at my brother's side and aid him.
+MID_HECTOR_POPULARITY03_VOICE16: I never asked it of him, but... Even on the verge of death, he watched over me.
+MID_HECTOR_POPULARITY03_VOICE17: You're not dying while I'm around. Not a chance.
+MID_HECTOR_POPULARITY03_VOICE18: Right.
+MID_HECTOR_POPULARITY03_VOICE19: I'm up next!
+MID_HECTOR_POPULARITY03_VOICE20: One step at a time.

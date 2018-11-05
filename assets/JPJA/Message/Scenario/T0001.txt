@@ -1,0 +1,8 @@
+[Heroes Archive] (T0001)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ルフレ女,ch04_08_Reflet_F_Normal,Face|$w0|一緒に策を考えましょう。\nこの敵陣に、どう踏み込むべきか…\nあなたの考えを聞かせてください。$k$p$Sbs1000|

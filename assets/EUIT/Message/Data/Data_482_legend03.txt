@@ -1,0 +1,176 @@
+[Heroes Archive] (Data_482_legend03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201804A_TITLE: Imprese aprile (1)
+MID_MISSION_M201804A_A1: Vinci con unità verdi
+MID_MISSION_H_M201804A_A1: Sconfiggi i nemici con unità di tipo verde.
+MID_MISSION_M201804A_A2: Vinci con unità a cavallo
+MID_MISSION_H_M201804A_A2: Sconfiggi i nemici con unità a cavallo.
+MID_MISSION_M201804A_A3: Batti nemici rossi
+MID_MISSION_H_M201804A_A3: Sconfiggi nemici di tipo rosso.
+MID_MISSION_M201804A_A4: Batti unità di fanteria
+MID_MISSION_H_M201804A_A4: Sconfiggi unità di fanteria nemiche.
+MID_MISSION_M201804A_A5: Arena: vinci duelli
+MID_MISSION_H_M201804A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201804A_A6: Blu batte nem. Liv 20+
+MID_MISSION_H_M201804A_A6: Sconfiggi nemici di livello 20 o superiore\ncon unità di tipo blu.
+MID_MISSION_M201804A_A7: Fanter. batte nem. Liv 20+
+MID_MISSION_H_M201804A_A7: Sconfiggi nemici di livello 20 o superiore\ncon unità di fanteria.
+MID_MISSION_M201804A_A8: Batti nemici verdi Liv 20+
+MID_MISSION_H_M201804A_A8: Sconfiggi nemici di tipo verde\ndi livello 20 o superiore.
+MID_MISSION_M201804A_A9: Batti cavalleria Liv 20+
+MID_MISSION_H_M201804A_A9: Sconfiggi nemici a cavallo di\nlivello 20 o superiore.
+MID_MISSION_M201804A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201804A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201804A_A11: Rosso batte nem. Liv 35+
+MID_MISSION_H_M201804A_A11: Sconfiggi nemici di livello 35 o superiore\ncon unità di tipo rosso.
+MID_MISSION_M201804A_A12: Volan. batte nem. Liv 35+
+MID_MISSION_H_M201804A_A12: Sconfiggi nemici di livello 35 o superiore\ncon unità volanti.
+MID_MISSION_M201804A_A13: Batti nemici blu Liv 35+
+MID_MISSION_H_M201804A_A13: Sconfiggi nemici di tipo blu\ndi livello 35 o superiore.
+MID_MISSION_M201804A_A14: Batti nem. volanti Liv 35+
+MID_MISSION_H_M201804A_A14: Sconfiggi unità volanti\ndi livello 35 o superiore.
+MID_MISSION_M201804A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201804A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_M201804B_TITLE: Imprese aprile (2)
+MID_MISSION_M201804B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201804B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201804B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201804B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201804B_A4: Completa il quarto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201804B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201804B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201804B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201804B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201804B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201804B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201804B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201804B_A12: Completa il decimo piano della torre di\nallenamento con soli alleati corazzati.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201804B_A13: Completa il decimo piano della torre di\nallenamento con soli alleati a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201804B_A14: Completa il decimo piano della torre di\nallenamento con soli alleati volanti. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_TITLE: Imprese aprile (3)
+MID_MISSION_M201804C_A1: Completa 1-1
+MID_MISSION_H_M201804C_A1: Completa il capitolo 1, parte 1. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A2: Completa 1-2
+MID_MISSION_H_M201804C_A2: Completa il cap. 1, parte 2 con un'unità di\ntipo rosso in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804C_A3: Completa 1-3
+MID_MISSION_H_M201804C_A3: Completa il cap. 1, parte 3 con un'unità di\ntipo blu in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804C_A4: Completa 1-4
+MID_MISSION_H_M201804C_A4: Completa il cap. 1, parte 4 con un'unità di\ntipo verde in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804C_A5: Completa 1-5
+MID_MISSION_H_M201804C_A5: Completa il cap. 1, parte 5 con un'unità di\ntipo neutro in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201804C_A6: Completa 4-1 difficile+
+MID_MISSION_H_M201804C_A6: Completa il cap. 4, parte 1 al livello di difficoltà\ndifficile o superiore. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201804C_A7: Completa 4-2 difficile+
+MID_MISSION_H_M201804C_A7: Completa il cap. 4, parte 2 al livello difficile o\nsuperiore con un'unità di tipo rosso in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A8: Completa 4-3 difficile+
+MID_MISSION_H_M201804C_A8: Completa il cap. 4, parte 3 al livello difficile o\nsuperiore con un'unità di tipo blu in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A9: Completa 4-4 difficile+
+MID_MISSION_H_M201804C_A9: Completa il cap. 4, parte 4 al livello difficile o\nsuperiore con un'unità di tipo verde in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A10: Completa 4-5 difficile+
+MID_MISSION_H_M201804C_A10: Completa il cap. 4, parte 5 al livello difficile o\nsuperiore con un'unità di tipo neutro in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A11: Completa 7-1 folle
+MID_MISSION_H_M201804C_A11: Completa il cap. 7, parte 1 al livello folle.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A12: Completa 7-2 folle
+MID_MISSION_H_M201804C_A12: Completa il cap. 7, parte 2 al livello folle\ncon un'unità di tipo rosso in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A13: Completa 7-3 folle
+MID_MISSION_H_M201804C_A13: Completa il cap. 7, parte 3 al livello folle\ncon un'unità di tipo blu in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A14: Completa 7-4 folle
+MID_MISSION_H_M201804C_A14: Completa il cap. 7, parte 4 al livello folle\ncon un'unità di tipo verde in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201804C_A15: Completa 7-5 folle
+MID_MISSION_H_M201804C_A15: Completa il cap. 7, parte 5 al livello folle\ncon un'unità di tipo neutro in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201804KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201804KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA01_A1: Con Alfonse, il principe di Askr, in squadra,\nvinci la Battaglia legame contro Minerva\ne Marian.
+MID_MISSION_S201804KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA01_A2: Con Fjorm in squadra, vinci la Battaglia legame\ncontro Minerva e Marian al livello di difficoltà\nfolle o superiore.
+MID_MISSION_S201804KIZUNA01_A3: Batti Minerva
+MID_MISSION_H_S201804KIZUNA01_A3: Batti Minerva di livello 40 o superiore\ncon Alfonse, il principe di Askr.
+MID_MISSION_S201804KIZUNA01_A4: Batti Marian
+MID_MISSION_H_S201804KIZUNA01_A4: Batti Marian di livello 40 o superiore\ncon Fjorm.
+MID_MISSION_S201804KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201804KIZUNA01_A5: Vinci la Battaglia legame contro Minerva e\nMarian al livello di difficoltà folle o superiore\ncon una squadra di sole unità volanti.
+MID_MISSION_S201804TRIAL01_TITLE: Sfida a catena
+MID_MISSION_S201804TRIAL01_A1: Completa sfida
+MID_MISSION_H_S201804TRIAL01_A1: Completa la mappa finale dell'app. 1\nin sfida a catena.
+MID_MISSION_S201804TRIAL01_A2: Completa sfida
+MID_MISSION_H_S201804TRIAL01_A2: Completa la mappa finale dell'app. 2\nin sfida a catena al livello di difficoltà\ndifficile o superiore.
+MID_MISSION_S201804TRIAL01_A3: Completa sfida
+MID_MISSION_H_S201804TRIAL01_A3: Completa la mappa finale delle app. 1 e 2\nin sfida a catena al livello di difficoltà folle.
+MID_MISSION_S201804TRIAL01_A4: Assalto a squadre: vinci
+MID_MISSION_H_S201804TRIAL01_A4: Completa la mappa finale del 5º assalto\nin assalto a squadre.
+MID_MISSION_S201804VOTE01_TITLE: Sfida ai voti
+MID_MISSION_S201804VOTE01_A1: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A1: Vinci una battaglia nella sfida ai voti.
+MID_MISSION_S201804VOTE01_A2: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A2: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201804VOTE01_A3: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A3: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201804VOTE01_A4: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A4: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201804VOTE01_A5: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A5: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201804VOTE01_A6: Torre: vinci al 2º piano
+MID_MISSION_H_S201804VOTE01_A6: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201804VOTE01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201804VOTE01_A7: Vinci al quinto piano della torre\ndi allenamento.
+MID_MISSION_S201804VOTE01_A8: Torre: vinci all'8º piano
+MID_MISSION_H_S201804VOTE01_A8: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201804VOTE01_A9: Arena: vinci duelli
+MID_MISSION_H_S201804VOTE01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201804VOTE01_A10: Arena: vinci duelli
+MID_MISSION_H_S201804VOTE01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201804VOTE01_A11: Arena: vinci duelli int.+
+MID_MISSION_H_S201804VOTE01_A11: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201804VOTE01_A12: Arena: vinci duelli int.+
+MID_MISSION_H_S201804VOTE01_A12: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201804VOTE01_A13: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A13: Vinci una battaglia nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201804VOTE01_A14: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A14: Vinci una battaglia nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201804VOTE01_A15: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A15: Vinci una battaglia nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201804VOTE01_A16: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A16: Vinci una battaglia nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MID_MISSION_S201804VOTE01_A17: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A17: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201804VOTE01_A18: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A18: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201804VOTE01_A19: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A19: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201804VOTE01_A20: Sfida ai voti
+MID_MISSION_H_S201804VOTE01_A20: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MPID_伝承ルフレ女: Daraen
+MPID_HONOR_伝承ルフレ女: Il guscio maligno
+MPID_H_伝承ルフレ女: Daraen, la stratega d'Ylisse, controllata\nin anima e corpo da Grima, il Drago Maligno.\nCompare in Fire Emblem Awakening.
+MPID_VOICE_伝承ルフレ女: Lauren Landa
+MPID_ILLUST_伝承ルフレ女: Chiko (チーコ)
+MPID_LEGEND_伝承ルフレ女: Effetto leggendario: terra\nIncremento alleato: PS +3, Vel +3\n\nSe quest'unità scende in battaglia durante\nla stagione della terra con alleati che hanno\nil Dono della terra, questi alleati ricevono\nquest'effetto leggendario.
+MSID_邪竜の鱗: Scaglie di drago
+MSID_魔防の紫煙1: Res in fumo 1
+MSID_魔防の紫煙2: Res in fumo 2
+MSID_魔防の紫煙3: Res in fumo 3
+MSID_H_邪竜の鱗: Annulla i bonus derivanti dall'effetto "efficace\ncontro le unità volanti". Se il nemico attacca\nper primo, Dif/Res +4 durante lo scontro.
+MSID_H_魔防の紫煙1: Infligge Res -3 ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_魔防の紫煙2: Infligge Res -5 ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MSID_H_魔防の紫煙3: Infligge Res -7 ai nemici entro 2 spazi\ndal bersaglio dopo lo scontro durante\nle loro prossime azioni.
+MID_STAGE_HONOR_T0028: Battaglia legame
+MID_STAGE_T0028: T. e N.
+MID_STAGE_HONOR_L0001: Il guscio maligno
+MID_STAGE_L0001: Daraen

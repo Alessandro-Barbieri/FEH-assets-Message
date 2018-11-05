@@ -1,0 +1,38 @@
+[Heroes Archive] (ODIN)
+
+
+Heroes Message Name: Message
+
+
+MID_ODIN_HOME1: Je sens que votre ordre a besoin\nde héros pour affronter la terrible\nmenace qui pèse sur ce monde.$k$pNe tremblez plus ! Odin le Sombre\nest arrivé à la rescousse !
+MID_ODIN_HOME2: J'obéis au seigneur Leo, prince\nde Nohr et maître de l'obscurité.
+MID_ODIN_HOME3: Vous qui débarrassez ce monde des\nengeances du mal, pensez aussi à\nvous abandonner aux songes.$k$pEn d'autres termes, reposez-vous\nde temps en temps.
+MID_ODIN_HOME4: Ce lieu fabuleux regorge de salles\ninterdites et d'armes légendaires !$k$pOdin le Sombre insiste pour que\nvous lui fassiez visiter les moindres\nrecoins de ce château !
+MID_ODIN_HOME5: Nulle arme ne devrait porter un nom\nordinaire. Les ténèbres m'ont soufflé\nle nom de Miserteinn...$k$pJe vais sonder les profondeurs de\nmon âme pour tenter de trouver la\nvéritable identité de la vôtre...
+MID_ODIN_FRIEND: $Nf m'a\nconfié ce mot qu'il gardait dans\nl'écrin de son âme : « Salut ! »
+MID_ODIN_LEVEL1: Oui ! Ma vraie force s'éveille enfin !
+MID_ODIN_LEVEL2: Une telle puissance ne peut être\ncachée !
+MID_ODIN_LEVEL3: Je sens qu'une présence perfide\ndraine mon énergie...
+MID_ODIN_SKILL: Ô architecte de mon excellence !\nMerci !
+MID_ODIN_JOIN: Je suis Odin le Sombre, mage\nde Nohr, explorateur de l'infini\net énigme nébuleuse...
+MID_ODIN_STRONGEST: Ah ! Mon troisième œil m'avait\nannoncé votre arrivée en ce lieu\nsacré dédié à l'héroïsme...$k$pIl m'avait prédit que je m'adresserai\nà l'$Gélu,élue|, $Gchoisi,choisie| par le destin pour...\nNon, ne partez pas ! Attendez !$k$pJe voulais dire que je me doutais\nque je vous trouverais ici. J'avais\njustement à vous parler.$k$pComme on est devenus proches,\nces derniers temps, j'aimerais vous\nrévéler mon lourd secret...$k$pJe ne m'appelle pas vraiment Odin.\nJe suis un guerrier venu d'un autre\nmonde... Mon vrai nom est Owain !$k$pJe sais que j'aime bien en faire des\ntonnes, mais je vous promets ceci :\nje ne vous mentirai plus jamais !
+MID_ODIN_VOICE01: でやっ！
+MID_ODIN_VOICE02: くらえ！
+MID_ODIN_VOICE03: ぐあっ！
+MID_ODIN_VOICE04: Not so bad...!
+MID_ODIN_VOICE05: Inutile de fuir !
+MID_ODIN_VOICE06: Assaut fantasmagorique !
+MID_ODIN_VOICE07: La puissance... m'envahit !
+MID_ODIN_VOICE08: Un peu de démesure !
+MID_ODIN_VOICE09: So...dark.
+MID_ODIN_VOICE10: Heh
+MID_ODIN_VOICE11: Odin will always do his darkest to assist you.
+MID_ODIN_VOICE12: You have my infinite gratitude for watching over me.
+MID_ODIN_VOICE13: Hey! You should have some big lines to say when summoning! I'll think some up for you!
+MID_ODIN_VOICE14: Summoner? Order of Heroes? You bask in the light of some powerful words, friend!
+MID_ODIN_VOICE15: Odin Dark never fathomed that he would find himself in a place like this!
+MID_ODIN_VOICE16: Where is my excellent Lord Leo? I ought to be by his side!
+MID_ODIN_VOICE17: Your divine weapon's name is Breidablik? Oh, who am I kidding?! How cool is that!
+MID_ODIN_VOICE18: All right!
+MID_ODIN_VOICE19: OK!
+MID_ODIN_VOICE20: So excited!

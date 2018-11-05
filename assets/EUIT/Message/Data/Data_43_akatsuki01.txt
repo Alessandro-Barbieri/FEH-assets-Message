@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: Non puoi acquistare questo pacchetto.\nL'hai già acquistato una volta, quindi\nnon puoi farlo di nuovo.
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|Ciao, $Nu!\nChe bello vederti!$k$pSono felice di constatare\nche stai bene. Temevo ti\nfosse successo qualcosa...$k$p$EFace_Smile|Ora posso smettere di preoccuparmi!\nSpero tornerai sul campo di battaglia.\nIl tuo aiuto ci farebbe molto comodo!$k$p
+MID_MISSION_S201801ARENA01_TITLE: Arena
+MID_MISSION_S201801ARENA01_A1: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A1: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A2: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A2: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A3: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A3: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A4: Assalto arena: 3 di fila
+MID_MISSION_H_S201801ARENA01_A4: Vinci tre battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201801ARENA01_A5: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A6: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A7: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A7: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A8: Assalto arena: 5 di fila
+MID_MISSION_H_S201801ARENA01_A8: Vinci cinque battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201801ARENA01_A9: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A10: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A11: Arena: vinci duelli
+MID_MISSION_H_S201801ARENA01_A11: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201801ARENA01_A12: Assalto arena: 7 di fila
+MID_MISSION_H_S201801ARENA01_A12: Vinci sette battaglie consecutive\nin Assalto arena.
+MID_MISSION_S201801SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201801SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201801SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201801SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201801SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201801SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201801SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201801SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201801SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201801STORY01_TITLE: Seguendo un sogno
+MID_MISSION_S201801STORY01_A1: Completa 3-1 folle
+MID_MISSION_H_S201801STORY01_A1: Completa il libro II, cap. 3-1 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY01_A2: Completa 3-2 folle
+MID_MISSION_H_S201801STORY01_A2: Completa il libro II, cap. 3-2 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY01_A3: Completa 3-3 folle
+MID_MISSION_H_S201801STORY01_A3: Completa il libro II, cap. 3-3 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY01_A4: Completa 3-4 folle
+MID_MISSION_H_S201801STORY01_A4: Completa il libro II, cap. 3-4 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801STORY01_A5: Completa 3-5 folle
+MID_MISSION_H_S201801STORY01_A5: Completa il libro II, cap. 3-5 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801TRIAL01_TITLE: Sfida a catena
+MID_MISSION_S201801TRIAL01_A1: Completa sfida
+MID_MISSION_H_S201801TRIAL01_A1: Completa la mappa finale del\ncap. 1 in sfida a catena.
+MID_MISSION_S201801TRIAL01_A2: Completa sfida
+MID_MISSION_H_S201801TRIAL01_A2: Completa la mappa finale del\ncap. 2 in sfida a catena al\nlivello difficile o superiore.
+MID_MISSION_S201801TRIAL01_A3: Completa sfida
+MID_MISSION_H_S201801TRIAL01_A3: Completa la mappa finale dei\ncap. 1 e 2 in sfida a catena al\nlivello folle.
+MID_MISSION_S201801TRIAL01_A4: Assalto a squadre: vinci
+MID_MISSION_H_S201801TRIAL01_A4: Completa la mappa finale del\n3º assalto in assalto a squadre.
+MID_MISSION_S201801VMAP01_TITLE: Armi perfezionate
+MID_MISSION_S201801VMAP01_A1: Completa p. 1
+MID_MISSION_H_S201801VMAP01_A1: Completa la parte 1 con un'unità rossa\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_S201801VMAP01_A2: Completa p. 2
+MID_MISSION_H_S201801VMAP01_A2: Completa la parte 2 con un'unità blu\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_S201801VMAP01_A3: Completa p. 3
+MID_MISSION_H_S201801VMAP01_A3: Completa la parte 3 con un'unità verde\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_S201801VMAP01_A4: Completa p. 4
+MID_MISSION_H_S201801VMAP01_A4: Completa la parte 4 con un'unità neutra\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_S201801VMAP01_A5: Completa p. 5
+MID_MISSION_H_S201801VMAP01_A5: Completa la parte 5. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_S201801VMAP01_A6: Completa p. 1 difficile+
+MID_MISSION_H_S201801VMAP01_A6: Completa la parte 1 con un'unità rossa\nin squadra al livello difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801VMAP01_A7: Completa p. 2 difficile+
+MID_MISSION_H_S201801VMAP01_A7: Completa la parte 2 con un'unità blu\nin squadra al livello difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801VMAP01_A8: Completa p. 3 difficile+
+MID_MISSION_H_S201801VMAP01_A8: Completa la parte 3 con un'unità verde\nin squadra al livello difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801VMAP01_A9: Completa p. 4 difficile+
+MID_MISSION_H_S201801VMAP01_A9: Completa la parte 4 con un'unità neutra\nin squadra al livello difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201801VMAP01_A10: Completa p. 5 difficile+
+MID_MISSION_H_S201801VMAP01_A10: Completa la parte 5 al livello difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_ミカヤ: Micaiah
+MPID_サザ: Sothe
+MPID_ゼルギウス: Zelgius
+MPID_オリヴァー: Oliver
+MPID_HONOR_ミカヤ: La chioma canuta
+MPID_HONOR_サザ: L'irruento ribelle
+MPID_HONOR_ゼルギウス: Il generale corvino
+MPID_HONOR_オリヴァー: L'esteta
+MPID_H_ミカヤ: Un membro della Brigata della Luce dai\npoteri misteriosi e dalla chioma argentea.\nLei e Sothe sono come fratello e sorella.\nCompare in Fire Emblem: Radiant Dawn.
+MPID_H_サザ: Un ladro della Brigata della Luce. Mostra poco\ninteresse verso gli altri ma è iperprotettivo\ncon Micaiah, che vede come una sorella.\nCompare in Fire Emblem: Radiant Dawn.
+MPID_H_ゼルギウス: Un generale noto come Cavaliere nero\nper via della sua armatura. La sua sacra\nspada, Alondite, ha il potere di squarciare i\ncieli. Compare in Fire Emblem: Radiant Dawn.
+MPID_H_オリヴァー: Un membro del Senato di Begnion. Adora\nla bellezza, in ogni sua forma, e si impegna\nal massimo per salvaguardare le arti.\nCompare in Fire Emblem: Radiant Dawn.
+MPID_VOICE_ミカヤ: Veronica Taylor
+MPID_VOICE_サザ: Nicolas Roye
+MPID_VOICE_ゼルギウス: Robert Clotworthy
+MPID_VOICE_オリヴァー: Richard Epcar
+MPID_ILLUST_ミカヤ: Chiko (チーコ)
+MPID_ILLUST_サザ: Kusugi Toku (久杉トク)
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: Homazo (ホマ蔵)
+MSID_第6迷宮の覇者1: Asso squadra F1
+MSID_第6迷宮の覇者2: Asso squadra F2
+MSID_第6迷宮の覇者3: Asso squadra F3
+MSID_ペシュカド: Peshkatz
+MSID_ライト: Luce
+MSID_エルライト: Luce d'elfo
+MSID_シャイン: Fulgore
+MSID_シャイン＋: Fulgore+
+MSID_セイニー: Thani
+MSID_癒しの手: Sacrificio
+MSID_転移の粉: Sparizione
+MSID_攻撃速さの紋章1: Migliora Att/Vel 1
+MSID_攻撃速さの紋章2: Migliora Att/Vel 2
+MSID_H_パルティア改: Efficace contro le unità volanti. Se il nemico\nusa la magia, il danno del primo attacco\nsubito dall'unità durante lo scontro\nè ridotto del 30%.
+MSID_H_シムベリン改: Att +3 agli alleati entro 2 spazi\ndurante lo scontro.
+MSID_H_対遠距離戦闘R攻撃: Se il nemico usa arco, pugnale, tomo\no bastone, Att +6 durante lo scontro.
+MSID_H_攻撃魔防の絆R飛行: Se l'unità si trova entro 2 spazi da un alleato\nvolante, Att/Res +5 durante lo scontro.
+MSID_H_第6迷宮の覇者1: Conferisce PS +3.
+MSID_H_第6迷宮の覇者2: Conferisce PS +4.
+MSID_H_第6迷宮の覇者3: Conferisce PS +5.
+MSID_H_ペシュカド: Se l'unità ha attaccato, Att/Vel/Dif/Res -4\nal bersaglio e ai nemici entro 2 spazi\nda questo dopo lo scontro durante le loro\nprossime azioni, e Att/Vel/Dif/Res +4\nall'unità e agli alleati entro 2 spazi\nper 1 turno.
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: Efficace contro le unità corazzate e a cavallo.\nConferisce Res +3. Se il nemico appartiene\na queste due categorie e usa arco, pugnale,\ntomo o bastone, il danno del primo attacco\nsubito dall'unità è ridotto del 30%.
+MSID_H_癒しの手: Trasforma le penalità del bersaglio alleato\nin bonus. L'alleato recupera un numero di PS\npari a quelli attuali dell'unità -1. La quantità\nrecuperata viene scalata dai PS dell'unità.
+MSID_H_転移の粉: Se l'unità ha almeno l'80% dei PS,\nsi può spostare accanto a un alleato\nentro 2 spazi.
+MSID_H_攻撃速さの紋章1: Att/Vel +2 agli alleati adiacenti\ndurante lo scontro.
+MSID_H_攻撃速さの紋章2: Att/Vel +3 agli alleati adiacenti\ndurante lo scontro.
+MID_CHAPTER_TITLE_C0203: Libro II, cap. 3
+MID_CHAPTER_C0203: Seguendo un sogno
+MID_STAGE_TITLE_S2031: Capitolo 3-1
+MID_STAGE_TITLE_S2032: Capitolo 3-2
+MID_STAGE_TITLE_S2033: Capitolo 3-3
+MID_STAGE_TITLE_S2034: Capitolo 3-4
+MID_STAGE_TITLE_S2035: Capitolo 3-5
+MID_STAGE_S2031: La via per Nifl
+MID_STAGE_S2032: Capelli d'argento
+MID_STAGE_S2033: Rapito dal bello
+MID_STAGE_S2034: Uno spadaccino sinistro
+MID_STAGE_S2035: L'acciaio che arroventa
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: Nei fossi la cavalleria si sposta di 1.
+MID_STAGE_TITLE_SB_0006: 6º assalto
+MID_STAGE_HONOR_T0023: L'esteta
+MID_STAGE_T0023: Oliver
+MID_STAGE_HONOR_V0151: Armi perfezionate
+MID_STAGE_V0151: Parte 1
+MID_STAGE_HONOR_V0152: Armi perfezionate
+MID_STAGE_V0152: Parte 2
+MID_STAGE_HONOR_V0153: Armi perfezionate
+MID_STAGE_V0153: Parte 3
+MID_STAGE_HONOR_V0154: Armi perfezionate
+MID_STAGE_V0154: Parte 4
+MID_STAGE_HONOR_V0155: Armi perfezionate
+MID_STAGE_V0155: Parte 5
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: Scegli sigillo sacro
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: Scegli alleato
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: Scelto:

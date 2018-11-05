@@ -1,0 +1,38 @@
+[Heroes Archive] (RUTHEA)
+
+
+Heroes Message Name: Message
+
+
+MID_RUTHEA_HOME1: ¡Qué opulencia la de este reino!\nAquí nada falta, lo que se refleja\nen el alegre carácter de la gente.$k$pTal es la felicidad que se respira en\nel ambiente que dudo que haya un\nsolo huérfano necesitado de cariño.
+MID_RUTHEA_HOME2: Quizá alguien te haya preguntado ya\nal respecto, así que permíteme que\nte aclare que, sí, soy un hombre.$k$pYa sé que no es asunto de nadie,\npero tarde o temprano el tema\nsiempre sale a relucir.
+MID_RUTHEA_HOME3: Juré lealtad al señor Ray...\nEste... ¡Perdón, quería decir\na Raven, por supuesto!$k$pNo puedo dejar de preocuparme\npor su bienestar.
+MID_RUTHEA_HOME4: Con el bastón curo a mis aliados,\npero también sé usarlo para darle su\nmerecido a un rufián, si es menester.
+MID_RUTHEA_HOME5: Perdona... No me encuentro bien.$k$pAh, ya se me pasó. Afortunadamente,\nlas aflicciones que aquejan mi alma\nson siempre pasajeras.
+MID_RUTHEA_FRIEND: ¿Eres tú $Gaquel al que,aquella a la que| llaman\n$Nu?$k$pMe alegro de conocerte. Traigo\nafectuosos recuerdos para ti de\nparte de $Nf.
+MID_RUTHEA_LEVEL1: Me alegra destacar, pero dudo\nque yo haya nacido para esto.
+MID_RUTHEA_LEVEL2: Bueno, quizá así pueda servirle\nde ayuda a alguien.
+MID_RUTHEA_LEVEL3: Perdón. Solo fue un momento\nde flaqueza.
+MID_RUTHEA_SKILL: Gracias. Deseo seguir cultivando\ntanto mi cuerpo como mi alma.
+MID_RUTHEA_JOIN: Mi nombre es Lucius. ¿Hay algún\nherido al que pueda atender? No\nme mantengas ocioso, te lo ruego.
+MID_RUTHEA_STRONGEST: Con el tiempo te ganaste mi plena\nconfianza, de modo que ya me siento\npreparado para revelarte mi pasado.$k$pDe pequeño sufrí graves penurias\nen un orfanato: tormentos por los\nque un niño no debería pasar jamás.$k$pTambién padecí lo que algunos dan\nen llamar aflicciones del alma, y cuya\ncondición me es difícil explicar.$k$pNi siquiera hoy estoy plenamente\nrecuperado: pensar en aquel orfanato\nme produce extrañas convulsiones.$k$pLamento no habértelo contado antes,\npero me daba bastante reparo sacar\na la luz estos detalles tan íntimos.$k$pAdemás, pensaba que quizá dejarías\nde respetarme si te revelaba la\nverdad. O que te repugnaría, incluso.$k$pLas buenas obras ocupan mi día a\ndía y no debería tener tiempo para\nautocompadecerme, pero...$k$pMe preocupa lo que pienses de mí.\nEn todo caso, tanto si me odias como\nsi no, siempre tendrás mi lealtad.
+MID_RUTHEA_VOICE01: はっ！
+MID_RUTHEA_VOICE02: えいっ！
+MID_RUTHEA_VOICE03: うああっ！
+MID_RUTHEA_VOICE04: No...
+MID_RUTHEA_VOICE05: ¡No deseo hacerte daño!
+MID_RUTHEA_VOICE06: ¡Tu dolor será breve!
+MID_RUTHEA_VOICE07: ¡Que la fe me guíe!
+MID_RUTHEA_VOICE08: ¡La sangre ensucia mi alma!
+MID_RUTHEA_VOICE09: Into the light...!
+MID_RUTHEA_VOICE10: Heehee
+MID_RUTHEA_VOICE11: Alejaré las tinieblas.
+MID_RUTHEA_VOICE12: Yo te aliviaré.
+MID_RUTHEA_VOICE13: Hmm. What is troubling you?
+MID_RUTHEA_VOICE14: You may hear it questioned whether I am a man. I say the question...is a wrong one.
+MID_RUTHEA_VOICE15: Those who mock the way others look cause great suffering in the world. I have suffered...considerably.
+MID_RUTHEA_VOICE16: I hope always for my soul to soar. But sometimes I am weak. For that, I am sorry.
+MID_RUTHEA_VOICE17: If ever your mind is troubled, please speak with me.
+MID_RUTHEA_VOICE18: Yes?
+MID_RUTHEA_VOICE19: Of course.
+MID_RUTHEA_VOICE20: Shall we?

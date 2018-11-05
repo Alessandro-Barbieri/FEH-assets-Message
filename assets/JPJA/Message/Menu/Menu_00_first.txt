@@ -1,0 +1,464 @@
+[Heroes Archive] (Menu_00_first)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_HEROISM_LIST: 英雄値一覧
+MID_EXTRA_HEROISM_LIST_INFO: 仲間の英雄値一覧です。
+MID_HOME_FRIEND_TALK_HEROISM: $a$a0からの贈り物
+MID_ITEM_GAIN_ACCESSORY: 【聖印】を入手した！
+MID_ITEM_GAIN_ACCESSORY_WARNING_PREFIX: ※
+MID_ITEM_GAIN_ACCESSORY_WARNING: $a同じ種類の聖印は複数所持できません。\n同じ種類の聖印を複数入手した場合、\n英雄の翼×$a0に自動的に置き換わります。
+MID_ITEM_HELP_STAMINA_50: スタミナを+99する
+MID_MAP_BATTLE_START: 戦闘開始
+MID_SHOP_STAMINA_CONFIRM_ITEM_50: スタミナ回復薬×１を消費して\nスタミナを99回復しますか？
+MID_SHOP_STAMINA_NOTENOUGH_ITEM_50: スタミナが不足しています。\nスタミナ回復薬×1を消費して\nスタミナを99回復しますか？
+MID_SHOP_STAMINA_CONFIRM_ORB_50: オーブ×1を消費して\nスタミナを99回復しますか？
+MID_SHOP_STAMINA_NOTENOUGH_ORB_50: スタミナが不足しています。\nオーブ×1を消費して\nスタミナを99回復しますか？
+MID_STAGE_SELECT_DETAIL_REINFORCEMENT: 増援出現！
+MID_STAGE_SELECT_RULE_TURN_SURVIVAL: $a$a0ターン防衛
+MID_UNIT_EDIT_ACCESSORY_EQUIP: 聖印装備変更
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP1: 聖印の装備を変更するキャラクターを選択してください。
+MID_UNIT_EDIT_ACCESSORY_EQUIP_HELP2: 装備する聖印を選択してください。
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CONFIRM: 以下の聖印を装備しますか？
+MID_UNIT_EDIT_ACCESSORY_EQUIP_UNSET_CONFIRM: 以下の聖印を外しますか？
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0が\nすでに装備しています。\n聖印を交換して装備しますか？
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0は\n交換する聖印を装備できません。\n装備できない聖印は外れます。
+MID_UNIT_EDIT_ACCESSORY_EQUIP_DECIDE: 装備を変更する
+MID_UNIT_EDIT_ACCESSORY_EQUIP_COMPLETE_CONFIRM: 装備の変更が完了しました。
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_CONFIRM: 聖印装備の変更を中止しますか？
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_WARNING: 編集内容は破棄されます。
+MID_UNIT_EDIT_ACCESSORY_WARNING_WEAPON: 武器種制限のため、装備できません。
+MID_UNIT_EDIT_ACCESSORY_WARNING_MOVE: 移動タイプ制限のため、装備できません。
+MID_UNIT_EDIT_ACCESSORY_EMPTY: 聖印を所持していません。
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_00: 聖印を装備して、さらに強く！
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_01: ◆聖印装備変更◆\n手に入れた聖印を、仲間に装備させます。\n\n仲間一人につき、一つだけ\n聖印を装備させることができます。
+MID_UNIT_EDIT_ACCESSORY_HELP_DIALOG_02: ◆所持数◆\n同じ種類の聖印は複数所持できません。\n同じ種類の聖印を複数入手した場合、\n英雄の翼に自動的に置き換わります。
+MID_RELOCATION_TUTORIAL_DIALOG_00: 【配置変更】で、仲間の配置を入れ替え
+MID_RELOCATION_BUTTON: 配置変更
+MID_UNIT_EDIT_ACCESSORY_STATUS_EQUIP: 装備中
+MID_UNIT_EDIT_ACCESSORY_EQUIP_CANCEL_DECIDE: 中止する
+MID_UNIT_NAME_WITH_HONOR: $a$a0　$a1
+MID_UNIT_EDIT_SKILL_EQUIP_CONFIRM_NO_COST: スキルの装備を変更しますか？
+MID_UNIT_EDIT_SKILL_WARNING_RARITY: $a★$a0以上で習得可能なスキルです。
+MID_VOTE_ROUND1: 1回戦
+MID_VOTE_ROUND2: 2回戦
+MID_VOTE_ROUND3: 決勝戦
+MID_VOTE_TITLE: 投票大戦
+MID_VOTE_REWARD_TITLE: 報酬確認
+MID_VOTE_RANKING_TITLE: 現在の順位
+MID_VOTE_BUTTON_RANKING_RX: $a$a0の順位
+MID_VOTE_INVESTMENT_TITLE: 攻撃力選択
+MID_VOTE_CLOSED: 現在開催していません。
+MID_VOTE_AGGREGATING: 集計しています。\n少し待ってから入り直してください。
+MID_VOTE_SALLY_MINS: $aあと$a0分で再度出陣できます。
+MID_VOTE_SALLY_BUTTON: 出陣する
+MID_VOTE_ROUND1_MINS: $a１回戦終了まであと$a0分
+MID_VOTE_ROUND1_HOURS: $a1回戦終了まであと$a0時間
+MID_VOTE_ROUND2_MINS: $a2回戦終了まであと$a0分
+MID_VOTE_ROUND2_HOURS: $a2回戦終了まであと$a0時間
+MID_VOTE_ROUND3_MINS: $a決勝戦終了まであと$a0分
+MID_VOTE_ROUND3_HOURS: $a決勝戦終了まであと$a0時間
+MID_VOTE_FINALRESULT: 今回の大戦の最終結果です。
+MID_VOTE_BUTTON_TO2R: 2回戦へ
+MID_VOTE_BUTTON_TO3R: 決勝戦へ
+MID_VOTE_BUTTON_TOFR: 最終結果
+MID_VOTE_GUILDWIN_REWARD: 陣営勝利報酬
+MID_VOTE_RANK_IN_GUILD: 陣営内順位
+MID_VOTE_TOTAL_SELF_SCORE: 合計自己得点
+MID_VOTE_TOTAL_RANK: 合計順位
+MID_VOTE_REWARDTYPE_ROUNDWINNER: $a投票大戦・陣営勝利報酬\n【$a0】
+MID_VOTE_REWARDTYPE_ROUNDRANK: $a投票大戦・陣営内順位報酬\n【$a0】順位　$a1
+MID_VOTE_REWARDTYPE_TOTALRANK: $a投票大戦・合計順位報酬\n順位　$a1
+MID_VOTE_RUSHDEMO_RATIO: $a×$a0
+MID_VOTE_ARMY_NAME: $a$a0軍
+MID_VOTE_PLAYER: 自軍
+MID_VOTE_OPPONENT: 敵軍
+MID_VOTE_PLAYER_SCORE: 自己得点
+MID_VOTE_SCORE: 得点
+MID_VOTE_JOIN: 参加する
+MID_VOTE_JOIN_CONFIRM: この英雄の陣営に参加しますか？
+MID_VOTE_JOIN_EPITHET_AND_NAME: ___
+MID_VOTE_RANK: 順位
+MID_VOTE_VIEW_RANK_RANGE: 表示範囲
+MID_VOTE_VIEW_RANK_PLAYER: 自分の順位
+MID_VOTE_VIEW_RANK_TOP: 上位
+MID_VOTE_RANKING_TOP_UNCALCULATED: ランキング集計中です。
+MID_VOTE_RANKING_AME_UNCALCULATED: あなたの順位は集計圏外です。
+MID_VOTE_REWARD_SORT_ROUND: 現在のラウンド
+MID_VOTE_REWARD_SORT_TOURNAMENT: 累計成績
+MID_VOTE_ROUND1_END: 1回戦は終了しました。
+MID_VOTE_ROUND2_END: 2回戦は終了しました。
+MID_VOTE_ROUND3_END: 決勝戦は終了しました。
+MID_VOTE_ROUND1_RESULT: 1回戦の最終結果
+MID_VOTE_ROUND2_RESULT: 2回戦の最終結果
+MID_VOTE_ROUND3_RESULT: 決勝戦の最終結果
+MID_VOTE_SITUATION: 現在の戦況
+MID_VOTE_ATTACK_MAX: 全力攻撃
+MID_VOTE_ATTACK_1X: ×1
+MID_VOTE_ATTACK_NX: $a×$a0
+MID_VOTE_SUPERIOR: 優勢
+MID_VOTE_INFERIOR: 劣勢
+MID_VOTE_EQUAL: 互角
+MID_VOTE_WIN: 勝利
+MID_VOTE_LOSE: 敗北
+MID_VOTE_TOURNAMENT_BOTTOM_CAPTION: あなたが味方するキャラを選んでください。
+MID_VOTE_TOURNAMENT_TOP_CAPTION: 陣営が勝利した時や、自分の得点が\n上位だった時、報酬を得られます。
+MID_VOTE_DIALOG_WIN_TEXT: あなたの陣営は勝利しました。
+MID_VOTE_DIALOG_WIN_WARNING: 引き続き同じ陣営で戦います。
+MID_VOTE_DIALOG_LOSE_TEXT: あなたの陣営は敗北しました。
+MID_VOTE_DIALOG_LOSE_WARNING: 別の陣営を選び直してください。
+MID_VOTE_DIALOG_GO_TEXT: 出陣しますか？
+MID_VOTE_DIALOG_GO_WARNING: $a一度出陣すると次の$a0分間は再出陣できません。
+MID_VOTE_DIALOG_GO_YES: 出陣する
+MID_VOTE_DIALOG_GO_NO: 戻る
+MID_VOTE_DIALOG_INVESTMENT_TEXT: 攻撃しますか？
+MID_VOTE_DIALOG_INVESTMENT_TEXT_X: $a$a1倍攻撃しますか？
+MID_VOTE_DIALOG_INVESTMENT_WARNING: $a大戦の旗を$a0消費します。
+MID_VOTE_DIALOG_INVESTMENT_YES: 攻撃する
+MID_VOTE_DIALOG_LAST10MINS_TEXT: $aまもなく$a0終了時間です。
+MID_VOTE_DIALOG_LAST10MINS_WARNING: 終了時間を過ぎると結果が反映されません。
+MID_VOTE_DIALOG_ROUND_END_TEXT: $a$a0終了時間を過ぎました。\nこの先に進むことはできません。
+MID_VOTE_DIALOG_ROUND_END_WARNING: 一旦ワールドマップに戻ります。
+MID_VOTE_DIALOG_JOIN_ERROR_TEXT: 陣営に参加できませんでした。
+MID_VOTE_DIALOG_JOIN_ERROR_WRNING: しばらくしてからやり直してください。
+MID_VOTE_DIALOG_HELP_00: あなたが推す英雄で、優勝を目指そう！
+MID_VOTE_DIALOG_HELP_01: ◆投票大戦◆\n８人の英雄の中から、\nあなたが好きな英雄を選びます。\n\nその英雄の陣営に所属し、\n他の英雄の陣営と、\nチーム対チームの勝負を行います。
+MID_VOTE_DIALOG_HELP_02: ◆勝利条件◆\n残り時間が０になった時、\n得点が多い陣営が勝利します。
+MID_VOTE_DIALOG_HELP_03: ◆出陣◆\n一度出陣すると、\n一定時間経つまで出陣できません。
+MID_VOTE_DIALOG_HELP_04: ◆バトル◆\n投票大戦は、３対３で行われます。\n自軍の３人は、以下のように決定します。\n・自分のリーダー\n・自分のフレンドがいれば、フレンド\n・フレンド以外のプレイヤー
+MID_VOTE_DIALOG_HELP_05: ◆攻撃力選択◆\nバトルに勝利後、\n大戦の旗の使用数を選びます。\n\n大戦の旗を多く消費するほど、\n多くの得点を得ることができます。
+MID_VOTE_DIALOG_HELP_REWARD_00: ◆報酬確認◆\n今回の報酬を確認できます。\n\nフィルタを切り替えると\n「現在のラウンド」、\n「累計成績」を確認できます。
+MID_VOTE_DIALOG_HELP_REWARD_01: ◆順位◆\n現在の順位です。\n※順位は１時間ごとに集計を行います。\n（毎時00分に集計を開始します）\n集計開始から順位の反映までに\n時間がかかることがあります。
+MID_UNIT_EDIT_SKILL_INHERIT_DESTINATION: 継承
+MID_UNIT_EDIT_SKILL_INHERIT_SOURCE: 消滅
+MID_UNIT_EDIT_SKILL_INHERIT_HELP1: 継承・消滅キャラクターをそれぞれ選択してください。
+MID_UNIT_EDIT_SKILL_TALENT_CONFIRM: 以下のスキルを継承しますか？
+MID_UNIT_EDIT_SKILL_INHERIT_WARNING: 継承した場合、\n継承元のキャラクターは消滅します。
+MID_UNIT_EDIT_SKILL_INHERIT_DECIDE: 継承する
+MID_UNIT_EDIT_SKILL_TALENT: スキル継承
+MID_UNIT_EDIT_SKILL_TALENT_HELP2: 継承するスキルを３つ選択してください。
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00: ◆スキル継承◆\n他の仲間のスキルを一度に３つまで\n継承することができます。\n継承元の仲間は失われます。\n\n継承されたスキルは\nスキル習得すると使用可能になります。\n（習得に必要なＳＰは１．５倍です）
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_01: ※お気に入り登録された仲間は\n　スキル継承元に設定できません。\n　仲間アイコンを長押しして\n　仲間詳細画面から解除してください。
+MID_UNIT_EDIT_SKILL_STATUS_TALENT: 所持
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT1: $a$a0の素質が必要です。
+MID_UNIT_EDIT_SKILL_WARNING_PREREQUISITE_INHERIT2: $a$a0か$a1の\n素質が必要です。
+MID_ARENA_SORT_GRADE: 階級内順位
+MID_ARENA_SORT_REWARDTYPE_GRADE: 報酬の種類：階級
+MID_ARENA_GAINED_REWARDTYPE_GRADE: $a闘技場・階級報酬　【階級$a0】
+MID_ARENA_GAINED_REWARDTYPE_GRADE_CHANGE: $a闘技場・階級報酬　【階級$a1→$a0】
+MID_ARENA_DIALOG_HELP_04_1103: ◆報酬◆\nシーズン終了後に\nハイスコアと階級に応じた\n報酬が与えられます。\nハイスコアが優れていると\n階級が上昇することがあります。
+MID_ARENA_DIALOG_HELP_05_1103: ◆今シーズンのボーナスキャラ◆\nボーナスキャラを\n出撃・防衛メンバーに入れると、\nスコアが２倍になります。
+MID_ARENA_DIALOG_HELP_3_00_1103: ◆報酬確認◆\n今シーズンの報酬を確認できます。\n\nフィルタを切り替えると\n「勝利」、「防衛」、「階級」の\n報酬を確認できます。
+MID_ARENA_DIALOG_HELP_3_02_1103: ◆階級◆\n現在の階級と、\nその付近の階級の階級報酬です。\n※順位は１時間ごとに集計を行います。\n（毎時00分に集計を開始します）\n集計開始から順位の反映までに\n時間がかかることがあります。
+MID_VOTE_INFERIOR_BOOST_RATE: $aあと$a0分、得点$a1倍!!
+MID_SEQUENTIAL_MAP_TERM_201707: 共鳴せし双牙
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT_BIND: $a縛鎖$a1連戦：自軍$a0部隊
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_00: 一戦ごとに、新たな英雄で挑め！
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_01: ◆縛鎖の迷宮◆\n一つのマップをクリアすると、即座に\n次のマップが出現する連戦マップです。\n\n一度戦った英雄は縛鎖に囚われ、\n次以降のマップでは戦えません。
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_02: ◆必要な英雄の人数◆\n１マップごとに４人の英雄が必要です。\n\n５連戦の場合は、\n５×４＝２０人の英雄が必要です。\n （同じ英雄は１人とカウントされます）
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_03: ◆縛鎖ルール◆\n・部隊に、同じ英雄を\n　複数入れることはできません。\n\n・一度戦った英雄は、連戦中、\n　次以降のマップでは戦えません。\n（同じ英雄が複数いる場合は、\n　その全員が戦えなくなります）
+MID_SEQUENTIAL_TRIAL_HELP_DIALOG_04: ◆縛鎖の解除◆\n縛鎖の迷宮をクリアするか、\nクリアできずゲームオーバーになると、\n縛鎖は解除されます。\n\n縛鎖によって\n戦えなくなっていた英雄も、\n全員元通りになります。
+MID_STAGE_OPEN_FIRST_TRIAL: 連戦トライアルが開放されました。
+MID_STAGE_OPEN_NEW_TRIAL: 連戦トライアルに\n新たな章が追加されました。
+MID_STAGE_OPEN_FIRST_BIND: 縛鎖の迷宮が開放されました。
+MID_STAGE_OPEN_NEW_BIND: 縛鎖の迷宮に\n新たな階層が追加されました。
+MID_STAGE_SELECT_DETAIL_BIND_UNIT: このマップでは、同じ英雄を２人以上\n部隊に入れることはできません。
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL:  英雄の数が不足しています。\n 自軍部隊数×４人以上の英雄が必要です。\n （同じ英雄は１人とカウントされます）
+MID_STAGE_SELECT_TRIAL: 連戦トライアル
+MID_STAGE_SELECT_TRIAL_INFO: 複数のマップを連続して戦います。
+MID_STAGE_SELECT_BIND: 縛鎖の迷宮
+MID_STAGE_SELECT_BIND_INFO: 特殊なルールで連続して戦います。
+MID_STAGE_SELECT_SCENARIO_MAIN_INFO_SHORT: 本編ストーリーのマップです。
+MID_STAGE_SELECT_SCENARIO_SUB_INFO_SHORT: 外伝ストーリーのマップです。
+MID_SUMMON_INFORMATION: 召喚のお知らせ
+MID_SUMMON_SEASON_DAYS: $a終了まであと$a0日
+MID_SUMMON_SEASON_HOURS: $a終了まであと$a0時間
+MID_SUMMON_SEASON_MINUTES: $a終了まであと$a0分
+MID_EXTENDED_SORT: 詳細ソート
+MID_UNIT_EDIT_SORT_GOTO_EXTENDED: 詳細ソートへ
+MID_UNIT_EDIT_SORT_GOTO_SIMPLE: 簡易ソートへ
+MID_UNIT_EDIT_EXTENDED_SORT_INFO: ソートの優先順位と、\n仲間に表示する項目を選択してください。
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITIONS: $a条件$a0:
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_ASCENDING: 昇順
+MID_UNIT_EDIT_EXTENDED_SORT_ORDER_DESCENDING: 降順
+MID_UNIT_EDIT_EXTENDED_SORT_CONDITION_NONE: -
+MID_UNIT_EDIT_EXTENDED_SORT_CLEAR: 条件をリセット
+MID_VOTE_OVERALL_SITUATION: 全体の戦況
+MID_CHAIN_ARENA_TITLE: 縛鎖の闘技場
+MID_CHAIN_ARENA_HEADLINE: $a連戦中、同じ英雄は１回しか出撃できない特別ルール。\nたくさんの英雄を率いて$a0連勝を目指そう！
+MID_CHAIN_ARENA_ITEMHELP: 戦場に持って行くアイテムを３つまで選択できます。\nアイテムを使用しない場合は消費されません。\nアイテムは縛鎖の闘技場の中で入手できます。
+MID_CHAIN_ARENA_SPECIALITEM: スペシャルアイテム
+MID_CHAIN_ARENA_WINCOUNT: $a連勝数 $a0/$a1
+MID_CHAIN_ARENA_CURRENT_SCORE: 今回の合計スコア
+MID_CHAIN_ARENA_1WIN: $a$a0勝達成！
+MID_CHAIN_ARENA_2WINS: $a$a0連勝達成！
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_TEXT: 先に進みますか？
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING: 縛鎖の闘技場では対戦権を消費しません。\n\n１日に１回目のみ、\n経験値、SP、英雄値等が入手できます。
+MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING_TWICE: 縛鎖の闘技場では対戦権を消費しません。\n\n１日に２回目以降の挑戦になりますので、\n経験値、SP、英雄値等は入手できません。
+MID_CHAIN_ARENA_DIALOG_GIVEUP_TEXT: 縛鎖の闘技場への挑戦を\n諦めて降参しますか？
+MID_CHAIN_ARENA_DIALOG_GIVEUP_WARNING: 降参した場合、\n今回クリアしたマップ数に応じた\nスコアを獲得できます。
+MID_CHAIN_ARENA_DIALOG_BACK_TEXT: 前の画面に戻りますか？
+MID_CHAIN_ARENA_DIALOG_BACK_NO: 戻らない
+MID_ARENA_DESCRIPTION: 世界のライバルたちに挑戦し、\n報酬を得られる腕試しの場です。\n英雄と共に7連勝を目指しましょう。
+MID_CHAIN_ARENA_DESCRIPTION: $a複数の部隊で戦う、\n上級者向けの闘技場です。\n最大$a0連勝を目指しましょう。
+MID_CHAIN_ARENA_GAINED_REWARDTYPE_RANK: $a縛鎖の闘技場・順位報酬\n順位：$a0
+MID_CHARACTER_PICTORIAL_BOOK_TITLE: 英雄図鑑
+MID_CHARACTER_PICTORIAL_BOOK_TOTAL: 英雄
+MID_CHARACTER_PICTORIAL_BOOK_TALK: TALK!
+MID_CHARACTER_PICTORIAL_BOOK_SUMMON_TALK: 召喚
+MID_CHARACTER_PICTORIAL_BOOK_STRONGEST_TALK: ★5 LV.40
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_00: ◆英雄図鑑◆\nこれまでに出会った英雄の一覧を\n見ることができます。\n\n◆英雄の詳細◆\n英雄をタップします。\n戦っただけならシルエットのみ、\n仲間にすれば更に詳しく見られます。
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_01: ◆TALK◆\n英雄を召喚した時の\n会話を見ることができます。\n\n★とレベルを最高にしていれば、\nその時の会話も見られます。\n一覧で枠が光っているのが目印です。
+MID_CHARACTER_PICTORIAL_BOOK_HELP_DIALOG_02: ◆イラスト◆\n＋ボタンで全身を見ることができます。\n\n◆ミニユニット◆\nタップして反応を見てみましょう。
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_BUTTON: 確認済みにする
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DIALOG: 新しく仲間にした英雄に付いている\n！アイコンの表示を全て消去します。\nよろしいですか？
+MID_CHARACTER_PICTORIAL_BOOK_ERASE_NEW_ICON_DECIDE: ！アイコンを消去する
+MID_PRESENT_LIST_TIME_LIMIT: 過去１４日分の受取済履歴が表示されます。
+MID_YEAR_MONTH_DAY: $a$a0/$a1/$a2
+MID_COUNT_UP_LOGIN_BONUS_PERIOD: $a$a0 ～ $a1
+MID_ITEM_HOLY_COIN: 聖貨
+MID_ITEM_HELP_HOLY_COIN: いにしえの儀式に用いられるという\n貴重なコイン
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_DECIDE: 使用する
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_WARNING: 現在使用しても効果が得られないため\n使用できません。
+MID_MAP_SEQUENTIAL_ARENA_ITEM_USE_HELP: 使用するアイテムを選択してください。
+MID_SEQUENTIAL_MAP_TERM_201708: 果たされた再会
+MID_SEQUENTIAL_MAP_BOOST: $a本日 あと$a0回 ポイント$a1倍！
+MID_CHAIN_ARENA_HELP_DIALOG_00: 複数の部隊で、連勝を目指せ！
+MID_CHAIN_ARENA_HELP_DIALOG_01: ◆縛鎖の闘技場◆\n複数の部隊で連勝を目指す、\n上級者向けの闘技場です。\n\n特殊アイテムの使いどころを見極め、\n待ち受ける強敵を突破しましょう。
+MID_CHAIN_ARENA_HELP_DIALOG_02: ◆対戦◆\n対戦権は不要で、\n何度でも自由に対戦を行えます。\n\n◆対戦相手の強さ◆\n一戦目も、二戦目以降も、\n自分の最初の部隊の強さを\n基準に決まります。
+MID_CHAIN_ARENA_HELP_DIALOG_03: ◆特殊アイテムの入手◆\n連勝中、レベル３５以上を含む敵部隊に\n一定回数勝利すると、\n特殊アイテムを入手できます。\n　３勝：１個\n　５勝：２個\n　７勝：３個
+MID_CHAIN_ARENA_HELP_DIALOG_04: ◆特殊アイテムの持ち込み◆\n縛鎖の闘技場に挑戦する際に、\n持っているアイテムをタッチして、\n持ち込むことができます。\n\n持ち込んだアイテムは、\nマップ中で使用できます。
+MID_CHAIN_ARENA_HELP_DIALOG_05: ◆縛鎖ルール◆\n・部隊に、同じ英雄を\n　複数入れることはできません。\n\n・一度戦った英雄は、連戦中、\n　次以降のマップでは戦えません。\n（同じ英雄が複数いる場合は、\n　その全員が戦えなくなります）
+MID_CHAIN_ARENA_HELP_DIALOG_06: ◆縛鎖の解除◆\n最後まで連勝するか、\nゲームオーバーになると、\n縛鎖は解除されます。\n\n縛鎖によって\n戦えなくなっていた英雄も、\n全員元通りになります。
+MID_CHAIN_ARENA_HELP_DIALOG_07: ◆スコア◆\n勝利すると、相手の強さに応じた\nスコアが入ります。\n\n連勝中は、直前の勝利スコアを\n連勝ボーナスとして加算できます。
+MID_CHAIN_ARENA_HELP_DIALOG_08: ◆ハイスコア◆\nスコアの中で最高のものです。\nシーズンごとにリセットされます。\n\n◆報酬◆\nシーズン終了後に\nランキングに応じた\n報酬が与えられます。
+MID_SEQUENTIAL_MAP_HELP_DIALOG_05_1106: ◆ボーナスキャラの能力アップ◆\nボーナスキャラは、\n戦渦の連戦の中でのみ、\n能力がアップします。\n（ＨＰ＋１０\n　攻撃、速さ、守備、魔防＋４）
+MID_CHAIN_ARENA_DIALOG_HELP_3_00: ◆報酬確認◆\n今シーズンの報酬を確認できます。
+MID_CHAIN_ARENA_DIALOG_HELP_3_01: ◆報酬受け取り◆\n縛鎖の闘技場報酬は、\n前シーズンの結果集計が終わった時～\n今シーズンが終了するまでの期間に\n縛鎖の闘技場に入った時、受け取れます。
+MID_SUMMON_PULL_ONLY_ONCE: この召喚は１度行うと終了です。\n人気No.１は「リン」です。
+MID_SUMMON_HERO_CONFIRM: この英雄を召喚しますか？
+MID_SUMMON_GRANT_CONFIRM: 召喚を行いますか？
+MID_SUMMON_GRANT_WARNING: この召喚は１度無料で行えます。\n（連続で召喚することはできません。）
+MID_SUMMON_ONE_TIME_FREE_WARNING: この召喚は最初の１度のみ\n無料で行えます。
+MID_SUMMON_LIMITED_BEGINNER_DAYS: $a初心者限定！終了まであと$a0日
+MID_SUMMON_LIMITED_BEGINNER_HOURS: $a初心者限定！終了まであと$a0時間
+MID_SUMMON_LIMITED_BEGINNER_MINUTES: $a初心者限定！終了まであと$a0分
+MID_SUMMON_PAY_FREE: 召喚する
+MID_UNIT_EDIT_SKILL_WARNING_SAME: 同一の英雄は「限界突破」で\n全てのスキルを継承可能です。\n\n「スキル継承」では\n一部のスキルしか継承できませんが\nよろしいですか？
+MID_SEQUENTIAL_MAP_LOAD_TROOP_INFO: 呼び出す部隊を選択してください。\n控え部隊は連戦中のみ呼び出せます。
+MID_SEQUENTIAL_MAP_LOAD_TROOP_BUTTON: この部隊を呼び出す
+MID_SEQUENTIAL_MAP_LOAD_TROOP_EDIT: 編成
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_NORMAL: 通常部隊
+MID_SEQUENTIAL_MAP_LOAD_TROOP_SELECT_RESERVE: 控え部隊
+MID_SEQUENTIAL_MAP_LOAD_TROOP_ORGANIZE_RESERVE: 控え部隊を編成する
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE: 控え部隊編成
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_DECIDE: 再編成に戻る
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM: この部隊を呼び出しますか？
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_DECIDE: 呼び出して戻る
+MID_UNIT_EDIT_RESERVE_TROOP_ORGANIZE_CONFIRM_CANCEL: 呼び出さずに戻る
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_00: 控え部隊を編成しよう
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01: 控え部隊は、\n連戦中のみ編成できる\n特別な部隊です。
+MID_UNIT_EDIT_TROOP_LIST_INFO: 編成する部隊を選択してください。
+MID_UNIT_EDIT_RESERVE_TROOP_LIST_INFO: 編成する控え部隊を選択してください。
+MID_UNIT_EDIT_TROOP_LIST_SELECT: この部隊を選択する
+MID_SEQUENTIAL_MAP_TERM_201709: 死に場所は、戦場
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH: スキル検索
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_CURRENT: スキル検索：
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_HELP: 検索したいスキルを選択してください。
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_WARNING_RARITY: キャラクターの★を上昇させると継承可能になります。
+MID_UNIT_EDIT_SKILL_TALENT_SEARCH_RESET: リセット
+MID_UNIT_EDIT_RELIANCE_RANK_1: C
+MID_UNIT_EDIT_RELIANCE_RANK_2: B
+MID_UNIT_EDIT_RELIANCE_RANK_3: A
+MID_UNIT_EDIT_RELIANCE_RANK_4: S
+MID_UNIT_EDIT_RELIANCE_RANK_PAIR: 支援レベル
+MID_UNIT_EDIT_RELIANCE_RANK_PLAYER: 絆レベル
+MID_UNIT_EDIT_RELIANCE_PARTNER: 相手
+MID_UNIT_EDIT_RELIANCE: 支援
+MID_UNIT_EDIT_RELIANCE_PLAYER: 召喚師との絆の契り
+MID_UNIT_EDIT_RELIANCE_SORT: ソート順を選択してください。
+MID_UNIT_EDIT_RELIANCE_SORT_CHARACTER: キャラクター
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_ASCENDING: 支援昇順
+MID_UNIT_EDIT_RELIANCE_SORT_RELIANCE_DESCENDING: 支援降順
+MID_UNIT_EDIT_RELIANCE_CONFIRM: $a支援を結ぶと、近くで戦う時に\n能力値がアップします。\n$a0と$a1の\n支援を結びますか？
+MID_UNIT_EDIT_RELIANCE_WARNING: 支援を結べる相手は一人だけです。\n支援相手を変更すると、\n今までの支援相手との支援レベルは\nリセットされます。
+MID_UNIT_EDIT_RELIANCE_DECIDE: 支援を変更する
+MID_UNIT_EDIT_RELIANCE_HELP1: 相手を一人だけ選択して英雄同士の支援が結べます。
+MID_UNIT_EDIT_RELIANCE_HELP2: 支援相手を変更すると支援レベルはリセットされます。
+MID_UNIT_EDIT_RELIANCE_CHARACTER_NAME_EMPTY: －－－－－－
+MID_UNIT_EDIT_PERSON_TOTAL: 英雄
+MID_UNIT_EDIT_RELIANCE_PLAYER_CONFIRM: $a絆の契りを結ぶと\n相手の能力値がアップします。\n$a0とあなたの特別な支援、\n絆の契りを結びますか？
+MID_UNIT_EDIT_RELIANCE_PLAYER_WARNING: 絆の契りを結べる相手は一人だけです。\n相手を変更すると、\n今までの相手との絆レベルは\nリセットされます。
+MID_UNIT_EDIT_RELIANCE_PLAYER_DECIDE: 絆の契りを変更する
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP: 相手を一人だけ選択して召喚師との特別な絆が結べます。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C: 二人は互いの戦いをたたえ合っているようだ。\n近くで戦う時、能力がアップするようになった。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_C_WITH_USER: 二人は互いの戦いをたたえ合っているようだ。\n仲間の能力がアップした。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B: 二人は共に特訓をして絆を深めているようだ。\n近くで戦う時、能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_B_WITH_USER: 二人は共に特訓をして絆を深めているようだ。\n仲間の能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1: 二人は互いのことを語り合っているようだ。\n近くで戦う時、能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A1_WITH_USER: 二人は互いのことを語り合っているようだ。\n仲間の能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2: 二人は夢を語り合っているようだ。\n近くで戦う時、能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_A2_WITH_USER: 二人は夢を語り合っているようだ。\n仲間の能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S: 二人は固い絆で結ばれた！\n近くで戦う時、能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_WITH_USER: 二人は固い絆で結ばれた！\n仲間の能力がさらにアップ。
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_00: 仲間同士の絆を結ぼう！
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_01: ◆支援◆\n仲間同士が結べる絆です。\n\nお互いに支援を結んでいる相手が\n近くにいると、戦闘で有利になります。
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_02: ◆支援を結ぶ◆\n二人の仲間を選ぶことで、\n支援を結ぶことができます。\n\nはじめは、\n支援レベルＣからスタートします。
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_03: ◆支援レベルアップ◆\nお互い２マス以内にいる仲間が、\nレベル３５以上の敵と戦闘した時、\n仲間同士は少し仲良くなります。\n\n仲の良さが一定以上になると、\n支援レベルがアップします。\n支援レベルはＣＢＡＳまであります。
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_04: ◆支援効果１◆\n支援レベルＣ以上の関係にある二人が\n隣接して戦闘時、能力が上昇します。\n\nＣ　魔防＋２\nＢ　守備魔防＋２\nＡ　速さ守備魔防＋２\nＳ　攻撃速さ守備魔防＋２
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_05: ◆支援効果２◆\n支援レベルＣ以上の関係にある二人が\n１マス離れて戦闘時、能力が上昇します。\n\nＣ　魔防＋１\nＢ　守備魔防＋１\nＡ　速さ守備魔防＋１\nＳ　攻撃速さ守備魔防＋１
+MID_UNIT_EDIT_RELIANCE_HELP_DIALOG_06: ◆支援の制限◆\n支援を結べる相手は一人だけです。\n後で支援相手を\n変更することは可能です。\n\nただし、今までの相手との\n支援レベルはリセットされます。
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_00: 召喚師と仲間の絆を結ぼう！
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_01: ◆召喚師との絆の契り◆\n召喚師と仲間が\n結べる特別な絆です。\n\n絆の契りを結んでいると、\n仲間の能力がアップします。
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_02: ◆絆の契りを結ぶ◆\n仲間を選ぶことで、\n絆の契りを結ぶことができます。\n\nはじめは、\n絆レベルＣからスタートします。
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_03: ◆絆レベルアップ◆\nレベル３５以上の敵と戦闘した時、\n召喚師と仲間は\n少し仲良くなります。\n\n仲の良さが一定以上になると、\n絆レベルがアップします。\n絆レベルはＣＢＡＳまであります。
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_04: ◆絆効果◆\n絆レベルＣ以上の関係にあると、\n仲間の能力が常にアップします。\n\nＣ　ＨＰ＋３、魔防＋２\nＢ　ＨＰ＋４、守備魔防＋２\nＡ　ＨＰ＋４、速さ守備魔防＋２\nＳ　ＨＰ＋５、攻撃速さ守備魔防＋２
+MID_UNIT_EDIT_RELIANCE_PLAYER_HELP_DIALOG_05: ◆絆の契りの制限◆\n絆の契りを結べる相手は一人だけです。\n後で絆の契りの相手を\n変更することは可能です。\n\nただし、今までの相手との\n絆レベルはリセットされます。
+MID_UNIT_EDIT_RELIANCE_SORT_ATTRIBUTE: 属性
+MID_UNIT_EDIT_RELIANCE_SORT_WEAPON: 武器種
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_1: 支援 C 回想
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_2: 支援 B 回想
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_3: 支援 A 回想
+MID_UNIT_EDIT_RELIANCE_RECOLLECTION_4: 支援 S 回想
+MID_UNIT_EDIT_RELIANCE_SUMMONER_NAME: あなた
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_TEXT: 対戦を開始することができません。
+MID_ARENA_DIALOG_NO_MEMBER_ERROR_WARNING: 部隊の人数が不足しています。
+MID_PRESENT_LIST_CONFIRM_ALL_RECEIVE: 以下のプレゼントを受け取りますか？
+MID_MISSION_CONFIRM_ALL_RECEIVE: 以下の報酬を受け取りますか？
+MID_ITEM_HELP_PROMOTION_RED1_1108: ・「覚醒」で使用する\n　★３以下の赤属性の仲間の★を１上昇させる\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_RED2_1108: ・「覚醒」で使用する\n　★４の赤属性の仲間を★５にする\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_BLUE1_1108: ・「覚醒」で使用する\n　★３以下の青属性の仲間の★を１上昇させる\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_BLUE2_1108: ・「覚醒」で使用する\n　★４の青属性の仲間を★５にする\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_GREEN1_1108: ・「覚醒」で使用する\n　★３以下の緑属性の仲間の★を１上昇させる\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_GREEN2_1108: ・「覚醒」で使用する\n　★４の緑属性の仲間を★５にする\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_NEUTRAL1_1108: ・「覚醒」で使用する\n　★３以下の無属性の仲間の★を１上昇させる\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_PROMOTION_NEUTRAL2_1108: ・「覚醒」で使用する\n　★４の無属性の仲間を★５にする\n・「聖印生成・覚醒」で使用する
+MID_ITEM_HELP_HOLY_COIN_1108: 「聖印生成・覚醒」で使用する\nいにしえの儀式に用いられるという\n貴重なコイン
+MID_MISSION_JUMP_UNAVAILABLE: 対象のマップは\n現在プレイすることができません。
+MID_MISSION_JUMP_CONFIRM: ミッションに挑戦しに行きますか？
+MID_MISSION_JUMP_DECIDE: 挑戦しに行く
+MID_STAGE_OPEN_SKILL_ACCESSORY_PROMOTION: 聖印生成・聖印覚醒が\n開放されました。
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_1: ＨＰ＋３、魔防＋２
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_2: ＨＰ＋４、守備魔防＋２
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_3: ＨＰ＋４、速さ守備魔防＋２
+MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_4: ＨＰ＋５、攻撃速さ守備魔防＋２
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_1: 支援相手と隣接している時、\n戦闘中、魔防＋２\n１マス離れている時、\n戦闘中、魔防＋１
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_2: 支援相手と隣接している時、\n戦闘中、守備魔防＋２\n１マス離れている時、\n戦闘中、守備魔防＋１
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_3: 支援相手と隣接している時、\n戦闘中、速さ守備魔防＋２\n１マス離れている時、\n戦闘中、速さ守備魔防＋１
+MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_4: 支援相手と隣接している時、\n戦闘中、攻撃速さ守備魔防＋２\n１マス離れている時、\n戦闘中、攻撃速さ守備魔防＋１
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_AND_PROMOTION: 聖印生成・聖印覚醒
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION: 聖印生成
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION: 聖印覚醒
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_HELP: 生成する聖印を選択してください。
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_NO_TARGET: 生成できる聖印がありません。
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATION_CONFIRM: 以下の聖印を生成しますか？
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE: 生成する
+MID_UNIT_EDIT_SKILL_ACCESSORY_GENERATE_SUCCESS: 【聖印】を生成しました。
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_HELP: 覚醒する聖印を選択してください。
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_NO_TARGET: 覚醒できる聖印がありません。
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_CONFIRM: 以下の聖印を覚醒しますか？
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE: 覚醒する
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTION_ARROW: →
+MID_UNIT_EDIT_SKILL_ACCESSORY_PROMOTE_SUCCESS: 【聖印】を覚醒しました。
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_00: 聖印を覚醒させ、もっと強く！
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_01: ◆聖印生成◆\n持っていない聖印を\n生み出すことができます。\n\n勲章、大勲章、聖貨を\n消費します。
+MID_UNIT_EDIT_ACCESSORY_PROMOTION_HELP_DIALOG_02: ◆聖印覚醒◆\n持っている聖印を覚醒させ、\n１段階強くすることができます。\n\n勲章、大勲章、聖貨を\n消費します。
+MID_VOTE_DIALOG_NO_LEADER_ERROR_TEXT: 出陣することができません。
+MID_VOTE_DIALOG_NO_LEADER_ERROR_WARNING: 部隊のリーダーを設定してください。
+MID_SEQUENTIAL_MAP_TERM_201709_2: 宿命の刻
+MID_SEQUENTIAL_MAP_TERM_201710: 光の系譜
+MID_SEQUENTIAL_MAP_TERM_201711: 英雄ではなくとも
+MID_ARENA_RANK_CALCULATING: 集計中
+MID_ARENA_DIALOG_HELP_2_02_701: ◆防衛部隊について◆\n編成で、任意の部隊を\n防衛部隊として設定できます。
+MID_SPRINKLES_GIFT_RECEIVED: Google Playギフトカードの特典を入手！\n特典をプレゼントボックスに送りました。
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED: 新しく入手できる\nGoogle Playギフトカードの特典は\nありませんでした。\n※特典は入手済みかもしれません。\nプレゼントボックスを確認してください。
+MID_SPRINKLES_INVENTORY_MESSAGE: Google Playギフトカード特典
+MID_LOAD_OUT_OF_TERM_CONFIRM: 期限切れのため、\n再開できませんでした。\n中断データを削除します。
+MID_MISSION_ALL_RECEIVE_COMPLETED: 達成済みの全ての\nミッション報酬を受け取りました。
+MID_MISSION_APPEAR_STRATUM_LIST: 以下のミッションに\n新しい難易度が追加されました。
+MID_SEQUENTIAL_MAP: 戦渦の連戦
+MID_SEQUENTIAL_MAP_CLOSED: 現在開催していません。
+MID_SEQUENTIAL_MAP_AGGREGATING: 現在集計中です。
+MID_SEQUENTIAL_MAP_REMAINING_DAYS: $a作戦終了まであと$a0日
+MID_SEQUENTIAL_MAP_REMAINING_HOURS: $a作戦終了まであと$a0時間
+MID_SEQUENTIAL_MAP_REMAINING_MINUTES: $a作戦終了まであと$a0分
+MID_SEQUENTIAL_MAP_ENTER_STAGE_SELECT: ステージ選択
+MID_SEQUENTIAL_MAP_STAGE_CONSTRAINT: $a$a1連戦：自軍$a0部隊
+MID_SEQUENTIAL_MAP_STAGE_SELECT_WARNING: ボーナスキャラを出撃させると\n獲得スコアはさらに上昇します。
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_WIN: 最終マップクリア時
+MID_SEQUENTIAL_MAP_STAGE_SELECT_POINT_LOSE: 敗北時
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_TITLE: $aステージ$a0
+MID_SEQUENTIAL_MAP_STAGE_TELOP_STAGE_NUM: $a($a0/$a1)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_TROOP_NUM: $a第$a0部隊 ($a1/$a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_STAGE_NUM: $aステージ$a0 ($a1/$a2)
+MID_SEQUENTIAL_MAP_SYSTEM_MENU_TROOP_NUM: $a第$a0部隊 ($a1/$a2)
+MID_SEQUENTIAL_MAP_STAGE_TELOP_RULE_TITLE: 勝利条件
+MID_SEQUENTIAL_MAP_REWARD: 報酬確認
+MID_SEQUENTIAL_MAP_REWARD_RANK: 順位
+MID_SEQUENTIAL_MAP_OUT_OF_RANGE: 圏外
+MID_SEQUENTIAL_MAP_RANK_AGGREGATING: 集計中
+MID_SEQUENTIAL_MAP_REWARD_POINT: 累計スコア
+MID_SEQUENTIAL_MAP_REWARD_POINT_SHORT: 累計
+MID_SEQUENTIAL_MAP_REWARD_SORT: $a報酬の種類：$a0
+MID_SEQUENTIAL_MAP_REWARD_SORT_POINT: スコア
+MID_SEQUENTIAL_MAP_REWARD_SORT_RANK: 順位
+MID_SEQUENTIAL_MAP_REWARD_SORT_DIALOG: 報酬の種類
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER: 今回のボーナスキャラ
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_1: このキャラを出撃メンバーに選択すると獲得スコアUP！
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_CAPTION_2: （複数のキャラを選択した場合は、合計せず最大値を適用）
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO: $a＋$a0％
+MID_SEQUENTIAL_MAP_REORGANIZE: 編成
+MID_SEQUENTIAL_MAP_REORGANIZE_TROOP_INFO: $a第$a0部隊（$a0/$a1）
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER: 降参
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CONFIRM: 連続マップへの挑戦を\n諦めて降参しますか？
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_WARNING: 降参した場合、\n今回クリアしたマップ数に応じた\nスコアを獲得できます。
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_DECIDE: 降参する
+MID_SEQUENTIAL_MAP_REORGANIZE_SURRENDER_CANCEL: 編成に戻る
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START: 戦闘開始
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CONFIRM: 編成した部隊で\n戦闘を開始しますか？
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_DECIDE: 戦闘開始
+MID_SEQUENTIAL_MAP_REORGANIZE_BATTLE_START_CANCEL: 編成に戻る
+MID_SEQUENTIAL_MAP_REORGANIZE_VIEW_MAP: マップ確認
+MID_SEQUENTIAL_MAP_REORGANIZE_BONUS_CHARACTER: ボーナスキャラ一覧
+MID_SEQUENTIAL_MAP_RESULT: 今回の結果
+MID_SEQUENTIAL_MAP_RESULT_BASIC_POINT: 基本スコア
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP: 突破マップ
+MID_SEQUENTIAL_MAP_RESULT_ALIVE_EVALUATION: 生存評価
+MID_SEQUENTIAL_MAP_RESULT_SPEED_EVALUATION: 速度評価
+MID_SEQUENTIAL_MAP_RESULT_BONUS_CHARACTER: ボーナスキャラ
+MID_SEQUENTIAL_MAP_RESULT_ADDED_POINT: 今回のスコア
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_A: A
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_B: B
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_C: C
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_D: D
+MID_SEQUENTIAL_MAP_RESULT_EVALUATION_E: E
+MID_SEQUENTIAL_MAP_RESULT_RATE: $a×$a0
+MID_SEQUENTIAL_MAP_RESULT_RATE_NONE: -
+MID_SEQUENTIAL_MAP_RESULT_CLEARED_MAP_NUM: $a$a0/$a1
+MID_SEQUENTIAL_MAP_RESULT_DETAIL: $a($a0)
+MID_SEQUENTIAL_MAP_DIALOG_END_OF_TERM: シーズン終了時間を過ぎたため、\n結果が反映されませんでした。
+MID_SEQUENTIAL_MAP_TERM_EXPIRED: 今回のシーズンの開催期間は\n終了しました。
+MID_SEQUENTIAL_MAP_TERM_201706: 覚醒覆う暗雲
+MID_SEQUENTIAL_MAP_HELP_DIALOG_00: 複数の自軍部隊で、連戦を戦い抜け！
+MID_SEQUENTIAL_MAP_HELP_DIALOG_01: ◆戦渦の連戦◆\n一つのマップをクリアすると、即座に\n次のマップが出現する連戦マップです。\n自軍のＨＰはそのままで、\n次の戦いを行う必要があります。\n\n既定のマップ数を\nすべてクリアすることが目的です。
+MID_SEQUENTIAL_MAP_HELP_DIALOG_02: ◆全滅したら、次の部隊が出撃◆\n最初に選んだメンバーが全滅すると、\n全滅したメンバー以外から、\n新たなメンバーを選び、\nそのマップに再挑戦します。\n\n規定の回数全滅すると、\nゲームオーバーになります。
+MID_SEQUENTIAL_MAP_HELP_DIALOG_03: ◆スコア◆\n連戦マップでの活躍によって、\nスコアが入手できます。\n\nイベント期間中の\n累計スコアに応じて、\n報酬が入手できます。
+MID_SEQUENTIAL_MAP_HELP_DIALOG_04: ◆今シーズンのボーナスキャラ◆\nボーナスキャラを\n出撃メンバーに入れると、\n獲得できるスコアがUPします。\n\n複数のボーナスキャラを\n入れていた場合は、\n合計せず、最大値を適用します。
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_00: ◆報酬確認◆\n今回の報酬を確認できます。\n\nフィルタを切り替えると\n「スコア」、\n「順位」を確認できます。
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_01: ◆スコア◆\n今回のイベントの\n累計スコア報酬の一覧です。\n\n
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_02: ◆順位◆\nランキング報酬の一覧です。\n上位500,000位以内が\nランキングされます。\n\n集計開始から順位の反映までに\n時間がかかることがあります。
+MID_SEQUENTIAL_MAP_REWARD_HELP_DIALOG_03: ◆報酬受け取り◆\n累計スコア報酬は、\n累計スコア達成時に受け取れます。\n\nランキング報酬は、\n開催期間が終了した後～\n次の戦渦の連戦が開始するまでの期間に\n戦渦の連戦に入った時、受け取れます。
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK: $a戦渦の連戦・順位報酬　$a0位
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_RANK_OUT_OF_RANGE: 戦渦の連戦・順位報酬　圏外
+MID_SEQUENTIAL_MAP_GAINED_REWARDTYPE_POINT: $a戦渦の連戦・累計スコア報酬　$a0
+MID_STAGE_TITLE_DIFFICULTY3: インファナル
+MID_UNIT_EDIT_TROOP_INDEX: $a部隊$a0
+MID_UNIT_EDIT_TROOP_NAME_EDIT: 部隊名を編集
+MID_UNIT_EDIT_TROOP_NAME_PLACE_HOLDER: 部隊名を入力
+MID_UNIT_EDIT_TROOP_NAME_ASK: 部隊名を入力してください。
+MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: 名前は１２文字以内です。\n一部の記号は使用できません。
+MID_UNIT_EDIT_TROOP_SET_DEFENSE: 防衛部隊に設定
+MID_UNIT_EDIT_TROOP_NAME_EMPTY: －－－－－－－－－－－－
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_04_701: ◆部隊名を編集◆\n部隊名を編集することができます。\n\n◆防衛部隊に設定◆\n闘技場で防衛部隊として登場する\n部隊を設定します。\n防衛部隊には盾のマークがつきます。

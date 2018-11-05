@@ -1,0 +1,38 @@
+[Heroes Archive] (SORT)
+
+
+Heroes Message Name: Message
+
+
+MID_SORT_HOME1: Ich bin froh, dass alle hier so\nfreundlich sind.$k$pMan kann sich dessen nie sicher\nsein, wenn man neue Orte besucht.
+MID_SORT_HOME2: Bei den Hirten verbringe ich meine\nZeit damit, die Pferde zu versorgen\nund Raubeine zu bekämpfen.$k$pIrgendwie fehlt mir diese alltägliche\nRoutine schon ein wenig.
+MID_SORT_HOME3: Im Moment wirkst du ja recht gesund,\naber wenn du dich krank fühlst, sag\nmir rechtzeitig Bescheid...$k$pIch kenne Rezepte für die\nverschiedensten heilsamen Tränke.
+MID_SORT_HOME4: Sag, wollen wir nicht mal zusammen\nessen gehen? Ich wüsste gern, was\ndieses Reich kulinarisch zu bieten hat.
+MID_SORT_HOME5: Ich hab gerade meine Frisur in\nOrdnung gebracht. Sieht sie denn\nwieder halbwegs gepflegt aus?$k$pMich hat übrigens mal ein Untoter\nangegriffen. Dachte scheinbar, ich\nsähe aus wie Gemüse.
+MID_SORT_FRIEND: Ah, da bist du ja!\n$Nf sendet dir\ndie besten Grüße.
+MID_SORT_LEVEL1: Erstaunlich! Ich erkenne\nmich kaum wieder.
+MID_SORT_LEVEL2: Ja! Es geht voran!
+MID_SORT_LEVEL3: Verzeihung. Ich werde\nmich bessern...
+MID_SORT_SKILL: Danke für die Extrakraft! Die\nmuss ich unbedingt trainieren.
+MID_SORT_JOIN: H-hallo. Ich bin Stahl, von den Hirten.\nEntschuldige, ich glaube, mir ist ein\nwenig flau im Magen...$k$pOb ich jetzt nur nervös bin oder ob's\nan einem meiner drei Mittagessen\nliegt, das weiß ich aber nicht.
+MID_SORT_STRONGEST: Puh... Das Training hat gut getan!\nUnd jetzt ein kleiner Imb-- Oh! Hallo,\n$Nu.$k$pAaah! Du hast mir ein Pausenbrot\nmitgebracht! Gerade, als ich mir etwas\nzu essen holen wollte. Danke!$k$pDu kümmerst dich immer um mich.\nKeine Ahnung, wie oft du mich schon\nauf dem Schlachtfeld gerettet hast.$k$pAber Leute, die sich immer um andere\nkümmern, vergessen darüber schon\nmal, auf sich selbst zu achten.$k$pDeshalb behalte ich dich immer im\nAuge. Mach dir nicht zu viel Druck.$k$pUnd ich unterstütze dich,\nso gut ich kann.
+MID_SORT_VOICE01: はっ！
+MID_SORT_VOICE02: せやあっ！
+MID_SORT_VOICE03: うわっ！
+MID_SORT_VOICE04: Noooo...!
+MID_SORT_VOICE05: Dieser Teil ist mir am liebsten!
+MID_SORT_VOICE06: Mach dich bereit!
+MID_SORT_VOICE07: Tun wir's einfach!
+MID_SORT_VOICE08: Ich denke, das könnte klappen!
+MID_SORT_VOICE09: Got me good...
+MID_SORT_VOICE10: Heehee
+MID_SORT_VOICE11: Hey, thanks for coming by to chat!
+MID_SORT_VOICE12: I'm a proud member of the Shepherds. We help people.
+MID_SORT_VOICE13: Why are you star— Is my hair sticking up again?
+MID_SORT_VOICE14: If I train hard enough, maybe someday I can match the legendary Panther.
+MID_SORT_VOICE15: My father was an apothecary—I learned a thing or two about medicine from him.
+MID_SORT_VOICE16: M-my stomach hurts—I think I ate too much again...
+MID_SORT_VOICE17: I can be a bit of a fool for food, but I'll work hard for you.
+MID_SORT_VOICE18: Mm-hm.
+MID_SORT_VOICE19: Let's go.
+MID_SORT_VOICE20: Got it.

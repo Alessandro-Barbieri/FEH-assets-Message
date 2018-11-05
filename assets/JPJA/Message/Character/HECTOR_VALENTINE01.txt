@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_VALENTINE01_HOME1: お前がいた世界にも\n愛の祭があるわけか…\nで、闘技で優勝したのはどんな奴なんだ？
+MID_HECTOR_VALENTINE01_HOME2: 贈り物は何が良いとか悪いとか、\nそういうことは俺に聞いても無駄だぜ。\nろくな助言できる気がしねえ。
+MID_HECTOR_VALENTINE01_HOME3: おいおい、\n愛の祭だかなんだか知らねえが、\nみんな浮ついてねーか？
+MID_HECTOR_VALENTINE01_HOME4: 街の通りに甘ったるそうな菓子を\n売る店がやたらと並んでたが…\n俺は菓子より闘技だな。
+MID_HECTOR_VALENTINE01_HOME5: 昔からエリウッドとは手合わせをしててな。\nあいつは俺ほど体が丈夫じゃないが…\n結構強いんだぜ。俺と互角ってとこだな。
+MID_HECTOR_VALENTINE01_FRIEND: $Nfからの\n贈り物を届けに来たぜ。\nいらねーなら持って帰るが。
+MID_HECTOR_VALENTINE01_LEVEL1: 闘技の優勝は\n俺がいただいたぜ！
+MID_HECTOR_VALENTINE01_LEVEL2: 愛の祭だからって\n気は抜かねーぜ。
+MID_HECTOR_VALENTINE01_LEVEL3: やれやれ、俺も気が\n浮ついてたわけか…？
+MID_HECTOR_VALENTINE01_SKILL: なんかでこの礼をしねーとな…\n何が欲しいんだ？
+MID_HECTOR_VALENTINE01_JOIN: 俺はヘクトル。\nん？　もしかして、贈り物が\n欲しくて俺を呼んだわけか？
+MID_HECTOR_VALENTINE01_STRONGEST: プレゼント、なんざ\n俺のガラじゃねーが…\n確か、感謝の気持ちを伝えるんだよな。$k$pそれなら、俺も渡さねーとな。\n娘のリリーナにも、\nエリウッドにも…$k$pけど、なんて言って渡せば良いのか\nわかんねーな…\nそれに妙に照れくさいんだが…$k$pなあ、$Nu、\n一緒に考えてくれよ。\n俺はこういうのはどうも苦手でな…$k$pお、良いのか？\n恩に着るぜ！\nお前にも後でちゃんと渡すからな！
+MID_HECTOR_VALENTINE01_VOICE01: おおっ！
+MID_HECTOR_VALENTINE01_VOICE02: 受け取れ！
+MID_HECTOR_VALENTINE01_VOICE03: うああっ！
+MID_HECTOR_VALENTINE01_VOICE04: なんだと…！？
+MID_HECTOR_VALENTINE01_VOICE05: 贈り物だぜ！
+MID_HECTOR_VALENTINE01_VOICE06: くれてやるぜ！
+MID_HECTOR_VALENTINE01_VOICE07: 腕が鳴るぜ！
+MID_HECTOR_VALENTINE01_VOICE08: 甘くねーぞ！
+MID_HECTOR_VALENTINE01_VOICE09: 甘く…見ちまったか…
+MID_HECTOR_VALENTINE01_VOICE10: ははっ！
+MID_HECTOR_VALENTINE01_VOICE11: ヘクトルだ。なあ、闘技大会はどこでやってんだ？
+MID_HECTOR_VALENTINE01_VOICE12: うおっ！？　…なんだお前かよ、おどかすな。
+MID_HECTOR_VALENTINE01_VOICE13: エリウッドはどこだ？　あいつと手合わせしねえと落ち着かなくてな。
+MID_HECTOR_VALENTINE01_VOICE14: 言っとくが、娘は絶対、嫁にやらねーからな！
+MID_HECTOR_VALENTINE01_VOICE15: 俺が欲しいもの？　そうだな…食いもんか武器か…
+MID_HECTOR_VALENTINE01_VOICE16: …まさか、娘から贈り物をもらう日が来るとはな…
+MID_HECTOR_VALENTINE01_VOICE17: 気の利いた贈り物はできねーが…お前のことは俺が守る。
+MID_HECTOR_VALENTINE01_VOICE18: いいぜ
+MID_HECTOR_VALENTINE01_VOICE19: 何が欲しいんだ？
+MID_HECTOR_VALENTINE01_VOICE20: 悩むことねーよ

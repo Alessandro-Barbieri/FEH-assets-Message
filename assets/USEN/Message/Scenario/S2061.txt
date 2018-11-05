@@ -1,0 +1,12 @@
+[Heroes Archive] (S2061)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_OPENING_BGM: BGM_EVENT_SERIOUS_03
+MID_SCENARIO_OPENING_IMAGE: 007_SnowDreaming
+MID_SCENARIO_OPENING: $WmMPID_スリーズ声,ch90_02_FighterAX_M_Normal,Face|Hello, $Nu...$k$pCongratulations on your victory! Word\nof it is spreading...even to where I\nhave concealed myself.$k$pThe rumors say you defeated not just\none, but two of Múspell's generals.$k$pYour strength grows...and I look\nforward to the day when we can\nfinally meet.$k$pYou will find me to the west... I\nwill await you in the sanctuary at\nSnjárhof.$k$p$Sbs150|
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_フィヨルム,ch00_06_Fjorm_F_Normal,Face|It will take us over two weeks to travel\nto Snjárhof...$k$pThat region of Nifl has been\ncompletely abandoned... All that\nremains is ruins.$k$p$WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|But it is there that we can meet your\nsister, Princess Gunnthrá, and\ndiscover the key to defeating Surtr...$k$pWe don't have time to waste!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|They were no match for us. Let's\npress onward.$k$p

@@ -1,0 +1,38 @@
+[Heroes Archive] (SANAKI_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_SANAKI_BRIDE02_HOME1: Natürlich werde ich nicht heiraten!\nDies ist nur ein Kostüm für eine Art\nBrautfeier.
+MID_SANAKI_BRIDE02_HOME2: Bei Hochzeitsfeiern werden allerlei\nexquisite Speisen aufgefahren, aber\ndie Braut hat keine Zeit zum Essen.$k$pIst das nicht eine Schande?\nSchließlich ist die Braut der\nMittelpunkt der Hochzeit.
+MID_SANAKI_BRIDE02_HOME3: Sigrun und Tanith von der Heiligen\nGarde sind meine Leibwachen.$k$pWas sie wohl sagen würden, wenn\nsie mich in diesem Kleid sehen\nkönnten?
+MID_SANAKI_BRIDE02_HOME4: Wenn ich über mein Kleid stolpere,\nwürde ich mich zum Gespött des\nSchlosses machen.$k$pIch erlaube dir ausnahmsweise, mich\nzu geleiten. Hake dich bei mir ein,\ndamit ich nicht falle.
+MID_SANAKI_BRIDE02_HOME5: Ich habe gehört, das Hochzeitspaare\nsich ihre ewige Liebe mit einem Kuss\nschwören. Ein Kuss... Das ist...
+MID_SANAKI_BRIDE02_FRIEND: Knie nieder, wenn es dir beliebt - du\nbefindest dich in der Gegenwart von...$k$pHmmm, nein... Zuerst überbringe ich\ndir schöne Grüße von\n$Nf.
+MID_SANAKI_BRIDE02_LEVEL1: Ist das diese oft zitierte\nKraft der Liebe?
+MID_SANAKI_BRIDE02_LEVEL2: Selbst in diesem Gewand übertreffe\nich die Erwartungen.
+MID_SANAKI_BRIDE02_LEVEL3: In diesem dummen Kleid kann\nich meine Stärke nicht zeigen!
+MID_SANAKI_BRIDE02_SKILL: Brauche ich ein neues Kleid, um\ndiese Macht zu beherbergen?
+MID_SANAKI_BRIDE02_JOIN: Du befindest dich in der Gegenwart\nvon Sanaki, der 37. Kaiserin von\nBegnion. Ich bin die Hohepries--$k$pM-mein Kleid? Das geht dich\nüberhaupt nichts an. Unterbrich\nmich nicht!
+MID_SANAKI_BRIDE02_STRONGEST: Ich bin die 37. Kaiserin von Begnion.\nZu diesem Zweck wurde ich geboren\nund dementsprechend erzogen.$k$pIch bin anders als gewöhnliche\nLeute. Deshalb wird auch meine\nHochzeit keine gewöhnliche sein.$k$pMein Gemahl wird nicht allein auf der\nGrundlage von Gefühlen ausgewählt.$k$pJedoch hege ich wie jeder andere\nden Wunsch, mit jemandem\nzusammen zu sein, den ich liebe...$k$pIn der Zeit, die ich mit dir verbracht\nhabe, ist mir das bewusst geworden.\nUnd wenn ich eines Tages...$k$pH-he, erzähl bloß niemandem, was\nich dir hier anvertraue! Das bleibt\nunser Geheimnis, klar?$k$p*räusper*... Verstanden?
+MID_SANAKI_BRIDE02_VOICE01: それっ！
+MID_SANAKI_BRIDE02_VOICE02: ゆくぞ！
+MID_SANAKI_BRIDE02_VOICE03: きゃああっ！
+MID_SANAKI_BRIDE02_VOICE04: …おのれ…！
+MID_SANAKI_BRIDE02_VOICE05: Nimm meine Liebe!
+MID_SANAKI_BRIDE02_VOICE06: Und noch mehr Liebe!
+MID_SANAKI_BRIDE02_VOICE07: Welch Unverfrorenheit!
+MID_SANAKI_BRIDE02_VOICE08: Beuge dich unserer Macht!
+MID_SANAKI_BRIDE02_VOICE09: Ooh... Too much!
+MID_SANAKI_BRIDE02_VOICE10: ふふふっ
+MID_SANAKI_BRIDE02_VOICE11: This outfit is just for the festival. Don't get any weird ideas.
+MID_SANAKI_BRIDE02_VOICE12: What do you think you're doing? Is that how you treat a bride?
+MID_SANAKI_BRIDE02_VOICE13: I'm not a kid! I know about love and...things. Really, I do.
+MID_SANAKI_BRIDE02_VOICE14: OK. I will hear your thoughts on my outfit!
+MID_SANAKI_BRIDE02_VOICE15: I look pretty? You have not earned the right to speak on such matters!
+MID_SANAKI_BRIDE02_VOICE16: Someday, I'll dress like this, but for real, and—\nYou heard nothing!
+MID_SANAKI_BRIDE02_VOICE17: Tell me—why do people make vows of love?
+MID_SANAKI_BRIDE02_VOICE18: I'll manage!
+MID_SANAKI_BRIDE02_VOICE19: Pledge your love!
+MID_SANAKI_BRIDE02_VOICE20: Happily ever after...

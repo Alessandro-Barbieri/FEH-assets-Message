@@ -1,0 +1,38 @@
+[Heroes Archive] (Menu_51_seisen02)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_02_51: How Scoring Works:\nIf you win, you'll earn points\nbased on the strength of your foe.\nDuring a winning streak, you'll get\na chain bonus. This bonus resets\nafter your fifth straight win.
+MID_ARENA_DIALOG_HELP_04_51: Rewards:\nAfter the season ends, you'll get\nrewards based on your tier.\n\nIf your score is high enough,\nyour Arena tier may go up.
+MID_ARENA_DIALOG_HELP_06_51: Bonus Character Stat Boost:\nWhen bonus characters are used\nwithin the Arena, they'll be\ngranted HP+10 and Atk/Spd/\nDef/Res+4.\n\nThis stat boost does not affect\nthe scores for foes you are\nmatched with. It also does not\napply to your defensive team.
+MID_ARENA_DIALOG_HELP_3_00_51: Checking Rewards:\nYou can check the rewards that\nwill be given out for the current\nseason. Change the filter to see\nrewards given for your defense\nand rank.
+MID_ARENA_DIALOG_HELP_3_01_51: Defense Rewards:\nThese rewards are based on the\nscore your team has earned\nfor defense.
+MID_ARENA_GAINED_REWARDTYPE_CONSECUTIVE_WIN: $aFirst Arena Victory: $a0-Chain Reward
+MID_ARENA_DESCRIPTION_51: Test your skills against rivals from\naround the world, and earn rewards.\nAim for five consecutive victories!
+MID_ARENA_COMBO_CAPTION2: $aYou've won $a0/$a2 in a row. Chain bonus: + $a1.
+MID_STAGE_SELECT_DETAIL_FAILED_NOT_BLESSING: Could not start battle. Go to Confer\nBlessing menu?
+MID_EXTRA_PLAY_ANALYTICS_TERMS_GDPR: Fire Emblem Heroes collects data\nabout the use of the app in order to\nimprove our products and services,\nas well as customise offers and\nrecommendations in accordance\nwith the privacy policy.\n\nBased on your account information,\ncollection of your app usage data\nhas been stopped.\n\nIf you wish to stop notifications\noutside of the app, please change\nthe settings on your device.
+MID_OCCUPATION_DIFFICULTY_SELECT_GRADE_LIMIT: $aUnlocks at GC Tier $a0
+MID_SUMMON_ONLY_ONCE_DECIDE: Free 5★ Summon
+MID_TAP_BATTLE_OPERATION_NORMAL_HELP_DIALOG_00: Tap the summoner to attack!
+MID_TAP_BATTLE_OPERATION_EXPERT_HELP_DIALOG_00: Tap a row to attack there!
+MID_TAP_BATTLE_ENTER_EXTRA_STAGE_SELECT: Extra Stages
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS: $aBoss for $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME: $a$a1: $a0
+MID_TAP_BATTLE_TRAILER_NEXT_BOSS_NAME_SECRET: ???
+MID_TAP_BATTLE_TRAILER_NEXT_MUSIC: Song Title:
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_1: Extra Stage 1
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_2: Extra Stage 2
+MID_TAP_BATTLE_EXTRA_STAGE_TITLE_3: Extra Stage 3
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_MINUTES: $aUnlocks in $a0 min(s)
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_HOURS: $aUnlocks in $a0 hr(s)
+MID_TAP_BATTLE_EXTRA_STAGE_REMAINING_DAYS: $aUnlocks in $a0 day(s)
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE_51: $a$a0\nYou earned an S-rank\non all stages, playing on\n$a2 / $a1!
+MID_TAP_BATTLE_EXTRA_STAGE_SELECT_PRAISE_51: $a$a0\nYou earned an S-rank on all\nExtra Stages, playing on\n$a2 / $a1!
+MID_TAP_BATTLE_CANNOT_PLAY_EXTRA_STAGE: To access Extra Stages,\nclear at least Floor 20 in\nthe 100-floor dungeon.
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_MINUTES: $a$a0 appears\nin $a1 min(s)!
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_HOURS: $a$a0 appears\nin $a1 hr(s)!
+MID_TAP_BATTLE_EXTRA_STAGE_TRAILER_REMAINING_DAYS: $a$a0 appears\nin $a1 day(s)!
+TUTORIAL_IMPROVE_COMPENSATE_V2_5: Thanks for Playing Gift

@@ -1,0 +1,8 @@
+[Heroes Archive] (T0017)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ホークアイ,ch03_01_Hawkeye_M_Normal,Face|$w0|Depuis bien longtemps, les humains\net les dragons sont séparés par la\npeur et déchirés par la guerre.$k$pMais je suis convaincu qu'un jour,\nnous parviendrons à trouver un\nterrain d'entente.$k$p$WmMPID_ニニアン,ch03_16_Ninian_F_Normal,Face|$w0|Oui... Moi aussi, j'en suis convaincue.$k$p$Sbs1000|

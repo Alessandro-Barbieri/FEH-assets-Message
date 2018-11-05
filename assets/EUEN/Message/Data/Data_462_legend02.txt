@@ -1,0 +1,188 @@
+[Heroes Archive] (Data_462_legend02)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0002: $WmMPID_アルフォンス,ch00_01_Alfons_M_Normal,Face|$w0|A Hero was summoned in\nresponse to a rite held in a far-off\nworld. Come. Let us meet them.$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0002: Gain a new ally by clearing\nXenologue 3, The People's Hero!
+MID_MISSION_M201803A_TITLE: Mar Quests (1)
+MID_MISSION_M201803A_A1: KO Foes w/Blue
+MID_MISSION_H_M201803A_A1: Use blue-type allies to defeat foes.
+MID_MISSION_M201803A_A2: KO Foes w/Infantry
+MID_MISSION_H_M201803A_A2: Use infantry allies to defeat foes.
+MID_MISSION_M201803A_A3: KO Green Foes
+MID_MISSION_H_M201803A_A3: Defeat green-type foes.
+MID_MISSION_M201803A_A4: KO Flier Foes
+MID_MISSION_H_M201803A_A4: Defeat flier foes.
+MID_MISSION_M201803A_A5: Win Arena Duels
+MID_MISSION_H_M201803A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201803A_A6: KO Lvl. 20+ Foes w/Red
+MID_MISSION_H_M201803A_A6: Defeat foes that are level 20\nor higher with red-type allies.
+MID_MISSION_M201803A_A7: KO Lvl. 20+ Foes w/Fliers
+MID_MISSION_H_M201803A_A7: Defeat foes that are level 20\nor higher with flier allies.
+MID_MISSION_M201803A_A8: KO Lvl. 20+ Blue Foes
+MID_MISSION_H_M201803A_A8: Defeat blue-type foes that\nare level 20 or higher.
+MID_MISSION_M201803A_A9: KO Lvl. 20+ Infantry Foes
+MID_MISSION_H_M201803A_A9: Defeat infantry foes that\nare level 20 or higher.
+MID_MISSION_M201803A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201803A_A10: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_M201803A_A11: KO Lvl. 35+ Foes w/Green
+MID_MISSION_H_M201803A_A11: Defeat foes that are level 35 or\nhigher with green-type allies.
+MID_MISSION_M201803A_A12: KO Lvl 35+ Foes w/Cavalry
+MID_MISSION_H_M201803A_A12: Defeat foes that are level 35 or\nhigher with cavalry allies.
+MID_MISSION_M201803A_A13: KO Lvl. 35+ Red Foes
+MID_MISSION_H_M201803A_A13: Defeat red-type foes that\nare level 35 or higher.
+MID_MISSION_M201803A_A14: KO Lvl. 35+ Cavalry Foes
+MID_MISSION_H_M201803A_A14: Defeat cavalry foes that\nare level 35 or higher.
+MID_MISSION_M201803A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201803A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201803B_TITLE: Mar Quests (2)
+MID_MISSION_M201803B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201803B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201803B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201803B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201803B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201803B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201803B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201803B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201803B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201803B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201803B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201803B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201803B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201803B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201803B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201803B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201803B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201803B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201803B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201803C_TITLE: Mar Quests (3)
+MID_MISSION_M201803C_A1: Clear 7-1
+MID_MISSION_H_M201803C_A1: Clear Chapter 7: Part 1. All\nfour allies must survive.
+MID_MISSION_M201803C_A2: Clear 7-2
+MID_MISSION_H_M201803C_A2: Clear Chapter 7: Part 2 with a\nred-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A3: Clear 7-3
+MID_MISSION_H_M201803C_A3: Clear Chapter 7: Part 3 with a\nblue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A4: Clear 7-4
+MID_MISSION_H_M201803C_A4: Clear Chapter 7: Part 4 with a\ngreen-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A5: Clear 7-5
+MID_MISSION_H_M201803C_A5: Clear Chapter 7: Part 5 with a\ncolorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A6: Clear 10-1 on Hard+
+MID_MISSION_H_M201803C_A6: Clear Chapter 10: Part 1 on Hard\nor higher difficulty. All four\nallies must survive.
+MID_MISSION_M201803C_A7: Clear 10-2 on Hard+
+MID_MISSION_H_M201803C_A7: Clear Chapter 10: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A8: Clear 10-3 on Hard+
+MID_MISSION_H_M201803C_A8: Clear Chapter 10: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201803C_A9: Clear 10-4 on Hard+
+MID_MISSION_H_M201803C_A9: Clear Chapter 10: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201803C_A10: Clear 10-5 on Hard+
+MID_MISSION_H_M201803C_A10: Clear Chapter 10: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201803C_A11: Clear 13-1 on Lunatic
+MID_MISSION_H_M201803C_A11: Clear Chapter 13: Part 1 on Lunatic\ndifficulty. All four allies must survive.
+MID_MISSION_M201803C_A12: Clear 13-2 on Lunatic
+MID_MISSION_H_M201803C_A12: Clear Chapter 13: Part 2 on Lunatic\ndifficulty with a red-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201803C_A13: Clear 13-3 on Lunatic
+MID_MISSION_H_M201803C_A13: Clear Chapter 13: Part 3 on Lunatic\ndifficulty with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201803C_A14: Clear 13-4 on Lunatic
+MID_MISSION_H_M201803C_A14: Clear Chapter 13: Part 4 on Lunatic\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201803C_A15: Clear 13-5 on Lunatic
+MID_MISSION_H_M201803C_A15: Clear Chapter 13: Part 5 on Lunatic\ndifficulty with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201803CHARA01_TITLE: Three Heroes
+MID_MISSION_S201803CHARA01_A1: KO Foe
+MID_MISSION_H_S201803CHARA01_A1: Defeat a foe.
+MID_MISSION_S201803CHARA01_A2: KO with Cherche
+MID_MISSION_H_S201803CHARA01_A2: Use Cherche to defeat a foe.
+MID_MISSION_S201803CHARA01_A3: KO with Gordin
+MID_MISSION_H_S201803CHARA01_A3: Use Gordin to defeat a foe.
+MID_MISSION_S201803CHARA01_B1: KO Level 20+ Foe
+MID_MISSION_H_S201803CHARA01_B1: Defeat a foe that is level 20\nor higher with Cherche.
+MID_MISSION_S201803CHARA01_B2: KO Level 20+ Foe
+MID_MISSION_H_S201803CHARA01_B2: Defeat a foe that is level 20\nor higher with Gordin.
+MID_MISSION_S201803CHARA01_B3: KO Level 20+ Foe
+MID_MISSION_H_S201803CHARA01_B3: Defeat a foe that is level 20 or\nhigher with Serra.
+MID_MISSION_S201803CHARA01_C1: KO Level 35+ Foe
+MID_MISSION_H_S201803CHARA01_C1: Defeat a foe that is level 35\nor higher with Cherche.
+MID_MISSION_S201803CHARA01_C2: KO Level 35+ Foe
+MID_MISSION_H_S201803CHARA01_C2: Defeat a foe that is level 35\nor higher with Gordin.
+MID_MISSION_S201803CHARA01_C3: KO Level 35+ Foe
+MID_MISSION_H_S201803CHARA01_C3: Defeat a foe that is level 35 or\nhigher with Serra.
+MID_MISSION_S201803HERO00_TITLE: Grand Hero Battles
+MID_MISSION_S201803HERO00_A1: Defeat Arvis
+MID_MISSION_H_S201803HERO00_A1: With Alfonse on your team, win\nthe Grand Hero Battle against\nArvis: Emperor of Flame.
+MID_MISSION_S201803HERO00_A2: Defeat Arvis
+MID_MISSION_H_S201803HERO00_A2: With Arvis: Emperor of Flame on your team,\nwin the Grand Hero Battle against Arvis:\nEmperor of Flame on Lunatic or higher.
+MID_MISSION_S201803HERO00_A3: Defeat Arvis
+MID_MISSION_H_S201803HERO00_A3: Use Alfonse to defeat a level 40\nor higher Arvis: Emperor of Flame.
+MID_MISSION_S201803HERO00_A4: Defeat Arvis
+MID_MISSION_H_S201803HERO00_A4: Use Arvis: Emperor of Flame to\ndefeat a level 40 or higher\nArvis: Emperor of Flame.
+MID_MISSION_S201803HERO00_A5: Defeat Arvis
+MID_MISSION_H_S201803HERO00_A5: Win the Grand Hero Battle against\nArvis: Emperor of Flame on Lunatic\nor higher using an all-infantry team.
+MID_MISSION_S201803VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201803VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201803VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201803VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201803VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201803VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201803VOTE01_A6: Tower: Second Stratum
+MID_MISSION_H_S201803VOTE01_A6: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201803VOTE01_A7: Tower: Fifth Stratum
+MID_MISSION_H_S201803VOTE01_A7: Clear the Fifth Stratum\nof the Training Tower.
+MID_MISSION_S201803VOTE01_A8: Tower: Eighth Stratum
+MID_MISSION_H_S201803VOTE01_A8: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201803VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201803VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201803VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201803VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201803VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201803VOTE01_A11: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201803VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201803VOTE01_A12: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201803VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A13: Win a battle in the Voting Gauntlet\nwith a red-type ally on your team.
+MID_MISSION_S201803VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A14: Win a battle in the Voting Gauntlet\nwith a blue-type ally on your team.
+MID_MISSION_S201803VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A15: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201803VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A16: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MID_MISSION_S201803VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A17: Win a battle in the Voting Gauntlet with\na red-type ally on your team.
+MID_MISSION_S201803VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A18: Win a battle in the Voting Gauntlet with\na blue-type ally on your team.
+MID_MISSION_S201803VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A19: Win a battle in the Voting Gauntlet with\na green-type ally on your team.
+MID_MISSION_S201803VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201803VOTE01_A20: Win a battle in the Voting Gauntlet with\na colorless-type ally on your team.
+MPID_伝承エフラム: Ephraim
+MPID_HONOR_伝承エフラム: Legendary Lord
+MPID_H_伝承エフラム: Prince of Renais. Eirika's twin. It's\nsaid he destroyed the Demon King\nof old and saved the world. Appears\nin Fire Emblem: The Sacred Stones.
+MPID_VOICE_伝承エフラム: Greg Chun
+MPID_ILLUST_伝承エフラム: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エフラム: Legendary Effect: Fire\nAlly Boost: HP+3, Def+4\n\nGrants allies this Legendary Effect\nduring Fire season, if the Fire\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_炎槍ジークムント: Flame Siegmund
+MSID_鬼神金剛の構え1: Sturdy Stance 1
+MSID_鬼神金剛の構え2: Sturdy Stance 2
+MSID_太陽の腕輪: Solar Brace
+MSID_H_炎槍ジークムント: Grants Atk+3. If the number of foes within\n2 spaces (excluding target) ≥ the number of\nallies within 2 spaces (excluding unit),\nunit makes a guaranteed follow-up attack.
+MSID_H_鬼神金剛の構え1: If foe initiates combat, grants Atk/Def+2\nduring combat.
+MSID_H_鬼神金剛の構え2: If foe initiates combat, grants Atk/Def+4\nduring combat.
+MSID_H_太陽の腕輪: Restores HP = 30% of damage dealt when\nSpecial triggers. (Stacks with effects of skills\nlike Sol.)
+MID_CHAPTER_TITLE_CXX03: Xenologue 3
+MID_CHAPTER_CXX03: The People's Hero
+MID_STAGE_TITLE_XX003: Xenologue 3
+MID_STAGE_XX003: The People's Hero

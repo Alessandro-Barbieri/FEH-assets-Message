@@ -1,0 +1,39 @@
+[Heroes Archive] (REFLET_M)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_HOME1: 別世界の者は英雄と呼ばれるのか…\nじゃあ元々この世界の者でない、\n$Nuは…？
+MID_REFLET_M_HOME2: 僕はクロムと出会うまでの記憶がないんだ。\nでも戦い方はちゃんと憶えているよ。\n一目で敵の強さも見抜けるし…え、君も？
+MID_REFLET_M_HOME3: 僕もよくみんなの様子を見て回るんだ。\n無事な姿を見ると安心するよね。\n君はなんだか、他人とは思えないよ。
+MID_REFLET_M_HOME4: 時間があるなら話をしないかい？\n新しい策を考えたんだけど、\nぜひ君の意見を聞きたくてね。
+MID_REFLET_M_HOME5: この国の書物もなかなか面白いね…\n…ああ、すまない。\n特務機関の書庫から拝借してきたんだ。
+MID_REFLET_M_FRIEND: はじめまして、僕はルフレ。\n$Nfから、\n君に挨拶をしてきてくれと頼まれてね。
+MID_REFLET_M_LEVEL1: こうなることまでは\n読めなかったよ…！
+MID_REFLET_M_LEVEL2: これも策のうちだよ。
+MID_REFLET_M_LEVEL3: …あんまり\n変わらなかったね。
+MID_REFLET_M_SKILL: ありがとう。僕に戦力的な\n価値を見出してくれたんだね。
+MID_REFLET_M_JOIN: 僕はルフレ。\nクロム自警団で軍師をしているんだよ。\n策を講じることなら、任せてくれ。
+MID_REFLET_M_STRONGEST: この世界に来てから、\n君の戦術を間近で見ることができて\nとても勉強になるよ。$k$p出撃の時に僕を選んでくれるたび、\nああ今日も君の傍にいられるって、\nうれしい気持ちになるんだ。$k$pでも、あんまり僕ばかり傍にいたら\n君の半身に悪いかな？\nそう…僕の読みが当たっていれば、$k$p君の半身はアルフォンスだろう？\n僕とクロムの絆と同じように、\n君たちの間にも特別なものを感じるんだ。$k$pけれど、戦術を立てる者として…\n君の気持ちが一番わかるのはきっと僕だ。\n戦が終わるまで、君を支えてみせるからね。\n
+MID_REFLET_M_VOICE01: えい！
+MID_REFLET_M_VOICE02: はあっ！
+MID_REFLET_M_VOICE03: うあっ！
+MID_REFLET_M_VOICE04: 策のうちだよ…っ
+MID_REFLET_M_VOICE05: 戦局を変える！
+MID_REFLET_M_VOICE06: 読みが甘いね！
+MID_REFLET_M_VOICE07: 読み通り！
+MID_REFLET_M_VOICE08: これが絆だ！
+MID_REFLET_M_VOICE09: 油断…した…
+MID_REFLET_M_VOICE10: ふふっ
+MID_REFLET_M_VOICE11: 次の戦も、必ず勝とう
+MID_REFLET_M_VOICE12: すまない、策を考えていた
+MID_REFLET_M_VOICE13: 僕はその神器から出てきたのかい？
+MID_REFLET_M_VOICE14: 君はなんだか、他人とは思えないよ
+MID_REFLET_M_VOICE15: 良かった、イーリスでの記憶は失くしてないみたいだ
+MID_REFLET_M_VOICE16: クロムはどこにいるんだろう…
+MID_REFLET_M_VOICE17: 戦場では僕を頼って欲しい。きっと力になってみせるよ。
+MID_REFLET_M_VOICE18: ふむ…
+MID_REFLET_M_VOICE19: どう仕掛ける？
+MID_REFLET_M_VOICE20: 行こうか
+MID_REFLET_M_VOICE21: 僕の策で、戦局を変えてみせるよ。

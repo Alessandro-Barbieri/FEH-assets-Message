@@ -1,0 +1,38 @@
+[Heroes Archive] (OLWEN)
+
+
+Heroes Message Name: Message
+
+
+MID_OLWEN_HOME1: Prinz Alfonse und Prinzessin Sharena\nscheinen sich sehr nahezustehen.\nIch finde das sehr beruhigend.
+MID_OLWEN_HOME2: Weißt du, mein Bruder Reinhardt ist\nim Kampf einfach herausragend.$k$pEinige meinen, er sei die Wiederge-\nburt des größten Heiligen Ritters\nunserer Welt.
+MID_OLWEN_HOME3: Interessierst du dich für Magie?\nIch kenn mich darin ein bisschen\naus und könnte dir was beibringen.
+MID_OLWEN_HOME4: Mein Bruder Reinhardt wird seinen\nWeg fortsetzen, und ich den meinen.$k$pAuch wenn uns das zu Gegnern\nmacht.
+MID_OLWEN_HOME5: Kinder sind der Schatz eines Reiches\nund einfach anbetungswürdig.$k$pWenn sie herangewachsen sind,\nübernehmen sie die Last des\nReiches.
+MID_OLWEN_FRIEND: Ich heiße Olwen. Ich komme mit\nGrüßen von\n$Nf.
+MID_OLWEN_LEVEL1: Was für ein großes Glück!\nGanz erstaunlich.
+MID_OLWEN_LEVEL2: Gut. Aber noch weit entfernt von\nder Leistung meines Bruders.
+MID_OLWEN_LEVEL3: Was? Davon werde ich bestimmt\nimmer wieder eingeholt.
+MID_OLWEN_SKILL: Ich nutze das im Kampf,\num dich stolz zu machen.
+MID_OLWEN_JOIN: Ich bin Olwen. Wärest du damit\neinverstanden, wenn ich mich dir\nanschließe?$k$pDu kannst dir gar nicht vorstellen,\nwie mich das freuen würde.
+MID_OLWEN_STRONGEST: Mein Bruder ist eine bemerkenswerte\nPerson. Er hat mir immer geholfen\nund mich angeleitet.$k$pWenn ich mit ihm zusammen war,\nhabe ich mich immer sicher gefühlt.$k$pAber dann kam der Tag, an dem er\nmich nicht mehr beschützen konnte,\nund ich meinen eigenen Weg im$k$pLeben finden musste.\nEs war nicht leicht, die Verantwortung\nselbst zu tragen.$k$pEs gab Zeiten, da war die Last einfach\nzu schwer für mich.$k$pNachdem ich mich dir angeschlossen\nhatte, konnte ich beobachten, dass du\nimmer irgendwie Lösungen findest,$k$pselbst in den unsichersten Stunden.\nDu spornst mich an.$k$pDaher wäre es mir eine Ehre, wenn\nich den Weg mit dir zusammen gehen$k$pdürfte, solange du mich an deiner\nSeite haben möchtest.
+MID_OLWEN_VOICE01: はっ！
+MID_OLWEN_VOICE02: せいっ！
+MID_OLWEN_VOICE03: きゃああっ！
+MID_OLWEN_VOICE04: How cowardly...
+MID_OLWEN_VOICE05: Du Abschaum!
+MID_OLWEN_VOICE06: Keine Gnade!
+MID_OLWEN_VOICE07: Ich beschütze die Wehrlosen!
+MID_OLWEN_VOICE08: An mir kommst du nicht vorbei!
+MID_OLWEN_VOICE09: Not here...
+MID_OLWEN_VOICE10: huhu
+MID_OLWEN_VOICE11: I thank you deeply for giving me your time.
+MID_OLWEN_VOICE12: Aaah! Ha ha! I scare easily, I guess.
+MID_OLWEN_VOICE13: I'm sometimes at a loss about how to proceed.
+MID_OLWEN_VOICE14: Children should be happy. I will always fight to keep their smiles bright.
+MID_OLWEN_VOICE15: Where should I even begin, expressing my thoughts?
+MID_OLWEN_VOICE16: If ever my brother stands in my way? Well, I will do what I must.
+MID_OLWEN_VOICE17: I would like to fight on the side of good, for as long as goodness will have me.
+MID_OLWEN_VOICE18: OK.
+MID_OLWEN_VOICE19: Yes?
+MID_OLWEN_VOICE20: Onward.

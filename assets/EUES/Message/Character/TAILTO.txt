@@ -1,0 +1,38 @@
+[Heroes Archive] (TAILTO)
+
+
+Heroes Message Name: Message
+
+
+MID_TAILTO_HOME1: Aquí la gente no hace más que\nhablar y hablar sobre las cosas\nmás aburridas... ¡Es un rollo!
+MID_TAILTO_HOME2: ¿Qué es esa vara tan rara? ¿Eh?\n¿Dices que la usas para invocar\nhéroes? ¡Anda ya!
+MID_TAILTO_HOME3: ¿Estás de guardia? ¿No te aburres?\nDeja que te ayude. ¡Será más\ndivertido!
+MID_TAILTO_HOME4: Padre, lo siento... He traído\nla deshonra a nuestra familia.
+MID_TAILTO_HOME5: Mientras la conversación sea\ninteresante, me puedo pasar el día\nhablando. ¿Tienes un par de horas?
+MID_TAILTO_FRIEND: ¡Hola! Soy Tailtiu. Me envía\n$Nf.
+MID_TAILTO_LEVEL1: Ha sido una pasada, ¿verdad?\n¡Admítelo!
+MID_TAILTO_LEVEL2: Ha estado bien..., ¿no?
+MID_TAILTO_LEVEL3: Ay... Menuda decepción.
+MID_TAILTO_SKILL: ¡Gracias! ¡Estoy a tope y llena\nde energía!
+MID_TAILTO_JOIN: ¡Soy Tailtiu! Soy descendiente de\nThrud, el cruzado. Pero bueno,\n¡hablemos de ti!
+MID_TAILTO_STRONGEST: ¡Hola! ¿Tienes un minuto?$k$pSiempre eres amable, sean cuales\nsean las circunstancias. Es algo que\nme gusta de ti.$k$pAnda, ¿te has sonrojado?\nEso sí que no me lo esperaba.\n¡Eres una caja de sorpresas!$k$pIntento no darle muchas vueltas,\npero suelo tener buena intuición con\nla gente. Tú eres buena persona.$k$pCuando pienso eso de alguien,\nintento echarle una mano con\nlo que pueda.$k$pSiempre me divierto cuando hablo\ncontigo, $Nu.$k$p¡Sigamos ayudándonos\nmutuamente!
+MID_TAILTO_VOICE01: えいっ！
+MID_TAILTO_VOICE02: それっ！
+MID_TAILTO_VOICE03: きゃあっ！
+MID_TAILTO_VOICE04: ひどい…
+MID_TAILTO_VOICE05: ¡Que voy!
+MID_TAILTO_VOICE06: ¡Perdón!
+MID_TAILTO_VOICE07: ¡Ya vale!
+MID_TAILTO_VOICE08: ¡Hasta luego!
+MID_TAILTO_VOICE09: Are you kidding?
+MID_TAILTO_VOICE10: Hehe
+MID_TAILTO_VOICE11: Hey! I have something I need to talk to you about.
+MID_TAILTO_VOICE12: Huh? Oh... It's you. Don't sneak up on me like that.
+MID_TAILTO_VOICE13: I don't spend a lot of time thinking about things I'm not interested in.
+MID_TAILTO_VOICE14: Thank you so much! I’m feeling a lot better, and it’s all thanks to you.
+MID_TAILTO_VOICE15: Now that I've gotten to know you, I like you a lot.
+MID_TAILTO_VOICE16: I'm sorry, Father...
+MID_TAILTO_VOICE17: Well, I'm worried about you. So I decided to protect you.
+MID_TAILTO_VOICE18: All right!
+MID_TAILTO_VOICE19: Hmm...
+MID_TAILTO_VOICE20: Hurry it up!

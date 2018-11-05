@@ -1,0 +1,9 @@
+[Heroes Archive] (S2052)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|Wie haben sie uns so schnell\ngefunden!? Macht Euch alle\nkampfbereit!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|Sie haben uns fast umzingelt...$k$pWir müssen hier weg, bevor\nVerstärkung eintrifft. Wächter\nvon Askr, bewegt Euch!$k$p$Sbs150|

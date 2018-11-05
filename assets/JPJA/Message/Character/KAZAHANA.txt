@@ -1,0 +1,38 @@
+[Heroes Archive] (KAZAHANA)
+
+
+Heroes Message Name: Message
+
+
+MID_KAZAHANA_HOME1: 桜柄の小物が欲しいなあ…\nでもここって暗夜寄りの文化みたいだし\nそういうの、売ってないのかしら…
+MID_KAZAHANA_HOME2: あたしはサクラ様の臣下で親友なの。\nこう見えて一番信頼されてるんだから。\nどこぞの完璧天馬武者には負けないわ！
+MID_KAZAHANA_HOME3: みんなが無事か、見て回ってるの？\nサクラ様もよくそういうことしてるよ。\nあなた、優しい人なんだね。
+MID_KAZAHANA_HOME4: 時間があるなら手合わせしようよ！\nえっ、戦えないから無理？　それは残念…\nじゃあ戦場では守ってあげるね！
+MID_KAZAHANA_HOME5: えい！　えい！　えーーーい！！\n…ふうっ、今日の素振りはおしまいっ！\n刀の稽古は毎日欠かさないんだから。
+MID_KAZAHANA_FRIEND: 見つけたわ$Nu！\n$Nfからあなたに\n手合わせ…じゃなかった、挨拶よ。
+MID_KAZAHANA_LEVEL1: この力に驕らずに\nもっと精進しちゃうよ！
+MID_KAZAHANA_LEVEL2: やった！\n訓練の成果が出たみたいね。
+MID_KAZAHANA_LEVEL3: げっ、あんまり変わってないっ！
+MID_KAZAHANA_SKILL: わーい、成長しちゃった！\nこの力で手合わせしたいな！
+MID_KAZAHANA_JOIN: 白夜王国の侍、カザハナよ。\n父上のような立派な剣豪になるのが夢なの。\n手合わせしたいなら、かかってきなさい！
+MID_KAZAHANA_STRONGEST: えい！　はあ！　とう！！\nさて、今日の訓練はここまでかな。\nいつも通りすごい動きだったでしょ？$k$p…げっ、右の踏み込みが甘い！？\n振り返った後の一撃が遅い！？\nもーー！　大将は厳しいんだからーっ！$k$pん？　そうよ、大将って呼んだの。\nあなたはなんか軍の要っぽいから…\nそう呼んだんだけど、いけなかった？$k$pそんなすごいものじゃない、って…\nまたまた、ご謙遜を！\nいつも頑張ってるの、見てるんだからね。$k$pでもあなたがそう言うなら…\nこれはみんなの前ではやめとくわ。\n二人だけの呼び名ってことで、どう？\n
+MID_KAZAHANA_VOICE01: せいっ！
+MID_KAZAHANA_VOICE02: はあっ！！
+MID_KAZAHANA_VOICE03: ひゃっ！
+MID_KAZAHANA_VOICE04: 強いのね…
+MID_KAZAHANA_VOICE05: 勝たせてもらうわ！
+MID_KAZAHANA_VOICE06: 散りなさい！
+MID_KAZAHANA_VOICE07: もらったっ！
+MID_KAZAHANA_VOICE08: 切り捨て御免っ
+MID_KAZAHANA_VOICE09: サクラ、ごめんね…
+MID_KAZAHANA_VOICE10: ふふっ
+MID_KAZAHANA_VOICE11: 刀の素振りしてきたよっ
+MID_KAZAHANA_VOICE12: 新しい世界、探検してみたいわ
+MID_KAZAHANA_VOICE13: 特務機関の訓練方法、教えてよ！
+MID_KAZAHANA_VOICE14: あなた強そうだよね、手合わせを…え、闘えないの？
+MID_KAZAHANA_VOICE15: 父上みたいな、立派な侍になるのが夢よ
+MID_KAZAHANA_VOICE16: サクラ様どこだろう…お傍にいないといけないのに…
+MID_KAZAHANA_VOICE17: あたし、これからじゃんじゃん強くなるから、\n強い相手と戦わせてよね
+MID_KAZAHANA_VOICE18: はいっ
+MID_KAZAHANA_VOICE19: 誰を斬る？
+MID_KAZAHANA_VOICE20: よーし

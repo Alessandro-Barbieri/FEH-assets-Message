@@ -1,0 +1,8 @@
+[Heroes Archive] (S2072)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ラインハルト2,ch07_01_Reinhardt_M_Normal2,Face|Ich bin der Magieritter Reinhardt\nvon Friege.$k$pFalls du glaubst, ich könne nur mit\nMagie umgehen, demonstriere ich\ndir gern meine Klingenfertigkeiten.$k$p$Sbs1000|

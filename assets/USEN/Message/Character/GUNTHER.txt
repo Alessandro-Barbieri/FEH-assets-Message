@@ -1,0 +1,38 @@
+[Heroes Archive] (GUNTHER)
+
+
+Heroes Message Name: Message
+
+
+MID_GUNTHER_HOME1: I'm impressed by the commander of\nthis Order of Heroes here—a keen\nmind for one still in her bloom.
+MID_GUNTHER_HOME2: I was the caretaker for my liege\nCorrin for many years. So rather than\na retainer, I'm more a parent.
+MID_GUNTHER_HOME3: I admire your initiative doing patrols.\nWe should trade stories over tea.\nI'm no butler, but I can brew the stuff.
+MID_GUNTHER_HOME4: My lifetime of training served me well\nin my world. Will it in this one?$k$pMaybe I should train with you\nranking members of this order.
+MID_GUNTHER_HOME5: I maintain my armor often. When I got\nhere, I had little more than that on me.\nSo I have to take good care of it all.
+MID_GUNTHER_FRIEND: Hmm, I take it that you are\n$Nu.$k$pThen I've finally found you. I bring\ngreetings from your friend\n$Nf.
+MID_GUNTHER_LEVEL1: It feels good to be in action again!
+MID_GUNTHER_LEVEL2: Guess I can learn new tricks...
+MID_GUNTHER_LEVEL3: At my age, I'm lucky I don't feel\nweaker.
+MID_GUNTHER_SKILL: A lot of power for an old man.\nBut I'll use it as best I can.
+MID_GUNTHER_JOIN: I am Gunter, a knight of Nohr. Some\nmight call me too old. Their mistake.\nThis knight is a seasoned veteran!
+MID_GUNTHER_STRONGEST: I heard from your commander\nthat you're a...Great Hero.$k$pCome now—out with it. Are you\na Great Hero? Perhaps you're too\nhumble to say as much.$k$pYou might not have my years,\nbut embrace who you are and\ndevelop your potential!$k$pThat weapon of yours—make\nyourself into the sort of person\nwho is worthy of holding it!$k$pI have known another one in my\ndays who faced a similar\ndilemma.$k$pNow, before you dismiss this as\nthe ramblings of an old man,\nknow this:$k$pI have also sensed it while we've\nbeen in battle—a gap between your\ntitle and your confidence.$k$pNo need to apologize. It's only\nnatural, and it's also where\nI come in.$k$pLet this veteran fight for you a bit\nlonger. I offer my sword and my years,\nuntil you are great inside and out.
+MID_GUNTHER_VOICE01: せい
+MID_GUNTHER_VOICE02: でやっ！
+MID_GUNTHER_VOICE03: くっ…
+MID_GUNTHER_VOICE04: うおおっ！？
+MID_GUNTHER_VOICE05: I will have my revenge!
+MID_GUNTHER_VOICE06: I will cut you down.
+MID_GUNTHER_VOICE07: This ends now.
+MID_GUNTHER_VOICE08: A grave mistake.
+MID_GUNTHER_VOICE09: Careless...
+MID_GUNTHER_VOICE10: Yes?
+MID_GUNTHER_VOICE11: Others might trifle with me, but I suspect you won't make that mistake.
+MID_GUNTHER_VOICE12: I find you...intriguing...to say the least.
+MID_GUNTHER_VOICE13: I am glad to have joined you.
+MID_GUNTHER_VOICE14: Remain focused. Always—not just on the battlefield.
+MID_GUNTHER_VOICE15: Curious about the scar on my face? Hmm. Of course you are.
+MID_GUNTHER_VOICE16: My armor has known...so much blood.
+MID_GUNTHER_VOICE17: You and I should spar sometime. Builds character!
+MID_GUNTHER_VOICE18: Hmm?
+MID_GUNTHER_VOICE19: Hmm.
+MID_GUNTHER_VOICE20: Let's go.

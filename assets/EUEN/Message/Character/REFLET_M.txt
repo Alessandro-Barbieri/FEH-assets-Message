@@ -1,0 +1,39 @@
+[Heroes Archive] (REFLET_M)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_M_HOME1: Is everyone here a Hero summoned\nfrom somewhere else?
+MID_REFLET_M_HOME2: I have no memories from before\nthe time I met Chrom. But I still\nhave a fine mind for tactics.$k$pOh, you too? How intriguing.
+MID_REFLET_M_HOME3: Back home, I was always checking\non everyone, too. It helps me relax,\nknowing they're safe and well.
+MID_REFLET_M_HOME4: Do you have a moment to go over\nsome tactical options? I'd love to\nhear your thoughts.
+MID_REFLET_M_HOME5: This kingdom has some amazing\nauthors! ...Oh, ah, is it OK if I borrow\nbooks from the library?
+MID_REFLET_M_FRIEND: Nice to meet you. I'm\nRobin.$k$pI was asked to come say\nhello by your good friend\n$Nf.
+MID_REFLET_M_LEVEL1: Even I couldn't have seen this\ncoming!
+MID_REFLET_M_LEVEL2: This is all part of the plan.
+MID_REFLET_M_LEVEL3: Er, is that it?
+MID_REFLET_M_SKILL: I'm glad you see my strategic\nvalue to the team.
+MID_REFLET_M_JOIN: Hello, I'm Robin. I'm a tactician\nfor the Shepherds, so let me\nknow if you need a battle plan.
+MID_REFLET_M_STRONGEST: I appreciate the opportunity you've\ngiven me to observe your battle\ntactics in depth.$k$pEvery time we head out, I can't\nhelp but be proud that you've\nchosen me to fight at your side.$k$pBut I do feel bad for interfering\nwith the bonding process between\npartners.$k$pYou and Alfonse share something\nspecial, right? Similar to the bond\nbetween Chrom and me?$k$pBut there is also an understanding\nbetween fellow tacticians, and I\nvow to support you to the end.
+MID_REFLET_M_VOICE01: えい！
+MID_REFLET_M_VOICE02: はあっ！
+MID_REFLET_M_VOICE03: うあっ！
+MID_REFLET_M_VOICE04: Part of the plan...
+MID_REFLET_M_VOICE05: Time to tip the scales!
+MID_REFLET_M_VOICE06: Here's how it's done!
+MID_REFLET_M_VOICE07: Wrong move!
+MID_REFLET_M_VOICE08: Our bonds give me strength!
+MID_REFLET_M_VOICE09: Oops.
+MID_REFLET_M_VOICE10: Heehee
+MID_REFLET_M_VOICE11: We'll win our next battle—I guarantee it.
+MID_REFLET_M_VOICE12: Did you say something? I was just planning...
+MID_REFLET_M_VOICE13: Odd to think I came out of that divine...thing.
+MID_REFLET_M_VOICE14: I don't know why, but I feel a strange kinship with you.
+MID_REFLET_M_VOICE15: Oh, good—I've still got my memories of being in Ylisse.
+MID_REFLET_M_VOICE16: I wonder if Chrom is around here...
+MID_REFLET_M_VOICE17: I want you to know you can count on me out in the field.
+MID_REFLET_M_VOICE18: Hmm.
+MID_REFLET_M_VOICE19: Lead on.
+MID_REFLET_M_VOICE20: Let's go.
+MID_REFLET_M_VOICE21: Where did I wake up this time?

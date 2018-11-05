@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_HOME1: Die Helden hier sind stark. In\nihrer Gegenwart fühle ich mich...$k$pAch, schon gut. Ich muss einfach\nnur stärker werden.
+MID_IKE_HOME2: In meiner Welt gehöre ich einer Gruppe\nan, die als Greils Söldner bekannt ist.\nGenau genommen bin ich der Anführer.$k$pIch muss jedoch zugeben, dass ich mir\nnoch keinen umfassenden Überblick\nüber unsere Finanzen verschafft habe.
+MID_IKE_HOME3: Bist du erschöpft? Ich bin jederzeit\nbereit auszuhelfen. Ich möchte mich\njedoch nicht aufdrängen.
+MID_IKE_HOME4: Ich trainiere so oft wie möglich,\nmeistens allein. Ich bin nicht\ngerade gut im... Reden.
+MID_IKE_HOME5: Als ich jünger war, habe ich mich\noft in Übungskämpfen mit\nmeinem Vater gemessen.$k$pIch habe jedes Mal verloren. Das\nhat mich wütend gemacht. Und\ndann habe ich es wieder versucht.
+MID_IKE_FRIEND: Bist du hier der Anführer? Wie\ndem auch sei, schöne Grüße\nvon $Nf.
+MID_IKE_LEVEL1: Es fühlt sich gut an, wenn man\nmerkt, wie man stärker wird!
+MID_IKE_LEVEL2: Ich muss stärker werden, um\nmeinen Vater zu rächen.
+MID_IKE_LEVEL3: Wenn ich mich nicht steigere,\nwerde ich nie so stark wie er...
+MID_IKE_SKILL: Danke. Ich werde mich dieser\nVerpflichtung würdig erweisen.
+MID_IKE_JOIN: Ich bin Ike von Greils Söldnern.\nDu hast mich angeheuert?\nGut, ich bin bereit.
+MID_IKE_STRONGEST: Als mein Vater mir den Umgang\nmit dem Schwert beibrachte, war\nich noch ein kleiner Junge.$k$pJeder Übungskampf gegen ihn\nfrustrierte mich aufs Neue. Ich...\nIch konnte einfach nicht mithalten.$k$pDann starb er.$k$pAlle, die er zuvor beschützt hatte,\nmusste ich nun allein beschützen.\nMeine Schwester, Greils Söldner...$k$pJemand sagte mir, dass ich Großes\nvollbringen könne, wenn ich das\nnutze, was mir gegeben ist.$k$pDiesen Satz habe ich nie vergessen.\nUnd jetzt bin ich hier und kämpfe\nSeite an Seite mit wahren Helden.$k$pManchmal habe ich es dabei mit\nFeinden zu tun, die stärker sind als\nich - und dann plagen mich Zweifel.$k$pDoch du hast mich angeheuert,\ndamit ich dazu beitrage,\nGroßes zu vollbringen.$k$pNun, was ich mit all dem sagen will:\nDu hast an mich geglaubt, also ist es\nmir eine Ehre, für dich alles zu geben.
+MID_IKE_VOICE01: ふんっ！
+MID_IKE_VOICE02: おおっ！
+MID_IKE_VOICE03: うああっ！
+MID_IKE_VOICE04: I can...keep going...
+MID_IKE_VOICE05: Ich werde niemanden sterben lassen!
+MID_IKE_VOICE06: Flieh, solange du kannst!
+MID_IKE_VOICE07: Ich erledige dich!
+MID_IKE_VOICE08: Aus dem Weg!
+MID_IKE_VOICE09: Over...
+MID_IKE_VOICE10: Heh
+MID_IKE_VOICE11: I'm Ike, commander of the Greil Mercenaries.
+MID_IKE_VOICE12: Whuh?! Not smart to surprise a mercenary. We're quick on the attack.
+MID_IKE_VOICE13: Sorry if I'm not that great at...this talking stuff. But know you can always count on me.
+MID_IKE_VOICE14: My father taught me how to handle a sword. It's all I know.
+MID_IKE_VOICE15: Pretty good food today. Who was on cooking duty?
+MID_IKE_VOICE16: As a commander, I'm green as they come. But I do my best. Those I fight with...they're family.
+MID_IKE_VOICE17: You hired me. I said I'd get to work. See? I did. Glad to give you everything I have.
+MID_IKE_VOICE18: Sure.
+MID_IKE_VOICE19: OK.
+MID_IKE_VOICE20: On it.

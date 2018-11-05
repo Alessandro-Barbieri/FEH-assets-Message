@@ -1,0 +1,38 @@
+[Heroes Archive] (SAKURA)
+
+
+Heroes Message Name: Message
+
+
+MID_SAKURA_HOME1: Verwendet keiner der Wächter von\nAskr Stäbe, um anderen im Kampf\nzu helfen?$k$pDann muss ich meine Anstrengungen\nverdoppeln!
+MID_SAKURA_HOME2: Meine Getreuen sind Hana und\nSubaki.$k$pBeide sind gleichermaßen stark\nund verlässlich. F-fast sind sie zu\ngut für mich.
+MID_SAKURA_HOME3: Siehst du nach den anderen? Das hab\nich auch getan. Man sollte immer im\nBlick haben, dass es allen gut geht.
+MID_SAKURA_HOME4: Süßigkeiten mag ich wirklich gern.\nWenn du hier Süßwarenläden siehst,\nlass es mich gleich wissen!
+MID_SAKURA_HOME5: Entschuldige, ich übte gerade. Ich\nwill im Kampf mal genauso nützlich\nsein wie meine älteren Geschwister.
+MID_SAKURA_FRIEND: Oh, hallo! Ich bringe dir Grüße\nvon $Nf!
+MID_SAKURA_LEVEL1: Nun kann ich wirklich\nmeinen Beitrag leisten!
+MID_SAKURA_LEVEL2: Das ist nett! Jedes\nbisschen hilft schon.
+MID_SAKURA_LEVEL3: Oje! I-ich werde mir\nmehr Mühe geben!
+MID_SAKURA_SKILL: Du hast mich stärker gemacht?\nD-danke, vielen, vielen Dank!
+MID_SAKURA_JOIN: Ich bin eine Prinzessin aus Hoshido.\nAber bitte nenn mich Sakura. Ich bin\nfroh, wenn ich dir helfen kann.
+MID_SAKURA_STRONGEST: Oh! Vielen Dank, dass du nach mir\nsiehst, $Nu.$k$pMir geht es gut, aber darf ich dir etwas\nsagen? Als ich hier ankam, wusste ich\nzunächst gar nicht, wie ich mich dir$k$pgegenüber verhalten sollte.\nAlle nennen dich $Gden Großen Helden,die Große Heldin|,\ndaher dachte ich, ich muss meinen$k$pRespekt vor so einer großartigen\nPerson wie dir ausdrücken, indem\nich Abstand halte.$k$pAber dann habe ich dich kennenge-\nlernt. Du bist so nett zu allen und\nmachst es allen leicht - vor allem mir.$k$pEs ist fast so, als seist du ein Teil\nmeiner Familie geworden. Ich meine,\nsieh uns an, wie wir hier zusammen$k$pplaudern. D-daher möchte...\nIch möchte dich etwas fragen.\nK-könnest du m-mich wohl...$k$pa-als Freundin betrachten?$k$pWas? Das tust du bereits? Oh, das ist\nwunderbar! Ich bin so glücklich, dass\ndu mich in dein Leben gerufen hast.$k$pIch verspreche dir, dass ich dir auf\njede Art und Weise helfe...\n$Gmein Freund,meine Freundin|.
+MID_SAKURA_VOICE01: はいっ
+MID_SAKURA_VOICE02: それっ
+MID_SAKURA_VOICE03: きゃあっ！
+MID_SAKURA_VOICE04: どうしましょう…！
+MID_SAKURA_VOICE05: Das war alles ich!
+MID_SAKURA_VOICE06: Komm bloß nicht näher!
+MID_SAKURA_VOICE07: Entschuldige!
+MID_SAKURA_VOICE08: Tut mir leid!
+MID_SAKURA_VOICE09: Don't be sad...
+MID_SAKURA_VOICE10: Heehee...
+MID_SAKURA_VOICE11: Ich geb mein Bestes!
+MID_SAKURA_VOICE12: Pass auf dich auf!
+MID_SAKURA_VOICE13: I'm still finding my voice...but I like speaking with you!
+MID_SAKURA_VOICE14: This realm is so beautiful, much like my homeland, Hoshido.
+MID_SAKURA_VOICE15: I hope to grow every bit as strong as my siblings.
+MID_SAKURA_VOICE16: Have you seen my retainers? Hana? Or Subaki?
+MID_SAKURA_VOICE17: I'd like to learn everything about this realm. And...you too.
+MID_SAKURA_VOICE18: Yes?
+MID_SAKURA_VOICE19: As you wish.
+MID_SAKURA_VOICE20: Let's go.

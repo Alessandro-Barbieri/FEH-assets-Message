@@ -1,0 +1,8 @@
+[Heroes Archive] (T0018)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ミネルバ,ch01_21_Minerba_F_Normal,Face|$w0|¿Estás segura de esto, María?\nNo me gusta que estés en peligro,\naunque sea parte del entrenamiento...$k$p$WmMPID_マリア,ch01_08_Maria_F_Normal,Face|$w0|¡No te preocupes! Debo fortalecerme.\n¿Cómo te voy a ayudar si no?\nNecesito entrenar. ¡Por favor!$k$p$Sbs1000|

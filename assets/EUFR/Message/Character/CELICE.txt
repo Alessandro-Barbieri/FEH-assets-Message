@@ -1,0 +1,38 @@
+[Heroes Archive] (CELICE)
+
+
+Heroes Message Name: Message
+
+
+MID_CELICE_HOME1: Mon père m'a enseigné deux\nchoses très importantes.$k$pUn souverain doit être à l'écoute\nde son peuple, et la vérité\na toujours plusieurs visages.
+MID_CELICE_HOME2: En tant que $Gtacticien,tacticienne| du prince\nAlfonse, vous devez être très\n$Gimportant,importante| pour lui.$k$pCroyez-moi, je sais de quoi je parle.
+MID_CELICE_HOME3: Quiconque entreprend de changer le\nmonde pour le meilleur sait combien\nil est bon d'être entouré et soutenu...$k$pMais aussi à quel point il peut être\ndifficile de se sentir à la hauteur\ndes attentes qui pèsent sur nous.
+MID_CELICE_HOME4: Avez-vous peur de la guerre ?\nPour tout vous dire, moi, oui. À tel\npoint que j'en perds le sommeil.
+MID_CELICE_HOME5: Je dois devenir aussi fort que mon\npère l'était, si je veux pouvoir\nsauver le plus de gens possible.
+MID_CELICE_FRIEND: Je m'appelle Seliph.\n$Nf m'envoie\nvous faire part de ses salutations.
+MID_CELICE_LEVEL1: Voilà qui me rassure. Je n'ai plus rien\nà craindre désormais.
+MID_CELICE_LEVEL2: De tels progrès me ravissent. Bientôt,\nje deviendrai l'égal de mon père.
+MID_CELICE_LEVEL3: Non, je dois devenir bien plus fort\nque ça !
+MID_CELICE_SKILL: Merci. Je sens que ceci me sera d'une\ngrande aide.
+MID_CELICE_JOIN: Je me nomme Seliph et je n'ai qu'un\nbut : poursuivre le combat de feu mon\npère contre les ténèbres.
+MID_CELICE_STRONGEST: Les gens de mon monde voient en\nmoi un héros, une légende, mais je\ncrois bien n'être qu'un usurpateur.$k$pVous qui me connaissez mieux que\nquiconque ici, vous devez vous en\nêtre rendu compte.$k$pJe suis bien trop faible, bien trop\nlâche pour mériter ces appellations.\nJe n'ai jamais eu qu'un désir : fuir.$k$pMais pourtant, je n'ai jamais cessé\nde me battre, peu importe le danger.\nSavez-vous pourquoi ?$k$pCar mes amis m'en donnent le\ncourage, vous en particulier.$k$pGrâce à vous, je deviens celui que\nje suis destiné à devenir. Vous me\ncomprenez ?$k$pEt pour cela, je fais le serment de\nrester à vos côtés et de vous assister\ndu mieux que je peux.
+MID_CELICE_VOICE01: はっ！
+MID_CELICE_VOICE02: せいっ！
+MID_CELICE_VOICE03: うああっ！
+MID_CELICE_VOICE04: Not... not done yet...
+MID_CELICE_VOICE05: Je deviendrai fort !
+MID_CELICE_VOICE06: Je n'abandonnerai pas !
+MID_CELICE_VOICE07: Je les protégerai !
+MID_CELICE_VOICE08: Jusqu'à la fin !
+MID_CELICE_VOICE09: Father...
+MID_CELICE_VOICE10: Haha
+MID_CELICE_VOICE11: Something on your mind?
+MID_CELICE_VOICE12: What? Oh, it's you. Tell me. What's going on?
+MID_CELICE_VOICE13: Best to speak the truth—I'll never be as strong as I ought to be.
+MID_CELICE_VOICE14: Have you grown tired from our battles?
+MID_CELICE_VOICE15: I would love to stroll in a market with you sometime—perhaps when our battles are done.
+MID_CELICE_VOICE16: I hope to be like my father someday—great and inspiring.
+MID_CELICE_VOICE17: I vow to work hard—until I'm strong enough to protect you.
+MID_CELICE_VOICE18: Understood.
+MID_CELICE_VOICE19: What can I do?
+MID_CELICE_VOICE20: Let's go.

@@ -1,0 +1,62 @@
+[Heroes Archive] (ANNA)
+
+
+Heroes Message Name: Message
+
+
+MID_ANNA_HOME1: Alfonse n'est plus tout à fait\nle même depuis qu'il a perdu\nun être cher...
+MID_ANNA_HOME2: Nous pouvons ramener les héros\nà la vie tant que vous êtes à nos\ncôtés, $GInvocateur,Invocatrice|.$k$pMais n'oubliez jamais que même\nsi nous pansons leurs blessures,\nils souffrent, tout comme nous...
+MID_ANNA_HOME3: Vous vérifiez que tout le monde\nva bien ? C'est gentil. Dites-moi\nsi je peux vous être utile !
+MID_ANNA_HOME4: Et si on s'entraînait ? Je peux\nfaire de vous $Gun invocateur,une invocatrice|\n$Ginégalé,inégalée|, vous savez !
+MID_ANNA_HOME5: Regardez, j'ai créé des babioles pour\npromouvoir les Gardiens d'Askr !\nVous pensez que ça se vendra bien ?
+MID_ANNA_FRIEND: $Nf m'envoie\nvous transmettre ses salutations.\nTout va bien, chez vous ?
+MID_ANNA_LEVEL1: Je ne vais pas me reposer sur mes\nlauriers, croyez-moi !
+MID_ANNA_LEVEL2: Je me dois de devenir toujours\nplus forte !
+MID_ANNA_LEVEL3: On ne peut pas toujours être\nla meilleure...
+MID_ANNA_SKILL: Merci de m'aider à devenir plus forte.\nVous ne le regretterez pas !
+MID_ANNA_STRONGEST: Je dois dire que vous êtes\n$Gdevenu,devenue| une personne de\nconfiance, $GInvocateur,Invocatrice|.$k$pJe n'en étais pas certaine, au début...\nAprès tout, nous étions de $Gparfaits,parfaites|\n$Gétrangers l'un,étrangères l'une| pour l'autre.$k$pMais vous avez su trouver votre place.\nEt maintenant, vous nous guidez de\nla meilleure façon qu'il soit !$k$pQuand vous êtes $Garrivé,arrivée|, je vous ai\ndit que vous ne ressembliez pas $Gau,à la|\n$GGrand,Grande| Stratège de la légende...$k$pJe le regrette. J'aurais dû me\nsouvenir qu'il ne faut pas se\nfier aux apparences.$k$pCette attitude allait à l'encontre de\ntout ce qu'on m'a enseigné. J'espère\nque vous ne m'en tenez pas rigueur.$k$pVous êtes $Gle Grand,la Grande| Stratège de\nla légende, et vous avez maintes\nfois prouvé votre valeur !$k$pCela dit, vous faites aussi partie des\nGardiens d'Askr, alors n'attendez pas\nde traitement de faveur de ma part !$k$pSachez simplement que je resterai\nà vos côtés jusqu'à ce que ce monde\ntrouve enfin la paix.
+MID_ANNA_VOICE01: はっ！
+MID_ANNA_VOICE02: せいっ！
+MID_ANNA_VOICE03: くっ…！
+MID_ANNA_VOICE04: What gives!
+MID_ANNA_VOICE05: C'est moi qui régale !
+MID_ANNA_VOICE06: C'est l'heure de payer !
+MID_ANNA_VOICE07: Nous vaincrons !
+MID_ANNA_VOICE08: Vers la victoire !
+MID_ANNA_VOICE09: Fall back...
+MID_ANNA_VOICE10: Heehee
+MID_ANNA_VOICE11: Rule number one! Treat Heroes with utmost respect!
+MID_ANNA_VOICE12: Rule number two! Defend the gateways at any cost!
+MID_ANNA_VOICE13: Think I have a familiar face? Hmm. How curious.
+MID_ANNA_VOICE14: That divine weapon of yours was just lying around here... None of us could use it.
+MID_ANNA_VOICE15: Some of us befriend Heroes. Others stay detached. What will you do, I wonder...
+MID_ANNA_VOICE16: Know a quick way to make a profit? Then let's hear it!
+MID_ANNA_VOICE17: I give you my vow as commander that I will keep you safe.
+MID_ANNA_VOICE18: Yes?
+MID_ANNA_VOICE19: Let's go.
+MID_ANNA_VOICE20: Onward!
+MID_ANNA_VOICE21: Fire Emblem
+MID_ANNA_VOICE22: Shadow Dragon and the Blade of Light
+MID_ANNA_VOICE23: Gaiden
+MID_ANNA_VOICE24: Mystery of the Emblem
+MID_ANNA_VOICE25: Genealogy of the Holy War
+MID_ANNA_VOICE26: Thracia 776
+MID_ANNA_VOICE27: The Binding Blade
+MID_ANNA_VOICE28: The Blazing Blade
+MID_ANNA_VOICE29: The Sacred Stones
+MID_ANNA_VOICE30: Path of Radiance
+MID_ANNA_VOICE31: Radiant Dawn
+MID_ANNA_VOICE32: Shadow Dragon
+MID_ANNA_VOICE33: New Mystery of the Emblem
+MID_ANNA_VOICE34: Awakening
+MID_ANNA_VOICE35: Fates
+MID_ANNA_VOICE36: An event has started.
+MID_ANNA_VOICE37: A big battle has started.
+MID_ANNA_VOICE38: A strong foe has appeared.
+MID_ANNA_VOICE39: New Heroes are available.
+MID_ANNA_VOICE40: Wait just a moment.
+MID_ANNA_VOICE41: Now, let's move.
+MID_ANNA_VOICE42: Now, attack.
+MID_ANNA_VOICE43: When using a bow, you must keep space between you and your foe.
+MID_ANNA_VOICE_BRAVE: Brave
+MID_ANNA_VOICE_HEROES: Heroes

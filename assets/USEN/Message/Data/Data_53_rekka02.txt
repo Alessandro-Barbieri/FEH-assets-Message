@@ -1,0 +1,239 @@
+[Heroes Archive] (Data_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り: Seashell Hairpin
+MDAID_H_貝殻の髪飾り: A hair accessory made from a\nbeautiful seashell.
+MDAID_水中ゴーグル: Swim Goggles
+MDAID_H_水中ゴーグル: Use these to see clearly underwater.\nThe added snorkel means you can\ntake your time watching sea life.
+MDAID_アスクの髪飾り: Askran Hairpin
+MDAID_H_アスクの髪飾り: A hair accessory adorned with the\nemblem of the Kingdom of Askr.
+MDAID_謎の男のマスク: Enigmatic Mask
+MDAID_H_謎の男のマスク: A mask that looks an awful lot like\none used by a mysterious man.\nMaybe this was his spare...
+MDAID_フェーの人形: Feh Doll
+MDAID_H_フェーの人形: A doll that looks amazingly similar to\nFeh, messenger owl for the Order of\nHeroes. So fluffy!
+MDAID_春うさぎの帽子: Spring Bunny Hat
+MDAID_H_春うさぎの帽子: A hat once worn by a Hero tempted\nby sunny spring skies. The bunny's\nface has a lot of character.
+MDAID_謎の剣士の仮面: Mysterious Mask
+MDAID_H_謎の剣士の仮面: A mask once worn by a swordsman\nclaiming to be the Hero-King Marth.
+MID_MISSION_S201806ARENA01_TITLE: Arena
+MID_MISSION_S201806ARENA01_A1: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A1: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A2: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A2: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A3: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A3: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A4: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A4: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A5: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A5: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A6: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A7: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A7: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A8: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A8: Win Arena Duels at any difficulty.
+MID_MISSION_S201806ARENA01_A9: Win Arena Duels
+MID_MISSION_H_S201806ARENA01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201806HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201806HERO01_A1: Defeat Oliver
+MID_MISSION_H_S201806HERO01_A1: With Anna on your team, win the Grand Hero\nBattle against Oliver: Admirer of Beauty.
+MID_MISSION_S201806HERO01_A2: Defeat Oliver
+MID_MISSION_H_S201806HERO01_A2: With Oliver: Admirer of Beauty on your team,\nwin the Grand Hero Battle against Oliver:\nAdmirer of Beauty on Lunatic or harder.
+MID_MISSION_S201806HERO01_A3: Defeat Oliver
+MID_MISSION_H_S201806HERO01_A3: Use Anna to defeat a level 40 or higher Oliver:\nAdmirer of Beauty.
+MID_MISSION_S201806HERO01_A4: Defeat Oliver
+MID_MISSION_H_S201806HERO01_A4: Use Oliver: Admirer of Beauty to defeat a level\n40 or higher Oliver: Admirer of Beauty.
+MID_MISSION_S201806HERO01_A5: Defeat Oliver
+MID_MISSION_H_S201806HERO01_A5: Win the Grand Hero Battle against Oliver:\nAdmirer of Beauty on Lunatic or harder using\nan all-cavalry team.
+MID_MISSION_S201806SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201806SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201806SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201806SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201806SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201806SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201806SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201806SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201806SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201806ACCE01_TITLE: Yay, Accessories!
+MID_MISSION_S201806ACCE01_A1: KO Foe
+MID_MISSION_H_S201806ACCE01_A1: Defeat an enemy.
+MID_MISSION_S201806ACCE01_A2: KO Lvl. 10+ Foe w/Lance
+MID_MISSION_H_S201806ACCE01_A2: Use lance ally to defeat foes level 10\nor higher.
+MID_MISSION_S201806ACCE01_A3: KO Lvl. 30+ Foes w/Cav.
+MID_MISSION_H_S201806ACCE01_A3: Use cavalry ally to defeat foes level 30\nor higher.
+MID_MISSION_S201806STORY01_TITLE: The King's Demise
+MID_MISSION_S201806STORY01_A1: Clear 10-1 on Lunatic
+MID_MISSION_H_S201806STORY01_A1: Clear Book II, Chapter 10: Part 1 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201806STORY01_A2: Clear 10-2 on Lunatic
+MID_MISSION_H_S201806STORY01_A2: Clear Book II, Chapter 10: Part 2 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201806STORY01_A3: Clear 10-3 on Lunatic
+MID_MISSION_H_S201806STORY01_A3: Clear Book II, Chapter 10: Part 3 on Lunatic\nwith a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201806STORY01_A4: Clear 10-4 on Lunatic
+MID_MISSION_H_S201806STORY01_A4: Clear Book II, Chapter 10: Part 4 on Lunatic\nwith an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201806STORY01_A5: Clear 10-5 on Lunatic
+MID_MISSION_H_S201806STORY01_A5: Clear Book II, Chapter 10: Part 5 on Lunatic\nwith a sword ally on your team. All four\nallies must survive.
+MID_MISSION_S201806TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201806TAPBTL01_D01_A1: Defeat Fjorm
+MID_MISSION_H_S201806TAPBTL01_D01_A1: Defeat the boss Fjorm on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201806TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201806TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201806TAPBTL01_D02_A1: Defeat Fjorm
+MID_MISSION_H_S201806TAPBTL01_D02_A1: Defeat the boss Fjorm on Floors 16-20 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201806TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201806TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201806TAPBTL01_D03_A1: Defeat Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D03_A1: Defeat the boss Gunnthrá on Floors 36-40 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201806TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201806TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201806TAPBTL01_D04_A1: Defeat Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D04_A1: Defeat the boss Gunnthrá on Floors 36-40 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201806TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201806TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201806TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201806TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201806TAPBTL02_A1: Defeat Boss
+MID_MISSION_H_S201806TAPBTL02_A1: Defeat a boss in Tap Battle.
+MID_MISSION_S201806TAPBTL02_A2: Defeat Boss
+MID_MISSION_H_S201806TAPBTL02_A2: Defeat a boss in Tap Battle.
+MID_MISSION_S201806TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201806TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201806TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201806TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MID_MISSION_S201806TAPBTL02_A5: Clear Floors 6-10
+MID_MISSION_H_S201806TAPBTL02_A5: Clear floors 6-10 in Tap Battle.
+MID_MISSION_S201806TAPBTL02_A6: Clear Floors 81-85
+MID_MISSION_H_S201806TAPBTL02_A6: Clear floors 81-85 in Tap Battle.
+MPID_スルト名前: Surtr
+MPID_カナス: Canas
+MPID_カアラ: Karla
+MPID_ラガルト: Legault
+MPID_ライナス: Linus
+MPID_ニノ2: Nino
+MPID_HONOR_カナス: Wisdom Seeker
+MPID_HONOR_カアラ: Sword Vassal
+MPID_HONOR_ラガルト: The Hurricane
+MPID_HONOR_ライナス: Mad Dog
+MPID_HONOR_ニノ2: Pale Flower
+MPID_H_カナス: Fourth son of Niime, the Mountain Hermit.\nDevoted entirely to research and reading.\nAppears in Fire Emblem: The Blazing Blade.
+MPID_H_カアラ: A traveling swordswoman in search of\nher brother. Her impressive skills and\ngood looks have enlivened many arenas.\nAppears in Fire Emblem: The Blazing Blade.
+MPID_H_ラガルト: Former member of the Black Fang. He was one\nof the founding members and is known as the\n"cleaner." Left the group when it lost its way.\nAppears in Fire Emblem: The Blazing Blade.
+MPID_H_ライナス: A member of the Black Fang known as Mad\nDog and an equal match for his brother Lloyd.\nHe brings judgment down on those he deems\nevil. Appears in Fire Emblem: The Blazing Blade.
+MPID_H_ニノ2: A young woman who was part of the assassin\ngroup Black Fang. Now she communes with\na pegasus in order to aid her allies. Appears in\nFire Emblem: The Blazing Blade.
+MPID_VOICE_カナス: Joe Zieja
+MPID_VOICE_カアラ: Allegra Clark
+MPID_VOICE_ラガルト: Christopher Bevins
+MPID_VOICE_ライナス: Joe Brogie
+MPID_VOICE_ニノ2: Sarah Blandy
+MPID_ILLUST_カナス: Tobi
+MPID_ILLUST_カアラ: Kita Senri (北千里)
+MPID_ILLUST_ラガルト: PenekoR (п猫Ｒ)
+MPID_ILLUST_ライナス: Meka (めか)
+MPID_ILLUST_ニノ2: Amagaitaro (アマガイタロー)
+MSID_霧のブレス: Breath of Fog
+MSID_第11迷宮の覇者1: Squad Ace K 1
+MSID_第11迷宮の覇者2: Squad Ace K 2
+MSID_第11迷宮の覇者3: Squad Ace K 3
+MSID_剣姫の刀: Vassal's Blade
+MSID_粛清の暗器: The Cleaner
+MSID_粛清の暗器＋: The Cleaner+
+MSID_ギガスカリバー: Giga Excalibur
+MSID_曲技飛行1: Aerobatics 1
+MSID_曲技飛行2: Aerobatics 2
+MSID_曲技飛行3: Aerobatics 3
+MSID_速さの波・偶数1: Even Spd Wave 1
+MSID_速さの波・偶数2: Even Spd Wave 2
+MSID_速さの波・偶数3: Even Spd Wave 3
+MSID_H_霧のブレス: Effective against dragon foes. At the start of\nevery second turn, restores 10 HP. If foe's\nRange = 2, calculates damage using the\nlower of foe's Def or Res.
+MSID_H_オーラ改: At start of turn, grants Atk+6 to adjacent\nmagic and staff allies for 1 turn.
+MSID_H_エクスカリバー改: Effective against flying units. Accelerates\nSpecial trigger (cooldown count-1).
+MSID_H_攻撃守備の絆R剣竜: If unit is within 2 spaces of sword or dragon\nally, grants Atk/Def+5 during combat.
+MSID_H_攻撃速さの絆R魔杖: If unit is within 2 spaces of magic or staff ally,\ngrants Atk/Spd+5 during combat.
+MSID_H_第11迷宮の覇者1: Grants HP+3.
+MSID_H_第11迷宮の覇者2: Grants HP+4.
+MSID_H_第11迷宮の覇者3: Grants HP+5.
+MSID_H_剣姫の刀: Accelerates Special trigger (cooldown\ncount-1). If unit's Spd > foe's Spd, boosts\ndamage dealt by 70% of difference between\nstats. (Maximum bonus of +7 damage.\nCombos with Phantom Spd.)
+MSID_H_粛清の暗器: Adds total bonuses on foe to damage dealt\nduring combat. After combat, if unit attacked,\ninflicts Def/Res-5 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_粛清の暗器＋: Adds total bonuses on foe to damage dealt\nduring combat. After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes within\n2 spaces of target through their next actions.
+MSID_H_ギガスカリバー: Grants Spd+3. If unit's Spd > foe's Spd,\nboosts damage dealt by 70% of difference\nbetween stats. (Maximum bonus of +7\ndamage. Combos with Phantom Spd.)
+MSID_H_曲技飛行1: If unit's HP = 100%, unit can move to a space\nadjacent to any infantry, armored, or cavalry\nally within 2 spaces.
+MSID_H_曲技飛行2: If unit's HP ≥ 50%, unit can move to a space\nadjacent to any infantry, armored, or cavalry\nally within 2 spaces.
+MSID_H_曲技飛行3: Unit can move to a space adjacent to any\ninfantry, armored, or cavalry ally within 2\nspaces.
+MSID_H_速さの波・偶数1: At start of even-numbered turns, grants Spd+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_速さの波・偶数2: At start of even-numbered turns, grants Spd+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_速さの波・偶数3: At start of even-numbered turns, grants Spd+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MID_CHAPTER_TITLE_C0210: Book II, Chapter 10
+MID_CHAPTER_C0210: The King's Demise
+MID_STAGE_TITLE_S2101: Chapter 10-1
+MID_STAGE_TITLE_S2102: Chapter 10-2
+MID_STAGE_TITLE_S2103: Chapter 10-3
+MID_STAGE_TITLE_S2104: Chapter 10-4
+MID_STAGE_TITLE_S2105: Chapter 10-5
+MID_STAGE_S2101: To the Castle
+MID_STAGE_S2102: Misplaced Wisdom
+MID_STAGE_S2103: Family of Fangs
+MID_STAGE_S2104: Sword Vassal
+MID_STAGE_S2105: The King's Demise
+MID_STAGE_HONOR_T0033: Mad Dog
+MID_STAGE_T0033: Linus
+MID_STAGE_TITLE_SB_0011: 11th Assault
+MID_CHAPTER_ST_C0205: Chapters 9 & 10
+MID_STAGE_TITLE_ST_S0209: Chapter 9
+MID_STAGE_TITLE_ST_S0210: Chapter 10
+MID_STAGE_TITLE_ST_S1210: Chapters 9 & 10
+MID_STAGE_HONOR_V0251: Four Heroes
+MID_STAGE_V0251: Roy
+MID_STAGE_HONOR_V0252: Four Heroes
+MID_STAGE_V0252: Tailtiu
+MID_STAGE_HONOR_V0253: Four Heroes
+MID_STAGE_V0253: Barst
+MID_STAGE_HONOR_V0254: Four Heroes
+MID_STAGE_V0254: Kaze
+MID_STAGE_HONOR_Q0014: Weekly
+MID_STAGE_Q0014: Rival Domains
+MID_STAGE_HONOR_Q0015: Weekly
+MID_STAGE_Q0015: Rival Domains
+MID_STAGE_HONOR_Q0016: Weekly
+MID_STAGE_Q0016: Rival Domains
+MID_STAGE_HONOR_Q0017: Weekly
+MID_STAGE_Q0017: Rival Domains
+MID_STAGE_HONOR_Q0018: Weekly
+MID_STAGE_Q0018: Rival Domains
+MID_STAGE_TITLE_BG_WIND_0008: Wind 8
+MID_STAGE_BG_WIND_0008: Bridge
+MID_STAGE_TITLE_BG_EARTH_0008: Earth 8
+MID_STAGE_BG_EARTH_0008: Bridge
+MID_STAGE_TITLE_BG_FIRE_0008: Fire 8
+MID_STAGE_BG_FIRE_0008: Bridge
+MID_STAGE_TITLE_BG_WATER_0009: Water 9
+MID_STAGE_BG_WATER_0009: Fountain
+MID_STAGE_TITLE_BG_WIND_0009: Wind 9
+MID_STAGE_BG_WIND_0009: Fountain
+MID_STAGE_TITLE_BG_EARTH_0009: Earth 9
+MID_STAGE_BG_EARTH_0009: Fountain
+MID_STAGE_TITLE_BG_FIRE_0009: Fire 9
+MID_STAGE_BG_FIRE_0009: Fountain
+MID_STAGE_TITLE_BG_WATER_0010: Water 10
+MID_STAGE_BG_WATER_0010: Terrace
+MID_STAGE_TITLE_BG_WIND_0010: Wind 10
+MID_STAGE_BG_WIND_0010: Terrace
+MID_STAGE_TITLE_BG_EARTH_0010: Earth 10
+MID_STAGE_BG_EARTH_0010: Terrace
+MID_STAGE_TITLE_BG_FIRE_0010: Fire 10
+MID_STAGE_BG_FIRE_0010: Terrace
+MID_TAP_BATTLE_DATA_TITLE_0005: Legendary Heroes
+MID_MUSIC_NAME_BGM_MAP_BRAVE_04: Return To Nifl
+MID_MUSIC_NAME_BGM_MAP_FE09_02: Greil Mercenaries
+MID_MUSIC_NAME_BGM_MAP_FE14_01: Far Dawn (Storm)

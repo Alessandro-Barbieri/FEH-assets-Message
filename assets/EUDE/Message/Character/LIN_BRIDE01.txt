@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_BRIDE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_BRIDE01_HOME1: Mein idealer Partner? Hmm...\nNach Möglichkeit sollte es natürlich\njemand sein, den ich liebe.
+MID_LIN_BRIDE01_HOME2: Dieses Kleid ist so peinlich. Wie\nkönnen sich Frauen damit abfinden,\nin so einem Aufzug zu heiraten?
+MID_LIN_BRIDE01_HOME3: Bist du müde? Sag Bescheid,\nwenn ich dir helfen kann,\n$Nu.$k$pAuch wenn ich selbst nicht\ngerade die Entspannteste bin...
+MID_LIN_BRIDE01_HOME4: Denkst du, dieses Kleid hält mich\nvom Kämpfen ab? Da hast du\ndich aber geschnitten!$k$pIch kann damit so gut kämpfen wie\neh und je... Aber das war dir\nsowieso klar, stimmt's?
+MID_LIN_BRIDE01_HOME5: Meine Güte, dieses Kleid ist so\nbeengend! Hey, sieh mich nicht so\nan! Ich habe es nicht ausgesucht.
+MID_LIN_BRIDE01_FRIEND: Dieses Kleid? Frag lieber nicht!\nTu einfach so, als hättest du es\nnicht gesehen!$k$pAch ja, schönen Gruß von\n$Nf.
+MID_LIN_BRIDE01_LEVEL1: Nicht schlecht! Vielleicht sollte\nich dieses Ding anbehalten...
+MID_LIN_BRIDE01_LEVEL2: Ich betrachte mich nicht als\nBraut, sondern als Kämpferin!
+MID_LIN_BRIDE01_LEVEL3: In diesem Fummel kann ich\nmich nicht konzentrieren!
+MID_LIN_BRIDE01_SKILL: Sieh dir meine Macht an! Aber\nignoriere bitte dieses Kleid...
+MID_LIN_BRIDE01_JOIN: Mein Name ist Lyn und es gibt einen\nGrund für dieses Kleid... Aber reden\nwir nicht darüber, in Ordnung?
+MID_LIN_BRIDE01_STRONGEST: Oh, tut mir leid, dass ich dich\nso angestarrt habe.$k$pIch dachte nur gerade, dass du\nmich an jemanden erinnerst,\n$Nu.$k$pAn meinen Ehemann?\nMachst du Witze?$k$pNein, an $Geinen anderen Strategen,eine andere Strategin|.\nWir haben einander geholfen und\nsind zusammen weit gereist...$k$pDiese Freundschaft bedeutet mir\nsehr viel.$k$pIch weiß nicht, wie ähnlich ihr euch\nwirklich seid, aber es macht mich\nglücklich, Zeit mit dir zu verbringen.$k$pIch hoffe, es geht dir genauso\nund wir können für immer\nzusammen sein...$k$pDas klingt wie ein Heiratsantrag?\nSo ein Unsinn! Wie kommst du\ndenn darauf?
+MID_LIN_BRIDE01_VOICE01: はいっ！
+MID_LIN_BRIDE01_VOICE02: よいしょ
+MID_LIN_BRIDE01_VOICE03: いやぁっ！
+MID_LIN_BRIDE01_VOICE04: Nooo!
+MID_LIN_BRIDE01_VOICE05: Ernsthaft?
+MID_LIN_BRIDE01_VOICE06: Das Kleid war nicht meine Idee!
+MID_LIN_BRIDE01_VOICE07: Ich will mein Schwert zurück!
+MID_LIN_BRIDE01_VOICE08: Was guckt Ihr so?!
+MID_LIN_BRIDE01_VOICE09: Not like this...
+MID_LIN_BRIDE01_VOICE10: Heehee
+MID_LIN_BRIDE01_VOICE11: Ich beschütze dich.
+MID_LIN_BRIDE01_VOICE12: Stets zu Diensten.
+MID_LIN_BRIDE01_VOICE13: I know. I know. I know! This really doesn't suit me.
+MID_LIN_BRIDE01_VOICE14: This dress will be the end of me.
+MID_LIN_BRIDE01_VOICE15: I hope you don't find this whole thing funny.
+MID_LIN_BRIDE01_VOICE16: I wonder if my grandfather would be happy to see me like this...
+MID_LIN_BRIDE01_VOICE17: I would never marry someone who couldn't stand at my side in battle. Hey! Let's spar.
+MID_LIN_BRIDE01_VOICE18: All right.
+MID_LIN_BRIDE01_VOICE19: Here we go.
+MID_LIN_BRIDE01_VOICE20: Try my best.

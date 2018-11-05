@@ -1,0 +1,38 @@
+[Heroes Archive] (MATTHEW)
+
+
+Heroes Message Name: Message
+
+
+MID_MATTHEW_HOME1: Working for the Order of Heroes\nmembers here isn't much different\nfrom what I was doing before.
+MID_MATTHEW_HOME2: Want to know the real Matthew?\nHa! Let's take it slow. I'll give you\nhalf-truths instead of lies.
+MID_MATTHEW_HOME3: Hey there. Good work on the patrols.\nI'm keeping an eye out too to make\nsure no one suspicious sneaks in.
+MID_MATTHEW_HOME4: The way this strange world works...\nI wonder... Could I ever be reunited\nwith my dear Leila again?
+MID_MATTHEW_HOME5: Spy training? Sure, that's a thing, but\nwe never do it in public. That always\nleads to bad sorts finding you.
+MID_MATTHEW_FRIEND: My boss wanted me to come\ndeliver a hello to you,\n$Nu.$k$pYou two must have a pretty\nstrong friendship there.
+MID_MATTHEW_LEVEL1: Ha! Isn't that rich! A spy like\nme—with this much power?
+MID_MATTHEW_LEVEL2: I'm good in combat, but now I'll\nbe even better!
+MID_MATTHEW_LEVEL3: Hmm. Maybe I should stick to\nthe shadows.
+MID_MATTHEW_SKILL: I work behind the scenes, but I\nwon't waste this—I promise.
+MID_MATTHEW_JOIN: The name's Matthew. I'm in the\nservice of the young master—I mean,\nmilord—Hector. Good to meet you.
+MID_MATTHEW_STRONGEST: Whoa, never a dull moment with you\naround, is there? You really keep\na spy on his toes!$k$pSpeaking of which, you know how\nwe spies stick to the shadows?\nIt's not smart to have close friends.$k$pMakes sense, right? A spy needs\nthe flexibility to do what he\nneeds to, when he needs to.$k$pFriends just muck things up.$k$pThe only problem with all this\nis you. You're the kind of person\na spy can't evade forever.$k$pOh, I'll keep trying, friend, but for\nnow, forget I said anything.
+MID_MATTHEW_VOICE01: はっ！
+MID_MATTHEW_VOICE02: そらっ！
+MID_MATTHEW_VOICE03: うああっ！
+MID_MATTHEW_VOICE04: Well, well...
+MID_MATTHEW_VOICE05: You're wide open!
+MID_MATTHEW_VOICE06: I'll finish you!
+MID_MATTHEW_VOICE07: Let's settle this!
+MID_MATTHEW_VOICE08: Hello there!
+MID_MATTHEW_VOICE09: Ugh, sorry...
+MID_MATTHEW_VOICE10: Heh
+MID_MATTHEW_VOICE11: Oh! Have a new mission for me? Let's hear it!
+MID_MATTHEW_VOICE12: No need for a shakedown. I never hide my weapons.
+MID_MATTHEW_VOICE13: I sense no enemies here, not even in the shadows.
+MID_MATTHEW_VOICE14: Need me to pry into someone's secrets? I'm your man!
+MID_MATTHEW_VOICE15: Glad to chat, but I'm really more of a behind-the-scenes kind of guy.
+MID_MATTHEW_VOICE16: We all have a place in our hearts that we'd...prefer...that no one goes poking around in.
+MID_MATTHEW_VOICE17: You...have caught my interest!
+MID_MATTHEW_VOICE18: All right.
+MID_MATTHEW_VOICE19: And now?
+MID_MATTHEW_VOICE20: Let's go.

@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_VALENTINE01_HOME1: Se volessi regalare dei dolcetti,\nsecondo te è meglio cucinarli a\nmano?$k$pVorrei la tua opinione.
+MID_LILINA_VALENTINE01_HOME2: Anche nel tuo mondo avete una festa\nche celebra l'amore? A chi hai\nconfessato i tuoi sentimenti?$k$pO forse qualcuno ha confessato i\nsuoi a te...
+MID_LILINA_VALENTINE01_HOME3: Dici che anche le ragazze possono\nconfessare per prime i sentimenti?\nIo... io... Non farmi pressione!
+MID_LILINA_VALENTINE01_HOME4: Mi insegneresti a cucinare qualcosa\ndi semplice? Qualcosa tipo biscotti\no tortine.
+MID_LILINA_VALENTINE01_HOME5: Talvolta è difficile dire a qualcuno\nquanto apprezzi tutto quello che\nfa per te.
+MID_LILINA_VALENTINE01_FRIEND: $Nf mi ha\nchiesto di venire a salutarti.$k$pHo anche qualche dolcetto per te,\nse ne vuoi.
+MID_LILINA_VALENTINE01_LEVEL1: Sento il coraggio crescere\ndentro di me... Posso dire\nciò che provo!
+MID_LILINA_VALENTINE01_LEVEL2: Meraviglioso... Oggi vivremo\ntanti momenti deliziosi!
+MID_LILINA_VALENTINE01_LEVEL3: Forse i regali li darò domani...
+MID_LILINA_VALENTINE01_SKILL: Grazie! Spero che ti piacerà\nquello che ho pensato per te.
+MID_LILINA_VALENTINE01_JOIN: Sono Lilina, figlia del marchese di\nOsitia. Farai anche tu un regalo a\nqualcuno?
+MID_LILINA_VALENTINE01_STRONGEST: Qual è il regalo migliore? Quando\ndovrei presentarlo? E cosa dovrei\ndire quando lo consegno?!$k$pAhhh! Oh, perdonami... Mi hai\nsorpreso. Ehm... Potresti scordarti\ntutto ciò che hai appena sentito?$k$pAnzi, in realtà... Se hai un momento...\nPotrei chiederti un consiglio?$k$pSperavo che tu potessi dirmi tutto\nquello che sai su questa Festa\ndell'amore.$k$pLo farai? Oh, grazie! Eh eh eh, sei\ncosì gentile. Conto su di te!
+MID_LILINA_VALENTINE01_VOICE01: えーいっ
+MID_LILINA_VALENTINE01_VOICE02: それっ！
+MID_LILINA_VALENTINE01_VOICE03: きゃああっ！
+MID_LILINA_VALENTINE01_VOICE04: やだっ…
+MID_LILINA_VALENTINE01_VOICE05: Ho qualcosa per te.
+MID_LILINA_VALENTINE01_VOICE06: Questo è per te.
+MID_LILINA_VALENTINE01_VOICE07: Per i miei cari!
+MID_LILINA_VALENTINE01_VOICE08: Non sono tutta zucchero!
+MID_LILINA_VALENTINE01_VOICE09: My present...
+MID_LILINA_VALENTINE01_VOICE10: ふふふっ
+MID_LILINA_VALENTINE01_VOICE11: My name's Lilina. I was celebrating a festival when I suddenly appeared here.
+MID_LILINA_VALENTINE01_VOICE12: Eek! O-oh, my presents were about to tip over?
+MID_LILINA_VALENTINE01_VOICE13: I need something really nice for my father...
+MID_LILINA_VALENTINE01_VOICE14: The festival I was attending is all about giving presents to the people you care about.
+MID_LILINA_VALENTINE01_VOICE15: What do I like? Hmm... I'm fond of sweets!
+MID_LILINA_VALENTINE01_VOICE16: What kind of gift would make a guy like him happy...
+MID_LILINA_VALENTINE01_VOICE17: I got you a little something. I hope you don't mind.
+MID_LILINA_VALENTINE01_VOICE18: Wonderful.
+MID_LILINA_VALENTINE01_VOICE19: Can't decide...
+MID_LILINA_VALENTINE01_VOICE20: Take this, OK?

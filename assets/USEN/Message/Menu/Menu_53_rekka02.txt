@@ -1,0 +1,52 @@
+[Heroes Archive] (Menu_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MID_BLESSINGMAP_HELP_DIALOG_04_02: Legendary Effects:\n・ In the Blessed Gardens, effects\nfrom Legendary Heroes will\nalways be active, regardless of\nthe current season.\n・ To confer a blessing, tap Allies,\nthen Ally Growth, and Confer\nBlessing.
+MID_INFO_TITLE: Notifications
+MID_ITEM_GAIN_DRESS_ACCESSORY: You got an accessory!
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING_PREFIX: *
+MID_ITEM_GAIN_DRESS_ACCESSORY_WARNING: $aYou cannot have more than one of the\nsame accessory. Any duplicates will\nbe converted into $a0 Hero Feathers.
+MID_ITEM_GAIN_SKILL_AND_DRESS_ACCESSORY_WARNING: $aYou cannot have more than one of the\nsame Sacred Seal or accessory. Any\nduplicates will be converted into\n$a0 Hero Feathers.
+MID_CHAIN_ARENA_HELP_DIALOG_09: Blessing Bonus:\nEach time you send a Legendary\nor blessed Hero from the current\nseason into battle, you'll receive\na score bonus of +1 when battle\nconcludes.\n\n(This goes into effect starting\nwith the season beginning\nafter ver. 2.6.0 is released.)
+MID_SEQUENTIAL_MAP_TERM_201806: Feud of the Fangs
+MID_TAP_BATTLE_TRAILER_STAGE_CLEARED: Cleared!
+MID_TAP_BATTLE_TRAILER_EXTRA_STAGE_OPENED: Extra stage unlocked!
+MID_TAP_BATTLE_DATA_TOP_FLOOR_53_rekka02: It's a beautiful summer ocean...\nLooks like everyone is having a\nblast after diving in!
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP: Equip Accessories
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_DRESS_ACCESSORY: Select the accessory you want to equip.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_HELP_CHARACTER: Select ally who will equip/change an accessory.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DRESS_ACCESSORY_AHEAD: Select Accessory
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHARACTER_AHEAD: Select Ally
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CONFIRM: Equip this accessory?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_UNSET_CONFIRM: Remove this accessory?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_CONFIRM: $a$a0 has this accessory\nequipped. Swap accessories\nand equip this one?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CHANGE_WARNING: $a$a0 cannot equip the\nswapped accessory.\nIt will be removed.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_DECIDE: Change
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_COMPLETE_CONFIRM: Change complete.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_CONFIRM: Cancel changing accessories?
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_WARNING: All changes will be canceled.
+MID_UNIT_EDIT_DRESS_ACCESSORY_EQUIP_CANCEL_DECIDE: Cancel Equipping
+MID_UNIT_EDIT_DRESS_ACCESSORY_EMPTY: No accessories.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_CONFIRM: Select a sort order.
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_ACQUISITION: Obtained
+MID_UNIT_EDIT_DRESS_ACCESSORY_SORT_DRESS_ACCESSORY: Type
+MID_DRESSACCESSORY_HELP_DIALOG_00: Dress up with accessories!
+MID_DRESSACCESSORY_HELP_DIALOG_01: Equip Accessories:\nYou can dress up your allies\nby equipping them with\naccessories you've obtained.\n\nEach accessory can be\nequipped on one ally at a time.
+MID_DRESSACCESSORY_HELP_DIALOG_02: Accessory Type:\nThere are different categories of\naccessories, as shown by the\npink icon.
+MID_UNIT_EDIT_DRESS_ACCESSORY_NAME_EMPTY: ----------
+MID_UNIT_EDIT_DRESS_ACCESSORY_NOT_EQUIPPED: No accessory is currently equipped.
+MID_UNIT_EDIT_DRESS_ACCESSORY_CANNOT_EQUIP: This accessory cannot be equipped.
+MID_UNIT_EDIT_EQUIP: Change Equipment
+MID_UNIT_EDIT_UNIT_ENFORCE: Ally Growth
+MID_UNIT_EDIT_UNIT_COMMUNICATE: Interact with Allies
+MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_00_53: ① Tap the ally to be swapped out.\n② Tap the ally to be put in.
+MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_0000: Create Heroes your way!
+MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_02: Blessing Effects #1:\nBlessed allies receive double the\nusual amount of SP and EXP\nin battle.\n\nBlessings cannot be conferred on\nLegendary Heroes. However,\nLegendary Heroes will always earn\ndouble the usual amount of SP and\nEXP in battle.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO: Auto-Learn
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_CONFIRM: Do you wish to automatically\nlearn and equip these skills?
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_INSUFFICIENT: This ally does not have enough SP to\nlearn the next recommended skill.
+MID_UNIT_EDIT_SKILL_LEARN_AUTO_REASON_MAX: This ally has already learned all\nof the recommended skills.
+MID_UNIT_EDIT_SORT_DRESS_ACCESSORY: Accessory

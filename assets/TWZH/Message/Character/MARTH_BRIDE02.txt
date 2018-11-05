@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_BRIDE02_HOME1: 你問我理想中的婚姻生活……？\n我想想看……\n只要我愛的人幸福，那我就很開心了。
+MID_MARTH_BRIDE02_HOME2: 我的近衛騎士偶爾也會打扮得十分奇怪，\n說不定他也會喜歡這種衣服呢。
+MID_MARTH_BRIDE02_HOME3: 傑剛、凱因、阿貝爾、多加、哥頓……\n不曉得大家看到我這身打扮後，\n會說些什麼呢？
+MID_MARTH_BRIDE02_HOME4: 原來希達之前也有來新娘祭典啊。\n她好像玩得很開心呢。
+MID_MARTH_BRIDE02_HOME5: 還是不太習慣在馬上的戰鬥呢。\n得同時駕馭好馬跟精巧地操控武器……\n我會向阿利提亞的騎士們看齊，好好加油的。
+MID_MARTH_BRIDE02_FRIEND: 我替$Nf帶來了\n表示友好的問候喔。\n今後也請務必幸福。
+MID_MARTH_BRIDE02_LEVEL1: 真讓人吃驚。\n這就是所謂的……愛的力量嗎？
+MID_MARTH_BRIDE02_LEVEL2: 我也想要變強。\n為了能夠守護我愛的人。
+MID_MARTH_BRIDE02_LEVEL3: 不好意思，\n看來不好好鞭策自己不行呢……
+MID_MARTH_BRIDE02_SKILL: 謝謝你。\n總覺得就好像是你在祝福我呢。
+MID_MARTH_BRIDE02_JOIN: 我是阿利提亞的王子馬爾斯。\n這身打扮是新娘祭典中新郎的裝扮……\n呃……很難說明呢。
+MID_MARTH_BRIDE02_STRONGEST: 這套服裝，\n好像是男性對所愛的女性宣誓愛時，\n所穿的裝扮呢。$k$p雖然我心裡早已決定在交換誓言時，\n站在我身旁的女性是誰……$k$p不過想到穿上正式的衣服，\n在神聖的儀式中宣誓……\n就讓人很緊張呢。$k$p哈哈，但這次是個不錯的練習機會。\n嗯，有種在正式婚禮時，\n我可以表現得很好的預感呢。$k$p當那一天到來時……\n$Nu，\n如果你也能來的話我會很開心的。
+MID_MARTH_BRIDE02_VOICE01: 呀！
+MID_MARTH_BRIDE02_VOICE02: 看招！
+MID_MARTH_BRIDE02_VOICE03: 哇哇！
+MID_MARTH_BRIDE02_VOICE04: 不行……！
+MID_MARTH_BRIDE02_VOICE05: 這就是愛的力量呢！
+MID_MARTH_BRIDE02_VOICE06: 發誓會把勝利帶給你！
+MID_MARTH_BRIDE02_VOICE07: 為了我愛的人！
+MID_MARTH_BRIDE02_VOICE08: 將心意銘刻心中！
+MID_MARTH_BRIDE02_VOICE09: 式に…遅れてしまうな…
+MID_MARTH_BRIDE02_VOICE10: ええと
+MID_MARTH_BRIDE02_VOICE11: どうかな？　おかしくないかな？
+MID_MARTH_BRIDE02_VOICE12: わっ！　…え、服に埃が？　ありがとう。
+MID_MARTH_BRIDE02_VOICE13: お祭りは、ひとときの安らぎだね。
+MID_MARTH_BRIDE02_VOICE14: こういう格好は、なんだか緊張してしまうよ。
+MID_MARTH_BRIDE02_VOICE15: 結婚式はどんな所がいいんだろうか？
+MID_MARTH_BRIDE02_VOICE16: いつか平和になって、式をあげられたら…
+MID_MARTH_BRIDE02_VOICE17: これからもぼくを助けて欲しい。ぼくには、君が必要なんだ。
+MID_MARTH_BRIDE02_VOICE18: はい
+MID_MARTH_BRIDE02_VOICE19: 二人は永遠に…
+MID_MARTH_BRIDE02_VOICE20: 幸せになろう

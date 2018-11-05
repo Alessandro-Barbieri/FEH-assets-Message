@@ -1,0 +1,38 @@
+[Heroes Archive] (CANAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CANAS_HOME1: How fascinating! If that's true, then—\nOf course! Now, let me just see...$k$pOh! Don't mind me. I'm just caught up\nin a book, as usual...
+MID_CANAS_HOME2: I am told that in this world dwells one\ncalled a "summoner," who can call\nforth Heroes from other realms...$k$pDo you think you might introduce us?
+MID_CANAS_HOME3: Don't think I haven't noticed how\ntireless you are in patrolling the\ncastle...$k$pOverwork is no good for you,\nhowever. Do not forget that\ntaking breaks is part of the job, too.
+MID_CANAS_HOME4: Have you considered reading as a\nway to lift your spirits or clear your\nmind?$k$pI have some recommendations. Take\nthis book—it's a well-crafted yarn, but\nit's a light read, too.
+MID_CANAS_HOME5: The library here is truly a wonder...\nSo many volumes! I hope I never\nhave to leave...
+MID_CANAS_FRIEND: I am Canas. I bring greetings to you\nfrom $Nf.
+MID_CANAS_LEVEL1: Excellent! Each step brings me\ncloser to fundamental truths...
+MID_CANAS_LEVEL2: Ah, well. No more than average—\nthis time.
+MID_CANAS_LEVEL3: Further indication that I am\nlacking in talent, I suppose...
+MID_CANAS_SKILL: Goodness! I can't help but\nwonder what you're scheming...
+MID_CANAS_JOIN: What a fascinating place... Oh, but\nwhere are my manners? I am Canas,\na simple scholar.
+MID_CANAS_STRONGEST: My apologies... I didn't even see you\nthere, with my nose buried in this\nbook...$k$pBut you must understand how\nfascinating it is! Truly!$k$pYou want to know why I'm always\nreading? You could say that I am\ndriven by curiosity...$k$pOnce I identify a topic of interest, I\nmust study it from every\nangle.$k$pI do wonder, sometimes, where this\nhabit will take me...$k$pWhen I consider the fate that befell\nmy brothers, as they pushed the\nlimits of magical study, I...$k$pBut I must be honest with you. I\ncannot control my thirst for\nknowledge.$k$pIt is a flaw in my character. One could\neven call it greed...$k$pThe short answer to your question is\nthis: For me, to read is to live.$k$pNow, while I have you here, perhaps\nyou could answer one of my\nquestions...$k$pObserve the pattern on this page. It\nis totally unfamiliar to me—like\nnothing from my realm. Tell me...
+MID_CANAS_VOICE01: ええと
+MID_CANAS_VOICE02: すみません…
+MID_CANAS_VOICE03: うああっ！
+MID_CANAS_VOICE04: 面目ない…
+MID_CANAS_VOICE05: I must see the other side.
+MID_CANAS_VOICE06: Journey beyond the darkness.
+MID_CANAS_VOICE07: This scares me.
+MID_CANAS_VOICE08: This book is the key.
+MID_CANAS_VOICE09: What a shame.
+MID_CANAS_VOICE10: *sigh*
+MID_CANAS_VOICE11: Ah, hello there. My name is Canas.
+MID_CANAS_VOICE12: What? What? What is it? I must be in your way! I'm so sorry!
+MID_CANAS_VOICE13: I read for the thrill of new knowledge.\nThis book is a rather fascinating\nexcursion.
+MID_CANAS_VOICE14: I'm currently reading "Roland the Hero."\nHe was a hero who fought dragons a\nlong time ago.
+MID_CANAS_VOICE15: To use this magic, I must invite the dark\nforces within me. The temptation to submit\nto the darkness...will be great.
+MID_CANAS_VOICE16: The darkness took my brothers.
+MID_CANAS_VOICE17: I somehow get the feeling that you could understand me.
+MID_CANAS_VOICE18: Y-yes?
+MID_CANAS_VOICE19: Oh, yes.
+MID_CANAS_VOICE20: This book, you see...

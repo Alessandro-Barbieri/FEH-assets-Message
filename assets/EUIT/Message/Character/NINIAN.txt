@@ -1,0 +1,38 @@
+[Heroes Archive] (NINIAN)
+
+
+Heroes Message Name: Message
+
+
+MID_NINIAN_HOME1: Il vento... e questa terra...\nli trovo davvero rigeneranti.
+MID_NINIAN_HOME2: Avverto che sei in qualche modo...\ndivers$Go,a| dagli altri qui presenti.
+MID_NINIAN_HOME3: Ti ringrazio molto per la tua\ngentilezza. Non è da tutti,\n$Nu.
+MID_NINIAN_HOME4: Conosco danze per ogni occasione,\nanche per quelle speciali. Ti va di\nvederne qualcuna?
+MID_NINIAN_HOME5: Avverto un pericolo incombente, ma\nnulla che ci minacci seriamente in\nquesto momento.
+MID_NINIAN_FRIEND: Ti porgo i saluti e una danza\ndi amicizia da parte di\n$Nf.
+MID_NINIAN_LEVEL1: Ti piace? Sono contenta.
+MID_NINIAN_LEVEL2: Sento che... posso fare meglio\ndi così.
+MID_NINIAN_LEVEL3: Mi spiace. Di questo passo non\nriuscirò a esserti d'aiuto.
+MID_NINIAN_SKILL: Sento che ora le mie capacità\nsono state risvegliate.
+MID_NINIAN_JOIN: Sono Ninian. Semplicemente, una\ndanzatrice itinerante, lieta di esibirsi\nper te. Nulla di speciale, in realtà.
+MID_NINIAN_STRONGEST: Ormai dovresti aver capito che nelle\nmie vene scorre sangue di drago.$k$pDraghi e umani non hanno sempre\nvissuto in armonia, per un motivo\no per un altro.$k$pEppure sento di poter essere me\nstessa qui, senza paura né vergogna.\nDev'essere merito tuo.$k$pHai il raro dono di vedere gli altri\nper quello che sono, senza alcun\npregiudizio. O almeno, vale per me.$k$pNon immagini quanto lo apprezzi.\nPer ringraziarti mi esibirò per te\nin tutte le danze che conosco.
+MID_NINIAN_VOICE01: えい！
+MID_NINIAN_VOICE02: はぁっ！
+MID_NINIAN_VOICE03: きゃああっ！
+MID_NINIAN_VOICE04: No...
+MID_NINIAN_VOICE05: Ammirate il mio potere!
+MID_NINIAN_VOICE06: Basta!
+MID_NINIAN_VOICE07: Cambierà qualcosa?
+MID_NINIAN_VOICE08: Ci proverò!
+MID_NINIAN_VOICE09: Ahhh...
+MID_NINIAN_VOICE10: Heehee...
+MID_NINIAN_VOICE11: Che la danza ti ispiri.
+MID_NINIAN_VOICE12: Vorrei essere d'aiuto.
+MID_NINIAN_VOICE13: What do you need of me?
+MID_NINIAN_VOICE14: You and I are...? Friends.
+MID_NINIAN_VOICE15: I hope you're not afraid of dragons.
+MID_NINIAN_VOICE16: Humans and dragons... Will they ever live in harmony?
+MID_NINIAN_VOICE17: You accept me as I am, don't you?
+MID_NINIAN_VOICE18: Yes?
+MID_NINIAN_VOICE19: Hmm?
+MID_NINIAN_VOICE20: Of course.

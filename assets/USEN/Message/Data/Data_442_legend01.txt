@@ -1,0 +1,288 @@
+[Heroes Archive] (Data_442_legend01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201802A_TITLE: Feb Quests (1)
+MID_MISSION_M201802A_A1: KO Foes w/Red
+MID_MISSION_H_M201802A_A1: Use red-type allies to defeat foes.
+MID_MISSION_M201802A_A2: KO Foes w/Fliers
+MID_MISSION_H_M201802A_A2: Use flier allies to defeat foes.
+MID_MISSION_M201802A_A3: KO Blue Foes
+MID_MISSION_H_M201802A_A3: Defeat blue-type foes.
+MID_MISSION_M201802A_A4: KO Cavalry Foes
+MID_MISSION_H_M201802A_A4: Defeat cavalry foes.
+MID_MISSION_M201802A_A5: Win Arena Duels
+MID_MISSION_H_M201802A_A5: Win Arena Duels at any difficulty.
+MID_MISSION_M201802A_A6: KO Lvl. 20+ Foes w/Green
+MID_MISSION_H_M201802A_A6: Defeat foes that are level 20\nor higher with green-type allies.
+MID_MISSION_M201802A_A7: KO Lvl. 20+ Foes w/Cav.
+MID_MISSION_H_M201802A_A7: Defeat foes that are level 20\nor higher with cavalry allies.
+MID_MISSION_M201802A_A8: KO Lvl. 20+ Red Foes
+MID_MISSION_H_M201802A_A8: Defeat red-type foes that\nare level 20 or higher.
+MID_MISSION_M201802A_A9: KO Lvl. 20+ Flier Foes
+MID_MISSION_H_M201802A_A9: Defeat flier foes that\nare level 20 or higher.
+MID_MISSION_M201802A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201802A_A10: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_M201802A_A11: KO Lvl. 35+ Foes w/Blue
+MID_MISSION_H_M201802A_A11: Defeat foes that are level 35\nor higher with blue-type allies.
+MID_MISSION_M201802A_A12: KO Lvl. 35+ Foes w/Inf.
+MID_MISSION_H_M201802A_A12: Defeat foes that are level 35\nor higher with infantry allies.
+MID_MISSION_M201802A_A13: KO Lvl. 35+ Green Foes
+MID_MISSION_H_M201802A_A13: Defeat green-type foes that\nare level 35 or higher.
+MID_MISSION_M201802A_A14: KO Lvl. 35+ Infantry Foes
+MID_MISSION_H_M201802A_A14: Defeat infantry foes that\nare level 35 or higher.
+MID_MISSION_M201802A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201802A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201802B_TITLE: Feb Quests (2)
+MID_MISSION_M201802B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201802B_A1: Clear First Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201802B_A2: Clear Second Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201802B_A3: Clear Third Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201802B_A4: Clear Fourth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201802B_A5: Clear Fifth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201802B_A6: Clear Sixth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201802B_A7: Clear Seventh Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201802B_A8: Clear Eighth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201802B_A9: Clear Ninth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201802B_A10: Clear Tenth Stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201802B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201802B_A11: Clear Tenth Stratum of the Training\nTower using only infantry allies.\nAll four allies must survive.
+MID_MISSION_M201802B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201802B_A12: Clear Tenth Stratum of the Training\nTower using only armored allies.\nAll four allies must survive.
+MID_MISSION_M201802B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201802B_A13: Clear Tenth Stratum of the Training\nTower using only cavalry allies.\nAll four allies must survive.
+MID_MISSION_M201802B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201802B_A14: Clear Tenth Stratum of the Training\nTower using only flying allies.\nAll four allies must survive.
+MID_MISSION_M201802C_TITLE: Feb Quests (3)
+MID_MISSION_M201802C_A1: Clear 6-1
+MID_MISSION_H_M201802C_A1: Clear Chapter 6: Part 1. All\nfour allies must survive.
+MID_MISSION_M201802C_A2: Clear 6-2
+MID_MISSION_H_M201802C_A2: Clear Chapter 6: Part 2 with a\nred-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A3: Clear 6-3
+MID_MISSION_H_M201802C_A3: Clear Chapter 6: Part 3 with a\nblue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A4: Clear 6-4
+MID_MISSION_H_M201802C_A4: Clear Chapter 6: Part 4 with a\ngreen-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A5: Clear 6-5
+MID_MISSION_H_M201802C_A5: Clear Chapter 6: Part 5 with a\ncolorless-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A6: Clear 9-1 on Hard+
+MID_MISSION_H_M201802C_A6: Clear Chapter 9: Part 1 on Hard\nor higher difficulty. All four\nallies must survive.
+MID_MISSION_M201802C_A7: Clear 9-2 on Hard+
+MID_MISSION_H_M201802C_A7: Clear Chapter 9: Part 2 on Hard or higher\ndifficulty with a red-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A8: Clear 9-3 on Hard+
+MID_MISSION_H_M201802C_A8: Clear Chapter 9: Part 3 on Hard or higher\ndifficulty with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_M201802C_A9: Clear 9-4 on Hard+
+MID_MISSION_H_M201802C_A9: Clear Chapter 9: Part 4 on Hard or higher\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201802C_A10: Clear 9-5 on Hard+
+MID_MISSION_H_M201802C_A10: Clear Chapter 9: Part 5 on Hard or higher\ndifficulty with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201802C_A11: Clear 12-1 on Lunatic
+MID_MISSION_H_M201802C_A11: Clear Chapter 12: Part 1 on Lunatic\ndifficulty. All four allies must survive.
+MID_MISSION_M201802C_A12: Clear 12-2 on Lunatic
+MID_MISSION_H_M201802C_A12: Clear Chapter 12: Part 2 on Lunatic\ndifficulty with a red-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201802C_A13: Clear 12-3 on Lunatic
+MID_MISSION_H_M201802C_A13: Clear Chapter 12: Part 3 on Lunatic\ndifficulty with a blue-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201802C_A14: Clear 12-4 on Lunatic
+MID_MISSION_H_M201802C_A14: Clear Chapter 12: Part 4 on Lunatic\ndifficulty with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_M201802C_A15: Clear 12-5 on Lunatic
+MID_MISSION_H_M201802C_A15: Clear Chapter 12: Part 5 on Lunatic\ndifficulty with a colorless-type ally on\nyour team. All four allies must survive.
+MID_MISSION_S201801SENKA02_DAILY_TITLE: Tempest Trials Mini
+MID_MISSION_S201801SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201801SENKA02_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201801SENKA02_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201801SENKA02_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201801SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201801SENKA02_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201802DEFEAT01_TITLE: Defeat Foes
+MID_MISSION_S201802DEFEAT01_A1: KO Level 10+ Foe
+MID_MISSION_H_S201802DEFEAT01_A1: Defeat green-type foes that are level\n10 or higher with red-type allies.
+MID_MISSION_S201802DEFEAT01_A2: KO Level 10+ Foe
+MID_MISSION_H_S201802DEFEAT01_A2: Defeat red-type foes that are level\n10 or higher with blue-type allies.
+MID_MISSION_S201802DEFEAT01_A3: KO Level 10+ Foe
+MID_MISSION_H_S201802DEFEAT01_A3: Defeat blue-type foes that are level\n10 or higher with green-type allies.
+MID_MISSION_S201802DEFEAT01_A4: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A4: Defeat staff foes that are level 20\nor higher with red-type allies.
+MID_MISSION_S201802DEFEAT01_A5: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A5: Defeat bow foes that are level\n20 or higher with blue-type allies.
+MID_MISSION_S201802DEFEAT01_A6: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A6: Defeat dagger foes that are level 20\nor higher with green-type allies.
+MID_MISSION_S201802DEFEAT01_A7: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A7: Defeat green magic foes that are level 20\nor higher with red-type allies.
+MID_MISSION_S201802DEFEAT01_A8: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A8: Defeat red magic foes that are level 20\nor higher with blue-type allies.
+MID_MISSION_S201802DEFEAT01_A9: KO Level 20+ Foe
+MID_MISSION_H_S201802DEFEAT01_A9: Defeat blue magic foes that are level 20\nor higher with green-type allies.
+MID_MISSION_S201802DEFEAT01_A10: KO Level 40+ Foe
+MID_MISSION_H_S201802DEFEAT01_A10: Defeat axe foes that are level 40\nor higher with red-type allies.
+MID_MISSION_S201802DEFEAT01_A11: KO Level 40+ Foe
+MID_MISSION_H_S201802DEFEAT01_A11: Defeat sword foes that are level 40\nor higher with blue-type allies.
+MID_MISSION_S201802DEFEAT01_A12: KO Level 40+ Foe
+MID_MISSION_H_S201802DEFEAT01_A12: Defeat lance foes that are level 40\nor higher with green-type allies.
+MID_MISSION_S201802DEFEAT01_A13: KO Level 40+ Foe
+MID_MISSION_H_S201802DEFEAT01_A13: Defeat colorless-type foes that are level 40\nor higher with colorless-type allies.
+MID_MISSION_S201802HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201802HERO01_A1: Defeat Valter
+MID_MISSION_H_S201802HERO01_A1: With Sharena on your team, win the\nGrand Hero Battle against Valter:\nDark Moonstone.
+MID_MISSION_S201802HERO01_A2: Defeat Valter
+MID_MISSION_H_S201802HERO01_A2: With Valter: Dark Moonstone on your team,\nwin the Grand Hero Battle against Valter:\nDark Moonstone on Lunatic or higher.
+MID_MISSION_S201802HERO01_A3: Defeat Valter
+MID_MISSION_H_S201802HERO01_A3: Defeat a level 40 or higher Valter:\nDark Moonstone with Sharena.
+MID_MISSION_S201802HERO01_A4: Defeat Valter
+MID_MISSION_H_S201802HERO01_A4: Defeat a level 40 or higher Valter: Dark\nMoonstone with Valter: Dark Moonstone.
+MID_MISSION_S201802HERO01_A5: Defeat Valter
+MID_MISSION_H_S201802HERO01_A5: Win the Grand Hero Battle against\nValter: Dark Moonstone on Lunatic or\nhigher using an all-infantry team.
+MID_MISSION_S201802VMAP01_TITLE: Developer Challenge
+MID_MISSION_S201802VMAP01_A1: Clear The Effectives
+MID_MISSION_H_S201802VMAP01_A1: Clear The Effectives by mk1 with a\nred-type ally on your team. All four allies\nmust survive.
+MID_MISSION_S201802VMAP01_A2: Clear Long & Short
+MID_MISSION_H_S201802VMAP01_A2: Clear Long & Short by Shingoroid with a\nblue-type ally on your team. All four allies\nmust survive.
+MID_MISSION_S201802VMAP01_A3: Clear A Complete Hex
+MID_MISSION_H_S201802VMAP01_A3: Clear A Complete Hex by ngyope with a\ngreen-type ally on your team. All four\nallies must survive.
+MID_MISSION_S201802VMAP01_A4: Clear Wrys's Bodyguards
+MID_MISSION_H_S201802VMAP01_A4: Clear Wrys's Bodyguards by kuroyagi with\na colorless-type ally on your team. All four\nallies must survive.
+MID_MISSION_S201802VMAP01_A5: Clear Manakete Squad
+MID_MISSION_H_S201802VMAP01_A5: Clear Manakete Squad by k2. All four\nallies must survive.
+MID_MISSION_S201802VMAP01_A6: Clear The Effectives
+MID_MISSION_H_S201802VMAP01_A6: Clear The Effectives by mk1 on Lunatic\nwith a red-type ally on your team. All four\nallies must survive.
+MID_MISSION_S201802VMAP01_A7: Clear Long & Short
+MID_MISSION_H_S201802VMAP01_A7: Clear Long & Short by Shingoroid on\nLunatic with a blue-type ally on your team.\nAll four allies must survive.
+MID_MISSION_S201802VMAP01_A8: Clear A Complete Hex
+MID_MISSION_H_S201802VMAP01_A8: Clear A Complete Hex by ngyope on\nLunatic with a green-type ally on your\nteam. All four allies must survive.
+MID_MISSION_S201802VMAP01_A9: Clear Wrys's Bodyguards
+MID_MISSION_H_S201802VMAP01_A9: Clear Wrys's Bodyguards by kuroyagi on\nLunatic with a colorless-type ally on your\nteam. All four allies must survive.
+MID_MISSION_S201802VMAP01_A10: Clear Manakete Squad
+MID_MISSION_H_S201802VMAP01_A10: Clear Manakete Squad by k2 on Lunatic.\nAll four allies must survive.
+MID_MISSION_S201802YEAR01_TITLE: Tutorial Quests
+MID_MISSION_S201802YEAR01_A1: Clear 1-5
+MID_MISSION_H_S201802YEAR01_A1: Clear Chapter 1: Part 5.
+MID_MISSION_S201802YEAR01_A2: Clear 2-5
+MID_MISSION_H_S201802YEAR01_A2: Clear Chapter 2: Part 5.
+MID_MISSION_S201802YEAR01_A3: Clear 3-5
+MID_MISSION_H_S201802YEAR01_A3: Clear Chapter 3: Part 5.
+MID_MISSION_S201802YEAR01_A4: Clear 4-5
+MID_MISSION_H_S201802YEAR01_A4: Clear Chapter 4: Part 5.
+MID_MISSION_S201802YEAR01_A5: Clear 5-5
+MID_MISSION_H_S201802YEAR01_A5: Clear Chapter 5: Part 5.
+MID_MISSION_S201802YEAR01_A6: Clear 6-5
+MID_MISSION_H_S201802YEAR01_A6: Clear Chapter 6: Part 5.
+MID_MISSION_S201802YEAR01_A7: Clear 7-5
+MID_MISSION_H_S201802YEAR01_A7: Clear Chapter 7: Part 5.
+MID_MISSION_S201802YEAR01_A8: Clear 8-5
+MID_MISSION_H_S201802YEAR01_A8: Clear Chapter 8: Part 5.
+MID_MISSION_S201802YEAR01_A9: Clear 9-5
+MID_MISSION_H_S201802YEAR01_A9: Clear Chapter 9: Part 5.
+MID_MISSION_S201802YEAR01_A10: Clear 10-5
+MID_MISSION_H_S201802YEAR01_A10: Clear Chapter 10: Part 5.
+MID_MISSION_S201802YEAR01_A11: Clear 11-5
+MID_MISSION_H_S201802YEAR01_A11: Clear Chapter 11: Part 5.
+MID_MISSION_S201802YEAR01_A12: Clear 12-5
+MID_MISSION_H_S201802YEAR01_A12: Clear Chapter 12: Part 5.
+MID_MISSION_S201802YEAR01_A13: Clear 13-5
+MID_MISSION_H_S201802YEAR01_A13: Clear Chapter 13: Part 5.
+MID_MISSION_S201802YEAR01_A14: Clear Book II, 1-5
+MID_MISSION_H_S201802YEAR01_A14: Clear Book II, Chapter 1: Part 5.
+MID_MISSION_S201802YEAR01_A15: Clear Book II, 2-5
+MID_MISSION_H_S201802YEAR01_A15: Clear Book II, Chapter 2: Part 5.
+MID_MISSION_S201802YEAR01_A16: Clear Book II, 3-5
+MID_MISSION_H_S201802YEAR01_A16: Clear Book II, Chapter 3: Part 5.
+MID_MISSION_S201802YEAR01_A17: Win Arena Duels
+MID_MISSION_H_S201802YEAR01_A17: Win Arena Duels at any difficulty.
+MID_MISSION_S201802YEAR01_A18: Win Int.+ Arena Duels
+MID_MISSION_H_S201802YEAR01_A18: Win Arena Duels on Intermediate\nor higher difficulty.
+MID_MISSION_S201802YEAR01_A19: Win Adv. Arena Duels
+MID_MISSION_H_S201802YEAR01_A19: Win Arena Duels on Advanced difficulty.
+MID_MISSION_S201802YEAR01_A20: Tower: 1st Stratum
+MID_MISSION_H_S201802YEAR01_A20: Clear the First Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A21: Tower: 2nd Stratum
+MID_MISSION_H_S201802YEAR01_A21: Clear the Second Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A22: Tower: 3rd Stratum
+MID_MISSION_H_S201802YEAR01_A22: Clear the Third Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A23: Tower: 4th Stratum
+MID_MISSION_H_S201802YEAR01_A23: Clear the Fourth Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A24: Tower: 5th Stratum
+MID_MISSION_H_S201802YEAR01_A24: Clear the Fifth Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A25: Tower: 6th Stratum
+MID_MISSION_H_S201802YEAR01_A25: Clear the Sixth Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A26: Tower: 7th Stratum
+MID_MISSION_H_S201802YEAR01_A26: Clear the Seventh Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A27: Tower: 8th Stratum
+MID_MISSION_H_S201802YEAR01_A27: Clear the Eighth Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A28: Tower: 9th Stratum
+MID_MISSION_H_S201802YEAR01_A28: Clear the Ninth Stratum\nof the Training Tower.
+MID_MISSION_S201802YEAR01_A29: Tower: 10th Stratum
+MID_MISSION_H_S201802YEAR01_A29: Clear the Tenth Stratum\nof the Training Tower.
+MPID_伝承アイク: Ike
+MPID_HONOR_伝承アイク: Vanguard Legend
+MPID_H_伝承アイク: The leader of the Greil Mercenaries. He is blunt\nbut genuine and loyal. He is also a general that\npulled people of different races and kingdoms\ntogether. Appears in Fire Emblem: Radiant Dawn.
+MPID_VOICE_伝承アイク: Greg Chun
+MPID_ILLUST_伝承アイク: Kita Senri (北千里)
+MPID_LEGEND_伝承アイク: Legendary Effect: Earth\nAlly Boost: HP+3, Atk+2\n\nGrants allies this Legendary Effect\nduring Earth season, if the Earth\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_蒼の天空: Radiant Aether
+MSID_明鏡の呼吸: Warding Breath
+MSID_鍛錬の証_HP1: Initiate Seal HP 1
+MSID_鍛錬の証_HP2: Initiate Seal HP 2
+MSID_鍛錬の証_HP3: Initiate Seal HP 3
+MSID_鍛錬の証_攻撃1: Initiate Seal Atk 1
+MSID_鍛錬の証_攻撃2: Initiate Seal Atk 2
+MSID_鍛錬の証_攻撃3: Initiate Seal Atk 3
+MSID_鍛錬の証_速さ1: Initiate Seal Spd 1
+MSID_鍛錬の証_速さ2: Initiate Seal Spd 2
+MSID_鍛錬の証_速さ3: Initiate Seal Spd 3
+MSID_鍛錬の証_守備1: Initiate Seal Def 1
+MSID_鍛錬の証_守備2: Initiate Seal Def 2
+MSID_鍛錬の証_守備3: Initiate Seal Def 3
+MSID_鍛錬の証_魔防1: Initiate Seal Res 1
+MSID_鍛錬の証_魔防2: Initiate Seal Res 2
+MSID_鍛錬の証_魔防3: Initiate Seal Res 3
+MSID_H_蒼の天空: During combat, treats foe's Def/Res as\nif reduced by 50%. Restores HP = 50%\nof damage dealt.
+MSID_H_明鏡の呼吸: If foe initiates combat, grants Res+4 during\ncombat. Grants Special cooldown charge +1\nper attack. (Only highest value applied. Does\nnot stack.)
+MSID_H_鍛錬の証_HP1: Grants HP+3.
+MSID_H_鍛錬の証_HP2: Grants HP+4.
+MSID_H_鍛錬の証_HP3: Grants HP+5.
+MSID_H_鍛錬の証_攻撃1: Grants Atk+1.
+MSID_H_鍛錬の証_攻撃2: Grants Atk+2.
+MSID_H_鍛錬の証_攻撃3: Grants Atk+3.
+MSID_H_鍛錬の証_速さ1: Grants Spd+1.
+MSID_H_鍛錬の証_速さ2: Grants Spd+2.
+MSID_H_鍛錬の証_速さ3: Grants Spd+3.
+MSID_H_鍛錬の証_守備1: Grants Def+1.
+MSID_H_鍛錬の証_守備2: Grants Def+2.
+MSID_H_鍛錬の証_守備3: Grants Def+3.
+MSID_H_鍛錬の証_魔防1: Grants Res+1.
+MSID_H_鍛錬の証_魔防2: Grants Res+2.
+MSID_H_鍛錬の証_魔防3: Grants Res+3.
+MID_STAGE_HONOR_V0191: The Effectives
+MID_STAGE_V0191: mk1
+MID_STAGE_HONOR_V0192: Long & Short
+MID_STAGE_V0192: Shingoroid
+MID_STAGE_HONOR_V0193: A Complete Hex
+MID_STAGE_V0193: ngyope
+MID_STAGE_HONOR_V0194: Wrys's Bodyguards
+MID_STAGE_V0194: kuroyagi
+MID_STAGE_HONOR_V0195: Manakete Squad
+MID_STAGE_V0195: k2
+MID_STAGE_HONOR_V0161: Daily
+MID_STAGE_V0161: Part 1
+MID_STAGE_HONOR_V0162: Daily
+MID_STAGE_V0162: Part 2
+MID_STAGE_HONOR_V0163: Daily
+MID_STAGE_V0163: Part 3
+MID_STAGE_HONOR_V0164: Daily
+MID_STAGE_V0164: Part 4
+MID_STAGE_HONOR_V0165: Daily
+MID_STAGE_V0165: Part 5
+MID_STAGE_HONOR_V0166: Daily
+MID_STAGE_V0166: Part 6
+MID_STAGE_HONOR_V0167: Daily
+MID_STAGE_V0167: Part 7

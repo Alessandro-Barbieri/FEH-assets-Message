@@ -1,0 +1,38 @@
+[Heroes Archive] (TAILTO)
+
+
+Heroes Message Name: Message
+
+
+MID_TAILTO_HOME1: あーあ、みんななんか\nいっつもむずかしい話してる…\nたいくつしちゃった。
+MID_TAILTO_HOME2: なあに、そのへんな杖？\nえ？　それで英雄を呼び出すの？\nすごーい！
+MID_TAILTO_HOME3: 見回り？　タイヘンそうだね。\nあたしがてつだってあげるから、\n一緒にがんばろうよ！
+MID_TAILTO_HOME4: お父様…ごめんなさい…\nあたしのせいで…\n大切な家名を…
+MID_TAILTO_HOME5: むずかしいことは苦手だけど、\nたのしくおしゃべりすることは大好き！\nだからなかよくしてね！
+MID_TAILTO_FRIEND: やっほー、あたしティルテュ。\n$Nfに\nたのまれて来たの。
+MID_TAILTO_LEVEL1: ねえねえ、すごいでしょ！\nほめてほめて。
+MID_TAILTO_LEVEL2: いいかんじでしょ？\nほめてくれる？
+MID_TAILTO_LEVEL3: あれー？\nおかしいなぁ…
+MID_TAILTO_SKILL: ありがと！\nすごく元気になっちゃった。
+MID_TAILTO_JOIN: あたしティルテュ！\nご先祖様は魔法騎士トードで…とか\nそういうの関係なくなかよくしてね！
+MID_TAILTO_STRONGEST: あっ！\n$Nu、\nねえねえ、あたしとおしゃべりしない？$k$pありがと！\n$Nuは\nいつもやさしいね。大好き！$k$pあれっ？\n顔が赤くなってない？\nふふっ、ヘンなの～$k$pあたし、むずかしいことはわかんないけど…\nでも、この人はいい人だなって\nなんとなくわかるの。$k$pあたしはそういう人が大好き。\n好きな人のために\nがんばりたいって思うの。$k$pふふっ、お話してたら元気出てきちゃった。\nこれからも一緒にがんばろーね、\n$Nu！
+MID_TAILTO_VOICE01: えいっ！
+MID_TAILTO_VOICE02: それっ！
+MID_TAILTO_VOICE03: きゃあっ！
+MID_TAILTO_VOICE04: ひどい…
+MID_TAILTO_VOICE05: いくわよっ
+MID_TAILTO_VOICE06: ごめんね
+MID_TAILTO_VOICE07: もう！
+MID_TAILTO_VOICE08: さよならっ！
+MID_TAILTO_VOICE09: もう、やんなっちゃう…
+MID_TAILTO_VOICE10: ふふっ
+MID_TAILTO_VOICE11: ねえ、聞いて欲しいことがあるの
+MID_TAILTO_VOICE12: きゃっ！？　もう、びっくりしちゃった。
+MID_TAILTO_VOICE13: あたし、むずかしいことはわかんない。
+MID_TAILTO_VOICE14: ありがと、おかげで元気が出てきちゃった。
+MID_TAILTO_VOICE15: あたし、あなたのこと気に入っちゃった。
+MID_TAILTO_VOICE16: ごめんなさい…お父様…
+MID_TAILTO_VOICE17: あなたのこと心配だから、あたしが守ってあげるの。
+MID_TAILTO_VOICE18: ふぁーい…
+MID_TAILTO_VOICE19: ふーん
+MID_TAILTO_VOICE20: 早く早く

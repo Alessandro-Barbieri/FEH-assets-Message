@@ -1,0 +1,38 @@
+[Heroes Archive] (ROY_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_POPULARITY01_HOME1: Quiero creer que los héroes nacen\nde los deseos de las personas.
+MID_ROY_POPULARITY01_HOME2: Mi padre, Eliwood, es el marqués\nde Pherae, un héroe conocido como\nel caballero de Lycia.
+MID_ROY_POPULARITY01_HOME3: ¿Quieres que te ayude para que te\ntomes un descanso? Te observaré\nun rato para ver de qué te encargas.
+MID_ROY_POPULARITY01_HOME4: Esta es Durandal, la espada del\nfuego sagrado... Mi padre también\nblandió esta arma legendaria.
+MID_ROY_POPULARITY01_HOME5: No tengo demasiadas tablas en\nel combate a caballo, me queda\nmucho por aprender.
+MID_ROY_POPULARITY01_FRIEND: ¿Eres $Nu?\nTe traigo un mensaje de\n$Nf.
+MID_ROY_POPULARITY01_LEVEL1: ¡Algún día seré como mi padre!
+MID_ROY_POPULARITY01_LEVEL2: Me voy acostumbrando a\nluchar a caballo...
+MID_ROY_POPULARITY01_LEVEL3: Tengo que aprender más\nde mi padre.
+MID_ROY_POPULARITY01_SKILL: Todo esto te lo debo a ti. Gracias.
+MID_ROY_POPULARITY01_JOIN: Soy Roy. Con mi espada Durandal\nen mano, prometo ayudarte como\nlo hizo mi padre.
+MID_ROY_POPULARITY01_STRONGEST: Cuando yo era niño, Marcus, un\ncaballero al servicio de mi familia,\nme contó historias sobre mi padre.$k$pMe habló de las gestas heroicas de\nsu juventud, de los muchos aliados\nque hizo en sus viajes...$k$pY de cómo conoció a mi madre.$k$p¡Me encantaba escuchar aquellas\nhistorias! De hecho, las prefería a\ncualquier otro cuento.$k$pPor eso admiro tanto a mi padre;\npara mí es un héroe.$k$pPuede que me parezca a él, pero\naún me queda mucho por aprender.$k$pDebo fortalecerme mucho más antes\nde poder afirmar que soy como él,\ny creo que, si me quedo contigo...,$k$pPodré conseguir mi objetivo.\nAsí que seguiré esforzándome\nal máximo, te lo prometo.
+MID_ROY_POPULARITY01_VOICE01: ええいっ！
+MID_ROY_POPULARITY01_VOICE02: 行くよ！
+MID_ROY_POPULARITY01_VOICE03: うああっ！
+MID_ROY_POPULARITY01_VOICE04: しまった…
+MID_ROY_POPULARITY01_VOICE05: ¡Padre, va por ti!
+MID_ROY_POPULARITY01_VOICE06: ¡Protegeré a todo el mundo!
+MID_ROY_POPULARITY01_VOICE07: Y esto solo es el principio...
+MID_ROY_POPULARITY01_VOICE08: ¡Durandal!
+MID_ROY_POPULARITY01_VOICE09: Father...I'm sorry.
+MID_ROY_POPULARITY01_VOICE10: Haha
+MID_ROY_POPULARITY01_VOICE11: I can't measure up to my father, but if I work hard, I hope I'll become more like him.
+MID_ROY_POPULARITY01_VOICE12: Hm? Did you call for me?
+MID_ROY_POPULARITY01_VOICE13: I had a strange dream. So many people, calling my name...
+MID_ROY_POPULARITY01_VOICE14: I want to repay all those who have supported me.
+MID_ROY_POPULARITY01_VOICE15: My father is unmatched at fighting, even on horseback. I have much to learn from him.
+MID_ROY_POPULARITY01_VOICE16: People are swayed by their desires. However, they can also overcome them.
+MID_ROY_POPULARITY01_VOICE17: Sometimes I feel like the two of us have known each other for a long time.
+MID_ROY_POPULARITY01_VOICE18: Got it.
+MID_ROY_POPULARITY01_VOICE19: Now what?
+MID_ROY_POPULARITY01_VOICE20: The fight is on!

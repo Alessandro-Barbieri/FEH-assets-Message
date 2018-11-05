@@ -1,0 +1,38 @@
+[Heroes Archive] (SOTHE)
+
+
+Heroes Message Name: Message
+
+
+MID_SOTHE_HOME1: 違う世界っていうから多少身構えたが、\n元の世界とそんなに違いはないみたいだな。\n飯は…俺たちの国の方がうまい、かな。
+MID_SOTHE_HOME2: どこに飛ばされようが、誰といようが、\n俺ができることもやるべきことも変わらない。\nもちろん、大切なものもな。
+MID_SOTHE_HOME3: 見たところ、大分疲れているようだな。\n指揮官がそんなじゃ士気に関わるだろ。\n顔でも洗ってしゃきっとしてこいよ。
+MID_SOTHE_HOME4: あんたが何者だろうと構わないが、\nミカヤに危害を加えるようなことがあったら\n許さないからな。わかったな？
+MID_SOTHE_HOME5: ああ、あんたか。\n丁度短剣の手入れをしていたところだ。\nいざって時に頼れるのは結局自分だからな。
+MID_SOTHE_FRIEND: $Nfから\n伝言を伝えにきたぞ。\n…クソ、なんだって俺がこんなこと。
+MID_SOTHE_LEVEL1: いい感じだな。\nこれで足を引っ張るってこともないだろう。
+MID_SOTHE_LEVEL2: まぁ、こんなものだろう。\n次はもう少し上手くやるさ。
+MID_SOTHE_LEVEL3: くそっ、やっぱり俺じゃ駄目なのか。\nもっと力が欲しいのに！
+MID_SOTHE_SKILL: ん？　何か覚えたみたいだな。\n使える技だといいけどな。
+MID_SOTHE_JOIN: 俺はサザ。伝承の中の勇者のように\n特別な力や才能があるわけじゃないが、\n大切な者を守るために、あんたに力を貸す。
+MID_SOTHE_STRONGEST: ん？　俺とミカヤがあまり似ていないって？\nそりゃそうだろう。\n俺たちに血の繋がりはないからな。$k$p子供の頃、独りになって泣いている\n俺の手を取って、ミカヤは見返りも求めず\n俺を抱きしめてくれた。$k$pその時から、俺たちは家族になった。\n何があろうともお互いを支え裏切らない\n血よりも濃い絆で結ばれた家族に。$k$p…対価を求めずに、アルフォンスたちと\n戦っているあんたの姿が、なんだか一瞬\nミカヤとだぶって見えた…$k$p家族、といえるほど\nまだ信用はできないが…$k$p民のために戦うあんたは\nきっと信じるに足る奴だと、\n今ではそう思ってる。
+MID_SOTHE_VOICE01: はっ！
+MID_SOTHE_VOICE02: 止まれ
+MID_SOTHE_VOICE03: うああっ！
+MID_SOTHE_VOICE04: しくじった…
+MID_SOTHE_VOICE05: 覚悟は決めている
+MID_SOTHE_VOICE06: 退けない理由がある
+MID_SOTHE_VOICE07: 生き残るためだ
+MID_SOTHE_VOICE08: あんたを倒す
+MID_SOTHE_VOICE09: 俺に…力があれば…
+MID_SOTHE_VOICE10: ふっ
+MID_SOTHE_VOICE11: 暁の団の、サザだ。
+MID_SOTHE_VOICE12: なっ！？　…あんたのすることは訳が分からないな。
+MID_SOTHE_VOICE13: ミカヤは俺が守る。相手がたとえアイク団長でも…
+MID_SOTHE_VOICE14: 揺るぎない想いを持っていれば…きっと叶う
+MID_SOTHE_VOICE15: 俺に特別な力はない。あるのは想いだけだ。
+MID_SOTHE_VOICE16: あの人は…アイク団長は、俺の恩人で、目標なんだ。
+MID_SOTHE_VOICE17: いつも傍にいてくれ。俺が全力で護るから…
+MID_SOTHE_VOICE18: わかった
+MID_SOTHE_VOICE19: どうする？
+MID_SOTHE_VOICE20: 警戒しないとな

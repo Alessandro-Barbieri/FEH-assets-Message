@@ -1,0 +1,38 @@
+[Heroes Archive] (JEROME)
+
+
+Heroes Message Name: Message
+
+
+MID_JEROME_HOME1: 私の両親はもういない…\n母が戦いに出たあの日、帰ってきたのは\n傷だらけのミネルヴァだけだった…
+MID_JEROME_HOME2: 私はミネルヴァを放すつもりで来た。\n別の世界になど干渉したくなかったのに\nなぜ貴様らに助力など…
+MID_JEROME_HOME3: いつもご苦労だな。\n貴様も別の世界の者なのだろう。\nなのになぜ、そうまでして戦う？
+MID_JEROME_HOME4: 貴様は召喚師なのだったな。\nでは、死んだ両親を呼び出すことなど…\n…いや、今のはただの戯言だ。
+MID_JEROME_HOME5: マントを繕っていたところだ。\n少し、ほつれてしまっていたからな。\n…裁縫は似合わないとでも言いたいのか？
+MID_JEROME_FRIEND: 貴様が$Nuか。\n$Nfから挨拶だ。\nこうして馴れ合って楽しいのか…？
+MID_JEROME_LEVEL1: ミネルヴァ、\nお前も喜んでくれるのか？
+MID_JEROME_LEVEL2: まずまずの成長だな。
+MID_JEROME_LEVEL3: …あまり変わらなかったか。
+MID_JEROME_SKILL: そんな貴重なもの…\n私よりも、他の奴に使え。
+MID_JEROME_JOIN: ジェロームだ。\n一応、セルジュの息子ということになるが…\n私は貴様らと関わるつもりはない。
+MID_JEROME_STRONGEST: …また来たのか。\n馴れ合う気はないと言っているのに、\n物好きな奴もいたものだな。$k$pおかげでミネルヴァが\nすっかり貴様に懐いてしまった。\n私としては正直不本意なのだが…$k$p他ならぬミネルヴァが認めるというのなら\n貴様のことを邪険にはできん。\n$Nu…$k$p私は異世界に干渉する気はない。\nアスク王国が滅びの道を辿るのであれば\nそれもまた、運命だ。$k$pしかし…貴様が心から守りたいと願うのなら\n俺とミネルヴァはその思いに応えよう。\n失う辛さは、痛いほど知っている。
+MID_JEROME_VOICE01: せいっ！
+MID_JEROME_VOICE02: はあっ！
+MID_JEROME_VOICE03: ぐうっ…！
+MID_JEROME_VOICE04: しくじったか…
+MID_JEROME_VOICE05: 楽にしてやろう
+MID_JEROME_VOICE06: 別れの時間だ
+MID_JEROME_VOICE07: くだらんな…
+MID_JEROME_VOICE08: 行くぞ、ミネルヴァ
+MID_JEROME_VOICE09: これも、運命だ…
+MID_JEROME_VOICE10: ふん…
+MID_JEROME_VOICE11: 貴様らと馴れ合うつもりはない
+MID_JEROME_VOICE12: なぜこんな場所に来てしまったんだ…
+MID_JEROME_VOICE13: 私の竜は愛らしいだろう
+MID_JEROME_VOICE14: 仮面の予備は沢山ある…割っても無駄だぞ
+MID_JEROME_VOICE15: 変えられぬ運命というものを、私はいくつも目にしてきた
+MID_JEROME_VOICE16: 両親には、生きていてほしかった…
+MID_JEROME_VOICE17: 何だ？　私は今からミネルヴァちゃんの世話に…\nい、いや、なんでもない。今のは忘れろ。
+MID_JEROME_VOICE18: ああ
+MID_JEROME_VOICE19: 仕方ない
+MID_JEROME_VOICE20: ミネルヴァ

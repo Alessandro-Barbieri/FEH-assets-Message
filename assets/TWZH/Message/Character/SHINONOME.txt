@@ -1,0 +1,38 @@
+[Heroes Archive] (SHINONOME)
+
+
+Heroes Message Name: Message
+
+
+MID_SHINONOME_HOME1: 召喚師好酷喔！\n要是我也有那種力量，\n我就要不停叫出厲害的英雄來一較高下！
+MID_SHINONOME_HOME2: 別看我這樣，其實我是白夜王子。只是……\n當我還在祕境時，我並不知道這件事。\n對於將來會當國王這件事，我完全沒頭緒。
+MID_SHINONOME_HOME3: 人一忙就會沒體力。\n我去河裡幫你抓條魚來吧？\n火烤整尾鮮魚，吃了就會有力氣喔！
+MID_SHINONOME_HOME4: 要不要跟我比力氣啊？\n我知道你無法戰鬥，\n但比個腕力總沒問題吧！？
+MID_SHINONOME_HOME5: 喔，$Nu！\n我剛剛正在訓練。\n我的槍術還蠻有看頭的吧？
+MID_SHINONOME_FRIEND: 打擾囉～！\n$Nf要我向你致意啦！\n我可是一路全力跑過來的喔！
+MID_SHINONOME_LEVEL1: 這就是我\n夢寐以求的力量嗎……！？
+MID_SHINONOME_LEVEL2: 很好！\n順利變強囉。
+MID_SHINONOME_LEVEL3: 是我鍛鍊不足嗎？\n真是太丟臉了……！
+MID_SHINONOME_SKILL: 內在的強化也很重要……\n是這個意思吧？
+MID_SHINONOME_JOIN: 幸會，我是東雲！\n我爸爸名叫龍馬，你認識他嗎？\n我會在這裡變得比我爸更強喔！
+MID_SHINONOME_STRONGEST: 喔！你今天有空啊？\n那我們來聊聊吧！\n其實我從以前就一直在想……$k$p$Nu你啊，\n應該是特務機關裡面最強的人吧？\n你又能召喚英雄，還擅長指揮作戰！$k$p我來到這裡之後才明白，\n不是只有揮舞武器才算是強大。\n像你這種形式的強大，我也很崇拜喔。$k$p至於無法戰鬥這點，我會幫你搞定！\n只要你喊一聲，不管多遠我都會趕過來\n替你撂倒敵人的，你放心吧！$k$p聽好了！你是我的心靈導師。\n在我超越你的強大之前……\n就讓我像這樣待在你身旁戰鬥吧。
+MID_SHINONOME_VOICE01: 喝！
+MID_SHINONOME_VOICE02: 哼！
+MID_SHINONOME_VOICE03: 嗚哇！
+MID_SHINONOME_VOICE04: 厲害……！
+MID_SHINONOME_VOICE05: 沒有遺憾了吧？
+MID_SHINONOME_VOICE06: 奧義！
+MID_SHINONOME_VOICE07: 我才不會放棄！
+MID_SHINONOME_VOICE08: 我才不認輸！
+MID_SHINONOME_VOICE09: 爸爸，對不起……
+MID_SHINONOME_VOICE10: 哈哈！
+MID_SHINONOME_VOICE11: 待在特務機關好像就會變強耶。
+MID_SHINONOME_VOICE12: 身體要是生鏽了，就跟我一起跑起來吧。
+MID_SHINONOME_VOICE13: 槍比刀更強！這樣一來，我就連我爸爸都打得贏了吧？
+MID_SHINONOME_VOICE14: 可以的話，我來幫忙你工作吧。任何事情都可以算是訓練。
+MID_SHINONOME_VOICE15: 我想試試我的能耐，有英雄可以陪我過招嗎？
+MID_SHINONOME_VOICE16: 總有一天，我一定會繼承我爸的雷神刀……
+MID_SHINONOME_VOICE17: 我喜歡跟厲害的傢伙對戰。不過，我不會再一個人亂來了。\n我想跟你……還有跟大夥一起戰鬥。
+MID_SHINONOME_VOICE18: 喔！
+MID_SHINONOME_VOICE19: 我是東雲！
+MID_SHINONOME_VOICE20: 戰鬥吧～！

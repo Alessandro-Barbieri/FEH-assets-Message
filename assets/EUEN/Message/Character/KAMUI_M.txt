@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_HOME1: What path will this realm follow?\nIt's not my place to make any pivotal\ndecisions. You must help them.
+MID_KAMUI_M_HOME2: I once had to make a hard decision:\nto side with the kingdom of my\nbirth or with the one that raised me.
+MID_KAMUI_M_HOME3: It reassures me to see you do\npatrols. I used to do the same at\nmy castle. Brings back memories!
+MID_KAMUI_M_HOME4: I wish I could show you my castle.\nThere's so much to do there. It's even\ngot a tree house—where I sleep!
+MID_KAMUI_M_HOME5: I was just thinking about my siblings.\nI've got quite a few. Do you have\nany brothers or sisters?
+MID_KAMUI_M_FRIEND: I've come with greetings from\n$Nf.$k$pVery nice castle you have here!
+MID_KAMUI_M_LEVEL1: I've become so strong thanks\nto everyone's help.
+MID_KAMUI_M_LEVEL2: Good. I'll be able to help more\nfolks now.
+MID_KAMUI_M_LEVEL3: It seems I didn't get much stronger...
+MID_KAMUI_M_SKILL: Let's see what I can do now!
+MID_KAMUI_M_JOIN: I'm Corrin—raised in Nohr but born in\nHoshido. I devote my Yato blade to\nyour cause, and my dragon power!
+MID_KAMUI_M_STRONGEST: It's good to see you. We've spent\nso much time together, I'm uneasy\nwhen you're not around.$k$pI'd like to just keep you where I\ncan see you, but people would\ncall me overprotective. Heh.$k$pI've felt...overprotected my whole\nlife, so it's a strange feeling to\nwant to do it myself.$k$pYou are obviously essential to the\nrealm's defense, so it's natural to\nprotect you, I suppose.$k$pI guess I'm saying we've got your\nback, so don't worry about what\npath to choose. Just keep going.
+MID_KAMUI_M_VOICE01: はっ！
+MID_KAMUI_M_VOICE02: でやっ！
+MID_KAMUI_M_VOICE03: うああっ
+MID_KAMUI_M_VOICE04: No...
+MID_KAMUI_M_VOICE05: We won't give up!
+MID_KAMUI_M_VOICE06: I've made my choice!
+MID_KAMUI_M_VOICE07: I choose...to stop you!
+MID_KAMUI_M_VOICE08: My path is certain!
+MID_KAMUI_M_VOICE09: This can't be...
+MID_KAMUI_M_VOICE10: Heehee
+MID_KAMUI_M_VOICE11: Thank you very much for looking out for everyone.
+MID_KAMUI_M_VOICE12: Between friends, even the smallest gestures can mean so much.
+MID_KAMUI_M_VOICE13: I have so many siblings. I'm very fortunate.
+MID_KAMUI_M_VOICE14: Ever made a choice that, either way, meant losing something you loved?
+MID_KAMUI_M_VOICE15: I grew up in a fortress, where I was...never allowed outside.
+MID_KAMUI_M_VOICE16: I'm certain that you've chosen the path of peace.
+MID_KAMUI_M_VOICE17: You can lean on me if you're weary. My brothers may be bigger, but I can shoulder more than my share.
+MID_KAMUI_M_VOICE18: All right.
+MID_KAMUI_M_VOICE19: Let's go.
+MID_KAMUI_M_VOICE20: Of course.

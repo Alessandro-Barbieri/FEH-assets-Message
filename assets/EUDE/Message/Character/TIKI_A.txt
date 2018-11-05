@@ -1,0 +1,38 @@
+[Heroes Archive] (TIKI_A)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_A_HOME1: Sooo müde... Dieser Ort hat etwas\nan sich, das mich entspannt. Erinnert\nmich an das Gelände der Wyrmgöttin.
+MID_TIKI_A_HOME2: In drei Jahrtausenden habe ich viele\nkommen und gehen sehen. Aber dich\nwerde ich bestimmt nie vergessen.
+MID_TIKI_A_HOME3: Danke, dass du mich hierhergerufen\nhast. Hier kann ich mit vielen alten\nBekannten wiedervereint sein...$k$pUnter anderem auch mit meinem\ngeliebten Mar-Mar!
+MID_TIKI_A_HOME4: Wir sollten uns einmal in Ruhe unter-\nhalten. Du wirkst so anders als die\nanderen Bewohner dieser Welt.$k$pUnd du wirkst auch anders als die\nHelden.
+MID_TIKI_A_HOME5: Ich mag es, hier herumzulaufen und\nmir alles anzusehen. Du auch,\n$Nu?$k$pNeue Welten sind immer spannend,\negal, wie alt ich werde.
+MID_TIKI_A_FRIEND: Ich überbringe dir Grüße von\n$Nf. Vergiss\nnie den Wert starker Freundschaften.
+MID_TIKI_A_LEVEL1: Ich schwöre, diese Welt zu\nschützen, die ich mit Helden teile!
+MID_TIKI_A_LEVEL2: Ich habe das Kämpfen\nirgendwie vermisst.
+MID_TIKI_A_LEVEL3: Die 3000 Jahre machen\nsich wohl bemerkbar.
+MID_TIKI_A_SKILL: Du gabst mir neue Kräfte. Ich\nwerde sie an deiner Seite nutzen!
+MID_TIKI_A_JOIN: Ich bin Tiki. Als Mitglied des Stamms\nder Wyrmgötter kann ich mich in\neinen Drachen verwandeln.$k$pManche nennen mich auch\n"die Stimme der Wyrmgöttin".
+MID_TIKI_A_STRONGEST: Sag mir... Fürchtest du den Tag,\nan dem du diese Welt verlässt,\noder sehnst du ihn herbei?$k$pIch denke ständig an den traurigen\nTag, an dem ich von meinen neuen\nFreunden Abschied nehmen muss.$k$pAn den Abschied von dir zu denken,\nist besonders schmerzhaft. Das zeigt\nwohl, wie nah wir beide uns stehen.$k$pAber das alles sind Sorgen, an die wir\njetzt noch nicht denken müssen. Ge-\nnießen wir lieber das köstliche Jetzt.$k$pWir haben noch viel Zeit zusammen\nvor uns, und ich will jeden Moment\ndavon genießen.$k$pEines Tages, wenn ich auf diese Zeit\nzurücksehe, wirst du in meiner\nErinnerung sternenhell erstrahlen.
+MID_TIKI_A_VOICE01: はっ！
+MID_TIKI_A_VOICE02: でぇい！
+MID_TIKI_A_VOICE03: ううっ…！
+MID_TIKI_A_VOICE04: Must focus...
+MID_TIKI_A_VOICE05: Keinen Schritt näher!
+MID_TIKI_A_VOICE06: Das wird jetzt unangenehm.
+MID_TIKI_A_VOICE07: Träum süß.
+MID_TIKI_A_VOICE08: Odem des göttlichen Drachen!
+MID_TIKI_A_VOICE09: I sleep...
+MID_TIKI_A_VOICE10: Heehee
+MID_TIKI_A_VOICE11: Mmm...sleepy...
+MID_TIKI_A_VOICE12: Thank you for summoning me. It's nice to be needed.
+MID_TIKI_A_VOICE13: Power such as ours can be used for good or ill.
+MID_TIKI_A_VOICE14: Looking at the stars always leaves me a bit lonely...
+MID_TIKI_A_VOICE15: I wonder if Mar-Mar is here as well...
+MID_TIKI_A_VOICE16: From "Voice" to "Hero..." I have worn many guises.
+MID_TIKI_A_VOICE17: One day we will be parted, but I am glad to have met you.
+MID_TIKI_A_VOICE18: Yes.
+MID_TIKI_A_VOICE19: Of course.
+MID_TIKI_A_VOICE20: Guide me.

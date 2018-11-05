@@ -1,0 +1,38 @@
+[Heroes Archive] (REBACCA)
+
+
+Heroes Message Name: Message
+
+
+MID_REBACCA_HOME1: Ce château est gigantesque !\nMême mon village n'est pas\naussi grand que ça !
+MID_REBACCA_HOME2: J'étais plutôt bonne chasseuse au\nvillage. Ça a bien aidé les années où\nles récoltes étaient trop mauvaises.
+MID_REBACCA_HOME3: Merci de prendre de mes nouvelles !\nÇa va, mais ça irait encore mieux si\non allait faire un tour dehors !
+MID_REBACCA_HOME4: Votre arme, là, elle peut servir à\nchasser l'oie ? Si oui, il faudra\nqu'on aille chasser ensemble !
+MID_REBACCA_HOME5: Hmm ? Oh, je retendais simplement la\ncorde de mon arc. Un bon soldat doit\nsavoir entretenir son arme !
+MID_REBACCA_FRIEND: Salut, moi c'est Rebecca !\n$Nf vous\npasse le bonjour !
+MID_REBACCA_LEVEL1: Ouah ! Je ne savais pas que j'avais\nça en moi !
+MID_REBACCA_LEVEL2: Moi et mon arc, on ira loin !
+MID_REBACCA_LEVEL3: Hmm... Je crois que quelque chose\ncloche avec la corde de mon arc.
+MID_REBACCA_SKILL: Merci ! Je vais devenir encore\nmeilleure grâce à ça !
+MID_REBACCA_JOIN: Je m'appelle Rebecca. Je chasse tous\nles jours et j'excelle au tir à l'arc.
+MID_REBACCA_STRONGEST: Vous ne pouvez pas savoir comme je\nsuis contente d'être ici, tout le monde\ns'entend si bien !$k$pEt puis on n'a pas le temps de\ns'ennuyer, ce que j'apprécie car...\nje n'aime pas me sentir oubliée.$k$pIl y a des années, mon frère a quitté\nnotre village pour ne jamais revenir.$k$pJ'ai pourtant attendu son retour durant\ndes jours, des mois, des années\nmême ! Mais rien n'y a fait...$k$pOh, pardon ! Je ne voulais pas briser\nl'ambiance ! Vous avez mieux à faire\nque de m'écouter pleurnicher.$k$pEt puis, tout ça c'est du passé.\nJe vous ai vous, maintenant, ainsi que\ntout le monde au château.$k$pSimplement, promettez-moi de ne pas\ndisparaître du jour au lendemain.\nD'accord ?
+MID_REBACCA_VOICE01: えいっ！
+MID_REBACCA_VOICE02: それっ！
+MID_REBACCA_VOICE03: きゃああっ！
+MID_REBACCA_VOICE04: N-nooo!
+MID_REBACCA_VOICE05: On inspire, et...
+MID_REBACCA_VOICE06: Respire, Rebecca...
+MID_REBACCA_VOICE07: Concentre-toi !
+MID_REBACCA_VOICE08: Prends ça !
+MID_REBACCA_VOICE09: Forgive me...
+MID_REBACCA_VOICE10: Heehee
+MID_REBACCA_VOICE11: You need me for anything, just holler and I'll come running.
+MID_REBACCA_VOICE12: Oh! Didn't mean to be jumpy. You startled me.
+MID_REBACCA_VOICE13: I make a real fine lunch, don't you know it!
+MID_REBACCA_VOICE14: Fresh fruit. Roast fowl. Nothing better.
+MID_REBACCA_VOICE15: Check my bow...? And the string...? Yep, all in good shape!
+MID_REBACCA_VOICE16: I'm pretty good with a bow. Or that's what they say.
+MID_REBACCA_VOICE17: Is there anything you like to eat in particular?
+MID_REBACCA_VOICE18: Mm-hmm?
+MID_REBACCA_VOICE19: Where to?
+MID_REBACCA_VOICE20: Let's go!

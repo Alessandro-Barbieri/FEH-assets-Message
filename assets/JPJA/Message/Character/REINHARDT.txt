@@ -1,0 +1,38 @@
+[Heroes Archive] (REINHARDT)
+
+
+Heroes Message Name: Message
+
+
+MID_REINHARDT_HOME1: アルフォンス王子とシャロン王女は\n仲の良いご兄妹ですね。\n私も懐かしい気持ちになります。
+MID_REINHARDT_HOME2: 私は長年の間、\nイシュタル王女の守り役を務めていました。\nあの方をお守りすることが私の使命です。
+MID_REINHARDT_HOME3: お体どうかご自愛ください。\nこの軍は、あなたの優れた策がなくては\n機能しないことは明らかです。
+MID_REINHARDT_HOME4: オルエン…\nいつの間にか、\nお前は大人になっていたようだ。
+MID_REINHARDT_HOME5: 元の世界で、軍神と称えられた\n天才軍師を一人知っていますが…\nあなたの常勝の指揮は、彼を思い出します。
+MID_REINHARDT_FRIEND: 突然の来訪、どうかお許しいただきたい。\n私はラインハルト、\nこちらへ友好の挨拶に伺った。
+MID_REINHARDT_LEVEL1: 期待以上の成果といえます。\nさらに気を引き締めねば。
+MID_REINHARDT_LEVEL2: この成長は、さらなる\n高みへの糧となるでしょう。
+MID_REINHARDT_LEVEL3: 失礼しました…\n心に迷いがあるようです。
+MID_REINHARDT_SKILL: 大変光栄です。\nこの御礼は戦場の戦果にて。
+MID_REINHARDT_JOIN: 私はフリージの騎士ラインハルト。\nご命令とあらば、我が雷の魔道で\n敵を撃ち滅ぼしましょう。
+MID_REINHARDT_STRONGEST: 幼い頃…\n私の妹のオルエンは、\nいつも私の後ろをついてきていました。$k$p私はそんな妹を助け導くこと…\n妹のために手を尽くすことが、\n兄としてあるべき姿だと思っていました。$k$pしかし、それは\n相手を思いやる優しさのようでいて…\nその実、相手のためにはなっていなかった。$k$p私が導くのではなく…\nお互いに尊敬し、高め合う存在、\nそれこそが理想といえるのでしょう。$k$pそれはあなたから教わったことです。\n私は妹とも、そしてあなたとも…\nそのような関係でありたいと思っています。
+MID_REINHARDT_VOICE01: はっ！
+MID_REINHARDT_VOICE02: せいっ！
+MID_REINHARDT_VOICE03: うああっ！
+MID_REINHARDT_VOICE04: 強い…
+MID_REINHARDT_VOICE05: これも運命か…
+MID_REINHARDT_VOICE06: 全霊をもって！
+MID_REINHARDT_VOICE07: 退いていただこう
+MID_REINHARDT_VOICE08: 魔道のすべてを―
+MID_REINHARDT_VOICE09: これまでか…
+MID_REINHARDT_VOICE10: ふっ
+MID_REINHARDT_VOICE11: 御命令でしょうか？
+MID_REINHARDT_VOICE12: ！？　…ご冗談はおやめください
+MID_REINHARDT_VOICE13: あなたは類まれな戦（いくさ）の才を持っておられる
+MID_REINHARDT_VOICE14: 私の知る天才軍師サイアス…果たしてあなたとどちらが上か…
+MID_REINHARDT_VOICE15: あなたにご兄弟は？　私は、オルエンという妹が。
+MID_REINHARDT_VOICE16: 妹には、私とは違う生き方がある…
+MID_REINHARDT_VOICE17: たとえどのような道でも…私はあなたと共に参りましょう
+MID_REINHARDT_VOICE18: わかりました
+MID_REINHARDT_VOICE19: 御命令ください
+MID_REINHARDT_VOICE20: 参りましょう

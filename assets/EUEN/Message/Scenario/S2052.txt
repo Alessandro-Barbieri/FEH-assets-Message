@@ -1,0 +1,9 @@
+[Heroes Archive] (S2052)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|How did they find us so quickly!?\nEveryone, prepare for battle!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_アンナ,ch00_03_Anna_F_Normal,Face_Pain|They're circling around us...$k$pWe've got to get out of here before\nreinforcements arrive. Order of\nHeroes, move out!$k$p$Sbs150|

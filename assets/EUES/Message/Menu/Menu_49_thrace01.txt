@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MID_FRIEND_RECOMMEND_FRIEND: Amigos sugeridos
+MID_FRIEND_NUM: $aAmigos: $a0/$a1
+MID_FRIEND_HELP_FRIEND: $aAyudas a amigos: $a0
+MID_ITEM_OCCUPATION_POTION: Lanza de conquista
+MID_ITEM_HELP_OCCUPATION_POTION: Otorga 8 puntos de energía\nde las grandes conquistas.
+MID_OCCUPATION_DIALOG_END_OF_ROUND: $aEl resultado no cuenta porque\n$a0 ya ha finalizado.
+MID_OCCUPATION_GAINED_REWARDTYPE_GRADE: $aPremios por rango de GC: $a0
+MID_OCCUPATION_GAINED_REWARDTYPE_AREA: $aRecompensa por conquista: Batalla $a0
+MID_OCCUPATION_AREA: $aZona $a0
+MID_OCCUPATION_TITLE: Grandes conquistas
+MID_OCCUPATION_CLOSED: No hay batallas en curso.
+MID_OCCUPATION_AGGREGATING: Calculando...
+MID_OCCUPATION_GROUPING_DELAYING: Los cálculos se están retrasando.\nEspera a que finalicen.\nAgradecemos tu paciencia.
+MID_OCCUPATION_REGISTRATION: Registro
+MID_OCCUPATION_REGISTER: ¡Únete a la lucha!
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_1: Registro completado
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2: Tu registro se está procesando.
+MID_OCCUPATION_REGISTRATION_PLEASE_WAIT_2_PRE_REGISTER: $aEspera a que empiece la batalla $a0.
+MID_OCCUPATION_REGISTRATION_INTERVAL: $aSe puede comprobar tras empezar la batalla $a0.
+MID_OCCUPATION_REGISTRATION_TERM_EXPIRED: El evento ha finalizado.
+MID_OCCUPATION_ROUND_RESULT: $aLa batalla $a0 ha terminado.
+MID_OCCUPATION_TERM_RESULT: El evento ha finalizado.
+MID_OCCUPATION_ROUND_LEFT_DAY: $aFin de la batalla $a0: $a1 d
+MID_OCCUPATION_ROUND_LEFT_HOUR: $aFin de la batalla $a0: $a1 h
+MID_OCCUPATION_ROUND_LEFT_MINUTE: $aFin de la batalla $a0: $a1 min
+MID_OCCUPATION_INTERVAL_LEFT_DAY: $aInicio de la batalla $a0: $a1 d
+MID_OCCUPATION_INTERVAL_LEFT_HOUR: $aInicio de la batalla $a0: $a1 h
+MID_OCCUPATION_INTERVAL_LEFT_MINUTE: $aInicio de la batalla $a0: $a1 min
+MID_OCCUPATION_WORLDMAP_HELP: ¡Elige una zona y lucha!
+MID_OCCUPATION_REINFORCEMENT_REWARD_DESCRIPTION: $a¡Has ayudado en la $a0!\nSeguidores del $a1: + 1\n(Puedes ayudar una vez por ronda.)
+MID_OCCUPATION_GRADE: $aRango de GC $a0
+MID_OCCUPATION_GRADE_POINT_MAX: Máx.
+MID_OCCUPATION_GRADE_HELP: $a$a0 % más de puntos en las zonas colindantes
+MID_OCCUPATION_ROUND: $aBatalla $a0
+MID_OCCUPATION_GRUOP_ID: $aMundo $a0
+MID_OCCUPATION_OPERATION: $aFase $a0/$a1
+MID_OCCUPATION_OPERATION_LEFT_MINUTES: $aMin restantes: $a0
+MID_OCCUPATION_STAMINA: Energía
+MID_OCCUPATION_STAMINA_RECOVER_FULL: La energía se ha recuperado del todo.
+MID_OCCUPATION_STAMINA_RECOVER_INSUFFICIENT: No tienes suficiente energía.\n¿Quieres restaurar 8 de energía\nusando una lanza de conquista?
+MID_OCCUPATION_STAMINA_RECOVER_CONFIRM: ¿Quieres restaurar 8 de energía\nusando 1 lanza de conquista?
+MID_OCCUPATION_STAMINA_RECOVER: Restaurar energía
+MID_OCCUPATION_STAMINA_RECOVER_DONE: Has usado 1 lanza de conquista\npara restaurar tu energía.
+MID_OCCUPATION_AREA_COUNT: Zonas tomadas
+MID_OCCUPATION_REINFORCE: Ayudar
+MID_OCCUPATION_REWARD: Ver premios
+MID_OCCUPATION_REWARD_SORT: $aTipo de premio: $a0
+MID_OCCUPATION_REWARD_SORT_DIALOG: Tipo de premio
+MID_OCCUPATION_REWARD_SORT_GRADE: Rango de GC
+MID_OCCUPATION_REWARD_SORT_AREA: Zonas
+MID_OCCUPATION_AREA_NAME: $aZona $a0
+MID_OCCUPATION_GUILD_NAME_0: Ejército de Alfonse
+MID_OCCUPATION_GUILD_NAME_1: Ejército de Sharena
+MID_OCCUPATION_GUILD_NAME_2: Ejército de Anna
+MID_OCCUPATION_AREA_TOP_USER: $aAs: $a0 ($a1)
+MID_OCCUPATION_AREA_SITUATION: Situación actual
+MID_OCCUPATION_AREA_ALLY_RANKING: Actividad aliada
+MID_OCCUPATION_AREA_ALLY_RANKING_NONE: $a$a0 no ha luchado aquí.
+MID_OCCUPATION_AREA_ALLY_RANKING_PLAYER: Tú
+MID_OCCUPATION_AREA_EFFECT: Efectos de zona
+MID_OCCUPATION_AREA_EFFECT_NONE: No hay efectos activos.
+MID_OCCUPATION_AREA_EFFECT_FIXED: Efecto especial de esta zona
+MID_OCCUPATION_AREA_EFFECT_IN: Efecto de zonas colindantes
+MID_OCCUPATION_AREA_EFFECT_OUT: Efecto en zonas colindantes
+MID_OCCUPATION_POWER_RATE: $aBonus: x $a0
+MID_OCCUPATION_POWER_RATE_DIALOG: $a(Bonus: x $a0)
+MID_OCCUPATION_DIALIG_REFRESH: La situación ha cambiado.\nEl mapa cambiará para reflejar\nel estado actual.
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT: $a$a0 tropas
+MID_OCCUPATION_AREA_SITUATION_PLAYER_COUNT_ONE: $a$a0 tropa
+MID_OCCUPATION_AREA_SITUATION_MAIN_AREA: No puedes librar batallas\nen la base de un ejército.
+MID_OCCUPATION_AREA_SITUATION_CANNOT_BATTLE: No disponible
+MID_OCCUPATION_AREA_SITUATION_OWNER_GUILD: Control:
+MID_OCCUPATION_AREA_SITUATION_KNOCKOUT: $aRepelido: ¡$a0!\nZona sin luchas hasta la sig. fase.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_PLAYER: Esta zona no limita con territorio\nenemigo. No puedes luchar aquí.
+MID_OCCUPATION_AREA_SITUATION_OCCUPIED_ENEMY: Esta zona no limita con territorio\naliado. No puedes luchar aquí.
+MID_OCCUPATION_RESULT_FAILED: Defensa fallida
+MID_OCCUPATION_RESULT_DEFEND: Defensa exitosa
+MID_OCCUPATION_RESULT_DOMINATE_NORMAL: Zona tomada
+MID_OCCUPATION_RESULT_DOMINATE_MAIN: Fuerte enemigo tomado
+MID_OCCUPATION_RESULT_DOMINATION_NUM: Camp. tomados:
+MID_OCCUPATION_RESULT_DOMINATION_NUM_COUNT: $a$a0/$a1
+MID_OCCUPATION_HELP_DIALOG_00: 3 ejércitos y un territorio en disputa
+MID_OCCUPATION_HELP_DIALOG_01: -Grandes conquistas-\nEn este modo, tres ejércitos\nse disputan el control\nde un continente.\n\nAl final de una batalla, los\nejércitos ganan recompensas.\nCuantas más zonas se controlen,\nmás recompensas se ganan.
+MID_OCCUPATION_HELP_DIALOG_02: -Cómo participar-\nEscoge una zona que limite con\nel territorio enemigo para luchar\ny ganar puntos.\nLibrar batallas consume energía\nespecial de este modo.\nUsa los bonus para consumir\nmás energía y ganar más puntos.
+MID_OCCUPATION_HELP_DIALOG_03: -Efectos de puntuación-\nAl luchar, ganarás puntos.\nEstos se asignarán a la\npuntuación total de tu ejército\nen la zona seleccionada.
+MID_OCCUPATION_HELP_DIALOG_04: -Control de zonas-\n・ El ejército que controle una\nzona al inicio de una fase\nconseguirá puntos.\n・ El ejército con más puntos\nal final de una fase se hará\ncon el control de esa zona.
+MID_OCCUPATION_HELP_DIALOG_05: -Puntos por cooperación-\nEn cada fase se sumarán puntos\nextras a la puntuación total\nganada en una zona en función\ndel número de aliados que hayan\nluchado allí en esa fase.
+MID_OCCUPATION_HELP_DIALOG_06: -Ayudas-\n・ Puedes ayudar una vez\npor fase.\n・ Ofrecer ayuda aumenta en 1\nel número de aliados que luchan\nen una zona seleccionada al\nazar, lo que contribuye a la\nbonificación por cooperación.\nTambién podrás ganar un objeto\nde manera aleatoria.
+MID_OCCUPATION_HELP_DIALOG_07: -Repeler ejércitos-\n・ Se puede repeler a un ejército\ncuando se calcula el estado de la\nbatalla en medio de una fase. Si\nla diferencia entre el primer y el\nsegundo puesto supera cierto\nnivel, el ganador se hará con la\nzona al momento.\n・ En ese caso, no se podrá\nluchar allí hasta la siguiente fase.
+MID_OCCUPATION_HELP_DIALOG_08: -Rango de GC-\n・ Tu rango de GC aumentará\nen función de la puntuación\nganada en batallas.\n・ Cuando más alto sea, más\npuntos conseguirán las zonas\nadyacentes a la seleccionada.\n・ También podrás ganar otros\npremios en función del rango.
+MID_OCCUPATION_GRADE_PROMOTION: $aTu rango de GC ha aumentado\nde $a0 a $a1.
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE: Puntos por zonas colindantes
+MID_OCCUPATION_GRADE_PROMOTION_AREA_INFLUENCE_VALUE: $a+ $a0 %
+MID_SHOP_REMAINING_MINUTES: $a$a0 min hasta el fin de la oferta
+MID_SHOP_REMAINING_HOURS: $a$a0 h hasta el fin de la oferta
+MID_SHOP_REMAINING_DAYS: $a$a0 d hasta el fin de la oferta
+MID_TAP_BATTLE_TITLE_1: Batalla de toques
+MID_CONQUER_HELP_DIALOG_01_02: -Reglas de los dominios rivales-\n・ Si un bando se queda sin\nunidades, aparecerán más\ny la batalla continuará.\n・ La batalla terminará tras\n10 turnos o cuando se destruya\nel fuerte del otro bando.
+MID_CONQUER_HELP_DIALOG_06: -Más reglas de los dominios rivales-\n・ Los refuerzos no recibirán\nmejoras de efectos legendarios.\n・ No se ganará Exp ni PH.\n・ No mejorarán los apoyos\nde aliado ni de invocador.
+MID_VOTE_DIALOG_HELP_03_02: -Las batallas-\nTras una victoria, deberás\nesperar un periodo concreto\nde tiempo para volver a apoyar\na tu facción.

@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_HOME1: 大層な城だが…俺は\n引きこもってんのは性に合わねえ。\nとっとと出撃しようぜ！
+MID_HECTOR_HOME2: 俺の斧はアルマーズ…伝説の狂戦士の斧だ。\n一度こいつと話したことがあるんだが…\nあぶねー奴だったぜ。
+MID_HECTOR_HOME3: エリウッドは大事な親友だ。\nあいつとの手合わせは\n今のところ五分五分ってとこだな。
+MID_HECTOR_HOME4: よう！　暇だし、\nいっちょ手合わせしてみるか？\n心配すんな、手加減はしてやる！
+MID_HECTOR_HOME5: 重騎士は動かぬもの…\nなんて言われても、\n俺のガラじゃあねえな。
+MID_HECTOR_FRIEND: お前が$Nuだな。\n俺はヘクトル。$Nfの\n代理で挨拶に来たぜ。
+MID_HECTOR_LEVEL1: うおおっ…！\nこれが俺の真の力か！
+MID_HECTOR_LEVEL2: よし、いい感じだな。\nこの調子で行くぜ！
+MID_HECTOR_LEVEL3: ちっ…こんなことじゃ\nエリウッドに負けちまうぜ…
+MID_HECTOR_SKILL: オスティア侯弟ここにありと、\n見せつけてやるぜ！
+MID_HECTOR_JOIN: 俺はヘクトル。\nオスティア侯ウーゼルの弟だ。
+MID_HECTOR_STRONGEST: こんな事を言うのは\nどうにも気恥ずかしいんだが…\n俺はお前と出会うまで…$k$p俺が強けりゃ戦いはどうとでもなる、\n皆を守ってやれる…\nそんな風に考えてたのかもしれねーな。$k$pだがお前と死線を何度もくぐるうちに…\nうまく言えねえが、\n俺も変わってきた気がするぜ。$k$pああ、お前のおかげだ。\n恩に着る…\nこれからもよろしくな。$k$pお前の背中は俺が守るからな。\n俺の背中は任せたぜ。
+MID_HECTOR_VOICE01: おらっ！
+MID_HECTOR_VOICE02: おらぁっ！
+MID_HECTOR_VOICE03: うああっ！
+MID_HECTOR_VOICE04: やるじゃねえか…！
+MID_HECTOR_VOICE05: 俺は退かねえ！
+MID_HECTOR_VOICE06: いい度胸だ
+MID_HECTOR_VOICE07: 問答無用だ！
+MID_HECTOR_VOICE08: 行くぜ！
+MID_HECTOR_VOICE09: くそっ！　こんなところで…
+MID_HECTOR_VOICE10: ふっ
+MID_HECTOR_VOICE11: 俺に用ってか？
+MID_HECTOR_VOICE12: おわっ、なんだ？　やる気か！？
+MID_HECTOR_VOICE13: あんまり無理はすんじゃねえぞ
+MID_HECTOR_VOICE14: いっちょ俺と手合せしてみるか？
+MID_HECTOR_VOICE15: お前の力、俺に貸せ
+MID_HECTOR_VOICE16: …俺の死に場所は、戦場…か
+MID_HECTOR_VOICE17: なんかほっとけねえな、お前は
+MID_HECTOR_VOICE18: おう！
+MID_HECTOR_VOICE19: いっちょやるか！
+MID_HECTOR_VOICE20: 任せな！

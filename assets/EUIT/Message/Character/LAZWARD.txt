@@ -1,0 +1,38 @@
+[Heroes Archive] (LAZWARD)
+
+
+Heroes Message Name: Message
+
+
+MID_LAZWARD_HOME1: Pensi che farei colpo sulle ragazze se\ndiventassi uno dei Guardiani di Askr?\nIl bianco non è il mio colore, però.
+MID_LAZWARD_HOME2: Il mio signore è lord Xander.\nLo proteggerò a ogni costo.\nAnche se mi sgrida di continuo.
+MID_LAZWARD_HOME3: Sei qui per assicurarti che stiamo tutti\nbene? Grazie! Prendiamoci una tazza\ndi tè quando hai finito!
+MID_LAZWARD_HOME4: Dovremmo esplorare i dintorni insieme\nprima o poi. Di certo vi sono luoghi\nincantevoli che ancora non conosco.
+MID_LAZWARD_HOME5: Ah! Mi hai beccato! Stavo provando\ndei passi di danza, ma potrai vederli\nsolo quando sarò pronto.
+MID_LAZWARD_FRIEND: Posso disturbarti? Ci vorrà solo un\nattimo. $Nf\nti manda i suoi saluti.
+MID_LAZWARD_LEVEL1: Che impennata di potenza!\nÈ quasi imbarazzante.
+MID_LAZWARD_LEVEL2: Avanti così! Sarò\nl'idolo delle ragazze!
+MID_LAZWARD_LEVEL3: N-Non mi guardate!\nSo fare di meglio...
+MID_LAZWARD_SKILL: Mi hai reso più forte.\nE per questo ti ringrazio.
+MID_LAZWARD_JOIN: Sono Laslow, un mercenario del\nRegno di Nohr. Ti va una tazza di tè?\nÈ ottimo per rompere il ghiaccio.
+MID_LAZWARD_STRONGEST: Che coincidenza! Pensavo proprio a\nte, $Nu.$k$pC'è una cosa di cui volevo parlarti,\nma, per favore, tienila per te.$k$pQuesta non è la prima volta che\nvengo evocato da un mondo per\nandare in un altro.$k$pSono arrivato qui dal Nohr, ma non\nè quello il posto da cui provengo\nrealmente.$k$pEro stato evocato in quel regno da\nun altro mondo ancora e avevo\naspetto e nome diversi prima.$k$pMi premeva dirtelo perché non voglio\nche ci siano segreti, tra me e te,\namic$Go,a|.$k$pIl mio vero nome è Íñigo e combatterò\nper te sempre con il sorriso sulle\nlabbra. Hai la mia parola!$k$pChe ne diresti se ora ci andassimo a\nbere una bella tazza di tè?
+MID_LAZWARD_VOICE01: はっ！
+MID_LAZWARD_VOICE02: でぇい！
+MID_LAZWARD_VOICE03: うあっ！
+MID_LAZWARD_VOICE04: That hurts...
+MID_LAZWARD_VOICE05: Proprio dove ti volevo!
+MID_LAZWARD_VOICE06: Ti va di ballare?
+MID_LAZWARD_VOICE07: Alla prossima!
+MID_LAZWARD_VOICE08: Non farmi ridere.
+MID_LAZWARD_VOICE09: Sweet home—!
+MID_LAZWARD_VOICE10: Heehee
+MID_LAZWARD_VOICE11: I'm rather skilled as a dancer, you know.
+MID_LAZWARD_VOICE12: I have to admit, I shy from a steady gaze.
+MID_LAZWARD_VOICE13: I find that a smile brightens the darkest of days. Don't you?
+MID_LAZWARD_VOICE14: Join me in a laugh? It's the best medicine. Ha ha!
+MID_LAZWARD_VOICE15: The Order of Heroes has a fair share of exquisite creatures!
+MID_LAZWARD_VOICE16: Where is my Lord Xander? He gets so cross if he thinks I'm lazing about.
+MID_LAZWARD_VOICE17: How I enjoy our little tête-à-têtes. I hope to never leave your side.
+MID_LAZWARD_VOICE18: OK!
+MID_LAZWARD_VOICE19: Shall we?
+MID_LAZWARD_VOICE20: I'll do my best.

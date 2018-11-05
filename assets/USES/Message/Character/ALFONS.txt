@@ -1,0 +1,63 @@
+[Heroes Archive] (ALFONS)
+
+
+Heroes Message Name: Message
+
+
+MID_ALFONS_HOME1: No es aconsejable forjar amistades\ncon los héroes. Puede que tengan\nque separarles tarde o temprano...
+MID_ALFONS_HOME2: Se alzaron voces en contra cuando\ncomuniqué que me uniría a esta\ncausa, pero decidí desoírlas.$k$pEs posible que no me comporte como\ncorresponde a un príncipe, pero no\nsoporto que otros libren mis batallas.
+MID_ALFONS_HOME3: Si quieres que te acompañe cuando\nsalgas a patrullar, no tienes más que\ndecírmelo. Conmigo no te perderás.
+MID_ALFONS_HOME4: Deberíamos visitar la biblioteca;\nno hay mejor lugar para informarse\nsobre héroes de otros mundos.
+MID_ALFONS_HOME5: ¿Te gusta mi acero? Las piedras\ncon las que está engastada la\nempuñadura refulgen como llamas.
+MID_ALFONS_FRIEND: ¿Cómo? ¿Que ya conoces a\n$Nf?$k$pEntonces este debe de ser otro\nreino de Askr... ¿Me encontraré\naquí con mi propio doble?
+MID_ALFONS_LEVEL1: Todo esto es gracias a ti,\n$Nu.
+MID_ALFONS_LEVEL2: ¡Por fin tengo la fuerza necesaria!\n¡Ahora nadie podrá derrotarme!
+MID_ALFONS_LEVEL3: Quizá la suerte me acompañe\nen la próxima ocasión...
+MID_ALFONS_SKILL: Te lo agradezco profundamente,\n$Ginvocador,invocadora|...
+MID_ALFONS_STRONGEST: Confieso que no entraba en mis\nplanes trabar amistad contigo,\n$Ginvocador,invocadora|.$k$pPero te convertiste en el pilar\nsobre el que se sustentan todas\nnuestras victorias. Si tú faltaras...$k$pNo quiero ni pensarlo. Sería una\npérdida irreparable, y no sé si podría\nafrontar algo así.$k$pQuizá si mi posición fuera otra...\nComo príncipe de mi reino, sin\nembargo, debo mostrarme fuerte.$k$pSupongo que el decoro dictaba\nmantener las distancias, pero\ncontigo me resultó imposible.$k$pY me alegro. De no haberte aceptado,\nme habría perdido una amistad de\nlas que cambian una vida.$k$pMe pregunto cómo sería yo ahora\nsi no te hubiera conocido. Una\nversión peor de mí mismo, seguro.$k$pEn cualquier caso, prometo que te\nprotegeré y que jamás me alejaré de\ntu lado, $Nu.
+MID_ALFONS_VOICE01: せいっ
+MID_ALFONS_VOICE02: はあっ
+MID_ALFONS_VOICE03: くっ…！
+MID_ALFONS_VOICE04: Drat...
+MID_ALFONS_VOICE05: ¡Nuestra misión es crucial!
+MID_ALFONS_VOICE06: ¡Déjame pasar!
+MID_ALFONS_VOICE07: Mis disculpas...
+MID_ALFONS_VOICE08: ¡Yo abriré el camino!
+MID_ALFONS_VOICE09: I've lost...
+MID_ALFONS_VOICE10: Heehee
+MID_ALFONS_VOICE11: How about you and I have a little chat?
+MID_ALFONS_VOICE12: We are fortunate to have you with us. I can't imagine a better summoner.
+MID_ALFONS_VOICE13: My greatest wish is to see our realm at peace. And our people, happy again.
+MID_ALFONS_VOICE14: I find it best not to get too attached these days...especially to Heroes.
+MID_ALFONS_VOICE15: Promise you'll never leave us...without warning me first.
+MID_ALFONS_VOICE16: I am striving to be an excellent prince—and to master the use of Heroes.
+MID_ALFONS_VOICE17: I'm glad to have you here. But someday, I'd like to open the way to your world. We could go there together.
+MID_ALFONS_VOICE18: Yes?
+MID_ALFONS_VOICE19: As you will.
+MID_ALFONS_VOICE20: Shall we?
+MID_ALFONS_VOICE21: Fire Emblem
+MID_ALFONS_VOICE22: Shadow Dragon and the Blade of Light
+MID_ALFONS_VOICE23: Gaiden
+MID_ALFONS_VOICE24: Mystery of the Emblem
+MID_ALFONS_VOICE25: Genealogy of the Holy War
+MID_ALFONS_VOICE26: Thracia 776
+MID_ALFONS_VOICE27: The Binding Blade
+MID_ALFONS_VOICE28: The Blazing Blade
+MID_ALFONS_VOICE29: The Sacred Stones
+MID_ALFONS_VOICE30: Path of Radiance
+MID_ALFONS_VOICE31: Radiant Dawn
+MID_ALFONS_VOICE32: Shadow Dragon
+MID_ALFONS_VOICE33: New Mystery of the Emblem
+MID_ALFONS_VOICE34: Awakening
+MID_ALFONS_VOICE35: Fates
+MID_ALFONS_VOICE36: An event has started.
+MID_ALFONS_VOICE37: A big battle has started.
+MID_ALFONS_VOICE38: A strong foe has appeared.
+MID_ALFONS_VOICE39: New Heroes are available.
+MID_ALFONS_VOICE40: Just a moment, please.
+MID_ALFONS_VOICE41: Keep the weapon triangle in mind.
+MID_ALFONS_VOICE42: You can destroy some walls.
+MID_ALFONS_VOICE43: Fliers are weak to arrows.
+MID_ALFONS_VOICE44: To use a unit's Assist Skill, move the unit onto another one.
+MID_ALFONS_VOICE_BRAVE: Brave
+MID_ALFONS_VOICE_HEROES: Heroes

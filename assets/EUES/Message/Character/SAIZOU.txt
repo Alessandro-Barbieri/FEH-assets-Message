@@ -1,0 +1,38 @@
+[Heroes Archive] (SAIZOU)
+
+
+Heroes Message Name: Message
+
+
+MID_SAIZOU_HOME1: Qué extraño... Ni el príncipe Alfonse\nni la princesa Sharena parecen contar\ncon la protección de guardaespaldas.$k$pDebe de haber algún ninja oculto\nentre las sombras. Pero, si es así,\nhe de admitir que se esconde bien.
+MID_SAIZOU_HOME2: He servido al señor Ryoma, futuro rey\nde Hoshido, durante muchos años. Y\nseguiré haciéndolo, pase lo que pase.
+MID_SAIZOU_HOME3: Me parece muy bien que tengas que\nhacer las rondas, pero no me gusta\nque me observen. ¿Lo captas?
+MID_SAIZOU_HOME4: Todo el mundo necesita entrenar,\npero tú eres crucial para nuestra\ncausa. Y te noto muy verde...
+MID_SAIZOU_HOME5: Llevo tiempo observándote desde\nlas sombras, y sé que has intentado\nrastrearme. No disimules.$k$pSe te da fatal. Ni una vez has logrado\ndar conmigo. Tienes suerte de que\nno sea tu enemigo...
+MID_SAIZOU_FRIEND: Si mi instinto no me engaña,\ntú eres $Nu.\n¿Estoy en lo cierto? Hum, lo sabía.$k$pMe envía $Nf\npara saludarte. Y, dicho esto,\nya he cumplido mi misión. Adiós.
+MID_SAIZOU_LEVEL1: Puedo enfrentarme a\ncualquiera.
+MID_SAIZOU_LEVEL2: Pronto seré digno de servir\na mi señor.
+MID_SAIZOU_LEVEL3: Esto es inaceptable.
+MID_SAIZOU_SKILL: Por fin merezco ser el quinto\nportador del nombre Saizo.
+MID_SAIZOU_JOIN: Soy Saizo el Quinto, ninja de\nHoshido. Espero que tengas un buen\nmotivo para haberme invocado.
+MID_SAIZOU_STRONGEST: ¡Arg! Siempre me descubres.\nHe de reconocer que no está mal,\n$Nu.$k$pAl principio no era así, ¿recuerdas?\nEras incapaz de notar mi presencia\naunque estuviese a un palmo de ti.$k$pTú, $Gnuestro gran invocador,nuestra gran invocadora|,\n$Gexpuesto,expuesta| a sufrir un atentado en\ncualquier momento. Qué temeridad.$k$pY eso no es todo. Podía seguirte\ntodo el día sin que te percataras en\nabsoluto.$k$pY ni se te ocurra pensar que\nen realidad estaba velando por tu\nseguridad... ¡Qué idea tan ridícula!$k$pQue te quede esto muy claro:\ntan solo estaba controlando nuestro\npunto débil, nada más.$k$pSi cayeras, yo quedaría en peligro.\nY si yo cayese, mi señor Ryoma se\nquedaría sin mi protección.$k$pLo que quiero decir es que, como\nahora se te da mejor esto de guardar\ntus propias espaldas...$k$pQuizá en adelante no me suponga\ntanto fastidio vigilarte desde las\nsombras. Pero solo digo que "quizá".
+MID_SAIZOU_VOICE01: せいっ
+MID_SAIZOU_VOICE02: でやっ
+MID_SAIZOU_VOICE03: ぐあっ！
+MID_SAIZOU_VOICE04: くそっ…！
+MID_SAIZOU_VOICE05: Este ha sido tu último aliento.
+MID_SAIZOU_VOICE06: Muere.
+MID_SAIZOU_VOICE07: ¡Nadie para a un Saizo!
+MID_SAIZOU_VOICE08: Comienza la masacre.
+MID_SAIZOU_VOICE09: I failed...
+MID_SAIZOU_VOICE10: Hmmm.
+MID_SAIZOU_VOICE11: Sorry. Not the type to chat.
+MID_SAIZOU_VOICE12: Hmm... Is the Order of Heroes some form of royal castle guard?
+MID_SAIZOU_VOICE13: I never get tired. So don't insult me with coffee or tea. Or candy. Never candy.
+MID_SAIZOU_VOICE14: You're our leader. So I will respect your authority. Doesn't mean I have to like it.
+MID_SAIZOU_VOICE15: Why the blazes was I brought here, of all places?
+MID_SAIZOU_VOICE16: Is Lord Ryoma here? I do have a higher duty, you know.
+MID_SAIZOU_VOICE17: I'll do everything you command. But only so I can get back home to Hoshido faster!
+MID_SAIZOU_VOICE18: Yes?
+MID_SAIZOU_VOICE19: What?
+MID_SAIZOU_VOICE20: Hmph.

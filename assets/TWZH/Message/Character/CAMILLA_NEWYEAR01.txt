@@ -1,0 +1,39 @@
+[Heroes Archive] (CAMILLA_NEWYEAR01)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_NEWYEAR01_HOME1: 穿上白色的和服，\n就好像成了特務機關的一員，真令人開心。\n如果你是我的上司，那該有多好啊。
+MID_CAMILLA_NEWYEAR01_HOME2: 作為和白夜王國建立良好關係的証明，\n我們正身穿和服慶祝新年喔。\n理解彼此的文化很重要呢。
+MID_CAMILLA_NEWYEAR01_HOME3: 雖然不懈地執行任務是件好事，\n但新年可以過得悠哉點唷。\n今年我想和你多聊幾句呢。
+MID_CAMILLA_NEWYEAR01_HOME4: 哎呀糟糕，衣服都歪掉了呢。\n不好意思，能請你幫我調整一下嗎？\n呵呵……不用那麼害羞啦。
+MID_CAMILLA_NEWYEAR01_HOME5: 我正在保養武器喔。\n這是叫做「門松」的擺飾，\n你不覺得它銳利的尖端很棒嗎？
+MID_CAMILLA_NEWYEAR01_FRIEND: 呵呵……我來拜年了。\n希望今年也能和$Nf\n好好相處。
+MID_CAMILLA_NEWYEAR01_LEVEL1: 新年總是會發生許多好事呢。
+MID_CAMILLA_NEWYEAR01_LEVEL2: 今年的我可不太一樣喔。
+MID_CAMILLA_NEWYEAR01_LEVEL3: 今年就過得輕鬆一點吧……
+MID_CAMILLA_NEWYEAR01_SKILL: 這股力量和新年相符呢。\n$Nu，我好開心。
+MID_CAMILLA_NEWYEAR01_JOIN: 我是暗夜王國的公主，卡美拉。\n今年我要按照白夜的習俗來慶祝新年。\n新年快樂。
+MID_CAMILLA_NEWYEAR01_STRONGEST: 我可愛的$Nu……\n今天也有好好地過新年嗎？\n這樣啊，那就好。$k$p雖然每個地方的文化都不一樣，\n大部分新年都是和家人一同度過居多，\n但你在這個世界卻沒有家人可以相見……$k$p我很擔心你會感到寂寞。\n如果有什麼問題，隨時都可以跟我說。\n因為我已經等同於你的家人了。$k$p無論是新年的第一次膝枕或是陪睡，\n我什麼都願意做喔。\n像是和你一起做初夢也不錯呢。$k$p我想要夢見自己變得比任何英雄都強，\n然後成為最親近你的人。\n不知道是否某一天能美夢成真呢？
+MID_CAMILLA_NEWYEAR01_VOICE01: 嘿！
+MID_CAMILLA_NEWYEAR01_VOICE02: 如何？
+MID_CAMILLA_NEWYEAR01_VOICE03: 唔……！
+MID_CAMILLA_NEWYEAR01_VOICE04: 哎呀呀……
+MID_CAMILLA_NEWYEAR01_VOICE05: 新年快樂。
+MID_CAMILLA_NEWYEAR01_VOICE06: 我們來慶祝吧。
+MID_CAMILLA_NEWYEAR01_VOICE07: 這樣會很不端莊嗎？
+MID_CAMILLA_NEWYEAR01_VOICE08: 祝你新春愉快。
+MID_CAMILLA_NEWYEAR01_VOICE09: 和服都被糟蹋了……
+MID_CAMILLA_NEWYEAR01_VOICE10: 呵呵！
+MID_CAMILLA_NEWYEAR01_VOICE11: 新年時的你也很棒喔。
+MID_CAMILLA_NEWYEAR01_VOICE12: 這是新年穿的禮服，漂亮嗎？
+MID_CAMILLA_NEWYEAR01_VOICE13: 白夜王國的和服都很鮮豔，真好看呢。
+MID_CAMILLA_NEWYEAR01_VOICE14: 你是跟誰一起跨年的呢？這樣啊……總覺得有點忌妒呢。
+MID_CAMILLA_NEWYEAR01_VOICE15: 呼……胸口這邊有點緊繃耶，幫我鬆一下腰帶好嗎？
+MID_CAMILLA_NEWYEAR01_VOICE16: 真想讓我可愛的臣子們也換上新年禮服。
+MID_CAMILLA_NEWYEAR01_VOICE17: 明年我們也像這樣一起迎接新年吧。\n呵呵……這是我們之間的約定喔！
+MID_CAMILLA_NEWYEAR01_VOICE18: 嗯。
+MID_CAMILLA_NEWYEAR01_VOICE19: 走吧。
+MID_CAMILLA_NEWYEAR01_VOICE20: 恭喜。
+MID_CAMILLA_NEWYEAR01_VOICE21: 在新的一年裡，當然需要我的力量吧？

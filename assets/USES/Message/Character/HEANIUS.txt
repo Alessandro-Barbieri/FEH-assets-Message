@@ -1,0 +1,38 @@
+[Heroes Archive] (HEANIUS)
+
+
+Heroes Message Name: Message
+
+
+MID_HEANIUS_HOME1: Es muy bondadoso traer a héroes\nde otras tierras. Pero también es\nmuy ingenuo.$k$pCuidado, porque se podría crear\nuna apertura a otros reinos rivales\ny quizá se aprovechen de ello.
+MID_HEANIUS_HOME2: Este reino es tan hermoso como\nel mismo cielo. Aunque no significa\nque supere a Frelia, claro.$k$pCuando los pegasos de Frelia se\nreúnen sobre el bosque de Walles...\nEs un espectáculo maravilloso.
+MID_HEANIUS_HOME3: Necesitas descansar. No podemos\npermitirnos una derrota y tu estrategia\nno puede fracasar.$k$pNo olvides que también forma parte\nde tus responsabilidades asegurarte\nde que puedes luchar en condiciones.
+MID_HEANIUS_HOME4: Tu reputación como estratega\nte precede, pero yo también sé\nun par de cosas, la verdad.$k$pPodemos usar estas piezas y\neste tablero para probar nuestras\nhabilidades. ¿Qué me dices?
+MID_HEANIUS_HOME5: Sí, estaba leyendo historia.\nComo miembro de la realeza,\nes mi deber ser culto.
+MID_HEANIUS_FRIEND: Soy el príncipe James de Frelia.\nTe traigo un mensaje de parte de\n$Nf.
+MID_HEANIUS_LEVEL1: Los miembros de la realeza\nsiempre deben ser perfectos.
+MID_HEANIUS_LEVEL2: No hay nada que mis flechas\nno puedan atravesar.
+MID_HEANIUS_LEVEL3: Esto es inaceptable.\nLa próxima vez mejoraré.
+MID_HEANIUS_SKILL: Los príncipes no podemos\nescapar de las obligaciones.
+MID_HEANIUS_JOIN: Soy el príncipe James de Frelia.$k$pNo es que me importe, pero...\n¿Hay aquí alguien llamado Ephraim?
+MID_HEANIUS_STRONGEST: Algún día heredaré el trono de Frelia\ny la idea que más me obsesiona es\nque un rey debe ser perfecto.$k$pPor eso me aplico tanto con\nlos libros y el arco.$k$pSin embargo, cuanto más estudio,\nmás cuenta me doy de lo mucho\nque me queda por aprender.$k$pAhora entiendo lo lejos que queda\nmi ideal de perfección.$k$pMi hermana, por ejemplo, solo es\nuna niña en realidad y no tiene ni\nmi fuerza ni mis conocimientos.$k$pPero lo que sí tiene, que a mí me\nfalta, es inocencia. Para la gente\nes mucho más fácil confiar en ella.$k$pYo no puedo recuperar esa pureza\nde espíritu porque sé demasiado\nsobre la lucha y el campo de batalla.$k$pPor eso mi única opción es tratar\nde convertirme en un hombre\nque inspire confianza incondicional.$k$pA eso me refiero cuando digo que es\ndifícil alcanzar la perfección, pero,\ncomo futuro rey, debo lograrlo.$k$pEsto puede ser difícil de comprender\ndados nuestros roles tan distintos.$k$pSolo te pido que entiendas esta\npromesa que te hago...$k$pEstudiaré contigo, lucharé junto\na ti y seré el monarca ideal.
+MID_HEANIUS_VOICE01: はっ！
+MID_HEANIUS_VOICE02: ふん
+MID_HEANIUS_VOICE03: うああっ！
+MID_HEANIUS_VOICE04: 馬鹿な…！？
+MID_HEANIUS_VOICE05: ¡Observa mi destreza!
+MID_HEANIUS_VOICE06: ¡Te lo advertí!
+MID_HEANIUS_VOICE07: ¡Deberías haber puesto más empeño!
+MID_HEANIUS_VOICE08: Gracias por despistarte.
+MID_HEANIUS_VOICE09: I'll...keep going...
+MID_HEANIUS_VOICE10: Hmph
+MID_HEANIUS_VOICE11: I am no ordinary archer. I am Prince Innes of Frelia.
+MID_HEANIUS_VOICE12: Eh? That was...that was your attempt at greeting me? I see.
+MID_HEANIUS_VOICE13: As long as I am here, you will not be in danger. I shall see to that.
+MID_HEANIUS_VOICE14: You and I are not the same. You are a commoner. I am the heir to Frelia.
+MID_HEANIUS_VOICE15: We of noble birth do not shirk the duties to which we are born.
+MID_HEANIUS_VOICE16: There is one man I could never stand to lose to. Ephraim.
+MID_HEANIUS_VOICE17: One day, I will be crowned king. When that day comes, I will welcome you to my kingdom.
+MID_HEANIUS_VOICE18: I'll keep you safe.
+MID_HEANIUS_VOICE19: What next?
+MID_HEANIUS_VOICE20: Your plan?

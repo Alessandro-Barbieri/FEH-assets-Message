@@ -1,0 +1,38 @@
+[Heroes Archive] (BERKUT)
+
+
+Heroes Message Name: Message
+
+
+MID_BERKUT_HOME1: なぜ俺が、このような下賤の輩どもと\n寝食を共にせねばならんのだ……？！\nこの屈辱は倍にして返してやるぞ……！
+MID_BERKUT_HOME2: 俺は幼い頃から、次期皇帝として\n己の腕を磨いてきた。\nこの力こそが我が誇りだ。
+MID_BERKUT_HOME3: また任務か。お前のような輩は\nネズミのように立ち働くのがお似合いだ。\nせいぜい俺に尽くすがいい。
+MID_BERKUT_HOME4: おい。装飾品を扱う店に案内しろ。\n……理由なんぞどうでもいいだろう。\n言っておくが、俺がつけるのではないぞ！
+MID_BERKUT_HOME5: なにをしているのかだと？\n指輪を磨いているだけだ。これは俺の……\n……なんでもない。さっさと向こうへいけ！
+MID_BERKUT_FRIEND: $Nfから\nお前への伝言だ。この俺に使い走りを\nさせたこと、後悔させてやる……！
+MID_BERKUT_LEVEL1: ハハハハハ！\n見たか、これが俺というものだ！
+MID_BERKUT_LEVEL2: ふん、この程度か。
+MID_BERKUT_LEVEL3: なっ……？！\nばかな、なにかの間違いだ！
+MID_BERKUT_SKILL: ……新たな力を得るというのは悪くない。\n少しはお前に報いてやろう。
+MID_BERKUT_JOIN: 我が名はベルクト。\nいずれリゲル帝国の皇帝となる者だ。\nこの俺と共に戦える僥倖に感謝しろ。
+MID_BERKUT_STRONGEST: なんだ、お前か。いつもうろうろと……\n平民は立ち振る舞いまで下品だな。\n少しは落ち着いてここに座るがいい。$k$pしかしまあ、こうも長く戦場を共にして、\n指揮官としてのお前に評価すべき点が\nあるのはわかった。多少は認めてやろう。$k$pどうだ、俺が帰る際には連れて帰って\n指揮官として働かせてやってもいいぞ。\n……絶対に嫌だと？　ハハッ！$k$pここがリゲルではなくて幸いだったな。\nお前の首が飛んでいるところだ。\nだが、不思議と不愉快ではない。$k$p俺には友と呼べる存在はいないが……\nお前みたいなやつを\nそう呼ぶのかもしれんな。
+MID_BERKUT_VOICE01: てえい！
+MID_BERKUT_VOICE02: くたばれ！
+MID_BERKUT_VOICE03: ぬうっ…
+MID_BERKUT_VOICE04: 小癪な…！
+MID_BERKUT_VOICE05: 終わりだ
+MID_BERKUT_VOICE06: 下衆が…
+MID_BERKUT_VOICE07: 思い上るな
+MID_BERKUT_VOICE08: 消え失せろ！
+MID_BERKUT_VOICE09: ばか…な……
+MID_BERKUT_VOICE10: フッ
+MID_BERKUT_VOICE11: なにをする……
+MID_BERKUT_VOICE12: 子供扱いはよせ。
+MID_BERKUT_VOICE13: 言いたいことがあるなら口で言え。
+MID_BERKUT_VOICE14: 伯父上は尊敬すべきお方だ。
+MID_BERKUT_VOICE15: 俺はもっと強くならねば……
+MID_BERKUT_VOICE16: 俺はいずれ、バレンシアを統べる王となる。
+MID_BERKUT_VOICE17: なかなか興味深いやつだな、お前は。
+MID_BERKUT_VOICE18: ふん、よかろう。
+MID_BERKUT_VOICE19: ふむ……
+MID_BERKUT_VOICE20: 見せてやろう。

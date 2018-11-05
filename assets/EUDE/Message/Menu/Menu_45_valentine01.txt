@@ -1,0 +1,106 @@
+[Heroes Archive] (Menu_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_JUMP: Jetzt dorthin
+MID_HOME_TALK_NAVIGATION_LATER: Später erinnern
+MID_HOME_TALK_NAVIGATION_NEVER: Nicht mehr zeigen
+MID_STAGE_SELECT_SEASONAL_EVENT: Events
+MID_STAGE_SELECT_SEASONAL_EVENT_ENDED: Dieser Event ist beendet.
+MID_STAGE_SELECT_SEASONAL_EVENT_INTERVAL: Wird berechnet...
+MID_TAP_BATTLE_TITLE: Tipp-Kampf
+MID_TAP_BATTLE_ENVIRONMENT_INFO: Ändere hier deine Einstellungen.
+MID_TAP_BATTLE_STAGE_SELECT_DIFFICULTY: $aSchwere: $a0
+MID_TAP_BATTLE_STAGE_SELECT_MODE: $aModus: $a0
+MID_TAP_BATTLE_DIFFICULTY0: Normal
+MID_TAP_BATTLE_DIFFICULTY1: Schwer
+MID_TAP_BATTLE_MODE_0: Anfänger
+MID_TAP_BATTLE_MODE_1: Experte
+MID_TAP_BATTLE_ENVIRONMENT: Tipp-Kampf-Einstellungen
+MID_TAP_BATTLE_CONFIG_MUTE: Stumm schalten
+MID_TAP_BATTLE_CONFIG_SE: Soundeffekte
+MID_TAP_BATTLE_CONFIG_VOICE: Stimmen
+MID_TAP_BATTLE_CONFIG_TIMING: Timing anpassen
+MID_TAP_BATTLE_CONFIG_ADJUST: Timing anpassen
+MID_TAP_BATTLE_CLEAR_RANK: $aErgebnis: $a0
+MID_TAP_BATTLE_CLEAR_RANK_0: C
+MID_TAP_BATTLE_CLEAR_RANK_1: B
+MID_TAP_BATTLE_CLEAR_RANK_2: A
+MID_TAP_BATTLE_CLEAR_RANK_3: S
+MID_TAP_BATTLE_CLEAR_RANK_NONE: —
+MID_TAP_BATTLE_ENTER_STAGE_SELECT: Stufe wählen
+MID_TAP_BATTLE_SUBTITLE: Illusorisches Verlies
+MID_TAP_BATTLE_ENTRANCE_HELP: Tippe, um Gegner zu besiegen! Stelle\ndurch perfektes Timing Rekorde auf!
+MID_TAP_BATTLE_ENTRANCE_SETTING: Einstellungen
+MID_TAP_BATTLE_START: Los!
+MID_TAP_BATTLE_BOSS: Boss!
+MID_TAP_BATTLE_VERSUS_BOSS: $a$a1\n$a0
+MID_TAP_BATTLE_START_BOSS: Kampfbereit!
+MID_TAP_BATTLE_DEFEAT_BOSS: Besiegt!
+MID_TAP_BATTLE_STAGE_SELECT_PRAISE: $aDu hast im Modus "$a1"\nauf $a0 auf jeder\nStufe Rang S erreicht!
+MID_TAP_BATTLE_STAGE_SELECT_REWARD: Prämie für ersten Abschluss:
+MID_TAP_BATTLE_STAGE_SELECT_REWARD_WARNING: Prämie ist nur einmal erhältlich.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING: Diese Stufe wurde bereits\nabgeschlossen. Es ist keine\nweitere Prämie verfügbar.
+MID_TAP_BATTLE_STAGE_SELECT_NO_REWARD_WARNING_OTHER: Diese Stufe wurde bereits mit anderen\nEinstellungen abgeschlossen.\nEs ist keine weitere Prämie verfügbar.
+MID_TAP_BATTLE_MUSIC_DETAIL_BPM: $aBPM: $a0
+MID_TAP_BATTLE_MUSIC_DETAIL_AUTHORITY: Aus:
+MID_TAP_BATTLE_PAUSE_SURRENDER: Aufgeben
+MID_TAP_BATTLE_PAUSE_RETRY: Neu starten
+MID_TAP_BATTLE_PAUSE_SURRENDER_DECIDE: Aufgeben
+MID_TAP_BATTLE_PAUSE_SURRENDER_TEXT: Aufgeben?
+MID_TAP_BATTLE_PAUSE_RETRY_DECIDE: Neu starten?
+MID_TAP_BATTLE_PAUSE_RETRY_TEXT: Neu starten?
+MID_TAP_BATTLE_GAME_OVER_TEXT: Erneut spielen?
+MID_TAP_BATTLE_GAME_OVER_RETRY_FIRST: Erneut versuchen
+MID_TAP_BATTLE_GAME_OVER_RETRY_BOSS: Beim Boss starten
+MID_TAP_BATTLE_GAME_OVER_QUIT: Aufgeben
+MID_TAP_BATTLE_GAME_OVER_TIMING: Timing anpassen
+MID_TAP_BATTLE_RESULT_CURRENT: Ergebnis
+MID_TAP_BATTLE_RESULT_DIFFICULTY_MODE: $a$a1 / $a0
+MID_TAP_BATTLE_RESULT_CONFIRM: O.K.!
+MID_TAP_BATTLE_RESULT_REPLAY: Stufe wiederholen
+MID_TAP_BATTLE_RESULT_COMMENT_GAME_OVER: Versuche das nächste Mal, es in\neinem Durchgang zu schaffen!
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_FULL: $aPerfekt! Deine maximale\nCombo betrug $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT: $a$a0 kritische Treffer\nfehlen zum perfekten Spiel!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING: Falls nötig, kannst du das\nTiming in den Tipp-Kampf-\nEinstellungen anpassen.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO: $aDeine maximale Combo\nbetrug $a0.
+MID_TAP_BATTLE_RESULT_COMMENT_MAX_COMBO_NEW_RECORD: $aDeine maximale Combo\nbetrug $a0. Das ist\nein neuer Rekord!
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO: $aNur $a0 fehlen zum perfekten\nSpiel! Deine maximale Combo\nbetrug $a1.
+MID_TAP_BATTLE_RESULT_COMMENT_CRITICAL_COUNT_MAX_COMBO_NEW_RECORD: $aNur $a0 fehlen zum perfekten\nSpiel! Deine maximale Combo\nbetrug $a1. Neuer Rekord!
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO: $aDeine maximale Combo betrug $a0.\nIn den Tipp-Kampf-Einstellungen\nkannst du das Timing anpassen.
+MID_TAP_BATTLE_RESULT_COMMENT_TIMING_MAX_COMBO_NEW_RECORD: $aDeine maximale Combo betrug $a0.\nNeuer Rekord! In den Tipp-Kampf-Ein-\nstellungen kannst du d. Timing anpassen.
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT: Hier kannst du das Timing der\nEingabe anpassen. Tippe im\nRhythmus auf den Bildschirm.
+MID_TAP_BATTLE_TIMING_FRAME_INFOMATION: Tippe auf den Bildschirm, wenn\ndu den lautesten Schlag hörst.
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST: Timing anpassen
+MID_TAP_BATTLE_TIMING_DIALOG_ADJUST_MANUALLY: Manuell anpassen
+MID_TAP_BATTLE_TIMING_DIALOG_COMPLETE: Das Timing wurde angepasst.\nDiese Einstellung speichern?
+MID_TAP_BATTLE_TIMING_DIALOG_DECIDE: Speichern
+MID_TAP_BATTLE_TIMING_DIALOG_REVERT: Nicht speichern
+MID_TAP_BATTLE_TIMING_DIALOG_READJUST: Neu einstellen
+MID_TAP_BATTLE_TIMING_DIALOG_TEXT_ADJUST_MANUALLY: Passe das Timing manuell an.
+MID_TAP_BATTLE_TIMING_TEST: Probespielen
+MID_TAP_BATTLE_CLOSED: Kämpfe sind geschlossen.
+MID_TAP_BATTLE_STAGE_SELECT_FAILED: Kampf konnte nicht begonnen werden.
+MID_TAP_BATTLE_STAGE_SELECT_EXPIRED: Das Verlies ist nicht mehr verfügbar.
+MID_TAP_BATTLE_STAGE_SELECT_INSUFFICIENT_UNIT: Dein Team hat nicht genug Mitglieder.
+MID_TAP_BATTLE_STAGE_SELECT_RELOAD: Tipp-Kampf verlassen und neu öffnen.
+MID_TAP_BATTLE_REMAINING_MINUTES: $aVerschwindet in $a0 Min.
+MID_TAP_BATTLE_REMAINING_HOURS: $aVerschwindet in $a0 Std.
+MID_TAP_BATTLE_REMAINING_DAYS: $aVerschwindet in $a0 Tag(en)
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_MINUTES: $aEine neue Stufe erscheint in $a0 Min.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_HOURS: $aEine neue Stufe erscheint in $a0 Std.
+MID_TAP_BATTLE_NEXT_STAGE_REMAINING_DAYS: $aEine neue Stufe erscheint in $a0 Tag(en)
+MID_TAP_BATTLE_DATA_TOP_FLOOR: Eine heiße Quelle! Alle können\nsich gemütlich unterhalten und\nwerden vom Wasser gewärmt.
+MID_TAP_BATTLE_HELP_DIALOG_00: Tippe und besiege Gegnerwellen!
+MID_TAP_BATTLE_HELP_DIALOG_01: Tipp-Kampf:\nBei diesem Spiel besiegst du\nGegner durch Antippen des\nBildschirms.\n\nVersuche bitte, Musik und\nStimmen beim Spielen\neinzuschalten.
+MID_TAP_BATTLE_HELP_DIALOG_02: So wird gespielt:\nTippe den Beschwörer unten auf\ndem Bildschirm an, um anzugreifen.\nWenn dein Timing stimmt, erleiden\nGegner einen kritischen Treffer und\nfliegen vom Bildschirm. Durch\nmehrere kritische Treffer in Folge\nkannst du eine Combo landen.
+MID_TAP_BATTLE_HELP_DIALOG_03: Tippe als Experte die Reihen an!
+MID_TAP_BATTLE_HELP_DIALOG_04: Expertenmodus:\nIm Anfängermodus tippst du\nden Beschwörer unten auf dem\nBildschirm an. Im Modus für\nExperten kannst du die Reihe\njedes Verbündeten antippen,\num ihn angreifen zu lassen.
+MID_TAP_BATTLE_HELP_DIALOG_05: Spielbare Stufen:\nNicht alle Stufen sind\ngleich zu Beginn des\nEvents spielbar.\n\nNach einer bestimmten\nZeit werden neue Stufen\nfreigeschaltet.
+MID_TAP_BATTLE_HELP_DIALOG_06: Tipp-Kampf-Einstellungen:\nFalls dein Timing nicht stimmt,\npasse es in den Einstellungen an.\n\nVielleicht fällt dir das Spiel mit\nangepasstem Timing oder\nausgeschalteten Soundeffekten\nund Stimmen leichter.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_00: Tipp-Kampf-Einstellungen:\nPasse deine Einstellungen für\nein besseres Spielerlebnis an.\n\nFalls dein Timing nicht stimmt,\nversuche es in diesen\nEinstellungen anzupassen.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_01: Timing anpassen:\nPasse das Timing der Eingabe\nan, indem du im Takt tippst.\nDu kannst das Timing auch\nmanuell anpassen. Erhöhe\nden Wert, falls es zu schnell\nist, und senke ihn, falls es zu\nlangsam ist.
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_02: Soundeffekte und Stimmen:\nDu kannst die Soundeffekte\nund Stimmen der Charaktere\nauch ausschalten.\nDas Ausschalten in den\nTipp-Kampf-Einstellungen\nbetrifft nur Tipp-Kämpfe.
+MID_VOTE_TERM_201801: Winterfest gg. Neujahr

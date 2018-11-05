@@ -1,0 +1,173 @@
+[Heroes Archive] (Data_21_winter01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201712BRAVE01_TITLE: Sharena
+MID_MISSION_S201712BRAVE01_A1: Torre: vinci al 1º piano
+MID_MISSION_H_S201712BRAVE01_A1: Completa il primo piano della torre di\nallenamento con Sharena nella squadra.
+MID_MISSION_S201712BRAVE01_A2: Torre: vinci al 5º piano
+MID_MISSION_H_S201712BRAVE01_A2: Completa il quinto piano della torre di\nallenamento con Sharena nella squadra.
+MID_MISSION_S201712BRAVE01_A3: Torre: vinci al 9º piano
+MID_MISSION_H_S201712BRAVE01_A3: Completa il nono piano della torre di\nallenamento con Sharena nella squadra.
+MID_MISSION_S201712BRAVE01_A4: Torre: vinci al 10º piano
+MID_MISSION_H_S201712BRAVE01_A4: Completa il decimo piano della torre di\nallenamento con Sharena e due alleati nella\nsquadra. Tutti e 3 devono sopravvivere.
+MID_MISSION_S201712BRAVE01_A5: Vinci con Sharena
+MID_MISSION_H_S201712BRAVE01_A5: Usa Sharena per sconfiggere un nemico.
+MID_MISSION_S201712BRAVE01_A6: Batti nemico Liv 20+
+MID_MISSION_H_S201712BRAVE01_A6: Sconfiggi nemici di livello 20\no superiore con Sharena.
+MID_MISSION_S201712BRAVE01_A7: Batti nemico Liv 40+
+MID_MISSION_H_S201712BRAVE01_A7: Sconfiggi nemici di livello 40\no superiore con Sharena.
+MID_MISSION_S201712CHARA01_TITLE: Tre eroi
+MID_MISSION_S201712CHARA01_A1: Vinci
+MID_MISSION_H_S201712CHARA01_A1: Sconfiggi un nemico.
+MID_MISSION_S201712CHARA01_A2: Vinci con Laslow
+MID_MISSION_H_S201712CHARA01_A2: Usa Laslow per sconfiggere un nemico.
+MID_MISSION_S201712CHARA01_A3: Vinci con Florina
+MID_MISSION_H_S201712CHARA01_A3: Usa Florina per sconfiggere un nemico.
+MID_MISSION_S201712CHARA01_B1: Batti nemico Liv 20+
+MID_MISSION_H_S201712CHARA01_B1: Sconfiggi un nemico di livello 20\no superiore con Laslow.
+MID_MISSION_S201712CHARA01_B2: Batti nemico Liv 20+
+MID_MISSION_H_S201712CHARA01_B2: Sconfiggi un nemico di livello 20\no superiore con Florina.
+MID_MISSION_S201712CHARA01_B3: Batti nemico Liv 20+
+MID_MISSION_H_S201712CHARA01_B3: Sconfiggi un nemico di livello 20\no superiore con Bartre.
+MID_MISSION_S201712CHARA01_C1: Batti nemico Liv 35+
+MID_MISSION_H_S201712CHARA01_C1: Sconfiggi un nemico di livello 35\no superiore con Laslow.
+MID_MISSION_S201712CHARA01_C2: Batti nemico Liv 35+
+MID_MISSION_H_S201712CHARA01_C2: Sconfiggi un nemico di livello 35\no superiore con Florina.
+MID_MISSION_S201712CHARA01_C3: Batti nemico Liv 35+
+MID_MISSION_H_S201712CHARA01_C3: Sconfiggi un nemico di livello 35\no superiore con Bartre.
+MID_MISSION_S201712HERO02_TITLE: Grandi battaglie
+MID_MISSION_S201712HERO02_A1: Batti Nabarl
+MID_MISSION_H_S201712HERO02_A1: Con Alfonse nella tua squadra,\nvinci la Grande battaglia contro\nNabarl, la spada silente.
+MID_MISSION_S201712HERO02_A2: Batti Nabarl
+MID_MISSION_H_S201712HERO02_A2: Con Nabarl, la spada silente, in squadra,\nvinci la Grande battaglia contro Nabarl, la\nspada silente, al livello folle o superiore.
+MID_MISSION_S201712HERO02_A3: Batti Nabarl
+MID_MISSION_H_S201712HERO02_A3: Batti Nabarl, la spada silente,\ndi livello 40 o superiore con Alfonse.
+MID_MISSION_S201712HERO02_A4: Batti Nabarl
+MID_MISSION_H_S201712HERO02_A4: Batti Nabarl, la spada silente,\ndi livello 40 o superiore con\nNabarl, la spada silente.
+MID_MISSION_S201712HERO02_A5: Batti Nabarl
+MID_MISSION_H_S201712HERO02_A5: Vinci la Grande battaglia contro Nabarl,\nla spada silente, al livello folle o superiore\ncon una squadra di sole unità di fanteria.
+MID_MISSION_S201712SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201712SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201712SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201712SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201712SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201712SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201712SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201712SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201712SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201712STORY01_TITLE: Araldo d'inverno
+MID_MISSION_S201712STORY01_A1: Completa app. 16-1 folle
+MID_MISSION_H_S201712STORY01_A1: Completa l'app. 16, parte 1 al livello di difficoltà\nfolle con un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712STORY01_A2: Completa app. 16-2 folle
+MID_MISSION_H_S201712STORY01_A2: Completa l'app. 16, parte 2 al livello di difficoltà\nfolle con un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201712STORY01_A3: Completa app. 16-3 folle
+MID_MISSION_H_S201712STORY01_A3: Completa l'app. 16, parte 3 al livello di difficoltà\nfolle con un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_冬祭クロム: Chrom
+MPID_冬祭リズ: Lissa
+MPID_冬祭ルフレ男: Daraen
+MPID_冬祭サーリャ: Tharja
+MPID_HONOR_冬祭クロム: L'Eletto coi doni
+MPID_HONOR_冬祭リズ: La gioia pura
+MPID_HONOR_冬祭ルフレ男: Il leader festoso
+MPID_HONOR_冬祭サーリャ: L'acqua e sapone
+MPID_H_冬祭クロム: Principe d'Ylisse e discendente del re eroico.\nÈ stato evocato nel bel mezzo della festa\nd'inverno. Compare in Fire Emblem:\nAwakening.
+MPID_H_冬祭リズ: Principessa d'Ylisse e sorella di Chrom. La\ntorta è la sua pietanza preferita della festa\nd'inverno. Compare in Fire Emblem:\nAwakening.
+MPID_H_冬祭ルフレ男: Braccio destro di Chrom. È uno stratega che\nsoffre di amnesia e passa tutto il giorno a\nescogitare piani per la festa d'inverno.\nCompare in Fire Emblem: Awakening.
+MPID_H_冬祭サーリャ: Una maga plegiana da sempre inquietante,\nche ultimamente, e per cause ignote, si\ncomporta come le altre fanciulle.\nCompare in Fire Emblem: Awakening.
+MPID_VOICE_冬祭クロム: Matt Mercer
+MPID_VOICE_冬祭リズ: Kate Davis
+MPID_VOICE_冬祭ルフレ男: David Vincent
+MPID_VOICE_冬祭サーリャ: Stephanie Sheh
+MPID_ILLUST_冬祭クロム: Ebila (えびら)
+MPID_ILLUST_冬祭リズ: Umiu Geso (海鵜げそ)
+MPID_ILLUST_冬祭ルフレ男: Fujiwara Ryo (冨士原良)
+MPID_ILLUST_冬祭サーリャ: Washimoto (わし元)
+MSID_聖樹: Jingle boom!
+MSID_聖樹＋: Jingle boom!+
+MSID_プレゼント袋: Sacco di regali
+MSID_プレゼント袋＋: Sacco di regali+
+MSID_ハンドベル: Campanella
+MSID_ハンドベル＋: Campanella+
+MSID_燭台: Candelabro
+MSID_燭台＋: Candelabro+
+MSID_攻撃速さの大覚醒1: Att/Vel sfrontati 1
+MSID_攻撃速さの大覚醒2: Att/Vel sfrontati 2
+MSID_攻撃速さの大覚醒3: Att/Vel sfrontati 3
+MSID_攻撃守備の大覚醒1: Att/Dif sfrontati 1
+MSID_攻撃守備の大覚醒2: Att/Dif sfrontati 2
+MSID_攻撃守備の大覚醒3: Att/Dif sfrontati 3
+MSID_攻撃隊形1: Audacia 1
+MSID_攻撃隊形2: Audacia 2
+MSID_攻撃隊形3: Audacia 3
+MSID_迎撃隊形1: Vendetta 1
+MSID_迎撃隊形2: Vendetta 2
+MSID_迎撃隊形3: Vendetta 3
+MSID_赤魔の技量1: Erois. tomo R 1
+MSID_赤魔の技量2: Erois. tomo R 2
+MSID_赤魔の技量3: Erois. tomo R 3
+MSID_H_聖樹: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_聖樹＋: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_プレゼント袋: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_プレゼント袋＋: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_ハンドベル: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_ハンドベル＋: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_燭台: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_燭台＋: Se il nemico attacca per primo, Att/Vel/Dif/Res +2\ndurante lo scontro.
+MSID_H_攻撃速さの大覚醒1: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Vel +3 durante lo scontro.
+MSID_H_攻撃速さの大覚醒2: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Vel +5 durante lo scontro.
+MSID_H_攻撃速さの大覚醒3: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Vel +7 durante lo scontro.
+MSID_H_攻撃守備の大覚醒1: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Dif +3 durante lo scontro.
+MSID_H_攻撃守備の大覚醒2: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Dif +5 durante lo scontro.
+MSID_H_攻撃守備の大覚醒3: Se l'unità ha l'80% o meno dei PS all'inizio dello\nscontro, Att/Dif +7 durante lo scontro.
+MSID_H_攻撃隊形1: Se l'unità ha il 100% dei PS e attacca per\nprima, anticipa l'attivazione dell'abilità speciale\n(contatore -1) a ogni attacco ed esegue\nun attacco doppio. Non cumulabile.
+MSID_H_攻撃隊形2: Se l'unità ha almeno il 50% dei PS e attacca\nper prima, anticipa l'attivazione dell'abilità\nspeciale (contatore -1) a ogni attacco ed\nesegue un attacco doppio. Non cumulabile.
+MSID_H_攻撃隊形3: Se l'unità attacca per prima, anticipa\nl'attivazione dell'abilità speciale (contatore -1)\na ogni attacco ed esegue un attacco doppio.\nNon cumulabile.
+MSID_H_迎撃隊形1: Se l'unità ha almeno il 90% dei PS e il nemico\nattacca per primo, anticipa l'attivazione\ndell'abilità speciale (contatore -1) a ogni\nproprio attacco ed esegue un attacco doppio.\nNon cumulabile.
+MSID_H_迎撃隊形2: Se l'unità ha almeno il 70% dei PS e il nemico\nattacca per primo, anticipa l'attivazione\ndell'abilità speciale (contatore -1) a ogni\nproprio attacco ed esegue un attacco doppio.\nNon cumulabile.
+MSID_H_迎撃隊形3: Se l'unità ha almeno il 50% dei PS e il nemico\nattacca per primo, anticipa l'attivazione\ndell'abilità speciale (contatore -1) a ogni\nproprio attacco ed esegue un attacco doppio.\nNon cumulabile.
+MSID_H_赤魔の技量1: Se l'unità usa un tomo rosso, riceve PA x1,5\nfinché rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MSID_H_赤魔の技量2: Tutti gli alleati con tomo rosso ricevono PA x1,5\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MSID_H_赤魔の技量3: Tutti gli alleati con tomo rosso ricevono PA x2\nfinché l'unità rimane in vita. (Non cumulabile;\nsi applica solo il valore più alto.)
+MID_CHAPTER_TITLE_CX015: Appendice 16
+MID_CHAPTER_CX015: Araldo d'inverno
+MID_STAGE_TITLE_X0151: Appendice 16-1
+MID_STAGE_TITLE_X0152: Appendice 16-2
+MID_STAGE_TITLE_X0153: Appendice 16-3
+MID_STAGE_X0151: Regali in spalla!
+MID_STAGE_X0152: Zuffa coi festoni
+MID_STAGE_X0153: Chi bravo è...
+MID_STAGE_TITLE_ST_X0014: Appendice 15
+MID_STAGE_TITLE_ST_X0015: Appendice 16
+MID_STAGE_TITLE_ST_X1015: App. 15 e 16
+MID_CHAPTER_ST_CX008: App. 15 e 16
+MID_STAGE_HONOR_V0121: Giornaliere
+MID_STAGE_V0121: Parte 1
+MID_STAGE_HONOR_V0122: Giornaliere
+MID_STAGE_V0122: Parte 2
+MID_STAGE_HONOR_V0123: Giornaliere
+MID_STAGE_V0123: Parte 3
+MID_STAGE_HONOR_V0124: Giornaliere
+MID_STAGE_V0124: Parte 4
+MID_STAGE_HONOR_V0125: Giornaliere
+MID_STAGE_V0125: Parte 5
+MID_STAGE_HONOR_V0126: Giornaliere
+MID_STAGE_V0126: Parte 6
+MID_STAGE_HONOR_V0127: Giornaliere
+MID_STAGE_V0127: Parte 7
+MID_STAGE_HONOR_V0131: Giornaliere
+MID_STAGE_V0131: Parte 8
+MID_STAGE_HONOR_V0132: Giornaliere
+MID_STAGE_V0132: Parte 9
+MID_STAGE_HONOR_V0133: Giornaliere
+MID_STAGE_V0133: Parte 10
+MID_STAGE_HONOR_V0134: Giornaliere
+MID_STAGE_V0134: Parte 11
+MID_STAGE_HONOR_V0135: Anno nuovo
+MID_STAGE_V0135: Parte 1
+MID_STAGE_HONOR_V0136: Anno nuovo
+MID_STAGE_V0136: Parte 2
+MID_STAGE_HONOR_V0137: Anno nuovo
+MID_STAGE_V0137: Parte 3

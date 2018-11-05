@@ -1,0 +1,38 @@
+[Heroes Archive] (OLIVIE)
+
+
+Heroes Message Name: Message
+
+
+MID_OLIVIE_HOME1: Ich würde gern tanzen üben, aber...\nwenn Leute zuschauen, kann ich mich\neinfach nicht konzentrieren.
+MID_OLIVIE_HOME2: Ich bin viel gereist, bevor ich Chroms\nTruppe beitrat. $k$pUnd überall habe ich Geschichten ge-\nhört und neue Tänze kennengelernt.
+MID_OLIVIE_HOME3: Ihr kommt auch aus einer anderen\nWelt, oder? Passt gut auf Euch auf!\nDie Nächte hier können kühl sein.
+MID_OLIVIE_HOME4: Irgendwann müsst Ihr mir mal von\nEurer Heimat erzählen... Ich würde\nja auch mal gern dorthin reisen.
+MID_OLIVIE_HOME5: Ich schaue mir alte Souvenirs\nan... Das hier ist zum Beispiel eine\nMuschel von einer tropischen Insel.$k$pUnd das hier ist ein getrocknetes\nBlatt von einer heißen Quelle.
+MID_OLIVIE_FRIEND: Entschuldigt... Ihr seid doch mit\n$Nf befreundet?\nDann soll ich Euch Grüße ausrichten!
+MID_OLIVIE_LEVEL1: Alle starren mich an!\nWie unangenehm...
+MID_OLIVIE_LEVEL2: Ich denke, ich bin eine\ngroße Hilfe, oder nicht?
+MID_OLIVIE_LEVEL3: E-entschuldige, dass ich\nEuch wieder enttäusche.
+MID_OLIVIE_SKILL: Danke! Aber... werden mich\njetzt nicht alle anstarren?
+MID_OLIVIE_JOIN: Äh... hallo. Ich bin Olivia, eine\nreisende Tänzerin. Ich kann Euch\neine große Hilfe sein. Denke ich...
+MID_OLIVIE_STRONGEST: Äääh... Danke, dass Ihr Euch immer\nZeit nehmt, um mir beim Tanzen zuzu-\nsehen, obwohl Ihr so viel zu tun habt.$k$pIch bin weit gereist, aber noch nie war\nich an einem Ort wie diesem.\nZunächst war ich sehr nervös...$k$pAber Ihr bliebt stets nah bei mir und\nbehieltet mich im Auge. Deshalb fiel\nmir die Eingewöhnung so leicht.$k$pIch hoffe, es ist nicht zu direkt, aber...\nwürdet Ihr Euch meinen neuesten\nTanz ansehen?$k$pIch habe die Choreographie zu Ehren\nunserer Welt gestaltet... und zu Ehren\nder Beziehung, die wir beide teilen.
+MID_OLIVIE_VOICE01: はあっ！
+MID_OLIVIE_VOICE02: えいっ！
+MID_OLIVIE_VOICE03: ひゃっ！
+MID_OLIVIE_VOICE04: Wha?!
+MID_OLIVIE_VOICE05: Starr mich nicht so an!
+MID_OLIVIE_VOICE06: Das wollte ich nicht!
+MID_OLIVIE_VOICE07: Zeit, noch eins draufzupacken!
+MID_OLIVIE_VOICE08: Das wird jetzt etwas pieksen!
+MID_OLIVIE_VOICE09: No...
+MID_OLIVIE_VOICE10: Heehee
+MID_OLIVIE_VOICE11: Ich tu, was ich kann.
+MID_OLIVIE_VOICE12: Ich hoffe, mein Tanz hilft.
+MID_OLIVIE_VOICE13: Um, did you need something?
+MID_OLIVIE_VOICE14: I've traveled lots, but I've never been someplace like this before!
+MID_OLIVIE_VOICE15: I hope my dancing brings a little more happiness into the world.
+MID_OLIVIE_VOICE16: 5, 6, 7, 8... What's my next step?
+MID_OLIVIE_VOICE17: I'll be happy to dance anytime you want to see me perform.
+MID_OLIVIE_VOICE18: OK!
+MID_OLIVIE_VOICE19: All right!
+MID_OLIVIE_VOICE20: Uh, sure!

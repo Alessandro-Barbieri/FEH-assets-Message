@@ -1,0 +1,38 @@
+[Heroes Archive] (ELIWOD)
+
+
+Heroes Message Name: Message
+
+
+MID_ELIWOD_HOME1: Questo regno è vessato dalla guerra.\nHo paura che, dovunque io vada, ci\nsiano sempre conflitti ad attendermi.
+MID_ELIWOD_HOME2: Forse non sarò il più forte tra gli eroi,\nma darò il massimo in ogni missione.\nPuoi contarci.
+MID_ELIWOD_HOME3: Grazie a te ognuno di noi ha la forza\ndi scendere al meglio in battaglia.\nSei un punto di riferimento per tutti.
+MID_ELIWOD_HOME4: Mi farebbe piacere fare due passi\ncon te. Speriamo che il tempo sia\nclemente, oggi.
+MID_ELIWOD_HOME5: Mio figlio Roy è la mia gioia e il mio\norgoglio. Non ho paura di ammettere\nche mi è di gran lunga superiore.$k$pÈ un combattente più forte, ma non\nsolo. È anche molto più esperto\ndi me nella scuola della vita.
+MID_ELIWOD_FRIEND: $Nf mi ha\nchiesto di farti visita. Che la vostra\namicizia possa durare per sempre.
+MID_ELIWOD_LEVEL1: Eccellente! Ora potrò essere\ndi maggiore aiuto al gruppo!
+MID_ELIWOD_LEVEL2: Sono soddisfatto. Devo\ncontinuare così.
+MID_ELIWOD_LEVEL3: Ti chiedo scusa. Credo di\nnon sentirmi troppo bene.
+MID_ELIWOD_SKILL: Non mi monterò la testa.\nMi allenerò ancora di più.
+MID_ELIWOD_JOIN: Sono Eliwood, nobile di un piccolo\nterritorio conosciuto come Pherae.\nSpero di poter esserti utile.
+MID_ELIWOD_STRONGEST: Se ripenso al nostro primo incontro,\nho come l'impressione che i nostri\ndestini fossero destinati a incrociarsi.$k$pTu credi in ciascuno di noi, è normale.\nE dai $Gtutto te stesso,tutta te stessa|, senza fare\npreferenze.$k$pIo però mi sento più coraggioso,\nda quando ti conosco. Sei come\nun raggio di speranza, per me.$k$pMi sento come se potessi superare\nqualunque ostacolo e solo di rado ho\navvertito una tale forza in me.$k$pEcco perché spero di continuare a\ncombattere al tuo fianco, per tutto\nil tempo che lo vorrai.
+MID_ELIWOD_VOICE01: はっ！
+MID_ELIWOD_VOICE02: せいっ！
+MID_ELIWOD_VOICE03: うああっ！
+MID_ELIWOD_VOICE04: Drat...
+MID_ELIWOD_VOICE05: Stammi lontano!
+MID_ELIWOD_VOICE06: Così dovrebbe andare!
+MID_ELIWOD_VOICE07: Prendi questo!
+MID_ELIWOD_VOICE08: Osservami all'opera!
+MID_ELIWOD_VOICE09: Forgive me...
+MID_ELIWOD_VOICE10: Haha
+MID_ELIWOD_VOICE11: Hmm? Did you need me?
+MID_ELIWOD_VOICE12: Ha! Want to bend my ear? You need only ask!
+MID_ELIWOD_VOICE13: Both you and this place couldn't be more welcoming. Thank you.
+MID_ELIWOD_VOICE14: I'm not the hardiest fighter you'll ever meet, but I'll prove my use.
+MID_ELIWOD_VOICE15: I can tell you're the type to push yourself too hard. So please, take care.
+MID_ELIWOD_VOICE16: You seem to gather very good friends around you. Admirable!
+MID_ELIWOD_VOICE17: May we all return from battle alive and unscathed.
+MID_ELIWOD_VOICE18: Very well.
+MID_ELIWOD_VOICE19: What next?
+MID_ELIWOD_VOICE20: Let's go.

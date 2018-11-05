@@ -1,0 +1,39 @@
+[Heroes Archive] (LUCINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_HOME1: お父様、お母様…\nすべての戦いが終わったときには、\n空の上から褒めてくださいね…
+MID_LUCINA_HOME2: 私のいた世界では、国も、民たちも…\n邪竜ギムレーの手により滅ぼされました。\nもう二度と、あんな未来にさせはしません。
+MID_LUCINA_HOME3: 陣営内の見回りですか？\n疲れたら私が代わりますので、\nどうか無理はしないでくださいね。
+MID_LUCINA_HOME4: 今度お買い物に行きませんか？\nせっかくなので私、この世界にある\nお洒落なお洋服を着てみたいです。
+MID_LUCINA_HOME5: す、すみません…訓練をしていたら、\n勢いあまってその…\n壁に大穴を空けてしまいました…
+MID_LUCINA_FRIEND: $Nfさんから、\nあなたにご挨拶をしてきてほしい…と。\nお二人は仲良しなのですね。
+MID_LUCINA_LEVEL1: もう誰も…\n死なせはしません…！
+MID_LUCINA_LEVEL2: この調子で、\nもっともっと強く…
+MID_LUCINA_LEVEL3: もっと強くならないと\nいけないのに…！
+MID_LUCINA_SKILL: ありがとうございます。\nこの力できっと運命を拓きます。
+MID_LUCINA_JOIN: 私はルキナ。未来のイーリス王女…\n絶望の未来から来た、クロムの娘です。\nこの力で、運命を変えてみせます！
+MID_LUCINA_STRONGEST: この世界は本当に美しいですね。\n白いお城、抜けるように青い空…\nそれから、豊かな木々に花々。$k$p…どれも、かけがえのないものです。\n$Nuさん…\nこの世界、必ず守りましょうね。$k$p私の故郷は戦で滅びてしまいました。\nでも、この場所はあんな風にさせません。\nもう誰にも同じ思いをして欲しくない…$k$p…え？　そんな顔をするな？\n慰めてくださっているのですね。\nありがとうございます…$k$p私はあなたの優しさと強さに、\nいつも助けられているんですよ。\nこれからも、お傍にいさせてくださいね。\n
+MID_LUCINA_VOICE01: やっ！
+MID_LUCINA_VOICE02: はあっ！
+MID_LUCINA_VOICE03: うあっ！
+MID_LUCINA_VOICE04: 不覚です…
+MID_LUCINA_VOICE05: 運命を変えます！
+MID_LUCINA_VOICE06: 本気でいきます！
+MID_LUCINA_VOICE07: これが絆です！
+MID_LUCINA_VOICE08: 絶望なんかしない！
+MID_LUCINA_VOICE09: こんな…ところで…
+MID_LUCINA_VOICE10: ふふっ
+MID_LUCINA_VOICE11: あなたともっとお話ししたいです
+MID_LUCINA_VOICE12: 私にも、素敵な仲間がいるんですよ
+MID_LUCINA_VOICE13: お洋服、どこで買われたんですか？
+MID_LUCINA_VOICE14: 私の生まれた世界は、絶望に満ちていました…
+MID_LUCINA_VOICE15: 世界の平和と仲間の命が天秤にかかったら、私は…
+MID_LUCINA_VOICE16: お父様はまた訓練をしているのでしょうか…
+MID_LUCINA_VOICE17: このファルシオンで、きっとあなたのお役に立ってみせます
+MID_LUCINA_VOICE18: はい
+MID_LUCINA_VOICE19: 行きましょう
+MID_LUCINA_VOICE20: 大丈夫です
+MID_LUCINA_VOICE21: 私も頑張りますよ、お父様。

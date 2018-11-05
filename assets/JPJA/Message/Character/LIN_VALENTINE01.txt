@@ -1,0 +1,38 @@
+[Heroes Archive] (LIN_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_LIN_VALENTINE01_HOME1: あなたのいた世界にも\n愛の祭があったのね。\nたくさん贈り物をもらったの？
+MID_LIN_VALENTINE01_HOME2: こ、この格好、\nなんだか動きにくいわ…\nかしこまった礼服は苦手ね。
+MID_LIN_VALENTINE01_HOME3: ね、ねえ、$Nu、\nあなたが好きなものって…\nな、なんでもないわ。気にしないで！
+MID_LIN_VALENTINE01_HOME4: 草原の民は、色んな部族に分かれてて、\n他の部族への贈り物や祝い事は\nとても重要な行事だったの。
+MID_LIN_VALENTINE01_HOME5: ヘクトルとエリウッドの手合わせ、\n今度私も混ぜて欲しいわ。\nヘクトルには返したい借りもあるし。
+MID_LIN_VALENTINE01_FRIEND: $Nfから\nあなたへの贈り物よ。\n受け取ってあげて。
+MID_LIN_VALENTINE01_LEVEL1: この格好、\n思ってたより良い調子ね！
+MID_LIN_VALENTINE01_LEVEL2: 贈り物も戦いも、\n手は抜かないわ。
+MID_LIN_VALENTINE01_LEVEL3: 贈り物のことに\n気を取られすぎてたかも…
+MID_LIN_VALENTINE01_SKILL: ありがとう。後でちゃんと\nお返しさせてもらうわね。
+MID_LIN_VALENTINE01_JOIN: 私はリンよ。愛の祭は\nこういう格好をするそうなんだけど…\nちょっと動きにくくない？
+MID_LIN_VALENTINE01_STRONGEST: ね、ねえ、$Nu、\nあなたが欲しいものって…\n何？$k$pあ、ごめんなさい。\n急に変なこと聞いて…\nびっくりさせちゃった？$k$pあなたにはずっと助けられてきたから…\nお礼がしたいの。\nでも、何が良いのかわからなくて…$k$p私があげられるものだったら、\nなんでも構わないわ。\n遠慮せずに言ってね。$k$p教えて、\nあなたが欲しいもの…\n
+MID_LIN_VALENTINE01_VOICE01: それっ！
+MID_LIN_VALENTINE01_VOICE02: あげるわ
+MID_LIN_VALENTINE01_VOICE03: いやぁっ！
+MID_LIN_VALENTINE01_VOICE04: そんな…！
+MID_LIN_VALENTINE01_VOICE05: 贈り物よ
+MID_LIN_VALENTINE01_VOICE06: 受け取りなさい！
+MID_LIN_VALENTINE01_VOICE07: 気持ちを込めて…
+MID_LIN_VALENTINE01_VOICE08: 甘くないわよ
+MID_LIN_VALENTINE01_VOICE09: ああ…壊れちゃう…
+MID_LIN_VALENTINE01_VOICE10: あ…
+MID_LIN_VALENTINE01_VOICE11: 贈り物をするお祭りは、私たちの部族にもあったのよ
+MID_LIN_VALENTINE01_VOICE12: きゃっ！？　…もう、贈り物を落とすところだったわ。
+MID_LIN_VALENTINE01_VOICE13: おじい様には、何を贈ったら良いかしら…？
+MID_LIN_VALENTINE01_VOICE14: 好きな人に贈り物をあげると、恋人同士になれるお祭りなんですって。
+MID_LIN_VALENTINE01_VOICE15: 私が欲しいもの？　うーん…そう言われると悩むわね…
+MID_LIN_VALENTINE01_VOICE16: 普段は口にできない、大切な気持ちを込めて…か…
+MID_LIN_VALENTINE01_VOICE17: ね、ねえ…あなたが欲しいものって…何…？
+MID_LIN_VALENTINE01_VOICE18: 素敵…
+MID_LIN_VALENTINE01_VOICE19: 悩むわね…
+MID_LIN_VALENTINE01_VOICE20: 何が好き？

@@ -1,0 +1,38 @@
+[Heroes Archive] (SHEEDA)
+
+
+Heroes Message Name: Message
+
+
+MID_SHEEDA_HOME1: Einen guten Tag! Habt Ihr zufällig\nden Prinzen Marth irgendwo gesehen?
+MID_SHEEDA_HOME2: Ich mag eine Prinzessin sein, aber\nmeine Heimat Talys ist ein Inselreich.\nAlso ist mein Ansehen eher gering.
+MID_SHEEDA_HOME3: Ihr scheint immer so beschäftigt.\nLasst es mich wissen, wenn ich\nEuch irgendwie unterstützen kann.
+MID_SHEEDA_HOME4: Wir haben im Moment viele Feinde,\naber ich bin sicher: Wir können sie zu\nunseren Verbündeten machen!
+MID_SHEEDA_HOME5: Ich habe gerade einen Eintopf ge-\nkocht. Möchtet Ihr etwas probieren,\nsolange er noch heiß ist?
+MID_SHEEDA_FRIEND: Wisst Ihr, wer eine hohe Meinung von\nEuch hat - und mich bat, Euch zu\ngrüßen? $Nf!
+MID_SHEEDA_LEVEL1: Ich spüre, wie meine\nKräfte zunehmen.
+MID_SHEEDA_LEVEL2: Jetzt kann ich Euch\nnoch besser helfen.
+MID_SHEEDA_LEVEL3: Verzeiht. Es scheint, als\nsei heute nicht mein Tag.
+MID_SHEEDA_SKILL: Diese neue Kraft will ich nutzen,\num der ganzen Truppe zu helfen.
+MID_SHEEDA_JOIN: Ich bin Prinzessin Shiida von Talys.\nAußerdem bin ich Pegasusritterin,\nwenn auch eher eine ungewöhnliche.
+MID_SHEEDA_STRONGEST: Eure Stärke hat mich immer beein-\ndruckt. Ich fühlte mich immer schwach,\nabhängig vom Schutz anderer.$k$pIch habe Euch um Eure Stärke\nbeneidet. Aber nun denke ich,\nich habe es verstanden...$k$pDiese Stärke kommt vom Glauben\nan Eure Verbündeten. Und in meiner\n"Schwäche" liegt wohl Eure Stärke.$k$pIch würde gerne länger bei Euch\nbleiben und mehr von Euch und über\nEure Stärke lernen, wenn ich darf.$k$pHihihi... Ich weiß es zu schätzen. Ich\nfreue mich darauf, Euch aus aller-\nnächster Nähe zu erleben...\n
+MID_SHEEDA_VOICE01: はいっ！
+MID_SHEEDA_VOICE02: えいっ！
+MID_SHEEDA_VOICE03: きゃああっ！
+MID_SHEEDA_VOICE04: I won't...lose...
+MID_SHEEDA_VOICE05: Leg deine Waffe nieder!
+MID_SHEEDA_VOICE06: Aus dem Weg bitte!
+MID_SHEEDA_VOICE07: Ich erledige meinen Teil!
+MID_SHEEDA_VOICE08: Ich will dir nicht wehtun!
+MID_SHEEDA_VOICE09: Too weak...
+MID_SHEEDA_VOICE10: Heehee
+MID_SHEEDA_VOICE11: What's the matter? Can I help?
+MID_SHEEDA_VOICE12: Ahh! Don't startle me like that!
+MID_SHEEDA_VOICE13: You seem to be a very kindhearted person.
+MID_SHEEDA_VOICE14: Tell me—do you believe in love?
+MID_SHEEDA_VOICE15: I'm so glad we have a chance to talk! It's always a pleasure.
+MID_SHEEDA_VOICE16: Would you consider me a "tomboy"?
+MID_SHEEDA_VOICE17: Let us fight side by side forever.
+MID_SHEEDA_VOICE18: Certainly.
+MID_SHEEDA_VOICE19: What next?
+MID_SHEEDA_VOICE20: Let's go.

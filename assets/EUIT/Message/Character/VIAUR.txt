@@ -1,0 +1,38 @@
+[Heroes Archive] (VIAUR)
+
+
+Heroes Message Name: Message
+
+
+MID_VIAUR_HOME1: Oh, noia crudele, perché continui a\nperseguitarmi? Forse potrei distrarmi\nun po' guardandomi in uno specchio...
+MID_VIAUR_HOME2: Sono il legittimo governatore della\nRosanne, un ducato del lontano Valm.\nLasciai la mia patria... mio malgrado.
+MID_VIAUR_HOME3: Trovo il tuo impegno nel pattugliare e\nnel guidarci alquanto lodevole. Hai\ninfatti meritato la mia attenzione!
+MID_VIAUR_HOME4: Posso proporti di misurarti con me in\nuna partita a scacchi? Prometto di\nbarare solo se stai vincendo tu.
+MID_VIAUR_HOME5: Ho preparato del tè utilizzando alcune\ndelle misteriose erbe che crescono su\nquesta terra... Mmmh? Sono ortiche?
+MID_VIAUR_FRIEND: I miei gentili ossequi da parte di\n$Nf,\n$Nu!
+MID_VIAUR_LEVEL1: Per favore! Evitate\nsguardi invidiosi.
+MID_VIAUR_LEVEL2: È il minimo che io possa fare.\nNe va della mia reputazione!
+MID_VIAUR_LEVEL3: Cosa? Ho ottenuto così poco\nnonostante i miei sforzi?
+MID_VIAUR_SKILL: Mi hai donato più potere per\neguagliare il mio splendore!
+MID_VIAUR_JOIN: Sono Virion, il più abile di tutti\ngli arcieri. Provengo da una nobile\nterra e ti offro i miei servigi.
+MID_VIAUR_STRONGEST: $Nu, mi\nconcederesti qualche istante\ndel tuo tempo?$k$pHo di recente maturato un certo\ninteresse per alcuni giochi di altre\nculture. Ne proveresti uno con me?$k$pIn questo, la plancia rappresenta\nil campo di battaglia e quella\nsfavillante gemma saresti tu.$k$pTutti gli altri pezzi vengono mossi\nsul campo di battaglia, come\nd'altronde accade nella realtà.$k$pProprio così. Molto bene, noto\nche hai già acquisito una certa\ndimestichezza con questo gioco.$k$pTuttavia, mi pare di capire che\nnon intendi sacrificare quella\npiccola e sfavillante gemma...$k$pDel resto, come biasimarti?\nTra tutte spicca per bellezza!$k$pIn verità la tua strategia è vana.\nLogica vorrebbe che ogni pezzo sia\nsacrificabile per un bene superiore.$k$pE ciò implicherebbe anche sacrificare\nme per il bene di tutti gli altri.$k$pD'altronde, altri eroi possono essere\nevocati in battaglia. Eppure, erro o\ntale possibilità ti repelle alquanto?$k$pNon intendi sacrificare alcuno di noi,\nnon è forse vero? In tal caso, in\nqualità di primo eroe da te evocato...$k$p... sarà mio dovere effondere ogni\nsforzo nel diventare la gemma più\nsfavillante in tuo possesso!
+MID_VIAUR_VOICE01: はっ！
+MID_VIAUR_VOICE02: そぉれ！
+MID_VIAUR_VOICE03: おわっ！？
+MID_VIAUR_VOICE04: Irksome...
+MID_VIAUR_VOICE05: Muori con magnificenza!
+MID_VIAUR_VOICE06: I bardi mi ricorderanno!
+MID_VIAUR_VOICE07: Quanta perfezione!
+MID_VIAUR_VOICE08: Ho un regalo per te.
+MID_VIAUR_VOICE09: No...!
+MID_VIAUR_VOICE10: Whew...
+MID_VIAUR_VOICE11: Greetings! You appear to be in high spirits today.
+MID_VIAUR_VOICE12: I fancy a cup of tea right now. Care to join me?
+MID_VIAUR_VOICE13: I see that, like so many, you have been spellbound by my elegance.
+MID_VIAUR_VOICE14: Isn't my ruff extraordinary? ...What?! You thought it was a bib?!
+MID_VIAUR_VOICE15: I know my radiance makes it difficult, but do try not to stare.
+MID_VIAUR_VOICE16: *sigh* I miss the noble pastimes of my homeland.
+MID_VIAUR_VOICE17: You may count on my help until the war is won.
+MID_VIAUR_VOICE18: Very well.
+MID_VIAUR_VOICE19: Indeed.
+MID_VIAUR_VOICE20: Quite so.

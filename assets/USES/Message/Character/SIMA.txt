@@ -1,0 +1,38 @@
+[Heroes Archive] (SIMA)
+
+
+Heroes Message Name: Message
+
+
+MID_SIMA_HOME1: Este castillo parece sólido y fácil\nde defender. Espero que se pueda\ndecir lo mismo de tu reino.
+MID_SIMA_HOME2: Puede que sea una líder inexperta,\npero cumpliré las expectativas y\njamás traicionaré a mi gente.
+MID_SIMA_HOME3: ¿Hay algo en lo que pueda servirte\nde ayuda? Sería mi forma de darte\nlas gracias por todo lo que haces.
+MID_SIMA_HOME4: Qué alegre es la gente de este reino.\nAhora que la conozco, siento la\nnecesidad de protegerla a toda costa.
+MID_SIMA_HOME5: ¿Te parece pesada mi armadura?\nEn el fondo resulta liviana\nsi la comparas con la corona...
+MID_SIMA_FRIEND: Soy Sheena.\nVengo a saludarte de parte\nde $Nf.
+MID_SIMA_LEVEL1: Mi poder sigue aumentando.\n¡Adelante!
+MID_SIMA_LEVEL2: Continuaré mejorando\npaso a paso.
+MID_SIMA_LEVEL3: Esto no se puede considerar\nun progreso.
+MID_SIMA_SKILL: ¿Tanto poder para mí?\nCasi no puedo creerlo...
+MID_SIMA_JOIN: Soy Sheena, princesa de Gra.\nHeredé sin quererlo el trono\nde mi difunto padre, el rey Jiol.
+MID_SIMA_STRONGEST: Tengo entendido que tú también\nprovienes de otro mundo.$k$pMe pregunto qué te impulsa\na luchar con semejante ahínco\npor este, en ese caso...$k$p¿Tanto aprecio sientes por las\npersonas que conociste aquí?$k$pSi es así, te entiendo. Yo tampoco\nsoy capaz de abandonar a su\nsuerte a un amigo en apuros.$k$pPor eso no pienso separarme de ti.\nSi decides quedarte y seguir\nluchando, te protegeré.
+MID_SIMA_VOICE01: むんっ！
+MID_SIMA_VOICE02: せいっ！
+MID_SIMA_VOICE03: うああっ！
+MID_SIMA_VOICE04: My armor...
+MID_SIMA_VOICE05: No soy una princesita.
+MID_SIMA_VOICE06: ¡Caerás!
+MID_SIMA_VOICE07: ¡Por el pueblo!
+MID_SIMA_VOICE08: ¡Jamás me rendiré!
+MID_SIMA_VOICE09: Forgive me.
+MID_SIMA_VOICE10: Hmm...
+MID_SIMA_VOICE11: Did you have something to discuss?
+MID_SIMA_VOICE12: I never know when to be princess and when to be warrior.
+MID_SIMA_VOICE13: I'm not sure if I can lead a kingdom, but I will fight for you.
+MID_SIMA_VOICE14: This armor is the pride of my homeland.
+MID_SIMA_VOICE15: I have often been called...stubborn.
+MID_SIMA_VOICE16: I wonder how my people fare without me...
+MID_SIMA_VOICE17: I will continue to put my trust in you.
+MID_SIMA_VOICE18: Understood.
+MID_SIMA_VOICE19: Command me.
+MID_SIMA_VOICE20: Agreed.

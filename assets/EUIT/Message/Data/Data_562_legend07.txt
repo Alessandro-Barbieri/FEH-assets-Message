@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_562_legend07)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201808A_TITLE: Imprese agosto (1)
+MID_MISSION_M201808A_A1: Vinci con unità rossa
+MID_MISSION_H_M201808A_A1: Sconfiggi un nemico con un'unità di tipo rosso.
+MID_MISSION_M201808A_A2: Vinci con unità volante
+MID_MISSION_H_M201808A_A2: Sconfiggi un nemico con un'unità volante.
+MID_MISSION_M201808A_A3: Batti nemico blu
+MID_MISSION_H_M201808A_A3: Sconfiggi un nemico di tipo blu.
+MID_MISSION_M201808A_A4: Batti nemico a cavallo
+MID_MISSION_H_M201808A_A4: Sconfiggi un'unità di cavalleria nemica.
+MID_MISSION_M201808A_A5: Arena: vinci duelli
+MID_MISSION_H_M201808A_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_M201808A_A6: Verde batte nem. Liv 20+
+MID_MISSION_H_M201808A_A6: Sconfiggi un nemico di livello 20 o superiore\ncon un'unità di tipo verde.
+MID_MISSION_M201808A_A7: Cavall. batte nem. Liv 20+
+MID_MISSION_H_M201808A_A7: Sconfiggi un nemico di livello 20 o superiore\ncon un'unità a cavallo.
+MID_MISSION_M201808A_A8: Batti nem. rosso Liv 20+
+MID_MISSION_H_M201808A_A8: Sconfiggi un nemico di tipo rosso\ndi livello 20 o superiore.
+MID_MISSION_M201808A_A9: Batti nem. volante Liv 20+
+MID_MISSION_H_M201808A_A9: Sconfiggi un nemico volante di livello 20\no superiore.
+MID_MISSION_M201808A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201808A_A10: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_M201808A_A11: Blu batte nem. Liv 35+
+MID_MISSION_H_M201808A_A11: Sconfiggi un nemico di livello 35 o superiore\ncon un'unità di tipo blu.
+MID_MISSION_M201808A_A12: Fant. batte nem. Liv 35+
+MID_MISSION_H_M201808A_A12: Sconfiggi un nemico di livello 35 o superiore\ncon un'unità di fanteria.
+MID_MISSION_M201808A_A13: Batti nem. verde Liv 35+
+MID_MISSION_H_M201808A_A13: Sconfiggi un nemico di tipo verde di livello 35\no superiore.
+MID_MISSION_M201808A_A14: Batti nem. fanteria Liv 35+
+MID_MISSION_H_M201808A_A14: Sconfiggi un'unità di fanteria nemica\ndi livello 35 o superiore.
+MID_MISSION_M201808A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201808A_A15: Vinci duelli nell'arena di livello\navanzato.
+MID_MISSION_M201808B_TITLE: Imprese agosto (2)
+MID_MISSION_M201808B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201808B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201808B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201808B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201808B_A4: Completa il quarto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201808B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201808B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201808B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201808B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201808B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201808B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201808B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201808B_A12: Completa il decimo piano della torre di\nallenamento con sole unità corazzate.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201808B_A13: Completa il decimo piano della torre di\nallenamento con sole unità a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201808B_A14: Completa il decimo piano della torre di\nallenamento con sole unità volanti.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_TITLE: Imprese agosto (3)
+MID_MISSION_M201808C_A1: Completa 5-1
+MID_MISSION_H_M201808C_A1: Completa il cap. 5, parte 1. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808C_A2: Completa 5-2
+MID_MISSION_H_M201808C_A2: Completa il cap. 5, parte 2 con un'unità\nrossa in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808C_A3: Completa 5-3
+MID_MISSION_H_M201808C_A3: Completa il cap. 5, parte 3 con un'unità\nblu in squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201808C_A4: Completa 5-4
+MID_MISSION_H_M201808C_A4: Completa il cap. 5, parte 4 con un'unità\nverde in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808C_A5: Completa 5-5
+MID_MISSION_H_M201808C_A5: Completa il cap. 5, parte 5 con un'unità\nneutra in squadra. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201808C_A6: Completa 8-1 difficile+
+MID_MISSION_H_M201808C_A6: Completa il cap. 8, parte 1 al livello di\ndifficoltà difficile o superiore. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201808C_A7: Completa 8-2 difficile+
+MID_MISSION_H_M201808C_A7: Completa il cap. 8, parte 2 con un'unità rossa\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A8: Completa 8-3 difficile+
+MID_MISSION_H_M201808C_A8: Completa il cap. 8, parte 3 con un'unità blu\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A9: Completa 8-4 difficile+
+MID_MISSION_H_M201808C_A9: Completa il cap. 8, parte 4 con un'unità verde\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A10: Completa 8-5 difficile+
+MID_MISSION_H_M201808C_A10: Completa il cap. 8, parte 5 con un'unità neutra\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A11: Completa 11-1 folle
+MID_MISSION_H_M201808C_A11: Completa il cap. 11, parte 1 alla difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A12: Completa 11-2 folle
+MID_MISSION_H_M201808C_A12: Completa il cap. 11, parte 2 con un'unità\nrossa in squadra alla difficoltà folle. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A13: Completa 11-3 folle
+MID_MISSION_H_M201808C_A13: Completa il cap. 11, parte 3 con un'unità\nblu in squadra alla difficoltà folle. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A14: Completa 11-4 folle
+MID_MISSION_H_M201808C_A14: Completa il cap. 11, parte 4 con un'unità\nverde in squadra alla difficoltà folle. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201808C_A15: Completa 11-5 folle
+MID_MISSION_H_M201808C_A15: Completa il cap. 11, parte 5 con un'unità\nneutra in squadra alla difficoltà folle. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_S201808CHARA01_TITLE: Tre eroi
+MID_MISSION_S201808CHARA01_A1: Vinci
+MID_MISSION_H_S201808CHARA01_A1: Sconfiggi un nemico.
+MID_MISSION_S201808CHARA01_A2: Vinci con Nina
+MID_MISSION_H_S201808CHARA01_A2: Usa Nina, la maga devota, per sconfiggere\nun nemico.
+MID_MISSION_S201808CHARA01_A3: Vinci con Daraen
+MID_MISSION_H_S201808CHARA01_A3: Usa Daraen, il liberatore, per sconfiggere\nun nemico.
+MID_MISSION_S201808CHARA01_B1: Batti nemico Liv 20+
+MID_MISSION_H_S201808CHARA01_B1: Usa Nina, la maga devota, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201808CHARA01_B2: Batti nemico Liv 20+
+MID_MISSION_H_S201808CHARA01_B2: Usa Daraen, il liberatore, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201808CHARA01_B3: Batti nemico Liv 20+
+MID_MISSION_H_S201808CHARA01_B3: Usa Wrys per sconfiggere un nemico\ndi livello 20 o superiore.
+MID_MISSION_S201808CHARA01_C1: Batti nemico Liv 35+
+MID_MISSION_H_S201808CHARA01_C1: Usa Nina, la maga devota, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201808CHARA01_C2: Batti nemico Liv 35+
+MID_MISSION_H_S201808CHARA01_C2: Usa Daraen, il liberatore, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201808CHARA01_C3: Batti nemico Liv 35+
+MID_MISSION_H_S201808CHARA01_C3: Usa Wrys per sconfiggere un nemico\ndi livello 35 o superiore.
+MID_MISSION_S201808DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201808DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201808DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201808DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201808DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201808DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201808DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201808DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201808DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201808DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201808DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201808DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201808DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201808HERO01_TITLE: Grandi battaglie
+MID_MISSION_S201808HERO01_A1: Batti Takumi
+MID_MISSION_H_S201808HERO01_A1: Con Fjorm nella tua squadra,\nvinci la Grande battaglia contro\nTakumi, il guscio vuoto.
+MID_MISSION_S201808HERO01_A2: Batti Takumi
+MID_MISSION_H_S201808HERO01_A2: Con Takumi, il guscio vuoto, nella tua squadra,\nvinci la Grande battaglia contro Takumi,\nil guscio vuoto, al livello folle o superiore.
+MID_MISSION_S201808HERO01_A3: Batti Takumi
+MID_MISSION_H_S201808HERO01_A3: Batti Takumi, il guscio vuoto, di livello 40\no superiore con Fjorm.
+MID_MISSION_S201808HERO01_A4: Batti Takumi
+MID_MISSION_H_S201808HERO01_A4: Batti Takumi, il guscio vuoto, di livello 40\no superiore con Takumi, il guscio vuoto.
+MID_MISSION_S201808HERO01_A5: Batti Takumi
+MID_MISSION_H_S201808HERO01_A5: Vinci la Grande battaglia contro Takumi,\nil guscio vuoto, al livello folle o superiore\ncon una squadra di sole unità corazzate.
+MID_MISSION_S201808KINEN01_TITLE: L'estate di Feh
+MID_MISSION_S201808KINEN01_A1: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A1: Sconfiggi un nemico di tipo verde di livello 10\no superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A2: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A2: Sconfiggi un nemico di tipo rosso di livello 10\no superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A3: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A3: Sconfiggi un nemico di tipo blu di livello 10\no superiore con un'unità di tipo verde.
+MID_MISSION_S201808KINEN01_A4: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A4: Sconfiggi un nemico con ascia di livello 10\no superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A5: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A5: Sconfiggi un nemico con spada di livello 10\no superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A6: Batti nemico Liv 10+
+MID_MISSION_H_S201808KINEN01_A6: Sconfiggi un nemico con lancia di livello 10\no superiore con un'unità di tipo verde.
+MID_MISSION_S201808KINEN01_A7: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A7: Sconfiggi un nemico di tipo verde di livello 20\no superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A8: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A8: Sconfiggi un nemico di tipo rosso di livello 20\no superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A9: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A9: Sconfiggi un nemico di tipo blu di livello 20\no superiore con un'unità di tipo verde.
+MID_MISSION_S201808KINEN01_A10: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A10: Sconfiggi un nemico con magia verde di livello\n20 o superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A11: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A11: Sconfiggi un nemico con magia rossa di livello\n20 o superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A12: Batti nemico Liv 20+
+MID_MISSION_H_S201808KINEN01_A12: Sconfiggi un nemico con magia blu di livello 20\no superiore con un'unità di tipo verde.
+MID_MISSION_S201808KINEN01_A13: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A13: Sconfiggi un nemico di tipo verde di livello 35\no superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A14: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A14: Sconfiggi un nemico di tipo rosso di livello 35\no superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A15: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A15: Sconfiggi un nemico di tipo blu di livello 35\no superiore con un'unità di tipo verde.
+MID_MISSION_S201808KINEN01_A16: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A16: Sconfiggi un nemico di tipo neutro di livello 35\no superiore con un'unità di tipo neutro.
+MID_MISSION_S201808KINEN01_A17: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A17: Sconfiggi un nemico drago verde di livello 35\no superiore con un'unità di tipo rosso.
+MID_MISSION_S201808KINEN01_A18: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A18: Sconfiggi un nemico con bastone di livello 35\no superiore con un'unità di tipo blu.
+MID_MISSION_S201808KINEN01_A19: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A19: Sconfiggi un nemico di tipo neutro con arco\ndi livello 35 o superiore con un'unità\ndi tipo verde.
+MID_MISSION_S201808KINEN01_A20: Batti nemico Liv 35+
+MID_MISSION_H_S201808KINEN01_A20: Sconfiggi un nemico di tipo neutro con pugnale\ndi livello 35 o superiore con un'unità\ndi tipo neutro.
+MPID_伝承ルキナ: Lucina
+MPID_HONOR_伝承ルキナ: L'arciera gloriosa
+MPID_H_伝承ルキナ: Principessa e figlia di Chrom, ha viaggiato nel\npassato. Ora, con un nuovo abito e una nuova\narma divina in mano, torna a combattere.\nCompare in Fire Emblem: Awakening.
+MPID_VOICE_伝承ルキナ: Alexis Tipton
+MPID_ILLUST_伝承ルキナ: Yamada Kotaro (山田孝太郎)
+MPID_LEGEND_伝承ルキナ: Effetto leggendario: vento\nIncremento alleato: PS +3, Vel +3\n\nSe quest'unità scende in battaglia durante\nla stagione del vento con alleati che hanno\nil Dono del vento, questi alleati ricevono\nquest'effetto leggendario.
+MSID_ソグン: Thögn
+MSID_未来を映す瞳: Premonizione
+MSID_遠距離警戒1: Guardia dist. 1
+MSID_遠距離警戒2: Guardia dist. 2
+MSID_遠距離警戒3: Guardia dist. 3
+MSID_H_ソグン: Efficace contro le unità volanti. Conferisce\nVel +3. Se l'unità attacca per prima e se\nil nemico usa spada, lancia, ascia o pietra\ndrago, Att/Vel/Dif/Res +4 durante lo scontro.
+MSID_H_未来を映す瞳: Scambia il posto dell'unità con quello\ndell'alleato. Permette all'unità di agire\ndi nuovo (solo 1 volta per turno).
+MSID_H_遠距離警戒1: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa arco, pugnale, tomo\no bastone, Dif/Res +2 durante lo scontro."
+MSID_H_遠距離警戒2: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa arco, pugnale, tomo\no bastone, Dif/Res +3 durante lo scontro."
+MSID_H_遠距離警戒3: Gli alleati entro 2 spazi ottengono:\n"Se il nemico usa arco, pugnale, tomo\no bastone, Dif/Res +4 durante lo scontro."
+MID_STAGE_HONOR_L0005: L'arciera gloriosa
+MID_STAGE_L0005: Lucina
+MID_STAGE_HONOR_V0261: Giornaliere
+MID_STAGE_V0261: Parte 1
+MID_STAGE_HONOR_V0262: Giornaliere
+MID_STAGE_V0262: Parte 2
+MID_STAGE_HONOR_V0263: Giornaliere
+MID_STAGE_V0263: Parte 3
+MID_STAGE_HONOR_V0264: Giornaliere
+MID_STAGE_V0264: Parte 4
+MID_STAGE_HONOR_V0265: Giornaliere
+MID_STAGE_V0265: Parte 5
+MID_STAGE_HONOR_V0266: Giornaliere
+MID_STAGE_V0266: Parte 6
+MID_STAGE_HONOR_V0267: Giornaliere
+MID_STAGE_V0267: Parte 7
+MID_STAGE_HONOR_V0268: Giornaliere
+MID_STAGE_V0268: Parte 8
+MID_STAGE_HONOR_V0269: Giornaliere
+MID_STAGE_V0269: Parte 9
+MID_STAGE_HONOR_V0270: Giornaliere
+MID_STAGE_V0270: Parte 10
+MID_STAGE_TITLE_PB021: Le abilità: 21
+MID_STAGE_PB021: Premonizione
+MID_STAGE_TITLE_PB022: Le abilità: 22
+MID_STAGE_PB022: Colpo selv.: attenzione!
+MID_STAGE_TITLE_PC010: Per veterani: 10
+MID_STAGE_PC010: Chi abbatterà il muro?

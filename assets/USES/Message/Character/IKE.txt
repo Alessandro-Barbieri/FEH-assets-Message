@@ -1,0 +1,38 @@
+[Heroes Archive] (IKE)
+
+
+Heroes Message Name: Message
+
+
+MID_IKE_HOME1: Los héroes aquí son fuertes. Estar\ncon ellos me hace sentir...$k$pBah, no importa. Lo que necesito\nes fortalecerme.
+MID_IKE_HOME2: En mi mundo pertenezco a los\nllamados mercenarios de Greil.\nBien es cierto que soy el líder, pero...$k$pNo podría afirmar que llevo nuestras\nfinanzas al día precisamente.
+MID_IKE_HOME3: Avísame si estás $Gcansado,cansada|.\nYo te puedo ayudar... A no ser que\nlo consideres un entrometimiento.
+MID_IKE_HOME4: Practico cuando puedo, normalmente\npor mi cuenta. No se me da muy bien\nhablar con otras personas...
+MID_IKE_HOME5: Cuando era más joven a menudo\npeleaba con mi padre para practicar.$k$pSiempre perdía, me enojaba\ny volvía a cargar contra él.
+MID_IKE_FRIEND: ¿Aquí eres tú quien manda?\nLo seas o no, te traigo saludos\nde $Nf.
+MID_IKE_LEVEL1: Tener tanto poder genera una\nsensación increíble, ¡en serio!
+MID_IKE_LEVEL2: Debo hacerme más fuerte\ny vengar a mi padre.
+MID_IKE_LEVEL3: A este paso jamás alcanzaré\nsuficiente nivel de habilidad...
+MID_IKE_SKILL: Tienes toda mi gratitud. Juro que\npronto saldaré esta deuda.
+MID_IKE_JOIN: Soy Ike, de los mercenarios de Greil.\n¿Eres tú quien contrata mis servicios?\nEstupendo, estoy listo para empezar.
+MID_IKE_STRONGEST: Apenas había dejado atrás\nla niñez cuando mi padre me\nenseñó a usar la espada.$k$pCada entrenamiento era más\nfrustrante que el anterior. Y eso\nque lo intentaba con toda mi alma...$k$pY entonces, mi padre murió.$k$pTuve que velar por mi hermana,\npor los mercenarios, por todo aquel\na quien mi padre protegía... Yo solo.$k$pMe dijeron que usara el don que\nse me había concedido; si lo hacía,\npasarían grandes cosas.$k$pAquel consejo me acompaña desde\nentonces; y aquí estoy, combatiendo\njunto a héroes de verdad.$k$pY contra enemigos que, a veces,\nson más fuertes que yo.\n¿De veras hay lugar aquí para mí?$k$pTú me contrataste y dejaste en\nmanos de la suerte el que pueda\nayudarte a hacer algo grande aquí.$k$pAsí que, sí, dejémonos de rodeos:\ncrees en mí, de modo que estoy\ndispuesto a darlo todo por ti.
+MID_IKE_VOICE01: ふんっ！
+MID_IKE_VOICE02: おおっ！
+MID_IKE_VOICE03: うああっ！
+MID_IKE_VOICE04: I can...keep going...
+MID_IKE_VOICE05: ¡No dejaré que nadie muera!
+MID_IKE_VOICE06: ¡Corre mientras puedas!
+MID_IKE_VOICE07: ¡Acabaré contigo!
+MID_IKE_VOICE08: ¡Fuera de mi camino!
+MID_IKE_VOICE09: Over...
+MID_IKE_VOICE10: Heh
+MID_IKE_VOICE11: I'm Ike, commander of the Greil Mercenaries.
+MID_IKE_VOICE12: Whuh?! Not smart to surprise a mercenary. We're quick on the attack.
+MID_IKE_VOICE13: Sorry if I'm not that great at...this talking stuff. But know you can always count on me.
+MID_IKE_VOICE14: My father taught me how to handle a sword. It's all I know.
+MID_IKE_VOICE15: Pretty good food today. Who was on cooking duty?
+MID_IKE_VOICE16: As a commander, I'm green as they come. But I do my best. Those I fight with...they're family.
+MID_IKE_VOICE17: You hired me. I said I'd get to work. See? I did. Glad to give you everything I have.
+MID_IKE_VOICE18: Sure.
+MID_IKE_VOICE19: OK.
+MID_IKE_VOICE20: On it.

@@ -1,0 +1,38 @@
+[Heroes Archive] (KAREL)
+
+
+Heroes Message Name: Message
+
+
+MID_KAREL_HOME1: Gli eroi più in gamba di tutti i mondi\nriuniti qui? Questo sì che è un evento\nfantastico.
+MID_KAREL_HOME2: Ora la spada della mia famiglia\nappartiene a me. Lei e io siamo\nun tutt'uno.
+MID_KAREL_HOME3: Fammi affrontare il guerriero più\nforte di questo mondo. La mia\nlama ha sete di sangue.
+MID_KAREL_HOME4: Un tempo avrei considerato questo\ntuo atteggiamento come un segno\ndi sfida. Spero tu sappia difenderti.
+MID_KAREL_HOME5: Mi alleno in una tecnica della spada\nche la mia famiglia ha tenuto segreta\nad ogni costo.$k$pDunque ti invito ad allontanarti.\nA meno che tu non voglia assistere...
+MID_KAREL_FRIEND: Se non sbaglio, tu devi essere\n$Nu.$k$pTi ritieni $Gamico,amica| di\n$Nf, dunque?
+MID_KAREL_LEVEL1: Il numero degli avversari che ho\nucciso è incalcolabile. La mia\nspada gode del favore degli dèi.\n
+MID_KAREL_LEVEL2: Devo rendere il mio corpo e la\nmia spada più veloci e letali!
+MID_KAREL_LEVEL3: Ciò è un'onta per la mia spada,\ne per il mio corpo.
+MID_KAREL_SKILL: Sì, sì! Non vedo l'ora di\nbrandire la mia spada!
+MID_KAREL_JOIN: Mi chiamo Karel. Vuoi che ti presenti\nanche la mia spada? Come non\ndetto, non... sei ancora $Gpronto,pronta|.
+MID_KAREL_STRONGEST: Per me sei un mistero. Sono un\ngrande spadaccino e ho sempre\nucciso ogni mio degno avversario.$k$pTu invece non sai combattere, né\ncon la spada né con la magia.\nEppure resto al tuo fianco.$k$pChe dilemma... perché non mi\nseparo da te? Perché continuo\na servirti?$k$pProbabilmente la tua presenza\nin qualche modo mi sprona a\nprogredire e a migliorare!$k$pMa guardaci: il guerriero e\nl'inerme!$k$pCos'altro potrei fare se non\ncontinuare? Almeno, fino al\ngiorno in cui mi sarai d'intralcio!
+MID_KAREL_VOICE01: はっ！
+MID_KAREL_VOICE02: ふっ
+MID_KAREL_VOICE03: うああっ！
+MID_KAREL_VOICE04: ...Not yet...
+MID_KAREL_VOICE05: Dissetati, mia lama!
+MID_KAREL_VOICE06: La mia lama è indomabile!
+MID_KAREL_VOICE07: Il mio sangue ribolle!
+MID_KAREL_VOICE08: Non riesco a... resistere!
+MID_KAREL_VOICE09: Well done.
+MID_KAREL_VOICE10: Hmm.
+MID_KAREL_VOICE11: Point me toward a worthy opponent.
+MID_KAREL_VOICE12: My blade comes out at the...slightest provocation.
+MID_KAREL_VOICE13: I was raised to live and die by the sword. Now, among my family members, I live. My sister does too.
+MID_KAREL_VOICE14: Only one can wield the sword.
+MID_KAREL_VOICE15: My body? My blade? We are one and the same.
+MID_KAREL_VOICE16: I am on the path of the sword. I seek its end—one way or another.
+MID_KAREL_VOICE17: Don't worry. My blade isn't meant for you.
+MID_KAREL_VOICE18: OK...?
+MID_KAREL_VOICE19: Who next?
+MID_KAREL_VOICE20: Time to feast.

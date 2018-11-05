@@ -1,0 +1,145 @@
+[Heroes Archive] (Data_48_spring02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201803BLESS01_TITLE: Bénédiction (terre)
+MID_MISSION_S201803BLESS01_A1: Victoire : héros béni (terre)
+MID_MISSION_H_S201803BLESS01_A1: Vaincre des ennemis avec des héros ayant reçu\nla bénédiction de la terre (ne concerne pas les\nhéros légendaires de type Terre).
+MID_MISSION_S201803BLESS01_A2: Victoire : héros béni (terre)
+MID_MISSION_H_S201803BLESS01_A2: Vaincre des ennemis de niveau 20 ou supérieur\navec des héros ayant reçu la bénédiction de la\nterre (ne concerne pas les héros légendaires\nde type Terre).
+MID_MISSION_S201803BLESS01_A3: Victoire : héros béni (terre)
+MID_MISSION_H_S201803BLESS01_A3: Vaincre des unités rouges de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de la terre (ne concerne pas les\nhéros légendaires de type Terre).
+MID_MISSION_S201803BLESS01_A4: Victoire : héros béni (terre)
+MID_MISSION_H_S201803BLESS01_A4: Vaincre des unités bleues de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de la terre (ne concerne pas les\nhéros légendaires de type Terre).
+MID_MISSION_S201803BLESS01_A5: Victoire : héros béni (terre)
+MID_MISSION_H_S201803BLESS01_A5: Vaincre des unités vertes de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de la terre (ne concerne pas les\nhéros légendaires de type Terre).
+MID_MISSION_S201803BLESS01_A6: Tour : première strate
+MID_MISSION_H_S201803BLESS01_A6: Terminer la 1re strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de la\nterre (ne concerne pas les héros légendaires de\ntype Terre).
+MID_MISSION_S201803BLESS01_A7: Tour : cinquième strate
+MID_MISSION_H_S201803BLESS01_A7: Terminer la 5e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de la\nterre (ne concerne pas les héros légendaires de\ntype Terre).
+MID_MISSION_S201803BLESS01_A8: Tour : dixième strate
+MID_MISSION_H_S201803BLESS01_A8: Terminer la 10e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de la\nterre (ne concerne pas les héros légendaires de\ntype Terre).
+MID_MISSION_S201803KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201803KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201803KIZUNA01_A1: Remporter la bataille de héros liés de Ninian et\nHawkeye avec Anna dans votre équipe.
+MID_MISSION_S201803KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201803KIZUNA01_A2: Remporter la bataille de héros liés de Ninian et\nHawkeye en Expert ou supérieur avec Alfonse,\nle prince d'Askr, dans votre équipe.
+MID_MISSION_S201803KIZUNA01_A3: Ninian
+MID_MISSION_H_S201803KIZUNA01_A3: Avec Anna, vaincre une version de\nniveau 40 ou supérieur de Ninian.
+MID_MISSION_S201803KIZUNA01_A4: Hawkeye
+MID_MISSION_H_S201803KIZUNA01_A4: Avec Alfonse, le prince d'Askr, vaincre\nune version de niveau 40 ou supérieur\nde Ninian.
+MID_MISSION_S201803KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201803KIZUNA01_A5: Remporter la bataille de héros liés de Ninian et\nHawkeye en Expert ou supérieur avec une\néquipe composée exclusivement de cavaliers.
+MID_MISSION_S201803SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201803SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201803SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201803SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201803SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201803SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201803STORY02_TITLE: Lapins printaniers
+MID_MISSION_S201803STORY02_A1: Ann. 19 - Acte 1 (Expert)
+MID_MISSION_H_S201803STORY02_A1: Terminer l'acte 1 de l'annexe 19 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY02_A2: Ann. 19 - Acte 2 (Expert)
+MID_MISSION_H_S201803STORY02_A2: Terminer l'acte 2 de l'annexe 19 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803STORY02_A3: Ann. 19 - Acte 3 (Expert)
+MID_MISSION_H_S201803STORY02_A3: Terminer l'acte 3 de l'annexe 19 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201803TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201803TAPBTL01_D01_A1: Boss
+MID_MISSION_H_S201803TAPBTL01_D01_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D01_A2: Niveau
+MID_MISSION_H_S201803TAPBTL01_D01_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201803TAPBTL01_D02_A1: Boss
+MID_MISSION_H_S201803TAPBTL01_D02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D02_A2: Niveau
+MID_MISSION_H_S201803TAPBTL01_D02_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201803TAPBTL01_D03_A1: Boss
+MID_MISSION_H_S201803TAPBTL01_D03_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D03_A2: Niveau
+MID_MISSION_H_S201803TAPBTL01_D03_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201803TAPBTL01_D04_A1: Boss
+MID_MISSION_H_S201803TAPBTL01_D04_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL01_D04_A2: Niveau
+MID_MISSION_H_S201803TAPBTL01_D04_A2: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201803TAPBTL02_A1: Boss
+MID_MISSION_H_S201803TAPBTL02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL02_A2: Boss
+MID_MISSION_H_S201803TAPBTL02_A2: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201803TAPBTL02_A3: Niveau
+MID_MISSION_H_S201803TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MPID_春祭アルフォンス: Alfonse
+MPID_春祭カゲロウ: Kagero
+MPID_春祭カチュア: Catria
+MPID_春祭シャロン: Sharena
+MPID_HONOR_春祭アルフォンス: Prince vernal
+MPID_HONOR_春祭カゲロウ: Ninja vernal
+MPID_HONOR_春祭カチュア: Cadette vernale
+MPID_HONOR_春祭シャロン: Princesse vernale
+MPID_H_春祭アルフォンス: Prince d'Askr bienveillant et sérieux. Participe\nau festival du printemps en tant que membre\ndes Gardiens d'Askr.
+MPID_H_春祭カゲロウ: Kunoichi d'Hoshido et vassale de Ryoma. Sa\nmission : participer au festival du printemps.\nApparaît dans Fire Emblem Fates.
+MPID_H_春祭カチュア: Cadette des trois sœurs chevaliers pégase\nde Medon. Prend son devoir de participer au\nfestival du printemps très au sérieux. Apparaît\ndans Fire Emblem: Mystery of the Emblem.
+MPID_H_春祭シャロン: Princesse du royaume d'Askr et petite sœur\nd'Alfonse. A réussi à convaincre son frère de\nl'accompagner au festival du printemps.
+MPID_VOICE_春祭アルフォンス: Ray Chase
+MPID_VOICE_春祭カゲロウ: Sarah Blandy
+MPID_VOICE_春祭カチュア: Connor Kelley
+MPID_VOICE_春祭シャロン: Julie Kliewer
+MPID_ILLUST_春祭アルフォンス: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_春祭カゲロウ: cuboon
+MPID_ILLUST_春祭カチュア: Amagaitaro (アマガイタロー)
+MPID_ILLUST_春祭シャロン: Kozaki Yusuke (コザキユースケ)
+MSID_ビッグスプーン: Cuillère géante
+MSID_ビッグスプーン＋: Cuillère géante +
+MSID_ベビーキャロット: Carotte létale
+MSID_ベビーキャロット＋: Carotte létale +
+MSID_フギンの魔卵: Œuf d'Hugin
+MSID_ムニンの魔卵: Œuf de Munin
+MSID_飛燕の構え1: Post. foudroy. 1
+MSID_飛燕明鏡の構え1: Posture alerte 1
+MSID_飛燕明鏡の構え2: Posture alerte 2
+MSID_速さ魔防の絆1: Lien Vit/Rés 1
+MSID_速さ魔防の絆2: Lien Vit/Rés 2
+MSID_速さ魔防の絆3: Lien Vit/Rés 3
+MSID_魔防の封印1: Gel Rés 1
+MSID_魔防の封印2: Gel Rés 2
+MSID_魔防の封印3: Gel Rés 3
+MSID_守備の紫煙1: Fumée Déf 1
+MSID_守備の紫煙2: Fumée Déf 2
+MSID_守備の紫煙3: Fumée Déf 3
+MSID_H_ビッグスプーン: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_ビッグスプーン＋: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_ベビーキャロット: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires. Après le combat, si\nl'unité a attaqué, inflige Déf/Rés -5 à la cible et\naux ennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_ベビーキャロット＋: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires. Après le combat, si\nl'unité a attaqué, inflige Déf/Rés -7 à la cible et\naux ennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_フギンの魔卵: Confère Rés +3. En début de tour,\nsi PV ≥ 50 %, inflige Atq/Déf -5 à l'ennemi\nayant la Rés la plus basse jusqu'à la fin de\nsa phase.
+MSID_H_ムニンの魔卵: Confère Rés +3. En début de tour,\nsi PV ≥ 50 %, inflige Atq/Rés -5 à l'ennemi\nayant la Vit la plus basse jusqu'à la fin de\nsa phase.
+MSID_H_飛燕の構え1: Si l'ennemi initie le combat, confère Vit +2\npendant le combat.
+MSID_H_飛燕明鏡の構え1: Si l'ennemi initie le combat, confère Vit/Rés +2\npendant le combat.
+MSID_H_飛燕明鏡の構え2: Si l'ennemi initie le combat, confère Vit/Rés +4\npendant le combat.
+MSID_H_速さ魔防の絆1: Si l'unité se trouve à côté d'un allié,\nconfère Vit/Rés +3 pendant le combat.
+MSID_H_速さ魔防の絆2: Si l'unité se trouve à côté d'un allié,\nconfère Vit/Rés +4 pendant le combat.
+MSID_H_速さ魔防の絆3: Si l'unité se trouve à côté d'un allié,\nconfère Vit/Rés +5 pendant le combat.
+MSID_H_魔防の封印1: En début de tour, inflige Rés -3 à l'ennemi\navec la Rés la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_魔防の封印2: En début de tour, inflige Rés -5 à l'ennemi\navec la Rés la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_魔防の封印3: En début de tour, inflige Rés -7 à l'ennemi\navec la Rés la plus élevée jusqu'à la fin de\nsa phase.
+MSID_H_守備の紫煙1: Après le combat, inflige Déf -3 aux ennemis\nà 2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
+MSID_H_守備の紫煙2: Après le combat, inflige Déf -5 aux ennemis\nà 2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
+MSID_H_守備の紫煙3: Après le combat, inflige Déf -7 aux ennemis\nà 2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
+MID_CHAPTER_TITLE_CX018: Annexe 19
+MID_CHAPTER_CX018: Lapins printaniers
+MID_STAGE_TITLE_X0181: Ann. 19 - Acte 1
+MID_STAGE_TITLE_X0182: Ann. 19 - Acte 2
+MID_STAGE_TITLE_X0183: Ann. 19 - Acte 3
+MID_STAGE_X0181: Les lapins d'Askr
+MID_STAGE_X0182: Lapines en mission
+MID_STAGE_X0183: Les deux Askr
+MID_TAP_BATTLE_DATA_TITLE_0002: Souvenirs de l'ombre
+MID_MUSIC_NAME_BGM_MAP_FE12_01: Avancée
+MID_MUSIC_NAME_BGM_MAP_FE07_01: Les trésors de la vie
+MID_MUSIC_NAME_BGM_MAP_FE15_05: Crépuscule divin

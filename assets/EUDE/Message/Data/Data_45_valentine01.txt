@@ -1,0 +1,471 @@
+[Heroes Archive] (Data_45_valentine01)
+
+
+Heroes Message Name: Message
+
+
+MID_HOME_TALK_NAVIGATION_0001: $WmMPID_スリーズ,ch00_10_Cerise_F_Normal,Face|Ich bin Gunnthrá und komme aus\ndem Eiskönigreich Nifl. Bitte, rettet\nmeine kleine Schwester Fjorm!$k$p
+MID_HOME_TALK_NAVIGATION_DIALOG_0001: Erhalte Fjorm als Verbündete, indem\ndu Buch II, Kapitel 1/Teil 5 bewältigst!
+MID_MISSION_S201802BRAVE01_TITLE: Kampf mit Fjorm
+MID_MISSION_S201802BRAVE01_A1: Besiege grüne Gegner
+MID_MISSION_H_S201802BRAVE01_A1: Lass Alfonse einen grünen\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A2: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802BRAVE01_A2: Lass Alfonse einige grüne\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802BRAVE01_A3: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802BRAVE01_A3: Lass Alfonse einige grüne\nGegner besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802BRAVE01_A4: Besiege Infanterie
+MID_MISSION_H_S201802BRAVE01_A4: Lass Alfonse eine\nInfanterieeinheit besiegen.
+MID_MISSION_S201802BRAVE01_A5: Besiege rote Gegner
+MID_MISSION_H_S201802BRAVE01_A5: Lass Sharena einen roten\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A6: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802BRAVE01_A6: Lass Sharena einige rote\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802BRAVE01_A7: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802BRAVE01_A7: Lass Sharena einige rote\nGegner besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802BRAVE01_A8: Besiege Gepanzerte
+MID_MISSION_H_S201802BRAVE01_A8: Lass Sharena einen gepanzerten\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A9: Besiege blaue Gegner
+MID_MISSION_H_S201802BRAVE01_A9: Lass Anna einen blauen\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A10: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802BRAVE01_A10: Lass Anna einige blaue\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802BRAVE01_A11: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802BRAVE01_A11: Lass Anna einige blaue\nGegner besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802BRAVE01_A12: Besiege Flieger
+MID_MISSION_H_S201802BRAVE01_A12: Lass Anna einen fliegenden\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A13: Besiege rote Gegner
+MID_MISSION_H_S201802BRAVE01_A13: Lass Fjorm einen roten\nGegner besiegen.
+MID_MISSION_S201802BRAVE01_A14: Besiege Gegner Lv. 20+
+MID_MISSION_H_S201802BRAVE01_A14: Lass Fjorm einige rote\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201802BRAVE01_A15: Besiege Gegner Lv. 40+
+MID_MISSION_H_S201802BRAVE01_A15: Lass Fjorm einige rote\nGegner besiegen, die\nLevel 40 oder höher sind.
+MID_MISSION_S201802BRAVE01_A16: Besiege Reiter
+MID_MISSION_H_S201802BRAVE01_A16: Lass Fjorm einen berittenen\nGegner besiegen.
+MID_MISSION_S201802RENSEI01_TITLE: Waffenveredelung
+MID_MISSION_S201802RENSEI01_A1: Rot besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A1: Lass rote Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A2: Blau besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A2: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A3: Grün besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A3: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A4: Rot besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A4: Lass rote Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A5: Blau besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A5: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A6: Grün besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A6: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A7: Rot besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A7: Lass rote Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A8: Blau besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A8: Lass blaue Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802RENSEI01_A9: Grün besiegt Gegner
+MID_MISSION_H_S201802RENSEI01_A9: Lass grüne Verbündete\ndie Gegner besiegen.
+MID_MISSION_S201802SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201802SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201802SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201802SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201802SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201802SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201802SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201802SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201802SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201802SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201802SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201802STORY01_TITLE: Voller Liebe
+MID_MISSION_S201802STORY01_A1: Nq. 18 Tl. 1 - Extrem
+MID_MISSION_H_S201802STORY01_A1: Bewältige Nebenq. 18 - Tl. 1 auf Extrem\nmit einem Axtkämpfer. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201802STORY01_A2: Nq. 18 Tl. 2 - Extrem
+MID_MISSION_H_S201802STORY01_A2: Bewältige Nebenq. 18 - Tl. 2 auf Extrem\nmit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802STORY01_A3: Nq. 18 Tl. 3 - Extrem
+MID_MISSION_H_S201802STORY01_A3: Bewältige Nebenq. 18 - Tl. 3 auf Extrem\nmit einem Lanzenkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201802YEAR02_TITLE: GHK-Elite
+MID_MISSION_S201802YEAR02_A1: Lloyd besiegen
+MID_MISSION_H_S201802YEAR02_A1: Gewinne den Großen Heldenkampf\ngegen Lloyd: Weißer Wolf.
+MID_MISSION_S201802YEAR02_A2: Lloyd besiegen
+MID_MISSION_H_S201802YEAR02_A2: Gewinne den Großen Heldenkampf\ngegen Lloyd: Weißer Wolf auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A3: Lloyd besiegen
+MID_MISSION_H_S201802YEAR02_A3: Gewinne den Großen Heldenkampf\ngegen Lloyd: Weißer Wolf auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A4: Lloyd besiegen
+MID_MISSION_H_S201802YEAR02_A4: Gewinne den Großen Heldenkampf\ngegen Lloyd: Weißer Wolf auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A5: Lloyd besiegen
+MID_MISSION_H_S201802YEAR02_A5: Gewinne den Großen Heldenkampf\ngegen Lloyd: Weißer Wolf auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A6: Michalis besiegen
+MID_MISSION_H_S201802YEAR02_A6: Gewinne den Großen Heldenkampf\ngegen Michalis: Der Ehrgeizige.
+MID_MISSION_S201802YEAR02_A7: Michalis besiegen
+MID_MISSION_H_S201802YEAR02_A7: Gewinne den Großen Heldenkampf\ngegen Michalis: Der Ehrgeizige auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A8: Michalis besiegen
+MID_MISSION_H_S201802YEAR02_A8: Gewinne den Großen Heldenkampf\ngegen Michalis: Der Ehrgeizige auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A9: Michalis besiegen
+MID_MISSION_H_S201802YEAR02_A9: Gewinne den Großen Heldenkampf\ngegen Michalis: Der Ehrgeizige auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A10: Michalis besiegen
+MID_MISSION_H_S201802YEAR02_A10: Gewinne den Großen Heldenkampf\ngegen Michalis: Der Ehrgeizige auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A11: Xander besiegen
+MID_MISSION_H_S201802YEAR02_A11: Gewinne den Großen Heldenkampf\ngegen Xander: Idealer Ritter.
+MID_MISSION_S201802YEAR02_A12: Xander besiegen
+MID_MISSION_H_S201802YEAR02_A12: Gewinne den Großen Heldenkampf\ngegen Xander: Idealer Ritter auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A13: Xander besiegen
+MID_MISSION_H_S201802YEAR02_A13: Gewinne den Großen Heldenkampf\ngegen Xander: Idealer Ritter auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A14: Xander besiegen
+MID_MISSION_H_S201802YEAR02_A14: Gewinne den Großen Heldenkampf\ngegen Xander: Idealer Ritter auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A15: Xander besiegen
+MID_MISSION_H_S201802YEAR02_A15: Gewinne den Großen Heldenkampf\ngegen Xander: Idealer Ritter auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A16: Narcian besiegen
+MID_MISSION_H_S201802YEAR02_A16: Gewinne den Großen Heldenkampf\ngegen Narcian: Wyverngeneral.
+MID_MISSION_S201802YEAR02_A17: Narcian besiegen
+MID_MISSION_H_S201802YEAR02_A17: Gewinne den Großen Heldenkampf\ngegen Narcian: Wyverngeneral auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A18: Narcian besiegen
+MID_MISSION_H_S201802YEAR02_A18: Gewinne den Großen Heldenkampf\ngegen Narcian: Wyverngeneral auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A19: Narcian besiegen
+MID_MISSION_H_S201802YEAR02_A19: Gewinne den Großen Heldenkampf\ngegen Narcian: Wyverngeneral auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A20: Narcian besiegen
+MID_MISSION_H_S201802YEAR02_A20: Gewinne den Großen Heldenkampf\ngegen Narcian: Wyverngeneral auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A21: Nabarl besiegen
+MID_MISSION_H_S201802YEAR02_A21: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge.
+MID_MISSION_S201802YEAR02_A22: Nabarl besiegen
+MID_MISSION_H_S201802YEAR02_A22: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A23: Nabarl besiegen
+MID_MISSION_H_S201802YEAR02_A23: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A24: Nabarl besiegen
+MID_MISSION_H_S201802YEAR02_A24: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A25: Nabarl besiegen
+MID_MISSION_H_S201802YEAR02_A25: Gewinne den Großen Heldenkampf\ngegen Nabarl: Rote Klinge auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A26: Daraen besiegen
+MID_MISSION_H_S201802YEAR02_A26: Gewinne den Großen Heldenkampf\ngegen Daraen: Große Taktikerin.
+MID_MISSION_S201802YEAR02_A27: Daraen besiegen
+MID_MISSION_H_S201802YEAR02_A27: Gewinne den Großen Heldenkampf\ngegen Daraen: Große Taktikerin auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A28: Daraen besiegen
+MID_MISSION_H_S201802YEAR02_A28: Gewinne den Großen Heldenkampf\ngegen Daraen: Große Taktikerin auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A29: Daraen besiegen
+MID_MISSION_H_S201802YEAR02_A29: Gewinne den Großen Heldenkampf\ngegen Daraen: Große Taktikerin auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A30: Daraen besiegen
+MID_MISSION_H_S201802YEAR02_A30: Gewinne den Großen Heldenkampf\ngegen Daraen: Große Taktikerin auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802YEAR02_A31: Ursula besiegen
+MID_MISSION_H_S201802YEAR02_A31: Gewinne den Großen Heldenkampf\ngegen Ursula: Blaue Krähe.
+MID_MISSION_S201802YEAR02_A32: Ursula besiegen
+MID_MISSION_H_S201802YEAR02_A32: Gewinne den Großen Heldenkampf\ngegen Ursula: Blaue Krähe auf\nHöllisch nur mit Infanterieeinheiten.
+MID_MISSION_S201802YEAR02_A33: Ursula besiegen
+MID_MISSION_H_S201802YEAR02_A33: Gewinne den Großen Heldenkampf\ngegen Ursula: Blaue Krähe auf\nHöllisch nur mit gepanzerten Einheiten.
+MID_MISSION_S201802YEAR02_A34: Ursula besiegen
+MID_MISSION_H_S201802YEAR02_A34: Gewinne den Großen Heldenkampf\ngegen Ursula: Blaue Krähe auf\nHöllisch nur mit Kavallerieeinheiten.
+MID_MISSION_S201802YEAR02_A35: Ursula besiegen
+MID_MISSION_H_S201802YEAR02_A35: Gewinne den Großen Heldenkampf\ngegen Ursula: Blaue Krähe auf\nHöllisch nur mit Flugeinheiten.
+MID_MISSION_S201802TAPBTL01_D01_TITLE: Tipp-Kampf - Täglich
+MID_MISSION_S201802TAPBTL01_D01_A1: Boss besiegen
+MID_MISSION_H_S201802TAPBTL01_D01_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL01_D01_A2: Stufen abschließen
+MID_MISSION_H_S201802TAPBTL01_D01_A2: Schließe einige Stufen\nim Tipp-Kampf ab.
+MID_MISSION_S201802TAPBTL01_D02_TITLE: Tipp-Kampf - Täglich
+MID_MISSION_S201802TAPBTL01_D02_A1: Boss besiegen
+MID_MISSION_H_S201802TAPBTL01_D02_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL01_D02_A2: Stufen abschließen
+MID_MISSION_H_S201802TAPBTL01_D02_A2: Schließe einige Stufen\nim Tipp-Kampf ab.
+MID_MISSION_S201802TAPBTL01_D03_TITLE: Tipp-Kampf - Täglich
+MID_MISSION_S201802TAPBTL01_D03_A1: Boss besiegen
+MID_MISSION_H_S201802TAPBTL01_D03_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL01_D03_A2: Stufen abschließen
+MID_MISSION_H_S201802TAPBTL01_D03_A2: Schließe einige Stufen\nim Tipp-Kampf ab.
+MID_MISSION_S201802TAPBTL01_D04_TITLE: Tipp-Kampf - Täglich
+MID_MISSION_S201802TAPBTL01_D04_A1: Boss besiegen
+MID_MISSION_H_S201802TAPBTL01_D04_A1: Besiege einen Boss\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL01_D04_A2: Stufen abschließen
+MID_MISSION_H_S201802TAPBTL01_D04_A2: Schließe einige Stufen\nim Tipp-Kampf ab.
+MID_MISSION_S201802TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201802TAPBTL02_A1: Bosse besiegen
+MID_MISSION_H_S201802TAPBTL02_A1: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL02_A2: Bosse besiegen
+MID_MISSION_H_S201802TAPBTL02_A2: Besiege einige Bosse\nim Tipp-Kampf.
+MID_MISSION_S201802TAPBTL02_A3: Stufen abschließen
+MID_MISSION_H_S201802TAPBTL02_A3: Schließe einige Stufen\nim Tipp-Kampf ab.
+MPID_愛の祭エリウッド: Eliwood
+MPID_愛の祭ヘクトル: Hector
+MPID_愛の祭リリーナ: Lilina
+MPID_愛の祭リン: Lyn
+MPID_愛の祭ロイ: Roy
+MPID_HONOR_愛の祭エリウッド: Aufrichtige Liebe
+MPID_HONOR_愛の祭ヘクトル: Liebe zum Kampf
+MPID_HONOR_愛の祭リリーナ: Jugendlicher Eifer
+MPID_HONOR_愛の祭リン: Lieblicher Wind
+MPID_HONOR_愛の祭ロイ: Gabe der Jugend
+MPID_H_愛の祭エリウッド: Ein aufrechter Adliger aus Pherae, der die\nFeierlichkeiten mit seinen Freunden Lyn\nund Hector genießen möchte. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_H_愛の祭ヘクトル: Eliwoods Freund und Bruder des Marquis\nvon Ositia. Er ist entschlossen, das große\nTurnier zu gewinnen. Erscheint in\nFire Emblem: The Blazing Blade.
+MPID_H_愛の祭リリーナ: Eine Adlige aus Ositia und Roys Freundin\nseit Kindheitstagen. Bemüht sich eifrig um\npassende Geschenke für ihre Liebsten.\nErscheint in FE: The Binding Blade.
+MPID_H_愛の祭リン: Eine Adlige von Caelin, deren voller Name\nLyndis lautet. Drückt ihre Gefühle lieber\ndurch Geschenke statt durch Worte aus.\nErscheint in FE: The Blazing Blade.
+MPID_H_愛の祭ロイ: Der Sohn Eliwoods, des Marquis von\nPherae. Nimmt auf Einladung von Lilina\nan den Feierlichkeiten teil. Erscheint in\nFire Emblem: The Binding Blade.
+MPID_VOICE_愛の祭エリウッド: Yuri Lowenthal
+MPID_VOICE_愛の祭ヘクトル: Patrick Seitz
+MPID_VOICE_愛の祭リリーナ: Julie Kliewer
+MPID_VOICE_愛の祭リン: Wendee Lee
+MPID_VOICE_愛の祭ロイ: Ray Chase
+MPID_ILLUST_愛の祭エリウッド: Ito Misei (伊藤未生)
+MPID_ILLUST_愛の祭ヘクトル: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_愛の祭リリーナ: BUNBUN
+MPID_ILLUST_愛の祭リン: Wada Sachiko (ワダサチコ)
+MPID_ILLUST_愛の祭ロイ: BUNBUN
+MID_SEQUENTIAL_MAP_TERM_201802: Schicksalsatem
+MSID_ウイングソード: Flügelschwert
+MSID_ヒノカの紅薙刀: Hinokas Speer
+MSID_バシリコス: Basilikos
+MSID_フェリシアの氷皿: Felicias Teller
+MSID_第7迷宮の覇者1: Überfall-Ass G 1
+MSID_第7迷宮の覇者2: Überfall-Ass G 2
+MSID_第7迷宮の覇者3: Überfall-Ass G 3
+MSID_カサブランカ: Weiße Lilie
+MSID_カサブランカ＋: Weiße Lilie+
+MSID_狂斧アルマーズ: Zornige Armads
+MSID_グラーティア: Gratia
+MSID_グラーティア＋: Gratia+
+MSID_青のプレゼント箱: Blaues Präsent
+MSID_青のプレゼント箱＋: Blaues Präsent+
+MSID_緑のプレゼント箱: Grünes Präsent
+MSID_緑のプレゼント箱＋: Grünes Präsent+
+MSID_HP攻撃1: KP/Angr. 1
+MSID_HP攻撃2: KP/Angr. 2
+MSID_攻撃速さの絆1: Agr./Ges.-Band 1
+MSID_攻撃速さの絆2: Agr./Ges.-Band 2
+MSID_攻撃速さの絆3: Agr./Ges.-Band 3
+MSID_弓の技量1: Bogenmut 1
+MSID_弓の技量2: Bogenmut 2
+MSID_弓の技量3: Bogenmut 3
+MSID_重装のブーツ: Panzerstiefel
+MSID_H_ウイングソード: Effektiv gegen gepanzerte und\nberittene Gegner.
+MSID_H_ヒノカの紅薙刀: Befindet sich die Einheit im Umkreis von\n2 Feldern eines fliegenden Verbündeten\noder einer verbündeten Infanterieeinheit,\nerhält sie Angr./Ges. +4 im Kampf.
+MSID_H_バシリコス: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_フェリシアの氷皿: Hat die Einheit angegriffen, erleiden Ziel\nund Gegner innerhalb von 2 Feldern nach\ndem Kampf Ver./Res. -7 bis nach ihren\nnächsten Aktionen. Schaden wird durch\nVer. oder Res. des Gegners berechnet\n(geringerer Wert gilt).
+MSID_H_ファルシオン改: Effektiv gegen Drachen. Stellt zu\nBeginn jedes zweiten Zuges\n10 KP wieder her.
+MSID_H_ファルシオン覚醒改: Effektiv gegen Drachen. Stellt zu\nBeginn jedes zweiten Zuges\n10 KP wieder her.
+MSID_H_ファルシオン外伝改: Effektiv gegen Drachen. Stellt zu\nBeginn jedes zweiten Zuges\n10 KP wieder her.
+MSID_H_エッケザックス改: Gegner im Umkreis von 2 Feldern (außer\nDrachen) erleiden zu Beginn des Zuges\nVer. -6 bis nach ihrer nächsten Aktion.
+MSID_H_先導R歩行飛行: Verbündete Infanterieeinheiten und\nFlugeinheiten im Umkreis von 2 Feldern\nkönnen sich auf ein benachbartes Feld\nder Einheit bewegen.
+MSID_H_TP変動R魔: Nutzt der Gegner Magie, wird die\nErholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_大紋章R全2: Verleiht Verbündeten innerhalb von\n2 Feldern Angr./Ges./Ver./Res. +2\nim Kampf.
+MSID_H_絆R全4: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ges./Ver./Res. +4 im Kampf.
+MSID_H_連撃消耗: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit zu Beginn des Kampfes\n= 100 %, greift die Einheit 2-mal an und\nerleidet nach dem Kampf 5 Schaden.
+MSID_H_第7迷宮の覇者1: Verleiht Ver. +1.
+MSID_H_第7迷宮の覇者2: Verleiht Ver. +2.
+MSID_H_第7迷宮の覇者3: Verleiht Ver. +3.
+MSID_H_カサブランカ: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_カサブランカ＋: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_狂斧アルマーズ: Beschleunigt Spezialangriffe (Erholungszeit -1).\nSind die KP der Einheit zu Beginn des Zuges\n≤ 75 % und löst ihr Angriff den Spezialangriff\naus, wird ihre Erholungszeit um 1 beschleunigt.\nSpezialangriff verursacht +10 Schaden.
+MSID_H_グラーティア: Effektiv gegen Flugeinheiten.\nNutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_グラーティア＋: Effektiv gegen Flugeinheiten.\nNutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_青のプレゼント箱: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_青のプレゼント箱＋: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_緑のプレゼント箱: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_緑のプレゼント箱＋: Nutzt der Gegner Bogen, Dolch,\nMagie oder Stab, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_HP攻撃1: Verleiht KP +3 und Angr. +1.
+MSID_H_HP攻撃2: Verleiht KP +4 und Angr. +2.
+MSID_H_攻撃速さの絆1: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ges. +3 im Kampf.
+MSID_H_攻撃速さの絆2: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ges. +4 im Kampf.
+MSID_H_攻撃速さの絆3: Befindet sich die Einheit neben\neinem Verbündeten, erhält sie\nAngr./Ges. +5 im Kampf.
+MSID_H_弓の技量1: Überlebt die Einheit und verwendet\neinen Bogen, erhält sie FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_弓の技量2: Überlebt die Einheit, erhalten alle\nBogenschützen im Team FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_弓の技量3: Überlebt die Einheit, erhalten alle\nBogenschützen im Team FP x 2.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_重装のブーツ: Sind die KP der Einheit zu Beginn des\nZuges = 100 %, kann sie sich 1\nzusätzliches Feld bewegen. (Nur in\ndiesem Zug, nicht kombinierbar.)
+MID_CHAPTER_TITLE_CX017: Nebenquest 18
+MID_CHAPTER_CX017: Voller Liebe
+MID_STAGE_TITLE_X0171: Nebenq. 18: Tl. 1
+MID_STAGE_TITLE_X0172: Nebenq. 18: Tl. 2
+MID_STAGE_TITLE_X0173: Nebenq. 18: Tl. 3
+MID_STAGE_X0171: Liebevolle Jugend
+MID_STAGE_X0172: Liebvolle Väter
+MID_STAGE_X0173: Wahre Gefühle
+MID_STAGE_HONOR_V0168: Täglich
+MID_STAGE_V0168: Teil 8
+MID_STAGE_HONOR_V0169: Täglich
+MID_STAGE_V0169: Teil 9
+MID_STAGE_HONOR_V0170: Täglich
+MID_STAGE_V0170: Teil 10
+MID_STAGE_HONOR_V0171: Täglich
+MID_STAGE_V0171: Teil 11
+MID_STAGE_HONOR_V0172: Täglich
+MID_STAGE_V0172: Teil 12
+MID_STAGE_HONOR_V0173: Täglich
+MID_STAGE_V0173: Teil 13
+MID_STAGE_HONOR_V0174: Täglich
+MID_STAGE_V0174: Teil 14
+MID_STAGE_HONOR_V0175: Täglich
+MID_STAGE_V0175: Teil 15
+MID_STAGE_HONOR_V0176: Täglich
+MID_STAGE_V0176: Teil 16
+MID_STAGE_HONOR_V0177: Täglich
+MID_STAGE_V0177: Teil 17
+MID_STAGE_HONOR_V0178: Täglich
+MID_STAGE_V0178: Teil 18
+MID_STAGE_HONOR_V0179: Täglich
+MID_STAGE_V0179: Teil 19
+MID_STAGE_HONOR_V0180: Täglich
+MID_STAGE_V0180: Teil 20
+MID_STAGE_HONOR_V0201: Sondertraining
+MID_STAGE_V0201: Nahkampf
+MID_STAGE_HONOR_V0202: Sondertraining
+MID_STAGE_V0202: Fernkampf
+MID_STAGE_HONOR_V0203: Sondertraining
+MID_STAGE_V0203: Bögen
+MID_STAGE_HONOR_V0204: Sondertraining
+MID_STAGE_V0204: Magie
+MID_STAGE_HONOR_V0205: Sondertraining
+MID_STAGE_V0205: Volles Training
+MID_STAGE_HONOR_V0211: Shadow Dragon
+MID_STAGE_V0211: Nabarl
+MID_STAGE_HONOR_V0212: Shadow Dragon
+MID_STAGE_V0212: Linde
+MID_STAGE_HONOR_V0213: Shadow Dragon
+MID_STAGE_V0213: Minerva
+MID_STAGE_HONOR_T0025: Treue-Heldenkampf
+MID_STAGE_T0025: Corrin/Azura
+MID_STAGE_TITLE_SB_0007: 7. Überfall
+MID_CHAPTER_ST_CX009: Nebenq. 17 & 18
+MID_STAGE_TITLE_ST_X0016: Nebenquest 17
+MID_STAGE_TITLE_ST_X0017: Nebenquest 18
+MID_STAGE_TITLE_ST_X1017: Nebenq. 17 & 18
+MID_MARKS_TUTORIAL_DIALOG_00: Gewinne Xander in Spezialkarten!
+MID_SPECIALMAP_TUTORIAL_DIALOG_00: Gewinne und erhalte Große Helden.
+MID_SPECIALMAP_TUTORIAL_DIALOG_01: Heldenkampf-Rotation:\nDie folgenden Helden wechseln\nsich täglich beim Heldenkampf ab.\nFelicia, Wrys, Olivia, Stahl,\nSophia, Virion, Hana, Subaki,\nDonnel, Lissa, Gunter, Cecilia.
+MID_SPECIALMAP_TUTORIAL_DIALOG_02: Großer-Heldenkampf-Rotation:\nFolgende Helden wechseln täglich.\nNarcian: Wyverngeneral, Nabarl:\nRote Klinge, Daraen: Große\nTaktikerin, Ursula: Blaue Krähe,\nLloyd: Weißer Wolf, Michalis:\nDer Ehrgeizige, Xander: Idealer\nRitter.
+MID_SPECIALMAP_TUTORIAL_DIALOG_03: Weitere Kämpfe:\n\nZusätzlich zu Heldenkämpfen\nund Großen Heldenkämpfen\ngibt es in den Spezialkarten\nviele weitere Karten, die für\nbegrenzte Zeit verfügbar sind.
+MID_TAP_BATTLE_DATA_TITLE_0001: Labyrinth im Nebel
+MID_MUSIC_AUTHORITY_0: Fire Emblem:\nShadow Dragon and the Blade of Light
+MID_MUSIC_AUTHORITY_1: Fire Emblem: Gaiden
+MID_MUSIC_AUTHORITY_2: Fire Emblem: Mystery of the Emblem
+MID_MUSIC_AUTHORITY_3: Fire Emblem:\nGenealogy of the Holy War
+MID_MUSIC_AUTHORITY_4: Fire Emblem: Thracia 776
+MID_MUSIC_AUTHORITY_5: Fire Emblem: The Binding Blade
+MID_MUSIC_AUTHORITY_6: Fire Emblem: The Blazing Blade
+MID_MUSIC_AUTHORITY_7: Fire Emblem: The Sacred Stones
+MID_MUSIC_AUTHORITY_8: Fire Emblem: Path of Radiance
+MID_MUSIC_AUTHORITY_9: Fire Emblem: Radiant Dawn
+MID_MUSIC_AUTHORITY_10: Fire Emblem: Shadow Dragon
+MID_MUSIC_AUTHORITY_11: Fire Emblem:\nNew Mystery of the Emblem
+MID_MUSIC_AUTHORITY_12: Fire Emblem: Awakening
+MID_MUSIC_AUTHORITY_13: Fire Emblem Fates
+MID_MUSIC_AUTHORITY_14: Fire Emblem Echoes:\nShadows of Valentia
+MID_MUSIC_AUTHORITY_15: Fire Emblem Warriors
+MID_MUSIC_AUTHORITY_16: Fire Emblem Heroes
+MID_MUSIC_NAME_BGM_MAP_FE06_01: Jenseits ferner Himmel -\nRoys Abreise
+MID_MUSIC_NAME_BGM_MAP_FE12_02: Geschichte im Wandel
+MID_MUSIC_NAME_BGM_MAP_FE13_01: Schicksal (in Flammen)
+MID_TAP_BATTLE_STAGE_FLOOR_1: Ebene 0
+MID_TAP_BATTLE_STAGE_FLOOR_2: Ebene -1
+MID_TAP_BATTLE_STAGE_FLOOR_3: Ebene -2
+MID_TAP_BATTLE_STAGE_FLOOR_4: Ebene -3
+MID_TAP_BATTLE_STAGE_FLOOR_5: Ebene -4
+MID_TAP_BATTLE_STAGE_FLOOR_6: Ebene -5
+MID_TAP_BATTLE_STAGE_FLOOR_7: Ebene -6
+MID_TAP_BATTLE_STAGE_FLOOR_8: Ebene -7
+MID_TAP_BATTLE_STAGE_FLOOR_9: Ebene -8
+MID_TAP_BATTLE_STAGE_FLOOR_10: Ebene -9
+MID_TAP_BATTLE_STAGE_FLOOR_11: Ebene -10
+MID_TAP_BATTLE_STAGE_FLOOR_12: Ebene -11
+MID_TAP_BATTLE_STAGE_FLOOR_13: Ebene -12
+MID_TAP_BATTLE_STAGE_FLOOR_14: Ebene -13
+MID_TAP_BATTLE_STAGE_FLOOR_15: Ebene -14
+MID_TAP_BATTLE_STAGE_FLOOR_16: Ebene -15
+MID_TAP_BATTLE_STAGE_FLOOR_17: Ebene -16
+MID_TAP_BATTLE_STAGE_FLOOR_18: Ebene -17
+MID_TAP_BATTLE_STAGE_FLOOR_19: Ebene -18
+MID_TAP_BATTLE_STAGE_FLOOR_20: Ebene -19
+MID_TAP_BATTLE_STAGE_FLOOR_21: Ebene -20
+MID_TAP_BATTLE_STAGE_FLOOR_22: Ebene -21
+MID_TAP_BATTLE_STAGE_FLOOR_23: Ebene -22
+MID_TAP_BATTLE_STAGE_FLOOR_24: Ebene -23
+MID_TAP_BATTLE_STAGE_FLOOR_25: Ebene -24
+MID_TAP_BATTLE_STAGE_FLOOR_26: Ebene -25
+MID_TAP_BATTLE_STAGE_FLOOR_27: Ebene -26
+MID_TAP_BATTLE_STAGE_FLOOR_28: Ebene -27
+MID_TAP_BATTLE_STAGE_FLOOR_29: Ebene -28
+MID_TAP_BATTLE_STAGE_FLOOR_30: Ebene -29
+MID_TAP_BATTLE_STAGE_FLOOR_31: Ebene -30
+MID_TAP_BATTLE_STAGE_FLOOR_32: Ebene -31
+MID_TAP_BATTLE_STAGE_FLOOR_33: Ebene -32
+MID_TAP_BATTLE_STAGE_FLOOR_34: Ebene -33
+MID_TAP_BATTLE_STAGE_FLOOR_35: Ebene -34
+MID_TAP_BATTLE_STAGE_FLOOR_36: Ebene -35
+MID_TAP_BATTLE_STAGE_FLOOR_37: Ebene -36
+MID_TAP_BATTLE_STAGE_FLOOR_38: Ebene -37
+MID_TAP_BATTLE_STAGE_FLOOR_39: Ebene -38
+MID_TAP_BATTLE_STAGE_FLOOR_40: Ebene -39
+MID_TAP_BATTLE_STAGE_FLOOR_41: Ebene -40
+MID_TAP_BATTLE_STAGE_FLOOR_42: Ebene -41
+MID_TAP_BATTLE_STAGE_FLOOR_43: Ebene -42
+MID_TAP_BATTLE_STAGE_FLOOR_44: Ebene -43
+MID_TAP_BATTLE_STAGE_FLOOR_45: Ebene -44
+MID_TAP_BATTLE_STAGE_FLOOR_46: Ebene -45
+MID_TAP_BATTLE_STAGE_FLOOR_47: Ebene -46
+MID_TAP_BATTLE_STAGE_FLOOR_48: Ebene -47
+MID_TAP_BATTLE_STAGE_FLOOR_49: Ebene -48
+MID_TAP_BATTLE_STAGE_FLOOR_50: Ebene -49
+MID_TAP_BATTLE_STAGE_FLOOR_51: Ebene -50
+MID_TAP_BATTLE_STAGE_FLOOR_52: Ebene -51
+MID_TAP_BATTLE_STAGE_FLOOR_53: Ebene -52
+MID_TAP_BATTLE_STAGE_FLOOR_54: Ebene -53
+MID_TAP_BATTLE_STAGE_FLOOR_55: Ebene -54
+MID_TAP_BATTLE_STAGE_FLOOR_56: Ebene -55
+MID_TAP_BATTLE_STAGE_FLOOR_57: Ebene -56
+MID_TAP_BATTLE_STAGE_FLOOR_58: Ebene -57
+MID_TAP_BATTLE_STAGE_FLOOR_59: Ebene -58
+MID_TAP_BATTLE_STAGE_FLOOR_60: Ebene -59
+MID_TAP_BATTLE_STAGE_FLOOR_61: Ebene -60
+MID_TAP_BATTLE_STAGE_FLOOR_62: Ebene -61
+MID_TAP_BATTLE_STAGE_FLOOR_63: Ebene -62
+MID_TAP_BATTLE_STAGE_FLOOR_64: Ebene -63
+MID_TAP_BATTLE_STAGE_FLOOR_65: Ebene -64
+MID_TAP_BATTLE_STAGE_FLOOR_66: Ebene -65
+MID_TAP_BATTLE_STAGE_FLOOR_67: Ebene -66
+MID_TAP_BATTLE_STAGE_FLOOR_68: Ebene -67
+MID_TAP_BATTLE_STAGE_FLOOR_69: Ebene -68
+MID_TAP_BATTLE_STAGE_FLOOR_70: Ebene -69
+MID_TAP_BATTLE_STAGE_FLOOR_71: Ebene -70
+MID_TAP_BATTLE_STAGE_FLOOR_72: Ebene -71
+MID_TAP_BATTLE_STAGE_FLOOR_73: Ebene -72
+MID_TAP_BATTLE_STAGE_FLOOR_74: Ebene -73
+MID_TAP_BATTLE_STAGE_FLOOR_75: Ebene -74
+MID_TAP_BATTLE_STAGE_FLOOR_76: Ebene -75
+MID_TAP_BATTLE_STAGE_FLOOR_77: Ebene -76
+MID_TAP_BATTLE_STAGE_FLOOR_78: Ebene -77
+MID_TAP_BATTLE_STAGE_FLOOR_79: Ebene -78
+MID_TAP_BATTLE_STAGE_FLOOR_80: Ebene -79
+MID_TAP_BATTLE_STAGE_FLOOR_81: Ebene -80
+MID_TAP_BATTLE_STAGE_FLOOR_82: Ebene -81
+MID_TAP_BATTLE_STAGE_FLOOR_83: Ebene -82
+MID_TAP_BATTLE_STAGE_FLOOR_84: Ebene -83
+MID_TAP_BATTLE_STAGE_FLOOR_85: Ebene -84
+MID_TAP_BATTLE_STAGE_FLOOR_86: Ebene -85
+MID_TAP_BATTLE_STAGE_FLOOR_87: Ebene -86
+MID_TAP_BATTLE_STAGE_FLOOR_88: Ebene -87
+MID_TAP_BATTLE_STAGE_FLOOR_89: Ebene -88
+MID_TAP_BATTLE_STAGE_FLOOR_90: Ebene -89
+MID_TAP_BATTLE_STAGE_FLOOR_91: Ebene -90
+MID_TAP_BATTLE_STAGE_FLOOR_92: Ebene -91
+MID_TAP_BATTLE_STAGE_FLOOR_93: Ebene -92
+MID_TAP_BATTLE_STAGE_FLOOR_94: Ebene -93
+MID_TAP_BATTLE_STAGE_FLOOR_95: Ebene -94
+MID_TAP_BATTLE_STAGE_FLOOR_96: Ebene -95
+MID_TAP_BATTLE_STAGE_FLOOR_97: Ebene -96
+MID_TAP_BATTLE_STAGE_FLOOR_98: Ebene -97
+MID_TAP_BATTLE_STAGE_FLOOR_99: Ebene -98
+MID_TAP_BATTLE_STAGE_FLOOR_100: Ebene -99
+MID_TAP_BATTLE_STAGE_TITLE_1_5: Ebenen 0 bis -4
+MID_TAP_BATTLE_STAGE_TITLE_6_10: Ebenen -5 bis -9
+MID_TAP_BATTLE_STAGE_TITLE_11_15: Ebenen -10 bis -14
+MID_TAP_BATTLE_STAGE_TITLE_16_20: Ebenen -15 bis -19
+MID_TAP_BATTLE_STAGE_TITLE_21_25: Ebenen -20 bis -24
+MID_TAP_BATTLE_STAGE_TITLE_26_30: Ebenen -25 bis -29
+MID_TAP_BATTLE_STAGE_TITLE_31_35: Ebenen -30 bis -34
+MID_TAP_BATTLE_STAGE_TITLE_36_40: Ebenen -35 bis -39
+MID_TAP_BATTLE_STAGE_TITLE_41_45: Ebenen -40 bis -44
+MID_TAP_BATTLE_STAGE_TITLE_46_50: Ebenen -45 bis -49
+MID_TAP_BATTLE_STAGE_TITLE_51_55: Ebenen -50 bis -54
+MID_TAP_BATTLE_STAGE_TITLE_56_60: Ebenen -55 bis -59
+MID_TAP_BATTLE_STAGE_TITLE_61_65: Ebenen -60 bis -64
+MID_TAP_BATTLE_STAGE_TITLE_66_70: Ebenen -65 bis -69
+MID_TAP_BATTLE_STAGE_TITLE_71_75: Ebenen -70 bis -74
+MID_TAP_BATTLE_STAGE_TITLE_76_80: Ebenen -75 bis -79
+MID_TAP_BATTLE_STAGE_TITLE_81_85: Ebenen -80 bis -84
+MID_TAP_BATTLE_STAGE_TITLE_86_90: Ebenen -85 bis -89
+MID_TAP_BATTLE_STAGE_TITLE_91_95: Ebenen -90 bis -94
+MID_TAP_BATTLE_STAGE_TITLE_96_100: Ebenen -95 bis -99

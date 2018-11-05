@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM_SPRING01)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_SPRING01_HOME1: Anna veut apprendre la peinture sur\nœuf pour le festival du printemps. Elle\nespère sûrement vendre ses œuvres.
+MID_CHROM_SPRING01_HOME2: Nous étions en train de fêter l'arrivée\ndu printemps quand j'ai été invoqué.$k$pSi j'avais su que j'allais être sorti\ndu château comme ça, je me serais\nun peu mieux préparé.
+MID_CHROM_SPRING01_HOME3: Vous êtes en patrouille,\n$Nu ?$k$pÀ cette période de l'année, on a de\nl'énergie à revendre. Mais si vous\nfatiguez, je peux prendre le relai.
+MID_CHROM_SPRING01_HOME4: Chez moi, nous peignons des œufs\npour le festival du printemps... Mais\nmoi, j'ai plutôt tendance à les casser.
+MID_CHROM_SPRING01_HOME5: Il faut que je fasse attention à mon\narme, si on peut l'appeler ainsi. Elle\nest fragile. Ah, Falchion me manque.
+MID_CHROM_SPRING01_FRIEND: $Nf vous salue.$k$pVous aimez le printemps,\n$Nu ?\nMoi, j'adore !
+MID_CHROM_SPRING01_LEVEL1: Ah ! L'esprit du printemps\nme prête ses forces.
+MID_CHROM_SPRING01_LEVEL2: Je vais devenir plus fort,\npour l'esprit du printemps !
+MID_CHROM_SPRING01_LEVEL3: On dirait que l'esprit du\nprintemps a ses limites.
+MID_CHROM_SPRING01_SKILL: Tout d'un coup, je me sens plus\nà l'aise dans cette tenue.
+MID_CHROM_SPRING01_JOIN: Je suis Chrom, prince du Saint-\nRoyaume d'Ylisse. Le festival vous\nplaît ? Je suis habillé pour l'occasion !
+MID_CHROM_SPRING01_STRONGEST: Ah, c'est vous,\n$Nu !$k$pJe viens de peindre des œufs\npour le festival du printemps, et\nje suis plutôt content du résultat.$k$pVous ne comprenez pas ce qui\nest écrit ? C'est parce que c'est\ndans la langue d'Ylisse.$k$pC'est un poème qui exprime\nma joie de vous avoir\nà mes côtés.$k$pEt vous voyez ? Ici, j'ai fait un\nun portrait de vous. Plutôt\nréussi, vous ne trouvez pas ?$k$pNon ? En tout cas, j'ai fait de mon\nmieux, et maintenant vous savez\nà quel point je vous apprécie.$k$pJ'essaierai d'améliorer mon coup\nde pinceau pour le prochain\nfestival du printemps.
+MID_CHROM_SPRING01_VOICE01: せいっ
+MID_CHROM_SPRING01_VOICE02: やあっ
+MID_CHROM_SPRING01_VOICE03: おわっ！
+MID_CHROM_SPRING01_VOICE04: What's the idea?!
+MID_CHROM_SPRING01_VOICE05: Voilà les fleurs du printemps !
+MID_CHROM_SPRING01_VOICE06: Le printemps fait la force !
+MID_CHROM_SPRING01_VOICE07: Rien n'arrête le printemps !
+MID_CHROM_SPRING01_VOICE08: JE décide quand l'hiver est fini !
+MID_CHROM_SPRING01_VOICE09: It's over.
+MID_CHROM_SPRING01_VOICE10: Haha
+MID_CHROM_SPRING01_VOICE11: Spring inspires me to give my all.
+MID_CHROM_SPRING01_VOICE12: My trusty Falchion has been replaced by...this.
+MID_CHROM_SPRING01_VOICE13: Those in my group, the Shepherds, tell me to wear more dashing outfits. This dashing enough?
+MID_CHROM_SPRING01_VOICE14: Eggs and rabbits have been symbols of the spring festival for ages.
+MID_CHROM_SPRING01_VOICE15: I heard my sister Lissa hid eggs all over Ylisse. What a quest I'll have in store when I go home.
+MID_CHROM_SPRING01_VOICE16: I'll stand out in battle going out dressed like this!
+MID_CHROM_SPRING01_VOICE17: That we met in the spring must be important. I hope it means our bond will grow ever stronger.
+MID_CHROM_SPRING01_VOICE18: All right.
+MID_CHROM_SPRING01_VOICE19: Spring has sprung.
+MID_CHROM_SPRING01_VOICE20: What a season!

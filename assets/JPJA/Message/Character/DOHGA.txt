@@ -1,0 +1,38 @@
+[Heroes Archive] (DOHGA)
+
+
+Heroes Message Name: Message
+
+
+MID_DOHGA_HOME1: 君は鎧を身につけないのか？\n危ないぞ、その奇妙な衣服では\n守りきれないだろう。
+MID_DOHGA_HOME2: アリティア騎士団では、\n私はこの分厚い鎧で\nマルス様をお守りしてきた。
+MID_DOHGA_HOME3: 君はいつも忙しそうだな。\nだが無理はしないでくれ。\nたまには、ゆっくり休んで欲しい。
+MID_DOHGA_HOME4: 君も私のような鎧を着てくれれば\n安心なのだが…\n…重さで動けなくなってしまうか。
+MID_DOHGA_HOME5: うーむ…\nなんだか最近\n鎧がきつくなってきたような…
+MID_DOHGA_FRIEND: すまない、君が城の主か？\n$Nfからの\n友好の挨拶を届けにきた。
+MID_DOHGA_LEVEL1: これで守りは万全だ！
+MID_DOHGA_LEVEL2: いいぞ。この調子で\n守りを固めていこう。
+MID_DOHGA_LEVEL3: うーむ、こんなことでは\n皆を守り切れない…
+MID_DOHGA_SKILL: これでより多くの仲間を守れる。\n皆には安心して戦って欲しい。
+MID_DOHGA_JOIN: 私はアリティアの重騎士ドーガ。\nこの鎧で、仲間を守ってみせよう。
+MID_DOHGA_STRONGEST: 私は敵を倒すことよりも、\n仲間を守ることにこそ\n重きを置いて戦ってきた…$k$pだからこそ、\n私は君のことを\nよく理解しているつもりだ。$k$p君がどれだけ\n皆のことを思い、\n皆を守ってくれているかを…$k$p君と私がいれば、\nさらに多くの仲間たちを守れるだろう。\nこれからも、よろしく頼んだぞ。
+MID_DOHGA_VOICE01: むぅんっ！
+MID_DOHGA_VOICE02: でぇい！
+MID_DOHGA_VOICE03: うああっ！
+MID_DOHGA_VOICE04: な、なんと…！
+MID_DOHGA_VOICE05: ここは通さん！
+MID_DOHGA_VOICE06: どいてもらおう！
+MID_DOHGA_VOICE07: 何人たりとも！
+MID_DOHGA_VOICE08: 主君のために！
+MID_DOHGA_VOICE09: ご武…運を…
+MID_DOHGA_VOICE10: ははっ
+MID_DOHGA_VOICE11: 何か用だろうか？
+MID_DOHGA_VOICE12: 困ったな…
+MID_DOHGA_VOICE13: 何かついていたかな？
+MID_DOHGA_VOICE14: これからも共にありたいものだ
+MID_DOHGA_VOICE15: この鎧は、頼もしい相棒だ
+MID_DOHGA_VOICE16: 守るべきものが、私にはある
+MID_DOHGA_VOICE17: この鎧で、君を守ってみせよう
+MID_DOHGA_VOICE18: 承知した
+MID_DOHGA_VOICE19: う～む…
+MID_DOHGA_VOICE20: 盾となろう

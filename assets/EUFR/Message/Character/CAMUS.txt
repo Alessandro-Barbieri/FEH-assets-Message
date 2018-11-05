@@ -1,0 +1,38 @@
+[Heroes Archive] (CAMUS)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMUS_HOME1: Les Gardiens d'Askr, vous dites ?\nComptez sur moi. Je respecte ceux\nqui se battent pour leur patrie.
+MID_CAMUS_HOME2: Nous avons tous déjà connu\nquelqu'un dont le souvenir ne\npérira jamais...
+MID_CAMUS_HOME3: ...\nQu'y a-t-il ? Aurais-je quelque\nchose sur le visage ?
+MID_CAMUS_HOME4: Je ne vis que pour ma patrie.\nMourrais-je pour elle ?\nSans l'ombre d'une hésitation.
+MID_CAMUS_HOME5: J'ai débuté ma carrière dans une\ncontrée éloignée. Il n'y avait rien\nd'autre à faire que de s'entraîner.
+MID_CAMUS_FRIEND: Bonjour $Nu.\n$Nf m'envoie.
+MID_CAMUS_LEVEL1: Que cette force nouvelle me permette\nde servir ma patrie !
+MID_CAMUS_LEVEL2: Je dois me tenir prêt à combattre.
+MID_CAMUS_LEVEL3: Quelle honte... Je dois mieux\nm'entraîner.
+MID_CAMUS_SKILL: Admirez la puissance des chevaliers\nde Grust !
+MID_CAMUS_JOIN: Je suis Camus de Grust, capitaine\ndes chevaliers de l'Ordre noir.
+MID_CAMUS_STRONGEST: Je ne sais plus quand j'ai commencé\nà prendre de la distance par rapport\nà mes congénères.$k$pCe qui est certain, c'est que malgré\nmes expériences passées, me battre\nà vos côtés m'a amené à... réfléchir.$k$pAvant de vous rencontrer, je pensais\nque m'isoler me protégerait de la\ndouleur de perdre un être cher...$k$pMais je comprends à présent que\nje laissais la peur m'empêcher de\ncréer des liens forts et précieux.$k$pVous avez ma plus profonde\ngratitude, $GInvocateur,Invocatrice|.
+MID_CAMUS_VOICE01: はぁっ！
+MID_CAMUS_VOICE02: せいっ！
+MID_CAMUS_VOICE03: うああっ！
+MID_CAMUS_VOICE04: Bravo...
+MID_CAMUS_VOICE05: Quel gâchis...
+MID_CAMUS_VOICE06: Quel dommage.
+MID_CAMUS_VOICE07: Chargez !
+MID_CAMUS_VOICE08: Acceptez la mort !
+MID_CAMUS_VOICE09: Farewell...
+MID_CAMUS_VOICE10: Hm...
+MID_CAMUS_VOICE11: Do you have need of my service?
+MID_CAMUS_VOICE12: I am but a man of war... Forgive me my impertinence.
+MID_CAMUS_VOICE13: The one thing I cannot do is betray my motherland.
+MID_CAMUS_VOICE14: I will stand as your shield.
+MID_CAMUS_VOICE15: Devotion to one’s motherland is the highest calling. And the loneliest one.
+MID_CAMUS_VOICE16: I have lived as a knight, and I intend to die as one.
+MID_CAMUS_VOICE17: I pray you meet someone who will bring joy into your life.
+MID_CAMUS_VOICE18: Understood.
+MID_CAMUS_VOICE19: What can I do?
+MID_CAMUS_VOICE20: Shall we?

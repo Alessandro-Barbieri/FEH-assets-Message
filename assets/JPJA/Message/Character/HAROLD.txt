@@ -1,0 +1,38 @@
+[Heroes Archive] (HAROLD)
+
+
+Heroes Message Name: Message
+
+
+MID_HAROLD_HOME1: 特務機関のこと、聞かせてもらった。\n国のため、民のために働くとは素晴らしい！\n君たちこそヒーローと呼ぶに相応しいぞ！
+MID_HAROLD_HOME2: 私の主君はエリーゼ様だ！\nあの方を守ることが正義の最優先事項！\n可憐な暗夜の花、手折らせはしない！
+MID_HAROLD_HOME3: どうしたら君のように見回りができるんだ？\n私がやると飛竜の糞が落ちてきたり、\n溝に足を取られたりして進めないのだよ…
+MID_HAROLD_HOME4: 今度、見回りの時に同行してくれないか？\n見たところ君は私よりも運がいい。\n共にいれば不運も軽減される気がしてね！
+MID_HAROLD_HOME5: むむ…私は今、腹痛に耐えていたのだ。\n私の朝食だけなぜか奇跡的に腐っていてね！\nだがもう大丈夫、正義は負けないのだ！
+MID_HAROLD_FRIEND: $Nfくんからの\n挨拶を正しく伝えに来たぞ！\nしかし道中で５回も転倒してしまった！
+MID_HAROLD_LEVEL1: 正義の力がみなぎる！\nこんな幸運は初めてだ！
+MID_HAROLD_LEVEL2: おお…！\n私としては運が良かった方だよ。
+MID_HAROLD_LEVEL3: くそっ、不運め！\n今度はそうきたか！
+MID_HAROLD_SKILL: この力でどんな不運も\n撥ね退けてみせよう！
+MID_HAROLD_JOIN: ハロルド参上だ！\n悪を挫き弱きを守る暗夜王国のヒーロー！\n不運など正義ではね返してやろう！
+MID_HAROLD_STRONGEST: ああ、$Nuくん！\nこの前偶然、町に行く機会があってね。\n民たちから特務機関の良い噂を耳にしたよ。$k$p素晴らしい…それでこそ真のヒーローだ。\nそこでだ！　登場時のポーズなどあれば\nもっとヒロイックになると思わないかね？$k$p私もいくつか考えてみたのだが、\n何故かポーズを決めるたびに頭上から\n野良ペガサスの落し物が降るのだよ！$k$pむむ！？　そうなるのは私だけ、だと？\nならば安心だ、是非使ってくれたまえ！\nポーズ中に隙ができる分には問題ない…$k$p私が無粋な悪党どもを蹴散らしてやろう。\n大切な友人には、指一本触れさせん！\n君との友情を力に変えて闘うぞ！！\n
+MID_HAROLD_VOICE01: とう！
+MID_HAROLD_VOICE02: そおれ！
+MID_HAROLD_VOICE03: ぬおっ！
+MID_HAROLD_VOICE04: くそっ、不運め！
+MID_HAROLD_VOICE05: ギタギタにしてやろう！
+MID_HAROLD_VOICE06: 正義アターック！
+MID_HAROLD_VOICE07: 勝利への道だ！
+MID_HAROLD_VOICE08: 私より不運だな
+MID_HAROLD_VOICE09: ついてない…な……
+MID_HAROLD_VOICE10: はっは
+MID_HAROLD_VOICE11: 今日も元気に、ハロルド参上だ！！
+MID_HAROLD_VOICE12: ここにくるまでに５回は転んでしまった…
+MID_HAROLD_VOICE13: ぬう！　足元にバナナの皮を置いたやつは誰だ！
+MID_HAROLD_VOICE14: そんなに見ていても、これ以上顎は割れないぞ
+MID_HAROLD_VOICE15: 勝利のポーズは全５０種だ！　まず一つ目だが…
+MID_HAROLD_VOICE16: エリーゼ様はどちらに？　沼に落ちて見失ってしまったぞ…
+MID_HAROLD_VOICE17: いつでも頼ってくれたまえ。ヒーローとして…\nそして仲間として、君を勝利へと導こう！
+MID_HAROLD_VOICE18: うむ！
+MID_HAROLD_VOICE19: 出動だ！
+MID_HAROLD_VOICE20: どこだ悪党！

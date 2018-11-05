@@ -1,0 +1,38 @@
+[Heroes Archive] (TIKI_A)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_A_HOME1: ふぁぁ…眠くなってきちゃった…\nこの場所はつい気が緩むわね。\n神竜の大地に、よく似ているわ。
+MID_TIKI_A_HOME2: 私は三千年を生きる竜…\n沢山の出会いと別れを繰り返してきたわ。\nあなたのことも私、ずっと覚えているから。
+MID_TIKI_A_HOME3: ありがとう…あなたが呼んでくれたから、\n私はまた、懐かしい人たちに会える。\nだいすきだった、おにいちゃんにも…
+MID_TIKI_A_HOME4: 今度私と、ゆっくり話さない？\nあなたからはこの世界の人たちとも、\n英雄たちとも違う何かを感じるの…
+MID_TIKI_A_HOME5: あら、$Nu。\nちょうど散歩をしてきたところなの。\nいくつになっても、新しい世界は楽しいわ。
+MID_TIKI_A_FRIEND: $Nfから挨拶よ…\nあなたのことを気にかけていたわ。\nこれからも、仲良くしてあげて。
+MID_TIKI_A_LEVEL1: 守るわ…\n英雄たちと共に在る、この世界を…
+MID_TIKI_A_LEVEL2: ふふ、この感じ、\nなんだか懐かしい…
+MID_TIKI_A_LEVEL3: もう三千歳だもの…\n仕方ないわ…
+MID_TIKI_A_SKILL: 力を授けてくれたのね。\nこれからも一緒に戦うわ。
+MID_TIKI_A_JOIN: 私はチキよ。\n竜に姿を変えられる神竜族…\n人々からは、神竜の巫女と呼ばれているわ。
+MID_TIKI_A_STRONGEST: $Nu…\nあなたはこの世界のこと、どう思う？\n帰る日が来ることを、寂しく感じる？$k$p私はね、今が楽しいほど考えてしまうの。\nこの世界と、仲間たちと、\nいつか別れてしまう日のことを。$k$pいま私…ふと、あなたとお別れすることを\n寂しいなって思ってしまったのよ。\nこれって、あなたに気を許したせいね。$k$pふふ。気が早いですって？\n確かに、あなたの言うとおりだわ。\n私たちの時間はまだ沢山あるんだもの。$k$p今を楽しみましょう、お互いに。\nいつかこの時間を懐かしく思う瞬間に…\n思い出の中の姿が、輝くように。\n
+MID_TIKI_A_VOICE01: はっ！
+MID_TIKI_A_VOICE02: でぇい！
+MID_TIKI_A_VOICE03: ううっ…！
+MID_TIKI_A_VOICE04: 集中しなきゃ…
+MID_TIKI_A_VOICE05: 近寄らないで…！
+MID_TIKI_A_VOICE06: 少し本気出すね！
+MID_TIKI_A_VOICE07: おやすみなさい
+MID_TIKI_A_VOICE08: 神竜の息吹よ
+MID_TIKI_A_VOICE09: 私を…破るなんて…
+MID_TIKI_A_VOICE10: ふふ…
+MID_TIKI_A_VOICE11: 少し眠いわ…
+MID_TIKI_A_VOICE12: 私を呼んでくれて、うれしいわ
+MID_TIKI_A_VOICE13: 私たちの力は、善にも悪にもなるのよ
+MID_TIKI_A_VOICE14: 星空を見ると、寂しくなくなるの
+MID_TIKI_A_VOICE15: おにいちゃんも、ここに来ているの…？
+MID_TIKI_A_VOICE16: 巫女と呼ばれたり、英雄と呼ばれたり忙しいわね…
+MID_TIKI_A_VOICE17: いつか別れる運命でも、今はあなた達と共に行くわ
+MID_TIKI_A_VOICE18: ええ
+MID_TIKI_A_VOICE19: 行くのね
+MID_TIKI_A_VOICE20: 導いて

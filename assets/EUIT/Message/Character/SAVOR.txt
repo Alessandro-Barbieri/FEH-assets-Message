@@ -1,0 +1,38 @@
+[Heroes Archive] (SAVOR)
+
+
+Heroes Message Name: Message
+
+
+MID_SAVOR_HOME1: Eh? Quindi vuoi dire che ora sono\nun membro dei Guardiani di Askr?$k$pMai sentiti nominare. Ma almeno\nla paga è buona?
+MID_SAVOR_HOME2: Ero al porto di Novis a vendere\nla mia spada, quando quella\nstrana tipa mi ha ingaggiato.
+MID_SAVOR_HOME3: Parti per un altro incarico? Sappi che\nlavorare fino allo sfinimento non ha\nmai fatto bene a nessuno.$k$pQuando sarai di ritorno, ti insegnerò\na prendertela comoda.
+MID_SAVOR_HOME4: Pssst... Ehi... Conosci qualche posto\ndove far baldoria? Dai, non tenerteli\ntutti per te, condividi.
+MID_SAVOR_HOME5: Stavo pulendo la mia spada, se lo\nmerita. Grazie a lei mi guadagno da\nvivere, e poi è una gioia per gli occhi.
+MID_SAVOR_FRIEND: Ti saluta $Nf.$k$pComunque, niente male questo\nposto. Vale la pena farci un giro\nprima che me ne vada...
+MID_SAVOR_LEVEL1: Davvero niente male.
+MID_SAVOR_LEVEL2: Oggi sono in forma smagliante!
+MID_SAVOR_LEVEL3: Non me l'aspettavo.
+MID_SAVOR_SKILL: Mi sdebiterò facendone\nbuon uso.\n
+MID_SAVOR_JOIN: Mi chiamo Saber e sono un\nmercenario. Non temere: finché\npaghi, lotterò al tuo fianco.\n
+MID_SAVOR_STRONGEST: Ottimo tempismo,\n$Nu.$k$pSto per andare in città a far\nbaldoria, se vuoi unirti.$k$pHai troppi impegni? Ricorda che nella\nvita non c'è solo il lavoro, e ogni\ngiorno potrebbe essere l'ultimo.$k$pDammi retta: bevi, mangia e\nspassatela per una volta!\nPerché quello sguardo truce?$k$pScusa, ritiro tutto. Un mercenario\ncome me intimidito da uno sguardo...\nLa mia reputazione è rovinata.$k$pMa non serbo rancore, anzi, quando\nvuoi chiamami, va bene?
+MID_SAVOR_VOICE01: せやあっ
+MID_SAVOR_VOICE02: おらよっ
+MID_SAVOR_VOICE03: Hey, that HURT!
+MID_SAVOR_VOICE04: うわあああーっ！！
+MID_SAVOR_VOICE05: È inutile!
+MID_SAVOR_VOICE06: Levati!
+MID_SAVOR_VOICE07: Non puoi vincere!
+MID_SAVOR_VOICE08: Alla faccia tua!
+MID_SAVOR_VOICE09: Botched it.
+MID_SAVOR_VOICE10: Haha
+MID_SAVOR_VOICE11: Whoa, hey now. Messin' with me?
+MID_SAVOR_VOICE12: Hmm. Think twice before gettin' on my bad side.
+MID_SAVOR_VOICE13: Long as this stays lively, I don't give a damn about the details.
+MID_SAVOR_VOICE14: Lookin' for a good time here! C'mon! ...Anyone? Hello?
+MID_SAVOR_VOICE15: Piece of advice. Dealin' with a fancy lass is always a bad idea.
+MID_SAVOR_VOICE16: Everyone has a past. Remember that.
+MID_SAVOR_VOICE17: You ain't half-bad. Ha! Not half-good either.
+MID_SAVOR_VOICE18: All right.
+MID_SAVOR_VOICE19: Huh...
+MID_SAVOR_VOICE20: On it.

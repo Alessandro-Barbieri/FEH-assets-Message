@@ -1,0 +1,276 @@
+[Heroes Archive] (Data_49_thrace01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤弓: 赤弓　射程２\n敵方防守越高，給予的傷害越少\n可給予飛行系敵人大量傷害
+MWID_H_青弓: 青弓　射程２\n敵方防守越高，給予的傷害越少\n可給予飛行系敵人大量傷害
+MWID_H_緑弓: 綠弓　射程２\n敵方防守越高，給予的傷害越少\n可給予飛行系敵人大量傷害
+MID_ERROR_APP_EXTRA_BONUS_EXPIRATION: 無法購買。\n此商品已販售結束。
+MID_MISSION_S201804DAISEIATU01_TITLE: 大壓制戰
+MID_MISSION_S201804DAISEIATU01_A1: 於大壓制戰中獲得得分
+MID_MISSION_H_S201804DAISEIATU01_A1: 於大壓制戰中獲得得分。
+MID_MISSION_S201804DAISEIATU01_A2: 於大壓制戰中獲得得分
+MID_MISSION_H_S201804DAISEIATU01_A2: 於大壓制戰中獲得得分。
+MID_MISSION_S201804DAISEIATU01_A3: 於大壓制戰中獲得得分
+MID_MISSION_H_S201804DAISEIATU01_A3: 於大壓制戰中獲得得分。
+MID_MISSION_S201804MOVE01_TITLE: 移動方式
+MID_MISSION_S201804MOVE01_A1: 以步行擊敗赤屬性
+MID_MISSION_H_S201804MOVE01_A1: 以步行的我方\n擊敗赤屬性的敵人。
+MID_MISSION_S201804MOVE01_A2: 以步行擊敗青屬性
+MID_MISSION_H_S201804MOVE01_A2: 以步行的我方\n擊敗青屬性的敵人。
+MID_MISSION_S201804MOVE01_A3: 以步行擊敗綠屬性
+MID_MISSION_H_S201804MOVE01_A3: 以步行的我方\n擊敗綠屬性的敵人。
+MID_MISSION_S201804MOVE01_A4: 以步行擊敗無屬性
+MID_MISSION_H_S201804MOVE01_A4: 以步行的我方\n擊敗無屬性的敵人。
+MID_MISSION_S201804MOVE01_A5: 以重裝擊敗赤屬性
+MID_MISSION_H_S201804MOVE01_A5: 以重裝的我方\n擊敗赤屬性的敵人。
+MID_MISSION_S201804MOVE01_A6: 以重裝擊敗青屬性
+MID_MISSION_H_S201804MOVE01_A6: 以重裝的我方\n擊敗青屬性的敵人。
+MID_MISSION_S201804MOVE01_A7: 以重裝擊敗綠屬性
+MID_MISSION_H_S201804MOVE01_A7: 以重裝的我方\n擊敗綠屬性的敵人。
+MID_MISSION_S201804MOVE01_A8: 以重裝擊敗無屬性
+MID_MISSION_H_S201804MOVE01_A8: 以重裝的我方\n擊敗無屬性的敵人。
+MID_MISSION_S201804MOVE01_A9: 以騎馬擊敗赤屬性
+MID_MISSION_H_S201804MOVE01_A9: 以騎馬的我方\n擊敗赤屬性的敵人。
+MID_MISSION_S201804MOVE01_A10: 以騎馬擊敗青屬性
+MID_MISSION_H_S201804MOVE01_A10: 以騎馬的我方\n擊敗青屬性的敵人。
+MID_MISSION_S201804MOVE01_A11: 以騎馬擊敗綠屬性
+MID_MISSION_H_S201804MOVE01_A11: 以騎馬的我方\n擊敗綠屬性的敵人。
+MID_MISSION_S201804MOVE01_A12: 以騎馬擊敗無屬性
+MID_MISSION_H_S201804MOVE01_A12: 以騎馬的我方\n擊敗無屬性的敵人。
+MID_MISSION_S201804MOVE01_A13: 以飛行擊敗赤屬性
+MID_MISSION_H_S201804MOVE01_A13: 以飛行的我方\n擊敗赤屬性的敵人。
+MID_MISSION_S201804MOVE01_A14: 以飛行擊敗青屬性
+MID_MISSION_H_S201804MOVE01_A14: 以飛行的我方\n擊敗青屬性的敵人。
+MID_MISSION_S201804MOVE01_A15: 以飛行擊敗綠屬性
+MID_MISSION_H_S201804MOVE01_A15: 以飛行的我方\n擊敗綠屬性的敵人。
+MID_MISSION_S201804MOVE01_A16: 以飛行擊敗無屬性
+MID_MISSION_H_S201804MOVE01_A16: 以飛行的我方\n擊敗無屬性的敵人。
+MID_MISSION_S201804SENKA01_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201804SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201804SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201804YEAR01_TITLE: 大英雄完全制霸Ⅱ
+MID_MISSION_S201804YEAR01_A1: 突破笑臉面具羅羅
+MID_MISSION_H_S201804YEAR01_A1: 過關大英雄戰・笑臉面具羅羅。
+MID_MISSION_S201804YEAR01_A2: 特殊:突破笑臉面具羅羅
+MID_MISSION_H_S201804YEAR01_A2: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・笑臉面具羅羅(超難以上)。
+MID_MISSION_S201804YEAR01_A3: 特殊:突破笑臉面具羅羅
+MID_MISSION_H_S201804YEAR01_A3: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・笑臉面具羅羅(超難以上)。
+MID_MISSION_S201804YEAR01_A4: 特殊:突破笑臉面具羅羅
+MID_MISSION_H_S201804YEAR01_A4: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・笑臉面具羅羅(超難以上)。
+MID_MISSION_S201804YEAR01_A5: 特殊:突破笑臉面具羅羅
+MID_MISSION_H_S201804YEAR01_A5: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・笑臉面具羅羅(超難以上)。
+MID_MISSION_S201804YEAR01_A6: 突破黑暗狙擊手克萊涅
+MID_MISSION_H_S201804YEAR01_A6: 過關大英雄戰・黑暗狙擊手克萊涅。
+MID_MISSION_S201804YEAR01_A7: 特殊:突破克萊涅
+MID_MISSION_H_S201804YEAR01_A7: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑暗狙擊手克萊涅(超難以上)。
+MID_MISSION_S201804YEAR01_A8: 特殊:突破克萊涅
+MID_MISSION_H_S201804YEAR01_A8: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑暗狙擊手克萊涅(超難以上)。
+MID_MISSION_S201804YEAR01_A9: 特殊:突破克萊涅
+MID_MISSION_H_S201804YEAR01_A9: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑暗狙擊手克萊涅(超難以上)。
+MID_MISSION_S201804YEAR01_A10: 特殊:突破克萊涅
+MID_MISSION_H_S201804YEAR01_A10: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑暗狙擊手克萊涅(超難以上)。
+MID_MISSION_S201804YEAR01_A11: 突破傲慢的王子貝爾克特
+MID_MISSION_H_S201804YEAR01_A11: 過關大英雄戰・傲慢的王子貝爾克特。
+MID_MISSION_S201804YEAR01_A12: 特殊:突破傲慢的王子貝爾克特
+MID_MISSION_H_S201804YEAR01_A12: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・傲慢的王子貝爾克特(超難以上)。
+MID_MISSION_S201804YEAR01_A13: 特殊:突破傲慢的王子貝爾克特
+MID_MISSION_H_S201804YEAR01_A13: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・傲慢的王子貝爾克特(超難以上)。
+MID_MISSION_S201804YEAR01_A14: 特殊:突破傲慢的王子貝爾克特
+MID_MISSION_H_S201804YEAR01_A14: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・傲慢的王子貝爾克特(超難以上)。
+MID_MISSION_S201804YEAR01_A15: 特殊:突破傲慢的王子貝爾克特
+MID_MISSION_H_S201804YEAR01_A15: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・傲慢的王子貝爾克特(超難以上)。
+MID_MISSION_S201804YEAR01_A16: 突破月光石瓦爾達
+MID_MISSION_H_S201804YEAR01_A16: 過關大英雄戰・月光石瓦爾達。
+MID_MISSION_S201804YEAR01_A17: 特殊:突破月光石瓦爾達
+MID_MISSION_H_S201804YEAR01_A17: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・月光石瓦爾達(超難以上)。
+MID_MISSION_S201804YEAR01_A18: 特殊:突破月光石瓦爾達
+MID_MISSION_H_S201804YEAR01_A18: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・月光石瓦爾達(超難以上)。
+MID_MISSION_S201804YEAR01_A19: 特殊:突破月光石瓦爾達
+MID_MISSION_H_S201804YEAR01_A19: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・月光石瓦爾達(超難以上)。
+MID_MISSION_S201804YEAR01_A20: 特殊:突破月光石瓦爾達
+MID_MISSION_H_S201804YEAR01_A20: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・月光石瓦爾達(超難以上)。
+MID_MISSION_S201804YEAR01_A21: 突破神炎的皇帝阿爾維斯
+MID_MISSION_H_S201804YEAR01_A21: 過關大英雄戰・神炎的皇帝阿爾維斯。
+MID_MISSION_S201804YEAR01_A22: 特殊:突破阿爾維斯
+MID_MISSION_H_S201804YEAR01_A22: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・神炎的皇帝阿爾維斯(超難以上)。
+MID_MISSION_S201804YEAR01_A23: 特殊:突破阿爾維斯
+MID_MISSION_H_S201804YEAR01_A23: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・神炎的皇帝阿爾維斯(超難以上)。
+MID_MISSION_S201804YEAR01_A24: 特殊:突破阿爾維斯
+MID_MISSION_H_S201804YEAR01_A24: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・神炎的皇帝阿爾維斯(超難以上)。
+MID_MISSION_S201804YEAR01_A25: 特殊:突破阿爾維斯
+MID_MISSION_H_S201804YEAR01_A25: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・神炎的皇帝阿爾維斯(超難以上)。
+MID_MISSION_S201804YEAR01_A26: 突破解放之王賽菲爾
+MID_MISSION_H_S201804YEAR01_A26: 過關大英雄戰・解放之王賽菲爾。
+MID_MISSION_S201804YEAR01_A27: 特殊:突破解放之王賽菲爾
+MID_MISSION_H_S201804YEAR01_A27: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・解放之王賽菲爾(超難以上)。
+MID_MISSION_S201804YEAR01_A28: 特殊:突破解放之王賽菲爾
+MID_MISSION_H_S201804YEAR01_A28: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・解放之王賽菲爾(超難以上)。
+MID_MISSION_S201804YEAR01_A29: 特殊:突破解放之王賽菲爾
+MID_MISSION_H_S201804YEAR01_A29: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・解放之王賽菲爾(超難以上)。
+MID_MISSION_S201804YEAR01_A30: 特殊:突破解放之王賽菲爾
+MID_MISSION_H_S201804YEAR01_A30: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・解放之王賽菲爾(超難以上)。
+MID_MISSION_S201804YEAR01_A31: 突破黑騎士卡謬
+MID_MISSION_H_S201804YEAR01_A31: 過關大英雄戰・黑騎士卡謬
+MID_MISSION_S201804YEAR01_A32: 特殊:突破黑騎士卡謬
+MID_MISSION_H_S201804YEAR01_A32: 僅以被賦予水之祝福的英雄\n或水的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑騎士卡謬(超難以上)。
+MID_MISSION_S201804YEAR01_A33: 特殊:突破黑騎士卡謬
+MID_MISSION_H_S201804YEAR01_A33: 僅以被賦予風之祝福的英雄\n或風的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑騎士卡謬(超難以上)。
+MID_MISSION_S201804YEAR01_A34: 特殊:突破黑騎士卡謬
+MID_MISSION_H_S201804YEAR01_A34: 僅以被賦予地之祝福的英雄\n或地的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑騎士卡謬(超難以上)。
+MID_MISSION_S201804YEAR01_A35: 特殊:突破黑騎士卡謬
+MID_MISSION_H_S201804YEAR01_A35: 僅以被賦予火之祝福的英雄\n或火的傳承英雄編組而成的隊伍，\n過關大英雄戰・黑騎士卡謬(超難以上)。
+MID_MISSION_S201804STORY01_TITLE: 邂逅之後
+MID_MISSION_S201804STORY01_A1: 特殊:突破第7章-第1節(超難)
+MID_MISSION_H_S201804STORY01_A1: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第7章-第1節(超難)。
+MID_MISSION_S201804STORY01_A2: 特殊:突破第7章-第2節(超難)
+MID_MISSION_H_S201804STORY01_A2: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第7章-第2節(超難)。
+MID_MISSION_S201804STORY01_A3: 特殊:突破第7章-第3節(超難)
+MID_MISSION_H_S201804STORY01_A3: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第7章-第3節(超難)。
+MID_MISSION_S201804STORY01_A4: 特殊:突破第7章-第4節(超難)
+MID_MISSION_H_S201804STORY01_A4: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第7章-第4節(超難)。
+MID_MISSION_S201804STORY01_A5: 特殊:突破第7章-第5節(超難)
+MID_MISSION_H_S201804STORY01_A5: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第7章-第5節(超難)。
+MID_H_OCCUPATION_RULE_歩行能力強化: 我方的步行單位\n攻擊、速度、防守、魔防＋４
+MID_H_OCCUPATION_RULE_歩行奥義: 我方的步行單位\n戰鬥中的奧義發動計量變化量＋１\n（若有多個相同系統效果，僅取最大值）
+MID_H_OCCUPATION_RULE_重装能力強化: 我方的重裝單位\n攻擊、速度、防守、魔防＋４
+MID_H_OCCUPATION_RULE_重装移動強化: 我方的重裝單位\n回合開始時，移動＋１（１回合，不可累計）
+MID_H_OCCUPATION_RULE_騎馬能力強化: 我方的騎馬單位\n攻擊、速度、防守、魔防＋４
+MID_H_OCCUPATION_RULE_騎馬追撃: 我方的騎馬單位\n由自己發動攻擊時，必定可進行追擊
+MID_H_OCCUPATION_RULE_飛行能力強化: 我方的飛行單位\n攻擊、速度、防守、魔防＋４
+MID_H_OCCUPATION_RULE_飛行先導: 我方可移動至周圍２格內\n我方飛行單位的相鄰格子
+MPID_サイアス: 賽亞斯
+MPID_フィン: 芬恩
+MPID_リーフ: 里弗
+MPID_ナンナ: 南娜
+MPID_オルエン2: 歐爾玟
+MPID_ラインハルト2: 萊茵哈特
+MPID_HONOR_サイアス: 炎之祭司
+MPID_HONOR_フィン: 傳說中的槍騎士
+MPID_HONOR_リーフ: 倫斯特的王子
+MPID_HONOR_ナンナ: 諾狄恩的公主
+MPID_HONOR_オルエン2: 綠色魔道騎士
+MPID_HONOR_ラインハルト2: 雷神之劍
+MPID_H_サイアス: 貝爾特瑪的祭司。被譽為稀世的天才軍師。\n魔法戰士法拉的聖痕寄宿在他身上。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_H_フィン: 侍奉著倫斯特王族的忠臣。向里弗的父親喬安宣示忠誠，\n為誓死守護里弗而持續在沙場上爭戰。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_H_リーフ: 喬安之子。原本潛伏在費亞納村之中，\n因受到帝國軍的襲擊決定挺身而戰。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_H_ナンナ: 拉克西絲之女。遺傳了母親的容貌與氣質，\n擁有引人注目的強烈魅力。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_H_オルエン2: 弗立吉軍的魔道騎士，萊茵哈特的妹妹。\n與曾經尊敬的兄長斷絕關係，步上屬於自己的道路。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_H_ラインハルト2: 弗立吉軍的魔道騎士，歐爾玟的兄長。\n在色雷斯大河的戰鬥中，敗給了里弗王子一行人。\n（登場作品：『ファイアーエムブレム　トラキア７７６』）
+MPID_VOICE_サイアス: 中谷一博(Kazuhiro Nakaya)
+MPID_VOICE_フィン: 置鮎龍太郎(Ryotaro Okiayu)
+MPID_VOICE_リーフ: 鈴村健一(Kenichi Suzumura)
+MPID_VOICE_ナンナ: 名塚佳織(Kaori Nazuka)
+MPID_VOICE_オルエン2: 高橋美佳子(Mikako Takahashi)
+MPID_VOICE_ラインハルト2: 利根健太朗(Kentaro Tone)
+MPID_ILLUST_サイアス: 悌太(Teita)
+MPID_ILLUST_フィン: 板垣ハコ(Hako Itagaki)
+MPID_ILLUST_リーフ: あおじ(Aoji)
+MPID_ILLUST_ナンナ: 紺藤ココン(Kokon Konfuzi)
+MPID_ILLUST_オルエン2: cuboon
+MPID_ILLUST_ラインハルト2: cuboon
+MID_SEQUENTIAL_MAP_TERM_201804: 雷神的親信
+MID_SEQUENTIAL_MAP_BOOST_49: $a今天 還剩$a0次 得分$a1倍＆我方全體強化！
+MID_SEQUENTIAL_MAP_HELP_DIALOG_06: ◆得分３倍＆我方全體強化◆\n１天有２次可獲得得分３倍以及\n戰鬥時提升我方全體能力值的加成。\n（ＨＰ＋１０\n　攻擊、速度、防守、魔防＋４）\n\n另外，獲得經驗值・ＳＰ提升為２倍。
+MID_SEQUENTIAL_MAP_BONUS_CHARACTER_RATIO_WITH_LABEL: $a得分\n＋$a0％
+MID_SEQUENTIAL_MAP_RECOMMENDED: 推薦！
+MSID_無銘の一門の剣: 無銘一族之劍
+MSID_フォルブレイズ: 弗魯布雷茲
+MSID_第9迷宮の覇者1: 第９迷宮的霸王１
+MSID_第9迷宮の覇者2: 第９迷宮的霸王２
+MSID_第9迷宮の覇者3: 第９迷宮的霸王３
+MSID_マスターソード: 大師之劍
+MSID_光の剣: 光劍
+MSID_軍神の書: 軍神之書
+MSID_雷旋トルネード: 雷旋之書
+MSID_レスト: 休息
+MSID_レスト＋: 休息＋
+MSID_Ｓドリンク: Ｓ飲料
+MSID_攻撃守備の紋章1: 攻擊防守紋章１
+MSID_攻撃守備の紋章2: 攻擊防守紋章２
+MSID_緑魔の経験1: 綠魔之經驗１
+MSID_緑魔の経験2: 綠魔之經驗２
+MSID_緑魔の経験3: 綠魔之經驗３
+MSID_H_無銘の一門の剣: 容易發動奧義（發動計量－１）
+MSID_H_フォルブレイズ: 回合開始時，\n敵軍內魔防最高的敵人魔防－７\n（直到敵人下次行動結束）
+MSID_H_封印の剣改: 克制龍\n受到敵人攻擊時，戰鬥中的防守及魔防＋４
+MSID_H_リガルブレイド改: 在敵人的ＨＰ為１００％的狀態下展開戰鬥時，\n自己在戰鬥中的攻擊及速度＋３
+MSID_H_切り返しR50: 若自身ＨＰ高於５０％，\n受到敵人攻擊時，則必定可進行追擊
+MSID_H_絆R歩行魔法: 周圍２格内有我方魔法並且為步行單位時，\n自己在戰鬥中的攻擊、速度、防守、魔防＋３
+MSID_H_第9迷宮の覇者1: 速度＋１
+MSID_H_第9迷宮の覇者2: 速度＋２
+MSID_H_第9迷宮の覇者3: 速度＋３
+MSID_H_マスターソード: 攻擊２次（被敵人攻擊時，也可攻擊２次）\n速度－５
+MSID_H_光の剣: 防守＋３\n敵方魔防低於敵方防守５以上時，\n傷害＋７
+MSID_H_軍神の書: 回合開始時，位於十字方向上、魔防低於自己的敵人\n攻擊及魔防－４（直到敵人下次行動結束）
+MSID_H_雷旋トルネード: 將自己身上的強化狀態合計值計入攻擊
+MSID_H_レスト: 回復８ＨＰ　解除不利的異常狀態\n（弱化、移動限制、慌亂、無法反擊等\n　直到下次行動結束時的所有效果）
+MSID_H_レスト＋: 回復攻擊的５０％（最低８ＨＰ）　解除不利的異常狀態\n（弱化、移動限制、慌亂、無法反擊等\n　直到下次行動結束時的所有效果）
+MSID_H_Ｓドリンク: 第１回合開始時，回復ＨＰ９９，\n奧義發動計量－１
+MSID_H_攻撃守備の紋章1: 周圍１格內的我方，\n戰鬥中的攻擊及防守＋２
+MSID_H_攻撃守備の紋章2: 周圍１格內的我方，\n戰鬥中的攻擊及防守＋３
+MSID_H_緑魔の経験1: 存活時，若自己武器為綠魔，則取得１．５倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_緑魔の経験2: 存活時，武器為綠魔的我方皆可取得１．５倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_緑魔の経験3: 存活時，武器為綠魔的我方皆可取得２倍經驗值\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MID_CHAPTER_TITLE_C0207: 第２部　第７章
+MID_CHAPTER_C0207: 邂逅之後
+MID_STAGE_TITLE_S2071: 第７章—第１節
+MID_STAGE_TITLE_S2072: 第７章—第２節
+MID_STAGE_TITLE_S2073: 第７章—第３節
+MID_STAGE_TITLE_S2074: 第７章—第４節
+MID_STAGE_TITLE_S2075: 第７章—第５節
+MID_STAGE_S2071: 夢想近在咫尺
+MID_STAGE_S2072: 魔道騎士之劍
+MID_STAGE_S2073: 不屈的意志
+MID_STAGE_S2074: 兩位魔道騎士
+MID_STAGE_S2075: 邂逅之後
+MID_SPECIALMAP_TUTORIAL_DIALOG_02_02: ◆每日更換大英雄戰Ⅱ◆\n下列的大英雄將每天輪流登場。\n\n解放之王賽菲爾、黑騎士卡謬、\n笑臉面具羅羅、黑暗狙擊手克萊涅、\n傲慢的王子貝爾克特、月光石瓦爾達、\n神炎的皇帝阿爾維斯
+MID_STAGE_TITLE_SB_0009: 第９迷宮
+MID_STAGE_HONOR_V0231: 禮物地圖
+MID_STAGE_V0231: 馬克斯軍
+MID_STAGE_HONOR_V0232: 禮物地圖
+MID_STAGE_V0232: 卡美拉軍
+MID_STAGE_HONOR_V0233: 禮物地圖
+MID_STAGE_V0233: 阿庫婭軍
+MID_STAGE_HONOR_V0234: 禮物地圖
+MID_STAGE_V0234: 艾克軍
+MID_STAGE_HONOR_V0235: 禮物地圖
+MID_STAGE_V0235: 羅伊軍
+MID_STAGE_HONOR_V0236: 禮物地圖
+MID_STAGE_V0236: 男性魯弗萊軍
+MID_STAGE_HONOR_V0237: 禮物地圖
+MID_STAGE_V0237: 拓海軍
+MID_STAGE_HONOR_V0238: 禮物地圖
+MID_STAGE_V0238: 女性魯弗萊軍
+MID_STAGE_HONOR_V0239: 禮物地圖
+MID_STAGE_V0239: 露琪娜軍
+MID_STAGE_HONOR_V0240: 禮物地圖
+MID_STAGE_V0240: 庫洛武軍
+MID_STAGE_HONOR_V0241: 禮物地圖
+MID_STAGE_V0241: 琳軍
+MID_STAGE_HONOR_T0029: 炎之祭司
+MID_STAGE_T0029: 賽亞斯
+MID_STAGE_HONOR_Q0006: 每週更新
+MID_STAGE_Q0006: 壓制戰
+MID_STAGE_HONOR_Q0007: 每週更新
+MID_STAGE_Q0007: 壓制戰
+MID_STAGE_HONOR_Q0008: 每週更新
+MID_STAGE_Q0008: 壓制戰
+MID_STAGE_HONOR_Q0009: 每週更新
+MID_STAGE_Q0009: 壓制戰
+MID_STAGE_TITLE_BG_WATER_0007: 水之庭園７
+MID_STAGE_BG_WATER_0007: 水之柱廊
+MID_STAGE_TITLE_BG_WIND_0006: 風之庭園６
+MID_STAGE_BG_WIND_0006: 風之花壇
+MID_STAGE_TITLE_BG_EARTH_0006: 地之庭園６
+MID_STAGE_BG_EARTH_0006: 地之花壇
+MID_STAGE_TITLE_BG_FIRE_0006: 火之庭園６
+MID_STAGE_BG_FIRE_0006: 火之花壇

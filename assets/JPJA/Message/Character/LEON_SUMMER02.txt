@@ -1,0 +1,39 @@
+[Heroes Archive] (LEON_SUMMER02)
+
+
+Heroes Message Name: Message
+
+
+MID_LEON_SUMMER02_HOME1: さっきアルフォンス王子が\n日除け用の法衣を貸してくれたんだ。\nでもうっかり、裏返しに着てしまってね…
+MID_LEON_SUMMER02_HOME2: きょうだいで南国を賭けて戦ったんだよ。\n僕は乗り気じゃなかったんだけど…\n臣下たちが張り切って勝ってしまってね。
+MID_LEON_SUMMER02_HOME3: あんたは暑さで参ってないか？\nそういう時はトマトをしぼった飲み物を\n飲むと気分が良くなるよ。
+MID_LEON_SUMMER02_HOME4: アスク王国の海も見てみたいよ。\n日が落ちてからなら尚更いいけどね。\n夜の海って、一面の闇で美しいだろう？
+MID_LEON_SUMMER02_HOME5: 書物を読んでいたんだ。\n異国の夏野菜についての文献でね。\n色んな種類のトマトが載っているんだよ。
+MID_LEON_SUMMER02_FRIEND: はい、$Nfの挨拶。\n待つ場所が室内でよかったよ。\n外だと日焼けしてしまうからね。
+MID_LEON_SUMMER02_LEVEL1: これだけの成果なら\n水着でいても恥じゃないね。
+MID_LEON_SUMMER02_LEVEL2: 水着で戦ったにしては\nまあ良い方なんじゃないか？
+MID_LEON_SUMMER02_LEVEL3: この結果が不満なら\n僕に服を着せてよね。
+MID_LEON_SUMMER02_SKILL: 力をくれて嬉しいよ。\n服をくれるともっと嬉しいんだけど。
+MID_LEON_SUMMER02_JOIN: 僕はレオン。暗夜王国の王子だよ。\nどうして南国にいるときに呼ぶんだよ…\nまさかこのまま闘えっていうの？
+MID_LEON_SUMMER02_STRONGEST: この暑いのに、いつも元気だね。\nそういえばいつもマントを着込んでるけど、\nあんたも日焼けが嫌なのか？$k$p僕は日に焼けるとすぐに赤くなるから\nなるべく日に当たらないようにしてるんだ…\n体中真っ赤になるのは嫌だからね。$k$p…え？　それってトマトみたいだって？\nトマトも日にあたると赤くなるから…？\nお前、僕に向かってなんてことを…$k$pなんて素晴らしいことを言うんだよ！\nそう思うとこの体質も捨てたものじゃない。\nこれからは積極的に日に当たろうかな。$k$p…それはやめた方がいいって？\nま、あんたが言うなら従っておくよ。\nいいことを教えてくれたし、そのお礼にね。
+MID_LEON_SUMMER02_VOICE01: えい
+MID_LEON_SUMMER02_VOICE02: はっ
+MID_LEON_SUMMER02_VOICE03: わわっ！
+MID_LEON_SUMMER02_VOICE04: ちょっ…！
+MID_LEON_SUMMER02_VOICE05: 海に散るがいい！
+MID_LEON_SUMMER02_VOICE06: な、南国アタック…！
+MID_LEON_SUMMER02_VOICE07: 沈めてやるよ
+MID_LEON_SUMMER02_VOICE08: 血の海にしてやる
+MID_LEON_SUMMER02_VOICE09: 南国、行ってらっしゃい…
+MID_LEON_SUMMER02_VOICE10: ふふっ
+MID_LEON_SUMMER02_VOICE11: 日焼けはしたくないなぁ
+MID_LEON_SUMMER02_VOICE12: 暑いところは苦手なんだけど
+MID_LEON_SUMMER02_VOICE13: 僕は南国になんか興味ない。こ、この格好は仕方なく…
+MID_LEON_SUMMER02_VOICE14: 海で泳ぐより、夜の浜でも散策したいよ
+MID_LEON_SUMMER02_VOICE15: トマトジュースはいい…あの酸味と味がクセになるんだ
+MID_LEON_SUMMER02_VOICE16: 臣下たちに土産でも調達するべきなのかな
+MID_LEON_SUMMER02_VOICE17: あんたは南の島とか好きなのか？\nま、ひと夏の思い出を作るなら悪い場所じゃないかもね
+MID_LEON_SUMMER02_VOICE18: うん
+MID_LEON_SUMMER02_VOICE19: 日焼けが…
+MID_LEON_SUMMER02_VOICE20: 暑いね
+MID_LEON_SUMMER02_VOICE21: こ、こんな格好で…王族の恥晒しだ…！

@@ -1,0 +1,39 @@
+[Heroes Archive] (LUCINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_HOME1: Père, Mère... Lorsque les combats\nseront terminés, j'espère que vous\ntrouverez enfin le repos.
+MID_LUCINA_HOME2: Le monde d'où je viens a été anéanti\npar Grima, le Dragon Déchu. Je dois\nempêcher ce futur de se réaliser.
+MID_LUCINA_HOME3: Si vous êtes $Gfatigué,fatiguée|, je veux bien\npatrouiller à votre place. Je tiens à\nce que vous soyez en pleine forme.
+MID_LUCINA_HOME4: Accepteriez-vous de m'accompagner\nfaire les boutiques ? Le sens du style\nn'est pas mon fort...
+MID_LUCINA_HOME5: Pa... Pardon. J'essayais une nouvelle\ntechnique sur l'un des mannequins\nd'entraînement, et puis... je l'ai cassé.
+MID_LUCINA_FRIEND: $Nf m'a\nchargée de vous saluer.\nVous devez être proches.
+MID_LUCINA_LEVEL1: Je ne regarderai pas un autre\ninnocent mourir !
+MID_LUCINA_LEVEL2: Je mets ma force au service du bien...
+MID_LUCINA_LEVEL3: Je ne vais pas me contenter de ça !
+MID_LUCINA_SKILL: J'utiliserai ce pouvoir pour changer le\ncours du destin.
+MID_LUCINA_JOIN: Je suis Lucina d'Ylisse, fille de\nChrom, et prête à me battre pour\nchanger le destin de mon peuple.$k$pJ'ai voyagé à travers le temps\nafin de réécrire l'histoire et\nde sauver mon royaume.
+MID_LUCINA_STRONGEST: Oh, ce monde est magnifique...\nOù que je pose le regard, je ne\npeux m'empêcher de m'émerveiller.$k$pUne telle beauté est irremplaçable.\nNous devons la protéger, $GInvocateur,Invocatrice|.\nQuel qu'en soit le coût.$k$pJe ne supporterais pas que ce\nmonde connaisse le même destin\nque le mien, ravagé par la guerre... $k$pQue dites-vous ? Oh, merci\nde tenter de me consoler,\nça me touche beaucoup...$k$pQuoi qu'il advienne, j'espère\nque nous serons toujours là\nl'$Gun,une| pour l'autre.
+MID_LUCINA_VOICE01: やっ！
+MID_LUCINA_VOICE02: はあっ！
+MID_LUCINA_VOICE03: うあっ！
+MID_LUCINA_VOICE04: 不覚です…
+MID_LUCINA_VOICE05: Je braverai le destin !
+MID_LUCINA_VOICE06: Rien ne m'arrêtera !
+MID_LUCINA_VOICE07: L'union fait la force !
+MID_LUCINA_VOICE08: Je ne céderai pas !
+MID_LUCINA_VOICE09: Not here...
+MID_LUCINA_VOICE10: Heehee
+MID_LUCINA_VOICE11: Talking with you puts me at ease. Thank you for that.
+MID_LUCINA_VOICE12: You have wonderful friends. They remind me of my own.
+MID_LUCINA_VOICE13: I must say, I admire your outfit. Is it typical where you're from?
+MID_LUCINA_VOICE14: Every day, I must fight against the despair I was born into.
+MID_LUCINA_VOICE15: If I had to choose between peace and the lives of my friends...? Hmm.
+MID_LUCINA_VOICE16: I wonder if Father is here somewhere. Perhaps training?
+MID_LUCINA_VOICE17: I swear by this sacred blade, Falchion, I will do my utmost.
+MID_LUCINA_VOICE18: OK.
+MID_LUCINA_VOICE19: Let's go.
+MID_LUCINA_VOICE20: All right.
+MID_LUCINA_VOICE21: I will honor your memory, Father.

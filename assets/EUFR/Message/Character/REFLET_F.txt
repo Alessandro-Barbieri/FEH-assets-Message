@@ -1,0 +1,38 @@
+[Heroes Archive] (REFLET_F)
+
+
+Heroes Message Name: Message
+
+
+MID_REFLET_F_HOME1: Je n'ai pas le sentiment d'avoir\nchangé depuis mon arrivée ici...$k$pAlors que me vaut le titre d'héroïne,\ndans ce monde ?
+MID_REFLET_F_HOME2: Lorsque Chrom m'a recueillie, j'avais\nperdu la mémoire. Il m'a aidée, et\nc'est ainsi que j'ai rejoint les Veilleurs.
+MID_REFLET_F_HOME3: Je pense que nous avons beaucoup\nen commun, vous et moi. J'aime la\nfaçon dont vous gérez vos troupes.
+MID_REFLET_F_HOME4: J'ai réfléchi à un plan d'attaque,\nmais j'aimerais avoir votre point de\nvue, quand vous aurez un instant.
+MID_REFLET_F_HOME5: J'ai trouvé de fabuleux ouvrages\ndans les archives !$k$pOh, j'aurais sûrement dû demander\nvotre permission avant d'y accéder...
+MID_REFLET_F_FRIEND: Enchantée, je m'appelle\nDaraen. J'ai été envoyée\npar $Nf.
+MID_REFLET_F_LEVEL1: Je ne m'y attendais pas du tout !
+MID_REFLET_F_LEVEL2: Tout se passe comme prévu.
+MID_REFLET_F_LEVEL3: C'est... C'est tout ?
+MID_REFLET_F_SKILL: Je suis ravie que mes talents de\nstratège vous soient utiles.
+MID_REFLET_F_JOIN: Je m'appelle Daraen, stratège au sein\ndes Veilleurs de Chrom. Je saurai me\nmontrer utile sur le champ de bataille.
+MID_REFLET_F_STRONGEST: Je vous ai beaucoup $Gobservé,observée| sur\nle champ de bataille, $GInvocateur,Invocatrice|.$k$pAu risque que vous me trouviez\nprétentieuse, j'ai le sentiment que\nnous sommes similaires, vous et moi.$k$pLorsque j'ai mené mes amis au\ncombat dans mon monde, j'étais\nanimée par la même ferveur.$k$pCroyez-moi, je sais à quel point votre\nrôle est important et difficile à mener.$k$pJe tiens à ce que vous sachiez que\nvous pouvez compter sur mon\nsoutien à tout instant.$k$pJe mettrai tous mes talents de\nstratège à votre service, quel que\nsoit le problème à résoudre !
+MID_REFLET_F_VOICE01: えい！
+MID_REFLET_F_VOICE02: はあっ！
+MID_REFLET_F_VOICE03: きゃっ！
+MID_REFLET_F_VOICE04: Part of the plan...
+MID_REFLET_F_VOICE05: La roue tourne !
+MID_REFLET_F_VOICE06: Surprise !
+MID_REFLET_F_VOICE07: Comme prévu !
+MID_REFLET_F_VOICE08: L'union fait la force !
+MID_REFLET_F_VOICE09: Oops.
+MID_REFLET_F_VOICE10: Heehee
+MID_REFLET_F_VOICE11: Oh, hey! I was just thinking I'd like to chat with you.
+MID_REFLET_F_VOICE12: Let's work on a battle plan together.
+MID_REFLET_F_VOICE13: I understand you're the tactician for this team.
+MID_REFLET_F_VOICE14: I don't know why, but I feel a strange kinship with you.
+MID_REFLET_F_VOICE15: My time before I arrived in Ylisse was a blank. No memories at all.
+MID_REFLET_F_VOICE16: I wonder if Chrom is around here...
+MID_REFLET_F_VOICE17: I look forward to working with you for a good, long time.
+MID_REFLET_F_VOICE18: OK.
+MID_REFLET_F_VOICE19: On it.
+MID_REFLET_F_VOICE20: Right.

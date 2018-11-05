@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_POPULARITY01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_POPULARITY01_HOME1: Padre... Madre... Farò quanto è in\nmio potere perché termini questa\nguerra.
+MID_LUCINA_POPULARITY01_HOME2: Mio padre è tutto per me. Se\nqualcuno tentasse di nuocergli,\nnon avrei altra scelta se non...
+MID_LUCINA_POPULARITY01_HOME3: Ti meriti un po' di riposo. Posso\noccuparmi io di qualcosa? Ci\nsono commissioni da fare?
+MID_LUCINA_POPULARITY01_HOME4: Questa lancia, Geirskögul, arriva da\nun altro mondo. Non è un'arma che...\nnormalmente potrei impugnare.
+MID_LUCINA_POPULARITY01_HOME5: Chiedo venia, ma... accidentalmente\nho distrutto un altro manichino. Sono\nancora maldestra con le lance.
+MID_LUCINA_POPULARITY01_FRIEND: $Nf mi ha\nchiesto di salutarti tanto. Che\nmagnifica amicizia avete!
+MID_LUCINA_POPULARITY01_LEVEL1: Per proteggere mio padre!
+MID_LUCINA_POPULARITY01_LEVEL2: Credo d'iniziare a capire la\ntecnica ylissiana di lotta\ncon la lancia.
+MID_LUCINA_POPULARITY01_LEVEL3: Forse il trucco sta nel\nmodo in cui si impugna...
+MID_LUCINA_POPULARITY01_SKILL: Ti sono riconoscente. Questa\npotenza non andrà sprecata.
+MID_LUCINA_POPULARITY01_JOIN: Io sono Lucina d'Ylisse. Con\nGeirskögul in mano, giuro di\nservire la tua causa!
+MID_LUCINA_POPULARITY01_STRONGEST: Ho imparato tutte le tecniche con la\nspada da mio padre. Mi ha iniziato ad\naddestrare quando ero molto piccola.$k$pCerto, a quell'età mi sembrava che\ngiocassimo insieme. Ho dei ricordi\nbellissimi di quei tempi...$k$pNonostante tutto, però, non mi ha\nmai insegnato a usare la lancia.$k$pQuesto mondo ha un effetto bizzarro\nsu di me... Ora ho un rinnovato\nsenso di speranza.$k$pHo l'occasione di riunirmi con le\npersone che ho perduto, le\npersone che mi sono più care.$k$pNon è la prima volta che viaggio tra\nmondi, quindi sappi che non\nsprecherò quest'opportunità.
+MID_LUCINA_POPULARITY01_VOICE01: せいっ！
+MID_LUCINA_POPULARITY01_VOICE02: いきます！
+MID_LUCINA_POPULARITY01_VOICE03: きゃああっ！
+MID_LUCINA_POPULARITY01_VOICE04: こんなことって…
+MID_LUCINA_POPULARITY01_VOICE05: Per mio padre!
+MID_LUCINA_POPULARITY01_VOICE06: La via mi è chiara!
+MID_LUCINA_POPULARITY01_VOICE07: Vai, Geirskögul!
+MID_LUCINA_POPULARITY01_VOICE08: Guida la mia mano!
+MID_LUCINA_POPULARITY01_VOICE09: Father...I'm sorry...
+MID_LUCINA_POPULARITY01_VOICE10: Heehee
+MID_LUCINA_POPULARITY01_VOICE11: Maybe it's a bit silly, but...I feel a little closer to my father now.
+MID_LUCINA_POPULARITY01_VOICE12: My father taught me the sword. I hope he'll teach me all about the lance as well.
+MID_LUCINA_POPULARITY01_VOICE13: Was there some kind of...contest in your world?
+MID_LUCINA_POPULARITY01_VOICE14: I dreamt that heroes from another world brought hope to a dark future.
+MID_LUCINA_POPULARITY01_VOICE15: This weapon was entrusted to me by people from another world. I'm certain of it.
+MID_LUCINA_POPULARITY01_VOICE16: Father... I hope I can fight by your side in this world, too.
+MID_LUCINA_POPULARITY01_VOICE17: Our bond... gives me strength!
+MID_LUCINA_POPULARITY01_VOICE18: Understood.
+MID_LUCINA_POPULARITY01_VOICE19: What's next?
+MID_LUCINA_POPULARITY01_VOICE20: Your orders?

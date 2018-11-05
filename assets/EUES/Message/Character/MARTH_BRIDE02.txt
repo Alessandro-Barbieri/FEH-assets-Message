@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_BRIDE02)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_BRIDE02_HOME1: ¿Que qué espero del matrimonio?\nMuy fácil: sería feliz sabiendo que\nmi esposa también lo es.
+MID_MARTH_BRIDE02_HOME2: Un miembro de la guardia real solía\nllevar trajes estrafalarios. Seguro que\neste le encantaría.
+MID_MARTH_BRIDE02_HOME3: No sé qué dirían Jagen, Cain, Abel,\nAidraug y Gordin si me viesen\ncon estas pintas...
+MID_MARTH_BRIDE02_HOME4: Por lo visto, hace tiempo Shiida fue a\nun festival nupcial y se lo pasó genial.
+MID_MARTH_BRIDE02_HOME5: No estoy acostumbrado\na luchar a caballo.$k$pLos soldados de Altea tendrán\nque enseñarme a blandir el arma\nmientras dirijo a mi caballo.
+MID_MARTH_BRIDE02_FRIEND: $Nf te envía\nsaludos afectuosos.\nEspero que siempre seas feliz.
+MID_MARTH_BRIDE02_LEVEL1: ¡Vaya sorpresa!\n¿Será el poder del amor?
+MID_MARTH_BRIDE02_LEVEL2: Debo hacerme más fuerte para\nproteger a mis seres queridos.
+MID_MARTH_BRIDE02_LEVEL3: Pido disculpas. Parece que\ntengo que centrarme más.
+MID_MARTH_BRIDE02_SKILL: ¡Vaya, gracias! Es como\nuna celebración en mi honor.
+MID_MARTH_BRIDE02_JOIN: Saludos. Soy el príncipe Marth\nde Altea.$k$p¿Qué por qué llevo este traje...?\nEs un traje de novio tradicional\npara un festival nupcial que...$k$pEs un poco díficil de explicar.\nToma asiento.
+MID_MARTH_BRIDE02_STRONGEST: Me han dicho que este es el traje\nidóneo para declararte a la persona\na la que amas.$k$pYo ya sé a quién quiero tener\na mi lado cuando pronuncie\nlos votos, pero...$k$pVestirme así y pensar en ese\nmomento me pone algo nervioso...$k$pBueno, así practico. Ya sé qué se\nsiente al llevar este traje, así que\nestaré preparado cuando haga falta.$k$pCuando llegue el gran día, ¿serás mi\ntestigo, $Nu?
+MID_MARTH_BRIDE02_VOICE01: やぁっ！
+MID_MARTH_BRIDE02_VOICE02: それっ！
+MID_MARTH_BRIDE02_VOICE03: わわっ！
+MID_MARTH_BRIDE02_VOICE04: Not good...!
+MID_MARTH_BRIDE02_VOICE05: ¡El amor prevalecerá!
+MID_MARTH_BRIDE02_VOICE06: ¡Juro que venceré!
+MID_MARTH_BRIDE02_VOICE07: ¡Por mis seres queridos!
+MID_MARTH_BRIDE02_VOICE08: ¡Con todo mi corazón!
+MID_MARTH_BRIDE02_VOICE09: Late for the ceremony...
+MID_MARTH_BRIDE02_VOICE10: ええと
+MID_MARTH_BRIDE02_VOICE11: What do you think? It's not...odd, is it?
+MID_MARTH_BRIDE02_VOICE12: There's some dust on my clothes? Would you be so kind as to help brush it off?
+MID_MARTH_BRIDE02_VOICE13: A festival is a brief respite for the soul.
+MID_MARTH_BRIDE02_VOICE14: This attire is...somewhat unsettling.
+MID_MARTH_BRIDE02_VOICE15: I wonder where the perfect place to hold a wedding is around here!
+MID_MARTH_BRIDE02_VOICE16: Someday, when peace returns... I hope to have a wedding of my own.
+MID_MARTH_BRIDE02_VOICE17: I hope I can continue to count on you.
+MID_MARTH_BRIDE02_VOICE18: Of course.
+MID_MARTH_BRIDE02_VOICE19: If only...
+MID_MARTH_BRIDE02_VOICE20: To happiness!

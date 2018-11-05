@@ -1,0 +1,38 @@
+[Heroes Archive] (EFI)
+
+
+Heroes Message Name: Message
+
+
+MID_EFI_HOME1: 這裡是和我們的世界不一樣的世界嗎？\n嗯……只要有阿雷武在，\n不管在哪裡，我都無所謂……
+MID_EFI_HOME2: 其實，我對戰鬥並沒有興趣。\n是因為阿雷武加入了解放軍，\n我才會和他一起戰鬥。
+MID_EFI_HOME3: 你在巡邏啊？辛苦你了。\n假如有看到阿雷武的話，\n要第一個告訴我喔。
+MID_EFI_HOME4: 亞斯克王國真是個優美的地方呢。\n吶，帶我到你推薦的地方去吧！\n我也想讓阿雷武看看。
+MID_EFI_HOME5: 我正在做刺繡護身符。\n把我對阿雷武的心意一針一線地縫進去……\n呵呵，不知道他會不會高興？
+MID_EFI_FRIEND: 你就是$Nu？\n$Nf\n要我來向你致意。
+MID_EFI_LEVEL1: 如果是為了阿雷武，\n我就能變得更強……！
+MID_EFI_LEVEL2: 耶嘿嘿……怎麼樣？\n我變強了吧。
+MID_EFI_LEVEL3: 欸……\n我已經盡力了說……
+MID_EFI_SKILL: 你讓我變強了嗎？\n好開心喔……這樣就能……
+MID_EFI_JOIN: 我叫做艾菲，只是個普通的女孩唷。\n對啦，我是加入了解放軍戰鬥……\n不過那是因為有阿雷武在。
+MID_EFI_STRONGEST: 啊！$Nu……\n什麼嘛，我還以為是阿雷武呢。\n好失望哦。$k$p……騙你的啦。\n其實啊，我最近也很喜歡看到你，\n就跟看到阿雷武一樣開心喔。$k$p啊！你那副表情！根本就不相信我嘛。\n我可是有證據的哦。\n來，你看。$k$p這是刺繡護身符，我也有做你的份喔。\n將我對你的心意一針一線地縫進去……\n你願意收下嗎？$k$p這樣啊……謝謝你。\n耶嘿嘿，總覺得好害羞呢。\n要是你不珍惜的話，我可饒不了你喔。
+MID_EFI_VOICE01: 嘿！
+MID_EFI_VOICE02: 擊中吧！
+MID_EFI_VOICE03: 啊……！
+MID_EFI_VOICE04: 不要啊――！！
+MID_EFI_VOICE05: 結束吧！
+MID_EFI_VOICE06: 要上了喔――！
+MID_EFI_VOICE07: 我不會輸的！
+MID_EFI_VOICE08: 為了阿雷武！
+MID_EFI_VOICE09: 阿雷武……
+MID_EFI_VOICE10: 呵呵……
+MID_EFI_VOICE11: 討厭啦，什麼事？
+MID_EFI_VOICE12: 討厭，你欺負人家……
+MID_EFI_VOICE13: 我啊，最喜歡阿雷武了。
+MID_EFI_VOICE14: 真想讓你看看我們的村莊呢。
+MID_EFI_VOICE15: 你也喜歡花朵跟刺繡嗎？
+MID_EFI_VOICE16: 阿雷武，你現在在做什麼呢……
+MID_EFI_VOICE17: 會讓我如此思念的人，除了\n阿雷武以外，你是頭一個哦。
+MID_EFI_VOICE18: 我知道了。
+MID_EFI_VOICE19: 有難度呢……
+MID_EFI_VOICE20: 我會加油的！

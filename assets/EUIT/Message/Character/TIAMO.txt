@@ -1,0 +1,38 @@
+[Heroes Archive] (TIAMO)
+
+
+Heroes Message Name: Message
+
+
+MID_TIAMO_HOME1: La tua squadra mi ricorda i miei vecchi\ncompagni di battaglia. Spero che siano\norgogliosi di me, ovunque essi siano.
+MID_TIAMO_HOME2: Sono stata un cavaliere pegaso\nylissiano. Gli altri sono tutti morti,\nma il loro spirito alberga in me.
+MID_TIAMO_HOME3: La tua diligenza è ammirevole, ma\nnon dovresti stancarti troppo. Non\nci sono altri evocatori come te.
+MID_TIAMO_HOME4: Posso osservarti mentre evochi un\neroe? Mi piacerebbe scoprire come\nsono arrivata qui.
+MID_TIAMO_HOME5: Ho appena finito di ispezionare le armi.\nOra passerò in rassegna tutto\nl'accampamento, le stalle e le latrine.
+MID_TIAMO_FRIEND: Ah! Sono contenta di averti trovato!\n$Nf mi ha\nchiesto di passare a dirti ciao.
+MID_TIAMO_LEVEL1: Impegnarsi a fondo ripaga\ndegli sforzi fatti.
+MID_TIAMO_LEVEL2: Bisognava aspettarselo.
+MID_TIAMO_LEVEL3: Mi dispiace. Farò meglio la\nprossima volta. Lo prometto.
+MID_TIAMO_SKILL: Grazie per la fiducia che mi\nhai concesso. Saprò ripagarti.
+MID_TIAMO_JOIN: Sono Cordelia, cavaliera dell'esercito\nd'Ylisse guidato da Chrom. Farò del\nmio meglio per non deluderti.
+MID_TIAMO_STRONGEST: Vediamo un po'... per evocare un eroe\nmi metto in posizione, faccio roteare\nla lancia così e...$k$pAHHH! $Nu?!\nPerché te ne stavi lì senza dire\nniente?! Mi stavi guardando?$k$pMh? Perché sono buffa quando credo\ndi essere da sola? Non è carino\nspiare la gente in questo modo!$k$pTuttavia non mi dispiace che per una\nvolta non mi si aduli per il mio talento\ndi guerriera.$k$pNon mi lascerò sorprendere sul\ncampo di battaglia, però. Hai un\ngran valore per me e ti proteggerò!
+MID_TIAMO_VOICE01: はっ！
+MID_TIAMO_VOICE02: ええいっ！
+MID_TIAMO_VOICE03: きゃっ…！
+MID_TIAMO_VOICE04: I can bear this...!
+MID_TIAMO_VOICE05: Posso farcela...
+MID_TIAMO_VOICE06: Ora sì che mi arrabbio!
+MID_TIAMO_VOICE07: Devo avere la meglio.
+MID_TIAMO_VOICE08: Vedo un varco!
+MID_TIAMO_VOICE09: Too...weak...
+MID_TIAMO_VOICE10: Heehee
+MID_TIAMO_VOICE11: I know what they say, but please don't call me a genius.
+MID_TIAMO_VOICE12: I wonder if there is any feeling worse than unrequited love?
+MID_TIAMO_VOICE13: I would like to join the Order of Heroes.
+MID_TIAMO_VOICE14: *sigh* Oh! Was I sighing again? I must work on that.
+MID_TIAMO_VOICE15: I do not appreciate being stared at. May I help you?
+MID_TIAMO_VOICE16: I must do my utmost...for myself and for those who protected me...
+MID_TIAMO_VOICE17: I want to learn more about this realm. About you as well.
+MID_TIAMO_VOICE18: Yes?
+MID_TIAMO_VOICE19: OK.
+MID_TIAMO_VOICE20: Understood.

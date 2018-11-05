@@ -1,0 +1,38 @@
+[Heroes Archive] (HAWKEYE)
+
+
+Heroes Message Name: Message
+
+
+MID_HAWKEYE_HOME1: Ich habe lang in der Wüste\ngelebt. Orte wie dieser? Sind\nmir überhaupt nicht vertraut.
+MID_HAWKEYE_HOME2: Eure Magie ruft Helden herbei.\nSeid auf der Hut! Eine solche Macht\nwürde jeden in den Irrsinn treiben!
+MID_HAWKEYE_HOME3: Ich bin dankbar für das,\nwas Ihr tut. Das ist alles.
+MID_HAWKEYE_HOME4: Ich weiß, Ihr seid kein Krieger, aber\nwie Ihr uns in die Schlacht führt...\nIhr seid wie eine Bestie! Wild!
+MID_HAWKEYE_HOME5: Der Pfad der Hüter der Wüste ist ein\neinsamer Pfad. Und notwendigerweise!\nNur deshalb bleibe ich auf Abstand.
+MID_HAWKEYE_FRIEND: Seid Ihr $Nu?$k$pIch komme im Namen von\n$Nf, um ein\nZeichen der Freundschaft zu bringen.
+MID_HAWKEYE_LEVEL1: WUUU-HOOOOOH!
+MID_HAWKEYE_LEVEL2: Meine Kräfte haben\nsich vermehrt. Gut.
+MID_HAWKEYE_LEVEL3: Ist... meine Zeit als Hüter\netwa jetzt am Ende?
+MID_HAWKEYE_SKILL: Ich bin dankbar für das,\nwas Ihr mir gegeben habt.
+MID_HAWKEYE_JOIN: Ich bin der Hüter der Wüste, der die\nDünen der Heimat verteidigt - die\ndes Dorfs der Drachen.$k$pAber Ihr, Fremder, dürft mich\nHawkeye nennen.
+MID_HAWKEYE_STRONGEST: Wir müssen uns mal unterhalten.\nIhr und ich. Jetzt.$k$pIch spüre, dass Ihr mich seltsam\nfindet. Vielleicht sogar seltsamer,\nals es die meisten hier tun.$k$pIch komme aus dem Herzen der\nWüste.$k$pDie, die von außerhalb der Wüste\nkommen, sehen mich als\nAußenseiter an.$k$pGeht es Euch genauso? Mit mir,\nmeine ich? Und, noch wichtiger,\nerlebt Ihr etwas Ähnliches?$k$pIhr und ich sind uns in einer Hinsicht\ngleich. Wir beide wollen sicherstellen,\ndass der Frieden niemals zerbricht.$k$pWie der Sand der Zeit, der zwar\nverrinnt und sich doch nie ändert,$k$pwerden wir beide immer für die Welt\nda sein.
+MID_HAWKEYE_VOICE01: むんっ！
+MID_HAWKEYE_VOICE02: ふんっ！
+MID_HAWKEYE_VOICE03: うああっ！
+MID_HAWKEYE_VOICE04: むぅっ…！
+MID_HAWKEYE_VOICE05: WUUU-HOOOOOH!
+MID_HAWKEYE_VOICE06: KÄMPF!
+MID_HAWKEYE_VOICE07: Ich KENNE keine Angst!
+MID_HAWKEYE_VOICE08: DICH schnapp ich mir!
+MID_HAWKEYE_VOICE09: ...Home...
+MID_HAWKEYE_VOICE10: Huh.
+MID_HAWKEYE_VOICE11: If you need to talk, I am always here.
+MID_HAWKEYE_VOICE12: You wish to get my attention? Friend, you have it.
+MID_HAWKEYE_VOICE13: I have a destiny. I will fulfill it.
+MID_HAWKEYE_VOICE14: The desert I guard... There is no desert more in need of a guardian.
+MID_HAWKEYE_VOICE15: I find you...mysterious.
+MID_HAWKEYE_VOICE16: My time as guardian will come to an end. That time draws near.
+MID_HAWKEYE_VOICE17: I believe in you, friend.
+MID_HAWKEYE_VOICE18: Hmm.
+MID_HAWKEYE_VOICE19: Yes?
+MID_HAWKEYE_VOICE20: Of course.

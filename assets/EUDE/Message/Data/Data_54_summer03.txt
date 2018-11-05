@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201806DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201806DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201806DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201806DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201806DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201806DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201806DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201806DAISEIATU01_A4: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201806DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201806DAISEIATU01_A5: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201806DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201806DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201806SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201806SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201806SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201806SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201806SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201806SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201806STORY02_TITLE: Sommeranfang
+MID_MISSION_S201806STORY02_A1: Nebenq. 21 Tl. 1 - Extrem
+MID_MISSION_H_S201806STORY02_A1: Bewältige Nebenquest 21 - Tl. 1 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201806STORY02_A2: Nebenq. 21 Tl. 2 - Extrem
+MID_MISSION_H_S201806STORY02_A2: Bewältige Nebenquest 21 - Tl. 2 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201806STORY02_A3: Nebenq. 21 Tl. 3 - Extrem
+MID_MISSION_H_S201806STORY02_A3: Bewältige Nebenquest 21 - Tl. 3 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MPID_水着ヒーニアス: Innes
+MPID_水着ターナ: Tana
+MPID_水着ティアモ: Cordelia
+MPID_水着ノワール: Noire
+MPID_HONOR_水着ヒーニアス: Tadellos in Form
+MPID_HONOR_水着ターナ: Adelig und agil
+MPID_HONOR_水着ティアモ: Ritterherrlichkeit
+MPID_HONOR_水着ノワール: Schattensucherin
+MPID_H_水着ヒーニアス: Der Prinz von Frelia und Tanas Bruder. Will\nim Urlaub seine Kampffähigkeiten verbessern,\nanstatt am Strand zu liegen. Erscheint in\nFire Emblem: The Sacred Stones.
+MPID_H_水着ターナ: Die Prinzessin von Frelia und Innes'\nSchwester. Sie genießt ihre kleine Auszeit\nan einem sonnigen Strand. Erscheint in\nFire Emblem: The Sacred Stones.
+MPID_H_水着ティアモ: Einzige Überlebende der Pegasusritter von\nYlisse. Sie ist außerordentlich talentiert,\naber nicht an Schwimmkleidung gewöhnt.\nErscheint in Fire Emblem: Awakening.
+MPID_H_水着ノワール: Tharjas Tochter. Nimmt ein furchterregendes\nAlter Ego an, wenn ihr alles zu viel wird. Die\nSommersonne beschert ihr ein leichtes\nSchwindelgefühl. Erscheint in FE: Awakening.
+MPID_VOICE_水着ヒーニアス: Xander Mobus
+MPID_VOICE_水着ターナ: Joie Marlowe
+MPID_VOICE_水着ティアモ: Julie Ann Taylor
+MPID_VOICE_水着ノワール: Michelle Ruff
+MPID_ILLUST_水着ヒーニアス: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: Mayo (まよ)
+MPID_ILLUST_水着ノワール: Kusakihara Toshiyuki (草木原俊行) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: Muschellanze
+MSID_貝殻の槍＋: Muschellanze+
+MSID_ビーチフラッグ: Strandfahne
+MSID_ビーチフラッグ＋: Strandfahne+
+MSID_ヤシの実の弓: Kokosbogen
+MSID_ヤシの実の弓＋: Kokosbogen+
+MSID_イズンの果実: Frucht von Iðunn
+MSID_攻撃速さの渾身1: Angr./Ges.-Zug 1
+MSID_攻撃速さの渾身2: Angr./Ges.-Zug 2
+MSID_攻撃速さの渾身3: Angr./Ges.-Zug 3
+MSID_強化無効・近距離1: Anti-Nahkampf 1
+MSID_強化無効・近距離2: Anti-Nahkampf 2
+MSID_強化無効・近距離3: Anti-Nahkampf 3
+MSID_守備の共謀1: Ver.-Finte 1
+MSID_守備の共謀2: Ver.-Finte 2
+MSID_守備の共謀3: Ver.-Finte 3
+MSID_歩行の剛撃1: Infanteriesturm 1
+MSID_歩行の剛撃2: Infanteriesturm 2
+MSID_歩行の剛撃3: Infanteriesturm 3
+MSID_H_貝殻の槍: Initiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_貝殻の槍＋: Initiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_ビーチフラッグ: Initiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_ビーチフラッグ＋: Initiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_ヤシの実の弓: Effektiv gegen Flugeinheiten.\nInitiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_ヤシの実の弓＋: Effektiv gegen Flugeinheiten.\nInitiiert die Einheit den Kampf, erhält sie\nAngr./Ges./Ver./Res. +2 im Kampf.
+MSID_H_イズンの果実: Verleiht Ges. +3. Sind die KP der Einheit\n≥ 50 %, können sich Verbündete im\nUmkreis von 2 Feldern auf ein\nbenachbartes Feld der Einheit bewegen.
+MSID_H_攻撃速さの渾身1: Sind die KP der Einheit zu Beginn des\nKampfes = 100 %, erhält sie Angr./Ges. +3.\nHat die Einheit angegriffen, erleidet sie\nnach dem Kampf 1 Schaden.
+MSID_H_攻撃速さの渾身2: Sind die KP der Einheit zu Beginn des\nKampfes = 100 %, erhält sie Angr./Ges. +4.\nHat die Einheit angegriffen, erleidet sie\nnach dem Kampf 1 Schaden.
+MSID_H_攻撃速さの渾身3: Sind die KP der Einheit zu Beginn des\nKampfes = 100 %, erhält sie Angr./Ges. +5.\nHat die Einheit angegriffen, erleidet sie\nnach dem Kampf 1 Schaden.
+MSID_H_強化無効・近距離1: Sind die KP d. Einheit zu Beginn d. Kampfes\n= 100 % und nutzt der Gegner Schwert,\nLanze, Axt oder Drachenstein, werden\nseine Boni (etwa durch Stärkungs- und\nSammelfähigkeiten) im Kampf aufgehoben.
+MSID_H_強化無効・近距離2: Sind die KP d. Einheit zu Beginn d. Kampfes\n≥ 50 % und nutzt der Gegner Schwert,\nLanze, Axt oder Drachenstein, werden\nseine Boni (etwa durch Stärkungs- und\nSammelfähigkeiten) im Kampf aufgehoben.
+MSID_H_強化無効・近距離3: Nutzt der Gegner Schwert, Lanze, Axt\noder Drachenstein, werden seine Boni\n(etwa durch Stärkungs- und Sammel-\nfähigkeiten) im Kampf aufgehoben.
+MSID_H_守備の共謀1: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -3 bis\nnach ihren nächsten Aktionen.
+MSID_H_守備の共謀2: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -5 bis\nnach ihren nächsten Aktionen.
+MSID_H_守備の共謀3: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -7 bis\nnach ihren nächsten Aktionen.
+MSID_H_歩行の剛撃1: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmind. 5 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_歩行の剛撃2: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmind. 3 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_歩行の剛撃3: Für Infanterieverbündete im Umkreis\nvon 2 Feldern gilt: Ist Angr. der Einheit\nhöher als Angr. des Gegners, wird die\nErholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MID_CHAPTER_TITLE_CX020: Nebenquest 21
+MID_CHAPTER_CX020: Sommeranfang
+MID_STAGE_TITLE_X0201: Nebenq. 21: Tl. 1
+MID_STAGE_TITLE_X0202: Nebenq. 21: Tl. 2
+MID_STAGE_TITLE_X0203: Nebenq. 21: Tl. 3
+MID_STAGE_X0201: Seite an Seite
+MID_STAGE_X0202: In sonnigem Glanz
+MID_STAGE_X0203: Klang des Meeres

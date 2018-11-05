@@ -1,0 +1,38 @@
+[Heroes Archive] (REINHARDT2)
+
+
+Heroes Message Name: Message
+
+
+MID_REINHARDT2_HOME1: 強烈到足以喪失冷靜的激情……\n那正是我所欠缺的。\n而有時那便是我的弱點。
+MID_REINHARDT2_HOME2: 伊修達爾殿下是被譽為雷神的魔道使者……\n對我這樣的人來說，\n那力量是遙不可及的。
+MID_REINHARDT2_HOME3: 請好好保重身體以免感冒。\n只要你安然無恙，\n這支軍隊就不可能敗北。
+MID_REINHARDT2_HOME4: 里弗王子是我等的敵人……\n但是，在現在這個不同的時空，\n或許會有別的發展也不一定。
+MID_REINHARDT2_HOME5: 我知道的天才軍師有兩位，\n一位是賽亞斯公卿……\n而另一位就是你。
+MID_REINHARDT2_FRIEND: 恕我騎在馬上搭話，我是代替\n$Nf前來打聲招呼。\n由於有緊急任務在身，恕我先失陪……
+MID_REINHARDT2_LEVEL1: 弗立吉的戰法猶如雷光……\n瞬間就能葬送敵人。
+MID_REINHARDT2_LEVEL2: 精通劍與魔道兩者，\n才配被稱為魔道騎士。
+MID_REINHARDT2_LEVEL3: ……請給我挽回的機會。
+MID_REINHARDT2_SKILL: 這實在令我備感榮幸。\n我保證我會立下更勝過去的戰果。
+MID_REINHARDT2_JOIN: 我是弗立吉的騎士，萊茵哈特。\n魔道騎士的戰鬥，並非只有魔道。\n讓你見識我的劍術吧。
+MID_REINHARDT2_STRONGEST: 過去，我等在色雷斯大河，\n與那位里弗王子的軍隊打了一仗。$k$p不論地利或兵力都是我方佔優勢……\n即使如此，我還是戰敗了。\n到底是為什麼？是哪裡出了問題……$k$p現在回想起來，肯定是……精神層面的差異。\n不論處在什麼樣的劣勢中，\n他們都保有絕不放棄勝利的堅強意志。$k$p相較之下，當時的我……\n並沒有像他們一樣的意志光輝，\n那可說是我的弱點。$k$p但是，\n經歷過與你的共同作戰，\n我應該能夠克服自己的弱點了吧。$k$p只要這份意志力還在，\n我就會繼續為你帶來勝利。
+MID_REINHARDT2_VOICE01: 喝！
+MID_REINHARDT2_VOICE02: 失敬！
+MID_REINHARDT2_VOICE03: 嗚啊啊！
+MID_REINHARDT2_VOICE04: 太大意了……
+MID_REINHARDT2_VOICE05: 請原諒我。
+MID_REINHARDT2_VOICE06: 恕我無禮。
+MID_REINHARDT2_VOICE07: 讓你見識看看吧。
+MID_REINHARDT2_VOICE08: 衝吧！
+MID_REINHARDT2_VOICE09: 申し訳…ありません…
+MID_REINHARDT2_VOICE10: ふふふ
+MID_REINHARDT2_VOICE11: 私はフリージの騎士ラインハルト。
+MID_REINHARDT2_VOICE12: ！？　…あなたは子供のような悪戯心を持っておられる。
+MID_REINHARDT2_VOICE13: 魔道騎士の戦いは、魔道のみにあらず。
+MID_REINHARDT2_VOICE14: あなたの指揮があってこそ、私は戦うことができる。
+MID_REINHARDT2_VOICE15: あなたの策はまるで、戦場のすべてを見通しているかのようだ。
+MID_REINHARDT2_VOICE16: オルエンは…妹は、自分の道を見つけたようです。
+MID_REINHARDT2_VOICE17: 私が仕えるべきあるじは…あなたなのかもしれません。
+MID_REINHARDT2_VOICE18: 承知しました
+MID_REINHARDT2_VOICE19: さすがです。
+MID_REINHARDT2_VOICE20: 作戦通りに

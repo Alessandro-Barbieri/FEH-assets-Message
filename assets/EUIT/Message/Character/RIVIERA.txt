@@ -1,0 +1,38 @@
+[Heroes Archive] (RIVIERA)
+
+
+Heroes Message Name: Message
+
+
+MID_RIVIERA_HOME1: C'è una chiesa qui vicino? Desidero\noffrire una preghiera agli dèi\ndell'Askr.$k$pVorrei chieder loro di proteggere tutti\ncoloro che vivono qui.
+MID_RIVIERA_HOME2: In Ylisse, come sacerdote, ho usato\nla mia ascia per difendere Sua Grazia,\nl'Eletta.$k$pIn seguito mi sono unito all'esercito\ndel principe Chrom.
+MID_RIVIERA_HOME3: La capacità di evocare eroi da infiniti\nreami è un potere simile a quello\ndegli dèi.$k$pTi prego di usare questo potere per\nguidarci e proteggerci.
+MID_RIVIERA_HOME4: Hai detto "sacerdotessa"? Per gli dèi...\nCom'è possibile? Anche l'$Gevocatore,evocatrice|\nmi scambia per una donna!
+MID_RIVIERA_HOME5: Ho appena avuto l'ispirazione per\ndipingere un paesaggio... Questa terra\nha un che di glorioso, quasi sacro.$k$pMi è sembrato giusto cercare di\ncatturarlo su una tela.
+MID_RIVIERA_FRIEND: Ti porto buone notizie da parte di\n$Nf.\nPossano gli dèi vegliare su di te.
+MID_RIVIERA_LEVEL1: Mi sento purificato. Forse questa è\nla risposta alle mie preghiere.
+MID_RIVIERA_LEVEL2: Il mio ringraziamento è per gli dèi.
+MID_RIVIERA_LEVEL3: Dèi, perché volete mettermi\nalla prova in questo modo?
+MID_RIVIERA_SKILL: Ringrazio te e gli dèi per la calda\ne immacolata luce che mi illumina.
+MID_RIVIERA_JOIN: Sono Libra, sacerdote del Regno\nd'Ylisse. Gli dèi mi hanno guidato qui.\nPossa Naga vegliare su tutti noi.
+MID_RIVIERA_STRONGEST: Oh cielo, mi hai scoperto. Sì, stavo\nproprio cercando di dipingere\nun tuo ritratto.$k$pNon è una cosa che faccio spesso,\nma tu hai catturato la mia attenzione.$k$pSei una persona affascinante: il modo\nin cui ti muovi, le tue evocazioni,\nle nostre conversazioni...$k$pSenza nemmeno rendermene conto,\nho iniziato a dipingere. Forse è\nperché tu mi hai evocato...$k$pMa preferisco pensare che ciò che\nprovo nasca genuinamente\ndal mio cuore.$k$pSono felice di aver avuto modo di\ncondividere questi miei sentimenti\ncon te, oggi.$k$pTi dispiace se intanto continuo a\ndipingere? Non capita spesso di\naverti $Gtutto,tutta| per me.
+MID_RIVIERA_VOICE01: はいっ！
+MID_RIVIERA_VOICE02: せやっ！
+MID_RIVIERA_VOICE03: うあっ！
+MID_RIVIERA_VOICE04: そんな…！
+MID_RIVIERA_VOICE05: Che gli dèi mi perdonino!
+MID_RIVIERA_VOICE06: Pentiti!
+MID_RIVIERA_VOICE07: Inizia a pregare!
+MID_RIVIERA_VOICE08: In nome di Naga.
+MID_RIVIERA_VOICE09: I can see the light...
+MID_RIVIERA_VOICE10: Yes
+MID_RIVIERA_VOICE11: You continue to fare well. I am glad of this.
+MID_RIVIERA_VOICE12: My appearance may not suggest it, but I'm quite capable of manual labor.
+MID_RIVIERA_VOICE13: Do my prayers to Naga reach her, even from this world?
+MID_RIVIERA_VOICE14: You wish to speak to me? Perhaps you wish to make confession.
+MID_RIVIERA_VOICE15: On my journey to the priesthood, I faced many hardships.
+MID_RIVIERA_VOICE16: A priest who takes a life...is indeed quite a sinner.
+MID_RIVIERA_VOICE17: Praying for safety on the battlefield is nothing more than a wish that another may be sacrificed. Even so...
+MID_RIVIERA_VOICE18: It will be so.
+MID_RIVIERA_VOICE19: Gods bless us.
+MID_RIVIERA_VOICE20: Guide us.

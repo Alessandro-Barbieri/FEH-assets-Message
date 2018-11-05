@@ -1,0 +1,38 @@
+[Heroes Archive] (BLACKKNIGHT)
+
+
+Heroes Message Name: Message
+
+
+MID_BLACKKNIGHT_HOME1: To think a world such as this could\nexist... If I stayed here, then\nperhaps...
+MID_BLACKKNIGHT_HOME2: Circumstances being what they are, I\nshall lend you my strength. However,\njust one shall ever be my true master.
+MID_BLACKKNIGHT_HOME3: To surpass General Gawain...is my\nultimate goal as a swordsman.
+MID_BLACKKNIGHT_HOME4: I share a sword style with Ike, of the\nGreil Mercenaries... We also shared\na master.
+MID_BLACKKNIGHT_HOME5: I learned the sword from a man I once\ncalled master. And now, that man...$k$pNo... I have nothing to share.
+MID_BLACKKNIGHT_FRIEND: Are you $Nu?\nAccept this missive from\n$Nf.
+MID_BLACKKNIGHT_LEVEL1: To surpass my master... That is\nmy true desire.
+MID_BLACKKNIGHT_LEVEL2: My master's blade was stronger...\nIt was swifter...
+MID_BLACKKNIGHT_LEVEL3: ...
+MID_BLACKKNIGHT_SKILL: Use my blade as you see fit.
+MID_BLACKKNIGHT_JOIN: I am a general of Daein, and one of\nthe Four Riders.
+MID_BLACKKNIGHT_STRONGEST: I learned the sword from one of my\nfellow Four Riders, Gawain. He was a\ngeneral without compare...$k$pI fought my master, and I won.\nHowever, by then he had already\ncast aside his true skill.$k$pThis means I have not truly\nsurpassed him.$k$pBut defeating one whose strength\nrivaled his own could be another\nmeans of achieving that goal.$k$pI have forever longed for such a\nbattle.$k$pNot everyone would understand such\ndrive, but as one who also lives by\nbattle, I thought that perhaps you...$k$pWell, that is all.
+MID_BLACKKNIGHT_VOICE01: ふんっ！
+MID_BLACKKNIGHT_VOICE02: ...Move.
+MID_BLACKKNIGHT_VOICE03: うああっ！
+MID_BLACKKNIGHT_VOICE04: You're...good...
+MID_BLACKKNIGHT_VOICE05: Know your place.
+MID_BLACKKNIGHT_VOICE06: Will you survive?
+MID_BLACKKNIGHT_VOICE07: Fool.
+MID_BLACKKNIGHT_VOICE08: Give your all.
+MID_BLACKKNIGHT_VOICE09: Can't move...
+MID_BLACKKNIGHT_VOICE10: Hmph...
+MID_BLACKKNIGHT_VOICE11: Curious as to who I am? You're better off not knowing, or perhaps even asking.
+MID_BLACKKNIGHT_VOICE12: Your method for wresting my attention is...perplexing.
+MID_BLACKKNIGHT_VOICE13: This armor I wear is blessed by the goddess.
+MID_BLACKKNIGHT_VOICE14: Pray that you never make a miscalculation.
+MID_BLACKKNIGHT_VOICE15: Know your strength to know when to exercise discretion.
+MID_BLACKKNIGHT_VOICE16: The son of Gawain... Ike... He, now, is my prey.
+MID_BLACKKNIGHT_VOICE17: I am here to protect you.
+MID_BLACKKNIGHT_VOICE18: Understood.
+MID_BLACKKNIGHT_VOICE19: Onward.
+MID_BLACKKNIGHT_VOICE20: Here I go.

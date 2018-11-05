@@ -1,0 +1,162 @@
+[Heroes Archive] (Data_43_akatsuki01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERROR_APP_EXCEED_LIMIT_EXTRA_BONUS: 購入できません。\n購入できる個数の上限を越えています。\n
+MID_DAILY_LOGIN_BONUS_COMEBACK_TALK: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$Nuさんっ！\n会いに来てくれたんですね。\n嬉しいです！$k$pご無事で良かったです。\nあなたの身に何かあったらって、\nわたし、心配で…$k$p$EFace_Smile|えへへ、でも安心しました。\nこれからも、\nよろしくお願いしますね！$k$p
+MID_MISSION_S201801ARENA01_TITLE: 闘技場
+MID_MISSION_S201801ARENA01_A1: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A1: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A2: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A2: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A3: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A3: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A4: 縛鎖の闘技場で、３連勝
+MID_MISSION_H_S201801ARENA01_A4: 縛鎖の闘技場で、３連勝。
+MID_MISSION_S201801ARENA01_A5: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A5: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A6: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A6: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A7: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A7: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A8: 縛鎖の闘技場で、５連勝
+MID_MISSION_H_S201801ARENA01_A8: 縛鎖の闘技場で、５連勝。
+MID_MISSION_S201801ARENA01_A9: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A9: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A10: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A10: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A11: 闘技場で勝利
+MID_MISSION_H_S201801ARENA01_A11: 闘技場で勝利。
+MID_MISSION_S201801ARENA01_A12: 縛鎖の闘技場で、７連勝
+MID_MISSION_H_S201801ARENA01_A12: 縛鎖の闘技場で、７連勝。
+MID_MISSION_S201801SENKA01_DAILY_TITLE: 戦渦の連戦　Mini
+MID_MISSION_S201801SENKA01_DAILY_A1: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201801SENKA01_DAILY_A1: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201801SENKA01_DAILY_A2: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201801SENKA01_DAILY_A2: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201801SENKA01_DAILY_A3: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201801SENKA01_DAILY_A3: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201801SENKA01_DAILY_A4: 特殊：戦渦の連戦突破
+MID_MISSION_H_S201801SENKA01_DAILY_A4: 戦渦の連戦最終マップをクリア。
+MID_MISSION_S201801STORY01_TITLE: 柔らかな夢に導かれて
+MID_MISSION_S201801STORY01_A1: 特殊：３章－１節ルナ突破
+MID_MISSION_H_S201801STORY01_A1: 槍の仲間を自軍に入れて、\n＜第２部＞３章－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY01_A2: 特殊：３章－２節ルナ突破
+MID_MISSION_H_S201801STORY01_A2: 斧の仲間を自軍に入れて、\n＜第２部＞３章－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY01_A3: 特殊：３章－３節ルナ突破
+MID_MISSION_H_S201801STORY01_A3: 剣の仲間を自軍に入れて、\n＜第２部＞３章－３節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY01_A4: 特殊：３章－４節ルナ突破
+MID_MISSION_H_S201801STORY01_A4: 槍の仲間を自軍に入れて、\n＜第２部＞３章－４節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801STORY01_A5: 特殊：３章－５節ルナ突破
+MID_MISSION_H_S201801STORY01_A5: 斧の仲間を自軍に入れて、\n＜第２部＞３章－５節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201801TRIAL01_TITLE: 連戦トライアル
+MID_MISSION_S201801TRIAL01_A1: 特殊：連戦トライアル突破
+MID_MISSION_H_S201801TRIAL01_A1: 連戦トライアル１章\n最終マップをクリア。
+MID_MISSION_S201801TRIAL01_A2: 特殊：連戦トライアル突破
+MID_MISSION_H_S201801TRIAL01_A2: 連戦トライアル２章\n最終マップハード以上をクリア。
+MID_MISSION_S201801TRIAL01_A3: 特殊：連戦トライアル突破
+MID_MISSION_H_S201801TRIAL01_A3: 連戦トライアル１～２章\n最終マップルナティックをクリア。
+MID_MISSION_S201801TRIAL01_A4: 特殊：縛鎖の迷宮突破
+MID_MISSION_H_S201801TRIAL01_A4: 縛鎖の迷宮第３迷宮\n最終マップをクリア。
+MID_MISSION_S201801VMAP01_TITLE: 錬成武器持ち
+MID_MISSION_S201801VMAP01_A1: 特殊：その１突破
+MID_MISSION_H_S201801VMAP01_A1: 赤属性の仲間を自軍に入れて、\nその１を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A2: 特殊：その２突破
+MID_MISSION_H_S201801VMAP01_A2: 青属性の仲間を自軍に入れて、\nその２を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A3: 特殊：その３突破
+MID_MISSION_H_S201801VMAP01_A3: 緑属性の仲間を自軍に入れて、\nその３を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A4: 特殊：その４突破
+MID_MISSION_H_S201801VMAP01_A4: 無属性の仲間を自軍に入れて、\nその４を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A5: 特殊：その５突破
+MID_MISSION_H_S201801VMAP01_A5: その５を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A6: 特殊：その１ハード突破
+MID_MISSION_H_S201801VMAP01_A6: 赤属性の仲間を自軍に入れて、\nその１ハード以上を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A7: 特殊：その２ハード突破
+MID_MISSION_H_S201801VMAP01_A7: 青属性の仲間を自軍に入れて、\nその２ハード以上を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A8: 特殊：その３ハード突破
+MID_MISSION_H_S201801VMAP01_A8: 緑属性の仲間を自軍に入れて、\nその３ハード以上を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A9: 特殊：その４ハード突破
+MID_MISSION_H_S201801VMAP01_A9: 無属性の仲間を自軍に入れて、\nその４ハード以上を\n４人全員生存でクリア。
+MID_MISSION_S201801VMAP01_A10: 特殊：その５ハード突破
+MID_MISSION_H_S201801VMAP01_A10: その５ハード以上を\n４人全員生存でクリア。
+MPID_ミカヤ: ミカヤ
+MPID_サザ: サザ
+MPID_ゼルギウス: ゼルギウス
+MPID_オリヴァー: オリヴァー
+MPID_HONOR_ミカヤ: 銀の髪の乙女
+MPID_HONOR_サザ: 緑風
+MPID_HONOR_ゼルギウス: 漆黒の将
+MPID_HONOR_オリヴァー: 美の探究者
+MPID_H_ミカヤ: 義賊「暁の団」に所属する、輝く銀色の髪の少女。\n不思議な力を持つ。サザとは血の繋がらない姉弟同士。\n（登場：『ファイアーエムブレム　暁の女神』）
+MPID_H_サザ: 義賊「暁の団」に所属する盗賊。基本的に\n他人に興味がないが、姉のミカヤに対してはとても過保護。\n（登場：『ファイアーエムブレム　暁の女神』）
+MPID_H_ゼルギウス: 黒鎧に身を固め、漆黒の騎士と呼ばれていた将。\n手にした神剣【エタルド】は天をも裂く力を持つ。\n（登場：『ファイアーエムブレム　暁の女神』）
+MPID_H_オリヴァー: ベグニオン帝国の元老院に名を連ねる聖者。\n美しいものを好み、芸術などの保全に力を注いだ。\n（登場：『ファイアーエムブレム　暁の女神』）
+MPID_VOICE_ミカヤ: 桑谷夏子
+MPID_VOICE_サザ: 間島淳司
+MPID_VOICE_ゼルギウス: 間島淳司
+MPID_VOICE_オリヴァー: 杉田智和
+MPID_ILLUST_ミカヤ: チーコ
+MPID_ILLUST_サザ: 久杉トク
+MPID_ILLUST_ゼルギウス: Daisuke Izuka
+MPID_ILLUST_オリヴァー: ホマ蔵
+MSID_第6迷宮の覇者1: 第６迷宮の覇者１
+MSID_第6迷宮の覇者2: 第６迷宮の覇者２
+MSID_第6迷宮の覇者3: 第６迷宮の覇者３
+MSID_ペシュカド: ペシュカド
+MSID_ライト: ライト
+MSID_エルライト: エルライト
+MSID_シャイン: シャイン
+MSID_シャイン＋: シャイン＋
+MSID_セイニー: セイニー
+MSID_癒しの手: 癒しの手
+MSID_転移の粉: 転移の粉
+MSID_攻撃速さの紋章1: 攻撃速さの紋章１
+MSID_攻撃速さの紋章2: 攻撃速さの紋章２
+MSID_H_パルティア改: 飛行特効\n敵が魔法の時、戦闘中、\n最初に受けた攻撃のダメージを３０％軽減
+MSID_H_シムベリン改: 周囲２マスの味方は、\n戦闘中、攻撃＋３
+MSID_H_対遠距離戦闘R攻撃: 敵が弓、暗器、魔法、杖の時、\n戦闘中、攻撃＋６
+MSID_H_攻撃魔防の絆R飛行: 飛行の味方が２マス以内にいる時、\n戦闘中、自身の攻撃、魔防＋５
+MSID_H_第6迷宮の覇者1: ＨＰ＋３
+MSID_H_第6迷宮の覇者2: ＨＰ＋４
+MSID_H_第6迷宮の覇者3: ＨＰ＋５
+MSID_H_ペシュカド: 戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの敵の\n攻撃速さ守備魔防－４（敵の次回行動終了まで）、\nかつ、自分と周囲２マスの味方の\n攻撃速さ守備魔防＋４（１ターン）
+MSID_H_ライト: 
+MSID_H_エルライト: 
+MSID_H_シャイン: 
+MSID_H_シャイン＋: 
+MSID_H_セイニー: 魔防＋３　重装、騎馬特効\n敵が重装か騎馬で、かつ、弓、暗器、魔法、杖の時、\n戦闘中、最初に受けた攻撃のダメージを３０％軽減
+MSID_H_癒しの手: 対象が受けている弱化を無効化し、強化に変換する\n対象のＨＰを回復し、その分自分のＨＰが減少する\n（回復量は、最大で自分の現ＨＰ－１）
+MSID_H_転移の粉: 自身のＨＰが８０％以上の時、\n周囲２マス以内の味方の隣接マスに移動可能
+MSID_H_攻撃速さの紋章1: 周囲１マスの味方は、\n戦闘中、攻撃速さ＋２
+MSID_H_攻撃速さの紋章2: 周囲１マスの味方は、\n戦闘中、攻撃速さ＋３
+MID_CHAPTER_TITLE_C0203: 第２部　３章
+MID_CHAPTER_C0203: 柔らかな夢に導かれて
+MID_STAGE_TITLE_S2031: ３章－１節
+MID_STAGE_TITLE_S2032: ３章－２節
+MID_STAGE_TITLE_S2033: ３章－３節
+MID_STAGE_TITLE_S2034: ３章－４節
+MID_STAGE_TITLE_S2035: ３章－５節
+MID_STAGE_S2031: ニフルへの道
+MID_STAGE_S2032: 銀の髪の乙女
+MID_STAGE_S2033: 奇妙な守護者
+MID_STAGE_S2034: 異貌の騎士
+MID_STAGE_S2035: 炎剣、地を薙ぐ
+MID_TEXASGATETERRAIN_TUTORIAL_DIALOG_00: 溝地形では、騎馬の移動は１マスのみ
+MID_STAGE_TITLE_SB_0006: 第６迷宮
+MID_STAGE_HONOR_T0023: 美の探究者
+MID_STAGE_T0023: オリヴァー
+MID_STAGE_HONOR_V0151: 錬成武器持ち
+MID_STAGE_V0151: その１
+MID_STAGE_HONOR_V0152: 錬成武器持ち
+MID_STAGE_V0152: その２
+MID_STAGE_HONOR_V0153: 錬成武器持ち
+MID_STAGE_V0153: その３
+MID_STAGE_HONOR_V0154: 錬成武器持ち
+MID_STAGE_V0154: その４
+MID_STAGE_HONOR_V0155: 錬成武器持ち
+MID_STAGE_V0155: その５
+UNIT_EDIT_ACCESSORY_EQUIP_SKILL_AHEAD: 聖印から選ぶ
+UNIT_EDIT_ACCESSORY_EQUIP_CHARACTER_AHEAD: キャラクターから選ぶ
+UNIT_EDIT_ACCESSORY_EQUIP_SELECTING: 選択中：

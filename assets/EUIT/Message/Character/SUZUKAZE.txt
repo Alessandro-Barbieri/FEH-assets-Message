@@ -1,0 +1,38 @@
+[Heroes Archive] (SUZUKAZE)
+
+
+Heroes Message Name: Message
+
+
+MID_SUZUKAZE_HOME1: Mi piacciono le uniformi dei Guardiani.\nMi ricordano lo stile dei re\ndell'Hoshido.
+MID_SUZUKAZE_HOME2: Servo la famiglia reale dell'Hoshido,\nma non ho giurato fedeltà a un\nmembro in particolare.$k$pNon sono in grado di essere\nl'attendente personale di nessuno.\nDa giovane non ho agito, e...
+MID_SUZUKAZE_HOME3: Hai mille cose da fare, troppe. Dimmi\ncome posso aiutarti. Ti obbedirò\nsenza battere ciglio.
+MID_SUZUKAZE_HOME4: Senza di te questo esercito si\nsfalderebbe. Permettimi di stare\nal tuo fianco sul campo di battaglia.$k$pTi proteggerò a costo della vita.
+MID_SUZUKAZE_HOME5: Conosco già tutti i nascondigli di\nquesto castello. Come ninja,\npreferisco servire nell'ombra.
+MID_SUZUKAZE_FRIEND: Ti porto i saluti di\n$Nf.
+MID_SUZUKAZE_LEVEL1: Ci sono quasi. Devo fare di più!
+MID_SUZUKAZE_LEVEL2: Userò la mia forza\nper difendere gli altri.
+MID_SUZUKAZE_LEVEL3: Non basta. Devo\nallenarmi di più...
+MID_SUZUKAZE_SKILL: Hai la mia più profonda\ngratitudine per questa\nnuova forza.
+MID_SUZUKAZE_JOIN: Mi chiamo Kaze e sono un ninja.\nCon mio fratello Saizo, servo la\nfamiglia reale dell'Hoshido.$k$pLascia che ti assista.
+MID_SUZUKAZE_STRONGEST: Apprezzo che tu abbia trovato il\ntempo per parlarmi, ma non farlo\nsolo perché sono nei paraggi.$k$pDovresti vedermi come... una\nsemplice pietra che se ne...$k$pOh? Non mi parli perché devi\nma perché lo desideri? Sei\ndavvero troppo gentile.$k$pIn questo caso, quando vuoi parlare\nchiamami. Esaudirò la tua richiesta\ncon totale devozione.$k$pSono lieto di poter continuare a\nservirti. Proteggerti resta la\nmia priorità.
+MID_SUZUKAZE_VOICE01: はっ！
+MID_SUZUKAZE_VOICE02: せやっ！
+MID_SUZUKAZE_VOICE03: うわっ
+MID_SUZUKAZE_VOICE04: Well done...
+MID_SUZUKAZE_VOICE05: È finita.
+MID_SUZUKAZE_VOICE06: Farò in un attimo...
+MID_SUZUKAZE_VOICE07: Perdonami.
+MID_SUZUKAZE_VOICE08: Niente di personale.
+MID_SUZUKAZE_VOICE09: I have...failed you...
+MID_SUZUKAZE_VOICE10: Heehee
+MID_SUZUKAZE_VOICE11: I shall stand ready by your side.
+MID_SUZUKAZE_VOICE12: Do you have a retainer of your own?
+MID_SUZUKAZE_VOICE13: Do not hesitate to call upon me.
+MID_SUZUKAZE_VOICE14: For a long time I served no liege. But now...
+MID_SUZUKAZE_VOICE15: A lady -- unknown to me -- just gave me something. Can you explain this?
+MID_SUZUKAZE_VOICE16: I hope my brother isn't pushing himself too hard. He's far from home...
+MID_SUZUKAZE_VOICE17: Let me know if you need a scout. As a ninja, I am trained in stealth.
+MID_SUZUKAZE_VOICE18: Yes.
+MID_SUZUKAZE_VOICE19: Leave it to me.
+MID_SUZUKAZE_VOICE20: Time to move.

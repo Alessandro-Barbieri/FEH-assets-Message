@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICA)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICA_HOME1: Ce vent sec... Il me rappelle les\ndéserts de Jehanna.
+MID_MARICA_HOME2: Je me demande comment vont Gerik\net son équipe.
+MID_MARICA_HOME3: Vos mains sont couvertes\nd'ampoules. Vous devriez couvrir\nle manche de votre arme de cuir.
+MID_MARICA_HOME4: Je ne sais rien faire à part combattre.\nSi vous voulez vous entraîner, venez\nme voir.
+MID_MARICA_HOME5: Vous voulez quelque chose ? Ne me\nregardez pas comme ça, ça me\nrend nerveuse.
+MID_MARICA_FRIEND: Euh... $Nu ?\nC'est $Nf\nqui m'envoie.
+MID_MARICA_LEVEL1: Bien. Mais je ne dois pas\nrelâcher mes efforts.
+MID_MARICA_LEVEL2: Ni bon, ni mauvais. Ce n'est\npas ce que j'espérais.
+MID_MARICA_LEVEL3: Il ne faut pas que le chef voie\nça...
+MID_MARICA_SKILL: Serais-je en voie de devenir\naussi forte que mon père ?
+MID_MARICA_JOIN: Je suis Marisa, épéiste des\nmercenaires de Gerik. Ma lame\nest à votre service.
+MID_MARICA_STRONGEST: Vous me regardez souvent\nm'entraîner, même si je ne sais pas\nce que vous y voyez d'intéressant.$k$pJe m'entraîne quotidiennement.\nJ'ai combattu plus d'un millier de\nfois et j'ai gagné chaque combat.$k$pJe refuse la défaite, que ce soit\ncontre un ennemi ou contre\nmoi-même.$k$pUne bataille n'a lieu qu'une fois. Ce\nn'est pas un entraînement. Il y a un\ngagnant et un perdant.$k$pJe ne sais pas où votre destin vous\nmènera. Vous devrez peut-être vous\nbattre contre vous-même.$k$pSi cela se produit, vous ne pourrez\ncompter que sur vous-même.$k$pVous devez continuer de devenir\nplus $Gfort,forte|, jusqu'à ce que vous soyez\n$Garrivé,arrivée| au bout de votre chemin.
+MID_MARICA_VOICE01: ふっ…！
+MID_MARICA_VOICE02: …斬る
+MID_MARICA_VOICE03: きゃああっ！
+MID_MARICA_VOICE04: 怪我した…
+MID_MARICA_VOICE05: Ça ne prendra qu'un instant.
+MID_MARICA_VOICE06: Passons aux choses sérieuses.
+MID_MARICA_VOICE07: Tâtez de ma lame.
+MID_MARICA_VOICE08: Aucun regret ?
+MID_MARICA_VOICE09: I...lost...
+MID_MARICA_VOICE10: ふ…
+MID_MARICA_VOICE11: Marisa. It's a name. My name.
+MID_MARICA_VOICE12: Save your strength. Stealth attacks don't work on me.
+MID_MARICA_VOICE13: I'm not upset. This is just...how I am.
+MID_MARICA_VOICE14: I don't dislike talking with you... So let's chat.
+MID_MARICA_VOICE15: What can I do...to help?
+MID_MARICA_VOICE16: When you die, life is over. So all I can do is keep fighting.
+MID_MARICA_VOICE17: If you will help me... I can pay you back by working harder.
+MID_MARICA_VOICE18: OK.
+MID_MARICA_VOICE19: Who do I slice?
+MID_MARICA_VOICE20: Moving out.

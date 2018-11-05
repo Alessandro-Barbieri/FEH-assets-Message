@@ -1,0 +1,38 @@
+[Heroes Archive] (KAIN)
+
+
+Heroes Message Name: Message
+
+
+MID_KAIN_HOME1: Ich versichere Euch, dass meine Kraft\nden großen Rittern von Altea nicht zur\nSchande gereichen wird.
+MID_KAIN_HOME2: Ich arbeite mit einem Ritter namens\nAbel. Wenn ich zu euphorisch werde,\nbringt seine Ruhe mich wieder ins Lot.
+MID_KAIN_HOME3: Ihr lauft durch das ganze Schloss und\nseht bei jedem nach dem Rechten?\nDas ist sehr nobel von Euch!
+MID_KAIN_HOME4: Wollt Ihr nicht gelegentlich mit mir den\nKampf üben? Wenige wissen es, doch\nunterwies ich einst die jüngeren Ritter.
+MID_KAIN_HOME5: HA! Verzeiht - HA! Muss üben! HA!\nBis später! HA!
+MID_KAIN_FRIEND: Ich bringe eine wichtige Nachricht für\njemanden, der\n$Nu heißt.$k$pIch soll Euch von\n$Nf herzliche\nGrüße überbringen.
+MID_KAIN_LEVEL1: Also gut, fahren wir fort!
+MID_KAIN_LEVEL2: Nicht schlecht. Aber ich\nkann das noch besser!
+MID_KAIN_LEVEL3: Wie soll ich Prinz Marth\njetzt noch ins Auge schauen?
+MID_KAIN_SKILL: Ich werde allen zeigen, was\nder Stier leisten kann!
+MID_KAIN_JOIN: Ich bin Kain, ein Kavalier aus\nAltea. Richtig, Kain! Man kennt\nmich weit und breit als den Stier.
+MID_KAIN_STRONGEST: Sir Jagen hat mir immer vorgehalten,\ndass ich mich oft ins Getümmel stürze,\nohne vorher nachzudenken.$k$pAber unter Eurer Leitung verliere ich\nmich nicht selbst im Kampf und kann\nmeine Aufgaben erledigen.$k$pDanke, $Nu.$k$pDurch Euch kann ich leidenschaftlich\nkämpfen und bleibe doch kontrolliert.\nDas war schon immer mein Ziel.
+MID_KAIN_VOICE01: ふんっ！
+MID_KAIN_VOICE02: せぇいっ！
+MID_KAIN_VOICE03: うああっ！
+MID_KAIN_VOICE04: Damn it!
+MID_KAIN_VOICE05: Ha! Auf die Hörner genommen!
+MID_KAIN_VOICE06: Ich räume auf!
+MID_KAIN_VOICE07: Bereite dich auf die Vernichtung vor!
+MID_KAIN_VOICE08: Ein Kavalier kennt keinen Rückzug!
+MID_KAIN_VOICE09: Ugh...
+MID_KAIN_VOICE10: Hahaha
+MID_KAIN_VOICE11: Something wrong?
+MID_KAIN_VOICE12: Wha—?! Oh, it's you.
+MID_KAIN_VOICE13: Hey! Want to train?
+MID_KAIN_VOICE14: I must train harder. I WILL train harder!
+MID_KAIN_VOICE15: They used to call me the Bull. Ha! Cain the Bull!
+MID_KAIN_VOICE16: I give everything my all!
+MID_KAIN_VOICE17: Stay behind me in battle—I'll cut a path for you!
+MID_KAIN_VOICE18: Attack!
+MID_KAIN_VOICE19: Onward!
+MID_KAIN_VOICE20: On it!

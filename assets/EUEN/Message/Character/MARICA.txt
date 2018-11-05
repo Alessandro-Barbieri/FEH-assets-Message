@@ -1,0 +1,38 @@
+[Heroes Archive] (MARICA)
+
+
+Heroes Message Name: Message
+
+
+MID_MARICA_HOME1: This dry wind... It reminds me of the\ndeserts of Jehanna.
+MID_MARICA_HOME2: I wonder how Gerik and his band are\ndoing.
+MID_MARICA_HOME3: Your hands... They're blistered. You're\nholding your weapon wrong. Wrap\nthe grip in hide.
+MID_MARICA_HOME4: I'm good for fighting and not much\nelse. If you want to spar, you can\ncome and find me.
+MID_MARICA_HOME5: Do you need something? Don't just\nlook at me. Makes me uneasy.
+MID_MARICA_FRIEND: Uh...$Nu?\nI'm with $Nf.
+MID_MARICA_LEVEL1: Good. But I have a lot more work\nto do to master the blade.
+MID_MARICA_LEVEL2: Not good. Not bad. Not what I\nwas hoping for.
+MID_MARICA_LEVEL3: I can't let the chief see me like\nthis...
+MID_MARICA_SKILL: With this...am I inching closer to\nmy father?
+MID_MARICA_JOIN: I am Marisa, a swordswoman of\nGerik's mercenaries. If you need\nmy help, I have a blade.
+MID_MARICA_STRONGEST: I'm used to you watching me practice.\nNo idea why you think it's interesting\nto watch me swing a sword, though.$k$pI practice every day. I've fought a\nthousand men, and I won every single\ntime.$k$pIf I'm facing an enemy, I refuse to\ngive in. And if I have to confront\nmyself...I won't give in either.$k$pBattles happen once. They're no time\nto test your skills—you win, or you\nlose. It's black and white.$k$pI don't know where the road you're\non will lead. And some day, you may\nhave to face yourself.$k$pWhen that day comes, the only one\nyou can depend on...is you.$k$pKeep getting stronger. Until you have\nwalked your path as far as it can take\nyou.
+MID_MARICA_VOICE01: ふっ…！
+MID_MARICA_VOICE02: …斬る
+MID_MARICA_VOICE03: きゃああっ！
+MID_MARICA_VOICE04: 怪我した…
+MID_MARICA_VOICE05: This'll just take a moment.
+MID_MARICA_VOICE06: You need to get serious.
+MID_MARICA_VOICE07: Meet my blade.
+MID_MARICA_VOICE08: Are you sure about this?
+MID_MARICA_VOICE09: I...lost...
+MID_MARICA_VOICE10: ふ…
+MID_MARICA_VOICE11: Marisa. It's a name. My name.
+MID_MARICA_VOICE12: Save your strength. Stealth attacks don't work on me.
+MID_MARICA_VOICE13: I'm not upset. This is just...how I am.
+MID_MARICA_VOICE14: I don't dislike talking with you... So let's chat.
+MID_MARICA_VOICE15: What can I do...to help?
+MID_MARICA_VOICE16: When you die, life is over. So all I can do is keep fighting.
+MID_MARICA_VOICE17: If you will help me... I can pay you back by working harder.
+MID_MARICA_VOICE18: OK.
+MID_MARICA_VOICE19: Who do I slice?
+MID_MARICA_VOICE20: Moving out.

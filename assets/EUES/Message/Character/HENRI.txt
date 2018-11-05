@@ -1,0 +1,38 @@
+[Heroes Archive] (HENRI)
+
+
+Heroes Message Name: Message
+
+
+MID_HENRI_HOME1: Menudo muermo... Y ni siquiera hay\nresurrectos por los alrededores. ¿A\nquién voy a desmembrar entonces?
+MID_HENRI_HOME2: Echo de menos la escuela de magia.\nAllí me enseñaron a sonreír siempre...\n¡Y también a soportar torturas atroces!
+MID_HENRI_HOME3: ¿Va todo bien, $GGran Héroe,Gran Heroína|?\nDime que no te han herido de\ngravedad; ¡no quiero que mueras!
+MID_HENRI_HOME4: ¿Me ayudas con un experimento?\n¡He creado un hechizo que permite\naniquilar a cien personas de golpe!
+MID_HENRI_HOME5: Llevo unos días coleccionando\nplumas de cuervo. ¿Cuántas me\nharán falta para poder volar?
+MID_HENRI_FRIEND: ¿Eres $Nu?\n¡Me envía a maldecir... digo... a\nsaludarte $Nf!
+MID_HENRI_LEVEL1: ¡Esto sí que es pura magia!
+MID_HENRI_LEVEL2: ¡Vaya! ¿Desde cuándo\nsoy tan vigoroso?
+MID_HENRI_LEVEL3: ¡Ji, ji, ja! Apenas he\naprendido nada.
+MID_HENRI_SKILL: Ah, nuevos poderes... ¿A quién\nquieres que le eche la maldición?
+MID_HENRI_JOIN: Hola, me llamo Henry. No es por\nfardar, pero ¡soy el mago oscuro\nmás temible de toooda Plegia!
+MID_HENRI_STRONGEST: Hola, $Nu.\n¿Has pensado ya quién será mi\npróxima víctima? ¡Ji, ji, ja!$k$p¿Puedo elegir a un soldado\nembliano? O, mejor aún,\n¿a alguien de los Guardianes?$k$p¿Qué? ¿Que no está bien matar\na tus propios aliados? Bueno,\nsi tú lo dices...$k$pLo cierto es que le he cogido cariño\na este lugar, así que prefiero no\nliquidar a nadie por ahora.$k$p¡Y menos a ti,\n$Nu!$k$pComo alguien te toque un pelo,\n¡le echaré una maldición mortal!
+MID_HENRI_VOICE01: そーれっ
+MID_HENRI_VOICE02: あははっ
+MID_HENRI_VOICE03: うわっ
+MID_HENRI_VOICE04: That smarts...
+MID_HENRI_VOICE05: ¡Toma un poco de muerte!
+MID_HENRI_VOICE06: ¡Maldiciones a la carta!
+MID_HENRI_VOICE07: Uy, esto te va a hacer pupa...
+MID_HENRI_VOICE08: ¡Ha llegado tu hora! ¡Ji, ji, ja!
+MID_HENRI_VOICE09: Hurts nice...
+MID_HENRI_VOICE10: Heehee
+MID_HENRI_VOICE11: Wanna play?
+MID_HENRI_VOICE12: Need someone cursed?
+MID_HENRI_VOICE13: All my best friends are crows.
+MID_HENRI_VOICE14: Ready to trade that white cape for a black one like mine?
+MID_HENRI_VOICE15: You don't think I'm scary, do you?
+MID_HENRI_VOICE16: I wonder if it'll hurt when I die...
+MID_HENRI_VOICE17: You need somebody killed? It's no trouble. Like, at all.
+MID_HENRI_VOICE18: OK!
+MID_HENRI_VOICE19: Oh!
+MID_HENRI_VOICE20: You got it!

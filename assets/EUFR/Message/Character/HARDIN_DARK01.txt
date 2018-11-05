@@ -1,0 +1,38 @@
+[Heroes Archive] (HARDIN_DARK01)
+
+
+Heroes Message Name: Message
+
+
+MID_HARDIN_DARK01_HOME1: Quel que soit le monde, les êtres\nhumains sont cupides et violents.\nC'est fascinant...$k$pJe me demande ce que tous vos\nhéros seront capables d'accomplir.
+MID_HARDIN_DARK01_HOME2: Le prince de la lumière et toute\nl'adoration qu'il suscite... Quelle\nmascarade.$k$pCela ne nourrit pas les citoyens. Si\nun pays est faible, son destin ne peut\nêtre que la ruine.
+MID_HARDIN_DARK01_HOME3: Vous êtes peut-être très $Gpuissant,puissante|,\nmais ce n'est rien à côté de cette\ngemme d'ambre. Ne l'oubliez pas.
+MID_HARDIN_DARK01_HOME4: Mon devoir est de recruter des\nindividus exceptionnels.$k$pSi vous me prouvez votre valeur,\nvous pourrez entrer dans l'armée\nimpériale d'Akaneia.
+MID_HARDIN_DARK01_HOME5: J'ai l'impression de sortir d'un\ncauchemar, et pourtant...$k$pJ'éprouve encore le désir de\ncombattre. L'esprit du Coyote est\ntoujours bien vivant.
+MID_HARDIN_DARK01_FRIEND: Vous rassemblez des héros venus\nde plusieurs contrées ? Mon armée\nn'en ferait qu'une bouchée.
+MID_HARDIN_DARK01_LEVEL1: Les plus forts sont toujours\nrécompensés !
+MID_HARDIN_DARK01_LEVEL2: Nous n'avons pas anéanti tous\nnos ennemis. Soyons prêts\npour la prochaine bataille !
+MID_HARDIN_DARK01_LEVEL3: Mon arme semble avoir perdu\nde son éclat.
+MID_HARDIN_DARK01_SKILL: Tout est prêt. Allons anéantir\nl'ennemi !
+MID_HARDIN_DARK01_JOIN: Je suis Hardin, empereur d'Akaneia.$k$pÀ présent, dites-moi qui vous êtes\navant que ma colère ne s'abatte\nsur vous.
+MID_HARDIN_DARK01_STRONGEST: Le monde regorge de rois et autres\nnobles, mais rares sont ceux qui ont\nun pouvoir digne de leur rang.$k$pPour la plupart, ils se contentent\nde se vautrer dans la fange de leurs\nprivilèges.$k$pCe faisant, ils exposent leur domaine\nà la guerre et envoient leurs sujets\nvers leur trépas.$k$pDe telles nations méritent-elles\nd'exister ? Leur destruction ne\nserait-elle pas souhaitable ?$k$pEt ne croyez pas que le monde\noù nous nous trouvons soit\ndifférent...$k$pCependant, j'ai aperçu une lueur à\ntravers les brumes de la guerre. Le\nvéritable trésor d'Akaneia.$k$pJ'ai juré sur mon épée de la protéger.\nC'est ce qui m'a fait comprendre que\nle monde devait être purifié.$k$pJe devais exiler les parasites et\néliminer tous ceux qui s'étaient\nopposés à moi.$k$pEt je ne pouvais pas même me\npermettre d'épargner le porteur\nde l'Emblème du Feu.$k$pOh, mais... De quoi parlions-nous ?\nOui... Je dois anéantir la rébellion.\nPréparez l'armée !
+MID_HARDIN_DARK01_VOICE01: ふんっ！
+MID_HARDIN_DARK01_VOICE02: Fool!
+MID_HARDIN_DARK01_VOICE03: うああっ！
+MID_HARDIN_DARK01_VOICE04: おのれ…！
+MID_HARDIN_DARK01_VOICE05: Qui croyez-vous être ?
+MID_HARDIN_DARK01_VOICE06: Souhaitez-vous mourir ?
+MID_HARDIN_DARK01_VOICE07: Vous vous opposez à moi ?
+MID_HARDIN_DARK01_VOICE08: Je vous écraserai !
+MID_HARDIN_DARK01_VOICE09: Prince Marth…
+MID_HARDIN_DARK01_VOICE10: evil laugh
+MID_HARDIN_DARK01_VOICE11: I rule my continent. I am the emperor of the Archanean Empire.
+MID_HARDIN_DARK01_VOICE12: Further such actions will not be tolerated.
+MID_HARDIN_DARK01_VOICE13: I will not show any mercy to those who oppose me.
+MID_HARDIN_DARK01_VOICE14: I have no choice but to crush this world.
+MID_HARDIN_DARK01_VOICE15: Ugh... My head... I remember something…
+MID_HARDIN_DARK01_VOICE16: I...loved her... Until the very end...
+MID_HARDIN_DARK01_VOICE17: There is only one true hero here... Allow me to teach you who that is.
+MID_HARDIN_DARK01_VOICE18: So be it.
+MID_HARDIN_DARK01_VOICE19: Detestable.
+MID_HARDIN_DARK01_VOICE20: They'll perish.

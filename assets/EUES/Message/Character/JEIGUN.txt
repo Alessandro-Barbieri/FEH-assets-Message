@@ -1,0 +1,38 @@
+[Heroes Archive] (JEIGUN)
+
+
+Heroes Message Name: Message
+
+
+MID_JEIGUN_HOME1: Hermoso castillo... Quizá no tanto\ncomo el de Altea, pero eso son\npalabras mayores.
+MID_JEIGUN_HOME2: El príncipe Marth ha madurado tanto...\nAh, qué orgulloso estaría de él\nsu padre, el rey Cornelius...
+MID_JEIGUN_HOME3: ¡Con qué entusiasmo haces las\nrondas! Permíteme que te acompañe\nla próxima vez. ¡No seré un estorbo!
+MID_JEIGUN_HOME4: Si lo deseas, puedo relatar la historia\nde Altea y las hazañas del príncipe\nMarth, pero... nos llevará días.
+MID_JEIGUN_HOME5: Me temo que me he lastimado la\nespalda. ¿Te importaría hacer un poco\nde presión justo en este punto?...
+MID_JEIGUN_FRIEND: Vengo a darte un saludo de parte\nde $Nf.
+MID_JEIGUN_LEVEL1: ¡Vaya! No me esperaba mejorar\ntanto a estas alturas...
+MID_JEIGUN_LEVEL2: Nada fuera de lo normal. Al fin y\nal cabo, soy un paladín de Altea.
+MID_JEIGUN_LEVEL3: Qué deshonra para mi patria\ny para mí mismo...
+MID_JEIGUN_SKILL: Quién me iba a decir que aún\nme quedaba algo por aprender...
+MID_JEIGUN_JOIN: Soy Jagen, paladín de Altea y\nguardián del príncipe Marth.\n¡Pondré mi veteranía a tu servicio!
+MID_JEIGUN_STRONGEST: He sido caballero durante tantos años\nque mi memoria ya flaquea, pero sé\nque no he conocido a nadie como tú.$k$pCreo que faltaría a la verdad si dijera\nque te seguimos por lealtad. No es\nsolamente por eso, al menos...$k$pHay algo en ti que nos inspira, que\nnos motiva a luchar y a protegerte.\nNo logro expresarlo con palabras.$k$pMe recuerdas al príncipe Marth,\ncuyo carisma también atrae\na otros héroes a su causa.$k$pPero, similitudes al margen, lo único\nque tengo claro es que permaneceré\na tu lado mientras me quede aliento.
+MID_JEIGUN_VOICE01: ふんっ！
+MID_JEIGUN_VOICE02: ぬぅんっ！
+MID_JEIGUN_VOICE03: ぬおおっ！
+MID_JEIGUN_VOICE04: Not good!
+MID_JEIGUN_VOICE05: ¡Atrás, canalla!
+MID_JEIGUN_VOICE06: ¡Tengo cuerda para rato!
+MID_JEIGUN_VOICE07: ¡Jamás me des la espalda!
+MID_JEIGUN_VOICE08: ¡Por el príncipe Marth!
+MID_JEIGUN_VOICE09: Pitiful...
+MID_JEIGUN_VOICE10: Hm
+MID_JEIGUN_VOICE11: Did you need something of me?
+MID_JEIGUN_VOICE12: I will never understand the young...
+MID_JEIGUN_VOICE13: You are young, but I see wisdom in your eyes.
+MID_JEIGUN_VOICE14: These old bones can be of service to you yet.
+MID_JEIGUN_VOICE15: I won't be outdone by any of those young striplings!
+MID_JEIGUN_VOICE16: I wonder how many more battles I have in me...
+MID_JEIGUN_VOICE17: Take care not to worry your elders. We know best.
+MID_JEIGUN_VOICE18: Hmm.
+MID_JEIGUN_VOICE19: Your servant.
+MID_JEIGUN_VOICE20: Hya!

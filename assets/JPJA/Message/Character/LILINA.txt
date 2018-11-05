@@ -1,0 +1,38 @@
+[Heroes Archive] (LILINA)
+
+
+Heroes Message Name: Message
+
+
+MID_LILINA_HOME1: この世界でなら、若い頃の\nお父様とも会えるのね…\nなんだかとっても不思議な気分。
+MID_LILINA_HOME2: わたしとロイは幼馴染なの。\n一緒に留学もしていたのよ。\nロイはとても勉強熱心だったわ。
+MID_LILINA_HOME3: いつも本当にありがとう。\nどんなに苦戦してても、あなたが\nいてくれるから大丈夫って思えるの。
+MID_LILINA_HOME4: 天が与えた魔道の才がある、って\nセシリアさんに褒められたことがあるの。\nだから、わたしもっとがんばらなくちゃ。
+MID_LILINA_HOME5: あなたは魔道を学んだことがないのに、\nあんなすごい召喚ができたの？\nきっと、生まれつき魔道の才があったのね。
+MID_LILINA_FRIEND: $Nuさん、\nこんにちは。今日は挨拶に来たのよ。\nこれからも仲良くしましょう。
+MID_LILINA_LEVEL1: うれしい！　これなら\nみんなの役に立てるわ！
+MID_LILINA_LEVEL2: ふふっ、調子良いみたい。\nでも、もっとがんばるわ。
+MID_LILINA_LEVEL3: みんなのためにもっともっと\nがんばりたいのに…
+MID_LILINA_SKILL: お父様、見てますか…？\nわたしは強くなりました。
+MID_LILINA_JOIN: わたしはオスティア侯ヘクトルの娘\nリリーナよ。まだ勉強中だけど、\n炎の魔道を使うことができるわ。
+MID_LILINA_STRONGEST: 誰かを守りたい…\nずっとそう想い続けていたはずなのに、\nやっぱり一人だと限界があって…$k$pでもあなたと一緒にいて、\n仲間は共に守り合うからこそ、\n強くなれるんだって知ったわ。$k$pあなたもロイもすごいなって思うの。\n人に好かれて…その中心に立って…$k$pうん、ありがとう。\nわたしもがんばる。\nだから、応援してくれる？
+MID_LILINA_VOICE01: はいっ！
+MID_LILINA_VOICE02: えいっ！
+MID_LILINA_VOICE03: きゃああっ！
+MID_LILINA_VOICE04: そんな…
+MID_LILINA_VOICE05: 負けない！
+MID_LILINA_VOICE06: 炎よ！
+MID_LILINA_VOICE07: 魔力が満ちる…
+MID_LILINA_VOICE08: もう、知らない！
+MID_LILINA_VOICE09: どうか…負けないで…
+MID_LILINA_VOICE10: うふふ
+MID_LILINA_VOICE11: きゃっ！？　びっくりしたわ
+MID_LILINA_VOICE12: ふふっ、不思議な人
+MID_LILINA_VOICE13: ねえ、何か話して
+MID_LILINA_VOICE14: 魔道の勉強もがんばらなくちゃ
+MID_LILINA_VOICE15: あなたも魔道が使えるの？
+MID_LILINA_VOICE16: 子供たちが笑って暮らせるように…
+MID_LILINA_VOICE17: わたしたち、これからも一緒ね
+MID_LILINA_VOICE18: ええ
+MID_LILINA_VOICE19: うーんと…
+MID_LILINA_VOICE20: わかったわ

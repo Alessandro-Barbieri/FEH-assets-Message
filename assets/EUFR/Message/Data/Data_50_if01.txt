@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_50_if01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201804BLESS01_TITLE: Bénédiction (vent)
+MID_MISSION_S201804BLESS01_A1: Victoire : héros béni (vent)
+MID_MISSION_H_S201804BLESS01_A1: Vaincre des ennemis avec des héros ayant reçu\nla bénédiction du vent (ne concerne pas les\nhéros légendaires de type Vent).
+MID_MISSION_S201804BLESS01_A2: Victoire : héros béni (vent)
+MID_MISSION_H_S201804BLESS01_A2: Vaincre des ennemis de niveau 20 ou supérieur\navec des héros ayant reçu la bénédiction du\nvent (ne concerne pas les héros légendaires\nde type Vent).
+MID_MISSION_S201804BLESS01_A3: Victoire : héros béni (vent)
+MID_MISSION_H_S201804BLESS01_A3: Vaincre des unités rouges de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du vent (ne concerne pas les\nhéros légendaires de type Vent).
+MID_MISSION_S201804BLESS01_A4: Victoire : héros béni (vent)
+MID_MISSION_H_S201804BLESS01_A4: Vaincre des unités bleues de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du vent (ne concerne pas les\nhéros légendaires de type Vent).
+MID_MISSION_S201804BLESS01_A5: Victoire : héros béni (vent)
+MID_MISSION_H_S201804BLESS01_A5: Vaincre des unités vertes de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du vent (ne concerne pas les\nhéros légendaires de type Vent).
+MID_MISSION_S201804BLESS01_A6: Tour : première strate
+MID_MISSION_H_S201804BLESS01_A6: Terminer la 1re strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nvent (ne concerne pas les héros légendaires de\ntype Vent).
+MID_MISSION_S201804BLESS01_A7: Tour : cinquième strate
+MID_MISSION_H_S201804BLESS01_A7: Terminer la 5e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nvent (ne concerne pas les héros légendaires de\ntype Vent).
+MID_MISSION_S201804BLESS01_A8: Tour : dixième strate
+MID_MISSION_H_S201804BLESS01_A8: Terminer la 10e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nvent (ne concerne pas les héros légendaires de\ntype Vent).
+MID_MISSION_S201804GW01_TITLE: Golden Week
+MID_MISSION_S201804GW01_A1: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A1: Vaincre des unités vertes de niveau 10\nou supérieur avec des unités rouges.
+MID_MISSION_S201804GW01_A2: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A2: Vaincre des unités rouges de niveau 10\nou supérieur avec des unités bleues.
+MID_MISSION_S201804GW01_A3: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A3: Vaincre des unités bleues de niveau 10\nou supérieur avec des unités vertes.
+MID_MISSION_S201804GW01_A4: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A4: Vaincre des unités maniant la hache\nde niveau 10 ou supérieur avec des\nunités rouges.
+MID_MISSION_S201804GW01_A5: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A5: Vaincre des unités maniant l'épée\nde niveau 10 ou supérieur avec des\nunités bleues.
+MID_MISSION_S201804GW01_A6: Cible : niveau ≥ 10
+MID_MISSION_H_S201804GW01_A6: Vaincre des unités maniant la lance\nde niveau 10 ou supérieur avec des\nunités vertes.
+MID_MISSION_S201804GW01_A7: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A7: Vaincre des unités vertes de niveau 20\nou supérieur avec des unités rouges.
+MID_MISSION_S201804GW01_A8: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A8: Vaincre des unités rouges de niveau 20\nou supérieur avec des unités bleues.
+MID_MISSION_S201804GW01_A9: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A9: Vaincre des unités bleues de niveau 20\nou supérieur avec des unités vertes.
+MID_MISSION_S201804GW01_A10: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A10: Vaincre des unités utilisant la magie\nverdoyante de niveau 20 ou supérieur avec\ndes unités rouges.
+MID_MISSION_S201804GW01_A11: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A11: Vaincre des unités utilisant la magie\nécarlate de niveau 20 ou supérieur avec\ndes unités bleues.
+MID_MISSION_S201804GW01_A12: Cible : niveau ≥ 20
+MID_MISSION_H_S201804GW01_A12: Vaincre des unités utilisant la magie\nazur de niveau 20 ou supérieur avec\ndes unités vertes.
+MID_MISSION_S201804GW01_A13: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A13: Vaincre des unités vertes de niveau 35\nou supérieur avec des unités rouges.
+MID_MISSION_S201804GW01_A14: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A14: Vaincre des unités rouges de niveau 35\nou supérieur avec des unités bleues.
+MID_MISSION_S201804GW01_A15: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A15: Vaincre des unités bleues de niveau 35\nou supérieur avec des unités vertes.
+MID_MISSION_S201804GW01_A16: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A16: Vaincre des unités grises de niveau 35\nou supérieur avec des unités grises.
+MID_MISSION_S201804GW01_A17: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A17: Vaincre des unités maniant le bâton\nde niveau 35 ou supérieur avec des\nunités rouges.
+MID_MISSION_S201804GW01_A18: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A18: Vaincre des unités maniant l'arc\nde niveau 35 ou supérieur avec des\nunités bleues.
+MID_MISSION_S201804GW01_A19: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A19: Vaincre des unités maniant la dague\nde niveau 35 ou supérieur avec des\nunités vertes.
+MID_MISSION_S201804GW01_A20: Cible : niveau ≥ 35
+MID_MISSION_H_S201804GW01_A20: Vaincre des unités maniant l'épée\nde niveau 35 ou supérieur avec des\nunités grises.
+MID_MISSION_S201804KIZUNA02_TITLE: Héros liés
+MID_MISSION_S201804KIZUNA02_A1: Bataille de héros liés
+MID_MISSION_H_S201804KIZUNA02_A1: Remporter la bataille de héros liés de Takumi et\nHinoka avec Fjorm dans votre équipe.
+MID_MISSION_S201804KIZUNA02_A2: Bataille de héros liés
+MID_MISSION_H_S201804KIZUNA02_A2: Remporter la grande bataille contre Takumi et\nHinoka en Expert ou supérieur avec Anna\ndans votre équipe.
+MID_MISSION_S201804KIZUNA02_A3: Takumi
+MID_MISSION_H_S201804KIZUNA02_A3: Avec Fjorm, vaincre une version\nde niveau 40 ou supérieur de Takumi,\nl'électron libre.
+MID_MISSION_S201804KIZUNA02_A4: Hinoka
+MID_MISSION_H_S201804KIZUNA02_A4: Avec Anna, vaincre une version\nde niveau 40 ou supérieur de Hinoka,\nla noble guerrière.
+MID_MISSION_S201804KIZUNA02_A5: Bataille de héros liés
+MID_MISSION_H_S201804KIZUNA02_A5: Remporter la bataille de héros liés de Takumi et\nHinoka en Expert ou supérieur avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201804SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201804SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201804SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201804SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201804SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201804SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201804STORY02_TITLE: Le rituel du froid
+MID_MISSION_S201804STORY02_A1: Chap. 8 - Acte 1 (Expert)
+MID_MISSION_H_S201804STORY02_A1: Terminer Livre II, Chap. 8, Acte 1 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY02_A2: Chap. 8 - Acte 2 (Expert)
+MID_MISSION_H_S201804STORY02_A2: Terminer Livre II, Chap. 8, Acte 2 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY02_A3: Chap. 8 - Acte 3 (Expert)
+MID_MISSION_H_S201804STORY02_A3: Terminer Livre II, Chap. 8, Acte 3 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY02_A4: Chap. 8 - Acte 4 (Expert)
+MID_MISSION_H_S201804STORY02_A4: Terminer Livre II, Chap. 8, Acte 4 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804STORY02_A5: Chap. 8 - Acte 5 (Expert)
+MID_MISSION_H_S201804STORY02_A5: Terminer Livre II, Chap. 8, Acte 5 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201804TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201804TAPBTL01_D01_A1: Hector
+MID_MISSION_H_S201804TAPBTL01_D01_A1: Vaincre Hector en Normal dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201804TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201804TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201804TAPBTL01_D02_A1: Hector
+MID_MISSION_H_S201804TAPBTL01_D02_A1: Vaincre Hector en Difficile dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201804TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201804TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201804TAPBTL01_D03_A1: Ike
+MID_MISSION_H_S201804TAPBTL01_D03_A1: Vaincre Ike en Normal dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201804TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201804TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201804TAPBTL01_D04_A1: Ike
+MID_MISSION_H_S201804TAPBTL01_D04_A1: Vaincre Ike en Difficile dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201804TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201804TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201804TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201804TAPBTL02_A1: Niveau de boss
+MID_MISSION_H_S201804TAPBTL02_A1: Terminer des niveaux de boss dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL02_A2: Niveau de boss
+MID_MISSION_H_S201804TAPBTL02_A2: Terminer des niveaux de boss dans le mode\nBataille tactile.
+MID_MISSION_S201804TAPBTL02_A3: Niveau
+MID_MISSION_H_S201804TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MPID_ヒノカ2: Hinoka
+MPID_カンナ女: Kana
+MPID_カンナ男: Kana
+MPID_シグレ: Shigure
+MPID_スズカゼ: Kaze
+MPID_HONOR_ヒノカ2: Guerrière céleste
+MPID_HONOR_カンナ女: Princesse dragon
+MPID_HONOR_カンナ男: Fils de dragon
+MPID_HONOR_シグレ: Artiste céleste
+MPID_HONOR_スズカゼ: Ninja docile
+MPID_H_ヒノカ2: Princesse d'Hoshido. Parcourt les\ncieux en chevauchant un kinshi\nlégendaire. Apparaît dans Fire\nEmblem Fates.
+MPID_H_カンナ女: Fille de Corrin. Assez espiègle, malgré\nune enfance solitaire. Apparaît dans Fire\nEmblem Fates.
+MPID_H_カンナ男: Fils de Corrin. Assez espiègle, malgré\nune enfance solitaire. Apparaît dans Fire\nEmblem Fates.
+MPID_H_シグレ: Artiste sensible dont le talent rivalise\navec celui de sa mère, Azura. Apparaît\ndans Fire Emblem Fates.
+MPID_H_スズカゼ: Ninja hoshidien et frère jumeau de Saizo.\nHomme honnête et très discipliné qui a\ndu succès auprès des femmes. Apparaît\ndans Fire Emblem Fates.
+MPID_VOICE_ヒノカ2: Cindy Robinson
+MPID_VOICE_カンナ女: Claudia Lenz
+MPID_VOICE_カンナ男: Sandy Fox
+MPID_VOICE_シグレ: Matt Mercer
+MPID_VOICE_スズカゼ: Xander Mobus
+MPID_ILLUST_ヒノカ2: Chiko (チーコ)
+MPID_ILLUST_カンナ女: Miwabe Sakura (みわべさくら)
+MPID_ILLUST_カンナ男: kawasumi (かわすみ)
+MPID_ILLUST_シグレ: Yura (由良)
+MPID_ILLUST_スズカゼ: lack
+MSID_倭鉾: Lance harmonie
+MSID_倭鉾＋: Lance harmonie +
+MSID_戦姫の和弓: Arc noble
+MSID_暗殺手裏剣: Shuriken acéré
+MSID_暗殺手裏剣＋: Shuriken acéré +
+MSID_水のブレス: Souffle d'eau
+MSID_水のブレス＋: Souffle d'eau +
+MSID_飛燕の構え2: Post. foudroy. 2
+MSID_飛燕の構え3: Post. foudroy. 3
+MSID_竜刃の紋章: Sursaut (Dra.)
+MSID_飛行の先導1: Regroup. (Vol) 1
+MSID_飛行の先導2: Regroup. (Vol) 2
+MSID_飛行の先導3: Regroup. (Vol) 3
+MSID_H_倭鉾: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_倭鉾＋: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_戦姫の和弓: Efficace contre les unités en armure et\nvolantes. Confère Vit +3. Confère Atq +3\naux alliés à 2 cases ou moins pendant\nle combat.
+MSID_H_暗殺手裏剣: Accélère l'activation des aptitudes spéciales\n(compteur -1). Après le combat, si l'unité à\nattaqué, inflige Déf/Rés -5 à la cible et aux\nennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_暗殺手裏剣＋: Accélère l'activation des aptitudes spéciales\n(compteur -1). Après le combat, si l'unité à\nattaqué, inflige Déf/Rés -7 à la cible et aux\nennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_水のブレス: Si l'ennemi initie le combat, confère\nDéf/Rés +4 pendant le combat. Les\ndégâts sont calculés avec la Déf ou\nla Rés (la valeur la plus faible) pour\nles ennemis avec une portée de 2.
+MSID_H_水のブレス＋: Si l'ennemi initie le combat, confère\nDéf/Rés +4 pendant le combat. Les\ndégâts sont calculés avec la Déf ou\nla Rés (la valeur la plus faible) pour\nles ennemis avec une portée de 2.
+MSID_H_飛燕の構え2: Si l'ennemi initie le combat, confère Vit +4\npendant le combat.
+MSID_H_飛燕の構え3: Si l'ennemi initie le combat, confère Vit +6\npendant le combat.
+MSID_H_竜刃の紋章: Confère Atq/Vit +4 aux dragons alliés\nà 2 cases ou moins pendant le combat.
+MSID_H_飛行の先導1: Si PV = 100 %, les unités volantes alliées\nà 2 cases ou moins peuvent se déplacer\njusqu'à une case adjacente à l'unité.
+MSID_H_飛行の先導2: Si PV ≥ 50 %, les unités volantes alliées\nà 2 cases ou moins peuvent se déplacer\njusqu'à une case adjacente à l'unité.
+MSID_H_飛行の先導3: Les unités volantes alliées à 2 cases ou\nmoins peuvent se déplacer jusqu'à une\ncase adjacente à l'unité.
+MID_CHAPTER_TITLE_C0208: Livre II, Chap. 8
+MID_CHAPTER_C0208: Le rituel du froid
+MID_STAGE_TITLE_S2081: Ch. 8 - Acte 1
+MID_STAGE_TITLE_S2082: Ch. 8 - Acte 2
+MID_STAGE_TITLE_S2083: Ch. 8 - Acte 3
+MID_STAGE_TITLE_S2084: Ch. 8 - Acte 4
+MID_STAGE_TITLE_S2085: Ch. 8 - Acte 5
+MID_STAGE_S2081: La prière des glaces
+MID_STAGE_S2082: Les flammes insatiables
+MID_STAGE_S2083: Éternel, indestructible
+MID_STAGE_S2084: Le pouvoir de la glace
+MID_STAGE_S2085: Le rituel du froid
+MID_CHAPTER_ST_C0204: Chapitres 7 et 8
+MID_STAGE_TITLE_ST_S0207: Chapitre 7
+MID_STAGE_TITLE_ST_S0208: Chapitre 8
+MID_STAGE_TITLE_ST_S1208: Chapitres 7 et 8
+MID_STAGE_HONOR_T0030: Fils de dragon
+MID_STAGE_T0030: Kana
+MID_TAP_BATTLE_DATA_TITLE_0003: Adversaires redoutables
+MID_MUSIC_NAME_BGM_MAP_FE07_02: Les vents des plaines
+MID_MUSIC_NAME_BGM_MAP_FE14_02: Crépuscule (feu)
+MID_MUSIC_NAME_BGM_MAP_FES_01: Le festival des fans

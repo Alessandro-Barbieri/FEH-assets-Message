@@ -1,0 +1,38 @@
+[Heroes Archive] (KAREL)
+
+
+Heroes Message Name: Message
+
+
+MID_KAREL_HOME1: Die fähigsten Helden aller Welten\nhaben sich in dieser hier versammelt?\nWas für ein wunderbarer Ort.
+MID_KAREL_HOME2: Ich habe das Schwert meiner Familie\nergriffen, was bedeutet, dass ich nun\neins bin mit meiner Waffe.
+MID_KAREL_HOME3: Zeigt mir den Stärksten dieser Welt.\nMein Schwert verlangt nach einem\nFestmahl, das seiner würdig ist.
+MID_KAREL_HOME4: Ihr nähert Euch mir? Hier? Eines\nTages könnte ich das wohl als\nHerausforderung ansehen.$k$pLernt besser schnell, Euch zu\nverteidigen.
+MID_KAREL_HOME5: Ich wende eine Schwerttechnik an,\ndie innerhalb unserer Familie als\nGeheimnis gehütet wurde - bis$k$paufs Äußerste.\nDaher erweise ich Euch eine\nGunst, und rate Euch, die Flucht\nzu ergreifen.$k$pEs sei denn... Vielleicht verspürt Ihr\nden Wunsch, diese Technik hautnah\nzu erleben?
+MID_KAREL_FRIEND: Ihr müsst $Nu\nsein.$k$pIhr bezeichnet Euch also als\nFreund von\n$Nf? Heh.
+MID_KAREL_LEVEL1: Meine Opfer widme ich den Göt-\ntern zum Segen meiner Klinge.
+MID_KAREL_LEVEL2: Körper und Klinge müssen\nschneller und schärfer werden!
+MID_KAREL_LEVEL3: Damit riskiere ich, Körper und\nKlinge zu beschädigen.
+MID_KAREL_SKILL: Exzellent. Mich verlangt es,\nmein Schwert zu entfesseln!
+MID_KAREL_JOIN: Ich bin Karel. Möchtet Ihr mein\nSchwert kennenlernen?$k$pOh, lasst mich mein Angebot\nzurückziehen. Ihr seid noch\nnicht so weit.
+MID_KAREL_STRONGEST: Ihr seid mir ein Rätsel. Ich folge dem\nWeg des Schwertes und strecke alle$k$pnieder, die stark genug sind, um eine\nRolle zu spielen.$k$pIhr könnt nicht kämpfen, nicht mit\neinem Schwert und auch nicht\nmit Magie.$k$pUnd doch befindet Ihr Euch auf\nmeinem Weg.$k$pSehr beunruhigend. Warum weiche\nich Euch nicht einfach aus?$k$pWarum kämpfe ich weiter für Euch?\nVielleicht...$k$pVielleicht weil ich auf meinem Weg\nschneller vorankomme, wenn ich\nEuch an meiner Seite habe!$k$pNun, auf jeden Fall sind wir nun\nmal hier, das Schwert und $Gder,die|\nSchwertlose!$k$pWas kann ich sonst tun, als weiterzu-\nmachen? Zumindest bis zu dem Tag,\nan dem Ihr mir IM Weg seid.
+MID_KAREL_VOICE01: はっ！
+MID_KAREL_VOICE02: ふっ
+MID_KAREL_VOICE03: うああっ！
+MID_KAREL_VOICE04: ...Not yet...
+MID_KAREL_VOICE05: Iss, mein Schwert!
+MID_KAREL_VOICE06: Meine Klinge, entfesselt!
+MID_KAREL_VOICE07: Mein Blut kocht!
+MID_KAREL_VOICE08: Ich muss... meine Klinge führen!
+MID_KAREL_VOICE09: Well done.
+MID_KAREL_VOICE10: Hmm.
+MID_KAREL_VOICE11: Point me toward a worthy opponent.
+MID_KAREL_VOICE12: My blade comes out at the...slightest provocation.
+MID_KAREL_VOICE13: I was raised to live and die by the sword. Now, among my family members, I live. My sister does too.
+MID_KAREL_VOICE14: Only one can wield the sword.
+MID_KAREL_VOICE15: My body? My blade? We are one and the same.
+MID_KAREL_VOICE16: I am on the path of the sword. I seek its end—one way or another.
+MID_KAREL_VOICE17: Don't worry. My blade isn't meant for you.
+MID_KAREL_VOICE18: OK...?
+MID_KAREL_VOICE19: Who next?
+MID_KAREL_VOICE20: Time to feast.

@@ -1,0 +1,38 @@
+[Heroes Archive] (MINERBA)
+
+
+Heroes Message Name: Message
+
+
+MID_MINERBA_HOME1: O mucho me equivoco o el príncipe\nAlfonse será un gran rey. A veces\nme recuerda al príncipe Marth.
+MID_MINERBA_HOME2: En los momentos de calma siempre\nme vienen a la memoria recuerdos de\nmis hermanos en épocas ya lejanas.
+MID_MINERBA_HOME3: Hoy en día me llaman la Dragoon\nRoja, pero antiguamente volaba\na lomos de un precioso pegaso.
+MID_MINERBA_HOME4: Tanto mi hermano como yo tomamos\nnuestras decisiones. Por eso me\nmanché las manos con su sangre.
+MID_MINERBA_HOME5: Ya no considero a Michalis como\nmi propia sangre, pero a mi hermana,\nMaría, siempre le desearé lo mejor.
+MID_MINERBA_FRIEND: Alguien a quien conoces me envía\na desearte suerte. ¿Que de quién se\ntrata? De $Nf.
+MID_MINERBA_LEVEL1: ¡Este es el verdadero poder\nde la Dragoon Roja!
+MID_MINERBA_LEVEL2: Aún no he alcanzado\nmi potencial máximo...
+MID_MINERBA_LEVEL3: Si Michalis viera esto, diría que\nél siempre fue mejor que yo...
+MID_MINERBA_SKILL: Te demostraré mi gratitud con\nvictorias en el campo de batalla.
+MID_MINERBA_JOIN: Soy Minerva, princesa de Medonia.\nSi necesitas a una guerrera cuyas\nfuerzas jamás flaqueen, te ayudaré.
+MID_MINERBA_STRONGEST: No sé si estoy preparada para dirigir\nun reino. Cuando sustituí a Michalis\ncomo regente, nada salió bien...$k$pPermití una rebelión y que me\ncapturaran, entre otras cosas. Fue\nuna demostración de impotencia.$k$pQuizá si hubiera contado con los\nconsejos de estrategas tan eficaces\ncomo tú, las cosas habrían cambiado.$k$pNo sé cuál es tu secreto, pero tienes\nalgo que no he visto en nadie más\ny que me hace sentir capaz de...$k$pDe cualquier cosa. Por eso quiero\ndarte las gracias y decirte que jamás\ndejaré de creer en ti.
+MID_MINERBA_VOICE01: はぁっ！
+MID_MINERBA_VOICE02: でぇいっ！
+MID_MINERBA_VOICE03: うああっ！
+MID_MINERBA_VOICE04: You!
+MID_MINERBA_VOICE05: ¡Enfréntate a mí, cobarde!
+MID_MINERBA_VOICE06: Tu muerte será rápida.
+MID_MINERBA_VOICE07: Rézales a tus dioses.
+MID_MINERBA_VOICE08: Pobre de ti...
+MID_MINERBA_VOICE09: Unworthy...
+MID_MINERBA_VOICE10: Heh
+MID_MINERBA_VOICE11: Mm? Did you need something?
+MID_MINERBA_VOICE12: Is that how you greet people in your homeland?
+MID_MINERBA_VOICE13: I will fight with honor, if not pride.
+MID_MINERBA_VOICE14: I shall never ascend the throne. I do not have the capacity to rule.
+MID_MINERBA_VOICE15: Let us restore peace to the people of this world together.
+MID_MINERBA_VOICE16: I remember days of light and laughter...
+MID_MINERBA_VOICE17: Anytime you wish to speak, do not hesitate.
+MID_MINERBA_VOICE18: Yes?
+MID_MINERBA_VOICE19: Orders?
+MID_MINERBA_VOICE20: Onward.

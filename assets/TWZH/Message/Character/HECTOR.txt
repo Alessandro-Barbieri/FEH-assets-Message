@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_HOME1: 這座城堡的確不賴……可是\n窩在城裡有違我的天性啊。\n我們趕快出擊吧！
+MID_HECTOR_HOME2: 我的愛斧是阿爾瑪茲……傳說的狂戰士之斧。\n我跟這傢伙交談過一次……\n真是個危險分子啊。
+MID_HECTOR_HOME3: 艾利烏德是我的摯友，\n我和他比劃過很多次。\n目前的戰績算是平分秋色吧。
+MID_HECTOR_HOME4: 嗨！我現在閒得很，\n要不要來比劃比劃？\n別擔心，我會手下留情！
+MID_HECTOR_HOME5: 重騎士不動如山……\n不管別人怎麼說，\n這都不是我的風格啊。
+MID_HECTOR_FRIEND: 你就是$Nu吧。\n我叫海克托爾，代替$Nf\n來跟你打招呼囉。
+MID_HECTOR_LEVEL1: 唔喔～……！\n這就是我真正的實力嗎！？
+MID_HECTOR_LEVEL2: 很好，感覺不錯。\n就這樣繼續下去吧！
+MID_HECTOR_LEVEL3: 嘖……這樣的話，\n我會輸給艾利烏德啊……
+MID_HECTOR_SKILL: 讓敵人好好見識見識\n奧斯提亞侯爵之弟的勇猛！
+MID_HECTOR_JOIN: 我叫海克托爾，\n是奧斯提亞侯爵烏瑟之弟。
+MID_HECTOR_STRONGEST: 要我講這種話\n實在是很難為情啊……\n我在認識你之前……$k$p總覺得只要變強就能打勝仗，\n就能夠守護大家……\n我的想法或許就是那麼單純。$k$p可是，跟你一起出生入死無數次後……\n不知道該怎麼說，\n總之我好像也有所改變了。$k$p嗯，這都要感謝你。\n我銘記在心……\n今後也請多多指教囉。$k$p你的安危由我會負責守護，\n我的安危就交給你囉。
+MID_HECTOR_VOICE01: 喝啊！
+MID_HECTOR_VOICE02: 喝啊～！
+MID_HECTOR_VOICE03: 嗚啊～！
+MID_HECTOR_VOICE04: 真有你的……！
+MID_HECTOR_VOICE05: 我不會退縮！
+MID_HECTOR_VOICE06: 膽子真大啊。
+MID_HECTOR_VOICE07: 廢話少說！
+MID_HECTOR_VOICE08: 要上啦！
+MID_HECTOR_VOICE09: 可惡！怎能死在這裡……
+MID_HECTOR_VOICE10: 呵！
+MID_HECTOR_VOICE11: 有事找我嗎？
+MID_HECTOR_VOICE12: 哇！？怎麼了？要打架嗎！？
+MID_HECTOR_VOICE13: 可別太逞強喔。
+MID_HECTOR_VOICE14: 要跟我比劃比劃嗎？
+MID_HECTOR_VOICE15: 把你的力量借給我吧。
+MID_HECTOR_VOICE16: ……戰場是我的葬身之地……是嗎？
+MID_HECTOR_VOICE17: 我就是沒辦法棄你於不顧啊。
+MID_HECTOR_VOICE18: 喔！
+MID_HECTOR_VOICE19: 來大鬧一場吧！
+MID_HECTOR_VOICE20: 包在我身上！

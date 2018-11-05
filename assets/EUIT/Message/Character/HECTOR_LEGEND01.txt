@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_LEGEND01_HOME1: Da quando sono marchese non faccio\nche stare rinchiuso nel castello. Non\nsono più libero di andarmene in giro.$k$pEcco perché mi piace questo posto!
+MID_HECTOR_LEGEND01_HOME2: Spesso mi chiedo chi avrebbe la\nmeglio in un duello tra mia figlia\ne il figlio di Eliwood...$k$pQuei due non sono rivali come lo\neravamo noi!
+MID_HECTOR_LEGEND01_HOME3: Non stare a bighellonare: chi è al\ncomando deve sempre apparire\ncalmo e composto.$k$pCome dici? Vale anche per me?\nOh, ma sai perfettamente che\nnon è nel mio stile.
+MID_HECTOR_LEGEND01_HOME4: Fragore è la mia fedele compagna di\nbattaglie da un bel po' di tempo. Ama\ncombattere, quindi qui sarà felice!
+MID_HECTOR_LEGEND01_HOME5: Questo castello lascia sbalorditi. Ma\nla mia speranza è che un giorno ai\nregni non servano tali difese.$k$pChi ha bisogno di mura, se c'è pace?
+MID_HECTOR_LEGEND01_FRIEND: Sono Hector, il nuovo marchese di\nOsitia. Sono qui su richiesta di\n$Nf.$k$pPuoi assicurarti che il suo messaggio\narrivi alla persona giusta?\n
+MID_HECTOR_LEGEND01_LEVEL1: Ora sì che ci siamo! Ecco il vero\npotere del grande Lord Hector!
+MID_HECTOR_LEGEND01_LEVEL2: Niente male, niente male...\nMa so di poter fare di meglio!
+MID_HECTOR_LEGEND01_LEVEL3: Tutto qui? Sono davvero fuori\nallenamento...
+MID_HECTOR_LEGEND01_SKILL: È come lucidare un diamante!\nSono sempre più brillante!
+MID_HECTOR_LEGEND01_JOIN: Sono Hector, il nuovo marchese di\nOsitia. Io e Fragore siamo entrambi\nal tuo servizio.$k$pQueste presentazioni sofisticate\nnon sono proprio nel mio stile...
+MID_HECTOR_LEGEND01_STRONGEST: Ti va di sederti con me per un po'?\nC'è qualcosa che vorrei chiederti.$k$pTu... credi nel destino?$k$pFino a poco tempo fa, l'idea mi\nfaceva ridere. Ma adesso... Beh,\nle cose sono certamente cambiate.$k$pAlla fine non importa che tu creda\no meno al destino. Ciò che importa\nè essere convinti delle proprie scelte.$k$pUn cuore saldo è sempre pronto\nad affrontare qualsiasi cosa si\nfrapponga nel suo cammino.$k$pNon esita nemmeno se c'è da\nrischiare la vita.$k$pQuesto vale per me... Ma anche\nper te. Lo capisco semplicemente\nguardandoti negli occhi.$k$pLo so, lo so. Questo tipo di discorsi\nnon è il mio forte. Non sono fatto\nper essere un marchese.$k$pMa così stanno le cose, giusto?\nDunque ogni tanto mi tocca fare\nun discorso. Abbi pazienza!
+MID_HECTOR_LEGEND01_VOICE01: うおおっ！
+MID_HECTOR_LEGEND01_VOICE02: そらよっ！
+MID_HECTOR_LEGEND01_VOICE03: うああっ！
+MID_HECTOR_LEGEND01_VOICE04: ちぃっ！
+MID_HECTOR_LEGEND01_VOICE05: Finiamola qui!
+MID_HECTOR_LEGEND01_VOICE06: Non distrarti!
+MID_HECTOR_LEGEND01_VOICE07: Ecco fatto!
+MID_HECTOR_LEGEND01_VOICE08: Fragore!
+MID_HECTOR_LEGEND01_VOICE09: Was just...getting started...
+MID_HECTOR_LEGEND01_VOICE10: はははっ！
+MID_HECTOR_LEGEND01_VOICE11: Legendary Hero? Uh... I don't get it. You mean like the Eight Legends?
+MID_HECTOR_LEGEND01_VOICE12: Huh? You managed to sneak up on me? Oh... Good work.
+MID_HECTOR_LEGEND01_VOICE13: My brother's burden and his feelings for his people... I will carry them myself.
+MID_HECTOR_LEGEND01_VOICE14: Sitting on some throne isn't really my style... But...
+MID_HECTOR_LEGEND01_VOICE15: Someday my kid and Eliwood's will spar. That'll settle who's stronger, once and for all.
+MID_HECTOR_LEGEND01_VOICE16: War is coming. Someday, a terrible war...
+MID_HECTOR_LEGEND01_VOICE17: I'm counting on you. I want you to guide my children and me.
+MID_HECTOR_LEGEND01_VOICE18: Got it.
+MID_HECTOR_LEGEND01_VOICE19: Which one's mine?
+MID_HECTOR_LEGEND01_VOICE20: Let's get moving!

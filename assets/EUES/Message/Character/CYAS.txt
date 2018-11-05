@@ -1,0 +1,38 @@
+[Heroes Archive] (CYAS)
+
+
+Heroes Message Name: Message
+
+
+MID_CYAS_HOME1: El viento puede traer el hedor\nde la guerra incluso a un país tan\npacífico como este... Qué desgracia.
+MID_CYAS_HOME2: A la gente le encanta halagarme,\nasí que me llaman estratega.$k$pNo soy un hombre ambicioso,\npero intento lograr que no haya\nacción sin propósito.
+MID_CYAS_HOME3: ¿Estás haciendo la ronda? Muy bien.\nReconocer el terreno es esencial\npara idear una estrategia.$k$pRecuerda que la meticulosidad\nes una virtud.
+MID_CYAS_HOME4: ¡Qué expresión tan solemne! No soy\nmás que un humilde clérigo, pero\nte ayudaré siempre que lo necesites.
+MID_CYAS_HOME5: ¿Has visto la biblioteca del castillo?\nTiene una colección impresionante,\ny las estanterías rezuman historia.$k$pEn cuanto disponga de tiempo\nleeré con detenimiento todas\nlas obras recopiladas.
+MID_CYAS_FRIEND: Te traigo saludos de parte\nde $Nf...$k$pY también una plegaria:\n¡que Bragi te proteja!
+MID_CYAS_LEVEL1: Doy gracias a Bragi.
+MID_CYAS_LEVEL2: Que Bragi nos otorgue\nsu protección divina.
+MID_CYAS_LEVEL3: No soy digno...
+MID_CYAS_SKILL: Cuánto poder... Me esforzaré\npor cumplir tus expectativas.
+MID_CYAS_JOIN: Soy Saias, de Velthomer. Con la\nbendición de Bragi, emplearé mis\nhumildes habilidades para ayudarte.
+MID_CYAS_STRONGEST: ¿Cómo te encuentras? En tu rostro\nse dibuja una expresión de lo más\nenigmática.$k$pComo si estuvieras viendo\nel futuro que se avecina.$k$p¿Crees que te sobrestimo? Solo\nalguien extraordinario pediría que\nse le trate como a alguien normal.$k$pMi sangre me ha otorgado ciertos\ndones, y yo lo he dado todo para\nser merecedor de ellos.$k$pPero esa misma sangre me impide\nllevar una vida pacífica. Esa lección\nla aprendí de mi madre.$k$pMientras no te desvíes de tu camino,\nyo pondré a tu disposición mis\nconocimientos y habilidades.$k$pLo juro por la llama que tengo\nmarcada en la piel.
+MID_CYAS_VOICE01: はっ！
+MID_CYAS_VOICE02: せいっ！
+MID_CYAS_VOICE03: うああっ！
+MID_CYAS_VOICE04: As expected...
+MID_CYAS_VOICE05: Todo esto era inevitable.
+MID_CYAS_VOICE06: Deberías retirarte.
+MID_CYAS_VOICE07: Jamás me derrotarás.
+MID_CYAS_VOICE08: Tal y como planeé.
+MID_CYAS_VOICE09: I can do no more...
+MID_CYAS_VOICE10: (Sigh)
+MID_CYAS_VOICE11: I can't discuss the topic of my lineage, I'm afraid.
+MID_CYAS_VOICE12: Eh? My, you aren't shy, are you?
+MID_CYAS_VOICE13: A thousand pegasi led by one dragon can defeat a thousand dragons led by one pegasus.
+MID_CYAS_VOICE14: The Heroes gathered here are as dragons. I suppose that you, too, could be called a dragon.
+MID_CYAS_VOICE15: Lord Julius was once kindhearted. Since that fateful day, however...
+MID_CYAS_VOICE16: As the descendant of Fjalar, I must live on.
+MID_CYAS_VOICE17: It would pain me to leave you...so I shall accompany you a while longer.
+MID_CYAS_VOICE18: Yes.
+MID_CYAS_VOICE19: What do you need?
+MID_CYAS_VOICE20: I'll hear your plan.

@@ -1,0 +1,38 @@
+[Heroes Archive] (ROY_VALENTINE01)
+
+
+Heroes Message Name: Message
+
+
+MID_ROY_VALENTINE01_HOME1: 愛の祭に、\n君はどんなプレゼントを贈るの？\nそれとももらう方かな？
+MID_ROY_VALENTINE01_HOME2: 君の世界にも愛の祭はあったんだね。\nぼくたちのお祭りと似ているところも、\n違うところもある…面白いね。
+MID_ROY_VALENTINE01_HOME3: リリーナはぼくの幼馴染なんだ。\n留学してた頃は、身だしなみや\n宮廷作法のことでよく助けてもらったよ。
+MID_ROY_VALENTINE01_HOME4: 父上とヘクトル様のような、\nお互いを高め合う友…\nすごく憧れるよ。
+MID_ROY_VALENTINE01_HOME5: 愛の祭の季節は、みんななんだか\nそわそわしているみたいだね。\n贈り物の相手が気になるのかな。
+MID_ROY_VALENTINE01_FRIEND: あなたが$Nuさん？\n$Nfから\nあなたへの贈り物だよ。
+MID_ROY_VALENTINE01_LEVEL1: ぼくには\n守りたい人がいる！
+MID_ROY_VALENTINE01_LEVEL2: 父上やヘクトル様を見習って\nがんばったおかげかな。
+MID_ROY_VALENTINE01_LEVEL3: うーん…\n次はもっとがんばるよ。
+MID_ROY_VALENTINE01_SKILL: ありがとう。お返しは、\nどんなプレゼントが良いかな？
+MID_ROY_VALENTINE01_JOIN: ぼくはロイ。\nみんなで愛の祭に参加していたんだ。\n君は、プレゼントをあげたい人はいる？
+MID_ROY_VALENTINE01_STRONGEST: ぼくは\n父上と母上のおかげで生まれて…\nフェレのみんなに育ててもらった。$k$p留学していた頃は、\nセシリアさんに学問を教わって…\nリリーナにも色々助けられた。$k$pそして今は、\n$Nuのおかげで\nここまで強くなれた…$k$pみんなの気持ちのおかげで\nぼくはここにいられる…\nそんな気がするよ。$k$pぼくを支えてくれた\nみんなにちゃんと恩返しがしたい。\nまずは$Nu、君にね。
+MID_ROY_VALENTINE01_VOICE01: せいっ！
+MID_ROY_VALENTINE01_VOICE02: それっ！
+MID_ROY_VALENTINE01_VOICE03: うああっ！
+MID_ROY_VALENTINE01_VOICE04: 贈り物が…！
+MID_ROY_VALENTINE01_VOICE05: プレゼントだよ
+MID_ROY_VALENTINE01_VOICE06: 心を込めて…
+MID_ROY_VALENTINE01_VOICE07: 君にあげるよ
+MID_ROY_VALENTINE01_VOICE08: 真剣に行くよ
+MID_ROY_VALENTINE01_VOICE09: 甘かった…な…
+MID_ROY_VALENTINE01_VOICE10: うーん
+MID_ROY_VALENTINE01_VOICE11: ぼくはロイ。みんなでお祭りに来ていたんだ。
+MID_ROY_VALENTINE01_VOICE12: わっ！？　…びっくりしたよ。
+MID_ROY_VALENTINE01_VOICE13: 贈り物は、相手の心を思う気持ちが大切なんだね。
+MID_ROY_VALENTINE01_VOICE14: 父上に、リリーナに、それからみんなにも…
+MID_ROY_VALENTINE01_VOICE15: ぼくが欲しいもの？　その気持ちだけで十分だよ。
+MID_ROY_VALENTINE01_VOICE16: 女の人は…何を贈ったら喜んでもらえるんだろう？
+MID_ROY_VALENTINE01_VOICE17: 僕の気持ちを、受け取ってくれたら嬉しいな。
+MID_ROY_VALENTINE01_VOICE18: 良いね
+MID_ROY_VALENTINE01_VOICE19: 悩んでるの？
+MID_ROY_VALENTINE01_VOICE20: さあ、渡そう！

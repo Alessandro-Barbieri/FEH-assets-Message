@@ -1,0 +1,38 @@
+[Heroes Archive] (JAFFAR)
+
+
+Heroes Message Name: Message
+
+
+MID_JAFFAR_HOME1: Les Gardiens d'Askr... quel nom\nétrange. Vous tuez pour votre\npatrie, c'est bien ça ?
+MID_JAFFAR_HOME2: Dans mon monde, je n'étais qu'un\ncadavre ambulant... Et puis j'ai\nrencontré Nino...
+MID_JAFFAR_HOME3: Encore en patrouille ? C'est un bon\nmoyen de déceler les espions et de\ndéjouer les tentatives d'assassinat.
+MID_JAFFAR_HOME4: Vous voulez parler ? Très bien.\nQuel est le meilleur moment pour\nréussir un assassinat, selon vous ?$k$pPendant que la cible prend son repas,\nou pendant qu'elle dort ?
+MID_JAFFAR_HOME5: Durant mon temps libre, je pense à de\nnouvelles techniques d'assassinat. Je\nn'ai toujours fait que ça dans ma vie.
+MID_JAFFAR_FRIEND: Ne fuyez pas, je ne suis pas là pour\nvous tuer. $Nf\nm'envoie simplement vous saluer.
+MID_JAFFAR_LEVEL1: Simple coup de chance.
+MID_JAFFAR_LEVEL2: Pas mal.
+MID_JAFFAR_LEVEL3: Je dois être rouillé.
+MID_JAFFAR_SKILL: Est-ce que ceci m'aidera à...\nremplir ma tâche ?
+MID_JAFFAR_JOIN: Je suis Jaffar, l'assassin le plus\ndangereux du Black Fang. Celui\nqu'on appelle l'ange de la mort.
+MID_JAFFAR_STRONGEST: Vous êtes trop tendre, avec moi, avec\nceux qui vous entourent, avec tout le\nmonde.$k$pC'est votre principale faiblesse,\n$Nu.$k$pVous vous trompez lourdement si\nvous pensez que nous sommes amis.\nJe suis votre outil, rien de plus.$k$pSi j'échoue, débarrassez-vous de moi,\nc'est la règle...$k$pComment ? Vous refusez ? Vous\nm'obligez alors à vous servir\npour le restant de mes jours.$k$pSachez que je serai toujours là pour\nexécuter les tâches que vous n'oserez\nfaire vous-même.$k$pJe m'en acquiterrai, puis je reviendrai.\nVous n'avez pas à vous inquiéter.
+MID_JAFFAR_VOICE01: はっ
+MID_JAFFAR_VOICE02: ふっ
+MID_JAFFAR_VOICE03: うああっ！
+MID_JAFFAR_VOICE04: Damn...nngh...\n
+MID_JAFFAR_VOICE05: La mort arrive.
+MID_JAFFAR_VOICE06: Il est temps.
+MID_JAFFAR_VOICE07: Une autre victime.
+MID_JAFFAR_VOICE08: La fin approche.
+MID_JAFFAR_VOICE09: It ends...
+MID_JAFFAR_VOICE10: Huh.
+MID_JAFFAR_VOICE11: Next mission. Please.
+MID_JAFFAR_VOICE12: The human touch? Not for me.
+MID_JAFFAR_VOICE13: I am known as the Angel of Death.
+MID_JAFFAR_VOICE14: Do I know of...joy, sorrow, anger, dread? No.
+MID_JAFFAR_VOICE15: I have...no heart.
+MID_JAFFAR_VOICE16: A pile of corpses. Upon that I was born. An infant in a cradle of death.
+MID_JAFFAR_VOICE17: You must...live.
+MID_JAFFAR_VOICE18: Hmmm.
+MID_JAFFAR_VOICE19: Orders?
+MID_JAFFAR_VOICE20: Yes.

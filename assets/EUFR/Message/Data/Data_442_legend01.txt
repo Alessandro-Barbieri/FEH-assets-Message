@@ -1,0 +1,288 @@
+[Heroes Archive] (Data_442_legend01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201802A_TITLE: Quêtes fév. (1)
+MID_MISSION_M201802A_A1: Victoire : unité rouge
+MID_MISSION_H_M201802A_A1: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_M201802A_A2: Victoire : unité volante
+MID_MISSION_H_M201802A_A2: Vaincre des ennemis avec des unités volantes.
+MID_MISSION_M201802A_A3: Cible : unités bleues
+MID_MISSION_H_M201802A_A3: Vaincre des unités bleues.
+MID_MISSION_M201802A_A4: Cible : cavalerie
+MID_MISSION_H_M201802A_A4: Vaincre des cavaliers.
+MID_MISSION_M201802A_A5: Duelliste
+MID_MISSION_H_M201802A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201802A_A6: Domination : unité verte
+MID_MISSION_H_M201802A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités vertes.
+MID_MISSION_M201802A_A7: Domination : cavalerie
+MID_MISSION_H_M201802A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des cavaliers.
+MID_MISSION_M201802A_A8: Cible : unités rouges
+MID_MISSION_H_M201802A_A8: Vaincre des unités rouges de niveau 20\nou supérieur.
+MID_MISSION_M201802A_A9: Cible : unités volantes
+MID_MISSION_H_M201802A_A9: Vaincre des unités volantes de niveau 20\nou supérieur.
+MID_MISSION_M201802A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201802A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201802A_A11: Domination : unité bleue
+MID_MISSION_H_M201802A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités bleues.
+MID_MISSION_M201802A_A12: Domination : infanterie
+MID_MISSION_H_M201802A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des fantassins.
+MID_MISSION_M201802A_A13: Cible : unités vertes
+MID_MISSION_H_M201802A_A13: Vaincre des unités vertes de niveau 35\nou supérieur.
+MID_MISSION_M201802A_A14: Cible : infanterie
+MID_MISSION_H_M201802A_A14: Vaincre des fantassins de niveau 35\nou supérieur.
+MID_MISSION_M201802A_A15: Duelliste émérite
+MID_MISSION_H_M201802A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201802B_TITLE: Quêtes fév. (2)
+MID_MISSION_M201802B_A1: Tour : première strate
+MID_MISSION_H_M201802B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A2: Tour : deuxième strate
+MID_MISSION_H_M201802B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A3: Tour : troisième strate
+MID_MISSION_H_M201802B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A4: Tour : quatrième strate
+MID_MISSION_H_M201802B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A5: Tour : cinquième strate
+MID_MISSION_H_M201802B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A6: Tour : sixième strate
+MID_MISSION_H_M201802B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A7: Tour : septième strate
+MID_MISSION_H_M201802B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A8: Tour : huitième strate
+MID_MISSION_H_M201802B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A9: Tour : neuvième strate
+MID_MISSION_H_M201802B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A10: Tour : dixième strate
+MID_MISSION_H_M201802B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802B_A11: Tour : dixième strate
+MID_MISSION_H_M201802B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201802B_A12: Tour : dixième strate
+MID_MISSION_H_M201802B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités cuirassées et sans essuyer\nla moindre perte.
+MID_MISSION_M201802B_A13: Tour : dixième strate
+MID_MISSION_H_M201802B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201802B_A14: Tour : dixième strate
+MID_MISSION_H_M201802B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201802C_TITLE: Quêtes fév. (3)
+MID_MISSION_M201802C_A1: Chapitre 6 - Acte 1
+MID_MISSION_H_M201802C_A1: Terminer l'acte 1 du chapitre 6 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201802C_A2: Chapitre 6 - Acte 2
+MID_MISSION_H_M201802C_A2: Terminer l'acte 2 du chapitre 6 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802C_A3: Chapitre 6 - Acte 3
+MID_MISSION_H_M201802C_A3: Terminer l'acte 3 du chapitre 6 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802C_A4: Chapitre 6 - Acte 4
+MID_MISSION_H_M201802C_A4: Terminer l'acte 4 du chapitre 6 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802C_A5: Chapitre 6 - Acte 5
+MID_MISSION_H_M201802C_A5: Terminer l'acte 5 du chapitre 6 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201802C_A6: Chap. 9 - Acte 1 (Difficile)
+MID_MISSION_H_M201802C_A6: Terminer l'acte 1 du chapitre 9 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201802C_A7: Chap. 9 - Acte 2 (Difficile)
+MID_MISSION_H_M201802C_A7: Terminer l'acte 2 du chapitre 9 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A8: Chap. 9 - Acte 3 (Difficile)
+MID_MISSION_H_M201802C_A8: Terminer l'acte 3 du chapitre 9 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A9: Chap. 9 - Acte 4 (Difficile)
+MID_MISSION_H_M201802C_A9: Terminer l'acte 4 du chapitre 9 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A10: Chap. 9 - Acte 5 (Difficile)
+MID_MISSION_H_M201802C_A10: Terminer l'acte 5 du chapitre 9 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A11: Chap. 12 - Acte 1 (Expert)
+MID_MISSION_H_M201802C_A11: Terminer l'acte 1 du chapitre 12 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201802C_A12: Chap. 12 - Acte 2 (Expert)
+MID_MISSION_H_M201802C_A12: Terminer l'acte 2 du chapitre 12 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A13: Chap. 12 - Acte 3 (Expert)
+MID_MISSION_H_M201802C_A13: Terminer l'acte 3 du chapitre 12 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A14: Chap. 12 - Acte 4 (Expert)
+MID_MISSION_H_M201802C_A14: Terminer l'acte 4 du chapitre 12 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201802C_A15: Chap. 12 - Acte 5 (Expert)
+MID_MISSION_H_M201802C_A15: Terminer l'acte 5 du chapitre 12 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201801SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201801SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201801SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201801SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201801SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201801SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201801SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201801SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201801SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201802DEFEAT01_TITLE: Combat
+MID_MISSION_S201802DEFEAT01_A1: Cible : niveau ≥ 10
+MID_MISSION_H_S201802DEFEAT01_A1: Vaincre des unités vertes de niveau 10\nou supérieur avec des unités rouges.
+MID_MISSION_S201802DEFEAT01_A2: Cible : niveau ≥ 10
+MID_MISSION_H_S201802DEFEAT01_A2: Vaincre des unités rouges de niveau 10\nou supérieur avec des unités bleues.
+MID_MISSION_S201802DEFEAT01_A3: Cible : niveau ≥ 10
+MID_MISSION_H_S201802DEFEAT01_A3: Vaincre des unités bleues de niveau 10\nou supérieur avec des unités vertes.
+MID_MISSION_S201802DEFEAT01_A4: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A4: Vaincre des unités maniant le bâton\nde niveau 20 ou supérieur avec des\nunités rouges.
+MID_MISSION_S201802DEFEAT01_A5: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A5: Vaincre des unités maniant l'arc\nde niveau 20 ou supérieur avec des\nunités bleues.
+MID_MISSION_S201802DEFEAT01_A6: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A6: Vaincre des unités maniant la dague\nde niveau 20 ou supérieur avec des\nunités vertes.
+MID_MISSION_S201802DEFEAT01_A7: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A7: Vaincre des unités utilisant la magie\nverdoyante de niveau 20 ou supérieur avec\ndes unités rouges.
+MID_MISSION_S201802DEFEAT01_A8: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A8: Vaincre des unités utilisant la magie\nécarlate de niveau 20 ou supérieur avec\ndes unités bleues.
+MID_MISSION_S201802DEFEAT01_A9: Cible : niveau ≥ 20
+MID_MISSION_H_S201802DEFEAT01_A9: Vaincre des unités utilisant la magie\nazur de niveau 20 ou supérieur avec\ndes unités vertes.
+MID_MISSION_S201802DEFEAT01_A10: Cible : niveau ≥ 40
+MID_MISSION_H_S201802DEFEAT01_A10: Vaincre des unités maniant la hache\nde niveau 40 ou supérieur avec des\nunités rouges.
+MID_MISSION_S201802DEFEAT01_A11: Cible : niveau ≥ 40
+MID_MISSION_H_S201802DEFEAT01_A11: Vaincre des unités maniant l'épée\nde niveau 40 ou supérieur avec des\nunités bleues.
+MID_MISSION_S201802DEFEAT01_A12: Cible : niveau ≥ 40
+MID_MISSION_H_S201802DEFEAT01_A12: Vaincre des unités maniant la lance\nde niveau 40 ou supérieur avec des\nunités vertes.
+MID_MISSION_S201802DEFEAT01_A13: Cible : niveau ≥ 40
+MID_MISSION_H_S201802DEFEAT01_A13: Vaincre des unités grises de niveau 40\nou supérieur avec des unités grises.
+MID_MISSION_S201802HERO01_TITLE: Grandes batailles
+MID_MISSION_S201802HERO01_A1: Valter
+MID_MISSION_H_S201802HERO01_A1: Remporter la grande bataille contre\nValter, la Pierre de lune, avec\nSharena dans votre équipe.
+MID_MISSION_S201802HERO01_A2: Valter
+MID_MISSION_H_S201802HERO01_A2: Remporter la grande bataille contre Valter, la\nPierre de lune, en Expert ou supérieur avec\nValter, la Pierre de lune, dans votre équipe.
+MID_MISSION_S201802HERO01_A3: Valter
+MID_MISSION_H_S201802HERO01_A3: Avec Sharena, vaincre une version\nde niveau 40 ou supérieur de Valter,\nla Pierre de lune.
+MID_MISSION_S201802HERO01_A4: Valter
+MID_MISSION_H_S201802HERO01_A4: Avec Valter, la Pierre de lune, vaincre\nune version de niveau 40 ou supérieur\nde Valter, la Pierre de lune.
+MID_MISSION_S201802HERO01_A5: Valter
+MID_MISSION_H_S201802HERO01_A5: Remporter la grande bataille contre Valter,\nla Pierre de lune, en Expert ou supérieur avec\nune équipe ne comportant que des fantassins.
+MID_MISSION_S201802VMAP01_TITLE: Défi des dévs
+MID_MISSION_S201802VMAP01_A1: Efficacité
+MID_MISSION_H_S201802VMAP01_A1: Terminer Efficacité de mk1 avec une unité\nrouge dans une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A2: Longs et courts
+MID_MISSION_H_S201802VMAP01_A2: Terminer Longs et courts de Shingoroid avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A3: Ensorcelant
+MID_MISSION_H_S201802VMAP01_A3: Terminer Ensorcelant de ngyope avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A4: La garde de Wrys
+MID_MISSION_H_S201802VMAP01_A4: Terminer La garde de Wrys de kuroyagi avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A5: Les Manaketes
+MID_MISSION_H_S201802VMAP01_A5: Terminer Les Manaketes de k2 avec une\néquipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_S201802VMAP01_A6: Efficacité
+MID_MISSION_H_S201802VMAP01_A6: Terminer Efficacité de mk1 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A7: Longs et courts
+MID_MISSION_H_S201802VMAP01_A7: Terminer Longs et courts de Shingoroid en\nExpert avec une unité bleue dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A8: Ensorcelant
+MID_MISSION_H_S201802VMAP01_A8: Terminer Ensorcelant de ngyope en Expert\navec une unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A9: La garde de Wrys
+MID_MISSION_H_S201802VMAP01_A9: Terminer La garde de Wrys de kuroyagi en\nExpert avec une unité grise dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802VMAP01_A10: Les Manaketes
+MID_MISSION_H_S201802VMAP01_A10: Terminer Les Manaketes de k2 en Expert\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_S201802YEAR01_TITLE: Tutoriel
+MID_MISSION_S201802YEAR01_A1: Chapitre 1 - Acte 5
+MID_MISSION_H_S201802YEAR01_A1: Terminer l'acte 5 du chapitre 1.
+MID_MISSION_S201802YEAR01_A2: Chapitre 2 - Acte 5
+MID_MISSION_H_S201802YEAR01_A2: Terminer l'acte 5 du chapitre 2.
+MID_MISSION_S201802YEAR01_A3: Chapitre 3 - Acte 5
+MID_MISSION_H_S201802YEAR01_A3: Terminer l'acte 5 du chapitre 3.
+MID_MISSION_S201802YEAR01_A4: Chapitre 4 - Acte 5
+MID_MISSION_H_S201802YEAR01_A4: Terminer l'acte 5 du chapitre 4.
+MID_MISSION_S201802YEAR01_A5: Chapitre 5 - Acte 5
+MID_MISSION_H_S201802YEAR01_A5: Terminer l'acte 5 du chapitre 5.
+MID_MISSION_S201802YEAR01_A6: Chapitre 6 - Acte 5
+MID_MISSION_H_S201802YEAR01_A6: Terminer l'acte 5 du chapitre 6.
+MID_MISSION_S201802YEAR01_A7: Chapitre 7 - Acte 5
+MID_MISSION_H_S201802YEAR01_A7: Terminer l'acte 5 du chapitre 7.
+MID_MISSION_S201802YEAR01_A8: Chapitre 8 - Acte 5
+MID_MISSION_H_S201802YEAR01_A8: Terminer l'acte 5 du chapitre 8.
+MID_MISSION_S201802YEAR01_A9: Chapitre 9 - Acte 5
+MID_MISSION_H_S201802YEAR01_A9: Terminer l'acte 5 du chapitre 9.
+MID_MISSION_S201802YEAR01_A10: Chapitre 10 - Acte 5
+MID_MISSION_H_S201802YEAR01_A10: Terminer l'acte 5 du chapitre 10.
+MID_MISSION_S201802YEAR01_A11: Chapitre 11 - Acte 5
+MID_MISSION_H_S201802YEAR01_A11: Terminer l'acte 5 du chapitre 11.
+MID_MISSION_S201802YEAR01_A12: Chapitre 12 - Acte 5
+MID_MISSION_H_S201802YEAR01_A12: Terminer l'acte 5 du chapitre 12.
+MID_MISSION_S201802YEAR01_A13: Chapitre 13 - Acte 5
+MID_MISSION_H_S201802YEAR01_A13: Terminer l'acte 5 du chapitre 13.
+MID_MISSION_S201802YEAR01_A14: Livre II, Chap. 1, Acte 5
+MID_MISSION_H_S201802YEAR01_A14: Terminer l'acte 5 du chapitre 1 du livre II.
+MID_MISSION_S201802YEAR01_A15: Livre II, Chap. 2, Acte 5
+MID_MISSION_H_S201802YEAR01_A15: Terminer l'acte 5 du chapitre 2 du livre II.
+MID_MISSION_S201802YEAR01_A16: Livre II, Chap. 3, Acte 5
+MID_MISSION_H_S201802YEAR01_A16: Terminer l'acte 5 du chapitre 3 du livre II.
+MID_MISSION_S201802YEAR01_A17: Duelliste
+MID_MISSION_H_S201802YEAR01_A17: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201802YEAR01_A18: Duelliste intermédiaire
+MID_MISSION_H_S201802YEAR01_A18: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201802YEAR01_A19: Duelliste émérite
+MID_MISSION_H_S201802YEAR01_A19: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_S201802YEAR01_A20: Tour : première strate
+MID_MISSION_H_S201802YEAR01_A20: Terminer la 1re strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A21: Tour : deuxième strate
+MID_MISSION_H_S201802YEAR01_A21: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A22: Tour : troisième strate
+MID_MISSION_H_S201802YEAR01_A22: Terminer la 3e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A23: Tour : quatrième strate
+MID_MISSION_H_S201802YEAR01_A23: Terminer la 4e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A24: Tour : cinquième strate
+MID_MISSION_H_S201802YEAR01_A24: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A25: Tour : sixième strate
+MID_MISSION_H_S201802YEAR01_A25: Terminer la 6e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A26: Tour : septième strate
+MID_MISSION_H_S201802YEAR01_A26: Terminer la 7e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A27: Tour : huitième strate
+MID_MISSION_H_S201802YEAR01_A27: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A28: Tour : neuvième strate
+MID_MISSION_H_S201802YEAR01_A28: Terminer la 9e strate de la tour d'entraînement.
+MID_MISSION_S201802YEAR01_A29: Tour : dixième strate
+MID_MISSION_H_S201802YEAR01_A29: Terminer la 10e strate de la tour d'entraînement.
+MPID_伝承アイク: Ike
+MPID_HONOR_伝承アイク: Illustre rédempteur
+MPID_H_伝承アイク: Chef des mercenaires de Greil. Personnage\ncharismatique, loyal et sincère qui a su unir\ndes personnes aux origines très diverses.\nApparaît dans Fire Emblem: Radiant Dawn.
+MPID_VOICE_伝承アイク: Greg Chun
+MPID_ILLUST_伝承アイク: Kita Senri (北千里)
+MPID_LEGEND_伝承アイク: Effet légendaire : terre\nBoost pour les alliés : PV +3, Atq +2\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction de la terre et que\ncette unité combat avec eux pendant la\nsaison de la terre.
+MSID_蒼の天空: Éther radieux
+MSID_明鏡の呼吸: Souffle gardien
+MSID_鍛錬の証_HP1: Sceau initié PV 1
+MSID_鍛錬の証_HP2: Sceau initié PV 2
+MSID_鍛錬の証_HP3: Sceau initié PV 3
+MSID_鍛錬の証_攻撃1: Sceau initié Atq 1
+MSID_鍛錬の証_攻撃2: Sceau initié Atq 2
+MSID_鍛錬の証_攻撃3: Sceau initié Atq 3
+MSID_鍛錬の証_速さ1: Sceau initié Vit 1
+MSID_鍛錬の証_速さ2: Sceau initié Vit 2
+MSID_鍛錬の証_速さ3: Sceau initié Vit 3
+MSID_鍛錬の証_守備1: Sceau initié Déf 1
+MSID_鍛錬の証_守備2: Sceau initié Déf 2
+MSID_鍛錬の証_守備3: Sceau initié Déf 3
+MSID_鍛錬の証_魔防1: Sceau initié Rés 1
+MSID_鍛錬の証_魔防2: Sceau initié Rés 2
+MSID_鍛錬の証_魔防3: Sceau initié Rés 3
+MSID_H_蒼の天空: Ignore 50 % de la Déf/Rés de la cible\npendant le combat. Rend des PV à\nhauteur de 50 % des dégâts infligés.
+MSID_H_明鏡の呼吸: Si l'ennemi initie le combat, confère Rés +4\npendant le combat et compteur -1 par\nattaque. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_鍛錬の証_HP1: Confère PV +3.
+MSID_H_鍛錬の証_HP2: Confère PV +4.
+MSID_H_鍛錬の証_HP3: Confère PV +5.
+MSID_H_鍛錬の証_攻撃1: Confère Atq +1.
+MSID_H_鍛錬の証_攻撃2: Confère Atq +2.
+MSID_H_鍛錬の証_攻撃3: Confère Atq +3.
+MSID_H_鍛錬の証_速さ1: Confère Vit +1.
+MSID_H_鍛錬の証_速さ2: Confère Vit +2.
+MSID_H_鍛錬の証_速さ3: Confère Vit +3.
+MSID_H_鍛錬の証_守備1: Confère Déf +1.
+MSID_H_鍛錬の証_守備2: Confère Déf +2.
+MSID_H_鍛錬の証_守備3: Confère Déf +3.
+MSID_H_鍛錬の証_魔防1: Confère Rés +1.
+MSID_H_鍛錬の証_魔防2: Confère Rés +2.
+MSID_H_鍛錬の証_魔防3: Confère Rés +3.
+MID_STAGE_HONOR_V0191: Efficacité
+MID_STAGE_V0191: mk1
+MID_STAGE_HONOR_V0192: Longs et courts
+MID_STAGE_V0192: Shingoroid
+MID_STAGE_HONOR_V0193: Ensorcelant
+MID_STAGE_V0193: ngyope
+MID_STAGE_HONOR_V0194: La garde de Wrys
+MID_STAGE_V0194: kuroyagi
+MID_STAGE_HONOR_V0195: Les Manaketes
+MID_STAGE_V0195: k2
+MID_STAGE_HONOR_V0161: Quotidien
+MID_STAGE_V0161: Phase 1
+MID_STAGE_HONOR_V0162: Quotidien
+MID_STAGE_V0162: Phase 2
+MID_STAGE_HONOR_V0163: Quotidien
+MID_STAGE_V0163: Phase 3
+MID_STAGE_HONOR_V0164: Quotidien
+MID_STAGE_V0164: Phase 4
+MID_STAGE_HONOR_V0165: Quotidien
+MID_STAGE_V0165: Phase 5
+MID_STAGE_HONOR_V0166: Quotidien
+MID_STAGE_V0166: Phase 6
+MID_STAGE_HONOR_V0167: Quotidien
+MID_STAGE_V0167: Phase 7

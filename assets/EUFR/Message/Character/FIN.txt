@@ -1,0 +1,38 @@
+[Heroes Archive] (FIN)
+
+
+Heroes Message Name: Message
+
+
+MID_FIN_HOME1: Ce royaume communique avec\nd'autres époques et d'autres\nmondes...$k$pIl y a une personne que j'aimerais\nvoir... Peut-être que...
+MID_FIN_HOME2: J'ai eu la chance d'être au service\nd'un seigneur qui était digne de ma\nloyauté.$k$pPourtant, quand les choses ont mal\ntourné... je n'ai rien pu faire.
+MID_FIN_HOME3: Faites-vous toujours autant de\npatrouilles autour du château ?$k$pJe vois que vous prenez vos\nresponsabilités au sérieux. N'oubliez\npas de prendre soin de vous.
+MID_FIN_HOME4: Me feriez-vous visiter le château ?\nJe veux en connaître tous les\nrecoins, en cas d'urgence.
+MID_FIN_HOME5: J'étais en train de réparer ma lance.\nMon seigneur me l'a offerte, c'est\nun symbole de ma loyauté.
+MID_FIN_FRIEND: Je suis Finn.\n$Nf m'envoie\nvous transmettre ses salutations.
+MID_FIN_LEVEL1: Je suis digne de ma lance.
+MID_FIN_LEVEL2: Notre force est le résultat de\nnos efforts quotidiens.
+MID_FIN_LEVEL3: C'est donc tout ce dont\nje suis capable ?
+MID_FIN_SKILL: Je vous remercierai en maniant\nma lance sur le champ de\nbataille.
+MID_FIN_JOIN: En tant que chevalier de Leonster, je\nmets ma lance à votre service.
+MID_FIN_STRONGEST: Je tiens à exprimer ma gratitude.\nMerci de m'avoir gardé à vos\ncôtés.$k$pEn tant que chevalier, mon devoir\nest de servir mon seigneur. C'est\nun honneur pour moi.$k$pBien avant d'arriver ici, j'ai eu le\nprivilège d'avoir un maître\nremarquable.$k$pJ'ai le sentiment d'avoir à nouveau\ncette chance aujourd'hui...$k$pJe regrette encore d'avoir laissé mon\nseigneur périr, même si je n'ai fait\nqu'obéir à ses ordres...$k$pAlors, je vous servirai jusqu'au bout.\nJ'en fais le serment sur ma lance.
+MID_FIN_VOICE01: はっ！
+MID_FIN_VOICE02: せいっ！
+MID_FIN_VOICE03: うああっ！
+MID_FIN_VOICE04: Pain... (won't stop me)!
+MID_FIN_VOICE05: Je n'abandonnerai pas !
+MID_FIN_VOICE06: C'est mon devoir !
+MID_FIN_VOICE07: Pour mon pays !
+MID_FIN_VOICE08: Je ne crains pas la mort.
+MID_FIN_VOICE09: Lord Leif... Please...
+MID_FIN_VOICE10: chuckle
+MID_FIN_VOICE11: Lord Leif's safety comes first.
+MID_FIN_VOICE12: Hm? Oh, sorry. I was miles away.
+MID_FIN_VOICE13: Ever since my country fell, my tears have run dry.
+MID_FIN_VOICE14: One day, we will take back our realm. As long as Lord Leif lives...
+MID_FIN_VOICE15: In the end, what happens to me doesn't matter. Everything I do is for Lord Leif.
+MID_FIN_VOICE16: Lord Quan... I...
+MID_FIN_VOICE17: I put my life in your hands. All I ask in return is that you lend Lord Leif your strength...
+MID_FIN_VOICE18: Yes.
+MID_FIN_VOICE19: Where am I needed?
+MID_FIN_VOICE20: We must make haste!

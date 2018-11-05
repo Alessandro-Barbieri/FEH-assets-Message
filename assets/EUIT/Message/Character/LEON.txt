@@ -1,0 +1,38 @@
+[Heroes Archive] (LEON)
+
+
+Heroes Message Name: Message
+
+
+MID_LEON_HOME1: Quindi sono venuto fuori da quella tua\narma divina? Oh! Che sistema poco\nraffinato per evocare un reale!
+MID_LEON_HOME2: I miei attendenti sono Niles e Odin.\nPotresti trovarli un po'... strani, ma\nle loro intenzioni non sono cattive.
+MID_LEON_HOME3: Stai andando bene con le ronde.\nI Guardiani di Askr sembrano darti un\ngran da fare. Posso aiutarti, se vuoi.
+MID_LEON_HOME4: Spero che esista una biblioteca, qui.\nMi piacerebbe consultare qualche libro\nsulla storia di questo regno.
+MID_LEON_HOME5: Posso manipolare la gravità, ma non\nè saggio farlo se si vuole raccogliere\nfrutta da un albero. Che marmellata!
+MID_LEON_FRIEND: Salve. Sono qui per porgerti i saluti\ndi $Nf.\nÈ tutto.
+MID_LEON_LEVEL1: Incredibile! In fondo, però,\nè tutto merito mio!
+MID_LEON_LEVEL2: Ogni progresso è\nil benvenuto.
+MID_LEON_LEVEL3: Se è così, sarà meglio che non\ncritichi mai più nessuno...
+MID_LEON_SKILL: Hai accresciuto il mio potere.\nIn cambio, hai la mia gratitudine.
+MID_LEON_JOIN: Sono Leo, principe del Nohr. Possiedo\nil tomo divino Brynhildr, grazie al quale\nposso manipolare la gravità.$k$pCon un semplice gesto, ho ridotto in\ncenere più di un nemico.
+MID_LEON_STRONGEST: Non mi sorprende vederti qui,\n$Nu.\nParlare non sembra dispiacerti.$k$pAnche quando sono freddo e\ndistaccato, hai sempre una buona\nparola per me dopo una battaglia.$k$pLa tua premura, le attenzioni che\nhai per me, mi hanno reso forte\ncome mai prima d'ora.$k$pNormalmente non direi una cosa\nsimile ad alta voce, ma mi fai sentire\nimportante, perfino necessario.$k$pEcco perché... vorrei che fossi\nsempre al mio fianco.$k$pNon lo avrei mai immaginato appena\narrivato qui, ma... mi sento come se\npotessi affidarti la mia stessa vita.$k$pArgh, sono patetico. Immagino che\nnon smetterai di ricordarmelo in\nfuturo, dico bene?
+MID_LEON_VOICE01: せやっ！
+MID_LEON_VOICE02: ほら…
+MID_LEON_VOICE03: うわっ！
+MID_LEON_VOICE04: I can take it...
+MID_LEON_VOICE05: Non riuscirai a nasconderti.
+MID_LEON_VOICE06: Ti ridurrò in cenere!
+MID_LEON_VOICE07: Folle scellerato!
+MID_LEON_VOICE08: Che l'oscurità ti inghiotta!
+MID_LEON_VOICE09: What disgrace...
+MID_LEON_VOICE10: Heh...
+MID_LEON_VOICE11: Care to chat? I'm always up for stimulating discussion.
+MID_LEON_VOICE12: I rarely while away the time. But glad to do so with you.
+MID_LEON_VOICE13: I have achieved mastery over gravity, thanks to my divine tome, Brynhildr.
+MID_LEON_VOICE14: You'd never guess what vegetable really catches my fancy. Tomatoes.
+MID_LEON_VOICE15: If you ever see my collar inside out, please tell me. Not that it ever happens.
+MID_LEON_VOICE16: Where are Niles and Odin? Those two, always gallivanting off...
+MID_LEON_VOICE17: I'll expect clear orders in battle. Ugh, I'm sorry. I know you're on top of things.
+MID_LEON_VOICE18: Yes?
+MID_LEON_VOICE19: Ready.
+MID_LEON_VOICE20: All right.

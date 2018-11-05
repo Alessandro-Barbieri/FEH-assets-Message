@@ -1,0 +1,8 @@
+[Heroes Archive] (L0006)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_伝承マルス,ch01_00_Marth_M_Legend01,Face|$w0|Questo castello un tempo fu preso\ndai nemici. In molti soffrirono per\nquella conquista.$k$pNon possiamo permettere che una\nsimile tragedia si ripeta. Avanti,\niniziamo il nostro addestramento.$k$p$Sbs1000|

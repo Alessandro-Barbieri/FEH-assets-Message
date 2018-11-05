@@ -1,0 +1,38 @@
+[Heroes Archive] (CHROM)
+
+
+Heroes Message Name: Message
+
+
+MID_CHROM_HOME1: Quando ti vedo con Alfonse, ripenso\nal tempo trascorso con una certa\npersona a me cara...
+MID_CHROM_HOME2: I miei Pastori combattono fuorilegge\ne mostri. Trovo strano che qui invece\nci battiamo contro degli eroi.
+MID_CHROM_HOME3: Sempre all'erta? La tua dedizione mi\nricorda quella di qualcun altro. Cerca\ndi non stancarti troppo, però!
+MID_CHROM_HOME4: Ti va se ci alleniamo insieme? Sarà\nmeglio concentrarci sulla difesa, però.\nCosì eviterò di fare danni.
+MID_CHROM_HOME5: Mi allenavo con i fendenti e ho colpito\nun vaso per sbaglio. Scusami,\n$Nu.
+MID_CHROM_FRIEND: Ah, ci sei tu a capo di questo castello?\n$Nf ti manda\ni suoi saluti.
+MID_CHROM_LEVEL1: Nessuno può fermarmi\normai!
+MID_CHROM_LEVEL2: La mia forza è costruita\nsulla costanza.
+MID_CHROM_LEVEL3: Che delusione...
+MID_CHROM_SKILL: Giuro di fare un uso saggio\ne onesto di questo potere.
+MID_CHROM_JOIN: Sono Chrom, capitano dei Pastori\ne principe del Regno d'Ylisse.\nLotterò per i miei amici e per la pace.
+MID_CHROM_STRONGEST: Sembra proprio che sia passato\ndel tempo dal nostro primo incontro.\nAll'inizio ero confuso.$k$pPoi però sono diventato più forte\nsotto la tua guida. Spero rimarremo\nper sempre fianco a fianco.$k$pQuando ti ho visto per la prima volta\nmi hai subito ricordato Daraen.$k$pNon solo per i tuoi modi. Ma anche\nper la tua strategia, perché aiuti tutti\ne ti batti per difendere gli alleati.$k$pVorrei che fossi sempre tu a guidare\ni miei passi. Il legame che si è creato\ntra noi resisterà in eterno.\n
+MID_CHROM_VOICE01: はっ！
+MID_CHROM_VOICE02: せやあっ！
+MID_CHROM_VOICE03: ぐあっ！
+MID_CHROM_VOICE04: Damn!
+MID_CHROM_VOICE05: Tutto può ancora cambiare!
+MID_CHROM_VOICE06: Non fallirò!
+MID_CHROM_VOICE07: Il legame ci rafforza!
+MID_CHROM_VOICE08: Qui finisco io!
+MID_CHROM_VOICE09: ...Gods!
+MID_CHROM_VOICE10: whew
+MID_CHROM_VOICE11: Our bonds are far stronger than destiny.
+MID_CHROM_VOICE12: That's an unusual weapon you have.
+MID_CHROM_VOICE13: Is your Order of Heroes something akin to my Shepherds?
+MID_CHROM_VOICE14: I hope things are well in Ylisse...
+MID_CHROM_VOICE15: I miss the advice of my tactician.
+MID_CHROM_VOICE16: Damn it... Broke another training dummy...
+MID_CHROM_VOICE17: The bonds we forge are forever. I will always come to your aid, friend.
+MID_CHROM_VOICE18: Yes?
+MID_CHROM_VOICE19: All right.
+MID_CHROM_VOICE20: Let's go.

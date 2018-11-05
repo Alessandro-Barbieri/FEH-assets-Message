@@ -1,0 +1,9 @@
+[Heroes Archive] (X0032)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_春祭ルキナ,ch04_01_Lucina_F_SpringFes17,Face|$w0|Cosa ne pensi del mio uovo,\nprincipe Xander?$k$pA me pare che sia dipinto bene,\nmi piace molto... Credo che sia\nl'uovo con più stile in assoluto.$k$p$WmMPID_春祭マークス,ch05_21_Marks_M_SpringFes17,Face|$w0|Ma quest'uovo è così pacchia-\nVoglio dire, è favoloso.$k$pChi avrebbe mai pensato di\nmescolare tutti questi colori?\nMolto... originale.$k$p$WmMPID_春祭ルキナ,ch04_01_Lucina_F_SpringFes17,Face|$w0|Sono contenta che ti piaccia.\nÈ risaputo che tu sappia\napprezzare la bellezza.$k$pEcco, voglio che lo abbia tu.$k$p$WmMPID_春祭マークス,ch05_21_Marks_M_SpringFes17,Face|$w0|Davvero molto gentile, principessa\nLucina, ma... Oh! Sono arrivati\ndegli sfidanti.$k$pNon vedo l'ora di sfoderare la mia\ncarota e combattere. Forza!$k
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_春祭マークス,ch05_21_Marks_M_SpringFes17,Face|$w0|Non abbiamo altra scelta se non\nritirarci, principessa Lucina.$k$p$WmMPID_春祭ルキナ,ch04_01_Lucina_F_SpringFes17,Face|$w0|È... Era il mio uovo? Forse quei colori\nnon stavano così bene insieme...$k$Sbs150|

@@ -1,0 +1,239 @@
+[Heroes Archive] (Data_53_rekka02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り: Forcina marina
+MDAID_H_貝殻の髪飾り: Un accessorio per capelli realizzato\ncon una splendida conchiglia.
+MDAID_水中ゴーグル: Occhialini
+MDAID_H_水中ゴーグル: Usali per vedere perfettamente\nsott'acqua. Il respiratore ti permette\ndi ammirare con calma i fondali.
+MDAID_アスクの髪飾り: Forcina askriana
+MDAID_H_アスクの髪飾り: Un accessorio per capelli decorato\ncon l'emblema del regno di Askr.
+MDAID_謎の男のマスク: Maschera occulta
+MDAID_H_謎の男のマスク: Una maschera molto simile a quella\ngià usata da un uomo misterioso.\nForse ne aveva una di riserva...
+MDAID_フェーの人形: Bambola di Feh
+MDAID_H_フェーの人形: Una bambola molto simile a Feh, la\ngufetta messaggera dei Guardiani\ndi Askr. Tenerissima!
+MDAID_春うさぎの帽子: Cappello coniglio
+MDAID_H_春うさぎの帽子: Un cappello indossato in passato da\nun'eroina che ama i cieli primaverili.\nLa faccia di coniglio ha personalità.
+MDAID_謎の剣士の仮面: Maschera criptica
+MDAID_H_謎の剣士の仮面: Una maschera indossata un tempo\nda uno spadaccino che sosteneva\ndi essere Marth, il re eroico.
+MID_MISSION_S201806ARENA01_TITLE: Arena
+MID_MISSION_S201806ARENA01_A1: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A1: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A2: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A2: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A3: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A3: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A4: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A4: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A5: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A5: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A6: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A7: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A7: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A8: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A8: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806ARENA01_A9: Arena: vinci duelli
+MID_MISSION_H_S201806ARENA01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201806HERO01_TITLE: Grandi battaglie
+MID_MISSION_S201806HERO01_A1: Batti Oliver
+MID_MISSION_H_S201806HERO01_A1: Con Anna nella tua squadra,\nvinci la Grande battaglia contro\nOliver, l'esteta.
+MID_MISSION_S201806HERO01_A2: Batti Oliver
+MID_MISSION_H_S201806HERO01_A2: Con Oliver, l'esteta, nella tua squadra,\nvinci la Grande battaglia contro Oliver,\nl'esteta, al livello folle o superiore.
+MID_MISSION_S201806HERO01_A3: Batti Oliver
+MID_MISSION_H_S201806HERO01_A3: Batti Oliver, l'esteta, di livello 40\no superiore con Anna.
+MID_MISSION_S201806HERO01_A4: Batti Oliver
+MID_MISSION_H_S201806HERO01_A4: Batti Oliver, l'esteta, di livello 40\no superiore con Oliver, l'esteta.
+MID_MISSION_S201806HERO01_A5: Batti Oliver
+MID_MISSION_H_S201806HERO01_A5: Vinci la Grande battaglia contro Oliver,\nl'esteta, al livello di difficoltà folle o superiore\ncon una squadra di sole unità a cavallo.
+MID_MISSION_S201806SENKA01_DAILY_TITLE: Prove Tempesta
+MID_MISSION_S201806SENKA01_DAILY_A1: Completa prove
+MID_MISSION_H_S201806SENKA01_DAILY_A1: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA01_DAILY_A2: Completa prove
+MID_MISSION_H_S201806SENKA01_DAILY_A2: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA01_DAILY_A3: Completa prove
+MID_MISSION_H_S201806SENKA01_DAILY_A3: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806SENKA01_DAILY_A4: Completa prove
+MID_MISSION_H_S201806SENKA01_DAILY_A4: Completa una delle mappe finali\ndelle prove Tempesta.
+MID_MISSION_S201806ACCE01_TITLE: Accessori!
+MID_MISSION_S201806ACCE01_A1: Vinci
+MID_MISSION_H_S201806ACCE01_A1: Sconfiggi nemici.
+MID_MISSION_S201806ACCE01_A2: Lancia batte nem. Liv 10+
+MID_MISSION_H_S201806ACCE01_A2: Sconfiggi nemici di livello 10 o superiore\ncon unità armate di lancia.
+MID_MISSION_S201806ACCE01_A3: Cavall. batte nem. Liv 30+
+MID_MISSION_H_S201806ACCE01_A3: Sconfiggi nemici di livello 30 o superiore\ncon unità a cavallo.
+MID_MISSION_S201806STORY01_TITLE: La disfatta del re
+MID_MISSION_S201806STORY01_A1: Completa 10-1 folle
+MID_MISSION_H_S201806STORY01_A1: Completa il libro II, cap. 10-1 al livello folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY01_A2: Completa 10-2 folle
+MID_MISSION_H_S201806STORY01_A2: Completa il libro II, cap. 10-2 al livello folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY01_A3: Completa 10-3 folle
+MID_MISSION_H_S201806STORY01_A3: Completa il libro II, cap. 10-3 al livello folle\ncon un'unità armata di lancia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY01_A4: Completa 10-4 folle
+MID_MISSION_H_S201806STORY01_A4: Completa il libro II, cap. 10-4 al livello folle\ncon un'unità armata di ascia in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806STORY01_A5: Completa 10-5 folle
+MID_MISSION_H_S201806STORY01_A5: Completa il libro II, cap. 10-5 al livello folle\ncon un'unità armata di spada in squadra.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201806TAPBTL01_D01_TITLE: B. tattile giornal.
+MID_MISSION_S201806TAPBTL01_D01_A1: Batti Fjorm
+MID_MISSION_H_S201806TAPBTL01_D01_A1: Sconfiggi il boss Fjorm alla difficoltà normale\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201806TAPBTL01_D01_A2: Supera 21º-25º
+MID_MISSION_H_S201806TAPBTL01_D01_A2: Supera dal 21º al 25º livello in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D01_A3: Supera fasi
+MID_MISSION_H_S201806TAPBTL01_D01_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D02_TITLE: B. tattile giornal.
+MID_MISSION_S201806TAPBTL01_D02_A1: Batti Fjorm
+MID_MISSION_H_S201806TAPBTL01_D02_A1: Sconfiggi il boss Fjorm alla difficoltà difficile\nin Battaglia tattile dal 16º al 20º livello.
+MID_MISSION_S201806TAPBTL01_D02_A2: Supera 41º-45º
+MID_MISSION_H_S201806TAPBTL01_D02_A2: Supera dal 41º al 45º livello in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D02_A3: Supera fasi
+MID_MISSION_H_S201806TAPBTL01_D02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D03_TITLE: B. tattile giornal.
+MID_MISSION_S201806TAPBTL01_D03_A1: Batti Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D03_A1: Sconfiggi il boss Gunnthrá alla difficoltà\nnormale in Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201806TAPBTL01_D03_A2: Supera 61º-65º
+MID_MISSION_H_S201806TAPBTL01_D03_A2: Supera dal 61º al 65º livello in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D03_A3: Supera fasi
+MID_MISSION_H_S201806TAPBTL01_D03_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D04_TITLE: B. tattile giornal.
+MID_MISSION_S201806TAPBTL01_D04_A1: Batti Gunnthrá
+MID_MISSION_H_S201806TAPBTL01_D04_A1: Sconfiggi il boss Gunnthrá alla difficoltà difficile\nin Battaglia tattile dal 36º al 40º livello.
+MID_MISSION_S201806TAPBTL01_D04_A2: Supera 81º-85º
+MID_MISSION_H_S201806TAPBTL01_D04_A2: Supera dall'81º all'85º livello in Battaglia tattile.
+MID_MISSION_S201806TAPBTL01_D04_A3: Supera fasi
+MID_MISSION_H_S201806TAPBTL01_D04_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201806TAPBTL02_TITLE: Battaglia tattile
+MID_MISSION_S201806TAPBTL02_A1: Batti boss
+MID_MISSION_H_S201806TAPBTL02_A1: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201806TAPBTL02_A2: Batti boss
+MID_MISSION_H_S201806TAPBTL02_A2: Sconfiggi boss in Battaglia tattile.
+MID_MISSION_S201806TAPBTL02_A3: Supera fasi
+MID_MISSION_H_S201806TAPBTL02_A3: Completa una fase in Battaglia tattile.
+MID_MISSION_S201806TAPBTL02_A4: Supera fase extra 1
+MID_MISSION_H_S201806TAPBTL02_A4: Completa la fase extra 1 in Battaglia tattile.\nPuoi giocare la fase extra 1 dopo lo sblocco\ndelle fasi extra.
+MID_MISSION_S201806TAPBTL02_A5: Supera 6º-10º
+MID_MISSION_H_S201806TAPBTL02_A5: Supera dal 6º al 10º livello in Battaglia tattile.
+MID_MISSION_S201806TAPBTL02_A6: Supera 81º-85º
+MID_MISSION_H_S201806TAPBTL02_A6: Supera dall'81º all'85º livello in Battaglia tattile.
+MPID_スルト名前: Surtr
+MPID_カナス: Canas
+MPID_カアラ: Karla
+MPID_ラガルト: Legault
+MPID_ライナス: Linus
+MPID_ニノ2: Nina
+MPID_HONOR_カナス: Il curioso
+MPID_HONOR_カアラ: La serva di spada
+MPID_HONOR_ラガルト: L'Uragano
+MPID_HONOR_ライナス: Il Cane rabbioso
+MPID_HONOR_ニノ2: Il pallido fiore
+MPID_H_カナス: Il quarto figlio di Niime, l'Eremita delle\nmontagne. Dedica la sua vita allo studio\ne alla ricerca. Compare in Fire Emblem:\nThe Blazing Blade.
+MPID_H_カアラ: Una spadaccina itinerante in cerca di\nsuo fratello. Le sue abilità e il suo\nbell'aspetto hanno infiammato molte arene.\nCompare in Fire Emblem: The Blazing Blade.
+MPID_H_ラガルト: Ex membro storico del Black Fang addetto\nall'eliminazione dei traditori. Lasciò il gruppo\nperché non ne condivideva più gli ideali.\nCompare in Fire Emblem: The Blazing Blade.
+MPID_H_ライナス: Membro del Four Fang come suo fratello\nLloyd. Punisce chi considera malvagio.\nCompare in Fire Emblem: The Blazing Blade.
+MPID_H_ニノ2: Una giovane fanciulla che faceva parte del\ngruppo di assassini del Black Fang. Ora\nsalva i suoi alleati aiutata da un pegaso.\nCompare in Fire Emblem: The Blazing Blade.
+MPID_VOICE_カナス: Joe Zieja
+MPID_VOICE_カアラ: Allegra Clark
+MPID_VOICE_ラガルト: Christopher Bevins
+MPID_VOICE_ライナス: Joe Brogie
+MPID_VOICE_ニノ2: Sarah Blandy
+MPID_ILLUST_カナス: Tobi
+MPID_ILLUST_カアラ: Kita Senri (北千里)
+MPID_ILLUST_ラガルト: PenekoR (п猫Ｒ)
+MPID_ILLUST_ライナス: Meka (めか)
+MPID_ILLUST_ニノ2: Amagaitaro (アマガイタロー)
+MSID_霧のブレス: Alito di nebbia
+MSID_第11迷宮の覇者1: Asso squadra K1
+MSID_第11迷宮の覇者2: Asso squadra K2
+MSID_第11迷宮の覇者3: Asso squadra K3
+MSID_剣姫の刀: Spada di Sacae
+MSID_粛清の暗器: Potatore
+MSID_粛清の暗器＋: Potatore+
+MSID_ギガスカリバー: Excalibur mega
+MSID_曲技飛行1: Funambolismo 1
+MSID_曲技飛行2: Funambolismo 2
+MSID_曲技飛行3: Funambolismo 3
+MSID_速さの波・偶数1: Vel pari 1
+MSID_速さの波・偶数2: Vel pari 2
+MSID_速さの波・偶数3: Vel pari 3
+MSID_H_霧のブレス: Efficace contro i draghi. L'unità recupera\n10 PS ogni due turni. Contro nemici con\n2 di Rgg, il danno è calcolato usando Dif\no Res del nemico (il valore più basso).
+MSID_H_オーラ改: Att +6 agli alleati adiacenti all'inizio del turno\nche usano tomo o bastone per 1 turno.
+MSID_H_エクスカリバー改: Efficace contro le unità volanti.\nAnticipa l'attivazione dell'abilità\nspeciale (contatore -1).
+MSID_H_攻撃守備の絆R剣竜: Se l'unità si trova entro 2 spazi da\nun alleato drago o che usa una spada,\nAtt/Dif +5 durante lo scontro.
+MSID_H_攻撃速さの絆R魔杖: Se l'unità si trova entro 2 spazi da\nun alleato che usa tomo o bastone,\nAtt/Vel +5 durante lo scontro.
+MSID_H_第11迷宮の覇者1: Conferisce PS +3.
+MSID_H_第11迷宮の覇者2: Conferisce PS +4.
+MSID_H_第11迷宮の覇者3: Conferisce PS +5.
+MSID_H_剣姫の刀: Anticipa l'attivazione dell'abilità speciale\n(contatore -1). Se l'unità ha Vel superiore\nrispetto al nemico, aumenta il danno inflitto\ndel 70% della differenza tra i parametri.\n(Bonus massimo di +7 al danno.\nEfficace con Vel fantasma.)
+MSID_H_粛清の暗器: Aggiunge la somma dei bonus del nemico\nal danno inflitto durante lo scontro. Se l'unità\nha attaccato, Dif/Res -5 al bersaglio e ai\nnemici entro 2 spazi dal bersaglio dopo\nlo scontro durante le loro prossime azioni.
+MSID_H_粛清の暗器＋: Aggiunge la somma dei bonus del nemico\nal danno inflitto durante lo scontro. Se l'unità\nha attaccato, Dif/Res -7 al bersaglio e\nai nemici entro 2 spazi dal bersaglio dopo\nlo scontro durante le loro prossime azioni.
+MSID_H_ギガスカリバー: Conferisce Vel +3. Se l'unità ha Vel superiore\nrispetto al nemico, aumenta il danno inflitto\ndel 70% della differenza tra i parametri.\n(Bonus massimo di +7 al danno. Efficace\ncon Vel fantasma.)
+MSID_H_曲技飛行1: Se l'unità ha tutti i PS, si può spostare\naccanto a qualsiasi alleato di fanteria,\ncorazzato o a cavallo entro 2 spazi.
+MSID_H_曲技飛行2: Se l'unità ha almeno il 50% dei PS, si può\nspostare accanto a qualsiasi alleato di\nfanteria, corazzato o a cavallo entro 2 spazi.
+MSID_H_曲技飛行3: L'unità si può spostare accanto a qualsiasi\nalleato di fanteria, corazzato o a cavallo\nentro 2 spazi.
+MSID_H_速さの波・偶数1: Vel +2 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_速さの波・偶数2: Vel +4 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MSID_H_速さの波・偶数3: Vel +6 all'unità e agli eventuali alleati adiacenti\nall'inizio dei turni pari per 1 turno.
+MID_CHAPTER_TITLE_C0210: Libro II, cap. 10
+MID_CHAPTER_C0210: La disfatta del re
+MID_STAGE_TITLE_S2101: Capitolo 10-1
+MID_STAGE_TITLE_S2102: Capitolo 10-2
+MID_STAGE_TITLE_S2103: Capitolo 10-3
+MID_STAGE_TITLE_S2104: Capitolo 10-4
+MID_STAGE_TITLE_S2105: Capitolo 10-5
+MID_STAGE_S2101: Al castello
+MID_STAGE_S2102: Una curiosità sconfinata
+MID_STAGE_S2103: Fang e famiglia
+MID_STAGE_S2104: La serva di spada
+MID_STAGE_S2105: La disfatta del re
+MID_STAGE_HONOR_T0033: Il Cane rabbioso
+MID_STAGE_T0033: Linus
+MID_STAGE_TITLE_SB_0011: 11º assalto
+MID_CHAPTER_ST_C0205: Capitoli 9 e 10
+MID_STAGE_TITLE_ST_S0209: Capitolo 9
+MID_STAGE_TITLE_ST_S0210: Capitolo 10
+MID_STAGE_TITLE_ST_S1210: Capitoli 9 e 10
+MID_STAGE_HONOR_V0251: Quattro eroi
+MID_STAGE_V0251: Roy
+MID_STAGE_HONOR_V0252: Quattro eroi
+MID_STAGE_V0252: Tailtiu
+MID_STAGE_HONOR_V0253: Quattro eroi
+MID_STAGE_V0253: Barst
+MID_STAGE_HONOR_V0254: Quattro eroi
+MID_STAGE_V0254: Kaze
+MID_STAGE_HONOR_Q0014: Settimanali
+MID_STAGE_Q0014: Lotta di potere
+MID_STAGE_HONOR_Q0015: Settimanali
+MID_STAGE_Q0015: Lotta di potere
+MID_STAGE_HONOR_Q0016: Settimanali
+MID_STAGE_Q0016: Lotta di potere
+MID_STAGE_HONOR_Q0017: Settimanali
+MID_STAGE_Q0017: Lotta di potere
+MID_STAGE_HONOR_Q0018: Settimanali
+MID_STAGE_Q0018: Lotta di potere
+MID_STAGE_TITLE_BG_WIND_0008: Vento 8
+MID_STAGE_BG_WIND_0008: Ponte
+MID_STAGE_TITLE_BG_EARTH_0008: Terra 8
+MID_STAGE_BG_EARTH_0008: Ponte
+MID_STAGE_TITLE_BG_FIRE_0008: Fuoco 8
+MID_STAGE_BG_FIRE_0008: Ponte
+MID_STAGE_TITLE_BG_WATER_0009: Acqua 9
+MID_STAGE_BG_WATER_0009: Fontana
+MID_STAGE_TITLE_BG_WIND_0009: Vento 9
+MID_STAGE_BG_WIND_0009: Fontana
+MID_STAGE_TITLE_BG_EARTH_0009: Terra 9
+MID_STAGE_BG_EARTH_0009: Fontana
+MID_STAGE_TITLE_BG_FIRE_0009: Fuoco 9
+MID_STAGE_BG_FIRE_0009: Fontana
+MID_STAGE_TITLE_BG_WATER_0010: Acqua 10
+MID_STAGE_BG_WATER_0010: Terrazza
+MID_STAGE_TITLE_BG_WIND_0010: Vento 10
+MID_STAGE_BG_WIND_0010: Terrazza
+MID_STAGE_TITLE_BG_EARTH_0010: Terra 10
+MID_STAGE_BG_EARTH_0010: Terrazza
+MID_STAGE_TITLE_BG_FIRE_0010: Fuoco 10
+MID_STAGE_BG_FIRE_0010: Terrazza
+MID_TAP_BATTLE_DATA_TITLE_0005: Eroi leggendari
+MID_MUSIC_NAME_BGM_MAP_BRAVE_04: Ritorno a Nifl
+MID_MUSIC_NAME_BGM_MAP_FE09_02: I Mercenari di Greil
+MID_MUSIC_NAME_BGM_MAP_FE14_01: Alba remota (vento)

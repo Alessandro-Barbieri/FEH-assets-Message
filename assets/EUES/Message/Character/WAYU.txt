@@ -1,0 +1,38 @@
+[Heroes Archive] (WAYU)
+
+
+Heroes Message Name: Message
+
+
+MID_WAYU_HOME1: Hola, $Nu.\n¿Nos batimos en duelo? ¿Al\namanecer? Es lo que más me gusta...
+MID_WAYU_HOME2: Me habían capturado y Greil\ny sus mercenarios me salvaron.\nAsí fue como me uní a ellos.
+MID_WAYU_HOME3: ¡Nada levanta mejor los ánimos que\nuna sesión de entrenamiento! Te\nmueves, sudas y, sin darte cuenta...$k$p¡Vuelves a estar como una rosa!
+MID_WAYU_HOME4: ¡Oye! ¿Quieres que te lea la mano?\n¿Que no te esperabas que me\ninteresaran ese tipo de cosas?$k$pPues nada, no te la leo.
+MID_WAYU_HOME5: Me muero de ganas de que se\nhaga realidad la predicción que me\nhicieron. ¿Te he hablado de ella?$k$p«Lo distinguirás por su túnica blanca\nondeante...»\n¿A que suena fenomenal?
+MID_WAYU_FRIEND: ¡Ahí estás! Eres\n$Nu, ¿verdad?$k$pTe traigo saludos de\n$Nf.
+MID_WAYU_LEVEL1: ¡Me siento genial! ¡Sigamos!
+MID_WAYU_LEVEL2: No está mal... Dominar la\nespada no es nada fácil.
+MID_WAYU_LEVEL3: Creo que debo mejorar mis\nhabilidades un poco más.
+MID_WAYU_SKILL: Entonces, ¿crees que tengo\nlo que hay que tener? ¡Yuju!
+MID_WAYU_JOIN: Soy Mia, de los mercenarios de\nGreil, y soy una tempestad de\nacero cortante. ¡Vas a ver!
+MID_WAYU_STRONGEST: ¡Oye! Debe de ser mi día de suerte\npor haberte visto. ¡No voy a dejar\nque te vayas sin entrenar contigo!$k$p¡No acepto un no por respuesta!\nYo te enseño a blandir la espada y tú\nme enseñas tácticas y esas cosas.$k$pLlevo estudiando tu estrategia\ndesde que me venciste en combate.$k$pQuiero hacerme más fuerte, pero\ntambién quiero que mi archirrival\nprogrese conmigo. ¿Sabes?$k$pEntrenaríamos para vencernos y\ncada victoria y cada derrota nos\nunirían más.$k$pY al final llegaría la batalla decisiva.\n¿No te parece una idea\nde lo más emocionante?$k$pSabía que estaríamos de acuerdo.\nVamos a empezar. No te preocupes:\nte lo voy a poner fácil... por ahora.
+MID_WAYU_VOICE01: ええいっ！
+MID_WAYU_VOICE02: よーし！
+MID_WAYU_VOICE03: きゃああっ！
+MID_WAYU_VOICE04: ま、まだまだぁ！
+MID_WAYU_VOICE05: ¡Hoy va a ser un gran día!
+MID_WAYU_VOICE06: ¡Vamos allá!
+MID_WAYU_VOICE07: ¡Chúpate esa!
+MID_WAYU_VOICE08: ¡Pelea conmigo!
+MID_WAYU_VOICE09: I've been beaten?
+MID_WAYU_VOICE10: Ahaha
+MID_WAYU_VOICE11: Heya, Boss! For some reason, I get the feeling there's something special about you...
+MID_WAYU_VOICE12: Ack! You scared me! Hah, sneaking up behind me like that... You're a crafty one!
+MID_WAYU_VOICE13: Want to spar for a bit?
+MID_WAYU_VOICE14: Never mind the details! I'm counting on you, so just keep going!
+MID_WAYU_VOICE15: What if my grand archrival...turned out to be you?!
+MID_WAYU_VOICE16: If I lose today, I'll train harder and win tomorrow. And if I lose tomorrow, I'll train even harder for the next day...
+MID_WAYU_VOICE17: You know what, Boss? I like you. So let's keep this good thing going.
+MID_WAYU_VOICE18: Yeah!
+MID_WAYU_VOICE19: Can't wait!
+MID_WAYU_VOICE20: Let's go!

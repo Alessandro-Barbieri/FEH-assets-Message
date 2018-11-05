@@ -1,0 +1,38 @@
+[Heroes Archive] (LUKA)
+
+
+Heroes Message Name: Message
+
+
+MID_LUKA_HOME1: Ce monde est lui aussi divisé ?\nPeut-être est-ce tout simplement\ndû à la nature humaine.
+MID_LUKA_HOME2: Je viens d'une famille noble...\nEn tout cas, elle est noble\ndans mon monde.$k$pNous habitons près de la frontière,\nalors j'ai rejoint la Délivrance quand\nle conflit a éclaté sur nos terres.
+MID_LUKA_HOME3: Vous n'êtes pas de ce monde, mais\nvous vous dévouez corps et âme\npour le défendre. C'est très honorable.
+MID_LUKA_HOME4: Le temps est souvent clément, par ici.\nNous devrions partir en promenade.\nL'esprit a besoin de détente, parfois.
+MID_LUKA_HOME5: J'aime me plonger dans les livres dès\nque je le peux. Moi aussi, j'ai besoin\nde m'évader de temps en temps.
+MID_LUKA_FRIEND: $Nf m'envoie\nvous transmettre ses salutations.$k$pIl est toujours agréable de savoir\nque quelqu'un pense à vous.
+MID_LUKA_LEVEL1: Tant de progrès, c'en est\npresque excessif !
+MID_LUKA_LEVEL2: Mieux vaut progresser pas à pas\nque ne pas progresser du tout.
+MID_LUKA_LEVEL3: En dessous de la moyenne.\nHmm. Je peux mieux faire.
+MID_LUKA_SKILL: Vous m'offrez votre confiance.\nVous avez la mienne en retour.
+MID_LUKA_JOIN: Je suis Lukas. Je combats dans les\nrangs de la Délivrance. Tant que je\nserai ici, je soutiendrai votre cause.
+MID_LUKA_STRONGEST: Vous arrivez à point nommé,\n$Nu.$k$pJ'avais justement envie de me\nchanger les idées. Voulez-vous\nbien discuter un moment avec moi ?$k$pJ'ai remarqué que votre destin\net le mien sont assez similaires.$k$pNous sommes tous deux des héros,\nn'est-ce pas ? Nous avons été\ninvoqués ici.$k$pNous étions guidés par les règles de\nnotre monde, et nous ne l'avons\ncompris qu'en arrivant ici.$k$pMais il est inutile de regretter le\npassé. Mieux vaut continuer d'aller\nde l'avant.$k$pVous n'êtes pas d'accord ? Ah !\nIl est possible que j'exagère.$k$pOu peut-être le lien qui nous unit\nest-il suffisamment fort pour\nse passer de longs discours ?$k$pEn tous cas, je suis heureux\nde me trouver à vos côtés,\nici et maintenant.
+MID_LUKA_VOICE01: せやあっ
+MID_LUKA_VOICE02: There!
+MID_LUKA_VOICE03: Impressive...
+MID_LUKA_VOICE04: ああああっ！！
+MID_LUKA_VOICE05: Adieu !
+MID_LUKA_VOICE06: C'est mon tour, à présent !
+MID_LUKA_VOICE07: Ne souffrez pas trop !
+MID_LUKA_VOICE08: Ils ne retiennent jamais la leçon...
+MID_LUKA_VOICE09: I'm sorry...
+MID_LUKA_VOICE10: Heehee
+MID_LUKA_VOICE11: Yes? What do you require?
+MID_LUKA_VOICE12: Hmm? You needn't needle me.
+MID_LUKA_VOICE13: What shall we do...? Find some sort of diversion?
+MID_LUKA_VOICE14: The Kingdom of Zofia is blessed with great beauty.
+MID_LUKA_VOICE15: My friends have strong personalities. They would try even the most patient of men.
+MID_LUKA_VOICE16: I wonder how the Deliverance fares?
+MID_LUKA_VOICE17: Our meeting here can only be called fortuitous.
+MID_LUKA_VOICE18: Understood.\n\n
+MID_LUKA_VOICE19: Ah.
+MID_LUKA_VOICE20: Leave it to me.

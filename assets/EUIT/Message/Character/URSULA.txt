@@ -1,0 +1,38 @@
+[Heroes Archive] (URSULA)
+
+
+Heroes Message Name: Message
+
+
+MID_URSULA_HOME1: Le difese del castello sono pessime.\nCon tutti questi viaggiatori di altri\nmondi che succederebbe se...?$k$pIntendo dire, se UNO di loro fosse\nun assassino? Uno di quei temibili\nsicari senza scrupoli?
+MID_URSULA_HOME2: Tempo fa mi fu ordinato di assassinare\nEliwood, un nobile phereano. Mio\nmalgrado, fallii nell'incarico.$k$pIn genere, non delego compiti, così\nevito di avere chi mi mette bastoni\ntra le ruote.
+MID_URSULA_HOME3: Trovo che il tuo modo di fare sia\nperfetto. È un piacere servirti.\nMa se ti stancassi troppo?$k$pDico solo che i tuoi difetti\ncomincerebbero a essere\nvisibili. E non vogliamo succeda.
+MID_URSULA_HOME4: Faccio parte del Black Fang, una\nbanda di assassini, e per la precisione\ndel Four Fang, il suo corpo d'élite.$k$pSarei la più debole dei quattro in\nuno scontro diretto, ma sono letale\nse posso agire nell'ombra.
+MID_URSULA_HOME5: Tu continua ad aspirare alla\nperfezione in tutte le cose che fai\ne io ti seguirò fino in capo al mondo.
+MID_URSULA_FRIEND: Ah già. Sono stata mandata qui da...\nMmmh... Bell'esercito! Chissà quanto\nmi ci vorrebbe per battere tutti.
+MID_URSULA_LEVEL1: Ah ah! Perfezione!
+MID_URSULA_LEVEL2: Già. Non male.
+MID_URSULA_LEVEL3: Vivo per la perfezione.\nCosì non basta...
+MID_URSULA_SKILL: In segno di gratitudine\nucciderei chiunque, per te.
+MID_URSULA_JOIN: Sono il temibile Corvo Blu. Tu puoi\nchiamarmi Ursula, però. È perfezione\nquella che percepisco? Ti sarò fedele.
+MID_URSULA_STRONGEST: Dovresti averlo capito ormai. Io seguo\nsolo chi incarna la perfezione,\n$Nu.$k$pNon posso offrirti la mia amicizia.\nE non mi interessa la tua. Sarebbe\nun insulto per entramb$Gi,e|.$k$pPerché cosa sono gli amici, se non\ndei falliti che decidono di coprirsi\nl'un l'altro?$k$pTi offro la mia lealtà perché ne sei\ndegn$Go,a|. Pur non combattendo,\nle tue strategie sono inattaccabili!$k$pMa...$k$p... se fai anche un solo passo falso,\nil nostro piccolo accordo viene meno,\nlo sai, vero?$k$pMmmh, sì. Mi pare ti sia chiaro.\nSarà meglio che ti dia da fare, allora.\nIl Corvo Blu... ti osserva.
+MID_URSULA_VOICE01: はっ！
+MID_URSULA_VOICE02: ふふっ
+MID_URSULA_VOICE03: きゃああっ！
+MID_URSULA_VOICE04: Not...half-bad...
+MID_URSULA_VOICE05: Hai paura di morire?
+MID_URSULA_VOICE06: Sogni d'oro.
+MID_URSULA_VOICE07: Adieu!
+MID_URSULA_VOICE08: Fammi assaporare il momento!
+MID_URSULA_VOICE09: Not I...
+MID_URSULA_VOICE10: Uhuhu
+MID_URSULA_VOICE11: Oh? Do you require my services?
+MID_URSULA_VOICE12: Never poke an assassin. Lest she...poke you.
+MID_URSULA_VOICE13: Ursula, Blue Crow... No matter the name, the end is still the same.
+MID_URSULA_VOICE14: All you need do is point at someone. That person will simply...disappear.
+MID_URSULA_VOICE15: The light of day is ghastly. Don't you agree?
+MID_URSULA_VOICE16: Perfection...or oblivion. Really, it's quite obvious.
+MID_URSULA_VOICE17: Serving you...has its delights.
+MID_URSULA_VOICE18: Yes?
+MID_URSULA_VOICE19: Orders?
+MID_URSULA_VOICE20: As you wish.

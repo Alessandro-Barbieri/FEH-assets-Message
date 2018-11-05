@@ -1,0 +1,39 @@
+[Heroes Archive] (TIKI)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_HOME1: Oh, ça sent drôlement bon, ici !\nQu'est-ce que c'est, cette odeur ?\nÇa me donne envie de dormir...
+MID_TIKI_HOME2: J'adore être ici ! Je m'amuse\ntellement avec vous tous !
+MID_TIKI_HOME3: Grâce à vous, je ne suis plus\njamais seule ! Merci !
+MID_TIKI_HOME4: Avant, je rêvais souvent que je\nme transformais en monstre...\nMais c'est fini, tout ça !
+MID_TIKI_HOME5: Je suis allée me balader en ville,\net tout le monde était très gentil\navec moi ! C'était génial !
+MID_TIKI_FRIEND: Bonjour, $Nu !\nComment allez-vous ?
+MID_TIKI_LEVEL1: Que se passe-t-il ? J'ai chaud,\ntout à coup...
+MID_TIKI_LEVEL2: J'ai bien travaillé !
+MID_TIKI_LEVEL3: Je suis fatiguée...
+MID_TIKI_SKILL: Ouah, je suis devenue forte !
+MID_TIKI_JOIN: Je peux rester avec tout le monde ?\nJe ne suis plus obligée de dormir ?\nC'est génial, mais...$k$pEst-ce que je dois encore manger\ntous mes légumes ?
+MID_TIKI_STRONGEST: Je suis tellement heureuse ici,\nvous savez ! Je ne veux plus\njamais être seule.$k$pJe me suis fait plein d'amis\navec qui discuter, jouer...\nJe m'amuse énormément !$k$pEt tout ça, c'est grâce à vous.\nMerci de m'avoir invoquée...$k$pDe tous les héros ici, vous êtes\n$Gmon préféré,ma préférée| ! J'espère qu'on\npourra toujours rester ensemble !
+MID_TIKI_VOICE01: えいっ！
+MID_TIKI_VOICE02: やぁっ！
+MID_TIKI_VOICE03: きゃああっ！
+MID_TIKI_VOICE04: That hurts~
+MID_TIKI_VOICE05: Non, non, NON !
+MID_TIKI_VOICE06: Allez-vous-en !
+MID_TIKI_VOICE07: Moi aussi je sais faire peur !
+MID_TIKI_VOICE08: N'y pensez même pas !
+MID_TIKI_VOICE09: Mar...Mar...
+MID_TIKI_VOICE10: Teehee
+MID_TIKI_VOICE11: Hm? What's going on?
+MID_TIKI_VOICE12: WAH! You scared me!
+MID_TIKI_VOICE13: I had another bad dream last night.
+MID_TIKI_VOICE14: *yawn* I'm getting sleepy again...
+MID_TIKI_VOICE15: Would you tell me a story about where you're from?
+MID_TIKI_VOICE16: Zzz...zzz...
+MID_TIKI_VOICE17: You know what? I'm not lonely anymore!
+MID_TIKI_VOICE18: OK!
+MID_TIKI_VOICE19: Zzz—huh?
+MID_TIKI_VOICE20: Uh-HUH!
+MID_TIKI_VOICE21: Hi! Did you come to visit? Wait, where am I?

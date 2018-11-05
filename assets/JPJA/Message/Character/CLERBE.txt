@@ -1,0 +1,38 @@
+[Heroes Archive] (CLERBE)
+
+
+Heroes Message Name: Message
+
+
+MID_CLERBE_HOME1: 王族自ら前線に出るとは……\nいや、それが本来あるべき王の姿か。\nソフィア王国では久しく忘れていたな。
+MID_CLERBE_HOME2: 私は宰相ドゼーに不当に支配された\nソフィア王国を取り戻すために、\n解放軍として戦っていたんだ。
+MID_CLERBE_HOME3: 君は常に仲間への気配りを忘れない、\n心優しく勤勉な人間だ。\nだが、たまには私を頼ってもいいんだぞ。
+MID_CLERBE_HOME4: もしよければ、この世界について\n聞かせてもらえないだろうか？\n君の見解を知りたいんだ。
+MID_CLERBE_HOME5: 愛馬の世話をしていたんだ。\nここには私の従者も馬丁もいないからな。\n骨は折れるが、なかなか楽しいよ。
+MID_CLERBE_FRIEND: 君が$Nuか。\n$Nfから\n君への信愛の証だそうだ。
+MID_CLERBE_LEVEL1: この力は、\n君と私の理想のために……！\n
+MID_CLERBE_LEVEL2: これからも\n精進せねばな。
+MID_CLERBE_LEVEL3: ……すまない。\n期待に添えなかったようだ。
+MID_CLERBE_SKILL: この新たな力で、必ず君に\n輝かしい勝利をもたらすことを約束しよう！
+MID_CLERBE_JOIN: 私はクレーベ。\n高貴なるものの務めとして\nこの世界の安寧のために力を貸そう。
+MID_CLERBE_STRONGEST: ……奇妙なものだな。\n君の顔を見ると、張りつめていたものが\n解けるような気分になるんだ。$k$p騎士団の長として、リーダーとして……\n私はいつもその立場に恥じぬよう\n自分を高め、律してきたつもりだ。$k$pだが、すべてを捨てて逃げ出したいと\n思ったことがなかったわけではない。\n……誰にも言ったことはないがな。$k$pでも君には、なんでも話してしまいそうだ。\n生きる次元も立場も違うからだろうか？\n……いや、それだけではないな。$k$pこれが君という人間の魅力なんだろう。\n皆もそれに惹かれて導かれてきた……\nそんなふうに思えて仕方ないんだ。
+MID_CLERBE_VOICE01: せやあっ
+MID_CLERBE_VOICE02: くらえ！
+MID_CLERBE_VOICE03: っあっ…
+MID_CLERBE_VOICE04: やるな…！
+MID_CLERBE_VOICE05: 悪く思うな
+MID_CLERBE_VOICE06: ソフィアのために！
+MID_CLERBE_VOICE07: 祈るがいい！
+MID_CLERBE_VOICE08: 覚悟！
+MID_CLERBE_VOICE09: すまない……
+MID_CLERBE_VOICE10: ふっ……
+MID_CLERBE_VOICE11: こら、やめないか。
+MID_CLERBE_VOICE12: 君は変わったやつだな。
+MID_CLERBE_VOICE13: やれやれ……、構ってほしいのか？
+MID_CLERBE_VOICE14: ソフィアの騎士として、負けるわけにはいかないな。
+MID_CLERBE_VOICE15: どんな戦いにも、きっと得るものがあるだろう。
+MID_CLERBE_VOICE16: 私の選択は正しかったのだろうか……
+MID_CLERBE_VOICE17: 君は、私の命を預けるに足る人間だ。
+MID_CLERBE_VOICE18: いいだろう。
+MID_CLERBE_VOICE19: ふむ……
+MID_CLERBE_VOICE20: 誇りにかけて！

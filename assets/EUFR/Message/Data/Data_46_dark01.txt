@@ -1,0 +1,106 @@
+[Heroes Archive] (Data_46_dark01)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201802BLESS01_TITLE: Bénédiction de l'eau
+MID_MISSION_S201802BLESS01_A1: Victoire : héros béni (eau)
+MID_MISSION_H_S201802BLESS01_A1: Vaincre des ennemis avec des héros ayant reçu\nla bénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201802BLESS01_A2: Victoire : héros béni (eau)
+MID_MISSION_H_S201802BLESS01_A2: Vaincre des ennemis de niveau 20 ou supérieur\navec des héros ayant reçu la bénédiction de\nl'eau (ne concerne pas les héros légendaires\nde type Eau).
+MID_MISSION_S201802BLESS01_A3: Victoire : héros béni (eau)
+MID_MISSION_H_S201802BLESS01_A3: Vaincre des unités rouges de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201802BLESS01_A4: Victoire : héros béni (eau)
+MID_MISSION_H_S201802BLESS01_A4: Vaincre des unités bleues de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201802BLESS01_A5: Victoire : héros béni (eau)
+MID_MISSION_H_S201802BLESS01_A5: Vaincre des unités vertes de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201802BLESS01_A6: Tour : première strate
+MID_MISSION_H_S201802BLESS01_A6: Terminer la 1re strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201802BLESS01_A7: Tour : cinquième strate
+MID_MISSION_H_S201802BLESS01_A7: Terminer la 5e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201802BLESS01_A8: Tour : dixième strate
+MID_MISSION_H_S201802BLESS01_A8: Terminer la 10e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201802STORY02_TITLE: Neige sanglante
+MID_MISSION_S201802STORY02_A1: Chap. 5 - Acte 1 (Expert)
+MID_MISSION_H_S201802STORY02_A1: Terminer Livre II, Chap. 5, Acte 1 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY02_A2: Chap. 5 - Acte 2 (Expert)
+MID_MISSION_H_S201802STORY02_A2: Terminer Livre II, Chap. 5, Acte 2 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY02_A3: Chap. 5 - Acte 3 (Expert)
+MID_MISSION_H_S201802STORY02_A3: Terminer Livre II, Chap. 5, Acte 3 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY02_A4: Chap. 5 - Acte 4 (Expert)
+MID_MISSION_H_S201802STORY02_A4: Terminer Livre II, Chap. 5, Acte 4 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201802STORY02_A5: Chap. 5 - Acte 5 (Expert)
+MID_MISSION_H_S201802STORY02_A5: Terminer Livre II, Chap. 5, Acte 5 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MEID_レーギャルン: Laegjarn
+MPID_レーギャルン: Laegjarn
+MEID_HONOR_レーギャルン: Écrin ardent
+MEID_H_レーギャルン: Première princesse de Múspell, le monde des\nflammes, et sœur aînée de Laevatein. En tant\nque général, elle dirige l'armée de Múspell\navec dignité.
+MEID_VOICE_レーギャルン: Alicia Stratten
+MEID_ILLUST_レーギャルン: Maeshima Shigeki (前嶋重機)
+MPID_魔女セリカ: Celica
+MPID_HONOR_魔女セリカ: Âme captive
+MPID_H_魔女セリカ: Celica devenue sorcière après avoir offert\nson âme à Duma. Ses anciens souvenirs\nsemblent parfois faire surface. Apparaît dans\nFire Emblem Echoes: Shadows of Valentia.
+MPID_VOICE_魔女セリカ: Erica Lindbeck
+MPID_ILLUST_魔女セリカ: Fujikawa Akira (藤川祥)
+MPID_暗黒ハーディン: Hardin
+MPID_HONOR_暗黒ハーディン: Sombre empereur
+MPID_H_暗黒ハーディン: Souverain d'Akaneia, surnommé le sombre\nempereur en raison de la violence de son\nrègne. Apparaît dans Fire Emblem: Mystery\nof the Emblem.
+MPID_VOICE_暗黒ハーディン: Richard Epcar
+MPID_ILLUST_暗黒ハーディン: Daisuke Izuka
+MPID_邪竜ルフレ男: Daraen
+MPID_HONOR_邪竜ルフレ男: Réincarnation
+MPID_H_邪竜ルフレ男: Le corps et l'esprit du stratège ylissien Daraen\nsous l'emprise du Dragon Déchu, Grima.\nApparaît dans Fire Emblem: Awakening.
+MPID_VOICE_邪竜ルフレ男: David Vincent
+MPID_ILLUST_邪竜ルフレ男: Okuma Yugo (大熊ゆうご)
+MPID_眷属タクミ: Takumi
+MPID_HONOR_眷属タクミ: Coquille vide
+MPID_H_眷属タクミ: Prince d'Hoshido porteur de l'arc maléfique\nSkadi. Malgré son amour pour sa patrie, a été\nforcé à devenir le serviteur de l'un des premiers\ndragons. Apparaît dans Fire Emblem Fates.
+MPID_VOICE_眷属タクミ: Michael Sinterniklaas
+MPID_ILLUST_眷属タクミ: Hino Shinnosuke (日野慎之助)
+MSID_ニーウ: Níu
+MSID_宝剣ソフィア: Joyau de Zofia
+MSID_スカディ: Skadi
+MSID_邪竜のブレス: Expiration
+MSID_守備魔防の大覚醒1: Essor Déf/Rés 1
+MSID_守備魔防の大覚醒2: Essor Déf/Rés 2
+MSID_守備魔防の大覚醒3: Essor Déf/Rés 3
+MSID_速さの封印1: Gel Vit 1
+MSID_速さの封印2: Gel Vit 2
+MSID_速さの封印3: Gel Vit 3
+MSID_竜盾の紋章: Vigilance (Dra.)
+MSID_H_ニーウ: Confère Vit +3. Pendant le combat, ajoute\n50 % de la valeur totale des boosts de\nl'ennemi à l'Atq/Vit/Déf/Rés de l'unité.
+MSID_H_宝剣ソフィア: Confère Déf +3. Si PV = 100 % au début du\ncombat, confère Atq/Vit/Déf/Rés +4, mais\nsi l'unité attaque, elle subit 4 dégâts après le\ncombat.
+MSID_H_スカディ: Efficace contre les unités volantes. Confère\nVit +3. Au début du tour 3, les ennemis sur la\nmême colonne que l'unité et sur les colonnes\nadjacentes subissent 10 dégâts et leurs\nbonus deviennent des malus jusqu'à la fin de\nleur phase.
+MSID_H_邪竜のブレス: L'unité riposte peu importe la distance\nà laquelle se trouve son assaillant. Les\ndégâts sont calculés avec la Déf ou la\nRés (la valeur la plus faible) pour les\nennemis avec une portée de 2.
+MSID_H_守備魔防の大覚醒1: Si PV ≤ 80 % au début du combat, confère\nDéf/Rés +3 pendant le combat.
+MSID_H_守備魔防の大覚醒2: Si PV ≤ 80 % au début du combat, confère\nDéf/Rés +5 pendant le combat.
+MSID_H_守備魔防の大覚醒3: Si PV ≤ 80 % au début du combat, confère\nDéf/Rés +7 pendant le combat.
+MSID_H_速さの封印1: En début de tour, inflige Vit -3 à l'ennemi\navec la Vit la plus élevée jusqu'à la fin\nde sa phase.
+MSID_H_速さの封印2: En début de tour, inflige Vit -5 à l'ennemi\navec la Vit la plus élevée jusqu'à la fin\nde sa phase.
+MSID_H_速さの封印3: En début de tour, inflige Vit -7 à l'ennemi\navec la Vit la plus élevée jusqu'à la fin\nde sa phase.
+MSID_H_竜盾の紋章: Confère Déf/Rés +4 aux dragons alliés à\n2 cases ou moins pendant le combat.
+MID_CHAPTER_TITLE_C0205: Livre II, Chap. 5
+MID_CHAPTER_C0205: Neige sanglante
+MID_STAGE_TITLE_S2051: Ch. 5 - Acte 1
+MID_STAGE_TITLE_S2052: Ch. 5 - Acte 2
+MID_STAGE_TITLE_S2053: Ch. 5 - Acte 3
+MID_STAGE_TITLE_S2054: Ch. 5 - Acte 4
+MID_STAGE_TITLE_S2055: Ch. 5 - Acte 5
+MID_STAGE_S2051: Poursuite sous la neige
+MID_STAGE_S2052: La danse de la sorcière
+MID_STAGE_S2053: L'éveil du Dragon Déchu
+MID_STAGE_S2054: Le sombre empereur
+MID_STAGE_S2055: La proie des flammes
+MID_STAGE_HONOR_T0026: Coquille vide
+MID_STAGE_T0026: Takumi
+MID_STAGE_HONOR_V0181: Quotidien
+MID_STAGE_V0181: Phase 21
+MID_STAGE_HONOR_V0182: Quotidien
+MID_STAGE_V0182: Phase 22
+MID_STAGE_HONOR_V0183: Quotidien
+MID_STAGE_V0183: Phase 23
+MID_STAGE_HONOR_V0184: Quotidien
+MID_STAGE_V0184: Phase 24
+MID_STAGE_HONOR_V0185: Quotidien
+MID_STAGE_V0185: Phase 25

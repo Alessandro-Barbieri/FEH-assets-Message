@@ -1,0 +1,8 @@
+[Heroes Archive] (T0015)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_セシリア,ch02_09_Secilia_F_Normal,Face|$w0|それでは、授業を始めましょうか。\nリリーナ、準備はいいかしら？\nどれだけ上達したか見せてみて。$k$p$WmMPID_リリーナ,ch02_03_Lilina_F_Normal,Face|$w0|はい！\nセシリアさんから教わった\n魔道の力で、がんばります。$k$p$Sbs1000|
