@@ -1,0 +1,38 @@
+[Heroes Archive] (VALHALT)
+
+
+Heroes Message Name: Message
+
+
+MID_VALHALT_HOME1: You have assembled a fine group of\nHeroes from across many realms...\nTheir strength blazes brilliantly!$k$pThis stirs the fighting spirit deep\nwithin me!
+MID_VALHALT_HOME2: Man is fated to fight endless wars...\nBy my own right, I walk the path of\nthe conqueror!$k$pMan alone is the ruler of his domain!
+MID_VALHALT_HOME3: If you see yourself as a leader, don't\nscuttle about currying favor with\neveryone! Carry yourself with pride.
+MID_VALHALT_HOME4: Those who stalk the battlefield must\ntake the utmost care to maintain a\nstrong heart and a robust body.$k$pIn other words, you have to eat your\nvegetables!
+MID_VALHALT_HOME5: I never shirk my training. Every day, I\nput in the effort. To become satisfied\nby your progress is to become weak.
+MID_VALHALT_FRIEND: I am Walhart! I stand strong, an ally\nof $Nf!
+MID_VALHALT_LEVEL1: The path to my conquest is\nilluminated by the divine!
+MID_VALHALT_LEVEL2: I am driven to seek ultimate\npower, and I am not satisfied!
+MID_VALHALT_LEVEL3: Hmph. A paltry gain.
+MID_VALHALT_SKILL: This is it, the power to rule! Siding\nwith you brings me strength.
+MID_VALHALT_JOIN: I am Walhart, the conqueror of men\nand he who brought glory to the\ngreat land of Valm!
+MID_VALHALT_STRONGEST: You deserve praise for your\nstrategies. They have led to many\nsuccesses in battle...$k$pBut you lack something crucial.$k$pAsk yourself this: Am I merely a\nspectator and not a participant? It is\nas if the battle does not reach you!$k$pSummoned to another world, yet you\ntreat the struggles unfolding before\nyou as an exercise in theory!$k$pThis cannot stand.$k$pYou must think of yourself as a Hero!\nThe battle rages within your heart!$k$pVictory is decided by the strongest of\nwills. The will to rule over people, to\nsurpass even the gods...$k$pYour will must be unbending if you\nwould grasp victory.$k$pYou have yet to mature, but talent\ndoes lie within you.$k$pI will follow you into battle and see\nhow you develop. I trust you have\nno objections!
+MID_VALHALT_VOICE01: ふん！
+MID_VALHALT_VOICE02: ぬるいわ！
+MID_VALHALT_VOICE03: うああっ！
+MID_VALHALT_VOICE04: ぬう…！
+MID_VALHALT_VOICE05: You shall fall by the wayside!
+MID_VALHALT_VOICE06: I am greater than the gods!
+MID_VALHALT_VOICE07: Amusing!
+MID_VALHALT_VOICE08: How do you like the taste?
+MID_VALHALT_VOICE09: My conquest ends here...
+MID_VALHALT_VOICE10: *laugh*
+MID_VALHALT_VOICE11: I am Walhart the Conqueror! None will stand in the way of my conquest.
+MID_VALHALT_VOICE12: Are you trying to provoke me? You have guts. I like that.
+MID_VALHALT_VOICE13: If you would call on my power, prepare yourself. I will only submit to the strong.
+MID_VALHALT_VOICE14: A conqueror rules by strength alone. Defeat is death. I will not be defeated!
+MID_VALHALT_VOICE15: Treading the path of kings, ruling by winning hearts... That is not my way. I rule by winning battles.
+MID_VALHALT_VOICE16: I was driven off the path to conquest, and only blood will see me returned to it. One man's blood...
+MID_VALHALT_VOICE17: Do not waste my time with questions you know the answers to.
+MID_VALHALT_VOICE18: Very well.
+MID_VALHALT_VOICE19: Lead or be led!
+MID_VALHALT_VOICE20: I am the Conqueror!

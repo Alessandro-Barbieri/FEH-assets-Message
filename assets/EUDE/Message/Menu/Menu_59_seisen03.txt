@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: Extrapunkte für Bonushelden:\nJedes Mal, wenn du mit einem\nBonushelden einen Gegner\nbesiegst, wird deine Gesamt-\npunktzahl um 3 erhöht.
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: Besiegt und überlebt
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: Besiegt und überlebt
+MID_OCCUPATION_RESULT_DEFENCE_HUB: Lagerschutz
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aKampf $a0 endet bald.
+MID_OCCUPATION_LEFT_TIME_WARNING: Ergebnisse nach Rundenende zählen nicht.
+MID_PORTRAIT_DAILY_BONUS_INFO_59: Verdiene täglich 2 Sphären, indem du\neine Karte abschließt (max. 7 Tage).
+MID_PORTRAIT_HELP_DIALOG_03_02: Tägliche Sphären-Prämie:\nVerdiene täglich 2 Sphären,\nindem du eine Karte abschließt\n(max. 7 Tage).
+MID_SEQUENTIAL_MAP_TERM_201809: Schicksalspforte
+MID_TAP_BATTLE_CONFIG_REVERSE: Links/Rechts\ntauschen
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: Links/Rechts tauschen:\nMit dieser Option kannst du die\nSeiten tauschen, auf denen deine\nArmee und die Gegner erscheinen.\n\nTempo:\nDas Bewegungstempo von\nGegnern kann bis auf das\n3-Fache erhöht werden. Das\nTempo von Bossen bleibt gleich.
+MID_RELAY_HELP_DIALOG_00: Nach 2 Zügen sind neue Helden da!
+MID_RELAY_HELP_DIALOG_01: Staffelverteidigung:\n・ 5 Verbündete aus einer Brigade\nvon 20 beginnen den Kampf.\n・ Bei den Zügen 3, 5 und 7\nverlässt das aktuelle Team den\nKampf und wird durch 5 neue\nVerbündete ersetzt.\n・ Der Kampf endet bei Zug 8 oder\nwenn deine Festung zerstört wird.
+MID_RELAY_HELP_DIALOG_02: Über Festungen:\n・ Es sind drei Treffer nötig, um\neine Festung zu zerstören.\n・ Du kannst dich zu Festungen\nteleportieren, die du kontrollierst.\n・ Verbündete in deiner Festung\nwerden zu Beginn des Zuges\num 10 KP geheilt.\n・ Festungen gelten als\nVerteidigungsgebiet.
+MID_RELAY_HELP_DIALOG_03: Über Lager:\n・ Es sind zwei Treffer nötig, um\nein Lager zu zerstören.\n・ Du kannst dich zu Lagern\nteleportieren, die du kontrollierst.\n・ Verbündete in Lagern werden\nzu Beginn des Zuges um 10 KP\ngeheilt.\n・ Lager gelten als\nVerteidigungsgebiet.
+MID_RELAY_HELP_DIALOG_04: Teleportieren:\nVerbündete neben Festungen oder\nLagern unter deiner Kontrolle\nkönnen sich sofort neben andere\nFestungen oder Lager unter\ndeiner Kontrolle teleportieren.
+MID_RELAY_HELP_DIALOG_05: Punkte für Staffelverteidigung:\nNach Ende des Kampfes\nerhältst du eine Punktzahl.\n\nVerdiene mehr Punkte, indem du\ndeine Festung/Lager verteidigst\nund deinen Verbündeten hilfst zu\nüberleben, bis sie ersetzt werden.
+MID_RELAY_HELP_DIALOG_06: Weitere Regeln der\nStaffelverteidigung:\n・ Es erscheinen gegnerische\nVerstärkungseinheiten.\n・ Es wird kein Heldenverdienst\nerhalten.
+MID_UNIT_EDIT_DISPOSE: Unterkünfte verwalten
+MID_UNIT_EDIT_STOCK_GENERATE: Kampfanleitung erstellen
+MID_UNIT_EDIT_STOCK_SELL: Anleitungen tauschen
+MID_UNIT_EDIT_STOCK_LIST: Deine Anleitungen
+MID_UNIT_EDIT_STOCK_EMPTY: Keine Kampfanleitungen.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: Charakter wählen und Kampfanleitung erstellen.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: Ausgewählten Helden zurückgeben,\num eine Kampfanleitung zu erhalten.
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: Erstellen
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: Eine Kampfanleitung erstellen?
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: Charaktere, mit denen eine Kampf-\nanleitung erstellt wird, werden aus\ndeinen Unterkünften entfernt.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: Folgendes ist nicht in der\nKampfanleitung enthalten:
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・ Level und Erf.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・ Gelernte Fähigkeiten
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・ Geerbte oder veredelte Fähigkeiten
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・ Anzahl der Verbindungen
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・ Angewendete Segen
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: Wird ein Verbündeter aus deinen\nUnterkünften entfernt, verlierst du\nihn dauerhaft. Kampfanleitung\ndennoch erstellen?
+MID_UNIT_EDIT_STOCK_SELL_LABEL: Tauschen
+MID_UNIT_EDIT_STOCK_SELL_HELP1: Anleitung für Tausch auswählen.
+MID_UNIT_EDIT_STOCK_SELL_HELP2: Anzahl der Anleitungen für Tausch?
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a$a0×/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: Tauschen
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: Diese Kampfanleitung(en) tauschen?
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: Durch einen Tausch geht eine\nKampfanleitung dauerhaft verloren.
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: Nach dem Tausch ist eine Kampf-\nanleitung für immer verloren.\n\nBitte bestätige deine Wahl.
+MID_UNIT_EDIT_STOCK_LIST_HELP: Hier ist eine Liste deiner Kampfanleitungen.
+MID_UNIT_EDIT_STOCK_HELP: Kampfanleitung:\nEine Kampfanleitung kann für\n"Verbündete verbinden",\n"Fähigkeit erben" usw. anstelle eines\nVerbündeten verwendet werden.
+MID_UNIT_EDIT_PROMOTION_HELP1_2: Wähle einen Charakter, um die ★-Wertung zu erhöhen.
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: Wähle, wie viele Kampfanleitungen\ndu verbessern möchtest.
+MID_UNIT_EDIT_SELL_WARNING_1: Helden, die nach Hause gesandt\nwurden, werden aus deiner Liste\nentfernt.
+MID_UNIT_EDIT_SELL_WARNING_2: Wird ein Verbündeter aus deinen\nUnterkünften entfernt, verlierst du\nihn. Den Verbündeten dennoch\nzurückschicken?
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a×$a0/$a1
+MID_STOCK_HELP_DIALOG_00: Kampfanleitungen für Verbündete!
+MID_STOCK_HELP_DIALOG_01: Kampfanleitungen erstellen:\nDu kannst einen Verbündeten\nzurückschicken und seine Kampf-\nanleitung erhalten. Bedenke\naber, dass du den jeweiligen\nVerbündeten verlierst.
+MID_STOCK_HELP_DIALOG_02: Kampfanleitungen verwenden 1:\nWo Verbündete verwendet werden\nkönnen, etwa unter "Verbündete\nverbinden" und "Fähigkeit erben",\nkannst du stattdessen auch eine\nKampfanleitung verwenden.\n\nDie ★-Wertung einer Kampf-\nanleitung kann wie bei einem\nHelden durch "Potential\nfreisetzen" verbessert werden.
+MID_STOCK_HELP_DIALOG_03: Kampfanleitungen verwenden 2:\nFolgendes ist in der Kampf-\nanleitung nicht enthalten:\n\n・ Level und Erf.\n・ Gelernte Fähigkeiten\n・ Geerbte oder veredelte\nFähigkeiten\n・ Anzahl der Verbindungen\n・ Angewendete Segen
+MID_STOCK_SELL_HELP_DIALOG_00: Kampfanleitungen tauschen:\nKampfanleitungen können gegen\nHeldenfedern getauscht werden.\nBedenke aber, dass du die\ngetauschte Anleitung verlierst.
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: Max. Kampfanleitungen erreicht.\nDu kannst keine weiteren erstellen.
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: Du hast die max. Anzahl für Kampf-\nanleitungen erreicht. Du kannst kein\nweiteres Potential freisetzen.
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: Priorität
+MID_UNIT_EDIT_SKILL_SET_RESET: Set zurücksetzen
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: Dieses Set auf Standard (leer)\nzurücksetzen?
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: Potential freisetzen:\nErhöhst du die ★-Bewertung eines\nVerbündeten, setzt du mehr Poten-\ntial von ihm frei. Du benötigst\nbesondere Items.\n\nDer Level des Verbündeten fällt\nauf 1. Aber mit einer höheren\n★-Bewertung verbessern sich die\nStatuswerte und stärkere Fähig-\nkeiten können erlernt werden.
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: Du hast eine Anleitung erstellt.\n\nTippe auf "Deine Anleitungen", um\ndeine Kampfanleitungen zu sehen.
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: Tausch abgeschlossen.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: Brigaden erstellen:\nEine Brigade ist das Team, das\ndu im Revierkampf und bei der\nStaffelverteidigung verwendest.\nWähle bis zu 20 Verbündete aus\ndeinen Unterkünften oder denen\ndeiner Freunde. Leere Plätze\nwerden automatisch mit\nVerstärkungseinheiten gefüllt.

@@ -1,0 +1,9 @@
+[Heroes Archive] (X0212)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_02
+MID_SCENARIO_MAP_BEGIN: $WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|Wow, look at the ocean! It's so big!\nBig enough for all my friends to play\nin, all at the same time!$k$p$WmMPID_水着タクミ,ch05_09_Takumi_M_Swim18,Face|It sure is. Blue waters, blue skies... A\nperfect day.$k$pI hope we can be freed from this\nannoying contract soon. I came here\nto go swimming, after all.$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|We have to fall back and regroup with\nthe others! Oh, but... Where did we\nsay we'll meet up again?$k$p$WmMPID_水着タクミ,ch05_09_Takumi_M_Swim18,Face|Oh, what am I going to do with you...\nCome on, follow me.$k$p$WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|Thanks, Tak-Tak!$k$p$Sbs150|

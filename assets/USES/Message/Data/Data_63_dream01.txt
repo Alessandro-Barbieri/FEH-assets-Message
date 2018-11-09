@@ -1,0 +1,226 @@
+[Heroes Archive] (Data_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MDAID_白夜王妃の頭飾り: Tocado hoshidano
+MDAID_H_白夜王妃の頭飾り: Adorno para el cabello exclusivo\nde la reina de Hoshido.
+MDAID_迷い子の帽子: Cofia de niña perdida
+MDAID_H_迷い子の帽子: La llevaba Azura de niña.
+MID_MISSION_S201811ARENA01_TITLE: Coliseo
+MID_MISSION_S201811ARENA01_A1: Gladiador
+MID_MISSION_H_S201811ARENA01_A1: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A2: Gladiador
+MID_MISSION_H_S201811ARENA01_A2: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A3: Gladiador
+MID_MISSION_H_S201811ARENA01_A3: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A4: Asalto del coliseo: 3 mapas
+MID_MISSION_H_S201811ARENA01_A4: Gana tres batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201811ARENA01_A5: Gladiador
+MID_MISSION_H_S201811ARENA01_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A6: Gladiador
+MID_MISSION_H_S201811ARENA01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A7: Gladiador
+MID_MISSION_H_S201811ARENA01_A7: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A8: Asalto del coliseo: 5 mapas
+MID_MISSION_H_S201811ARENA01_A8: Gana cinco batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201811ARENA01_A9: Gladiador
+MID_MISSION_H_S201811ARENA01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A10: Gladiador
+MID_MISSION_H_S201811ARENA01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A11: Gladiador
+MID_MISSION_H_S201811ARENA01_A11: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811ARENA01_A12: Asalto del coliseo: 7 mapas
+MID_MISSION_H_S201811ARENA01_A12: Gana siete batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201811HERO01_TITLE: Batallas míticas
+MID_MISSION_S201811HERO01_A1: Derrotar a Julius
+MID_MISSION_H_S201811HERO01_A1: Gana la batalla mítica contra Julius,\nPríncipe oscuro, con Sharena, Princesa\nde Askr, en tu batallón.
+MID_MISSION_S201811HERO01_A2: Derrotar a Julius: extremo
+MID_MISSION_H_S201811HERO01_A2: Gana la batalla mítica contra Julius,\nPríncipe oscuro, en modo extremo o superior,\ncon Julius, Príncipe oscuro, en tu batallón.
+MID_MISSION_S201811HERO01_A3: Derrotar a Julius: 40+
+MID_MISSION_H_S201811HERO01_A3: Con Sharena, Princesa de Askr,\nderrota a Julius, Príncipe oscuro,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201811HERO01_A4: Derrotar a Julius: Julius
+MID_MISSION_H_S201811HERO01_A4: Con Julius, Príncipe oscuro,\nderrota a Julius, Príncipe oscuro,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201811HERO01_A5: Derrotar a Julius: aéreas
+MID_MISSION_H_S201811HERO01_A5: Gana la batalla mítica contra Julius,\nPríncipe oscuro, en modo extremo o superior,\ncon un batallón de unidades aéreas.
+MID_MISSION_S201811SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201811SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201811SENKA01_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201811SENKA01_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201811SENKA01_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201811SENKA01_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201811SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201811SENKA02_DAILY_A1: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201811SENKA02_DAILY_A2: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201811SENKA02_DAILY_A3: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201811SENKA02_DAILY_A4: Supera uno de los últimos\nmapas de la Tormenta.
+MID_MISSION_S201811SKY01_TITLE: Asaltos etéreos
+MID_MISSION_S201811SKY01_A1: Victoria con espada
+MID_MISSION_H_S201811SKY01_A1: Vence a enemigos con\nunidades con espada.
+MID_MISSION_S201811SKY01_A2: Victoria con lanza
+MID_MISSION_H_S201811SKY01_A2: Vence a enemigos con\nunidades con lanza.
+MID_MISSION_S201811SKY01_A3: Victoria con hacha
+MID_MISSION_H_S201811SKY01_A3: Vence a enemigos con\nunidades con hacha.
+MID_MISSION_S201811SKY01_A4: Victoria con arco gris
+MID_MISSION_H_S201811SKY01_A4: Vence a enemigos con unidades\nde tipo gris con arco.
+MID_MISSION_S201811SKY01_A5: Victoria con daga gris
+MID_MISSION_H_S201811SKY01_A5: Vence a enemigos con unidades\nde tipo gris con daga.
+MID_MISSION_S201811SKY01_A6: Victoria con grimorio rojo
+MID_MISSION_H_S201811SKY01_A6: Vence a enemigos con\nunidades con grimorio rojo.
+MID_MISSION_S201811SKY01_A7: Victoria con grimorio azul
+MID_MISSION_H_S201811SKY01_A7: Vence a enemigos con\nunidades con grimorio azul.
+MID_MISSION_S201811SKY01_A8: Victoria con grimorio verde
+MID_MISSION_H_S201811SKY01_A8: Vence a enemigos con\nunidades con grimorio verde.
+MID_MISSION_S201811SKY01_A9: Victoria con bastón
+MID_MISSION_H_S201811SKY01_A9: Vence a enemigos con\nunidades con bastón.
+MID_MISSION_S201811SKY01_A10: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A10: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811SKY01_A11: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A11: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811SKY01_A12: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A12: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811SKY01_A13: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A13: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811SKY01_A14: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A14: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811SKY01_A15: AE: Ataque victorioso
+MID_MISSION_H_S201811SKY01_A15: Vence al atacar en Asaltos etéreos.
+MID_MISSION_S201811STORY01_TITLE: A la deriva
+MID_MISSION_S201811STORY01_A1: Anexo 27-1: extremo
+MID_MISSION_H_S201811STORY01_A1: Supera la 1.ª parte del anexo 27 en modo\nextremo con un espadachín en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201811STORY01_A2: Anexo 27-2: extremo
+MID_MISSION_H_S201811STORY01_A2: Supera la 2.ª parte del anexo 27 en modo\nextremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201811STORY01_A3: Anexo 27-3: extremo
+MID_MISSION_H_S201811STORY01_A3: Supera la 3.ª parte del anexo 27 en modo\nextremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201811TAPBTL01_D01_TITLE: B. de toques (diaria)
+MID_MISSION_S201811TAPBTL01_D01_A1: Derrotar a Lucina
+MID_MISSION_H_S201811TAPBTL01_D01_A1: Derrota a la jefa Lucina en los pisos 16-20\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D01_A2: Superar pisos 21-25
+MID_MISSION_H_S201811TAPBTL01_D01_A2: Supera los pisos 21-25 en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D01_A3: Superar nivel
+MID_MISSION_H_S201811TAPBTL01_D01_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D02_TITLE: B. de toques (diaria)
+MID_MISSION_S201811TAPBTL01_D02_A1: Derrotar a Lucina
+MID_MISSION_H_S201811TAPBTL01_D02_A1: Derrota a la jefa Lucina en los pisos 16-20\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D02_A2: Superar pisos 41-45
+MID_MISSION_H_S201811TAPBTL01_D02_A2: Supera los pisos 41-45 en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D02_A3: Superar nivel
+MID_MISSION_H_S201811TAPBTL01_D02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D03_TITLE: B. de toques (diaria)
+MID_MISSION_S201811TAPBTL01_D03_A1: Derrotar a Owain
+MID_MISSION_H_S201811TAPBTL01_D03_A1: Derrota al jefe Owain en los pisos 36-40\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D03_A2: Superar pisos 61-65
+MID_MISSION_H_S201811TAPBTL01_D03_A2: Supera los pisos 61-65 en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D03_A3: Superar nivel
+MID_MISSION_H_S201811TAPBTL01_D03_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D04_TITLE: B. de toques (diaria)
+MID_MISSION_S201811TAPBTL01_D04_A1: Derrotar a Owain
+MID_MISSION_H_S201811TAPBTL01_D04_A1: Derrota al jefe Owain en los pisos 36-40\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D04_A2: Superar pisos 81-85
+MID_MISSION_H_S201811TAPBTL01_D04_A2: Supera los pisos 81-85 en Batalla de toques.
+MID_MISSION_S201811TAPBTL01_D04_A3: Superar nivel
+MID_MISSION_H_S201811TAPBTL01_D04_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201811TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201811TAPBTL02_A1: Derrotar jefe
+MID_MISSION_H_S201811TAPBTL02_A1: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201811TAPBTL02_A2: Derrotar jefe
+MID_MISSION_H_S201811TAPBTL02_A2: Derrota a un jefe en Batalla de toques.
+MID_MISSION_S201811TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201811TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201811TAPBTL02_A4: Superar nivel extra 1
+MID_MISSION_H_S201811TAPBTL02_A4: Supera el nivel extra 1 en Batalla de toques.\n(El nivel extra 1 estará disponible cuando\ndesbloquees los niveles extras).
+MPID_夢カミラ: Camilla
+MPID_HONOR_夢カミラ: Flor de ensueño
+MPID_H_夢カミラ: La mayor de las princesas de un Nohr\nalternativo, recatada y con instinto maternal\nhacia su hermana pequeña Azura.\nAparece en Fire Emblem Fates.
+MPID_VOICE_夢カミラ: Misty Lee
+MPID_ILLUST_夢カミラ: Mikuro (みく郎)
+MPID_夢カムイ男: Corrin
+MPID_HONOR_夢カムイ男: Príncipe onírico
+MPID_H_夢カムイ男: Príncipe hoshidano criado en un Nohr\nalternativo. Se entiende muy bien con\nla joven Azura, que es su mejor amiga.\nAparece en Fire Emblem Fates.
+MPID_VOICE_夢カムイ男: Cam Clarke
+MPID_ILLUST_夢カムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_夢カムイ女: Corrin
+MPID_HONOR_夢カムイ女: Princesa onírica
+MPID_H_夢カムイ女: Princesa hoshidana criada en un Nohr\nalternativo. Se entiende muy bien con\nla joven Azura, que es su mejor amiga.\nAparece en Fire Emblem Fates.
+MPID_VOICE_夢カムイ女: Marcella Lentz-Pope
+MPID_ILLUST_夢カムイ女: Sencha (煎茶)
+MPID_幼少アクア: Azura
+MPID_HONOR_幼少アクア: Joven cantante
+MPID_H_幼少アクア: Hija de Arete, la reina de Nohr. En el castillo la\ntratan mal, así que vive con el alma atormentada.\nAparece en Fire Emblem Fates.
+MPID_VOICE_幼少アクア: Rena Strober
+MPID_ILLUST_幼少アクア: kaya8
+MPID_夢ミコト: Mikoto
+MPID_HONOR_夢ミコト: Madre amorosa
+MPID_H_夢ミコト: Reina de un Hoshido alternativo de carácter\nextremadamente afectuoso. Es la amorosa\nmadre adoptiva de Azura.\nAparece en Fire Emblem Fates.
+MPID_VOICE_夢ミコト: Marisha Ray
+MPID_ILLUST_夢ミコト: Ito Misei (伊藤未生)
+MSID_黄金の短剣: Daga oro
+MSID_シャニーの誓槍: Lanza de Shanna
+MSID_フロリーナの誓槍: Lanza de Florina
+MSID_バアトルの豪斧: Hacha viril
+MSID_第16迷宮の覇者1: As del asalto P 1
+MSID_第16迷宮の覇者2: As del asalto P 2
+MSID_第16迷宮の覇者3: As del asalto P 3
+MSID_夢幻の書: Libro de sueños
+MSID_泡影の書: Libro de visiones
+MSID_フラッシュ: Haz de luz
+MSID_フラッシュ＋: Haz de luz +
+MSID_水の飛沫: Ira dragontina
+MSID_攻撃速さの応援＋: Pot. Atq./Vel. +
+MSID_静水の舞い2: Agua bailarina 2
+MSID_静水の舞い3: Agua bailarina 3
+MSID_攻撃魔防の連携1: Nexo Atq./Res. 1
+MSID_攻撃魔防の連携2: Nexo Atq./Res. 2
+MSID_攻撃魔防の連携3: Nexo Atq./Res. 3
+MSID_見切り・追撃効果1: Atq. doble nulo 1
+MSID_見切り・追撃効果2: Atq. doble nulo 2
+MSID_見切り・追撃効果3: Atq. doble nulo 3
+MSID_H_黄金の短剣: Facilita la ejecución de habilidades\nespeciales (-1 a la cuenta regresiva).
+MSID_H_シャニーの誓槍: Facilita la ejecución de habilidades\nespeciales (-1 a la cuenta regresiva).
+MSID_H_フロリーナの誓槍: Eficaz contra unidades acorazadas.
+MSID_H_バアトルの豪斧: Eficaz contra unidades acorazadas.
+MSID_H_特殊射程R奥義待機: Al inicio del ataque, si la habilidad especial\nestá activa, otorga Atq., Vel., Def. y Res. +3\ndurante el combate y la unidad puede\ncontratacar independientemente de lo lejos\nque esté el enemigo.
+MSID_H_近距離構えR4: Si el rival inicia el ataque y usa espada, lanza,\nhacha o piedra dragón, otorga Atq., Vel., Def.\ny Res. +4 a la unidad durante el combate.
+MSID_H_第16迷宮の覇者1: Otorga PV +3.
+MSID_H_第16迷宮の覇者2: Otorga PV +4.
+MSID_H_第16迷宮の覇者3: Otorga PV +5.
+MSID_H_夢幻の書: Otorga Atq. +3. Si hay un aliado en una casilla\nadyacente a la de la unidad, inflige Atq., Vel.,\nDef. y Res. -4 al rival durante el combate.
+MSID_H_泡影の書: Otorga Vel. +3. Si hay un aliado en una casilla\nadyacente a la de la unidad, inflige Atq., Vel.,\nDef. y Res. -4 al rival durante el combate.
+MSID_H_フラッシュ: Tras un ataque, si la unidad ha acometido\nal rival, este sufre un estado alterado que\nle impide contratacar en su próxima acción.
+MSID_H_フラッシュ＋: Tras un ataque, si la unidad ha acometido\nal rival, este y los enemigos en un radio de\ndos casillas del rival sufren un estado alterado\nque les impide contratacar en su próxima acción.
+MSID_H_水の飛沫: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Si en un radio de\ndos casillas hay más aliados que enemigos\n(sin contar a la unidad ni al rival), otorga Atq.\ny Vel. +5 durante el combate. Contra enemigos\ncon alcance de 2, el daño se calcula a partir de\nla Def. o Res. del enemigo (la que tenga el valor\nmás bajo).
+MSID_H_攻撃速さの応援＋: Atq. y Vel. +6 a un aliado adyacente\nhasta el final del turno.
+MSID_H_静水の舞い2: Al usar Cantar o Bailar,\nRes. +4 al objetivo.
+MSID_H_静水の舞い3: Al usar Cantar o Bailar,\nRes. +5 al objetivo.
+MSID_H_攻撃魔防の連携1: Atq. y Res. +2 a la unidad y al aliado durante\nel resto del turno al usar o recibir habilidades\nde apoyo de desplazamiento (como Empujar,\nRefugio, Teleportación, etc.).
+MSID_H_攻撃魔防の連携2: Atq. y Res. +4 a la unidad y al aliado durante\nel resto del turno al usar o recibir habilidades\nde apoyo de desplazamiento (como Empujar,\nRefugio, Teleportación, etc.).
+MSID_H_攻撃魔防の連携3: Atq. y Res. +6 a la unidad y al aliado durante\nel resto del turno al usar o recibir habilidades\nde apoyo de desplazamiento (como Empujar,\nRefugio, Teleportación, etc.).
+MSID_H_見切り・追撃効果1: Si la unidad tiene 100 % de PV al inicio del\nataque, anula las habilidades que garantizan\nun ataque doble del rival y las que impiden\nun ataque doble de la unidad.
+MSID_H_見切り・追撃効果2: Si la unidad tiene 50 % de PV o más al inicio del\nataque, anula las habilidades que garantizan\nun ataque doble del rival y las que impiden\nun ataque doble de la unidad.
+MSID_H_見切り・追撃効果3: Anula las habilidades que garantizan un ataque\ndoble del rival y las que impiden un ataque\ndoble de la unidad.
+MID_CHAPTER_TITLE_CX026: Anexo 27
+MID_CHAPTER_CX026: A la deriva
+MID_STAGE_TITLE_X0261: Anexo 27 - Parte 1
+MID_STAGE_TITLE_X0262: Anexo 27 - Parte 2
+MID_STAGE_TITLE_X0263: Anexo 27 - Parte 3
+MID_STAGE_X0261: Amigos
+MID_STAGE_X0262: Familia
+MID_STAGE_X0263: Un sueño
+MID_STAGE_HONOR_T0043: Batalla de vínculos
+MID_STAGE_T0043: C y K
+MID_STAGE_TITLE_SB_0016: Asalto 16
+MID_STAGE_TITLE_BG_FIRE_0013: Fuego 3
+MID_STAGE_TITLE_BG_WATER_0014: Agua 4
+MID_STAGE_TITLE_BG_WIND_0014: Viento 4
+MID_STAGE_TITLE_BG_EARTH_0014: Tierra 4
+MID_STAGE_TITLE_BG_FIRE_0014: Fuego 4
+MID_STAGE_TITLE_PB034: Habilidades 34
+MID_STAGE_PB034: Corrin sobreprotectora

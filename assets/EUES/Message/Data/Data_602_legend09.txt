@@ -1,0 +1,179 @@
+[Heroes Archive] (Data_602_legend09)
+
+
+Heroes Message Name: Message
+
+
+MDAID_アスクの髪飾り・金: Horquilla de Askr (oro)
+MDAID_H_アスクの髪飾り・金: Trofeo de tu victoria contra la versión\nlegendaria de Tiki.
+MDAID_謎の男のマスク・金: Máscara extraña (oro)
+MDAID_H_謎の男のマスク・金: Trofeo de tu victoria contra la versión\nlegendaria de Hector.
+MID_MISSION_M201810A_TITLE: Retos: octubre (1)
+MID_MISSION_M201810A_A1: Victoria glauca
+MID_MISSION_H_M201810A_A1: Vence a enemigos con\nunidades de tipo verde.
+MID_MISSION_M201810A_A2: Victoria ecuestre
+MID_MISSION_H_M201810A_A2: Vence a enemigos con\nunidades de caballería.
+MID_MISSION_M201810A_A3: Objetivo: rojo
+MID_MISSION_H_M201810A_A3: Vence a enemigos de tipo rojo.
+MID_MISSION_M201810A_A4: Objetivo: infantería
+MID_MISSION_H_M201810A_A4: Vence a enemigos de infantería.
+MID_MISSION_M201810A_A5: Gladiador
+MID_MISSION_H_M201810A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201810A_A6: Poderío cerúleo
+MID_MISSION_H_M201810A_A6: Vence a enemigos de nivel 20 o superior\ncon unidades de tipo azul.
+MID_MISSION_M201810A_A7: Poderío a pie
+MID_MISSION_H_M201810A_A7: Vence a enemigos de nivel 20 o superior\ncon unidades de infantería.
+MID_MISSION_M201810A_A8: Objetivo: nivel 20+ verde
+MID_MISSION_H_M201810A_A8: Vence a enemigos de tipo verde\nde nivel 20 o superior.
+MID_MISSION_M201810A_A9: Objetivo: nivel 20+ caballo
+MID_MISSION_H_M201810A_A9: Vence a unidades de caballería\nde nivel 20 o superior.
+MID_MISSION_M201810A_A10: Gladiador curtido
+MID_MISSION_H_M201810A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201810A_A11: Gloria carmesí
+MID_MISSION_H_M201810A_A11: Vence a enemigos de nivel 35 o superior\ncon unidades de tipo rojo.
+MID_MISSION_M201810A_A12: Gloria aérea
+MID_MISSION_H_M201810A_A12: Vence a enemigos de nivel 35 o\nsuperior con unidades aéreas.
+MID_MISSION_M201810A_A13: Objetivo: nivel 35+ azul
+MID_MISSION_H_M201810A_A13: Vence a enemigos de tipo azul\nde nivel 35 o superior.
+MID_MISSION_M201810A_A14: Objetivo: nivel 35+ aéreo
+MID_MISSION_H_M201810A_A14: Vence a unidades aéreas\nde nivel 35 o superior.
+MID_MISSION_M201810A_A15: Maestro gladiador
+MID_MISSION_H_M201810A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201810B_TITLE: Retos: octubre (2)
+MID_MISSION_M201810B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201810B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201810B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201810B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201810B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201810B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201810B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201810B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201810B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201810B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201810B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201810B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201810B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201810B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201810B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201810B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201810B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201810B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201810B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201810C_TITLE: Retos: octubre (3)
+MID_MISSION_M201810C_A1: Cap. 7 - Parte 1
+MID_MISSION_H_M201810C_A1: Supera la 1.ª parte del capítulo 7\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201810C_A2: Cap. 7 - Parte 2
+MID_MISSION_H_M201810C_A2: Supera la 2.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A3: Cap. 7 - Parte 3
+MID_MISSION_H_M201810C_A3: Supera la 3.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A4: Cap. 7 - Parte 4
+MID_MISSION_H_M201810C_A4: Supera la 4.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A5: Cap. 7 - Parte 5
+MID_MISSION_H_M201810C_A5: Supera la 5.ª parte del capítulo 7 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A6: Cap. 10 - Parte 1 / Difícil+
+MID_MISSION_H_M201810C_A6: Supera la 1.ª parte del capítulo 10\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201810C_A7: Cap. 10 - Parte 2 / Difícil+
+MID_MISSION_H_M201810C_A7: Supera la 2.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201810C_A8: Cap. 10 - Parte 3 / Difícil+
+MID_MISSION_H_M201810C_A8: Supera la 3.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201810C_A9: Cap. 10 - Parte 4 / Difícil+
+MID_MISSION_H_M201810C_A9: Supera la 4.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201810C_A10: Cap. 10 - Parte 5 / Difícil+
+MID_MISSION_H_M201810C_A10: Supera la 5.ª parte del capítulo 10 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201810C_A11: Cap. 13 - Parte 1 / Extr.
+MID_MISSION_H_M201810C_A11: Supera la 1.ª parte del capítulo 13 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201810C_A12: Cap. 13 - Parte 2 / Extr.
+MID_MISSION_H_M201810C_A12: Supera la 2.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A13: Cap. 13 - Parte 3 / Extr.
+MID_MISSION_H_M201810C_A13: Supera la 3.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A14: Cap. 13 - Parte 4 / Extr.
+MID_MISSION_H_M201810C_A14: Supera la 4.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201810C_A15: Cap. 13 - Parte 5 / Extr.
+MID_MISSION_H_M201810C_A15: Supera la 5.ª parte del capítulo 13 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201810CHARA01_TITLE: Tres héroes
+MID_MISSION_S201810CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201810CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201810CHARA01_A2: Vencer con Tiki
+MID_MISSION_H_S201810CHARA01_A2: Vence a enemigos con Tiki,\nLa Voz de Naga.
+MID_MISSION_S201810CHARA01_A3: Vencer con Odín
+MID_MISSION_H_S201810CHARA01_A3: Vence a enemigos con Odín.
+MID_MISSION_S201810CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201810CHARA01_B1: Vence a enemigos de nivel 20 o superior\ncon Tiki, La Voz de Naga.
+MID_MISSION_S201810CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201810CHARA01_B2: Vence a enemigos de nivel 20\no superior con Odín.
+MID_MISSION_S201810CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201810CHARA01_B3: Vence a enemigos de nivel 20\no superior con Clarine.
+MID_MISSION_S201810CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201810CHARA01_C1: Vence a enemigos de nivel 35 o superior\ncon Tiki, La Voz de Naga.
+MID_MISSION_S201810CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201810CHARA01_C2: Vence a enemigos de nivel 35\no superior con Odín.
+MID_MISSION_S201810CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201810CHARA01_C3: Vence a enemigos de nivel 35\no superior con Clarine.
+MID_MISSION_S201810VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201810VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201810VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201810VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201810VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201810VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201810VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201810VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201810VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201810VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201810VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201810VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201810VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201810VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201810VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201810VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201810VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201810VOTE01_A9: Gladiador
+MID_MISSION_H_S201810VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201810VOTE01_A10: Gladiador
+MID_MISSION_H_S201810VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201810VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201810VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201810VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201810VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201810VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201810VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201810VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201810VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201810VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201810VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201810VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201810VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201810VOTE01_A17: Torneo de votos: rojo
+MID_MISSION_H_S201810VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201810VOTE01_A18: Torneo de votos: azul
+MID_MISSION_H_S201810VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201810VOTE01_A19: Torneo de votos: verde
+MID_MISSION_H_S201810VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201810VOTE01_A20: Torneo de votos: gris
+MID_MISSION_H_S201810VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MPID_伝承チキ: Tiki
+MPID_HONOR_伝承チキ: La diosa legendaria
+MPID_H_伝承チキ: Princesa e hija del Dragón Divino a la que\nNaga dejó atrás antes de su muerte. Oculta\nun gran poder. Aparece en Fire Emblem:\nMystery of the Emblem.
+MPID_VOICE_伝承チキ: Mela Lee
+MPID_ILLUST_伝承チキ: Enkyo Yuichiro (円居雄一郎)
+MPID_LEGEND_伝承チキ: Efecto legendario: Tierra\nMejora de aliados: PV + 3, Def + 4\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de tierra si se\nha otorgado la bendición de tierra.
+MSID_神霧のブレス: Bruma divina
+MSID_鬼神の呼吸: Aliento feroz
+MSID_みんなと一緒に: Todos juntos
+MSID_H_神霧のブレス: Eficaz contra dragones. Permite contratacar\nindependientemente de lo lejos que esté el\nenemigo. Si el rival tiene alcance de 2, el daño\nse calcula a partir de su Def o Res (la que sea\nmás baja).
+MSID_H_鬼神の呼吸: Si el rival inicia el ataque, la unidad obtiene\nAta + 4 durante el enfrentamiento\ny -1 a la cuenta atrás por cada ataque.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_みんなと一緒に: Al inicio del turno, si hay un aliado en\nuna casilla adyacente a la de la unidad,\notorga Def y Res + 5 a la unidad y a los aliados\nadyacentes durante el resto del turno.
+MID_STAGE_HONOR_T0040: Batalla de vínculos
+MID_STAGE_T0040: R e I
+MID_STAGE_TITLE_PB030: Habilidades 30
+MID_STAGE_PB030: Tiki y Mar-Mar
+MID_STAGE_HONOR_L0007: La diosa legendaria
+MID_STAGE_L0007: Tiki

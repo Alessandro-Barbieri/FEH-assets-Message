@@ -1,0 +1,179 @@
+[Heroes Archive] (Data_602_legend09)
+
+
+Heroes Message Name: Message
+
+
+MDAID_アスクの髪飾り・金: Gold. Askr-Haarnadel
+MDAID_H_アスクの髪飾り・金: Beweis für den Sieg über die\nLegendäre Heldin Tiki.
+MDAID_謎の男のマスク・金: Gold. Geheimnismaske
+MDAID_H_謎の男のマスク・金: Beweis für den Sieg über den\nLegendären Helden Hector.
+MID_MISSION_M201810A_TITLE: Okt.-Quests (1)
+MID_MISSION_M201810A_A1: Grün besiegt Gegner
+MID_MISSION_H_M201810A_A1: Lass grüne Verbündete Gegner besiegen.
+MID_MISSION_M201810A_A2: Reiter besiegt Gegner
+MID_MISSION_H_M201810A_A2: Lass berittene Verbündete Gegner besiegen.
+MID_MISSION_M201810A_A3: Rot besiegen
+MID_MISSION_H_M201810A_A3: Besiege rote Gegner.
+MID_MISSION_M201810A_A4: Infanterie besiegen
+MID_MISSION_H_M201810A_A4: Besiege Infanterieeinheiten.
+MID_MISSION_M201810A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201810A_A5: Gewinne Arenaduelle eines beliebigen\nSchwierigkeitsgrads.
+MID_MISSION_M201810A_A6: Blau besiegt Lv. 20+
+MID_MISSION_H_M201810A_A6: Lass blaue Verbündete Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_M201810A_A7: Inf. besiegt Lv. 20+
+MID_MISSION_H_M201810A_A7: Lass Infanterieeinheiten Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_M201810A_A8: Grün Lv. 20+ besiegen
+MID_MISSION_H_M201810A_A8: Besiege grüne Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201810A_A9: Reiter Lv. 20+ besiegen
+MID_MISSION_H_M201810A_A9: Besiege berittene Einheiten, die\nLevel 20 oder höher sind.
+MID_MISSION_M201810A_A10: Arenaduelle - Mittel+
+MID_MISSION_H_M201810A_A10: Gewinne Arenaduelle auf Mittel oder höher.
+MID_MISSION_M201810A_A11: Rot besiegt Lv. 35+
+MID_MISSION_H_M201810A_A11: Lass rote Verbündete Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201810A_A12: Flieger besiegt Lv. 35+
+MID_MISSION_H_M201810A_A12: Lass Flugeinheiten Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201810A_A13: Blau Lv. 35+ besiegen
+MID_MISSION_H_M201810A_A13: Besiege blaue Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201810A_A14: Flieger Lv. 35+ besiegen
+MID_MISSION_H_M201810A_A14: Besiege Flugeinheiten, die\nLevel 35 oder höher sind.
+MID_MISSION_M201810A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201810A_A15: Gewinne Arenaduelle im Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201810B_TITLE: Okt.-Quests (2)
+MID_MISSION_M201810B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201810B_A1: Bewältige die erste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201810B_A2: Bewältige die zweite Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201810B_A3: Bewältige die dritte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201810B_A4: Bewältige die vierte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201810B_A5: Bewältige die fünfte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201810B_A6: Bewältige die sechste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201810B_A7: Bewältige die siebte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201810B_A8: Bewältige die achte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201810B_A9: Bewältige die neunte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201810B_A10: Bewältige die zehnte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201810B_A11: Bewältige die zehnte Stufe des Übungsturms\nnur mit Infanterieeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201810B_A12: Bewältige die zehnte Stufe des Übungsturms\nnur mit gepanzerten Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201810B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201810B_A13: Bewältige die zehnte Stufe des Übungsturms\nnur mit berittenen Einheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201810B_A14: Bewältige die zehnte Stufe des Übungsturms\nnur mit Flugeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_TITLE: Okt.-Quests (3)
+MID_MISSION_M201810C_A1: Kap. 7 Tl. 1
+MID_MISSION_H_M201810C_A1: Bewältige Kapitel 7: Teil 1. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_A2: Kap. 7 Tl. 2
+MID_MISSION_H_M201810C_A2: Bewältige Kapitel 7: Teil 2 mit einem roten\nVerbündeten im Team. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_A3: Kap. 7 Tl. 3
+MID_MISSION_H_M201810C_A3: Bewältige Kapitel 7: Teil 3 mit einem blauen\nVerbündeten im Team. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_A4: Kap. 7 Tl. 4
+MID_MISSION_H_M201810C_A4: Bewältige Kapitel 7: Teil 4 mit einem grünen\nVerbündeten im Team. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_A5: Kap. 7 Tl. 5
+MID_MISSION_H_M201810C_A5: Bewältige Kapitel 7: Teil 5 mit einem farblosen\nVerbündeten im Team. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201810C_A6: Kap. 10 Tl. 1 - Schwer+
+MID_MISSION_H_M201810C_A6: Bewältige Kapitel 10: Teil 1 auf Schwer oder\nhöher. Alle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A7: Kap. 10 Tl. 2 - Schwer+
+MID_MISSION_H_M201810C_A7: Bewältige Kapitel 10: Teil 2 auf Schwer oder\nhöher mit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A8: Kap. 10 Tl. 3 - Schwer+
+MID_MISSION_H_M201810C_A8: Bewältige Kapitel 10: Teil 3 auf Schwer oder\nhöher mit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A9: Kap. 10 Tl. 4 - Schwer+
+MID_MISSION_H_M201810C_A9: Bewältige Kapitel 10: Teil 4 auf Schwer oder\nhöher mit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A10: Kap. 10 Tl. 5 - Schwer+
+MID_MISSION_H_M201810C_A10: Bewältige Kapitel 10: Teil 5 auf Schwer oder\nhöher mit einem farblosen Verbündeten im\nTeam. Alle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A11: Kap. 13 Tl. 1 - Extrem
+MID_MISSION_H_M201810C_A11: Bewältige Kapitel 13: Teil 1 auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A12: Kap. 13 Tl. 2 - Extrem
+MID_MISSION_H_M201810C_A12: Bewältige Kapitel 13: Teil 2 auf Extrem\nmit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A13: Kap. 13 Tl. 3 - Extrem
+MID_MISSION_H_M201810C_A13: Bewältige Kapitel 13: Teil 3 auf Extrem\nmit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A14: Kap. 13 Tl. 4 - Extrem
+MID_MISSION_H_M201810C_A14: Bewältige Kapitel 13: Teil 4 auf Extrem\nmit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201810C_A15: Kap. 13 Tl. 5 - Extrem
+MID_MISSION_H_M201810C_A15: Bewältige Kapitel 13: Teil 5 auf Extrem\nmit einem farblosen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201810CHARA01_TITLE: Drei Helden
+MID_MISSION_S201810CHARA01_A1: Gegner besiegen
+MID_MISSION_H_S201810CHARA01_A1: Besiege einen Gegner.
+MID_MISSION_S201810CHARA01_A2: Tiki greift an
+MID_MISSION_H_S201810CHARA01_A2: Lass Tiki: Nagas Stimme die Gegner besiegen.
+MID_MISSION_S201810CHARA01_A3: Odin greift an
+MID_MISSION_H_S201810CHARA01_A3: Lass Odin die Gegner besiegen.
+MID_MISSION_S201810CHARA01_B1: Lv. 20+ besiegen
+MID_MISSION_H_S201810CHARA01_B1: Lass Tiki: Nagas Stimme Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201810CHARA01_B2: Lv. 20+ besiegen
+MID_MISSION_H_S201810CHARA01_B2: Lass Odin Gegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201810CHARA01_B3: Lv. 20+ besiegen
+MID_MISSION_H_S201810CHARA01_B3: Lass Clarine Gegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201810CHARA01_C1: Lv. 35+ besiegen
+MID_MISSION_H_S201810CHARA01_C1: Lass Tiki: Nagas Stimme Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_S201810CHARA01_C2: Lv. 35+ besiegen
+MID_MISSION_H_S201810CHARA01_C2: Lass Odin Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201810CHARA01_C3: Lv. 35+ besiegen
+MID_MISSION_H_S201810CHARA01_C3: Lass Clarine Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201810VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201810VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201810VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A2: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201810VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A3: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201810VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A4: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201810VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A5: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201810VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201810VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201810VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201810VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201810VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201810VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201810VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201810VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201810VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201810VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201810VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201810VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201810VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201810VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201810VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201810VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201810VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201810VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201810VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A17: Gewinne Kämpfe im Wahlturnier\nmit einem roten Verbündeten in\ndeinem Team.
+MID_MISSION_S201810VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A18: Gewinne Kämpfe im Wahlturnier\nmit einem blauen Verbündeten in\ndeinem Team.
+MID_MISSION_S201810VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A19: Gewinne Kämpfe im Wahlturnier\nmit einem grünen Verbündeten in\ndeinem Team.
+MID_MISSION_S201810VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201810VOTE01_A20: Gewinne Kämpfe im Wahlturnier\nmit einem farblosen Verbündeten\nin deinem Team.
+MPID_伝承チキ: Tiki
+MPID_HONOR_伝承チキ: Legendärer Drache
+MPID_H_伝承チキ: Prinzessin und Tochter der Wyrmgöttin Naga.\nWurde von ihrer Mutter vor deren Tod in Schlaf\nversetzt und beherbergt große Macht. Erscheint\nin Fire Emblem: Mystery of the Emblem.
+MPID_VOICE_伝承チキ: Mela Lee
+MPID_ILLUST_伝承チキ: Enkyo Yuichiro (円居雄一郎)
+MPID_LEGEND_伝承チキ: Legendärer Effekt: Erde\nVerbündetenbonus: KP +3, Ver. +4\n\nGewährt Verbündeten diesen legendären\nEffekt in der Erdsaison, wenn sie mit\nErde gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_神霧のブレス: Heiliger Nebel
+MSID_鬼神の呼吸: Wilder Atem
+MSID_みんなと一緒に: Mit anderen!
+MSID_H_神霧のブレス: Effektiv gegen Drachen. Ermöglicht\nGegenangriff unabhängig vom Abstand\nzum Gegner. Ist Rw. des Gegners = 2,\nwird Schaden durch Ver. oder Res. des\nGegners berechnet (geringerer Wert gilt).
+MSID_H_鬼神の呼吸: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +4 im Kampf und ihre\nErholungszeit wird pro Angriff um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_みんなと一緒に: Befindet sich die Einheit zu Beginn des\nZuges neben einem Verbündeten,\nerhalten Einheit und benachbarte\nVerbündete Ver./Res. +5 für 1 Zug.
+MID_STAGE_HONOR_T0040: Treue-Heldenkampf
+MID_STAGE_T0040: R & I
+MID_STAGE_TITLE_PB030: Fähigkeiten 30
+MID_STAGE_PB030: Tiki und Mar-Mar
+MID_STAGE_HONOR_L0007: Legendärer Drache
+MID_STAGE_L0007: Tiki

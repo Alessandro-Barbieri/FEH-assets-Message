@@ -1,0 +1,38 @@
+[Heroes Archive] (FLORA)
+
+
+Heroes Message Name: Message
+
+
+MID_FLORA_HOME1: Soy la criada de Corrin, pero quizás\nofrezca mis servicios al príncipe\nAlfonse y la princesa Sharena.
+MID_FLORA_HOME2: Me secuestraron para evitar que\nla Tribu del Hielo se sublevase, pero\naquel lugar acabó por gustarme...
+MID_FLORA_HOME3: Si tienes mucho que hacer,\npuedo ayudarte. Sé hacer\ntodo tipo de tareas.$k$pLa verdad es que, si no estoy\nocupada, me siento incómoda.
+MID_FLORA_HOME4: Acabo de venir de recoger plantas\nsilvestres. ¿Te apetece una infusión?\nSi tienes tiempo, claro.
+MID_FLORA_HOME5: Como no tenía nada que hacer,\ntallé esta estatuilla de nieve.$k$pLos miembros de la Tribu del Hielo\npodemos crear nieve.$k$pMmm... Quizás la próxima vez\nhaga una de ti...
+MID_FLORA_FRIEND: Te traigo saludos\nde $Nf.\nSi me disculpas, tengo que irme.
+MID_FLORA_LEVEL1: Supongo que debería sentirme\norgullosa de estos resultados.
+MID_FLORA_LEVEL2: No sé si esto será suficiente...
+MID_FLORA_LEVEL3: Me temo que no soy\nde mucha ayuda...
+MID_FLORA_SKILL: Gracias, aunque me conformo\ncon que te fijes en mí.
+MID_FLORA_JOIN: Soy Flora, una criada de Nohr.\n¿Por casualidad no habrás visto\na mi hermanita, Felicia?$k$pEs un poco desastre, pero espero\nque no te haya causado problemas.
+MID_FLORA_STRONGEST: Ah, $Nu.\n¿Me buscabas?$k$pSi necesitas descansar, te prepararé\nuna taza de té bien calentito.$k$pPerdona si a veces soy demasiado\natenta, pero es que no puedo evitar\npreocuparme por tu bienestar.$k$pPor algún motivo me recuerdas\na Corrin. Qué raro, ¿verdad?\nSi no os parecéis en nada.$k$pQuizás es porque os envuelve\nel mismo halo de misterio...$k$pO porque pasáis mucho tiempo\nconmigo.$k$pPor cierto, pudiendo escoger entre\ntantos héroes, ¿cómo es que\nme has elegido a mí?$k$pNo es que no me guste pasar tiempo\ncontigo. Al contrario.$k$pContigo puedo ser yo misma,\ny haces que me sienta útil.$k$pAdemás..., sé que contigo\npuedo ser sincera y contarte\nlo que siento por ti.
+MID_FLORA_VOICE01: はいっ
+MID_FLORA_VOICE02: せやっ
+MID_FLORA_VOICE03: ううっ…！
+MID_FLORA_VOICE04: How disappointing...
+MID_FLORA_VOICE05: ¡Congélate!
+MID_FLORA_VOICE06: No me dejas elección...
+MID_FLORA_VOICE07: ¡No me subestimes!
+MID_FLORA_VOICE08: Siempre estoy dispuesta.
+MID_FLORA_VOICE09: So...be it...
+MID_FLORA_VOICE10: Yes
+MID_FLORA_VOICE11: If you need help with any tasks, please let me know.
+MID_FLORA_VOICE12: If you have trouble getting out of bed in the morning, I have just the trick for slugabeds.
+MID_FLORA_VOICE13: Be careful where you put your hands. Wouldn't want you getting frostbite...
+MID_FLORA_VOICE14: There are so many wonderful Heroes here. It makes me a bit nervous, to be honest...
+MID_FLORA_VOICE15: You wield that divine weapon so masterfully... I really am kind of jealous.
+MID_FLORA_VOICE16: I found some broken dishes earlier. It was Felicia's turn to clean them, wasn't it...
+MID_FLORA_VOICE17: I always feel so good about myself after you take the time to chat with me.
+MID_FLORA_VOICE18: At your service.
+MID_FLORA_VOICE19: What do you need?
+MID_FLORA_VOICE20: To victory.

@@ -1,0 +1,38 @@
+[Heroes Archive] (LOKI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LOKI_MIKATA01_HOME1: La vie est pleine de surprises... Qui\naurait cru que je pourrais m'entendre\navec le prince Alfonse et vous ?
+MID_LOKI_MIKATA01_HOME2: La princesse Veronica n'est-elle pas\nadorable ? Je ne me lasserai jamais\nde la taquiner !
+MID_LOKI_MIKATA01_HOME3: La Loki de ce monde est votre\nennemie, et je suis votre alliée. Voilà\nqui devrait être intéressant !
+MID_LOKI_MIKATA01_HOME4: L'invocation, les portes vers les\nautres mondes que seul le royaume\nd'Askr peut ouvrir...$k$pIl y a tant de mystères...\nN'aimeriez-vous pas connaître\ntoute la vérité ?
+MID_LOKI_MIKATA01_HOME5: Je suis là pour obéir à votre moindre\ndésir... Après tout, vous m'avez\ninvoquée, n'est-ce pas ?
+MID_LOKI_MIKATA01_FRIEND: Bonjour, très $Gcher,chère|. Je suis Loki...\n$Nf a volé\nmon corps et mon esprit...$k$pMais je ne lui en veux pas trop.
+MID_LOKI_MIKATA01_LEVEL1: Quelle sensation agréable...\nHi hi hi !
+MID_LOKI_MIKATA01_LEVEL2: Qu'en pensez-vous ? Est-ce\nsuffisant pour vous ?
+MID_LOKI_MIKATA01_LEVEL3: Oh, c'est vraiment frustrant !
+MID_LOKI_MIKATA01_SKILL: Merci ! J'essaierai de trouver un\nmoyen de vous montrer ma\ngratitude...
+MID_LOKI_MIKATA01_JOIN: Vous m'avez appelée ? Et vous\nvoulez que je vous obéisse au\ndoigt et à l'œil, c'est ça ?$k$p$GPetit polisson,Petite polissonne|, va !
+MID_LOKI_MIKATA01_STRONGEST: Ne dites rien... Je peux le lire dans\nvos yeux : vous voulez me déclarer\nvotre flamme.$k$pC'est très gentil, mais avant cela,\npourrais-je emprunter votre arme\ndivine, juste un instant ?$k$pC'est un objet bien trop puissant\npour $Gun,une| simple $Ghumain,humaine| !$k$pVous pourriez régner sur les neuf\nmondes et tous les Multivers\nimaginables...$k$pVotre pouvoir est celui $Gd'un dieu,d'une déesse|.$k$pSi vous me laissiez m'en servir, je\nsuis sûre que je pourrais trouver\ndes choses intéressantes à faire...$k$pNon ? Vous ne voulez pas ?\nIl n'y a pas moyen de s'amuser,\navec vous !$k$pJe suis déçue, mais pas surprise.\nNous commençons à bien nous\nconnaître, vous et moi...$k$pPeut-être qu'un jour, quand nous\nserons encore plus proches, vous\nchangerez d'avis.
+MID_LOKI_MIKATA01_VOICE01: うふふっ
+MID_LOKI_MIKATA01_VOICE02: 嬉しい？
+MID_LOKI_MIKATA01_VOICE03: きゃああっ！
+MID_LOKI_MIKATA01_VOICE04: やぁん…もう…
+MID_LOKI_MIKATA01_VOICE05: C'est adorable...
+MID_LOKI_MIKATA01_VOICE06: Rendez-vous au paradis !
+MID_LOKI_MIKATA01_VOICE07: Suivez-moi dans l'autre monde.
+MID_LOKI_MIKATA01_VOICE08: Vous aimez ça ?
+MID_LOKI_MIKATA01_VOICE09: No more...
+MID_LOKI_MIKATA01_VOICE10: うふふ
+MID_LOKI_MIKATA01_VOICE11: Besoin d'un répit ?
+MID_LOKI_MIKATA01_VOICE12: Que puis-je faire pour vous ?
+MID_LOKI_MIKATA01_VOICE13: Whatever you need... I'll do.
+MID_LOKI_MIKATA01_VOICE14: Ah! You really shouldn't tease me.
+MID_LOKI_MIKATA01_VOICE15: You're very interested in touching me, aren't you?
+MID_LOKI_MIKATA01_VOICE16: Looking forward to what I'll say next?
+MID_LOKI_MIKATA01_VOICE17: I feel like you've put a spell on me. You're so bad.
+MID_LOKI_MIKATA01_VOICE18: Yes?
+MID_LOKI_MIKATA01_VOICE19: Ooh!
+MID_LOKI_MIKATA01_VOICE20: Mm-hmm...

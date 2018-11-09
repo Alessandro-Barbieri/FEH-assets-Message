@@ -1,0 +1,38 @@
+[Heroes Archive] (QULYF)
+
+
+Heroes Message Name: Message
+
+
+MID_QULYF_HOME1: いろんな文明から来た英雄が\n一堂に会してるなんて……\nちょっと興奮するよ。ちょっとだけどね。
+MID_QULYF_HOME2: 僕、村の暮らしに飽き飽きしてたんだよ。\nだから、アルムに解放軍に誘われて\nいい機会かもって思ったんだ。
+MID_QULYF_HOME3: 召喚師って興味深い仕事だよね……\n一日代わってあげようか？\nなーんて、冗談。
+MID_QULYF_HOME4: 図書館もちょっと飽きたし、\n城を案内してくれない？\n君とならどこに入っても怒られないでしょ。
+MID_QULYF_HOME5: ここでの記録を書き留めてるんだよ。\n元の世界に戻ったところで\n信じてもらえるか怪しいけど……
+MID_QULYF_FRIEND: $Nfが\n挨拶に行けって言うから来ただけ。\nもう帰っていい？
+MID_QULYF_LEVEL1: へー……すごいや。\n僕にこんな力があるなんてね。
+MID_QULYF_LEVEL2: ま、こんなもんだよね。\n文句言わないでよ。
+MID_QULYF_LEVEL3: ……何だよ、つまんないの。
+MID_QULYF_SKILL: おもしろそうな力だね……\nいいよ、君のために使ってあげる。
+MID_QULYF_JOIN: 僕の名前はクリフ。ふーん……\nなかなか楽しそうなところだね。\n僕を退屈させないでよ？
+MID_QULYF_STRONGEST: あ、$Nu。\n別に用って訳じゃないんだけど……\nちょっと話、しない？$k$p僕、よく友達に態度がきついって\n言われるんだけど、君から見てどう？\nやっぱりよくないかな……$k$p何だかいっつもイライラするんだよね。\n僕がまだ子供で、\n自由がないせいかもしれないけど。$k$pあーあ、早く大人になりたいな。\n大人になったら村を出て、ひとりで\n旅に出るのが夢なんだ。内緒だけどね。$k$pどこにでも行けるようになったら\nいつか君にも会いに行ってあげる。\nちゃんと待っててよ？　ふふ……
+MID_QULYF_VOICE01: てやあっ！
+MID_QULYF_VOICE02: いくよ…
+MID_QULYF_VOICE03: うわあっ！
+MID_QULYF_VOICE04: むかつくなあ…
+MID_QULYF_VOICE05: これでどう？
+MID_QULYF_VOICE06: 遊んであげるよ
+MID_QULYF_VOICE07: 大したことないね
+MID_QULYF_VOICE08: 消えちゃえ！
+MID_QULYF_VOICE09: ちぇっ、ここまでか…
+MID_QULYF_VOICE10: ふふっ
+MID_QULYF_VOICE11: 僕はクリフ。みんなと一緒に解放軍で戦ってるんだ。ま、いろいろあってさ。
+MID_QULYF_VOICE12: うわっ！　もう…ロビンみたいなことしないでよ。ヒマなら勉強でもしたら？
+MID_QULYF_VOICE13: 町の学校に通ってたんだけど、今は戦争で休みなんだ。あーあ、つまんないな…
+MID_QULYF_VOICE14: 君がいた世界の話、ちょっと信じられないんだけど…からかってるんじゃないよね？
+MID_QULYF_VOICE15: 村の友達はすぐ僕を子供扱いするんだ。失礼だよね。
+MID_QULYF_VOICE16: もっと広い世界をこの目で見たいんだ。たとえみんなに会えなくなっても……
+MID_QULYF_VOICE17: 君といると退屈しないんだよね。これからももっと僕を驚かせてよ。約束だよ？
+MID_QULYF_VOICE18: いいかもね
+MID_QULYF_VOICE19: ふーん…
+MID_QULYF_VOICE20: 片づけてあげる

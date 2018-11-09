@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_重騎士の兜: Gepanzerter Helm
+MDAID_H_重騎士の兜: Dieser Helm von Hector wurde in\nOsitia hergestellt. Er ist sehr schwer,\naber ein echter Ritter kann ihn tragen.
+MDAID_重騎士の兜・極: Gepanzerter Helm+
+MDAID_H_重騎士の兜・極: Dieser Helm aus Ositia zeichnet sich\ndurch seine extravagante Gestaltung\nund seine Kampfspuren aus.
+MDAID_勇王の兜: Helm des Aufbaus
+MDAID_H_勇王の兜: Der Helm von Ephraim, dem König des\nAufbaus. Obwohl er überraschend\nleicht ist, bietet er guten Schutz.
+MDAID_勇王の兜・極: Helm des Aufbaus+
+MDAID_H_勇王の兜・極: Die vielen Siege des Königs des\nAufbaus manifestieren sich in den\nSchrammen, die diesen Helm zieren.
+MDAID_王女の髪飾り: Prinzessinnendiadem
+MDAID_H_王女の髪飾り: Dieses Diadem von Celica wurde sehr\nfiligran gefertigt und war im Zeitalter\nder Priesterinnen weithin beliebt.
+MDAID_王女の髪飾り・極: Prinzessinnendiadem+
+MDAID_H_王女の髪飾り・極: Dies war eines der Lieblingsstücke\nvon Celica in ihren jungen Jahren und\nhat entsprechende Gebrauchsspuren.
+MDAID_皇女の頭飾り: Imperiale Tiara
+MDAID_H_皇女の頭飾り: Diese imperiale Kopfbedeckung von\nVeronica stammt aus Embla. Sie ist\netwas groß, aber dennoch leicht.
+MDAID_皇女の頭飾り・極: Imperiale Tiara+
+MDAID_H_皇女の頭飾り・極: Imperiale Kopfbedeckung von Veronica\naus Embla, die seit langer Zeit von\nPrinzessinnen weitervererbt wird.
+MID_MISSION_S201808STORY02_TITLE: Ankunft der Tapferen
+MID_MISSION_S201808STORY02_A1: Kap. 24 Tl. 1 - Extrem
+MID_MISSION_H_S201808STORY02_A1: Bewältige Nebenquest 24: Teil 1 auf\nExtrem mit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808STORY02_A2: Kap. 24 Tl. 2 - Extrem
+MID_MISSION_H_S201808STORY02_A2: Bewältige Nebenquest 24: Teil 2 auf\nExtrem mit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808STORY02_A3: Kap. 24 Tl. 3 - Extrem
+MID_MISSION_H_S201808STORY02_A3: Bewältige Nebenquest 24: Teil 3 auf\nExtrem mit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MPID_総選挙セリカ: Celica
+MPID_総選挙ヴェロニカ: Veronica
+MPID_総選挙ヘクトル: Hector
+MPID_総選挙エフラム: Ephraim
+MPID_HONOR_総選挙セリカ: Kriegerpriesterin
+MPID_HONOR_総選挙ヴェロニカ: Prinzessin Mutig
+MPID_HONOR_総選挙ヘクトル: Wackerer Krieger
+MPID_HONOR_総選挙エフラム: Heiliger Zwilling
+MPID_H_総選挙セリカ: Prinzessin von Zofia und Kriegerpriesterin in\nDiensten der Göttin Mila. Führt ein königliches\nSchwert, das sie von Alm erhalten hat. Erscheint\nin Fire Emblem Echoes: Shadows of Valentia.
+MPID_H_総選挙ヴェロニカ: Prinzessin des Emblanischen Imperiums.\nVermisst ihren geliebten Bruder Bruno und\nhat sich auf die Suche nach ihm begeben.
+MPID_H_総選挙ヘクトル: Erhielt nach dem Tod seines Bruders den Titel\ndes Marquis von Ositia. Als gepanzerter Ritter\nträgt er die Lanze einer der Acht Legenden.\nErscheint in Fire Emblem: The Blazing Blade.
+MPID_H_総選挙エフラム: Prinz von Renais, der nach dem Tod seines\nVaters, König Fado, sein Reich beschützt. Nutzt\ndie Axt Garm der Heiligen Zwillinge von Grado.\nErscheint in Fire Emblem: The Sacred Stones.
+MPID_VOICE_総選挙セリカ: Erica Lindbeck
+MPID_VOICE_総選挙ヴェロニカ: Wendee Lee
+MPID_VOICE_総選挙ヘクトル: Patrick Seitz
+MPID_VOICE_総選挙エフラム: Greg Chun
+MPID_ILLUST_総選挙セリカ: Hidari (左)
+MPID_ILLUST_総選挙ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_総選挙ヘクトル: Kita Senri (北千里)
+MPID_ILLUST_総選挙エフラム: Wada Sachiko (ワダサチコ)
+MSID_王家の剣: Königsschwert
+MSID_マルテ: Maltet
+MSID_ガルム: Garm
+MSID_フリズスキャルヴ: Hliðskjálf
+MSID_業火疾風の祝福: Windfeuerbalsam
+MSID_業火疾風の祝福＋: Windfeuerbals.+
+MSID_オスティアの反撃: Ositia-Konter
+MSID_鬼神の一撃4: Ins Schwarze 4
+MSID_獅子連斬: Doppellöwe
+MSID_奥義隊形1: Spezialkämpfer 1
+MSID_奥義隊形2: Spezialkämpfer 2
+MSID_奥義隊形3: Spezialkämpfer 3
+MSID_魔防の波・偶数1: Gerade Res. 1
+MSID_魔防の波・偶数2: Gerade Res. 2
+MSID_魔防の波・偶数3: Gerade Res. 3
+MSID_近距離警戒1: Nahschutz 1
+MSID_近距離警戒2: Nahschutz 2
+MSID_近距離警戒3: Nahschutz 3
+MSID_H_王家の剣: Verleiht Ges. +3. Befindet sich die Einheit im\nUmkreis von 2 Feldern eines Verbündeten,\nwird die Erholungszeit der Einheit pro Angriff\num 1 beschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_マルテ: Beschleunigt Spezialangriffe (Erholungszeit -1).\nInitiiert der Gegner den Kampf und sind die KP\nder Einheit ≥ 50 %, führt die Einheit garantiert\neinen Folgeangriff aus.
+MSID_H_ガルム: Verleiht Angr. +3. Hat die Einheit einen Bonus\ndurch Fähigkeiten wie Sammeln/Verbessern\nund/oder Bonusbewegung durch Fähigkeiten\nwie Def. Marsch/Panzerstiefel erhalten, führt\nsie garantiert einen Folgeangriff aus.
+MSID_H_フリズスキャルヴ: Der Gegner kann nicht kontern. Hat die Einheit\nangegriffen, erleiden Ziel und Gegner im\nUmkreis von 2 Feldern des Ziels nach d. Kampf\nAngr./Ges./Ver./Res. -4 bis nach ihren nächsten\nAktionen. Einh. u. Verb. im Umkreis v. 2 Feldern\nerhalten Angr./Ges./Ver./Res. +4 für 1 Zug.
+MSID_H_業火疾風の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nAngr./Ges. +4 für 1 Zug.
+MSID_H_業火疾風の祝福＋: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nAngr./Ges. +6 für 1 Zug.
+MSID_H_オスティアの反撃: Ermöglicht Gegenangriff unabhängig vom\nAbstand zum Gegner. Initiiert der Gegner\nden Kampf, erhält die Einheit Angr./Ver. +4\nim Kampf.
+MSID_H_鬼神の一撃4: Initiiert die Einheit den Kampf,\nerhält sie Angr. +8 im Kampf.
+MSID_H_獅子連斬: Initiiert die Einheit den Kampf und sind die KP\nder Einheit zu Beginn des Kampfes = 100 %,\ngreift die Einheit 2-mal an und erleidet nach\ndem Kampf 1 Schaden. (Nicht kombinierbar.)
+MSID_H_奥義隊形1: Sind die KP der Einheit zu Beginn des\nKampfes ≥ 90 %, wird die Erholungszeit\nder Einheit um 1 beschleunigt und die\nErholungszeit des Gegners  um 1\nzurückgesetzt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_奥義隊形2: Sind die KP der Einheit zu Beginn des\nKampfes ≥ 70 %, wird die Erholungszeit\nder Einheit um 1 beschleunigt und die\nErholungszeit des Gegners  um 1\nzurückgesetzt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_奥義隊形3: Sind die KP der Einheit zu Beginn des\nKampfes ≥ 50 %, wird die Erholungszeit\nder Einheit um 1 beschleunigt und die\nErholungszeit des Gegners  um 1\nzurückgesetzt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_魔防の波・偶数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nRes. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_魔防の波・偶数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nRes. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_魔防の波・偶数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nRes. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_近距離警戒1: Verleiht Verbündeten im Umkreis von 2 Feldern\nVer./Res. +2 im Kampf gegen Schwertkämpfer,\nLanzenkämpfer, Axtkämpfer und Drachen.
+MSID_H_近距離警戒2: Verleiht Verbündeten im Umkreis von 2 Feldern\nVer./Res. +3 im Kampf gegen Schwertkämpfer,\nLanzenkämpfer, Axtkämpfer und Drachen.
+MSID_H_近距離警戒3: Verleiht Verbündeten im Umkreis von 2 Feldern\nVer./Res. +4 im Kampf gegen Schwertkämpfer,\nLanzenkämpfer, Axtkämpfer und Drachen.
+MID_CHAPTER_TITLE_CX023: Nebenquest 24
+MID_CHAPTER_CX023: Ankunft d. Tapferen
+MID_STAGE_TITLE_X0231: Nebenq. 24: Tl. 1
+MID_STAGE_TITLE_X0232: Nebenq. 24: Tl. 2
+MID_STAGE_TITLE_X0233: Nebenq. 24: Tl. 3
+MID_STAGE_X0231: Ungleiche Prinzessinnen
+MID_STAGE_X0232: Gleichgesinnte Herren
+MID_STAGE_X0233: Die Bitte der Prinzessin
+MID_CHAPTER_ST_CX012: Nebenq. 23 & 24
+MID_STAGE_TITLE_ST_X0022: Nebenquest 23
+MID_STAGE_TITLE_ST_X0023: Nebenquest 24
+MID_STAGE_TITLE_ST_X1023: Nebenq. 23 & 24
+MID_STAGE_TITLE_PB023: Fähigkeiten 23
+MID_STAGE_PB023: Tapfere Helden: H & E
+MID_STAGE_TITLE_PB024: Fähigkeiten 24
+MID_STAGE_PB024: Tapfere Helden: C & V

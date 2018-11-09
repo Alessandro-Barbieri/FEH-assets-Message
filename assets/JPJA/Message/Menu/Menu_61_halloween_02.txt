@@ -1,0 +1,14 @@
+[Heroes Archive] (Menu_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_CHANGE_ASSET_QUALITY: ゲームデータの品質変更
+MID_EXTRA_CHANGE_ASSET_QUALITY_BUTTON: 変更する
+MID_EXTRA_CHANGE_ASSET_QUALITY_BODY: $a現在の品質は「$a0」です。\nゲームデータの品質を\n「$a1」に変更しますか？\n変更する場合、再度ゲームデータを\nダウンロードし直す必要があります。
+MID_EXTRA_CHANGE_ASSET_QUALITY_FOOTER: 軽量版を選択すると、\n画像、音声の品質が低下します。
+MID_SPRINKLES_GIFT_RECEIVED_V2: Google Playでアイテムを入手しました！\nプレゼントリストをご確認ください。
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED_V2: Google Playから新しく入手できる\nアイテムはありませんでした。\n※アイテムは入手済みかもしれません。\n　プレゼントリストをご確認ください。
+MID_GOOGLE_PLAY_POINTS_INVENTORY_MESSAGE: Google Play Pointsで交換
+MID_SEQUENTIAL_MAP_TERM_201810: 懐かしき顔

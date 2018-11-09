@@ -139,7 +139,7 @@ MID_CONFIG_BATTLE_ENEMY_BGM: Música enemiga
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Simple
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Guiado
 MID_CONFIG_BATTLE_BGM: Música de batalla
-MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Solo música especial
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Solo especial
 MID_TITLE_ASK_NAME: Elige un nombre para tu personaje.
 MID_TITLE_ASK_NAME_CAPTION: Introduce el nombre de tu personaje.
 MID_TITLE_ASK_NAME_INFO: Máximo: 12 caracteres. No se admiten\nciertos caracteres especiales. Podrás\neditar el nombre elegido más adelante.
@@ -590,7 +590,7 @@ MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: -Uso de lascas y gemas-\nLas unidades de 
 MID_UNIT_EDIT_SELL_HELP_DIALOG_00: ¡Héroes por plumas!
 MID_UNIT_EDIT_SELL_HELP_DIALOG_01: -Enviar aliados a casa-\nA cambio de enviar unidades\nde vuelta a casa, puedes obtener\nplumas de héroe. Ten en cuenta\nque las unidades retornadas\nno se pueden recuperar.
 MID_UNIT_EDIT_SELL_HELP_DIALOG_02: -Favoritos-\nSi marcas un aliado como\nfavorito, no podrás enviarlo\na casa ni realizar acciones\nque supongan la pérdida\nde la unidad.
-MID_UNIT_EDIT_SELL_HELP_DIALOG_03: -Cómo marcar favoritos-\nPara marcar un aliado como\nfavorito, toca el corazón de la\nesquina superior izquierda de\nsu perfil. Toca otra vez para\nque deje de estar marcado.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: -Cómo marcar favoritos-\nPara marcar un aliado como\nfavorito, toca el corazón de la\nesquina superior izquierda de\nsu perfil y elige un color. Toca\n"Quitar" para que deje de estar\nmarcado.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: ¡A más ★, mayor potencial!
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: -Aumentar el potencial-\n\nEs posible aumentar la rareza\n(★) de las unidades de nivel 20\no superior con ciertos objetos.\nIncrementar la rareza permite\nliberar parte de su potencial.\nLa unidad vuelve al nivel 1, pero\npuede aprender habilidades más\npoderosas y mejorar los atributos\na mayor ritmo.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: -Unidades de 1 ★ a 3 ★-\nPara aumentar su rareza se\nusan plumas de héroe y sellos.\nLas primeras se obtienen de\ndiversos modos, como en el\ncoliseo. Los sellos se pueden\nconseguir en la torre de práctica.
@@ -607,6 +607,12 @@ MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorito $a0
 MID_UNIT_EDIT_FAVORITE_NONE: Quitar
 MID_UNIT_EDIT_FAVORITE_FILTER: Los aliados con el icono que\nselecciones aparecerán antes.\nPuedes elegir a tus unidades\nfavoritas desde sus perfiles.
 MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Ninguno
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT: Cambiar nombre
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT_SELECT: Elige una categoría de favoritos\npara cambiarle el nombre.
+MID_UNIT_EDIT_FAVORITE_NAME_PLACE_HOLDER: Escribe un nombre.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK: Escribe el nombre de la categoría.
+MID_UNIT_EDIT_FAVORITE_NAME_WARNING: El nombre que elijas se usará para todos\nlos aliados que estén en esta categoría.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK_INFO: No puede tener más de 9 caracteres.\nAlgunos símbolos no se pueden usar.
 MID_UNIT_INFO_EXP_MAX: Máx
 MID_UNIT_INFO_TO_TALK: ¡Toca!
 MID_UNIT_INFO_NOW_TALK: ¡Escucha!

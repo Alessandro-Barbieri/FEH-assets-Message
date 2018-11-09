@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_582_legend08)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り・金: Horquilla marina (oro)
+MDAID_H_貝殻の髪飾り・金: Trofeo de tu victoria contra la versión\nlegendaria de Marth.
+MDAID_水中ゴーグル・金: Gafas de buceo (oro)
+MDAID_H_水中ゴーグル・金: Trofeo de tu victoria contra la versión\nlegendaria de Daraen.
+MID_MISSION_M201809A_TITLE: Retos: sept. (1)
+MID_MISSION_M201809A_A1: Victoria cerúlea
+MID_MISSION_H_M201809A_A1: Vence a enemigos con\nunidades de tipo azul.
+MID_MISSION_M201809A_A2: Victoria pedestre
+MID_MISSION_H_M201809A_A2: Vence a enemigos con\nunidades de infantería.
+MID_MISSION_M201809A_A3: Objetivo: verde
+MID_MISSION_H_M201809A_A3: Vence a enemigos de tipo verde.
+MID_MISSION_M201809A_A4: Poder antiaéreo
+MID_MISSION_H_M201809A_A4: Vence a enemigos aéreos.
+MID_MISSION_M201809A_A5: Gladiador
+MID_MISSION_H_M201809A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201809A_A6: Poderío carmesí
+MID_MISSION_H_M201809A_A6: Vence a enemigos de nivel 20\no superior con unidades de tipo rojo.
+MID_MISSION_M201809A_A7: Poderío aéreo
+MID_MISSION_H_M201809A_A7: Vence a enemigos de nivel 20\no superior con unidades aéreas.
+MID_MISSION_M201809A_A8: Objetivo: nivel 20+ azul
+MID_MISSION_H_M201809A_A8: Vence a enemigos de tipo azul\nde nivel 20 o superior.
+MID_MISSION_M201809A_A9: Objetivo: nivel 20+ a pie
+MID_MISSION_H_M201809A_A9: Vence a enemigos de infantería\nde nivel 20 o superior.
+MID_MISSION_M201809A_A10: Gladiador curtido
+MID_MISSION_H_M201809A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201809A_A11: Gloria glauca
+MID_MISSION_H_M201809A_A11: Vence a enemigos de nivel 35\no superior con unidades de tipo verde.
+MID_MISSION_M201809A_A12: Gloria ecuestre
+MID_MISSION_H_M201809A_A12: Vence a enemigos de nivel 35 o\nsuperior con unidades de caballería.
+MID_MISSION_M201809A_A13: Sublimación carmesí
+MID_MISSION_H_M201809A_A13: Vence a enemigos de tipo rojo\nde nivel 35 o superior.
+MID_MISSION_M201809A_A14: Sublimación ecuestre
+MID_MISSION_H_M201809A_A14: Vence a enemigos de caballería\nde nivel 35 o superior.
+MID_MISSION_M201809A_A15: Maestro gladiador
+MID_MISSION_H_M201809A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201809B_TITLE: Retos: sept. (2)
+MID_MISSION_M201809B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201809B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201809B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201809B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201809B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201809B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201809B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201809B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201809B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201809B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201809B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201809B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201809B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201809B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201809B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201809B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201809B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201809B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201809C_TITLE: Retos: sept. (3)
+MID_MISSION_M201809C_A1: Cap. 6 - Parte 1
+MID_MISSION_H_M201809C_A1: Supera la 1.ª parte del capítulo 6\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201809C_A2: Cap. 6 - Parte 2
+MID_MISSION_H_M201809C_A2: Supera la 2.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A3: Cap. 6 - Parte 3
+MID_MISSION_H_M201809C_A3: Supera la 3.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A4: Cap. 6 - Parte 4
+MID_MISSION_H_M201809C_A4: Supera la 4.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A5: Cap. 6 - Parte 5
+MID_MISSION_H_M201809C_A5: Supera la 5.ª parte del capítulo 6 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A6: Cap. 9 - Parte 1 / Difícil+
+MID_MISSION_H_M201809C_A6: Supera la 1.ª parte del capítulo 9\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201809C_A7: Cap. 9 - Parte 2 / Difícil+
+MID_MISSION_H_M201809C_A7: Supera la 2.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201809C_A8: Cap. 9 - Parte 3 / Difícil+
+MID_MISSION_H_M201809C_A8: Supera la 3.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201809C_A9: Cap. 9 - Parte 4 / Difícil+
+MID_MISSION_H_M201809C_A9: Supera la 4.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201809C_A10: Cap. 9 - Parte 5 / Difícil+
+MID_MISSION_H_M201809C_A10: Supera la 5.ª parte del capítulo 9 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201809C_A11: Cap. 12 - Parte 1 / Extr.
+MID_MISSION_H_M201809C_A11: Supera la 1.ª parte del capítulo 12 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201809C_A12: Cap. 12 - Parte 2 / Extr.
+MID_MISSION_H_M201809C_A12: Supera la 2.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A13: Cap. 12 - Parte 3 / Extr.
+MID_MISSION_H_M201809C_A13: Supera la 3.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A14: Cap. 12 - Parte 4 / Extr.
+MID_MISSION_H_M201809C_A14: Supera la 4.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201809C_A15: Cap. 12 - Parte 5 / Extr.
+MID_MISSION_H_M201809C_A15: Supera la 5.ª parte del capítulo 12 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201808BRAVE01_TITLE: Guardianes de Askr
+MID_MISSION_S201808BRAVE01_A1: Vencer con Alfonse
+MID_MISSION_H_S201808BRAVE01_A1: Vence a enemigos con Alfonse,\nPríncipe de Askr.
+MID_MISSION_S201808BRAVE01_A2: Objetivo: verde
+MID_MISSION_H_S201808BRAVE01_A2: Vence a enemigos de tipo verde con Alfonse,\nPríncipe de Askr.
+MID_MISSION_S201808BRAVE01_A3: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A3: Vence a enemigos que usen hacha de nivel 20\no superior con Alfonse, Príncipe de Askr.
+MID_MISSION_S201808BRAVE01_A4: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A4: Vence a enemigos que usen grimorio verde\nde nivel 20 o superior con Alfonse,\nPríncipe de Askr.
+MID_MISSION_S201808BRAVE01_A5: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A5: Vence a enemigos de infantería de nivel 30\no superior con Alfonse, Príncipe de Askr.
+MID_MISSION_S201808BRAVE01_A6: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A6: Vence a enemigos acorazados de nivel 30\no superior con Alfonse, Príncipe de Askr.
+MID_MISSION_S201808BRAVE01_A7: Vencer con Sharena
+MID_MISSION_H_S201808BRAVE01_A7: Vence a enemigos con Sharena,\nPrincesa de Askr.
+MID_MISSION_S201808BRAVE01_A8: Objetivo: rojo
+MID_MISSION_H_S201808BRAVE01_A8: Vence a enemigos de tipo rojo con Sharena,\nPrincesa de Askr.
+MID_MISSION_S201808BRAVE01_A9: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A9: Vence a enemigos que usen espada\nde nivel 20 o superior con Sharena,\nPrincesa de Askr.
+MID_MISSION_S201808BRAVE01_A10: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A10: Vence a enemigos que usen grimorio rojo\nde nivel 20 o superior con Sharena,\nPrincesa de Askr.
+MID_MISSION_S201808BRAVE01_A11: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A11: Vence a enemigos de caballería\nde nivel 30 o superior con Sharena,\nPrincesa de Askr.
+MID_MISSION_S201808BRAVE01_A12: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A12: Vence a enemigos aéreos de nivel 30\no superior con Sharena, Princesa de Askr.
+MID_MISSION_S201808BRAVE01_A13: Vencer con Anna
+MID_MISSION_H_S201808BRAVE01_A13: Vence a enemigos con Anna.
+MID_MISSION_S201808BRAVE01_A14: Objetivo: azul
+MID_MISSION_H_S201808BRAVE01_A14: Vence a enemigos de tipo azul con Anna.
+MID_MISSION_S201808BRAVE01_A15: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A15: Vence a enemigos que usen lanza\nde nivel 20 o superior con Anna.
+MID_MISSION_S201808BRAVE01_A16: Objetivo: nivel 20+
+MID_MISSION_H_S201808BRAVE01_A16: Vence a enemigos que usen grimorio azul\nde nivel 20 o superior con Anna.
+MID_MISSION_S201808BRAVE01_A17: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A17: Vence a enemigos de infantería\nde nivel 30 o superior con Anna.
+MID_MISSION_S201808BRAVE01_A18: Objetivo: nivel 30+
+MID_MISSION_H_S201808BRAVE01_A18: Vence a enemigos de caballería\nde nivel 30 o superior con Anna.
+MID_MISSION_S201808DAISEIATU02_TITLE: Grandes conquistas
+MID_MISSION_S201808DAISEIATU02_A1: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU02_A1: Gana puntos en las grandes conquistas.
+MID_MISSION_S201808DAISEIATU02_A2: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU02_A2: Gana puntos en las grandes conquistas.
+MID_MISSION_S201808DAISEIATU02_A3: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU02_A3: Gana puntos en las grandes conquistas.
+MID_MISSION_S201808DAISEIATU02_A4: Torre de práctica - Nivel 2
+MID_MISSION_H_S201808DAISEIATU02_A4: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201808DAISEIATU02_A5: Torre de práctica - Nivel 8
+MID_MISSION_H_S201808DAISEIATU02_A5: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201808DAISEIATU02_A6: Gladiador
+MID_MISSION_H_S201808DAISEIATU02_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201809VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201809VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201809VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201809VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201809VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201809VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201809VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201809VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201809VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201809VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201809VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201809VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201809VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201809VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201809VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201809VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201809VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201809VOTE01_A9: Gladiador
+MID_MISSION_H_S201809VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201809VOTE01_A10: Gladiador
+MID_MISSION_H_S201809VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201809VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201809VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201809VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201809VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201809VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201809VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201809VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201809VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201809VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201809VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201809VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201809VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201809VOTE01_A17: Torneo de votos: rojo
+MID_MISSION_H_S201809VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201809VOTE01_A18: Torneo de votos: azul
+MID_MISSION_H_S201809VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201809VOTE01_A19: Torneo de votos: verde
+MID_MISSION_H_S201809VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201809VOTE01_A20: Torneo de votos: gris
+MID_MISSION_H_S201809VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MPID_ジャムカ: Jamke
+MPID_HONOR_ジャムカ: Noble de Verdane
+MPID_H_ジャムカ: Príncipe de Verdane que no lleva la sangre\nde ninguno de los cruzados. Lucha contra\nsu patria con su arco con la esperanza\nde acabar con la guerra. Aparece en\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_ジャムカ: Joe Zieja
+MPID_ILLUST_ジャムカ: Suekane Kumiko (スエカネクミコ)
+MPID_伝承マルス: Marth
+MPID_HONOR_伝承マルス: Rey heroico
+MPID_H_伝承マルス: Príncipe de Altea. Tras la guerra de las Sombras\ny la guerra de los Héroes, se convierte en\nel primer monarca del Reino Aliado de Akaneia.\nAparece en Fire Emblem: Mystery of the\nEmblem.
+MPID_VOICE_伝承マルス: Yuri Lowenthal
+MPID_ILLUST_伝承マルス: Daisuke Izuka
+MPID_LEGEND_伝承マルス: Efecto legendario: Fuego\nMejora de aliados: PV + 3, Res + 4\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de fuego si se\nha otorgado la bendición de fuego.
+MSID_神剣ファルシオン: Falchion divina
+MSID_炎の紋章: Sello de Llamas
+MSID_封印の盾: Escudo sellador
+MSID_歩行の柔撃1: Acelerón inf. 1
+MSID_歩行の柔撃2: Acelerón inf. 2
+MSID_歩行の柔撃3: Acelerón inf. 3
+MSID_H_神剣ファルシオン: Eficaz contra dragones. Otorga Vel + 3.\nAta, Vel, Def y Res de la unidad aumentan\nen combate tanto como la bonificación\nactual de cada atributo. Cada mejora se\naplica por separado.
+MSID_H_炎の紋章: La unidad aumenta el daño en una cuantía\nequivalente al 30 % de su Vel. Tras un ataque,\notorga Ata, Vel, Def y Res + 4 a la unidad\ny a todos los aliados hasta el final del turno.\n(Los aliados reciben la mejora aunque los PV\nde la unidad se reduzcan hasta llegar a 0.)
+MSID_H_封印の盾: Si el enemigo es un dragón, no podrá\ncontratacar ni realizar un ataque doble,\nmientras que la unidad ejecutará\nun ataque doble garantizado.
+MSID_H_歩行の柔撃1: Los aliados de infantería situados en un radio\nde dos casillas obtienen el siguiente efecto:\n"Si supera la Vel del enemigo en 5 puntos\no más, - 1 a la cuenta atrás por cada ataque\nde la unidad. (Solo se aplica el valor más\nalto. No acumulable.)"
+MSID_H_歩行の柔撃2: Los aliados de infantería situados en un radio\nde dos casillas obtienen el siguiente efecto:\n"Si supera la Vel del enemigo en 3 puntos\no más, - 1 a la cuenta atrás por cada ataque\nde la unidad. (Solo se aplica el valor más\nalto. No acumulable.)"
+MSID_H_歩行の柔撃3: Los aliados de infantería situados en un radio\nde dos casillas obtienen el siguiente efecto:\n"Si supera la Vel del enemigo en 1 punto\no más, - 1 a la cuenta atrás por cada ataque\nde la unidad. (Solo se aplica el valor más\nalto. No acumulable.)"
+MID_STAGE_HONOR_T0038: Noble de Verdane
+MID_STAGE_T0038: Jamke
+MID_STAGE_HONOR_L0006: Rey heroico
+MID_STAGE_L0006: Marth
+MID_STAGE_TITLE_PB025: Habilidades 25
+MID_STAGE_PB025: El escudo sellador
+MID_STAGE_TITLE_PB026: Habilidades 26
+MID_STAGE_PB026: Protección milagrosa
+MID_STAGE_TITLE_PC012: Maestría 12
+MID_STAGE_PC012: El puente de la amistad

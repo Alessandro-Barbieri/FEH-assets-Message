@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: ◆獎勵角色的擊敗獎勵◆\n獎勵角色每擊敗1位敵方，\n勝利後獲得得分＋３。
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: 擊敗數＋生存數
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: 擊敗＋生存評價
+MID_OCCUPATION_RESULT_DEFENCE_HUB: 陣地防衛評價
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $a即將到達第$a0戰結束時間。
+MID_OCCUPATION_LEFT_TIME_WARNING: 如果超過結束時間，將不會計入結果中。
+MID_PORTRAIT_DAILY_BONUS_INFO_59: 每日限定１次，首次過關時\n可獲得寶珠×２。（最多領取７次）
+MID_PORTRAIT_HELP_DIALOG_03_02: ◆毎日寶珠報酬◆\n每日限定１次，首次過關時\n可獲得寶珠×２。\n（最多領取７次）
+MID_SEQUENTIAL_MAP_TERM_201809: 命運之門
+MID_TAP_BATTLE_CONFIG_REVERSE: 左右反轉
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: ◆左右反轉◆\n遊玩過程中，我軍與敵方的\n位置將會左右顛倒。\n\n◆速度◆\n敵方的移動速度\n最大可以加快至３倍。\n但ＢＯＳＳ的速度不變。
+MID_RELAY_HELP_DIALOG_00: 每２回合，我方將由下５位英雄接替上場！
+MID_RELAY_HELP_DIALOG_01: ◆接力防衛戰的規則◆\n・於大部隊的２０人中，\n　最前面５位英雄將率先登場戰鬥。\n・第３、５、７回合，場上５人將消失，\n　由接下來５位英雄接替登場。\n\n・直到經過８回合，\n　或根據地被破壞後才會定勝負。
+MID_RELAY_HELP_DIALOG_02: ◆根據地◆\n・被攻擊３次後就會破壞。\n・可以移動至我軍的根據地上。\n・位在根據地的英雄，\n　回合開始時回復ＨＰ１０。\n・根據地為防禦地形。
+MID_RELAY_HELP_DIALOG_03: ◆陣地◆\n・被攻擊２次後就會破壞。\n・可以移動至我軍的陣地上。\n・位在陣地的英雄，\n　回合開始時回復ＨＰ１０。\n・陣地為防禦地形。
+MID_RELAY_HELP_DIALOG_04: ◆根據地、陣地間的傳送◆\n位在我軍根據地或陣地，\n及其周圍１格以內的成員，\n可以一口氣移動到我軍的根據地\n或其他陣地，及其周圍１格的位置。
+MID_RELAY_HELP_DIALOG_05: ◆接力防衛戰的得分◆\n定勝負後可獲得得分。\n\n盡量保持我軍根據地、陣地不被攻擊，\n並努力使我方英雄不被擊敗，\n以獲得高分為目標防衛吧。
+MID_RELAY_HELP_DIALOG_06: ◆接力防衛戰的規則　其他◆\n\n・敵方增援會持續登場。\n・無法獲得英雄值。
+MID_UNIT_EDIT_DISPOSE: 整理軍營
+MID_UNIT_EDIT_STOCK_GENERATE: 製作秘傳書
+MID_UNIT_EDIT_STOCK_SELL: 販賣秘傳書
+MID_UNIT_EDIT_STOCK_LIST: 秘傳書一覽
+MID_UNIT_EDIT_STOCK_EMPTY: 目前未持有任何秘傳書。
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: 請選擇要留下秘傳書的角色。
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: 即將消滅角色，\n並獲得秘傳書。
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: 製作
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: 要製作秘傳書嗎？
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: 留下秘傳書的角色\n將會消失。
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: 秘傳書內不包含以下內容。
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・等級及經驗值
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・技能的學習狀況
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・已繼承或鍊成的技能
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・突破極限次數
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・賦予的祝福
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: 角色消滅後，\n將無法恢復原狀。\n\n確定要製作秘傳書嗎？
+MID_UNIT_EDIT_STOCK_SELL_LABEL: 販賣
+MID_UNIT_EDIT_STOCK_SELL_HELP1: 請選擇要販賣的秘傳書。
+MID_UNIT_EDIT_STOCK_SELL_HELP2: 請選擇要販賣的秘傳書數量。
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a×$a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: 販賣
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: 要販賣所選的秘傳書嗎？
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: 販賣之後，\n販賣的秘傳書將會消失。
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: 秘傳書消失後，\n將無法恢復原狀。\n\n確定要販賣秘傳書嗎？
+MID_UNIT_EDIT_STOCK_LIST_HELP: 持有的秘傳書一覽表。
+MID_UNIT_EDIT_STOCK_HELP: 英雄的秘傳書\n可於「繼承技能」或「突破極限」等處，\n作為英雄的代替使用。
+MID_UNIT_EDIT_PROMOTION_HELP1_2: 請選擇要提升★等的角色。
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: 請選擇要覺醒的秘傳書數量。
+MID_UNIT_EDIT_SELL_WARNING_1: 送回之後，\n被送回的角色將會消滅。
+MID_UNIT_EDIT_SELL_WARNING_2: 角色消滅後，\n將無法恢復原狀。\n\n確定要送回嗎？
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a×$a0/$a1
+MID_STOCK_HELP_DIALOG_00: 利用秘傳書來繼承技能、突破極限！
+MID_STOCK_HELP_DIALOG_01: ◆製作秘傳書◆\n藉由將夥伴送回異界，\n獲得秘傳書。\n留下秘傳書的夥伴將會消滅，\n所以請特別注意。
+MID_STOCK_HELP_DIALOG_02: ◆英雄的秘傳書◆\n秘傳書可於「繼承技能」或「突破極限」\n等處，作為英雄的代替使用。\n\n另外，和一般的英雄相同，\n可透過「覺醒」來增加★等。
+MID_STOCK_HELP_DIALOG_03: ◆秘傳書內不包含的內容◆\n下列內容將於製作秘傳書時消失，\n所以請特別注意。\n・等級及經驗值\n・技能的學習狀況\n・已繼承或鍊成的技能\n・突破極限次數\n・賦予的祝福
+MID_STOCK_SELL_HELP_DIALOG_00: ◆販賣秘傳書◆\n透過販賣秘傳書，獲得英雄之翼。\n販賣後就會失去秘傳書，\n所以請特別注意。
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: 持有的秘傳書數量超過上限，\n無法製作秘傳書。
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: 持有的秘傳書數量超過上限，\n無法覺醒秘傳書。
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: 優先
+MID_UNIT_EDIT_SKILL_SET_RESET: 刪除技能組內容
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: 要刪除此技能組的內容嗎？
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: ◆覺醒◆\n可提升英雄１個★等。\n\n等級會回到１，\n但因為★增加，\n不但能力值提高，\n還可學習強力的技能。
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: 秘傳書製作完成。\n\n可於「秘傳書一覽」中\n確認目前擁有的秘傳書。
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: 販賣已完成。
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: ◆編組大部隊◆\n為了遊玩「壓制戰」及\n「接力防衛戰」的部隊編組。\n\n最多可從我軍或是好友的部隊中\n挑選２０名英雄編組部隊。\n未編組的部分，英雄將隨機以援軍登場。

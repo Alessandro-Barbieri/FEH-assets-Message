@@ -1,0 +1,180 @@
+[Heroes Archive] (Data_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201807A_TITLE: ７月ミッションＡ
+MID_MISSION_M201807A_A1: 緑属性で撃破
+MID_MISSION_H_M201807A_A1: 緑属性の味方で、敵を撃破。
+MID_MISSION_M201807A_A2: 騎馬で撃破
+MID_MISSION_H_M201807A_A2: 騎馬の味方で、敵を撃破。
+MID_MISSION_M201807A_A3: 赤属性を撃破
+MID_MISSION_H_M201807A_A3: 赤属性の敵を撃破。
+MID_MISSION_M201807A_A4: 歩行を撃破
+MID_MISSION_H_M201807A_A4: 歩行の敵を撃破。
+MID_MISSION_M201807A_A5: 闘技場で勝利
+MID_MISSION_H_M201807A_A5: 闘技場で勝利。
+MID_MISSION_M201807A_A6: 青属性で、LV２０以上を撃破
+MID_MISSION_H_M201807A_A6: 青属性の味方で、\nレベル２０以上の敵を撃破。
+MID_MISSION_M201807A_A7: 歩行で、LV２０以上を撃破
+MID_MISSION_H_M201807A_A7: 歩行の味方で、\nレベル２０以上の敵を撃破。
+MID_MISSION_M201807A_A8: ＬＶ２０以上の緑属性を撃破
+MID_MISSION_H_M201807A_A8: レベル２０以上の緑属性の敵を撃破。
+MID_MISSION_M201807A_A9: ＬＶ２０以上の騎馬を撃破
+MID_MISSION_H_M201807A_A9: レベル２０以上の騎馬の敵を撃破。
+MID_MISSION_M201807A_A10: 闘技場・中級以上で勝利
+MID_MISSION_H_M201807A_A10: 闘技場・中級以上で勝利。
+MID_MISSION_M201807A_A11: 赤属性で、LV３５以上を撃破
+MID_MISSION_H_M201807A_A11: 赤属性の味方で、\nレベル３５以上の敵を撃破。
+MID_MISSION_M201807A_A12: 飛行で、LV３５以上を撃破
+MID_MISSION_H_M201807A_A12: 飛行の味方で、\nレベル３５以上の敵を撃破。
+MID_MISSION_M201807A_A13: ＬＶ３５以上の青属性を撃破
+MID_MISSION_H_M201807A_A13: レベル３５以上の青属性の敵を撃破。
+MID_MISSION_M201807A_A14: ＬＶ３５以上の飛行を撃破
+MID_MISSION_H_M201807A_A14: レベル３５以上の飛行の敵を撃破。
+MID_MISSION_M201807A_A15: 闘技場・上級で勝利
+MID_MISSION_H_M201807A_A15: 闘技場・上級で勝利。
+MID_MISSION_M201807B_TITLE: ７月ミッションＢ
+MID_MISSION_M201807B_A1: 特殊：修練の塔・第１階層突破
+MID_MISSION_H_M201807B_A1: 修練の塔・第１階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A2: 特殊：修練の塔・第２階層突破
+MID_MISSION_H_M201807B_A2: 修練の塔・第２階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A3: 特殊：修練の塔・第３階層突破
+MID_MISSION_H_M201807B_A3: 修練の塔・第３階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A4: 特殊：修練の塔・第４階層突破
+MID_MISSION_H_M201807B_A4: 修練の塔・第４階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A5: 特殊：修練の塔・第５階層突破
+MID_MISSION_H_M201807B_A5: 修練の塔・第５階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A6: 特殊：修練の塔・第６階層突破
+MID_MISSION_H_M201807B_A6: 修練の塔・第６階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A7: 特殊：修練の塔・第７階層突破
+MID_MISSION_H_M201807B_A7: 修練の塔・第７階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A8: 特殊：修練の塔・第８階層突破
+MID_MISSION_H_M201807B_A8: 修練の塔・第８階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A9: 特殊：修練の塔・第９階層突破
+MID_MISSION_H_M201807B_A9: 修練の塔・第９階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A10: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_M201807B_A10: 修練の塔・第１０階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A11: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_M201807B_A11: 全員歩行の仲間で、\n修練の塔・第１０階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A12: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_M201807B_A12: 全員重装の仲間で、\n修練の塔・第１０階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A13: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_M201807B_A13: 全員騎馬の仲間で、\n修練の塔・第１０階層を\n４人全員生存でクリア。
+MID_MISSION_M201807B_A14: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_M201807B_A14: 全員飛行の仲間で、\n修練の塔・第１０階層を\n４人全員生存でクリア。
+MID_MISSION_M201807C_TITLE: ７月ミッションＣ
+MID_MISSION_M201807C_A1: 特殊：４章－１節突破
+MID_MISSION_H_M201807C_A1: ４章－１節を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A2: 特殊：４章－２節突破
+MID_MISSION_H_M201807C_A2: 赤属性の仲間を自軍に入れて、\n４章－２節を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A3: 特殊：４章－３節突破
+MID_MISSION_H_M201807C_A3: 青属性の仲間を自軍に入れて、\n４章－３節を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A4: 特殊：４章－４節突破
+MID_MISSION_H_M201807C_A4: 緑属性の仲間を自軍に入れて、\n４章－４節を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A5: 特殊：４章－５節突破
+MID_MISSION_H_M201807C_A5: 無属性の仲間を自軍に入れて、\n４章－５節を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A6: 特殊：７章－１節ハード突破
+MID_MISSION_H_M201807C_A6: ７章－１節ハード以上を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A7: 特殊：７章－２節ハード突破
+MID_MISSION_H_M201807C_A7: 赤属性の仲間を自軍に入れて、\n７章－２節ハード以上を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A8: 特殊：７章－３節ハード突破
+MID_MISSION_H_M201807C_A8: 青属性の仲間を自軍に入れて、\n７章－３節ハード以上を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A9: 特殊：７章－４節ハード突破
+MID_MISSION_H_M201807C_A9: 緑属性の仲間を自軍に入れて、\n７章－４節ハード以上を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A10: 特殊：７章－５節ハード突破
+MID_MISSION_H_M201807C_A10: 無属性の仲間を自軍に入れて、\n７章－５節ハード以上を\n４人全員生存でクリア。
+MID_MISSION_M201807C_A11: 特殊：１０章－１節ルナ突破
+MID_MISSION_H_M201807C_A11: １０章－１節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_M201807C_A12: 特殊：１０章－２節ルナ突破
+MID_MISSION_H_M201807C_A12: 赤属性の仲間を自軍に入れて、\n１０章－２節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_M201807C_A13: 特殊：１０章－３節ルナ突破
+MID_MISSION_H_M201807C_A13: 青属性の仲間を自軍に入れて、\n１０章－３節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_M201807C_A14: 特殊：１０章－４節ルナ突破
+MID_MISSION_H_M201807C_A14: 緑属性の仲間を自軍に入れて、\n１０章－４節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_M201807C_A15: 特殊：１０章－５節ルナ突破
+MID_MISSION_H_M201807C_A15: 無属性の仲間を自軍に入れて、\n１０章－５節ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201806HERO02_TITLE: 大英雄戦
+MID_MISSION_S201806HERO02_A1: 特殊：影の皇子リオン突破
+MID_MISSION_H_S201806HERO02_A1: アスク王国の王女シャロンを自軍に入れて、\n大英雄戦・影の皇子リオンをクリア。
+MID_MISSION_S201806HERO02_A2: 特殊：影の皇子リオン突破
+MID_MISSION_H_S201806HERO02_A2: 影の皇子リオンを自軍に入れて、\n大英雄戦・影の皇子リオン\nルナティック以上をクリア。
+MID_MISSION_S201806HERO02_A3: 特殊：影の皇子リオンを撃破
+MID_MISSION_H_S201806HERO02_A3: アスク王国の王女シャロンで、\nレベル４０以上の影の皇子リオンを撃破。
+MID_MISSION_S201806HERO02_A4: 特殊：影の皇子リオン撃破
+MID_MISSION_H_S201806HERO02_A4: 影の皇子リオンで、\nレベル４０以上の影の皇子リオンを撃破。
+MID_MISSION_S201806HERO02_A5: 特殊：影の皇子リオン突破
+MID_MISSION_H_S201806HERO02_A5: 全員飛行の仲間で、\n大英雄戦・影の皇子リオン\nルナティック以上をクリア。
+MID_MISSION_S201807BLESS01_TITLE: 火の祝福
+MID_MISSION_S201807BLESS01_A1: 火の祝福の味方で撃破
+MID_MISSION_H_S201807BLESS01_A1: 火の祝福を付与された英雄で、敵を撃破。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A2: 特殊：火の祝福の味方で撃破
+MID_MISSION_H_S201807BLESS01_A2: 火の祝福を付与された英雄で、\nレベル２０以上の敵を撃破。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A3: 特殊：火の祝福の味方で撃破
+MID_MISSION_H_S201807BLESS01_A3: 火の祝福を付与された英雄で、\nレベル３５以上の赤属性の敵を撃破。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A4: 特殊：火の祝福の味方で撃破
+MID_MISSION_H_S201807BLESS01_A4: 火の祝福を付与された英雄で、\nレベル３５以上の青属性の敵を撃破。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A5: 特殊：火の祝福の味方で撃破
+MID_MISSION_H_S201807BLESS01_A5: 火の祝福を付与された英雄で、\nレベル３５以上の緑属性の敵を撃破。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A6: 特殊：修練の塔・第１階層突破
+MID_MISSION_H_S201807BLESS01_A6: 火の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１階層をクリア。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A7: 特殊：修練の塔・第５階層突破
+MID_MISSION_H_S201807BLESS01_A7: 火の祝福を付与された英雄を自軍に入れて、\n修練の塔・第５階層をクリア。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807BLESS01_A8: 特殊：修練の塔・１０階層突破
+MID_MISSION_H_S201807BLESS01_A8: 火の祝福を付与された英雄を自軍に入れて、\n修練の塔・第１０階層をクリア。\n（火の伝承英雄は、\n　火の祝福を付与された英雄とは異なる）
+MID_MISSION_S201807VOTE01_TITLE: 投票大戦
+MID_MISSION_S201807VOTE01_A1: 投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A1: 投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A2: 投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A2: 投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A3: 投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A3: 投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A4: 投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A4: 投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A5: 投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A5: 投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A6: 修練の塔・第２階層突破
+MID_MISSION_H_S201807VOTE01_A6: 修練の塔・第２階層をクリア。
+MID_MISSION_S201807VOTE01_A7: 修練の塔・第５階層突破
+MID_MISSION_H_S201807VOTE01_A7: 修練の塔・第５階層をクリア。
+MID_MISSION_S201807VOTE01_A8: 修練の塔・第８階層突破
+MID_MISSION_H_S201807VOTE01_A8: 修練の塔・第８階層をクリア。
+MID_MISSION_S201807VOTE01_A9: 闘技場で勝利
+MID_MISSION_H_S201807VOTE01_A9: 闘技場で勝利。
+MID_MISSION_S201807VOTE01_A10: 闘技場で勝利
+MID_MISSION_H_S201807VOTE01_A10: 闘技場で勝利。
+MID_MISSION_S201807VOTE01_A11: 闘技場・中級以上で勝利
+MID_MISSION_H_S201807VOTE01_A11: 闘技場・中級以上で勝利。
+MID_MISSION_S201807VOTE01_A12: 闘技場・中級以上で勝利
+MID_MISSION_H_S201807VOTE01_A12: 闘技場・中級以上で勝利。
+MID_MISSION_S201807VOTE01_A13: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A13: 赤属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A14: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A14: 青属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A15: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A15: 緑属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A16: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A16: 無属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A17: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A17: 赤属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A18: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A18: 青属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A19: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A19: 緑属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MID_MISSION_S201807VOTE01_A20: 特殊：投票大戦で勝利
+MID_MISSION_H_S201807VOTE01_A20: 無属性の仲間を自軍に入れて、\n投票大戦をクリア。
+MPID_伝承ヘクトル: ヘクトル
+MPID_HONOR_伝承ヘクトル: オスティア侯
+MPID_H_伝承ヘクトル: オスティア侯の爵位を継いだヘクトル。\n志も新たに【アルマーズ】を振るい、民を導く。\n（登場：『ファイアーエムブレム　烈火の剣』）
+MPID_VOICE_伝承ヘクトル: 鳥海浩輔
+MPID_ILLUST_伝承ヘクトル: ワダサチコ
+MPID_LEGEND_伝承ヘクトル: 伝承効果：「火」　仲間のＨＰ＋３、攻撃＋２\n「火」のシーズンの時、\n「火」の祝福を付与された仲間は、\nこの英雄と共に出撃すると、伝承効果を受ける。
+MSID_天雷アルマーズ: 天雷アルマーズ
+MSID_オスティアの鼓動: オスティアの鼓動
+MSID_H_天雷アルマーズ: 守備＋３\n周囲２マス以内の\n敵の数より味方の数（自身と戦闘相手を除く）が\n多い時、敵は追撃不可
+MSID_H_オスティアの鼓動: １ターン目開始時、味方の奥義発動カウント－１\nただし、現在の部隊内で、\n同じ移動タイプが２体以下の味方のみが対象
+MID_STAGE_HONOR_T0034: ヘクトル　＆
+MID_STAGE_T0034: マシュー
+MID_STAGE_HONOR_L0004: オスティア侯
+MID_STAGE_L0004: ヘクトル

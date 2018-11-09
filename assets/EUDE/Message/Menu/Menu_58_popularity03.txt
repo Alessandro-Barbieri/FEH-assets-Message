@@ -1,0 +1,20 @@
+[Heroes Archive] (Menu_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MID_OCCUPATION_GAINED_REWARDTYPE_SUPERIORITY_SCORE: $aGE-Gebietspunkte-Prämie: Kampf $a0
+MID_OCCUPATION_REWARD_SORT_SUPERIORITY_SCORE: Gebietspunkte
+MID_OCCUPATION_SCORE_BOARD_TITLE: Aktuelle Gebietspunkte
+MID_OCCUPATION_SCORE_BOARD_OPERATION: $aRunde $a0
+MID_OCCUPATION_SCORE_BOARD_FINAL_AREA: Gebiete
+MID_OCCUPATION_SCORE_BOARD_TOTAL: Gesamt
+MID_OCCUPATION_SCORE_BOARD_AGGREGATING: Berechnung
+MID_OCCUPATION_SCORE_BOARD_HELP_TITLE: Punkte werden je nach Anzahl der am Ende\neiner Runde kontrollierten Gebiete verdient.
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_1: ・5-9 Gebiete
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_2: ・10-14 Gebiete
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_3: ・15 oder mehr Gebiete
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_4: $a1 Punkt pro kontrolliertem Gebiet in Runde $a0.
+MID_PORTRAIT_TITLE_201808: Gegen das Schicksal
+MID_SUMMON_PULL_ONLY_ONCE_Summon_58_popularity03_Selected: Sitzung endet nach Auswahl eines Helden.

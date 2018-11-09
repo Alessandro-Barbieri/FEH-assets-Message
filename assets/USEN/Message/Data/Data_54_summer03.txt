@@ -88,9 +88,9 @@ MSID_H_強化無効・近距離3: If foe uses sword, lance, axe, or\ndragonstone
 MSID_H_守備の共謀1: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-3 on foes in cardinal directions\nof unit through their next actions.
 MSID_H_守備の共謀2: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-5 on foes in cardinal directions\nof unit through their next actions.
 MSID_H_守備の共謀3: If a Rally Assist skill is used by unit or targets\nunit, inflicts Def-7 on foes in cardinal directions\nof unit through their next actions.
-MSID_H_歩行の剛撃1: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+5, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
-MSID_H_歩行の剛撃2: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+3, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
-MSID_H_歩行の剛撃3: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+1, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)"
+MSID_H_歩行の剛撃1: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+5, grants Special cooldown\ncharge +1 per unit's attack. (Only highest\nvalue applied. Does not stack.)"
+MSID_H_歩行の剛撃2: Infantry allies within 2 spaces gain: "If unit's\nAtk ≥ foe's Atk+3, grants Special cooldown\ncharge +1 per unit's attack. (Only highest\nvalue applied. Does not stack.)"
+MSID_H_歩行の剛撃3: Infantry allies within 2 spaces gain: "If unit's\nAtk > foe's Atk, grants Special cooldown\ncharge +1 per unit's attack. (Only highest\nvalue applied. Does not stack.)"
 MID_CHAPTER_TITLE_CX020: Paralogue 21
 MID_CHAPTER_CX020: Summer's Arrival
 MID_STAGE_TITLE_X0201: Paralogue 21-1

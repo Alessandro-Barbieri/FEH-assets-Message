@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_LEGEND01_HOME1: アカネイア大陸の七つの王国は\n一つになろうとしている…そして、\nみんなはぼくに全てを託すというんだ。
+MID_MARTH_LEGEND01_HOME2: アカネイア大陸を戦乱に巻き込んだ\n闇の力を、この世界でも感じるよ。
+MID_MARTH_LEGEND01_HOME3: ぼくは大丈夫。\nこう見えて戦い慣れているからね。\n君こそ、よく休むといいよ。
+MID_MARTH_LEGEND01_HOME4: これかい？\nシーダがよく用意してくれた薬湯だよ。\n…ちょっと甘すぎたかも。
+MID_MARTH_LEGEND01_HOME5: 君が命を賭けて戦う理由は何だい？\n…そんなに難しい顔をしなくていいよ。\n君なりの答えを聞かせてほしいんだ。
+MID_MARTH_LEGEND01_FRIEND: こんにちは、会えて嬉しいよ。\n$Nfが\n君のことをほめていたよ。
+MID_MARTH_LEGEND01_LEVEL1: この戦いに勝利を！
+MID_MARTH_LEGEND01_LEVEL2: よし！\nこの調子で突破しよう！
+MID_MARTH_LEGEND01_LEVEL3: なぜだろう。\n闇の気配を感じる…
+MID_MARTH_LEGEND01_SKILL: ぼくらが力を合わせれば、\nどんな敵にも負けることはないさ！
+MID_MARTH_LEGEND01_JOIN: ぼくはマルス。君たちは\n何のために、誰のために戦う？\n君の信じる正義を教えて欲しい。
+MID_MARTH_LEGEND01_STRONGEST: 皆に英雄王と呼ばれるようになってから、\nぼくはときどき考えるんだ。\n正義とは何だろうって。$k$p勝利は、かならず敗者を生むものだよね。\n敗者は、歯を食いしばり逆襲を誓う…\nぼくの知る限り、歴史はその繰り返しだ。$k$pぼくも敗者だったから、よくわかるんだ。\n父を討たれ、祖国を失い…\n落ち延びた先で、仲間と再起を誓った。$k$pでも、ニーナ様から炎の紋章を…\nファイアーエムブレムを授かった。\nそれはぼくの戦いの意味を大きく変えたよ。$k$pぼくの戦いは、\n敗者の復讐のためではなく、\nすべての人々のためでなくてはならない…$k$pあの戦いで勝利をおさめられたのは、\n同じ正義を信じる仲間たちと出会い、\n共に戦うことができたからだと思っている。$k$p今では、君もその一人だと確信しているよ。\nこれからもよろしく、\n$Nu…
+MID_MARTH_LEGEND01_VOICE01: はっ！
+MID_MARTH_LEGEND01_VOICE02: 行こう！
+MID_MARTH_LEGEND01_VOICE03: うああっ！
+MID_MARTH_LEGEND01_VOICE04: ぼくはまだ…！
+MID_MARTH_LEGEND01_VOICE05: みんなと共に！
+MID_MARTH_LEGEND01_VOICE06: あきらめない！
+MID_MARTH_LEGEND01_VOICE07: 最後まで！
+MID_MARTH_LEGEND01_VOICE08: ファルシオン！
+MID_MARTH_LEGEND01_VOICE09: みんな…すまない…
+MID_MARTH_LEGEND01_VOICE10: はは
+MID_MARTH_LEGEND01_VOICE11: ぼくはマルス。アリティアの王子だ。
+MID_MARTH_LEGEND01_VOICE12: わっ！　どうしたんだい急に？
+MID_MARTH_LEGEND01_VOICE13: 伝承の英雄…そう呼ばれるのは不思議な気分だよ。
+MID_MARTH_LEGEND01_VOICE14: ぼく一人では何もできない。仲間がいてくれるからこそだよ。
+MID_MARTH_LEGEND01_VOICE15: どの世界でも、人々が幸せに暮らせるように…
+MID_MARTH_LEGEND01_VOICE16: ぼくが頼りないと、みんなに辛い思いをさせてしまう…
+MID_MARTH_LEGEND01_VOICE17: きみを守らせてほしい。きみはぼくにとって、かけがえのない人だから。
+MID_MARTH_LEGEND01_VOICE18: うん
+MID_MARTH_LEGEND01_VOICE19: どうしようか？
+MID_MARTH_LEGEND01_VOICE20: きみと共に

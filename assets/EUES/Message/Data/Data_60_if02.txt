@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_60_if02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_メイドの頭飾り: Tocado de criada
+MDAID_H_メイドの頭飾り: Tocado de Flora. Es una prenda\ntradicional nohria que procede\ndel castillo Krankenburg.
+MDAID_メイドの頭飾り・極: Tocado de criada +
+MDAID_H_メイドの頭飾り・極: Tocado de Flora. Solo la criada\nde mayor rango puede llevar\neste lujoso tocado.
+MDAID_騎士の額当て: Tocado de caballero
+MDAID_H_騎士の額当て: Tocado de Silas. Se otorga a aquellos\nque se ganan el título de caballero.
+MDAID_騎士の額当て・極: Tocado de caballero +
+MDAID_H_騎士の額当て・極: Tocado de Silas. Se otorga solo\na quienes logran convertirse\nen paladines.
+MDAID_読書用眼鏡: Gafas de lectura
+MDAID_H_読書用眼鏡: Según Nina, con estas gafas\nno se te cansa la vista, leas lo que leas.
+MDAID_読書用眼鏡・極: Gafas de lectura +
+MDAID_H_読書用眼鏡・極: Nina dice que con estas gafas\npuedes leer incluso de noche.
+MDAID_聖なる星の煌めき: Polvo estelar divino
+MDAID_H_聖なる星の煌めき: Ophelia dice que este polvo tiene\nun gran poder. (Solo es una horquilla,\npero tú síguele la corriente.)
+MDAID_聖なる星の煌めき・極: Polvo estelar divino +
+MDAID_H_聖なる星の煌めき・極: Según Ophelia, solo los elegidos\npueden tocarlo. (En realidad es una\nhorquilla, pero no le quites la ilusión.)
+MID_MISSION_M201809CLEAR01_TITLE: Libro II
+MID_MISSION_M201809CLEAR01_A1: Cap. 1 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A1: Supera la 5.ª parte del capítulo 1 del libro II con\n4 unidades, incluyendo a Fjorm, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A2: Cap. 2 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A2: Supera la 5.ª parte del capítulo 2 del libro II con\n4 unidades, incluyendo a Fjorm, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A3: Cap. 3 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A3: Supera la 5.ª parte del capítulo 3 del libro II con\n4 unidades, incluyendo a Fjorm, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A4: Cap. 4 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A4: Supera la 5.ª parte del capítulo 4 del libro II con\n4 unidades, incluyendo a Fjorm, en tu batallón\ny sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A5: Cap. 5 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A5: Supera la 5.ª parte del capítulo 5 del libro II\nen modo difícil con 4 unidades de infantería\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A6: Cap. 6 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A6: Supera la 5.ª parte del capítulo 6 del libro II\nen modo difícil con 4 unidades acorazadas\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A7: Cap. 7 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A7: Supera la 5.ª parte del capítulo 7 del libro II\nen modo difícil con 4 unidades de caballería\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A8: Cap. 8 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A8: Supera la 5.ª parte del capítulo 8 del libro II\nen modo difícil con 4 unidades aéreas\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A9: Cap. 9 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A9: Supera la 5.ª parte del capítulo 9 del libro II\nen modo extremo con 4 unidades de infantería\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A10: Cap. 10 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A10: Supera la 5.ª parte del capítulo 10 del libro II\nen modo extremo con 4 unidades acorazadas\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A11: Cap. 11 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A11: Supera la 5.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades de caballería\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A12: Cap. 12 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A12: Supera la 5.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades aéreas\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201809CLEAR01_A13: Cap. 13 - Parte 5
+MID_MISSION_H_M201809CLEAR01_A13: Supera la 5.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\na Fjorm, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201809DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201809DAISEIATU01_A1: Gana puntos en las grandes conquistas.
+MID_MISSION_S201809DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201809DAISEIATU01_A2: Gana puntos en las grandes conquistas.
+MID_MISSION_S201809DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201809DAISEIATU01_A3: Gana puntos en las grandes conquistas.
+MID_MISSION_S201809DAISEIATU01_A4: Torre de práctica - Nivel 2
+MID_MISSION_H_S201809DAISEIATU01_A4: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201809DAISEIATU01_A5: Torre de práctica - Nivel 8
+MID_MISSION_H_S201809DAISEIATU01_A5: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201809DAISEIATU01_A6: Gladiador
+MID_MISSION_H_S201809DAISEIATU01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201809HERO01_TITLE: Grandes batallas
+MID_MISSION_S201809HERO01_A1: Derrotar a Saias
+MID_MISSION_H_S201809HERO01_A1: Gana la gran batalla contra Saias,\nObispo del fuego, con Anna en tu batallón.
+MID_MISSION_S201809HERO01_A2: Derrotar a Saias: Saias
+MID_MISSION_H_S201809HERO01_A2: Gana la gran batalla contra Saias, Obispo\ndel fuego, en modo extremo, con Saias, Obispo\ndel fuego, en tu batallón.
+MID_MISSION_S201809HERO01_A3: Derrotar a Saias: Anna
+MID_MISSION_H_S201809HERO01_A3: Derrota a Saias, Obispo del fuego,\nen su versión de nivel 40 o superior con Anna.
+MID_MISSION_S201809HERO01_A4: Derrotar a Saias: 40+
+MID_MISSION_H_S201809HERO01_A4: Derrota a Saias, Obispo del fuego,\nen su versión de nivel 40 o superior con Saias,\nObispo del fuego.
+MID_MISSION_S201809HERO01_A5: Derrotar a Saias: extremo
+MID_MISSION_H_S201809HERO01_A5: Gana la gran batalla contra Saias, Obispo\ndel fuego, en modo extremo o superior,\ncon un batallón de unidades de infantería.
+MID_MISSION_S201809SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201809SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201809SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201809SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201809SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201809SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809STORY02_TITLE: El camino a casa
+MID_MISSION_S201809STORY02_A1: Cap. 13 - Parte 1 / Extr.
+MID_MISSION_H_S201809STORY02_A1: Supera la 1.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY02_A2: Cap. 13 - Parte 2 / Extr.
+MID_MISSION_H_S201809STORY02_A2: Supera la 2.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY02_A3: Cap. 13 - Parte 3 / Extr.
+MID_MISSION_H_S201809STORY02_A3: Supera la 3.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY02_A4: Cap. 13 - Parte 4 / Extr.
+MID_MISSION_H_S201809STORY02_A4: Supera la 4.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY02_A5: Cap. 13 - Parte 5 / Extr.
+MID_MISSION_H_S201809STORY02_A5: Supera la 5.ª parte del capítulo 13 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MPID_フローラ: Flora
+MPID_エポニーヌ: Nina
+MPID_オフェリア: Ophelia
+MPID_サイラス: Silas
+MPID_ガロン: Garon
+MPID_レーヴァテイン味方: Laevatein
+MPID_レーギャルン味方: Laegjarn
+MPID_ヘルビンディ味方: Helbindi
+MPID_HONOR_フローラ: Sirvienta nívea
+MPID_HONOR_エポニーヌ: Espía mirona
+MPID_HONOR_オフェリア: Heroína teatrera
+MPID_HONOR_サイラス: Caballero leal
+MPID_HONOR_ガロン: Rey de Nohr
+MPID_HONOR_レーヴァテイン味方: Acero ardiente
+MPID_HONOR_レーギャルン味方: Acero envainado
+MPID_HONOR_ヘルビンディ味方: Azote salvaje
+MPID_H_フローラ: Criada nohria al servicio de Corrin.\nPor lo general es seria. Felicia es su gemela.\nAparece en Fire Emblem Fates.
+MPID_H_エポニーヌ: Hija de Niles. Tranquila e inteligente,\npero tiende a desconectarse de la realidad.\nAparece en Fire Emblem Fates.
+MPID_H_オフェリア: Hija de Odín. Es una soñadora\ncon un don para teatralizar su magia.\nAparece en Fire Emblem Fates.
+MPID_H_サイラス: Caballero nohrio recién armado\ny amigo de la infancia de Corrin.\nA menudo le piden consejo.\nAparece en Fire Emblem Fates.
+MPID_H_ガロン: Rey de Nohr. Planea invadir y gobernar Hoshido.\nAparece en Fire Emblem Fates.
+MPID_H_レーヴァテイン味方: Segunda princesa de Múspell, el reino del\nfuego. En su mente, la hoja que blande y\nella misma son parte del mismo ser.\nMantiene sus emociones a raya.
+MPID_H_レーギャルン味方: Primera princesa de Múspell, el reino\ndel fuego, y hermana mayor de Laevatein.\nComo general, dirige el ejército de Múspell\ncon dignidad.
+MPID_H_ヘルビンディ味方: Brusco y violento general de Múspell, el reino\ndel fuego. Es de origen humilde, pero logró\nascender rápidamente en el ejército gracias\na su talento para la guerra.
+MPID_VOICE_フローラ: Julie Ann Taylor
+MPID_VOICE_エポニーヌ: Liv Strander
+MPID_VOICE_オフェリア: Angela Marie Volpe
+MPID_VOICE_サイラス: —
+MPID_VOICE_ガロン: Patrick Seitz
+MPID_VOICE_レーヴァテイン味方: Sarah Williams
+MPID_VOICE_レーギャルン味方: Alicia Stratten
+MPID_VOICE_ヘルビンディ味方: Raymond K. Essel
+MPID_ILLUST_フローラ: HAKO (羽公)
+MPID_ILLUST_エポニーヌ: Mikuro (みく郎)
+MPID_ILLUST_オフェリア: Umiu Geso (海鵜げそ)
+MPID_ILLUST_サイラス: Meka (めか)
+MPID_ILLUST_ガロン: Soeda Ippei (添田一平)
+MPID_ILLUST_レーヴァテイン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_レーギャルン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ヘルビンディ味方: Maeshima Shigeki (前嶋重機)
+MSID_シャイニングボウ: Arco de luz
+MSID_シャイニングボウ＋: Arco de luz +
+MSID_霧氷のナイフ: Daga escarchada
+MSID_魔書ミステルトィン: Misilteinn
+MSID_暗夜竜のブレス: Aliento pútrido
+MSID_攻撃の大応援: Reforzar Ata
+MSID_攻撃の大応援＋: Reforzar Ata +
+MSID_攻撃魔防の孤軍1: Retiro Ata/Res 1
+MSID_攻撃魔防の孤軍2: Retiro Ata/Res 2
+MSID_攻撃魔防の孤軍3: Retiro Ata/Res 3
+MSID_速さ魔防の連携1: Nexo Vel/Res 1
+MSID_速さ魔防の連携2: Nexo Vel/Res 2
+MSID_速さ魔防の連携3: Nexo Vel/Res 3
+MSID_守備の波・偶数1: Ola Def par 1
+MSID_守備の波・偶数2: Ola Def par 2
+MSID_守備の波・偶数3: Ola Def par 3
+MSID_赤の死闘・飛行1: Lid aérea R 1
+MSID_赤の死闘・飛行2: Lid aérea R 2
+MSID_赤の死闘・飛行3: Lid aérea R 3
+MSID_緑の死闘・歩行1: Lid pedestre V 1
+MSID_緑の死闘・歩行2: Lid pedestre V 2
+MSID_緑の死闘・歩行3: Lid pedestre V 3
+MSID_速さの波・奇数1: Ola Vel impar 1
+MSID_速さの波・奇数2: Ola Vel impar 2
+MSID_速さの波・奇数3: Ola Vel impar 3
+MSID_H_シャイニングボウ: Eficaz contra unidades aéreas. Si la Def del\nrival es mayor o igual que su Res + 5, inflige\n+ 7 de daño.
+MSID_H_シャイニングボウ＋: Eficaz contra unidades aéreas. Si la Def del\nrival es mayor o igual que su Res + 5, inflige\n+ 7 de daño.
+MSID_H_霧氷のナイフ: Facilita la ejecución de habilidades especiales:\n- 1 a la cuenta atrás. Si la unidad inicia\nel ataque y el rival usa espada, lanza, hacha\no piedra dragón, obtiene Def + 20 durante\nel enfrentamiento y si, además, el rival\npuede contratacar, la unidad ejecuta\nun ataque doble garantizado. Tras un ataque,\nsi la unidad actúa, inflige Def y Res - 7 al rival\ny a todos los enemigos en un radio de dos\ncasillas a su alrededor en su próxima acción.
+MSID_H_魔書ミステルトィン: Facilita la ejecución de habilidades especiales:\n- 1 a la cuenta atrás. Al inicio del primer turno\n- 1 a la cuenta atrás por cada aliado\nque use magia (incluida la unidad).
+MSID_H_暗夜竜のブレス: Anula las bonificaciones de eficacia contra\nlos dragones. Al inicio del cuarto turno,\ninflige 10 de daño a todos los enemigos\nen un radio de tres casillas y la unidad recupera\ntantos PV como enemigos haya en el mismo\nradio multiplicados por 5. Contra enemigos\ncon alcance de 2, el daño se calcula a partir\nde la Def o la Res del enemigo (la que tenga\nel valor más bajo).
+MSID_H_攻撃の大応援: Otorga Ata + 4 al objetivo y a los aliados\nen un radio de dos casillas a su alrededor\n(excluyendo a la unidad) hasta el final del turno.
+MSID_H_攻撃の大応援＋: Otorga Ata + 6 al objetivo y a los aliados\nen un radio de dos casillas a su alrededor\n(excluyendo a la unidad) hasta el final del turno.
+MSID_H_攻撃魔防の孤軍1: Si no hay aliados adyacentes, otorga\nAta y Res + 2 en combate.
+MSID_H_攻撃魔防の孤軍2: Si no hay aliados adyacentes, otorga\nAta y Res + 4 en combate.
+MSID_H_攻撃魔防の孤軍3: Si no hay aliados adyacentes, otorga\nAta y Res + 6 en combate.
+MSID_H_速さ魔防の連携1: Otorga Vel y Res + 2 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_速さ魔防の連携2: Otorga Vel y Res + 4 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_速さ魔防の連携3: Otorga Vel y Res + 6 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_守備の波・偶数1: Al inicio de los turnos pares, otorga\nDef + 2 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MSID_H_守備の波・偶数2: Al inicio de los turnos pares, otorga\nDef + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MSID_H_守備の波・偶数3: Al inicio de los turnos pares, otorga\nDef + 6 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MSID_H_赤の死闘・飛行1: Otorga PV + 3. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 160, esta se\nconsiderará 160 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_赤の死闘・飛行2: Otorga PV + 4. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 165, esta se\nconsiderará 165 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_赤の死闘・飛行3: Otorga PV + 5. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 170, esta se\nconsiderará 170 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_緑の死闘・歩行1: Otorga PV + 3. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 160, esta se\nconsiderará 160 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_緑の死闘・歩行2: Otorga PV + 4. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 165, esta se\nconsiderará 165 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_緑の死闘・歩行3: Otorga PV + 5. Si la unidad es de rareza\n5 ★, ha alcanzado el nivel 40 y la suma\nde sus atributos es inferior a 170, esta se\nconsiderará 170 en modos como el coliseo.\n(Aparecerán rivales que otorgan más puntos.\nLa suma de atributos se calcula sin tener\nen cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades.)
+MSID_H_速さの波・奇数1: Al inicio de los turnos impares, otorga\nVel + 2 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MSID_H_速さの波・奇数2: Al inicio de los turnos impares, otorga\nVel + 4 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MSID_H_速さの波・奇数3: Al inicio de los turnos impares, otorga\nVel + 6 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(Aunque no haya aliados adyacentes,\nla unidad recibe la bonificación.)
+MID_CHAPTER_TITLE_C0213: Libro II - Cap. 13
+MID_CHAPTER_C0213: El camino a casa
+MID_STAGE_TITLE_S2131: Cap. 13 - Parte 1
+MID_STAGE_TITLE_S2132: Cap. 13 - Parte 2
+MID_STAGE_TITLE_S2133: Cap. 13 - Parte 3
+MID_STAGE_TITLE_S2134: Cap. 13 - Parte 4
+MID_STAGE_TITLE_S2135: Cap. 13 - Parte 5
+MID_STAGE_S2131: La princesa Laegjarn
+MID_STAGE_S2132: Los sacrificios
+MID_STAGE_S2133: Criada glacial
+MID_STAGE_S2134: La princesa Laevatein
+MID_STAGE_S2135: Surtr, el rey ígneo
+MID_CHAPTER_ST_C0207: Capítulo 13
+MID_STAGE_TITLE_ST_S0213: Capítulo 13
+MID_STAGE_TITLE_PB028: Habilidades 28
+MID_STAGE_PB028: Una daga para sobrevivir
+MID_STAGE_TITLE_PB029: Habilidades 29
+MID_STAGE_PB029: Tribulaciones de Laevatein
+MID_STAGE_TITLE_PC014: Maestría 14
+MID_STAGE_PC014: Vivan las acciones extras
+MID_STAGE_HONOR_T0039: Rey de Nohr
+MID_STAGE_T0039: Garon

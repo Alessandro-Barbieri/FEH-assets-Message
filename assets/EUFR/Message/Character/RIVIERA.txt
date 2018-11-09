@@ -1,0 +1,38 @@
+[Heroes Archive] (RIVIERA)
+
+
+Heroes Message Name: Message
+
+
+MID_RIVIERA_HOME1: Y a-t-il un temple à proximité ?\nJ'aimerais offrir une prière au dieu\nd'Askr, si c'est possible.$k$pJe veux lui demander sa protection\npour ceux qui sont ici. Je ne veux\npas qu'il leur arrive quoi que ce soit.
+MID_RIVIERA_HOME2: En tant que moine d'Ylisse, j'ai\ndéfendu Sa Majesté la Sainte-Reine\navec ma hache.$k$pAprès cela, je me suis engagé dans\nl'armée du prince Chrom.
+MID_RIVIERA_HOME3: Le pouvoir d'invoquer les héros des\nautres mondes est digne $Gd'un,d'une|\n$Gdieu,déesse|.$k$pJ'espère que vous l'utiliserez à\nbon escient. Guidez-nous et\nprotégez-nous !
+MID_RIVIERA_HOME4: Comment ? Une prêtresse ?$k$pPar tous les dieux... Même $Gle grand,la grande|\n$Ginvocateur,invocatrice| pense que je suis une\nfemme !
+MID_RIVIERA_HOME5: Ce monde est vraiment magnifique.\nIl s'en dégage quelque chose de\npresque... sacré.$k$pJ'ai envie d'immortaliser ses\npaysages en les dessinant.
+MID_RIVIERA_FRIEND: $Nf m'envoie\nvous transmettre ses salutations.\nQue les dieux vous protègent.
+MID_RIVIERA_LEVEL1: Je me sens plus pur. Mes prières\nauraient-elles été entendues ?
+MID_RIVIERA_LEVEL2: Je me dois de remercier\nles dieux.
+MID_RIVIERA_LEVEL3: Pourquoi les dieux me mettent-ils\ntoujours à l'épreuve ?
+MID_RIVIERA_SKILL: Je sens la lumière des dieux\nemplir mon être. Merci.
+MID_RIVIERA_JOIN: Je suis Libra, moine du\nSaint-Royaume d'Ylisse.$k$pLes dieux m'ont guidé jusqu'ici.\nPuisse Naga nous bénir.
+MID_RIVIERA_STRONGEST: Oh, je suis découvert. J'étais en\ntrain de peindre un portrait de\nvous.$k$pCela ne m'arrive pas si souvent,\nmais en vous observant, j'ai été\nému...$k$pVotre façon de bouger, d'invoquer,\nde parler... Tout en vous est\nfascinant.$k$pJ'ai pris mon pinceau sans même\nm'en rendre compte.$k$pC'est peut-être parce que vous\nm'avez invoqué que je vous trouve\nsi $Gintéressant,intéressante|...$k$pMais je préfère penser que l'affection\nque j'éprouve pour vous ne vient\nque de moi.$k$pJe suis heureux d'avoir pu vous dire\nce que je ressens.$k$pMe permettriez-vous de finir mon\nportrait ? J'aimerais passer un petit\npeu plus de temps avec vous.
+MID_RIVIERA_VOICE01: はいっ！
+MID_RIVIERA_VOICE02: せやっ！
+MID_RIVIERA_VOICE03: うあっ！
+MID_RIVIERA_VOICE04: そんな…！
+MID_RIVIERA_VOICE05: Que les dieux me pardonnent !
+MID_RIVIERA_VOICE06: Repentez-vous !
+MID_RIVIERA_VOICE07: Faites vos prières !
+MID_RIVIERA_VOICE08: Au nom de Naga.
+MID_RIVIERA_VOICE09: I can see the light...
+MID_RIVIERA_VOICE10: Yes
+MID_RIVIERA_VOICE11: You continue to fare well. I am glad of this.
+MID_RIVIERA_VOICE12: My appearance may not suggest it, but I'm quite capable of manual labor.
+MID_RIVIERA_VOICE13: Do my prayers to Naga reach her, even from this world?
+MID_RIVIERA_VOICE14: You wish to speak to me? Perhaps you wish to make confession.
+MID_RIVIERA_VOICE15: On my journey to the priesthood, I faced many hardships.
+MID_RIVIERA_VOICE16: A priest who takes a life...is indeed quite a sinner.
+MID_RIVIERA_VOICE17: Praying for safety on the battlefield is nothing more than a wish that another may be sacrificed. Even so...
+MID_RIVIERA_VOICE18: It will be so.
+MID_RIVIERA_VOICE19: Gods bless us.
+MID_RIVIERA_VOICE20: Guide us.

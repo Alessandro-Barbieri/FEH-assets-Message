@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_コウモリの耳: Fledermausohren
+MDAID_H_コウモリの耳: Sind sie nicht niedlich?
+MDAID_悪魔のツノ: Teufelshörner
+MDAID_H_悪魔のツノ: Sorgen für eine bedrohliche Aura.
+MDAID_謎の剣士の仮面・金: Goldene Rätselmaske
+MDAID_H_謎の剣士の仮面・金: Beweis für den Sieg über den\nGroßen Helden Narcian.
+MDAID_黄色いアヒル・金: Goldene Ente
+MDAID_H_黄色いアヒル・金: Beweis für den Sieg über den\nGroßen Helden Nabarl.
+MDAID_温泉手ぬぐい・金: Goldenes Handtuch
+MDAID_H_温泉手ぬぐい・金: Beweis für den Sieg über den\nGroßen Helden Daraen.
+MDAID_花占いの髪飾り・金: Goldene Blumennadel
+MDAID_H_花占いの髪飾り・金: Beweis für den Sieg über die\nGroße Heldin Ursula.
+MDAID_令嬢のリボン・金: Gold. Band der Maid
+MDAID_H_令嬢のリボン・金: Beweis für den Sieg über den\nGroßen Helden Lloyd.
+MDAID_踊り子のマスク・金: Goldene Tanzmaske
+MDAID_H_踊り子のマスク・金: Beweis für den Sieg über den\nGroßen Helden Michalis.
+MDAID_聖職者の帽子・金: Goldene Mitra
+MDAID_H_聖職者の帽子・金: Beweis für den Sieg über den\nGroßen Helden Xander.
+MID_MISSION_S201810DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201810DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201810DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201810DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201810DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201810DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201810DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201810DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201810DAISEIATU01_A4: Bewältige die zweite Stufe des Übungsturms.
+MID_MISSION_S201810DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201810DAISEIATU01_A5: Bewältige die achte Stufe des Übungsturms.
+MID_MISSION_S201810DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201810DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201810HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201810HERO01_A1: Kana besiegen
+MID_MISSION_H_S201810HERO01_A1: Gewinne den Großen Heldenkampf gegen\nKana: Drachensohn mit Anna im Team.
+MID_MISSION_S201810HERO01_A2: Kana besiegen
+MID_MISSION_H_S201810HERO01_A2: Gewinne den Großen Heldenkampf gegen\nKana: Drachensohn auf Extrem oder höher\nmit Kana: Drachensohn im Team.
+MID_MISSION_S201810HERO01_A3: Kana besiegen
+MID_MISSION_H_S201810HERO01_A3: Besiege Kana: Drachensohn, der Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201810HERO01_A4: Kana besiegen
+MID_MISSION_H_S201810HERO01_A4: Besiege Kana: Drachensohn, der Level 40\noder höher ist, mit Kana: Drachensohn.
+MID_MISSION_S201810HERO01_A5: Kana besiegen
+MID_MISSION_H_S201810HERO01_A5: Gewinne den Großen Heldenkampf gegen\nKana: Drachensohn auf Extrem oder höher\nnur mit gepanzerten Verbündeten.
+MID_MISSION_S201810SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201810SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201810SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201810SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201810SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201810SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201810SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201810SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201810SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201810SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201810SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201810STORY01_TITLE: Früchte des Landes
+MID_MISSION_S201810STORY01_A1: Nebenq. 25 Tl. 1 - Extrem
+MID_MISSION_H_S201810STORY01_A1: Bewältige Nebenquest 25: Teil 1 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201810STORY01_A2: Nebenq. 25 Tl. 2 - Extrem
+MID_MISSION_H_S201810STORY01_A2: Bewältige Nebenquest 25: Teil 2 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201810STORY01_A3: Nebenq. 25 Tl. 3 - Extrem
+MID_MISSION_H_S201810STORY01_A3: Bewältige Nebenquest 25: Teil 3 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201810TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201810TAPBTL01_D01_A1: Leif besiegen
+MID_MISSION_H_S201810TAPBTL01_D01_A1: Besiege den Boss Leif auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Normal.
+MID_MISSION_S201810TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201810TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201810TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201810TAPBTL01_D02_A1: Leif besiegen
+MID_MISSION_H_S201810TAPBTL01_D02_A1: Besiege den Boss Leif auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201810TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201810TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201810TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201810TAPBTL01_D03_A1: Lene besiegen
+MID_MISSION_H_S201810TAPBTL01_D03_A1: Besiege den Boss Lene auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Normal.
+MID_MISSION_S201810TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201810TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201810TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201810TAPBTL01_D04_A1: Lene besiegen
+MID_MISSION_H_S201810TAPBTL01_D04_A1: Besiege den Boss Lene auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201810TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201810TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201810TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201810TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201810TAPBTL02_A1: Boss-Stufen
+MID_MISSION_H_S201810TAPBTL02_A1: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201810TAPBTL02_A2: Boss-Stufen
+MID_MISSION_H_S201810TAPBTL02_A2: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201810TAPBTL02_A3: Stufen abschließen
+MID_MISSION_H_S201810TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201810TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201810TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MPID_ハロワユ: Mia
+MPID_ハロミルラ: Myrrh
+MPID_ハロカゲロウ: Kagero
+MPID_ハロゼロ: Niles
+MPID_ハロドルカス: Dorcas
+MPID_HONOR_ハロワユ: Mondhexe
+MPID_HONOR_ハロミルラ: Schauriger Spuk
+MPID_HONOR_ハロカゲロウ: Erfrischende Ninja
+MPID_HONOR_ハロゼロ: Frecher Teufel
+MPID_HONOR_ハロドルカス: Kürbisquetscher
+MPID_H_ハロワユ: Eine Söldnerin, die zur Verbesserung ihrer\nSchwertkünste kämpft. Möchte unbedingt\ndas Erntefest besuchen. Erscheint in\nFire Emblem: Radiant Dawn.
+MPID_H_ハロミルラ: Eine Manakete hohen Alters. Ihr Aussehen\ntrügt. Sie mag Süßes, ist aber zu schüchtern,\num danach zu fragen. Erscheint in Fire Emblem:\nThe Sacred Stones.
+MPID_H_ハロカゲロウ: Eine Ninja aus Hoshido, die für Süßigkeiten ihr\nLeben geben würde. Eine der Getreuen von\nRyoma. Erscheint in Fire Emblem Fates.
+MPID_H_ハロゼロ: Gauner aus Nohr - für seine spitze Zunge und\nseine Anzüglichkeiten berühmt. Ein Getreuer von\nLeo. Will auf dem Erntefest eine unvergessliche\nNacht verbringen. Erscheint in FE Fates.
+MPID_H_ハロドルカス: Ein Söldner, der Geld für die Behandlung\nseiner kranken Frau braucht. Er möchte ihr\nein paar Süßigkeiten mitbringen. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_VOICE_ハロワユ: Lani Minella
+MPID_VOICE_ハロミルラ: Erica Lindbeck
+MPID_VOICE_ハロカゲロウ: Sarah Blandy
+MPID_VOICE_ハロゼロ: Michael Sinterniklaas
+MPID_VOICE_ハロドルカス: Kirk Thornton
+MPID_ILLUST_ハロワユ: Yoneyama Mai (米山舞)
+MPID_ILLUST_ハロミルラ: Amagaitaro (アマガイタロー)
+MPID_ILLUST_ハロカゲロウ: cuboon
+MPID_ILLUST_ハロゼロ: Yura (由良)
+MPID_ILLUST_ハロドルカス: Soeda Ippei (添田一平)
+MSID_孤高の剣: Einsame Klinge
+MSID_第15迷宮の覇者1: Überfall-Ass O 1
+MSID_第15迷宮の覇者2: Überfall-Ass O 2
+MSID_第15迷宮の覇者3: Überfall-Ass O 3
+MSID_カボチャの斧: Kürbisaxt
+MSID_カボチャの斧＋: Kürbisaxt+
+MSID_コウモリの弓: Teufelsbogen
+MSID_コウモリの弓＋: Teufelsbogen+
+MSID_果汁のボトル: Saftflaschen
+MSID_果汁のボトル＋: Saftflaschen+
+MSID_キャンディの杖: Hexenstab
+MSID_キャンディの杖＋: Hexenstab+
+MSID_精霊のブレス: Geisteratem
+MSID_守備魔防1: Ver./Res. 1
+MSID_守備魔防2: Ver./Res. 2
+MSID_攻撃速さの連携1: Agr./Ges.-Bund 1
+MSID_攻撃速さの連携2: Agr./Ges.-Bund 2
+MSID_攻撃速さの連携3: Agr./Ges.-Bund 3
+MSID_攻撃の波・偶数1: Gerader Angr. 1
+MSID_攻撃の波・偶数2: Gerader Angr. 2
+MSID_攻撃の波・偶数3: Gerader Angr. 3
+MSID_H_孤高の剣: Beschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_翼槍ヴィドフニル改: Initiiert der Gegner den Kampf und nutzt\nSchwert, Lanze, Axt oder Drachenstein,\nerhält die Einheit Ver./Res. +7 im Kampf.
+MSID_H_攻撃速さの絆R歩重: Befindet sich die Einheit im Umkreis von\n2 Feldern einer verbündeten Infanterieeinheit\noder eines gepanzerten Verbündeten,\nerhält sie Angr./Ges. +4 im Kampf.
+MSID_H_反撃抑制R魔竜: Magieanwender und Drachen können keine\nGegenangriffe ausführen.
+MSID_H_第15迷宮の覇者1: Verleiht Angr. +1.
+MSID_H_第15迷宮の覇者2: Verleiht Angr. +2.
+MSID_H_第15迷宮の覇者3: Verleiht Angr. +3.
+MSID_H_カボチャの斧: Die gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.)
+MSID_H_カボチャの斧＋: Die gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.)
+MSID_H_コウモリの弓: Effektiv gegen Flugeinheiten.\nDie gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.)
+MSID_H_コウモリの弓＋: Effektiv gegen Flugeinheiten.\nDie gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.)
+MSID_H_果汁のボトル: Die gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.) Hat die Einheit ange-\ngriffen, erleiden Ziel und Gegner im Umkreis\nvon 2 Feldern des Ziels nach dem Kampf\nVer./Res. -5 bis nach ihren nächsten Aktionen.
+MSID_H_果汁のボトル＋: Die gegnerische Erholungszeit wird bei jedem\nAngriff der Einheit um 1 zurückgesetzt. (Bei\nmehreren ähnlichen Effekten wird nur der\nhöchste angewandt.) Hat die Einheit ange-\ngriffen, erleiden Ziel und Gegner im Umkreis\nvon 2 Feldern des Ziels nach dem Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_キャンディの杖: Hat die Einheit angegriffen, wird die gegn.\nErholungszeit zurückgesetzt und für den\nGegner gilt bis nach seiner nächsten Aktion:\nDie Erholungszeit wird pro Angriff der Einheit\num 1 zurückgesetzt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)\n(Neutralisiert Verringerungen der Erholungszeit\nnach d. Kampf. Fähigkeiten, die Spezialangriffe\nbeschleunigen oder verzögern, bleiben aktiv.)
+MSID_H_キャンディの杖＋: Hat die Einheit angegriffen, wird die Erholungs-\nzeit von Ziel und Gegnern im Umkreis von\n2 Feldern des Ziels zurückgesetzt und für diese\ngilt bis nach ihren nächsten Aktionen:\nDie Erholungszeit wird pro Angriff der Einheit\num 1 zurückgesetzt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)\n(Neutralisiert Verringerungen der Erholungszeit\nnach d. Kampf. Fähigkeiten, die Spezialangriffe\nbeschleunigen oder verzögern, bleiben aktiv.)
+MSID_H_精霊のブレス: Verleiht Ver. +3. Hat Einheit angegriffen und\nist Ver. der Einheit um mind. 5 höher als Ver.\ndes Gegners, führt sie garantiert einen Folge-\nangriff aus. Ist Rw. des Gegners = 2, wird der\nSchaden durch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_守備魔防1: Verleiht Ver./Res. +1.
+MSID_H_守備魔防2: Verleiht Ver./Res. +2.
+MSID_H_攻撃速さの連携1: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ges. +2 für 1 Zug.
+MSID_H_攻撃速さの連携2: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ges. +4 für 1 Zug.
+MSID_H_攻撃速さの連携3: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ges. +6 für 1 Zug.
+MSID_H_攻撃の波・偶数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nAngr. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_攻撃の波・偶数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nAngr. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_攻撃の波・偶数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nAngr. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MID_CHAPTER_TITLE_CX024: Nebenquest 25
+MID_CHAPTER_CX024: Früchte des Landes
+MID_STAGE_TITLE_X0241: Nebenq. 25: Tl. 1
+MID_STAGE_TITLE_X0242: Nebenq. 25: Tl. 2
+MID_STAGE_TITLE_X0243: Nebenq. 25: Tl. 3
+MID_STAGE_X0241: Schauriges Trio
+MID_STAGE_X0242: Doppelter Schrecken
+MID_STAGE_X0243: Ran an die Kürbisse!
+MID_STAGE_TITLE_BG_FIRE_0012: Feuer 2
+MID_STAGE_TITLE_BG_WATER_0013: Wasser 3
+MID_STAGE_TITLE_BG_WIND_0013: Wind 3
+MID_STAGE_TITLE_BG_EARTH_0013: Erde 3
+MID_STAGE_TITLE_SB_0015: 15. Überfall
+MID_STAGE_TITLE_PB031: Fähigkeiten 31
+MID_STAGE_PB031: Frelias Heilige Zwillinge
+MID_STAGE_TITLE_PC015: Großmeister 15
+MID_STAGE_PC015: Angespornt
+MID_STAGE_HONOR_T0041: Treue-Heldenkampf
+MID_STAGE_T0041: E & M
+MID_TAP_BATTLE_DATA_TITLE_0009: Erbe des Lichts
+MID_MUSIC_NAME_BGM_MAP_FE04_01: Prolog\nGeburt eines Heiligen Ritters
+MID_MUSIC_NAME_BGM_MAP_FE04_05: Kapitel 3\nEldigan, Löwenherz
+MID_MUSIC_NAME_BGM_MAP_BRAVE_02: Der Glanz von Askr

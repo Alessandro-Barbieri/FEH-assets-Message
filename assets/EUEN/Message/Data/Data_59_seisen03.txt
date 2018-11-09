@@ -1,0 +1,178 @@
+[Heroes Archive] (Data_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_桃色のアヒル: Peach Ducky
+MDAID_H_桃色のアヒル: A duck-shaped toy that floats on\nwater. The way it bobs up and down\nis very soothing.
+MDAID_夏うさぎの帽子: Summer Bunny Hat
+MDAID_H_夏うさぎの帽子: A hat once worn by a Hero tempted\nby blue summer skies. The bunny's\nface has a lot of character.
+MID_MISSION_S201809KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201809KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201809KIZUNA01_A1: Clear the Bound Hero Battle against Chrom\nand Lissa with Sharena: Princess of Askr on\nyour team.
+MID_MISSION_S201809KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201809KIZUNA01_A2: Clear the Bound Hero Battle against Chrom\nand Lissa on Lunatic or higher difficulty with\nFjorm on your team.
+MID_MISSION_S201809KIZUNA01_A3: Defeat Chrom
+MID_MISSION_H_S201809KIZUNA01_A3: Defeat Chrom: Exalted Prince at level 40 or\nhigher with Sharena: Princess of Askr.
+MID_MISSION_S201809KIZUNA01_A4: Defeat Lissa
+MID_MISSION_H_S201809KIZUNA01_A4: Defeat Lissa: Sprightly Cleric at level 40 or\nhigher with Fjorm.
+MID_MISSION_S201809KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201809KIZUNA01_A5: Clear the Bound Hero Battle against Chrom\nand Lissa on Lunatic or higher difficulty using\nonly flying allies.
+MID_MISSION_S201809SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201809SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201809SENKA01_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201809SENKA01_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201809SENKA01_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201809SENKA01_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809STORY01_TITLE: Seeping Poison
+MID_MISSION_S201809STORY01_A1: Clear 12-1 on Lunatic
+MID_MISSION_H_S201809STORY01_A1: Clear Book II, Chapter 12: Part 1 on Lunatic\ndifficulty with a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY01_A2: Clear 12-2 on Lunatic
+MID_MISSION_H_S201809STORY01_A2: Clear Book II, Chapter 12: Part 2 on Lunatic\ndifficulty with an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY01_A3: Clear 12-3 on Lunatic
+MID_MISSION_H_S201809STORY01_A3: Clear Book II, Chapter 12: Part 3 on Lunatic\ndifficulty with a sword ally on your team. All\nfour allies must survive.
+MID_MISSION_S201809STORY01_A4: Clear 12-4 on Lunatic
+MID_MISSION_H_S201809STORY01_A4: Clear Book II, Chapter 12: Part 4 on Lunatic\ndifficulty with a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY01_A5: Clear 12-5 on Lunatic
+MID_MISSION_H_S201809STORY01_A5: Clear Book II, Chapter 12: Part 5 on Lunatic\ndifficulty with an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201809TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201809TAPBTL01_D01_A1: Defeat Legault
+MID_MISSION_H_S201809TAPBTL01_D01_A1: Defeat the boss Legault on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201809TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201809TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201809TAPBTL01_D02_A1: Defeat Legault
+MID_MISSION_H_S201809TAPBTL01_D02_A1: Defeat the boss Legault on Floors 16-20 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201809TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201809TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201809TAPBTL01_D03_A1: Defeat Linus
+MID_MISSION_H_S201809TAPBTL01_D03_A1: Defeat the boss Linus on Floors 36-40 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201809TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201809TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201809TAPBTL01_D04_A1: Defeat Linus
+MID_MISSION_H_S201809TAPBTL01_D04_A1: Defeat the boss Linus on Floors 36-40 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201809TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201809TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201809TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201809TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201809TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201809TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201809TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201809TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201809TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201809TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201809TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201809TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MPID_キュアン: Quan
+MPID_エスリン: Ethlyn
+MPID_レヴィン: Lewyn
+MPID_シルヴィア: Silvia
+MPID_HONOR_キュアン: Luminous Lancer
+MPID_HONOR_エスリン: Spirited Princess
+MPID_HONOR_レヴィン: Guiding Breeze
+MPID_HONOR_シルヴィア: Traveling Dancer
+MPID_H_キュアン: Prince of Leonster and inheritor of the lance\nGáe Bolg. Husband of Ethlyn, the younger sister\nof his close friend Sigurd. Appears in Fire\nEmblem: Genealogy of the Holy War.
+MPID_H_エスリン: The younger sister of Lord Sigurd of Chalphy\nwith an adventurous spirit. She cares deeply\nfor her family. After she marries Prince Quan of\nLeonster, the pair have a girl and a boy. Appears\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_レヴィン: Prince of Silesse. A descendant of Ced, one of\nthe 12 legendary crusaders, and inheritor of the\nwind tome Forseti. Appears in Fire Emblem:\nGenealogy of the Holy War.
+MPID_H_シルヴィア: A dancer who travels the world. She looks\nsweet, but she doesn't necessarily act that way.\nDescendant of the high priest Bragi. Appears in\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_キュアン: Chris Hackney
+MPID_VOICE_エスリン: Allegra Clark
+MPID_VOICE_レヴィン: Steve Staley
+MPID_VOICE_シルヴィア: Laura Post
+MPID_ILLUST_キュアン: Aoji (あおじ)
+MPID_ILLUST_エスリン: kaya8
+MPID_ILLUST_レヴィン: Suda Ayaka (須田彩加)
+MPID_ILLUST_シルヴィア: Chiko (チーコ)
+MSID_セルジュの恐斧: Cherche's Axe
+MSID_オーディンの黒書: Odin's Grimoire
+MSID_第14迷宮の覇者1: Squad Ace N 1
+MSID_第14迷宮の覇者2: Squad Ace N 2
+MSID_第14迷宮の覇者3: Squad Ace N 3
+MSID_バリアの剣: Barrier Blade
+MSID_バリアの剣＋: Barrier Blade+
+MSID_ゲイボルグ: Gáe Bolg
+MSID_フォルセティ: Forseti
+MSID_速さ守備の応援＋: Rally Spd/Def+
+MSID_飛燕金剛の構え1: Steady Posture 1
+MSID_飛燕金剛の構え2: Steady Posture 2
+MSID_奥義の螺旋1: Special Spiral 1
+MSID_奥義の螺旋2: Special Spiral 2
+MSID_奥義の螺旋3: Special Spiral 3
+MSID_疾風静水の舞い1: Deluge Dance 1
+MSID_疾風静水の舞い2: Deluge Dance 2
+MSID_H_セルジュの恐斧: Inflicts Spd-5. If unit initiates combat, unit attacks\ntwice.
+MSID_H_オーディンの黒書: Adds total bonuses on unit to damage dealt.
+MSID_H_ライナロック改: Grants Atk/Spd+5 during combat. After\ncombat, if unit attacked, deals 5 damage to\nunit.
+MSID_H_攻撃速さの連携R6: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Spd+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_第14迷宮の覇者1: Grants Spd+1.
+MSID_H_第14迷宮の覇者2: Grants Spd+2.
+MSID_H_第14迷宮の覇者3: Grants Spd+3.
+MSID_H_バリアの剣: If foe initiates combat, grants Res+7 during\ncombat.
+MSID_H_バリアの剣＋: If foe initiates combat, grants Res+7 during\ncombat.
+MSID_H_ゲイボルグ: In combat against an infantry, armored, or\ncavalry foe, grants Atk/Def+5 during combat.
+MSID_H_フォルセティ: Grants Spd+3. If unit's HP ≥ 50% and unit\ninitiates combat, unit can make a follow-up\nattack before foe can counterattack.
+MSID_H_速さ守備の応援＋: Grants Spd/Def+6 to target ally for 1 turn.
+MSID_H_飛燕金剛の構え1: If foe initiates combat, grants Spd/Def+2 during\ncombat.
+MSID_H_飛燕金剛の構え2: If foe initiates combat, grants Spd/Def+4 during\ncombat.
+MSID_H_奥義の螺旋1: If unit initiates combat and unit's Special\ntriggers before or during combat, grants\nSpecial cooldown count-1 after combat.
+MSID_H_奥義の螺旋2: If Special triggers before or during combat,\ngrants Special cooldown count-1 after combat.
+MSID_H_奥義の螺旋3: If Special triggers before or during combat,\ngrants Special cooldown count-2 after combat.
+MSID_H_疾風静水の舞い1: If Sing or Dance is used, grants Spd+2 and\nRes+3 to target.
+MSID_H_疾風静水の舞い2: If Sing or Dance is used, grants Spd+3 and\nRes+4 to target.
+MID_CHAPTER_TITLE_C0212: Book II, Chapter 12
+MID_CHAPTER_C0212: Seeping Poison
+MID_STAGE_TITLE_S2121: Chapter 12-1
+MID_STAGE_TITLE_S2122: Chapter 12-2
+MID_STAGE_TITLE_S2123: Chapter 12-3
+MID_STAGE_TITLE_S2124: Chapter 12-4
+MID_STAGE_TITLE_S2125: Chapter 12-5
+MID_STAGE_S2121: Suspicion
+MID_STAGE_S2122: Scion of a Crusader
+MID_STAGE_S2123: Prowling Beast
+MID_STAGE_S2124: Led by the Breeze
+MID_STAGE_S2125: The Traitor
+MID_STAGE_TITLE_BG_EARTH_0011: Earth 1
+MID_STAGE_TITLE_BG_FIRE_0011: Fire 1
+MID_STAGE_TITLE_BG_WATER_0012: Water 2
+MID_STAGE_TITLE_BG_WIND_0012: Wind 2
+MID_STAGE_TITLE_BG_EARTH_0012: Earth 2
+MID_STAGE_TITLE_SB_0014: 14th Assault
+MID_CHAPTER_ST_C0206: Chapters 11 & 12
+MID_STAGE_TITLE_ST_S0211: Chapter 11
+MID_STAGE_TITLE_ST_S0212: Chapter 12
+MID_STAGE_TITLE_ST_S1212: Chapters 11 & 12
+MID_STAGE_TITLE_PB027: Skill Studies 27
+MID_STAGE_PB027: Follow Up with Forseti
+MID_STAGE_TITLE_PC013: Grandmaster 13
+MID_STAGE_PC013: Discretion and Valor
+MID_STAGE_HONOR_OCCUPATION: Event Map
+MID_STAGE_OCCUPATION: Rival Domains
+MID_STAGE_HONOR_OCCUPATION_DEFENSE: Event Map
+MID_STAGE_OCCUPATION_DEFENSE: Relay Defense
+MID_STAGE_TITLE_OCCUPATION_DEFENSE0: 1st Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE1: 2nd Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE2: 3rd Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE3: 4th Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE4: 5th Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE5: 6th Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE6: 7th Map
+MID_STAGE_TITLE_OCCUPATION_DEFENSE7: 8th Map
+MID_HEADQUARTERS_RELAY_TUTORIAL_DIALOG_00: Protect your fortress and camps!
+MID_WARPBASE_RELAY_TUTORIAL_DIALOG_00: Warp between forts and camps!
+MID_TAP_BATTLE_DATA_TITLE_0008: Farewells
+MID_MUSIC_NAME_BGM_MAP_FE07_03: Friendship and Adventure
+MID_MUSIC_NAME_BGM_MAP_FE15_03: What Lies at the End
+MID_MUSIC_NAME_BGM_BATTLE_FE13_01: Training (Galvanized)

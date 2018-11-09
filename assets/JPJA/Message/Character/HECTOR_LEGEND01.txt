@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_LEGEND01_HOME1: 領主なんてやっていると、\nなかなか気軽に体を動かすこともできねえ。\nその点、ここにいると気が楽だな！
+MID_HECTOR_LEGEND01_HOME2: 俺の子とエリウッドんとこの子、\n腕前はどっちが上か…\nしかしまあ、勝負って間柄でもないか。
+MID_HECTOR_LEGEND01_HOME3: おう、何をウロチョロしてんだ。\n大将ってのはどっしり構えておくもんだ。\nガラじゃない？　んなこた分かってるよ。
+MID_HECTOR_LEGEND01_HOME4: アルマーズとの付き合いも\n長くなったもんだ…ま、こいつは\n戦好きだから喜んでるだろうぜ。
+MID_HECTOR_LEGEND01_HOME5: いつ見てもここはいい城だ。\nしかし、こういうものに頼らなくていいのが\n本当にいい国ってことなんだろうな。
+MID_HECTOR_LEGEND01_FRIEND: 我こそはオスティア侯ヘクトル。\n$Nfの名代として\n挨拶を持ってきた。取次ぎを頼む。
+MID_HECTOR_LEGEND01_LEVEL1: おう、これこそが俺、\nヘクトル様の実力よ！
+MID_HECTOR_LEGEND01_LEVEL2: よし、いい感じだ。\nまだまだいけるぜ！
+MID_HECTOR_LEGEND01_LEVEL3: この程度か…\n俺も鈍ったもんだ。
+MID_HECTOR_LEGEND01_SKILL: これで更に、俺の実力に\n磨きがかかるってもんだ！
+MID_HECTOR_LEGEND01_JOIN: 俺はオスティア侯ヘクトル。\nアルマーズと共に貴殿の力となろう。\n…って、ガラじゃねえよな、こんなのは。
+MID_HECTOR_LEGEND01_STRONGEST: よう、$Nu。\nちょいと聞いてみるんだが…\nお前は運命ってやつを信じるか？$k$p俺は少し前までなら何でもないと\n鼻で笑い飛ばしてたとこだが…\n今は、そうもいかなくなっちまった。$k$pだがまあ、肝心なのはそこじゃねえ。\n運命なんてのがあろうがなかろうが、\n大事なのはその選択を後悔しないって事だ！$k$p己の中に確たる芯を持っていれば、\nこの先、生き死にを賭ける時が来たって\n迷う事はない。俺も、お前もな。$k$p…らしくないだと？　こちとら\n領主様だなんて一番似合わないことを\nやらされてんだよ、説教くらいさせろ。
+MID_HECTOR_LEGEND01_VOICE01: うおおっ！
+MID_HECTOR_LEGEND01_VOICE02: そらよっ！
+MID_HECTOR_LEGEND01_VOICE03: うああっ！
+MID_HECTOR_LEGEND01_VOICE04: ちぃっ！
+MID_HECTOR_LEGEND01_VOICE05: 終わらせるぜ！
+MID_HECTOR_LEGEND01_VOICE06: もう寝てな！
+MID_HECTOR_LEGEND01_VOICE07: 正念場だ！
+MID_HECTOR_LEGEND01_VOICE08: アルマーズ！
+MID_HECTOR_LEGEND01_VOICE09: これから…だってのに…
+MID_HECTOR_LEGEND01_VOICE10: はははっ！
+MID_HECTOR_LEGEND01_VOICE11: 伝承の英雄？　よくわかんねーが、八神将（はっしんしょう）みたいなもんか？
+MID_HECTOR_LEGEND01_VOICE12: うおっ！？　不意打ちか！？　なかなかやるじゃねーか！
+MID_HECTOR_LEGEND01_VOICE13: 兄上が担ってきた役目、民たちへの思い…すべて、俺が継ぐ。
+MID_HECTOR_LEGEND01_VOICE14: 玉座に座ってるなんざ、俺のガラじゃねえけどな…
+MID_HECTOR_LEGEND01_VOICE15: 俺の子とエリウッドの子…将来どっちが強いか勝負だな。
+MID_HECTOR_LEGEND01_VOICE16: 戦は起きる。いずれ、途方もない戦がな…
+MID_HECTOR_LEGEND01_VOICE17: 頼りにしてるぜ。これからも、俺や、俺の子たちを導いてくれ。
+MID_HECTOR_LEGEND01_VOICE18: わかったぜ
+MID_HECTOR_LEGEND01_VOICE19: どいつが相手だ？
+MID_HECTOR_LEGEND01_VOICE20: とっとと行くぜ！

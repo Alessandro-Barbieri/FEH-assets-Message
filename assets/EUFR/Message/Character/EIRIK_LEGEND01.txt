@@ -1,0 +1,38 @@
+[Heroes Archive] (EIRIK_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_EIRIK_LEGEND01_HOME1: Suis-je devenue plus forte ?\nJe veux faire plus que me protéger.\nJe veux pouvoir protéger les autres.
+MID_EIRIK_LEGEND01_HOME2: Ça n'a jamais été mon souhait, mais\ntoutes les batailles auxquelles j'ai dû\nparticiper m'ont appris à combattre.$k$pMalgré cela, je n'arrive pas\nà la cheville d'Ephraim ou de Seth.
+MID_EIRIK_LEGEND01_HOME3: Vous êtes unique en votre genre.\nChaque jour, je découvre quelque\nchose de nouveau chez vous.$k$pVous me faites penser à une étoile\nqui émet une lumière permanente\nmais toujours changeante.
+MID_EIRIK_LEGEND01_HOME4: Le livre que vous avez là a l'air très\nintéressant. Me permettriez-vous\nde le feuilleter ?
+MID_EIRIK_LEGEND01_HOME5: Dans un combat, l'attitude et\nla technique comptent, mais le plus\nimportant, c'est l'expérience.$k$pVoudriez-vous faire un duel amical\navec moi ? Il faut que je m'entraîne.
+MID_EIRIK_LEGEND01_FRIEND: Bonjour, $Nu.\n$Nf m'a\nparlé de vous.
+MID_EIRIK_LEGEND01_LEVEL1: Tant que je suis à vos côtés,\nvous n'avez rien à craindre !
+MID_EIRIK_LEGEND01_LEVEL2: Je peux faire mieux que ça.\nJe dois m'entraîner davantage.
+MID_EIRIK_LEGEND01_LEVEL3: Il faut que je devienne plus forte.
+MID_EIRIK_LEGEND01_SKILL: Merci. Avec ce pouvoir, ma victoire\nest assurée.
+MID_EIRIK_LEGEND01_JOIN: Je suis la princesse Eirika de Renais.\nJe ferai tout pour vous protéger et\nêtre une héroïne digne de ce nom.
+MID_EIRIK_LEGEND01_STRONGEST: Voulez-vous vous reposer\nun moment avec moi,\n$Nu ?$k$pAprès toutes ces batailles, vous devez\nêtre $Gépuisé,épuisée|. Fermez les yeux et\nlaissez votre âme trouver la paix.$k$pJe n'aime pas me battre. Je déteste\nvoir les autres souffrir.$k$pMais malheureusement, on ne peut\npas changer les choses avec\ndes bons sentiments.$k$pJ'ai appris que si je veux protéger\nce qui compte pour moi, il faut\nque je sois forte.$k$pVous me comprenez, n'est-ce pas,\n$Nu ?$k$pMerci de bien vouloir partager\nce moment avec moi. Restons\nencore un peu ici, d'accord ?
+MID_EIRIK_LEGEND01_VOICE01: ええいっ！
+MID_EIRIK_LEGEND01_VOICE02: 参ります！
+MID_EIRIK_LEGEND01_VOICE03: きゃああっ！
+MID_EIRIK_LEGEND01_VOICE04: いけません…
+MID_EIRIK_LEGEND01_VOICE05: Je sais ce que je dois faire !
+MID_EIRIK_LEGEND01_VOICE06: En garde !
+MID_EIRIK_LEGEND01_VOICE07: Je ne dois pas flancher !
+MID_EIRIK_LEGEND01_VOICE08: Je n'ai pas le droit au doute !
+MID_EIRIK_LEGEND01_VOICE09: Brother, I...
+MID_EIRIK_LEGEND01_VOICE10: うふふ
+MID_EIRIK_LEGEND01_VOICE11: I am princess Eirika of Renais. What's that you called me? Legendary Hero?
+MID_EIRIK_LEGEND01_VOICE12: Ooh! Why must you be so...
+MID_EIRIK_LEGEND01_VOICE13: I was once weak, and I understood nothing. But as a princess, I must change.
+MID_EIRIK_LEGEND01_VOICE14: Even after the fighting has ended... I want to do all I can to bring joy to the hearts of my people.
+MID_EIRIK_LEGEND01_VOICE15: I know so little about the world. Would you mind very much if I asked you to teach me?
+MID_EIRIK_LEGEND01_VOICE16: The ability to overcome sorrow... That is a kind of strength, isn't it?
+MID_EIRIK_LEGEND01_VOICE17: Now and forever, let me stand by your side.
+MID_EIRIK_LEGEND01_VOICE18: Yes.
+MID_EIRIK_LEGEND01_VOICE19: Let me aid you.
+MID_EIRIK_LEGEND01_VOICE20: Counsel me.

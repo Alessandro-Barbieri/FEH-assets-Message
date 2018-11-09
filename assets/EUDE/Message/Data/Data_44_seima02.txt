@@ -73,7 +73,7 @@ MSID_赤魔の経験2: Buch-Erf. (rot) 2
 MSID_赤魔の経験3: Buch-Erf. (rot) 3
 MSID_H_グレイプニル: Verleiht Res. +3. Sind die KP des Gegners\nzu Beginn des Kampfes = 100 %, erhält\ndie Einheit Angr./Ges. +3 im Kampf.
 MSID_H_ナグルファル: Gewährt einen Waffen-Dreieck-Vorteil\ngegen farblose Gegner. Diese erleiden\neinen Waffen-Dreieck-Nachteil.
-MSID_H_イーヴァルディ: Verleiht Res. +3. Sind die KP des Gegners\nzu Beginn des Kampfes = 100 %, erhält\ndie Einheit Angr./Ges. +3 im Kampf.
+MSID_H_イーヴァルディ: Verleiht Ver. +3. Sind die KP des Gegners\nzu Beginn des Kampfes = 100 %, erhält\ndie Einheit Angr./Ges. +3 im Kampf.
 MSID_H_神炎のブレス: Verleiht Angr. +3. Ist Ver. der Einheit um\nmind. 5 höher als Ver. des Gegners, kann\nder Gegner keinen Folgeangriff ausführen.\nIst Rw. des Gegners = 2, wird der Schaden\ndurch Ver. oder Res. des Gegners berechnet\n(geringerer Wert gilt).
 MSID_H_竜刃の鼓舞: Verleiht benachbarten Drachen-\nverbündeten zu Beginn des Zuges\nAngr./Ges. +6 für 1 Zug.
 MSID_H_魔防の指揮1: Verleiht Verbündeten im Umkreis\nvon 2 Feldern zu Beginn des Zuges\nRes. +2 für 1 Zug. Tritt nur in Kraft,\nwenn sich höchstens 2 Verbündete\nvom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.

@@ -1,0 +1,38 @@
+[Heroes Archive] (OPHELIA)
+
+
+Heroes Message Name: Message
+
+
+MID_OPHELIA_HOME1: Así que tú eres $Gel invocador,la invocadora|, ¿eh?\n$GUn héroe,Una heroína| que no tiene par\nen ninguno de los reinos.$k$pParece que eres $Gel elegido,la elegida|...\n¡Qué envidia!
+MID_OPHELIA_HOME2: Crecí en el gran mar de estrellas,\ntambién conocido como\nlos reinos siderales.$k$pNo veía a mis padres muy a menudo,\nasí que rezaba a las estrellas\npor que estuviesen bien.
+MID_OPHELIA_HOME3: ¡He descubierto un hechizo increíble!\nMira, lo he apuntado en mi cuaderno\nde hechizos. ¿Qué página era?
+MID_OPHELIA_HOME4: ¿Me llevarás a ese portal majestuoso\nque conecta los mundos?$k$pMe refiero a las ruinas donde haces\nlas invocaciones. Solo de imaginarme\nese lugar se me acelera el corazón.
+MID_OPHELIA_HOME5: Estoy puliendo una piedra sagrada.$k$pLas palabras proféticas no llegan a\nlos corazones de piedra y las estrellas\nno brillan en una piedra sucia.
+MID_OPHELIA_FRIEND: La misma luz ilumina a todos\nlos reinos y las mismas profecías\nafectan a todos los mundos.$k$pEn fin, solo quería saludarte.
+MID_OPHELIA_LEVEL1: Espero que me estés viendo, padre.
+MID_OPHELIA_LEVEL2: Siento la luz de las estrellas.\nEs normal entre los elegidos.
+MID_OPHELIA_LEVEL3: Jo, pensaba que mejoraría\nen un pispás.
+MID_OPHELIA_SKILL: ¡Reboso poder! ¡Ophelia\nla Devastadora ha renacido!
+MID_OPHELIA_JOIN: Soy Ophelia, una guerrera elegida\npor las estrellas.$k$pSupongo que debería decir\n«cómo me alegro de verte».$k$pOye, ¿sabes si mi padre, Odín,\nestá en este reino?
+MID_OPHELIA_STRONGEST: Te estaba buscando.\nEres $Gel elegido,la elegida| y naciste\npara convertirte en $Gel invocador,la invocadora|.$k$pPor eso te hago entrega de esta luz.\n¡Tachán! Es la piedra sagrada\nde la amistad.$k$pLa encontré al poco de llegar\na este mundo. ¡Es del mismo color\nque tus ojos!$k$pSe me ocurrió que sería un buen\nregalo, así que fui puliéndola poco\na poco entre charlas y batallas.$k$pEsos recuerdos resplandecen\ncomo las estrellas y ahora están\ndentro de esta piedra.$k$pY ahora es lo suficientemente\nbrillante como para considerarse\nuna piedra sagrada.$k$pAsí que es el momento perfecto\npara entregártela.$k$pEspero que le pongas un buen\nnombre. Su brillo se debe a todos\nlos recuerdos que contiene.$k$pY también espero que sigamos\nllevándonos siempre igual de bien.
+MID_OPHELIA_VOICE01: はあっ！
+MID_OPHELIA_VOICE02: えーい！
+MID_OPHELIA_VOICE03: きゃあっ！
+MID_OPHELIA_VOICE04: Nooo!
+MID_OPHELIA_VOICE05: ¡Te vas a enterar!
+MID_OPHELIA_VOICE06: ¡Gancho Lumínico!
+MID_OPHELIA_VOICE07: ¡Mi pasión resplandece!
+MID_OPHELIA_VOICE08: ¡Bendición celestial!
+MID_OPHELIA_VOICE09: So many...stars...
+MID_OPHELIA_VOICE10: Well met!
+MID_OPHELIA_VOICE11: This land's beauty is as great as that of the stars sparkling in the sky.
+MID_OPHELIA_VOICE12: My tome? It's a divine weapon given to me by my father. Its name is Missiletainn.
+MID_OPHELIA_VOICE13: The Order of Heroes is the best! You're all... Pow! And Ka-blam!
+MID_OPHELIA_VOICE14: Ah! I was just transmitting my thoughts to the stars. Did you need me for something?
+MID_OPHELIA_VOICE15: I have an unusual mark on my arm. Would you like to see it?
+MID_OPHELIA_VOICE16: I wonder when I'll truly become a chosen one. Like my father.
+MID_OPHELIA_VOICE17: Ta-da! I found a beautiful gemstone, and it's begging for a name. Will you assist me in thinking of one?
+MID_OPHELIA_VOICE18: Mm-hmm!
+MID_OPHELIA_VOICE19: Ophelia Dusk!
+MID_OPHELIA_VOICE20: By the stars!

@@ -1,0 +1,12 @@
+[Heroes Archive] (TapBattleScenario_0007)
+
+
+Heroes Message Name: Message
+
+
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_03_00: $WmMPID_冬祭リズ,ch04_11_Liz_F_WinterFes17,Face|$w0|Hee-hee! I've been waiting. Everyone\nshould have fun during the festival!\n$SspVOICE_LIZ_WINTER01_SKILL_3|Let's party!$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_07_00: $WmMPID_舞踏祭黒アクア,ch05_07_Aqua_F_dance17,Face|$w0|Everyone's singing to celebrate this\nspecial occasion. How lovely!\n$SspVOICE_AQUA_DANCE_SKILL_1|My heart is singing!$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_11_00: $WmMPID_シャロン,ch00_02_Sharon_F_Normal,Face|$w0|Ah! W-wait a minute... I'm still\ngetting ready!$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_11_01: $WmMPID_春祭シャロン,ch00_02_Sharon_F_SpringFes18,Face|$w0|Sorry to keep you waiting! All right!\nHere we go, together now—\n$SspVOICE_SHARON_SPRING02_SKILL_4|I'm hopping your way!$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_15_00: $WmMPID_ハロノノ,ch04_13_Nono_F_halloween17,Face|$w0|Hee-hee-hee! Gimme some candy, or\nI'll play a trick on you! That's right...\n$SspVOICE_NONO_HALLOWEEN01_SKILL_4|Witchy Nowi's here!$k$p
+MID_TAP_BATTLE_SCENARIO_BOSS_ENTER_0007_19_00: $WmMPID_愛の祭リリーナ,ch02_03_Lilina_F_Valentine18,Face|$w0|During a celebration, give a gift to a\nfriend. Here you go! Just remember...\n$SspVOICE_LILINA_VALENTINE01_SKILL_4|I'm not all sweet!$k$p

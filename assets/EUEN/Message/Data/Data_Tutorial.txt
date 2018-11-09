@@ -1161,18 +1161,18 @@ MSID_H_太陽: Restores HP = 50% of damage dealt.
 MSID_H_影月: Treats foe’s Def/Res as if reduced by 30% during\ncombat.
 MSID_H_月虹: Treats foe’s Def/Res as if reduced by 30% during\ncombat.
 MSID_H_月光: Treats foe’s Def/Res as if reduced by 50% during\ncombat.
-MSID_H_雪辱: Boosts damage dealt to foe by 30% of damage\ndealt to unit.
-MSID_H_血讐: Boosts damage dealt to foe by 30% of damage\ndealt to unit.
-MSID_H_復讐: Boosts damage dealt to foe by 50% of damage\ndealt to unit.
-MSID_H_伏竜: Boosts Atk by 30%.
-MSID_H_竜裂: Boosts Atk by 30%.
-MSID_H_竜穿: Boosts Atk by 50%.
-MSID_H_蛍火: Boosts damage dealt by 50% of unit's Def.
-MSID_H_緋炎: Boosts damage dealt by 50% of unit's Def.
-MSID_H_華炎: Boosts damage dealt by 80% of unit's Def.
-MSID_H_氷点: Boosts damage dealt by 50% of unit's Res.
-MSID_H_氷蒼: Boosts damage dealt by 50% of unit's Res.
-MSID_H_氷華: Boosts damage dealt by 80% of unit's Res.
+MSID_H_雪辱: Boosts damage by 30% of damage dealt to unit.
+MSID_H_血讐: Boosts damage by 30% of damage dealt to unit.
+MSID_H_復讐: Boosts damage by 50% of damage dealt to unit.
+MSID_H_伏竜: Boosts damage by 30% of unit's Atk.
+MSID_H_竜裂: Boosts damage by 30% of unit's Atk.
+MSID_H_竜穿: Boosts damage by 50% of unit's Atk.
+MSID_H_蛍火: Boosts damage by 50% of unit's Def.
+MSID_H_緋炎: Boosts damage by 50% of unit's Def.
+MSID_H_華炎: Boosts damage by 80% of unit's Def.
+MSID_H_氷点: Boosts damage by 50% of unit's Res.
+MSID_H_氷蒼: Boosts damage by 50% of unit's Res.
+MSID_H_氷華: Boosts damage by 80% of unit's Res.
 MSID_H_砕火: Before combat this unit initiates, foes\nin an area near target take damage equal\nto (unit's Atk minus foe's Def or Res).
 MSID_H_爆火: Before combat this unit initiates, foes in a\nwide area around target take damage equal\nto (unit's Atk minus foe's Def or Res).
 MSID_H_烈火: Before combat this unit initiates, foes\nin an area near target take damage equal\nto 1.5 x (unit's Atk minus foe's Def or Res).

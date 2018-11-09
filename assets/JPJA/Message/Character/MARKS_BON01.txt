@@ -1,0 +1,38 @@
+[Heroes Archive] (MARKS_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARKS_BON01_HOME1: 暗夜王国の第一王子として、\n無様な踊りはみせられん…
+MID_MARKS_BON01_HOME2: これが白夜の夏祭りか。\n噂には聞いていたが\nなかなかに心が昂揚するものだな。
+MID_MARKS_BON01_HOME3: どうした、見ているだけでいいのか？\nはじめは私もそうだった…\nだが、踊ってみれば良さがわかる。
+MID_MARKS_BON01_HOME4: かつて、暗夜と白夜は争い、\n果てしない戦争を繰り広げてきた…\nだが今は、共に手を取り合っている。
+MID_MARKS_BON01_HOME5: 弟や妹たちにも\nこの踊りの良さを伝えねばな。\nきっと皆、喜ぶことだろう。
+MID_MARKS_BON01_FRIEND: $Nfからの挨拶だ。\nこの格好か…？\nこれは白夜王国の神聖なる装束だ。
+MID_MARKS_BON01_LEVEL1: 見よ、私の踊りを！
+MID_MARKS_BON01_LEVEL2: む…まだ踊りに\n照れが残っていたか。
+MID_MARKS_BON01_LEVEL3: くっ…手足の動きが\nちぐはぐだったか…！
+MID_MARKS_BON01_SKILL: 感謝する。私の踊りもなお一層\n磨きがかかることだろう。
+MID_MARKS_BON01_JOIN: 暗夜王国第一王子、マークス。\n噂に聞いた白夜の夏の踊り…\n私も加わらせてもらおう。
+MID_MARKS_BON01_STRONGEST: 人間の歴史は戦争の歴史…\n多くの文献にもそう書かれている。\n確かに、それは真実なのだろう。$k$pだが人間は、\nただ争い、殺し合うだけの\n存在ではない。$k$p時に笑い、手をたずさえ\nひとつの輪になって前へと\n進むこともできるのだ。$k$p夏祭りに参加する皆の\n楽しそうな笑顔を見るがいい。\nそこには、白夜も暗夜もない。$k$p祭りが人々を繋ぎ、一つにした。\n願わくばこの平穏がいつまでも\n続いて欲しいものだな。
+MID_MARKS_BON01_VOICE01: よっ！
+MID_MARKS_BON01_VOICE02: ほっ！
+MID_MARKS_BON01_VOICE03: うあああっ！
+MID_MARKS_BON01_VOICE04: 無粋な…！
+MID_MARKS_BON01_VOICE05: 踊るがいい
+MID_MARKS_BON01_VOICE06: 夏の祝いだ！
+MID_MARKS_BON01_VOICE07: もっと暑く！
+MID_MARKS_BON01_VOICE08: 祭りの時だ
+MID_MARKS_BON01_VOICE09: まだ…踊らねば…
+MID_MARKS_BON01_VOICE10: はっはっは
+MID_MARKS_BON01_VOICE11: 私が踊るぞ
+MID_MARKS_BON01_VOICE12: さあ、見るが良い
+MID_MARKS_BON01_VOICE13: 白夜の浴衣…なかなか良いものだ。軽く、動きやすい。
+MID_MARKS_BON01_VOICE14: む、どうした…？　浴衣の着方が間違っていたか？
+MID_MARKS_BON01_VOICE15: むう…夏祭りの踊りとやら、なかなかに難しい。
+MID_MARKS_BON01_VOICE16: 国によってさまざまな祭りが、人の営みがある…
+MID_MARKS_BON01_VOICE17: お前と共に、夏祭りを過ごしたいものだな…
+MID_MARKS_BON01_VOICE18: いいだろう
+MID_MARKS_BON01_VOICE19: 夏か…
+MID_MARKS_BON01_VOICE20: 踊ってみせよう

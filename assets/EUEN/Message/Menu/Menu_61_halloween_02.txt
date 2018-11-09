@@ -1,0 +1,14 @@
+[Heroes Archive] (Menu_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MID_EXTRA_CHANGE_ASSET_QUALITY: Change Data Quality
+MID_EXTRA_CHANGE_ASSET_QUALITY_BUTTON: Change Selection
+MID_EXTRA_CHANGE_ASSET_QUALITY_BODY: $aYour data quality is currently set to\n$a0.\n\nWould you like to change the game\ndata quality to $a1?\n\nIf you change the quality, the game\ndata will be downloaded again.
+MID_EXTRA_CHANGE_ASSET_QUALITY_FOOTER: If you choose the Lite Data version,\nthe quality of the game's visuals and\nsound will decrease.
+MID_SPRINKLES_GIFT_RECEIVED_V2: A Google Play reward has been\nreceived. Check your Present List.
+MID_SPRINKLES_GIFT_ALREADY_RECEIVED_V2: No new Google Play rewards were\nfound. *Check your Present List.\nIt is possible that the period of\navailability has expired.
+MID_GOOGLE_PLAY_POINTS_INVENTORY_MESSAGE: Google Play Points Reward
+MID_SEQUENTIAL_MAP_TERM_201810: Familiar Faces

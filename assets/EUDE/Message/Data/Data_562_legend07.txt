@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_562_legend07)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201808A_TITLE: Aug.-Quests (1)
+MID_MISSION_M201808A_A1: Rot besiegt Gegner
+MID_MISSION_H_M201808A_A1: Lass rote Verbündete\nGegner besiegen.
+MID_MISSION_M201808A_A2: Flieger besiegt Gegner
+MID_MISSION_H_M201808A_A2: Lass Flugeinheiten\nGegner besiegen.
+MID_MISSION_M201808A_A3: Blau besiegen
+MID_MISSION_H_M201808A_A3: Besiege blaue Gegner.
+MID_MISSION_M201808A_A4: Reiter besiegen
+MID_MISSION_H_M201808A_A4: Besiege berittene Gegner.
+MID_MISSION_M201808A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201808A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201808A_A6: Grün besiegt Lv. 20+
+MID_MISSION_H_M201808A_A6: Besiege Gegner, die Level 20 oder höher sind,\nmit einem grünen Verbündeten.
+MID_MISSION_M201808A_A7: Reiter besiegt Lv. 20+
+MID_MISSION_H_M201808A_A7: Besiege Gegner, die Level 20 oder höher sind,\nmit einer berittenen Einheit.
+MID_MISSION_M201808A_A8: Rot Lv. 20+ besiegen
+MID_MISSION_H_M201808A_A8: Besiege rote Gegner, die Level 20\noder höher sind.
+MID_MISSION_M201808A_A9: Flieger Lv. 20+ besiegen
+MID_MISSION_H_M201808A_A9: Besiege Flugeinheiten, die Level 20\noder höher sind.
+MID_MISSION_M201808A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201808A_A10: Gewinne Arenaduelle auf mittlerer\noder höherer Schwierigkeit.
+MID_MISSION_M201808A_A11: Blau besiegt Lv. 35+
+MID_MISSION_H_M201808A_A11: Besiege Gegner, die Level 35 oder höher sind,\nmit einem blauen Verbündeten.
+MID_MISSION_M201808A_A12: Infanterie besiegt Lv. 35+
+MID_MISSION_H_M201808A_A12: Besiege Gegner, die Level 35 oder höher sind,\nmit einer Infanterieeinheit.
+MID_MISSION_M201808A_A13: Grün Lv. 35+ besiegen
+MID_MISSION_H_M201808A_A13: Besiege grüne Gegner, die Level 35\noder höher sind.
+MID_MISSION_M201808A_A14: Inf. Lv. 35+ besiegen
+MID_MISSION_H_M201808A_A14: Besiege Infanterieeinheiten, die Level 35\noder höher sind.
+MID_MISSION_M201808A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201808A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201808B_TITLE: Aug.-Quests (2)
+MID_MISSION_M201808B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201808B_A1: Bewältige die erste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201808B_A2: Bewältige die zweite Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201808B_A3: Bewältige die dritte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201808B_A4: Bewältige die vierte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201808B_A5: Bewältige die fünfte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201808B_A6: Bewältige die sechste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201808B_A7: Bewältige die siebte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201808B_A8: Bewältige die achte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201808B_A9: Bewältige die neunte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201808B_A10: Bewältige die zehnte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201808B_A11: Bewältige die zehnte Stufe des Übungsturms\nnur mit Infanterieeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201808B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201808B_A12: Bewältige die zehnte Stufe des Übungsturms\nnur mit gepanzerten Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201808B_A13: Bewältige die zehnte Stufe des Übungsturms\nnur mit berittenen Einheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201808B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201808B_A14: Bewältige die zehnte Stufe des Übungsturms\nnur mit Flugeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201808C_TITLE: Aug.-Quests (3)
+MID_MISSION_M201808C_A1: Kap. 5 Tl. 1
+MID_MISSION_H_M201808C_A1: Bewältige Kapitel 5 - Teil 1. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808C_A2: Kap. 5 Tl. 2
+MID_MISSION_H_M201808C_A2: Bewältige Kapitel 5 - Teil 2 mit einem\nroten Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808C_A3: Kap. 5 Tl. 3
+MID_MISSION_H_M201808C_A3: Bewältige Kapitel 5 - Teil 3 mit einem\nblauen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808C_A4: Kap. 5 Tl. 4
+MID_MISSION_H_M201808C_A4: Bewältige Kapitel 5 - Teil 4 mit einem\ngrünen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808C_A5: Kap. 5 Tl. 5
+MID_MISSION_H_M201808C_A5: Bewältige Kapitel 5 - Teil 5 mit einem\nfarblosen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201808C_A6: Kap. 8 Tl. 1 - Schwer+
+MID_MISSION_H_M201808C_A6: Bewältige Kapitel 8 - Teil 1 auf Schwer oder\nhöher. Alle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A7: Kap. 8 Tl. 2 - Schwer+
+MID_MISSION_H_M201808C_A7: Bewältige Kapitel 8 - Teil 2 auf Schwer oder\nhöher mit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A8: Kap. 8 Tl. 3 - Schwer+
+MID_MISSION_H_M201808C_A8: Bewältige Kapitel 8 - Teil 3 auf Schwer oder\nhöher mit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A9: Kap. 8 Tl. 4 - Schwer+
+MID_MISSION_H_M201808C_A9: Bewältige Kapitel 8 - Teil 4 auf Schwer oder\nhöher mit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A10: Kap. 8 Tl. 5 - Schwer+
+MID_MISSION_H_M201808C_A10: Bewältige Kapitel 8 - Teil 5 auf Schwer oder\nhöher mit einem farblosen Verbündeten im\nTeam. Alle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A11: Kap. 11 Tl. 1 - Extrem
+MID_MISSION_H_M201808C_A11: Bewältige Kapitel 11 - Teil 1 auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A12: Kap. 11 Tl. 2 - Extrem
+MID_MISSION_H_M201808C_A12: Bewältige Kapitel 11 - Teil 2 auf Extrem\nmit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A13: Kap. 11 Tl. 3 - Extrem
+MID_MISSION_H_M201808C_A13: Bewältige Kapitel 11 - Teil 3 auf Extrem\nmit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A14: Kap. 11 Tl. 4 - Extrem
+MID_MISSION_H_M201808C_A14: Bewältige Kapitel 11 - Teil 4 auf Extrem\nmit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201808C_A15: Kap. 11 Tl. 5 - Extrem
+MID_MISSION_H_M201808C_A15: Bewältige Kapitel 11 - Teil 5 auf Extrem\nmit einem farblosen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808CHARA01_TITLE: Drei Helden
+MID_MISSION_S201808CHARA01_A1: Gegner besiegen
+MID_MISSION_H_S201808CHARA01_A1: Besiege einen Gegner.
+MID_MISSION_S201808CHARA01_A2: Nino greift an
+MID_MISSION_H_S201808CHARA01_A2: Lass Nino: Fromme Magierin\neinige Gegner besiegen.
+MID_MISSION_S201808CHARA01_A3: Daraen greift an
+MID_MISSION_H_S201808CHARA01_A3: Lass Daraen: Der Befreier\neinige Gegner besiegen.
+MID_MISSION_S201808CHARA01_B1: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808CHARA01_B1: Lass Nino: Fromme Magierin\nGegner besiegen, die Level 20\noder höher sind.
+MID_MISSION_S201808CHARA01_B2: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808CHARA01_B2: Lass Daraen: Der Befreier Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201808CHARA01_B3: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808CHARA01_B3: Lass Wrys Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201808CHARA01_C1: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808CHARA01_C1: Lass Nino: Fromme Magierin\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201808CHARA01_C2: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808CHARA01_C2: Lass Daraen: Der Befreier Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_S201808CHARA01_C3: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808CHARA01_C3: Lass Wrys Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_S201808DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201808DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201808DAISEIATU01_A4: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201808DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201808DAISEIATU01_A5: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201808DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201808DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201808HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201808HERO01_A1: Takumi besiegen
+MID_MISSION_H_S201808HERO01_A1: Gewinne den Großen Heldenkampf\ngegen Takumi: Leeres Gefäß mit\nFjorm im Team.
+MID_MISSION_S201808HERO01_A2: Takumi besiegen
+MID_MISSION_H_S201808HERO01_A2: Gewinne den Großen Heldenkampf gegen\nTakumi: Leeres Gefäß auf Extrem oder\nhöher mit Takumi: Leeres Gefäß im Team.
+MID_MISSION_S201808HERO01_A3: Takumi besiegen
+MID_MISSION_H_S201808HERO01_A3: Gewinne den Großen Heldenkampf gegen\nTakumi: Leeres Gefäß, der Level 40 oder\nhöher ist, mit Fjorm im Team.
+MID_MISSION_S201808HERO01_A4: Takumi besiegen
+MID_MISSION_H_S201808HERO01_A4: Gewinne den Großen Heldenkampf gegen\nTakumi: Leeres Gefäß, der Level 40 oder\nhöher ist, mit Takumi: Leeres Gefäß im Team.
+MID_MISSION_S201808HERO01_A5: Takumi besiegen
+MID_MISSION_H_S201808HERO01_A5: Gewinne den Großen Heldenkampf gegen\nTakumi: Leeres Gefäß auf Extrem oder\nhöher nur mit gepanzerten Verbündeten.
+MID_MISSION_S201808KINEN01_TITLE: Fehs Sommerfeier
+MID_MISSION_S201808KINEN01_A1: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A1: Lass rote Verbündete grüne\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201808KINEN01_A2: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A2: Lass blaue Verbündete rote\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201808KINEN01_A3: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A3: Lass grüne Verbündete blaue\nGegner besiegen, die\nLevel 10 oder höher sind.
+MID_MISSION_S201808KINEN01_A4: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A4: Lass rote Verbündete Axtkämpfer\nbesiegen, die Level 10 oder\nhöher sind.
+MID_MISSION_S201808KINEN01_A5: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A5: Lass blaue Verbündete Schwert-\nkämpfer besiegen, die Level 10\noder höher sind.
+MID_MISSION_S201808KINEN01_A6: Gegner Lv. 10+ besiegen
+MID_MISSION_H_S201808KINEN01_A6: Lass grüne Verbündete Lanzen-\nkämpfer besiegen, die Level 10\noder höher sind.
+MID_MISSION_S201808KINEN01_A7: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A7: Lass rote Verbündete grüne\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A8: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A8: Lass blaue Verbündete rote\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A9: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A9: Lass grüne Verbündete blaue\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A10: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A10: Lass rote Verbündete grüne\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A11: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A11: Lass blaue Verbündete rote\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A12: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201808KINEN01_A12: Lass grüne Verbündete blaue\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808KINEN01_A13: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A13: Lass rote Verbündete grüne\nGegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A14: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A14: Lass blaue Verbündete rote\nGegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A15: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A15: Lass grüne Verbündete blaue\nGegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A16: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A16: Lass farblose Verbündete\nfarblose Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A17: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A17: Lass rote Verbündete grüne\nDrachen besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A18: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A18: Lass blaue Verbündete Stabbenutzer\nbesiegen, die Level 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A19: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A19: Lass grüne Verbündete farblose\nBogenschützen besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808KINEN01_A20: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201808KINEN01_A20: Lass farblose Verbündete Gegner mit\nfarblosem Dolch besiegen, die Level 35\noder höher sind.
+MPID_伝承ルキナ: Lucina
+MPID_HONOR_伝承ルキナ: Meisterschützin
+MPID_H_伝承ルキナ: Eine Prinzessin und Tochter von Chrom, die in\nihre Vergangenheit reiste. Zieht mit neuem\nGewand und Heiliger Waffe erneut in den\nKampf. Erscheint in Fire Emblem: Awakening.
+MPID_VOICE_伝承ルキナ: Alexis Tipton
+MPID_ILLUST_伝承ルキナ: Yamada Kotaro (山田孝太郎)
+MPID_LEGEND_伝承ルキナ: Legendärer Effekt: Wind\nVerbündetenbonus: KP +3, Ges. +3\n\nGewährt Verbündeten diesen legendären\nEffekt in der Windsaison, wenn sie mit\nWind gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_ソグン: Thögn
+MSID_未来を映す瞳: Zukunftsvision
+MSID_遠距離警戒1: Fernschutz 1
+MSID_遠距離警戒2: Fernschutz 2
+MSID_遠距離警戒3: Fernschutz 3
+MSID_H_ソグン: Effektiv gegen Flugeinheiten. Verleiht\nGes. +3. Initiiert die Einheit den Kampf\nund nutzt der Gegner Schwert, Lanze,\nAxt oder Drachenstein, erhält die Einheit\nAngr./Ges./Ver./Res. +4 im Kampf.
+MSID_H_未来を映す瞳: Die Einheit tauscht den Platz mit einem\nVerbündeten. Ermöglicht der Einheit eine\nzusätzliche Aktion. (Zusätzliche Aktion\nwird nur einmal pro Zug gewährt.)
+MSID_H_遠距離警戒1: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +2 im Kampf gegen\nBogenschützen, Dolchträger, Magier\noder Stabbenutzer.
+MSID_H_遠距離警戒2: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +3 im Kampf gegen\nBogenschützen, Dolchträger, Magier\noder Stabbenutzer.
+MSID_H_遠距離警戒3: Verleiht Verbündeten im Umkreis von\n2 Feldern Ver./Res. +4 im Kampf gegen\nBogenschützen, Dolchträger, Magier\noder Stabbenutzer.
+MID_STAGE_HONOR_L0005: Meisterschützin
+MID_STAGE_L0005: Lucina
+MID_STAGE_HONOR_V0261: Täglich
+MID_STAGE_V0261: Teil 1
+MID_STAGE_HONOR_V0262: Täglich
+MID_STAGE_V0262: Teil 2
+MID_STAGE_HONOR_V0263: Täglich
+MID_STAGE_V0263: Teil 3
+MID_STAGE_HONOR_V0264: Täglich
+MID_STAGE_V0264: Teil 4
+MID_STAGE_HONOR_V0265: Täglich
+MID_STAGE_V0265: Teil 5
+MID_STAGE_HONOR_V0266: Täglich
+MID_STAGE_V0266: Teil 6
+MID_STAGE_HONOR_V0267: Täglich
+MID_STAGE_V0267: Teil 7
+MID_STAGE_HONOR_V0268: Täglich
+MID_STAGE_V0268: Teil 8
+MID_STAGE_HONOR_V0269: Täglich
+MID_STAGE_V0269: Teil 9
+MID_STAGE_HONOR_V0270: Täglich
+MID_STAGE_V0270: Teil 10
+MID_STAGE_TITLE_PB021: Fähigkeiten 21
+MID_STAGE_PB021: Zukunftsvision
+MID_STAGE_TITLE_PB022: Fähigkeiten 22
+MID_STAGE_PB022: Wilder Hieb
+MID_STAGE_TITLE_PC010: Großmeister 10
+MID_STAGE_PC010: Wer bricht durch?

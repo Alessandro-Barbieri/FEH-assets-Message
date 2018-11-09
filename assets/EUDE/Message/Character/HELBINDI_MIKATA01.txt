@@ -1,0 +1,38 @@
+[Heroes Archive] (HELBINDI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_HELBINDI_MIKATA01_HOME1: Dieser Ort ist ein Paradies im\nVergleich zu meiner schmutzigen\nHeimat. Aber dort gehöre ich hin.
+MID_HELBINDI_MIKATA01_HOME2: Ich komme aus dem Schmutz - nur\nein weiteres besitzloses Stück Dreck.\nMeine Stärke ist alles, was ich habe.
+MID_HELBINDI_MIKATA01_HOME3: Du willst wissen, warum ich kämpfe?\nVergeude meine Zeit nicht mit\ndummen Fragen.
+MID_HELBINDI_MIKATA01_HOME4: Ist diese Göre Ylgr hier?\n...Nein, vergiss es.
+MID_HELBINDI_MIKATA01_HOME5: Wenn ein Mädchen namens Menja\nhier auftaucht... Nein, schon gut.\nVergiss, was ich gesagt hab.
+MID_HELBINDI_MIKATA01_FRIEND: Was ich hier mache? Was fällt dir\nein, mir solche Fragen zu stellen?$k$pBist nicht gerade $Gder,die| Hellste, was,\n$Nu?
+MID_HELBINDI_MIKATA01_LEVEL1: Stärke! Mit Stärke kann man\nalles kriegen!
+MID_HELBINDI_MIKATA01_LEVEL2: Ha! So muss das sein!
+MID_HELBINDI_MIKATA01_LEVEL3: Verflucht noch mal!
+MID_HELBINDI_MIKATA01_SKILL: Danke. ...Was? Hast du etwa ein\nProblem mit Dankbarkeit?
+MID_HELBINDI_MIKATA01_JOIN: Ich bin Helbindi, General von Múspell.\nDas ist ein Witz, oder?$k$pIch war auf dem Weg zur Hölle und\nsonst nirgendwohin.
+MID_HELBINDI_MIKATA01_STRONGEST: Du willst wissen, warum ich dir folge?\nDumme Frage.$k$pFür mich ist es auch nicht gerade\nleicht. Ich hab haufenweise Leute\nwie dich unter die Erde gebracht.$k$pEs ist doch so: Selbst eine Bestie\nwedelt mit dem Schwanz, wenn\njemand Starkes auftaucht.$k$pSurtr hätte mich einfach töten\nkönnen. Aber du... Vor dir habe\nich mehr Angst.$k$pNicht, weil du Krieger beschwören\nkannst. Ich kann nicht genau sagen,\nwas es ist...$k$pIch hab das Gefühl, dass du\nirgendwann... irgendwas machst.$k$pNur damit das klar ist: Ich bin nicht\ndein Kumpel oder dein Haustier.\nIch folge dir, weil du stark bist.$k$pVergiss das bloß nicht.
+MID_HELBINDI_MIKATA01_VOICE01: おらぁっ！
+MID_HELBINDI_MIKATA01_VOICE02: Get dying!
+MID_HELBINDI_MIKATA01_VOICE03: がああっ！
+MID_HELBINDI_MIKATA01_VOICE04: Shit!
+MID_HELBINDI_MIKATA01_VOICE05: Hahaha!
+MID_HELBINDI_MIKATA01_VOICE06: Sterbt endlich.
+MID_HELBINDI_MIKATA01_VOICE07: Aus dem Weg, ihr Maden.
+MID_HELBINDI_MIKATA01_VOICE08: Es reicht!
+MID_HELBINDI_MIKATA01_VOICE09: Nothing but filth…
+MID_HELBINDI_MIKATA01_VOICE10: Gyahaha!
+MID_HELBINDI_MIKATA01_VOICE11: The name's Helbindi! Remember it.
+MID_HELBINDI_MIKATA01_VOICE12: What're you looking at? Got a death wish?
+MID_HELBINDI_MIKATA01_VOICE13: This is a joke. Me, serve somebody like you?
+MID_HELBINDI_MIKATA01_VOICE14: Why do I fight? Does it matter? No. It doesn't.
+MID_HELBINDI_MIKATA01_VOICE15: Why're you spending time with filth like me?
+MID_HELBINDI_MIKATA01_VOICE16: Money. If I had money, I... I could do what I need to do.
+MID_HELBINDI_MIKATA01_VOICE17: I'll never apologize. But I can listen to what you have to say.
+MID_HELBINDI_MIKATA01_VOICE18: What?
+MID_HELBINDI_MIKATA01_VOICE19: Nope.
+MID_HELBINDI_MIKATA01_VOICE20: Dead meat.

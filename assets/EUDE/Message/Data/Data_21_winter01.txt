@@ -122,12 +122,12 @@ MSID_H_攻撃速さの大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes
 MSID_H_攻撃守備の大覚醒1: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +3 im Kampf.
 MSID_H_攻撃守備の大覚醒2: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +5 im Kampf.
 MSID_H_攻撃守備の大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +7 im Kampf.
-MSID_H_攻撃隊形1: Initiiert die Einheit den Kampf und\nsind KP der Einheit = 100 %, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
-MSID_H_攻撃隊形2: Initiiert die Einheit den Kampf und\nsind die KP der Einheit ≥ 50 %, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
-MSID_H_攻撃隊形3: Initiiert die Einheit den Kampf, führt\nsie garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
-MSID_H_迎撃隊形1: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 90 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
-MSID_H_迎撃隊形2: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 70 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
-MSID_H_迎撃隊形3: Initiiert der Gegner den Kampf und sind\ndie KP der Einheit ≥ 50 %, führt die\nEinheit garantiert einen Folgeangriff aus.\nErholungszeit der Einheit wird pro Angriff\num 1 beschleunigt. (Nicht kombinierbar.)
+MSID_H_攻撃隊形1: Initiiert die Einheit den Kampf und sind KP der\nEinheit = 100 %, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt und sie führt garantiert einen\nFolgeangriff aus. (Nicht kombinierbar.)
+MSID_H_攻撃隊形2: Initiiert die Einheit den Kampf und sind KP der\nEinheit ≥ 50 %, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt und sie führt garantiert einen\nFolgeangriff aus. (Nicht kombinierbar.)
+MSID_H_攻撃隊形3: Initiiert die Einheit den Kampf, wird die\nErholungszeit der Einheit pro Angriff der\nEinheit um 1 beschleunigt und sie führt\ngarantiert einen Folgeangriff aus.\n(Nicht kombinierbar.)
+MSID_H_迎撃隊形1: Initiiert der Gegner den Kampf und sind KP der\nEinheit ≥ 90 %, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt und sie führt garantiert einen\nFolgeangriff aus. (Nicht kombinierbar.)
+MSID_H_迎撃隊形2: Initiiert der Gegner den Kampf und sind KP der\nEinheit ≥ 70 %, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt und sie führt garantiert einen\nFolgeangriff aus. (Nicht kombinierbar.)
+MSID_H_迎撃隊形3: Initiiert der Gegner den Kampf und sind KP der\nEinheit ≥ 50 %, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt und sie führt garantiert einen\nFolgeangriff aus. (Nicht kombinierbar.)
 MSID_H_赤魔の技量1: Überlebt die Einheit und verwendet\nein rotes Buch, erhält sie FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
 MSID_H_赤魔の技量2: Überlebt die Einheit, erhalten alle\nBuchanwender (rot) im Team FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
 MSID_H_赤魔の技量3: Überlebt die Einheit, erhalten alle\nBuchanwender (rot) im Team FP x 2.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)

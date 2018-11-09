@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_60_if02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_メイドの頭飾り: Dienerhaube
+MDAID_H_メイドの頭飾り: Eine Kopfbedeckung von Flora.\nDieses authentische nohrische Objekt\nstammt direkt aus Schloss Krakenburg.
+MDAID_メイドの頭飾り・極: Dienerhaube+
+MDAID_H_メイドの頭飾り・極: Eine Kopfbedeckung von Flora.\nNur die höchste Dienerin darf dieses\nhochwertige Objekt tragen.
+MDAID_騎士の額当て: Ritterkopfschutz
+MDAID_H_騎士の額当て: Ein ritterlicher Kopfschutz von Silas.\nEr wird von jenen getragen, die den\nTitel des Ritters errungen haben.
+MDAID_騎士の額当て・極: Ritterkopfschutz+
+MDAID_H_騎士の額当て・極: Ein ritterlicher Kopfschutz von Silas.\nEr wird von jenen getragen, die den\nTitel des Paladins errungen haben.
+MDAID_読書用眼鏡: Lesebrille
+MDAID_H_読書用眼鏡: Nina sagt, dass hiermit die Augen beim\nLesen nie müde werden - ganz egal,\nwie lange (und was) man liest.
+MDAID_読書用眼鏡・極: Lesebrille+
+MDAID_H_読書用眼鏡・極: Wenn man Nina Glauben schenkt, kann\nman mit dieser Brille problemlos bis\ntief in die Nacht lesen.
+MDAID_聖なる星の煌めき: Heiliger Sternenstaub
+MDAID_H_聖なる星の煌めき: Ophelia sagt, dass dem Sternenstaub\ngroße Macht innewohnt. (Es ist nur\neine Haarnadel, aber sag ihr das nicht.)
+MDAID_聖なる星の煌めき・極: Heiliger Sternenstaub+
+MDAID_H_聖なる星の煌めき・極: Ophelia sagt, nur die Auserwählte darf\nden Sternenstaub berühren. (Es ist nur\neine Haarnadel, aber sag ihr das nicht).\n
+MID_MISSION_M201809CLEAR01_TITLE: Buch II
+MID_MISSION_M201809CLEAR01_A1: Kapitel 1 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A1: Bewältige Buch II, Kapitel 1 - Teil 5 mit Fjorm\nim Team. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A2: Kapitel 2 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A2: Bewältige Buch II, Kapitel 2 - Teil 5 mit Fjorm\nim Team. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A3: Kapitel 3 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A3: Bewältige Buch II, Kapitel 3 - Teil 5 mit Fjorm\nim Team. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A4: Kapitel 4 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A4: Bewältige Buch II, Kapitel 4 - Teil 5 mit Fjorm\nim Team. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A5: Kapitel 5 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A5: Bewältige Buch II, Kapitel 5 - Teil 5 auf Schwer\nmit vier Infanterieeinheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A6: Kapitel 6 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A6: Bewältige Buch II, Kapitel 6 - Teil 5 auf Schwer\nmit vier gepanzerten Einheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A7: Kapitel 7 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A7: Bewältige Buch II, Kapitel 7 - Teil 5 auf Schwer\nmit vier berittenen Einheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A8: Kapitel 8 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A8: Bewältige Buch II, Kapitel 8 - Teil 5 auf Schwer\nmit vier Flugeinheiten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A9: Kapitel 9 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A9: Bewältige Buch II, Kapitel 9 - Teil 5 auf Extrem\nmit vier Infanterieeinheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A10: Kapitel 10 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A10: Bewältige Buch II, Kapitel 10 - Tl. 5 auf Extrem\nmit vier gepanzerten Einheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A11: Kapitel 11 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A11: Bewältige Buch II, Kapitel 11 - Tl. 5 auf Extrem\nmit vier berittenen Einheiten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A12: Kapitel 12 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A12: Bewältige Buch II, Kapitel 12 - Tl. 5 auf Extrem\nmit vier Flugeinheiten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809CLEAR01_A13: Kapitel 13 - Teil 5
+MID_MISSION_H_M201809CLEAR01_A13: Bewältige Buch II, Kapitel 13 - Tl. 5 auf Extrem\nmit Fjorm im Team. Alle Verbündeten müssen\nüberleben.
+MID_MISSION_S201809DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201809DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201809DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201809DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201809DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201809DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201809DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201809DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201809DAISEIATU01_A4: Bewältige die zweite Stufe des Übungsturms.
+MID_MISSION_S201809DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201809DAISEIATU01_A5: Bewältige die achte Stufe des Übungsturms.
+MID_MISSION_S201809DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201809DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201809HERO01_TITLE: Große Heldenkämpfe
+MID_MISSION_S201809HERO01_A1: Saias besiegen
+MID_MISSION_H_S201809HERO01_A1: Gewinne den Großen Heldenkampf gegen\nSaias: Flammenbischof mit Anna im Team.
+MID_MISSION_S201809HERO01_A2: Saias besiegen
+MID_MISSION_H_S201809HERO01_A2: Gewinne den Großen Heldenkampf gegen\nSaias: Flammenbischof auf Extrem mit\nSaias: Flammenbischof im Team.
+MID_MISSION_S201809HERO01_A3: Saias besiegen
+MID_MISSION_H_S201809HERO01_A3: Besiege Saias: Flammenbischof, der Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201809HERO01_A4: Saias besiegen
+MID_MISSION_H_S201809HERO01_A4: Besiege Saias: Flammenbischof, der Level 40\noder höher ist, mit Saias: Flammenbischof.
+MID_MISSION_S201809HERO01_A5: Saias besiegen
+MID_MISSION_H_S201809HERO01_A5: Gewinne den Großen Heldenkampf gegen\nSaias: Flammenbischof auf Extrem oder\nhöher nur mit Infanterieeinheiten.
+MID_MISSION_S201809SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201809SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201809SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201809SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201809SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201809SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809STORY02_TITLE: Ein Weg zurück
+MID_MISSION_S201809STORY02_A1: Kap. 13 Tl. 1 - Extrem
+MID_MISSION_H_S201809STORY02_A1: Bewältige Buch II, Kapitel 13 - Teil 1 auf\nExtrem mit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY02_A2: Kap. 13 Tl. 2 - Extrem
+MID_MISSION_H_S201809STORY02_A2: Bewältige Buch II, Kapitel 13 - Teil 2 auf\nExtrem mit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY02_A3: Kap. 13 Tl. 3 - Extrem
+MID_MISSION_H_S201809STORY02_A3: Bewältige Buch II, Kapitel 13 - Teil 3 auf\nExtrem mit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY02_A4: Kap. 13 Tl. 4 - Extrem
+MID_MISSION_H_S201809STORY02_A4: Bewältige Buch II, Kapitel 13 - Teil 4 auf\nExtrem mit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY02_A5: Kap. 13 Tl. 5 - Extrem
+MID_MISSION_H_S201809STORY02_A5: Bewältige Buch II, Kapitel 13 - Teil 5 auf\nExtrem mit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MPID_フローラ: Flora
+MPID_エポニーヌ: Nina
+MPID_オフェリア: Ophelia
+MPID_サイラス: Silas
+MPID_ガロン: Garon
+MPID_レーヴァテイン味方: Laevatein
+MPID_レーギャルン味方: Laegjarn
+MPID_ヘルビンディ味方: Helbindi
+MPID_HONOR_フローラ: Eiskalte Kriegerin
+MPID_HONOR_エポニーヌ: Adlerauge
+MPID_HONOR_オフェリア: Die Auserwählte
+MPID_HONOR_サイラス: Treuer Ritter
+MPID_HONOR_ガロン: König von Nohr
+MPID_HONOR_レーヴァテイン味方: Sengender Stahl
+MPID_HONOR_レーギャルン味方: Besonnener Stahl
+MPID_HONOR_ヘルビンディ味方: Wilde Geißel
+MPID_H_フローラ: Eine nohrische Bedienstete, die Corrin dient.\nHat einen ernsthaften Charakter und eine\nZwillingsschwester namens Felicia. Erscheint\nin Fire Emblem Fates.
+MPID_H_エポニーヌ: Tochter von Niles. Ruhig und intelligent, neigt\njedoch zu exzessivem Tagträumen. Erscheint\nin Fire Emblem Fates.
+MPID_H_オフェリア: Tochter von Odin. Eine Tagträumerin, die ihre\nVorliebe für Dramatik in ihre Magie einfließen\nlässt. Erscheint in Fire Emblem Fates.
+MPID_H_サイラス: Ein neu ernannter nohrischer Ritter und Corrins\nFreund aus Kindheitstagen. Wird oft um Rat\ngebeten. Erscheint in Fire Emblem Fates.
+MPID_H_ガロン: Der König von Nohr. Beabsichtigt, Hoshido\nzu überfallen und zu erobern. Erscheint in\nFire Emblem Fates.
+MPID_H_レーヴァテイン味方: Die zweite Prinzessin von Múspell, dem\nFeuerkönigreich. Sie sieht sich selbst und\nihre Waffe als Einheit an und kontrolliert\nihre Gefühle.
+MPID_H_レーギャルン味方: Die älteste Prinzessin von Múspell, dem\nFeuerkönigreich, und Laevateins ältere\nSchwester. Als Generalin leitet sie\nwürdevoll die Armee von Múspell.
+MPID_H_ヘルビンディ味方: Ungestümer General von Múspell, dem\nFeuerkönigreich. Stammt aus ärmlichen\nVerhältnissen und verdankt seinen\nrasanten Aufstieg seinem Kampftalent.
+MPID_VOICE_フローラ: Julie Ann Taylor
+MPID_VOICE_エポニーヌ: Liv Strander
+MPID_VOICE_オフェリア: Angela Marie Volpe
+MPID_VOICE_サイラス: —
+MPID_VOICE_ガロン: Patrick Seitz
+MPID_VOICE_レーヴァテイン味方: Sarah Williams
+MPID_VOICE_レーギャルン味方: Alicia Stratten
+MPID_VOICE_ヘルビンディ味方: Raymond K. Essel
+MPID_ILLUST_フローラ: HAKO (羽公)
+MPID_ILLUST_エポニーヌ: Mikuro (みく郎)
+MPID_ILLUST_オフェリア: Umiu Geso (海鵜げそ)
+MPID_ILLUST_サイラス: Meka (めか)
+MPID_ILLUST_ガロン: Soeda Ippei (添田一平)
+MPID_ILLUST_レーヴァテイン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_レーギャルン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ヘルビンディ味方: Maeshima Shigeki (前嶋重機)
+MSID_シャイニングボウ: Glanzbogen
+MSID_シャイニングボウ＋: Glanzbogen+
+MSID_霧氷のナイフ: Raureifmesser
+MSID_魔書ミステルトィン: Mystelstein
+MSID_暗夜竜のブレス: Fäulnisatem
+MSID_攻撃の大応援: Gr. Angr. sam.
+MSID_攻撃の大応援＋: Gr. Angr. sam.+
+MSID_攻撃魔防の孤軍1: Agr./Res.-Solo 1
+MSID_攻撃魔防の孤軍2: Agr./Res.-Solo 2
+MSID_攻撃魔防の孤軍3: Agr./Res.-Solo 3
+MSID_速さ魔防の連携1: Ges./Res.-Bund 1
+MSID_速さ魔防の連携2: Ges./Res.-Bund 2
+MSID_速さ魔防の連携3: Ges./Res.-Bund 3
+MSID_守備の波・偶数1: Gerade Ver. 1
+MSID_守備の波・偶数2: Gerade Ver. 2
+MSID_守備の波・偶数3: Gerade Ver. 3
+MSID_赤の死闘・飛行1: R Duell-Flieger 1
+MSID_赤の死闘・飛行2: R Duell-Flieger 2
+MSID_赤の死闘・飛行3: R Duell-Flieger 3
+MSID_緑の死闘・歩行1: G Duell-Inf. 1
+MSID_緑の死闘・歩行2: G Duell-Inf. 2
+MSID_緑の死闘・歩行3: G Duell-Inf. 3
+MSID_速さの波・奇数1: Ungerade Ges. 1
+MSID_速さの波・奇数2: Ungerade Ges. 2
+MSID_速さの波・奇数3: Ungerade Ges. 3
+MSID_H_シャイニングボウ: Effektiv gegen Flugeinheiten. Ist Ver. des\nGegners um mindestens 5 höher als Res. des\nGegners, erhält die Einheit +7 auf Schaden.
+MSID_H_シャイニングボウ＋: Effektiv gegen Flugeinheiten. Ist Ver. des\nGegners um mindestens 5 höher als Res. des\nGegners, erhält die Einheit +7 auf Schaden.
+MSID_H_霧氷のナイフ: Beschleunigt Spezialangriffe (Erholungszeit -1).\nInitiiert die Einheit den Kampf und nutzt der\nGegner Schwert, Lanze, Axt o. Drachenstein,\nerhält die Einheit Ver. +20 im Kampf. Kann der\nGegner außerdem kontern, führt die Einheit\ngarantiert einen Folgeangriff aus. Hat d. Einheit\nangegriffen, erleiden Ziel und Gegner im Umkr.\nvon 2 Feldern des Ziels nach dem Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_魔書ミステルトィン: Beschleunigt Spezialangriffe (Erholungszeit -1).\nDie Erholungszeit der Einheit wird zu Beginn\ndes 1. Zuges um die Anzahl der verbündeten\nMagiebenutzer (inklusive Einheit) beschleunigt.
+MSID_H_暗夜竜のブレス: Neutralisiert "Effektiv gegen Drachen"-Boni.\nZu Beginn des 4. Zuges: Gegner im Umkreis\nvon 3 Feldern erleiden 10 Schaden und die\nEinheit wird um (Zahl der Gegner innerhalb von\n3 Feldern x 5) KP geheilt. Ist Rw. des Gegners\n= 2, wird Schaden durch Ver. oder Res. des\nGegners berechnet (geringerer Wert gilt).
+MSID_H_攻撃の大応援: Verleiht einem Verbündeten und Verbündeten\nim Umkreis von 2 Feldern (außer Einheit)\nAngr. +4 für 1 Zug.
+MSID_H_攻撃の大応援＋: Verleiht einem Verbündeten und Verbündeten\nim Umkreis von 2 Feldern (außer Einheit)\nAngr. +6 für 1 Zug.
+MSID_H_攻撃魔防の孤軍1: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Res. +2 im Kampf.
+MSID_H_攻撃魔防の孤軍2: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Res. +4 im Kampf.
+MSID_H_攻撃魔防の孤軍3: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Res. +6 im Kampf.
+MSID_H_速さ魔防の連携1: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ges./Res. +2 für 1 Zug.
+MSID_H_速さ魔防の連携2: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ges./Res. +4 für 1 Zug.
+MSID_H_速さ魔防の連携3: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Ges./Res. +6 für 1 Zug.
+MSID_H_守備の波・偶数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nVer. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_守備の波・偶数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nVer. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_守備の波・偶数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn gerader Züge\nVer. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_赤の死闘・飛行1: Verleiht KP +3. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 160, gelten ihre Werte in Modi\nwie Arena als 160. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_赤の死闘・飛行2: Verleiht KP +4. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 165, gelten ihre Werte in Modi\nwie Arena als 165. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_赤の死闘・飛行3: Verleiht KP +5. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 170, gelten ihre Werte in Modi\nwie Arena als 170. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_緑の死闘・歩行1: Verleiht KP +3. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 160, gelten ihre Werte in Modi\nwie Arena als 160. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_緑の死闘・歩行2: Verleiht KP +4. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 165, gelten ihre Werte in Modi\nwie Arena als 165. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_緑の死闘・歩行3: Verleiht KP +5. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 170, gelten ihre Werte in Modi\nwie Arena als 170. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_速さの波・奇数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nGes. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_速さの波・奇数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nGes. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_速さの波・奇数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nGes. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MID_CHAPTER_TITLE_C0213: Buch II: Kapitel 13
+MID_CHAPTER_C0213: Ein Weg zurück
+MID_STAGE_TITLE_S2131: Kap. 13 - Teil 1
+MID_STAGE_TITLE_S2132: Kap. 13 - Teil 2
+MID_STAGE_TITLE_S2133: Kap. 13 - Teil 3
+MID_STAGE_TITLE_S2134: Kap. 13 - Teil 4
+MID_STAGE_TITLE_S2135: Kap. 13 - Teil 5
+MID_STAGE_S2131: Prinzessin Laegjarn
+MID_STAGE_S2132: Die Opfergaben
+MID_STAGE_S2133: Eisdienerin
+MID_STAGE_S2134: Prinzessin Laevatein
+MID_STAGE_S2135: Feuerherrscher Surtr
+MID_CHAPTER_ST_C0207: Kapitel 13
+MID_STAGE_TITLE_ST_S0213: Kapitel 13
+MID_STAGE_TITLE_PB028: Fähigkeiten 28
+MID_STAGE_PB028: Ein Messer trotzt dem Tod
+MID_STAGE_TITLE_PB029: Fähigkeiten 29
+MID_STAGE_PB029: Laevateins Mühen
+MID_STAGE_TITLE_PC014: Großmeister 14
+MID_STAGE_PC014: Zusätzliche Aktionen
+MID_STAGE_HONOR_T0039: König von Nohr
+MID_STAGE_T0039: Garon

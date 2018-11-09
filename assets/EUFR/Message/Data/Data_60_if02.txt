@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_60_if02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_メイドの頭飾り: Coiffe de servante
+MDAID_H_メイドの頭飾り: Coiffe ayant appartenu à Flora. Objet\ntypique de Nohr, porté par les\nservantes du château de Krakenburg.
+MDAID_メイドの頭飾り・極: Coiffe de servante EX
+MDAID_H_メイドの頭飾り・極: Coiffe de qualité ayant appartenu à\nFlora. Seules les gouvernantes sont\nautorisées à la porter.
+MDAID_騎士の額当て: Casque chevalier
+MDAID_H_騎士の額当て: Casque ayant appartenu à Silas.\nCet objet est donné à ceux qui\nreçoivent le titre de chevalier.
+MDAID_騎士の額当て・極: Casque chevalier EX
+MDAID_H_騎士の額当て・極: Casque ayant appartenu à Silas.\nCet objet spécial est donné à ceux\nqui reçoivent le titre de paladin.
+MDAID_読書用眼鏡: Lunettes de lecture
+MDAID_H_読書用眼鏡: D'après Nina, elles permettent de lire\ntout ce que l'on veut sans se fatiguer\nles yeux.
+MDAID_読書用眼鏡・極: Lunettes de lecture EX
+MDAID_H_読書用眼鏡・極: D'après Nina, ces lunettes permettent\nde lire dans la nuit la plus noire.
+MDAID_聖なる星の煌めき: Poussière sacrée
+MDAID_H_聖なる星の煌めき: Ophelia dit qu'elle a de grands\npouvoirs. (Ce n'est qu'une épingle à\ncheveux, mais ne le lui dites pas.)
+MDAID_聖なる星の煌めき・極: Poussière sacrée EX
+MDAID_H_聖なる星の煌めき・極: Ophelia dit que seuls les élus peuvent\nla toucher. (Ce n'est qu'une épingle à\ncheveux, mais laissons-la rêver.)
+MID_MISSION_M201809CLEAR01_TITLE: Livre II
+MID_MISSION_M201809CLEAR01_A1: Chapitre 1 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A1: Terminer l'acte 5 du chapitre 1 du livre II\navec Fjorm dans votre équipe et sans\nessuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A2: Chapitre 2 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A2: Terminer l'acte 5 du chapitre 2 du livre II\navec Fjorm dans votre équipe et sans\nessuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A3: Chapitre 3 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A3: Terminer l'acte 5 du chapitre 3 du livre II\navec Fjorm dans votre équipe et sans\nessuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A4: Chapitre 4 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A4: Terminer l'acte 5 du chapitre 4 du livre II\navec Fjorm dans votre équipe et sans\nessuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A5: Chapitre 5 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A5: Terminer l'acte 5 du chapitre 5 du livre II\nen Difficile avec quatre fantassins dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A6: Chapitre 6 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A6: Terminer l'acte 5 du chapitre 6 du livre II\nen Difficile avec quatre unités en armure dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A7: Chapitre 7 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A7: Terminer l'acte 5 du chapitre 7 du livre II\nen Difficile avec quatre cavaliers dans votre\néquipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A8: Chapitre 8 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A8: Terminer l'acte 5 du chapitre 8 du livre II\nen Difficile avec quatre unités volantes dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A9: Chapitre 9 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A9: Terminer l'acte 5 du chapitre 9 du livre II\nen Expert avec quatre fantassins dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A10: Chapitre 10 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A10: Terminer l'acte 5 du chapitre 10 du livre II\nen Expert avec quatre unités en armure dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A11: Chapitre 11 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A11: Terminer l'acte 5 du chapitre 11 du livre II\nen Expert avec quatre cavaliers dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A12: Chapitre 12 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A12: Terminer l'acte 5 du chapitre 12 du livre II\nen Expert avec quatre unités volantes dans\nvotre équipe et sans essuyer la moindre perte.
+MID_MISSION_M201809CLEAR01_A13: Chapitre 13 - Acte 5
+MID_MISSION_H_M201809CLEAR01_A13: Terminer l'acte 5 du chapitre 13 du livre II\nen Expert avec Fjorm dans votre équipe\net sans essuyer la moindre perte.
+MID_MISSION_S201809DAISEIATU01_TITLE: Grande conquête
+MID_MISSION_S201809DAISEIATU01_A1: GC : score
+MID_MISSION_H_S201809DAISEIATU01_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201809DAISEIATU01_A2: GC : score
+MID_MISSION_H_S201809DAISEIATU01_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201809DAISEIATU01_A3: GC : score
+MID_MISSION_H_S201809DAISEIATU01_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201809DAISEIATU01_A4: Tour : deuxième strate
+MID_MISSION_H_S201809DAISEIATU01_A4: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201809DAISEIATU01_A5: Tour : huitième strate
+MID_MISSION_H_S201809DAISEIATU01_A5: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201809DAISEIATU01_A6: Duelliste
+MID_MISSION_H_S201809DAISEIATU01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201809HERO01_TITLE: Grandes batailles
+MID_MISSION_S201809HERO01_A1: Saias
+MID_MISSION_H_S201809HERO01_A1: Remporter la grande bataille contre Saias,\névêque du feu, avec Anna dans votre équipe.
+MID_MISSION_S201809HERO01_A2: Saias
+MID_MISSION_H_S201809HERO01_A2: Remporter la grande bataille contre Saias,\névêque du feu, en Expert avec Saias,\névêque du feu, dans votre équipe.
+MID_MISSION_S201809HERO01_A3: Saias
+MID_MISSION_H_S201809HERO01_A3: Vaincre une version de niveau 40\nou supérieur de Saias, évêque du feu,\navec Anna.
+MID_MISSION_S201809HERO01_A4: Saias
+MID_MISSION_H_S201809HERO01_A4: Vaincre une version de niveau 40\nou supérieur de Saias, évêque du feu,\navec Saias, évêque du feu.
+MID_MISSION_S201809HERO01_A5: Saias
+MID_MISSION_H_S201809HERO01_A5: Remporter la grande bataille contre Saias,\névêque du feu, en Expert ou supérieur avec une\néquipe composée exclusivement de fantassins.
+MID_MISSION_S201809SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201809SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201809SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201809SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201809SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201809SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809STORY02_TITLE: L'heure du retour
+MID_MISSION_S201809STORY02_A1: Chap. 13 - Acte 1 (Expert)
+MID_MISSION_H_S201809STORY02_A1: Terminer Livre II, Chap. 13, Acte 1 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY02_A2: Chap. 13 - Acte 2 (Expert)
+MID_MISSION_H_S201809STORY02_A2: Terminer Livre II, Chap. 13, Acte 2 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY02_A3: Chap. 13 - Acte 3 (Expert)
+MID_MISSION_H_S201809STORY02_A3: Terminer Livre II, Chap. 13, Acte 3 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY02_A4: Chap. 13 - Acte 4 (Expert)
+MID_MISSION_H_S201809STORY02_A4: Terminer Livre II, Chap. 13, Acte 4 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY02_A5: Chap. 13 - Acte 5 (Expert)
+MID_MISSION_H_S201809STORY02_A5: Terminer Livre II, Chap. 13, Acte 5 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_フローラ: Flora
+MPID_エポニーヌ: Nina
+MPID_オフェリア: Ophelia
+MPID_サイラス: Silas
+MPID_ガロン: Garon
+MPID_レーヴァテイン味方: Laevatein
+MPID_レーギャルン味方: Laegjarn
+MPID_ヘルビンディ味方: Helbindi
+MPID_HONOR_フローラ: Service glacé
+MPID_HONOR_エポニーヌ: Moucharde
+MPID_HONOR_オフェリア: Dramaturge
+MPID_HONOR_サイラス: Chevalier loyal
+MPID_HONOR_ガロン: Roi de Nohr
+MPID_HONOR_レーヴァテイン味方: Lame ardente
+MPID_HONOR_レーギャルン味方: Écrin ardent
+MPID_HONOR_ヘルビンディ味方: Fléau infernal
+MPID_H_フローラ: Demoiselle de Nohr au service de Corrin.\nSérieuse et assidue, elle est la sœur jumelle\nde Felicia. Apparaît dans Fire Emblem Fates.
+MPID_H_エポニーヌ: Calme et intelligente, la fille de Niles\npossède une imagination débridée.\nApparaît dans Fire Emblem Fates.
+MPID_H_オフェリア: Fille d'Odin. C'est une rêveuse qui associe\nson goût pour la mise en scène à la magie.\nApparaît dans Fire Emblem Fates.
+MPID_H_サイラス: Chevalier nohrien récemment adoubé et ami\nd'enfance de Corrin. Sociable, il aime prodiguer\ndes conseils. Apparaît dans Fire Emblem Fates.
+MPID_H_ガロン: Roi de Nohr. Il a pour dessein d'envahir\nHoshido. Apparaît dans Fire Emblem Fates.
+MPID_H_レーヴァテイン味方: Seconde princesse de Múspell, le monde des\nflammes. S'identifie à son épée et garde le\ncontrôle de ses émotions.
+MPID_H_レーギャルン味方: Première princesse de Múspell, le monde des\nflammes, et sœur aînée de Laevatein. En tant\nque général, elle dirige l'armée de Múspell\navec dignité.
+MPID_H_ヘルビンディ味方: Général violent de Múspell, le monde des\nflammes. Parti de rien, il a gravi les rangs\nde l'armée grâce à ses prouesses au\ncombat.
+MPID_VOICE_フローラ: Julie Ann Taylor
+MPID_VOICE_エポニーヌ: Liv Strander
+MPID_VOICE_オフェリア: Angela Marie Volpe
+MPID_VOICE_サイラス: —
+MPID_VOICE_ガロン: Patrick Seitz
+MPID_VOICE_レーヴァテイン味方: Sarah Williams
+MPID_VOICE_レーギャルン味方: Alicia Stratten
+MPID_VOICE_ヘルビンディ味方: Raymond K. Essel
+MPID_ILLUST_フローラ: HAKO (羽公)
+MPID_ILLUST_エポニーヌ: Mikuro (みく郎)
+MPID_ILLUST_オフェリア: Umiu Geso (海鵜げそ)
+MPID_ILLUST_サイラス: Meka (めか)
+MPID_ILLUST_ガロン: Soeda Ippei (添田一平)
+MPID_ILLUST_レーヴァテイン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_レーギャルン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ヘルビンディ味方: Maeshima Shigeki (前嶋重機)
+MSID_シャイニングボウ: Arc brillant
+MSID_シャイニングボウ＋: Arc brillant +
+MSID_霧氷のナイフ: Couteau du givre
+MSID_魔書ミステルトィン: Miserteinn
+MSID_暗夜竜のブレス: Souffle fléau
+MSID_攻撃の大応援: Rall. sup. Atq
+MSID_攻撃の大応援＋: Rall. sup. Atq +
+MSID_攻撃魔防の孤軍1: Solo Atq/Rés 1
+MSID_攻撃魔防の孤軍2: Solo Atq/Rés 2
+MSID_攻撃魔防の孤軍3: Solo Atq/Rés 3
+MSID_速さ魔防の連携1: Union Vit/Rés 1
+MSID_速さ魔防の連携2: Union Vit/Rés 2
+MSID_速さ魔防の連携3: Union Vit/Rés 3
+MSID_守備の波・偶数1: Pair Déf 1
+MSID_守備の波・偶数2: Pair Déf 2
+MSID_守備の波・偶数3: Pair Déf 3
+MSID_赤の死闘・飛行1: Duel aérien (R) 1
+MSID_赤の死闘・飛行2: Duel aérien (R) 2
+MSID_赤の死闘・飛行3: Duel aérien (R) 3
+MSID_緑の死闘・歩行1: Duel infant. (V) 1
+MSID_緑の死闘・歩行2: Duel infant. (V) 2
+MSID_緑の死闘・歩行3: Duel infant. (V) 3
+MSID_速さの波・奇数1: Impair Vit 1
+MSID_速さの波・奇数2: Impair Vit 2
+MSID_速さの波・奇数3: Impair Vit 3
+MSID_H_シャイニングボウ: Efficace contre les unités volantes. Si\nDéf ennemi > Rés ennemi de 5 points ou plus,\ninflige 7 dégâts supplémentaires.
+MSID_H_シャイニングボウ＋: Efficace contre les unités volantes. Si\nDéf ennemi > Rés ennemi de 5 points ou plus,\ninflige 7 dégâts supplémentaires.
+MSID_H_霧氷のナイフ: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si l'unité initie le combat contre\nun ennemi avec une épée, une lance, une hache\nou une dracopierre, confère Déf +20 pendant\nle combat et, si l'ennemi peut riposter, l'unité\neffectue une double frappe. Après le combat,\nsi l'unité a attaqué, inflige Déf/Rés -7 à la cible\net aux ennemis à 2 cases ou moins de la cible\njusqu'à la fin de leur phase.
+MSID_H_魔書ミステルトィン: Accélère l'activation des aptitudes spéciales\n(compteur -1). Au début du tour 1, déduit le\nnombre d'unités utilisant la magie dans l'équipe\n(unité comprise) du compteur d'aptitude\nspéciale.
+MSID_H_暗夜竜のブレス: Neutralise l'effet « efficace contre les\ndragons » conféré par certaines aptitudes. Au\ndébut du tour 4, inflige 10 dégâts aux ennemis\nà 3 cases et rend des PV à l'unité à hauteur du\nnombre d'ennemis à 3 cases × 5. Les dégâts\nsont calculés avec la Déf ou la Rés (la valeur la\nplus faible) pour les ennemis avec une portée\nde 2.
+MSID_H_攻撃の大応援: Confère Atq +4 à la cible et aux alliés à 2 cases\nou moins de la cible (unité exclue) pendant un\ntour.
+MSID_H_攻撃の大応援＋: Confère Atq +6 à la cible et aux alliés à 2 cases\nou moins de la cible (unité exclue) pendant un\ntour.
+MSID_H_攻撃魔防の孤軍1: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Rés +2 pendant le\ncombat.
+MSID_H_攻撃魔防の孤軍2: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Rés +4 pendant le\ncombat.
+MSID_H_攻撃魔防の孤軍3: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Rés +6 pendant le\ncombat.
+MSID_H_速さ魔防の連携1: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nVit/Rés +2 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_速さ魔防の連携2: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nVit/Rés +4 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_速さ魔防の連携3: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nVit/Rés +6 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_守備の波・偶数1: Au début des tours pairs, confère Déf +2\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MSID_H_守備の波・偶数2: Au début des tours pairs, confère Déf +4\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MSID_H_守備の波・偶数3: Au début des tours pairs, confère Déf +6\nà l'unité et aux alliés adjacents pendant\nun tour (l'unité reçoit ce boost même s'il\nn'y a pas d'alliés adjacents).
+MSID_H_赤の死闘・飛行1: Confère PV +3. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 160, celui-ci est\ntraité comme s'il était égal à 160 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_赤の死闘・飛行2: Confère PV +4. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 165, celui-ci est\ntraité comme s'il était égal à 165 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_赤の死闘・飛行3: Confère PV +5. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 170, celui-ci est\ntraité comme s'il était égal à 170 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_緑の死闘・歩行1: Confère PV +3. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 160, celui-ci est\ntraité comme s'il était égal à 160 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_緑の死闘・歩行2: Confère PV +4. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 165, celui-ci est\ntraité comme s'il était égal à 165 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_緑の死闘・歩行3: Confère PV +5. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 170, celui-ci est\ntraité comme s'il était égal à 170 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_速さの波・奇数1: Au début des tours impairs, confère\nVit +2 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_速さの波・奇数2: Au début des tours impairs, confère\nVit +4 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_速さの波・奇数3: Au début des tours impairs, confère\nVit +6 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MID_CHAPTER_TITLE_C0213: Livre II, Chap. 13
+MID_CHAPTER_C0213: L'heure du retour
+MID_STAGE_TITLE_S2131: Ch. 13 - Acte 1
+MID_STAGE_TITLE_S2132: Ch. 13 - Acte 2
+MID_STAGE_TITLE_S2133: Ch. 13 - Acte 3
+MID_STAGE_TITLE_S2134: Ch. 13 - Acte 4
+MID_STAGE_TITLE_S2135: Ch. 13 - Acte 5
+MID_STAGE_S2131: La princesse Laegjarn
+MID_STAGE_S2132: Les offrandes
+MID_STAGE_S2133: Au secours des glaces
+MID_STAGE_S2134: La princesse Laevatein
+MID_STAGE_S2135: Le souverain du feu
+MID_CHAPTER_ST_C0207: Chapitre 13
+MID_STAGE_TITLE_ST_S0213: Chapitre 13
+MID_STAGE_TITLE_PB028: Aptitudes 28
+MID_STAGE_PB028: Le couteau salvateur
+MID_STAGE_TITLE_PB029: Aptitudes 29
+MID_STAGE_PB029: Laevatein passe à l'action
+MID_STAGE_TITLE_PC014: Expertise 14
+MID_STAGE_PC014: Actions supplémentaires
+MID_STAGE_HONOR_T0039: Roi de Nohr
+MID_STAGE_T0039: Garon

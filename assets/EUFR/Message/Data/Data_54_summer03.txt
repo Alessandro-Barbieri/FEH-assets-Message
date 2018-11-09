@@ -88,9 +88,9 @@ MSID_H_強化無効・近距離3: Si l'ennemi utilise une épée, une lance, une
 MSID_H_守備の共謀1: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -3 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
 MSID_H_守備の共謀2: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -5 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
 MSID_H_守備の共謀3: Si une aptitude Ralliement est utilisée\npar l'unité ou sur l'unité, inflige Déf -7 aux\nennemis situés sur la même ligne horizontale\nou verticale jusqu'à la fin de leur phase.
-MSID_H_歩行の剛撃1: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n5 points ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
-MSID_H_歩行の剛撃2: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n3 points ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
-MSID_H_歩行の剛撃3: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n1 point ou plus, compteur -1 par attaque.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
+MSID_H_歩行の剛撃1: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n5 points ou plus, compteur -1 pour chaque\nattaque du fantassin. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
+MSID_H_歩行の剛撃2: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n3 points ou plus, compteur -1 pour chaque\nattaque du fantassin. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
+MSID_H_歩行の剛撃3: Pour les fantassins à 2 cases ou moins,\nsi Atq du fantassin > Atq de l'ennemi de\n1 point ou plus, compteur -1 pour chaque\nattaque du fantassin. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
 MID_CHAPTER_TITLE_CX020: Annexe 21
 MID_CHAPTER_CX020: Voilà l'été
 MID_STAGE_TITLE_X0201: Ann. 21 - Acte 1

@@ -1,0 +1,8 @@
+[Heroes Archive] (T0034)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_マシュー,ch03_02_Matthew_M_Normal,Face|$w0|Sé que confías mucho en tus\nhabilidades de combate, pero...\nno soy muy buen espadachín...$k$p$WmMPID_ヘクトル,ch03_05_Hector_M_Normal,Face|$w0|Puedes volverte, si quieres.\nPero si me acompañas,\n¡prepárate para luchar!$k$p$Sbs1000|

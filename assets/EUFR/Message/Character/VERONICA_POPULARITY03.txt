@@ -1,0 +1,38 @@
+[Heroes Archive] (VERONICA_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_VERONICA_POPULARITY03_HOME1: Oh, grand frère, où es-tu ?\nDites-moi, $GInvocateur,Invocatrice|, mon\nfrère est-il dans ce monde ?
+MID_VERONICA_POPULARITY03_HOME2: C'est mon frère qui m'a offert ce\nlivre. Je le connais par cœur, mais je\nne peux pas m'empêcher de le relire.
+MID_VERONICA_POPULARITY03_HOME3: Si quelqu'un s'oppose à vous...$k$pJe lui arracherai la tête, comme\nje le faisais autrefois avec mes\npoupées.
+MID_VERONICA_POPULARITY03_HOME4: Quand on est à cheval, on peut voir\ntrès loin devant soi... Voulez-vous\nmonter avec moi ?
+MID_VERONICA_POPULARITY03_HOME5: La Veronica de ce monde me\nressemble-t-elle ? J'aimerais\nla rencontrer.
+MID_VERONICA_POPULARITY03_FRIEND: $Nf fait\npreuve d'une loyauté incomparable.\nVous devriez servir Embla, vous aussi.
+MID_VERONICA_POPULARITY03_LEVEL1: Êtes-vous $Gcontent,contente| de me voir\ndevenir plus forte ?
+MID_VERONICA_POPULARITY03_LEVEL2: J'applique ce que mon frère\nm'a enseigné.
+MID_VERONICA_POPULARITY03_LEVEL3: Ne me regardez pas comme ça,\nça me gêne...
+MID_VERONICA_POPULARITY03_SKILL: Bonne décision. En me rendant plus\npuissante, vous devenez vous-même\nplus $Gfort,forte|.
+MID_VERONICA_POPULARITY03_JOIN: Je m'appelle Veronica. J'imagine que\nc'est vous qui m'avez appelée. Fort\nbien. Je vais vous aider.
+MID_VERONICA_POPULARITY03_STRONGEST: Qui êtes-vous vraiment,\n$Nu ?$k$pVous êtes l'$Ginvocateur,invocatrice| légendaire,\nmais vous ne correspondez pas à\nl'idée que je me faisais de vous.$k$pVous êtes si $Ggentil,gentille|. Je m'attendais\nà quelqu'un de plus imposant.$k$pDans mon monde, j'ai longuement\nimaginé le moment où je mettrais fin\nà vos jours. Mais maintenant...$k$pJ'ai une idée. Une fois que nous\naurons trouvé mon frère, vous\nm'emmènerez dans votre monde.$k$pJe veux connaître $Gle vrai,la vraie|\n$Nu.
+MID_VERONICA_POPULARITY03_VOICE01: それ
+MID_VERONICA_POPULARITY03_VOICE02: どいて…
+MID_VERONICA_POPULARITY03_VOICE03: きゃああっ！
+MID_VERONICA_POPULARITY03_VOICE04: ひどい…
+MID_VERONICA_POPULARITY03_VOICE05: Vous m'appartenez.
+MID_VERONICA_POPULARITY03_VOICE06: Quelle force !
+MID_VERONICA_POPULARITY03_VOICE07: Comme grand frère...
+MID_VERONICA_POPULARITY03_VOICE08: Disparaissez.
+MID_VERONICA_POPULARITY03_VOICE09: Brother...
+MID_VERONICA_POPULARITY03_VOICE10: ふぅん…
+MID_VERONICA_POPULARITY03_VOICE11: Je suis là.
+MID_VERONICA_POPULARITY03_VOICE12: Tout ira bien.
+MID_VERONICA_POPULARITY03_VOICE13: I am Veronica. However, I am different than the Veronica you know.
+MID_VERONICA_POPULARITY03_VOICE14: Don't treat me like a child. What do you want?
+MID_VERONICA_POPULARITY03_VOICE15: My brother and Xander taught me how to ride a horse.
+MID_VERONICA_POPULARITY03_VOICE16: I wonder... Has my brother come to hate the very sight of me?
+MID_VERONICA_POPULARITY03_VOICE17: When I'm with you... I don't get so lonely.
+MID_VERONICA_POPULARITY03_VOICE18: Hmmm...
+MID_VERONICA_POPULARITY03_VOICE19: Did you call for me?
+MID_VERONICA_POPULARITY03_VOICE20: I will fight.

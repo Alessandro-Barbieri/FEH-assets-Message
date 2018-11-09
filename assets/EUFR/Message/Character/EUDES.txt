@@ -1,0 +1,38 @@
+[Heroes Archive] (EUDES)
+
+
+Heroes Message Name: Message
+
+
+MID_EUDES_HOME1: J'ai au bras une marque appelée\nle sceau de sainteté. Quand ma mère\nl'a vue pour la première fois...$k$pElle a ri et pleuré pendant une heure !\nJe n'oublierai jamais son regard\nce jour-là.
+MID_EUDES_HOME2: Dans le futur d'où je viens, je n'ai pu\nprotéger personne. J'ai juré que ce\nserait mon dernier échec.
+MID_EUDES_HOME3: Merci pour tous vos efforts. Même\nlorsque vous patrouillez, vous êtes\nune source d'inspiration !$k$pQuand je vous vois, capuche au vent,\narme divine à la main, mon sang\nne fait qu'un tour !
+MID_EUDES_HOME4: Essayons de trouver des noms de\ntechniques spéciales !$k$pJe suis certain que si vous les criez\nen invoquant, vous ferez venir des\nhéros plus puissants !
+MID_EUDES_HOME5: Je m'apprêtais à ajouter un nouveau\nchapitre au Manuel de la Justice...\nmais ne songez même pas à le lire !$k$pVotre esprit de simple $Gmortel,mortelle| n'est\npas prêt pour les secrets qu'il\ncontient.
+MID_EUDES_FRIEND: Êtes-vous $Nu ?\n$Nf a un message\npour vous !$k$pJ'ai bravé tous les dangers pour vous\nle transmettre !
+MID_EUDES_LEVEL1: Une simple goutte dans l'océan\nde ma puissance !
+MID_EUDES_LEVEL2: Faites attention, je ne sais pas\nsi je pourrai contrôler ma force !
+MID_EUDES_LEVEL3: C'est une conspiration contre moi !
+MID_EUDES_SKILL: Merci pour ce nouveau pouvoir !\nJe dois lui trouver un nom...
+MID_EUDES_JOIN: Un combattant venu du futur pour\nredonner espoir à un monde ravagé...\nVoici Owain le Sombre ! Armé de...$k$pOh, vous êtes un peu $Gpressé,pressée| ? Euh...\nEh bien, je suis le fils de Lissa. Ravi\nde faire votre connaissance.
+MID_EUDES_STRONGEST: Vous avez su manier ma puissance\navec une efficacité redoutable,\n$Nu.$k$pOu devrais-je plutôt vous appeler\n« $Gmaître,maîtresse| » ?$k$pNon $Gcontent,contente| de vous être octroyé\nles services d'un héros de ma\ntrempe, vous m'avez rendu plus fort.$k$pPourtant, si mes prouesses venaient\nà être ne serait-ce qu'un iota en deçà\nde vos attentes...$k$pOh ? Pourquoi vous éloignez-vous ?\nAttendez, $Nu !\nRevenez !$k$pJe vais parler plus simplement, c'est\npromis ! Je voulais juste dire que je\nsuis heureux d'être à vos côtés.$k$pJe vous suis très reconnaissant.\nC'est grâce à vous que j'ai pu\nsurvivre à toutes ces batailles.$k$pUn jour, je serai un vrai héros\nlégendaire... et je continuerai de\ncombattre pour vous !
+MID_EUDES_VOICE01: せやっ！
+MID_EUDES_VOICE02: はあっ！
+MID_EUDES_VOICE03: ぐあっ！
+MID_EUDES_VOICE04: That's not enough to take me down!
+MID_EUDES_VOICE05: Ma main exaltée...
+MID_EUDES_VOICE06: Technique ultime !
+MID_EUDES_VOICE07: À l'attaque, Miserteinn !
+MID_EUDES_VOICE08: Attaque des pierres sacrées !
+MID_EUDES_VOICE09: Couldn't...save anyone...
+MID_EUDES_VOICE10: Heehee
+MID_EUDES_VOICE11: S-stay back, friend...! I can't...control...my power...!
+MID_EUDES_VOICE12: Ahh, I see you too bear the aura of a chosen one! We are kindred spirits, you and I.
+MID_EUDES_VOICE13: The blood of heroes courses through our veins! It draws us together, binding us to one another in— Hey, come back! I didn't finish my speech...
+MID_EUDES_VOICE14: Ah, if it isn't the Hero Champion! Brave Master? No, Brave Champion! Wait, the Daring Hero! Oh, I've got it! The Hero Champion! Wait, did I say that one already? The Champion of Daring...Heroes! The Heroic Brave! The Master of Heroes! The...
+MID_EUDES_VOICE15: I've arrived somewhere other than Ylisse?! I couldn't concoct a more devious plot twist if I tried.
+MID_EUDES_VOICE16: Mother... Father... Just you watch. I will save the world. I'll save everyone...
+MID_EUDES_VOICE17: A dark hero such as myself is pretty in-demand... Well, you did go through the trouble to summon me. You may share in my boundless strength!
+MID_EUDES_VOICE18: Hoy there!
+MID_EUDES_VOICE19: Power...overflowing!
+MID_EUDES_VOICE20: A divine request?!

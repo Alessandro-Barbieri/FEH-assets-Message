@@ -1,0 +1,45 @@
+[Heroes Archive] (Menu_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION: Résumé
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP: La Tourmente
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_OPENING: Début
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_ENDING: Fin
+MID_EVENT_RECOLLECTION_INFO: Voir les dialogues d'événements terminés.
+MID_MAP_RETRY: Recommencer
+MID_MAP_RETRY_CONFIRM: Recommencer depuis le début ?
+MID_MAP_RETRY_DECIDE: Recommencer
+MID_MAP_RETRY_CANCEL: Abandonner
+MID_MAP_PHASE_WITH_LIMIT: $aPhase $a0/$a1
+MID_MISSION_PROGRESS_DIALOG_LIST_ACHIEVED_HELP: Récompense dans la liste de quêtes.
+MID_OCCUPATION_HELP_DIALOG_08_02: ◆ Palier GC ◆\n・ Votre palier GC augmente\navec votre score cumulé.\n・ Lorsque vous passez au rang\nsupérieur, la fraction du score\najoutée aux zones adjacentes\naugmente à partir de la bataille\nsuivante.\n・ Le palier GC peut également\nvous faire gagner d'autres\nrécompenses.
+MID_OCCUPATION_AREA_ALLY_RANKING_REINFORCE_ONLY: Aide
+MID_OCCUPATION_REWARD_SORT_RANK: Rang (camp)
+MID_OCCUPATION_REWARD_RANK: Rang
+MID_OCCUPATION_RANKING: Classement
+MID_OCCUPATION_RANKING_SORT_TYPE: $aClassement : $a0
+MID_OCCUPATION_RANKING_SORT_TOP: Podium
+MID_OCCUPATION_RANK_OUT_OF_RANGE: aucun
+MID_OCCUPATION_RANKING_UNCALCULATED: Calcul du rang...
+MID_OCCUPATION_GAINED_REWARDTYPE_ROUND_RANK: $aGC : Récompense rang (camp) - Bataille $a0
+MID_OCCUPATION_RANKING_SCORE: Score
+MID_SEQUENTIAL_MAP_TERM_201807: Dormez bien
+MID_STAGE_SELECT_RULE_TURN_ENEMY_PHASE: $aVictoire en $a0 tour(s) (phase ennemie)
+MID_STAGE_SELECT_PUZZLE: Manœuvres
+MID_STAGE_SELECT_PUZZLE_INFO: Mise à l'épreuve !
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC: Bases
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC_INFO: Révisez les bases et\nperfectionnez votre\ntechnique.
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL: Aptitudes
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL_INFO: Apprenez comment les\ndifférentes aptitudes\ninfluencent le combat.
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS: Expertise
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS_INFO: Tacticiens vétérans,\nces défis sont pour vous.
+MID_PUZZLE_HELP_DIALOG_00: Jouez et apprenez !
+MID_PUZZLE_HELP_DIALOG_01: ◆ Manœuvres ◆\nRévisez les règles de Fire\nEmblem Heroes et améliorez\nvotre sens tactique en jouant.\n\nChaque carte met en scène un\ngroupe d'alliés présélectionnés.
+MID_PUZZLE_HELP_DIALOG_02: ◆ Expertise ◆\nCes cartes sont extrêmement\ndifficiles !\n\nElles seront disponibles quand\nvous aurez terminé le chapitre 13\ndu livre I du scénario.
+MID_STAGE_OPEN_FIRST_PUZZLE: Vous avez débloqué\nles manœuvres.
+MID_STAGE_OPEN_NEW_PUZZLE: Une nouvelle carte est disponible\ndans les manœuvres.
+MID_STAGE_SELECT_RULE_PHASE: $aVictoire en $a0 phase(s)
+MID_TAP_BATTLE_RESULT_COMMENT_FULL: Parfait !

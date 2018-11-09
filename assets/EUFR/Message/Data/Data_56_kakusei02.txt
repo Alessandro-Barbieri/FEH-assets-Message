@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: Épingle florale
+MDAID_H_花占いの髪飾り: Une épingle à cheveux ornée d'une\nfleur au parfum charmant que Sumia\na utilisée pour lire l'avenir.
+MDAID_花占いの髪飾り・極: Épingle florale EX
+MDAID_H_花占いの髪飾り・極: Une épingle à cheveux ornée d'une\nfleur au parfum raffiné que Sumia\na utilisée pour lire l'avenir.
+MDAID_令嬢のリボン: Ruban noble
+MDAID_H_令嬢のリボン: Un ruban à cheveux en tissu de très\nhaute qualité ayant appartenu à\nMaribelle.
+MDAID_令嬢のリボン・極: Ruban noble EX
+MDAID_H_令嬢のリボン・極: Un ruban à cheveux en tissu de très\nhaute qualité et légèrement parfumé\nayant appartenu à Maribelle.
+MDAID_踊り子のマスク: Masque de danse
+MDAID_H_踊り子のマスク: Un masque ayant appartenu à Olivia\net qui confère une aura mystique à\nson porteur lorsqu'il danse.
+MDAID_踊り子のマスク・極: Masque de danse EX
+MDAID_H_踊り子のマスク・極: Un masque ayant appartenu à Olivia\net qui confère une aura irrésistible à\nson porteur lorsqu'il danse.
+MDAID_聖職者の帽子: Mitre de moine
+MDAID_H_聖職者の帽子: Un chapeau ayant appartenu à Libra.\nIl apporte la tranquillité lorsqu'il est\nporté dans un lieu sacré.
+MDAID_聖職者の帽子・極: Mitre de moine EX
+MDAID_H_聖職者の帽子・極: Un chapeau ayant appartenu à Libra.\nIl inspire la solennité et la majesté\nlorsqu'il est porté dans un lieu sacré.
+MID_MISSION_S201807ARENA01_TITLE: Arène
+MID_MISSION_S201807ARENA01_A1: Duelliste
+MID_MISSION_H_S201807ARENA01_A1: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A2: Duelliste
+MID_MISSION_H_S201807ARENA01_A2: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A3: Duelliste
+MID_MISSION_H_S201807ARENA01_A3: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A4: Assaut (arène) : 3 cartes
+MID_MISSION_H_S201807ARENA01_A4: Remporter trois batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201807ARENA01_A5: Duelliste
+MID_MISSION_H_S201807ARENA01_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A6: Duelliste
+MID_MISSION_H_S201807ARENA01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A7: Duelliste
+MID_MISSION_H_S201807ARENA01_A7: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A8: Assaut (arène) : 5 cartes
+MID_MISSION_H_S201807ARENA01_A8: Remporter cinq batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201807ARENA01_A9: Duelliste
+MID_MISSION_H_S201807ARENA01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A10: Duelliste
+MID_MISSION_H_S201807ARENA01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A11: Duelliste
+MID_MISSION_H_S201807ARENA01_A11: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807ARENA01_A12: Assaut (arène) : 7 cartes
+MID_MISSION_H_S201807ARENA01_A12: Remporter sept batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201807SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201807SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201807SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201807SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201807SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201807SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807STORY02_TITLE: Prince des glaces
+MID_MISSION_S201807STORY02_A1: Chap. 11 - Acte 1 (Expert)
+MID_MISSION_H_S201807STORY02_A1: Terminer Livre II, Chap. 11, Acte 1 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY02_A2: Chap. 11 - Acte 2 (Expert)
+MID_MISSION_H_S201807STORY02_A2: Terminer Livre II, Chap. 11, Acte 2 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY02_A3: Chap. 11 - Acte 3 (Expert)
+MID_MISSION_H_S201807STORY02_A3: Terminer Livre II, Chap. 11, Acte 3 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY02_A4: Chap. 11 - Acte 4 (Expert)
+MID_MISSION_H_S201807STORY02_A4: Terminer Livre II, Chap. 11, Acte 4 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY02_A5: Chap. 11 - Acte 5 (Expert)
+MID_MISSION_H_S201807STORY02_A5: Terminer Livre II, Chap. 11, Acte 5 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_オリヴィエ2: Olivia
+MPID_スミア: Sumia
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ヴァルハルト: Walhart
+MPID_フリーズ: Hríd
+MPID_HONOR_オリヴィエ2: Danseuse céleste
+MPID_HONOR_スミア: Cœur de fleurs
+MPID_HONOR_マリアベル: Noble sévère
+MPID_HONOR_リベラ: Moine charmant
+MPID_HONOR_ヴァルハルト: Conquérant
+MPID_H_オリヴィエ2: Danseuse itinérante de grand talent, malgré\nsa timidité maladive. Maintenant que le ciel\nest sa scène, elle a plus d'audace.\nApparaît dans Fire Emblem: Awakening.
+MPID_H_スミア: Membre des Veilleurs tendre qui apprécie\nles oracles floraux. Très douée pour\ntravailler avec les animaux. Apparaît\ndans Fire Emblem: Awakening.
+MPID_H_マリアベル: Noble issue de l'une des plus grandes\nmaisons d'Ylisse. Membre des Veilleurs\net meilleure amie de Lissa. Apparaît\ndans Fire Emblem: Awakening.
+MPID_H_リベラ: Ce moine d'Ylisse à l'impassible\nsérénité a des traits si fins qu'on\nle prend souvent pour une femme.\nApparaît dans Fire Emblem: Awakening
+MPID_H_ヴァルハルト: Empereur sans pitié de Valm. Son\norgueil le pousse aux conquêtes.\nApparaît dans Fire Emblem: Awakening.
+MPID_VOICE_オリヴィエ2: Karen Strassman
+MPID_VOICE_スミア: —
+MPID_VOICE_マリアベル: Melissa Fahn
+MPID_VOICE_リベラ: Cindy Robinson
+MPID_VOICE_ヴァルハルト: Richard Epcar
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: Kousei Horiguchi (恒星ホリグチ)
+MPID_ILLUST_リベラ: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_ヴァルハルト: Soeda Ippei (添田一平)
+MSID_スクルド: Skuld
+MSID_反攻の槍: Lance représailles
+MSID_反攻の槍＋: L. représailles +
+MSID_ヴォルフベルグ: Horde
+MSID_倭棍: Wo Gùn
+MSID_倭棍＋: Wo Gùn +
+MSID_トリレンマ: Trilemme
+MSID_トリレンマ＋: Trilemme +
+MSID_金剛明鏡の構え1: Post. rempart 1
+MSID_金剛明鏡の構え2: Post. rempart 2
+MSID_攻撃守備の連携1: Union Atq/Déf 1
+MSID_攻撃守備の連携2: Union Atq/Déf 2
+MSID_攻撃守備の連携3: Union Atq/Déf 3
+MSID_攻撃魔防の紋章1: Ence. Atq/Rés 1
+MSID_攻撃魔防の紋章2: Ence. Atq/Rés 2
+MSID_杖の技量1: Tech. bâton 1
+MSID_杖の技量2: Tech. bâton 2
+MSID_杖の技量3: Tech. bâton 3
+MSID_H_スクルド: Si l'aptitude Chant ou Danse est utilisée,\nconfère Atq/Vit/Déf/Rés +3 à la cible.
+MSID_H_反攻の槍: Si l'ennemi initie le combat, confère Atq +6\npendant le combat.
+MSID_H_反攻の槍＋: Si l'ennemi initie le combat, confère Atq +6\npendant le combat.
+MSID_H_ヴォルフベルグ: Confère Déf +3. S'il y a plus d'ennemis (cible\nexclue) que d'alliés (unité exclue) à 2 cases ou\nmoins, confère Atq/Vit/Déf/Rés +4 pendant\nle combat.
+MSID_H_倭棍: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_倭棍＋: Si l'aptitude spéciale se déclenche, inflige\n10 dégâts supplémentaires.
+MSID_H_トリレンマ: Après le combat, si l'unité a attaqué, inflige\nl'effet suivant à la cible jusqu'à la fin de sa\nphase : si l'unité a l'avantage tactique, confère\nAtq +20 % ; si l'unité est en désavantage\ntactique, inflige Atq -20 %.
+MSID_H_トリレンマ＋: Après le combat, si l'unité a attaqué, inflige\nl'effet suivant à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin de leur\nphase : si l'unité a l'avantage tactique, confère\nAtq +20 % ; si l'unité est en désavantage\ntactique, inflige Atq -20 %.
+MSID_H_金剛明鏡の構え1: Si l'ennemi initie le combat, confère\nDéf/Rés +2 pendant le combat.
+MSID_H_金剛明鏡の構え2: Si l'ennemi initie le combat, confère\nDéf/Rés +4 pendant le combat.
+MSID_H_攻撃守備の連携1: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Déf +2 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_攻撃守備の連携2: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Déf +4 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_攻撃守備の連携3: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Déf +6 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_攻撃魔防の紋章1: Confère Atq/Rés +2 aux alliés adjacents\npendant le combat.
+MSID_H_攻撃魔防の紋章2: Confère Atq/Rés +3 aux alliés adjacents\npendant le combat.
+MSID_H_杖の技量1: Si l'unité utilise un bâton et survit, elle reçoit\nPA x 1,5 après un combat ou l'utilisation\nd'une aptitude de soin. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
+MSID_H_杖の技量2: Si l'unité survit, toutes les unités dotées de bâtons\nde l'équipe reçoivent PA x 1,5 après un combat ou\nl'utilisation d'une aptitude de soin. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MSID_H_杖の技量3: Si l'unité survit, toutes les unités dotées de bâtons\nde l'équipe reçoivent PA x 2 après un combat ou\nl'utilisation d'une aptitude de soin. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MID_CHAPTER_TITLE_C0211: Livre II, Chap. 11
+MID_CHAPTER_C0211: Prince des glaces
+MID_STAGE_TITLE_S2111: Ch. 11 - Acte 1
+MID_STAGE_TITLE_S2112: Ch. 11 - Acte 2
+MID_STAGE_TITLE_S2113: Ch. 11 - Acte 3
+MID_STAGE_TITLE_S2114: Ch. 11 - Acte 4
+MID_STAGE_TITLE_S2115: Ch. 11 - Acte 5
+MID_STAGE_S2111: L'ennemi de mon ennemi
+MID_STAGE_S2112: Oracles floraux
+MID_STAGE_S2113: Retour de l'enfer
+MID_STAGE_S2114: Danse céleste
+MID_STAGE_S2115: La vallée des os brûlés
+MID_STAGE_HONOR_T0035: Héros liés
+MID_STAGE_T0035: L & E
+MID_STAGE_HONOR_T0036: Conquérant
+MID_STAGE_T0036: Walhart
+MID_STAGE_TITLE_PB020: Aptitudes 20
+MID_STAGE_PB020: Trilemme

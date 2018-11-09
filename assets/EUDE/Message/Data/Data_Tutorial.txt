@@ -1161,18 +1161,18 @@ MSID_H_太陽: Heilt 50 % des zugefügten Schadens.
 MSID_H_影月: Der Kampf verläuft, als ob der Gegner\nVer./Res. -30 % erlitten hätte.
 MSID_H_月虹: Der Kampf verläuft, als ob der Gegner\nVer./Res. -30 % erlitten hätte.
 MSID_H_月光: Der Kampf verläuft, als ob der Gegner\nVer./Res. -50 % erlitten hätte.
-MSID_H_雪辱: Erhöht den zugefügten Schaden um\n30 % des erlittenen Schadens.
-MSID_H_血讐: Erhöht den zugefügten Schaden um\n30 % des erlittenen Schadens.
-MSID_H_復讐: Erhöht den zugefügten Schaden um\n50 % des erlittenen Schadens.
-MSID_H_伏竜: Erhöht Angr. um 30 %.
-MSID_H_竜裂: Erhöht Angr. um 30 %.
-MSID_H_竜穿: Erhöht Angr. um 50 %.
-MSID_H_蛍火: Erhöht zugefügten Schaden um\n50 % des Verteidigungswerts der Einheit.
-MSID_H_緋炎: Erhöht zugefügten Schaden um\n50 % des Verteidigungswerts der Einheit.
-MSID_H_華炎: Erhöht zugefügten Schaden um\n80 % des Verteidigungswerts der Einheit.
-MSID_H_氷点: Erhöht zugefügten Schaden um\n50 % des Resistenzwerts der Einheit.
-MSID_H_氷蒼: Erhöht zugefügten Schaden um\n50 % des Resistenzwerts der Einheit.
-MSID_H_氷華: Erhöht zugefügten Schaden um\n80 % des Resistenzwerts der Einheit.
+MSID_H_雪辱: Erhöht Schaden um 30 %\ndes erlittenen Schadens.
+MSID_H_血讐: Erhöht Schaden um 30 %\ndes erlittenen Schadens.
+MSID_H_復讐: Erhöht Schaden um 50 %\ndes erlittenen Schadens.
+MSID_H_伏竜: Erhöht Schaden um 30 %\ndes Angr.-Werts der Einheit.
+MSID_H_竜裂: Erhöht Schaden um 30 %\ndes Angr.-Werts der Einheit.
+MSID_H_竜穿: Erhöht Schaden um 50 %\ndes Angr.-Werts der Einheit.
+MSID_H_蛍火: Erhöht Schaden um 50 %\ndes Ver.-Werts der Einheit.
+MSID_H_緋炎: Erhöht Schaden um 50 %\ndes Ver.-Werts der Einheit.
+MSID_H_華炎: Erhöht Schaden um 80 %\ndes Ver.-Werts der Einheit.
+MSID_H_氷点: Erhöht Schaden um 50 %\ndes Res.-Werts der Einheit.
+MSID_H_氷蒼: Erhöht Schaden um 50 %\ndes Res.-Werts der Einheit.
+MSID_H_氷華: Erhöht Schaden um 80 %\ndes Res.-Werts der Einheit.
 MSID_H_砕火: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von Angr. der Einheit minus Ver. oder\nRes. des Gegners.
 MSID_H_爆火: Initiiert die Einheit den Kampf, erleiden Gegner\nin einem großen Umkreis des Ziels vor dem\nKampf Schaden in Höhe von Angr. der Einheit\nminus Ver. oder Res. des Gegners.
 MSID_H_烈火: Initiiert die Einheit den Kampf, erleiden Gegner\nin der Nähe des Ziels vor dem Kampf Schaden\nin Höhe von 1,5 x (Angr. der Einheit minus Ver.\noder Res. des Gegners).

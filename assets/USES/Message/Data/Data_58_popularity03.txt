@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_重騎士の兜: Yelmo acorazado
+MDAID_H_重騎士の兜: Este yelmo de Héctor se forjó en\nOsitia. Es muy pesado, pero un\ncaballero acorazado puede con todo.
+MDAID_重騎士の兜・極: Yelmo acorazado +
+MDAID_H_重騎士の兜・極: El diseño extravagante de este yelmo\nde Ositia contrasta con sus marcas\nde guerra. Refleja la historia del reino.
+MDAID_勇王の兜: Yelmo restaurador
+MDAID_H_勇王の兜: Yelmo del rey de la restauración.\nFue un regalo de Ephraim. Se forjó\nen Renais y es robusto, pero ligero.
+MDAID_勇王の兜・極: Yelmo restaurador +
+MDAID_H_勇王の兜・極: Las mellas y abolladuras de este yelmo\nson vestigios de las múltiples victorias\ndel rey de la restauración.
+MDAID_王女の髪飾り: Diadema real
+MDAID_H_王女の髪飾り: Diadema de Celica. Era el diseño en\nboga en la época de las sacerdotisas.\nEs de una calidad exquisita.
+MDAID_王女の髪飾り・極: Diadema real +
+MDAID_H_王女の髪飾り・極: Era una de las favoritas de Celica\ncuando era pequeña.\nSe nota por lo gastada que está.
+MDAID_皇女の頭飾り: Diadema imperial
+MDAID_H_皇女の頭飾り: Este tocado imperial de Verónica\nse forjó en el Imperio de Embla.\nEs grande, pero ligero.
+MDAID_皇女の頭飾り・極: Diadema imperial +
+MDAID_H_皇女の頭飾り・極: Un tocado imperial de Verónica forjado\nen el Imperio de Embla. Fue pasando\nde una generación a otra.
+MID_MISSION_S201808STORY02_TITLE: Llegan los audaces
+MID_MISSION_S201808STORY02_A1: Anexo 24-1: extremo
+MID_MISSION_H_S201808STORY02_A1: Supera la 1.ª parte del anexo 24 en modo\nextremo con un espadachín en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201808STORY02_A2: Anexo 24-2: extremo
+MID_MISSION_H_S201808STORY02_A2: Supera la 2.ª parte del anexo 24 en modo\nextremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201808STORY02_A3: Anexo 24-3: extremo
+MID_MISSION_H_S201808STORY02_A3: Supera la 3.ª parte del anexo 24 en modo\nextremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MPID_総選挙セリカ: Celica
+MPID_総選挙ヴェロニカ: Verónica
+MPID_総選挙ヘクトル: Héctor
+MPID_総選挙エフラム: Ephraim
+MPID_HONOR_総選挙セリカ: Vicaria guerrera
+MPID_HONOR_総選挙ヴェロニカ: Princesa audaz
+MPID_HONOR_総選挙ヘクトル: Guerrero audaz
+MPID_HONOR_総選挙エフラム: Rey sagrado
+MPID_H_総選挙セリカ: Princesa de Zofia y sacerdotisa guerrera\nque sirve a la diosa Mila. La invocaron mientras\nblandía la espada real que le confió el campeón\nAlm. Aparece en Fire Emblem Echoes:\nShadows of Valentia.
+MPID_H_総選挙ヴェロニカ: Princesa imperial de Embla. Sigue el rastro\nde Bruno, su querido hermano, que se\nencuentra en paradero desconocido.
+MPID_H_総選挙ヘクトル: Heredó el título de marqués de Ositia tras\nla repentina muerte de su hermano mayor.\nLleva armadura pesada y empuña la\nlanza de una de las ocho leyendas.\nAparece en Fire Emblem: The Blazing Blade.
+MPID_H_総選挙エフラム: Soberano de Renais. Se dedica a proteger\nel reino que heredó de su difunto padre, el rey\nVari. Suele usar una de las armas sagradas\ngemelas de Grado, el hacha negra Garm.\nAparece en Fire Emblem: The Sacred Stones.
+MPID_VOICE_総選挙セリカ: Erica Lindbeck
+MPID_VOICE_総選挙ヴェロニカ: Wendee Lee
+MPID_VOICE_総選挙ヘクトル: Patrick Seitz
+MPID_VOICE_総選挙エフラム: Greg Chun
+MPID_ILLUST_総選挙セリカ: Hidari (左)
+MPID_ILLUST_総選挙ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_総選挙ヘクトル: Kita Senri (北千里)
+MPID_ILLUST_総選挙エフラム: Wada Sachiko (ワダサチコ)
+MSID_王家の剣: Espada real
+MSID_マルテ: Maltet
+MSID_ガルム: Garm
+MSID_フリズスキャルヴ: Hliðskjálf
+MSID_業火疾風の祝福: Cefirobálsamo
+MSID_業火疾風の祝福＋: Cefirobálsamo +
+MSID_オスティアの反撃: Contra de Ositia
+MSID_鬼神の一撃4: Golpe mortal 4
+MSID_獅子連斬: León doble
+MSID_奥義隊形1: Luchador esp. 1
+MSID_奥義隊形2: Luchador esp. 2
+MSID_奥義隊形3: Luchador esp. 3
+MSID_魔防の波・偶数1: Ola Res. par 1
+MSID_魔防の波・偶数2: Ola Res. par 2
+MSID_魔防の波・偶数3: Ola Res. par 3
+MSID_近距離警戒1: Guardia cerc. 1
+MSID_近距離警戒2: Guardia cerc. 2
+MSID_近距離警戒3: Guardia cerc. 3
+MSID_H_王家の剣: Otorga Vel. +3. Si la unidad se encuentra\nen un radio de dos casillas de un aliado,\n-1 a la cuenta regresiva por cada ataque\nde la unidad. (Solo se aplica el valor más\nalto. No acumulable).
+MSID_H_マルテ: Facilita la ejecución de habilidades especiales:\n-1 a la cuenta regresiva. Si el rival inicia el\nataque y la unidad tiene PV ≥ 50 %, esta\nejecuta un ataque doble garantizado.
+MSID_H_ガルム: Otorga Atq. +3. Si la unidad tiene activa una\nbonificación de habilidades como Impulso o\nPotenciar, o movimiento extra de habilidades\ncomo Marcha muralla o Botas acorazadas,\nejecuta un ataque doble garantizado.
+MSID_H_フリズスキャルヴ: El enemigo no puede contratacar. Tras un\nataque, si la unidad actúa, inflige Atq., Vel.,\nDef. y Res. -4 al rival y a todos los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción y otorga Atq., Vel., Def.\ny Res. +4 a la unidad y a los aliados en un\nradio de dos casillas hasta el final del turno.
+MSID_H_業火疾風の祝福: Al usar un bastón para curar a un aliado,\ntodos los aliados obtienen Atq. y Vel. +4\ndurante un turno.
+MSID_H_業火疾風の祝福＋: Al usar un bastón para curar a un aliado,\ntodos los aliados obtienen Atq. y Vel. +6\ndurante un turno.
+MSID_H_オスティアの反撃: Permite contratacar independientemente de\nlo lejos que esté el enemigo. Si el rival inicia\nel ataque, la unidad obtiene Atq. y Def. +4\ndurante el combate.
+MSID_H_鬼神の一撃4: Si la unidad inicia el ataque, obtiene\nAtq. +8 durante el enfrentamiento.
+MSID_H_獅子連斬: Si la unidad inicia un ataque y tiene\nPV = 100 %, ataca dos veces y sufre\n1 de daño tras el combate. (No acumulable).
+MSID_H_奥義隊形1: Al inicio del ataque, con PV ≥ 90 %, -1 a la\ncuenta regresiva de la unidad y +1 a la cuenta\nregresiva del rival por cada ataque de la unidad.\n(Solo se aplica el valor más alto. No acumulable).
+MSID_H_奥義隊形2: Al inicio del ataque, con PV ≥ 70 %, -1 a la\ncuenta regresiva de la unidad y +1 a la cuenta\nregresiva del rival por cada ataque de la unidad.\n(Solo se aplica el valor más alto. No acumulable).
+MSID_H_奥義隊形3: Al inicio del ataque, con PV ≥ 50 %, -1 a la\ncuenta regresiva de la unidad y +1 a la cuenta\nregresiva del rival por cada ataque de la unidad.\n(Solo se aplica el valor más alto. No acumulable).
+MSID_H_魔防の波・偶数1: Al inicio de los turnos pares, otorga\nRes. +2 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_魔防の波・偶数2: Al inicio de los turnos pares, otorga\nRes. +4 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_魔防の波・偶数3: Al inicio de los turnos pares, otorga\nRes. +6 a la unidad y a los aliados\nadyacentes durante el resto del turno.\n(La unidad recibe la bonificación\naunque no haya aliados adyacentes).
+MSID_H_近距離警戒1: Los aliados en un radio de dos casillas\nobtienen:\n"Si el rival usa espada, lanza, hacha o piedra\ndragón, la unidad obtiene Def. y Res. +2\ndurante el enfrentamiento".
+MSID_H_近距離警戒2: Los aliados en un radio de dos casillas\nobtienen:\n"Si el rival usa espada, lanza, hacha o piedra\ndragón, la unidad obtiene Def. y Res. +3\ndurante el enfrentamiento".
+MSID_H_近距離警戒3: Los aliados en un radio de dos casillas\nobtienen:\n"Si el rival usa espada, lanza, hacha o piedra\ndragón, la unidad obtiene Def. y Res. +4\ndurante el enfrentamiento".
+MID_CHAPTER_TITLE_CX023: Anexo 24
+MID_CHAPTER_CX023: Llegan los audaces
+MID_STAGE_TITLE_X0231: Anexo 24 - Parte 1
+MID_STAGE_TITLE_X0232: Anexo 24 - Parte 2
+MID_STAGE_TITLE_X0233: Anexo 24 - Parte 3
+MID_STAGE_X0231: Princesas opuestas
+MID_STAGE_X0232: Nobleza bien avenida
+MID_STAGE_X0233: La petición de la princesa
+MID_CHAPTER_ST_CX012: Anexos 23 y 24
+MID_STAGE_TITLE_ST_X0022: Anexo 23
+MID_STAGE_TITLE_ST_X0023: Anexo 24
+MID_STAGE_TITLE_ST_X1023: Anexos 23 y 24
+MID_STAGE_TITLE_PB023: Habilidades 23
+MID_STAGE_PB023: Héctor y Ephraim audaces
+MID_STAGE_TITLE_PB024: Habilidades 24
+MID_STAGE_PB024: Celica y Verónica audaces

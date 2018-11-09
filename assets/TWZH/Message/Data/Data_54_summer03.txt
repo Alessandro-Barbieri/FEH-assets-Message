@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_54_summer03)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201806DAISEIATU01_TITLE: 大壓制戰
+MID_MISSION_S201806DAISEIATU01_A1: 於大壓制戰中獲得得分
+MID_MISSION_H_S201806DAISEIATU01_A1: 於大壓制戰中獲得得分。
+MID_MISSION_S201806DAISEIATU01_A2: 於大壓制戰中獲得得分
+MID_MISSION_H_S201806DAISEIATU01_A2: 於大壓制戰中獲得得分。
+MID_MISSION_S201806DAISEIATU01_A3: 於大壓制戰中獲得得分
+MID_MISSION_H_S201806DAISEIATU01_A3: 於大壓制戰中獲得得分。
+MID_MISSION_S201806DAISEIATU01_A4: 突破修練之塔・第2層
+MID_MISSION_H_S201806DAISEIATU01_A4: 過關修練之塔・第2層。
+MID_MISSION_S201806DAISEIATU01_A5: 突破修練之塔・第8層
+MID_MISSION_H_S201806DAISEIATU01_A5: 過關修練之塔・第8層。
+MID_MISSION_S201806DAISEIATU01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201806DAISEIATU01_A6: 在鬥技場獲勝。
+MID_MISSION_S201806SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201806SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201806SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201806SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201806SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201806SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201806SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201806SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201806SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201806STORY02_TITLE: 夏日到來
+MID_MISSION_S201806STORY02_A1: 特殊:突破外傳21-1節(超難)
+MID_MISSION_H_S201806STORY02_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳21-1節(超難)。
+MID_MISSION_S201806STORY02_A2: 特殊:突破外傳21-2節(超難)
+MID_MISSION_H_S201806STORY02_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳21-2節(超難)。
+MID_MISSION_S201806STORY02_A3: 特殊:突破外傳21-3節(超難)
+MID_MISSION_H_S201806STORY02_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳21-3節(超難)。
+MPID_水着ヒーニアス: 西尼亞斯
+MPID_水着ターナ: 塔娜
+MPID_水着ティアモ: 蒂亞莫
+MPID_水着ノワール: 諾瓦爾
+MPID_HONOR_水着ヒーニアス: 其實會游泳
+MPID_HONOR_水着ターナ: 奔放的公主
+MPID_HONOR_水着ティアモ: 身著泳裝的天才騎士
+MPID_HONOR_水着ノワール: 害怕曬太陽
+MPID_H_水着ヒーニアス: 弗萊利亞王國的王子，塔娜的兄長。\n比起戲水，他更熱衷於在海邊精進自己的實力。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_水着ターナ: 弗萊利亞王國的公主，西尼亞斯的妹妹。\n正在夏日海邊享受完美假期。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_水着ティアモ: 伊里斯聖王國天馬騎士團唯一的倖存者。\n雖然是名天才，但對自己的泳裝打扮沒有自信。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_水着ノワール: 撒拉的女兒，個性雖膽小，但一生起氣就像變個人似的。\n現在被夏日艷陽曬得整個人頭昏腦脹。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_VOICE_水着ヒーニアス: 福山潤(Jun Fukuyama)
+MPID_VOICE_水着ターナ: たなか久美(Kumi Tanaka)
+MPID_VOICE_水着ティアモ: 岡田栄美(Eimi Okada)
+MPID_VOICE_水着ノワール: 吉田聖子(Seiko Yoshida)
+MPID_ILLUST_水着ヒーニアス: 麻谷知世(Tomoyo Asatani)
+MPID_ILLUST_水着ターナ: cuboon
+MPID_ILLUST_水着ティアモ: まよ(Mayo)
+MPID_ILLUST_水着ノワール: 草木原俊行 (Toshiyuki Kusakihara) / INTELLIGENT SYSTEMS
+MSID_貝殻の槍: 貝殼之槍
+MSID_貝殻の槍＋: 貝殼之槍＋
+MSID_ビーチフラッグ: 沙灘旗
+MSID_ビーチフラッグ＋: 沙灘旗＋
+MSID_ヤシの実の弓: 椰子之弓
+MSID_ヤシの実の弓＋: 椰子之弓＋
+MSID_イズンの果実: 伊登的果實
+MSID_攻撃速さの渾身1: 攻擊速度的奮擊１
+MSID_攻撃速さの渾身2: 攻擊速度的奮擊２
+MSID_攻撃速さの渾身3: 攻擊速度的奮擊３
+MSID_強化無効・近距離1: 強化無效・近距離１
+MSID_強化無効・近距離2: 強化無效・近距離２
+MSID_強化無効・近距離3: 強化無效・近距離３
+MSID_守備の共謀1: 防守共謀１
+MSID_守備の共謀2: 防守共謀２
+MSID_守備の共謀3: 防守共謀３
+MSID_歩行の剛撃1: 步行之剛擊１
+MSID_歩行の剛撃2: 步行之剛擊２
+MSID_歩行の剛撃3: 步行之剛擊３
+MSID_H_貝殻の槍: 由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_貝殻の槍＋: 由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_ビーチフラッグ: 由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_ビーチフラッグ＋: 由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_ヤシの実の弓: 克制飛行\n由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_ヤシの実の弓＋: 克制飛行\n由自己發動攻擊時，\n戰鬥中的攻擊、速度、防守、魔防＋２
+MSID_H_イズンの果実: 速度＋３\n若自身ＨＰ高於５０％，周圍２格內的\n我方單位，可移動至與自己相鄰的格子
+MSID_H_攻撃速さの渾身1: 若戰鬥開始時，自身ＨＰ為１００％，攻擊及速度＋３\n以此狀態攻擊時，戰鬥後自己受到１傷害
+MSID_H_攻撃速さの渾身2: 若戰鬥開始時，自身ＨＰ為１００％，攻擊及速度＋４\n以此狀態攻擊時，戰鬥後自己受到１傷害
+MSID_H_攻撃速さの渾身3: 若戰鬥開始時，自身ＨＰ為１００％，攻擊及速度＋５\n以此狀態攻擊時，戰鬥後自己受到１傷害
+MSID_H_強化無効・近距離1: 若戰鬥開始時，自身ＨＰ為１００％，\n且敵人的武器為劍、槍、斧、龍時，\n戰鬥中抵銷敵人的＋強化狀態\n（抵銷範圍為鼓舞及支援等帶來的＋效果）
+MSID_H_強化無効・近距離2: 若戰鬥開始時，自身ＨＰ高於５０％，\n且敵人的武器為劍、槍、斧、龍時，\n戰鬥中抵銷敵人的＋強化狀態\n（抵銷範圍為鼓舞及支援等帶來的＋效果）
+MSID_H_強化無効・近距離3: 敵人的武器為劍、槍、斧、龍時，\n戰鬥中抵銷敵人的＋強化狀態\n（抵銷範圍為鼓舞及支援等帶來的＋效果）
+MSID_H_守備の共謀1: 使用或被施放支援技能時，\n位於自己十字方向上的敵人防守－３\n（直到敵人下次行動結束）
+MSID_H_守備の共謀2: 使用或被施放支援技能時，\n位於自己十字方向上的敵人防守－５\n（直到敵人下次行動結束）
+MSID_H_守備の共謀3: 使用或被施放支援技能時，\n位於自己十字方向上的敵人防守－７\n（直到敵人下次行動結束）
+MSID_H_歩行の剛撃1: 周圍２格內的我方步行單位可獲得以下效果：\n攻擊高於敵人５以上時，自己攻擊造成的奧義發動\n計量變化量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_歩行の剛撃2: 周圍２格內的我方步行單位可獲得以下效果：\n攻擊高於敵人３以上時，自己攻擊造成的奧義發動\n計量變化量＋１（若有多個相同系統效果，僅取最大值）
+MSID_H_歩行の剛撃3: 周圍２格內的我方步行單位可獲得以下效果：\n攻擊高於敵人時，自己攻擊造成的奧義發動\n計量變化量＋１（若有多個相同系統效果，僅取最大值）
+MID_CHAPTER_TITLE_CX020: 外傳２１
+MID_CHAPTER_CX020: 夏日到來
+MID_STAGE_TITLE_X0201: 外傳２１—１節
+MID_STAGE_TITLE_X0202: 外傳２１—２節
+MID_STAGE_TITLE_X0203: 外傳２１—３節
+MID_STAGE_X0201: 弗萊利亞兄妹檔的夏天
+MID_STAGE_X0202: 閃耀於藍天之中
+MID_STAGE_X0203: 傾聽海洋之聲

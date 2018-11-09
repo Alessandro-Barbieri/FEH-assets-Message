@@ -723,7 +723,7 @@ MSID_ヴラスキャルヴ: Valaskjálf
 MSID_ウインド: Viento
 MSID_エルウインド: Elwind
 MSID_レクスカリバー: Rexcalibur
-MSID_レクスカリバー＋: Rexcalibur+
+MSID_レクスカリバー＋: Rexcalibur +
 MSID_スレッダグラン: Cuchillas jade
 MSID_スレッダグラン＋: Cuchillas jade +
 MSID_ウルファグラン: Lobo jade
@@ -1161,18 +1161,18 @@ MSID_H_太陽: La unidad recupera el 50 % del daño infligido.
 MSID_H_影月: Def. y Res. -30 % al rival durante el ataque.
 MSID_H_月虹: Def. y Res. -30 % al rival durante el ataque.
 MSID_H_月光: Def. y Res. -50 % al rival durante el ataque.
-MSID_H_雪辱: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 30 %\ndel daño que ha sufrido.
-MSID_H_血讐: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 30 %\ndel daño que ha sufrido.
-MSID_H_復讐: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 50 %\ndel daño que ha sufrido.
-MSID_H_伏竜: Atq. +30 %.
-MSID_H_竜裂: Atq. +30 %.
-MSID_H_竜穿: Atq. +50 %.
-MSID_H_蛍火: Convierte un 50 % de la Def. de la unidad\nen daño adicional.
-MSID_H_緋炎: Convierte un 50 % de la Def. de la unidad\nen daño adicional.
-MSID_H_華炎: Convierte un 80 % de la Def. de la unidad\nen daño adicional.
-MSID_H_氷点: Convierte un 50 % de la Res. de la unidad\nen daño adicional.
-MSID_H_氷蒼: Convierte un 50 % de la Res. de la unidad\nen daño adicional.
-MSID_H_氷華: Convierte un 80 % de la Res. de la unidad\nen daño adicional.
+MSID_H_雪辱: Aumenta el daño en una cuantía equivalente\nal 30 % del daño que ha sufrido la unidad.
+MSID_H_血讐: Aumenta el daño en una cuantía equivalente\nal 30 % del daño que ha sufrido la unidad.
+MSID_H_復讐: Aumenta el daño en una cuantía equivalente\nal 50 % del daño que ha sufrido la unidad.
+MSID_H_伏竜: Aumenta el daño en una cuantía equivalente\nal 30 % del Atq. de la unidad.
+MSID_H_竜裂: Aumenta el daño en una cuantía equivalente\nal 30 % del Atq. de la unidad.
+MSID_H_竜穿: Aumenta el daño en una cuantía equivalente\nal 50 % del Atq. de la unidad.
+MSID_H_蛍火: Aumenta el daño en una cuantía equivalente\nal 50 % de la Def. de la unidad.
+MSID_H_緋炎: Aumenta el daño en una cuantía equivalente\nal 50 % de la Def. de la unidad.
+MSID_H_華炎: Aumenta el daño en una cuantía equivalente\nal 80 % de la Def. de la unidad.
+MSID_H_氷点: Aumenta el daño en una cuantía equivalente\nal 50 % de la Res. de la unidad.
+MSID_H_氷蒼: Aumenta el daño en una cuantía equivalente\nal 50 % de la Res. de la unidad.
+MSID_H_氷華: Aumenta el daño en una cuantía equivalente\nal 80 % de la Res. de la unidad.
 MSID_H_砕火: Antes de un ataque iniciado por esta unidad,\nlos rivales cercanos sufren daño igual a\nAtq. (unidad) - Def. o Res. (rival).
 MSID_H_爆火: Antes de un ataque iniciado por esta unidad,\nlos rivales situados en los alrededores sufren\ndaño igual a Atq. (unidad) - Def. o Res. (rival).
 MSID_H_烈火: Antes de un ataque iniciado por esta unidad,\nlos rivales cercanos sufren daño igual a\n1.5 × (Atq. unidad - Def. o Res. rival).

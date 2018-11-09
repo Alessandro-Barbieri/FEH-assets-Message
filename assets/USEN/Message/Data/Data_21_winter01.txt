@@ -122,12 +122,12 @@ MSID_H_攻撃速さの大覚醒3: At start of combat, if unit's HP ≤ 80%, gran
 MSID_H_攻撃守備の大覚醒1: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+3 during combat.
 MSID_H_攻撃守備の大覚醒2: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+5 during combat.
 MSID_H_攻撃守備の大覚醒3: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+7 during combat.
-MSID_H_攻撃隊形1: If unit's HP = 100% and unit initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
-MSID_H_攻撃隊形2: If unit's HP ≥ 50% and unit initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
-MSID_H_攻撃隊形3: If unit initiates combat, unit makes a guaranteed\nfollow-up attack. Grants Special cooldown\ncharge +1 per attack. (Does not stack.)
-MSID_H_迎撃隊形1: If unit's HP ≥ 90% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
-MSID_H_迎撃隊形2: If unit's HP ≥ 70% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
-MSID_H_迎撃隊形3: If unit's HP ≥ 50% and foe initiates combat,\nunit makes a guaranteed follow-up attack.\nGrants Special cooldown charge +1 per\nattack. (Does not stack.)
+MSID_H_攻撃隊形1: If unit's HP = 100% and unit initiates combat,\ngrants Special cooldown charge +1 per unit's\nattack, and unit makes a guaranteed follow-up\nattack. (Does not stack.)
+MSID_H_攻撃隊形2: If unit's HP ≥ 50% and unit initiates combat,\ngrants Special cooldown charge +1 per unit's\nattack, and unit makes a guaranteed follow-up\nattack. (Does not stack.)
+MSID_H_攻撃隊形3: If unit initiates combat, grants Special cooldown\ncharge +1 per unit's attack, and unit makes a\nguaranteed follow-up attack. (Does not stack.)
+MSID_H_迎撃隊形1: If unit's HP ≥ 90% and foe initiates combat,\ngrants Special cooldown charge +1 per unit's\nattack, and unit makes a guaranteed follow-up\nattack. (Does not stack.)
+MSID_H_迎撃隊形2: If unit's HP ≥ 70% and foe initiates combat,\ngrants Special cooldown charge +1 per unit's\nattack, and unit makes a guaranteed follow-up\nattack. (Does not stack.)
+MSID_H_迎撃隊形3: If unit's HP ≥ 50% and foe initiates combat,\ngrants Special cooldown charge +1 per unit's\nattack, and unit makes a guaranteed follow-up\nattack. (Does not stack.)
 MSID_H_赤魔の技量1: While unit lives and uses a red tome, unit gets\n1.5x SP. (Only highest value applied. Does not\nstack.)
 MSID_H_赤魔の技量2: While unit lives, all red tome allies on team get\n1.5x SP. (Only highest value applied. Does not\nstack.)
 MSID_H_赤魔の技量3: While unit lives, all red tome allies on team get\n2x SP. (Only highest value applied. Does not\nstack.)

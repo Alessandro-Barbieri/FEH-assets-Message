@@ -1,0 +1,20 @@
+[Heroes Archive] (Menu_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MID_OCCUPATION_GAINED_REWARDTYPE_SUPERIORITY_SCORE: $aRecomp. por zonas controladas: Batalla $a0
+MID_OCCUPATION_REWARD_SORT_SUPERIORITY_SCORE: Punt. zonas
+MID_OCCUPATION_SCORE_BOARD_TITLE: Puntuación actual
+MID_OCCUPATION_SCORE_BOARD_OPERATION: $aFase $a0
+MID_OCCUPATION_SCORE_BOARD_FINAL_AREA: N.º de zonas
+MID_OCCUPATION_SCORE_BOARD_TOTAL: Total
+MID_OCCUPATION_SCORE_BOARD_AGGREGATING: Calculando...
+MID_OCCUPATION_SCORE_BOARD_HELP_TITLE: Los puntos se calculan según el número\nde zonas controladas al final de la fase.
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_1: ・5-9 zonas
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_2: ・10-14 zonas
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_3: ・15 zonas o más
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_4: $aEn la fase $a0, cada zona controlada otorga 1 punto.
+MID_PORTRAIT_TITLE_201808: Contra el destino
+MID_SUMMON_PULL_ONLY_ONCE_Summon_58_popularity03_Selected: La sesión terminará al elegir un héroe.

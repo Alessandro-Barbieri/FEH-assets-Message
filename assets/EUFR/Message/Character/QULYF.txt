@@ -1,0 +1,38 @@
+[Heroes Archive] (QULYF)
+
+
+Heroes Message Name: Message
+
+
+MID_QULYF_HOME1: J'ai vraiment de la chance de pouvoir\ncôtoyer des héros aux cultures si\ndiverses... C'est passionnant !
+MID_QULYF_HOME2: Je commençais à m'ennuyer dans\nmon village...$k$pAlors quand Alm m'a demandé de\nrejoindre la Délivrance, j'ai sauté\nsur l'occasion.
+MID_QULYF_HOME3: Ça doit être intéressant d'être un\ninvocateur.$k$pVous ne voudriez pas échanger de\nplace avec moi pour une journée ?\nNon, je plaisante.
+MID_QULYF_HOME4: J'ai passé beaucoup de temps à la\nbibliothèque... Maintenant,\nje commence à m'ennuyer.$k$pVous ne voudriez pas me faire voir\ndu pays ? Je suis sûr que vous\npouvez aller où vous voulez.
+MID_QULYF_HOME5: Je prends des notes sur cet endroit,\nmais personne ne me croira quand\nje rentrerai chez moi.
+MID_QULYF_FRIEND: $Nf m'a demandé\nde vous transmettre ses salutations.\nC'est fait. Je peux m'en aller ?
+MID_QULYF_LEVEL1: Ouah ! Je ne savais pas que j'avais\nun tel potentiel.
+MID_QULYF_LEVEL2: Il n'y a pas de quoi se plaindre.\nVous espériez mieux ?
+MID_QULYF_LEVEL3: C'est tout ? Misère...
+MID_QULYF_SKILL: Oh, ça a l'air intéressant... Si ça vous\nfait plaisir, je m'en servirai.
+MID_QULYF_JOIN: Je m'appelle Kliff. Hmm... Cet endroit\na l'air sympathique. J'espère que\nje ne vais pas m'ennuyer.
+MID_QULYF_STRONGEST: Hé, $Nu...\nVous avez une minute ?$k$pJe voulais vous demander quelque\nchose. Que pensez-vous de mon\ncomportement ?$k$pMes amis disent que je suis difficile\nà supporter. Ils ont raison, pas vrai ?$k$pJe ne sais pas pourquoi, mais tout\na tendance à m'énerver.$k$pC'est peut-être parce que je suis\njeune et parce que je ne peux pas\nfaire tout ce que je veux...$k$pJ'ai l'impression que je dois encore\ngrandir.$k$pJe rêve de partir seul à la découverte\ndu monde. Je ne veux pas retourner\ndans mon village.$k$pMais c'est un secret, ne le dites à\npersonne.$k$pQuand je serai libre d'aller où je veux,\nj'essaierai de vous rendre visite.\nEnfin, je ne promets rien.$k$pMais ne soyez pas $Gsurpris,surprise| si vous\nme revoyez !
+MID_QULYF_VOICE01: Urya!
+MID_QULYF_VOICE02: I'm coming...
+MID_QULYF_VOICE03: Uwah!
+MID_QULYF_VOICE04: Damn it...
+MID_QULYF_VOICE05: Attention les yeux !
+MID_QULYF_VOICE06: Jouons un peu.
+MID_QULYF_VOICE07: Vous ne faites pas peur.
+MID_QULYF_VOICE08: Dégagez de là !
+MID_QULYF_VOICE09: I guess this is it.
+MID_QULYF_VOICE10: Hehe
+MID_QULYF_VOICE11: I'm Kliff. I'm a member of the Deliverance, along with everybody — well, it's a long story.
+MID_QULYF_VOICE12: Huh? Don't be such a Tobin. If you're bored, why don't you try studying? It'll sharpen your wits.
+MID_QULYF_VOICE13: I used to go to the school in the village, but it shut down, all thanks to the war. I'm so bored.
+MID_QULYF_VOICE14: I'm not sure I believe what you're telling me about the world you come from. Are you pulling my leg?
+MID_QULYF_VOICE15: My friends from the village all treat me like a child. It's rather rude, wouldn't you say?
+MID_QULYF_VOICE16: I want to see the wide world with my own eyes. If that means I won't see my friends again, well, so be it.
+MID_QULYF_VOICE17: You're not as boring as I expected! When I'm around you, things are never dull. Keep being yourself, OK?
+MID_QULYF_VOICE18: That might work.
+MID_QULYF_VOICE19: Hmm...
+MID_QULYF_VOICE20: I'll take care of it.

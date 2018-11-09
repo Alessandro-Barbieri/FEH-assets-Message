@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIABELL)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIABELL_HOME1: Sharena es muy alegre, ¿verdad?\nCreo que la invitaré a tomar el té...,\ny a Lissa también.
+MID_MARIABELL_HOME2: Pertenezco a un grupo llamado los\nCustodios. Como noble que soy,\ndebo contribuir a mantener la paz.
+MID_MARIABELL_HOME3: Siempre tienes cosas que hacer. ¿Por\nqué no me encargo yo de las rondas?$k$pSi me topo con algún indeseable,\nten por seguro que le va a caer\nuna buena.
+MID_MARIABELL_HOME4: ¿Qué pasa, $Gtronco,tronca|?\n¿Cómo va el tema?$k$p¿Por qué me miras así? Solo estoy\npracticando la jerga que usan los\nplebeyos de mi tierra.
+MID_MARIABELL_HOME5: Todas las nobles estudian, pero yo lo\nhago para poder cumplir mi sueño\nde convertirme en magistrada.
+MID_MARIABELL_FRIEND: ¡Firme! Vengo de muy lejos\npara traerte un regalo de\n$Nf.$k$pLo mínimo que puedes hacer es estar\npresentable para recibirlo.
+MID_MARIABELL_LEVEL1: ¡Un paso más y te\nsuelto un sombrillazo!
+MID_MARIABELL_LEVEL2: No me cuesta nada conseguir\nestos resultados.
+MID_MARIABELL_LEVEL3: ¡Esto es inadmisible!
+MID_MARIABELL_SKILL: Ahora mi rendimiento será mejor\nque nunca.
+MID_MARIABELL_JOIN: Soy Maribelle, de los Custodios.\nSi requieres mi ayuda, cuenta con ella.
+MID_MARIABELL_STRONGEST: Hay que ver qué mala postura tienes.\n¿No se supone que eres\n$Gun gran héroe,una gran heroína| en este mundo?$k$pPues compórtate como tal.$k$pEstira el cuello así y saca pecho,\ncon orgullo. ¡No, no, así no!$k$pImagínate que tienes un palo pegado\nde los pies a la cabeza.$k$pBueno, si te esfuerzas te sale bien.\nAl menos tienes un buen punto\nde partida...$k$pEl detalle más pequeño\npuede marcar la diferencia.$k$pComo noble, jamás seguiría\na alguien que no actúe con decoro.\nSin embargo, a ti...$k$pTe seguiría hasta el fin del mundo,\nincluso tal y como eres ahora.$k$pBueno, ¿por qué no tomamos un té\ny descansamos un poco? Solo uso\ninfusiones de la mejor calidad.$k$pComo has mejorado mucho tu\npostura, prometo no regañarte\npor tus modales en la mesa.
+MID_MARIABELL_VOICE01: はいっ！
+MID_MARIABELL_VOICE02: それっ！
+MID_MARIABELL_VOICE03: きゃあ！
+MID_MARIABELL_VOICE04: なんと野蛮な…！
+MID_MARIABELL_VOICE05: Craso error.
+MID_MARIABELL_VOICE06: ¡Te voy a destruir!
+MID_MARIABELL_VOICE07: Me temo que la vas a palmar.
+MID_MARIABELL_VOICE08: Qué irritante eres. ¡Chúpate esa!
+MID_MARIABELL_VOICE09: You brute.
+MID_MARIABELL_VOICE10: うふふ
+MID_MARIABELL_VOICE11: Ve con cuidado.
+MID_MARIABELL_VOICE12: ¡Te quiero ver en plena forma!
+MID_MARIABELL_VOICE13: Tell me, is Lissa here? She's a dear friend of mine.
+MID_MARIABELL_VOICE14: You touched me! Without saying a thing! Do people in your world consider that some sort of greeting?
+MID_MARIABELL_VOICE15: Your summoning skills are so valuable. I have to admit—they're very impressive!
+MID_MARIABELL_VOICE16: Hmm. Perhaps a tea party is just the thing!
+MID_MARIABELL_VOICE17: If you have a sincere desire to improve your bearing, I'll take it on myself to instruct you.
+MID_MARIABELL_VOICE18: Yes.
+MID_MARIABELL_VOICE19: Onward!
+MID_MARIABELL_VOICE20: I'll do it!

@@ -1,0 +1,8 @@
+[Heroes Archive] (T0035)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_レオン,ch05_24_Leon_M_Normal,Face|$w0|Wenn wir den Fluss überqueren,\nmachen wir uns angreifbar...$k$pElise, wir werden hier warten, bis\nder Gegner die Initiative ergreift.$k$p$WmMPID_エリーゼ,ch05_25_Elise_F_Normal,Face|$w0|Das klingt nach einem fantastischen\nPlan! Du bist ein Genie, Leo!$k$p$Sbs1000|

@@ -1,0 +1,108 @@
+[Heroes Archive] (Data_62_popularity04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_ペレジアの冠: Couronne de Plegia
+MDAID_H_ペレジアの冠: Couronne ayant appartenu à Aversa.\nOn dit qu'elle était portée par les\ndisciples de Grima.
+MDAID_ペレジアの冠・極: Couronne de Plegia EX
+MDAID_H_ペレジアの冠・極: Une impressionnante couronne en\nor pur qui a appartenu à Aversa.
+MDAID_軍師の帽子: Chapeau tactique
+MDAID_H_軍師の帽子: Chapeau ayant appartenu à Loki.\nIl donne à son porteur une aura qui\npousse ses compagnons à lui obéir.
+MDAID_軍師の帽子・極: Chapeau tactique EX
+MDAID_H_軍師の帽子・極: Chapeau ayant appartenu à Loki.\nSon porteur peut faire obéir tout\nle monde au doigt et à l'œil.
+MDAID_探検帽: Coiffe de voyageur
+MDAID_H_探検帽: Un chapeau que Kliff s'est procuré\navant de partir explorer des terres\ninconnues.
+MDAID_探検帽・極: Coiffe de voyageur EX
+MDAID_H_探検帽・極: Quand Kliff était enfant, son père a\ntrouvé ce chapeau au cours d'un\nvoyage dans une contrée éloignée.
+MDAID_ダークネスウィング: Ailes des ténèbres
+MDAID_H_ダークネスウィング: Accessoire ayant appartenu à Owain.\nIl affirme qu'il est doté d'un pouvoir\nunique pour affronter les ténèbres.
+MDAID_ダークネスウィング・極: Ailes des ténèbres EX
+MDAID_H_ダークネスウィング・極: Accessoire ayant appartenu à Owain.\nIl affirme qu'une puissance sacrée\na rendu ses ailes blanches.
+MID_MISSION_S201810BLESS01_TITLE: Bénédiction de l'eau
+MID_MISSION_S201810BLESS01_A1: Victoire : héros béni (eau)
+MID_MISSION_H_S201810BLESS01_A1: Vaincre des ennemis avec des héros ayant reçu\nla bénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201810BLESS01_A2: Victoire : héros béni (eau)
+MID_MISSION_H_S201810BLESS01_A2: Vaincre des ennemis de niveau 20 ou supérieur\navec des héros ayant reçu la bénédiction de\nl'eau (ne concerne pas les héros légendaires\nde type Eau).
+MID_MISSION_S201810BLESS01_A3: Victoire : héros béni (eau)
+MID_MISSION_H_S201810BLESS01_A3: Vaincre des unités rouges de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201810BLESS01_A4: Victoire : héros béni (eau)
+MID_MISSION_H_S201810BLESS01_A4: Vaincre des unités bleues de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201810BLESS01_A5: Victoire : héros béni (eau)
+MID_MISSION_H_S201810BLESS01_A5: Vaincre des unités vertes de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction de l'eau (ne concerne pas les\nhéros légendaires de type Eau).
+MID_MISSION_S201810BLESS01_A6: Tour : première strate
+MID_MISSION_H_S201810BLESS01_A6: Terminer la 1re strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201810BLESS01_A7: Tour : cinquième strate
+MID_MISSION_H_S201810BLESS01_A7: Terminer la 5e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201810BLESS01_A8: Tour : dixième strate
+MID_MISSION_H_S201810BLESS01_A8: Terminer la 10e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction de l'eau\n(ne concerne pas les héros légendaires de type\nEau).
+MID_MISSION_S201810STORY02_TITLE: Renouveau vertueux
+MID_MISSION_S201810STORY02_A1: Ann. 26 - Acte 1 (Expert)
+MID_MISSION_H_S201810STORY02_A1: Terminer l'acte 1 de l'annexe 26 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201810STORY02_A2: Ann. 26 - Acte 2 (Expert)
+MID_MISSION_H_S201810STORY02_A2: Terminer l'acte 2 de l'annexe 26 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201810STORY02_A3: Ann. 26 - Acte 3 (Expert)
+MID_MISSION_H_S201810STORY02_A3: Terminer l'acte 3 de l'annexe 26 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_ウード: Owain
+MPID_インバース: Aversa
+MPID_ロキ味方: Loki
+MPID_クリフ: Kliff
+MPID_HONOR_ウード: Vengeur
+MPID_HONOR_インバース: Cœur obscur
+MPID_HONOR_ロキ味方: L’illusionniste
+MPID_HONOR_クリフ: Esprit curieux
+MPID_H_ウード: Fils de Lissa. Il a des manières théâtrales et\naime donner des noms spectaculaires à ses\narmes. Apparaît dans Fire Emblem: Awakening.
+MPID_H_インバース: Mage rusée au service de Gangrel de Plegia.\nElle use de ses charmes pour désarmer ses\nadversaires et les terrasser. Apparaît dans\nFire Emblem: Awakening.
+MPID_H_ロキ味方: Stratège de Múspell, le monde des flammes.\nAime jouer des tours aux autres et les\nmanipuler.
+MPID_H_クリフ: Ami d'enfance d'Alm originaire du village de\nRam. Adore s'instruire et rêve de découvrir\nle monde. Apparaît dans Fire Emblem Echoes:\nShadows of Valentia.
+MPID_VOICE_ウード: Kaiji Tang
+MPID_VOICE_インバース: Cindy Robinson
+MPID_VOICE_ロキ味方: Erika Ishii
+MPID_VOICE_クリフ: Christopher Patton
+MPID_ILLUST_ウード: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_インバース: PenekoR (п猫Ｒ)
+MPID_ILLUST_ロキ味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_クリフ: Tobi
+MSID_ミステルトィン: Miserteinn
+MSID_インバースの暗闇: Nuit d'Aversa
+MSID_アロー: Sagittae
+MSID_ブルーフレイム: Flamme bleue
+MSID_大地静水の祝福: Baume calmant
+MSID_大地静水の祝福＋: Baume calmant +
+MSID_守備魔防の城塞1: Fort. Déf/Rés 1
+MSID_守備魔防の城塞2: Fort. Déf/Rés 2
+MSID_守備魔防の城塞3: Fort. Déf/Rés 3
+MSID_無の死闘・歩行1: Duel infant. (G) 1
+MSID_無の死闘・歩行2: Duel infant. (G) 2
+MSID_無の死闘・歩行3: Duel infant. (G) 3
+MSID_H_ミステルトィン: Accélère l'activation des aptitudes spéciales\n(compteur -1). Compteur -1 pour chaque\nattaque de l'ennemi pendant le combat, y\ncompris celles qui n'infligent aucun dégât.\n(S'il y a plusieurs effets similaires, seul le\nplus puissant s'applique.)
+MSID_H_インバースの暗闇: Confère Rés +3. En début de tour, les\nennemis dont les PV sont inférieurs d'au\nmoins 3 points à ceux de l'unité et qui sont\nadjacents à un autre ennemi subissent\nAtq/Vit/Déf/Rés -3 et leurs bonus deviennent\ndes malus jusqu'à la fin de leur phase.
+MSID_H_アロー: Confère Déf +3. Si Atq de l'ennemi ≥ Atq de\nl'unité de 5 points ou plus au début du\ncombat, confère Atq/Vit/Déf/Rés +5 pendant\nle combat.
+MSID_H_ブルーフレイム: Augmente les dégâts de 10 points,\nou 25 si l'unité se trouve à côté d'un allié.
+MSID_H_大地静水の祝福: Lorsque l'unité soigne un allié à l'aide d'un\nbâton, confère Déf/Rés +4 à tous les alliés\npendant un tour.
+MSID_H_大地静水の祝福＋: Lorsque l'unité soigne un allié à l'aide d'un\nbâton, confère Déf/Rés +6 à tous les alliés\npendant un tour.
+MSID_H_守備魔防の城塞1: Confère Déf/Rés +3 et inflige Atq -3.
+MSID_H_守備魔防の城塞2: Confère Déf/Rés +4 et inflige Atq -3.
+MSID_H_守備魔防の城塞3: Confère Déf/Rés +6 et inflige Atq -2.
+MSID_H_無の死闘・歩行1: Confère PV +3. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 160, celui-ci est\ntraité comme s'il était égal à 160 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_無の死闘・歩行2: Confère PV +4. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 165, celui-ci est\ntraité comme s'il était égal à 165 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MSID_H_無の死闘・歩行3: Confère PV +5. Si l'unité est de rang 5★,\nde niveau 40, et que le total de ses\ncaractéristiques est inférieur à 170, celui-ci est\ntraité comme s'il était égal à 170 dans les\nmodes comme l'arène. (Cela fait apparaître\ndes adversaires rapportant davantage de\npoints. Le calcul des caractéristiques ne tient\npas compte des fusions et des aptitudes.)
+MID_CHAPTER_TITLE_CX025: Annexe 26
+MID_CHAPTER_CX025: Renouveau vertueux
+MID_STAGE_TITLE_X0251: Ann. 26 - Acte 1
+MID_STAGE_TITLE_X0252: Ann. 26 - Acte 2
+MID_STAGE_TITLE_X0253: Ann. 26 - Acte 3
+MID_STAGE_X0251: Obscurité et illusions
+MID_STAGE_X0252: Le vengeur et le curieux
+MID_STAGE_X0253: Face aux héros
+MID_STAGE_HONOR_T0042: Cœur obscur
+MID_STAGE_T0042: Aversa
+MID_STAGE_TITLE_ST_X0024: Annexe 25
+MID_STAGE_TITLE_ST_X0025: Annexe 26
+MID_STAGE_TITLE_ST_X1025: Annexes 25 et 26
+MID_CHAPTER_ST_CX013: Annexes 25 et 26
+MID_STAGE_TITLE_PB032: Aptitudes 32
+MID_STAGE_PB032: Miserteinn !
+MID_STAGE_TITLE_PC016: Expertise 16
+MID_STAGE_PC016: Regroupement

@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU_HALLOWEEN02)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_HALLOWEEN02_HOME1: Brujas, calabazas terroríficas\ny fantasmas.$k$p¿Acaso el festival de la cosecha\nes una reunión de espíritus malignos?
+MID_KAGEROU_HALLOWEEN02_HOME2: Los aperitivos más típicos de Hoshido\nson los «dango» dulces y las galletas\nde arroz.$k$pLos aperitivos de Nohr también están\nmuy ricos, eh.
+MID_KAGEROU_HALLOWEEN02_HOME3: Los ninjas son expertos en pasar\ndesapercibidos entre las multitudes.$k$pEste disfraz de criada es ideal\npara eso.$k$pDisfruta del festival. Yo estaré\nobservándolo desde las sombras.
+MID_KAGEROU_HALLOWEEN02_HOME4: Un buen ninja puede gastar bromas\na la gente sin que nadie se dé cuenta.\n¿Te gustaría aprender cómo?
+MID_KAGEROU_HALLOWEEN02_HOME5: Llevo el traje típico de las criadas\nde Nohr.$k$pLos criados y los ninjas tienen\nuna cosa en común: ambos sirven\nlealmente a su señor.
+MID_KAGEROU_HALLOWEEN02_FRIEND: Vengo a saludarte, como me ha\npedido $Nf.\nEsta bebida te quitará la sed.
+MID_KAGEROU_HALLOWEEN02_LEVEL1: ¿Qué prefieres, truco o trato?\nMe encargaré de cumplir tu deseo.
+MID_KAGEROU_HALLOWEEN02_LEVEL2: En este festival hay un ambiente...\nagradable. Debería disfrutarlo más.
+MID_KAGEROU_HALLOWEEN02_LEVEL3: ¡Qué torpe! Quizá el festival\nme está distrayendo demasiado.
+MID_KAGEROU_HALLOWEEN02_SKILL: Gracias de todo corazón. Parece que\nla cosecha ha sido buena.
+MID_KAGEROU_HALLOWEEN02_JOIN: Soy Kagero, una ninja de Hoshido.\nHe venido de visita. ¿Truco o trato?\nRápido, elige tu destino.
+MID_KAGEROU_HALLOWEEN02_STRONGEST: Mi deber como ninja es cumplir\ncualquier misión que me confíen\nenseguida y con discreción.$k$pSoy consciente de que algunas\nmisiones terminan en tragedia,\npero el deber es lo primero.$k$pPara mí el festival de la cosecha es\ncomo una misión, así que no puedo\ndejarme llevar por los sentimientos.$k$pPero al hablar con la gente y ver\nlo bien que se lo está pasando,\nno puedo evitar pensar que...$k$pQuizá para participar en el festival\ncomo una más, debería empezar\na divertirme yo también.$k$pSí, no cabe duda.$k$pSi quiero que esta misión salga bien,\ntengo que empezar a disfrutar\ndel festival inmediatamente.$k$pBueno, entonces ¿qué prefieres,\ntruco o trato? Yo, Kagero, ninja\nde Hoshido, cumpliré tu deseo.
+MID_KAGEROU_HALLOWEEN02_VOICE01: えいっ！
+MID_KAGEROU_HALLOWEEN02_VOICE02: やっ！
+MID_KAGEROU_HALLOWEEN02_VOICE03: うああっ！
+MID_KAGEROU_HALLOWEEN02_VOICE04: 破廉恥な…！
+MID_KAGEROU_HALLOWEEN02_VOICE05: ¿Truco o trato?
+MID_KAGEROU_HALLOWEEN02_VOICE06: Dame tus caramelos.
+MID_KAGEROU_HALLOWEEN02_VOICE07: ¡Atención a este truco!
+MID_KAGEROU_HALLOWEEN02_VOICE08: Invisibilidad otoñal.
+MID_KAGEROU_HALLOWEEN02_VOICE09: It's...the clothes...
+MID_KAGEROU_HALLOWEEN02_VOICE10: *grumble/unhappy noise*
+MID_KAGEROU_HALLOWEEN02_VOICE11: Do you find this outfit odd? I'm not surprised.
+MID_KAGEROU_HALLOWEEN02_VOICE12: Do not do that. I am no spirit.
+MID_KAGEROU_HALLOWEEN02_VOICE13: This is Nohrian garb? How shameless...
+MID_KAGEROU_HALLOWEEN02_VOICE14: Why must I suffer this humiliation?
+MID_KAGEROU_HALLOWEEN02_VOICE15: Those who do not give treats must suffer a trick. That is the rule.
+MID_KAGEROU_HALLOWEEN02_VOICE16: A ninja must be ready to take on anything...
+MID_KAGEROU_HALLOWEEN02_VOICE17: Rest here a moment. I'll prepare a tea that goes nicely with sweets.
+MID_KAGEROU_HALLOWEEN02_VOICE18: I will obey.
+MID_KAGEROU_HALLOWEEN02_VOICE19: Mysterious...
+MID_KAGEROU_HALLOWEEN02_VOICE20: I'll do as I must.

@@ -1,0 +1,38 @@
+[Heroes Archive] (SYLVIA)
+
+
+Heroes Message Name: Message
+
+
+MID_SYLVIA_HOME1: はぁ…\nどんな英雄様が揃ってるのかと思えば\nカタブツばっかりで調子狂っちゃう。
+MID_SYLVIA_HOME2: シレジアではレヴィンがよく\nご飯をごちそうしてくれてさぁ～。\nまたレヴィンの竪琴で踊りたいな！
+MID_SYLVIA_HOME3: なんか雰囲気暗くない～？\n考えこんでもムダムダ！\nほら、外へ遊びに行こっ！
+MID_SYLVIA_HOME4: どしたの？\nシルヴィアちゃんの踊りが見たいって？\n意外と見る目があるじゃない！
+MID_SYLVIA_HOME5: お祈りしてたの。\n戦争に巻き込まれて悲しんでいる、\nたくさんの人たちのために…
+MID_SYLVIA_FRIEND: はーい、あたし、シルヴィアでーす♪\nこれ、$Nfから！\nたまには遊びにきてねって言ってたよ！
+MID_SYLVIA_LEVEL1: シルヴィアちゃん絶好調～♪\nみんなをもっともーっと\n元気にしてあげるから！
+MID_SYLVIA_LEVEL2: ううん…フツーすぎ？\nあたしにしては\nちょっとキレが悪いかも…
+MID_SYLVIA_LEVEL3: 練習サボってたのバレた？\nごーめんなさーい！！
+MID_SYLVIA_SKILL: どお、どお？\nますます魅力的な気がしない？
+MID_SYLVIA_JOIN: 戦場に咲く一輪の花！\n旅の踊り子、シルヴィアよ♪\nシルヴィって呼んでもいいよ。
+MID_SYLVIA_STRONGEST: $Nuって、普段から\nそんなに色々考えててさー、疲れない？\nあたしなら頭がパーンってなっちゃいそう！$k$pあたしがお世話になった神父様も\nそんな感じでさー。\nいっつも難しい顔して、唸ってたなー。$k$pでもでも、 $Nuは\nすっごくラッキーだよ！\n何故ならジャッジャジャーン♪$k$pあたしがここにいるからでーす！\n悩んでてもあたしの踊りを見たら、\nすぐにスッキリして元気出るよ！$k$p$Nuが元気ないと、\nみんなが困っちゃうでしょ～？\nだからいつでもあたしを呼んでよね！
+MID_SYLVIA_VOICE01: はいっ！
+MID_SYLVIA_VOICE02: やっ！
+MID_SYLVIA_VOICE03: きゃああっ！
+MID_SYLVIA_VOICE04: やだもうっ！
+MID_SYLVIA_VOICE05: 荒っぽくいくわよ！
+MID_SYLVIA_VOICE06: 負けないからねっ！
+MID_SYLVIA_VOICE07: 戦場に咲く花よ！
+MID_SYLVIA_VOICE08: 散る時はぱーっと！
+MID_SYLVIA_VOICE09: なんで…あたしが…
+MID_SYLVIA_VOICE10: えへへ
+MID_SYLVIA_VOICE11: 踊ってあげるね！
+MID_SYLVIA_VOICE12: 元気を出してね！
+MID_SYLVIA_VOICE13: えーっ、やだぁもう。これは下着じゃなくて、踊り子の衣装よ。
+MID_SYLVIA_VOICE14: この格好でも、熱いくらいよ。あたし、心が燃えてるのっ。
+MID_SYLVIA_VOICE15: あたし…どうしたんだろ…あなたといると、不思議な気持ち…
+MID_SYLVIA_VOICE16: もう…このセクシーなあたしを、子供だと思ってるのかしら…
+MID_SYLVIA_VOICE17: 誰にも見せてない、特別な踊り…恥ずかしいけど…あなたになら…
+MID_SYLVIA_VOICE18: うん、いいよ！
+MID_SYLVIA_VOICE19: 踊るの大好き！
+MID_SYLVIA_VOICE20: 踊ってあげる！

@@ -1,0 +1,45 @@
+[Heroes Archive] (Menu_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION: Dialoge ansehen
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP: Sturmprüfung
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_OPENING: Eröffnung
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_ENDING: Abschluss
+MID_EVENT_RECOLLECTION_INFO: Sieh dir Dialoge aus beendeten Events an.
+MID_MAP_RETRY: Neu starten
+MID_MAP_RETRY_CONFIRM: Von vorne beginnen?
+MID_MAP_RETRY_DECIDE: Neu starten
+MID_MAP_RETRY_CANCEL: Aufgeben
+MID_MAP_PHASE_WITH_LIMIT: $aPhase $a0/$a1
+MID_MISSION_PROGRESS_DIALOG_LIST_ACHIEVED_HELP: Hol deine Prämie von der Quest-Liste.
+MID_OCCUPATION_HELP_DIALOG_08_02: GE-Ränge:\n・ Dein GE-Rang erhöht sich je\nnach deiner Gesamtpunktzahl\nim Kampf.\n・ Je höher dein GE-Rang, desto\nmehr Punkte werden Gebieten\nhinzugefügt, die an dein gewähltes\nGebiet grenzen.\n(Gilt ab dem ersten Kampf nach\nErreichen eines neuen GE-Rangs.)\n・ Je nach GE-Rang kannst du\nweitere Prämien verdienen.
+MID_OCCUPATION_AREA_ALLY_RANKING_REINFORCE_ONLY: Helfer
+MID_OCCUPATION_REWARD_SORT_RANK: Armeerang
+MID_OCCUPATION_REWARD_RANK: Rang
+MID_OCCUPATION_RANKING: Aktueller Stand
+MID_OCCUPATION_RANKING_SORT_TYPE: $aAktueller Stand: $a0
+MID_OCCUPATION_RANKING_SORT_TOP: Beste Spieler
+MID_OCCUPATION_RANK_OUT_OF_RANGE: - keine -
+MID_OCCUPATION_RANKING_UNCALCULATED: Platzierungen werden berechnet.
+MID_OCCUPATION_GAINED_REWARDTYPE_ROUND_RANK: $aGE: Armeerang-Prämie - Kampf $a0
+MID_OCCUPATION_RANKING_SCORE: Punkte
+MID_SEQUENTIAL_MAP_TERM_201807: Süße Träume
+MID_STAGE_SELECT_RULE_TURN_ENEMY_PHASE: $aZüge zum Sieg: $a0 (Gegner-Phase)
+MID_STAGE_SELECT_PUZZLE: Manöver
+MID_STAGE_SELECT_PUZZLE_INFO: Teste dein Können!
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC: Grundlagen
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC_INFO: Lerne die Grundlagen und\nfeile an deiner Technik.
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL: Fähigkeiten
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL_INFO: Lerne, wie Fähigkeiten\nden Kampf beeinflussen.
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS: Großmeister
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS_INFO: Herausforderungen für\nerfahrene Taktiker.
+MID_PUZZLE_HELP_DIALOG_00: Spielen und lernen!
+MID_PUZZLE_HELP_DIALOG_01: Manöver:\nVerinnerliche nochmals die Regeln\nvon Fire Emblem Heroes und\narbeite an deinen Strategien.\n\nFür jede Karte gibt es eine\nfestgelegte Heldengruppe.
+MID_PUZZLE_HELP_DIALOG_02: Großmeister:\nDiese Karten sind besonders\nanspruchsvoll!\n\nSie werden nach Abschließen\nvon Buch I, Kapitel 13 der Story\nfreigeschaltet.
+MID_STAGE_OPEN_FIRST_PUZZLE: Manöver wurden freigeschaltet.
+MID_STAGE_OPEN_NEW_PUZZLE: Eine neue Manöverkarte ist\nverfügbar.
+MID_STAGE_SELECT_RULE_PHASE: $aPhasen zum Sieg: $a0
+MID_TAP_BATTLE_RESULT_COMMENT_FULL: Perfekt!

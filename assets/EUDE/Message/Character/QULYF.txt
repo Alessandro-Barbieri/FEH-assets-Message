@@ -1,0 +1,38 @@
+[Heroes Archive] (QULYF)
+
+
+Heroes Message Name: Message
+
+
+MID_QULYF_HOME1: So viele Helden aus verschiedenen\nKulturen treffen zu können... Das ist\nirgendwie ziemlich interessant.
+MID_QULYF_HOME2: Das Leben im Dorf wurde langweilig,\nalso habe ich mich auf Alms Bitte\ndem Bund der Freien angeschlossen.
+MID_QULYF_HOME3: Das Leben $Geines Beschwörers,einer Beschwörerin| ist\nbestimmt aufregend. Willst du für\neinen Tag mit mir tauschen?$k$pDas war natürlich ein Scherz.
+MID_QULYF_HOME4: Ich habe hier so viel Zeit in der\nBibliothek verbracht. Langsam\nfängt es an, langweilig zu werden.$k$pWarum zeigst du mir nicht die\nUmgebung? Ich wette, du darfst\ndich hier überall frei bewegen.
+MID_QULYF_HOME5: Ich mache Notizen über diesen Ort,\naber wenn ich in meine Welt zurück-\nkehre... wird mir niemand glauben.
+MID_QULYF_FRIEND: Ich soll Grüße von\n$Nf überbringen.$k$pKann ich jetzt gehen?
+MID_QULYF_LEVEL1: Beeindruckend! Ich wusste gar nicht,\ndass ich so großes Potenzial habe.
+MID_QULYF_LEVEL2: Ich kann mich nicht beklagen. Oder\nhast du etwa mehr erwartet?
+MID_QULYF_LEVEL3: Was? Wie langweilig.
+MID_QULYF_SKILL: Das sieht interessant aus... Ich werde\nes verwenden, um dir zu helfen.
+MID_QULYF_JOIN: Mein Name ist Kliff. Hmmm... Dieser\nOrt sieht unterhaltsam aus. Sorge\ndafür, dass ich mich nicht langweile.
+MID_QULYF_STRONGEST: He, $Nu...\nWillst du reden?$k$pUm ehrlich zu sein, wollte ich dich\netwas fragen. Findest du, dass ich\neine negative Einstellung habe?$k$pMeine Freunde sehen das so. Sie\nhaben wahrscheinlich recht, oder?$k$pIch weiß nicht, warum, aber\nirgendwie kann ich mich über\nalles Mögliche ärgern.$k$pVielleicht ist es, weil ich jung bin. Ich\nkann nicht machen, was ich will... Ich\nwarte nur darauf, erwachsen zu sein.$k$pMein Traum ist es, allein um die Welt\nzu reisen. Ich werde nicht in mein\nDorf zurückkehren.$k$pDas ist übrigens ein Geheimnis.$k$pWenn ich gehen kann, wohin ich will,\nwerde ich dich auch mal besuchen\nkommen. Wahrscheinlich.$k$pSei also nicht allzu überrascht, falls\nich plötzlich auftauchen sollte!
+MID_QULYF_VOICE01: Urya!
+MID_QULYF_VOICE02: I'm coming...
+MID_QULYF_VOICE03: Uwah!
+MID_QULYF_VOICE04: Damn it...
+MID_QULYF_VOICE05: Augen auf!
+MID_QULYF_VOICE06: Ich spiele mit dir.
+MID_QULYF_VOICE07: Kein Problem für mich.
+MID_QULYF_VOICE08: Fort mit dir!
+MID_QULYF_VOICE09: I guess this is it.
+MID_QULYF_VOICE10: Hehe
+MID_QULYF_VOICE11: I'm Kliff. I'm a member of the Deliverance, along with everybody — well, it's a long story.
+MID_QULYF_VOICE12: Huh? Don't be such a Tobin. If you're bored, why don't you try studying? It'll sharpen your wits.
+MID_QULYF_VOICE13: I used to go to the school in the village, but it shut down, all thanks to the war. I'm so bored.
+MID_QULYF_VOICE14: I'm not sure I believe what you're telling me about the world you come from. Are you pulling my leg?
+MID_QULYF_VOICE15: My friends from the village all treat me like a child. It's rather rude, wouldn't you say?
+MID_QULYF_VOICE16: I want to see the wide world with my own eyes. If that means I won't see my friends again, well, so be it.
+MID_QULYF_VOICE17: You're not as boring as I expected! When I'm around you, things are never dull. Keep being yourself, OK?
+MID_QULYF_VOICE18: That might work.
+MID_QULYF_VOICE19: Hmm...
+MID_QULYF_VOICE20: I'll take care of it.

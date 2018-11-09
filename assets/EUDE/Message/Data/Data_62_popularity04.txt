@@ -1,0 +1,108 @@
+[Heroes Archive] (Data_62_popularity04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_ペレジアの冠: Plegianische Krone
+MDAID_H_ペレジアの冠: Eine Krone, die von Mitgliedern der\nGrimleal getragen werden soll. Sie\nbefand sich im Besitz von Aversa.
+MDAID_ペレジアの冠・極: Plegianische Krone+
+MDAID_H_ペレジアの冠・極: Eine beeindruckende Krone aus\npurem Gold. Sie befand sich im\nBesitz von Aversa.
+MDAID_軍師の帽子: Gauklerschmuck
+MDAID_H_軍師の帽子: Diese Kopfbedeckung bringt andere\ndazu, die Befehle des Trägers zu\nbefolgen. Sie gehört Loki.
+MDAID_軍師の帽子・極: Gauklerschmuck+
+MDAID_H_軍師の帽子・極: Diese Kopfbedeckung bringt andere\ndazu, sich den Launen des Trägers\nvöllig zu unterwerfen. Sie gehört Loki.
+MDAID_探検帽: Entdeckerhut
+MDAID_H_探検帽: Kliff besorgte sich diesen Hut im Zuge\nder Vorbereitungen auf seine Reisen\nin unbekannte Länder.
+MDAID_探検帽・極: Entdeckerhut+
+MDAID_H_探検帽・極: Als Kliff ein kleiner Junge war, fand\nsein Vater diesen Hut auf seinen\nReisen in weit entfernte Länder.
+MDAID_ダークネスウィング: Finsterflügel
+MDAID_H_ダークネスウィング: Von Owain getragene Flügel. Ihm\nzufolge ist die enthaltene Macht\neffektiv gegen die Finsternis.
+MDAID_ダークネスウィング・極: Finsterflügel+
+MDAID_H_ダークネスウィング・極: Von Owain getragene Flügel. Ihm\nzufolge lassen heilige Mächte sie\nin reinstem Weiß erscheinen.
+MID_MISSION_S201810BLESS01_TITLE: Wassersegen
+MID_MISSION_S201810BLESS01_A1: Sieg mit Wassersegen
+MID_MISSION_H_S201810BLESS01_A1: Besiege Gegner mit einem Helden mit\nWassersegen. (Bezieht sich nicht auf\nLegendäre Helden mit Wasserelement.)
+MID_MISSION_S201810BLESS01_A2: Sieg mit Wassersegen
+MID_MISSION_H_S201810BLESS01_A2: Besiege Gegner, die mindestens Level 20\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf Legendäre Helden\nmit Wasserelement.)
+MID_MISSION_S201810BLESS01_A3: Sieg mit Wassersegen
+MID_MISSION_H_S201810BLESS01_A3: Besiege rote Gegner, die mindestens Level 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf Legendäre Helden\nmit Wasserelement.)
+MID_MISSION_S201810BLESS01_A4: Sieg mit Wassersegen
+MID_MISSION_H_S201810BLESS01_A4: Besiege blaue Gegner, die mindestens Level 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf Legendäre Helden\nmit Wasserelement.)
+MID_MISSION_S201810BLESS01_A5: Sieg mit Wassersegen
+MID_MISSION_H_S201810BLESS01_A5: Besiege grüne Gegner, die mindestens Level 35\nsind, mit einem Helden mit Wassersegen.\n(Bezieht sich nicht auf Legendäre Helden\nmit Wasserelement.)
+MID_MISSION_S201810BLESS01_A6: Übungsturm: 1. Stufe
+MID_MISSION_H_S201810BLESS01_A6: Schließe die erste Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201810BLESS01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201810BLESS01_A7: Schließe die fünfte Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201810BLESS01_A8: Übungsturm: 10. Stufe
+MID_MISSION_H_S201810BLESS01_A8: Schließe die zehnte Stufe des Übungsturms\nmit einem Helden mit Wassersegen ab.\n(Bezieht sich nicht auf legendäre\nHelden mit Wasserelement.)
+MID_MISSION_S201810STORY02_TITLE: Tapfere Wiederkehr
+MID_MISSION_S201810STORY02_A1: Nebenq. 26 Tl. 1 - Extrem
+MID_MISSION_H_S201810STORY02_A1: Bewältige Nebenquest 26 - Teil 1 auf Extrem\nmit einem Axtkämpfer. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201810STORY02_A2: Nebenq. 26 Tl. 2 - Extrem
+MID_MISSION_H_S201810STORY02_A2: Bewältige Nebenquest 26 - Teil 2 auf Extrem\nmit einem Schwertkämpfer. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_S201810STORY02_A3: Nebenq. 26 Tl. 3 - Extrem
+MID_MISSION_H_S201810STORY02_A3: Bewältige Nebenquest 26 - Teil 3 auf Extrem\nmit einem Lanzenkämpfer. Alle Verbündeten\nmüssen überleben.
+MPID_ウード: Owain
+MPID_インバース: Aversa
+MPID_ロキ味方: Loki
+MPID_クリフ: Kliff
+MPID_HONOR_ウード: Auserwählter
+MPID_HONOR_インバース: Die Finstere
+MPID_HONOR_ロキ味方: Die Gaunerin
+MPID_HONOR_クリフ: Der Neugierige
+MPID_H_ウード: Lissas Sohn, der dazu neigt, theatralisch\naufzutreten. Liebt es, Waffen dramatisch\nklingende Namen zu geben. Erscheint in\nFire Emblem Awakening.
+MPID_H_インバース: Eine listige Magierin, die Gangrel von Plegia\ndient. Weiß ihre Reize einzusetzen, um ihre\nGegner zu entwaffnen und zu vernichten.\nErscheint in Fire Emblem Awakening.
+MPID_H_ロキ味方: Strategin für Múspell, das Feuerkönigreich.\nManipuliert gerne und spielt Streiche.
+MPID_H_クリフ: Alms Freund aus Kindertagen aus dem\nDorf Ram. Ist wissbegierig und will mehr von\nder Welt sehen. Erscheint in Fire Emblem\nEchoes: Shadows of Valentia.
+MPID_VOICE_ウード: Kaiji Tang
+MPID_VOICE_インバース: Cindy Robinson
+MPID_VOICE_ロキ味方: Erika Ishii
+MPID_VOICE_クリフ: Christopher Patton
+MPID_ILLUST_ウード: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_インバース: PenekoR (п猫Ｒ)
+MPID_ILLUST_ロキ味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_クリフ: Tobi
+MSID_ミステルトィン: Mystelstein
+MSID_インバースの暗闇: Aversas Nacht
+MSID_アロー: Sagittae
+MSID_ブルーフレイム: Blaue Flamme
+MSID_大地静水の祝福: Erdwasserbalsam
+MSID_大地静水の祝福＋: Erdwasserbals.+
+MSID_守備魔防の城塞1: Ver./Res.-Fest. 1
+MSID_守備魔防の城塞2: Ver./Res.-Fest. 2
+MSID_守備魔防の城塞3: Ver./Res.-Fest. 3
+MSID_無の死闘・歩行1: F Duell-Inf. 1
+MSID_無の死闘・歩行2: F Duell-Inf. 2
+MSID_無の死闘・歩行3: F Duell-Inf. 3
+MSID_H_ミステルトィン: Beschleunigt Spezialangriffe (Erholungszeit -1).\nPro Angriff des Gegners wird die Erholungszeit\nder Einheit zusätzlich um 1 beschleunigt.\n(Bei mehreren ähnlichen Effekten wird nur der\nhöchste angewandt. Erholungszeit der Einheit\nwird auch bei Schaden = 0 beschleunigt.)
+MSID_H_インバースの暗闇: Verleiht Res. +3. Sind die KP eines Gegners zu\nBeginn des Zuges um mindestens 3 geringer\nals die KP der Einheit und befindet sich der\nGegner neben einem anderen Gegner, erleidet\ner Angr./Ges./Ver./Res. -3 und seine Boni\nwerden bis nach dem nächsten Zug ins\nGegenteil umgewandelt.
+MSID_H_アロー: Verleiht Ver. +3. Ist Angr. des Gegners zu\nBeginn des Zuges um mindestens 5 höher\nals Angr. der Einheit, erhält die Einheit\nAngr./Ges./Ver./Res. +5 im Kampf.
+MSID_H_ブルーフレイム: Erhöht Schaden um 10. Befindet sich die\nEinheit neben einem Verbündeten, wird\nder Schaden stattdessen um 25 erhöht.
+MSID_H_大地静水の祝福: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nVer./Res. +4 für 1 Zug.
+MSID_H_大地静水の祝福＋: Beim Heilen eines Verbündeten mit\neinem Stab erhalten alle Verbündeten\nVer./Res. +6 für 1 Zug.
+MSID_H_守備魔防の城塞1: Verleiht Ver./Res. +3.\nVerursacht Angr. -3.
+MSID_H_守備魔防の城塞2: Verleiht Ver./Res. +4.\nVerursacht Angr. -3.
+MSID_H_守備魔防の城塞3: Verleiht Ver./Res. +6.\nVerursacht Angr. -2.
+MSID_H_無の死闘・歩行1: Verleiht KP +3. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 160, gelten ihre Werte in Modi\nwie Arena als 160. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_無の死闘・歩行2: Verleiht KP +4. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 165, gelten ihre Werte in Modi\nwie Arena als 165. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MSID_H_無の死闘・歩行3: Verleiht KP +5. Hat die Einheit 5 ★ sowie\nLevel 40 und sind ihre Werte insgesamt\ngeringer als 170, gelten ihre Werte in Modi\nwie Arena als 170. (Es erscheinen Gegner\nmit höherer Punktzahl. Durch Verbindungen\nund Fähigkeiten erhaltene Werte zählen nicht\nfür die Gesamtberechnung der Werte.)
+MID_CHAPTER_TITLE_CX025: Nebenquest 26
+MID_CHAPTER_CX025: Tapfere Wiederkehr
+MID_STAGE_TITLE_X0251: Nebenq. 26: Tl. 1
+MID_STAGE_TITLE_X0252: Nebenq. 26: Tl. 2
+MID_STAGE_TITLE_X0253: Nebenq. 26: Tl. 3
+MID_STAGE_X0251: Finsteres Gespann
+MID_STAGE_X0252: Kosmisch und irdisch
+MID_STAGE_X0253: Sie versammeln sich...
+MID_STAGE_HONOR_T0042: Die Finstere
+MID_STAGE_T0042: Aversa
+MID_STAGE_TITLE_ST_X0024: Nebenquest 25
+MID_STAGE_TITLE_ST_X0025: Nebenquest 26
+MID_STAGE_TITLE_ST_X1025: Nebenq. 25 & 26
+MID_CHAPTER_ST_CX013: Nebenq. 25 & 26
+MID_STAGE_TITLE_PB032: Fähigkeiten 32
+MID_STAGE_PB032: Mystelstein!
+MID_STAGE_TITLE_PC016: Großmeister 16
+MID_STAGE_PC016: Führungskraft

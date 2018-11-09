@@ -138,8 +138,8 @@ MID_CONFIG_SHOW_MAP_COMMAND_GUIDE: Mouvement auto\nalliés/ennemis
 MID_CONFIG_BATTLE_ENEMY_BGM: Musique ennemis
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Simple
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Guide
-MID_CONFIG_BATTLE_BGM: Musique de combat
-MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Musique spéciale seulement
+MID_CONFIG_BATTLE_BGM: Musique\nde combat
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Spéc. seulement
 MID_TITLE_ASK_NAME: Entrez le nom de votre personnage.
 MID_TITLE_ASK_NAME_CAPTION: Entrez le nom de votre personnage.
 MID_TITLE_ASK_NAME_INFO: Certains caractères spéciaux ne peuvent\npas être utilisés. Le nom est limité à 12\ncaractères et il pourra être modifié.
@@ -405,7 +405,7 @@ MID_SHOP_EXPAND_CONFIRM: Dépenser 1 orbe pour augmenter\nle nombre de héros qu
 MID_SHOP_EXPAND_DECIDE: Acheter
 MID_SHOP_EXPAND_CANT_UNIT: Vous ne pouvez plus agrandir\nvotre caserne.
 MID_SHOP_EXPAND_RESULT: Vous avez dépensé 1 orbe pour\naugmenter le nombre maximum\nde héros que vous pouvez accueillir.
-MID_SHOP_UNIT_FULL_INFOR: Votre caserne a atteint\nsa capacité maximale.
+MID_SHOP_UNIT_FULL_INFOR: Votre caserne a dépassé\nsa capacité maximale.
 MID_SHOP_UNIT_FULL_CAN_EXPAND: Agrandissez votre caserne ou\nréduisez votre nombre de héros.
 MID_SHOP_UNIT_FULL_NO_EXPAND: Réduisez votre nombre de héros\navant d'en ajouter de nouveaux.
 MID_SHOP_UNIT_FULL_EXPAND: Acheter
@@ -590,7 +590,7 @@ MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: ◆ Utilisation ◆\nLes éclats peuvent 
 MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Transformez des héros en plumes !
 MID_UNIT_EDIT_SELL_HELP_DIALOG_01: ◆ Libération de héros ◆\nLorsque vous libérez un héros,\ncelui-ci quitte définitivement vos\neffectifs pour retourner dans son\nmonde d'origine et vous lègue\ndes plumes de héros.
 MID_UNIT_EDIT_SELL_HELP_DIALOG_02: ◆ Favoris ◆\nMarquez un héros comme favori\nsi vous voulez vous assurer de\nne pas le faire disparaître en le\nlibérant par erreur, par exemple.
-MID_UNIT_EDIT_SELL_HELP_DIALOG_03: ◆ Marquer un favori ◆\nPour marquer un héros comme\nfavori, touchez l'icône en forme\nde cœur visible dans le coin\nsupérieur gauche de son profil.\nTouchez-la de nouveau pour\nretirer le statut de favori.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: ◆ Marquer un favori ◆\nPour marquer un héros comme\nfavori, touchez l'icône en forme\nde cœur visible dans le coin\nsupérieur gauche de son profil et\nsélectionnez une couleur. Touchez\nSupprimer pour retirer le statut\nde favori.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Améliorez le rang de vos héros !
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: ◆ Améliorer le rang d'un héros ◆\nVous pouvez utiliser des objets\npour améliorer le rang (★) d'un\nhéros de niveau 20 ou supérieur.\n\nLe héros retombera au niveau 1,\nmais ses caractéristiques de\ndépart seront améliorées et il\naura accès à d'autres aptitudes.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: ◆ Rangs 1★ à 3★ ◆\nPour améliorer un héros de rang\n1★ à 3★, vous devez utiliser des\nplumes de héros et des badges.\nLes plumes de héros peuvent,\nentre autres, être obtenues dans\nl'arène, et les badges dans la tour\nd'entraînement.
@@ -607,6 +607,12 @@ MID_UNIT_EDIT_FAVORITE_TYPE: $aFavori $a0
 MID_UNIT_EDIT_FAVORITE_NONE: Supprimer
 MID_UNIT_EDIT_FAVORITE_FILTER: Les alliés portant un symbole\nseront affichés en premier.\nVous pouvez marquer un allié\ncomme favori depuis son profil.
 MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Effacer
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT: Nom du favori
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT_SELECT: Sélectionnez le favori que vous\nvoulez renommer.
+MID_UNIT_EDIT_FAVORITE_NAME_PLACE_HOLDER: Saisissez un nom.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK: Saisissez un nom pour ce favori.
+MID_UNIT_EDIT_FAVORITE_NAME_WARNING: Ce nom sera le même pour tous\nles alliés utilisant ce favori.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK_INFO: Le nom ne doit pas dépasser 9 caractères.\nCertains symboles ne sont pas acceptés.
 MID_UNIT_INFO_EXP_MAX: MAX
 MID_UNIT_INFO_TO_TALK: Touchez !
 MID_UNIT_INFO_NOW_TALK: Écoutez !

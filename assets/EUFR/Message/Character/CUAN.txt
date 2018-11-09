@@ -1,0 +1,38 @@
+[Heroes Archive] (CUAN)
+
+
+Heroes Message Name: Message
+
+
+MID_CUAN_HOME1: L'ambiance apaisante qui règne ici\nme rappelle l'académie.$k$pQuand j'étais là-bas, mes amis et\nmoi avons fait un pacte...
+MID_CUAN_HOME2: Bien que Leonster soit un petit\nroyaume, notre sang est celui de\nNjörun, l'une des 12 croisés.$k$pMon père a compris que ma cause\nétait juste et qu'elle ne déshonorerait\npas notre lignée. Et pourtant...
+MID_CUAN_HOME3: Vous n'arrêtez pas une seconde !\nJe ne vous ai jamais $Gvu,vue| vous\nreposer.$k$pS'il faut patrouiller dans le château,\nlaissez-moi le faire à votre place.
+MID_CUAN_HOME4: Ça ne doit pas être facile d'aller sur\nle champ de bataille sans monture...$k$pSi vous voulez apprendre à\nchevaucher, je serais ravi de vous\naider.
+MID_CUAN_HOME5: J'ai pris l'habitude de toujours ranger\nmes affaires. Ma femme est\nabsolument intraitable sur ce sujet.$k$pBien entendu, j'aimerais que cette\nremarque reste entre nous.
+MID_CUAN_FRIEND: Je suis Quan. $Nf\nm'a demandé de venir vous saluer.$k$pPuisse votre amitié ne jamais\ns'éteindre.
+MID_CUAN_LEVEL1: Je suis le descendant d'une croisée.\nSa force est mon héritage.
+MID_CUAN_LEVEL2: Je dois être vigilant et continuer\nd'avancer.
+MID_CUAN_LEVEL3: Cette faiblesse est peut-être\nun prélude à l'échec...
+MID_CUAN_SKILL: Je jure sur cette lance de toujours\nfaire de mon mieux pour vous.
+MID_CUAN_JOIN: Je suis Quan, prince de Leonster.\nJe suis le descendant de la croisée\nNjörun et je porte sa lance, Gáe Bolg.
+MID_CUAN_STRONGEST: Le temps a passé depuis notre\npremière bataille... J'ai pu voir que\nvous avez un grand talent.$k$pSi vous aviez été là à l'époque...$k$pNon, ce n'est pas le moment de\nparler de cela. Ma question est la\nsuivante : pourquoi combattez-vous ?$k$pOù trouvez-vous un sens à tout\ncela ? Qu'est-ce qui vous motive ?$k$pJ'ai été vaincu et j'ai tout perdu...$k$pMais je continue de croire que mes\nactes auront un impact sur l'avenir.$k$pEn vérité, j'ignore quel effet ils\nauront sur le résultat final...$k$pMais je dois conserver ma volonté\nde combattre. L'alternative est trop\nterrifiante pour être envisagée.$k$pTant que la justice sera dans votre\ncœur, je serai à vos côtés, Gáe Bolg\nà la main.$k$pAvançons sans la moindre hésitation,\nmon $Gami,amie|.
+MID_CUAN_VOICE01: はっ！
+MID_CUAN_VOICE02: せいっ！
+MID_CUAN_VOICE03: うああっ！
+MID_CUAN_VOICE04: Damn it...!
+MID_CUAN_VOICE05: Vous faites face à Gáe Bolg !
+MID_CUAN_VOICE06: Je ne perdrai pas.
+MID_CUAN_VOICE07: Vous allez le regretter.
+MID_CUAN_VOICE08: Pour mes alliés !
+MID_CUAN_VOICE09: Ethlyn... I'm sorry...
+MID_CUAN_VOICE10: Sigh
+MID_CUAN_VOICE11: My bond of friendship with Sigurd is unbreakable. Now that I have wed Ethlyn, we are brothers!
+MID_CUAN_VOICE12: Our Leonster may be a small country, but it is ruled by the descendants of the crusader Njörun.
+MID_CUAN_VOICE13: Even if I fall into ruin, I will never regret my choice -- as long as I fight for what is right.
+MID_CUAN_VOICE14: When we were just boys studying together, Sigurd, Eldigan, and I shared our dreams for the future.
+MID_CUAN_VOICE15: Have you ever made a mistake? One that haunts you, even now?
+MID_CUAN_VOICE16: As long as I have the Gáe Bolg, I will not lose.
+MID_CUAN_VOICE17: You must not lose your life here. If you were to be placed in danger, I would do everything I could to save you.
+MID_CUAN_VOICE18: Yes.
+MID_CUAN_VOICE19: Ready to go?
+MID_CUAN_VOICE20: My strength.

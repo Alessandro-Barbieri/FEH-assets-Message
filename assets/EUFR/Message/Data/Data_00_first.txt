@@ -1787,9 +1787,9 @@ MSID_守備魔防の紋章1: Ence. Déf/Rés 1
 MSID_守備魔防の紋章2: Ence. Déf/Rés 2
 MSID_エンブラの加護: Faveur d'Embla
 MSID_H_ラグネル: L'unité riposte peu importe la distance\nà laquelle se trouve son assaillant.
-MSID_H_剛剣1: Si Atq de l'unité > Atq de l'ennemi de 5 points\nou plus, compteur -1 par attaque. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
-MSID_H_剛剣2: Si Atq de l'unité > Atq de l'ennemi de 3 points\nou plus, compteur -1 par attaque. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
-MSID_H_剛剣3: Si Atq de l'unité > Atq de l'ennemi, compteur -1\npar attaque. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_剛剣1: Si Atq de l'unité > Atq de l'ennemi de 5 points\nou plus, compteur -1 pour chaque attaque de\nl'unité. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_剛剣2: Si Atq de l'unité > Atq de l'ennemi de 3 points\nou plus, compteur -1 pour chaque attaque de\nl'unité. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_剛剣3: Si Atq de l'unité > Atq de l'ennemi, compteur -1\npour chaque attaque de l'unité. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
 MSID_H_水薙ぎ1: Si l'unité initie le combat, double frappe impossible.\nSi Vit de l'unité > Vit de l'ennemi de 5 points ou\nplus et que l'ennemi utilise la magie, un bâton ou\nune dracopierre, l'ennemi ne peut pas riposter.
 MSID_H_水薙ぎ2: Si l'unité initie le combat, double frappe impossible.\nSi Vit de l'unité > Vit de l'ennemi de 3 points ou\nplus et que l'ennemi utilise la magie, un bâton ou\nune dracopierre, l'ennemi ne peut pas riposter.
 MSID_H_水薙ぎ3: Si l'unité initie le combat, double frappe impossible.\nSi Vit de l'unité > Vit de l'ennemi et que l'ennemi\nutilise la magie, un bâton ou une dracopierre,\nl'ennemi ne peut pas riposter.
@@ -3505,11 +3505,11 @@ MSID_速さの謀策1: Ruse Vit 1
 MSID_速さの謀策2: Ruse Vit 2
 MSID_速さの謀策3: Ruse Vit 3
 MSID_H_聖剣ティルフィング: Confère Rés +3. Si l'ennemi utilise la magie,\nréduit les dégâts de sa première attaque de 50 %.
-MSID_H_瞬閃アイラの剣: Confère Vit +3. Si Vit de l'unité > Vit de l'ennemi,\ncompteur -1 par attaque. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
+MSID_H_瞬閃アイラの剣: Confère Vit +3. Si Vit de l'unité > Vit de l'ennemi,\ncompteur -1 pour chaque attaque de l'unité.\n(S'il y a plusieurs effets similaires, seul le plus\npuissant s'applique.)
 MSID_H_ファラフレイム: En début de tour, inflige Atq/Rés -4 aux ennemis\nsitués sur la même ligne horizontale ou verticale\ndont la Rés est inférieure à celle de l'unité jusqu'à\nla fin de leur phase.
 MSID_H_聖書ナーガ: Efficace contre les dragons. Les bonus dont\nl'ennemi bénéficie grâce à des aptitudes\ncomme Prudence ou Ralliement sont annulés\npendant le combat.
 MSID_H_速さ魔防の応援: Confère Vit/Rés +3 à la cible pendant un tour.
-MSID_H_剣姫の流星: Augmente les dégâts infligés par l'unité\nà hauteur de 40 % de sa Vit. (Non transmissible.)
+MSID_H_剣姫の流星: Augmente les dégâts à hauteur\nde 40 % de la Vit. (Non transmissible.)
 MSID_H_聖騎士の加護: Si l'unité subit des attaques consécutives d'un\nennemi à 2 cases, réduit les dégâts de la\ndeuxième attaque et des suivantes de 80 %.\n(Non transmissible.)
 MSID_H_追撃リング: Si PV ≥ 50 % au début du combat, l'unité effectue\nune double frappe. (Non transmissible.)
 MSID_H_リカバーリング: En début de tour, rend 10 PV à l'unité.\n(Non transmissible.)
@@ -4077,7 +4077,7 @@ MSID_速さの大紋章2: Stimulant Vit 2
 MSID_攻撃の紫煙1: Fumée Atq 1
 MSID_攻撃の紫煙2: Fumée Atq 2
 MSID_攻撃の紫煙3: Fumée Atq 3
-MSID_H_烈剣デュランダル: Confère Atq +3. Si l'Atq de l'unité > Atq de\nl'ennemi, compteur -1 par attaque. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
+MSID_H_烈剣デュランダル: Confère Atq +3. Si l'Atq de l'unité > Atq de\nl'ennemi, compteur -1 pour chaque attaque\nde l'unité. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
 MSID_H_ゲイルスケグル: Confère Déf +3. Confère Atq/Vit +3 aux alliés\ndotés d'une épée, d'une lance, d'une hache,\nd'un arc ou d'une dague à 2 cases ou moins\npendant le combat.
 MSID_H_ウルヴァン: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si l'unité subit des attaques\nconsécutives, réduit les dégâts de la deuxième\nattaque et des suivantes de 80 %.
 MSID_H_ミュルグレ: Efficace contre les unités volantes. Confère\nVit +3. Si l'ennemi utilise la magie, les bonus dont\nil bénéficie grâce à des aptitudes comme Prudence\nou Ralliement sont annulés pendant le combat.
@@ -4155,8 +4155,8 @@ MPID_VOICE_ルーテ: Brina Palencia
 MPID_VOICE_ワユ: Lani Minella
 MPID_ILLUST_ドルカス: Soeda Ippei (添田一平)
 MPID_ILLUST_ヨシュア: Fujiwara Ryo (冨士原良)
-MPID_ILLUST_ルーテ: 瀬尾公治
-MPID_ILLUST_ワユ: 米山舞
+MPID_ILLUST_ルーテ: Seo Kouji (瀬尾公治)
+MPID_ILLUST_ワユ: Yoneyama Mai (米山舞)
 MSID_気鋭ワユの剣: Lame déterminée
 MSID_氷剣アウドムラ: Audhulma
 MSID_剛斧トマホーク: Grand tomahawk
@@ -4178,9 +4178,9 @@ MSID_H_HP魔防2: Confère PV +4 et Rés +2.
 MSID_H_鬼神の構え1: Si l'ennemi initie le combat, confère Atq +2\npendant le combat.
 MSID_H_鬼神の構え2: Si l'ennemi initie le combat, confère Atq +4\npendant le combat.
 MSID_H_鬼神の構え3: Si l'ennemi initie le combat, confère Atq +6\npendant le combat.
-MSID_H_柔剣1: Si Vit de l'unité > Vit de l'ennemi de 5 points ou\nplus, compteur -1 par attaque. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
-MSID_H_柔剣2: Si Vit de l'unité > Vit de l'ennemi de 3 points ou\nplus, compteur -1 par attaque. (S'il y a plusieurs\neffets similaires, seul le plus puissant s'applique.)
-MSID_H_柔剣3: Si Vit de l'unité > Vit de l'ennemi, compteur -1\npar attaque. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_柔剣1: Si Vit de l'unité > Vit de l'ennemi de 5 points ou\nplus, compteur -1 pour chaque attaque de\nl'unité. (S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.)
+MSID_H_柔剣2: Si Vit de l'unité > Vit de l'ennemi de 3 points ou\nplus, compteur -1 pour chaque attaque de\nl'unité. (S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.)
+MSID_H_柔剣3: Si Vit de l'unité > Vit de l'ennemi, compteur -1\npour chaque attaque de l'unité. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
 MID_CHAPTER_TITLE_CX014: Annexe 15
 MID_CHAPTER_CX014: Héros inattendus
 MID_STAGE_TITLE_X0141: Ann. 15 - Acte 1

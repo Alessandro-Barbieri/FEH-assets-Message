@@ -1,0 +1,38 @@
+[Heroes Archive] (LOKI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LOKI_MIKATA01_HOME1: La vida está llena de oportunidades,\n¿no crees?$k$pYo, por ejemplo, tengo la magnífica\noportunidad de hablar contigo\ny con el príncipe Alfonse.
+MID_LOKI_MIKATA01_HOME2: ¿No te parece adorable la princesa\nVeronica? Adoro a esa niña.\nEs divertidísimo tomarle el pelo.
+MID_LOKI_MIKATA01_HOME3: Si la Loki de este mundo es\ntu enemiga, yo seré tu aliada.\n¡Qué emocionante!
+MID_LOKI_MIKATA01_HOME4: ¿Te has preguntado alguna vez\nqué o quién confiere el poder\nde invocar a héroes?$k$p¿O por qué el reino de Askr puede\nabrir portales a otros mundos?\n¡Seguro que sí!$k$p¿No te gustaría investigar y dar\nrespuesta a tales misterios?
+MID_LOKI_MIKATA01_HOME5: Si me necesitas, solo tienes\nque decírmelo. Para algo\nme has invocado.
+MID_LOKI_MIKATA01_FRIEND: Hola, cielo. Soy Loki.\nMi cuerpo y mi alma pertenecen\na $Nf.
+MID_LOKI_MIKATA01_LEVEL1: ¡Qué sensación tan agradable! Je, je.
+MID_LOKI_MIKATA01_LEVEL2: ¿Qué tal estoy? Echa un vistazo.
+MID_LOKI_MIKATA01_LEVEL3: ¡No estoy satisfecha!
+MID_LOKI_MIKATA01_SKILL: ¡Gracias! Pensaré en una forma\nde darte las gracias.
+MID_LOKI_MIKATA01_JOIN: ¿Me llamabas? Me quieres solo\npara ti, ¿verdad, $Gpillín,pillina|?
+MID_LOKI_MIKATA01_STRONGEST: Por tu cara, creo que vienes\na declararme tu amor.$k$pPero antes... ¿me prestarías tu arma\nsagrada? Solo un ratito.$k$pEs demasiado poderosa para estar\nen manos de $Gun humano,una humana|.$k$pPodrías gobernar los nueve mundos\ny todas las dimensiones concebibles.$k$pTienes un poder comparable\nal de una divinidad.$k$pSe me ocurren unas cuantas cosas\nque podría hacer con esta arma...$k$p¿No me dejas? ¡Qué $Gestricto,estricta| eres!$k$pMe decepcionas,\naunque ya me lo esperaba.\nDeberíamos conocernos mejor.$k$pUn día, cuando estemos tan $Gunidos,unidas|\ncomo se puede llegar a estar,\nquizás cambies de opinión.
+MID_LOKI_MIKATA01_VOICE01: うふふっ
+MID_LOKI_MIKATA01_VOICE02: 嬉しい？
+MID_LOKI_MIKATA01_VOICE03: きゃああっ！
+MID_LOKI_MIKATA01_VOICE04: やぁん…もう…
+MID_LOKI_MIKATA01_VOICE05: Qué adorable...
+MID_LOKI_MIKATA01_VOICE06: ¡Te llevaré al paraíso!
+MID_LOKI_MIKATA01_VOICE07: Ven conmigo... a tu tumba.
+MID_LOKI_MIKATA01_VOICE08: No lo disfrutes demasiado.
+MID_LOKI_MIKATA01_VOICE09: No more...
+MID_LOKI_MIKATA01_VOICE10: うふふ
+MID_LOKI_MIKATA01_VOICE11: Venga, tómate un descanso.
+MID_LOKI_MIKATA01_VOICE12: Mmm... ¿Necesitas algo?
+MID_LOKI_MIKATA01_VOICE13: Whatever you need... I'll do.
+MID_LOKI_MIKATA01_VOICE14: Ah! You really shouldn't tease me.
+MID_LOKI_MIKATA01_VOICE15: You're very interested in touching me, aren't you?
+MID_LOKI_MIKATA01_VOICE16: Looking forward to what I'll say next?
+MID_LOKI_MIKATA01_VOICE17: I feel like you've put a spell on me. You're so bad.
+MID_LOKI_MIKATA01_VOICE18: Yes?
+MID_LOKI_MIKATA01_VOICE19: Ooh!
+MID_LOKI_MIKATA01_VOICE20: Mm-hmm...

@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_60_if02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_メイドの頭飾り: Maid Headpiece
+MDAID_H_メイドの頭飾り: A maid's headpiece from Flora. This\nis the authentic Nohrian object,\nstraight from Castle Krakenburg.
+MDAID_メイドの頭飾り・極: Maid Headpiece EX
+MDAID_H_メイドの頭飾り・極: A maid's headpiece from Flora. Only\nthe head maid is allowed to wear this\nsuperior-quality item.
+MDAID_騎士の額当て: Knight Headpiece
+MDAID_H_騎士の額当て: A knight's headpiece from Silas. This\ngear is given to those who earn the\ntitle of knight.
+MDAID_騎士の額当て・極: Knight Headpiece EX
+MDAID_H_騎士の額当て・極: A knight's headpiece from Silas. This\nspecial piece of gear is given to those\nwho reach the title of paladin.
+MDAID_読書用眼鏡: Reading Glasses
+MDAID_H_読書用眼鏡: According to Nina, your eyes won't\nget tired if you wear these—no matter\nhow much, or what, you read.
+MDAID_読書用眼鏡・極: Reading Glasses EX
+MDAID_H_読書用眼鏡・極: Nina says that these glasses will let\nyou keep reading into the dead of\nnight.
+MDAID_聖なる星の煌めき: Sacred Stardust
+MDAID_H_聖なる星の煌めき: Ophelia claims this stardust holds\ngreat power. (It's really just a hairpin,\nbut you're nice for humoring her.)
+MDAID_聖なる星の煌めき・極: Sacred Stardust EX
+MDAID_H_聖なる星の煌めき・極: According to Ophelia, only the chosen\nmay touch this stardust. (Actually just\na hairpin, but don't dash her dreams.)
+MID_MISSION_M201809CLEAR01_TITLE: Book II
+MID_MISSION_M201809CLEAR01_A1: Clear 1-5
+MID_MISSION_H_M201809CLEAR01_A1: Clear Book II, chapter 1, part 5 with Fjorm on\nyour team. All four allies must survive.
+MID_MISSION_M201809CLEAR01_A2: Clear 2-5
+MID_MISSION_H_M201809CLEAR01_A2: Clear Book II, chapter 2, part 5 with Fjorm on\nyour team. All four allies must survive.
+MID_MISSION_M201809CLEAR01_A3: Clear 3-5
+MID_MISSION_H_M201809CLEAR01_A3: Clear Book II, chapter 3, part 5 with Fjorm on\nyour team. All four allies must survive.
+MID_MISSION_M201809CLEAR01_A4: Clear 4-5
+MID_MISSION_H_M201809CLEAR01_A4: Clear Book II, chapter 4, part 5 with Fjorm on\nyour team. All four allies must survive.
+MID_MISSION_M201809CLEAR01_A5: Clear 5-5
+MID_MISSION_H_M201809CLEAR01_A5: Clear Book II, chapter 5, part 5 on Hard\ndifficulty with four infantry allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A6: Clear 6-5
+MID_MISSION_H_M201809CLEAR01_A6: Clear Book II, chapter 6, part 5 on Hard\ndifficulty with four armored allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A7: Clear 7-5
+MID_MISSION_H_M201809CLEAR01_A7: Clear Book II, chapter 7, part 5 on Hard\ndifficulty with four cavalry allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A8: Clear 8-5
+MID_MISSION_H_M201809CLEAR01_A8: Clear Book II, chapter 8, part 5 on Hard\ndifficulty with four flying allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A9: Clear 9-5
+MID_MISSION_H_M201809CLEAR01_A9: Clear Book II, chapter 9, part 5 on Lunatic\ndifficulty with four infantry allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A10: Clear 10-5
+MID_MISSION_H_M201809CLEAR01_A10: Clear Book II, chapter 10, part 5 on Lunatic\ndifficulty with four armored allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A11: Clear 11-5
+MID_MISSION_H_M201809CLEAR01_A11: Clear Book II, chapter 11, part 5 on Lunatic\ndifficulty with four cavalry allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A12: Clear 12-5
+MID_MISSION_H_M201809CLEAR01_A12: Clear Book II, chapter 12, part 5 on Lunatic\ndifficulty with four flying allies on your team.\nAll four allies must survive.
+MID_MISSION_M201809CLEAR01_A13: Clear 13-5
+MID_MISSION_H_M201809CLEAR01_A13: Clear Book II, chapter 13, part 5 on Lunatic\ndifficulty with Fjorm on your team. All four\nallies must survive.
+MID_MISSION_S201809DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201809DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201809DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201809DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201809DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201809DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201809DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201809DAISEIATU01_A4: Tower: 2nd Stratum
+MID_MISSION_H_S201809DAISEIATU01_A4: Clear the second stratum of the Training Tower.
+MID_MISSION_S201809DAISEIATU01_A5: Tower: 8th Stratum
+MID_MISSION_H_S201809DAISEIATU01_A5: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201809DAISEIATU01_A6: Win Arena Duels
+MID_MISSION_H_S201809DAISEIATU01_A6: Win Arena Duels on any difficulty.
+MID_MISSION_S201809HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201809HERO01_A1: Defeat Saias
+MID_MISSION_H_S201809HERO01_A1: Clear the Grand Hero Battle against Saias:\nBishop of Flame with Anna on your team.
+MID_MISSION_S201809HERO01_A2: Defeat Saias
+MID_MISSION_H_S201809HERO01_A2: Clear the Grand Hero Battle against Saias:\nBishop of Flame on Lunatic difficulty with\nSaias: Bishop of Flame on your team.
+MID_MISSION_S201809HERO01_A3: Defeat Saias
+MID_MISSION_H_S201809HERO01_A3: Defeat Saias: Bishop of Flame at level 40\nor higher using Anna.
+MID_MISSION_S201809HERO01_A4: Defeat Saias
+MID_MISSION_H_S201809HERO01_A4: Defeat Saias: Bishop of Flame at level 40\nor higher using Saias: Bishop of Flame.
+MID_MISSION_S201809HERO01_A5: Defeat Saias
+MID_MISSION_H_S201809HERO01_A5: Clear the Grand Hero Battle against Saias:\nBishop of Flame on Lunatic or higher difficulty\nusing only infantry allies.
+MID_MISSION_S201809SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201809SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201809SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201809SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201809SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201809SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201809STORY02_TITLE: A Way Home
+MID_MISSION_S201809STORY02_A1: Clear 13-1 on Lunatic
+MID_MISSION_H_S201809STORY02_A1: Clear Book II, Chapter 13: Part 1 on Lunatic\ndifficulty with an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY02_A2: Clear 13-2 on Lunatic
+MID_MISSION_H_S201809STORY02_A2: Clear Book II, Chapter 13: Part 2 on Lunatic\ndifficulty with a sword ally on your team. All\nfour allies must survive.
+MID_MISSION_S201809STORY02_A3: Clear 13-3 on Lunatic
+MID_MISSION_H_S201809STORY02_A3: Clear Book II, Chapter 13: Part 3 on Lunatic\ndifficulty with a lance ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY02_A4: Clear 13-4 on Lunatic
+MID_MISSION_H_S201809STORY02_A4: Clear Book II, Chapter 13: Part 4 on Lunatic\ndifficulty with an axe ally on your team. All four\nallies must survive.
+MID_MISSION_S201809STORY02_A5: Clear 13-5 on Lunatic
+MID_MISSION_H_S201809STORY02_A5: Clear Book II, Chapter 13: Part 5 on Lunatic\ndifficulty with a sword ally on your team. All\nfour allies must survive.
+MPID_フローラ: Flora
+MPID_エポニーヌ: Nina
+MPID_オフェリア: Ophelia
+MPID_サイラス: Silas
+MPID_ガロン: Garon
+MPID_レーヴァテイン味方: Laevatein
+MPID_レーギャルン味方: Laegjarn
+MPID_ヘルビンディ味方: Helbindi
+MPID_HONOR_フローラ: Cold as Ice
+MPID_HONOR_エポニーヌ: Eye Spy
+MPID_HONOR_オフェリア: Dramatic Heroine
+MPID_HONOR_サイラス: Loyal Knight
+MPID_HONOR_ガロン: King of Nohr
+MPID_HONOR_レーヴァテイン味方: Searing Steel
+MPID_HONOR_レーギャルン味方: Sheathed Steel
+MPID_HONOR_ヘルビンディ味方: Savage Scourge
+MPID_H_フローラ: A Nohrian maid who serves Corrin. Tends to be\nserious. Has a twin sister, Felicia. Appears in\nFire Emblem Fates.
+MPID_H_エポニーヌ: Niles's daughter. Calm and intelligent but prone\nto intense bouts of daydreaming. Appears in\nFire Emblem Fates.
+MPID_H_オフェリア: Odin's daughter. A daydreamer who applies a\nflair for the dramatic to her magic. Appears in\nFire Emblem Fates.
+MPID_H_サイラス: A newly appointed Nohrian knight and Corrin's\nchildhood friend. Often asked for advice.\nAppears in Fire Emblem Fates.
+MPID_H_ガロン: The king of Nohr. Intends to invade and rule\nover Hoshido. Appears in Fire Emblem Fates.
+MPID_H_レーヴァテイン味方: The second princess of Múspell, the Kingdom\nof Flame. She sees herself and the blade she\nwields as one and the same, and keeps her\nemotions in check.
+MPID_H_レーギャルン味方: The eldest princess of Múspell, the Flame\nKingdom, and Laevatein's older sister. A\ngeneral who leads Múspell's army with dignity.
+MPID_H_ヘルビンディ味方: Rough and tumble general of Múspell, the\nKingdom of Flame. Came from nothing and\nrose through the ranks thanks to his talent\nin battle.
+MPID_VOICE_フローラ: Julie Ann Taylor
+MPID_VOICE_エポニーヌ: Liv Strander
+MPID_VOICE_オフェリア: Angela Marie Volpe
+MPID_VOICE_サイラス: —
+MPID_VOICE_ガロン: Patrick Seitz
+MPID_VOICE_レーヴァテイン味方: Sarah Williams
+MPID_VOICE_レーギャルン味方: Alicia Stratten
+MPID_VOICE_ヘルビンディ味方: Raymond K. Essel
+MPID_ILLUST_フローラ: HAKO (羽公)
+MPID_ILLUST_エポニーヌ: Mikuro (みく郎)
+MPID_ILLUST_オフェリア: Umiu Geso (海鵜げそ)
+MPID_ILLUST_サイラス: Meka (めか)
+MPID_ILLUST_ガロン: Soeda Ippei (添田一平)
+MPID_ILLUST_レーヴァテイン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_レーギャルン味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ヘルビンディ味方: Maeshima Shigeki (前嶋重機)
+MSID_シャイニングボウ: Shining Bow
+MSID_シャイニングボウ＋: Shining Bow+
+MSID_霧氷のナイフ: Hoarfrost Knife
+MSID_魔書ミステルトィン: Missiletainn
+MSID_暗夜竜のブレス: Breath of Blight
+MSID_攻撃の大応援: Rally Up Atk
+MSID_攻撃の大応援＋: Rally Up Atk+
+MSID_攻撃魔防の孤軍1: Atk/Res Solo 1
+MSID_攻撃魔防の孤軍2: Atk/Res Solo 2
+MSID_攻撃魔防の孤軍3: Atk/Res Solo 3
+MSID_速さ魔防の連携1: Spd/Res Link 1
+MSID_速さ魔防の連携2: Spd/Res Link 2
+MSID_速さ魔防の連携3: Spd/Res Link 3
+MSID_守備の波・偶数1: Even Def Wave 1
+MSID_守備の波・偶数2: Even Def Wave 2
+MSID_守備の波・偶数3: Even Def Wave 3
+MSID_赤の死闘・飛行1: R Duel Flying 1
+MSID_赤の死闘・飛行2: R Duel Flying 2
+MSID_赤の死闘・飛行3: R Duel Flying 3
+MSID_緑の死闘・歩行1: G Duel Infantry 1
+MSID_緑の死闘・歩行2: G Duel Infantry 2
+MSID_緑の死闘・歩行3: G Duel Infantry 3
+MSID_速さの波・奇数1: Odd Spd Wave 1
+MSID_速さの波・奇数2: Odd Spd Wave 2
+MSID_速さの波・奇数3: Odd Spd Wave 3
+MSID_H_シャイニングボウ: Effective against flying foes. If foe's Def ≥ foe's\nRes+5, deals +7 damage.
+MSID_H_シャイニングボウ＋: Effective against flying foes. If foe's Def ≥ foe's\nRes+5, deals +7 damage.
+MSID_H_霧氷のナイフ: Accelerates Special trigger (cooldown count-1).\nIf unit initiates combat and foe uses sword,\nlance, axe, or dragonstone, grants Def+20\nduring combat, and if foe can counter, unit\nmakes a guaranteed follow-up attack. After\ncombat, if unit attacked, inflicts Def/Res-7 on\ntarget and foes within 2 spaces of target\nthrough their next actions.
+MSID_H_魔書ミステルトィン: Accelerates Special trigger (cooldown count-1).\nAt the start of turn 1, grants Special cooldown\ncount-1 to unit for each magic ally on your\nteam (including unit).
+MSID_H_暗夜竜のブレス: Neutralizes "effective against dragons" bonuses.\nAt the start of turn 4, deals 10 damage to foes\nwithin 3 spaces, and restores HP to unit =\nnumber of foes within 3 spaces × 5. If foe's\nRange = 2, calculates damage using the lower\nof foe's Def or Res.
+MSID_H_攻撃の大応援: Grants Atk+4 to target ally and allies within\n2 spaces of target (excluding unit) for 1 turn.
+MSID_H_攻撃の大応援＋: Grants Atk+6 to target ally and allies within\n2 spaces of target (excluding unit) for 1 turn.
+MSID_H_攻撃魔防の孤軍1: If unit is not adjacent to an ally, grants\nAtk/Res+2 during combat.
+MSID_H_攻撃魔防の孤軍2: If unit is not adjacent to an ally, grants\nAtk/Res+4 during combat.
+MSID_H_攻撃魔防の孤軍3: If unit is not adjacent to an ally, grants\nAtk/Res+6 during combat.
+MSID_H_速さ魔防の連携1: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Spd/Res+2 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_速さ魔防の連携2: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Spd/Res+4 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_速さ魔防の連携3: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Spd/Res+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_守備の波・偶数1: At start of even-numbered turns, grants Def+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_守備の波・偶数2: At start of even-numbered turns, grants Def+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_守備の波・偶数3: At start of even-numbered turns, grants Def+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_赤の死闘・飛行1: Grants HP+3. If unit is 5★ and level 40 and\nunit's stats total less than 160, treats\nunit's stats as 160 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_赤の死闘・飛行2: Grants HP+4. If unit is 5★ and level 40 and\nunit's stats total less than 165, treats unit's\nstats as 165 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_赤の死闘・飛行3: Grants HP+5. If unit is 5★ and level 40 and\nunit's stats total less than 170, treats unit's\nstats as 170 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_緑の死闘・歩行1: Grants HP+3. If unit is 5★ and level 40 and\nunit's stats total less than 160, treats unit's\nstats as 160 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_緑の死闘・歩行2: Grants HP+4. If unit is 5★ and level 40 and\nunit's stats total less than 165, treats unit's\nstats as 165 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_緑の死闘・歩行3: Grants HP+5. If unit is 5★ and level 40 and\nunit's stats total less than 170, treats unit's\nstats as 170 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_速さの波・奇数1: At start of odd-numbered turns, grants Spd+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_速さの波・奇数2: At start of odd-numbered turns, grants Spd+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_速さの波・奇数3: At start of odd-numbered turns, grants Spd+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MID_CHAPTER_TITLE_C0213: Book II, Chapter 13
+MID_CHAPTER_C0213: A Way Home
+MID_STAGE_TITLE_S2131: Chapter 13-1
+MID_STAGE_TITLE_S2132: Chapter 13-2
+MID_STAGE_TITLE_S2133: Chapter 13-3
+MID_STAGE_TITLE_S2134: Chapter 13-4
+MID_STAGE_TITLE_S2135: Chapter 13-5
+MID_STAGE_S2131: Princess Laegjarn
+MID_STAGE_S2132: The Sacrifices
+MID_STAGE_S2133: Maid of Ice
+MID_STAGE_S2134: Princess Laevatein
+MID_STAGE_S2135: Surtr, Ruler of Flame
+MID_CHAPTER_ST_C0207: Chapter 13
+MID_STAGE_TITLE_ST_S0213: Chapter 13
+MID_STAGE_TITLE_PB028: Skill Studies 28
+MID_STAGE_PB028: A Death-Defying Knife
+MID_STAGE_TITLE_PB029: Skill Studies 29
+MID_STAGE_PB029: Laevatein's Travails
+MID_STAGE_TITLE_PC014: Grandmaster 14
+MID_STAGE_PC014: Hooray for Extra Actions
+MID_STAGE_HONOR_T0039: King of Nohr
+MID_STAGE_T0039: Garon

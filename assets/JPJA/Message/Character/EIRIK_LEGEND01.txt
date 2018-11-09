@@ -1,0 +1,38 @@
+[Heroes Archive] (EIRIK_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_EIRIK_LEGEND01_HOME1: 私は強くなれたのでしょうか。\n守られるだけでなく、誰かを護る力を…\n身につけられたでしょうか。
+MID_EIRIK_LEGEND01_HOME2: 自ら望まぬこととはいえ、戦を重ねて\n剣の腕も自然と磨かれたように思います。\n兄上やゼトにはまだまだ及びませんが…
+MID_EIRIK_LEGEND01_HOME3: あなたは不思議な方ですね。\n毎日どこかが変わって、そう、まるで\n星の輝きのように捉えどころがない…
+MID_EIRIK_LEGEND01_HOME4: $Nuさんが\nお持ちのその本、素敵な意匠ですね。\n後で見せて頂けませんか？
+MID_EIRIK_LEGEND01_HOME5: 素振りや型も大切ですが、いざという時は\n実際の打ち合いの経験が大切です！\n私でよろしければお付き合いしましょう。
+MID_EIRIK_LEGEND01_FRIEND: あなたが$Nuさん…\n$Nfさんから\nよくお話を伺っております。
+MID_EIRIK_LEGEND01_LEVEL1: 安心して下さい。\n絶対にあなたのところまで\n敵は通しません！
+MID_EIRIK_LEGEND01_LEVEL2: 慢心はしません。\nより一層の鍛錬を。
+MID_EIRIK_LEGEND01_LEVEL3: もっと強く…強くなければ…\n
+MID_EIRIK_LEGEND01_SKILL: 感謝致します。\nこの力があれば、もう誰も失わずに…
+MID_EIRIK_LEGEND01_JOIN: ルネス王国王女、エイリークと申します。\n連なる英雄の名に恥じぬよう、\nあなたを必ずお守りいたします。
+MID_EIRIK_LEGEND01_STRONGEST: あ、$Nuさん…\nよろしければ、こちらで\n一緒に一休みしませんか？$k$p連日の戦いでお疲れでしょう。\nここに座って、目を閉じると…\n心が安らいでいくのを感じます。$k$p…私は…戦いは、嫌いです。\n人が争って傷つく姿は見たくありません。\nですが、願うだけでは何も変えられない…$k$p力がなければ大切なものを守れないと\nあの時わかったから…\nだから私は、強くあらねばと誓いました。$k$p$Nuさん、\n…あなたも同じ気持ちなのですね。\nありがとうございます。$k$pもう少しだけ…\nこうしていてもよろしいですか？
+MID_EIRIK_LEGEND01_VOICE01: ええいっ！
+MID_EIRIK_LEGEND01_VOICE02: 参ります！
+MID_EIRIK_LEGEND01_VOICE03: きゃああっ！
+MID_EIRIK_LEGEND01_VOICE04: いけません…
+MID_EIRIK_LEGEND01_VOICE05: もう迷いません！
+MID_EIRIK_LEGEND01_VOICE06: 御覚悟ください
+MID_EIRIK_LEGEND01_VOICE07: 立ち向かいます！
+MID_EIRIK_LEGEND01_VOICE08: ためらってはだめ…
+MID_EIRIK_LEGEND01_VOICE09: ああ……兄…上…
+MID_EIRIK_LEGEND01_VOICE10: うふふ
+MID_EIRIK_LEGEND01_VOICE11: ルネス王女エイリークと申します。　え？　伝承の英雄…ですか？
+MID_EIRIK_LEGEND01_VOICE12: きゃっ！？　も、もう…あなたという人は…
+MID_EIRIK_LEGEND01_VOICE13: 私は何も知らない、弱い王女でした…でも、変わりたいのです。
+MID_EIRIK_LEGEND01_VOICE14: 戦いが終わった後も…民たちの笑顔のために尽くしたいです。
+MID_EIRIK_LEGEND01_VOICE15: 世間知らずの私に…色々教えてくださいませんか？
+MID_EIRIK_LEGEND01_VOICE16: 悲しみを乗り越える…それも、強さなのでしょうか…
+MID_EIRIK_LEGEND01_VOICE17: これからもずっと…あなたのお傍にいさせてください…
+MID_EIRIK_LEGEND01_VOICE18: わかりました
+MID_EIRIK_LEGEND01_VOICE19: あなたのお力に
+MID_EIRIK_LEGEND01_VOICE20: 信じています…

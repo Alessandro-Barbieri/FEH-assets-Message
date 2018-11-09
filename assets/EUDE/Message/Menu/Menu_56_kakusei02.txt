@@ -1,0 +1,58 @@
+[Heroes Archive] (Menu_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION_PORTRAIT: Bande knüpfen
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_OPENING: $a$a0 - Eröffnung
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_C: $a$a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_B: $a$a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_A: $a$a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_C: $a$a1: $a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_B: $a$a1: $a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_A: $a$a1: $a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_S: $a$a1: $a0 - S
+MID_OCCUPATION_ENEMY_RULE_ENHANCE: Gegner gestärkt!
+MID_OCCUPATION_ENEMY_RULE_ATTACK_AFTER_WARP: Gegner greifen nach Teleportieren an.
+MID_PORTRAIT: Bande knüpfen
+MID_PORTRAIT_REMAINING_DAYS: $aNoch $a0 Tag(e)
+MID_PORTRAIT_REMAINING_HOURS: $aNoch $a0 Std.
+MID_PORTRAIT_REMAINING_MINUTES: $aNoch $a0 Min.
+MID_PORTRAIT_BONUS_TERM_REMAINING_DAYS: $aNoch $a0 Tag(e)
+MID_PORTRAIT_BONUS_TERM_REMAINING_HOURS: $aNoch $a0 Std.
+MID_PORTRAIT_BONUS_TERM_REMAINING_MINUTES: $aNoch $a0 Min.
+MID_PORTRAIT_BONUS_TERM_INFO_DROP_POINT: : Erhöhte Chance!
+MID_PORTRAIT_BONUS_TERM_INFO_POINT: $a: $a0 x Freundschaft
+MID_PORTRAIT_EVENT_CHARACTER_INFO: Gewinne bei diesem Event Kämpfe und\nkomme den teilnehmenden Charakteren näher.
+MID_PORTRAIT_BONUS_ACCESSORY_INFO: Lege deinem Team diese Accessoires an, damit\ndeine Freundschaften stärker wachsen!
+MID_PORTRAIT_EVENT_CHARACTER: Aktuelle Event-Charaktere
+MID_PORTRAIT_REWARD: Prämien
+MID_PORTRAIT_CHARACTER_REWARD: $aCharakter: $a0
+MID_PORTRAIT_CHARACTER_REWARD_TALK_C: $a$a0: Gespräch C
+MID_PORTRAIT_CHARACTER_REWARD_TALK_B: $a$a0: Gespräch B
+MID_PORTRAIT_CHARACTER_REWARD_TALK_A: $a$a0: Gespräch A
+MID_PORTRAIT_CHARACTER_REWARD_TALK_S: $a$a0: Gespräch S
+MID_PORTRAIT_REWARD_POINT_SHORT: Freundschaft
+MID_PORTRAIT_REWARD_CHANGE_DIALOG: Charakter-Prämien
+MID_PORTRAIT_ENTER_STAGE_SELECT: Stufe wählen
+MID_PORTRAIT_STAGE_LEVEL0: Leicht
+MID_PORTRAIT_STAGE_LEVEL1: Mittel
+MID_PORTRAIT_STAGE_LEVEL2: Für Kenner
+MID_PORTRAIT_STAGE_SELECT_POINT_WIN: Prämie für Sieg
+MID_PORTRAIT_STAGE_SELECT_DIALOG: Du kannst nicht wählen, welchem\nCharakter du näherkommst oder wie\nstark die Freundschaft wächst. Lege\ndeinen Helden Bonus-Accessoires an,\ndamit es schneller geht
+MID_PORTRAIT_DIALOG_GET_POINT_NAME: Freundschaft
+MID_PORTRAIT_DIALOG_GET_POINT_DIGIT: $a +$a0!
+MID_PORTRAIT_TITLE_201807: Verteidigung Ylisses
+MID_PORTRAIT_TERM_EXPIRED: Aktuelle Saison ist beendet.
+MID_PORTRAIT_CLOSED: Kämpfe sind geschlossen.
+MID_PORTRAIT_GAINED_REWARDTYPE_POINT: $aPrämie für Gesamtpunktzahl von $a0\nmit $a1:
+MID_PORTRAIT_DIALOG_END_OF_TERM: Da der Kampf über das Ende der\nSaison hinausging, wurden die\nErgebnisse nicht gezählt.
+MID_PORTRAIT_HELP_DIALOG_00: Komme den Helden näher!
+MID_PORTRAIT_HELP_DIALOG_01: Bande knüpfen:\nSchließe die Karten ab, damit\nHelden ihre Gefühle preisgeben.\n\nWenn du weiterspielst, teilen sie\ndir besondere Dinge mit und du\nkannst Accessoires verdienen.
+MID_PORTRAIT_HELP_DIALOG_02: Dialoge ansehen:\nSobald du ein Spezialgespräch\ngesehen hast, wird es zu "Dialoge\nansehen" hinzugefügt, wo du es\njederzeit erneut ansehen kannst.
+MID_PORTRAIT_HELP_DIALOG_03: Tägliche Sphären-Prämie:\nVerdiene in den ersten sieben\nTagen täglich 2 Sphären, indem\ndu eine Karte abschließt.
+MID_PORTRAIT_GAINED_REWARDTYPE_MISSION: Tägliche Prämie (1. Abschluss)
+MID_PORTRAIT_MAX_POINT: Es haben bereits alle Helden die\nhöchste Freundschaftsstufe erreicht.
+MID_PORTRAIT_DIALOG_AFTER_ENDING: Du kannst nach Ansehen des Endes\nweiter an diesem Event teilnehmen.
+MID_PORTRAIT_DAILY_BONUS_INFO: Verdiene in den ersten sieben Tagen\ntäglich 2 Sphären, indem du eine\nKarte abschließt.

@@ -108,14 +108,14 @@ MSID_迎撃隊形3: Vengativo 3
 MSID_赤魔の技量1: Gr. heroico R 1
 MSID_赤魔の技量2: Gr. heroico R 2
 MSID_赤魔の技量3: Gr. heroico R 3
-MSID_H_聖樹: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_聖樹＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_プレゼント袋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_プレゼント袋＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_ハンドベル: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_ハンドベル＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_燭台: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
-MSID_H_燭台＋: Si el rival inicial el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_聖樹: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_聖樹＋: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_プレゼント袋: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_プレゼント袋＋: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_ハンドベル: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_ハンドベル＋: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_燭台: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
+MSID_H_燭台＋: Si el rival inicia el ataque, la unidad\nobtiene Ata, Vel, Def y Res + 2\ndurante el enfrentamiento.
 MSID_H_攻撃速さの大覚醒1: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 3 durante el enfrentamiento.
 MSID_H_攻撃速さの大覚醒2: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 5 durante el enfrentamiento.
 MSID_H_攻撃速さの大覚醒3: Al inicio del ataque, si la unidad tiene PV ≤ 80 %,\nobtiene Ata y Vel + 7 durante el enfrentamiento.
@@ -125,9 +125,9 @@ MSID_H_攻撃守備の大覚醒3: Al inicio del ataque, si la unidad tiene PV �
 MSID_H_攻撃隊形1: Si la unidad inicia el ataque y tiene el 100 %\nde los PV, ejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
 MSID_H_攻撃隊形2: Si la unidad inicia el ataque y tiene PV ≥ 50 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
 MSID_H_攻撃隊形3: Si la unidad inicia el ataque,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
-MSID_H_迎撃隊形1: Si la unidad inicia el ataque y tiene PV ≥ 90 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
-MSID_H_迎撃隊形2: Si la unidad inicia el ataque y tiene PV ≥ 70 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
-MSID_H_迎撃隊形3: Si la unidad inicia el ataque y tiene PV ≥ 50 %,\nejecuta un ataque doble garantizado.\n- 1 a la cuenta atrás por cada ataque\nde la unidad. (No acumulable.)
+MSID_H_迎撃隊形1: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 90 %, esta ejecuta un ataque doble\ngarantizado. - 1 a la cuenta atrás\npor cada ataque de la unidad. (No acumulable.)
+MSID_H_迎撃隊形2: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 70 %, esta ejecuta un ataque doble\ngarantizado. - 1 a la cuenta atrás\npor cada ataque de la unidad. (No acumulable.)
+MSID_H_迎撃隊形3: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 50 %, esta ejecuta un ataque doble\ngarantizado. - 1 a la cuenta atrás\npor cada ataque de la unidad. (No acumulable.)
 MSID_H_赤魔の技量1: Mientras la unidad viva, si usa un grimorio rojo,\nrecibe un 50 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)
 MSID_H_赤魔の技量2: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 50 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)
 MSID_H_赤魔の技量3: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben un 100 % más de PH.\n(Solo se aplica el valor más alto. No acumulable.)

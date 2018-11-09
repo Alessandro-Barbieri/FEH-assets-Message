@@ -1,0 +1,20 @@
+[Heroes Archive] (Menu_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MID_OCCUPATION_GAINED_REWARDTYPE_SUPERIORITY_SCORE: $aRécompense de score (zone) : bataille $a0
+MID_OCCUPATION_REWARD_SORT_SUPERIORITY_SCORE: Score (zone)
+MID_OCCUPATION_SCORE_BOARD_TITLE: Score actuel (zone)
+MID_OCCUPATION_SCORE_BOARD_OPERATION: $aManche $a0
+MID_OCCUPATION_SCORE_BOARD_FINAL_AREA: Nombre de zones
+MID_OCCUPATION_SCORE_BOARD_TOTAL: Total
+MID_OCCUPATION_SCORE_BOARD_AGGREGATING: Calcul
+MID_OCCUPATION_SCORE_BOARD_HELP_TITLE: Le score dépend du nombre de zones\ncontrôlées à la fin d'une manche.
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_1: ・5 - 9 zones
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_2: ・10 - 14 zones
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_3: ・15 zones ou plus
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_4: $aManche $a0 : 1 point par zone contrôlée.
+MID_PORTRAIT_TITLE_201808: Créer un destin
+MID_SUMMON_PULL_ONLY_ONCE_Summon_58_popularity03_Selected: Choisir un héros met fin à la session.

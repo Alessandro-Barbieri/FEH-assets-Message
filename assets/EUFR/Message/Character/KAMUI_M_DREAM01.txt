@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_M_DREAM01)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_M_DREAM01_HOME1: Peu importe qui je suis, du moment\nque je peux protéger le sourire\ndes gens qui comptent pour moi.
+MID_KAMUI_M_DREAM01_HOME2: J'ai été séparé d'Azura pendant bien\ntrop longtemps... Dans ce monde,\nnous pouvons enfin être ensemble.
+MID_KAMUI_M_DREAM01_HOME3: Si je peux vous aider, dites-le-moi.\nLa force ne sert à rien si on ne la met\npas au service des autres.
+MID_KAMUI_M_DREAM01_HOME4: Pouvoir combattre aux côtés de tous\nces héros... Ce monde semble trop\nbeau pour être vrai.
+MID_KAMUI_M_DREAM01_HOME5: Je suis prêt à surmonter toutes\nles épreuves si cela peut rendre\nAzura heureuse.
+MID_KAMUI_M_DREAM01_FRIEND: $Nf vous salue.\nJe suis heureux de voir que vous\nvous portez bien.
+MID_KAMUI_M_DREAM01_LEVEL1: Je veux la voir sourire. Je dois\ndevenir plus fort pour mieux\nla protéger.
+MID_KAMUI_M_DREAM01_LEVEL2: Je vais continuer de m'améliorer\npour pouvoir aider tout le monde.
+MID_KAMUI_M_DREAM01_LEVEL3: Je vous ai $Gdéçu,déçue|. Pardonnez-moi.
+MID_KAMUI_M_DREAM01_SKILL: Cette sensation est si réelle...\nÇa ne peut pas être un rêve.
+MID_KAMUI_M_DREAM01_JOIN: Je m'appelle Corrin. Je suis ici pour\naider Azura à sourire de nouveau
+MID_KAMUI_M_DREAM01_STRONGEST: C'est triste à dire, mais il y a des gens\nqui aiment attaquer ceux qui ne\npeuvent pas se défendre.$k$pAzura a été blessée par ce genre de\npersonnes, et son désir de vengeance\nl'empêche d'aller mieux.$k$pC'est pour cela que je veux être à\nses côtés. Si je la protège et que\nje l'aide à soigner ses blessures...$k$pPeut-être qu'un jour, elle sera assez\nforte pour vivre seule.$k$pJe sais que cette force est en elle.\nIl faut simplement qu'elle la trouve.$k$pEn attendant, je serai toujours là\npour la protéger.
+MID_KAMUI_M_DREAM01_VOICE01: せいっ！
+MID_KAMUI_M_DREAM01_VOICE02: おやすみ
+MID_KAMUI_M_DREAM01_VOICE03: うああっ！
+MID_KAMUI_M_DREAM01_VOICE04: だめだ…
+MID_KAMUI_M_DREAM01_VOICE05: Il est temps de dormir.
+MID_KAMUI_M_DREAM01_VOICE06: Je me bats pour elle !
+MID_KAMUI_M_DREAM01_VOICE07: Les rêves offrent l'espoir.
+MID_KAMUI_M_DREAM01_VOICE08: Faites de beaux rêves.
+MID_KAMUI_M_DREAM01_VOICE09: Guess I'll...turn in...
+MID_KAMUI_M_DREAM01_VOICE10: あはは
+MID_KAMUI_M_DREAM01_VOICE11: I want to bring a smile to Azura's face. She's so young... How can I neglect her?
+MID_KAMUI_M_DREAM01_VOICE12: You're willing to walk right up to people and say hello! I'm not shy either.
+MID_KAMUI_M_DREAM01_VOICE13: If things get too rough on you, it's OK to run away. Retreating isn't all bad.
+MID_KAMUI_M_DREAM01_VOICE14: A happy dream is better than a painful reality.
+MID_KAMUI_M_DREAM01_VOICE15: Do I...truly exist? Or am I just somebody else's dream?
+MID_KAMUI_M_DREAM01_VOICE16: Someday, she will take the first step on her path. There'll be no stopping her.
+MID_KAMUI_M_DREAM01_VOICE17: You're so kind. Something tells me you could bring that girl true happiness...
+MID_KAMUI_M_DREAM01_VOICE18: Morning!
+MID_KAMUI_M_DREAM01_VOICE19: Can't sleep?
+MID_KAMUI_M_DREAM01_VOICE20: I was dreaming...

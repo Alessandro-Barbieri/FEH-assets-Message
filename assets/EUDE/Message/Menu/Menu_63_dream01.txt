@@ -1,0 +1,457 @@
+[Heroes Archive] (Menu_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MID_ITEM_HOLY_GRAIL: Heldenkelch
+MID_ITEM_HELP_HOLY_GRAIL: Zum Beschwören aus einer Auswahl an Helden.\nTippe im Menü "Einh." auf "Heldenkelche benutzen".
+MID_ITEM_SKYCASTLE_STONE: Ätherstein
+MID_ITEM_HELP_SKYCASTLE_STONE: Zum Bauen und Verbessern von Objekten\nim Modus "Ätherraubzüge".
+MID_ITEM_SKYCASTLE_DROP: Tau des Himmels
+MID_ITEM_HELP_SKYCASTLE_DROP: Zum Stärken von Festungen (A), Festungen (V)\nund Speichern im Modus "Ätherraubzüge".
+MID_ITEM_SKYCASTLE_THRONE_0: Goldthron
+MID_ITEM_HELP_SKYCASTLE_THRONE_0: $aEin Thron für jene, die einen Rang\nvon $a0 bis $a1 im Modus\n"Ätherraubzüge" erreicht haben.
+MID_ITEM_SKYCASTLE_THRONE_1: Silberthron
+MID_ITEM_HELP_SKYCASTLE_THRONE_1: $aEin Thron für jene, die einen Rang\nvon $a0 bis $a1 im Modus\n"Ätherraubzüge" erreicht haben.
+MID_ITEM_SKYCASTLE_THRONE_2: Bronzethron
+MID_ITEM_HELP_SKYCASTLE_THRONE_2: $aEin Thron für jene, die einen Rang\nvon $a0 bis $a1 im Modus\n"Ätherraubzüge" erreicht haben.
+MID_OCCUPATION_GUILD_NAME: $aArmee von $a0
+MID_REPLAY_FAILED_CONFIRM: Wiederholung nicht möglich.
+MID_MAP_REPLAY_END_ABORT_CONFIRM: $aWiederholung von $a0\nabbrechen?
+MID_MAP_REPLAY_END_COMPLETE_CONFIRM: $a$a0 hat gewonnen.
+MID_MAP_REPLAY_END_GAMEOVER_CONFIRM: $a$a0 hat verloren.
+MID_MAP_REPLAY_END_SURRENDER_CONFIRM: $a$a0 hat aufgegeben.
+MID_MAP_REPLAY_END_DECIDE: Wiederh. beenden
+MID_SEQUENTIAL_MAP_TERM_201811: Die Zeit davor
+MID_SKYCASTLE_TITLE: Ätherraubzüge
+MID_SKYCASTLE_RANK: ÄR-Rang
+MID_SKYCASTLE_RATE: Niveau
+MID_SKYCASTLE_SEASON_DAYS: $aÜbrige Saisontage: $a0
+MID_SKYCASTLE_SEASON_HOURS: $aÜbrige Saisonstunden: $a0
+MID_SKYCASTLE_SEASON_MINUTES: $aÜbrige Saisonminuten: $a0
+MID_SKYCASTLE_CLOSED: Kämpfe sind geschlossen.
+MID_SKYCASTLE_TUTORIAL: Das Tutorial beeinflusst dein Ätherniveau nicht.
+MID_SKYCASTLE_AGGREGATING: Ergebnis wird berechnet.
+MID_SKYCASTLE_ENERGY: Äther
+MID_SKYCASTLE_BONUS_HEADLINE: Boni dieser Saison
+MID_SKYCASTLE_BONUS_NEXTSEASON: Boni der nächsten Saison
+MID_SKYCASTLE_BONUSCHRS_CAPTION: Ang./Ver.-Bonus! Angriff: Mehr Niveauerhöhung
+MID_SKYCASTLE_BONUSFCLS_CAPTION: Festung (A) +1 Lv.!
+MID_SKYCASTLE_BONUSFCLS_CAPTION_2: Festung (V) +1 Lv.!
+MID_SKYCASTLE_DAILYBONUS_CAPTION: Spiele einmal täglich für eine Prämie!
+MID_SKYCASTLE_BTN_EDIT: Ätherschloss
+MID_SKYCASTLE_BTN_ATTACK: Kampf
+MID_SKYCASTLE_BTN_REWARD: Prämien ansehen
+MID_SKYCASTLE_BTN_HISTORY: Defensivbilanz
+MID_SKYCASTLE_BTN_RANKING: Aktueller Stand
+MID_SKYCASTLE_DIALOG_NEW_STOCK: Neu!
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION01: Objekte
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION02: Gebiet
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE: Prämienrang für Ätherraubzüge
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK: $aÄtherraubzüge:\nPlatzierungsprämie $a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK_HIGHER: Ätherraubzüge:\nPlatzierungsprämie
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE_OVER_20: $a$a0!
+MID_SKYCASTLE_GAINED_REWARDTYPE_PREFIX_FOR_UNDER_20: $aÄR-Rang $a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_TUTORIAL: Tutorial-Abschlussprämie
+MID_SKYCASTLE_REWARDS_GAINED_DIALOG: Betritt den Ätherraubzüge-Modus\nnach Berechnung der Ergebnisse\nder abgelaufenen Saison, jedoch\nvor Ende der aktuellen Saison, um\ndeine verdienten Prämien für die\nabgelaufene Saison zu erhalten.
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_TEXT: Die Saison endet bald.
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_WARNING: Sollte der Kampf bis nach dem Ende\nder aktuellen Saison andauern, wird\ndas Ergebnis nicht gewertet.
+MID_SKYCASTLE_DIALOG_SEASON_END_TEXT: Da der Kampf über das Ende der\nSaison hinausging, wurden die\nErgebnisse nicht gezählt.
+MID_SKYCASTLE_ROOT_SEASONEND_TEXT: Die Saison ist beendet. Du kannst\nmomentan nicht kämpfen.
+MID_SKYCASTLE_ROOT_SEASONEND_WARNING: Du kannst nächste Saison wieder beitreten!
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT: Der vorherige Kampf wurde\nnicht ordnungsgemäß beendet.
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT_WARNING: Der Angriff wird als Niederlage gewertet.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_TEXT: Du brauchst mehr Äther zum Kämpfen.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_WARNING: $a$a0 Äther benötigt.
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END: Eine neue Saison hat begonnen.
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END_WARNING: Zurück zum Ätherraubzüge-Menü.
+MID_SKYCASTLE_CLASS_0: Tropos
+MID_SKYCASTLE_CLASS_1: Stratos
+MID_SKYCASTLE_CLASS_2: Mesos
+MID_SKYCASTLE_CLASS_3: Thermos
+MID_SKYCASTLE_CLASS_4: Exos
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT: $a$a0 Äther verwenden\nund fortfahren?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT_DAILYBONUS: Fortfahren?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING: Nachdem du deine potenziellen\nGegner gesehen hast, kannst du\nnicht mehr abbrechen.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_DAILYBONUS: Das erste Spiel eines Tages kostet\nkeinen Äther.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_TUTORIAL: Für den Tutorial-Kampf wird kein\nÄther verbraucht. Deine Erf., dein\nÄtherniveau usw. werden ebenso\nnicht beeinflusst. Festung (A) und\nFestung (V) sind für diesen Kampf\nauf dem gleichen Level.
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_UNITEDIT: Raubgruppe bilden
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_YES: Fortfahren
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_NO: Verlassen
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_TEXT: Keine Gegner gefunden.
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_WARNING: Bitte versuche es später erneut.
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE: Gegner
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE2: Kampfdetails
+MID_SKYCASTLE_DIALOG_BATTLE_RANK: $aÄR-Rang $a0
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_CONFIRM_MAP: Karte ansehen
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_BATTLE: Kämpfen!
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_GIVEUP: Aufgeben
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_START: Kampf beginnen?
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_START: Kämpfen!
+MID_SKYCASTLE_DIALOG_GIVEUP_TEXT: Aufgeben?
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING: Wenn du jetzt aufgibst, wird das\nals Niederlage gewertet.
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING_DAILY: Da der Angriff als Niederlage\ngewertet wird, kannst du die\ntägliche Prämie nicht erhalten.
+MID_SKYCASTLE_DIALOG_GIVEUP_YES: Aufgeben
+MID_SKYCASTLE_DIALOG_GIVEUP_NO: Kämpfen
+MID_SKYCASTLE_RESULT_HEADLINE: Ergebnis (aktueller Kampf)
+MID_SKYCASTLE_TOTAL_RATE_CURRENT: Niveauerhöhung
+MID_SKYCASTLE_TOTAL_RATE: Niveau
+MID_SKYCASTLE_BATTLE_RATE: Kampfergebnis
+MID_SKYCASTLE_BONUSCHR_RATE: Bonusheld
+MID_SKYCASTLE_RESULT_RANK: Rang
+MID_SKYCASTLE_BTN_RESULT_CONFIRM: O.K.
+MID_SKYCASTLE_DIALOG_RESULT_RECOVER: $aGegnerischen Speicher zerstört!\n$a0 Äther erhalten.
+MID_SKYCASTLE_DIALOG_RESULT_WARNING_01: Niveau fällt nicht unter Minimum.
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE: Nächster ÄR-Rang:
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE_BEYOND: $aÄR-Rang ist jetzt $a0!
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_EDIT: Mehr
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_FLOOR: Gebiet
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_AUTO: Autom.\nerstellen
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ADDFACILITY: Bauen/\nVerbessern
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SELECTFACILITY: Platzieren/\nEntfernen
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ORGANIZE: Defensiv-\nteam
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SYSTEMMENU: Hilfe &\nExtras
+MID_SKYCASTLE_EDIT_GRID_DEFENSE: Verteidigungskarte
+MID_SKYCASTLE_EDIT_GRID_OFFENSE: Angriffskarte
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_0: Objekt zum Entfernen hierher ziehen.
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_1: Dieses Objekt kann nicht entfernt werden.
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_TESTPLAY: Verteidigung testen
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_HELP: Hilfe
+MID_SKYCASTLE_EDIT_ADDFACILITY_TITLE: Bauen/Verbessern
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP: Wähle ein Objekt zum Bauen/Verbessern.
+MID_SKYCASTLE_EDIT_ADDFACILITY_NO_TARGET: Es gibt kein Objekt zum\nBauen oder Verbessern.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_CONFIRM: Objekt bauen?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_GENERATION_DECIDE: Bauen
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_COMPLETE_CONFIRM: Objekt wurde gebaut.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR: Objekt konnte nicht\ngebaut werden.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR_WARNING: Objekt kann nicht mehr\ngebaut werden.
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_CONFIRM: Objekt verbessern?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_PROMOTION_DECIDE: Verbessern
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_COMPLETE_CONFIRM: Objekt wurde verbessert.
+MID_SKYCASTLE_EDIT_DIALOG_ADDFACILITY_ERROR: Objekt nicht platzierbar.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_01: Kein Platz für dieses Objekt.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_02: Du kannst immer nur eine\nSchule platzieren.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_TITLE: Platzieren/Entfernen
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP: Ändere die Platzierung deiner Objekte.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_NO_TARGET: Keine Objekte verfügbar.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_CONFIRM: Abbrechen, ohne Änderungen\nbei Objekten zu speichern?
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_WARNING: Die Änderungen gehen verloren.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_DECIDE: Änderungen verwerfen
+MID_SKYCASTLE_EDIT_SELECTFACILITY_WARNING_GROUP: Du kannst immer nur eine Schule platzieren.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_BULIDED: Aktiv
+MID_SKYCASTLE_EDIT_FACILITY_BTN_UNREMOVABLE: Entf. unmöglich
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_1: $aLv. $a0
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_2: →
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_OFF: Hilfetexte aus
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_ON: Hilfetexte an
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CONFIRM: Wähle einen Filter.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_FILTER_TITLE: Filter:  
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION: $aBenötigt: $a0
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION_LV: $a Lv. $a0
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK: $aDu musst mindestens ÄR-Rang $a0 haben.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK_THRONE: $aWird auf Rang $a0 bis $a1 freigeschaltet.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_UNREMOVABLE: Dieses Objekt kann nicht entfernt werden.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_TUTORIAL: Im Tutorial nicht verfügbar.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_DAYS: $aNoch $a0 Tag(e).
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HOURS: $aNoch $a0 Std.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_MINUTES: $aNoch $a0 Min.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_NO_LEVEL: Kein Lv.
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE: Max. Niveau
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE_HELP: ・ Dies ist die maximale Niveauerhöhung durch\neinen erfolgreichen Angriff.\n・ Ein erfolgreicher Angriff erhöht das Niveau\num 80, ein Bonusheld in deiner Raubgruppe\nerhöht es um weitere 20. (Keine weitere\nErhöhung durch weitere Bonushelden.)
+MID_SKYCASTLE_EDIT_AUTO_TEXT: Objekte und Verbündete werden\nautomatisch platziert.
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD: Autom. bauen/verbessern
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD_EX: Objekte werden automatisch gebaut/verbessert.
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD: Nur Platzierung
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD_EX: Bestehende Objekte werden autom. platziert.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_HEADLINE: Automatische Platzierung
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_BTN_DECIDE: Platzieren
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_COMPLETE: Platzierung abgeschlossen.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_0: Vorhut
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_1: Nachhut
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_2: Rechte Seite
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_3: Linke Seite
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_4: Infanterie-Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_5: Gepanzertes Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_6: Kavallerie-Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_7: Fliegendes Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT: $aThema: $a0
+MID_SKYCASTLE_EDIT_FLOOREDIT_TITLE: Gebiet
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP: Wähle das Kampfgebiet.
+MID_SKYCASTLE_EDIT_FLOOREDIT_CHANGE_CONFIRM: Zu diesem Gebiet ändern?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_CONFIRM: $aFür $a0 Äthersteine zu diesem\nGebiet ändern?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BTN_DECIDE: Ändern
+MID_SKYCASTLE_EDIT_FLOOREDIT_COMPLETE_CONFIRM: Gebiet wurde geändert.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR: Gebiet nicht änderbar.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR_WARNING: Gebiet nicht mehr verfügbar.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION: Teste deine Verteidigung auf\ndeiner bearbeiteten Karte.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION_WARNING: ・ Es wird kein Äther verbraucht.\n・ Dein Ätherniveau wird nicht\nerhöht oder gesenkt.\n・ Festung (A) und Festung (V)\nsind auf dem gleichen Level.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_BTN_START: Kämpfen!
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_DEFENSE: Verteidigungsobjekte
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_DEFENSE: Für die Verteidigung eingesetzte Objekte.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_TRAP: Fallen
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_TRAP: Fallen werden ausgelöst, wenn Gegner darauf stehenbleiben.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_RESOURCE: Speicher
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_RESOURCE: Objekte, die Äther speichern und wiederherstellen.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_MISC: Dekorationen
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_MISC: Dekorative Objekte ohne Nutzen im Kampf.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_OFFENSE: Angriffsobjekte
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_OFFENSE: Für den Angriff eingesetzte Objekte.
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_ALL: Alle
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_DEFENSE: Objekte (V)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_TRAP: Fallen
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_RESOURCE: Speicher
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_MISC: Dekorationen
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_OFFENSE: Objekte (A)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_DEFENSE_BUILDED: Platziert (V)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_OFFENSE_BUILDED: Platziert (A)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_AVAILABLE: Bauen
+MID_SKYCASTLE_REWARD_TITLE: Prämien ansehen
+MID_SKYCASTLE_REWARD_RANK: Rang
+MID_SKYCASTLE_REWARD_TIER: ÄR-Rang
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_TIER: Bewertung: ÄR-Rang
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_RANK: Bewertung: Rang
+MID_SKYCASTLE_REWARD_DIALOG_SELECT_FILTER: Wähle einen Filter.
+MID_SKYCASTLE_REWARD_RANK_OUT_OF_RANGE: unplatziert
+MID_SKYCASTLE_REWARD_RANK_CALCULATING: Berechnung...
+MID_SKYCASTLE_HISTORY_TITLE: Defensivbilanz
+MID_SKYCASTLE_HISTORY_DEF_WIN: Geschafft!
+MID_SKYCASTLE_HISTORY_DEF_LOSE: Gescheitert.
+MID_SKYCASTLE_HISTORY_NUM_DEFEAT: $a$a0 Gegner besiegt!
+MID_SKYCASTLE_HISTORY_BTN_REVENGE: Revanche
+MID_SKYCASTLE_HISTORY_BTN_REVENGE_FINISHED: Revanche vorbei
+MID_SKYCASTLE_HISTORY_BTN_REPLAY: Wiederholung
+MID_SKYCASTLE_HISTORY_REVENGED: Revanche verloren
+MID_SKYCASTLE_HISTORY_NO_HISTORY: Keine Aufzeichnungen.
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_CONFIRM: Wiederholung ansehen?
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_BTN_YES: Wiederh. abspielen
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_ERROR: Kein Zugriff auf Wiederh.-Daten.
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_PLAY: Abspielen
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_STOP: Pause
+MID_SKYCASTLE_HISTORY_SELECT_FILTER: Wähle einen Filter.
+MID_SKYCASTLE_HISTORY_FILTER_DEF_WIN: Filter: Siege
+MID_SKYCASTLE_HISTORY_FILTER_DEF_LOSE: Filter: Niederlagen
+MID_SKYCASTLE_HISTORY_FILTER_REVENGE: Filter: Revanche mögl.
+MID_SKYCASTLE_HISTORY_FILTER_ALL: Filter: Alle
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_WIN: Siege
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_LOSE: Niederlagen
+MID_SKYCASTLE_HISTORY_BTN_FILTER_REVENGE: Revanche mögl.
+MID_SKYCASTLE_HISTORY_BTN_FILTER_ALL: Alle
+MID_SKYCASTLE_RANKING_TITLE: Aktueller Stand
+MID_SKYCASTLE_RANKING_RANK_PLAYER: Eigener Rang
+MID_SKYCASTLE_RANKING_RANK_TOP: Beste Spieler
+MID_SKYCASTLE_RANKING_RANK_FRIEND: Freunde
+MID_SKYCASTLE_RANKING_RANK_RANGE: Filter wählen
+MID_SKYCASTLE_RANKING_UNCALCULATED_TOP: Platzierungen werden berechnet.
+MID_SKYCASTLE_RANKING_UNCALCULATED_PLAYER: Du bist nicht platziert.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_00: Die Angriffskarte ist für Angriffe\nauf gegnerische Ätherschlösser.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_01: Die Verteidigungskarte ist für die\nVerteidigung des Ätherschlosses.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_02: Ätherschloss verstärken:\nPlatziere Objekte und Verbündete,\num deine Angr.- und Ver.-Karten\nzu verstärken.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_03: Verteidigungskarte:\nPlatziere Verteidigungsobjekte,\nFallen, Speicher, Dekorationen\nund Verbündete.\n\nDefensivteam:\nPlatziere dein Defensivteam\nin den zwei obersten Reihen\nder Verteidigungskarte.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_04: Angriffskarte:\nPlatziere Angriffsobjekte.\n\nRaubgruppe:\nDie Raubgruppe wird eine Reihe\nüber der Angriffskarte platziert.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_05: Verteidigungsobjekte platzieren:\nVerteidigungsobjekte, Speicher,\nFallen und Dekorationen können\nauf einem beliebigen leeren Feld\nplatziert werden (mit Ausnahme\nvon speziellen Gebieten wie\nWäldern, Gräben usw.).
+MID_SKYCASTLE_EDIT_HELP_DIALOG_06: Permanente Objekte:\nFestungen und Speicher können\nnicht entfernt werden.\n\nObjekte zerstören:\nFestungen können nicht zerstört\nwerden. Andere Bauten können\nmit einem einzigen Angriff\nzerstört werden.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_07: Automatisch einrichten:\nHiermit kannst du Objekte nach\nBelieben erstellen, platzieren und\nverbessern sowie Defensivteams\nerstellen und platzieren. Hinweis:\nZum Bauen bzw. Verbessern von\nObjekten werden je nach Bedarf\nÄthersteine und Tau des Himmels\nverbraucht.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_08: Verteidigung testen:\nTeste die Verteidigungsstärke\ndeiner Verteidigungskarten und\ndas Geschick deines Defensiv-\nteams, ohne Äther einzusetzen.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_09: Tests außerhalb der Saison:\nZwischen zwei Saisons gelten\nVerteidigungstests als Teil der\nnächsten Saison.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_00: Objekte platzieren/entfernen:\nPlatziere oder entferne die\nObjekte, die du gebaut hast.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_01: Objektgrenze:\nPro Objektart lässt sich nur eine\nbestimmte Anzahl platzieren.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_00: Objekte bauen:\nBaue mithilfe von Äthersteinen\nund Tau des Himmels neue\nObjekte.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_01: Objekte verbessern:\nVerbessere Objekte mithilfe von\nÄthersteinen und Tau des\nHimmels um einen Level.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_02: Befristete Objekte:\nManche Objekte können nur für\nbegrenzte Zeit gebaut werden.\nDazu benötigst du Items, die nur\nzu bestimmten Zeiten erhältlich\nsind. Sobald du sie gebaut hast,\nbleiben dir die Objekte erhalten.
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_00: Verändere das Gebiet!
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: Gebiet:\nÄndere das Gebiet deines\nÄtherschlosses.\n\nManche Gebiete musst du erst mit\nÄthersteinen freischalten.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: Greife an und verteidige!
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: Ätherraubzüge:\nPlatziere Objekte, ein Defensiv-\nteam und mehr auf deinen Karten.\nGreife dann an oder verteidige,\num dein Ätherniveau zu erhöhen.\n\nWird der Verteidiger innerhalb von\nsieben Zügen besiegt, gewinnt der\nAngreifer.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: Äther:\nWird zur Teilnahme an Äther-\nraubzügen verwendet. Jeden Tag\nwird eine bestimmte Menge Äther\nwiederhergestellt. Zu Beginn einer\nneuen Saison wird Äther komplett\nwiederhergestellt. Kann nicht über\nden maximalen Wert hinaus\nwiederhergestellt werden. Je\nhöher dein Niveau, desto mehr\nÄther brauchst du zum Kämpfen.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: Niveau und Rang:\nDein Niveau ändert sich je nach\ndeinen Angriffs- u. Verteidigungs-\nergebnissen. Dein Rang richtet\nsich nach deinem Niveau. Wenn\neine neue Saison beginnt, startest\ndu sie je nach Rang auf einem\nbestimmten Niveau.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: Niveau erhöhen:\n・ Ein Bonusheld in deiner Raub-\ngruppe erhöht dein Niveau um 20.\n・ Das maximale Niveau des\nVerteidigers wird nicht gesenkt.\n・ Bei mehreren Bonushelden gilt\nnur der höchste Bonuswert.\n・ Wird deine Raubgruppe besiegt,\nist deine Niveauerhöhung geringer.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: Sonderbedingungen:\nBeträgt dein Niveau 4000 oder\nweniger, wird dein Gesamtniveau\ndurch einen gescheiterten\nAngriffs- oder Verteidigungs-\nversuch nicht verringert.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: Weitere Informationen:\nWenn ein Kampf nicht ordnungs-\ngemäß endet, bleibt für Angreifer\nund Verteidiger das Gesamtniveau\nunverändert.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_07: Werteerhöhung für Bonushelden:\nBonushelden, die in Ätherraub-\nzügen eingesetzt werden, erhalten\nKP +10 u. Angr./Ges./Ver./Res. +4.\nErf. und FP, die sie verdienen,\nwerden verdoppelt.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_08: Bonusobjekte:\nPlatziere Bonusobjekte in deinem\nÄtherschloss, um die Festung (A)\noder Festung (V) um einen Level\nzu verbessern.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_09: Festung (V) und Rang:\nWirst du im Rang herabgestuft,\nsinkt auch der Level deiner\nFestung (V).
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_00: Prämien ansehen:\nDu kannst dir die für die Saison\nerhältlichen Prämien ansehen.
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_01: Prämien erhalten:\nBetritt den Ätherraubzüge-Modus\nnach Berechnung der Ergebnisse\nder abgelaufenen Saison, jedoch\nvor Ende der aktuellen Saison, um\ndeine verdienten Prämien für die\nabgelaufene Saison zu erhalten.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_00: Defensivbilanz:\nHier siehst du die Verteidigungs-\nergebnisse in Ätherraubzügen.\nEs wird deine Niveauerhöhung pro\nSieg und Niederlage sowie die\nAnzahl deiner besiegten Gegner\nangezeigt.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_01: Wiederholung:\nHier kannst du dir deine zuletzt\ngeführten Verteidigungskämpfe\nnoch einmal ansehen.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_02: Revanche:\nDu kannst einen Gegner, der deine\nVerteidigung bezwungen hat,\neinmal angreifen. Hierfür wird\nÄther verbraucht. Erscheint der-\nselbe Gegner mehrmals auf deiner\nListe, kannst du ihn nur einmal zu\neiner Revanche herausfordern.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_03: Grenze für Niveausenkung:\nWirst du einmal angegriffen, wird\ndein Niveau in den nächsten\n20 Stunden nicht gesenkt, auch\nwenn deine Verteidigung scheitert.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_00: Rang:\nDies ist dein derzeitiger Rang.\nEs kann unter Umständen einige\nZeit dauern, bis die aktuellsten\nPlatzierungen angezeigt werden.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_01: Dein Rang und Beste Spieler:\nDiese Optionen zeigen die Spieler-\nplatzierungen für die aktuelle\nSaison.\n\nFreunde:\nDiese Option zeigt Platzierungen\ndeiner Freunde für die aktuelle\nSaison sowie für vergangene\nSaisons.
+MID_SKYCASTLE_TUTORIAL_DIALOG_01: Wähle "Ätherschloss" und bereite\ndich auf den Kampf vor.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03: Die Angriffskarte wird verwendet,\nwenn du das gegnerische Schloss\nangreifst.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03_2: Die Verteidigungskarte wird\nverwendet, wenn du gegnerische\nAngriffe abwehrst.
+MID_SKYCASTLE_TUTORIAL_DIALOG_04: Baue zuerst Angriffsobjekte\nauf der Angriffskarte.
+MID_SKYCASTLE_TUTORIAL_DIALOG_15: $aDu kannst Äthersteine und Tau\ndes Himmels einsetzen, um\nObjekte zu bauen und verbessern. Baue\nals Erstes folgendes Objekt:\n$a0.
+MID_SKYCASTLE_TUTORIAL_DIALOG_05: $aBaue das Objekt\n"$a0".
+MID_SKYCASTLE_TUTORIAL_DIALOG_06: Ein Angriffsobjekt wurde gebaut.
+MID_SKYCASTLE_TUTORIAL_DIALOG_06_WARNING: Bereits gebaute Objekte können\nüber das Menü "Platzieren/Entf."\nplatziert bzw. entfernt werden.
+MID_SKYCASTLE_TUTORIAL_DIALOG_07: Objekte können ebenso wie\nVerbündete verschoben werden.
+MID_SKYCASTLE_TUTORIAL_DIALOG_08: Bewege ein Angriffsobjekt\nauf eine neue Position.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09: Die Platzierung wurde geändert.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09_WARNING: Objekte auf der Verteidigungs-\nkarte kannst du ebenso bewegen.
+MID_SKYCASTLE_TUTORIAL_DIALOG_12: Greife mit deiner Angriffskarte\ndas gegnerische Ätherschloss an.
+MID_SKYCASTLE_TUTORIAL_DIALOG_10: Verstärke dein Ätherschloss und\nerringe den Sieg, um deinen\nÄR-Rang zu erhöhen und Prämien\nzu verdienen, mit denen du dein\nSchloss weiter ausbauen kannst!
+MID_SKYCASTLE_TUTORIAL_DIALOG_13: "Autom. einrichten" bearbeitet\ndein Schloss für dich. Wähle\n"Mehr" > "Autom. einrichten".
+MID_SKYCASTLE_TUTORIAL_DIALOG_16: Verwende den linken und rechten\nPfeil, um das Platzierungsthema\nzu ändern.
+MID_SKYCASTLE_TUTORIAL_DIALOG_17: Kann im Tutorial nicht entfernt\nwerden.
+MID_SKYCASTLE_TUTORIAL_DUMMY_TROOP: Fremde Wächter
+MID_SKYCASTLE_TUTORIAL_BATTLE_02_DIALOG_00: Viele Objekte sind zerstörbar!\nZerstöre Speicher für mehr Äther.
+MID_SKYCASTLE_TUTORIAL_BATTLE_01_DIALOG_00: Tippe gegnerische Objekte an,\num ihre Effekte zu sehen.
+MID_SCF_ギュミル泉: Ätherbrunnen
+MID_SCF_ギュミル泉_HELP: $aErneuert täglich $a0 Äther für das Äther-\nschloss. Wenn er bei einem Angriff zerstört\nwird, erneuert er im Falle eines Sieges der\nRaubgruppe deren Äther. Kann nicht entfernt\nwerden.
+MID_SCF_ギュミル水瓶: Ätheramphoren
+MID_SCF_ギュミル水瓶_HELP: $aLagern bis zu $a0 Äther. Wenn sie bei\neinem Angriff zerstört werden, erneuern sie\nim Falle eines Sieges der Raubgruppe deren\nÄther. Kann nicht entfernt werden.
+MID_SCF_防砦: Festung (V)
+MID_SCF_防砦_HELP: Ist der Level dieses Objekts höher als der Level\nder gegnerischen Festung (A), erhalten alle\nVerbündeten Angr./Ges./Ver./Res. +X.\n(X = Leveldifferenz × 4). Kann nicht entfernt\noder zerstört werden.
+MID_SCF_防雷: Blitzturm (V)
+MID_SCF_防雷_HELP: $aGegner innerhalb von 7 Reihen und 3 Spalten\num dieses Objekt erleiden zu Beginn des\n3. Zuges $a0 Schaden.
+MID_SCF_防軍師: Taktikraum (V)
+MID_SCF_防軍師_HELP: $aGegner innerhalb von 7 Reihen und 3 Spalten\num dieses Objekt, die Bogen, Dolch, Magie\noder Stab verwenden und deren KP zu Beginn\ndes Zuges ≤ $a0 sind, können sich bis nach\nihren nächsten Aktionen nur 1 Feld bewegen.
+MID_SCF_防回復: Heilungsturm (V)
+MID_SCF_防回復_HELP: $aVerbündete innerhalb von 5 Reihen und\n5 Spalten um dieses Objekt erhalten\nzu Beginn des Zuges $a0 KP zurück.
+MID_SCF_防対歩行: Infanterieschule (V)
+MID_SCF_防対歩行_HELP: $aGegnerische Infanterieeinheiten innerhalb von\n3 Spalten um das Objekt erleiden zu Beginn\ndes Zuges Angr./Ges./Ver./Res. -$a0 bis\nnach ihren nächsten Aktionen. Es kann immer\nnur eine Schule platziert werden.
+MID_SCF_防対重装: Panzerschule (V)
+MID_SCF_防対重装_HELP: $aGepanzerte Gegner innerhalb von 3 Spalten\num das Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann immer nur eine\nSchule platziert werden.
+MID_SCF_防対騎馬: Kavallerieschule (V)
+MID_SCF_防対騎馬_HELP: $aBerittene Gegner innerhalb von 3 Spalten\num das Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann immer nur eine\nSchule platziert werden.
+MID_SCF_防対飛行: Fliegerschule (V)
+MID_SCF_防対飛行_HELP: $aGegnerische Flugeinheiten innerhalb von\n3 Spalten um das Objekt erleiden zu Beginn\ndes Zuges Angr./Ges./Ver./Res. -$a0 bis\nnach ihren nächsten Aktionen. Es kann immer\nnur eine Schule platziert werden.
+MID_SCF_防恐慌: Panikanwesen (V)
+MID_SCF_防恐慌_HELP: $aDie Boni von Gegnern innerhalb von 7 Reihen\nund 3 Spalten um dieses Objekt, deren KP zu\nBeginn des Zuges ≤ $a0 sind, werden bis\nnach ihren nächsten Aktionen ins Gegenteil\numgewandelt.
+MID_SCF_防投石: Katapult (V)
+MID_SCF_防投石_HELP: Zerstört zu Beginn des Zuges Angriffsobjekte\ninnerhalb derselben Spalte wie dieses Objekt\nmit demselben Level oder darunter.\nFestung (A) kann nicht zerstört werden.
+MID_SCF_攻砦: Festung (A)
+MID_SCF_攻砦_HELP: Ist der Level dieses Objekts höher als der Level\nder gegnerischen Festung (V), erhalten alle\nVerbündeten Angr./Ges./Ver./Res. +X.\n(X = Leveldifferenz × 4). Kann nicht entfernt\noder zerstört werden.
+MID_SCF_攻雷: Blitzturm (A)
+MID_SCF_攻雷_HELP: $aGegner innerhalb von 3 Reihen und\n3 Spalten um das Objekt erleiden zu\nBeginn des 3. Zuges $a0 Schaden.
+MID_SCF_攻軍師: Taktikraum (A)
+MID_SCF_攻軍師_HELP: $aGegner innerhalb derselben Spalte wie dieses\nObjekt, die Bogen, Dolch, Magie oder Stab\nverwenden und deren KP zu Beginn des Zuges\n≤ $a0 sind, können sich bis nach ihren\nnächsten Aktionen nur 1 Feld bewegen.
+MID_SCF_攻回復: Heilungsturm (A)
+MID_SCF_攻回復_HELP: $aVerbündete innerhalb von 5 Reihen und\n3 Spalten um dieses Objekt erhalten\nzu Beginn des Zuges $a0 KP zurück.
+MID_SCF_攻対歩行: Infanterieschule (A)
+MID_SCF_攻対歩行_HELP: $aInfanteriegegner innerhalb von 3 Spalten um\ndieses Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann stets nur eine\nSchule platziert werden.
+MID_SCF_攻対重装: Panzerschule (A)
+MID_SCF_攻対重装_HELP: $aGepanzerte Gegner innerhalb von 3 Spalten um\ndieses Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann stets nur eine\nSchule platziert werden.
+MID_SCF_攻対騎馬: Kavallerieschule (A)
+MID_SCF_攻対騎馬_HELP: $aBerittene Gegner innerhalb von 3 Spalten um\ndieses Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann immer nur eine\nSchule platziert werden.
+MID_SCF_攻対飛行: Fliegerschule (A)
+MID_SCF_攻対飛行_HELP: $aGegnerische Flugeinheiten innerhalb von\n3 Spalten um dieses Objekt erleiden zu Beginn\ndes Zuges Angr./Ges./Ver./Res. -$a0 bis\nnach ihren nächsten Aktionen. Es kann stets\nnur eine Schule platziert werden.
+MID_SCF_攻恐慌: Panikanwesen (A)
+MID_SCF_攻恐慌_HELP: $aDie Boni von Gegnern innerhalb von 3 Spalten\num dieses Objekt, deren KP zu Beginn des\nZuges ≤ $a0 sind, werden bis nach ihren\nnächsten Aktionen ins Gegenteil umgewandelt.
+MID_SCF_攻投石: Katapult (A)
+MID_SCF_攻投石_HELP: Zerstört zu Beginn des Zuges Verteidigungs-\nobjekte innerhalb derselben Spalte wie dieses\nObjekt mit demselben Level oder darunter.\nFestung (V), Fallen, Speicher und Dekorationen\nkönnen nicht zerstört werden.
+MID_SCF_落雷の罠A: Blitzfalle
+MID_SCF_落雷の罠A_BATTLE: Falle
+MID_SCF_落雷の罠A_HELP: $aBeendet ein Gegner seinen Zug auf dem Feld\nmit diesem Objekt, erleiden Ziel und Einheiten\ninnerhalb von 3 Feldern $a0 Schaden.\n(Neutralisiert Angriff oder Beistehfähigkeiten\ndes Gegners.)
+MID_SCF_落雷の罠A_BATTLEHELP: Eine Art Falle...
+MID_SCF_重圧の罠A: Schwere Falle
+MID_SCF_重圧の罠A_BATTLE: Falle
+MID_SCF_重圧の罠A_HELP: $aBeendet ein Gegner seinen Zug auf dem Feld\nmit diesem Objekt, können sich Ziel und Gegner\ninnerhalb von 2 Feldern, deren KP ≤ $a0\nsind, nur ein Feld bewegen. (Neutralisiert\nAngriff oder Beistehfähigkeiten des Gegners.)
+MID_SCF_重圧の罠A_BATTLEHELP: Eine Art Falle...
+MID_SCF_落雷の罠ダミー: Blitzattrappe
+MID_SCF_落雷の罠ダミー_BATTLE: Falle
+MID_SCF_落雷の罠ダミー_HELP: Sieht aus wie eine Blitzfalle,\nist aber nur eine Attrappe.
+MID_SCF_落雷の罠ダミー_BATTLEHELP: Eine Art Falle...
+MID_SCF_重圧の罠ダミー: Schwere Attrappe
+MID_SCF_重圧の罠ダミー_BATTLE: Falle
+MID_SCF_重圧の罠ダミー_HELP: Sieht aus wie eine schwere Falle,\nist aber nur eine Attrappe.
+MID_SCF_重圧の罠ダミー_BATTLEHELP: Eine Art Falle...
+MID_SCF_金の玉座: Goldthron
+MID_SCF_金の玉座_HELP: $aEin Thron für jene, die einen Rang von\n$a0 bis $a1 im Modus "Ätherraubzüge"\nerreicht haben. Wird dieses Kunststück mehr\nals einmal vollbracht, wird die entsprechende\nAnzahl darauf verewigt.
+MID_SCF_銀の玉座: Silberthron
+MID_SCF_銀の玉座_HELP: $aEin Thron für jene, die einen Rang von\n$a0 bis $a1 im Modus "Ätherraubzüge"\nerreicht haben. Wird dieses Kunststück mehr\nals einmal vollbracht, wird die entsprechende\nAnzahl darauf verewigt.
+MID_SCF_銅の玉座: Bronzethron
+MID_SCF_銅の玉座_HELP: $aEin Thron für jene, die einen Rang von\n$a0 bis $a1 im Modus "Ätherraubzüge"\nerreicht haben. Wird dieses Kunststück mehr\nals einmal vollbracht, wird die entsprechende\nAnzahl darauf verewigt.
+MID_SCF_その他1: Feh-Statue
+MID_SCF_その他1_HELP: Ein Kunstobjekt, das unter direkter Aufsicht\ndes Modells gefertigt wurde. (Event-Item)
+MID_SCF_その他2: Blumenbeet
+MID_SCF_その他2_HELP: Eine Zusammenstellung bunter Blumen.\n(Event-Item)
+MID_SCF_その他3: Straßenlaterne
+MID_SCF_その他3_HELP: Eine elegante, klassische Laterne. (Event-Item)
+MID_SCF_K0001: Quellwasser
+MID_SCF_K0001_Ex: Merkmal: Teiche
+MID_SCF_K0002: Winterlich
+MID_SCF_K0002_Ex: Merkmal: Wälder
+MID_SCF_K0003: Baufälliges Schloss
+MID_SCF_K0003_Ex: Merkmal: Marode Wände
+MID_SCF_K0004: Schneegestöber
+MID_SCF_K0004_Ex: Merkmal: Verteidigungsgebiete und Gräben
+MID_SCF_K0005: Wüste
+MID_SCF_K0005_Ex: Merkmal: Berge
+MID_SCF_K0006: Frühlingsbrise
+MID_SCF_K0006_Ex: Merkmal: Wände
+MID_SCF_K0007: Blätterdach
+MID_SCF_K0007_Ex: Merkmal: Wälder und Gräben
+MID_SCF_K0008: Verlorenes Schloss
+MID_SCF_K0008_Ex: Merkmal: Verteidigungsgebiet und Wälder
+MID_SCF_K0009: Üppige Wiesen
+MID_SCF_K0009_Ex: Merkmal: Wälder
+MID_SCF_K0010: Lavafluss
+MID_SCF_K0010_Ex: Merkmal: Lava
+MID_ITEM_SKYCASTLE_201811: Ätherstein+
+MID_ITEM_HELP_SKYCASTLE_201811: Für den Bau von zeitlich begrenzten Objekten\nim Modus "Ätherraubzüge". Nach dem\njeweiligen Zeitraum gehen sie verloren.
+MID_STAGE_SKYCASTLE: Ätherraubzüge
+MID_STAGE_SKYCASTLE_TESTPLAY: Ätherraubzüge: Ver. testen
+MID_STAGE_SKYCASTLE_TUTORIAL: Ätherraubzüge: Tutorial
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_2: Legendäre Helden & Helden mit Segen.
+MID_STAGE_SELECT_SEQUENTIAL_MAP: Mehrere Karten
+MID_STAGE_SELECT_SEQUENTIAL_MAP_INFO: Ein Kampf nach dem anderen!
+MID_TAP_BATTLE_DATA_TITLE_0010: Weg der Verzweiflung
+MID_MUSIC_NAME_BGM_MAP_FE13_07: Pflicht (In Flammen)
+MID_MUSIC_NAME_BGM_MAP_FE08_01: Wahrheit, Zweifel und Hoffnung
+MID_MUSIC_NAME_BGM_MAP_FE13_11: Sturmwolken (In Flammen)
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE: Raubgruppen ändern
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_00: Raubgruppen ändern:\nBearbeite deine Raubgruppen\nfür Ätherraubzüge.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_01: Maximale Niveauerhöhung:\nDeine maximale Niveauerhöhung\nnach einem erfolgreichen Angriff\neiner Raubgruppe.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_02: Raubgruppe vergrößern:\nWenn du deinen ÄR-Rang\nerhöhst, kannst du eine 5. Einheit\nin deine Raubgruppe aufnehmen.\nZum Freischalten weiterer Plätze\nfür Einheiten werden Äthersteine\nbenötigt.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_03: Zusätzliche Plätze für Einheiten:\nDu musst mindestens Rang 11\nerreichen, um einen fünften\nVebündeten hinzuzufügen.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE: Defensivteam ändern
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP: Bearbeite dein Defensivteam.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_00: $aAb\nRang $a0
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_01: Verb.\nhinzuf.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_CONFIRM: $a$a0 Äthersteine verwenden,\num einen Helden hinzuzufügen?
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_WARNING: $aWenn du auf Rang $a0 oder\ndarunter zurückfällst, wird der\nzusätzliche Verb. nicht eingesetzt.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_DECIDE: Hinzufügen
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_COMPLETE: Verbündeter wurde hinzugefügt.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_FAILURE: Nicht genug Äthersteine.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE: Max. Senkung
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE_HELP: Die maximale Senkung deine Ätherniveaus\nmit deinem derzeitigen Defensivteam.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_0: Team sperren
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_1: Entsperren
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_0: Dieses Team sperren?\n\nLevel, Werte, Fähigkeiten, Heilige\nSiegel und Segen aller Team-\nmitglieder werden fixiert. Dies\nbetrifft nur Verteidigungskämpfe\nim Modus "Ätherraubzüge".
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_1: Dieses Team entsperren?\n\nDie Werte und Ausrüstung aller\nTeammitglieder werden auf den\naktuellen Stand gebracht.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_0: Sperren
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_1: Entsperren
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_CANCEL: Zurück
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_TEXT: Kein Defensivteam festgelegt.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_WARNING: Wenn für das Defensivteam keine\nEinheiten festgelegt wurden,\nübernehmen Alfonse, Sharena\nund Anna (jeweils mit Level 40)\ndie Verteidigung.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_00: Defensivteam ändern:\nBearbeite das Team, das Gegnern\nauf Verteidigungskarten gegen-\nübersteht.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_01: Defensivteam sperren:\nLevel, Werte, Fähigkeiten, Heilige\nSiegel und Segen aller Mitglieder\nwerden fixiert. Dies betrifft nur\nVerteidigungskämpfe im Modus\n"Ätherraubzüge". Wird die Sperre\naufgehoben, werden die Einheiten\nauf den aktuellen Stand gebracht.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_02: Defensivteam vergrößern:\nWenn du deinen ÄR-Rang erhöhst,\nkannst die dein Defensivteam\nvergrößern. Insgesamt kannst du\nbis zu sechs Plätze für Einheiten\nhaben. Zum Freischalten weiterer\nPlätze für Einheiten werden\nÄthersteine benötigt.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_03: Zusätzliche Plätze für Einheiten:\nDu musst mindestens Rang 11\nerreichen, um einen fünften\nVerbündeten hinzuzufügen. Für\neinen sechsten Platz benötigst du\nmindestens Rang 19. Sinkt dein\nRang darunter, kannst du die\nVerbündeten auf diesen Plätzen\nnicht mehr einsetzen. Erreichst du\nden benötigten Rang erneut, sind\nsie wieder einsetzbar.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_04: Ohne festgelegtes Defensivteam:\nWenn keine Einheiten für das\nDefensivteam festgelegt wurden,\nübernehmen Alfonse, Sharena\nund Anna (jeweils mit Level 40)\ndie Verteidigung.
+MID_UNIT_EDIT_HOLY_GRAIL: Heldenkelche benutzen
+MID_UNIT_EDIT_HOLY_GRAIL_HELP1: Wähle einen Helden zum Beschwören.
+MID_UNIT_EDIT_HOLY_GRAIL_REMAIN_COUNT: Übrige Beschw.:
+MID_UNIT_EDIT_HOLY_GRAIL_CONFIRM: Mit Heldenkelchen beschwören?
+MID_UNIT_EDIT_HOLY_GRAIL_DECIDE: Beschwören
+MID_UNIT_EDIT_HOLY_GRAIL_WARNING: Du hast nicht genug Heldenkelche.
+MID_UNIT_EDIT_UNIT_FULL_INFOR: Du hast die maximale Anzahl\nan Verbündeten erreicht.
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_RECENT: Zuletzt
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_ORDER: Hinzugef.
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_00: Rufe Helden mit Heldenkelchen!
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_01: Heldenkelche:\nMithilfe von Heldenkelchen\nkannst du bestimmte Helden\ndeinen Unterküften hinzufügen!\nHeldenkelche kannst du unter\nanderem in Ätherraubzügen\nverdienen.
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_02: Weitere Informationen:\nDu kannst denselben Helden bis\nzu 20-mal mit Heldenkelchen\nbeschwören.\n\nFür jede Beschwörung eines\nbestimmten Helden benötigst\ndu mehr Heldenkelche.
+MID_RELAY_HELP_DIALOG_06_02: Weitere Regeln der\nStaffelverteidigung:\n・ Es erscheinen gegnerische\nVerstärkungseinheiten.
+MID_UNIT_EDIT_SPECIAL_TROOP: Spezialteams ändern
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01_02: Ersatzteams können nur beim\nSpielen von Modi mit Kämpfen\nauf mehreren Karten erstellt\noder bearbeitet werden.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_DIALOG: Art des Teams wählen
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_PREFIX: Team:  
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NORMAL: Hauptteams
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_RESERVE: Ersatzteams
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_OCCUPATION: Brigaden
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_SKYCASTLE_OFFENSE: Raubgruppen
+MID_UNIT_EDIT_HOLY_GRAIL_FIRST_TIME_REWARD_TITLE: Bonus für ersten Besuch: Heldenkelche

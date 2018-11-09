@@ -1,0 +1,38 @@
+[Heroes Archive] (SYLVIA)
+
+
+Heroes Message Name: Message
+
+
+MID_SYLVIA_HOME1: J'avais espéré rencontrer des gens\nintéressants, mais ces héros sont\nbeaucoup trop guindés pour moi.
+MID_SYLVIA_HOME2: J'ai fait de très bons repas avec\nLewyn à Silesse. J'aimerais danser\nà nouveau au son de sa lyre !
+MID_SYLVIA_HOME3: C'est tellement triste, par ici !\nArrêtez de broyer du noir et\nallez vous amuser dehors !
+MID_SYLVIA_HOME4: Oh, vous vouliez me voir danser ?\nJe vous ai $Gvu,vue| me regarder. C'est\nmon talent qui vous attire !
+MID_SYLVIA_HOME5: Je priais... pour tous les gens touchés\npar la guerre. Je priais pour que\nleurs souffrances s'atténuent.
+MID_SYLVIA_FRIEND: Bonjour ! Je suis Silvia.\n$Nf\na un message pour vous !$k$pJe pense que vous lui manquez !\nVous pourriez lui faire une petite\nvisite !
+MID_SYLVIA_LEVEL1: Je suis en excellente forme... Il faut\nque je partage cette énergie avec\ntoute l'armée !
+MID_SYLVIA_LEVEL2: Se pourrait-il que je ne sois que...\nmoyenne ? Suis-je en train de faiblir ?
+MID_SYLVIA_LEVEL3: Ça se voit que j'ai manqué\nl'entraînement ? Désolée !
+MID_SYLVIA_SKILL: Ça ajoute à mon charme,\nvous ne trouvez pas ?
+MID_SYLVIA_JOIN: Je suis Silvia, danseuse itinérante,\nfleur des champs de bataille,\n« Silvi » pour les intimes !
+MID_SYLVIA_STRONGEST: Vous n'êtes pas $Gfatigué,fatiguée| de réfléchir\nsans arrêt, $Nu ?$k$pRien que de vous regarder, j'ai mal\nau crâne. Qu'est-ce qu'il se\npasse là-dedans ?$k$pJe connaissais un prêtre... vous êtes\ncomme lui. Son visage se plissait et\nil grognait sans cesse.$k$pMais quand même, vous avez de la\nchance, vous savez ? Parce que...$k$pTadaaa ! Je suis avec vous !$k$pJe peux danser pour vous et vous\naider à oublier tous vos soucis.$k$pJe peux vous donner plus d'énergie,\nparce que si vous en manquez, nous\nne nous en sortirons jamais !$k$pSi vous avez besoin de moi,\nvenez me voir !
+MID_SYLVIA_VOICE01: はいっ！
+MID_SYLVIA_VOICE02: Yah!
+MID_SYLVIA_VOICE03: Aahhh!
+MID_SYLVIA_VOICE04: No way!
+MID_SYLVIA_VOICE05: Ça va être physique !
+MID_SYLVIA_VOICE06: Je n'ai aucune rivale !
+MID_SYLVIA_VOICE07: La fleur des champs de bataille !
+MID_SYLVIA_VOICE08: Mes pétales sont aiguisés !
+MID_SYLVIA_VOICE09: Why me?
+MID_SYLVIA_VOICE10: Hey!
+MID_SYLVIA_VOICE11: How about a dance? That'll cheer you up!
+MID_SYLVIA_VOICE12: Come on, show me a smile!
+MID_SYLVIA_VOICE13: Are you kidding? Of course this isn't underwear. This is how dancers dress!
+MID_SYLVIA_VOICE14: No, I'm not chilly. I'm burning up! My heart is aflame with passion!
+MID_SYLVIA_VOICE15: There's something about you... I can't quite put my finger on it.
+MID_SYLVIA_VOICE16: Take another look. There's more to me than you seem to think!
+MID_SYLVIA_VOICE17: Now, pay attention. I'm going to show you a special dance. I'm a little bit nervous, but here we go.
+MID_SYLVIA_VOICE18: Sure thing!
+MID_SYLVIA_VOICE19: I love to dance!
+MID_SYLVIA_VOICE20: Ready to move!

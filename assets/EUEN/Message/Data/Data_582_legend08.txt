@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_582_legend08)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り・金: Gold Seashell Hairpin
+MDAID_H_貝殻の髪飾り・金: Proof of victory over Legendary Marth.
+MDAID_水中ゴーグル・金: Gold Swim Goggles
+MDAID_H_水中ゴーグル・金: Proof of victory over Legendary Robin.
+MID_MISSION_M201809A_TITLE: Sep Quests (1)
+MID_MISSION_M201809A_A1: KO Foe w/Blue
+MID_MISSION_H_M201809A_A1: Defeat a foe with a blue ally.
+MID_MISSION_M201809A_A2: KO Foe w/Infantry
+MID_MISSION_H_M201809A_A2: Defeat a foe with an infantry ally.
+MID_MISSION_M201809A_A3: KO Green Foe
+MID_MISSION_H_M201809A_A3: Defeat a green foe.
+MID_MISSION_M201809A_A4: KO Flying Foe
+MID_MISSION_H_M201809A_A4: Defeat a flying foe.
+MID_MISSION_M201809A_A5: Win Arena Duels
+MID_MISSION_H_M201809A_A5: Win Arena Duels on any difficulty.
+MID_MISSION_M201809A_A6: KO Lvl. 20+ Foe w/Red
+MID_MISSION_H_M201809A_A6: Defeat a foe that is level 20 or higher with a\nred ally.
+MID_MISSION_M201809A_A7: KO Lvl. 20+ Foe w/Flying
+MID_MISSION_H_M201809A_A7: Defeat a foe that is level 20 or higher with a\nflying ally.
+MID_MISSION_M201809A_A8: KO Lvl. 20+ Blue Foe
+MID_MISSION_H_M201809A_A8: Defeat a blue foe that is level 20 or higher.
+MID_MISSION_M201809A_A9: KO Lvl. 20+ Infantry Foe
+MID_MISSION_H_M201809A_A9: Defeat an infantry foe that is level 20 or higher.
+MID_MISSION_M201809A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201809A_A10: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_M201809A_A11: KO Lvl. 35+ Foe w/Green
+MID_MISSION_H_M201809A_A11: Defeat a foe that is level 35 or higher with a\ngreen ally.
+MID_MISSION_M201809A_A12: KO Lvl. 35+ Foe w/Cav.
+MID_MISSION_H_M201809A_A12: Defeat a foe that is level 35 or higher with a\ncavalry ally.
+MID_MISSION_M201809A_A13: KO Lvl. 35+ Red Foe
+MID_MISSION_H_M201809A_A13: Defeat a red foe that is level 35 or higher.
+MID_MISSION_M201809A_A14: KO Lvl. 35+ Cavalry Foe
+MID_MISSION_H_M201809A_A14: Defeat a cavalry foe that is level 35 or higher.
+MID_MISSION_M201809A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201809A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201809B_TITLE: Sep Quests (2)
+MID_MISSION_M201809B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201809B_A1: Clear the first stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201809B_A2: Clear the second stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201809B_A3: Clear the third stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201809B_A4: Clear the fourth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201809B_A5: Clear the fifth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201809B_A6: Clear the sixth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201809B_A7: Clear the seventh stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201809B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201809B_A8: Clear the eighth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201809B_A9: Clear the ninth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201809B_A10: Clear the tenth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201809B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201809B_A11: Clear the tenth stratum of the Training Tower\nusing only infantry allies. All four allies must\nsurvive.
+MID_MISSION_M201809B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201809B_A12: Clear the tenth stratum of the Training Tower\nusing only armored allies. All four allies must\nsurvive.
+MID_MISSION_M201809B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201809B_A13: Clear the tenth stratum of the Training Tower\nusing only cavalry allies. All four allies must\nsurvive.
+MID_MISSION_M201809B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201809B_A14: Clear the tenth stratum of the Training Tower\nusing only flying allies. All four allies must\nsurvive.
+MID_MISSION_M201809C_TITLE: Sep Quests (3)
+MID_MISSION_M201809C_A1: Clear 6-1
+MID_MISSION_H_M201809C_A1: Clear Chapter 6: Part 1. All four allies must\nsurvive.
+MID_MISSION_M201809C_A2: Clear 6-2
+MID_MISSION_H_M201809C_A2: Clear Chapter 6: Part 2 with a red ally on your\nteam. All four allies must survive.
+MID_MISSION_M201809C_A3: Clear 6-3
+MID_MISSION_H_M201809C_A3: Clear Chapter 6: Part 3 with a blue ally on\nyour team. All four allies must survive.
+MID_MISSION_M201809C_A4: Clear 6-4
+MID_MISSION_H_M201809C_A4: Clear Chapter 6: Part 4 with a green ally on\nyour team. All four allies must survive.
+MID_MISSION_M201809C_A5: Clear 6-5
+MID_MISSION_H_M201809C_A5: Clear Chapter 6: Part 5 with a colorless ally on\nyour team. All four allies must survive.
+MID_MISSION_M201809C_A6: Clear 9-1 on Hard+
+MID_MISSION_H_M201809C_A6: Clear Chapter 9: Part 1 on Hard or higher\ndifficulty. All four allies must survive.
+MID_MISSION_M201809C_A7: Clear 9-2 on Hard+
+MID_MISSION_H_M201809C_A7: Clear Chapter 9: Part 2 on Hard or higher\ndifficulty with a red ally on your team. All four\nallies must survive.
+MID_MISSION_M201809C_A8: Clear 9-3 on Hard+
+MID_MISSION_H_M201809C_A8: Clear Chapter 9: Part 3 on Hard or higher\ndifficulty with a blue ally on your team. All four\nallies must survive.
+MID_MISSION_M201809C_A9: Clear 9-4 on Hard+
+MID_MISSION_H_M201809C_A9: Clear Chapter 9: Part 4 on Hard or higher\ndifficulty with a green ally on your team. All\nfour allies must survive.
+MID_MISSION_M201809C_A10: Clear 9-5 on Hard+
+MID_MISSION_H_M201809C_A10: Clear Chapter 9: Part 5 on Hard or higher\ndifficulty with a colorless ally on your team. All\nfour allies must survive.
+MID_MISSION_M201809C_A11: Clear 12-1 on Lunatic
+MID_MISSION_H_M201809C_A11: Clear Chapter 12: Part 1 on Lunatic difficulty.\nAll four allies must survive.
+MID_MISSION_M201809C_A12: Clear 12-2 on Lunatic
+MID_MISSION_H_M201809C_A12: Clear Chapter 12: Part 2 on Lunatic difficulty\nwith a red ally on your team. All four allies must\nsurvive.
+MID_MISSION_M201809C_A13: Clear 12-3 on Lunatic
+MID_MISSION_H_M201809C_A13: Clear Chapter 12: Part 3 on Lunatic difficulty\nwith a blue ally on your team. All four allies\nmust survive.
+MID_MISSION_M201809C_A14: Clear 12-4 on Lunatic
+MID_MISSION_H_M201809C_A14: Clear Chapter 12: Part 4 on Lunatic difficulty\nwith a green ally on your team. All four allies\nmust survive.
+MID_MISSION_M201809C_A15: Clear 12-5 on Lunatic
+MID_MISSION_H_M201809C_A15: Clear Chapter 12: Part 5 on Lunatic difficulty\nwith a colorless ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808BRAVE01_TITLE: Order of Heroes
+MID_MISSION_S201808BRAVE01_A1: KO w/Alfonse
+MID_MISSION_H_S201808BRAVE01_A1: Defeat a foe with Alfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A2: KO Green Foe
+MID_MISSION_H_S201808BRAVE01_A2: Defeat a green foe with Alfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A3: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A3: Defeat an axe foe that is level 20 or higher with\nAlfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A4: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A4: Defeat a green tome foe that is level 20 or higher\nwith Alfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A5: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A5: Defeat an infantry foe that is level 30 or higher\nwith Alfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A6: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A6: Defeat an armored foe that is level 30 or higher\nwith Alfonse: Prince of Askr.
+MID_MISSION_S201808BRAVE01_A7: KO w/Sharena
+MID_MISSION_H_S201808BRAVE01_A7: Defeat a foe with Sharena: Princess of Askr.
+MID_MISSION_S201808BRAVE01_A8: KO Red Foe
+MID_MISSION_H_S201808BRAVE01_A8: Defeat a red foe with Sharena: Princess of\nAskr.
+MID_MISSION_S201808BRAVE01_A9: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A9: Defeat a sword foe that is level 20 or higher\nwith Sharena: Princess of Askr.
+MID_MISSION_S201808BRAVE01_A10: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A10: Defeat a red tome foe that is level 20 or higher\nwith Sharena: Princess of Askr.
+MID_MISSION_S201808BRAVE01_A11: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A11: Defeat a cavalry foe that is level 30 or higher\nwith Sharena: Princess of Askr.
+MID_MISSION_S201808BRAVE01_A12: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A12: Defeat a flying foe that is level 30 or higher\nwith Sharena: Princess of Askr.
+MID_MISSION_S201808BRAVE01_A13: KO w/Anna
+MID_MISSION_H_S201808BRAVE01_A13: Defeat a foe with Anna.
+MID_MISSION_S201808BRAVE01_A14: KO Blue Foe
+MID_MISSION_H_S201808BRAVE01_A14: Defeat a blue foe with Anna.
+MID_MISSION_S201808BRAVE01_A15: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A15: Defeat a lance foe that is level 20 or higher\nwith Anna.
+MID_MISSION_S201808BRAVE01_A16: KO Lvl. 20+ Foe
+MID_MISSION_H_S201808BRAVE01_A16: Defeat a blue tome foe that is level 20 or\nhigher with Anna.
+MID_MISSION_S201808BRAVE01_A17: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A17: Defeat an infantry foe that is level 30 or higher\nwith Anna.
+MID_MISSION_S201808BRAVE01_A18: KO Lvl. 30+ Foe
+MID_MISSION_H_S201808BRAVE01_A18: Defeat a cavalry foe that is level 30 or higher\nwith Anna.
+MID_MISSION_S201808DAISEIATU02_TITLE: Grand Conquests
+MID_MISSION_S201808DAISEIATU02_A1: GC: Earn Score
+MID_MISSION_H_S201808DAISEIATU02_A1: Earn points in Grand Conquests.
+MID_MISSION_S201808DAISEIATU02_A2: GC: Earn Score
+MID_MISSION_H_S201808DAISEIATU02_A2: Earn points in Grand Conquests.
+MID_MISSION_S201808DAISEIATU02_A3: GC: Earn Score
+MID_MISSION_H_S201808DAISEIATU02_A3: Earn points in Grand Conquests.
+MID_MISSION_S201808DAISEIATU02_A4: Tower: Second Stratum
+MID_MISSION_H_S201808DAISEIATU02_A4: Clear the second stratum of the Training Tower.
+MID_MISSION_S201808DAISEIATU02_A5: Tower: Eighth Stratum
+MID_MISSION_H_S201808DAISEIATU02_A5: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201808DAISEIATU02_A6: Win Arena Duels
+MID_MISSION_H_S201808DAISEIATU02_A6: Win Arena Duels on any difficulty.
+MID_MISSION_S201809VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201809VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201809VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201809VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201809VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201809VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201809VOTE01_A6: Tower: Second Stratum
+MID_MISSION_H_S201809VOTE01_A6: Clear the second stratum of the Training Tower.
+MID_MISSION_S201809VOTE01_A7: Tower: Fifth Stratum
+MID_MISSION_H_S201809VOTE01_A7: Clear the fifth stratum of the Training Tower.
+MID_MISSION_S201809VOTE01_A8: Tower: Eighth Stratum
+MID_MISSION_H_S201809VOTE01_A8: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201809VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201809VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201809VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201809VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201809VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201809VOTE01_A11: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201809VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201809VOTE01_A12: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201809VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A13: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201809VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A14: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201809VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A15: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201809VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A16: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MID_MISSION_S201809VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A17: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201809VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A18: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201809VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A19: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201809VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201809VOTE01_A20: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MPID_ジャムカ: Jamke
+MPID_HONOR_ジャムカ: Prince of Verdane
+MPID_H_ジャムカ: The prince of Verdane. He does not carry the\nblood of a crusader in his veins. He turns his\nbow against his homeland to try to stop the war.\nAppears in Fire Emblem: Genealogy of the Holy\nWar.
+MPID_VOICE_ジャムカ: Joe Zieja
+MPID_ILLUST_ジャムカ: Suekane Kumiko (スエカネクミコ)
+MPID_伝承マルス: Marth
+MPID_HONOR_伝承マルス: Hero-King
+MPID_H_伝承マルス: Prince of Altea. After the War of Shadows and\nthe War of Heroes, he becomes the first king\nof the Archanean Alliance. Appears in Fire\nEmblem: Mystery of the Emblem.
+MPID_VOICE_伝承マルス: Yuri Lowenthal
+MPID_ILLUST_伝承マルス: Daisuke Izuka
+MPID_LEGEND_伝承マルス: Legendary Effect: Fire\nAlly Boost: HP+3, Res+4\n\nGrants allies this Legendary Effect\nduring Fire season, if the Fire\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_神剣ファルシオン: Exalted Falchion
+MSID_炎の紋章: Fire Emblem
+MSID_封印の盾: Binding Shield
+MSID_歩行の柔撃1: Infantry Flash 1
+MSID_歩行の柔撃2: Infantry Flash 2
+MSID_歩行の柔撃3: Infantry Flash 3
+MSID_H_神剣ファルシオン: Effective against dragon foes. Grants Spd+3.\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current bonus on each of unit's stats.\nCalculates each stat bonus independently.
+MSID_H_炎の紋章: Boosts damage by 30% of unit's Spd.\nGrants Atk/Spd/Def/Res+4 to unit and all allies\nfor 1 turn after combat. (Bonus granted to\nallies even if unit's HP reaches 0.)
+MSID_H_封印の盾: In combat against a dragon foe, unit makes a\nguaranteed follow-up attack and foe cannot\ncounterattack or make a follow-up attack.
+MSID_H_歩行の柔撃1: Infantry allies within 2 spaces gain: "If unit's\nSpd ≥ foe's Spd+5, grants Special cooldown\ncharge +1 per unit's attack. (Only highest value\napplied. Does not stack.)"
+MSID_H_歩行の柔撃2: Infantry allies within 2 spaces gain: "If unit's\nSpd ≥ foe's Spd+3, grants Special cooldown\ncharge +1 per unit's attack. (Only highest value\napplied. Does not stack.)"
+MSID_H_歩行の柔撃3: Infantry allies within 2 spaces gain: "If unit's\nSpd > foe's Spd, grants Special cooldown\ncharge +1 per unit's attack. (Only highest value\napplied. Does not stack.)"
+MID_STAGE_HONOR_T0038: Prince of Verdane
+MID_STAGE_T0038: Jamke
+MID_STAGE_HONOR_L0006: Hero-King
+MID_STAGE_L0006: Marth
+MID_STAGE_TITLE_PB025: Skill Studies 25
+MID_STAGE_PB025: The Binding Shield
+MID_STAGE_TITLE_PB026: Skill Studies 26
+MID_STAGE_PB026: Make Your Own Miracle
+MID_STAGE_TITLE_PC012: Grandmaster 12
+MID_STAGE_PC012: Bridge of Friendship

@@ -1,0 +1,38 @@
+[Heroes Archive] (LAEGJARN_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LAEGJARN_MIKATA01_HOME1: Dieser Ort ist nicht wie Múspell oder\nNifl. Ich hoffe, ich kann ihn\nirgendwann besser verstehen lernen.
+MID_LAEGJARN_MIKATA01_HOME2: Stärke ist alles. Die Schwachen sind\nBeute. Das ist der Weg von Múspell...\nEr ist erbarmungslos.
+MID_LAEGJARN_MIKATA01_HOME3: Meine Schwester Laevatein ist alles\nfür mich. Ich würde alles aufgeben,\ndamit sie in Sicherheit ist.
+MID_LAEGJARN_MIKATA01_HOME4: Ich hatte kein Kriegertalent, also\nmusste ich lange nachdenken, was\njemand wie ich beitragen könnte.$k$pSo schwach ich auch war - ich\nhabe es geschafft, in Múspell zu\nüberleben.
+MID_LAEGJARN_MIKATA01_HOME5: Ruht Euch aus, wenn Ihr müde seid.\nIch halte Wache, während Ihr schlaft.
+MID_LAEGJARN_MIKATA01_FRIEND: Mein Name ist Laegjarn. Ich bin\neine Generalin der Armee von\n$Nf.$k$pIch wurde mit der Aufgabe betraut,\nEuch einen Gruß auszurichten.
+MID_LAEGJARN_MIKATA01_LEVEL1: Ich werde das Blut von Múspell in mir\nbeherrschen, den Feuerdrachen.
+MID_LAEGJARN_MIKATA01_LEVEL2: Ich bin Laegjarn, Generalin der\nArmee von $Nu!
+MID_LAEGJARN_MIKATA01_LEVEL3: Ich muss stärker werden, sonst\nkann ich sie nicht beschützen...
+MID_LAEGJARN_MIKATA01_SKILL: Ich schwöre bei meinem Namen, dass\nich meine Schuld begleichen werde.
+MID_LAEGJARN_MIKATA01_JOIN: Ich bin Laegjarn, eine Generalin von\nMúspell.$k$pIch werde Euch dienen, aber ich\nhabe eine Bitte: Lasst mich meine\nSchwester Laevatein sehen.
+MID_LAEGJARN_MIKATA01_STRONGEST: Mein Vater setzte seine Flammen\nein, um die Schwachen zu töten...\nSogar seine eigenen Kinder.$k$pEr hat nie auch nur im Geringsten\ngezögert. Seit meiner Kindheit habe\nich es viele Male mitangesehen.$k$pJeder Tag meines Lebens war von\nAngst geprägt, aber... ich hatte eine\nkleine Schwester.$k$pSie sah zu mir auf und ich wollte\nsie um jeden Preis beschützen.$k$pDieses Gefühl wurde so stark, dass\nich alles andere ausblendete. Meine\nSchwester gab mir Kraft.$k$pOb Ihr nun eine Kommandantin oder\neine besonnene Ansprechpartnerin\nbraucht - ich werde für Euch da sein.$k$pIhr gebt mir Kraft. Geht voran und ich\nwerde Euch folgen. Von jetzt an bis\nzum Ende, falls Ihr das wünscht.
+MID_LAEGJARN_MIKATA01_VOICE01: はぁっ！
+MID_LAEGJARN_MIKATA01_VOICE02: この…！
+MID_LAEGJARN_MIKATA01_VOICE03: きゃああっ！
+MID_LAEGJARN_MIKATA01_VOICE04: That's dirty...
+MID_LAEGJARN_MIKATA01_VOICE05: Kein Mitleid.
+MID_LAEGJARN_MIKATA01_VOICE06: Widerstand führt zum Tod.
+MID_LAEGJARN_MIKATA01_VOICE07: Lieber ich als sie.
+MID_LAEGJARN_MIKATA01_VOICE08: So muss es sein.
+MID_LAEGJARN_MIKATA01_VOICE09: It's up to you now, Laevatein...
+MID_LAEGJARN_MIKATA01_VOICE10: ふっ…
+MID_LAEGJARN_MIKATA01_VOICE11: I am Laegjarn. Laevatein is my younger sister.
+MID_LAEGJARN_MIKATA01_VOICE12: Huh? What did you do that for?
+MID_LAEGJARN_MIKATA01_VOICE13: Don't worry about me. Just do whatever you can to help my sister. Please.
+MID_LAEGJARN_MIKATA01_VOICE14: As an enemy general, I've prepared for the disgrace of being your captive.
+MID_LAEGJARN_MIKATA01_VOICE15: My father is flame. Everything he touches will be burned, until there is nothing left.
+MID_LAEGJARN_MIKATA01_VOICE16: Laevatein, my sister. If you could only...
+MID_LAEGJARN_MIKATA01_VOICE17: I've never met anyone like you.
+MID_LAEGJARN_MIKATA01_VOICE18: If I must.
+MID_LAEGJARN_MIKATA01_VOICE19: Hmm.
+MID_LAEGJARN_MIKATA01_VOICE20: As you say.

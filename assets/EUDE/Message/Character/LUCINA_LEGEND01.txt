@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_LEGEND01_HOME1: Ich gehe auf Patrouille. Angeblich\nwurde Grima in dieser Welt gesehen,\nalso müssen wir wachsam bleiben.
+MID_LUCINA_LEGEND01_HOME2: Es ist nicht gar so leicht, eine\nungewohnte Waffe zu führen...\nDa hilft nur hartes Training.
+MID_LUCINA_LEGEND01_HOME3: Ihr habt ja Augenringe. Habt Ihr nicht\ngut geschlafen? Oder habt Ihr wieder\nbis spät in die Nacht gelesen?
+MID_LUCINA_LEGEND01_HOME4: Es erfordert ein scharfes Auge, weit\nentfernte Ziele zu treffen. Zum Glück\nist mein Sehvermögen einwandfrei.$k$pAuf Euch habe ich übrigens auch\nregelmäßig ein Auge.
+MID_LUCINA_LEGEND01_HOME5: Was es mit dieser kaputten\nÜbungspuppe auf sich hat?\nIch... äh... Nun, wie soll ich sagen...$k$pIch war so konzentriert auf meine\nSchießübungen, dass ich es wohl\netwas übertrieben habe...
+MID_LUCINA_LEGEND01_FRIEND: Mein Name ist Lucina. Schön, Euch\nzu sehen, $Nu.$k$pIhr habt recht - das ist nicht meine\ngewöhnliche Kleidung. Gut erkannt!
+MID_LUCINA_LEGEND01_LEVEL1: Ich fühle mich, als könnte ich einen\nStern vom Himmel schießen!
+MID_LUCINA_LEGEND01_LEVEL2: Nicht schlecht... Aber mit mehr\nErfahrung werde ich noch besser.
+MID_LUCINA_LEGEND01_LEVEL3: Verzeihung... Vielleicht bin ich mit\ndem Schwert einfach besser.
+MID_LUCINA_LEGEND01_SKILL: Das ist fast so aufregend wie\nein neues Gewand anzuziehen.
+MID_LUCINA_LEGEND01_JOIN: Ich bin Lucina, Tochter des\nErhabenen Chrom aus dem\nKönigreich von Ylisse.$k$pIch trage einen legendären Bogen.
+MID_LUCINA_LEGEND01_STRONGEST: Oh, $Nu!$k$pV-Verzeihung. Ich wirke bestimmt\nschrecklich nervös... Habe ich wirklich\ndermaßen das Gesicht verzogen?$k$pIch habe gehört, dass Grima, der\nDämonendrache, womöglich auch\nin dieser Welt aufgetaucht ist...$k$pDerselbe Grima, der meine Welt\nin Schutt und Asche gelegt hat.\nDamals war ich nicht stark genug...$k$pIch konnte weder meine Eltern noch\nmeine Freunde und Verbündeten\nbeschützen... Einfach niemanden.$k$pWenn jetzt einer weiteren Welt\ndieses Schicksal droht, kann ich nicht\nanders als mürrisch dreinzublicken.$k$pNicht einmal eine legendäre Waffe\nwie diese verleiht mir Zuversicht.\nAber, $Nu...$k$pDanke. Es ist nett von Euch, dass Ihr\nEure Hilfe anbietet. Ich werde stets\nauf Euer Angebot zurückgreifen.$k$pIch möchte nie wieder jemanden\nverlieren, der mir nahesteht.$k$pUnd mit Eurer Unterstützung werde\nich das vielleicht auch nicht.
+MID_LUCINA_LEGEND01_VOICE01: ええいっ！
+MID_LUCINA_LEGEND01_VOICE02: それっ！
+MID_LUCINA_LEGEND01_VOICE03: きゃああっ！
+MID_LUCINA_LEGEND01_VOICE04: そんな…っ！
+MID_LUCINA_LEGEND01_VOICE05: Die Zukunft ist änderbar.
+MID_LUCINA_LEGEND01_VOICE06: Ich werde nicht verlieren!
+MID_LUCINA_LEGEND01_VOICE07: Bringen wir es zu Ende!
+MID_LUCINA_LEGEND01_VOICE08: Es gibt Hoffnung für diese Welt!
+MID_LUCINA_LEGEND01_VOICE09: There's still hope...
+MID_LUCINA_LEGEND01_VOICE10: Yes?
+MID_LUCINA_LEGEND01_VOICE11: I'm Lucina, Chrom's daughter from the future.
+MID_LUCINA_LEGEND01_VOICE12: After the things I have witnessed, I am not so easily startled.
+MID_LUCINA_LEGEND01_VOICE13: So, what do you think of my outfit?
+MID_LUCINA_LEGEND01_VOICE14: Could it be that Grima exists in this world as well? That means...
+MID_LUCINA_LEGEND01_VOICE15: Thanks to my father and the strength of our bond...my future was saved.
+MID_LUCINA_LEGEND01_VOICE16: Fell dragon Grima... I swear upon my life, I will defeat you once and for all.
+MID_LUCINA_LEGEND01_VOICE17: I will not lose... Never again. Not as long as you and I share this bond.
+MID_LUCINA_LEGEND01_VOICE18: Yes?
+MID_LUCINA_LEGEND01_VOICE19: Can't decide...
+MID_LUCINA_LEGEND01_VOICE20: Let's do it.

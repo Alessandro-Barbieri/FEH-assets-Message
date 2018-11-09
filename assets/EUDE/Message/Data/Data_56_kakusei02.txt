@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: Blumenhaarnadel
+MDAID_H_花占いの髪飾り: Eine Haarnadel von Sumia mit einer\nwohlriechenden Blume, die sie für\nein Blumenorakel verwendet hat.
+MDAID_花占いの髪飾り・極: Blumenhaarnadel+
+MDAID_H_花占いの髪飾り・極: Eine Haarnadel von Sumia mit einer\nedel duftenden Blume, die sie für\nein Blumenorakel verwendet hat.
+MDAID_令嬢のリボン: Band der Maid
+MDAID_H_令嬢のリボン: Ein Haarband von Maribelle, das aus\nhochwertigstem Stoff gefertigt wurde.
+MDAID_令嬢のリボン・極: Schreckensband+
+MDAID_H_令嬢のリボン・極: Ein Haarband von Maribelle, das aus\nhochwertigstem Stoff gefertigt und\nleicht parfümiert wurde.
+MDAID_踊り子のマスク: Tanzmaske
+MDAID_H_踊り子のマスク: Eine Maske von Olivia, die Tänzern\nwährend ihres Auftritts eine\nmysteriöse Aura verleiht.
+MDAID_踊り子のマスク・極: Tanzmaske+
+MDAID_H_踊り子のマスク・極: Eine Maske von Olivia, die Tänzern\nwährend ihres Auftritts eine\nverführerische Aura verleiht.
+MDAID_聖職者の帽子: Mitra
+MDAID_H_聖職者の帽子: Eine Kopfbedeckung von Libra, die an\nheiligen Orten getragen wird und\nSeelenfrieden stiftet.
+MDAID_聖職者の帽子・極: Mitra+
+MDAID_H_聖職者の帽子・極: Eine Kopfbedeckung von Libra, die an\nheiligen Orten getragen wird und\ndabei feierlich und erhaben wirkt.
+MID_MISSION_S201807ARENA01_TITLE: Arena
+MID_MISSION_S201807ARENA01_A1: Gewinne Arenaduell
+MID_MISSION_H_S201807ARENA01_A1: Gewinne ein Arenaduell eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A2: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A2: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A3: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A3: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A4: Arenaüberfall: 3 Siege
+MID_MISSION_H_S201807ARENA01_A4: Gewinne beim Arenaüberfall\ndrei Kämpfe in Folge.
+MID_MISSION_S201807ARENA01_A5: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A7: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A7: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A8: Arenaüberfall: 5 Siege
+MID_MISSION_H_S201807ARENA01_A8: Gewinne beim Arenaüberfall\nfünf Kämpfe in Folge.
+MID_MISSION_S201807ARENA01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A11: Gewinne Arenaduelle
+MID_MISSION_H_S201807ARENA01_A11: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807ARENA01_A12: Arenaüberfall: 7 Siege
+MID_MISSION_H_S201807ARENA01_A12: Gewinne beim Arenaüberfall\nsieben Kämpfe in Folge.
+MID_MISSION_S201807SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201807SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201807SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201807SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201807SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201807SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807STORY02_TITLE: Eisprinz
+MID_MISSION_S201807STORY02_A1: Kap. 11 Tl. 1 - Extrem
+MID_MISSION_H_S201807STORY02_A1: Bewältige Buch II, Kap. 11 - Tl. 1 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY02_A2: Kap. 11 Tl. 2 - Extrem
+MID_MISSION_H_S201807STORY02_A2: Bewältige Buch II, Kap. 11 - Tl. 2 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY02_A3: Kap. 11 Tl. 3 - Extrem
+MID_MISSION_H_S201807STORY02_A3: Bewältige Buch II, Kap. 11 - Tl. 3 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY02_A4: Kap. 11 Tl. 4 - Extrem
+MID_MISSION_H_S201807STORY02_A4: Bewältige Buch II, Kap. 11 - Tl. 4 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY02_A5: Kap. 11 Tl. 5 - Extrem
+MID_MISSION_H_S201807STORY02_A5: Bewältige Buch II, Kap. 11 - Tl. 5 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MPID_オリヴィエ2: Olivia
+MPID_スミア: Sumia
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ヴァルハルト: Walhart
+MPID_フリーズ: Hríd
+MPID_HONOR_オリヴィエ2: Himmelstänzerin
+MPID_HONOR_スミア: Blumenmaid
+MPID_HONOR_マリアベル: Schreckensmaid
+MPID_HONOR_リベラ: Sanfter Mönch
+MPID_HONOR_ヴァルハルト: Der Eroberer
+MPID_H_オリヴィエ2: Eine Tänzerin, die weit gereist und überaus\ntalentiert, aber auch extrem schüchtern ist.\nTanzt in den Lüften schwungvoller denn je.\nErscheint in Fire Emblem: Awakening.
+MPID_H_スミア: Eine sanftmütige Hirtin, die gern aus\nBlumen wahrsagt und großes Talent\nim Umgang mit Tieren aufweist.\nErscheint in Fire Emblem: Awakening.
+MPID_H_マリアベル: Eine stolze Adelige aus einem der\nbesten Häuser Ylisses. Sie ist Hirtin\nund Lissas beste Freundin. Erscheint\nin Fire Emblem: Awakening.
+MPID_H_リベラ: Ein ylisseanischer Priester mit ruhiger\nAusstrahlung. Wird aufgrund seines schönen\nAussehens oft für eine Frau gehalten.\nErscheint in Fire Emblem: Awakening.
+MPID_H_ヴァルハルト: Der unbarmherzige Imperator von Valm,\nder aufgrund seines Größenwahns von\nEroberungen besessen ist. Erscheint in\nFire Emblem: Awakening.
+MPID_VOICE_オリヴィエ2: Karen Strassman
+MPID_VOICE_スミア: —
+MPID_VOICE_マリアベル: Melissa Fahn
+MPID_VOICE_リベラ: Cindy Robinson
+MPID_VOICE_ヴァルハルト: Richard Epcar
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: Kousei Horiguchi (恒星ホリグチ)
+MPID_ILLUST_リベラ: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_ヴァルハルト: Soeda Ippei (添田一平)
+MSID_スクルド: Skuld
+MSID_反攻の槍: Rachelanze
+MSID_反攻の槍＋: Rachelanze+
+MSID_ヴォルフベルグ: Wolfberg
+MSID_倭棍: Wo Gùn
+MSID_倭棍＋: Wo Gùn+
+MSID_トリレンマ: Trilemma
+MSID_トリレンマ＋: Trilemma+
+MSID_金剛明鏡の構え1: Stärkungsstand 1
+MSID_金剛明鏡の構え2: Stärkungsstand 2
+MSID_攻撃守備の連携1: Agr./Ver.-Bund 1
+MSID_攻撃守備の連携2: Agr./Ver.-Bund 2
+MSID_攻撃守備の連携3: Agr./Ver.-Bund 3
+MSID_攻撃魔防の紋章1: Agr./Res. ansp. 1
+MSID_攻撃魔防の紋章2: Agr./Res. ansp. 2
+MSID_杖の技量1: Stabmut 1
+MSID_杖の技量2: Stabmut 2
+MSID_杖の技量3: Stabmut 3
+MSID_H_スクルド: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Angr./Ges./Ver./Res. +3.
+MSID_H_反攻の槍: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +6 im Kampf.
+MSID_H_反攻の槍＋: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +6 im Kampf.
+MSID_H_ヴォルフベルグ: Verleiht Ver. +3. Befinden sich im Umkreis\nvon 2 Feldern mindestens so viele Gegner\nwie Verbündete (außer Einheit und Ziel),\nerhält die Einheit Angr./Ges./Ver./Res. +4\nim Kampf.
+MSID_H_倭棍: Gewährt +10 auf Schaden, wenn\nSpezialangriff ausgelöst wird.
+MSID_H_倭棍＋: Gewährt +10 auf Schaden, wenn\nSpezialangriff ausgelöst wird.
+MSID_H_トリレンマ: Hat die Einheit angegriffen, gilt für den Gegner\nbis nach seiner nächsten Aktion: Hat er einen\nWaffen-Dreieck-Vorteil, erhält er Angr. +20 %.\nHat er einen Waffen-Dreieck-Nachteil, erleidet\ner Angr. -20 %.
+MSID_H_トリレンマ＋: Hat die Einheit angegriffen, gilt für Ziel und\nGegner im Umkreis von 2 Feldern des Ziels\nbis nach ihren nächsten Aktionen: Haben sie\neinen Waffen-Dreieck-Vorteil, erhalten sie\nAngr. +20 %. Haben sie einen Waffen-Dreieck-\nNachteil, erleiden sie Angr. -20 %.
+MSID_H_金剛明鏡の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver./Res. +2 im Kampf.
+MSID_H_金剛明鏡の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ver./Res. +4 im Kampf.
+MSID_H_攻撃守備の連携1: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ver. +2 für 1 Zug.
+MSID_H_攻撃守備の連携2: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ver. +4 für 1 Zug.
+MSID_H_攻撃守備の連携3: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ver. +6 für 1 Zug.
+MSID_H_攻撃魔防の紋章1: Verleiht benachbarten Verbündeten\nAngr./Res. +2 im Kampf.
+MSID_H_攻撃魔防の紋章2: Verleiht benachbarten Verbündeten\nAngr./Res. +3 im Kampf.
+MSID_H_杖の技量1: Überlebt die Einheit und verwendet einen Stab,\nerhält sie nach dem Kampf oder nach\nVerwenden einer Heilen-Beistehfähigkeit\nFP x 1,5. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_杖の技量2: Überlebt die Einheit, erhalten alle Stabbenutzer\nim Team nach dem Kampf oder nach\nVerwenden einer Heilen-Beistehfähigkeit\nFP x 1,5. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_杖の技量3: Überlebt die Einheit, erhalten alle Stabbenutzer\nim Team nach dem Kampf oder nach\nVerwenden einer Heilen-Beistehfähigkeit\nFP x 2. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MID_CHAPTER_TITLE_C0211: Buch II: Kapitel 11
+MID_CHAPTER_C0211: Eisprinz
+MID_STAGE_TITLE_S2111: Kap. 11 - Teil 1
+MID_STAGE_TITLE_S2112: Kap. 11 - Teil 2
+MID_STAGE_TITLE_S2113: Kap. 11 - Teil 3
+MID_STAGE_TITLE_S2114: Kap. 11 - Teil 4
+MID_STAGE_TITLE_S2115: Kap. 11 - Teil 5
+MID_STAGE_S2111: Meines Feindes Feind
+MID_STAGE_S2112: Blumenorakel
+MID_STAGE_S2113: Der Hölle entstiegen
+MID_STAGE_S2114: Tanz der Lüfte
+MID_STAGE_S2115: Ascheschlucht
+MID_STAGE_HONOR_T0035: Treue-Heldenk.
+MID_STAGE_T0035: L & E
+MID_STAGE_HONOR_T0036: Der Eroberer
+MID_STAGE_T0036: Walhart
+MID_STAGE_TITLE_PB020: Fähigkeiten 20
+MID_STAGE_PB020: Trilemma-Tricks

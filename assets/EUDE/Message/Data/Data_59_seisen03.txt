@@ -1,0 +1,178 @@
+[Heroes Archive] (Data_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_桃色のアヒル: Pfirsichente
+MDAID_H_桃色のアヒル: Eine Plastikente, die auf dem Wasser\ntreibt. Es ist beruhigend anzusehen,\nwie sie vor sich hin dümpelt.
+MDAID_夏うさぎの帽子: Sommer-Hasenohren
+MDAID_H_夏うさぎの帽子: Diese Kopfbedeckung wurde einst von\neinem Helden getragen, der dem\nblauen Sommerhimmel zugeneigt war.
+MID_MISSION_S201809KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201809KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201809KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Chrom & Lissa mit Sharena:\nPrinzessin von Askr im Team.
+MID_MISSION_S201809KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201809KIZUNA01_A2: Gewinne den Treue-Heldenkampf\ngegen Chrom & Lissa auf Extrem\noder höher mit Fjorm im Team.
+MID_MISSION_S201809KIZUNA01_A3: Chrom besiegen
+MID_MISSION_H_S201809KIZUNA01_A3: Besiege Chrom: Erhabener Prinz,\nder Level 40 oder höher ist, mit\nSharena: Prinzessin von Askr.
+MID_MISSION_S201809KIZUNA01_A4: Lissa besiegen
+MID_MISSION_H_S201809KIZUNA01_A4: Besiege Lissa: Die Lebhafte,\ndie Level 40 oder höher ist, mit\nFjorm.
+MID_MISSION_S201809KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201809KIZUNA01_A5: Gewinne den Treue-Heldenkampf\ngegen Chrom und Lissa auf Extrem\noder höher nur mit Flugeinheiten.
+MID_MISSION_S201809SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201809SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201809SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201809SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201809SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201809SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201809STORY01_TITLE: Schleichendes Gift
+MID_MISSION_S201809STORY01_A1: Kap. 12 Tl. 1 - Extrem
+MID_MISSION_H_S201809STORY01_A1: Bewältige Buch II, Kap. 12 - Tl. 1 auf\nExtrem mit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY01_A2: Kap. 12 Tl. 2 - Extrem
+MID_MISSION_H_S201809STORY01_A2: Bewältige Buch II, Kap. 12 - Tl. 2 auf\nExtrem mit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY01_A3: Kap. 12 Tl. 3 - Extrem
+MID_MISSION_H_S201809STORY01_A3: Bewältige Buch II, Kap. 12 - Tl. 3 auf\nExtrem mit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY01_A4: Kap. 12 Tl. 4 - Extrem
+MID_MISSION_H_S201809STORY01_A4: Bewältige Buch II, Kap. 12 - Tl. 4 auf\nExtrem mit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809STORY01_A5: Kap. 12 Tl. 5 - Extrem
+MID_MISSION_H_S201809STORY01_A5: Bewältige Buch II, Kap. 12 - Tl. 5 auf\nExtrem mit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201809TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201809TAPBTL01_D01_A1: Legault besiegen
+MID_MISSION_H_S201809TAPBTL01_D01_A1: Besiege den Boss Legault auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Normal.
+MID_MISSION_S201809TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201809TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201809TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201809TAPBTL01_D02_A1: Legault besiegen
+MID_MISSION_H_S201809TAPBTL01_D02_A1: Besiege den Boss Legault auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201809TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201809TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201809TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201809TAPBTL01_D03_A1: Linus besiegen
+MID_MISSION_H_S201809TAPBTL01_D03_A1: Besiege den Boss Linus auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Normal.
+MID_MISSION_S201809TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201809TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201809TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201809TAPBTL01_D04_A1: Linus besiegen
+MID_MISSION_H_S201809TAPBTL01_D04_A1: Besiege den Boss Linus auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201809TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201809TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201809TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201809TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201809TAPBTL02_A1: Boss-Stufen
+MID_MISSION_H_S201809TAPBTL02_A1: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201809TAPBTL02_A2: Boss-Stufen
+MID_MISSION_H_S201809TAPBTL02_A2: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201809TAPBTL02_A3: Stufe abschließen
+MID_MISSION_H_S201809TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201809TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201809TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MPID_キュアン: Quan
+MPID_エスリン: Ethlyn
+MPID_レヴィン: Lewyn
+MPID_シルヴィア: Silvia
+MPID_HONOR_キュアン: Lichte Lanze
+MPID_HONOR_エスリン: Rege Prinzessin
+MPID_HONOR_レヴィン: Lenkende Brise
+MPID_HONOR_シルヴィア: Reisende Tänzerin
+MPID_H_キュアン: Prinz von Leonster, Erbe der Lanze Gáe Bolg\nund Gemahl von Ethlyn, der jüngeren Schwester\nseines engen Freundes Sigurd. Erscheint in\nFire Emblem: Genealogy of the Holy War.
+MPID_H_エスリン: Jüngere Schwester von Sigurd von Chalphy. Aus\nihrer Ehe mit Prinz Quan von Leonster gehen\neine Tochter und ein Sohn hervor. Erscheint\nin Fire Emblem: Genealogy of the Holy War.
+MPID_H_レヴィン: Prinz von Silesse. Ein Nachkomme von Ced,\neiner der 12 Heiligen Ritter, und Erbe des\nWindbuches Forseti. Erscheint in Fire Emblem:\nGenealogy of the Holy War.
+MPID_H_シルヴィア: Eine Tänzerin, die die Welt bereist. Sieht süß\naus, verhält sich aber nicht unbedingt so.\nNachfahrin des Hohepriesters Bragi. Erscheint\nin Fire Emblem: Genealogy of the Holy War.
+MPID_VOICE_キュアン: Chris Hackney
+MPID_VOICE_エスリン: Allegra Clark
+MPID_VOICE_レヴィン: Steve Staley
+MPID_VOICE_シルヴィア: Laura Post
+MPID_ILLUST_キュアン: Aoji (あおじ)
+MPID_ILLUST_エスリン: kaya8
+MPID_ILLUST_レヴィン: Suda Ayaka (須田彩加)
+MPID_ILLUST_シルヴィア: Chiko (チーコ)
+MSID_セルジュの恐斧: Zelchers Axt
+MSID_オーディンの黒書: Odins Grimoire
+MSID_第14迷宮の覇者1: Überfall-Ass N 1
+MSID_第14迷宮の覇者2: Überfall-Ass N 2
+MSID_第14迷宮の覇者3: Überfall-Ass N 3
+MSID_バリアの剣: Barriereklinge
+MSID_バリアの剣＋: Barriereklinge+
+MSID_ゲイボルグ: Gáe Bolg
+MSID_フォルセティ: Forseti
+MSID_速さ守備の応援＋: Ges./Ver. sam.+
+MSID_飛燕金剛の構え1: Feste Haltung 1
+MSID_飛燕金剛の構え2: Feste Haltung 2
+MSID_奥義の螺旋1: Spezialspirale 1
+MSID_奥義の螺旋2: Spezialspirale 2
+MSID_奥義の螺旋3: Spezialspirale 3
+MSID_疾風静水の舞い1: Sturmfluttanz 1
+MSID_疾風静水の舞い2: Sturmfluttanz 2
+MSID_H_セルジュの恐斧: Verursacht Ges. -5. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MSID_H_オーディンの黒書: Erhöht den verursachten Schaden um die\ngesamten Boni der Einheit.
+MSID_H_ライナロック改: Verleiht Angr./Ges. +5 im Kampf.\nHat die Einheit angegriffen, erleidet\nsie nach dem Kampf 5 Schaden.
+MSID_H_攻撃速さの連携R6: Verwendet die Einheit eine Beistehfähigkeit\n(wie Stoß, Verlegung, Drehung usw.) bzw.\nwirkt eine solche auf sie, erhalten Einheit\nund Ziel Angr./Ges. +6 für 1 Zug.
+MSID_H_第14迷宮の覇者1: Verleiht Ges. +1.
+MSID_H_第14迷宮の覇者2: Verleiht Ges. +2.
+MSID_H_第14迷宮の覇者3: Verleiht Ges. +3.
+MSID_H_バリアの剣: Initiiert der Gegner den Kampf, erhält die\nEinheit Res. +7 im Kampf.
+MSID_H_バリアの剣＋: Initiiert der Gegner den Kampf, erhält die\nEinheit Res. +7 im Kampf.
+MSID_H_ゲイボルグ: Kämpft die Einheit gegen eine Infanterie-,\ngepanzerte oder berittene Einheit, erhält\nsie Angr./Ver. +5 im Kampf.
+MSID_H_フォルセティ: Verleiht Ges. +3. Initiiert die Einheit den\nKampf und sind die KP der Einheit ≥ 50 %,\nkann sie einen Folgeangriff ausführen,\nbevor der Gegner angreift.
+MSID_H_速さ守備の応援＋: Verleiht einem Verbündeten\nGes./Ver. +6 für 1 Zug.
+MSID_H_飛燕金剛の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Ver. +2 im Kampf.
+MSID_H_飛燕金剛の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Ver. +4 im Kampf.
+MSID_H_奥義の螺旋1: Initiiert die Einheit den Kampf und wird ihr\nSpezialangriff vor oder nach dem Angriff\nausgelöst, erhält die Einheit danach\n(Erholungszeit -1).
+MSID_H_奥義の螺旋2: Wird der Spezialangriff vor oder nach dem\nAngriff ausgelöst, erhält die Einheit danach\n(Erholungszeit -1).
+MSID_H_奥義の螺旋3: Wird der Spezialangriff vor oder nach dem\nAngriff ausgelöst, erhält die Einheit danach\n(Erholungszeit -2).
+MSID_H_疾風静水の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +2 und Res. +3.
+MSID_H_疾風静水の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +3 und Res. +4.
+MID_CHAPTER_TITLE_C0212: Buch II: Kapitel 12
+MID_CHAPTER_C0212: Schleichendes Gift
+MID_STAGE_TITLE_S2121: Kap. 12 - Teil 1
+MID_STAGE_TITLE_S2122: Kap. 12 - Teil 2
+MID_STAGE_TITLE_S2123: Kap. 12 - Teil 3
+MID_STAGE_TITLE_S2124: Kap. 12 - Teil 4
+MID_STAGE_TITLE_S2125: Kap. 12 - Teil 5
+MID_STAGE_S2121: Verdacht
+MID_STAGE_S2122: Erbe der Heiligen Ritterin
+MID_STAGE_S2123: Streunende Bestie
+MID_STAGE_S2124: Von der Brise gelenkt
+MID_STAGE_S2125: Der Verräter
+MID_STAGE_TITLE_BG_EARTH_0011: Erde 1
+MID_STAGE_TITLE_BG_FIRE_0011: Feuer 1
+MID_STAGE_TITLE_BG_WATER_0012: Wasser 2
+MID_STAGE_TITLE_BG_WIND_0012: Wind 2
+MID_STAGE_TITLE_BG_EARTH_0012: Erde 2
+MID_STAGE_TITLE_SB_0014: 14. Überfall
+MID_CHAPTER_ST_C0206: Kapitel 11 & 12
+MID_STAGE_TITLE_ST_S0211: Kapitel 11
+MID_STAGE_TITLE_ST_S0212: Kapitel 12
+MID_STAGE_TITLE_ST_S1212: Kapitel 11 & 12
+MID_STAGE_TITLE_PB027: Fähigkeiten 27
+MID_STAGE_PB027: Folgeangriff mit Forseti
+MID_STAGE_TITLE_PC013: Großmeister 13
+MID_STAGE_PC013: Diskretion und Mut
+MID_STAGE_HONOR_OCCUPATION: Eventkarte
+MID_STAGE_OCCUPATION: Revierkampf
+MID_STAGE_HONOR_OCCUPATION_DEFENSE: Eventkarte
+MID_STAGE_OCCUPATION_DEFENSE: Staffelverteidig.
+MID_STAGE_TITLE_OCCUPATION_DEFENSE0: 1. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE1: 2. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE2: 3. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE3: 4. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE4: 5. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE5: 6. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE6: 7. Karte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE7: 8. Karte
+MID_HEADQUARTERS_RELAY_TUTORIAL_DIALOG_00: Beschütze Festung und Lager!
+MID_WARPBASE_RELAY_TUTORIAL_DIALOG_00: Teleportiere zw. Festung u. Lager!
+MID_TAP_BATTLE_DATA_TITLE_0008: Abschied
+MID_MUSIC_NAME_BGM_MAP_FE07_03: Freundschaft & Abenteuer
+MID_MUSIC_NAME_BGM_MAP_FE15_03: Was gen Ende harrt
+MID_MUSIC_NAME_BGM_BATTLE_FE13_01: Training (Aufgeschreckt)

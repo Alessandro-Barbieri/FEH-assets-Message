@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_LEGEND01_HOME1: 嗯，該去巡邏的時間也到了呢。\n聽說津利也在這個世界出沒，\n我得好好集中精神才行。
+MID_LUCINA_LEGEND01_HOME2: 穿戴跟平常不一樣的武器和防具，\n感覺總有點無法靜下心來。\n我必須更努力鍛鍊才行……
+MID_LUCINA_LEGEND01_HOME3: $Nu，\n你的黑眼圈跑出來了喔。\n又熬夜看書了嗎？
+MID_LUCINA_LEGEND01_HOME4: 射中遠距離目標的訣竅嗎？\n我啊，對自己的觀察力很有自信，\n我也時常看著你喔。
+MID_LUCINA_LEGEND01_HOME5: 咦，你說……這個牆壁的洞嗎？\n這……該說是不可抗力嗎……\n我在試射的時候不小心太投入……
+MID_LUCINA_LEGEND01_FRIEND: 初次見面。\n我是露琪娜。\n今天因故穿這樣的服裝來訪，失禮了。
+MID_LUCINA_LEGEND01_LEVEL1: 我現在覺得連天上的繁星都可以射下來！
+MID_LUCINA_LEGEND01_LEVEL2: 成果算還可以吧。\n只要繼續累積經驗，\n應該就可以進步得更多。
+MID_LUCINA_LEGEND01_LEVEL3: 抱、抱歉……\n實在無法像拿劍時一樣順利呢……
+MID_LUCINA_LEGEND01_SKILL: 這種掌握新力量的感覺……\n真讓人雀躍呢，\n就像穿上新衣一樣。
+MID_LUCINA_LEGEND01_JOIN: 我是伊里斯聖王國的聖王庫洛武的獨生女。\n身帶傳承的偉大之弓，在此登場。
+MID_LUCINA_LEGEND01_STRONGEST: $Nu，\n不好意思，是我太焦躁了。\n剛才我的表情有那麼恐怖嗎？$k$p因為我聽說邪龍津利也出現在這個世界……\n沒錯，\n那是將我的世界導向破滅的存在。$k$p當時的我實力不夠……\n沒能保護父母、重要的夥伴們、\n以及其他許多人。$k$p我很擔心同樣的歷史再度上演，\n才不小心皺緊了眉頭……\n即使現在我手握神器，但還是很沒用呢。$k$p謝謝你，$Nu，\n為了不再失去重要的人，\n就讓我承蒙好意依靠你吧。
+MID_LUCINA_LEGEND01_VOICE01: 嘿──！
+MID_LUCINA_LEGEND01_VOICE02: 看招！
+MID_LUCINA_LEGEND01_VOICE03: 呀啊──！
+MID_LUCINA_LEGEND01_VOICE04: 怎麼會……！
+MID_LUCINA_LEGEND01_VOICE05: 未來是能改變的。
+MID_LUCINA_LEGEND01_VOICE06: 我不會輸的！
+MID_LUCINA_LEGEND01_VOICE07: 用這招結束戰鬥！
+MID_LUCINA_LEGEND01_VOICE08: 帶給世界希望！
+MID_LUCINA_LEGEND01_VOICE09: 帶給世界……希望……
+MID_LUCINA_LEGEND01_VOICE10: ふふふっ
+MID_LUCINA_LEGEND01_VOICE11: 私はルキナ。未来から来た、クロムの娘です。
+MID_LUCINA_LEGEND01_VOICE12: きゃっ！？　…びっくりしてしまいました。
+MID_LUCINA_LEGEND01_VOICE13: この格好…いかがでしょうか？
+MID_LUCINA_LEGEND01_VOICE14: まさか、この世界にもギムレーが…？　もしそうなら、私は…
+MID_LUCINA_LEGEND01_VOICE15: 私たちの未来は救われました…お父様と、絆の力によって。
+MID_LUCINA_LEGEND01_VOICE16: ギムレー…私の全てを賭けて…あなたを倒します。
+MID_LUCINA_LEGEND01_VOICE17: 私はもう…負けません。あなたとの絆があるから…
+MID_LUCINA_LEGEND01_VOICE18: ええ
+MID_LUCINA_LEGEND01_VOICE19: 迷いますね…
+MID_LUCINA_LEGEND01_VOICE20: そうしましょう

@@ -1,0 +1,457 @@
+[Heroes Archive] (Menu_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MID_ITEM_HOLY_GRAIL: Graal héroïque
+MID_ITEM_HELP_HOLY_GRAIL: Permet d'invoquer des héros. Touchez\nAlliés puis Utiliser des graals pour faire\napparaître la sélection disponible.
+MID_ITEM_SKYCASTLE_STONE: Pierre d'éther
+MID_ITEM_HELP_SKYCASTLE_STONE: Permet de construire et d'améliorer des\nstructures dans le mode Raid céleste.
+MID_ITEM_SKYCASTLE_DROP: Rosée céleste
+MID_ITEM_HELP_SKYCASTLE_DROP: Permet de renforcer les forts (A) et (D) ainsi\nque les ressources dans le mode Raid céleste.
+MID_ITEM_SKYCASTLE_THRONE_0: Trône d'or
+MID_ITEM_HELP_SKYCASTLE_THRONE_0: $aUn trône octroyé aux joueurs qui ont su\nse placer entre le rang $a0 et\nle rang $a1 dans le mode Raid céleste.
+MID_ITEM_SKYCASTLE_THRONE_1: Trône d'argent
+MID_ITEM_HELP_SKYCASTLE_THRONE_1: $aUn trône octroyé aux joueurs qui ont su\nse placer entre le rang $a0 et\nle rang $a1 dans le mode Raid céleste.
+MID_ITEM_SKYCASTLE_THRONE_2: Trône de bronze
+MID_ITEM_HELP_SKYCASTLE_THRONE_2: $aUn trône octroyé aux joueurs qui ont su\nse placer entre le rang $a0 et\nle rang $a1 dans le mode Raid céleste.
+MID_OCCUPATION_GUILD_NAME: $aCamp $a0
+MID_REPLAY_FAILED_CONFIRM: Impossible de\nvisionner la bataille.
+MID_MAP_REPLAY_END_ABORT_CONFIRM: $aArrêter de visionner la bataille\ncontre $a0 ?
+MID_MAP_REPLAY_END_COMPLETE_CONFIRM: $a$a0 a gagné.
+MID_MAP_REPLAY_END_GAMEOVER_CONFIRM: $a$a0 a perdu.
+MID_MAP_REPLAY_END_SURRENDER_CONFIRM: $a$a0 a capitulé.
+MID_MAP_REPLAY_END_DECIDE: Arrêter
+MID_SEQUENTIAL_MAP_TERM_201811: Passé et présent
+MID_SKYCASTLE_TITLE: Raid céleste
+MID_SKYCASTLE_RANK: Rang RC
+MID_SKYCASTLE_RATE: Altitude
+MID_SKYCASTLE_SEASON_DAYS: $aFin de saison dans $a0 j
+MID_SKYCASTLE_SEASON_HOURS: $aFin de saison dans $a0 h
+MID_SKYCASTLE_SEASON_MINUTES: $aFin de saison dans $a0 min
+MID_SKYCASTLE_CLOSED: Les batailles sont fermées.
+MID_SKYCASTLE_TUTORIAL: Le tutoriel n'aura pas d'effet\nsur votre altitude.
+MID_SKYCASTLE_AGGREGATING: Calcul du résultat.
+MID_SKYCASTLE_ENERGY: Éther
+MID_SKYCASTLE_BONUS_HEADLINE: Bonus actuels
+MID_SKYCASTLE_BONUS_NEXTSEASON: Bonus (prochaine saison)
+MID_SKYCASTLE_BONUSCHRS_CAPTION: Boost d'Atq, de Déf et d'altitude en attaquant !
+MID_SKYCASTLE_BONUSFCLS_CAPTION: Niveau fort (A) +1 !
+MID_SKYCASTLE_BONUSFCLS_CAPTION_2: Niveau fort (D) +1 !
+MID_SKYCASTLE_DAILYBONUS_CAPTION: Une récompense à gagner chaque jour !
+MID_SKYCASTLE_BTN_EDIT: Modifier citadelle
+MID_SKYCASTLE_BTN_ATTACK: Combattre
+MID_SKYCASTLE_BTN_REWARD: Récompenses
+MID_SKYCASTLE_BTN_HISTORY: Bilan défensif
+MID_SKYCASTLE_BTN_RANKING: Classement
+MID_SKYCASTLE_DIALOG_NEW_STOCK: Nouveau !
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION01: Structures
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION02: Terrain
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE: Récompense - Rang RC
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK: $aRaid céleste :\nrécompense (rang) $a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK_HIGHER: Raid céleste : récompense (rang)
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE_OVER_20: $a$a0 !
+MID_SKYCASTLE_GAINED_REWARDTYPE_PREFIX_FOR_UNDER_20: $aRang RC $a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_TUTORIAL: Récompense du tutoriel
+MID_SKYCASTLE_REWARDS_GAINED_DIALOG: Les récompenses liées à une\nsaison peuvent être récupérées en\nentrant de nouveau dans le mode\nRaid céleste une fois celle-ci\nterminée et avant la fin de\nla saison suivante.
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_TEXT: La fin de saison approche !
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_WARNING: Attention, si la saison prend fin avant\nque votre partie ne soit terminée, vos\nrésultats ne seront pas pris en compte.
+MID_SKYCASTLE_DIALOG_SEASON_END_TEXT: Vos résultats n'ont pas été pris\nen compte car la saison a pris fin\navant que vous n'ayez pu terminer\nvotre partie.
+MID_SKYCASTLE_ROOT_SEASONEND_TEXT: La saison est terminée. Vous ne pouvez\npas combattre pour le moment.
+MID_SKYCASTLE_ROOT_SEASONEND_WARNING: Vous pourrez participer\nà la saison suivante !
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT: Votre dernier combat s'est terminé\nde manière inopinée.
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT_WARNING: L'attaque comptera\ncomme une défaite.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_TEXT: Vous n'avez pas assez d'éther\npour combattre.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_WARNING: $aQuantité d'éther nécessaire : $a0
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END: Une nouvelle saison a commencé.
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END_WARNING: Retourner au menu Raid céleste.
+MID_SKYCASTLE_CLASS_0: Tropos
+MID_SKYCASTLE_CLASS_1: Stratos
+MID_SKYCASTLE_CLASS_2: Mesos
+MID_SKYCASTLE_CLASS_3: Thermos
+MID_SKYCASTLE_CLASS_4: Exos
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT: $aDépenser $a0 unité(s) d'éther\net continuer ?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT_DAILYBONUS: Continuer ?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING: Vous ne pourrez plus revenir\nen arrière après avoir découvert\nvos adversaires.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_DAILYBONUS: La première partie de chaque\njournée ne consomme pas d'éther.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_TUTORIAL: Le tutoriel ne consomme pas\nd'éther et n'affecte pas l'altitude,\nl'EXP, etc.\nLes forts (A) et (D) seront au\nmême niveau pour cette bataille.
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_UNITEDIT: Créer équipe
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_YES: Continuer
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_NO: Quitter
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_TEXT: Aucun adversaire\nn'a pu être trouvé.
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_WARNING: Attendez quelques instants\navant de réessayer.
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE: Adversaire
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE2: Informations
+MID_SKYCASTLE_DIALOG_BATTLE_RANK: $aRang RC $a0
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_CONFIRM_MAP: Carte
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_BATTLE: Combattre
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_GIVEUP: Capituler
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_START: Commencer le combat ?
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_START: Combattre
+MID_SKYCASTLE_DIALOG_GIVEUP_TEXT: Capituler ?
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING: Si vous capitulez, cela comptera\ncomme une défaite.
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING_DAILY: Dans ce cas, vous n'obtiendrez\npas la récompense quotidienne.
+MID_SKYCASTLE_DIALOG_GIVEUP_YES: Capituler
+MID_SKYCASTLE_DIALOG_GIVEUP_NO: Combattre
+MID_SKYCASTLE_RESULT_HEADLINE: Résultat
+MID_SKYCASTLE_TOTAL_RATE_CURRENT: Gain d'altitude
+MID_SKYCASTLE_TOTAL_RATE: Altitude
+MID_SKYCASTLE_BATTLE_RATE: Résultat
+MID_SKYCASTLE_BONUSCHR_RATE: Appel aux armes
+MID_SKYCASTLE_RESULT_RANK: Rang
+MID_SKYCASTLE_BTN_RESULT_CONFIRM: Continuer
+MID_SKYCASTLE_DIALOG_RESULT_RECOVER: $aRessource ennemie détruite !\nÉther +$a0
+MID_SKYCASTLE_DIALOG_RESULT_WARNING_01: L'altitude est à son minimum.
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE: Prochain rang RC :
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE_BEYOND: $aRang RC $a0 atteint !
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_EDIT: Plus
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_FLOOR: Terrain
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_AUTO: Placement\nauto
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ADDFACILITY: Construire/\nAméliorer
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SELECTFACILITY: Placer/\nEnlever
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ORGANIZE: Équipe\ndéfensive
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SYSTEMMENU: Aide et\nextras
+MID_SKYCASTLE_EDIT_GRID_DEFENSE: Carte de défense
+MID_SKYCASTLE_EDIT_GRID_OFFENSE: Carte d'attaque
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_0: Faire glisser ici pour supprimer.
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_1: Suppression impossible.
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_TESTPLAY: Tester les défenses
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_HELP: Aide
+MID_SKYCASTLE_EDIT_ADDFACILITY_TITLE: Construire/Améliorer
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP: Choisissez une structure.
+MID_SKYCASTLE_EDIT_ADDFACILITY_NO_TARGET: Aucune structure à\nconstruire ou améliorer.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_CONFIRM: Construire cette structure ?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_GENERATION_DECIDE: Construire
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_COMPLETE_CONFIRM: La structure a été construite.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR: Construction impossible.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR_WARNING: Il n'est plus possible de\nconstruire cette structure.
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_CONFIRM: Améliorer cette structure ?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_PROMOTION_DECIDE: Améliorer
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_COMPLETE_CONFIRM: La structure a été améliorée.
+MID_SKYCASTLE_EDIT_DIALOG_ADDFACILITY_ERROR: Impossible de placer la structure.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_01: Pas de place pour cette structure.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_02: Vous ne pouvez placer\nqu'une école à la fois.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_TITLE: Placer/Enlever
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP: Modifiez le placement de vos structures.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_NO_TARGET: Pas de structures.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_CONFIRM: Annuler sans sauvegarder ?
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_WARNING: Les changements seront perdus.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_DECIDE: Tout annuler
+MID_SKYCASTLE_EDIT_SELECTFACILITY_WARNING_GROUP: Vous ne pouvez placer qu'une école à la fois.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_BULIDED: En place
+MID_SKYCASTLE_EDIT_FACILITY_BTN_UNREMOVABLE: Inamovible
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_1: $aNiv. $a0
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_2: →
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_OFF: Infos de base
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_ON: Infos détaillées
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CONFIRM: Sélectionnez un filtre.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_FILTER_TITLE: Voir : 
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION: $aRequiert : $a0.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION_LV: $a Niv. $a0
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK: $aNécessite le rang RC $a0 ou supérieur.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK_THRONE: $aDébloqué du rang $a0 au rang $a1.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_UNREMOVABLE: Cette structure ne peut pas être supprimée.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_TUTORIAL: Non disponible dans le tutoriel.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_DAYS: $aEncore $a0 j
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HOURS: $aEncore $a0 h
+MID_SKYCASTLE_EDIT_FACILITY_BTN_MINUTES: $aEncore $a0 min
+MID_SKYCASTLE_EDIT_FACILITY_BTN_NO_LEVEL: Pas de niv.
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE: Gain max.
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE_HELP: ・ Il s'agit de la plus grande quantité d'altitude\nque vous pouvez gagner en attaquant.\n・ Une attaque réussie rapporte 80 unités\nd'altitudes. Vous pouvez en gagner 20 de plus\nen utilisant un allié concerné par Appel aux\narmes (ce bonus n'augmente pas si vous\nutilisez plusieurs alliés).
+MID_SKYCASTLE_EDIT_AUTO_TEXT: Les structures et les alliés seront\nplacés automatiquement.
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD: Constr./Amél. auto
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD_EX: Les structures seront construites et\naméliorées automatiquement.
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD: Placement uniquement
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD_EX: Les structures existantes seront\nplacées automatiquement.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_HEADLINE: Placement automatique
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_BTN_DECIDE: Placer
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_COMPLETE: Placement terminé.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_0: Avant-garde
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_1: Arrière-garde
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_2: Aile droite
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_3: Aile gauche
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_4: Équipe d'infanterie
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_5: Équipe en armure
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_6: Équipe de cavaliers
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_7: Équipe volante
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT: $aThème : $a0
+MID_SKYCASTLE_EDIT_FLOOREDIT_TITLE: Terrain
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP: Choisissez le terrain du champ de bataille.
+MID_SKYCASTLE_EDIT_FLOOREDIT_CHANGE_CONFIRM: Utiliser ce terrain ?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_CONFIRM: $aUtiliser $a0 pierres d'éther\npour modifier ce terrain ?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BTN_DECIDE: Modifier
+MID_SKYCASTLE_EDIT_FLOOREDIT_COMPLETE_CONFIRM: Le terrain a été modifié.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR: Impossible de modifier le terrain.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR_WARNING: Ce terrain n'est plus disponible.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION: Testez vos défenses en\ncombattant sur votre carte.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION_WARNING: ・ Ne nécessite pas d'éther.\n・ L'altitude ne sera pas affectée.\n・ Les forts (A) et (D) auront\nle même niveau.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_BTN_START: Combattre
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_DEFENSE: Défense
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_DEFENSE: Structures utilisées lors de la défense.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_TRAP: Pièges
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_TRAP: Ils se déclenchent lorsqu'un ennemi s'arrête sur eux.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_RESOURCE: Ressources
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_RESOURCE: Structures permettant de stocker et de régénérer l'éther.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_MISC: Ornements
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_MISC: Structures décoratives sans effet pendant le combat.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_OFFENSE: Attaque
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_OFFENSE: Structures utilisées lors de l'attaque.
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_ALL: Tout
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_DEFENSE: Défense
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_TRAP: Pièges
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_RESOURCE: Ressources
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_MISC: Ornements
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_OFFENSE: Attaque
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_DEFENSE_BUILDED: En place (D)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_OFFENSE_BUILDED: En place (A)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_AVAILABLE: À construire
+MID_SKYCASTLE_REWARD_TITLE: Récompenses
+MID_SKYCASTLE_REWARD_RANK: Rang
+MID_SKYCASTLE_REWARD_TIER: Rang RC
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_TIER: Catégorie : rang RC
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_RANK: Catégorie : rang
+MID_SKYCASTLE_REWARD_DIALOG_SELECT_FILTER: Sélectionnez un filtre.
+MID_SKYCASTLE_REWARD_RANK_OUT_OF_RANGE: aucun
+MID_SKYCASTLE_REWARD_RANK_CALCULATING: Calcul...
+MID_SKYCASTLE_HISTORY_TITLE: Bilan défensif
+MID_SKYCASTLE_HISTORY_DEF_WIN: Réussite !
+MID_SKYCASTLE_HISTORY_DEF_LOSE: Échec
+MID_SKYCASTLE_HISTORY_NUM_DEFEAT: $aEnnemis vaincus : $a0
+MID_SKYCASTLE_HISTORY_BTN_REVENGE: Revanche
+MID_SKYCASTLE_HISTORY_BTN_REVENGE_FINISHED: Revanche finie
+MID_SKYCASTLE_HISTORY_BTN_REPLAY: Visionner
+MID_SKYCASTLE_HISTORY_REVENGED: L'ennemi a gagné.
+MID_SKYCASTLE_HISTORY_NO_HISTORY: Aucun bilan à afficher.
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_CONFIRM: Visionner la bataille ?
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_BTN_YES: Visionner
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_ERROR: Impossible d'accéder\naux données.
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_PLAY: Lecture
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_STOP: Pause
+MID_SKYCASTLE_HISTORY_SELECT_FILTER: Sélectionnez un filtre.
+MID_SKYCASTLE_HISTORY_FILTER_DEF_WIN: Filtre : victoires
+MID_SKYCASTLE_HISTORY_FILTER_DEF_LOSE: Filtre : défaites
+MID_SKYCASTLE_HISTORY_FILTER_REVENGE: Filtre : revanche
+MID_SKYCASTLE_HISTORY_FILTER_ALL: Filtre : tout
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_WIN: Victoires
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_LOSE: Défaites
+MID_SKYCASTLE_HISTORY_BTN_FILTER_REVENGE: Revanche
+MID_SKYCASTLE_HISTORY_BTN_FILTER_ALL: Tout
+MID_SKYCASTLE_RANKING_TITLE: Classement
+MID_SKYCASTLE_RANKING_RANK_PLAYER: Votre rang
+MID_SKYCASTLE_RANKING_RANK_TOP: Podium
+MID_SKYCASTLE_RANKING_RANK_FRIEND: Amis
+MID_SKYCASTLE_RANKING_RANK_RANGE: Choisissez un filtre.
+MID_SKYCASTLE_RANKING_UNCALCULATED_TOP: Calcul du rang...
+MID_SKYCASTLE_RANKING_UNCALCULATED_PLAYER: Vous n'avez pas de rang.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_00: La carte d'attaque est utilisée\nquand vous attaquez une citadelle.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_01: La carte de défense est utilisée\nquand vous vous protégez.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_02: ◆ Modifier la citadelle ◆\nPlacez des structures et des alliés\npour fortifier vos cartes d'attaque\net de défense.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_03: ◆ Carte de défense ◆\nVous pouvez placer des structures\ndéfensives, des pièges, des\nressources, des ornements et des\nalliés.\n\n◆ Équipe de défense ◆\nL'équipe est placée sur les deux\nlignes supérieures de la carte.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_04: ◆ Carte d'attaque ◆\nPlacez des structures d'attaque.\n\n◆ Équipe d'attaque ◆\nL'équipe d'attaque sera placée\nune ligne au-dessus de la carte\nd'attaque.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_05: ◆ Structures défensives ◆\nLes structures défensives, les\nressources, les pièges et les\nornements peuvent être placés\nn'importe où en dehors des cases\nde terrain spécial (bois, tranchées\netc.).
+MID_SKYCASTLE_EDIT_HELP_DIALOG_06: ◆ Structures permanentes ◆\nLes forts et les ressources ne\npeuvent pas être supprimés.\n\n◆ Détruire des structures ◆\nLes forts sont indestructibles.\nLes autres structures peuvent\nêtre détruites en une attaque.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_07: ◆ Placement automatique ◆\nCette option automatise la\nconstruction, le placement et\nl'amélioration des structures, ainsi\nque la création et le placement\ndes équipes de défense. Attention,\nla création et l'amélioration de\nstructures consomment de la\nrosée céleste et des pierres\nd'éther.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_08: ◆ Tester les défenses ◆\nVous pouvez tester les défenses\nde votre carte et votre équipe\nde défense sans consommer\nd'éther.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_09: ◆ Tester en dehors des saisons ◆\nSi vous testez vos défenses entre\ndeux saisons, cela sera considéré\ncomme faisant partie de la saison\nà venir.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_00: ◆ Placer/enlever des structures ◆\nVous pouvez placer ou enlever\nles structures que vous avez\nconstruites.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_01: ◆ Limites pour les structures ◆\nChaque type de structure ne peut\nêtre placé qu'un certain nombre\nde fois.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_00: ◆ Construire des structures ◆\nVous pouvez utiliser des pierres\nd'éther et de la rosée céleste pour\nconstruire de nouvelles structures.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_01: ◆ Améliorer les structures ◆\nVous pouvez utiliser des pierres\nd'éther et de la rosée céleste pour\naméliorer vos structures une fois.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_02: ◆ Structures à durée limitée ◆\nCertaines structures ne peuvent\nêtre construites que pendant une\ndurée limitée, et nécessitent des\nobjets qui ne peuvent être\nobtenus que pendant la même\npériode. Une fois que vous les\navez construites, vous pouvez les\nconserver même en dehors\nde cette période.
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_00: Modifiez le terrain !
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: ◆ Terrain ◆\nVous pouvez modifier le terrain\nde votre citadelle.\n\nIl faut dépenser des pierres\nd'éther pour débloquer certains\nterrains.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: Attaquez et défendez-vous !
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: ◆ Raid céleste ◆\nPlacez des structures, une équipe\nde défense et d'autres éléments\nsur vos cartes, puis attaquez ou\ndéfendez-vous pour augmenter\nvotre altitude.\n\nL'attaquant remporte la victoire\ns'il parvient à vaincre son\nadversaire en sept tours ou moins.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: ◆ Éther ◆\nL'éther est l'énergie utilisée dans\nle mode Raid céleste. Vous en\nrécupérez une quantité fixe\nchaque jour, et il est rechargé en\ntotalité au début d'une saison.\nNote : il est impossible d'aller\nau-delà du maximum d'éther. La\nquantité d'éther à dépenser pour\ncombattre augmente avec\nl'altitude.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: ◆ Altitude et rang ◆\nL'altitude varie en fonction des\nrésultats d'attaque et de défense.\nLe rang dépend de l'altitude. Au\ndébut d'une nouvelle saison, vous\nrecevez une certaine quantité\nd'altitude en fonction de votre\nrang.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: ◆ Gain d'altitude ◆\n・ Si vous attaquez avec un\npersonnage de l'Appel aux armes,\nvous recevrez un bonus d'altitude\nde +20.\n・ Le gain d'altitude maximal de\nl'adversaire ne sera pas affecté.\n・ Si vous utilisez plusieurs\npersonnages de l'Appel aux\narmes, seul le bonus le plus\nimportant s'appliquera.\n・ En cas de défaite, vous\nobtiendrez moins d'altitude.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: ◆ Conditions spéciales ◆\nSi votre altitude est inférieure ou\négale à 4 000, elle ne diminuera\npas en cas de défaite.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: ◆ Autres informations ◆\nSi la bataille ne se termine pas\ncorrectement, l'altitude ne sera\npas modifiée, ni pour l'attaquant\nni pour le défenseur.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_07: ◆ Appel aux armes ◆\nLes personnages de l'Appel aux\narmes bénéficient de PV +10 et\nAtq/Vit/Déf/Rés +4 et gagnent\ndeux fois plus d'EXP et de PA\npendant les batailles du mode\nRaid céleste.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_08: ◆ Structures bonus ◆\nPlacez des structures bonus dans\nvotre citadelle pour faire gagner\nun niveau à votre fort (A) ou (D).
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_09: ◆ Fort (D) et perte de rang ◆\nSi vous passez au rang inférieur,\nle niveau de votre fort (D)\ndiminuera.
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_00: ◆ Consulter les récompenses ◆\nVous pouvez consulter les\nrécompenses en jeu pour\nla saison en cours.
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_01: ◆ Obtenir des récompenses ◆\nPour recevoir les récompenses\nque vous avez gagnées lors de\nla saison précédente, allez dans\nle mode Raid céleste après le\ncalcul des résultats de la saison\nen question, mais avant la fin de\nla nouvelle saison.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_00: ◆ Résultats de défense ◆\nIl s'agit de la liste de vos résultats\nde défense. Vous pouvez voir\nl'évolution de votre altitude en\nfonction des victoires et des\ndéfaites, ainsi que le nombre\nd'ennemis vaincus.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_01: ◆ Visionner ◆\nVous pouvez visionner vos\nbatailles de défense.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_02: ◆ Revanche ◆\nVous pouvez attaquer un\nadversaire qui est venu à bout de\nvos défenses. Cela consommera\nde l'éther. Si le même adversaire\napparaît dans la liste plusieurs\nfois, vous ne pouvez l'affronter\nqu'une fois.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_03: ◆ Limite de perte d'altitude ◆\nSi votre citadelle est attaquée,\nvotre altitude ne diminuera pas\nau cours des 20 heures suivantes,\nmême en cas de défaite de votre\néquipe de défense.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_00: ◆ Rang ◆\nIl s'agit de votre rang actuel. Il\npeut y avoir un certain délai\nd'attente entre le moment où il\nest calculé et son changement\neffectif.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_01: ◆ Votre rang / Podium ◆\nVous pouvez voir le rang des\njoueurs pour la saison en cours.\n\n◆ Amis ◆\nVous pouvez voir le rang de vos\namis dans la saison en cours et\ndans les saisons précédentes.
+MID_SKYCASTLE_TUTORIAL_DIALOG_01: Sélectionnez Modifier citadelle et\npréparez-vous pour le combat.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03: La carte d'attaque est utilisée\nquand vous attaquez une citadelle.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03_2: La carte de défense est utilisée\nquand vous vous protégez.
+MID_SKYCASTLE_TUTORIAL_DIALOG_04: Construisez des structures\nd'attaque sur la carte d'attaque.
+MID_SKYCASTLE_TUTORIAL_DIALOG_15: $aVous pouvez construire et\naméliorer des structures grâce à\ndes pierres d'éther et de la rosée\ncéleste. Essayez de créer la\nstructure suivante :\n$a0.
+MID_SKYCASTLE_TUTORIAL_DIALOG_05: $aCréez cette structure :\n$a0.
+MID_SKYCASTLE_TUTORIAL_DIALOG_06: Une structure d'attaque\na été créée.
+MID_SKYCASTLE_TUTORIAL_DIALOG_06_WARNING: Les structures déjà créées\npeuvent être placées ou enlevées\ndepuis le menu Placer/Enlever.
+MID_SKYCASTLE_TUTORIAL_DIALOG_07: Les structures peuvent être\ndéplacées de la même manière\nque les alliés.
+MID_SKYCASTLE_TUTORIAL_DIALOG_08: Déplacez une structure d'attaque.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09: La structure a été déplacée.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09_WARNING: Les éléments de la carte de\ndéfense peuvent être déplacés\nde la même manière.
+MID_SKYCASTLE_TUTORIAL_DIALOG_12: Utilisez votre carte d'attaque\npour attaquer une citadelle.
+MID_SKYCASTLE_TUTORIAL_DIALOG_10: Fortifiez votre citadelle et\nremportez des victoires pour\naméliorer votre rang RC et gagner\ndes récompenses qui vous\npermettront d'améliorer encore\nplus votre citadelle !
+MID_SKYCASTLE_TUTORIAL_DIALOG_13: L'option Placement auto,\ndisponible dans le menu Plus,\ngère votre citadelle pour vous.
+MID_SKYCASTLE_TUTORIAL_DIALOG_16: Vous pouvez choisir un thème\ngrâce aux flèches de gauche et\nde droite.
+MID_SKYCASTLE_TUTORIAL_DIALOG_17: Suppression impossible\npendant le tutoriel.
+MID_SKYCASTLE_TUTORIAL_DUMMY_TROOP: Les autres Gardiens
+MID_SKYCASTLE_TUTORIAL_BATTLE_02_DIALOG_00: Détruisez des structures et gagnez\nde l'éther grâce aux ressources.
+MID_SKYCASTLE_TUTORIAL_BATTLE_01_DIALOG_00: Touchez les structures ennemies\npour connaître leurs effets.
+MID_SCF_ギュミル泉: Fontaine d'éther
+MID_SCF_ギュミル泉_HELP: $aRestaure $a0 unités d'éther chaque jour.\nEn cas de destruction, restaure l'éther de\nl'ennemi si celui remporte la victoire.\nInamovible. Peut être détruit.
+MID_SCF_ギュミル水瓶: Amphore d'éther
+MID_SCF_ギュミル水瓶_HELP: $aPeut stocker jusqu'à $a0 unités d'éther.\nEn cas de destruction, restaure l'éther de\nl'ennemi si celui remporte la victoire.\nInamovible. Peut être détruit.
+MID_SCF_防砦: Fort (D)
+MID_SCF_防砦_HELP: Si le niveau de cette structure est\nsupérieur à celui du fort (A)\nennemi, les alliés bénéficient de\nAtq/Vit/Déf/Rés + (différence de niveau × 4).\nInamovible. Indestructible.
+MID_SCF_防雷: Tour éclair (D)
+MID_SCF_防雷_HELP: $aAu début du tour 3, inflige $a0 dégâts\naux ennemis situés dans un rectangle de\n3 cases de long sur 7 de haut ayant pour\ncentre la structure.
+MID_SCF_防軍師: Salle tactique (D)
+MID_SCF_防軍師_HELP: $aEn début de tour, les ennemis dans un\nrectangle (3 cases de long et 7 de haut) centré\nsur la structure, utilisant arc/dague/magie ou\nbâton, dont PV ≤ $a0 ne peuvent bouger\nque d'une case jusqu'à la fin de leur phase.
+MID_SCF_防回復: Tour de soin (D)
+MID_SCF_防回復_HELP: $aEn début de tour, rend $a0 PV aux alliés\nsitués dans un carré de 5 cases de côté\nayant pour centre la structure.
+MID_SCF_防対歩行: École infanterie (D)
+MID_SCF_防対歩行_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux fantassins ennemis sur la même colonne\nque la structure et sur les colonnes adjacentes\njusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_防対重装: École armure (D)
+MID_SCF_防対重装_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux unités en armure ennemies sur la même\ncolonne que la structure et sur les colonnes\nadjacentes jusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_防対騎馬: École cavalerie (D)
+MID_SCF_防対騎馬_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux cavaliers ennemis sur la même colonne\nque la structure et sur les colonnes adjacentes\njusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_防対飛行: École vol (D)
+MID_SCF_防対飛行_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux unités volantes ennemies sur la même\ncolonne que la structure et sur les colonnes\nadjacentes jusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_防恐慌: Manoir panique (D)
+MID_SCF_防恐慌_HELP: $aEn début de tour, les bonus deviennent des\nmalus jusqu'à la fin de leur phase pour les\nennemis dans un rectangle de 3 cases de long\nsur 7 de haut ayant pour centre la structure\ndont les PV sont inférieurs ou égaux à $a0.
+MID_SCF_防投石: Catapulte (D)
+MID_SCF_防投石_HELP: En début de tour, détruit les structures\nd'attaque sur la même colonne que cette\nstructure, ayant un niveau inférieur ou égal au\nsien, mis à part le fort (A) qui est indestructible.
+MID_SCF_攻砦: Fort (A)
+MID_SCF_攻砦_HELP: Si le niveau de cette structure est\nsupérieur à celui du fort (D)\nennemi, les alliés bénéficient de\nAtq/Vit/Déf/Rés + (différence de niveau × 4).\nInamovible. Indestructible.
+MID_SCF_攻雷: Tour éclair (A)
+MID_SCF_攻雷_HELP: $aAu début du tour 3, inflige $a0 dégâts\naux ennemis sur la même colonne que la\nstructure et sur les colonnes adjacentes.
+MID_SCF_攻軍師: Salle tactique (A)
+MID_SCF_攻軍師_HELP: $aEn début de tour, les ennemis situés sur la\nmême colonne que la structure utilisant\narc/dague/magie/bâton et dont PV ≤ $a0\nne peuvent se déplacer que d'une case jusqu'à\nla fin de leur phase.
+MID_SCF_攻回復: Tour de soin (A)
+MID_SCF_攻回復_HELP: $aEn début de tour, rend $a0 PV aux alliés\nsitués dans un rectangle de 3 cases de long\nsur 5 de haut ayant pour centre la structure.
+MID_SCF_攻対歩行: École infanterie (A)
+MID_SCF_攻対歩行_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux fantassins ennemis sur la même colonne\nque la structure et sur les colonnes adjacentes\njusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_攻対重装: École armure (A)
+MID_SCF_攻対重装_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux unités en armure ennemies sur la même\ncolonne que la structure et sur les colonnes\nadjacentes jusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_攻対騎馬: École cavalerie (A)
+MID_SCF_攻対騎馬_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux cavaliers ennemis sur la même colonne\nque la structure et sur les colonnes adjacentes\njusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_攻対飛行: École vol (A)
+MID_SCF_攻対飛行_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux unités volantes ennemies sur la même\ncolonne que la structure et sur les colonnes\nadjacentes jusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
+MID_SCF_攻恐慌: Manoir panique (A)
+MID_SCF_攻恐慌_HELP: $aEn début de tour, les bonus deviennent des\nmalus jusqu'à la fin de leur phase pour les\nennemis situés sur la même colonne que la\nstructure ou sur une colonne adjacente et dont\nles PV sont inférieurs ou égaux à $a0.
+MID_SCF_攻投石: Catapulte (A)
+MID_SCF_攻投石_HELP: En début de tour, détruit les structures de\ndéfense sur la même colonne que cette\nstructure, ayant un niveau inférieur ou égal au\nsien, mis à part les structures indestructibles\n(fort, pièges, ressources et ornements).
+MID_SCF_落雷の罠A: Piège éclair
+MID_SCF_落雷の罠A_BATTLE: Piège
+MID_SCF_落雷の罠A_HELP: $aSi la cible s'arrête sur ce piège, inflige\n$a0 dégâts à la cible et aux unités à\n3 cases ou moins de la cible. (Neutralise les\naptitudes d'attaque et de soutien de la cible.)
+MID_SCF_落雷の罠A_BATTLEHELP: Ça a l'air dangereux...
+MID_SCF_重圧の罠A: Piège lourd
+MID_SCF_重圧の罠A_BATTLE: Piège
+MID_SCF_重圧の罠A_HELP: $aSi la cible s'arrête sur ce piège, la cible et les\nunités à 2 cases ou moins de la cible dont\nPV ≤ $a0 ne peuvent se déplacer que d'une\ncase jusqu'à la fin de leur phase. (Neutralise les\naptitudes d'attaque et de soutien de la cible.)
+MID_SCF_重圧の罠A_BATTLEHELP: Ça a l'air dangereux...
+MID_SCF_落雷の罠ダミー: Faux piège éclair
+MID_SCF_落雷の罠ダミー_BATTLE: Piège
+MID_SCF_落雷の罠ダミー_HELP: On dirait un piège éclair, mais ce n'est\nqu'une imitation.
+MID_SCF_落雷の罠ダミー_BATTLEHELP: Ça a l'air dangereux...
+MID_SCF_重圧の罠ダミー: Faux piège lourd
+MID_SCF_重圧の罠ダミー_BATTLE: Piège
+MID_SCF_重圧の罠ダミー_HELP: On dirait un piège lourd, mais ce n'est\nqu'une imitation.
+MID_SCF_重圧の罠ダミー_BATTLEHELP: Ça a l'air dangereux...
+MID_SCF_金の玉座: Trône d'or
+MID_SCF_金の玉座_HELP: $aUn trône octroyé aux joueurs qui ont su se\nplacer entre le rang $a0 et le rang $a1\ndans le mode Raid céleste. Il est marqué du\nnombre de fois où vous l'avez obtenu, si\ncelui-ci est supérieur à 1.
+MID_SCF_銀の玉座: Trône d'argent
+MID_SCF_銀の玉座_HELP: $aUn trône octroyé aux joueurs qui ont su se\nplacer entre le rang $a0 et le rang $a1\ndans le mode Raid céleste. Il est marqué du\nnombre de fois où vous l'avez obtenu, si\ncelui-ci est supérieur à 1.
+MID_SCF_銅の玉座: Trône de bronze
+MID_SCF_銅の玉座_HELP: $aUn trône octroyé aux joueurs qui ont su se\nplacer entre le rang $a0 et le rang $a1\ndans le mode Raid céleste. Il est marqué du\nnombre de fois où vous l'avez obtenu, si\ncelui-ci est supérieur à 1.
+MID_SCF_その他1: Statue de Feh
+MID_SCF_その他1_HELP: Une œuvre d'art créée sous la supervision\ndirecte de celle qui lui a servi de modèle.\nIl s'agit d'un objet d'événement.
+MID_SCF_その他2: Parterre de fleurs
+MID_SCF_その他2_HELP: Un arrangement de fleurs aux couleurs vives.\nIl s'agit d'un objet d'événement.
+MID_SCF_その他3: Lampadaire
+MID_SCF_その他3_HELP: Un lampadaire classique et élégant.\nIl s'agit d'un objet d'événement.
+MID_SCF_K0001: Source
+MID_SCF_K0001_Ex: Particularité : étangs
+MID_SCF_K0002: Contrée du froid
+MID_SCF_K0002_Ex: Particularité : bois
+MID_SCF_K0003: Ruines
+MID_SCF_K0003_Ex: Particularité : murs fragiles
+MID_SCF_K0004: Terres enneigées
+MID_SCF_K0004_Ex: Particularité : zones défensives, tranchées
+MID_SCF_K0005: Désert
+MID_SCF_K0005_Ex: Particularité : montagnes
+MID_SCF_K0006: Brise printanière
+MID_SCF_K0006_Ex: Particularité : murs
+MID_SCF_K0007: Forêt dense
+MID_SCF_K0007_Ex: Particularité : bois, tranchées
+MID_SCF_K0008: Château perdu
+MID_SCF_K0008_Ex: Particularité : zones défensives, bois
+MID_SCF_K0009: Pré estival
+MID_SCF_K0009_Ex: Particularité : bois
+MID_SCF_K0010: Volcan
+MID_SCF_K0010_Ex: Particularité : lave
+MID_ITEM_SKYCASTLE_201811: Pierre d'éther spéciale
+MID_ITEM_HELP_SKYCASTLE_201811: Sert à construire des structures à durée\nlimitée dans le mode Raid céleste. Une fois\nla période terminée, les pierres sont perdues.
+MID_STAGE_SKYCASTLE: Raid céleste
+MID_STAGE_SKYCASTLE_TESTPLAY: Raid céleste : test défensif
+MID_STAGE_SKYCASTLE_TUTORIAL: Raid céleste : tutoriel
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_2: Pour les héros légendaires et bénis.
+MID_STAGE_SELECT_SEQUENTIAL_MAP: Multi-cartes
+MID_STAGE_SELECT_SEQUENTIAL_MAP_INFO: Enchaînez les batailles !
+MID_TAP_BATTLE_DATA_TITLE_0010: Dédale du désespoir
+MID_MUSIC_NAME_BGM_MAP_FE13_07: Devoir (en flammes)
+MID_MUSIC_NAME_BGM_MAP_FE08_01: Vérité, désolation et espoir
+MID_MUSIC_NAME_BGM_MAP_FE13_11: Nuage d'orage\n(en flammes)
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE: Modifier éq. attaque
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_00: ◆ Équipes d'attaque ◆\nGérez les équipes d'attaque\nutilisées dans le mode Raid\ncéleste.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_01: ◆ Gain max. ◆\nIl s'agit de la quantité d'altitude\nmaximale pouvant être gagnée\navec une attaque réussie dans le\nmode Raid céleste.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_02: ◆ Taille des équipes d'attaque ◆\nSi vous atteignez un rang RC\nsuffisamment élevé, vous pourrez\ndépenser des pierres d'éther afin\nde débloquer un emplacement\npour un cinquième allié dans\nvos équipes d'attaque.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_03: ◆ Cinquième emplacement ◆\nVous devez atteindre le\nrang RC 11 pour pouvoir utiliser\ncinq alliés.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE: Modifier éq. défense
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP: Gérez votre équipe de défense.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_00: $aRang $a0\nrequis
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_01: Ajouter\nun allié
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_CONFIRM: $aUtiliser $a0 pierres d'éther\npour ajouter un allié ?
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_WARNING: $aSi vous passez au rang $a0 ou\ninférieur, l'allié supplémentaire\nn'ira pas au combat.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_DECIDE: Ajouter
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_COMPLETE: L'allié a été ajouté.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_FAILURE: Pas assez de pierres d'éther.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE: Perte max.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE_HELP: La quantité d'altitude maximale que vous\npouvez perdre avec votre équipe de défense.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_0: Verrouiller l'équipe
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_1: Déverrouiller
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_0: Verrouiller cette équipe ?\n\nLes niveaux, caractéristiques,\naptitudes, sceaux sacrés et\nbénédictions de ses membres\nseront verrouillés pour le mode\nRaid céleste uniquement.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_1: Déverrouiller cette équipe ?\n\nSes membres auront alors leurs\ncaractéristiques, aptitudes, sceaux\nsacrés et bénédictions actuels.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_0: Verrouiller
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_1: Déverrouiller
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_CANCEL: Retour
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_TEXT: Il n'y a pas d'équipe défensive.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_WARNING: Si aucune équipe de défense\nn'a été créée, la citadelle sera\ndéfendue par des versions\nniveau 40 d'Alfonse, Sharena\net Anna.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_00: ◆ Équipe de défense ◆\nGérez l'équipe que vos\nadversaires affronteront sur les\ncartes de défense.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_01: ◆ Verrouiller l'équipe ◆\nLes niveaux, caractéristiques,\naptitudes, sceaux sacrés et\nbénédictions de l'équipe de\ndéfense seront verrouillés pour\nle mode Raid céleste uniquement.\nDéverrouillez l'équipe pour\nactualiser ces informations.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_02: ◆ Taille de l'équipe de défense ◆\nSi vous améliorez votre rang RC,\nvous pourrez dépenser des\npierres d'éther pour débloquer de\nnouveaux emplacements dans\nvotre équipe de défense. Vous\npouvez avoir jusqu'à six alliés\nau total.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_03: ◆ Débloquer les emplacements ◆\nVous devez atteindre le rang 11\npour débloquer le cinquième\nemplacement, et le rang 19 pour\nle sixième. Si vous perdez votre\nrang, vous ne pourrez plus utiliser\nl'emplacement correspondant,\nmais vous le récupérerez en\nretrouvant votre rang.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_04: ◆ Sans équipe de défense ◆\nSi aucune équipe de défense\nn'a été créée, la citadelle sera\ndéfendue par des versions\nniveau 40 d'Alfonse, Sharena\net Anna.
+MID_UNIT_EDIT_HOLY_GRAIL: Utiliser des graals
+MID_UNIT_EDIT_HOLY_GRAIL_HELP1: Sélectionnez un héros.
+MID_UNIT_EDIT_HOLY_GRAIL_REMAIN_COUNT: Invoc. restantes :
+MID_UNIT_EDIT_HOLY_GRAIL_CONFIRM: Invoquer avec des graals ?
+MID_UNIT_EDIT_HOLY_GRAIL_DECIDE: Invoquer
+MID_UNIT_EDIT_HOLY_GRAIL_WARNING: Vous n'avez pas assez de graals\nhéroïques pour invoquer.
+MID_UNIT_EDIT_UNIT_FULL_INFOR: Vous avez atteint le maximum\nd'alliés.
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_RECENT: Récent
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_ORDER: Ajouté
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_00: Invoquez avec des graals !
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_01: ◆ Graals héroïques ◆\nVous pouvez utiliser des graals\nhéroïques pour invoquer une\nsélection de héros ! Ces objets\npeuvent être obtenus dans le\nmode Raid céleste, entre autres.
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_02: ◆ Autres informations ◆\nLes graals héroïques vous\npermettent d'invoquer jusqu'à\n20 fois le même héros.\n\nLa quantité de graals nécessaires\naugmente à chaque invocation\nd'un même héros.
+MID_RELAY_HELP_DIALOG_06_02: ◆ Autres règles ◆\n・ L'ennemi reçoit des renforts.
+MID_UNIT_EDIT_SPECIAL_TROOP: Équipes spéciales
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01_02: Les équipes réserves ne peuvent\nêtre créées ou modifiées que dans\nles modes où les batailles se\ndéroulent sur plusieurs cartes.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_DIALOG: Choisir type d'équipe
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_PREFIX: Équipe :  
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NORMAL: Éq. principales
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_RESERVE: Équipes réserves
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_OCCUPATION: Brigades
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_SKYCASTLE_OFFENSE: Éq. attaque RC
+MID_UNIT_EDIT_HOLY_GRAIL_FIRST_TIME_REWARD_TITLE: Bonus de première visite : graals héroïques

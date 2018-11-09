@@ -1,0 +1,9 @@
+[Heroes Archive] (S2113)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Smile|Hah! So THIS is where you've been\nhiding, you filthy rats. Must be my\nlucky day!$k$pI know that you were hoping to be\nslaughtered by the best, so I crawled\nout of the depths of hell, just for you!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|To hell with you all! I'm not...going to\ndie...$k$p

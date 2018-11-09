@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: 花占卜髮飾
+MDAID_H_花占いの髪飾り: 從絲米亞那裡得到的\n用來進行花占卜的髮飾。\n散發著甘甜芬芳的香氣。
+MDAID_花占いの髪飾り・極: 花占卜髮飾・極
+MDAID_H_花占いの髪飾り・極: 從絲米亞那裡得到的\n用來進行花占卜的髮飾。\n散發著優雅華貴的香氣。
+MDAID_令嬢のリボン: 千金的蝴蝶結
+MDAID_H_令嬢のリボン: 從瑪利亞貝爾那裡得到的蝴蝶結髮飾。\n使用高級的布料製作而成。
+MDAID_令嬢のリボン・極: 千金的蝴蝶結・極
+MDAID_H_令嬢のリボン・極: 從瑪利亞貝爾那裡得到的蝴蝶結髮飾。\n使用高級的布料製作而成。\n隱約飄散出柔和的香水味。
+MDAID_踊り子のマスク: 舞孃的面具
+MDAID_H_踊り子のマスク: 從奧利薇那裡得到的\n舞孃在舞台上穿戴的面具。\n能讓整個人散發出神秘氣息。
+MDAID_踊り子のマスク・極: 舞孃的面具・極
+MDAID_H_踊り子のマスク・極: 從奧利薇那裡得到的\n舞孃在舞台上穿戴的面具。\n能讓整個人散發出惹人憐愛的氣息。
+MDAID_聖職者の帽子: 聖職者的帽子
+MDAID_H_聖職者の帽子: 從利貝拉那裡得到的\n在神聖的場合戴的帽子。\n只要戴上去，就能讓人感受到平靜。
+MDAID_聖職者の帽子・極: 聖職者的帽子・極
+MDAID_H_聖職者の帽子・極: 從利貝拉那裡得到的\n在神聖的場合戴的帽子。\n只要戴上去，就能感受到莊嚴的氣氛。
+MID_MISSION_S201807ARENA01_TITLE: 鬥技場
+MID_MISSION_S201807ARENA01_A1: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A1: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A2: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A2: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A3: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A3: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A4: 在縛鎖鬥技場達成3連勝
+MID_MISSION_H_S201807ARENA01_A4: 在縛鎖鬥技場達成3連勝。
+MID_MISSION_S201807ARENA01_A5: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A5: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A6: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A7: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A7: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A8: 在縛鎖鬥技場達成5連勝
+MID_MISSION_H_S201807ARENA01_A8: 在縛鎖鬥技場達成5連勝。
+MID_MISSION_S201807ARENA01_A9: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A9: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A10: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A10: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A11: 在鬥技場獲勝
+MID_MISSION_H_S201807ARENA01_A11: 在鬥技場獲勝。
+MID_MISSION_S201807ARENA01_A12: 在縛鎖鬥技場達成7連勝
+MID_MISSION_H_S201807ARENA01_A12: 在縛鎖鬥技場達成7連勝。
+MID_MISSION_S201807SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201807SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201807SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201807SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201807SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201807SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201807SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201807SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201807SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201807STORY02_TITLE: 冰之王子
+MID_MISSION_S201807STORY02_A1: 特殊:突破第11章-第1節(超難)
+MID_MISSION_H_S201807STORY02_A1: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第11章-第1節(超難)。
+MID_MISSION_S201807STORY02_A2: 特殊:突破第11章-第2節(超難)
+MID_MISSION_H_S201807STORY02_A2: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第11章-第2節(超難)。
+MID_MISSION_S201807STORY02_A3: 特殊:突破第11章-第3節(超難)
+MID_MISSION_H_S201807STORY02_A3: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第2部>第11章-第3節(超難)。
+MID_MISSION_S201807STORY02_A4: 特殊:突破第11章-第4節(超難)
+MID_MISSION_H_S201807STORY02_A4: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第2部>第11章-第4節(超難)。
+MID_MISSION_S201807STORY02_A5: 特殊:突破第11章-第5節(超難)
+MID_MISSION_H_S201807STORY02_A5: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第2部>第11章-第5節(超難)。
+MPID_オリヴィエ2: 奧利薇
+MPID_スミア: 絲米亞
+MPID_マリアベル: 瑪利亞貝爾
+MPID_リベラ: 利貝拉
+MPID_ヴァルハルト: 瓦爾哈爾特
+MPID_フリーズ: 佛利茲
+MPID_HONOR_オリヴィエ2: 漫舞空中的舞孃
+MPID_HONOR_スミア: 以花占卜的少女
+MPID_HONOR_マリアベル: 揚聲惡罵的大小姐
+MPID_HONOR_リベラ: 美貌的僧侶
+MPID_HONOR_ヴァルハルト: 霸王
+MPID_H_オリヴィエ2: 周遊各國的舞孃。容易害羞。\n在天空的舞台上，舞蹈也變得比以往更加大膽華麗！\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_スミア: 庫洛武自衛團的一員，喜歡用花來占卜。\n心地善良，能與動物心意相通。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_マリアベル: 庫洛武自衛團的一員，莉茲的摯友。\n是伊里斯屈指可數的名門貴族千金，自尊心極高。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_リベラ: 伊里斯聖王國的聖職者，個性敦厚。\n長相非常俊美，甚至會讓人誤以為是女性。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_H_ヴァルハルト: 瓦魯姆帝國的皇帝。個性相當嚴厲。\n走在堅持以自己的力量超越神，並支配一切的霸道上。\n（登場作品：『ファイアーエムブレム　覚醒』）
+MPID_VOICE_オリヴィエ2: 松嵜麗(Rei Matsuzaki)
+MPID_VOICE_スミア: 山本彩乃(Ayano Yamamoto)
+MPID_VOICE_マリアベル: 五十嵐裕美(Hiromi Igarashi)
+MPID_VOICE_リベラ: 山戸めぐみ(Megumi Yamato)
+MPID_VOICE_ヴァルハルト: 楠見尚己(Naomi Kusumi)
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: 恒星ホリグチ(Horiguchi Kousei)
+MPID_ILLUST_リベラ: ミヤジマハル(Haru Miyajima)
+MPID_ILLUST_ヴァルハルト: 添田一平(Ippei Soeda)
+MSID_スクルド: 斯庫爾德
+MSID_反攻の槍: 反攻之槍
+MSID_反攻の槍＋: 反攻之槍＋
+MSID_ヴォルフベルグ: 沃爾夫貝爾格
+MSID_倭棍: 倭棍
+MSID_倭棍＋: 倭棍＋
+MSID_トリレンマ: 托里連瑪
+MSID_トリレンマ＋: 托里連瑪＋
+MSID_金剛明鏡の構え1: 金剛明鏡架勢１
+MSID_金剛明鏡の構え2: 金剛明鏡架勢２
+MSID_攻撃守備の連携1: 攻擊防守連動１
+MSID_攻撃守備の連携2: 攻擊防守連動２
+MSID_攻撃守備の連携3: 攻擊防守連動３
+MSID_攻撃魔防の紋章1: 攻擊魔防紋章１
+MSID_攻撃魔防の紋章2: 攻擊魔防紋章２
+MSID_杖の技量1: 杖之技巧１
+MSID_杖の技量2: 杖之技巧２
+MSID_杖の技量3: 杖之技巧３
+MSID_H_スクルド: 使用「歌唱」、「起舞」時，\n指定目標的攻擊、速度、防守、魔防＋３
+MSID_H_反攻の槍: 受到敵人攻擊時，戰鬥中的攻擊＋６
+MSID_H_反攻の槍＋: 受到敵人攻擊時，戰鬥中的攻擊＋６
+MSID_H_ヴォルフベルグ: 防守＋３\n周圍２格內的我方與敵人數量\n（不包括自己與戰鬥對手）\n相同或敵人數量更多時，\n戰鬥中的攻擊、速度、防守、魔防＋４
+MSID_H_倭棍: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_倭棍＋: 發動奧義時，奧義造成的傷害＋１０
+MSID_H_トリレンマ: 若在戰鬥時進行攻擊，戰鬥後\n為敵人附加強化互克的異常狀態\n（直到敵人下次行動結束）\n強化互克的效果：\n三角互克有利時，攻擊再＋２０％\n三角互克不利時，攻擊再－２０％
+MSID_H_トリレンマ＋: 若在戰鬥時進行攻擊，戰鬥後\n為對方與其周圍２格內的敵人附加強化互克的異常狀態\n（直到敵人下次行動結束）\n強化互克的效果：\n三角互克有利時，攻擊再＋２０％\n三角互克不利時，攻擊再－２０％
+MSID_H_金剛明鏡の構え1: 受到敵人攻擊時，\n戰鬥中的防守及魔防＋２
+MSID_H_金剛明鏡の構え2: 受到敵人攻擊時，\n戰鬥中的防守及魔防＋４
+MSID_H_攻撃守備の連携1: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及防守＋２（１回合）
+MSID_H_攻撃守備の連携2: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及防守＋４（１回合）
+MSID_H_攻撃守備の連携3: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及防守＋６（１回合）
+MSID_H_攻撃魔防の紋章1: 周圍１格內的我方，\n戰鬥中的攻擊及魔防＋２
+MSID_H_攻撃魔防の紋章2: 周圍１格內的我方，\n戰鬥中的攻擊及魔防＋３
+MSID_H_杖の技量1: 存活時，若自己武器為杖，\n則可透過戰鬥或輔助取得１．５倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_杖の技量2: 存活時，武器為杖的我方\n皆可透過戰鬥或輔助取得１．５倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MSID_H_杖の技量3: 存活時，武器為杖的我方\n皆可透過戰鬥或輔助取得２倍ＳＰ\n（若有多個相同系統效果，僅取最大值，不重複累計）
+MID_CHAPTER_TITLE_C0211: 第２部　第１１章
+MID_CHAPTER_C0211: 冰之王子
+MID_STAGE_TITLE_S2111: 第１１章—第１節
+MID_STAGE_TITLE_S2112: 第１１章—第２節
+MID_STAGE_TITLE_S2113: 第１１章—第３節
+MID_STAGE_TITLE_S2114: 第１１章—第４節
+MID_STAGE_TITLE_S2115: 第１１章—第５節
+MID_STAGE_S2111: 敵人的敵人
+MID_STAGE_S2112: 花占卜的去向
+MID_STAGE_S2113: 來自地獄深淵
+MID_STAGE_S2114: 空中的舞會
+MID_STAGE_S2115: 骨灰之谷
+MID_STAGE_HONOR_T0035: 里昂　＆
+MID_STAGE_T0035: 艾麗澤
+MID_STAGE_HONOR_T0036: 霸王
+MID_STAGE_T0036: 瓦爾哈爾特
+MID_STAGE_TITLE_PB020: 技能篇２０
+MID_STAGE_PB020: 強化之杖　托里連瑪

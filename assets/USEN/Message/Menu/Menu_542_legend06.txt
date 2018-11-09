@@ -1,0 +1,11 @@
+[Heroes Archive] (Menu_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_FIRE: You do not have enough fire-type\nLegendary Heroes or fire-blessed\nallies. Each team must have four\nunique allies with no duplicates.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WATER: You do not have enough water-\ntype Legendary Heroes or water-\nblessed allies. Each team must\nhave four unique allies with no\nduplicates.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WIND: You do not have enough wind-\ntype Legendary Heroes or wind-\nblessed allies. Each team must\nhave four unique allies with no\nduplicates.
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_EARTH: You do not have enough earth-\ntype Legendary Heroes or earth-\nblessed allies. Each team must\nhave four unique allies with no\nduplicates.
+MID_VOTE_TERM_201807: Fated Battles

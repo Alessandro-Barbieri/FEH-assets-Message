@@ -1,0 +1,38 @@
+[Heroes Archive] (LAEVATEIN_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LAEVATEIN_MIKATA01_HOME1: En Nifl, il fait très froid et tout est\ncouvert de neige.$k$pEn Askr, le temps est meilleur,\nmais c'est quand même un peu frais.
+MID_LAEVATEIN_MIKATA01_HOME2: Múspell est le royaume des flammes.\nJ'y suis née et j'y ai grandi. Je ne\nl'aime pas, mais je ne le déteste pas.
+MID_LAEVATEIN_MIKATA01_HOME3: Ma sœur est gentille et intelligente.\nElle peut deviner ce que l'ennemi\nest en train de penser.$k$pElle m'a beaucoup appris, et elle\nest très patiente avec moi.
+MID_LAEVATEIN_MIKATA01_HOME4: Aussi loin que je me souvienne, je me\nsuis toujours entraînée avec ma sœur,\nmatin, midi et soir.$k$pMon père tue les faibles.
+MID_LAEVATEIN_MIKATA01_HOME5: Mon arme est Laevatein, la lame\nardente... Nous avons le même\nnom. Nous sommes inséparables.
+MID_LAEVATEIN_MIKATA01_FRIEND: Je vais vous saluer comme on me\nl'a appris. Bonjour.$k$pCet endroit me rappelle le château\noù vit $Nf.
+MID_LAEVATEIN_MIKATA01_LEVEL1: Mon corps brûle...\nC'est agréable.
+MID_LAEVATEIN_MIKATA01_LEVEL2: Je suis la lame. Je suis Laevatein.
+MID_LAEVATEIN_MIKATA01_LEVEL3: Il fait froid. Ça me gêne.
+MID_LAEVATEIN_MIKATA01_SKILL: Je dois m'améliorer...\nJe n'ai pas le droit à l'échec.
+MID_LAEVATEIN_MIKATA01_JOIN: Je suis Laevatein, la lame de\nMúspell. J'attends vos ordres.
+MID_LAEVATEIN_MIKATA01_STRONGEST: Une lame n'a pas d'émotions, pas\nde pensées. Mon père m'a dit que\nje suis une arme, rien de plus.$k$pMais pendant le temps que j'ai passé\navec vous... J'ai beaucoup réfléchi.$k$pMa sœur veut que je vive. Et... moi\naussi. Ici, avec vous...$k$pMais est-ce mon idée ou bien celle de\nma sœur ? Je n'en suis pas certaine.$k$pMais ce sentiment... Il ne me déplaît\npas. Même si ce n'est pas quelque\nchose de familier.
+MID_LAEVATEIN_MIKATA01_VOICE01: はぁっ！
+MID_LAEVATEIN_MIKATA01_VOICE02: 斬る
+MID_LAEVATEIN_MIKATA01_VOICE03: きゃああっ！
+MID_LAEVATEIN_MIKATA01_VOICE04: こんな…
+MID_LAEVATEIN_MIKATA01_VOICE05: Laevatein...
+MID_LAEVATEIN_MIKATA01_VOICE06: Je vais vous tuer.
+MID_LAEVATEIN_MIKATA01_VOICE07: C'est terminé.
+MID_LAEVATEIN_MIKATA01_VOICE08: Je suis l'épée.
+MID_LAEVATEIN_MIKATA01_VOICE09: So ends my fight...
+MID_LAEVATEIN_MIKATA01_VOICE10: Heh...
+MID_LAEVATEIN_MIKATA01_VOICE11: My name is that of my blade. I am Laevatein.
+MID_LAEVATEIN_MIKATA01_VOICE12: Explain your intentions!
+MID_LAEVATEIN_MIKATA01_VOICE13: Toy with me and I will cut you down where you stand.
+MID_LAEVATEIN_MIKATA01_VOICE14: No matter the order, I will carry it out.
+MID_LAEVATEIN_MIKATA01_VOICE15: Weapons do not think. They act. That is what I was taught.
+MID_LAEVATEIN_MIKATA01_VOICE16: To think for yourself... To feel... These things, they are not easy.
+MID_LAEVATEIN_MIKATA01_VOICE17: I want to be at your side. That...is new to me.
+MID_LAEVATEIN_MIKATA01_VOICE18: Acknowledged.
+MID_LAEVATEIN_MIKATA01_VOICE19: Instructions?
+MID_LAEVATEIN_MIKATA01_VOICE20: I do what I'm told.

@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_コウモリの耳: 蝙蝠耳朵
+MDAID_H_コウモリの耳: 模仿蝙蝠耳朵製作而成的頭飾。
+MDAID_悪魔のツノ: 惡魔角
+MDAID_H_悪魔のツノ: 以惡魔角的印象製作而成的頭飾。
+MDAID_謎の剣士の仮面・金: 神秘劍客的面具・金
+MDAID_H_謎の剣士の仮面・金: 戰勝大英雄拿榭恩的證明。
+MDAID_黄色いアヒル・金: 黃金色小鴨
+MDAID_H_黄色いアヒル・金: 戰勝大英雄拿巴爾的證明。
+MDAID_温泉手ぬぐい・金: 溫泉手拭巾・金
+MDAID_H_温泉手ぬぐい・金: 戰勝大英雄魯弗萊的證明。
+MDAID_花占いの髪飾り・金: 花占卜髮飾・金
+MDAID_H_花占いの髪飾り・金: 戰勝大英雄烏爾斯拉的證明。
+MDAID_令嬢のリボン・金: 千金的蝴蝶結・金
+MDAID_H_令嬢のリボン・金: 戰勝大英雄洛伊德的證明。
+MDAID_踊り子のマスク・金: 舞孃的面具・金
+MDAID_H_踊り子のマスク・金: 戰勝大英雄米謝爾的證明。
+MDAID_聖職者の帽子・金: 聖職者的帽子・金
+MDAID_H_聖職者の帽子・金: 戰勝大英雄馬克斯的證明。
+MID_MISSION_S201810DAISEIATU01_TITLE: 大壓制戰
+MID_MISSION_S201810DAISEIATU01_A1: 於大壓制戰中獲得得分
+MID_MISSION_H_S201810DAISEIATU01_A1: 於大壓制戰中獲得得分。
+MID_MISSION_S201810DAISEIATU01_A2: 於大壓制戰中獲得得分
+MID_MISSION_H_S201810DAISEIATU01_A2: 於大壓制戰中獲得得分。
+MID_MISSION_S201810DAISEIATU01_A3: 於大壓制戰中獲得得分
+MID_MISSION_H_S201810DAISEIATU01_A3: 於大壓制戰中獲得得分。
+MID_MISSION_S201810DAISEIATU01_A4: 突破修練之塔・第2層
+MID_MISSION_H_S201810DAISEIATU01_A4: 過關修練之塔・第2層。
+MID_MISSION_S201810DAISEIATU01_A5: 突破修練之塔・第8層
+MID_MISSION_H_S201810DAISEIATU01_A5: 過關修練之塔・第8層。
+MID_MISSION_S201810DAISEIATU01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201810DAISEIATU01_A6: 在鬥技場獲勝。
+MID_MISSION_S201810HERO01_TITLE: 大英雄戰
+MID_MISSION_S201810HERO01_A1: 特殊:突破龍之御子神流
+MID_MISSION_H_S201810HERO01_A1: 將安娜編入我軍，\n過關大英雄戰・龍之御子神流。
+MID_MISSION_S201810HERO01_A2: 特殊:突破龍之御子神流
+MID_MISSION_H_S201810HERO01_A2: 將龍之御子神流編入我軍，\n過關大英雄戰・龍之御子神流(超難以上)。
+MID_MISSION_S201810HERO01_A3: 特殊:擊敗龍之御子神流
+MID_MISSION_H_S201810HERO01_A3: 以安娜\n擊敗等級40以上的龍之御子神流。
+MID_MISSION_S201810HERO01_A4: 特殊:擊敗龍之御子神流
+MID_MISSION_H_S201810HERO01_A4: 以龍之御子神流\n擊敗等級40以上的龍之御子神流。
+MID_MISSION_S201810HERO01_A5: 特殊:突破龍之御子神流
+MID_MISSION_H_S201810HERO01_A5: 我軍全員為重裝，\n過關大英雄戰・龍之御子神流(超難以上)。
+MID_MISSION_S201810SENKA01_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201810SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201810SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201810SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201810STORY01_TITLE: 大地的恩惠
+MID_MISSION_S201810STORY01_A1: 特殊:突破外傳25-1節(超難)
+MID_MISSION_H_S201810STORY01_A1: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳25-1節(超難)。
+MID_MISSION_S201810STORY01_A2: 特殊:突破外傳25-2節(超難)
+MID_MISSION_H_S201810STORY01_A2: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳25-2節(超難)。
+MID_MISSION_S201810STORY01_A3: 特殊:突破外傳25-3節(超難)
+MID_MISSION_H_S201810STORY01_A3: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳25-3節(超難)。
+MID_MISSION_S201810TAPBTL01_D01_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201810TAPBTL01_D01_A1: 特殊:擊敗里弗
+MID_MISSION_H_S201810TAPBTL01_D01_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・里弗
+MID_MISSION_S201810TAPBTL01_D01_A2: 過關第21～25層
+MID_MISSION_H_S201810TAPBTL01_D01_A2: 於一「觸」即發點觸大戰中\n過關第21～25層的關卡。
+MID_MISSION_S201810TAPBTL01_D01_A3: 過關關卡
+MID_MISSION_H_S201810TAPBTL01_D01_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201810TAPBTL01_D02_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201810TAPBTL01_D02_A1: 特殊:擊敗里弗
+MID_MISSION_H_S201810TAPBTL01_D02_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・里弗
+MID_MISSION_S201810TAPBTL01_D02_A2: 過關第41～45層
+MID_MISSION_H_S201810TAPBTL01_D02_A2: 於一「觸」即發點觸大戰中\n過關第41～45層的關卡。
+MID_MISSION_S201810TAPBTL01_D02_A3: 過關關卡
+MID_MISSION_H_S201810TAPBTL01_D02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201810TAPBTL01_D03_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201810TAPBTL01_D03_A1: 特殊:擊敗琳恩
+MID_MISSION_H_S201810TAPBTL01_D03_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・琳恩
+MID_MISSION_S201810TAPBTL01_D03_A2: 過關第61～65層
+MID_MISSION_H_S201810TAPBTL01_D03_A2: 於一「觸」即發點觸大戰中\n過關第61～65層的關卡。
+MID_MISSION_S201810TAPBTL01_D03_A3: 過關關卡
+MID_MISSION_H_S201810TAPBTL01_D03_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201810TAPBTL01_D04_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201810TAPBTL01_D04_A1: 特殊:擊敗琳恩
+MID_MISSION_H_S201810TAPBTL01_D04_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・琳恩
+MID_MISSION_S201810TAPBTL01_D04_A2: 過關第81～85層
+MID_MISSION_H_S201810TAPBTL01_D04_A2: 於一「觸」即發點觸大戰中\n過關第81～85層的關卡。
+MID_MISSION_S201810TAPBTL01_D04_A3: 過關關卡
+MID_MISSION_H_S201810TAPBTL01_D04_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201810TAPBTL02_TITLE: 點觸大戰
+MID_MISSION_S201810TAPBTL02_A1: 擊敗BOSS
+MID_MISSION_H_S201810TAPBTL02_A1: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201810TAPBTL02_A2: 擊敗BOSS
+MID_MISSION_H_S201810TAPBTL02_A2: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201810TAPBTL02_A3: 過關關卡
+MID_MISSION_H_S201810TAPBTL02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201810TAPBTL02_A4: 過關特別關卡1
+MID_MISSION_H_S201810TAPBTL02_A4: 過關一「觸」即發點觸大戰中的特別關卡1。\n(特別關卡1可於特別關卡開放後遊玩)
+MPID_ハロワユ: 瓦育
+MPID_ハロミルラ: 梅爾
+MPID_ハロカゲロウ: 陽炎
+MPID_ハロゼロ: 零
+MPID_ハロドルカス: 多爾卡斯
+MPID_HONOR_ハロワユ: 登上月亮的魔女
+MPID_HONOR_ハロミルラ: 純真的妖怪
+MPID_HONOR_ハロカゲロウ: 收穫祭的女忍者
+MPID_HONOR_ハロゼロ: 禁忌的惡作劇
+MPID_HONOR_ハロドルカス: 劈南瓜的斧頭
+MPID_H_ハロワユ: 為了磨練劍術而戰的格萊爾傭兵團一員。\n非常喜歡收穫祭熱鬧的氣氛。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_H_ハロミルラ: 龍人族的少女。實際年齡遠比外表年長。\n雖然很想要糖果，但總是無法說出口。\n（登場作品：『ファイアーエムブレム　聖魔の光石』）
+MPID_H_ハロカゲロウ: 侍奉白夜王國的女忍者。\n被賦予了帶糖果回去的任務。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_ハロゼロ: 暗夜王國的小偷，里昂的部下。\n為收穫祭的狂熱帶來禁忌的夜晚……\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_ハロドルカス: 為了替生病的妻子籌措醫藥費而踏上戰場的傭兵。\n四處找尋可以當作土產送給妻子的糖果。\n（登場作品：『ファイアーエムブレム　烈火の剣』）
+MPID_VOICE_ハロワユ: 浅川悠(Yuu Asakawa)
+MPID_VOICE_ハロミルラ: 門脇舞以(Mai Kadowaki)
+MPID_VOICE_ハロカゲロウ: 村川梨衣(Rie Murakawa)
+MPID_VOICE_ハロゼロ: 子安武人(Takehito Koyasu)
+MPID_VOICE_ハロドルカス: 北村謙次(Kenji Kitamura)
+MPID_ILLUST_ハロワユ: 米山舞(Mai Yoneyama)
+MPID_ILLUST_ハロミルラ: アマガイタロー(Amagaitaro)
+MPID_ILLUST_ハロカゲロウ: cuboon
+MPID_ILLUST_ハロゼロ: 由良(Yura)
+MPID_ILLUST_ハロドルカス: 添田一平(Ippei Soeda)
+MSID_孤高の剣: 孤高之劍
+MSID_第15迷宮の覇者1: 第１５迷宮的霸王１
+MSID_第15迷宮の覇者2: 第１５迷宮的霸王２
+MSID_第15迷宮の覇者3: 第１５迷宮的霸王３
+MSID_カボチャの斧: 南瓜斧
+MSID_カボチャの斧＋: 南瓜斧＋
+MSID_コウモリの弓: 蝙蝠弓
+MSID_コウモリの弓＋: 蝙蝠弓＋
+MSID_果汁のボトル: 玻璃果汁瓶
+MSID_果汁のボトル＋: 玻璃果汁瓶＋
+MSID_キャンディの杖: 糖果杖
+MSID_キャンディの杖＋: 糖果杖＋
+MSID_精霊のブレス: 精靈吐息
+MSID_守備魔防1: 防守魔防１
+MSID_守備魔防2: 防守魔防２
+MSID_攻撃速さの連携1: 攻擊速度連動１
+MSID_攻撃速さの連携2: 攻擊速度連動２
+MSID_攻撃速さの連携3: 攻擊速度連動３
+MSID_攻撃の波・偶数1: 攻擊之波・偶數１
+MSID_攻撃の波・偶数2: 攻擊之波・偶數２
+MSID_攻撃の波・偶数3: 攻擊之波・偶數３
+MSID_H_孤高の剣: 容易發動奧義（發動計量－１）
+MSID_H_翼槍ヴィドフニル改: 受到武器為劍、槍、斧、龍的敵人攻擊時，\n戰鬥中的防守及魔防＋７
+MSID_H_攻撃速さの絆R歩重: 周圍２格内有我方步行、重裝單位時，\n自己在戰鬥中的攻擊及速度＋４
+MSID_H_反撃抑制R魔竜: 敵人為魔法、龍時，敵人無法反擊
+MSID_H_第15迷宮の覇者1: 攻擊＋１
+MSID_H_第15迷宮の覇者2: 攻擊＋２
+MSID_H_第15迷宮の覇者3: 攻擊＋３
+MSID_H_カボチャの斧: 戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_カボチャの斧＋: 戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_コウモリの弓: 克制飛行\n戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_コウモリの弓＋: 克制飛行\n戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_果汁のボトル: 戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_果汁のボトル＋: 戰鬥中，敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_キャンディの杖: 若在戰鬥時進行攻擊，戰鬥後\n將對方的奧義發動計量回歸至最大值\n（回歸最大值時，對方若同時發動\n　「戰鬥後，奧義發動計量－」的效果將無效\n　「容易發動奧義」「不容易發動奧義」的效果則有效）\n並且，\n為對方附加奧義發動計量變化量－１的異常狀態\n（若有多個相同系統效果，僅取最大值）\n（直到敵人下次行動結束）
+MSID_H_キャンディの杖＋: 若在戰鬥時進行攻擊，戰鬥後將對方\n與其周圍２格內的敵人的奧義發動計量回歸至最大值\n（回歸最大值時，對方若同時發動\n　「戰鬥後，奧義發動計量－」的效果將無效\n　「容易發動奧義」「不容易發動奧義」的效果則有效）\n並且，\n附加對方與其周圍２格內的敵人\n奧義發動計量變化量－１的異常狀態\n（若有多個相同系統效果，僅取最大值）\n（直到敵人下次行動結束）
+MSID_H_精霊のブレス: 防守＋３\n由自己發動攻擊時，\n若自己的防守高於敵人５以上，必定可進行追擊\n敵人攻擊射程為２格時，以其防守及魔防中較低方計算傷害
+MSID_H_守備魔防1: 防守及魔防＋１
+MSID_H_守備魔防2: 防守及魔防＋２
+MSID_H_攻撃速さの連携1: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及速度＋２（１回合）
+MSID_H_攻撃速さの連携2: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及速度＋４（１回合）
+MSID_H_攻撃速さの連携3: 使用或被施放移動系輔助技能時\n（衝撞、帶回、迂迴等），\n自己和對方的攻擊及速度＋６（１回合）
+MSID_H_攻撃の波・偶数1: 偶數回合開始時，自己和周圍１格內的我方單位\n攻擊＋２（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_攻撃の波・偶数2: 偶數回合開始時，自己和周圍１格內的我方單位\n攻擊＋４（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_攻撃の波・偶数3: 偶數回合開始時，自己和周圍１格內的我方單位\n攻擊＋６（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MID_CHAPTER_TITLE_CX024: 外傳２５
+MID_CHAPTER_CX024: 大地的恩惠
+MID_STAGE_TITLE_X0241: 外傳２５—１節
+MID_STAGE_TITLE_X0242: 外傳２５—２節
+MID_STAGE_TITLE_X0243: 外傳２５—３節
+MID_STAGE_X0241: 蝙蝠、魔女與女僕
+MID_STAGE_X0242: 牛頭怪物與惡魔
+MID_STAGE_X0243: 尋求南瓜
+MID_STAGE_TITLE_BG_FIRE_0012: 火之大庭園２
+MID_STAGE_TITLE_BG_WATER_0013: 水之大庭園３
+MID_STAGE_TITLE_BG_WIND_0013: 風之大庭園３
+MID_STAGE_TITLE_BG_EARTH_0013: 地之大庭園３
+MID_STAGE_TITLE_SB_0015: 第１５迷宮
+MID_STAGE_TITLE_PB031: 技能篇３１
+MID_STAGE_PB031: 弗萊利亞王家的雙聖器
+MID_STAGE_TITLE_PC015: 超難題１５
+MID_STAGE_PC015: 圍繞紋章的戰鬥
+MID_STAGE_HONOR_T0041: 艾夫拉姆　＆
+MID_STAGE_T0041: 梅爾
+MID_TAP_BATTLE_DATA_TITLE_0009: 繼承光之人
+MID_MUSIC_NAME_BGM_MAP_FE04_01: 序章（聖騎士誕生）
+MID_MUSIC_NAME_BGM_MAP_FE04_05: 第３章（獅子王艾爾多尚）
+MID_MUSIC_NAME_BGM_MAP_BRAVE_02: 雄偉的亞斯克

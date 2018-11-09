@@ -1136,7 +1136,7 @@ MSID_H_リカバー: Rend 15 PV à la cible. Retarde l'activation\ndes aptitudes
 MSID_H_ヒール: Rend 7 PV à l'unité et à la cible.
 MSID_H_セインツ: Retarde l'activation des aptitudes spéciales\n(compteur +1). Rend des PV à la cible à\nhauteur des dégâts subis par l'unité + 7.\nRend des PV à l'unité à hauteur de 50 %\ndes dégâts qu'elle a subis.
 MSID_H_リバース: Retarde l'activation des aptitudes spéciales\n(compteur +1). Si PV de la cible ≤ 50 %, rend\ndes PV à la cible (7 PV minimum ; moins la cible\na de PV, plus elle en récupère.).
-MSID_H_入れ替え: L'unité prend la place d'un allié.
+MSID_H_入れ替え: L'unité échange de place avec un allié.
 MSID_H_体当たり: Repousse un allié d'une case.
 MSID_H_ぶちかまし: Repousse un allié de deux cases.
 MSID_H_引き寄せ: L'unité recule d'une case et tire l'allié cible\navec elle.
@@ -1161,18 +1161,18 @@ MSID_H_太陽: Rend des PV à hauteur de 50 %\ndes dégâts infligés.
 MSID_H_影月: Ignore 30 % de la Déf/Rés de la cible\npendant le combat.
 MSID_H_月虹: Ignore 30 % de la Déf/Rés de la cible\npendant le combat.
 MSID_H_月光: Ignore 50 % de la Déf/Rés de la cible\npendant le combat.
-MSID_H_雪辱: Augmente les dégâts infligés à hauteur\nde 30 % des dégâts subis.
-MSID_H_血讐: Augmente les dégâts infligés à hauteur\nde 30 % des dégâts subis.
-MSID_H_復讐: Augmente les dégâts infligés à hauteur\nde 50 % des dégâts subis.
-MSID_H_伏竜: Augmente l'Atq de 30 %.
-MSID_H_竜裂: Augmente l'Atq de 30 %.
-MSID_H_竜穿: Augmente l'Atq de 50 %.
-MSID_H_蛍火: Augmente les dégâts infligés\nà hauteur de 50 % de la Déf.
-MSID_H_緋炎: Augmente les dégâts infligés\nà hauteur de 50 % de la Déf.
-MSID_H_華炎: Augmente les dégâts infligés\nà hauteur de 80 % de la Déf.
-MSID_H_氷点: Augmente les dégâts infligés\nà hauteur de 50 % de la Rés.
-MSID_H_氷蒼: Augmente les dégâts infligés\nà hauteur de 50 % de la Rés.
-MSID_H_氷華: Augmente les dégâts infligés\nà hauteur de 80 % de la Rés.
+MSID_H_雪辱: Augmente les dégâts à hauteur\nde 30 % des dégâts subis.
+MSID_H_血讐: Augmente les dégâts à hauteur\nde 30 % des dégâts subis.
+MSID_H_復讐: Augmente les dégâts à hauteur\nde 50 % des dégâts subis.
+MSID_H_伏竜: Augmente les dégâts à hauteur\nde 30 % de l'Atq.
+MSID_H_竜裂: Augmente les dégâts à hauteur\nde 30 % de l'Atq.
+MSID_H_竜穿: Augmente les dégâts à hauteur\nde 50 % de l'Atq.
+MSID_H_蛍火: Augmente les dégâts à hauteur\nde 50 % de la Déf.
+MSID_H_緋炎: Augmente les dégâts à hauteur\nde 50 % de la Déf.
+MSID_H_華炎: Augmente les dégâts à hauteur\nde 80 % de la Déf.
+MSID_H_氷点: Augmente les dégâts à hauteur\nde 50 % de la Rés.
+MSID_H_氷蒼: Augmente les dégâts à hauteur\nde 50 % de la Rés.
+MSID_H_氷華: Augmente les dégâts à hauteur\nde 80 % de la Rés.
 MSID_H_砕火: Si l'unité initie le combat, inflige des dégâts\naux ennemis proches de la cible à hauteur de\nAtq de l'unité - Déf ou Rés de l'ennemi\navant le combat.
 MSID_H_爆火: Si l'unité initie le combat, inflige des dégâts\naux ennemis autour de la cible à hauteur de\nAtq de l'unité - Déf ou Rés de l'ennemi\navant le combat.
 MSID_H_烈火: Si l'unité initie le combat, inflige des dégâts\naux ennemis proches de la cible à hauteur de\n1,5 x (Atq de l'unité - Déf ou Rés de l'ennemi)\navant le combat.

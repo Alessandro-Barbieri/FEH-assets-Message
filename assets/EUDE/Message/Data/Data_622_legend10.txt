@@ -1,0 +1,208 @@
+[Heroes Archive] (Data_622_legend10)
+
+
+Heroes Message Name: Message
+
+
+MDAID_フェーの人形・金: Goldene Feh-Puppe
+MDAID_H_フェーの人形・金: Beweis für den Sieg über die\nLegendäre Heldin Eirika.
+MDAID_春うさぎの帽子・金: Goldene Hasenohren
+MDAID_H_春うさぎの帽子・金: Beweis für den Sieg über die\nLegendäre Heldin Lyn.
+MID_MISSION_M201811A_TITLE: Nov.-Quests (1)
+MID_MISSION_M201811A_A1: Rot besiegt Gegner
+MID_MISSION_H_M201811A_A1: Lass rote Verbündete\nGegner besiegen.
+MID_MISSION_M201811A_A2: Flieger besiegt Gegner
+MID_MISSION_H_M201811A_A2: Lass Flugeinheiten\nGegner besiegen.
+MID_MISSION_M201811A_A3: Besiege blaue Gegner
+MID_MISSION_H_M201811A_A3: Besiege blaue Gegner.
+MID_MISSION_M201811A_A4: Reiter besiegen
+MID_MISSION_H_M201811A_A4: Besiege berittene Gegner.
+MID_MISSION_M201811A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201811A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201811A_A6: Grün besiegt Lv. 20+
+MID_MISSION_H_M201811A_A6: Besiege Gegner, die Level 20 oder höher sind,\nmit einem grünen Verbündeten.
+MID_MISSION_M201811A_A7: Reiter besiegt Lv. 20+
+MID_MISSION_H_M201811A_A7: Besiege Gegner, die Level 20 oder höher sind,\nmit einer berittenen Einheit.
+MID_MISSION_M201811A_A8: Besiege Rot Lv. 20+
+MID_MISSION_H_M201811A_A8: Besiege rote Gegner, die Level 20\noder höher sind.
+MID_MISSION_M201811A_A9: Besiege Flieger Lv. 20+
+MID_MISSION_H_M201811A_A9: Besiege Flugeinheiten, die Level 20\noder höher sind.
+MID_MISSION_M201811A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201811A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201811A_A11: Blau besiegt Geg. Lv. 35+
+MID_MISSION_H_M201811A_A11: Besiege Gegner, die Level 35 oder höher sind,\nmit einem blauen Verbündeten.
+MID_MISSION_M201811A_A12: Inf. besiegt Lv. 35+
+MID_MISSION_H_M201811A_A12: Besiege Gegner, die Level 35 oder höher sind,\nmit einer Infanterieeinheit.
+MID_MISSION_M201811A_A13: Besiege Grün Lv. 35+
+MID_MISSION_H_M201811A_A13: Besiege grüne Gegner, die Level 35\noder höher sind.
+MID_MISSION_M201811A_A14: Besiege Inf. Lv. 35+
+MID_MISSION_H_M201811A_A14: Besiege Infanterieeinheiten, die Level 35\noder höher sind.
+MID_MISSION_M201811A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201811A_A15: Gewinne in der Arena\nim Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201811B_TITLE: Nov.-Quests (2)
+MID_MISSION_M201811B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201811B_A1: Bewältige die erste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201811B_A2: Bewältige die zweite Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201811B_A3: Bewältige die dritte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201811B_A4: Bewältige die vierte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201811B_A5: Bewältige die fünfte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201811B_A6: Bewältige die sechste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201811B_A7: Bewältige die siebte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201811B_A8: Bewältige die achte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201811B_A9: Bewältige die neunte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201811B_A10: Bewältige die zehnte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201811B_A11: Bewältige die zehnte Stufe des Übungsturms\nnur mit gepanzerten Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201811B_A12: Bewältige die zehnte Stufe des Übungsturms\nnur mit Infanterieeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201811B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201811B_A13: Bewältige die zehnte Stufe des Übungsturms\nnur mit berittenen Einheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201811B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201811B_A14: Bewältige die zehnte Stufe des Übungsturms\nnur mit Flugeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201811C_TITLE: Nov.-Quests (3)
+MID_MISSION_M201811C_A1: Kap. 1 Tl. 1
+MID_MISSION_H_M201811C_A1: Bewältige Kap. 1/Tl. 1. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811C_A2: Kap. 1 Tl. 2
+MID_MISSION_H_M201811C_A2: Bewältige Kap. 1/Tl. 2 mit einem\nroten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811C_A3: Kap. 1 Tl. 3
+MID_MISSION_H_M201811C_A3: Bewältige Kap. 1/Tl. 3 mit einem\nblauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811C_A4: Kap. 1 Tl. 4
+MID_MISSION_H_M201811C_A4: Bewältige Kap. 1/Tl. 4 mit einem\ngrünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811C_A5: Kap. 1 Tl. 5
+MID_MISSION_H_M201811C_A5: Bewältige Kap. 1/Tl. 5 mit einem\nfarblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201811C_A6: Kap. 4 Tl. 1 - Schwer+
+MID_MISSION_H_M201811C_A6: Bewältige Kap. 4/Tl. 1 im Modus Schwer oder\nhöher. Alle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A7: Kap. 4 Tl. 2 - Schwer+
+MID_MISSION_H_M201811C_A7: Bewältige Kap. 4/Tl. 2 mit einem roten\nVerbündeten im Modus Schwer oder höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A8: Kap. 4 Tl. 3 - Schwer+
+MID_MISSION_H_M201811C_A8: Bewältige Kap. 4/Tl. 3 mit einem blauen\nVerbündeten im Modus Schwer oder höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A9: Kap. 4 Tl. 4 - Schwer+
+MID_MISSION_H_M201811C_A9: Bewältige Kap. 4/Tl. 4 mit einem grünen\nVerbündeten im Modus Schwer oder höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A10: Kap. 4 Tl. 5 - Schwer+
+MID_MISSION_H_M201811C_A10: Bewältige Kap. 4/Tl. 5 mit einem farblosen\nVerbündeten im Modus Schwer oder höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A11: Kap. 7 Tl. 1 - Extrem
+MID_MISSION_H_M201811C_A11: Bewältige Kap. 7/Tl. 1 im Modus Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A12: Kap. 7 Tl. 2 - Extrem
+MID_MISSION_H_M201811C_A12: Bewältige Kap. 7/Tl. 2 im Modus Extrem\nmit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A13: Kap. 7 Tl. 3 - Extrem
+MID_MISSION_H_M201811C_A13: Bewältige Kap. 7/Tl. 3 im Modus Extrem\nmit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A14: Kap. 7 Tl. 4 - Extrem
+MID_MISSION_H_M201811C_A14: Bewältige Kap. 7/Tl. 4 im Modus Extrem\nmit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201811C_A15: Kap. 7 Tl. 5 - Extrem
+MID_MISSION_H_M201811C_A15: Bewältige Kap. 7/Tl. 5 im Modus Extrem\nmit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201811KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201811KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201811KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Tiki und Nowi mit Sharena:\nPrinzessin von Askr im Team.
+MID_MISSION_S201811KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201811KIZUNA01_A2: Gewinne den Treue-Heldenkampf gegen\nTiki und Nowi auf Extrem oder höher\nmit Anna im Team.
+MID_MISSION_S201811KIZUNA01_A3: Tiki besiegen
+MID_MISSION_H_S201811KIZUNA01_A3: Besiege Tiki: Nagas Stimme, die Level 40 oder\nhöher ist, mit Sharena: Prinzessin von Askr.
+MID_MISSION_S201811KIZUNA01_A4: Nowi besiegen
+MID_MISSION_H_S201811KIZUNA01_A4: Besiege Nowi: Ewige Jugend, die Level 40\noder höher ist, mit Anna.
+MID_MISSION_S201811KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201811KIZUNA01_A5: Gewinne den Treue-Heldenkampf gegen\nTiki und Nowi auf Extrem oder höher\nnur mit berittenen Einheiten.
+MID_MISSION_S201811MOVE01_TITLE: Bewegungstyp
+MID_MISSION_S201811MOVE01_A1: Infanterie besiegt Rot
+MID_MISSION_H_S201811MOVE01_A1: Besiege rote Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201811MOVE01_A2: Infanterie besiegt Blau
+MID_MISSION_H_S201811MOVE01_A2: Besiege blaue Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201811MOVE01_A3: Infanterie besiegt Grün
+MID_MISSION_H_S201811MOVE01_A3: Besiege grüne Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201811MOVE01_A4: Infanterie besiegt Farblos
+MID_MISSION_H_S201811MOVE01_A4: Besiege farblose Gegner mit\nInfanterieeinheiten.
+MID_MISSION_S201811MOVE01_A5: Gepanzert besiegt Rot
+MID_MISSION_H_S201811MOVE01_A5: Besiege rote Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201811MOVE01_A6: Gepanzert besiegt Blau
+MID_MISSION_H_S201811MOVE01_A6: Besiege blaue Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201811MOVE01_A7: Gepanzert besiegt Grün
+MID_MISSION_H_S201811MOVE01_A7: Besiege grüne Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201811MOVE01_A8: Gepanzert besiegt Farblos
+MID_MISSION_H_S201811MOVE01_A8: Besiege farblose Gegner mit\ngepanzerten Verbündeten.
+MID_MISSION_S201811MOVE01_A9: Kavallerie besiegt Rot
+MID_MISSION_H_S201811MOVE01_A9: Besiege rote Gegner mit\nberittenen Einheiten.
+MID_MISSION_S201811MOVE01_A10: Kavallerie besiegt Blau
+MID_MISSION_H_S201811MOVE01_A10: Besiege blaue Gegner mit\nberittenen Einheiten.
+MID_MISSION_S201811MOVE01_A11: Kavallerie besiegt Grün
+MID_MISSION_H_S201811MOVE01_A11: Besiege grüne Gegner mit\nberittenen Einheiten.
+MID_MISSION_S201811MOVE01_A12: Kavallerie besiegt Farblos
+MID_MISSION_H_S201811MOVE01_A12: Besiege farblose Gegner mit\nberittenen Einheiten.
+MID_MISSION_S201811MOVE01_A13: Flieger besiegt Rot
+MID_MISSION_H_S201811MOVE01_A13: Besiege rote Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201811MOVE01_A14: Flieger besiegt Blau
+MID_MISSION_H_S201811MOVE01_A14: Besiege blaue Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201811MOVE01_A15: Flieger besiegt Grün
+MID_MISSION_H_S201811MOVE01_A15: Besiege grüne Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201811MOVE01_A16: Flieger besiegt Farblos
+MID_MISSION_H_S201811MOVE01_A16: Besiege farblose Gegner mit\nfliegenden Verbündeten.
+MID_MISSION_S201811VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201811VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201811VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A2: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201811VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A3: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201811VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A4: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201811VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A5: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201811VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201811VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201811VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201811VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201811VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201811VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201811VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201811VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201811VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201811VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201811VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201811VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201811VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201811VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201811VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201811VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201811VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201811VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201811VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A17: Gewinne Kämpfe im Wahlturnier\nmit einem roten Verbündeten in\ndeinem Team.
+MID_MISSION_S201811VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A18: Gewinne Kämpfe im Wahlturnier\nmit einem blauen Verbündeten in\ndeinem Team.
+MID_MISSION_S201811VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A19: Gewinne Kämpfe im Wahlturnier\nmit einem grünen Verbündeten in\ndeinem Team.
+MID_MISSION_S201811VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201811VOTE01_A20: Gewinne Kämpfe im Wahlturnier\nmit einem farblosen Verbündeten\nin deinem Team.
+MPID_伝承エイリーク: Eirika
+MPID_HONOR_伝承エイリーク: Die Anmutige
+MPID_H_伝承エイリーク: Prinzessin von Renais und Ephraims Zwillings-\nschwester. Sie will mit ihrem Bruder ihr kriegs-\nzerrüttetes Land wiederaufbauen. Erscheint in\nFire Emblem: The Sacred Stones.
+MPID_VOICE_伝承エイリーク: Kira Buckland
+MPID_ILLUST_伝承エイリーク: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エイリーク: Legendärer Effekt: Wasser\nVerbündetenbonus: KP +3, Angr. +2\n\nGewährt Verbündeten diesen legendären\nEffekt in der Wassersaison, wenn sie mit\nWasser gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_雷剣ジークリンデ: Sturm-Sieglinde
+MSID_攻撃速さの孤軍1: Agr./Ges.-Solo 1
+MSID_攻撃速さの孤軍2: Agr./Ges.-Solo 2
+MSID_攻撃速さの孤軍3: Agr./Ges.-Solo 3
+MSID_月の腕輪: Luna-Band
+MSID_H_雷剣ジークリンデ: Verleiht Angr. +3. Befinden sich im Umkreis von\n2 Feldern mindestens so viele Gegner wie\nVerbündete (außer Einheit und Ziel), erhält die\nEinheit Ver./Res. +3 und ihre Erholungszeit wird\npro Angriff um 1 beschleunigt. (Bei mehreren\nähnlichen Effekten wird nur der höchste\nangewandt.)
+MSID_H_攻撃速さの孤軍1: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Ges. +2 im Kampf.
+MSID_H_攻撃速さの孤軍2: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Ges. +4 im Kampf.
+MSID_H_攻撃速さの孤軍3: Hat die Einheit keine benachbarten\nVerbündeten, erhält sie Angr./Ges. +6 im Kampf.
+MSID_H_月の腕輪: Verzögert Spezialangriffe (Erholungszeit +1).\nVerursacht Schaden in Höhe von 50 % des\nVer.-Werts des Gegners, wenn Spezialangriff\nausgelöst wird.
+MID_STAGE_HONOR_L0008: Die Anmutige
+MID_STAGE_L0008: Eirika
+MID_STAGE_TITLE_PB033: Fähigkeiten 33
+MID_STAGE_PB033: Renais' Heilige Zwillinge
+MID_STAGE_TITLE_PC017: Großmeister 17
+MID_STAGE_PC017: Los geht's!

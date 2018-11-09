@@ -1,0 +1,215 @@
+[Heroes Archive] (Data_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤暗: Red Dagger. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nCan temporarily reduce target's stats.
+MWID_H_青暗: Blue Dagger. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nCan temporarily reduce target's stats.
+MWID_H_緑暗: Green Dagger. Physical weapon. Range: 2.\nDamage reduced by target's Def.\nCan temporarily reduce target's stats.
+MDAID_花のかんざし: Flower Hairpin
+MDAID_H_花のかんざし: A hair ornament found at Hoshidan\nfestivals. The floral design is adored\nby many.
+MDAID_夏祭りのお面: Summer Festival Mask
+MDAID_H_夏祭りのお面: A mask found at Hoshidan festivals.\nThe dragon-face motif is pretty cute!
+MID_MISSION_S201808ARM01_TITLE: Weapon Workout
+MID_MISSION_S201808ARM01_A1: KO Foe w/Sword
+MID_MISSION_H_S201808ARM01_A1: Defeat a foe with a sword ally.
+MID_MISSION_S201808ARM01_A2: KO Foe w/Lance
+MID_MISSION_H_S201808ARM01_A2: Defeat a foe with a lance ally.
+MID_MISSION_S201808ARM01_A3: KO Foe w/Axe
+MID_MISSION_H_S201808ARM01_A3: Defeat a foe with an axe ally.
+MID_MISSION_S201808ARM01_A4: KO Foe w/Colorless Bow
+MID_MISSION_H_S201808ARM01_A4: Defeat a foe with a colorless bow ally.
+MID_MISSION_S201808ARM01_A5: KO Foe w/Colorless Dagger
+MID_MISSION_H_S201808ARM01_A5: Defeat a foe with a colorless dagger ally.
+MID_MISSION_S201808ARM01_A6: KO Foe w/Red Tome
+MID_MISSION_H_S201808ARM01_A6: Defeat a foe with a red tome ally.
+MID_MISSION_S201808ARM01_A7: KO Foe w/Blue Tome
+MID_MISSION_H_S201808ARM01_A7: Defeat a foe with a blue tome ally.
+MID_MISSION_S201808ARM01_A8: KO Foe w/Green Tome
+MID_MISSION_H_S201808ARM01_A8: Defeat a foe with a green tome ally.
+MID_MISSION_S201808ARM01_A9: KO Foe w/Staff
+MID_MISSION_H_S201808ARM01_A9: Defeat a foe with a staff ally.
+MID_MISSION_S201808ARM01_A10: KO Lvl. 35+ Foe w/Sword
+MID_MISSION_H_S201808ARM01_A10: Defeat a foe that is level 35 or higher with a\nsword ally.
+MID_MISSION_S201808ARM01_A11: KO Lvl. 35+ Foe w/Lance
+MID_MISSION_H_S201808ARM01_A11: Defeat a foe that is level 35 or higher with a\nlance ally.
+MID_MISSION_S201808ARM01_A12: KO Lvl. 35+ Foe w/Axe
+MID_MISSION_H_S201808ARM01_A12: Defeat a foe that is level 35 or higher with an\naxe ally.
+MID_MISSION_S201808ARM01_A13: KO Lvl. 35+ Foe w/C Bow
+MID_MISSION_H_S201808ARM01_A13: Defeat a foe that is level 35 or higher with a\ncolorless bow ally.
+MID_MISSION_S201808ARM01_A14: KO Lvl. 35+ Foe w/C Dag.
+MID_MISSION_H_S201808ARM01_A14: Defeat a foe that is level 35 or higher with a\ncolorless dagger ally.
+MID_MISSION_S201808ARM01_A15: KO Lvl. 35+ Foe w/R Tome
+MID_MISSION_H_S201808ARM01_A15: Defeat a foe that is level 35 or higher with a\nred tome ally.
+MID_MISSION_S201808ARM01_A16: KO Lvl. 35+ Foe w/B Tome
+MID_MISSION_H_S201808ARM01_A16: Defeat a foe that is level 35 or higher with a\nblue tome ally.
+MID_MISSION_S201808ARM01_A17: KO Lvl. 35+ Foe w/G Tome
+MID_MISSION_H_S201808ARM01_A17: Defeat a foe that is level 35 or higher with a\ngreen tome ally.
+MID_MISSION_S201808ARM01_A18: KO Lvl. 35+ Foe w/Staff
+MID_MISSION_H_S201808ARM01_A18: Defeat a foe that is level 35 or higher with a\nstaff ally.
+MID_MISSION_S201808KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201808KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201808KIZUNA01_A1: Clear the Bound Hero Battle against Corrin &\nAzura with Sharena: Princess of Askr on your\nteam.
+MID_MISSION_S201808KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201808KIZUNA01_A2: Clear the Bound Hero Battle against Corrin &\nAzura on Lunatic or higher difficulty with Anna\non your team.
+MID_MISSION_S201808KIZUNA01_A3: Defeat Corrin
+MID_MISSION_H_S201808KIZUNA01_A3: Defeat Corrin: Fateful Prince at level 40 or\nhigher with Sharena: Princess of Askr.
+MID_MISSION_S201808KIZUNA01_A4: Defeat Azura
+MID_MISSION_H_S201808KIZUNA01_A4: Defeat Azura: Lady of the Lake at level 40 or\nhigher with Anna.
+MID_MISSION_S201808KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201808KIZUNA01_A5: With an all-cavalry team, clear the Bound Hero\nBattle against Corrin & Azura on Lunatic or\nhigher difficulty.
+MID_MISSION_S201808SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201808SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201808SENKA01_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201808SENKA01_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201808SENKA01_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201808SENKA01_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201808SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201808SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201808SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201808SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201808SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201808STORY01_TITLE: Festival in Hoshido
+MID_MISSION_S201808STORY01_A1: Clear P23-1 on Lunatic
+MID_MISSION_H_S201808STORY01_A1: Clear Paralogue 23: Part 1 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808STORY01_A2: Clear P23-2 on Lunatic
+MID_MISSION_H_S201808STORY01_A2: Clear Paralogue 23: Part 2 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808STORY01_A3: Clear P23-3 on Lunatic
+MID_MISSION_H_S201808STORY01_A3: Clear Paralogue 23: Part 3 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201808TAPBTL01_D01_A1: Defeat Lissa
+MID_MISSION_H_S201808TAPBTL01_D01_A1: Defeat the boss Lissa on Floors 16-20\non Normal difficulty in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201808TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201808TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201808TAPBTL01_D02_A1: Defeat Lissa
+MID_MISSION_H_S201808TAPBTL01_D02_A1: Defeat the boss Lissa on Floors 16-20\non Hard difficulty in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201808TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201808TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201808TAPBTL01_D03_A1: Defeat Azura
+MID_MISSION_H_S201808TAPBTL01_D03_A1: Defeat the boss Azura on Floors 36-40\non Normal difficulty in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201808TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201808TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201808TAPBTL01_D04_A1: Defeat Azura
+MID_MISSION_H_S201808TAPBTL01_D04_A1: Defeat the boss Azura on Floors 36-40\non Hard difficulty in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201808TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201808TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201808TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201808TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201808TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201808TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201808TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201808TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201808TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201808TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201808TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201808TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MID_MISSION_S201808TAPBTL02_A5: Clear Floors 6-10
+MID_MISSION_H_S201808TAPBTL02_A5: Clear floors 6-10 in Tap Battle.
+MID_MISSION_S201808TAPBTL02_A6: Clear Floors 81-85
+MID_MISSION_H_S201808TAPBTL02_A6: Clear floors 81-85 in Tap Battle.
+MPID_夏祭リョウマ: Ryoma
+MPID_夏祭エリンシア: Elincia
+MPID_夏祭マークス: Xander
+MPID_夏祭ミカヤ: Micaiah
+MPID_HONOR_夏祭リョウマ: Dancing Samurai
+MPID_HONOR_夏祭エリンシア: Estival Princess
+MPID_HONOR_夏祭マークス: Dancing Knight
+MPID_HONOR_夏祭ミカヤ: Summer's Dawn
+MPID_H_夏祭リョウマ: High Prince of Hoshido. Direct and focused\non duty. Currently participating in a\ntraditional Hoshidan summer festival.\nAppears in Fire Emblem Fates.
+MPID_H_夏祭エリンシア: The princess of Crimea who cares for her\nkingdom and people. It pleases her to see the\nsmiling dancers at the summer festival.\nAppears in Fire Emblem: Radiant Dawn.
+MPID_H_夏祭マークス: Crown Prince of Nohr. Seeks to better himself.\nInvited to a Hoshidan festival, he opted to don\nthe traditional garb and participate. Appears\nin Fire Emblem Fates.
+MPID_H_夏祭ミカヤ: A member of the Dawn Brigade with silver hair\nwho is a little apprehensive about wearing\nunfamiliar summer festival garb. Appears in\nFire Emblem: Radiant Dawn.
+MPID_VOICE_夏祭リョウマ: Matt Mercer
+MPID_VOICE_夏祭エリンシア: Amanda Miller
+MPID_VOICE_夏祭マークス: George Spelvin
+MPID_VOICE_夏祭ミカヤ: Veronica Taylor
+MPID_ILLUST_夏祭リョウマ: Kita Senri (北千里)
+MPID_ILLUST_夏祭エリンシア: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_夏祭マークス: PenekoR (п猫Ｒ)
+MPID_ILLUST_夏祭ミカヤ: Chiko (チーコ)
+MSID_第13迷宮の覇者1: Squad Ace M 1
+MSID_第13迷宮の覇者2: Squad Ace M 2
+MSID_第13迷宮の覇者3: Squad Ace M 3
+MSID_青天の舞扇: Sky Maiougi
+MSID_青天の舞扇＋: Sky Maiougi+
+MSID_緑雲の舞扇: Cloud Maiougi
+MSID_緑雲の舞扇＋: Cloud Maiougi+
+MSID_宵闇の団扇: Dusk Uchiwa
+MSID_宵闇の団扇＋: Dusk Uchiwa+
+MSID_暁天の神楽鈴: Dawn Suzu
+MSID_業火静水の舞い1: Fireflood Dance 1
+MSID_業火静水の舞い2: Fireflood Dance 2
+MSID_疾風大地の舞い1: Rockslide Dance 1
+MSID_疾風大地の舞い2: Rockslide Dance 2
+MSID_速さ魔防の紋章1: Spur Spd/Res 1
+MSID_速さ魔防の紋章2: Spur Spd/Res 2
+MSID_守備の波・奇数1: Odd Def Wave 1
+MSID_守備の波・奇数2: Odd Def Wave 2
+MSID_守備の波・奇数3: Odd Def Wave 3
+MSID_H_フォルクヴァング改: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Def+7 during combat.
+MSID_H_フェンサリル改: Neutralizes foes’ bonuses (from skills like\nFortify, Rally, etc.) during combat.
+MSID_H_ノーアトゥーン改: If unit’s HP ≤ 50%, unit can move to a space\nadjacent to any ally.
+MSID_H_第13迷宮の覇者1: Grants Res+1.
+MSID_H_第13迷宮の覇者2: Grants Res+2.
+MSID_H_第13迷宮の覇者3: Grants Res+3.
+MSID_H_青天の舞扇: Effective against armored foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-5 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_青天の舞扇＋: Effective against armored foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-7 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_緑雲の舞扇: Effective against dragon foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-5 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_緑雲の舞扇＋: Effective against dragon foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-7 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_宵闇の団扇: Effective against cavalry foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-5 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_宵闇の団扇＋: Effective against cavalry foes. Disables unit's\nand foe's skills that change attack priority.\nAfter combat, if unit attacked, inflicts Def/\nRes-7 on target and foes within 2 spaces of\ntarget through their next actions.
+MSID_H_暁天の神楽鈴: Effective against armored and cavalry foes.\nGrants Atk+3. Disables unit's and foe's skills\nthat change attack priority.
+MSID_H_業火静水の舞い1: If Sing or Dance is used, grants Atk+2 and\nRes+3 to target.
+MSID_H_業火静水の舞い2: If Sing or Dance is used, grants Atk+3 and\nRes+4 to target.
+MSID_H_疾風大地の舞い1: If Sing or Dance is used, grants Spd+2 and\nDef+3 to target.
+MSID_H_疾風大地の舞い2: If Sing or Dance is used, grants Spd+3 and\nDef+4 to target.
+MSID_H_速さ魔防の紋章1: Grants Spd/Res+2 to adjacent allies during\ncombat.
+MSID_H_速さ魔防の紋章2: Grants Spd/Res+3 to adjacent allies during\ncombat.
+MSID_H_守備の波・奇数1: At start of odd-numbered turns, grants Def+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_守備の波・奇数2: At start of odd-numbered turns, grants Def+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_守備の波・奇数3: At start of odd-numbered turns, grants Def+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MID_CHAPTER_TITLE_CX022: Paralogue 23
+MID_CHAPTER_CX022: Festival in Hoshido
+MID_STAGE_TITLE_X0221: Paralogue 23-1
+MID_STAGE_TITLE_X0222: Paralogue 23-2
+MID_STAGE_TITLE_X0223: Paralogue 23-3
+MID_STAGE_X0221: Honoring the Land
+MID_STAGE_X0222: The Gods Pass On...
+MID_STAGE_X0223: The Wind Itself
+MID_STAGE_HONOR_T0037: Bound Hero Battle
+MID_STAGE_T0037: M & S
+MID_STAGE_TITLE_PC011: Grandmaster 11
+MID_STAGE_PC011: A Land Divided
+MID_STAGE_TITLE_BG_WATER_0011: Water 1
+MID_STAGE_TITLE_BG_WIND_0011: Wind 1
+MID_STAGE_TITLE_SB_0013: 13th Assault
+MID_STAGE_HONOR_Q0023: Weekly
+MID_STAGE_Q0023: Rival Domains
+MID_STAGE_HONOR_Q0024: Weekly
+MID_STAGE_Q0024: Rival Domains
+MID_STAGE_HONOR_Q0025: Weekly
+MID_STAGE_Q0025: Rival Domains
+MID_STAGE_HONOR_Q0026: Weekly
+MID_STAGE_Q0026: Rival Domains
+MID_TAP_BATTLE_DATA_TITLE_0007: Festival of Heroes
+MID_MUSIC_NAME_BGM_MAP_FES_02: More Fan Fest
+MID_MUSIC_NAME_BGM_MAP_POPULARITY_01: Brave Heroes
+MID_MUSIC_NAME_BGM_MAP_FE13_06: Divine Decree (Ablaze)

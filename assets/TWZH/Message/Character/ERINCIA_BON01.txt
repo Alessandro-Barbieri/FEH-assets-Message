@@ -1,0 +1,38 @@
+[Heroes Archive] (ERINCIA_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_ERINCIA_BON01_HOME1: 浴衣這樣穿對嗎？\n真是清涼又方便移動的服裝呢。
+MID_ERINCIA_BON01_HOME2: 希望將來在我們克里米亞……\n也能舉辦這種讓大家展露笑容的祭典……
+MID_ERINCIA_BON01_HOME3: 拒絕、否定與自己不同的文化和價值觀……\n說不定戰爭就是因這種想法而生的……
+MID_ERINCIA_BON01_HOME4: 異國的舞蹈感覺真新鮮呢！\n不過我還不太熟練……\n你可以陪我一起練習嗎？
+MID_ERINCIA_BON01_HOME5: 人們對異國抱持毫無根據的歧視與偏見……\n這點讓我的父親十分苦惱。\n我應該也有可以幫上忙的地方才對……
+MID_ERINCIA_BON01_FRIEND: 我是來轉交來自\n$Nf大人的\n夏祭邀請函給你的。
+MID_ERINCIA_BON01_LEVEL1: 努力練習總算有成果了。\n我覺得很驕傲……
+MID_ERINCIA_BON01_LEVEL2: 感覺身體也漸漸熟悉這個舞蹈了。
+MID_ERINCIA_BON01_LEVEL3: 對不起，\n我好像怯場了……
+MID_ERINCIA_BON01_SKILL: 謝謝你。\n希望我能幫上你的忙……
+MID_ERINCIA_BON01_JOIN: 我是艾琳西亞，克里米亞國王拉蒙之女。\n我的打扮……很稀奇嗎？\n這是神聖祭典的服裝。
+MID_ERINCIA_BON01_STRONGEST: $Nu大人，\n你看到了嗎？\n參加夏祭的人們臉上幸福的表情……$k$p我們該守護的東西\n既非歷史也絕非國家，\n而是活在當下人民們的笑容……$k$p這次參加夏祭，與大家共舞之後，\n我又再次確定自己戰鬥的理由了。$k$p不管未來有什麼樣的風雨在等著……\n我都會毫不猶豫地為人民舉起劍抗爭。$k$p然後當世界恢復平靜時，\n我們帶著笑容牽起手……\n再次共舞吧……！
+MID_ERINCIA_BON01_VOICE01: 看招！
+MID_ERINCIA_BON01_VOICE02: 呀啊！
+MID_ERINCIA_BON01_VOICE03: 欸──！？
+MID_ERINCIA_BON01_VOICE04: 不行！
+MID_ERINCIA_BON01_VOICE05: 讓我帶來一段舞蹈！
+MID_ERINCIA_BON01_VOICE06: 請欣賞我的演出！
+MID_ERINCIA_BON01_VOICE07: 雖然是邊看邊學的……
+MID_ERINCIA_BON01_VOICE08: 作為友誼的證明！
+MID_ERINCIA_BON01_VOICE09: もう…踊れないのですね…
+MID_ERINCIA_BON01_VOICE10: えっと…
+MID_ERINCIA_BON01_VOICE11: 白夜の舞いです
+MID_ERINCIA_BON01_VOICE12: がんばりましょう
+MID_ERINCIA_BON01_VOICE13: きゃっ！？　すみません、足がもつれて…踊りは難しいものですね。
+MID_ERINCIA_BON01_VOICE14: 踊りが得意なわけではありませんから、その分、練習します。
+MID_ERINCIA_BON01_VOICE15: この衣装は、皆様からいただいた友好の証です。
+MID_ERINCIA_BON01_VOICE16: 他国のことをよく知れば、きっとわかりあうことができます。
+MID_ERINCIA_BON01_VOICE17: よろしければ…私と一緒に踊っていただけますか？
+MID_ERINCIA_BON01_VOICE18: わかりました
+MID_ERINCIA_BON01_VOICE19: 夏ですね…
+MID_ERINCIA_BON01_VOICE20: 舞ってみます

@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU_HALLOWEEN02)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_HALLOWEEN02_HOME1: Witches, ghoulish pumpkins, and\nghosts... Is the harvest festival a\ngathering of evil spirits?
+MID_KAGEROU_HALLOWEEN02_HOME2: Some popular snacks of Hoshido\ninclude sweet dango and rice\ncrackers.$k$pOf course, the snacks of Nohr are\ndelicious as well...
+MID_KAGEROU_HALLOWEEN02_HOME3: A ninja must be adept at blending in\nwith crowds to remain hidden. This\nmaid costume is perfect to that end.$k$pEnjoy your time at the festival. I will\nbe watching from the shadows.
+MID_KAGEROU_HALLOWEEN02_HOME4: A true ninja can play tricks on people\nin complete silence. Would you care\nto learn some of the basics?
+MID_KAGEROU_HALLOWEEN02_HOME5: This is a traditional maid outfit from\nNohr. Maids are similar to ninja in that\nwe are both dedicated to a master.
+MID_KAGEROU_HALLOWEEN02_FRIEND: I bring you a fond greeting at\n$Nf's command.$k$pThis drink will quench your thirst.
+MID_KAGEROU_HALLOWEEN02_LEVEL1: Do you desire a trick or a treat?\nChoose and I will see it done.
+MID_KAGEROU_HALLOWEEN02_LEVEL2: This festival's atmosphere is...\nenjoyable. I will try to enjoy it more.
+MID_KAGEROU_HALLOWEEN02_LEVEL3: Careless... Perhaps the festival is\nproving too much of a distraction.
+MID_KAGEROU_HALLOWEEN02_SKILL: I thank you with all my heart. It seems\nwe had a good harvest.
+MID_KAGEROU_HALLOWEEN02_JOIN: Kagero, ninja of Hoshido, making an\nunannounced visit. Trick or treat?\nPlease promptly choose your fate.
+MID_KAGEROU_HALLOWEEN02_STRONGEST: As a ninja, it is my duty to swiftly and\nsilently carry out any mission\ncommanded of me.$k$pNo matter what fate may await me\nupon its completion.$k$pParticipating in this harvest festival is\na sort of mission, which means I must\nnot let my emotions interfere.$k$pHowever...interacting with fellow\nfestival goers, seeing their warm\nand welcoming smiles...$k$pSomething changed.$k$pI suppose I realized that to truly\nparticipate, I must truly enjoy myself.$k$pSo I must not hesitate. For the sake\nof the mission, I must begin enjoying\nmyself immediately.$k$pNow, tell me... Do you desire a trick\nor a treat? I, Kagero, ninja of Hoshido,\nwill fulfill your wish!
+MID_KAGEROU_HALLOWEEN02_VOICE01: えいっ！
+MID_KAGEROU_HALLOWEEN02_VOICE02: やっ！
+MID_KAGEROU_HALLOWEEN02_VOICE03: うああっ！
+MID_KAGEROU_HALLOWEEN02_VOICE04: 破廉恥な…！
+MID_KAGEROU_HALLOWEEN02_VOICE05: Treat or trick?
+MID_KAGEROU_HALLOWEEN02_VOICE06: I'll take your candy.
+MID_KAGEROU_HALLOWEEN02_VOICE07: Time for a trick.
+MID_KAGEROU_HALLOWEEN02_VOICE08: Autumnal Concealment.
+MID_KAGEROU_HALLOWEEN02_VOICE09: It's...the clothes...
+MID_KAGEROU_HALLOWEEN02_VOICE10: *grumble/unhappy noise*
+MID_KAGEROU_HALLOWEEN02_VOICE11: Do you find this outfit odd? I'm not surprised.
+MID_KAGEROU_HALLOWEEN02_VOICE12: Do not do that. I am no spirit.
+MID_KAGEROU_HALLOWEEN02_VOICE13: This is Nohrian garb? How shameless...
+MID_KAGEROU_HALLOWEEN02_VOICE14: Why must I suffer this humiliation?
+MID_KAGEROU_HALLOWEEN02_VOICE15: Those who do not give treats must suffer a trick. That is the rule.
+MID_KAGEROU_HALLOWEEN02_VOICE16: A ninja must be ready to take on anything...
+MID_KAGEROU_HALLOWEEN02_VOICE17: Rest here a moment. I'll prepare a tea that goes nicely with sweets.
+MID_KAGEROU_HALLOWEEN02_VOICE18: I will obey.
+MID_KAGEROU_HALLOWEEN02_VOICE19: Mysterious...
+MID_KAGEROU_HALLOWEEN02_VOICE20: I'll do as I must.

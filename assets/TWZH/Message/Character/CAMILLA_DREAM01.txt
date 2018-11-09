@@ -1,0 +1,38 @@
+[Heroes Archive] (CAMILLA_DREAM01)
+
+
+Heroes Message Name: Message
+
+
+MID_CAMILLA_DREAM01_HOME1: 夢境有時候……\n會映照出不同於現實的自己……\n或許那也算是一種期望吧。
+MID_CAMILLA_DREAM01_HOME2: 原來別的世界的我和我完全不一樣啊。\n那種令人害臊的打扮……\n我還真學不來呢……
+MID_CAMILLA_DREAM01_HOME3: 阿庫婭……\n所有擋在妳面前的黑暗，\n就由我來剷除吧。
+MID_CAMILLA_DREAM01_HOME4: 心靈的混亂就是生活的混亂。\n和我一起有規律、勤勉地過生活吧。
+MID_CAMILLA_DREAM01_HOME5: 我要時時謹守分寸、\n展現清廉的生活方式才行。\n我必須成為大家的榜樣……
+MID_CAMILLA_DREAM01_FRIEND: 我替$Nf來向你打招呼，\n這裡是個沒有敗壞風紀的好城堡呢。
+MID_CAMILLA_DREAM01_LEVEL1: 所謂的宛如夢境，就是指這回事吧。
+MID_CAMILLA_DREAM01_LEVEL2: 我絕對沒有因此感到滿足，\n但現在就一起為成長歡喜吧。
+MID_CAMILLA_DREAM01_LEVEL3: 簡直就像做了一場惡夢……
+MID_CAMILLA_DREAM01_SKILL: 阿庫婭……\n我會用這股力量守護妳。
+MID_CAMILLA_DREAM01_JOIN: 我是暗夜王國的公主──卡美拉。\n這裡是……不同的世界嗎？\n還是在夢境裡頭呢……？
+MID_CAMILLA_DREAM01_STRONGEST: 向對方灌注滿滿的愛……\n也是一種愛情表現。\n我不會說那是錯的。$k$p但是……一味地寵溺對方是不行的，\n必要時用堅定的態度與對方相處也很重要。$k$p期望自己愛的人可以變得更堅強……\n正因為愛著對方，\n有時才需要刻意採取嚴厲的態度。$k$p$Nu，\n因此我對你也會時而溫柔、時而嚴厲。$k$p我相信這樣一定可以\n為你的未來帶來希望……
+MID_CAMILLA_DREAM01_VOICE01: 嘿！
+MID_CAMILLA_DREAM01_VOICE02: 對不起……
+MID_CAMILLA_DREAM01_VOICE03: 呀啊～！
+MID_CAMILLA_DREAM01_VOICE04: 怎麼會……
+MID_CAMILLA_DREAM01_VOICE05: 睡覺的時間到了。
+MID_CAMILLA_DREAM01_VOICE06: 我會守護那孩子。
+MID_CAMILLA_DREAM01_VOICE07: 夢就是救贖……
+MID_CAMILLA_DREAM01_VOICE08: 晚安。
+MID_CAMILLA_DREAM01_VOICE09: 這是……夢的終結嗎……
+MID_CAMILLA_DREAM01_VOICE10: ふふっ
+MID_CAMILLA_DREAM01_VOICE11: 私はカミラ…でも、あなたの知るカミラとは、違うのかもしれないわ。
+MID_CAMILLA_DREAM01_VOICE12: きゃっ、も、もう…急にびっくりさせないで。
+MID_CAMILLA_DREAM01_VOICE13: アクアに姉さんって言われると…嬉しくて、泣きそうになってしまうの。
+MID_CAMILLA_DREAM01_VOICE14: 眠れないの？　そんな時は、空飛ぶ竜の数を数えるといいそうよ。
+MID_CAMILLA_DREAM01_VOICE15: え？　ひ、膝枕…？　そんなはしたないこと、できないわ…
+MID_CAMILLA_DREAM01_VOICE16: 私はアクアの姉…あの子を救ってあげたい…
+MID_CAMILLA_DREAM01_VOICE17: あの子が元気になれるよう…あなたの力を貸してくれる？
+MID_CAMILLA_DREAM01_VOICE18: がんばるわ
+MID_CAMILLA_DREAM01_VOICE19: 平和のために…
+MID_CAMILLA_DREAM01_VOICE20: 夢を見ましょう

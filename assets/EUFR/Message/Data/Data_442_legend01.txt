@@ -246,7 +246,7 @@ MSID_鍛錬の証_魔防1: Sceau initié Rés 1
 MSID_鍛錬の証_魔防2: Sceau initié Rés 2
 MSID_鍛錬の証_魔防3: Sceau initié Rés 3
 MSID_H_蒼の天空: Ignore 50 % de la Déf/Rés de la cible\npendant le combat. Rend des PV à\nhauteur de 50 % des dégâts infligés.
-MSID_H_明鏡の呼吸: Si l'ennemi initie le combat, confère Rés +4\npendant le combat et compteur -1 par\nattaque. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
+MSID_H_明鏡の呼吸: Si l'ennemi initie le combat, confère Rés +4\npendant le combat et compteur -1 pour chaque\nattaque de l'unité. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
 MSID_H_鍛錬の証_HP1: Confère PV +3.
 MSID_H_鍛錬の証_HP2: Confère PV +4.
 MSID_H_鍛錬の証_HP3: Confère PV +5.

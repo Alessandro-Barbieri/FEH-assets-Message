@@ -1,0 +1,38 @@
+[Heroes Archive] (INVERSE)
+
+
+Heroes Message Name: Message
+
+
+MID_INVERSE_HOME1: この国では私のことを誰も知らない…\n過去を知られることもない。\nフフ、存外と居心地のいいものね。
+MID_INVERSE_HOME2: あんまり女の過去を\n詮索するもんじゃないわよ？\nな～んてね、フフ…
+MID_INVERSE_HOME3: 雑用って世界が違っても大差ないのね。\n食料管理くらいなら手伝ってあげるわよ。\n私、そういうの意外と慣れてるの。
+MID_INVERSE_HOME4: 近くに綺麗な水滝があるのを見てきたわ。\n私ね、水浴びが大好きなの…\n逃げたりしないわよ、一緒に来る？
+MID_INVERSE_HOME5: なぁに、あなたは私の監視役？\n別に怪しいことなんて何もしてないわよ。\nほら…脚の手入れをしていただけ。
+MID_INVERSE_FRIEND: 私はインバース。\n$Nfの命により\n親愛の品をお持ちしましたわ。
+MID_INVERSE_LEVEL1: 私の邪魔をするイケナイ子には、\nこの手で絶望を与えてあげる…
+MID_INVERSE_LEVEL2: そろそろ遊びは終わりにしなくちゃね。\nもっと私に期待してちょうだい？
+MID_INVERSE_LEVEL3: あ～ら、怖い顔しないで？\n楽しくいきましょう？
+MID_INVERSE_SKILL: ほら、あなたが望んでいたのは\nこういうことでしょう？
+MID_INVERSE_JOIN: インバースと呼んでちょうだい。\nもう、そんなに可愛い顔しないで？\nいじめたくなっちゃうから…
+MID_INVERSE_STRONGEST: こんなところまでよく来るわね…\nまさか、私を敵の間者だと疑ってたりして？$k$pえ、違う…元気がないから心配ですって？\nそう…意外とよく見ているじゃない。\nそうよ、私落ち込んでるの…すご～く！$k$p…大勢の人に酷いことをしてしまったわ。\n償う方法なんてない…\n何をしても過去はやり直せない…$k$p今さら、\n人とどう接すればいいのかも…\nもう、わからなくなっちゃった。$k$p素直に、って…難しいこと言うのね。\nじゃあ、もう少しだけ隣にいてくれない？ $k$pあの月が昇りきるまでで構わないわ…\nこう見えて私、尽くすタイプなのよ。
+MID_INVERSE_VOICE01: はぁっ！
+MID_INVERSE_VOICE02: そぉれっ
+MID_INVERSE_VOICE03: きゃああっ！
+MID_INVERSE_VOICE04: 激しいのね…
+MID_INVERSE_VOICE05: 絶望を貴方に…
+MID_INVERSE_VOICE06: お遊びは終わり…
+MID_INVERSE_VOICE07: 遊びましょうか？
+MID_INVERSE_VOICE08: 楽しめたわよ？
+MID_INVERSE_VOICE09: 強い…のね…
+MID_INVERSE_VOICE10: んふふっ
+MID_INVERSE_VOICE11: インバースと申します。以後、お見知りおきを。
+MID_INVERSE_VOICE12: うふふっ…どこを見てるのかしらぁ？
+MID_INVERSE_VOICE13: きゃっ…あら、見かけによらず強引ねぇ？
+MID_INVERSE_VOICE14: 私を監視したいなら、隅々までじっくりどうぞ？
+MID_INVERSE_VOICE15: 何も知らないというのは、悲しく滑稽なことね。
+MID_INVERSE_VOICE16: 本当の…私…？　私には…そんなもの…
+MID_INVERSE_VOICE17: 私をものにして…いったい何をさせたいのかしらぁ…？
+MID_INVERSE_VOICE18: ええ
+MID_INVERSE_VOICE19: 強そうねぇ
+MID_INVERSE_VOICE20: 楽しみましょう。

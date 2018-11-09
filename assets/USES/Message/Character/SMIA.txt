@@ -1,0 +1,38 @@
+[Heroes Archive] (SMIA)
+
+
+Heroes Message Name: Message
+
+
+MID_SMIA_HOME1: ¿La Orden de Héroes tiene un establo\npara pegasos? Si es así, me gustaría\nechar una mano cuidándolos.$k$p¡Eso se me da genial!
+MID_SMIA_HOME2: Pertenezco a los Custodios de\nChrom.$k$pEmpecé como aprendiz, pero cuando\nencontré a mi pegaso, mis habilidades\nde lucha mejoraron mucho.
+MID_SMIA_HOME3: ¿Estás patrullando? Muchas gracias.\nAh, y mira bien dónde pisas.$k$pAcabo de tropezarme por aquí cerca.
+MID_SMIA_HOME4: ¿Quieres deshojar margaritas\nconmigo? Si auguran problemas,\nno te preocupes.$k$pSimplemente haz todo lo posible para\nque la predicción no se cumpla.
+MID_SMIA_HOME5: Estoy leyendo uno de mis libros\nfavoritos, "Delirios de un auriga\nsanguinario II".$k$pSi te interesa, te puedo prestar\nla primera parte.
+MID_SMIA_FRIEND: ¡Hola! Te traigo saludos de\n$Nf.$k$pNo me importa esperarte. Estaba\ndeshojando margaritas para saber\nel futuro de la Orden de Héroes.
+MID_SMIA_LEVEL1: ¡Qué contenta estoy! Ahora\nme esforzaré todavía más.
+MID_SMIA_LEVEL2: Ya era hora de mejorar un poquito.
+MID_SMIA_LEVEL3: ¡Ay! ¿Por qué todo me sale mal?
+MID_SMIA_SKILL: Siento haberte robado tanto tiempo.
+MID_SMIA_JOIN: Soy Sumia, miembro de los Custodios\nde Chrom.$k$pSoy algo torpe, pero te prometo que\nharé todo lo posible por ayudarte.
+MID_SMIA_STRONGEST: Lo lograré, no lo lograré,\nlo lograré, no lo... ¡Ah, hola,\n$Nu!$k$pEstaba deshojando una margarita\npara ver si me convertiré en\nuna heroína de verdad o no.$k$pLuchar contigo me ha motivado para\nfijarme un nuevo objetivo.$k$pQuiero hacerme más fuerte. ¡No\nquiero ser una torpe toda mi vida!$k$pQuiero ser una heroína digna de\nluchar a tu lado, pero... me falta\nconfianza...$k$pPor eso estaba consultando mi futuro\ncon las margaritas. Lo lograré, no lo\nlograré, ¡lo lograré!$k$p¡Uf, menos mal! La margarita dice que\nlo lograré. Si me esfuerzo mucho,\nseguro que la predicción se cumple.$k$p¡Me convertiré en tu guerrera alada\nmás fuerte!
+MID_SMIA_VOICE01: はい！
+MID_SMIA_VOICE02: えい！
+MID_SMIA_VOICE03: ひゃあっ！
+MID_SMIA_VOICE04: Not again...
+MID_SMIA_VOICE05: ¡Voy a poner fin a esto!
+MID_SMIA_VOICE06: ¡Allá voy!
+MID_SMIA_VOICE07: ¡Es mi turno!
+MID_SMIA_VOICE08: ¡No me rendiré!
+MID_SMIA_VOICE09: I'm sorry...
+MID_SMIA_VOICE10: Hi!
+MID_SMIA_VOICE11: Faring well?
+MID_SMIA_VOICE12: I'm sorry.  I try my best, but I'm pretty sure I'll always be clumsy.
+MID_SMIA_VOICE13: My pegusus is such a good girl! Yes she is!
+MID_SMIA_VOICE14: I just love how there are so many different kinds of flowers here... Even some I've never seen before!
+MID_SMIA_VOICE15: He loves me... He loves me not. He loves me... Oh! I was just doing flower fortunes.
+MID_SMIA_VOICE16: I need to train harder. It's not like I don't have potential...
+MID_SMIA_VOICE17: The fact that you believe in me... It makes me happier than words can express.
+MID_SMIA_VOICE18: Yes
+MID_SMIA_VOICE19: Here goes...
+MID_SMIA_VOICE20: I'm with you!

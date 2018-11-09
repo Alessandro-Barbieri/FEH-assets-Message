@@ -1,0 +1,9 @@
+[Heroes Archive] (S2113)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Smile|Ha! HIER habt ihr euch also versteckt,\nihr dreckigen Ratten. Heute muss\nmein Glückstag sein.$k$pIch weiß, dass ihr gern vom Besten\nabgemurkst werden würdet, und bin\nnur für euch aus der Hölle gestiegen!$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|Zur Hölle mit euch allen!\nIch werde nicht... sterben...$k$p

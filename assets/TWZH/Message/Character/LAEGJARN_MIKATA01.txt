@@ -1,0 +1,38 @@
+[Heroes Archive] (LAEGJARN_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LAEGJARN_MIKATA01_HOME1: 這裡的氣候和穆斯貝爾與尼福爾都不同……\n如果能事先掌握，\n或許有一天能派上用場。
+MID_LAEGJARN_MIKATA01_HOME2: 在我們穆斯貝爾王國，強者就是絕對，\n而弱者，就只是被狩獵的獵物。\n那真的非常殘酷……
+MID_LAEGJARN_MIKATA01_HOME3: 我妹妹……瑞瓦提恩是我的一切。\n只要那孩子能平安無事……\n要我獻上一切也在所不惜。
+MID_LAEGJARN_MIKATA01_HOME4: 我沒有武術才能。\n因此沒有才能的我拚命思考……\n思考弱者得以在穆斯貝爾生存的方法。
+MID_LAEGJARN_MIKATA01_HOME5: 若是累了就休息吧。\n我會在你入睡的期間，\n擔任你的護衛。
+MID_LAEGJARN_MIKATA01_FRIEND: 我名為瑞瓦伽倫，\n是$Nf的將領。\n奉吾主之命，前來致意。
+MID_LAEGJARN_MIKATA01_LEVEL1: 炎龍穆斯貝爾之血的力量……\n我會駕馭這力量讓你見識。
+MID_LAEGJARN_MIKATA01_LEVEL2: 我名為瑞瓦伽倫，\n是$Nu的將領。
+MID_LAEGJARN_MIKATA01_LEVEL3: 如果我不夠強大，\n就無法守護那孩子……
+MID_LAEGJARN_MIKATA01_SKILL: 這恩情我日後必會報答……\n我以自身之名向你發誓。
+MID_LAEGJARN_MIKATA01_JOIN: 我是穆斯貝爾的將領瑞瓦伽倫。\n若是希望我服從你，就讓我見妹妹……\n瑞瓦提恩一面。
+MID_LAEGJARN_MIKATA01_STRONGEST: 父親大人是嚴苛的烈火……他對弱者，\n即使是自己的孩子也能毫不猶豫地殺害。\n我從小時候……就一路看著這些成長。$k$p我每天都活在恐懼之中……\n但是，我有個仰慕我的妹妹。\n我只想守護那孩子……$k$p想守護他人的心情，\n能化為遠遠超越自己的強大力量……\n多虧有了妹妹，我才能變強。$k$p現在的我……\n是你的將領，你的刀鞘。\n我是為了守護你而存在於此。$k$p對你的守護之心……將化為我的力量。\n吾主啊。\n懇請你，今後也與我同在……
+MID_LAEGJARN_MIKATA01_VOICE01: 喝！
+MID_LAEGJARN_MIKATA01_VOICE02: 可惡……！
+MID_LAEGJARN_MIKATA01_VOICE03: 呀啊啊！
+MID_LAEGJARN_MIKATA01_VOICE04: 何等屈辱……
+MID_LAEGJARN_MIKATA01_VOICE05: 真可悲……
+MID_LAEGJARN_MIKATA01_VOICE06: 反抗者死。
+MID_LAEGJARN_MIKATA01_VOICE07: 我要守護妹妹。
+MID_LAEGJARN_MIKATA01_VOICE08: 我不會手下留情的！
+MID_LAEGJARN_MIKATA01_VOICE09: 瑞瓦提恩……
+MID_LAEGJARN_MIKATA01_VOICE10: ふっ…
+MID_LAEGJARN_MIKATA01_VOICE11: 私はレーギャルン。レーヴァテインは私の妹よ。
+MID_LAEGJARN_MIKATA01_VOICE12: きゃあっ…！？　な、なにをするの…？
+MID_LAEGJARN_MIKATA01_VOICE13: 私はどうなっても構わないわ。でも、妹のことは助けてあげて。
+MID_LAEGJARN_MIKATA01_VOICE14: 私は敵軍の将…虜囚の辱めを受ける覚悟はできているわ。
+MID_LAEGJARN_MIKATA01_VOICE15: 父上は炎…触れるものすべてを焼き、滅ぼさずにはいられない…
+MID_LAEGJARN_MIKATA01_VOICE16: レーヴァテイン…可愛い妹。どうか、あの子だけは…
+MID_LAEGJARN_MIKATA01_VOICE17: あなたみたいな人…はじめてよ。
+MID_LAEGJARN_MIKATA01_VOICE18: わかったわ
+MID_LAEGJARN_MIKATA01_VOICE19: どうすれば…
+MID_LAEGJARN_MIKATA01_VOICE20: あなたを信じるわ

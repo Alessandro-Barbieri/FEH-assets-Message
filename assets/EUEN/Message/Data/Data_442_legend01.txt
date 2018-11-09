@@ -246,7 +246,7 @@ MSID_鍛錬の証_魔防1: Initiate Seal Res 1
 MSID_鍛錬の証_魔防2: Initiate Seal Res 2
 MSID_鍛錬の証_魔防3: Initiate Seal Res 3
 MSID_H_蒼の天空: During combat, treats foe's Def/Res as\nif reduced by 50%. Restores HP = 50%\nof damage dealt.
-MSID_H_明鏡の呼吸: If foe initiates combat, grants Res+4 during\ncombat. Grants Special cooldown charge +1\nper attack. (Only highest value applied. Does\nnot stack.)
+MSID_H_明鏡の呼吸: If foe initiates combat, grants Res+4 during\ncombat and Special cooldown charge +1 per\nattack. (Only highest value applied. Does not\nstack.)
 MSID_H_鍛錬の証_HP1: Grants HP+3.
 MSID_H_鍛錬の証_HP2: Grants HP+4.
 MSID_H_鍛錬の証_HP3: Grants HP+5.

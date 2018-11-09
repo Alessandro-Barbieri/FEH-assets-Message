@@ -1,0 +1,208 @@
+[Heroes Archive] (Data_622_legend10)
+
+
+Heroes Message Name: Message
+
+
+MDAID_フェーの人形・金: Peluche Feh d'or
+MDAID_H_フェーの人形・金: Trophée pour une victoire contre la\nversion légendaire d'Eirika.
+MDAID_春うさぎの帽子・金: Chapeau lapin d'or
+MDAID_H_春うさぎの帽子・金: Trophée pour une victoire contre la\nversion légendaire de Lyn.
+MID_MISSION_M201811A_TITLE: Quêtes nov. (1)
+MID_MISSION_M201811A_A1: Victoire : unité rouge
+MID_MISSION_H_M201811A_A1: Vaincre des ennemis avec des unités rouges.
+MID_MISSION_M201811A_A2: Victoire : unité volante
+MID_MISSION_H_M201811A_A2: Vaincre des ennemis avec des unités volantes.
+MID_MISSION_M201811A_A3: Cible : unités bleues
+MID_MISSION_H_M201811A_A3: Vaincre des unités bleues.
+MID_MISSION_M201811A_A4: Cible : cavaliers
+MID_MISSION_H_M201811A_A4: Vaincre des cavaliers.
+MID_MISSION_M201811A_A5: Duelliste
+MID_MISSION_H_M201811A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201811A_A6: Domination : unité verte
+MID_MISSION_H_M201811A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités vertes.
+MID_MISSION_M201811A_A7: Domination : cavalerie
+MID_MISSION_H_M201811A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des cavaliers.
+MID_MISSION_M201811A_A8: Cible : unités rouges
+MID_MISSION_H_M201811A_A8: Vaincre des unités rouges de niveau 20\nou supérieur.
+MID_MISSION_M201811A_A9: Cible : unités volantes
+MID_MISSION_H_M201811A_A9: Vaincre des unités volantes de niveau 20\nou supérieur.
+MID_MISSION_M201811A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201811A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201811A_A11: Domination : unité bleue
+MID_MISSION_H_M201811A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités bleues.
+MID_MISSION_M201811A_A12: Domination : infanterie
+MID_MISSION_H_M201811A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des fantassins.
+MID_MISSION_M201811A_A13: Cible : unités vertes
+MID_MISSION_H_M201811A_A13: Vaincre des unités vertes de niveau 35\nou supérieur.
+MID_MISSION_M201811A_A14: Cible : infanterie
+MID_MISSION_H_M201811A_A14: Vaincre des fantassins de niveau 35\nou supérieur.
+MID_MISSION_M201811A_A15: Duelliste émérite
+MID_MISSION_H_M201811A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201811B_TITLE: Quêtes nov. (2)
+MID_MISSION_M201811B_A1: Tour : première strate
+MID_MISSION_H_M201811B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A2: Tour : deuxième strate
+MID_MISSION_H_M201811B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A3: Tour : troisième strate
+MID_MISSION_H_M201811B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A4: Tour : quatrième strate
+MID_MISSION_H_M201811B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A5: Tour : cinquième strate
+MID_MISSION_H_M201811B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A6: Tour : sixième strate
+MID_MISSION_H_M201811B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A7: Tour : septième strate
+MID_MISSION_H_M201811B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A8: Tour : huitième strate
+MID_MISSION_H_M201811B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A9: Tour : neuvième strate
+MID_MISSION_H_M201811B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A10: Tour : dixième strate
+MID_MISSION_H_M201811B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811B_A11: Tour : dixième strate
+MID_MISSION_H_M201811B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201811B_A12: Tour : dixième strate
+MID_MISSION_H_M201811B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités en armure et sans essuyer\nla moindre perte.
+MID_MISSION_M201811B_A13: Tour : dixième strate
+MID_MISSION_H_M201811B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201811B_A14: Tour : dixième strate
+MID_MISSION_H_M201811B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201811C_TITLE: Quêtes nov. (3)
+MID_MISSION_M201811C_A1: Chapitre 1 - Acte 1
+MID_MISSION_H_M201811C_A1: Terminer l'acte 1 du chapitre 1 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201811C_A2: Chapitre 1 - Acte 2
+MID_MISSION_H_M201811C_A2: Terminer l'acte 2 du chapitre 1 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811C_A3: Chapitre 1 - Acte 3
+MID_MISSION_H_M201811C_A3: Terminer l'acte 3 du chapitre 1 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811C_A4: Chapitre 1 - Acte 4
+MID_MISSION_H_M201811C_A4: Terminer l'acte 4 du chapitre 1 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811C_A5: Chapitre 1 - Acte 5
+MID_MISSION_H_M201811C_A5: Terminer l'acte 5 du chapitre 1 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201811C_A6: Chap. 4 - Acte 1 (Difficile)
+MID_MISSION_H_M201811C_A6: Terminer l'acte 1 du chapitre 4 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201811C_A7: Chap. 4 - Acte 2 (Difficile)
+MID_MISSION_H_M201811C_A7: Terminer l'acte 2 du chapitre 4 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A8: Chap. 4 - Acte 3 (Difficile)
+MID_MISSION_H_M201811C_A8: Terminer l'acte 3 du chapitre 4 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A9: Chap. 4 - Acte 4 (Difficile)
+MID_MISSION_H_M201811C_A9: Terminer l'acte 4 du chapitre 4 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A10: Chap. 4 - Acte 5 (Difficile)
+MID_MISSION_H_M201811C_A10: Terminer l'acte 5 du chapitre 4 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A11: Chap. 7 - Acte 1 (Expert)
+MID_MISSION_H_M201811C_A11: Terminer l'acte 1 du chapitre 7 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201811C_A12: Chap. 7 - Acte 2 (Expert)
+MID_MISSION_H_M201811C_A12: Terminer l'acte 2 du chapitre 7 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A13: Chap. 7 - Acte 3 (Expert)
+MID_MISSION_H_M201811C_A13: Terminer l'acte 3 du chapitre 7 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A14: Chap. 7 - Acte 4 (Expert)
+MID_MISSION_H_M201811C_A14: Terminer l'acte 4 du chapitre 7 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201811C_A15: Chap. 7 - Acte 5 (Expert)
+MID_MISSION_H_M201811C_A15: Terminer l'acte 5 du chapitre 7 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201811KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201811KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201811KIZUNA01_A1: Remporter la bataille de héros liés de Tiki\net Nowi avec Sharena, princesse d'Askr,\ndans votre équipe.
+MID_MISSION_S201811KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201811KIZUNA01_A2: Remporter la bataille de héros liés de Tiki\net Nowi en Expert ou supérieur avec Anna\ndans votre équipe.
+MID_MISSION_S201811KIZUNA01_A3: Tiki
+MID_MISSION_H_S201811KIZUNA01_A3: Vaincre une version de niveau 40 ou supérieur\nde Tiki, voix divine, avec Sharena, princesse\nd'Askr.
+MID_MISSION_S201811KIZUNA01_A4: Nowi
+MID_MISSION_H_S201811KIZUNA01_A4: Vaincre une version de niveau 40 ou supérieur\nde Nowi, jeune à jamais, avec Anna.
+MID_MISSION_S201811KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201811KIZUNA01_A5: Remporter la bataille de héros liés de Tiki et\nNowi en Expert ou supérieur avec une équipe\ncomposée exclusivement de cavaliers.
+MID_MISSION_S201811MOVE01_TITLE: Type d'unité
+MID_MISSION_S201811MOVE01_A1: Victoire : infanterie
+MID_MISSION_H_S201811MOVE01_A1: Vaincre des unités rouges avec des\nfantassins.
+MID_MISSION_S201811MOVE01_A2: Victoire : infanterie
+MID_MISSION_H_S201811MOVE01_A2: Vaincre des unités bleues avec des\nfantassins.
+MID_MISSION_S201811MOVE01_A3: Victoire : infanterie
+MID_MISSION_H_S201811MOVE01_A3: Vaincre des unités vertes avec des\nfantassins.
+MID_MISSION_S201811MOVE01_A4: Victoire : infanterie
+MID_MISSION_H_S201811MOVE01_A4: Vaincre des unités grises avec des\nfantassins.
+MID_MISSION_S201811MOVE01_A5: Victoire : unité en armure
+MID_MISSION_H_S201811MOVE01_A5: Vaincre des unités rouges avec des\nunités en armure.
+MID_MISSION_S201811MOVE01_A6: Victoire : unité en armure
+MID_MISSION_H_S201811MOVE01_A6: Vaincre des unités bleues avec des\nunités en armure.
+MID_MISSION_S201811MOVE01_A7: Victoire : unité en armure
+MID_MISSION_H_S201811MOVE01_A7: Vaincre des unités vertes avec des\nunités en armure.
+MID_MISSION_S201811MOVE01_A8: Victoire : unité en armure
+MID_MISSION_H_S201811MOVE01_A8: Vaincre des unités grises avec des\nunités en armure.
+MID_MISSION_S201811MOVE01_A9: Victoire : cavalerie
+MID_MISSION_H_S201811MOVE01_A9: Vaincre des unités rouges avec des\ncavaliers.
+MID_MISSION_S201811MOVE01_A10: Victoire : cavalerie
+MID_MISSION_H_S201811MOVE01_A10: Vaincre des unités bleues avec des\ncavaliers.
+MID_MISSION_S201811MOVE01_A11: Victoire : cavalerie
+MID_MISSION_H_S201811MOVE01_A11: Vaincre des unités vertes avec des\ncavaliers.
+MID_MISSION_S201811MOVE01_A12: Victoire : cavalerie
+MID_MISSION_H_S201811MOVE01_A12: Vaincre des unités grises avec des\ncavaliers.
+MID_MISSION_S201811MOVE01_A13: Victoire : unité volante
+MID_MISSION_H_S201811MOVE01_A13: Vaincre des unités rouges avec des\nunités volantes.
+MID_MISSION_S201811MOVE01_A14: Victoire : unité volante
+MID_MISSION_H_S201811MOVE01_A14: Vaincre des unités bleues avec des\nunités volantes.
+MID_MISSION_S201811MOVE01_A15: Victoire : unité volante
+MID_MISSION_H_S201811MOVE01_A15: Vaincre des unités vertes avec des\nunités volantes.
+MID_MISSION_S201811MOVE01_A16: Victoire : unité volante
+MID_MISSION_H_S201811MOVE01_A16: Vaincre des unités grises avec des\nunités volantes.
+MID_MISSION_S201811VOTE01_TITLE: Quêtes : tournoi
+MID_MISSION_S201811VOTE01_A1: Tournoi
+MID_MISSION_H_S201811VOTE01_A1: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201811VOTE01_A2: Tournoi
+MID_MISSION_H_S201811VOTE01_A2: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201811VOTE01_A3: Tournoi
+MID_MISSION_H_S201811VOTE01_A3: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201811VOTE01_A4: Tournoi
+MID_MISSION_H_S201811VOTE01_A4: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201811VOTE01_A5: Tournoi
+MID_MISSION_H_S201811VOTE01_A5: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201811VOTE01_A6: Tour : deuxième strate
+MID_MISSION_H_S201811VOTE01_A6: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201811VOTE01_A7: Tour : cinquième strate
+MID_MISSION_H_S201811VOTE01_A7: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201811VOTE01_A8: Tour : huitième strate
+MID_MISSION_H_S201811VOTE01_A8: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201811VOTE01_A9: Duelliste
+MID_MISSION_H_S201811VOTE01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811VOTE01_A10: Duelliste
+MID_MISSION_H_S201811VOTE01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811VOTE01_A11: Duelliste intermédiaire
+MID_MISSION_H_S201811VOTE01_A11: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201811VOTE01_A12: Duelliste intermédiaire
+MID_MISSION_H_S201811VOTE01_A12: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201811VOTE01_A13: Tournoi
+MID_MISSION_H_S201811VOTE01_A13: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201811VOTE01_A14: Tournoi
+MID_MISSION_H_S201811VOTE01_A14: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201811VOTE01_A15: Tournoi
+MID_MISSION_H_S201811VOTE01_A15: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201811VOTE01_A16: Tournoi
+MID_MISSION_H_S201811VOTE01_A16: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MID_MISSION_S201811VOTE01_A17: Tournoi
+MID_MISSION_H_S201811VOTE01_A17: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201811VOTE01_A18: Tournoi
+MID_MISSION_H_S201811VOTE01_A18: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201811VOTE01_A19: Tournoi
+MID_MISSION_H_S201811VOTE01_A19: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201811VOTE01_A20: Tournoi
+MID_MISSION_H_S201811VOTE01_A20: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MPID_伝承エイリーク: Eirika
+MPID_HONOR_伝承エイリーク: Princesse résolue
+MPID_H_伝承エイリーク: Princesse de Renais. Avec son frère jumeau\nEphraim, elle tente de reconstruire son pays\nravagé par la guerre. Apparaît dans Fire\nEmblem: The Sacred Stones
+MPID_VOICE_伝承エイリーク: Kira Buckland
+MPID_ILLUST_伝承エイリーク: Asatani Tomoyo (麻谷知世)
+MPID_LEGEND_伝承エイリーク: Effet légendaire : eau\nBoost pour les alliés : PV +3, Atq +2\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction de l'eau et que\ncette unité combat avec eux pendant la\nsaison de l'eau.
+MSID_雷剣ジークリンデ: Sieglinde foudre
+MSID_攻撃速さの孤軍1: Solo Atq/Vit 1
+MSID_攻撃速さの孤軍2: Solo Atq/Vit 2
+MSID_攻撃速さの孤軍3: Solo Atq/Vit 3
+MSID_月の腕輪: Bracelet lunaire
+MSID_H_雷剣ジークリンデ: Confère Atq +3. S'il y a plus d'ennemis\n(cible exclue) que d'alliés (unité exclue)\nà 2 cases ou moins, confère Déf/Rés +3\net compteur -1 pour chaque attaque de l'unité\npendant le combat. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
+MSID_H_攻撃速さの孤軍1: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Vit +2 pendant le\ncombat.
+MSID_H_攻撃速さの孤軍2: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Vit +4 pendant le\ncombat.
+MSID_H_攻撃速さの孤軍3: S'il n'y a pas d'alliés sur les cases adjacentes\nà l'unité, confère Atq/Vit +6 pendant le\ncombat.
+MSID_H_月の腕輪: Retarde l'activation des aptitudes spéciales\n(compteur +1). Si l'aptitude spéciale se\ndéclenche, inflige des dégâts à hauteur\nde 50 % de la Déf de l'ennemi.
+MID_STAGE_HONOR_L0008: Princesse résolue
+MID_STAGE_L0008: Eirika
+MID_STAGE_TITLE_PB033: Aptitudes 33
+MID_STAGE_PB033: Jumeaux sacrés de Renais
+MID_STAGE_TITLE_PC017: Expertise 17
+MID_STAGE_PC017: En avant !

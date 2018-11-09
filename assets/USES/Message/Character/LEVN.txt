@@ -1,0 +1,38 @@
+[Heroes Archive] (LEVN)
+
+
+Heroes Message Name: Message
+
+
+MID_LEVN_HOME1: Antes pensaba que deberían tener\nautoridad aquellos que la quisieran.$k$pEn realidad era mi forma de justificar\nmi debilidad. Yo me desentendí\nde mis responsabilidades.
+MID_LEVN_HOME2: Silesse es una tierra tranquila,\nllena de árboles cubiertos de nieve.$k$pPero bajo esa fachada se ocultan\nla avaricia de los nobles y la sangre\nderramada por sus habitantes.
+MID_LEVN_HOME3: Te tomas tus deberes muy en serio,\n¿verdad? No como yo.$k$pDeberías aprender a ser más flexible.\nSi no, tal vez no seas capaz de ver\nmás allá de tus narices.
+MID_LEVN_HOME4: Si no te importa, me gustaría tocarte\nuna canción. Me recuerda cosas\nque he vivido...
+MID_LEVN_HOME5: ¿Qué te pareció mi actuación?\nParezco un bardo de verdad, ¿no?$k$pPero también sé luchar,\ny soy bastante bueno.
+MID_LEVN_FRIEND: Me envía $Nf.\nTe voy a tocar una canción.
+MID_LEVN_LEVEL1: Suave como la brisa...
+MID_LEVN_LEVEL2: No está mal. Voy mejorando.
+MID_LEVN_LEVEL3: ¿Eso es todo?
+MID_LEVN_SKILL: ¿Quieres que luche...?\nPor supuesto, es mi deber.\nHaré buen uso de mis habilidades.
+MID_LEVN_JOIN: ¡Hola! Me llamo Lewyn.\nSoy un viajero errante, un bardo\nrebelde... y muchas cosas más.
+MID_LEVN_STRONGEST: Has hecho un buen trabajo con los\npreparativos para las batallas. Tienes\nmucho talento y todo mi respeto.$k$pNo pongas esa cara, ¡lo digo en serio!\nMe has impresionado. He visto\ncómo ayudas al trío de Askr.$k$pPero tengo una duda. ¿Qué es\nlo más importante para ti?$k$p¿Cuál es tu objetivo? ¿Quieres\nproteger algo? ¿Tienes voluntad\npara terminar lo que empiezas?$k$pSi no puedes responder\na esas preguntas, no deberías\nseguir luchando.$k$pAvanzar a ciegas puede costarte\nla vida. No querrás morir, ¿verdad?$k$pReflexiona sobre lo que te he dicho...\nsi no quieres tomar la decisión\nincorrecta en un momento crítico.$k$pYo no puedo morir aún, porque\nno he cumplido con mi deber.\nNo sigas mi ejemplo...$k$pCuídate, $Nu.
+MID_LEVN_VOICE01: はっ！
+MID_LEVN_VOICE02: せいっ！
+MID_LEVN_VOICE03: うああっ！
+MID_LEVN_VOICE04: ちっ…！
+MID_LEVN_VOICE05: ¡Siente la ira de Forseti!
+MID_LEVN_VOICE06: ¿Vas a poder con esto?
+MID_LEVN_VOICE07: Ríndete de una vez.
+MID_LEVN_VOICE08: Lo siento, pero ha llegado tu fin.
+MID_LEVN_VOICE09: Todavía falta mucho por hacer...
+MID_LEVN_VOICE10: (maybe a sigh?)
+MID_LEVN_VOICE11: I'm nothing more than a wayward bard.
+MID_LEVN_VOICE12: You're persistent! Interested in me, are you?
+MID_LEVN_VOICE13: This tome, Forseti, has been passed down by the royal family for years. But, for me, it's so much more than just some heirloom.
+MID_LEVN_VOICE14: I used to think it better that the king be a man who brims with the ambition to rule.
+MID_LEVN_VOICE15: Lead the world warmly, gentle as a breeze... That's a noble way to live.
+MID_LEVN_VOICE16: Past or present, it doesn't matter... I am nothing but a feckless minstrel.
+MID_LEVN_VOICE17: I can see the light in you. That light brings hope to everyone it shines on.
+MID_LEVN_VOICE18: Ah.
+MID_LEVN_VOICE19: Only if you're good...
+MID_LEVN_VOICE20: All right.

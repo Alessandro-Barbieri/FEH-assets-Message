@@ -1,0 +1,20 @@
+[Heroes Archive] (Menu_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MID_OCCUPATION_GAINED_REWARDTYPE_SUPERIORITY_SCORE: $aGC Area Score Reward: Battle $a0
+MID_OCCUPATION_REWARD_SORT_SUPERIORITY_SCORE: Area Score
+MID_OCCUPATION_SCORE_BOARD_TITLE: Current Area Score
+MID_OCCUPATION_SCORE_BOARD_OPERATION: $aRound $a0
+MID_OCCUPATION_SCORE_BOARD_FINAL_AREA: Number of Areas
+MID_OCCUPATION_SCORE_BOARD_TOTAL: Total
+MID_OCCUPATION_SCORE_BOARD_AGGREGATING: Calculating
+MID_OCCUPATION_SCORE_BOARD_HELP_TITLE: Points are earned based on the number of\nareas controlled at the end of a round.
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_1: ・5-9 areas
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_2: ・10-14 areas
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_3: ・15+ areas
+MID_OCCUPATION_SCORE_BOARD_HELP_CONDITION_4: $aIn round $a0, each area controlled scores 1 point.
+MID_PORTRAIT_TITLE_201808: Rejecting Destiny
+MID_SUMMON_PULL_ONLY_ONCE_Summon_58_popularity03_Selected: The session ends when you select a Hero.

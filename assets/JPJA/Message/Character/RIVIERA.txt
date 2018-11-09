@@ -1,0 +1,38 @@
+[Heroes Archive] (RIVIERA)
+
+
+Heroes Message Name: Message
+
+
+MID_RIVIERA_HOME1: この近くに教会はありますか？\n叶うならアスク王国の神様に祈りを捧げ\n皆さんの無事を願いたいのです。
+MID_RIVIERA_HOME2: 私はイーリスで聖職者をしておりました。\nエメリナ様の危機に斧を取る決意をし、\nペレジアでクロム様の軍に参加したんです。
+MID_RIVIERA_HOME3: 数多の世界の英雄を召喚する技…\nまるで神の如きお力をお持ちなのですね。\nどうか我々を導き、お守りください。
+MID_RIVIERA_HOME4: い、今、そこのシスターと仰いましたか？\nおお神よ…召喚師様にまで女性に間違われ、\n私はどうしたら良いのでしょう…！
+MID_RIVIERA_HOME5: 風景画を描いておりました。\nこの地は神々しく美しいので…\n今のうちに画布に写し取ろうと思いまして。
+MID_RIVIERA_FRIEND: $Nfさんからの\n挨拶をお届けに参りました。\nあなたにも神のご加護がありますよう…
+MID_RIVIERA_LEVEL1: 清々しい気分です。\n日々の祈りの成果でしょうか。
+MID_RIVIERA_LEVEL2: 神よ…\n感謝致します…
+MID_RIVIERA_LEVEL3: 神よ…なぜこのような\n試練をお与えに…
+MID_RIVIERA_SKILL: 清らかな力が満ちるのを感じます。\n神と、あなたに感謝いたします。
+MID_RIVIERA_JOIN: 私はイーリス聖王国の僧侶リベラ。\nこの地に遣わされたことも神の思し召し…\nどうかナーガ様の加護がありますように。
+MID_RIVIERA_STRONGEST: ！！　$Nuさん。\nふふ、見つかってしまいましたね。\n実は今、あなたの絵を描いていたんです。$k$p私は誰かのための絵を描くことは\nあまりしないのですが…今回はつい。\n英雄を召喚する時、戦場に立つ時…$k$pそして、こうして隣にいてくださる時、\n私はいつもその姿に魅了されています。\n気付けばこうして、筆をとっていました。$k$p私があなたに惹きつけられるのは、\n召喚された英雄の性なのかもしれません。\nそれでもあなたを慕う気持ちは本物です。$k$p今日はそのことをお伝えできて良かった…\nでは、絵の続きを描くことにしましょう。\n少しの間…お姿を独占しても宜しいですね？
+MID_RIVIERA_VOICE01: はいっ！
+MID_RIVIERA_VOICE02: せやっ！
+MID_RIVIERA_VOICE03: うあっ！
+MID_RIVIERA_VOICE04: そんな…！
+MID_RIVIERA_VOICE05: お許しください…！
+MID_RIVIERA_VOICE06: 悔い改めなさい！
+MID_RIVIERA_VOICE07: 祈りなさい！
+MID_RIVIERA_VOICE08: 神よ…
+MID_RIVIERA_VOICE09: 光が…見えます…
+MID_RIVIERA_VOICE10: はい
+MID_RIVIERA_VOICE11: 今日もご無事で何よりです
+MID_RIVIERA_VOICE12: 私はこれでも男です、力仕事は得意ですよ
+MID_RIVIERA_VOICE13: この世界からでも、ナーガ様への祈りは届くでしょうか
+MID_RIVIERA_VOICE14: なにか私に話したいことが…？　もしや、懺悔ですか？
+MID_RIVIERA_VOICE15: 僧侶になるまでは、つらい思い出ばかりでした…
+MID_RIVIERA_VOICE16: 人を殺める聖職者とは…罪深い存在ですね
+MID_RIVIERA_VOICE17: 戦場での無事を祈ることは、\n誰かの犠牲を願うことと同義です。それでも私は…
+MID_RIVIERA_VOICE18: わかりました
+MID_RIVIERA_VOICE19: 神のご加護を…
+MID_RIVIERA_VOICE20: 導きのままに

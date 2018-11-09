@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: ◆ボーナスキャラの撃破ボーナス◆\nボーナスキャラが\n敵を１体撃破するごとに、\n勝利時のスコアに＋３が加算されます。
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: 撃破数＋生存数
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: 撃破＋生存評価
+MID_OCCUPATION_RESULT_DEFENCE_HUB: 陣地防衛評価
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aまもなく$a0回戦終了時間です。
+MID_OCCUPATION_LEFT_TIME_WARNING: 終了時間を過ぎると結果が反映されません。
+MID_PORTRAIT_DAILY_BONUS_INFO_59: １日１回、初回クリア時に\nオーブ×２を獲得できます。（最大７回）
+MID_PORTRAIT_HELP_DIALOG_03_02: ◆毎日オーブ報酬◆\n１日１回、初回クリア時に\nオーブ×２を獲得できます。\n（最大７回）
+MID_SEQUENTIAL_MAP_TERM_201809: 運命の扉
+MID_TAP_BATTLE_CONFIG_REVERSE: 左右反転
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: ◆左右反転◆\nプレイ中の自軍・敵の位置が\n左右逆になります。\n\n◆スピード◆\n敵の移動速度が\n最大３倍まで速くなります。\nただし、ボスの速度は変化しません。
+MID_RELAY_HELP_DIALOG_00: ２ターン後、味方は次の５人に交替！
+MID_RELAY_HELP_DIALOG_01: ◆リレー防衛戦◆\n・大部隊編成の２０人のうち、\n　最初の５人が登場して戦います。\n・３、５、７ターンに、今の５人は消え、\n　次の５人が登場します。\n\n・８ターン経過か、\n　本拠地を破壊されると決着です。
+MID_RELAY_HELP_DIALOG_02: ◆本拠地◆\n・３回の攻撃で破壊されます。\n・自軍の本拠地には移動可能です。\n・本拠地にいる仲間は、\n　ターン開始時にＨＰ１０回復します。\n・本拠地は防御地形になります。
+MID_RELAY_HELP_DIALOG_03: ◆陣地◆\n・２回の攻撃で破壊されます。\n・自軍の陣地には移動可能です。\n・陣地にいる仲間は、\n　ターン開始時にＨＰ１０回復します。\n・陣地は防御地形になります。
+MID_RELAY_HELP_DIALOG_04: ◆本拠地、陣地間のワープ◆\n自軍の本拠地や陣地と\nその周囲１マス以内の仲間は、\n他の自軍の本拠地や陣地と\nその周囲１マスへ\n一気に移動できます。
+MID_RELAY_HELP_DIALOG_05: ◆リレー防衛戦のスコア◆\n決着後、スコアを獲得します。\n\n自軍本拠地・陣地をなるべく攻撃されず、\n味方はなるべく撃破されないように、\n高いスコアを目指しましょう。
+MID_RELAY_HELP_DIALOG_06: ◆リレー防衛戦のルール　その他◆\n\n・敵に増援が登場します。\n・英雄値は入手できません。
+MID_UNIT_EDIT_DISPOSE: 兵舎の整理
+MID_UNIT_EDIT_STOCK_GENERATE: 秘伝書の作成
+MID_UNIT_EDIT_STOCK_SELL: 秘伝書の売却
+MID_UNIT_EDIT_STOCK_LIST: 秘伝書一覧
+MID_UNIT_EDIT_STOCK_EMPTY: 秘伝書を所持していません。
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: 秘伝書を残すキャラクターを選択してください。
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: キャラクターを消滅させ、\n秘伝書を獲得します。
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: 作成する
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: 秘伝書を作成しますか？
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: 秘伝書を残したキャラクターは\n消滅します。
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: 以下の内容は秘伝書には含まれません。
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・レベルおよび経験値
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・スキルの習得状況
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・継承または錬成したスキル
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・限界突破数
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・付与された祝福
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: キャラクターは消滅し、\n二度と元に戻すことはできません。\n\n本当に秘伝書を作成しますか？
+MID_UNIT_EDIT_STOCK_SELL_LABEL: 売却
+MID_UNIT_EDIT_STOCK_SELL_HELP1: 売却する秘伝書を選択してください。
+MID_UNIT_EDIT_STOCK_SELL_HELP2: 売却する秘伝書の数を選択してください。
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a×$a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: 売却する
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: 選択した秘伝書を売却しますか？
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: 売却した場合、\n売却した秘伝書は消滅します。
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: 秘伝書は消滅し、\n二度と元に戻すことはできません。\n\n本当に秘伝書を売却しますか？
+MID_UNIT_EDIT_STOCK_LIST_HELP: 所持している秘伝書の一覧です。
+MID_UNIT_EDIT_STOCK_HELP: 英雄の秘伝書\n「スキル継承」「限界突破」などで\nキャラクターの代わりに使用できる。
+MID_UNIT_EDIT_PROMOTION_HELP1_2: ★の数を上昇させるキャラクターを選択してください。
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: 覚醒する秘伝書の数を選択してください。
+MID_UNIT_EDIT_SELL_WARNING_1: 送還した場合、\n送還したキャラクターは消滅します。
+MID_UNIT_EDIT_SELL_WARNING_2: 消滅したキャラクターは\n二度と元に戻すことはできません。\n\n本当に送還しますか？
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a×$a0/$a1
+MID_STOCK_HELP_DIALOG_00: 秘伝書で、スキル継承や限界突破！
+MID_STOCK_HELP_DIALOG_01: ◆秘伝書の作成◆\n仲間を異界に送り返し\n代わりに、英雄の秘伝書を入手します。\n秘伝書を残した仲間は失われますので\n十分にご注意ください。
+MID_STOCK_HELP_DIALOG_02: ◆英雄の秘伝書◆\n秘伝書は、「限界突破」「スキル継承」\nなどで通常の英雄の代わりに\n使用することができます。\n\nまた、通常の英雄と同様、\n「覚醒」で★を増やすことも可能です。
+MID_STOCK_HELP_DIALOG_03: ◆秘伝書に含まれない要素◆\n以下の要素は秘伝書を作成する際に\n失われますのでご注意ください。\n・レベルおよび経験値\n・スキルの習得状況\n・継承または錬成したスキル\n・限界突破数\n・付与された祝福
+MID_STOCK_SELL_HELP_DIALOG_00: ◆秘伝書の売却◆\n秘伝書を売却し\n代わりに、英雄の翼を入手します。\n売却した秘伝書は失われますので\n十分にご注意ください。
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: 秘伝書の数が上限を超えるため、\n秘伝書を作成できません。
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: 秘伝書の数が上限を超えるため、\n秘伝書を覚醒できません。
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: 優先
+MID_UNIT_EDIT_SKILL_SET_RESET: セット内容を削除
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: このスキルセットの内容を\n削除しますか？
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: ◆覚醒◆\n★を１段階アップできます。\n\nレベルは１に戻りますが、\n★が増えることで\n能力値が高まるほか、\n強力なスキルが習得可能になります。
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: 秘伝書を作成しました。\n\n所持中の秘伝書は「秘伝書一覧」から\n確認することができます。
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: 売却が完了しました。
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: ◆大部隊編成◆\n「制圧戦」「リレー防衛戦」を\n遊ぶための編成です。\n\n自軍またはフレンドから\n最大２０人を選択できます。\n選択しない枠は、援軍が登場します。

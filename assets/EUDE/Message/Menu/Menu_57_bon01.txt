@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRang $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aHochgestuft von $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rang beibehalten!
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aZurückgestuft von $a0
+MID_ARENA_DIALOG_HELP_07: Extrapunkt für Bonushelden:\nJedes Mal, wenn du mit einem\nBonushelden einen Gegner\nbesiegst, wird deine Gesamt-\npunktzahl um 3 erhöht.\n\n(Dies gilt ab der Saison, die\nnach der Veröffentlichung\nvon Ver. 2.8.0 beginnt.)
+MID_ARENA_RANK21: Großer Beschwörer
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Gärten
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: Gründe
+MID_BLESSINGMAP_HELP_DIALOG_05: Gründe:\n・ Kämpfe mit mehreren Teams.\n・ Helden können nur an einem\nKampf einer Serie teilnehmen.\n(Auch Duplikate können danach\nnicht mehr eingesetzt werden.)
+MID_ITEM_ARENA_CROWN: Arenakrone
+MID_ITEM_HELP_ARENA_CROWN: Eine Krone für legendäre Beschwörer.
+MID_SEQUENTIAL_MAP_TERM_201808: Name des Chaos
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: Segen-Bonus:\nJedes Mal, wenn du einen\nLegendären oder gesegneten\nHelden der aktuellen Saison\nkämpfen lässt, erhältst du\nnach dem Kampf einen\nPunktebonus von +1.
+MID_SUMMON_WEAPON_TYPE: Waffenarten für verfügbare Helden
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: Sitzung endet, wenn du einen Helden\nwählst. Lyn ist am beliebtesten!
+MID_TAP_BATTLE_CONFIG_SPEED: Tempo
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: ×1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: ×1,5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: ×2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: ×2,5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: ×3
+MID_CONQUER_HELP_DIALOG_06_02: Weitere Regeln des Revierkampfs:\n・ Verstärkungstruppen haben keine\nBoni durch legendäre Effekte.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: Alle wählen
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: Alle löschen
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: Nach Zahl sortieren
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: Sets bearbeiten/ausr.
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: Fähigkeitssets ausr.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: Wähle den Helden, dessen Sets du ändern willst.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: Hier kannst du Fähigkeiten bearbeiten/ausrüsten.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: Wähle eine Fähigkeit.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: Wähle ein Heiliges Siegel.
+MID_UNIT_EDIT_SKILL_SET_EDIT: Bearbeiten
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: Fähigkeiten wählen
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: Hl. Siegel wählen
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: Aktuelle Ausrüstung nutzen
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: Set für diesen Helden löschen?
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: Löschen
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: Fähigkeiten und Heiliges Siegel\nals Fähigkeitsset speichern?
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: Speichern
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: Gespeichertes Set ausrüsten?
+MID_UNIT_EDIT_SKILL_SET_EQUIP: Ausrüsten
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: Nein
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: Änderungen verwerfen?
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: Änderungen werden nicht gespeichert.
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: Verwerfen
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: Vorher
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: Nachher
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: Dieses Fähigkeitsset ausrüsten?
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: Set benennen
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aFähigkeitsset $a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: Setname eingeben
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: Gib einen Namen für das Set ein.
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: Dieser Name wird für alle Helden mit\ndiesem Fähigkeitsset verwendet.
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: Maximal 12 Zeichen. Einige\nSymbole sind nicht zugelassen.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: Helden ausrüsten
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: Teams ausrüsten
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: Teams ausrüsten
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: Brigaden ausrüsten
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: Keine Heldengruppe dieser Art verfügbar.
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: Dieses Fähigkeitsset ausrüsten?
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: Die Ausrüstung von Helden ohne\ngewählte Fähigkeiten für dieses\nFähigkeitsset bleibt unverändert.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: Wähle einen Helden für ein Fähigkeitsset.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: Wähle ein Team für ein Fähigkeitsset.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: Wähle ein auszurüstendes Fähigkeitsset.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: Heilige Siegel anderer Helden\nwerden entfernt.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: Ein Heiliges Siegel ist in diesem Set\nmehrfach vorhanden. Nur ein Held\nwird damit ausgerüstet.
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: Sets bearbeiten/ausrüsten:\nMit Fähigkeitssets kannst du\nFähigkeiten und Heilige Siegel\nschnell wechseln.\n\nFür jeden Helden können bis zu\nfünf Sets gespeichert werden.
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: Fähigkeitssets bearbeiten:\nWähle, welche Fähigkeiten und\nwelches Heilige Siegel du im\nFähigkeitsset speichern möchtest.\n\nFähigkeitssets ausrüsten:\nGewählte Fähigkeiten und Heilige\nSiegel sind sofort ausrüstbar.
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: Fähigkeitssets benennen:\nNamen von gespeicherten Sets\nkönnen bearbeitet werden.\nDer Name eines Sets ist für\nalle Helden gleich.
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: Fähigkeitssets ausrüsten:\nRüste einen oder mehrere Helden\nim Menü "Sets bearbeiten/ausr."\nmit gespeicherten Sets aus.
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: Helden ausrüsten:\nWähle jeweils einen Helden und\nrüste ihn mit Fähigkeitssets aus.
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: Teams ausrüsten:\nWähle verschiedene Arten von\nTeams und weise allen Mitgliedern\ngleichzeitig Fähigkeitssets zu.\n\nBrigaden, die keine Verbündeten\naus deiner Armee haben, werden\nnicht angezeigt.
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: Heilige Siegel ausrüsten:\nWürden mehrere Helden nach\nAusrüsten von Fähigkeitssets\ndasselbe Heilige Siegel teilen,\nerhält es nur der erste Held\nin der Sortierreihenfolge.

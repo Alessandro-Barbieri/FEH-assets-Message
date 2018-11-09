@@ -1787,9 +1787,9 @@ MSID_守備魔防の紋章1: Ver./Res. ansp.1
 MSID_守備魔防の紋章2: Ver./Res. ansp.2
 MSID_エンブラの加護: Emblas Segen
 MSID_H_ラグネル: Ermöglicht Gegenangriff unabhängig\nvom Abstand zum Gegner.
-MSID_H_剛剣1: Ist Angr. der Einheit um mindestens\n5 höher als Angr. des Gegners, wird\ndie Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
-MSID_H_剛剣2: Ist Angr. der Einheit um mindestens\n3 höher als Angr. des Gegners, wird\ndie Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
-MSID_H_剛剣3: Ist Angr. der Einheit höher als Angr.\ndes Gegners, wird die Erholungszeit\nder Einheit um 1 beschleunigt.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_剛剣1: Ist Angr. der Einheit um mindestens 5 höher\nals Angr. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_剛剣2: Ist Angr. der Einheit um mindestens 3 höher\nals Angr. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_剛剣3: Ist Angr. der Einheit höher als Angr. des\nGegners, wird die Erholungszeit der Einheit\npro Angriff der Einheit um 1 beschleunigt.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
 MSID_H_水薙ぎ1: Initiiert die Einheit den Kampf, kann sie\nkeinen Folgeangriff ausführen. Ist Ges.\nder Einheit um mindestens 5 höher als\nGes. des Gegners und nutzt der Gegner\nMagie, Stab oder Drachenstein, kann er\nnicht kontern.
 MSID_H_水薙ぎ2: Initiiert die Einheit den Kampf, kann sie\nkeinen Folgeangriff ausführen. Ist Ges.\nder Einheit um mindestens 3 höher als\nGes. des Gegners und nutzt der Gegner\nMagie, Stab oder Drachenstein, kann er\nnicht kontern.
 MSID_H_水薙ぎ3: Initiiert die Einheit den Kampf, kann sie\nkeinen Folgeangriff ausführen. Ist Ges.\nder Einheit höher als Ges. des Gegners\nund nutzt der Gegner Magie, Stab oder\nDrachenstein, kann er nicht kontern.
@@ -3505,11 +3505,11 @@ MSID_速さの謀策1: Ges.-Trick 1
 MSID_速さの謀策2: Ges.-Trick 2
 MSID_速さの謀策3: Ges.-Trick 3
 MSID_H_聖剣ティルフィング: Verleiht Res. +3. Im Kampf gegen Magie-\nanwender erleidet die Einheit 50 % weniger\nSchaden durch den ersten Angriff.
-MSID_H_瞬閃アイラの剣: Verleiht Ges. +3. Ist Ges. der Einheit\nhöher als Ges. des Gegners, wird die\nErholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_瞬閃アイラの剣: Verleiht Ges. +3. Ist Ges. der Einheit höher als\nGes. des Gegners, wird die Erholungszeit der\nEinheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
 MSID_H_ファラフレイム: Gegner in Himmelsrichtungen mit\ngeringerer Res. als die Einheit erleiden\nzu Beginn des Zuges Angr./Res. -4\nbis nach ihrer nächsten Aktion.
 MSID_H_聖書ナーガ: Effektiv gegen Drachen. Boni des Gegners\n(z. B. durch Stärken oder Sammeln) werden\nim Kampf aufgehoben.
 MSID_H_速さ魔防の応援: Verleiht einem Verbündeten\nGes./Res. +3 für 1 Zug.
-MSID_H_剣姫の流星: Erhöht zugefügten Schaden um 40 %\ndes Geschwindigkeitswerts der Einheit.\n(Fähigkeit kann nicht geerbt werden.)
+MSID_H_剣姫の流星: Erhöht Schaden um 40 % des Ges.-Werts der\nEinheit. (Fähigkeit kann nicht geerbt werden.)
 MSID_H_聖騎士の加護: Wird die Einheit wiederholt von einem Gegner\nmit Rw. = 2 angegriffen, verringert sich der\nSchaden ab dem 2. Angriff um 80 %.\n(Fähigkeit kann nicht geerbt werden.)
 MSID_H_追撃リング: Sind die KP der Einheit zu Beginn des\nKampfes ≥ 50 %, führt sie garantiert\neinen Folgeangriff aus.\n(Fähigkeit kann nicht geerbt werden.)
 MSID_H_リカバーリング: Stellt zu Beginn des Zuges 10 KP wieder her.\n(Fähigkeit kann nicht geerbt werden.)
@@ -4077,7 +4077,7 @@ MSID_速さの大紋章2: Ges. antreiben 2
 MSID_攻撃の紫煙1: Agr.-Rauch 1
 MSID_攻撃の紫煙2: Agr.-Rauch 2
 MSID_攻撃の紫煙3: Agr.-Rauch 3
-MSID_H_烈剣デュランダル: Verleiht Angr. +3. Wenn Angr. der Einheit\nhöher ist als Angr. des Gegners, erhöht\nsich die Erholungszeit der Einheit um +1.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_烈剣デュランダル: Verleiht Angr. +3. Ist Angr. der Einheit höher\nals Angr. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
 MSID_H_ゲイルスケグル: Verleiht Ver. +3. Verbündete im Umkreis von\n2 Feldern mit Schwert, Lanze, Axt, Bogen\noder Dolch erhalten Angr./Ges. +3 im Kampf.
 MSID_H_ウルヴァン: Beschleunigt Spezialangriffe (Erholungszeit -1).\nWird die Einheit wiederholt angegriffen, verringert\nsich der Schaden ab dem 2. Angriff um 80 %.
 MSID_H_ミュルグレ: Effektiv gegen Flugeinheiten. Verleiht\nGes. +3. Boni gegnerischer Magieanwender\n(z. B. durch Stärken oder Sammeln) werden\nim Kampf aufgehoben.
@@ -4155,8 +4155,8 @@ MPID_VOICE_ルーテ: Brina Palencia
 MPID_VOICE_ワユ: Lani Minella
 MPID_ILLUST_ドルカス: Soeda Ippei (添田一平)
 MPID_ILLUST_ヨシュア: Fujiwara Ryo (冨士原良)
-MPID_ILLUST_ルーテ: 瀬尾公治
-MPID_ILLUST_ワユ: 米山舞
+MPID_ILLUST_ルーテ: Seo Kouji (瀬尾公治)
+MPID_ILLUST_ワユ: Yoneyama Mai (米山舞)
 MSID_気鋭ワユの剣: Resolute Klinge
 MSID_氷剣アウドムラ: Audhulma
 MSID_剛斧トマホーク: St. Tomahawk
@@ -4178,9 +4178,9 @@ MSID_H_HP魔防2: Verleiht KP +4 und Res. +2.
 MSID_H_鬼神の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +2 im Kampf.
 MSID_H_鬼神の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +4 im Kampf.
 MSID_H_鬼神の構え3: Initiiert der Gegner den Kampf, erhält\ndie Einheit Angr. +6 im Kampf.
-MSID_H_柔剣1: Ist Ges. der Einheit um mindestens\n5 höher als Ges. des Gegners, wird\ndie Erholungszeit pro Angriff um 1\nbeschleunigt (Bei ähnlichen Effekten\nwird nur der höchste angewandt.)
-MSID_H_柔剣2: Ist Ges. der Einheit um mindestens\n3 höher als Ges. des Gegners, wird\ndie Erholungszeit pro Angriff um 1\nbeschleunigt (Bei ähnlichen Effekten\nwird nur der höchste angewandt.)
-MSID_H_柔剣3: Ist Ges. der Einheit höher als Ges. des\nGegners, wird die Erholungszeit pro\nAngriff um 1 beschleunigt (Bei ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_柔剣1: Ist Ges. der Einheit um mindestens 5 höher\nals Ges. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_柔剣2: Ist Ges. der Einheit um mindestens 3 höher\nals Ges. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_柔剣3: Ist Ges. der Einheit höher als Ges. des\nGegners, wird die Erholungszeit der Einheit\npro Angriff der Einheit um 1 beschleunigt.\n(Bei mehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
 MID_CHAPTER_TITLE_CX014: Nebenquest 15
 MID_CHAPTER_CX014: Entfernte Helden
 MID_STAGE_TITLE_X0141: Nebenq. 15: Tl. 1

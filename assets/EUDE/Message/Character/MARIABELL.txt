@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIABELL)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIABELL_HOME1: Sharena hat eine fröhliche Art, findet\nIhr nicht auch? Vielleicht werde ich\nsie und Lissa zum Tee einladen...
+MID_MARIABELL_HOME2: Ich bin in einer Gruppe, die sich die\nHirten nennt. Adelige wie ich müssen\nhelfen, den Frieden zu bewahren.
+MID_MARIABELL_HOME3: Ihr seht immer so beschäftigt aus.\nÜberlasst das Patrouillieren doch\neinfach mir.$k$pAlle zwielichtigen Gestalten, die mir\nüber den Weg laufen, bekommen\neine ordentliche Abreibung.
+MID_MARIABELL_HOME4: Was geht, $GSüßer,Süße|? Alles senkrecht?$k$pWarum seht Ihr mich so entgeistert\nan? Ich übe nur die Sprache des\ngemeinen Volkes meiner Heimat.
+MID_MARIABELL_HOME5: Für eine Adelige wie mich ist das\nStudieren eine Selbstverständlichkeit.$k$pIch tue es jedoch gezielt, um meinen\nTraum zu verwirklichen und\nMagistratin zu werden.
+MID_MARIABELL_FRIEND: Rücken gerade! Ich bin den weiten\nWeg mit einem Geschenk von\n$Nf gekommen.$k$pBemüht Euch zumindest, vorzeigbar\nauszusehen, während Ihr es annehmt.
+MID_MARIABELL_LEVEL1: Es sitzt sich bequem auf\ndiesem hohen Ross.
+MID_MARIABELL_LEVEL2: Ergebnisse wie dieses erziele\nich mit Leichtigkeit.
+MID_MARIABELL_LEVEL3: Das ist vollkommen inakzeptabel.
+MID_MARIABELL_SKILL: Von nun an werde ich noch\nbrillanter agieren.
+MID_MARIABELL_JOIN: Ich bin Maribelle von den Hirten.\nWenn Ihr es wünscht, werde ich\nEuch meine Hilfe anbieten.
+MID_MARIABELL_STRONGEST: Meine Güte, was ist denn das für\neine Körperhaltung? Seid Ihr nicht\n$Gein großer Held,eine große Heldin| dieser Welt?$k$pDann solltet Ihr auch entsprechend\nmit gutem Beispiel vorangehen.$k$pIhr müsst den Hals gerade halten und\nstolz die Brust schwellen. Nein, nein,\nIhr macht das KOMPLETT falsch!$k$pStellt Euch vor, Ihr wärt an einem\nPfahl festgebunden, der Euch von\nKopf bis Fuß aufrecht hält.$k$pSehr gut! Seht Ihr? Mit etwas Mühe\nist einiges möglich. Auf dieser\nGrundlage lässt sich aufbauen.$k$pSelbst eine winzige Verbesserung\nkann einen Riesenunterschied\nausmachen.$k$pAls Adelige widerstrebt es mir,\njemandem zu folgen, der keine\nHaltung bewahrt. Ihr jedoch...$k$pSelbst mit Eurer bisherigen\nNonchalance würde ich Euch\nbis zum bitteren Ende folgen.$k$pNun denn, genehmigen wir uns eine\nPause und ein Tässchen Tee. Ich\nverwende nur die edelste Mischung.$k$pUnd dank Eurer neuen Körperhaltung\nsehe ich sogar über Eure unsäglichen\nManieren beim Teetrinken hinweg!
+MID_MARIABELL_VOICE01: はいっ！
+MID_MARIABELL_VOICE02: それっ！
+MID_MARIABELL_VOICE03: きゃあ！
+MID_MARIABELL_VOICE04: なんと野蛮な…！
+MID_MARIABELL_VOICE05: Ein großer Fehler.
+MID_MARIABELL_VOICE06: Ich ZERSTÖRE Euch!
+MID_MARIABELL_VOICE07: Das war's für Euch.
+MID_MARIABELL_VOICE08: Ihr macht mich rasend!
+MID_MARIABELL_VOICE09: You brute.
+MID_MARIABELL_VOICE10: うふふ
+MID_MARIABELL_VOICE11: Passt auf, was Ihr tut!
+MID_MARIABELL_VOICE12: Gebt Euer Bestes!
+MID_MARIABELL_VOICE13: Tell me, is Lissa here? She's a dear friend of mine.
+MID_MARIABELL_VOICE14: You touched me! Without saying a thing! Do people in your world consider that some sort of greeting?
+MID_MARIABELL_VOICE15: Your summoning skills are so valuable. I have to admit—they're very impressive!
+MID_MARIABELL_VOICE16: Hmm. Perhaps a tea party is just the thing!
+MID_MARIABELL_VOICE17: If you have a sincere desire to improve your bearing, I'll take it on myself to instruct you.
+MID_MARIABELL_VOICE18: Yes.
+MID_MARIABELL_VOICE19: Onward!
+MID_MARIABELL_VOICE20: I'll do it!

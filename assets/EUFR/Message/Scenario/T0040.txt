@@ -1,0 +1,8 @@
+[Heroes Archive] (T0040)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_イシュタル,ch06_11_Ishtar_F_Normal,Face|$w0|Je suis un chevalier mage de Friege.\nJe ne vous laisserai pas l'emporter si\nfacilement. Il en va de mon honneur.$k$p$WmMPID_ラインハルト2,ch07_01_Reinhardt_M_Normal2,Face|$w0|Bien parlé, dame Ishtar.$k$p$Sbs1000|

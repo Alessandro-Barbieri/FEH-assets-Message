@@ -1,0 +1,38 @@
+[Heroes Archive] (JAMKA)
+
+
+Heroes Message Name: Message
+
+
+MID_JAMKA_HOME1: 木々や土の匂いが\n俺の故郷のヴェルダンを思わせる。\nどんな世界でも緑はいいものだな。
+MID_JAMKA_HOME2: 俺は曲がったことが嫌いでな。\n権力を笠に着た卑劣なふるまいは\nどんなやつでも我慢がならない。
+MID_JAMKA_HOME3: $Nu、\nあそこの木をしばらく眺めておけ。\n…疲れた目が休まるぞ。
+MID_JAMKA_HOME4: 狩りへ行くなら同行させてもらおう。\n森は俺の第二の家のようなものだ。\n騒がしい城の中にいるよりも落ち着く。
+MID_JAMKA_HOME5: こう近くに寄られていては\n気が散って見張りに集中できん。\n邪魔だから部屋に戻っていろ。
+MID_JAMKA_FRIEND: 俺はヴェルダンの王子、ジャムカだ。\n$Nfからの\n友好の証を受け取れ。
+MID_JAMKA_LEVEL1: 感覚が研ぎ澄まされていく…
+MID_JAMKA_LEVEL2: まだ伸び代がありそうだな。\n気を抜かずに励んでいこう。
+MID_JAMKA_LEVEL3: 弓の腕にはそれなりに\n自信があったんだがな…
+MID_JAMKA_SKILL: これでまだ、前線で戦えそうだ。\n礼を言う。
+MID_JAMKA_JOIN: ヴェルダン王バトゥが末子、ジャムカだ。\n弱きを助けるために戦うのであれば、\n俺の力を貸してやろう。
+MID_JAMKA_STRONGEST: …俺の親父も兄貴達も、\n祖国ヴェルダンを思うばかりに\n心の弱い部分につけこまれてしまった。$k$pその末子の俺はといえば、\nそんな身内を説得すらできずに\nみすみす死なせてしまった…裏切り者だ。$k$p…決断を後悔しているわけじゃない。\n俺が信念に従って決めたことだ。\nだが…$k$p最悪の結末を防ぐ方法はなかったのかと\n考えない日はない。\n戦いの中、お前にもそんなときが来よう。$k$pその時は、お前自身の心を優先しろ。\n自分の信念に従って決断するんだ。\n何があっても後悔することがないように…
+MID_JAMKA_VOICE01: はぁっ！
+MID_JAMKA_VOICE02: せいっ！
+MID_JAMKA_VOICE03: うああっ！
+MID_JAMKA_VOICE04: 深手を…
+MID_JAMKA_VOICE05: 早く立ち去れ！
+MID_JAMKA_VOICE06: 貴様！
+MID_JAMKA_VOICE07: 殺したくはない
+MID_JAMKA_VOICE08: 警告はした
+MID_JAMKA_VOICE09: くっ…これまでか…
+MID_JAMKA_VOICE10: ふっ
+MID_JAMKA_VOICE11: 俺はヴェルダンの王子、シグルド公子の敵だった
+MID_JAMKA_VOICE12: ！？　今のが、お前の国の挨拶なのか…？
+MID_JAMKA_VOICE13: 怪しげな魔法は好かん。親父の仇を思い出す…
+MID_JAMKA_VOICE14: 変わった格好をしているな。お前の国の装束か？
+MID_JAMKA_VOICE15: 俺は国に背いた裏切り者だ。だが、信じるものがある。
+MID_JAMKA_VOICE16: この戦いが終わったら…俺は…
+MID_JAMKA_VOICE17: お前は不思議だ。謎めいているが…信じられる何かがある。
+MID_JAMKA_VOICE18: わかった
+MID_JAMKA_VOICE19: どこを攻める？
+MID_JAMKA_VOICE20: 覚悟は決めた

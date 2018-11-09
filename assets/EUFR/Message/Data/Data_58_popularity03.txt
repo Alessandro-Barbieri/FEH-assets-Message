@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_重騎士の兜: Casque cuirassé
+MDAID_H_重騎士の兜: Casque forgé à Ositia et porté par\nHector. Il est très lourd, mais pas\ntrop pour un chevalier en armure.
+MDAID_重騎士の兜・極: Casque cuirassé EX
+MDAID_H_重騎士の兜・極: Casque d'Ositia au style original. On\npeut lire son histoire dans les traces\nque lui ont laissées les batailles.
+MDAID_勇王の兜: Casque renouveau
+MDAID_H_勇王の兜: Casque du roi du renouveau, forgé à\nRenais et offert par Ephraim. Il est très\nrésistant et étonnamment léger.
+MDAID_勇王の兜・極: Casque renouveau EX
+MDAID_H_勇王の兜・極: Les entailles de ce casque racontent\nles nombreuses victoires du roi du\nrenouveau.
+MDAID_王女の髪飾り: Diadème princier
+MDAID_H_王女の髪飾り: Ce diadème porté par Celica était en\nvogue à l'époque des prêtresses.\nC'est un véritable travail d'orfèvre.
+MDAID_王女の髪飾り・極: Diadème princier EX
+MDAID_H_王女の髪飾り・極: L'un des accessoires préférés de\nCelica dans sa jeunesse. On peut\nvoir qu'elle l'a beaucoup porté.
+MDAID_皇女の頭飾り: Tiare impériale
+MDAID_H_皇女の頭飾り: Tiare portée par Veronica et forgée\ndans l'empire d'Embla. Elle est plutôt\nlégère, pour sa taille.
+MDAID_皇女の頭飾り・極: Tiare impériale EX
+MDAID_H_皇女の頭飾り・極: Tiare portée par Veronica et forgée\ndans l'empire d'Embla. Elle se\ntransmet de génération en génération.
+MID_MISSION_S201808STORY02_TITLE: L'arrivée des braves
+MID_MISSION_S201808STORY02_A1: Ann. 24 - Acte 1 (Expert)
+MID_MISSION_H_S201808STORY02_A1: Terminer l'acte 1 de l'annexe 24 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201808STORY02_A2: Ann. 24 - Acte 2 (Expert)
+MID_MISSION_H_S201808STORY02_A2: Terminer l'acte 2 de l'annexe 24 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201808STORY02_A3: Ann. 24 - Acte 3 (Expert)
+MID_MISSION_H_S201808STORY02_A3: Terminer l'acte 3 de l'annexe 24 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MPID_総選挙セリカ: Celica
+MPID_総選挙ヴェロニカ: Veronica
+MPID_総選挙ヘクトル: Hector
+MPID_総選挙エフラム: Ephraim
+MPID_HONOR_総選挙セリカ: Prêtresse guerrière
+MPID_HONOR_総選挙ヴェロニカ: Brave princesse
+MPID_HONOR_総選挙ヘクトル: Brave guerrier
+MPID_HONOR_総選挙エフラム: Roi sacré
+MPID_H_総選挙セリカ: Princesse de Zofia et prêtresse guerrière au\nservice de la déesse Mila. A été invoquée\nalors qu'elle maniait une épée royale qui lui\navait été confiée par Alm. Apparaît dans Fire\nEmblem Echoes: Shadows of Valentia.
+MPID_H_総選挙ヴェロニカ: Princesse de l'empire emblain.\nElle cherche à retrouver son\nfrère adoré, Bruno.
+MPID_H_総選挙ヘクトル: A hérité du titre de marquis d'Ositia après\nla mort soudaine de son grand frère. Vêtu\nd'une armure lourde, il porte la lance de l'une\ndes huit légendes. Apparaît dans Fire Emblem:\nThe Blazing Blade.
+MPID_H_総選挙エフラム: Prince de Renais qui protège le royaume suite\nau décès de son père, le roi Fado. Il utilise\nl'une des reliques des Jumeaux sacrés de\nGrado, la hache noire Garm. Apparaît dans\nFire Emblem: The Sacred Stones.
+MPID_VOICE_総選挙セリカ: Erica Lindbeck
+MPID_VOICE_総選挙ヴェロニカ: Wendee Lee
+MPID_VOICE_総選挙ヘクトル: Patrick Seitz
+MPID_VOICE_総選挙エフラム: Greg Chun
+MPID_ILLUST_総選挙セリカ: Hidari (左)
+MPID_ILLUST_総選挙ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_総選挙ヘクトル: Kita Senri (北千里)
+MPID_ILLUST_総選挙エフラム: Wada Sachiko (ワダサチコ)
+MSID_王家の剣: Épée royale
+MSID_マルテ: Maltet
+MSID_ガルム: Garm
+MSID_フリズスキャルヴ: Hliðskjálf
+MSID_業火疾風の祝福: Baume éclatant
+MSID_業火疾風の祝福＋: Baume éclatant +
+MSID_オスティアの反撃: Contre d'Ositia
+MSID_鬼神の一撃4: Coup fatal 4
+MSID_獅子連斬: Double lion
+MSID_奥義隊形1: Spécial 1
+MSID_奥義隊形2: Spécial 2
+MSID_奥義隊形3: Spécial 3
+MSID_魔防の波・偶数1: Pair Rés 1
+MSID_魔防の波・偶数2: Pair Rés 2
+MSID_魔防の波・偶数3: Pair Rés 3
+MSID_近距離警戒1: Garde proche 1
+MSID_近距離警戒2: Garde proche 2
+MSID_近距離警戒3: Garde proche 3
+MSID_H_王家の剣: Confère Vit +3. Si l'unité est à 2 cases ou\nmoins d'un allié, compteur -1 pour chaque\nattaque de l'unité. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
+MSID_H_マルテ: Accélère l'activation des aptitudes\nspéciales (compteur -1). Si l'ennemi\ninitie le combat et que PV de l'unité ≥ 50 %,\nl'unité effectue une double frappe.
+MSID_H_ガルム: Confère Atq +3. Si l'unité a obtenu un bonus\nd'une aptitude comme Ralliement ou Élan\net/ou un bonus de déplacement d'une aptitude\ncomme Déplacement cuirassé ou Bottes\nblindées, l'unité effectue une double frappe.
+MSID_H_フリズスキャルヴ: L'ennemi ne peut pas riposter. Après le combat,\nsi l'unité a attaqué, inflige Atq/Vit/Déf/Rés -4 à\nla cible et aux ennemis à 2 cases ou moins de\nla cible jusqu'à la fin de leur phase, et confère\nAtq/Vit/Déf/Rés +4 à l'unité et aux alliés à\nmoins de 2 cases pendant 1 tour.
+MSID_H_業火疾風の祝福: Lorsque l'unité soigne un allié à l'aide\nd'un bâton, confère Atq/Vit +4 à tous\nles alliés pendant un tour.
+MSID_H_業火疾風の祝福＋: Lorsque l'unité soigne un allié à l'aide\nd'un bâton, confère Atq/Vit +6 à tous\nles alliés pendant un tour.
+MSID_H_オスティアの反撃: L'unité riposte peu importe la distance à\nlaquelle se trouve son assaillant. Si l'ennemi\ninitie le combat, confère Atq/Déf +4\npendant le combat.
+MSID_H_鬼神の一撃4: Si l'unité initie le combat, confère Atq +8\npendant le combat.
+MSID_H_獅子連斬: Si l'unité initie le combat et que PV = 100 %,\nl'unité attaque deux fois puis subit 1 dégât\naprès le combat. (Effet non cumulable.)
+MSID_H_奥義隊形1: Si PV ≥ 90 % au début du combat, confère\ncompteur -1 à l'unité et inflige compteur +1\nà l'ennemi pour chaque attaque. (S'il y a\nplusieurs effets similaires, seul le plus\npuissant s'applique.)
+MSID_H_奥義隊形2: Si PV ≥ 70 % au début du combat, confère\ncompteur -1 à l'unité et inflige compteur +1\nà l'ennemi pour chaque attaque. (S'il y a\nplusieurs effets similaires, seul le plus\npuissant s'applique.)
+MSID_H_奥義隊形3: Si PV ≥ 50 % au début du combat, confère\ncompteur -1 à l'unité et inflige compteur +1\nà l'ennemi pour chaque attaque. (S'il y a\nplusieurs effets similaires, seul le plus\npuissant s'applique.)
+MSID_H_魔防の波・偶数1: Au début des tours pairs, confère\nRés +2 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_魔防の波・偶数2: Au début des tours pairs, confère\nRés +4 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_魔防の波・偶数3: Au début des tours pairs, confère\nRés +6 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_近距離警戒1: Confère l'effet suivant aux alliés à 2 cases\nou moins : si l'ennemi utilise une épée, une\nlance, une hache ou une dracopierre, confère\nDéf/Rés +2 pendant le combat.
+MSID_H_近距離警戒2: Confère l'effet suivant aux alliés à 2 cases\nou moins : si l'ennemi utilise une épée, une\nlance, une hache ou une dracopierre, confère\nDéf/Rés +3 pendant le combat.
+MSID_H_近距離警戒3: Confère l'effet suivant aux alliés à 2 cases\nou moins : si l'ennemi utilise une épée, une\nlance, une hache ou une dracopierre, confère\nDéf/Rés +4 pendant le combat.
+MID_CHAPTER_TITLE_CX023: Annexe 24
+MID_CHAPTER_CX023: L'arrivée des braves
+MID_STAGE_TITLE_X0231: Ann. 24 - Acte 1
+MID_STAGE_TITLE_X0232: Ann. 24 - Acte 2
+MID_STAGE_TITLE_X0233: Ann. 24 - Acte 3
+MID_STAGE_X0231: Princesses diverses
+MID_STAGE_X0232: Les nobles font la paire
+MID_STAGE_X0233: Le souhait de la princesse
+MID_CHAPTER_ST_CX012: Annexes 23 et 24
+MID_STAGE_TITLE_ST_X0022: Annexe 23
+MID_STAGE_TITLE_ST_X0023: Annexe 24
+MID_STAGE_TITLE_ST_X1023: Annexes 23 et 24
+MID_STAGE_TITLE_PB023: Aptitudes 23
+MID_STAGE_PB023: Héros vertueux : H & E
+MID_STAGE_TITLE_PB024: Aptitudes 24
+MID_STAGE_PB024: Héros vertueux : C & V

@@ -1,0 +1,38 @@
+[Heroes Archive] (EPONINE)
+
+
+Heroes Message Name: Message
+
+
+MID_EPONINE_HOME1: Un amour interdit entre deux héros\nvenus de mondes différents... Hmm,\noui, c'est un bon début...$k$pS'il retournent chez eux, ils seront\nséparés, mais s'ils restent ensemble...\nHé hé, l'intrigue se corse !
+MID_EPONINE_HOME2: J'ai grandi dans Ies terres oubliées,\nmais il m'arrivait parfois de\nm'échapper...$k$pC'était le seul moyen de poursuivre\nmon destin, celui de voleuse\nchevaleresque !
+MID_EPONINE_HOME3: C'est votre jour de chance ! Je vais\npatrouiller avec vous. Allons, ne me\nregardez pas comme ça !$k$pJe serai votre garde du corps ! Vous\nne pouvez pas vous battre, alors vous\nne devriez pas partir $Gseul,seule|.
+MID_EPONINE_HOME4: Dites, j'ai l'impression qu'il y a\nquelque chose entre votre arme\net celle du prince Alfonse.$k$pRangeons-les côte à côte dans\nl'armurerie pour voir s'il y a\ndes étincelles !
+MID_EPONINE_HOME5: Oh ! J'étais en train de lire un livre...\nun livre tout à fait normal ! Pas la\npeine d'en parler à mes parents !$k$pD'ailleurs, si on vous raconte des\nchoses au sujet de mes lectures, n'y\ncroyez pas, ce sont des mensonges !
+MID_EPONINE_FRIEND: Oh, ces deux-là iraient très bien\nensemble... Hé hé... Ah ! Vous êtes\nlà depuis longtemps ?$k$p$Nf vous\npasse le bonjour ! Au revoir !
+MID_EPONINE_LEVEL1: Je n'aurais pas pu imaginer\nune plus belle histoire !
+MID_EPONINE_LEVEL2: Pas mal, pas mal... Mais la prochaine\nfois, ce sera encore mieux !
+MID_EPONINE_LEVEL3: On ne peut pas gagner à tous\nles coups...
+MID_EPONINE_SKILL: Merci pour cette nouvelle puissance !\nJe sens que cette journée va finir\nsur une note des plus heureuses !
+MID_EPONINE_JOIN: Quelle joie de vous rencontrer. Je\nsuis Nina, fille de Niles.$k$pIl ne faut pas faire attention à mon\npère. Je prendrai mes propres\ndécisions !
+MID_EPONINE_STRONGEST: Ah... J'invente de si belles histoires\ndepuis que je suis ici... J'ai\nl'impression d'en vivre une.$k$pJe peux même sentir une main...\nsur mon... épaule... AAH !\n$Nu ?$k$pÇa ne va pas ? Dites quelque chose\navant d'approcher quelqu'un qui\nrêvasse !$k$pJ'imaginais ce qui pourrait se passer\nentre un invocateur et un héros qu'il\naurait fait apparaître...$k$pDifficile d'imaginer une meilleure\nhistoire ! L'invocateur et l'invoqué,\nle lien qui les unit...$k$pEt le triste destin qui les attend le\njour où ils devront rentrer chez eux.$k$pJ'ai déjà tous les détails en tête.\nC'est peut-être parce que... c'est\naussi notre histoire, à vous et moi.$k$pOh, je n'avais pas pensé à cela. C'est\nun peu triste. Après tout ce temps\npassé ensemble, un jour...$k$pEnfin, ne nous éternisons pas\nlà-dessus. Le moment des adieux\nest encore bien loin !$k$pEn attendant, je trouverai toutes\nsortes de moyens de vous rendre\n$Gheureux,heureuse|...$k$pEn envoyant nos ennemis dans\nun monde meilleur, par exemple !
+MID_EPONINE_VOICE01: たあっ！
+MID_EPONINE_VOICE02: せやっ！
+MID_EPONINE_VOICE03: んもう！
+MID_EPONINE_VOICE04: What's the idea?!
+MID_EPONINE_VOICE05: Dans vos rêves...
+MID_EPONINE_VOICE06: Vous avez déjà perdu.
+MID_EPONINE_VOICE07: Goûtez-moi ça !
+MID_EPONINE_VOICE08: Et si on s'amusait un peu ?
+MID_EPONINE_VOICE09: I guess dreams don't come true…
+MID_EPONINE_VOICE10: Hmm...
+MID_EPONINE_VOICE11: What is it? It's not like I'm doing anything strange! Honest!
+MID_EPONINE_VOICE12: If THAT Hero and THAT Hero were together... Oh, wow...
+MID_EPONINE_VOICE13: Is my father here? It's not like I want to see him. I was just thinking about what a pain it would be if he was.
+MID_EPONINE_VOICE14: You know, I used to be a thief. You should send me out to scout on the enemy!
+MID_EPONINE_VOICE15: Ahh! Don't creep up on me like that! I was daydreaming! It was so nice, and you ruined it.
+MID_EPONINE_VOICE16: If I could summon Heroes, I'd summon so many different people…
+MID_EPONINE_VOICE17: There's so much to see here, so many people to... I mean, so many things to learn! I hope I get to stay!
+MID_EPONINE_VOICE18: K!
+MID_EPONINE_VOICE19: Nina time!
+MID_EPONINE_VOICE20: Let me get a taste.

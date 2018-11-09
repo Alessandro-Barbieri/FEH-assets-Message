@@ -1,0 +1,11 @@
+[Heroes Archive] (Menu_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_FIRE: 被賦予火之祝福的英雄\n或是火的傳承英雄人數不足。\n需要我軍部隊數×４人以上的英雄。\n（相同的英雄計數時視為１人）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WATER: 被賦予水之祝福的英雄\n或是水的傳承英雄人數不足。\n需要我軍部隊數×４人以上的英雄。\n（相同的英雄計數時視為１人）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WIND: 被賦予風之祝福的英雄\n或是風的傳承英雄人數不足。\n需要我軍部隊數×４人以上的英雄。\n（相同的英雄計數時視為１人）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_EARTH: 被賦予地之祝福的英雄\n或是地的傳承英雄人數不足。\n需要我軍部隊數×４人以上的英雄。\n（相同的英雄計數時視為１人）
+MID_VOTE_TERM_201807: 宿命的對決

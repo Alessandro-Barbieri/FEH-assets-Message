@@ -1,0 +1,179 @@
+[Heroes Archive] (Data_602_legend09)
+
+
+Heroes Message Name: Message
+
+
+MDAID_アスクの髪飾り・金: Gold Askran Hairpin
+MDAID_H_アスクの髪飾り・金: Proof of victory over Legendary Tiki.
+MDAID_謎の男のマスク・金: Gold Enigmatic Mask
+MDAID_H_謎の男のマスク・金: Proof of victory over Legendary\nHector.
+MID_MISSION_M201810A_TITLE: Oct Quests (1)
+MID_MISSION_M201810A_A1: KO Foe w/Green
+MID_MISSION_H_M201810A_A1: Defeat a foe with a green ally.
+MID_MISSION_M201810A_A2: KO Foe w/Cavalry
+MID_MISSION_H_M201810A_A2: Defeat a foe with a cavalry ally.
+MID_MISSION_M201810A_A3: KO Red Foe
+MID_MISSION_H_M201810A_A3: Defeat a red foe.
+MID_MISSION_M201810A_A4: KO Infantry Foe
+MID_MISSION_H_M201810A_A4: Defeat an infantry foe.
+MID_MISSION_M201810A_A5: Win Arena Duels
+MID_MISSION_H_M201810A_A5: Win Arena Duels on any difficulty.
+MID_MISSION_M201810A_A6: KO Lvl. 20+ Foe w/Blue
+MID_MISSION_H_M201810A_A6: Defeat a foe that is level 20 or higher with a\nblue ally.
+MID_MISSION_M201810A_A7: KO Lvl. 20+ Foe w/Inf.
+MID_MISSION_H_M201810A_A7: Defeat a foe that is level 20 or higher with an\ninfantry ally.
+MID_MISSION_M201810A_A8: KO Lvl. 20+ Green Foe
+MID_MISSION_H_M201810A_A8: Defeat a green foe that is level 20 or higher.
+MID_MISSION_M201810A_A9: KO Lvl. 20+ Cavalry Foe
+MID_MISSION_H_M201810A_A9: Defeat a cavalry foe that is level 20 or higher.
+MID_MISSION_M201810A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201810A_A10: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_M201810A_A11: KO Lvl. 35+ Foe w/Red
+MID_MISSION_H_M201810A_A11: Defeat a foe that is level 35 or higher with a\nred ally.
+MID_MISSION_M201810A_A12: KO Lvl. 35+ Foe w/Flier
+MID_MISSION_H_M201810A_A12: Defeat a foe that is level 35 or higher with a\nflying ally.
+MID_MISSION_M201810A_A13: KO Lvl. 35+ Blue Foe
+MID_MISSION_H_M201810A_A13: Defeat a blue foe that is level 35 or higher.
+MID_MISSION_M201810A_A14: KO Lvl. 35+ Flying Foe
+MID_MISSION_H_M201810A_A14: Defeat a flying foe that is level 35 or higher.
+MID_MISSION_M201810A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201810A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201810B_TITLE: Oct Quests (2)
+MID_MISSION_M201810B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201810B_A1: Clear the first stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201810B_A2: Clear the second stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201810B_A3: Clear the third stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201810B_A4: Clear the fourth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201810B_A5: Clear the fifth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201810B_A6: Clear the sixth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201810B_A7: Clear the seventh stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201810B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201810B_A8: Clear the eighth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201810B_A9: Clear the ninth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201810B_A10: Clear the tenth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201810B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201810B_A11: Clear the tenth stratum of the Training Tower\nusing only infantry allies. All four allies must\nsurvive.
+MID_MISSION_M201810B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201810B_A12: Clear the tenth stratum of the Training Tower\nusing only armored allies. All four allies must\nsurvive.
+MID_MISSION_M201810B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201810B_A13: Clear the tenth stratum of the Training Tower\nusing only cavalry allies. All four allies must\nsurvive.
+MID_MISSION_M201810B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201810B_A14: Clear the tenth stratum of the Training Tower\nusing only flying allies. All four allies must\nsurvive.
+MID_MISSION_M201810C_TITLE: Oct Quests (3)
+MID_MISSION_M201810C_A1: Clear 7-1
+MID_MISSION_H_M201810C_A1: Clear Chapter 7: Part 1. All four allies must\nsurvive.
+MID_MISSION_M201810C_A2: Clear 7-2
+MID_MISSION_H_M201810C_A2: Clear Chapter 7: Part 2 with a red ally on your\nteam. All four allies must survive.
+MID_MISSION_M201810C_A3: Clear 7-3
+MID_MISSION_H_M201810C_A3: Clear Chapter 7: Part 3 with a blue ally on your\nteam. All four allies must survive.
+MID_MISSION_M201810C_A4: Clear 7-4
+MID_MISSION_H_M201810C_A4: Clear Chapter 7: Part 4 with a green ally on\nyour team. All four allies must survive.
+MID_MISSION_M201810C_A5: Clear 7-5
+MID_MISSION_H_M201810C_A5: Clear Chapter 7: Part 5 with a colorless ally on\nyour team. All four allies must survive.
+MID_MISSION_M201810C_A6: Clear 10-1 on Hard+
+MID_MISSION_H_M201810C_A6: Clear Chapter 10: Part 1 on Hard or higher\ndifficulty. All four allies must survive.
+MID_MISSION_M201810C_A7: Clear 10-2 on Hard+
+MID_MISSION_H_M201810C_A7: Clear Chapter 10: Part 2 on Hard or higher\ndifficulty with a red ally on your team. All four\nallies must survive.
+MID_MISSION_M201810C_A8: Clear 10-3 on Hard+
+MID_MISSION_H_M201810C_A8: Clear Chapter 10: Part 3 on Hard or higher\ndifficulty with a blue ally on your team. All four\nallies must survive.
+MID_MISSION_M201810C_A9: Clear 10-4 on Hard+
+MID_MISSION_H_M201810C_A9: Clear Chapter 10: Part 4 on Hard or higher\ndifficulty with a green ally on your team. All\nfour allies must survive.
+MID_MISSION_M201810C_A10: Clear 10-5 on Hard+
+MID_MISSION_H_M201810C_A10: Clear Chapter 10: Part 5 on Hard or higher\ndifficulty with a colorless ally on your team. All\nfour allies must survive.
+MID_MISSION_M201810C_A11: Clear 13-1 on Lunatic
+MID_MISSION_H_M201810C_A11: Clear Chapter 13: Part 1 on Lunatic difficulty.\nAll four allies must survive.
+MID_MISSION_M201810C_A12: Clear 13-2 on Lunatic
+MID_MISSION_H_M201810C_A12: Clear Chapter 13: Part 2 on Lunatic difficulty\nwith a red ally on your team. All four allies must\nsurvive.
+MID_MISSION_M201810C_A13: Clear 13-3 on Lunatic
+MID_MISSION_H_M201810C_A13: Clear Chapter 13: Part 3 on Lunatic difficulty\nwith a blue ally on your team. All four allies\nmust survive.
+MID_MISSION_M201810C_A14: Clear 13-4 on Lunatic
+MID_MISSION_H_M201810C_A14: Clear Chapter 13: Part 4 on Lunatic difficulty\nwith a green ally on your team. All four\nallies must survive.
+MID_MISSION_M201810C_A15: Clear 13-5 on Lunatic
+MID_MISSION_H_M201810C_A15: Clear Chapter 13: Part 5 on Lunatic difficulty\nwith a colorless ally on your team. All four\nallies must survive.
+MID_MISSION_S201810CHARA01_TITLE: Three Heroes
+MID_MISSION_S201810CHARA01_A1: KO Foe
+MID_MISSION_H_S201810CHARA01_A1: Defeat a foe.
+MID_MISSION_S201810CHARA01_A2: KO with Tiki
+MID_MISSION_H_S201810CHARA01_A2: Use Tiki: Naga's Voice to defeat a foe.
+MID_MISSION_S201810CHARA01_A3: KO with Odin
+MID_MISSION_H_S201810CHARA01_A3: Use Odin to defeat an enemy.
+MID_MISSION_S201810CHARA01_B1: KO Lvl. 20+ Foe
+MID_MISSION_H_S201810CHARA01_B1: Use Tiki: Naga's Voice to defeat a foe that is\nlevel 20 or higher.
+MID_MISSION_S201810CHARA01_B2: KO Lvl. 20+ Foe
+MID_MISSION_H_S201810CHARA01_B2: Use Odin to defeat a foe that is level 20 or\nhigher.
+MID_MISSION_S201810CHARA01_B3: KO Lvl. 20+ Foe
+MID_MISSION_H_S201810CHARA01_B3: Use Clarine to defeat a foe that is level 20 or\nhigher.
+MID_MISSION_S201810CHARA01_C1: KO Lvl. 35+ Foe
+MID_MISSION_H_S201810CHARA01_C1: Use Tiki: Naga's Voice to defeat a foe that is\nlevel 35 or higher.
+MID_MISSION_S201810CHARA01_C2: KO Lvl. 35+ Foe
+MID_MISSION_H_S201810CHARA01_C2: Use Odin to defeat a foe that is level 35 or\nhigher.
+MID_MISSION_S201810CHARA01_C3: KO Lvl. 35+ Foe
+MID_MISSION_H_S201810CHARA01_C3: Use Clarine to defeat a foe that is level 35 or\nhigher.
+MID_MISSION_S201810VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201810VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201810VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201810VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201810VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201810VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201810VOTE01_A6: Tower: Second Stratum
+MID_MISSION_H_S201810VOTE01_A6: Clear the second stratum of the Training Tower.
+MID_MISSION_S201810VOTE01_A7: Tower: Fifth Stratum
+MID_MISSION_H_S201810VOTE01_A7: Clear the fifth stratum of the Training Tower.
+MID_MISSION_S201810VOTE01_A8: Tower: Eighth Stratum
+MID_MISSION_H_S201810VOTE01_A8: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201810VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201810VOTE01_A9: Win Arena Duels on any difficulty.
+MID_MISSION_S201810VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201810VOTE01_A10: Win Arena Duels on any difficulty.
+MID_MISSION_S201810VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201810VOTE01_A11: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201810VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201810VOTE01_A12: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201810VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A13: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201810VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A14: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201810VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A15: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201810VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A16: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MID_MISSION_S201810VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A17: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201810VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A18: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201810VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A19: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201810VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201810VOTE01_A20: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MPID_伝承チキ: Tiki
+MPID_HONOR_伝承チキ: Legendary Dragon
+MPID_H_伝承チキ: A princess and daughter of the Divine Dragon.\nLeft behind long ago, before Naga's death, she\nhides great power within herself. Appears in Fire\nEmblem: Mystery of the Emblem.
+MPID_VOICE_伝承チキ: Mela Lee
+MPID_ILLUST_伝承チキ: Enkyo Yuichiro (円居雄一郎)
+MPID_LEGEND_伝承チキ: Legendary Effect: Earth\nAlly Boost: HP+3, Def+4\n\nGrants allies this Legendary Effect\nduring Earth season, if the Earth\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_神霧のブレス: Divine Mist
+MSID_鬼神の呼吸: Fierce Breath
+MSID_みんなと一緒に: With Everyone!
+MSID_H_神霧のブレス: Effective against dragon foes. Unit can\ncounterattack regardless of foe's range.\nIf foe's Range = 2, calculates damage\nusing the lower of foe's Def or Res.
+MSID_H_鬼神の呼吸: If foe initiates combat, grants Atk+4 during\ncombat and Special cooldown charge +1 per\nattack. (Only highest value applied. Does not\nstack.)
+MSID_H_みんなと一緒に: At start of turn, if unit is adjacent to an ally,\ngrants Def/Res+5 to unit and adjacent allies for\n1 turn.
+MID_STAGE_HONOR_T0040: Bound Hero Battle
+MID_STAGE_T0040: R & I
+MID_STAGE_TITLE_PB030: Skill Studies 30
+MID_STAGE_PB030: Tiki and Mar-Mar
+MID_STAGE_HONOR_L0007: Legendary Dragon
+MID_STAGE_L0007: Tiki

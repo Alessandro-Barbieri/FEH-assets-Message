@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_POPULARITY03_HOME1: 兄上…\n俺は、兄上の隣に立って、\n助けになりたかった…
+MID_HECTOR_POPULARITY03_HOME2: こいつは氷雪の槍マルテ。\nアルマーズと同じ神将器って武器だ。\n使い方は随分違うがな。
+MID_HECTOR_POPULARITY03_HOME3: あんまり俺に近づくなよ。\nうっかりして鎧で押しつぶしちまうかも…\nなんてな、冗談だ、冗談！
+MID_HECTOR_POPULARITY03_HOME4: 重装鎧で動くには日々の訓練が肝心だ。\nお前も一緒にやってみるか？\n慣れると案外、楽しいぜ。
+MID_HECTOR_POPULARITY03_HOME5: なんだよその不思議そうな目は…？\n俺だって本くらい読むさ、\n領主には教養も必要だしな。
+MID_HECTOR_POPULARITY03_FRIEND: 俺はヘクトル。\n$Nfの挨拶を\n持ってきたぜ。
+MID_HECTOR_POPULARITY03_LEVEL1: 今の俺は\n誰にも負ける気がしねえ！
+MID_HECTOR_POPULARITY03_LEVEL2: この槍の扱いにも\nずいぶんと慣れてきたな。
+MID_HECTOR_POPULARITY03_LEVEL3: ちくしょう、\n鎧が重いぜ…
+MID_HECTOR_POPULARITY03_SKILL: おう、ありがとよ。\n礼はいつもの通り、戦場でな。
+MID_HECTOR_POPULARITY03_JOIN: 俺はオスティア侯ヘクトル。\n何かに呼ばれた気がしたんだが…\nああ、敵ならこの槍で蹴散らしてやるぜ。
+MID_HECTOR_POPULARITY03_STRONGEST: なあ、$Nu、\n人の上に立つ者が持つべき資質ってのは\n何だと思う？$k$p後を継いでからずっと考えていたんだが…\n優れた武勇、閃く知恵…\nどうにもしっくりこねえな。$k$pなに、人望…か。\n人々の支持が無ければ長たる資格はない。\nなるほど、その通りだ。$k$pしかし人望ってのは目に見えないからな…\nその点は大丈夫、だと？\nおいおい、やけにはっきりと言い切るな。$k$pま、期待されてるなら応えてみるさ。\n俺を望んでくれる者たちと、\n兄上のためにも、な。
+MID_HECTOR_POPULARITY03_VOICE01: せいっ！
+MID_HECTOR_POPULARITY03_VOICE02: いくぜっ！
+MID_HECTOR_POPULARITY03_VOICE03: うああっ！
+MID_HECTOR_POPULARITY03_VOICE04: まだまだ…！
+MID_HECTOR_POPULARITY03_VOICE05: 手加減はしねえ！
+MID_HECTOR_POPULARITY03_VOICE06: 道を開けろ！
+MID_HECTOR_POPULARITY03_VOICE07: 運がなかったな
+MID_HECTOR_POPULARITY03_VOICE08: マルテ！
+MID_HECTOR_POPULARITY03_VOICE09: 兄上……俺は……
+MID_HECTOR_POPULARITY03_VOICE10: うーむ
+MID_HECTOR_POPULARITY03_VOICE11: こいつはオスティア侯爵家の重装鎧だ。すげー重いぜ。
+MID_HECTOR_POPULARITY03_VOICE12: うおっ！？　こいつを着てるといつも通り動けねえ…
+MID_HECTOR_POPULARITY03_VOICE13: 先祖代々、勤倹尚武（きんけんしょうぶ）がオスティアの理念だ。
+MID_HECTOR_POPULARITY03_VOICE14: 俺の兄はオスティア侯ウーゼル。心から尊敬できる男だった。
+MID_HECTOR_POPULARITY03_VOICE15: いつか兄上の片腕となって助ける…それが俺の望みだった…
+MID_HECTOR_POPULARITY03_VOICE16: 頼んでもいねえのに…死ぬ間際まで、俺なんかのこと心配しやがって…
+MID_HECTOR_POPULARITY03_VOICE17: お前は絶対、死なせたりしねーからな。
+MID_HECTOR_POPULARITY03_VOICE18: ああ
+MID_HECTOR_POPULARITY03_VOICE19: さて、と
+MID_HECTOR_POPULARITY03_VOICE20: 一歩一歩だ

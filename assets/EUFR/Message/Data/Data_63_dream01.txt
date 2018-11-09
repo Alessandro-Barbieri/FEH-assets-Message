@@ -1,0 +1,226 @@
+[Heroes Archive] (Data_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MDAID_白夜王妃の頭飾り: Coiffe d'Hoshido
+MDAID_H_白夜王妃の頭飾り: Cet accessoire pour cheveux ne peut\nêtre porté que par la reine d'Hoshido.
+MDAID_迷い子の帽子: Chapeau d'enfant
+MDAID_H_迷い子の帽子: Azura portait ce chapeau dans\nsa jeunesse.
+MID_MISSION_S201811ARENA01_TITLE: Arène
+MID_MISSION_S201811ARENA01_A1: Duelliste
+MID_MISSION_H_S201811ARENA01_A1: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A2: Duelliste
+MID_MISSION_H_S201811ARENA01_A2: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A3: Duelliste
+MID_MISSION_H_S201811ARENA01_A3: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A4: Assaut (arène) : 3 cartes
+MID_MISSION_H_S201811ARENA01_A4: Remporter trois batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201811ARENA01_A5: Duelliste
+MID_MISSION_H_S201811ARENA01_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A6: Duelliste
+MID_MISSION_H_S201811ARENA01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A7: Duelliste
+MID_MISSION_H_S201811ARENA01_A7: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A8: Assaut (arène) : 5 cartes
+MID_MISSION_H_S201811ARENA01_A8: Remporter cinq batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201811ARENA01_A9: Duelliste
+MID_MISSION_H_S201811ARENA01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A10: Duelliste
+MID_MISSION_H_S201811ARENA01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A11: Duelliste
+MID_MISSION_H_S201811ARENA01_A11: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811ARENA01_A12: Assaut (arène) : 7 cartes
+MID_MISSION_H_S201811ARENA01_A12: Remporter sept batailles consécutives dans\nl'assaut de l'arène.
+MID_MISSION_S201811HERO01_TITLE: Grandes batailles
+MID_MISSION_S201811HERO01_A1: Julius
+MID_MISSION_H_S201811HERO01_A1: Remporter la grande bataille contre Julius,\nhéros de l'ombre, avec Sharena, princesse\nd'Askr, dans votre équipe.
+MID_MISSION_S201811HERO01_A2: Julius
+MID_MISSION_H_S201811HERO01_A2: Remporter la grande bataille contre Julius,\nhéros de l'ombre, en Expert ou supérieur avec\nJulius, héros de l'ombre, dans votre équipe.
+MID_MISSION_S201811HERO01_A3: Julius
+MID_MISSION_H_S201811HERO01_A3: Vaincre une version de niveau 40 ou\nsupérieur de Julius, héros de l'ombre,\navec Sharena, princesse d'Askr.
+MID_MISSION_S201811HERO01_A4: Julius
+MID_MISSION_H_S201811HERO01_A4: Vaincre une version de niveau 40 ou\nsupérieur de Julius, héros de l'ombre,\navec Julius, héros de l'ombre.
+MID_MISSION_S201811HERO01_A5: Julius
+MID_MISSION_H_S201811HERO01_A5: Remporter la grande bataille contre Julius,\nhéros de l'ombre, en Expert ou supérieur avec\nune équipe composée exclusivement d'unités\nvolantes.
+MID_MISSION_S201811SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201811SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201811SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201811SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201811SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201811SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA02_DAILY_TITLE: La Tourmente
+MID_MISSION_S201811SENKA02_DAILY_A1: La Tourmente
+MID_MISSION_H_S201811SENKA02_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA02_DAILY_A2: La Tourmente
+MID_MISSION_H_S201811SENKA02_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA02_DAILY_A3: La Tourmente
+MID_MISSION_H_S201811SENKA02_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SENKA02_DAILY_A4: La Tourmente
+MID_MISSION_H_S201811SENKA02_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201811SKY01_TITLE: Raid céleste
+MID_MISSION_S201811SKY01_A1: Victoire : épée
+MID_MISSION_H_S201811SKY01_A1: Vaincre des ennemis avec des unités maniant\nl'épée.
+MID_MISSION_S201811SKY01_A2: Victoire : lance
+MID_MISSION_H_S201811SKY01_A2: Vaincre des ennemis avec des unités maniant\nla lance.
+MID_MISSION_S201811SKY01_A3: Victoire : hache
+MID_MISSION_H_S201811SKY01_A3: Vaincre des ennemis avec des unités maniant\nla hache.
+MID_MISSION_S201811SKY01_A4: Victoire : arc gris
+MID_MISSION_H_S201811SKY01_A4: Vaincre des ennemis avec des unités grises\nmaniant l'arc.
+MID_MISSION_S201811SKY01_A5: Victoire : dague grise
+MID_MISSION_H_S201811SKY01_A5: Vaincre des ennemis avec des unités grises\nmaniant la dague.
+MID_MISSION_S201811SKY01_A6: Victoire : tome rouge
+MID_MISSION_H_S201811SKY01_A6: Vaincre des ennemis avec des unités utilisant\nun tome rouge.
+MID_MISSION_S201811SKY01_A7: Victoire : tome bleu
+MID_MISSION_H_S201811SKY01_A7: Vaincre des ennemis avec des unités utilisant\nun tome bleu.
+MID_MISSION_S201811SKY01_A8: Victoire : tome vert
+MID_MISSION_H_S201811SKY01_A8: Vaincre des ennemis avec des unités utilisant\nun tome vert.
+MID_MISSION_S201811SKY01_A9: Victoire : bâton
+MID_MISSION_H_S201811SKY01_A9: Vaincre des ennemis avec des unités maniant\nle bâton.
+MID_MISSION_S201811SKY01_A10: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A10: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811SKY01_A11: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A11: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811SKY01_A12: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A12: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811SKY01_A13: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A13: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811SKY01_A14: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A14: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811SKY01_A15: Raid céleste : victoire
+MID_MISSION_H_S201811SKY01_A15: Réussissez des attaques dans le mode\nRaid céleste.
+MID_MISSION_S201811STORY01_TITLE: À la dérive
+MID_MISSION_S201811STORY01_A1: Ann. 27 - Acte 1 (Expert)
+MID_MISSION_H_S201811STORY01_A1: Terminer l'acte 1 de l'annexe 27 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201811STORY01_A2: Ann. 27 - Acte 2 (Expert)
+MID_MISSION_H_S201811STORY01_A2: Terminer l'acte 2 de l'annexe 27 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201811STORY01_A3: Ann. 27 - Acte 3 (Expert)
+MID_MISSION_H_S201811STORY01_A3: Terminer l'acte 3 de l'annexe 27 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201811TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201811TAPBTL01_D01_A1: Lucina
+MID_MISSION_H_S201811TAPBTL01_D01_A1: Vaincre Lucina dans les niveaux 16 - 20\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201811TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201811TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201811TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201811TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201811TAPBTL01_D02_A1: Lucina
+MID_MISSION_H_S201811TAPBTL01_D02_A1: Vaincre Lucina dans les niveaux 16 - 20\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201811TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201811TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201811TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201811TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201811TAPBTL01_D03_A1: Owain
+MID_MISSION_H_S201811TAPBTL01_D03_A1: Vaincre Owain dans les niveaux 36 - 40\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201811TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201811TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201811TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201811TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201811TAPBTL01_D04_A1: Owain
+MID_MISSION_H_S201811TAPBTL01_D04_A1: Vaincre Owain dans les niveaux 36 - 40\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201811TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201811TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201811TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201811TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201811TAPBTL02_A1: Boss
+MID_MISSION_H_S201811TAPBTL02_A1: Terminer des niveaux de boss dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL02_A2: Boss
+MID_MISSION_H_S201811TAPBTL02_A2: Terminer des niveaux de boss dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL02_A3: Niveau
+MID_MISSION_H_S201811TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201811TAPBTL02_A4: Extra 1
+MID_MISSION_H_S201811TAPBTL02_A4: Terminer le niveau Extra 1 (disponible une\nfois que les niveaux Extra sont débloqués)\ndans le mode Bataille tactile.
+MPID_夢カミラ: Camilla
+MPID_HONOR_夢カミラ: Fleur onirique
+MPID_H_夢カミラ: Première princesse d'une autre version\nde Nohr et grande sœur attentionnée\nd'Azura. Apparaît dans Fire Emblem Fates.
+MPID_VOICE_夢カミラ: Misty Lee
+MPID_ILLUST_夢カミラ: Mikuro (みく郎)
+MPID_夢カムイ男: Corrin
+MPID_HONOR_夢カムイ男: Prince onirique
+MPID_H_夢カムイ男: Prince d'Hoshido ayant grandi dans\nune autre version de Nohr. Il comprend\ntrès bien les sentiments de la jeune Azura.\nApparaît dans Fire Emblem Fates.
+MPID_VOICE_夢カムイ男: Cam Clarke
+MPID_ILLUST_夢カムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_夢カムイ女: Corrin
+MPID_HONOR_夢カムイ女: Princesse onirique
+MPID_H_夢カムイ女: Princesse d'Hoshido ayant grandi dans\nune autre version de Nohr. Elle comprend\ntrès bien les sentiments de la jeune Azura.\nApparaît dans Fire Emblem Fates.
+MPID_VOICE_夢カムイ女: Marcella Lentz-Pope
+MPID_ILLUST_夢カムイ女: Sencha (煎茶)
+MPID_幼少アクア: Azura
+MPID_HONOR_幼少アクア: Jeune chanteuse
+MPID_H_幼少アクア: Fille d'Arete, reine de Nohr. Elle n'est pas bien\ntraitée par les gens qui vivent au château, et\nson cœur est assailli par les ténèbres. Apparaît\ndans Fire Emblem Fates.
+MPID_VOICE_幼少アクア: Rena Strober
+MPID_ILLUST_幼少アクア: kaya8
+MPID_夢ミコト: Mikoto
+MPID_HONOR_夢ミコト: Mère aimante
+MPID_H_夢ミコト: Reine d'une autre version d'Hoshido et mère\nadoptive d'Azura. Elle est très affectueuse.\nApparaît dans Fire Emblem Fates.
+MPID_VOICE_夢ミコト: Marisha Ray
+MPID_ILLUST_夢ミコト: Ito Misei (伊藤未生)
+MSID_黄金の短剣: Dague or
+MSID_シャニーの誓槍: Lance de Shanna
+MSID_フロリーナの誓槍: Lance de Florina
+MSID_バアトルの豪斧: Hache virile
+MSID_第16迷宮の覇者1: Assaut réussi P 1
+MSID_第16迷宮の覇者2: Assaut réussi P 2
+MSID_第16迷宮の覇者3: Assaut réussi P 3
+MSID_夢幻の書: Livre des rêves
+MSID_泡影の書: Livre des ombres
+MSID_フラッシュ: Fulguration
+MSID_フラッシュ＋: Fulguration +
+MSID_水の飛沫: Rage du dragon
+MSID_攻撃速さの応援＋: Rall. : Atq/Vit +
+MSID_静水の舞い2: Danse de l'eau 2
+MSID_静水の舞い3: Danse de l'eau 3
+MSID_攻撃魔防の連携1: Union Atq/Rés 1
+MSID_攻撃魔防の連携2: Union Atq/Rés 2
+MSID_攻撃魔防の連携3: Union Atq/Rés 3
+MSID_見切り・追撃効果1: Anti-double 1
+MSID_見切り・追撃効果2: Anti-double 2
+MSID_見切り・追撃効果3: Anti-double 3
+MSID_H_黄金の短剣: Accélère l'activation des aptitudes\nspéciales (compteur -1).
+MSID_H_シャニーの誓槍: Accélère l'activation des aptitudes\nspéciales (compteur -1).
+MSID_H_フロリーナの誓槍: Efficace contre les unités en armure.
+MSID_H_バアトルの豪斧: Efficace contre les unités en armure.
+MSID_H_特殊射程R奥義待機: Si l'aptitude spéciale est prête au début du\ncombat, confère Atq/Vit/Déf/Rés +3 pendant\nle combat et permet à l'unité de riposter peu\nimporte la distance à laquelle se trouve son\nassaillant.
+MSID_H_近距離構えR4: Si un ennemi utilisant une épée, une lance,\nune hache ou une dracopierre initie le combat,\nconfère Atq/Vit/Déf/Rés +4 pendant le combat.
+MSID_H_第16迷宮の覇者1: Confère PV +3.
+MSID_H_第16迷宮の覇者2: Confère PV +4.
+MSID_H_第16迷宮の覇者3: Confère PV +5.
+MSID_H_夢幻の書: Confère Atq +3. Si l'unité se trouve à côté\nd'un allié, inflige Atq/Vit/Déf/Rés -4 à l'ennemi\npendant le combat.
+MSID_H_泡影の書: Confère Vit +3. Si l'unité se trouve à côté\nd'un allié, inflige Atq/Vit/Déf/Rés -4 à l'ennemi\npendant le combat.
+MSID_H_フラッシュ: Après le combat, si l'unité a attaqué, l'ennemi\nne peut pas riposter jusqu'à la fin de sa phase.
+MSID_H_フラッシュ＋: Après le combat, si l'unité a attaqué, la cible\net les ennemis à 2 cases ou moins de la\ncible ne peuvent pas riposter jusqu'à la fin\nde leur phase.
+MSID_H_水の飛沫: Accélère l'activation des aptitudes spéciales\n(compteur -1). S'il y a plus d'alliés (unité\nexclue) que d'ennemis (cible exclue) à 2 cases\nou moins, confère Atq/Vit +5 pendant le\ncombat. Les dégâts sont calculés avec la Déf\nou la Rés (la valeur la plus faible) pour\nles ennemis avec une portée de 2.
+MSID_H_攻撃速さの応援＋: Confère Atq/Vit +6 à la cible pendant un tour.
+MSID_H_静水の舞い2: Si l'aptitude Chant ou Danse est utilisée,\nconfère Rés +4 à la cible.
+MSID_H_静水の舞い3: Si l'aptitude Chant ou Danse est utilisée,\nconfère Rés +5 à la cible.
+MSID_H_攻撃魔防の連携1: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Rés +2 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_攻撃魔防の連携2: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Rés +4 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_攻撃魔防の連携3: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Rés +6 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_見切り・追撃効果1: Si PV de l'unité = 100 % au début du combat,\ndésactive les aptitudes de l'ennemi qui lui\ngarantissent de réaliser une double frappe\nou empêchent l'unité d'en réaliser une.
+MSID_H_見切り・追撃効果2: Si PV de l'unité ≥ 50 % au début du combat,\ndésactive les aptitudes de l'ennemi qui lui\ngarantissent de réaliser une double frappe\nou empêchent l'unité d'en réaliser une.
+MSID_H_見切り・追撃効果3: Désactive les aptitudes de l'ennemi qui lui\ngarantissent de réaliser une double frappe\nou empêchent l'unité d'en réaliser une.
+MID_CHAPTER_TITLE_CX026: Annexe 27
+MID_CHAPTER_CX026: À la dérive
+MID_STAGE_TITLE_X0261: Ann. 27 - Acte 1
+MID_STAGE_TITLE_X0262: Ann. 27 - Acte 2
+MID_STAGE_TITLE_X0263: Ann. 27 - Acte 3
+MID_STAGE_X0261: Amis
+MID_STAGE_X0262: Famille
+MID_STAGE_X0263: Un rêve
+MID_STAGE_HONOR_T0043: Héros liés
+MID_STAGE_T0043: C & K
+MID_STAGE_TITLE_SB_0016: 16e assaut
+MID_STAGE_TITLE_BG_FIRE_0013: Feu 3
+MID_STAGE_TITLE_BG_WATER_0014: Eau 4
+MID_STAGE_TITLE_BG_WIND_0014: Vent 4
+MID_STAGE_TITLE_BG_EARTH_0014: Terre 4
+MID_STAGE_TITLE_BG_FIRE_0014: Feu 4
+MID_STAGE_TITLE_PB034: Aptitudes 34
+MID_STAGE_PB034: Protégez Corrin

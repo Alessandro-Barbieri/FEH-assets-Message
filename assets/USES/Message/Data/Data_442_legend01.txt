@@ -246,7 +246,7 @@ MSID_鍛錬の証_魔防1: S. iniciado Res. 1
 MSID_鍛錬の証_魔防2: S. iniciado Res. 2
 MSID_鍛錬の証_魔防3: S. iniciado Res. 3
 MSID_H_蒼の天空: Durante los ataques, trata la Def. y la Res.\ndel rival como si se hubieran reducido\nen un 50 %. La unidad recupera PV\nequivalentes al 50 % del daño infligido.
-MSID_H_明鏡の呼吸: Otorga Res. +4 durante el combate si la\nunidad recibe algún ataque. -1 a la cuenta\nregresiva por cada ataque de la unidad. (No\nacumulable. Solo se aplica el valor más alto).
+MSID_H_明鏡の呼吸: Si el rival inicia el ataque, la unidad obtiene\nRes. +4 durante el enfrentamiento y obtiene\n-1 a la cuenta regresiva por cada ataque. (Solo\nse aplica el valor más alto. No acumulable).
 MSID_H_鍛錬の証_HP1: Otorga PV +3.
 MSID_H_鍛錬の証_HP2: Otorga PV +4.
 MSID_H_鍛錬の証_HP3: Otorga PV +5.

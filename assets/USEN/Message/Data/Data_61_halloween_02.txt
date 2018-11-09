@@ -1,0 +1,203 @@
+[Heroes Archive] (Data_61_halloween_02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_コウモリの耳: Bat Ears
+MDAID_H_コウモリの耳: Aren't they cute?
+MDAID_悪魔のツノ: Devil Horns
+MDAID_H_悪魔のツノ: Equip these for a menacing aura.
+MDAID_謎の剣士の仮面・金: Gold Mysterious Mask
+MDAID_H_謎の剣士の仮面・金: Proof of victory over Grand Hero\nNarcian.
+MDAID_黄色いアヒル・金: Golden Ducky
+MDAID_H_黄色いアヒル・金: Proof of victory over Grand Hero\nNavarre.
+MDAID_温泉手ぬぐい・金: Gold Hand Towel
+MDAID_H_温泉手ぬぐい・金: Proof of victory over Grand Hero\nRobin.
+MDAID_花占いの髪飾り・金: Golden Fortune Pin
+MDAID_H_花占いの髪飾り・金: Proof of victory over Grand Hero\nUrsula.
+MDAID_令嬢のリボン・金: Gold Damsel's Ribbon
+MDAID_H_令嬢のリボン・金: Proof of victory over Grand Hero\nLloyd.
+MDAID_踊り子のマスク・金: Gold Dancer's Mask
+MDAID_H_踊り子のマスク・金: Proof of victory over Grand Hero\nMichalis.
+MDAID_聖職者の帽子・金: Gold Priest's Miter
+MDAID_H_聖職者の帽子・金: Proof of victory over Grand Hero\nXander.
+MID_MISSION_S201810DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201810DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201810DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201810DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201810DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201810DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201810DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201810DAISEIATU01_A4: Tower: 2nd Stratum
+MID_MISSION_H_S201810DAISEIATU01_A4: Clear the second stratum of the Training Tower.
+MID_MISSION_S201810DAISEIATU01_A5: Tower: 8th Stratum
+MID_MISSION_H_S201810DAISEIATU01_A5: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201810DAISEIATU01_A6: Win Arena Duels
+MID_MISSION_H_S201810DAISEIATU01_A6: Win Arena Duels on any difficulty.
+MID_MISSION_S201810HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201810HERO01_A1: Defeat Kana
+MID_MISSION_H_S201810HERO01_A1: Clear the Grand Hero Battle against Kana:\nDragon Spawn with Anna on your team.
+MID_MISSION_S201810HERO01_A2: Defeat Kana
+MID_MISSION_H_S201810HERO01_A2: Clear the Grand Hero Battle against Kana:\nDragon Spawn on Lunatic or higher difficulty\nwith Kana: Dragon Spawn on your team.
+MID_MISSION_S201810HERO01_A3: Defeat Kana
+MID_MISSION_H_S201810HERO01_A3: Defeat Kana: Dragon Spawn at level 40 or\nhigher with Anna.
+MID_MISSION_S201810HERO01_A4: Defeat Kana
+MID_MISSION_H_S201810HERO01_A4: Defeat Kana: Dragon Spawn at level 40 or\nhigher with Kana: Dragon Spawn.
+MID_MISSION_S201810HERO01_A5: Defeat Kana
+MID_MISSION_H_S201810HERO01_A5: Clear the Grand Hero Battle against Kana:\nDragon Spawn on Lunatic or higher difficulty\nusing only armored allies.
+MID_MISSION_S201810SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201810SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201810SENKA01_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201810SENKA01_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201810SENKA01_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201810SENKA01_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201810SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201810SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201810SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201810SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201810SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201810STORY01_TITLE: The Land's Bounty
+MID_MISSION_S201810STORY01_A1: Clr. P25-1 on Lunatic
+MID_MISSION_H_S201810STORY01_A1: Clear Paralogue 25: Part 1 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201810STORY01_A2: Clr. P25-2 on Lunatic
+MID_MISSION_H_S201810STORY01_A2: Clear Paralogue 25: Part 2 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201810STORY01_A3: Clr. P25-3 on Lunatic
+MID_MISSION_H_S201810STORY01_A3: Clear Paralogue 25: Part 3 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201810TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201810TAPBTL01_D01_A1: Defeat Leif
+MID_MISSION_H_S201810TAPBTL01_D01_A1: Defeat the boss Leif on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201810TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201810TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201810TAPBTL01_D02_A1: Defeat Leif
+MID_MISSION_H_S201810TAPBTL01_D02_A1: Defeat the boss Leif on Floors 16-20 on Hard\ndifficulty in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201810TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201810TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201810TAPBTL01_D03_A1: Defeat Lene
+MID_MISSION_H_S201810TAPBTL01_D03_A1: Defeat the boss Lene on Floors 36-40 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201810TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201810TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201810TAPBTL01_D04_A1: Defeat Lene
+MID_MISSION_H_S201810TAPBTL01_D04_A1: Defeat the boss Lene on Floors 36-40 on Hard\ndifficulty in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201810TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201810TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201810TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201810TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201810TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201810TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201810TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201810TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201810TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201810TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201810TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201810TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MPID_ハロワユ: Mia
+MPID_ハロミルラ: Myrrh
+MPID_ハロカゲロウ: Kagero
+MPID_ハロゼロ: Niles
+MPID_ハロドルカス: Dorcas
+MPID_HONOR_ハロワユ: Moonlit Witch
+MPID_HONOR_ハロミルラ: Spooky Monster
+MPID_HONOR_ハロカゲロウ: Beverage Ninja
+MPID_HONOR_ハロゼロ: Forbidden Tease
+MPID_HONOR_ハロドルカス: Pumpkin Smasher
+MPID_H_ハロワユ: A mercenary fighting to improve her sword\nskills. She can't wait to get to the harvest\nfestival. Appears in Fire Emblem: Radiant\nDawn.
+MPID_H_ハロミルラ: A manakete who is much older than her\nappearance suggests. She'd like some candy\nbut is a little shy about asking for it. Appears in\nFire Emblem: The Sacred Stones.
+MPID_H_ハロカゲロウ: A ninja of Hoshido who is ready to lay down her\nlife to obtain some candy. One of Ryoma's\nretainers. Appears in Fire Emblem Fates.
+MPID_H_ハロゼロ: Nohrian scoundrel who wags his saucy tongue\nat everyone. One of Leo's retainers. Hopes to\nhave a night to remember at the harvest\nfestival. Appears in Fire Emblem Fates.
+MPID_H_ハロドルカス: A mercenary trying to earn money for his ill\nwife's treatment. He'd like to bring her back\nsome treats. Appears in Fire Emblem: The\nBlazing Blade.
+MPID_VOICE_ハロワユ: Lani Minella
+MPID_VOICE_ハロミルラ: Erica Lindbeck
+MPID_VOICE_ハロカゲロウ: Sarah Blandy
+MPID_VOICE_ハロゼロ: Michael Sinterniklaas
+MPID_VOICE_ハロドルカス: Kirk Thornton
+MPID_ILLUST_ハロワユ: Yoneyama Mai (米山舞)
+MPID_ILLUST_ハロミルラ: Amagaitaro (アマガイタロー)
+MPID_ILLUST_ハロカゲロウ: cuboon
+MPID_ILLUST_ハロゼロ: Yura (由良)
+MPID_ILLUST_ハロドルカス: Soeda Ippei (添田一平)
+MSID_孤高の剣: Solitary Blade
+MSID_第15迷宮の覇者1: Squad Ace O 1
+MSID_第15迷宮の覇者2: Squad Ace O 2
+MSID_第15迷宮の覇者3: Squad Ace O 3
+MSID_カボチャの斧: Hack-o'-Lantern
+MSID_カボチャの斧＋: Hack-o'-Lantern+
+MSID_コウモリの弓: Devilish Bow
+MSID_コウモリの弓＋: Devilish Bow+
+MSID_果汁のボトル: Bottled Juice
+MSID_果汁のボトル＋: Bottled Juice+
+MSID_キャンディの杖: Witchy Wand
+MSID_キャンディの杖＋: Witchy Wand+
+MSID_精霊のブレス: Spirit Breath
+MSID_守備魔防1: Def/Res 1
+MSID_守備魔防2: Def/Res 2
+MSID_攻撃速さの連携1: Atk/Spd Link 1
+MSID_攻撃速さの連携2: Atk/Spd Link 2
+MSID_攻撃速さの連携3: Atk/Spd Link 3
+MSID_攻撃の波・偶数1: Even Atk Wave 1
+MSID_攻撃の波・偶数2: Even Atk Wave 2
+MSID_攻撃の波・偶数3: Even Atk Wave 3
+MSID_H_孤高の剣: Accelerates Special trigger (cooldown count-1).
+MSID_H_翼槍ヴィドフニル改: If foe initiates combat and uses sword, lance, axe,\nor dragonstone, grants Def/Res+7 during combat.
+MSID_H_攻撃速さの絆R歩重: If unit is within 2 spaces of an infantry or\narmored ally, grants Atk/Spd+4 during combat.
+MSID_H_反撃抑制R魔竜: Magic and dragon foes cannot counterattack.
+MSID_H_第15迷宮の覇者1: Grants Atk+1.
+MSID_H_第15迷宮の覇者2: Grants Atk+2.
+MSID_H_第15迷宮の覇者3: Grants Atk+3.
+MSID_H_カボチャの斧: Inflicts Special cooldown charge -1 on foe per\nattack during combat. (Only highest value\napplied. Does not stack.)
+MSID_H_カボチャの斧＋: Inflicts Special cooldown charge -1 on foe per\nattack during combat. (Only highest value\napplied. Does not stack.)
+MSID_H_コウモリの弓: Effective against flying foes. Inflicts Special\ncooldown charge -1 on foe per attack during\ncombat. (Only highest value applied. Does not\nstack.)
+MSID_H_コウモリの弓＋: Effective against flying foes. Inflicts Special\ncooldown charge -1 on foe per attack during\ncombat. (Only highest value applied. Does not\nstack.)
+MSID_H_果汁のボトル: Inflicts Special cooldown charge -1 on foe per\nattack during combat. (Only highest value\napplied. Does not stack.) After combat, if unit\nattacked, inflicts Def/Res-5 on target and foes\nwithin 2 spaces of target through their next\nactions.
+MSID_H_果汁のボトル＋: Inflicts Special cooldown charge -1 on foe per\nattack during combat. (Only highest value\napplied. Does not stack.) After combat, if unit\nattacked, inflicts Def/Res-7 on target and foes\nwithin 2 spaces of target through their next\nactions.
+MSID_H_キャンディの杖: After combat, if unit attacked, resets Special\ncooldown of foe, and inflicts the following\nstatus on foe through its next action: "Inflicts\nSpecial cooldown charge -1 per attack during\ncombat. (Only highest value applied. Does not\nstack.)" (Neutralizes Special cooldown count\nreductions after combat, but skills that\nAccelerate and Slow Special are still effective.)
+MSID_H_キャンディの杖＋: After combat, if unit attacked, resets Special\ncooldown of target and foes within 2 spaces of\ntarget, and inflicts the following status on\ntarget and foes within 2 spaces of target\nthrough their next actions: "Inflicts Special\ncooldown charge -1 per attack during combat.\n(Only highest value applied. Does not stack.)"\n(Neutralizes Special cooldown count reductions\nafter combat, but skills that Accelerate and\nSlow Special are still effective.)
+MSID_H_精霊のブレス: Grants Def+3. If unit initiates combat and unit’s\nDef ≥ foe’s Def+5, unit makes a guaranteed\nfollow-up attack. If foe's Range = 2, calculates\ndamage using the lower of foe's Def or Res.
+MSID_H_守備魔防1: Grants Def/Res+1.
+MSID_H_守備魔防2: Grants Def/Res+2.
+MSID_H_攻撃速さの連携1: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Spd+2 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃速さの連携2: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Spd+4 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃速さの連携3: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Spd+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃の波・偶数1: At start of even-numbered turns, grants Atk+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_攻撃の波・偶数2: At start of even-numbered turns, grants Atk+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_攻撃の波・偶数3: At start of even-numbered turns, grants Atk+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MID_CHAPTER_TITLE_CX024: Paralogue 25
+MID_CHAPTER_CX024: The Land's Bounty
+MID_STAGE_TITLE_X0241: Paralogue 25-1
+MID_STAGE_TITLE_X0242: Paralogue 25-2
+MID_STAGE_TITLE_X0243: Paralogue 25-3
+MID_STAGE_X0241: The Spooky Trio
+MID_STAGE_X0242: Two More Horrors
+MID_STAGE_X0243: Grab Those Gourds!
+MID_STAGE_TITLE_BG_FIRE_0012: Fire 2
+MID_STAGE_TITLE_BG_WATER_0013: Water 3
+MID_STAGE_TITLE_BG_WIND_0013: Wind 3
+MID_STAGE_TITLE_BG_EARTH_0013: Earth 3
+MID_STAGE_TITLE_SB_0015: 15th Assault
+MID_STAGE_TITLE_PB031: Skill Studies 31
+MID_STAGE_PB031: Frelia's Sacred Twins
+MID_STAGE_TITLE_PC015: Grandmaster 15
+MID_STAGE_PC015: Spurred On
+MID_STAGE_HONOR_T0041: Bound Hero Battle
+MID_STAGE_T0041: E & M
+MID_TAP_BATTLE_DATA_TITLE_0009: Heir of Light
+MID_MUSIC_NAME_BGM_MAP_FE04_01: Prologue\nBirth of a Holy Knight
+MID_MUSIC_NAME_BGM_MAP_FE04_05: Chapter 3\nEldigan, the Lionheart
+MID_MUSIC_NAME_BGM_MAP_BRAVE_02: The Grandeur of Askr

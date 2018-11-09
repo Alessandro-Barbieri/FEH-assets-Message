@@ -1,0 +1,38 @@
+[Heroes Archive] (DORCAS_HALLOWEEN02)
+
+
+Heroes Message Name: Message
+
+
+MID_DORCAS_HALLOWEEN02_HOME1: 行く先々でみなが声をかけてくれる…\nこの格好はそんなに目立つのか…？
+MID_DORCAS_HALLOWEEN02_HOME2: 収穫祭…か。\nナタリーがここにいたら\nきっと美しい絵を描くだろう。
+MID_DORCAS_HALLOWEEN02_HOME3: 大丈夫だ。\n笑顔をつくるのは苦手だが、\nこれでも楽しんでいる…
+MID_DORCAS_HALLOWEEN02_HOME4: …菓子を受け取ってくれ。\n大丈夫だ。\n見た目は奇妙だが、体に害はない。
+MID_DORCAS_HALLOWEEN02_HOME5: おれが近寄ると、みな青ざめた顔で\n菓子を差し出してくる。\n菓子を配りたいのはおれなんだが…
+MID_DORCAS_HALLOWEEN02_FRIEND: 驚かせてすまん。\n$Nfの挨拶を\n届けにきただけだ…
+MID_DORCAS_HALLOWEEN02_LEVEL1: 手応えありだ…\n慣れるとこの格好も悪くない。
+MID_DORCAS_HALLOWEEN02_LEVEL2: 悪戯の加減がわからないな…
+MID_DORCAS_HALLOWEEN02_LEVEL3: やはりおれには…\n浮かれた祭りは似合わん…
+MID_DORCAS_HALLOWEEN02_SKILL: 感謝する…\nお礼にこの菓子を受け取ってくれ。
+MID_DORCAS_HALLOWEEN02_JOIN: おれの名はドルカス。\n賑やかな祭りは苦手だが…\n引き受けたからには怪物役を務めよう。
+MID_DORCAS_HALLOWEEN02_STRONGEST: 正直なことを言えば\nこの格好…\n最初はとまどっていた。$k$pおれはもともと\n愛想笑いのひとつもできん男だ…\nそのおれが皆を楽しませるなど…$k$pしかし、\n子どもたちの笑顔を見て…\nそんな不安はすぐに消えた。$k$pこの格好をしたおれを見て、\n子供たちは喜び、声をかけてくれる…\nこんな経験は初めてだ。$k$p収穫祭というのは良いものだな。\n今度は、この格好を\n妻にも見せてやりたい…
+MID_DORCAS_HALLOWEEN02_VOICE01: むぅんっ！
+MID_DORCAS_HALLOWEEN02_VOICE02: いくぞ！
+MID_DORCAS_HALLOWEEN02_VOICE03: ぬああっ！
+MID_DORCAS_HALLOWEEN02_VOICE04: 耐えねば…
+MID_DORCAS_HALLOWEEN02_VOICE05: トリックオアトリートだ
+MID_DORCAS_HALLOWEEN02_VOICE06: もう悪事はせん
+MID_DORCAS_HALLOWEEN02_VOICE07: 菓子を持って帰る
+MID_DORCAS_HALLOWEEN02_VOICE08: 祭りを祝うぞ
+MID_DORCAS_HALLOWEEN02_VOICE09: この菓子は…ナタリーに…
+MID_DORCAS_HALLOWEEN02_VOICE10: うーむ
+MID_DORCAS_HALLOWEEN02_VOICE11: どうにも、この格好は落ち着かんな…
+MID_DORCAS_HALLOWEEN02_VOICE12: ！？　…驚かせるな。脅かす役はこっちだろう。
+MID_DORCAS_HALLOWEEN02_VOICE13: 祭りには縁がなかった。日々暮らしていくのでやっとだからな…
+MID_DORCAS_HALLOWEEN02_VOICE14: この菓子を土産にすれば、妻が喜ぶだろう。
+MID_DORCAS_HALLOWEEN02_VOICE15: まあまあ…似合っている…のか？　俺にはよくわからん。
+MID_DORCAS_HALLOWEEN02_VOICE16: ナタリーの足が良くなれば…祭りを見せてやりたい。
+MID_DORCAS_HALLOWEEN02_VOICE17: 菓子をいくらかもらった。良ければ、あんたの好きなものを取ってくれ。
+MID_DORCAS_HALLOWEEN02_VOICE18: わかった
+MID_DORCAS_HALLOWEEN02_VOICE19: 菓子は望まん
+MID_DORCAS_HALLOWEEN02_VOICE20: 悪戯などせん…

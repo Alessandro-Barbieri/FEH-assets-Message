@@ -1,0 +1,38 @@
+[Heroes Archive] (RYOUMA_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_RYOUMA_BON01_HOME1: 夏とくれば祭りの季節。\nさあ、老いも若きも男も女も\n輪になって踊るのだ！
+MID_RYOUMA_BON01_HOME2: 白夜王国の夏の風物詩…\nそれが夏祭りだ。\n遠慮はいらん、お前も参加してくれ。
+MID_RYOUMA_BON01_HOME3: 踊りは苦手か？\nならば、屋台で美味いものでも\nみつくろってやろう。
+MID_RYOUMA_BON01_HOME4: 夏祭りの踊りは、さほど難しくはない。\n俺の真似をして手を動かしてみろ。\nそう、その調子だ。
+MID_RYOUMA_BON01_HOME5: きょうだいたちも祭りを楽しみにしていた。\n祭りという特別な日は、\n日々の暮らしに彩りを与えてくれる…
+MID_RYOUMA_BON01_FRIEND: 夏祭りの季節だ。\n$Nfから\n暑中見舞いを預かってきたぞ。
+MID_RYOUMA_BON01_LEVEL1: 目覚ましい成長だ。\nこれも、夏の踊りがあればこそ。
+MID_RYOUMA_BON01_LEVEL2: いいぞ。\n興が乗ってきたようだ。
+MID_RYOUMA_BON01_LEVEL3: いかんな、\n熱くなりすぎたか……
+MID_RYOUMA_BON01_SKILL: 感謝する。この礼に、\n一つ舞わせてもらおう。
+MID_RYOUMA_BON01_JOIN: 白夜王国第一の王子、リョウマだ。\n待ちに待った夏祭りの季節、\nさあ、共に踊るぞ。
+MID_RYOUMA_BON01_STRONGEST: そうだ。なかなか上手いぞ、\n$Nu。\n元の世界でも踊ったことがあるのか？$k$p白夜王国における夏祭りは\n死者を弔い、想いを馳せる\n神聖な一面も有している。$k$pしかし、一番の目的は\n今を生きている人間たちに\n明日への活力を与えることだ。$k$p皆で踊り、笑い合い、\n心をひとつにする…$k$pさあ、今日はとことん踊ろう。\nお前と共に過ごす\nこの夏を忘れないように…
+MID_RYOUMA_BON01_VOICE01: よっ！
+MID_RYOUMA_BON01_VOICE02: ほっ！
+MID_RYOUMA_BON01_VOICE03: うああっ！
+MID_RYOUMA_BON01_VOICE04: ぬかった！
+MID_RYOUMA_BON01_VOICE05: 夏の奥義
+MID_RYOUMA_BON01_VOICE06: もっと暑く！
+MID_RYOUMA_BON01_VOICE07: 踊るぞ
+MID_RYOUMA_BON01_VOICE08: 夏祭りだ
+MID_RYOUMA_BON01_VOICE09: 踊り…足りんな…
+MID_RYOUMA_BON01_VOICE10: うーむ
+MID_RYOUMA_BON01_VOICE11: さあ、踊るぞ
+MID_RYOUMA_BON01_VOICE12: 白夜の踊りだ
+MID_RYOUMA_BON01_VOICE13: これは我ら白夜王国に古くから伝わる装束…浴衣だ。
+MID_RYOUMA_BON01_VOICE14: 夏祭りはこのような格好をして、老いも若きも皆で踊るのだ。
+MID_RYOUMA_BON01_VOICE15: 浴衣は良いぞ。軽くて動きやすい。
+MID_RYOUMA_BON01_VOICE16: 夏祭りは、死者を弔う神聖な祭りでもある。
+MID_RYOUMA_BON01_VOICE17: 俺が踊り方を教えよう。遠慮しなくていいぞ。
+MID_RYOUMA_BON01_VOICE18: わかった
+MID_RYOUMA_BON01_VOICE19: 夏だな…
+MID_RYOUMA_BON01_VOICE20: 皆で踊ろう

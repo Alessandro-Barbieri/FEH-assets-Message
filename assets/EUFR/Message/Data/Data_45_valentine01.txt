@@ -241,7 +241,7 @@ MSID_H_ファルシオン覚醒改: Efficace contre les dragons. Tous les 2 tour
 MSID_H_ファルシオン外伝改: Efficace contre les dragons. Tous les 2 tours,\nrend 10 PV à l'unité en début de tour.
 MSID_H_エッケザックス改: En début de tour, inflige Déf -6 aux ennemis\n(en dehors des dragons) à 2 cases ou moins\njusqu'à la fin de leur phase.
 MSID_H_先導R歩行飛行: Les fantassins et unités volantes alliés\nà 2 cases ou moins peuvent se déplacer\njusqu'à une case adjacente à l'unité.
-MSID_H_TP変動R魔: Si l'ennemi utilise la magie, compteur -1.\n(S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.)
+MSID_H_TP変動R魔: Si l'ennemi utilise la magie, compteur -1 pour\nchaque attaque de l'unité. (S'il y a plusieurs\neffets similaires, seul le plus puissant\ns'applique.)
 MSID_H_大紋章R全2: Confère Atq/Vit/Déf/Rés +2 aux alliés\nà 2 cases ou moins pendant le combat.
 MSID_H_絆R全4: Si l'unité se trouve à côté d'un allié, confère\nAtq/Vit/Déf/Rés +4 pendant le combat.
 MSID_H_連撃消耗: Si l'unité initie le combat et que PV = 100 %,\nl'unité attaque deux fois puis subit 5 dégâts\naprès le combat.

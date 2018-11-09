@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRang : $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromotion du $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rang conservé !
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRétrogradation du $a0
+MID_ARENA_DIALOG_HELP_07: ◆ Bonus Appel aux armes ◆\nÀ chaque fois que vous battez un\nennemi avec un héros de l'Appel\naux armes, vous marquez trois\npoints supplémentaires.\n\n(Effectif à partir de la première\nsaison de la version 2.8.0.)
+MID_ARENA_RANK21: Grand invocateur
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Jardins
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: Domaine
+MID_BLESSINGMAP_HELP_DIALOG_05: ◆ Domaine ◆\n・ Vous combattez avec plusieurs\néquipes.\n・ Un héros ayant participé à une\nbataille ne peut plus combattre.\n(Cela concerne également les\nautres exemplaires de ce héros.)
+MID_ITEM_ARENA_CROWN: Couronne de l'arène
+MID_ITEM_HELP_ARENA_CROWN: Une couronne offerte à un invocateur légendaire.
+MID_SEQUENTIAL_MAP_TERM_201808: Chaos personnifié
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: ◆ Bonus de bénédiction ◆\nLorsque vous utilisez un héros\nlégendaire ou béni correspondant\nà la saison en cours, vous\nmarquez un point supplémentaire\nà la fin de la bataille.
+MID_SUMMON_WEAPON_TYPE: Types d'armes des héros disponibles
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: Choisir un héros met fin à la session.\nHéros le plus populaire : Lyn (gris)
+MID_TAP_BATTLE_CONFIG_SPEED: Vitesse
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: × 1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: × 1,5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: × 2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: × 2,5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: × 3
+MID_CONQUER_HELP_DIALOG_06_02: ◆ Autres règles ◆\n・ Les renforts ne bénéficient pas\ndes effets légendaires.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: Tout sélect.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: Effacer
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: Trier par n°
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: Modifier/assigner sets
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: Assigner sets
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: Choisissez un allié pour modifier son set d'aptitudes.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: Modifiez et assignez les aptitudes.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: Sélectionnez une aptitude.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: Sélectionnez un sceau sacré.
+MID_UNIT_EDIT_SKILL_SET_EDIT: Modifier
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: Aptitudes
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: Sceaux sacrés
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: Utiliser équipement actuel
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: Supprimer le set pour ce héros ?
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: Supprimer
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: Enregistrer les aptitudes\net le sceau sacré sélectionnés\ndans un set ?
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: Enregistrer
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: Assigner ce set d'aptitudes ?
+MID_UNIT_EDIT_SKILL_SET_EQUIP: Oui
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: Non
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: Annuler les modifications ?
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: Elles ne seront pas enregistrées.
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: Confirmer
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: Avant
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: Après
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: Assigner ce set d'aptitudes ?
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: Nom du set
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aSet $a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: Saisir un nom
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: Saisissez un nom pour ce set.
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: Ce nom sera le même pour tous les\nalliés utilisant ce set.
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: Le nom ne doit pas dépasser 12 caractères.\nCertains symboles ne sont pas acceptés.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: Allié
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: Équipe
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: Équipe
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: Brigade
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: Aucun groupe de ce type n'est disponible.
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: Assigner ce set d'aptitudes ?
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: Il n'y aura pas de changement pour\nles alliés n'ayant pas été inclus\ndans ce set.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: Sélectionnez un allié.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: Sélectionnez une équipe.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: Sélectionnez un set d'aptitudes.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: Les sceaux sacrés déjà assignés\nà d'autres alliés seront retirés.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: Le même sceau sacré apparaît\nplusieurs fois dans ce set. Il ne sera\nassigné qu'à un allié.
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: ◆ Modifier/assigner sets ◆\nLes sets d'aptitudes vous\npermettent de changer\nrapidement d'aptitudes et de\nsceaux sacrés.\n\nVous pouvez enregistrer cinq\nsets d'aptitudes par allié.
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: ◆ Modifier des sets d'aptitudes ◆\nSélectionnez les aptitudes et le\nsceau sacré que vous souhaitez\nenregistrer dans le set.\n\n◆ Assigner des sets d'aptitudes ◆\nCela vous permet d'assigner en\nune fois les aptitudes et le sceau\nsacré que vous avez choisis.
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: ◆ Nom du set ◆\nVous pouvez modifier le nom des\nsets d'aptitudes que vous\nenregistrez. Ce nom sera le même\npour tous les personnages.
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: ◆ Assigner des sets d'aptitudes ◆\nVous pouvez assigner des sets\ndéjà créés à un ou plusieurs alliés\ndans le menu Modifier/Assigner\nsets.
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: ◆ Sélection par allié ◆\nSélectionnez des alliés un par un\npour leur assigner des sets\nd'aptitudes séparément.
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: ◆ Sélection par équipe ◆\nVous pouvez sélectionner des\néquipes ou des brigades et\nassigner des sets à tous leurs\nmembres en une seule fois.\n\nLes brigades n'incluant aucun\nallié de votre armée ne seront\npas affichées.
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: ◆ Sceaux sacrés ◆\nSi, en utilisant un set d'aptitudes,\nvous tentez d'assigner le même\nsceau sacré à plusieurs alliés,\ncelui qui est le premier dans\nl'ordre de tri sera prioritaire.

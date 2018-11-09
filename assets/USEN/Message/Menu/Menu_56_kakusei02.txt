@@ -1,0 +1,58 @@
+[Heroes Archive] (Menu_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION_PORTRAIT: Forging Bonds
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_OPENING: $a$a0 - Opening
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_C: $a$a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_B: $a$a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_ALL_A: $a$a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_C: $a$a1: $a0 - C
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_B: $a$a1: $a0 - B
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_A: $a$a1: $a0 - A
+MID_EVENT_RECOLLECTION_PORTRAIT_TALK_S: $a$a1: $a0 - S
+MID_OCCUPATION_ENEMY_RULE_ENHANCE: Enemies powered up!
+MID_OCCUPATION_ENEMY_RULE_ATTACK_AFTER_WARP: Enemies can attack after warping.
+MID_PORTRAIT: Forging Bonds
+MID_PORTRAIT_REMAINING_DAYS: $aDays left: $a0
+MID_PORTRAIT_REMAINING_HOURS: $aHours left: $a0
+MID_PORTRAIT_REMAINING_MINUTES: $aMins. left: $a0
+MID_PORTRAIT_BONUS_TERM_REMAINING_DAYS: $aDays left: $a0
+MID_PORTRAIT_BONUS_TERM_REMAINING_HOURS: $aHours left: $a0
+MID_PORTRAIT_BONUS_TERM_REMAINING_MINUTES: $aMins. left: $a0
+MID_PORTRAIT_BONUS_TERM_INFO_DROP_POINT: : boosted chance!
+MID_PORTRAIT_BONUS_TERM_INFO_POINT: $a: $a0x friendship
+MID_PORTRAIT_EVENT_CHARACTER_INFO: Win battles and grow closer to\nthe characters in this event.
+MID_PORTRAIT_BONUS_ACCESSORY_INFO: Equip these accessories on your team to\nboost the amount your friendships grow!
+MID_PORTRAIT_EVENT_CHARACTER: Current Event Characters
+MID_PORTRAIT_REWARD: Check Rewards
+MID_PORTRAIT_CHARACTER_REWARD: $aCharacter: $a0
+MID_PORTRAIT_CHARACTER_REWARD_TALK_C: $a$a0's C Conversation
+MID_PORTRAIT_CHARACTER_REWARD_TALK_B: $a$a0's B Conversation
+MID_PORTRAIT_CHARACTER_REWARD_TALK_A: $a$a0's A Conversation
+MID_PORTRAIT_CHARACTER_REWARD_TALK_S: $a$a0's S Conversation
+MID_PORTRAIT_REWARD_POINT_SHORT: Friendship
+MID_PORTRAIT_REWARD_CHANGE_DIALOG: Character Rewards
+MID_PORTRAIT_ENTER_STAGE_SELECT: Select Stage
+MID_PORTRAIT_STAGE_LEVEL0: Beginner
+MID_PORTRAIT_STAGE_LEVEL1: Intermediate
+MID_PORTRAIT_STAGE_LEVEL2: Advanced
+MID_PORTRAIT_STAGE_SELECT_POINT_WIN: Reward for Victory
+MID_PORTRAIT_STAGE_SELECT_DIALOG: You cannot choose the character you\ngrow closer to or the amount your\nfriendship grows. Equipping bonus\naccessories on the allies on your\nbattle team will speed things up!
+MID_PORTRAIT_DIALOG_GET_POINT_NAME: Friendship
+MID_PORTRAIT_DIALOG_GET_POINT_DIGIT: $a +$a0!
+MID_PORTRAIT_TITLE_201807: Defending Ylisse
+MID_PORTRAIT_TERM_EXPIRED: The current season has ended.
+MID_PORTRAIT_CLOSED: Battles are now closed.
+MID_PORTRAIT_GAINED_REWARDTYPE_POINT: $aReward for achieving a total score of $a0\nwith $a1:
+MID_PORTRAIT_DIALOG_END_OF_TERM: Because the battle lasted past the\nend of the season, the results were\nnot counted.
+MID_PORTRAIT_HELP_DIALOG_00: Grow closer to Heroes!
+MID_PORTRAIT_HELP_DIALOG_01: Forging Bonds:\nClear the maps and Heroes will\nshare their feelings.\n\nAs you continue to play, they will\nshare special messages, and you\ncan earn accessories too.
+MID_PORTRAIT_HELP_DIALOG_02: Event Recap:\nOnce you've seen a special\nconversation, it'll be added to\nEvent Recap, where you can\nview it again any time you want.
+MID_PORTRAIT_HELP_DIALOG_03: Daily Orb Reward:\nFor the first seven days, earn 2\nOrbs per day by clearing a map.
+MID_PORTRAIT_GAINED_REWARDTYPE_MISSION: Daily First Clear Reward
+MID_PORTRAIT_MAX_POINT: All Heroes have already reached\nthe maximum friendship level.
+MID_PORTRAIT_DIALOG_AFTER_ENDING: You can continue participating in this\nevent even after watching the ending.
+MID_PORTRAIT_DAILY_BONUS_INFO: For the first seven days, earn 2 Orbs\nper day by clearing a map.

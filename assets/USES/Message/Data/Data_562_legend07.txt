@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_562_legend07)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201808A_TITLE: Retos: agosto (1)
+MID_MISSION_M201808A_A1: Victoria carmesí
+MID_MISSION_H_M201808A_A1: Vence a enemigos con unidades de tipo rojo.
+MID_MISSION_M201808A_A2: Victoria aérea
+MID_MISSION_H_M201808A_A2: Vence a enemigos con unidades aéreas.
+MID_MISSION_M201808A_A3: Objetivo: azul
+MID_MISSION_H_M201808A_A3: Vence a enemigos de tipo azul.
+MID_MISSION_M201808A_A4: Poder anticaballería
+MID_MISSION_H_M201808A_A4: Vence a unidades de caballería.
+MID_MISSION_M201808A_A5: Gladiador
+MID_MISSION_H_M201808A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201808A_A6: Poderío verde
+MID_MISSION_H_M201808A_A6: Vence a enemigos de nivel 20 o superior\ncon unidades de tipo verde.
+MID_MISSION_M201808A_A7: Poderío a caballo
+MID_MISSION_H_M201808A_A7: Vence a enemigos de nivel 20 o superior\ncon unidades de caballería.
+MID_MISSION_M201808A_A8: Objetivo: nivel 20+ rojo
+MID_MISSION_H_M201808A_A8: Vence a enemigos de tipo rojo de nivel 20\no superior.
+MID_MISSION_M201808A_A9: Objetivo: nivel 20+ aéreo
+MID_MISSION_H_M201808A_A9: Vence a unidades aéreas de nivel 20 o superior.
+MID_MISSION_M201808A_A10: Gladiador veterano
+MID_MISSION_H_M201808A_A10: Vence a rivales de nivel normal o superior\nen el coliseo.
+MID_MISSION_M201808A_A11: Gloria añil
+MID_MISSION_H_M201808A_A11: Vence a enemigos de nivel 35 o superior\ncon unidades de tipo azul.
+MID_MISSION_M201808A_A12: Gloria pedestre
+MID_MISSION_H_M201808A_A12: Vence a enemigos de nivel 35 o superior\ncon unidades de infantería.
+MID_MISSION_M201808A_A13: Objetivo: nivel 35+ verde
+MID_MISSION_H_M201808A_A13: Vence a enemigos de tipo verde de nivel 35\no superior.
+MID_MISSION_M201808A_A14: Sublimación pedestre
+MID_MISSION_H_M201808A_A14: Vence a enemigos de infantería de nivel 35\no superior.
+MID_MISSION_M201808A_A15: Maestro gladiador
+MID_MISSION_H_M201808A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201808B_TITLE: Retos: agosto (2)
+MID_MISSION_M201808B_A1: T. de práctica - Estrato 1
+MID_MISSION_H_M201808B_A1: Supera el primer estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A2: T. de práctica - Estrato 2
+MID_MISSION_H_M201808B_A2: Supera el segundo estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A3: T. de práctica - Estrato 3
+MID_MISSION_H_M201808B_A3: Supera el tercer estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A4: T. de práctica - Estrato 4
+MID_MISSION_H_M201808B_A4: Supera el cuarto estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A5: T. de práctica - Estrato 5
+MID_MISSION_H_M201808B_A5: Supera el quinto estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A6: T. de práctica - Estrato 6
+MID_MISSION_H_M201808B_A6: Supera el sexto estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A7: T. de práctica - Estrato 7
+MID_MISSION_H_M201808B_A7: Supera el séptimo estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A8: T. de práctica - Estrato 8
+MID_MISSION_H_M201808B_A8: Supera el octavo estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A9: T. de práctica - Estrato 9
+MID_MISSION_H_M201808B_A9: Supera el noveno estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A10: T. de práctica - Estrato 10
+MID_MISSION_H_M201808B_A10: Supera el décimo estrato de la torre de práctica.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A11: T. de práctica - Estrato 10
+MID_MISSION_H_M201808B_A11: Supera el décimo estrato de la torre de\npráctica solo con unidades de infantería.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A12: T. de práctica - Estrato 10
+MID_MISSION_H_M201808B_A12: Supera el décimo estrato de la torre de práctica\nusando solo unidades acorazadas en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A13: T. de práctica - Estrato 10
+MID_MISSION_H_M201808B_A13: Supera el décimo estrato de la torre de práctica\nusando solo unidades de caballería en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808B_A14: T. de práctica - Estrato 10
+MID_MISSION_H_M201808B_A14: Supera el décimo estrato de la torre de práctica\nusando solo unidades aéreas en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_TITLE: Retos: agosto (3)
+MID_MISSION_M201808C_A1: Cap. 5 - Parte 1
+MID_MISSION_H_M201808C_A1: Supera la 1.ª parte del capítulo 5.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A2: Cap. 5 - Parte 2
+MID_MISSION_H_M201808C_A2: Supera la 2.ª parte del capítulo 5 con\nuna unidad de tipo rojo en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A3: Cap. 5 - Parte 3
+MID_MISSION_H_M201808C_A3: Supera la 3.ª parte del capítulo 5 con\nuna unidad de tipo azul en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A4: Cap. 5 - Parte 4
+MID_MISSION_H_M201808C_A4: Supera la 4.ª parte del capítulo 5 con\nuna unidad de tipo verde en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A5: Cap. 5 - Parte 5
+MID_MISSION_H_M201808C_A5: Supera la 5.ª parte del capítulo 5 con\nuna unidad de tipo gris en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A6: Cap. 8 - Parte 1: Difícil+
+MID_MISSION_H_M201808C_A6: Supera la 1.ª parte del capítulo 8 en\nmodo difícil o superior. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_M201808C_A7: Cap. 8 - Parte 2: Difícil+
+MID_MISSION_H_M201808C_A7: Supera la 2.ª parte del capítulo 8 en modo difícil\no superior con una unidad de tipo rojo en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A8: Cap. 8 - Parte 3: Difícil+
+MID_MISSION_H_M201808C_A8: Supera la 3.ª parte del capítulo 8 en modo difícil\no superior con una unidad de tipo azul en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A9: Cap. 8 - Parte 4: Difícil+
+MID_MISSION_H_M201808C_A9: Supera la 4.ª parte del capítulo 8 en modo difícil\no superior con una unidad de tipo verde en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A10: Cap. 8 - Parte 5: Difícil+
+MID_MISSION_H_M201808C_A10: Supera la 5.ª parte del capítulo 8 en modo difícil\no superior con una unidad de tipo gris en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A11: Cap. 11 - Parte 1: Extremo
+MID_MISSION_H_M201808C_A11: Supera la 1.ª parte del capítulo 11 en modo\nextremo. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A12: Cap. 11 - Parte 2: Extremo
+MID_MISSION_H_M201808C_A12: Supera la 2.ª parte del capítulo 11 en modo\nextremo con una unidad de tipo rojo en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A13: Cap. 11 - Parte 3: Extremo
+MID_MISSION_H_M201808C_A13: Supera la 3.ª parte del capítulo 11 en modo\nextremo con una unidad de tipo azul en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A14: Cap. 11 - Parte 4: Extremo
+MID_MISSION_H_M201808C_A14: Supera la 4.ª parte del capítulo 11 en modo\nextremo con una unidad de tipo verde en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_M201808C_A15: Cap. 11 - Parte 5: Extremo
+MID_MISSION_H_M201808C_A15: Supera la 5.ª parte del capítulo 11 en modo\nextremo con una unidad de tipo gris en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201808CHARA01_TITLE: Tres héroes
+MID_MISSION_S201808CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201808CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201808CHARA01_A2: Vencer con Nino
+MID_MISSION_H_S201808CHARA01_A2: Vence a enemigos con Nino, Sabia piadosa.
+MID_MISSION_S201808CHARA01_A3: Vencer con Robin
+MID_MISSION_H_S201808CHARA01_A3: Vence a enemigos con Robin, Sumo Libertador.
+MID_MISSION_S201808CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201808CHARA01_B1: Vence a enemigos de nivel 20 o superior\ncon Nino, Sabia piadosa.
+MID_MISSION_S201808CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201808CHARA01_B2: Vence a enemigos de nivel 20 o superior\ncon Robin, Sumo Libertador.
+MID_MISSION_S201808CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201808CHARA01_B3: Vence a enemigos de nivel 20 o superior\ncon Wrys.
+MID_MISSION_S201808CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201808CHARA01_C1: Vence a enemigos de nivel 35 o superior\ncon Nino, Sabia piadosa.
+MID_MISSION_S201808CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201808CHARA01_C2: Vence a enemigos de nivel 35 o superior\ncon Robin, Sumo Libertador.
+MID_MISSION_S201808CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201808CHARA01_C3: Vence a enemigos de nivel 35 o superior\ncon Wrys.
+MID_MISSION_S201808DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201808DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU01_A1: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201808DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU01_A2: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201808DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201808DAISEIATU01_A3: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201808DAISEIATU01_A4: T. de práctica - Estrato 2
+MID_MISSION_H_S201808DAISEIATU01_A4: Supera el segundo estrato\nde la torre de práctica.
+MID_MISSION_S201808DAISEIATU01_A5: T. de práctica - Estrato 8
+MID_MISSION_H_S201808DAISEIATU01_A5: Supera el octavo estrato de\nla torre de práctica.
+MID_MISSION_S201808DAISEIATU01_A6: Gladiador
+MID_MISSION_H_S201808DAISEIATU01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201808HERO01_TITLE: Batallas míticas
+MID_MISSION_S201808HERO01_A1: Derrotar a Takumi
+MID_MISSION_H_S201808HERO01_A1: Gana la batalla mítica contra Takumi,\nEnte vacío, con Fjorm en tu batallón.
+MID_MISSION_S201808HERO01_A2: Derrotar a Takumi: extr.
+MID_MISSION_H_S201808HERO01_A2: Gana la batalla mítica contra Takumi, Ente vacío,\nen modo extremo o superior con Takumi, Ente\nvacío, en tu batallón.
+MID_MISSION_S201808HERO01_A3: Derrotar a Takumi: 40+
+MID_MISSION_H_S201808HERO01_A3: Con Fjorm, derrota a Takumi, Ente vacío,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201808HERO01_A4: Derrotar a Takumi: Takumi
+MID_MISSION_H_S201808HERO01_A4: Con Takumi, Ente vacío, derrota a Takumi, Ente\nvacío, en su versión de nivel 40 o superior.
+MID_MISSION_S201808HERO01_A5: Derrotar a Takumi: acor.
+MID_MISSION_H_S201808HERO01_A5: Gana la batalla mítica contra Takumi, Ente vacío,\nen modo extremo o superior con un batallón\nde unidades acorazadas.
+MID_MISSION_S201808KINEN01_TITLE: Celebración de Feh
+MID_MISSION_S201808KINEN01_A1: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A1: Vence a enemigos de tipo verde\nde nivel 10 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A2: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A2: Vence a enemigos de tipo rojo\nde nivel 10 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A3: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A3: Vence a enemigos de tipo azul\nde nivel 10 o superior con unidades\nde tipo verde.
+MID_MISSION_S201808KINEN01_A4: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A4: Vence a enemigos que usen hacha\nde nivel 10 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A5: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A5: Vence a enemigos que usen espada\nde nivel 10 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A6: Objetivo: nivel 10+
+MID_MISSION_H_S201808KINEN01_A6: Vence a enemigos que usen lanza\nde nivel 10 o superior con unidades\nde tipo verde.
+MID_MISSION_S201808KINEN01_A7: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A7: Vence a enemigos de tipo verde\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A8: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A8: Vence a enemigos de tipo rojo\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A9: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A9: Vence a enemigos de tipo azul\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201808KINEN01_A10: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A10: Vence a enemigos que usen grimorio verde\nde nivel 20 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A11: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A11: Vence a enemigos que usen grimorio rojo\nde nivel 20 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A12: Objetivo: nivel 20+
+MID_MISSION_H_S201808KINEN01_A12: Vence a enemigos que usen grimorio azul\nde nivel 20 o superior con unidades\nde tipo verde.
+MID_MISSION_S201808KINEN01_A13: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A13: Vence a enemigos de tipo verde\nde nivel 35 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A14: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A14: Vence a enemigos de tipo rojo\nde nivel 35 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A15: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A15: Vence a enemigos de tipo azul\nde nivel 35 o superior con unidades\nde tipo verde.
+MID_MISSION_S201808KINEN01_A16: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A16: Vence a enemigos de tipo gris\nde nivel 35 o superior con unidades\nde tipo gris.
+MID_MISSION_S201808KINEN01_A17: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A17: Vence a dragones de tipo verde\nde nivel 35 o superior con unidades\nde tipo rojo.
+MID_MISSION_S201808KINEN01_A18: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A18: Vence a enemigos que usen bastón\nde nivel 35 o superior con unidades\nde tipo azul.
+MID_MISSION_S201808KINEN01_A19: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A19: Vence a enemigos de tipo gris que\nusen arco de nivel 35 o superior con\nunidades de tipo verde.
+MID_MISSION_S201808KINEN01_A20: Objetivo: nivel 35+
+MID_MISSION_H_S201808KINEN01_A20: Vence a enemigos de tipo gris que\nusen daga de nivel 35 o superior\ncon unidades de tipo gris.
+MPID_伝承ルキナ: Lucina
+MPID_HONOR_伝承ルキナ: Arquera gloriosa
+MPID_H_伝承ルキナ: Princesa de Ylisse e hija de Chrom que viajó\nal pasado. Vuelve a la batalla con un nuevo\natuendo y cuenta con un arma divina.\nAparece en Fire Emblem Awakening.
+MPID_VOICE_伝承ルキナ: Alexis Tipton
+MPID_ILLUST_伝承ルキナ: Yamada Kotaro (山田孝太郎)
+MPID_LEGEND_伝承ルキナ: Efecto legendario: Viento\nMejora de aliados: PV +3, Vel. +3\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de viento si se\nha otorgado la bendición de viento.
+MSID_ソグン: Thögn
+MSID_未来を映す瞳: Visión futura
+MSID_遠距離警戒1: Guardia lejana 1
+MSID_遠距離警戒2: Guardia lejana 2
+MSID_遠距離警戒3: Guardia lejana 3
+MSID_H_ソグン: Eficaz contra unidades aéreas. Otorga Vel. +3.\nSi la unidad inicia el ataque y el rival usa\nespada, lanza, hacha o piedra dragón,\notorga Atq., Vel., Def. y Res. +4 durante el\nenfrentamiento.
+MSID_H_未来を映す瞳: La unidad y un aliado adyacente intercambian\nposiciones. Otorga una acción extra a la unidad.\n(Solo otorga una acción extra por turno).
+MSID_H_遠距離警戒1: Los aliados en un radio de dos casillas obtienen:\n"Si el rival usa arco, daga, grimorio o bastón,\nla unidad obtiene Def. y Res. +2 durante el\nenfrentamiento".
+MSID_H_遠距離警戒2: Los aliados en un radio de dos casillas obtienen:\n"Si el rival usa arco, daga, grimorio o bastón,\nla unidad obtiene Def. y Res. +3 durante el\nenfrentamiento".
+MSID_H_遠距離警戒3: Los aliados en un radio de dos casillas obtienen:\n"Si el rival usa arco, daga, grimorio o bastón,\nla unidad obtiene Def. y Res. +4 durante el\nenfrentamiento".
+MID_STAGE_HONOR_L0005: Arquera gloriosa
+MID_STAGE_L0005: Lucina
+MID_STAGE_HONOR_V0261: Diariamente
+MID_STAGE_V0261: Parte 1
+MID_STAGE_HONOR_V0262: Diariamente
+MID_STAGE_V0262: Parte 2
+MID_STAGE_HONOR_V0263: Diariamente
+MID_STAGE_V0263: Parte 3
+MID_STAGE_HONOR_V0264: Diariamente
+MID_STAGE_V0264: Parte 4
+MID_STAGE_HONOR_V0265: Diariamente
+MID_STAGE_V0265: Parte 5
+MID_STAGE_HONOR_V0266: Diariamente
+MID_STAGE_V0266: Parte 6
+MID_STAGE_HONOR_V0267: Diariamente
+MID_STAGE_V0267: Parte 7
+MID_STAGE_HONOR_V0268: Diariamente
+MID_STAGE_V0268: Parte 8
+MID_STAGE_HONOR_V0269: Diariamente
+MID_STAGE_V0269: Parte 9
+MID_STAGE_HONOR_V0270: Diariamente
+MID_STAGE_V0270: Parte 10
+MID_STAGE_TITLE_PB021: Habilidades 21
+MID_STAGE_PB021: Visión futura
+MID_STAGE_TITLE_PB022: Habilidades 22
+MID_STAGE_PB022: Ojo con Golpe salvaje
+MID_STAGE_TITLE_PC010: Maestría 10
+MID_STAGE_PC010: ¿Quién rompe el muro?

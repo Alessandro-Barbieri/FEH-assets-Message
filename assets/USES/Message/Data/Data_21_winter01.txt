@@ -122,12 +122,12 @@ MSID_H_攻撃速さの大覚醒3: Otorga Atq. y Vel. +7 durante un ataque\nsi la
 MSID_H_攻撃守備の大覚醒1: Otorga Atq. y Def. +3 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
 MSID_H_攻撃守備の大覚醒2: Otorga Atq. y Def. +5 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
 MSID_H_攻撃守備の大覚醒3: Otorga Atq. y Def. +7 durante un ataque\nsi la unidad tiene el 80 % de PV o menos\nal inicio del ataque.
-MSID_H_攻撃隊形1: Ataque doble garantizado si la unidad\ntiene el 100 % de PV e inicia el ataque.\n-1 a la cuenta regresiva por cada\nataque de la unidad. (No acumulable).
-MSID_H_攻撃隊形2: Ataque doble garantizado si la unidad\ntiene el 50 % de PV o más e inicia el\nataque. -1 a la cuenta regresiva por cada\nataque de la unidad. (No acumulable).
-MSID_H_攻撃隊形3: Ataque doble garantizado si la unidad inicia\nel ataque. -1 a la cuenta regresiva por cada\nataque de la unidad. (No acumulable).
-MSID_H_迎撃隊形1: Ataque doble garantizado si la unidad\ntiene el 90 % de PV o más y el enemigo\ninicia el ataque. -1 a la cuenta regresiva por\ncada ataque de la unidad. (No acumulable).
-MSID_H_迎撃隊形2: Ataque doble garantizado si la unidad\ntiene el 70 % de PV o más y el enemigo\ninicia el ataque. -1 a la cuenta regresiva por\ncada ataque de la unidad. (No acumulable).
-MSID_H_迎撃隊形3: Ataque doble garantizado si la unidad\ntiene el 50 % de PV o más y el enemigo\ninicia el ataque. -1 a la cuenta regresiva por\ncada ataque de la unidad. (No acumulable).
+MSID_H_攻撃隊形1: Si la unidad inicia el ataque y tiene PV = 100 %,\nejecuta un ataque doble garantizado y obtiene\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (No acumulable).
+MSID_H_攻撃隊形2: Si la unidad inicia el ataque y tiene PV ≥ 50 %,\nejecuta un ataque doble garantizado y obtiene\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (No acumulable).
+MSID_H_攻撃隊形3: Si la unidad inicia el ataque, ejecuta un ataque\ndoble garantizado y obtiene -1 a la cuenta\nregresiva por cada ataque de la unidad.\n(No acumulable).
+MSID_H_迎撃隊形1: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 90 %, esta ejecuta un ataque doble\ngarantizado y obtiene -1 a la cuenta regresiva\npor cada ataque de la unidad. (No acumulable).
+MSID_H_迎撃隊形2: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 70 %, esta ejecuta un ataque doble\ngarantizado y obtiene -1 a la cuenta regresiva\npor cada ataque de la unidad. (No acumulable).
+MSID_H_迎撃隊形3: Si el rival inicia el ataque y la unidad tiene\nPV ≥ 50 %, esta ejecuta un ataque doble\ngarantizado y obtiene -1 a la cuenta regresiva\npor cada ataque de la unidad. (No acumulable).
 MSID_H_赤魔の技量1: Mientras la unidad viva y use un grimorio rojo,\nrecibe PH x 1.5. (Solo se aplica el valor más\nalto. No acumulable).
 MSID_H_赤魔の技量2: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben PH x 1.5. (Solo se\naplica el valor más alto. No acumulable).
 MSID_H_赤魔の技量3: Mientras la unidad viva, quienes usen un grimorio\nrojo en el batallón reciben PH x 2. (Solo se\naplica el valor más alto. No acumulable).

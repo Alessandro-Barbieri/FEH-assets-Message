@@ -429,7 +429,7 @@ MSID_H_強化無効R騎馬: Neutralizes cavalry foes’ bonuses (from skills\nli
 MSID_H_レーヴァテイン: Grants Atk+3. Adds total bonuses on unit\nto damage dealt.
 MSID_H_レイプト: Unit can counterattack regardless of foe's range.
 MSID_H_シンモラ: Grants Def+3. At start of turn, deals\n20 damage to foes within 2 spaces.
-MSID_H_セック: Calculates damage from staff like other\nweapons. At start of turn, if foe's HP ≤ unit's\nHP+3 and foe is in cardinal direction and\nuses bow, dagger, magic, or staff, foe\ncannot move more than 1 space through its\naction.
+MSID_H_セック: Calculates damage from staff like other\nweapons. At start of turn, if foe's HP ≤ unit's\nHP-3 and foe is in cardinal direction and\nuses bow, dagger, magic, or staff, foe\ncannot move more than 1 space through its\naction.
 MSID_H_氷の聖鏡: If foe's Range = 2, reduces damage from\nfoe's attacks by 30%. Boosts unit's next\nattack by total damage reduced (by any\nsource, including other skills) when Special\ntriggers. Resets at end of combat. (Skill\ncannot be inherited.)
 MSID_H_攻撃守備の絆1: If unit is adjacent to an ally, grants Atk/Def+3\nduring combat.
 MSID_H_攻撃守備の絆2: If unit is adjacent to an ally, grants Atk/Def+4\nduring combat.

@@ -1,0 +1,9 @@
+[Heroes Archive] (X0212)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_MAP_FES_02
+MID_SCENARIO_MAP_BEGIN: $WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|海ってひろい！\nみんなでいっぱいあそべるの、\nうれしい！$k$p$WmMPID_水着タクミ,ch05_09_Takumi_M_Swim18,Face|そうだね。青い海ときれいな空…\n契約なんてものから解放されて、\n早く泳ぎに行きたいよ。$k$p
+MID_SCENARIO_MAP_END: $SbpBGM_EVENT_PLAIN_03,0|$WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|みんなのとこに戻らなきゃ…\nあれ…？\nでも、どっち…？$k$p$WmMPID_水着タクミ,ch05_09_Takumi_M_Swim18,Face|仕方ないね…\nほら、こっちだよ。$k$p$WmMPID_水着チキ,ch01_10_Tiki_F_Swim18,Face|ありがとう！$k$p$Sbs150|

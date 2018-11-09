@@ -1,0 +1,226 @@
+[Heroes Archive] (Data_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MDAID_白夜王妃の頭飾り: Hoshidan Headpiece
+MDAID_H_白夜王妃の頭飾り: This headwear is the exclusive hair\nornament of the queen of Hoshido.
+MDAID_迷い子の帽子: Lost Child's Hat
+MDAID_H_迷い子の帽子: The hat worn by young Azura.
+MID_MISSION_S201811ARENA01_TITLE: Arena
+MID_MISSION_S201811ARENA01_A1: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A1: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A2: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A2: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A3: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A3: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A4: Arena Assault: 3 in a Row
+MID_MISSION_H_S201811ARENA01_A4: Win three consecutive battles\nin Arena Assault.
+MID_MISSION_S201811ARENA01_A5: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A5: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A6: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A7: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A7: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A8: Arena Assault: 5 in a Row
+MID_MISSION_H_S201811ARENA01_A8: Win five consecutive battles\nin Arena Assault.
+MID_MISSION_S201811ARENA01_A9: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A10: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A11: Win Arena Duels
+MID_MISSION_H_S201811ARENA01_A11: Win Arena Duels at any difficulty.
+MID_MISSION_S201811ARENA01_A12: Arena Assault: 7 in a Row
+MID_MISSION_H_S201811ARENA01_A12: Win seven consecutive battles\nin Arena Assault.
+MID_MISSION_S201811HERO01_TITLE: Grand Hero Battles
+MID_MISSION_S201811HERO01_A1: Defeat Julius
+MID_MISSION_H_S201811HERO01_A1: Clear the Grand Hero Battle against Julius:\nScion of Darkness with Sharena: Princess of\nAskr on your team.
+MID_MISSION_S201811HERO01_A2: Defeat Julius
+MID_MISSION_H_S201811HERO01_A2: Clear the Grand Hero Battle against Julius:\nScion of Darkness with Julius: Scion of\nDarkness on your team on Lunatic or higher\ndifficulty.
+MID_MISSION_S201811HERO01_A3: Defeat Julius
+MID_MISSION_H_S201811HERO01_A3: Defeat Julius: Scion of Darkness at level 40 or\nhigher with Sharena: Princess of Askr.
+MID_MISSION_S201811HERO01_A4: Defeat Julius
+MID_MISSION_H_S201811HERO01_A4: Defeat Julius: Scion of Darkness at level 40 or\nhigher with Julius: Scion of Darkness.
+MID_MISSION_S201811HERO01_A5: Defeat Julius
+MID_MISSION_H_S201811HERO01_A5: Clear the Grand Hero Battle against Julius:\nScion of Darkness on Lunatic or higher\ndifficulty using only flying allies.
+MID_MISSION_S201811SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201811SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201811SENKA01_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201811SENKA01_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201811SENKA01_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201811SENKA01_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201811SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201811SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201811SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201811SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201811SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201811SKY01_TITLE: Aether Raids
+MID_MISSION_S201811SKY01_A1: KO Foe w/Sword
+MID_MISSION_H_S201811SKY01_A1: Defeat a foe with a sword ally.
+MID_MISSION_S201811SKY01_A2: KO Foe w/Lance
+MID_MISSION_H_S201811SKY01_A2: Defeat a foe with a lance ally.
+MID_MISSION_S201811SKY01_A3: KO Foe w/Axe
+MID_MISSION_H_S201811SKY01_A3: Defeat a foe with an axe ally.
+MID_MISSION_S201811SKY01_A4: KO Foe w/Colorless Bow
+MID_MISSION_H_S201811SKY01_A4: Defeat a foe with a colorless bow ally.
+MID_MISSION_S201811SKY01_A5: KO Foe w/Colorless Dagger
+MID_MISSION_H_S201811SKY01_A5: Defeat a foe with a colorless dagger ally.
+MID_MISSION_S201811SKY01_A6: KO Foe w/Red Tome
+MID_MISSION_H_S201811SKY01_A6: Defeat a foe with a red tome ally.
+MID_MISSION_S201811SKY01_A7: KO Foe w/Blue Tome
+MID_MISSION_H_S201811SKY01_A7: Defeat a foe with a blue tome ally.
+MID_MISSION_S201811SKY01_A8: KO Foe w/Green Tome
+MID_MISSION_H_S201811SKY01_A8: Defeat a foe with a green tome ally.
+MID_MISSION_S201811SKY01_A9: KO Foe w/Staff
+MID_MISSION_H_S201811SKY01_A9: Defeat a foe with a staff ally.
+MID_MISSION_S201811SKY01_A10: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A10: Successfully attack in Aether Raids.
+MID_MISSION_S201811SKY01_A11: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A11: Successfully attack in Aether Raids.
+MID_MISSION_S201811SKY01_A12: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A12: Successfully attack in Aether Raids.
+MID_MISSION_S201811SKY01_A13: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A13: Successfully attack in Aether Raids.
+MID_MISSION_S201811SKY01_A14: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A14: Successfully attack in Aether Raids.
+MID_MISSION_S201811SKY01_A15: AR: Attack Successfully
+MID_MISSION_H_S201811SKY01_A15: Successfully attack in Aether Raids.
+MID_MISSION_S201811STORY01_TITLE: Adrift
+MID_MISSION_S201811STORY01_A1: Clear P27-1 on Lunatic
+MID_MISSION_H_S201811STORY01_A1: Clear Paralogue 27: Part 1 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201811STORY01_A2: Clear P27-2 on Lunatic
+MID_MISSION_H_S201811STORY01_A2: Clear Paralogue 27: Part 2 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201811STORY01_A3: Clear P27-3 on Lunatic
+MID_MISSION_H_S201811STORY01_A3: Clear Paralogue 27: Part 3 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201811TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201811TAPBTL01_D01_A1: Defeat Lucina
+MID_MISSION_H_S201811TAPBTL01_D01_A1: Defeat the boss Lucina on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201811TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201811TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201811TAPBTL01_D02_A1: Defeat Lucina
+MID_MISSION_H_S201811TAPBTL01_D02_A1: Defeat the boss Lucina on Floors 16-20 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201811TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201811TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201811TAPBTL01_D03_A1: Defeat Owain
+MID_MISSION_H_S201811TAPBTL01_D03_A1: Defeat the boss Owain on Floors 36-40 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201811TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201811TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201811TAPBTL01_D04_A1: Defeat Owain
+MID_MISSION_H_S201811TAPBTL01_D04_A1: Defeat the boss Owain on Floors 36-40 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201811TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201811TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201811TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201811TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201811TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201811TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201811TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201811TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201811TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201811TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201811TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201811TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MPID_夢カミラ: Camilla
+MPID_HONOR_夢カミラ: Flower of Fantasy
+MPID_H_夢カミラ: The eldest princess of another Nohr. A demure\nand caring older sister to young Azura. Appears\nin Fire Emblem Fates.
+MPID_VOICE_夢カミラ: Misty Lee
+MPID_ILLUST_夢カミラ: Mikuro (みく郎)
+MPID_夢カムイ男: Corrin
+MPID_HONOR_夢カムイ男: Dream Prince
+MPID_H_夢カムイ男: A Hoshidan prince raised in another Nohr. He\nunderstands young Azura's feelings very well.\nThey are the best of friends. Appears in Fire\nEmblem Fates.
+MPID_VOICE_夢カムイ男: Cam Clarke
+MPID_ILLUST_夢カムイ男: Maiponpon (まいぽんぽん) / INTELLIGENT SYSTEMS
+MPID_夢カムイ女: Corrin
+MPID_HONOR_夢カムイ女: Dream Princess
+MPID_H_夢カムイ女: A Hoshidan princess raised in another Nohr. She\nunderstands young Azura's feelings very well.\nThey are the best of friends. Appears in Fire\nEmblem Fates.
+MPID_VOICE_夢カムイ女: Marcella Lentz-Pope
+MPID_ILLUST_夢カムイ女: Sencha (煎茶)
+MPID_幼少アクア: Azura
+MPID_HONOR_幼少アクア: Young Songstress
+MPID_H_幼少アクア: The daughter of Arete, queen of Nohr. She is\ntreated badly by the denizens of the castle, and\nher heart is touched by darkness. Appears in\nFire Emblem Fates.
+MPID_VOICE_幼少アクア: Rena Strober
+MPID_ILLUST_幼少アクア: kaya8
+MPID_夢ミコト: Mikoto
+MPID_HONOR_夢ミコト: Caring Mother
+MPID_H_夢ミコト: The extremely affectionate queen of another\nHoshido. She is a nurturing adoptive mother to\nAzura. Appears in Fire Emblem Fates.
+MPID_VOICE_夢ミコト: Marisha Ray
+MPID_ILLUST_夢ミコト: Ito Misei (伊藤未生)
+MSID_黄金の短剣: Golden Dagger
+MSID_シャニーの誓槍: Shanna's Lance
+MSID_フロリーナの誓槍: Florina's Lance
+MSID_バアトルの豪斧: Axe of Virility
+MSID_第16迷宮の覇者1: Squad Ace P 1
+MSID_第16迷宮の覇者2: Squad Ace P 2
+MSID_第16迷宮の覇者3: Squad Ace P 3
+MSID_夢幻の書: Book of Dreams
+MSID_泡影の書: Book of Shadows
+MSID_フラッシュ: Flash
+MSID_フラッシュ＋: Flash+
+MSID_水の飛沫: Draconic Rage
+MSID_攻撃速さの応援＋: Rally Atk/Spd+
+MSID_静水の舞い2: Torrent Dance 2
+MSID_静水の舞い3: Torrent Dance 3
+MSID_攻撃魔防の連携1: Atk/Res Link 1
+MSID_攻撃魔防の連携2: Atk/Res Link 2
+MSID_攻撃魔防の連携3: Atk/Res Link 3
+MSID_見切り・追撃効果1: Null Follow-Up 1
+MSID_見切り・追撃効果2: Null Follow-Up 2
+MSID_見切り・追撃効果3: Null Follow-Up 3
+MSID_H_黄金の短剣: Accelerates Special trigger (cooldown count-1).
+MSID_H_シャニーの誓槍: Accelerates Special trigger (cooldown count-1).
+MSID_H_フロリーナの誓槍: Effective against armored foes.
+MSID_H_バアトルの豪斧: Effective against armored foes.
+MSID_H_特殊射程R奥義待機: At start of combat, if Special is ready, grants\nAtk/Spd/Def/Res+3 during combat and unit can\ncounterattack regardless of foe's range.
+MSID_H_近距離構えR4: If foe initiates combat and uses sword, lance,\naxe, or dragonstone, grants Atk/Spd/Def/Res+4\nduring combat.
+MSID_H_第16迷宮の覇者1: Grants HP+3.
+MSID_H_第16迷宮の覇者2: Grants HP+4.
+MSID_H_第16迷宮の覇者3: Grants HP+5.
+MSID_H_夢幻の書: Grants Atk+3. If unit is adjacent to an ally,\ninflicts Atk/Spd/Def/Res-4 on foe during\ncombat.
+MSID_H_泡影の書: Grants Spd+3. If unit is adjacent to an ally,\ninflicts Atk/Spd/Def/Res-4 on foe during\ncombat.
+MSID_H_フラッシュ: After combat, if unit attacked, inflicts status\non foe preventing counterattacks through its\nnext action.
+MSID_H_フラッシュ＋: After combat, if unit attacked, inflicts status\non target and foes within 2 spaces of target\npreventing counterattacks through their\nnext actions.
+MSID_H_水の飛沫: Accelerates Special trigger (cooldown count-1).\nIf the number of allies within 2 spaces\n(excluding unit) > the number of foes within 2\nspaces (excluding target), grants Atk/Spd+5\nduring combat. If foe's Range = 2, calculates\ndamage using the lower of foe's Def or Res.
+MSID_H_攻撃速さの応援＋: Grants Atk/Spd+6 to target ally for 1 turn.
+MSID_H_静水の舞い2: If Sing or Dance is used, grants Res+4 to target.
+MSID_H_静水の舞い3: If Sing or Dance is used, grants Res+5 to target.
+MSID_H_攻撃魔防の連携1: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Res+2 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃魔防の連携2: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Res+4 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃魔防の連携3: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Res+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_見切り・追撃効果1: At start of combat, if unit's HP = 100%,\ndisables foe's skills that guarantee foe's\nfollow-up attack and foe's skills that prevent\nunit's follow-up attack.
+MSID_H_見切り・追撃効果2: At start of combat, if unit's HP ≥ 50%,\ndisables foe's skills that guarantee foe's\nfollow-up attack and foe's skills that prevent\nunit's follow-up attack.
+MSID_H_見切り・追撃効果3: Disables foe's skills that guarantee foe's\nfollow-up attack and foe's skills that prevent\nunit's follow-up attack.
+MID_CHAPTER_TITLE_CX026: Paralogue 27
+MID_CHAPTER_CX026: Adrift
+MID_STAGE_TITLE_X0261: Paralogue 27-1
+MID_STAGE_TITLE_X0262: Paralogue 27-2
+MID_STAGE_TITLE_X0263: Paralogue 27-3
+MID_STAGE_X0261: Friends
+MID_STAGE_X0262: Family
+MID_STAGE_X0263: A Dream
+MID_STAGE_HONOR_T0043: Bound Hero Battle
+MID_STAGE_T0043: C & K
+MID_STAGE_TITLE_SB_0016: 16th Assault
+MID_STAGE_TITLE_BG_FIRE_0013: Fire 3
+MID_STAGE_TITLE_BG_WATER_0014: Water 4
+MID_STAGE_TITLE_BG_WIND_0014: Wind 4
+MID_STAGE_TITLE_BG_EARTH_0014: Earth 4
+MID_STAGE_TITLE_BG_FIRE_0014: Fire 4
+MID_STAGE_TITLE_PB034: Skill Studies 34
+MID_STAGE_PB034: Overprotective Corrin

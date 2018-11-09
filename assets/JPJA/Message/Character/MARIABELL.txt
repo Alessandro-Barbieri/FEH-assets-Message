@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIABELL)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIABELL_HOME1: シャロンさんってとても気さくですのね。\n今度お茶会にお誘いしたいですわ…\n当然、リズと貴方も一緒ですわよ。
+MID_MARIABELL_HOME2: 国では自警団に所属していましたわ。\n名門貴族の人間であれば当然、\n領民の平和のために尽くすべきですもの。
+MID_MARIABELL_HOME3: いつもお忙しそうですけれど、\n見回りならわたくしにも任せてくださいな。\n曲者は杖でボッコボコにしておきますわよ。
+MID_MARIABELL_HOME4: へい、兄弟！　調子はどうだい？\n…あら、なんですのその顔は。\nこれはわたくしの国の庶民の挨拶ですのよ。
+MID_MARIABELL_HOME5: 少しお勉強をしていましたわ。\n貴族の嗜み…と言いたいところですが、\nわたくしの夢は法務官になることですから。
+MID_MARIABELL_FRIEND: $Nfさんからの\nご挨拶を届けに参りましたの。\nありがたく受け取りやがれですわ。
+MID_MARIABELL_LEVEL1: わたくしに近づくと\nケガしますわよ？
+MID_MARIABELL_LEVEL2: まあ、このくらいは\n朝飯前ですの。
+MID_MARIABELL_LEVEL3: どうしてもっと\n上がりませんの…？
+MID_MARIABELL_SKILL: これまで以上に活躍してみせますわ。\n期待していてくださいまし。
+MID_MARIABELL_JOIN: わたくしはマリアベル。\nクロム自警団の一員ですのよ。\nお望みなら手を貸して差し上げますわ。
+MID_MARIABELL_STRONGEST: なんですの、その腑抜けた姿勢は。\n貴方は異界の大英雄という身分なのですから\nもっとこうシャキッとした方が良いですわよ。$k$p首はこう、胸はもっと張って…\nああもう、そうじゃねーですわ！\nもっと頭頂から吊られているような感じで…$k$pそう！　やればできるじゃありませんの。\n貴方は元が良いんですから、\nそうしているだけで随分マシに見えますわよ。$k$pわたくしは貴族ですから、品のない者に\n付き従いたくはないのですけれど…\n今の貴方にならそうしても良いですわ。$k$pさ、では茶でもしばいて一息入れますわよ。\nわたくしの紅茶は絶品ですの。\n特別に、マナーは不問といたしますわ。
+MID_MARIABELL_VOICE01: はいっ！
+MID_MARIABELL_VOICE02: それっ！
+MID_MARIABELL_VOICE03: きゃあ！
+MID_MARIABELL_VOICE04: なんと野蛮な…！
+MID_MARIABELL_VOICE05: 上等ですわ！
+MID_MARIABELL_VOICE06: ボッコボコにしますわ！
+MID_MARIABELL_VOICE07: 命はねえですわよ！？
+MID_MARIABELL_VOICE08: ブチ切れましたの！
+MID_MARIABELL_VOICE09: なんてこと…
+MID_MARIABELL_VOICE10: うふふ
+MID_MARIABELL_VOICE11: お気をつけあそばせ
+MID_MARIABELL_VOICE12: がんばってくださいませ
+MID_MARIABELL_VOICE13: リズはいませんの？　わたくしの大親友ですのよ
+MID_MARIABELL_VOICE14: ！？　いきなり触れるだなんて…これがこの世界の挨拶ですの？
+MID_MARIABELL_VOICE15: あなたの召喚の力は認めていますわ、大したものですわね
+MID_MARIABELL_VOICE16: なんだか、お茶会を開きたい気分ですわ…
+MID_MARIABELL_VOICE17: あなた、立ち居振る舞いを磨く気はありませんこと？\n宜しければわたくしが教育して差し上げますわよ
+MID_MARIABELL_VOICE18: ええ
+MID_MARIABELL_VOICE19: 参りますわよ
+MID_MARIABELL_VOICE20: やってやりますわ

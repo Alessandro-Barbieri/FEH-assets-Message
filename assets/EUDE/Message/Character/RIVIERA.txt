@@ -1,0 +1,38 @@
+[Heroes Archive] (RIVIERA)
+
+
+Heroes Message Name: Message
+
+
+MID_RIVIERA_HOME1: Gibt es hier in der Nähe eine Kirche?\nIch würde gern ein Gebet zum Gott\nvon Askr sprechen, wenn ich darf.$k$pIch würde dafür beten, dass alle\nhier in Sicherheit bleiben.
+MID_RIVIERA_HOME2: Als Priester in Ylisse griff ich für\nden Schutz Ihrer Gnaden, der\nErhabenen, zur Axt.$k$pAnschließend trat ich in die Armee\nvon Prinz Chrom ein.
+MID_RIVIERA_HOME3: Die Gabe, Helden aus zahllosen\nReichen zu beschwören, ist mit\nder Macht der Götter vergleichbar.$k$pBitte verwendet diese Macht, um\nuns zu führen und zu beschützen.
+MID_RIVIERA_HOME4: Sagtet Ihr "Priesterin"? Oh große\nGötter... Selbst $Gder Beschwörer,die Beschwörerin|\nhält mich für eine Frau!
+MID_RIVIERA_HOME5: Soeben wurde ich dazu inspiriert,\neine Landschaft zu zeichnen... Sie hat\netwas Schönes, ja Heiliges an sich...$k$pEs erschien mir einfach angebracht,\nsie auf die Leinwand zu bannen.
+MID_RIVIERA_FRIEND: Ich bringe Euch frohe Kunde von\n$Nf. Mögen die\nGötter Euch stets beschützen.
+MID_RIVIERA_LEVEL1: Ich fühle mich geläutert. Vielleicht\nwurden meine Gebete erhört.
+MID_RIVIERA_LEVEL2: Habt vielmals Dank, oh große Götter!
+MID_RIVIERA_LEVEL3: Oh große Götter, wieso müsst Ihr\nmir diese Prüfung auferlegen...
+MID_RIVIERA_SKILL: Ich bin von warmem, reinem Licht\nerfüllt - dank der Götter und Euch.
+MID_RIVIERA_JOIN: Ich bin Libra, ein Priester aus dem\nKönigshaus von Ylisse. Die Götter\nführten mich an diesen Ort.$k$pMöge Nagas Segen uns allen\nzuteilwerden.
+MID_RIVIERA_STRONGEST: Huch, Ihr habt mich also entdeckt.\nIch war gerade dabei, ein Porträt\nvon Euch anzufertigen.$k$pIch tue das nicht oft, aber ich fand\nes sehr inspirierend, Euch zu\nbeobachten...$k$pIhr seid eine faszinierende Person.\nWie Ihr Euch bewegt, wie Ihr Helden\nbeschwört, Eure Art zu reden...$k$pBevor ich mich versah, hatte ich\nschon den Pinsel in der Hand.$k$pVielleicht fühle ich mich zu Euch\nhingezogen, weil Ihr es wart,\n$Gder,die| mich herbeigerufen hat.$k$pIch bevorzuge jedoch die Vorstellung,\ndass meine Zuneigung etwas\npersönlicherer Natur ist.$k$pIch bin dankbar, dass ich heute die\nGelegenheit hatte, Euch Einblick in\nmeine Gefühlswelt zu gewähren.$k$pWürde es Euch etwas ausmachen,\nwenn ich weiterzeichne?$k$pIch hätte Euch gern ganz für mich\nallein, wenn auch nur für kurze Zeit.
+MID_RIVIERA_VOICE01: はいっ！
+MID_RIVIERA_VOICE02: せやっ！
+MID_RIVIERA_VOICE03: うあっ！
+MID_RIVIERA_VOICE04: そんな…！
+MID_RIVIERA_VOICE05: Ihr Götter, vergebt mir!
+MID_RIVIERA_VOICE06: Bereut Eure Sünden!
+MID_RIVIERA_VOICE07: Sprecht Eure Gebete!
+MID_RIVIERA_VOICE08: Für Naga!
+MID_RIVIERA_VOICE09: I can see the light...
+MID_RIVIERA_VOICE10: Yes
+MID_RIVIERA_VOICE11: You continue to fare well. I am glad of this.
+MID_RIVIERA_VOICE12: My appearance may not suggest it, but I'm quite capable of manual labor.
+MID_RIVIERA_VOICE13: Do my prayers to Naga reach her, even from this world?
+MID_RIVIERA_VOICE14: You wish to speak to me? Perhaps you wish to make confession.
+MID_RIVIERA_VOICE15: On my journey to the priesthood, I faced many hardships.
+MID_RIVIERA_VOICE16: A priest who takes a life...is indeed quite a sinner.
+MID_RIVIERA_VOICE17: Praying for safety on the battlefield is nothing more than a wish that another may be sacrificed. Even so...
+MID_RIVIERA_VOICE18: It will be so.
+MID_RIVIERA_VOICE19: Gods bless us.
+MID_RIVIERA_VOICE20: Guide us.

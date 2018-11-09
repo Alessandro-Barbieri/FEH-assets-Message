@@ -1,0 +1,38 @@
+[Heroes Archive] (KAGEROU_HALLOWEEN02)
+
+
+Heroes Message Name: Message
+
+
+MID_KAGEROU_HALLOWEEN02_HOME1: Hexen, schaurige Kürbisse und\nGeister... Ist das Erntefest eine\nVersammlung bösartiger Wesen?
+MID_KAGEROU_HALLOWEEN02_HOME2: Zu den hoshidischen Köstlichkeiten\nzählen süße Knödel und Reiskekse.$k$pAber natürlich gibt es auch in Nohr\nwohlschmeckende Leckereien...
+MID_KAGEROU_HALLOWEEN02_HOME3: Ein Ninja muss in Menschenmengen\nuntertauchen können. Dieses Kostüm\nist perfekt dafür geeignet.$k$pGenießt Eure Zeit auf dem Fest. Ich\nwerde im Schatten verborgen bleiben\nund alles im Auge behalten.
+MID_KAGEROU_HALLOWEEN02_HOME4: Ein wahrer Ninja kann anderen völlig\nunentdeckt Streiche spielen. Soll ich\nEuch die Grundlagen beibringen?
+MID_KAGEROU_HALLOWEEN02_HOME5: Dies ist ein traditionelles nohrisches\nGewand für Bedienstete.$k$pWie Ninjas sind auch Bedienstete\nihrem Herrn treu ergeben.
+MID_KAGEROU_HALLOWEEN02_FRIEND: Ich überbringe schöne Grüße\nvon $Nf.$k$pDieses Getränk wird Euren Durst\nstillen.
+MID_KAGEROU_HALLOWEEN02_LEVEL1: Wünscht Ihr Süßes oder Saures?\nEs ist allein Eure Entscheidung.
+MID_KAGEROU_HALLOWEEN02_LEVEL2: Das Fest ist... amüsant. Ich werde\nversuchen, es zu genießen.
+MID_KAGEROU_HALLOWEEN02_LEVEL3: Wie leichtfertig... Vielleicht lenkt\nmich das Fest zu sehr ab.
+MID_KAGEROU_HALLOWEEN02_SKILL: Ich danke Euch von Herzen. Die Ernte\nscheint gut gewesen zu sein.
+MID_KAGEROU_HALLOWEEN02_JOIN: Kagero, Ninja aus Hoshido, legt einen\nÜberraschungsauftritt hin. Süßes\noder Saures? Wählt Euer Schicksal.
+MID_KAGEROU_HALLOWEEN02_STRONGEST: Als Ninja ist es meine Pflicht, jede\nmir aufgetragene Mission schnell\nund lautlos zu erledigen.$k$pWelches Schicksal mich nach\nAbschluss einer Mission erwartet,\nspielt keine Rolle.$k$pDie Teilnahme am Erntefest ist auch\neine Art Mission, ich darf mich also\nnicht von Emotionen leiten lassen.$k$pWenn ich jedoch in die freundlich\nlächelnden Gesichter der anderen\nFestbesucher blicke...$k$pDann regt sich etwas in mir.$k$pIch denke, um wirklich teilzunehmen,\nmuss ich zulassen, dass ich das\nFest genieße.$k$pIch sollte mich also im Sinne der\nMission umgehend amüsieren.$k$pNun, sagt mir: Süßes oder Saures?\nIch, Kagero, Ninja aus Hoshido,\nwerde Euren Wunsch erfüllen!
+MID_KAGEROU_HALLOWEEN02_VOICE01: えいっ！
+MID_KAGEROU_HALLOWEEN02_VOICE02: やっ！
+MID_KAGEROU_HALLOWEEN02_VOICE03: うああっ！
+MID_KAGEROU_HALLOWEEN02_VOICE04: 破廉恥な…！
+MID_KAGEROU_HALLOWEEN02_VOICE05: Süßes oder Saures?
+MID_KAGEROU_HALLOWEEN02_VOICE06: Ich nehme Eure Süßigkeiten.
+MID_KAGEROU_HALLOWEEN02_VOICE07: Zeit für Saures.
+MID_KAGEROU_HALLOWEEN02_VOICE08: Herbstliche Verschleierung.
+MID_KAGEROU_HALLOWEEN02_VOICE09: It's...the clothes...
+MID_KAGEROU_HALLOWEEN02_VOICE10: *grumble/unhappy noise*
+MID_KAGEROU_HALLOWEEN02_VOICE11: Do you find this outfit odd? I'm not surprised.
+MID_KAGEROU_HALLOWEEN02_VOICE12: Do not do that. I am no spirit.
+MID_KAGEROU_HALLOWEEN02_VOICE13: This is Nohrian garb? How shameless...
+MID_KAGEROU_HALLOWEEN02_VOICE14: Why must I suffer this humiliation?
+MID_KAGEROU_HALLOWEEN02_VOICE15: Those who do not give treats must suffer a trick. That is the rule.
+MID_KAGEROU_HALLOWEEN02_VOICE16: A ninja must be ready to take on anything...
+MID_KAGEROU_HALLOWEEN02_VOICE17: Rest here a moment. I'll prepare a tea that goes nicely with sweets.
+MID_KAGEROU_HALLOWEEN02_VOICE18: I will obey.
+MID_KAGEROU_HALLOWEEN02_VOICE19: Mysterious...
+MID_KAGEROU_HALLOWEEN02_VOICE20: I'll do as I must.

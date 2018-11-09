@@ -241,7 +241,7 @@ MSID_H_ファルシオン覚醒改: Effective against dragon foes. At the start 
 MSID_H_ファルシオン外伝改: Effective against dragon foes. At the start of\nevery second turn, restores 10 HP.
 MSID_H_エッケザックス改: At start of turn, inflicts Def-6 on foes\n(excluding dragons) within 2 spaces through\ntheir next actions.
 MSID_H_先導R歩行飛行: Infantry and flying allies within 2 spaces can\nmove to a space adjacent to unit.
-MSID_H_TP変動R魔: If foe uses magic, grants Special cooldown\ncharge +1. (Only highest value applied. Does\nnot stack.)
+MSID_H_TP変動R魔: If foe uses magic, grants Special cooldown\ncharge +1 per attack. (Only highest value\napplied. Does not stack.)
 MSID_H_大紋章R全2: Grants Atk/Spd/Def/Res+2 to allies within 2\nspaces during combat.
 MSID_H_絆R全4: If unit is adjacent to an ally, grants\nAtk/Spd/Def/Res+4 during combat.
 MSID_H_連撃消耗: If unit's HP = 100% at start of combat and\nunit initiates combat, unit attacks twice, but\ndeals 5 damage to unit after combat.

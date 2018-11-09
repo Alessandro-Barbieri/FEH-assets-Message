@@ -1,0 +1,38 @@
+[Heroes Archive] (MICAIAH_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_MICAIAH_BON01_HOME1: 我感受到許多人的喜悅、\n笑容和活力……\n這就是夏祭呀……
+MID_MICAIAH_BON01_HOME2: 只有在祭典期間，\n人們才能忘記苦痛與悲傷，\n彼此一起同樂……
+MID_MICAIAH_BON01_HOME3: 這就是異國的服裝啊……\n因為是第一次穿……有點不知所措。\n……這樣會不會很奇怪？
+MID_MICAIAH_BON01_HOME4: 我以前曾在鎮上當過占卜師，\n不介意的話，\n我可以幫你占卜看看喔？
+MID_MICAIAH_BON01_HOME5: 白夜王國的舞蹈……真是不可思議呢。\n感覺如果是薩札的話，\n一定能跳得比我更好。
+MID_MICAIAH_BON01_FRIEND: $Nf他們\n好像要去夏祭唷。\n不介意的話，要不要一起去呢？
+MID_MICAIAH_BON01_LEVEL1: 我感覺到大家的心彷彿合為一體。
+MID_MICAIAH_BON01_LEVEL2: 我好像變得比較會跳舞了。
+MID_MICAIAH_BON01_LEVEL3: 怎麼會……\n難道我的內心還有迷惘？
+MID_MICAIAH_BON01_SKILL: 謝謝你。\n要是能用我的舞蹈來答謝你就好了……
+MID_MICAIAH_BON01_JOIN: 我是「曉團」的米卡雅，\n謝謝你邀請我來參加夏祭。\n我有一種接下來會很開心的預感。
+MID_MICAIAH_BON01_STRONGEST: 和大家一起歡笑、跳舞、\n唱歌的這段時間……\n是能在心中永續閃耀的……希望燈火。$k$p我非常明白……\n這份光輝一定可以點亮大家的未來。$k$p戰爭的日子讓人們的心疲憊不已，\n日漸累積的滿腹鬱悶可能引發大災難……$k$p但我想今天的笑容與快樂心情永遠不會褪色，\n並會成為驅除黑暗的希望之光。$k$p我想將這份夏日光輝珍藏在心中，\n和重要的人一起邁向未來……
+MID_MICAIAH_BON01_VOICE01: 看招！
+MID_MICAIAH_BON01_VOICE02: 呀！
+MID_MICAIAH_BON01_VOICE03: 咦！？
+MID_MICAIAH_BON01_VOICE04: 不行！
+MID_MICAIAH_BON01_VOICE05: 跳舞吧！
+MID_MICAIAH_BON01_VOICE06: 為了友好！
+MID_MICAIAH_BON01_VOICE07: 這是夏日的祭祀儀式呢！
+MID_MICAIAH_BON01_VOICE08: 無論是什麼樣的舞蹈！
+MID_MICAIAH_BON01_VOICE09: 踊り…疲れたのかしら…
+MID_MICAIAH_BON01_VOICE10: ええと…
+MID_MICAIAH_BON01_VOICE11: 白夜の舞いね
+MID_MICAIAH_BON01_VOICE12: 負けないで
+MID_MICAIAH_BON01_VOICE13: きゃっ！？　もう、ユンヌ、おとなしくして…
+MID_MICAIAH_BON01_VOICE14: 異国の衣装は、私たちとはずいぶん違うのね。でも、嫌いじゃない…
+MID_MICAIAH_BON01_VOICE15: え？　似合ってる？　…ありがとう。
+MID_MICAIAH_BON01_VOICE16: 白夜王国の夏祭り…きっと、神聖なまつりごとなのね。
+MID_MICAIAH_BON01_VOICE17: 私の踊りが見たいの？　そんなに言うなら、少しだけ…
+MID_MICAIAH_BON01_VOICE18: わかったわ
+MID_MICAIAH_BON01_VOICE19: 夏が来たのね…
+MID_MICAIAH_BON01_VOICE20: 踊ってみるわ

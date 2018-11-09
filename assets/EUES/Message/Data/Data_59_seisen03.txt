@@ -1,0 +1,178 @@
+[Heroes Archive] (Data_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_桃色のアヒル: Patito amelocotonado
+MDAID_H_桃色のアヒル: Patito de juguete que flota. Es muy\nrelajante ver cómo se mece sobre\nel agua.
+MDAID_夏うさぎの帽子: Gorro de conejo estival
+MDAID_H_夏うさぎの帽子: Un gorro que llevó alguien seducido\npor el cielo azul del verano. La cara\ndel conejo tiene mucha personalidad.
+MID_MISSION_S201809KIZUNA01_TITLE: Batalla de vínculos
+MID_MISSION_S201809KIZUNA01_A1: Superar batalla
+MID_MISSION_H_S201809KIZUNA01_A1: Gana la batalla de vínculos contra Chrom y\nLissa con Sharena, Princesa de Askr,\nen tu batallón.
+MID_MISSION_S201809KIZUNA01_A2: Superar batalla
+MID_MISSION_H_S201809KIZUNA01_A2: Gana la batalla de vínculos contra Chrom\ny Lissa en modo extremo o superior\ncon Fjorm en tu batallón.
+MID_MISSION_S201809KIZUNA01_A3: Derrotar a Chrom
+MID_MISSION_H_S201809KIZUNA01_A3: Con Sharena, Princesa de Askr, derrota\na Chrom, Nuevo Venerable, en su versión\nde nivel 40 o superior.
+MID_MISSION_S201809KIZUNA01_A4: Derrotar a Lissa
+MID_MISSION_H_S201809KIZUNA01_A4: Con Fjorm, derrota a Lissa, Sacerdotisa vivaz,\nen su versión de nivel 40 o superior.
+MID_MISSION_S201809KIZUNA01_A5: Superar batalla
+MID_MISSION_H_S201809KIZUNA01_A5: Gana la batalla de vínculos contra Chrom\ny Lissa en modo extremo o superior\ncon un batallón de unidades aéreas.
+MID_MISSION_S201809SENKA01_DAILY_TITLE: La Tormenta
+MID_MISSION_S201809SENKA01_DAILY_A1: Superar mapa
+MID_MISSION_H_S201809SENKA01_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA01_DAILY_A2: Superar mapa
+MID_MISSION_H_S201809SENKA01_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA01_DAILY_A3: Superar mapa
+MID_MISSION_H_S201809SENKA01_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809SENKA01_DAILY_A4: Superar mapa
+MID_MISSION_H_S201809SENKA01_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201809STORY01_TITLE: Ponzoña arraigada
+MID_MISSION_S201809STORY01_A1: Cap. 12 - Parte 1 / Extr.
+MID_MISSION_H_S201809STORY01_A1: Supera la 1.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY01_A2: Cap. 12 - Parte 2 / Extr.
+MID_MISSION_H_S201809STORY01_A2: Supera la 2.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY01_A3: Cap. 12 - Parte 3 / Extr.
+MID_MISSION_H_S201809STORY01_A3: Supera la 3.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY01_A4: Cap. 12 - Parte 4 / Extr.
+MID_MISSION_H_S201809STORY01_A4: Supera la 4.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809STORY01_A5: Cap. 12 - Parte 5 / Extr.
+MID_MISSION_H_S201809STORY01_A5: Supera la 5.ª parte del capítulo 12 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201809TAPBTL01_D01_TITLE: B. de toques - Día 1
+MID_MISSION_S201809TAPBTL01_D01_A1: Derrotar a Legault
+MID_MISSION_H_S201809TAPBTL01_D01_A1: Derrota al jefe Legault en las plantas 16-20\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D01_A2: Superar plantas 21-25
+MID_MISSION_H_S201809TAPBTL01_D01_A2: Supera las plantas 21-25 en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D01_A3: Superar nivel
+MID_MISSION_H_S201809TAPBTL01_D01_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D02_TITLE: B. de toques - Día 2
+MID_MISSION_S201809TAPBTL01_D02_A1: Derrotar a Legault
+MID_MISSION_H_S201809TAPBTL01_D02_A1: Derrota al jefe Legault en las plantas 16-20\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D02_A2: Superar plantas 41-45
+MID_MISSION_H_S201809TAPBTL01_D02_A2: Supera las plantas 41-45 en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D02_A3: Superar nivel
+MID_MISSION_H_S201809TAPBTL01_D02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D03_TITLE: B. de toques - Día 3
+MID_MISSION_S201809TAPBTL01_D03_A1: Derrotar a Linus
+MID_MISSION_H_S201809TAPBTL01_D03_A1: Derrota al jefe Linus en las plantas 36-40\nen dificultad Normal en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D03_A2: Superar plantas 61-65
+MID_MISSION_H_S201809TAPBTL01_D03_A2: Supera las plantas 61-65 en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D03_A3: Superar nivel
+MID_MISSION_H_S201809TAPBTL01_D03_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D04_TITLE: B. de toques - Día 4
+MID_MISSION_S201809TAPBTL01_D04_A1: Derrotar a Linus
+MID_MISSION_H_S201809TAPBTL01_D04_A1: Derrota al jefe Linus en las plantas 36-40\nen dificultad Difícil en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D04_A2: Superar plantas 81-85
+MID_MISSION_H_S201809TAPBTL01_D04_A2: Supera las plantas 81-85 en Batalla de toques.
+MID_MISSION_S201809TAPBTL01_D04_A3: Superar nivel
+MID_MISSION_H_S201809TAPBTL01_D04_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201809TAPBTL02_TITLE: Batalla de toques
+MID_MISSION_S201809TAPBTL02_A1: Superar nivel de jefe
+MID_MISSION_H_S201809TAPBTL02_A1: Supera un nivel de jefe en Batalla de toques.
+MID_MISSION_S201809TAPBTL02_A2: Superar nivel de jefe
+MID_MISSION_H_S201809TAPBTL02_A2: Supera un nivel de jefe en Batalla de toques.
+MID_MISSION_S201809TAPBTL02_A3: Superar nivel
+MID_MISSION_H_S201809TAPBTL02_A3: Supera un nivel en Batalla de toques.
+MID_MISSION_S201809TAPBTL02_A4: Superar nivel extra 1
+MID_MISSION_H_S201809TAPBTL02_A4: Supera el nivel extra 1 en Batalla de toques.\n(El nivel extra 1 estará disponible cuando\ndesbloquees los niveles extras.)
+MPID_キュアン: Quan
+MPID_エスリン: Ethlyn
+MPID_レヴィン: Lewyn
+MPID_シルヴィア: Silvia
+MPID_HONOR_キュアン: Lancero luminoso
+MPID_HONOR_エスリン: Princesa vivaz
+MPID_HONOR_レヴィン: Brisa guiadora
+MPID_HONOR_シルヴィア: Bailarina nómada
+MPID_H_キュアン: Príncipe de Leonster y heredero de la lanza\nGáe Bolg. Esposo de Ethlyn, la hermana menor\nde su buen amigo Sigurd. Aparece en\nFire Emblem: Genealogy of the Holy War.
+MPID_H_エスリン: Hermana menor del señor Sigurd de Chalphy.\nPosee un espíritu aventurero y está muy unida\na su familia. Tras casarse con el príncipe Quan\nde Leonster, tienen una hija y un hijo. Aparece\nen Fire Emblem: Genealogy of the Holy War.
+MPID_H_レヴィン: Príncipe de Silesse. Descendiente de Ced, uno\nde los doce cruzados legendarios, y heredero\nde Forseti, el grimorio de viento. Aparece en\nFire Emblem: Genealogy of the Holy War.
+MPID_H_シルヴィア: Una bailarina que se dedica a viajar\npor el mundo. Su aspecto es dulce, pero\nsu personalidad no tanto. Es descendiente\ndel sumo sacerdote Bragi. Aparece en\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_キュアン: Chris Hackney
+MPID_VOICE_エスリン: Allegra Clark
+MPID_VOICE_レヴィン: Steve Staley
+MPID_VOICE_シルヴィア: Laura Post
+MPID_ILLUST_キュアン: Aoji (あおじ)
+MPID_ILLUST_エスリン: kaya8
+MPID_ILLUST_レヴィン: Suda Ayaka (須田彩加)
+MPID_ILLUST_シルヴィア: Chiko (チーコ)
+MSID_セルジュの恐斧: Hacha Zelcher
+MSID_オーディンの黒書: Grimorio Odín
+MSID_第14迷宮の覇者1: As del asalto N 1
+MSID_第14迷宮の覇者2: As del asalto N 2
+MSID_第14迷宮の覇者3: As del asalto N 3
+MSID_バリアの剣: Hoja defensiva
+MSID_バリアの剣＋: Hoja defensiva +
+MSID_ゲイボルグ: Gáe Bolg
+MSID_フォルセティ: Forseti
+MSID_速さ守備の応援＋: Potenc. Vel/Def +
+MSID_飛燕金剛の構え1: Pose firme 1
+MSID_飛燕金剛の構え2: Pose firme 2
+MSID_奥義の螺旋1: Espiral especial 1
+MSID_奥義の螺旋2: Espiral especial 2
+MSID_奥義の螺旋3: Espiral especial 3
+MSID_疾風静水の舞い1: Ciclón bailarín 1
+MSID_疾風静水の舞い2: Ciclón bailarín 2
+MSID_H_セルジュの恐斧: Inflige Vel - 5. Si la unidad inicia\nel ataque, ataca dos veces\nde manera consecutiva.
+MSID_H_オーディンの黒書: Convierte la cantidad total de bonificaciones\nde la unidad en daño adicional.
+MSID_H_ライナロック改: Otorga Ata y Vel + 5 en combate.\nTras un ataque, si la unidad actúa,\nsufre 5 de daño.
+MSID_H_攻撃速さの連携R6: Otorga Ata y Vel + 6 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_第14迷宮の覇者1: Otorga Vel + 1.
+MSID_H_第14迷宮の覇者2: Otorga Vel + 2.
+MSID_H_第14迷宮の覇者3: Otorga Vel + 3.
+MSID_H_バリアの剣: Si el rival inicia el ataque, la unidad\nobtiene Res + 7 durante el enfrentamiento.
+MSID_H_バリアの剣＋: Si el rival inicia el ataque, la unidad\nobtiene Res + 7 durante el enfrentamiento.
+MSID_H_ゲイボルグ: Si el enemigo es una unidad de infantería,\nacorazada o de caballería, la unidad obtiene\nAta y Def + 5 en combate.
+MSID_H_フォルセティ: Otorga Vel + 3. Si la unidad inicia el ataque\ncon PV ≥ 50 %, atacará dos veces\nde manera inmediata si es posible.
+MSID_H_速さ守備の応援＋: Otorga Vel y Def + 6 a un aliado adyacente\nhasta el final del turno.
+MSID_H_飛燕金剛の構え1: Si el rival inicia el ataque, la unidad obtiene\nVel y Def + 2 durante el enfrentamiento.
+MSID_H_飛燕金剛の構え2: Si el rival inicia el ataque, la unidad obtiene\nVel y Def + 4 durante el enfrentamiento.
+MSID_H_奥義の螺旋1: Si la unidad inicia el ataque y su habilidad\nespecial se activa antes o durante\nla lucha, - 1 a la cuenta atrás\ndespués del enfrentamiento.
+MSID_H_奥義の螺旋2: Si se activa la habilidad especial antes\no durante el ataque, - 1 a la cuenta\natrás después del enfrentamiento.
+MSID_H_奥義の螺旋3: Si se activa la habilidad especial antes\no durante el ataque, - 2 a la cuenta\natrás después del enfrentamiento.
+MSID_H_疾風静水の舞い1: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Vel + 2 y Res + 3.
+MSID_H_疾風静水の舞い2: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Vel + 3 y Res + 4.
+MID_CHAPTER_TITLE_C0212: Libro II - Cap. 12
+MID_CHAPTER_C0212: Ponzoña arraigada
+MID_STAGE_TITLE_S2121: Cap. 12 - Parte 1
+MID_STAGE_TITLE_S2122: Cap. 12 - Parte 2
+MID_STAGE_TITLE_S2123: Cap. 12 - Parte 3
+MID_STAGE_TITLE_S2124: Cap. 12 - Parte 4
+MID_STAGE_TITLE_S2125: Cap. 12 - Parte 5
+MID_STAGE_S2121: Sospechas
+MID_STAGE_S2122: El vástago de una cruzada
+MID_STAGE_S2123: Una bestia al acecho
+MID_STAGE_S2124: Siguiendo la brisa
+MID_STAGE_S2125: La traición
+MID_STAGE_TITLE_BG_EARTH_0011: Tierra 1
+MID_STAGE_TITLE_BG_FIRE_0011: Fuego 1
+MID_STAGE_TITLE_BG_WATER_0012: Agua 2
+MID_STAGE_TITLE_BG_WIND_0012: Viento 2
+MID_STAGE_TITLE_BG_EARTH_0012: Tierra 2
+MID_STAGE_TITLE_SB_0014: 14.º asalto
+MID_CHAPTER_ST_C0206: Capítulos 11 y 12
+MID_STAGE_TITLE_ST_S0211: Capítulo 11
+MID_STAGE_TITLE_ST_S0212: Capítulo 12
+MID_STAGE_TITLE_ST_S1212: Capítulos 11 y 12
+MID_STAGE_TITLE_PB027: Habilidades 27
+MID_STAGE_PB027: El ataque doble de Forseti
+MID_STAGE_TITLE_PC013: Maestría 13
+MID_STAGE_PC013: Valor y prudencia
+MID_STAGE_HONOR_OCCUPATION: Evento
+MID_STAGE_OCCUPATION: Dominios rivales
+MID_STAGE_HONOR_OCCUPATION_DEFENSE: Evento
+MID_STAGE_OCCUPATION_DEFENSE: Def. por relevos
+MID_STAGE_TITLE_OCCUPATION_DEFENSE0: Mapa 1
+MID_STAGE_TITLE_OCCUPATION_DEFENSE1: Mapa 2
+MID_STAGE_TITLE_OCCUPATION_DEFENSE2: Mapa 3
+MID_STAGE_TITLE_OCCUPATION_DEFENSE3: Mapa 4
+MID_STAGE_TITLE_OCCUPATION_DEFENSE4: Mapa 5
+MID_STAGE_TITLE_OCCUPATION_DEFENSE5: Mapa 6
+MID_STAGE_TITLE_OCCUPATION_DEFENSE6: Mapa 7
+MID_STAGE_TITLE_OCCUPATION_DEFENSE7: Mapa 8
+MID_HEADQUARTERS_RELAY_TUTORIAL_DIALOG_00: Protege tu fuerte y campamentos.
+MID_WARPBASE_RELAY_TUTORIAL_DIALOG_00: Teletranspórtate entre tus bases.
+MID_TAP_BATTLE_DATA_TITLE_0008: Despedidas
+MID_MUSIC_NAME_BGM_MAP_FE07_03: Amistad y aventura
+MID_MUSIC_NAME_BGM_MAP_FE15_03: El fin de la senda
+MID_MUSIC_NAME_BGM_BATTLE_FE13_01: Entrenamiento\n(Versión de combate)

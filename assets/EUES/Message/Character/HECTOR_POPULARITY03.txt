@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_POPULARITY03_HOME1: Uther... Ojalá hubiese estado\na tu lado para ayudarte, hermano...
+MID_HECTOR_POPULARITY03_HOME2: Esta es Maltet, la lanza de hielo.\nEs una de las armas legendarias\nde Elibe, igual que Armads.$k$pSin embargo, blandir una lanza\nes muy distinto a empuñar un hacha...
+MID_HECTOR_POPULARITY03_HOME3: No te acerques mucho. Un mal gesto\ny esta pesada coraza te aplastaría.\n¡Ja, ja, ja! ¡Es broma!$k$pPero mejor ten cuidado cuando estés\ncerca de mí.
+MID_HECTOR_POPULARITY03_HOME4: Es imprescindible entrenar a diario\npara estar ágil incluso llevando\nuna armadura pesada como esta.$k$p¿Quieres practicar conmigo?\nCuando te acostumbras\na la armadura, es muy divertido.
+MID_HECTOR_POPULARITY03_HOME5: Oye, ¿por qué me miras así?\nAh, ¿esto? Es un libro.$k$p¿Qué? ¡Pero bueno! ¡Claro que leo!\nUn noble tiene que ser cultivado.
+MID_HECTOR_POPULARITY03_FRIEND: Soy Hector, marqués de Ositia.\nTe traigo un mensaje\nde $Nf.
+MID_HECTOR_POPULARITY03_LEVEL1: ¡Ja! No perdería ni aunque\nlo intentase.
+MID_HECTOR_POPULARITY03_LEVEL2: Creo que me estoy acostumbrando\na esta lanza.
+MID_HECTOR_POPULARITY03_LEVEL3: Uf... Esta armadura pesa un montón...
+MID_HECTOR_POPULARITY03_SKILL: ¡Gracias! Te devolveré el favor en el\ncampo de batalla, como siempre.
+MID_HECTOR_POPULARITY03_JOIN: Soy Hector, marqués de Ositia.\nMe preguntaba por qué me habían\ninvocado, pero...$k$pSi quieres deshacerte de algún\nenemigo, tengo la lanza perfecta\npara ello.
+MID_HECTOR_POPULARITY03_STRONGEST: Oye, una pregunta... ¿Qué cualidades\ncrees que debería poseer un rey?$k$pHe estado pensando en ello desde\nque subí al trono, pero, aparte de\nvalentía, no se me ocurre nada más...$k$p¿Que la gente le respete? Mmm...\nSi el pueblo no te apoya,\nno puedes gobernar.$k$pSí, lo que dices tiene sentido.$k$pPero el respeto no es algo\nque se vea a simple vista.$k$p¿Eh? ¿Que no es necesario verlo para\ncreerlo? Tú y tus sabias reflexiones...$k$pBueno, si eso lo que se espera de mí,\ntendré que lograrlo.$k$pPor los que han depositado su fe\nen mí... y por mi hermano.
+MID_HECTOR_POPULARITY03_VOICE01: せいっ！
+MID_HECTOR_POPULARITY03_VOICE02: いくぜっ！
+MID_HECTOR_POPULARITY03_VOICE03: うああっ！
+MID_HECTOR_POPULARITY03_VOICE04: まだまだ…！
+MID_HECTOR_POPULARITY03_VOICE05: ¡Prepárate para morir!
+MID_HECTOR_POPULARITY03_VOICE06: ¡Aparta de mi camino!
+MID_HECTOR_POPULARITY03_VOICE07: ¡Se te ha acabado la suerte!
+MID_HECTOR_POPULARITY03_VOICE08: ¡Perfora el cielo, Maltet!
+MID_HECTOR_POPULARITY03_VOICE09: Uther... I...
+MID_HECTOR_POPULARITY03_VOICE10: うーむ
+MID_HECTOR_POPULARITY03_VOICE11: This here is heavy armor from House Ostia. And let me tell you, they don't call it "heavy" for nothing!
+MID_HECTOR_POPULARITY03_VOICE12: Who was that? This bulky armor makes it so hard to move. Normally I'm lighter on my feet, I swear!
+MID_HECTOR_POPULARITY03_VOICE13: Get this. "For generations, Corrupt neither the body nor the mind has been the dominant ideology of Ostia."
+MID_HECTOR_POPULARITY03_VOICE14: My brother Uther was the Marquess of Ostia. He was a great man... Someone you could truly respect.
+MID_HECTOR_POPULARITY03_VOICE15: My dream was to one day grow wiser so I could sit at my brother's side and aid him.
+MID_HECTOR_POPULARITY03_VOICE16: I never asked it of him, but... Even on the verge of death, he watched over me.
+MID_HECTOR_POPULARITY03_VOICE17: You're not dying while I'm around. Not a chance.
+MID_HECTOR_POPULARITY03_VOICE18: Right.
+MID_HECTOR_POPULARITY03_VOICE19: I'm up next!
+MID_HECTOR_POPULARITY03_VOICE20: One step at a time.

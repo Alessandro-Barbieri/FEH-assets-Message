@@ -1,0 +1,180 @@
+[Heroes Archive] (Data_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201807A_TITLE: Juli-Quests (1)
+MID_MISSION_M201807A_A1: Grün besiegt Gegner
+MID_MISSION_H_M201807A_A1: Lass einen grünen Verbündeten\nGegner besiegen.
+MID_MISSION_M201807A_A2: Reiter besiegt Gegner
+MID_MISSION_H_M201807A_A2: Lass einen berittenen Verbündeten\nGegner besiegen.
+MID_MISSION_M201807A_A3: Rot besiegen
+MID_MISSION_H_M201807A_A3: Besiege rote Gegner.
+MID_MISSION_M201807A_A4: Infanterie besiegen
+MID_MISSION_H_M201807A_A4: Besiege Infanterieeinheiten.
+MID_MISSION_M201807A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201807A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201807A_A6: Blau besiegt Lv. 20+
+MID_MISSION_H_M201807A_A6: Lass blaue Verbündete\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_M201807A_A7: Inf. besiegt Lv. 20+
+MID_MISSION_H_M201807A_A7: Lass Infanterieeinheiten\nGegner besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_M201807A_A8: Besiege Grün Lv. 20+
+MID_MISSION_H_M201807A_A8: Besiege grüne Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201807A_A9: Besiege Reiter Lv. 20+
+MID_MISSION_H_M201807A_A9: Besiege berittene Gegner,\ndie Level 20 oder höher sind.
+MID_MISSION_M201807A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201807A_A10: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_M201807A_A11: Rot besiegt Lv. 35+
+MID_MISSION_H_M201807A_A11: Lass grüne Verbündete\nGegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_M201807A_A12: Flieger besiegt Lv. 35+
+MID_MISSION_H_M201807A_A12: Lass fliegende Verbündete\nGegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_M201807A_A13: Besiege Blau Lv. 35+
+MID_MISSION_H_M201807A_A13: Besiege blaue Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201807A_A14: Besiege Flieger Lv. 35+
+MID_MISSION_H_M201807A_A14: Besiege Flugeinheiten, die\nLevel 35 oder höher sind.
+MID_MISSION_M201807A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201807A_A15: Gewinne Arenaduelle auf dem\nSchwierigkeitsgrad "Für Kenner".
+MID_MISSION_M201807B_TITLE: Juli-Quests (2)
+MID_MISSION_M201807B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201807B_A1: Bewältige die erste Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201807B_A2: Bewältige die zweite Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201807B_A3: Bewältige die dritte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201807B_A4: Bewältige die vierte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201807B_A5: Bewältige die fünfte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201807B_A6: Bewältige die sechste Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201807B_A7: Bewältige die siebte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201807B_A8: Bewältige die achte Stufe\ndes Übungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201807B_A9: Bewältige die neunte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201807B_A10: Bewältige die zehnte Stufe des\nÜbungsturms. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201807B_A11: Bewältige die zehnte Stufe des Übungs-\nturms nur mit Infanterieeinheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201807B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201807B_A12: Bewältige die zehnte Stufe des Übungs-\nturms nur mit gepanzerten Einheiten.\nAlle vier Verbündeten müssen überleben.
+MID_MISSION_M201807B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201807B_A13: Bewältige die zehnte Stufe des Übungs-\nturms nur mit berittenen Einheiten. Alle\nvier Verbündeten müssen überleben.
+MID_MISSION_M201807B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201807B_A14: Bewältige die zehnte Stufe des\nÜbungsturms nur mit Flugeinheiten.\nAlle vier Verbündeten müssen überleben.
+MID_MISSION_M201807C_TITLE: Juli-Quests (3)
+MID_MISSION_M201807C_A1: Kap. 4 Tl. 1
+MID_MISSION_H_M201807C_A1: Bewältige Kapitel 4 - Teil 1.\nAlle vier Verbündeten\nmüssen überleben.
+MID_MISSION_M201807C_A2: Kap. 4 Tl. 2
+MID_MISSION_H_M201807C_A2: Bewältige Kap. 4 - Teil 2 mit einem\nroten Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A3: Kap. 4 Tl. 3
+MID_MISSION_H_M201807C_A3: Bewältige Kap. 4 - Teil 3 mit einem\nblauen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A4: Kap. 4 Tl. 4
+MID_MISSION_H_M201807C_A4: Bewältige Kap. 4 - Teil 4 mit einem\ngrünen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A5: Kap. 4 Tl. 5
+MID_MISSION_H_M201807C_A5: Bewältige Kap. 4 - Teil 5 mit einem\nfarblosen Verbündeten. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A6: Kap. 7 Tl. 1 - Schwer+
+MID_MISSION_H_M201807C_A6: Bewältige Kap. 7 - Teil 1 im Modus\nSchwer oder höher. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A7: Kap. 7 Tl. 2 - Schwer+
+MID_MISSION_H_M201807C_A7: Bewältige Kap. 7 - Teil 2 im Modus Schwer\noder höher mit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A8: Kap. 7 Tl. 3 - Schwer+
+MID_MISSION_H_M201807C_A8: Bewältige Kap. 7 - Teil 3 im Modus Schwer\noder höher mit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A9: Kap. 7 Tl. 4 - Schwer+
+MID_MISSION_H_M201807C_A9: Bewältige Kap. 7 - Teil 4 im Modus Schwer\noder höher mit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A10: Kap. 7 Tl. 5 - Schwer+
+MID_MISSION_H_M201807C_A10: Bewältige Kap. 7 - Teil 5 im Modus Schwer\noder höher mit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A11: Kap. 10 Tl. 1 - Extrem
+MID_MISSION_H_M201807C_A11: Bewältige Kapitel 10 - Teil 1 im\nModus Extrem. Alle vier\nVerbündeten müssen überleben.
+MID_MISSION_M201807C_A12: Kap. 10 Tl. 2 - Extrem
+MID_MISSION_H_M201807C_A12: Bewältige Kap. 10 - Teil 2 im Modus\nExtrem mit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A13: Kap. 10 Tl. 3 - Extrem
+MID_MISSION_H_M201807C_A13: Bewältige Kap. 10 - Teil 3 im Modus\nExtrem mit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A14: Kap. 10 Tl. 4 - Extrem
+MID_MISSION_H_M201807C_A14: Bewältige Kap. 10 - Teil 4 im Modus\nExtrem mit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201807C_A15: Kap. 10 Tl. 5 - Extrem
+MID_MISSION_H_M201807C_A15: Bewältige Kap. 10 - Teil 5 im Modus\nExtrem mit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201806HERO02_TITLE: Große Heldenkämpfe
+MID_MISSION_S201806HERO02_A1: Lyon besiegen
+MID_MISSION_H_S201806HERO02_A1: Gewinne den Großen Heldenkampf\ngegen Lyon, den Schattenprinzen mit\nSharena, Prinzessin von Askr im Team.
+MID_MISSION_S201806HERO02_A2: Lyon besiegen
+MID_MISSION_H_S201806HERO02_A2: Gewinne den Großen Heldenkampf gegen\nLyon, den Schattenprinzen auf Extrem oder\nhöher mit Lyon, dem Schattenprinzen im Team.
+MID_MISSION_S201806HERO02_A3: Lyon besiegen
+MID_MISSION_H_S201806HERO02_A3: Besiege Lyon, den Schattenprinzen,\nder Level 40 oder höher ist,\nmit Sharena, Prinzessin von Askr.
+MID_MISSION_S201806HERO02_A4: Lyon besiegen
+MID_MISSION_H_S201806HERO02_A4: Besiege Lyon, den Schattenprinzen,\nder Level 40 oder höher ist,\nmit Lyon, dem Schattenprinzen.
+MID_MISSION_S201806HERO02_A5: Lyon besiegen
+MID_MISSION_H_S201806HERO02_A5: Gewinne den Großen Heldenkampf\ngegen Lyon, den Schattenprinzen auf\nExtrem o. höher nur mit Flugeinheiten.
+MID_MISSION_S201807BLESS01_TITLE: Feuersegen
+MID_MISSION_S201807BLESS01_A1: Sieg mit Feuersegen
+MID_MISSION_H_S201807BLESS01_A1: Besiege Gegner mit einem Helden mit\nFeuersegen. (Bezieht sich nicht auf\nLegendäre Helden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A2: Sieg mit Feuersegen
+MID_MISSION_H_S201807BLESS01_A2: Besiege Gegner, die mind. Lv. 20 sind,\nmit einem Helden mit Feuersegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A3: Sieg mit Feuersegen
+MID_MISSION_H_S201807BLESS01_A3: Besiege rote Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Feuersegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A4: Sieg mit Feuersegen
+MID_MISSION_H_S201807BLESS01_A4: Besiege blaue Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Feuersegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A5: Sieg mit Feuersegen
+MID_MISSION_H_S201807BLESS01_A5: Besiege grüne Gegner, die mind. Lv. 35\nsind, mit einem Helden mit Feuersegen.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A6: Übungsturm: 1. Stufe
+MID_MISSION_H_S201807BLESS01_A6: Schließe die erste Stufe des Übungsturms\nmit einem Helden mit Feuersegen ab.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201807BLESS01_A7: Schließe die fünfte Stufe des Übungsturms\nmit einem Helden mit Feuersegen ab.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807BLESS01_A8: Übungsturm: 10. Stufe
+MID_MISSION_H_S201807BLESS01_A8: Schließe die zehnte Stufe des Übungsturms\nmit einem Helden mit Feuersegen ab.\n(Bezieht sich nicht auf Legendäre\nHelden mit Feuerelement.)
+MID_MISSION_S201807VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201807VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201807VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A2: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201807VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A3: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201807VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A4: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201807VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A5: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201807VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201807VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201807VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201807VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201807VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201807VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201807VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201807VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201807VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201807VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201807VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201807VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201807VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201807VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201807VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201807VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201807VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201807VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A17: Gewinne Kämpfe im Wahlturnier\nmit einem roten Verbündeten in\ndeinem Team.
+MID_MISSION_S201807VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A18: Gewinne Kämpfe im Wahlturnier\nmit einem blauen Verbündeten in\ndeinem Team.
+MID_MISSION_S201807VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A19: Gewinne Kämpfe im Wahlturnier\nmit einem grünen Verbündeten in\ndeinem Team.
+MID_MISSION_S201807VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201807VOTE01_A20: Gewinne Kämpfe im Wahlturnier\nmit einem farblosen Verbündeten\nin deinem Team.
+MPID_伝承ヘクトル: Hector
+MPID_HONOR_伝承ヘクトル: Marquis v. Ositia
+MPID_H_伝承ヘクトル: Hector hat den Titel des Marquis von\nOsitia erlangt. Mit neuem Willen schwingt\ner Armads und führt das Volk an. Erscheint\nin Fire Emblem: The Blazing Blade.
+MPID_VOICE_伝承ヘクトル: Patrick Seitz
+MPID_ILLUST_伝承ヘクトル: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承ヘクトル: Legendärer Effekt: Feuer\nVerbündetenbonus: KP +3, Angr. +2\n\nGewährt Verbündeten diesen legendären\nEffekt in der Feuersaison, wenn sie mit\nFeuer gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_天雷アルマーズ: Donner-Armads
+MSID_オスティアの鼓動: Ositias Puls
+MSID_H_天雷アルマーズ: Verleiht Ver. +3. Befinden sich im Umkreis\nvon 2 Feldern mehr Verbündete als Gegner\n(außer Einheit und Ziel), kann der Gegner\nkeinen zusätzlichen Angriff durchführen.
+MSID_H_オスティアの鼓動: Erholungszeit aller Verbündeter wird zu\nBeginn des 1. Zuges um 1 beschleunigt.\nTritt nur in Kraft, wenn sich höchstens 2\nVerb. vom Bewegungstyp der jeweiligen\nEinheit im aktuellen Team befinden.
+MID_STAGE_HONOR_T0034: Treue-Heldenkampf
+MID_STAGE_T0034: M & H
+MID_STAGE_HONOR_L0004: Marquis v. Ositia
+MID_STAGE_L0004: Hector

@@ -1,0 +1,457 @@
+[Heroes Archive] (Menu_63_dream01)
+
+
+Heroes Message Name: Message
+
+
+MID_ITEM_HOLY_GRAIL: Heroic Grail
+MID_ITEM_HELP_HOLY_GRAIL: Used to summon from a selection of Heroes.\nIn the Allies menu, tap Use Heroic Grails.
+MID_ITEM_SKYCASTLE_STONE: Aether Stone
+MID_ITEM_HELP_SKYCASTLE_STONE: Used in Aether Raids to build and improve\nstructures.
+MID_ITEM_SKYCASTLE_DROP: Heavenly Dew
+MID_ITEM_HELP_SKYCASTLE_DROP: Used in Aether Raids to strengthen Fortress\n(O), Fortress (D), and resources.
+MID_ITEM_SKYCASTLE_THRONE_0: Golden Throne
+MID_ITEM_HELP_SKYCASTLE_THRONE_0: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids.
+MID_ITEM_SKYCASTLE_THRONE_1: Silver Throne
+MID_ITEM_HELP_SKYCASTLE_THRONE_1: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids.
+MID_ITEM_SKYCASTLE_THRONE_2: Bronze Throne
+MID_ITEM_HELP_SKYCASTLE_THRONE_2: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids.
+MID_OCCUPATION_GUILD_NAME: $a$a0's Army
+MID_REPLAY_FAILED_CONFIRM: Unable to replay.
+MID_MAP_REPLAY_END_ABORT_CONFIRM: $aCancel replay of\n$a0?
+MID_MAP_REPLAY_END_COMPLETE_CONFIRM: $a$a0 won.
+MID_MAP_REPLAY_END_GAMEOVER_CONFIRM: $a$a0 lost.
+MID_MAP_REPLAY_END_SURRENDER_CONFIRM: $a$a0 surrendered.
+MID_MAP_REPLAY_END_DECIDE: End Replay
+MID_SEQUENTIAL_MAP_TERM_201811: Before We Met...
+MID_SKYCASTLE_TITLE: Aether Raids
+MID_SKYCASTLE_RANK: AR Tier
+MID_SKYCASTLE_RATE: Lift
+MID_SKYCASTLE_SEASON_DAYS: $aDays left in season: $a0
+MID_SKYCASTLE_SEASON_HOURS: $aHours left in season: $a0
+MID_SKYCASTLE_SEASON_MINUTES: $aMinutes left in season: $a0
+MID_SKYCASTLE_CLOSED: Battles are now closed.
+MID_SKYCASTLE_TUTORIAL: The tutorial will not affect your Aetheric Lift.
+MID_SKYCASTLE_AGGREGATING: Calculating result.
+MID_SKYCASTLE_ENERGY: Aether
+MID_SKYCASTLE_BONUS_HEADLINE: This Season's Bonuses
+MID_SKYCASTLE_BONUS_NEXTSEASON: Next Season's Bonuses
+MID_SKYCASTLE_BONUSCHRS_CAPTION: Atk/Def boost! Earn more Lift when attacking.
+MID_SKYCASTLE_BONUSFCLS_CAPTION: Fortress (O) +1 LV. up!
+MID_SKYCASTLE_BONUSFCLS_CAPTION_2: Fortress (D) +1 LV. up!
+MID_SKYCASTLE_DAILYBONUS_CAPTION: Play once a day to earn a reward!
+MID_SKYCASTLE_BTN_EDIT: Edit Aether Keep
+MID_SKYCASTLE_BTN_ATTACK: Battle
+MID_SKYCASTLE_BTN_REWARD: Check Rewards
+MID_SKYCASTLE_BTN_HISTORY: Defense Results
+MID_SKYCASTLE_BTN_RANKING: Current Standing
+MID_SKYCASTLE_DIALOG_NEW_STOCK: New!
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION01: Structures
+MID_SKYCASTLE_DIALOG_NEW_STOCK_CAPTION02: Terrain
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE: Aether Raids Reward Tier
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK: $aAether Raids: Rank Reward - #$a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_RANK_HIGHER: Aether Raids: Rank Reward
+MID_SKYCASTLE_GAINED_REWARDTYPE_GRADE_OVER_20: $a$a0!
+MID_SKYCASTLE_GAINED_REWARDTYPE_PREFIX_FOR_UNDER_20: $aAR Tier $a0
+MID_SKYCASTLE_GAINED_REWARDTYPE_TUTORIAL: Tutorial Completion Reward
+MID_SKYCASTLE_REWARDS_GAINED_DIALOG: Aether Raids rewards for the\nprevious season can be claimed\nby entering Aether Raids after\nthe results have been calculated\nfor the previous season but\nbefore the current season ends.
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_TEXT: The season will end soon.
+MID_SKYCASTLE_DIALOG_SEASON_LAST10_WARNING: The results will not be counted if the battle\nlasts past the end of the current season.
+MID_SKYCASTLE_DIALOG_SEASON_END_TEXT: Because the battle lasted past the\nend of the season, the results were\nnot counted.
+MID_SKYCASTLE_ROOT_SEASONEND_TEXT: The season has ended. You can't\nbattle at this time.
+MID_SKYCASTLE_ROOT_SEASONEND_WARNING: You can always join the battle next season!
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT: The previous battle did\nnot end properly.
+MID_SKYCASTLE_DIALOG_TASKKILLED_TEXT_WARNING: The attack will count as a defeat.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_TEXT: You need more Aether to battle.
+MID_SKYCASTLE_DIALOG_NO_ENERGY_WARNING: $a$a0 Aether is required.
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END: A new season has begun.
+MID_SKYCASTLE_EDIT_DIALOG_SEASON_END_WARNING: Return to the Aether Raids menu.
+MID_SKYCASTLE_CLASS_0: Tropos
+MID_SKYCASTLE_CLASS_1: Stratos
+MID_SKYCASTLE_CLASS_2: Mesos
+MID_SKYCASTLE_CLASS_3: Thermos
+MID_SKYCASTLE_CLASS_4: Exos
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT: $aRedeem $a0 Aether and\nproceed?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_TEXT_DAILYBONUS: Proceed?
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING: You cannot cancel after seeing\nyour potential opponents.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_DAILYBONUS: The first time you play each day,\nthe Aether cost is 0.
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_WARNING_TUTORIAL: No Aether will be consumed for\nthe tutorial battle. Also, your EXP,\nAetheric Lift, etc. will not be\naffected.\nNote: Fortress (O) and Fortress\n(D) will be treated as if they have\nthe same level for this battle.
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_UNITEDIT: Form Raiding Party
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_YES: Proceed
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_NO: Quit
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_TEXT: No opponents found.
+MID_SKYCASTLE_DIALOG_NO_CANDIDATE_WARNING: Please wait and try again later.
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE: Opponent
+MID_SKYCASTLE_DIALOG_BATTLE_OPPONENT_HEADLINE2: Battle Info
+MID_SKYCASTLE_DIALOG_BATTLE_RANK: $aAR Tier $a0
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_CONFIRM_MAP: Check Map
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_BATTLE: Fight!
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_GIVEUP: Surrender
+MID_SKYCASTLE_DIALOG_BATTLE_CONFIRM_START: Start the battle?
+MID_SKYCASTLE_DIALOG_BATTLE_BTN_START: Fight!
+MID_SKYCASTLE_DIALOG_GIVEUP_TEXT: Give up?
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING: If you surrender now, it will count\nas a defeat.
+MID_SKYCASTLE_DIALOG_GIVEUP_WARNING_DAILY: Since the attack will count as\na defeat, you will be unable\nto obtain the daily reward.
+MID_SKYCASTLE_DIALOG_GIVEUP_YES: Give Up
+MID_SKYCASTLE_DIALOG_GIVEUP_NO: Battle
+MID_SKYCASTLE_RESULT_HEADLINE: Results for This Battle
+MID_SKYCASTLE_TOTAL_RATE_CURRENT: Lift Acquired
+MID_SKYCASTLE_TOTAL_RATE: Lift
+MID_SKYCASTLE_BATTLE_RATE: Battle Result
+MID_SKYCASTLE_BONUSCHR_RATE: Bonus Ally
+MID_SKYCASTLE_RESULT_RANK: Rank
+MID_SKYCASTLE_BTN_RESULT_CONFIRM: OK
+MID_SKYCASTLE_DIALOG_RESULT_RECOVER: $aFoe's resource destroyed!\nAether restored by $a0.
+MID_SKYCASTLE_DIALOG_RESULT_WARNING_01: Lift won't decrease below minimum.
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE: Until AR Tier increase:
+MID_SKYCASTLE_DIALOG_RESULT_RANKUP_RATE_BEYOND: $aAR Tier now $a0!
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_EDIT: More
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_FLOOR: Terrain
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_AUTO: Auto\nSetup
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ADDFACILITY: Build/\nImprove
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SELECTFACILITY: Place/\nRemove
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_ORGANIZE: Defense\nTeam
+MID_SKYCASTLE_EDIT_MENUBAR_BTN_SYSTEMMENU: Help &\nExtras
+MID_SKYCASTLE_EDIT_GRID_DEFENSE: Defense Map
+MID_SKYCASTLE_EDIT_GRID_OFFENSE: Offense Map
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_0: Drag structure here to remove it.
+MID_SKYCASTLE_EDIT_ONTOUCH_MENU_DELETE_1: This structure cannot be removed.
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_TESTPLAY: Test Defenses
+MID_SKYCASTLE_EDIT_SYSTEMMENU_BTN_HELP: Help
+MID_SKYCASTLE_EDIT_ADDFACILITY_TITLE: Build/Improve
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP: Choose a structure to build or improve.
+MID_SKYCASTLE_EDIT_ADDFACILITY_NO_TARGET: There are no structures to\nbuild or improve.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_CONFIRM: Build this structure?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_GENERATION_DECIDE: Build
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_COMPLETE_CONFIRM: The structure has been built.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR: The structure could not be built.
+MID_SKYCASTLE_EDIT_ADDFACILITY_GENERATION_ERROR_WARNING: This structure can no longer be\nbuilt.
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_CONFIRM: Improve this structure?
+MID_SKYCASTLE_EDIT_ADDFACILITY_BTN_PROMOTION_DECIDE: Improve
+MID_SKYCASTLE_EDIT_ADDFACILITY_PROMOTION_COMPLETE_CONFIRM: The structure has been improved.
+MID_SKYCASTLE_EDIT_DIALOG_ADDFACILITY_ERROR: The structure could not be placed.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_01: There is no room for this structure.
+MID_SKYCASTLE_EDIT_DIALOG_NEWFACILITY_ERROR_WARNING_02: Only one school can be placed at\na time.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_TITLE: Place/Remove
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP: Modify the placement of your structures.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_NO_TARGET: No structures are available.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_CONFIRM: Cancel without saving changes\nto your structure setup?
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_WARNING: Your changes will be lost.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_CANCEL_DECIDE: Discard Changes
+MID_SKYCASTLE_EDIT_SELECTFACILITY_WARNING_GROUP: Only one school can be placed at a time.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_BULIDED: Active
+MID_SKYCASTLE_EDIT_FACILITY_BTN_UNREMOVABLE: Can't remove
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_1: $aLV.$a0
+MID_SKYCASTLE_EDIT_FACILITY_BTN_LEVEL_2: →
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_OFF: Guide Off
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HELP_ON: Guide On
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CONFIRM: Select a filter.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_FILTER_TITLE: Filter:  
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION: $aRequired: $a0
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_PRECONDITION_LV: $a LV. $a0
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK: $aMust be AR Tier $a0 or above.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_RANK_THRONE: $aUnlocked at ranks $a0 to $a1.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_UNREMOVABLE: This structure cannot be removed.
+MID_SKYCASTLE_EDIT_FACILITY_WARNING_TUTORIAL: Unavailable in the tutorial.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_DAYS: $a$a0 days left.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_HOURS: $a$a0 hrs. left.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_MINUTES: $a$a0 mins. left.
+MID_SKYCASTLE_EDIT_FACILITY_BTN_NO_LEVEL: No LV.
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE: Maximum Lift
+MID_SKYCASTLE_EDIT_UNITEDIT_RATE_HELP: ・ This value is the maximum Lift you can earn\nby making a successful attack.\n・ A successful attack yields 80 Lift. You earn\n20 more for having a Bonus Ally in your raiding\nparty. (You will not receive more bonus Lift for\nadding more than one Bonus Ally.)
+MID_SKYCASTLE_EDIT_AUTO_TEXT: Structures and allies will be placed\nautomatically.
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD: Auto Build/Improve
+MID_SKYCASTLE_EDIT_AUTO_BTN_ADD_EX: Structures will be built/placed automatically.
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD: Placement Only
+MID_SKYCASTLE_EDIT_AUTO_BTN_NO_ADD_EX: Existing structures will be placed automatically.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_HEADLINE: Structures placed automatically.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_BTN_DECIDE: Place
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_COMPLETE: Placement completed.
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_0: Vanguard
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_1: Rear Guard
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_2: Right Side
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_3: Left Side
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_4: Infantry Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_5: Armored Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_6: Cavalry Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT_7: Flying Team
+MID_SKYCASTLE_EDIT_AUTO_DIALOG_CONCEPT: $aTheme: $a0
+MID_SKYCASTLE_EDIT_FLOOREDIT_TITLE: Terrain
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP: Choose battlefield terrain.
+MID_SKYCASTLE_EDIT_FLOOREDIT_CHANGE_CONFIRM: Change to this terrain?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_CONFIRM: $aUse $a0 Aether Stones to change\nto this terrain?
+MID_SKYCASTLE_EDIT_FLOOREDIT_BTN_DECIDE: Change
+MID_SKYCASTLE_EDIT_FLOOREDIT_COMPLETE_CONFIRM: Terrain has been changed.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR: Terrain cannot be changed.
+MID_SKYCASTLE_EDIT_FLOOREDIT_BUY_ERROR_WARNING: This terrain is no longer available.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION: Test your defenses by battling on\nyour edited map.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_CAPTION_WARNING: ・ No Aether will be consumed.\n・ Aetheric Lift will not be gained\nor lost.\n・ Fortress (O) and Fortress (D)\nare treated as if they are the\nsame level.
+MID_SKYCASTLE_EDIT_DIALOG_TESTPLAY_BTN_START: Fight!
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_DEFENSE: Defensive Structures
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_DEFENSE: Structures defensive teams use for support.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_TRAP: Traps
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_TRAP: Traps are triggered when foes end movement on one.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_RESOURCE: Resources
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_RESOURCE: Structures that store and restore Aether.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_MISC: Ornaments
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_MISC: Decorative structures with no combat function.
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_TITLE_OFFENSE: Offensive Structures
+MID_SKYCASTLE_EDIT_FACILITY_CATEGORY_HELP_OFFENSE: Structures raiding parties use for support.
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_ALL: All
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_DEFENSE: Structures (D)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_TRAP: Traps
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_RESOURCE: Resources
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_MISC: Ornaments
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_CATEGORY_OFFENSE: Structures (O)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_DEFENSE_BUILDED: Placed (D)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_OFFENSE_BUILDED: Placed (O)
+MID_SKYCASTLE_EDIT_FACILITY_FILTER_AVAILABLE: Buildable
+MID_SKYCASTLE_REWARD_TITLE: Check Rewards
+MID_SKYCASTLE_REWARD_RANK: Rank
+MID_SKYCASTLE_REWARD_TIER: AR Tier
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_TIER: Score Type: AR Tier
+MID_SKYCASTLE_REWARD_BTN_REWARDTYPE_RANK: Score Type: Rank
+MID_SKYCASTLE_REWARD_DIALOG_SELECT_FILTER: Select a filter.
+MID_SKYCASTLE_REWARD_RANK_OUT_OF_RANGE: unranked
+MID_SKYCASTLE_REWARD_RANK_CALCULATING: Calculating...
+MID_SKYCASTLE_HISTORY_TITLE: Defense Results
+MID_SKYCASTLE_HISTORY_DEF_WIN: Success!
+MID_SKYCASTLE_HISTORY_DEF_LOSE: Failure.
+MID_SKYCASTLE_HISTORY_NUM_DEFEAT: $a$a0 foes defeated!
+MID_SKYCASTLE_HISTORY_BTN_REVENGE: Rematch
+MID_SKYCASTLE_HISTORY_BTN_REVENGE_FINISHED: Rematch Over
+MID_SKYCASTLE_HISTORY_BTN_REPLAY: Replay
+MID_SKYCASTLE_HISTORY_REVENGED: Your foe won the rematch!
+MID_SKYCASTLE_HISTORY_NO_HISTORY: No records.
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_CONFIRM: Replay the battle?
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_BTN_YES: Start Replay
+MID_SKYCASTLE_HISTORY_DIALOG_REPLAY_ERROR: Replay data could not be accessed.
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_PLAY: Play
+MID_SKYCASTLE_HISTORY_MENUBAR_BTN_STOP: Pause
+MID_SKYCASTLE_HISTORY_SELECT_FILTER: Select a filter.
+MID_SKYCASTLE_HISTORY_FILTER_DEF_WIN: Filter: Wins
+MID_SKYCASTLE_HISTORY_FILTER_DEF_LOSE: Filter: Losses
+MID_SKYCASTLE_HISTORY_FILTER_REVENGE: Filter: Can Rematch
+MID_SKYCASTLE_HISTORY_FILTER_ALL: Filter: All
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_WIN: Wins
+MID_SKYCASTLE_HISTORY_BTN_FILTER_DEF_LOSE: Losses
+MID_SKYCASTLE_HISTORY_BTN_FILTER_REVENGE: Can Rematch
+MID_SKYCASTLE_HISTORY_BTN_FILTER_ALL: All
+MID_SKYCASTLE_RANKING_TITLE: Current Standing
+MID_SKYCASTLE_RANKING_RANK_PLAYER: Your Rank
+MID_SKYCASTLE_RANKING_RANK_TOP: Top Players
+MID_SKYCASTLE_RANKING_RANK_FRIEND: Friends
+MID_SKYCASTLE_RANKING_RANK_RANGE: Select a filter.
+MID_SKYCASTLE_RANKING_UNCALCULATED_TOP: Now calculating rankings.
+MID_SKYCASTLE_RANKING_UNCALCULATED_PLAYER: You are unranked.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_00: The offense map is used when\nattacking a foe's Aether Keep.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_01: The defense map is for when you\nneed to defend your Aether Keep.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_02: Fortifying Your Aether Keep:\nPlace structures and allies to\nfortify your offense and defense\nmaps.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_03: Defense Map:\nPlace defensive structures, traps,\nresources, ornaments, and allies.\n\nDefensive Team:\nYou can place your defensive\nteam in the top two rows of your\ndefense map.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_04: Offense Map:\nPlace offensive structures.\n\nRaiding Party:\nThe raiding party will be placed\none row above the offense map.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_05: Placing Defensive Structures:\nDefensive structures, resources,\ntraps, and ornaments can be\nplaced in any open space other\nthan special terrain (forests,\ntrenches, etc.).
+MID_SKYCASTLE_EDIT_HELP_DIALOG_06: Permanent Structures:\nFortresses and resources cannot\nbe removed.\n\nDestroying Structures:\nFortresses cannot be destroyed.\nOther structures can be\ndestroyed with a single attack.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_07: Auto Setup:\nYou can use this function to both\nautomatically build, place, and\nimprove structures at your\nchoosing, as well as create and\nplace defensive teams. Note:\nAether Stones and Heavenly Dew\nwill be consumed as required to\ncreate or strengthen structures.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_08: Test Defense:\nTest your defense map's defenses\nand your defensive team's mettle\nwithout consuming Aether.
+MID_SKYCASTLE_EDIT_HELP_DIALOG_09: Testing Outside the Season:\nAfter a season ends but before\nthe next season begins, Test\nDefenses is treated as part\nof the next season.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_00: Place/Remove Structures:\nPlace and remove the structures\nyou've finished building.
+MID_SKYCASTLE_EDIT_SELECTFACILITY_HELP_DIALOG_01: Structure Limit:\nYou can place only a certain\nnumber of each type of structure.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_00: Build Structures:\nUse Aether Stones and Heavenly\nDew to build new structures.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_01: Improve Structures:\nUse Aether Stones and Heavenly\nDew to improve structures by\none level.
+MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_02: Limited-Time Structures:\nSome structures are available to\nbuild for a limited time. To build\nthem, you'll need items obtainable\nonly during a set time period.\nOnce created, however, the\nstructures are yours to keep.
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_00: Change up the terrain!
+MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: Terrain:\nChange the terrain of your Aether\nKeep.\n\nSome terrain requires Aether\nStones to unlock.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: Attack and defend against foes!
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: Aether Raids:\nPlace structures, a defensive\nteam, and more on your maps,\nand then attack or defend to\nincrease your Lift.\n\nIf the defender is defeated within\nseven turns, the attacker wins.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: Aether:\nThis is used to take part in Aether\nRaids. It's replenished by a fixed\namount once a day. It is totally\nreplenished at the start of a new\nseason.\nNote: It cannot be replenished\nbeyond the maximum amount.\nThe higher your Lift, the more\nAether you'll need to battle.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: Lift and Tier:\nYour Lift will change based on\nyour attack and defense results.\nYour Tier is based on your Lift.\nWhen a new season begins, you\nwill start the season with an\namount of Lift based on your Tier.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: Acquiring Lift:\n・ Putting a bonus character in\nyour raiding party will give you a\n+20 bonus to Lift.\n・ The defensive side's maximum\nLift will not be reduced.\n・ If you have multiple bonus\ncharacters, only the single highest\nbonus value is applied.\n・ If your raiding party is defeated,\nyou will acquire less Lift.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: Special Conditions:\nIf your Lift is 4,000 or lower, a\nfailed attack or defense will not\nlower your total Lift.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: Additional Information:\nIf a battle does not end properly,\nneither the attacker nor the\ndefender will see a change in\ntheir total Lift.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_07: Bonus Characters Stat Boost:\nWhen bonus characters are used\nin Aether Raids, they'll be granted\nHP+10 and Atk/Spd/Def/Res+4.\nThe amount of EXP and SP they\ngain will be doubled.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_08: Bonus Structures:\nPlace bonus structures in your\nAether Keep to increase the\nFortress (O) or Fortress (D) by\none level.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_09: Fortress (D) and Tier Demotion:\nIf you're demoted to a lower Tier,\nthe level of your Fortress (D) will\nbe lowered.
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_00: Checking Rewards:\nYou can check the rewards you\ncan earn for the current season.
+MID_SKYCASTLE_BATTLE_REWARD_HELP_DIALOG_01: Receiving Rewards:\nYou can receive Aether Raids\nrewards earned in the previous\nseason by entering Aether Raids\nafter that season's results have\nbeen calculated but before the\ncurrent season ends.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_00: Defense Results:\nThis list shows your defense\nresults for Aether Raids. You can\nsee how much Lift you earned\nfor each win and loss, as well as\nthe number of foes defeated.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_01: Replay:\nThis lets you watch past defensive\nbattles against opponents.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_02: Rematch:\nYou can attack an opponent that\ndefeated your defenses one time.\nThis will consume Aether. If the\nsame opponent appears on your\nlist multiple times, you can only\nchallenge them to a rematch once.
+MID_SKYCASTLE_BATTLE_RESULT_HELP_DIALOG_03: Lift Decrease Limit:\nIf you're attacked once, for the\nnext 20 hours, your Lift will not\ndecrease even if your defense\nfails.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_00: Rank:\nThis is your current rank.\nNote that it may take time\nfor updated placement\ninformation to be reflected.
+MID_SKYCASTLE_BATTLE_RANKING_HELP_DIALOG_01: Your Rank and Top Players:\nThese options show player\nrankings for the current season.\n\nFriends:\nThis option shows your friends'\nrankings for the current season\nand past seasons.
+MID_SKYCASTLE_TUTORIAL_DIALOG_01: Select Edit Aether Keep and\nprepare for battle.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03: The offense map is used when\ninvading your foe's keep.
+MID_SKYCASTLE_TUTORIAL_DIALOG_03_2: The defense map is used when\ndefending against a foe's attack.
+MID_SKYCASTLE_TUTORIAL_DIALOG_04: First, build offensive structures on\nthe offense map.
+MID_SKYCASTLE_TUTORIAL_DIALOG_15: $aYou can use Aether Stones and\nHeavenly Dew to build and\nimprove structures. For now, try\ncreating a $a0.
+MID_SKYCASTLE_TUTORIAL_DIALOG_05: $aCreate a\n$a0.
+MID_SKYCASTLE_TUTORIAL_DIALOG_06: An offensive structure has been\ncreated.
+MID_SKYCASTLE_TUTORIAL_DIALOG_06_WARNING: Structures that have already been\ncreated can be placed or removed\nusing the Place/Remove menu.
+MID_SKYCASTLE_TUTORIAL_DIALOG_07: Structures can be moved in the\nsame way as allies.
+MID_SKYCASTLE_TUTORIAL_DIALOG_08: Move an offensive structure to\na new position.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09: Its placement has been changed.
+MID_SKYCASTLE_TUTORIAL_DIALOG_09_WARNING: Items on the defense map can be\nmoved in the same way.
+MID_SKYCASTLE_TUTORIAL_DIALOG_12: Use the offense map you edited to\nattack a foe's Aether Keep.
+MID_SKYCASTLE_TUTORIAL_DIALOG_10: Fortify your Aether Keep and\nachieve victory to increase your\nAR Tier and earn rewards that\ncan further bolster your keep!
+MID_SKYCASTLE_TUTORIAL_DIALOG_13: Auto Setup can edit your keep for\nyou. Select More then Auto Setup.
+MID_SKYCASTLE_TUTORIAL_DIALOG_16: Use the left and right arrows to\nchange the placement theme.
+MID_SKYCASTLE_TUTORIAL_DIALOG_17: Cannot be removed during the\ntutorial.
+MID_SKYCASTLE_TUTORIAL_DUMMY_TROOP: Otherworldly Order
+MID_SKYCASTLE_TUTORIAL_BATTLE_02_DIALOG_00: Many structures can be destroyed!\nDestroy resources and gain Aether.
+MID_SKYCASTLE_TUTORIAL_BATTLE_01_DIALOG_00: Beware the enemy's defenses. Tap\nstructures to check their effects.
+MID_SCF_ギュミル泉: Aether Fountain
+MID_SCF_ギュミル泉_HELP: $aRestores $a0 Aether to the Aether Keep\neach day. If destroyed in an attack, it restores\nAether to the raiding party (if they win).\nNote: Cannot be removed. Can be destroyed.
+MID_SCF_ギュミル水瓶: Aether Amphorae
+MID_SCF_ギュミル水瓶_HELP: $aStores up to $a0 Aether. If destroyed in an\nattack, it restores Aether to the raiding party\n(if they win).\nNote: Cannot be removed. Can be destroyed.
+MID_SCF_防砦: Fortress (D)
+MID_SCF_防砦_HELP: If structure's level > opponent's Fortress (O)\nlevel, grants Atk/Spd/Def/Res+X to all allies.\n(X = difference in level × 4).\nNote: Cannot be removed or destroyed.
+MID_SCF_防雷: Bolt Tower (D)
+MID_SCF_防雷_HELP: $aAt the start of turn 3, deals $a0 damage to\nfoes within 7 rows and 3 columns centered on\nstructure.
+MID_SCF_防軍師: Tactics Room (D)
+MID_SCF_防軍師_HELP: $aAt start of turn, if any foes are within 7 rows\nand 3 columns centered on structure and their\nHP ≤ $a0 and they use bow, dagger, magic,\nor staff, restricts those foes' movement to 1\nspace through their next actions.
+MID_SCF_防回復: Healing Tower (D)
+MID_SCF_防回復_HELP: $aAt start of turn, restores $a0 HP to allies\nwithin 5 rows and 5 columns centered on\nstructure.
+MID_SCF_防対歩行: Infantry School (D)
+MID_SCF_防対歩行_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non infantry foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_防対重装: Armor School (D)
+MID_SCF_防対重装_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non armored foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_防対騎馬: Cavalry School (D)
+MID_SCF_防対騎馬_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non cavalry foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_防対飛行: Flier School (D)
+MID_SCF_防対飛行_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non flying foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_防恐慌: Panic Manor (D)
+MID_SCF_防恐慌_HELP: $aAt start of turn, if any foes are within 7 rows\nand 3 columns centered on structure and their\nHP ≤ $a0, converts bonuses on those foes\ninto penalties through their next actions.
+MID_SCF_防投石: Catapult (D)
+MID_SCF_防投石_HELP: At start of turn, destroys offensive structures\nwithin the same column as this structure if\ntheir level ≤ this structure's level.\nNote: Fortress (O) cannot be destroyed.
+MID_SCF_攻砦: Fortress (O)
+MID_SCF_攻砦_HELP: If structure's level > opponent's Fortress (D)\nlevel, grants Atk/Spd/Def/Res+X to all allies.\n(X = difference in level × 4).\nNote: Cannot be removed or destroyed.
+MID_SCF_攻雷: Bolt Tower (O)
+MID_SCF_攻雷_HELP: $aAt the start of turn 3, deals $a0 damage to\nfoes within 3 columns centered on structure.
+MID_SCF_攻軍師: Tactics Room (O)
+MID_SCF_攻軍師_HELP: $aAt start of turn, if any foes are within the same\ncolumn as structure and their HP ≤ $a0 and\nthey use bow, dagger, magic, or staff, restricts\nthose foes' movement to 1 space through\ntheir next actions.
+MID_SCF_攻回復: Healing Tower (O)
+MID_SCF_攻回復_HELP: $aAt start of turn, restores $a0 HP to allies\nwithin 5 rows and 3 columns centered on\nstructure.
+MID_SCF_攻対歩行: Infantry School (O)
+MID_SCF_攻対歩行_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non infantry foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_攻対重装: Armor School (O)
+MID_SCF_攻対重装_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non armored foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_攻対騎馬: Cavalry School (O)
+MID_SCF_攻対騎馬_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non cavalry foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_攻対飛行: Flier School (O)
+MID_SCF_攻対飛行_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non flying foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
+MID_SCF_攻恐慌: Panic Manor (O)
+MID_SCF_攻恐慌_HELP: $aAt start of turn, if any foes are within 3\ncolumns centered on structure and their\nHP ≤ $a0, converts bonuses on those foes\ninto penalties through their next actions.
+MID_SCF_攻投石: Catapult (O)
+MID_SCF_攻投石_HELP: At start of turn, destroys defensive structures\nwithin the same column as this structure if\ntheir level ≤ this structure's level.\nNote: Fortress (D), traps, resources, and\nornaments cannot be destroyed.
+MID_SCF_落雷の罠A: Bolt Trap
+MID_SCF_落雷の罠A_BATTLE: Trap
+MID_SCF_落雷の罠A_HELP: $aIf foe ends movement on this structure's\nspace, deals $a0 damage to target and\nunits within 3 spaces. (Cancels foe's attack or\nAssist skill.)
+MID_SCF_落雷の罠A_BATTLEHELP: Some kind of trap...
+MID_SCF_重圧の罠A: Heavy Trap
+MID_SCF_重圧の罠A_BATTLE: Trap
+MID_SCF_重圧の罠A_HELP: $aIf foe ends movement on this structure's\nspace, restricts movement of target and units\nwithin 2 spaces with HP ≤ $a0 to 1 space\nthrough their next actions. (Cancels foe's\nattack and Assist skills.)
+MID_SCF_重圧の罠A_BATTLEHELP: Some kind of trap...
+MID_SCF_落雷の罠ダミー: False Bolt Trap
+MID_SCF_落雷の罠ダミー_BATTLE: Trap
+MID_SCF_落雷の罠ダミー_HELP: This looks like a Bolt Trap, but it's just a fake.
+MID_SCF_落雷の罠ダミー_BATTLEHELP: Some kind of trap...
+MID_SCF_重圧の罠ダミー: False Heavy Trap
+MID_SCF_重圧の罠ダミー_BATTLE: Trap
+MID_SCF_重圧の罠ダミー_HELP: This looks like a Heavy Trap, but it's just a\nfake.
+MID_SCF_重圧の罠ダミー_BATTLEHELP: Some kind of trap...
+MID_SCF_金の玉座: Golden Throne
+MID_SCF_金の玉座_HELP: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids. From the second time onward,\nthe number of times this feat has been\nachieved will be inscribed upon it.
+MID_SCF_銀の玉座: Silver Throne
+MID_SCF_銀の玉座_HELP: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids. From the second time onward,\nthe number of times this feat has been\nachieved will be inscribed upon it.
+MID_SCF_銅の玉座: Bronze Throne
+MID_SCF_銅の玉座_HELP: $aA throne suitable only for those who have\nachieved a rank from $a0 to $a1 in\nAether Raids. From the second time onward,\nthe number of times this feat has been\nachieved will be inscribed upon it.
+MID_SCF_その他1: Feh Statue
+MID_SCF_その他1_HELP: An objet d'art produced under the direct\nsupervision of its model. It's an event item.
+MID_SCF_その他2: Flower Bed
+MID_SCF_その他2_HELP: An arrangement of flowers in vivid colors. It's\nan event item.
+MID_SCF_その他3: Streetlamp
+MID_SCF_その他3_HELP: A lamp in an elegant, classic design. It's an\nevent item.
+MID_SCF_K0001: Springwater
+MID_SCF_K0001_Ex: Feature: ponds
+MID_SCF_K0002: Wintry
+MID_SCF_K0002_Ex: Feature: forests
+MID_SCF_K0003: Abandoned Castle
+MID_SCF_K0003_Ex: Feature: crumbling walls
+MID_SCF_K0004: Snowdust
+MID_SCF_K0004_Ex: Feature: defensive terrain and trenches
+MID_SCF_K0005: Desert
+MID_SCF_K0005_Ex: Feature: mountains
+MID_SCF_K0006: Spring Breeze
+MID_SCF_K0006_Ex: Feature: walls
+MID_SCF_K0007: Leafy Canopy
+MID_SCF_K0007_Ex: Feature: forests and trenches
+MID_SCF_K0008: Lost Castle
+MID_SCF_K0008_Ex: Feature: forests and defensive terrain
+MID_SCF_K0009: Bright Grassland
+MID_SCF_K0009_Ex: Feature: forests
+MID_SCF_K0010: Lava Floes
+MID_SCF_K0010_Ex: Feature: lava
+MID_ITEM_SKYCASTLE_201811: Aether Stone SP
+MID_ITEM_HELP_SKYCASTLE_201811: Used in Aether Raids to build structures that\nare available for a limited time. If that period\nhas elapsed, these stones will be lost.
+MID_STAGE_SKYCASTLE: Aether Raids
+MID_STAGE_SKYCASTLE_TESTPLAY: Aether Raids: Test Defenses
+MID_STAGE_SKYCASTLE_TUTORIAL: Aether Raids: Tutorial
+MID_STAGE_SELECT_BLESSING_GARDEN_INFO_2: For Legendary and blessed Heroes.
+MID_STAGE_SELECT_SEQUENTIAL_MAP: Multi-Map Battles
+MID_STAGE_SELECT_SEQUENTIAL_MAP_INFO: Fight battle after battle!
+MID_TAP_BATTLE_DATA_TITLE_0010: Labyrinth of Despair
+MID_MUSIC_NAME_BGM_MAP_FE13_07: Duty (Ablaze)
+MID_MUSIC_NAME_BGM_MAP_FE08_01: Truth, Despair, and Hope
+MID_MUSIC_NAME_BGM_MAP_FE13_11: Storm Clouds (Ablaze)
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE: Edit Raiding Parties
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_00: Edit Raiding Parties:\nEdit your raiding parties for use in\nAether Raids.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_01: Maximum Lift:\nThe maximum amount of Lift\nacquired when a raiding party\nmakes a successful attack.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_02: Increase Raiding Party Size:\nIf you increase your Tier in\nAether Raids, you'll be able\nto add a 5th unit to your\nraiding party. Aether Stones\nare required to unlock\nadditional unit slots.
+MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_03: Additional Unit Slot Conditions:\nYou must reach Tier 11 or\nhigher to add a 5th ally.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE: Edit Defensive Team
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP: Edit your defensive team.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_00: $aNeed\nTier $a0
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_01: Add\nAlly
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_CONFIRM: $aUse $a0 Aether Stones\nto add an ally?
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_WARNING: $aIf you drop to Tier $a0 or\nlower, the additional ally will not\nbe deployed.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_DECIDE: Add
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_COMPLETE: The ally has been added.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_FAILURE: Insufficient Aether Stones.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE: Defense Lift Loss
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE_HELP: This is the largest amount of Lift you can lose\ngiven the makeup of your defensive team.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_0: Lock Team
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_1: Unlock
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_0: Lock this team?\n\nAll team members' current levels,\nstats, skills, Sacred Seals, and\nblessings will be locked, but only\nfor Aether Raids defense battles.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_1: Unlock this team?\n\nAll team members' stats and\nequipment will reflect the most\nrecent changes.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_0: Lock
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_1: Unlock
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_CANCEL: Back
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_TEXT: A defensive team has not been set.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_WARNING: When no units have been set to\nthe defensive team, level 40\nAlfonse, Sharena, and Anna will\ndefend in place of other units.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_00: Edit Defensive Team:\nEdit the team that foes will battle\non defense maps.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_01: Defensive Team Lock:\nAll members' current levels, stats,\nskills, Sacred Seals, and blessings\nwill be locked, but only for Aether\nRaids defense battles. Unlocking\nthe team will allow the most\nrecent changes to the units to be\nreflected.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_02: Increasing Defensive Team Size:\nYou can increase the size of your\ndefensive team if you raise your\nAR Tier. You can get up to six\nunit slots total. Aether Stones are\nrequired to unlock additional slots.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_03: Additional Unit Slot Conditions:\nTo get a 5th slot, you must reach\nTier 11 or higher. To get a 6th\nslot, you must reach Tier 19 or\nhigher. If your Tier declines, you\nwill not be able to deploy units in\nthese slots. Regaining your Tier\nwill make them deployable again.
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_04: If There Are No Defenders:\nWhen no units have been set to\nthe defensive team, level 40\nAlfonse, Sharena, and Anna will\ndefend in place of other units.
+MID_UNIT_EDIT_HOLY_GRAIL: Use Heroic Grails
+MID_UNIT_EDIT_HOLY_GRAIL_HELP1: Select a Hero to summon.
+MID_UNIT_EDIT_HOLY_GRAIL_REMAIN_COUNT: Summons Left:
+MID_UNIT_EDIT_HOLY_GRAIL_CONFIRM: Summon using Heroic Grails?
+MID_UNIT_EDIT_HOLY_GRAIL_DECIDE: Summon
+MID_UNIT_EDIT_HOLY_GRAIL_WARNING: You don't have enough Heroic\nGrails to summon.
+MID_UNIT_EDIT_UNIT_FULL_INFOR: You have reached your maximum\nnumber of allies.
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_RECENT: Newest
+MID_UNIT_EDIT_SORT_HOLY_GRAIL_ORDER: Added
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_00: Summon Heroes with Heroic Grails!
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_01: Heroic Grails:\nUse Heroic Grails to summon\nspecific Heroes to your barracks!\nYou can earn Heroic Grails from\nAether Raids and other sources.
+MID_UNIT_EDIT_HOLY_GRAIL_HELP_DIALOG_02: More Information:\nYou can summon the same Hero\nup to 20 times using Heroic Grails.\n\nThe number of Heroic Grails\nneeded will increase each time\nyou summon a Hero.
+MID_RELAY_HELP_DIALOG_06_02: More Rules for Relay Defense:\n・ Enemy reinforcements will\nappear.
+MID_UNIT_EDIT_SPECIAL_TROOP: Edit Special Teams
+MID_UNIT_EDIT_RESERVE_TROOP_HELP_DIALOG_01_02: Reserve teams are a type of team\nthat can only be created or edited\nwhile playing modes that feature\nmulti-map battles.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_DIALOG: Select a team type.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_PREFIX: Team:  
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NORMAL: Primary Teams
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_RESERVE: Reserve Teams
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_OCCUPATION: Brigades
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_SKYCASTLE_OFFENSE: Raiding Parties
+MID_UNIT_EDIT_HOLY_GRAIL_FIRST_TIME_REWARD_TITLE: First Visit Bonus: Heroic Grails

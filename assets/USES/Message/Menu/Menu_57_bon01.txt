@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRango $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aAscendiste desde $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: ¡Mantienes tu rango!
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDescendiste desde $a0
+MID_ARENA_DIALOG_HELP_07: -Bonif. por héroes de temporada-\nCuando derrotes a un enemigo\ncon un héroe de la temporada,\nganarás tres puntos adicionales.\n\n(A partir de la temporada que\nempieza tras el lanzamiento\nde la versión 2.8.0.).
+MID_ARENA_RANK21: Gran invocador
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Jardines
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: Terrenos
+MID_BLESSINGMAP_HELP_DIALOG_05: -Terrenos-\n・ Combate con varios batallones.\n・ Los héroes que luchen en una\nbatalla quedan excluidos del resto\nde batallas de la misma serie.\nTampoco puedes usar duplicados.
+MID_ITEM_ARENA_CROWN: Corona del coliseo
+MID_ITEM_HELP_ARENA_CROWN: Corona que recibió un invocador legendario.
+MID_SEQUENTIAL_MAP_TERM_201808: El nombre del Caos
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: -Bonificación por bendición-\nCuando envíes a luchar a un\nhéroe legendario o bendecido\ncon uno de los elementos de la\ntemporada, ganarás un punto\nadicional al final de la batalla.
+MID_SUMMON_WEAPON_TYPE: Armas para los héroes disponibles
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: La sesión terminará al elegir un personaje.\n¡La heroína Lyn (gris) es muy popular!
+MID_TAP_BATTLE_CONFIG_SPEED: Velocidad
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: × 1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: × 1.5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: × 2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: × 2.5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: × 3
+MID_CONQUER_HELP_DIALOG_06_02: -Más reglas de Dominios rivales-\n・ Los refuerzos no recibirán\nmejoras de efectos legendarios.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: Selec. todo
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: Quitar todo
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: Ordenar por núm.
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: Editar sets de habil.
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: Equipar sets de habil.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: Elige un aliado para cambiar su set de habilidades.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: Cambia o equipa habilidades desde aquí.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: Elige una habilidad.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: Elige un sello sacro.
+MID_UNIT_EDIT_SKILL_SET_EDIT: Cambiar
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: Sel. habilidades
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: Sel. sellos sacros
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: Usar equipo actual
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: ¿Quitar el set de este héroe?
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: Quitar
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: ¿Guardar las habilidades y sellos\nsacros actuales como un set?
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: Guardar
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: ¿Equipar el set guardado?
+MID_UNIT_EDIT_SKILL_SET_EQUIP: Equipar
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: No equipar
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: ¿Quieres deshacer los cambios?
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: No se guardarán los cambios.
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: Descartar
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: Antes
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: Después
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: ¿Quieres equipar este set?
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: Nombre del set
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aSet $a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: Introduce un nombre
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: Introduce un nombre para este set.
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: Servirá para todos los aliados que lo usen.
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: Longitud máxima de 12 caracteres.\nAlgunos símbolos no se pueden usar.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: Equipar unidad
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: Equipar batallón
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: Equipar batallón
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: Equipar brigada
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: No hay grupos de este tipo disponibles.
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: ¿Equipar este set de habilidades?
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: Los aliados a los que no has\nequipado habilidades mantendrán\nlas que tienen.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: Selecciona un aliado para equiparle un set de habilidades.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: Selecciona un batallón o brigada para equiparlo.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: Elige el set de habilidades que quieres equipar.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: Se quitarán los sellos sacros\nequipados a otros aliados.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: Elegiste el mismo sello sacro varias\nveces en este set. Solo se equipará\na uno de los aliados.
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: -Editar sets de habilidades-\nAquí puedes cambiar rápidamente\nlas habilidades y los sellos sacros\nde tus aliados.\n\nPuedes crear hasta cinco sets\npara cada aliado.
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: -Editar los sets de habilidades-\nSelecciona las habilidades y los\nsellos sacros que quieras guardar\nen un set.\n\n-Equipar los sets de habilidades-\nPodrás equipar las habilidades\ny los sellos sacros que hayas\nelegido con una sola acción.
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: -Editar el nombre de los sets-\nPuedes cambiar el nombre de los\nsets de habilidades que hayas\ncreado.\nEl nombre se mostrará igual\npara todos los aliados.
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: -Equipar sets de habilidades-\nAquí puedes equipar a uno o\nvarios aliados con los sets de\nhabilidades que hayas creado\nen el menú "Editar sets de habil.".
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: -Equipar unidad-\nEquipa individualmente\na tus aliados con los sets\nde habilidades.
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: -Equipar a un batallón-\nPuedes seleccionar un tipo\nde batallón y equipar un set de\nhabilidades a todos los aliados\nque forman parte de él a la vez.\n\nNo aparecerán los batallones\nque no incluyan aliados\nde tu ejército.
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: -Equipar sellos sacros-\nSi al equipar un set de habilidades\ntratas de asignar el mismo sello\nsacro a varios aliados, el sello\nse equipará al primer aliado\nde la lista.

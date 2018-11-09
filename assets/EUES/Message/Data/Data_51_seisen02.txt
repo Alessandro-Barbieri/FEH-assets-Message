@@ -150,14 +150,14 @@ MSID_攻撃の波・奇数3: Ola Ata impar 3
 MSID_H_ロムファイア: Eficaz contra unidades\nacorazadas y de caballería.
 MSID_H_カミラの艶斧: Si la unidad se encuentra en un radio de dos\ncasillas de un aliado de caballería o aéreo,\nobtiene Ata y Vel + 4 en combate.
 MSID_H_夜刀神改: Otorga Ata, Vel, Def y Res + 2.
-MSID_H_大紋章R騎飛刃3: Si la unidad se encuentra en un radio de dos\ncasillas de un aliado de caballería o aéreo,\nobtiene Ata y Vel + 3 en combate.
+MSID_H_大紋章R騎飛刃3: Otorga Ata y Vel + 3 en combate\na los aliados de caballería o aéreos\nsituados en un radio de dos casillas.
 MSID_H_不思議な魅力R4: Si la unidad se encuentra en un radio\nde dos casillas de un aliado con el que\ncomparte una relación de apoyo, este\nobtiene Ata, Vel, Def y Res + 4 en combate.
 MSID_H_第10迷宮の覇者1: Otorga Ata + 1.
 MSID_H_第10迷宮の覇者2: Otorga Ata + 2.
 MSID_H_第10迷宮の覇者3: Otorga Ata + 3.
 MSID_H_魔剣ミストルティン: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás.\nSi se activa la habilidad especial antes\no durante el ataque, - 2 a la cuenta\natrás después del enfrentamiento.
-MSID_H_守りの剣: Si el rival inicia el ataque, la unidad obtiene\nVel + 7 durante el enfrentamiento.
-MSID_H_守りの剣＋: Si el rival inicia el ataque, la unidad obtiene\nVel + 7 durante el enfrentamiento.
+MSID_H_守りの剣: Si el rival inicia el ataque, la unidad obtiene\nDef + 7 durante el enfrentamiento.
+MSID_H_守りの剣＋: Si el rival inicia el ataque, la unidad obtiene\nDef + 7 durante el enfrentamiento.
 MSID_H_ビューレイスト: Al inicio de los turnos impares, otorga\nAta, Vel, Def y Res + 4 a la unidad\ny a los aliados adyacentes durante\nel resto del turno. (Aunque no haya\naliados adyacentes, la unidad recibe\nla bonificación.)
 MSID_H_ロプトウス: Otorga Res + 3. La unidad se vuelve\nvulnerable a habilidades eficaces contra\ndragones. Inflige Ata - 6 al rival en combate\nsi no tiene ninguna habilidad de ese tipo.
 MSID_H_トールハンマー: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás.\nSi la unidad inicia el ataque, obtiene\nVel + 6 durante el enfrentamiento.

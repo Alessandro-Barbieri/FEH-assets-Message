@@ -1,0 +1,38 @@
+[Heroes Archive] (EPHRAM_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_EPHRAM_POPULARITY03_HOME1: No puedo creer lo poco que\nme impresiona estar en un mundo\ndel que no sé absolutamente nada.$k$pQuizás es por todas esas voces\nque me llamaban...
+MID_EPHRAM_POPULARITY03_HOME2: Mi padre fue muy admirado.\nLo llamaban el Rey Guerrero.$k$pAlguna vez dije de broma que\nnos sobreviviría a todos...
+MID_EPHRAM_POPULARITY03_HOME3: Bueno, $Nu...$k$p¿Seguro que estás $Gpreparado,preparada|?\nPara salir al campo de batalla\nhacen falta fuerza y energía.
+MID_EPHRAM_POPULARITY03_HOME4: He estado observando las estrellas...$k$pNo conozco las constelaciones\nde este mundo, pero eso no las hace\nmenos bellas.
+MID_EPHRAM_POPULARITY03_HOME5: Espero que Eirika esté bien...$k$pSiempre vamos juntos y, ahora que\nno está aquí, no dejo de pensar en\ncómo le estará yendo.
+MID_EPHRAM_POPULARITY03_FRIEND: Soy Ephraim. Peleas muy bien,\n¿no? O eso dijo\n$Nf.$k$p¿Quieres entrenar? Un cara a cara.
+MID_EPHRAM_POPULARITY03_LEVEL1: En un combate justo, no hay espada\nni lanza que valga contra mi hacha.
+MID_EPHRAM_POPULARITY03_LEVEL2: El hacha es bastante buena como\narma. Creo que ahora tengo\nmás posibilidades de vencer.
+MID_EPHRAM_POPULARITY03_LEVEL3: Enfrentarse a las adversidades\nle da sentido a la vida.
+MID_EPHRAM_POPULARITY03_SKILL: Me siento lleno de energía y listo para\nluchar. Debe de ser gracias a esto.
+MID_EPHRAM_POPULARITY03_JOIN: Soy el príncipe Ephraim de Renais.$k$pMi padre, Vari, tuvo una muerte\nprematura.$k$pAhora que ocupo su lugar, prometo\nproteger a todos y cada uno de mis\nsúbditos.
+MID_EPHRAM_POPULARITY03_STRONGEST: Cuando mi padre perdió la vida,\nperdimos nuestra tierra y todo\nlo que conocía se desmoronó.$k$pFue entonces cuando prometí que\nocuparía el lugar de mi padre\ny protegería a mi reino.$k$pCuando mi padre aún vivía, nunca\nme imaginé que eso podría pasar.$k$pUna vez se lo comenté y sé que\nlo decepcioné.$k$pLe dije que Eirika debería sucederle\nen el trono y que yo prefería ser\nun lancero mercenario.$k$p¿Qué diría mi padre si me pudiera ver\nahora? ¿Se sentiría orgulloso de ver\nen quién me he convertido?$k$pSeguramente me reprocharía\nque todavía me queda mucho por\naprender. Y tendría razón.$k$pQuiero hacer todo lo posible para\nconvertirme en un buen rey y vivir\nsegún sus ideales.$k$pSimplemente porque no quiero\nvolver a decepcionarlo.
+MID_EPHRAM_POPULARITY03_VOICE01: せいっ！
+MID_EPHRAM_POPULARITY03_VOICE02: 行くぞ！
+MID_EPHRAM_POPULARITY03_VOICE03: うああっ！
+MID_EPHRAM_POPULARITY03_VOICE04: 甲冑が…！
+MID_EPHRAM_POPULARITY03_VOICE05: ¡Sigamos adelante!
+MID_EPHRAM_POPULARITY03_VOICE06: ¡Prepárate!
+MID_EPHRAM_POPULARITY03_VOICE07: No puedo perder más tiempo.
+MID_EPHRAM_POPULARITY03_VOICE08: ¡Por el poder de Garm!
+MID_EPHRAM_POPULARITY03_VOICE09: Father...
+MID_EPHRAM_POPULARITY03_VOICE10: ふっ
+MID_EPHRAM_POPULARITY03_VOICE11: My outfit? Why, it's a suit of armor from Renais. It's... Ugh... Really heavy...
+MID_EPHRAM_POPULARITY03_VOICE12: My father was Fado, king of Renais. He was known as a peerless Warrior King.
+MID_EPHRAM_POPULARITY03_VOICE13: I once said that Eirika should succeed the throne... And that I'd be perfectly content taking my lance and traveling the land as a mercenary.
+MID_EPHRAM_POPULARITY03_VOICE14: This axe is known as Garm. It's a weapon from Lyon's homeland...
+MID_EPHRAM_POPULARITY03_VOICE15: My father was so strong. I never imagined he could be defeated...
+MID_EPHRAM_POPULARITY03_VOICE16: My father was killed by my best friend Lyon.
+MID_EPHRAM_POPULARITY03_VOICE17: I'll protect you. I don't want to lose anyone else.
+MID_EPHRAM_POPULARITY03_VOICE18: Right...
+MID_EPHRAM_POPULARITY03_VOICE19: Where to begin?
+MID_EPHRAM_POPULARITY03_VOICE20: The only way is forward.

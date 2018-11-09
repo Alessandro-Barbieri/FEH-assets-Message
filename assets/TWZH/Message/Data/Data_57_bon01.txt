@@ -1,0 +1,215 @@
+[Heroes Archive] (Data_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤暗: 赤暗器　射程２\n敵方防守越高，給予的傷害越少\n可暫時降低敵方能力
+MWID_H_青暗: 青暗器　射程２\n敵方防守越高，給予的傷害越少\n可暫時降低敵方能力
+MWID_H_緑暗: 綠暗器　射程２\n敵方防守越高，給予的傷害越少\n可暫時降低敵方能力
+MDAID_花のかんざし: 花之髮簪
+MDAID_H_花のかんざし: 在白夜王國的祭典上販賣的髮飾。\n淺色的花朵看起來相當清爽、可愛。
+MDAID_夏祭りのお面: 夏祭面具
+MDAID_H_夏祭りのお面: 在白夜王國的祭典上販賣的面具。\n以看起來相當可愛的龍臉為主題製作。
+MID_MISSION_S201808ARM01_TITLE: 武器類型
+MID_MISSION_S201808ARM01_A1: 以劍擊敗敵人
+MID_MISSION_H_S201808ARM01_A1: 以劍的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A2: 以槍擊敗敵人
+MID_MISSION_H_S201808ARM01_A2: 以槍的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A3: 以斧擊敗敵人
+MID_MISSION_H_S201808ARM01_A3: 以斧的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A4: 以無屬性弓擊敗敵人
+MID_MISSION_H_S201808ARM01_A4: 以無屬性弓的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A5: 以無屬性暗器擊敗敵人
+MID_MISSION_H_S201808ARM01_A5: 以無屬性暗器的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A6: 以赤魔擊敗敵人
+MID_MISSION_H_S201808ARM01_A6: 以赤魔的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A7: 以青魔擊敗敵人
+MID_MISSION_H_S201808ARM01_A7: 以青魔的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A8: 以綠魔擊敗敵人
+MID_MISSION_H_S201808ARM01_A8: 以綠魔的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A9: 以杖擊敗敵人
+MID_MISSION_H_S201808ARM01_A9: 以杖的我方擊敗敵人。
+MID_MISSION_S201808ARM01_A10: 以劍擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A10: 以劍的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A11: 以槍擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A11: 以槍的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A12: 以斧擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A12: 以斧的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A13: 以無屬性弓擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A13: 以無屬性弓的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A14: 以無屬性暗器擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A14: 以無屬性暗器的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A15: 以赤魔擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A15: 以赤魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A16: 以青魔擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A16: 以青魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A17: 以綠魔擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A17: 以綠魔的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808ARM01_A18: 以杖擊敗LV35以上
+MID_MISSION_H_S201808ARM01_A18: 以杖的我方\n擊敗等級35以上的敵人。
+MID_MISSION_S201808KIZUNA01_TITLE: 羈絆英雄戰
+MID_MISSION_S201808KIZUNA01_A1: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201808KIZUNA01_A1: 將亞斯克王國的公主夏蓉編入我軍，\n過關羈絆英雄戰・神威＆阿庫婭。
+MID_MISSION_S201808KIZUNA01_A2: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201808KIZUNA01_A2: 將安娜編入我軍，\n過關羈絆英雄戰・神威＆阿庫婭(超難以上)。
+MID_MISSION_S201808KIZUNA01_A3: 特殊:擊敗神威
+MID_MISSION_H_S201808KIZUNA01_A3: 以亞斯克王國的公主夏蓉\n擊敗等級40以上的選擇未來的王子神威。
+MID_MISSION_S201808KIZUNA01_A4: 特殊:擊敗阿庫婭
+MID_MISSION_H_S201808KIZUNA01_A4: 以安娜\n擊敗等級40以上的泉之歌姬阿庫婭。
+MID_MISSION_S201808KIZUNA01_A5: 特殊:突破羈絆英雄戰
+MID_MISSION_H_S201808KIZUNA01_A5: 我軍全員為騎馬，\n過關羈絆英雄戰・神威＆阿庫婭(超難以上)。
+MID_MISSION_S201808SENKA01_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201808SENKA01_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA01_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA01_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA01_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA01_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA01_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA01_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA01_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA02_DAILY_TITLE: 戰渦連戰
+MID_MISSION_S201808SENKA02_DAILY_A1: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA02_DAILY_A1: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA02_DAILY_A2: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA02_DAILY_A2: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA02_DAILY_A3: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA02_DAILY_A3: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808SENKA02_DAILY_A4: 特殊:突破戰渦連戰
+MID_MISSION_H_S201808SENKA02_DAILY_A4: 過關戰渦連戰最終地圖。
+MID_MISSION_S201808STORY01_TITLE: 白夜的夏祭
+MID_MISSION_S201808STORY01_A1: 特殊:突破外傳23-1節(超難)
+MID_MISSION_H_S201808STORY01_A1: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關外傳23-1節(超難)。
+MID_MISSION_S201808STORY01_A2: 特殊:突破外傳23-2節(超難)
+MID_MISSION_H_S201808STORY01_A2: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關外傳23-2節(超難)。
+MID_MISSION_S201808STORY01_A3: 特殊:突破外傳23-3節(超難)
+MID_MISSION_H_S201808STORY01_A3: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關外傳23-3節(超難)。
+MID_MISSION_S201808TAPBTL01_D01_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201808TAPBTL01_D01_A1: 特殊:擊敗莉茲
+MID_MISSION_H_S201808TAPBTL01_D01_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・莉茲。
+MID_MISSION_S201808TAPBTL01_D01_A2: 過關第21～25層
+MID_MISSION_H_S201808TAPBTL01_D01_A2: 於一「觸」即發點觸大戰中\n過關第21～25層的關卡。
+MID_MISSION_S201808TAPBTL01_D01_A3: 過關關卡
+MID_MISSION_H_S201808TAPBTL01_D01_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201808TAPBTL01_D02_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201808TAPBTL01_D02_A1: 特殊:擊敗莉茲
+MID_MISSION_H_S201808TAPBTL01_D02_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第16～20層的BOSS・莉茲。
+MID_MISSION_S201808TAPBTL01_D02_A2: 過關第41～45層
+MID_MISSION_H_S201808TAPBTL01_D02_A2: 於一「觸」即發點觸大戰中\n過關第41～45層的關卡。
+MID_MISSION_S201808TAPBTL01_D02_A3: 過關關卡
+MID_MISSION_H_S201808TAPBTL01_D02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201808TAPBTL01_D03_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201808TAPBTL01_D03_A1: 特殊:擊敗阿庫婭
+MID_MISSION_H_S201808TAPBTL01_D03_A1: 於難度普通的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・阿庫婭。
+MID_MISSION_S201808TAPBTL01_D03_A2: 過關第61～65層
+MID_MISSION_H_S201808TAPBTL01_D03_A2: 於一「觸」即發點觸大戰中\n過關第61～65層的關卡。
+MID_MISSION_S201808TAPBTL01_D03_A3: 過關關卡
+MID_MISSION_H_S201808TAPBTL01_D03_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201808TAPBTL01_D04_TITLE: 點觸大戰・每日任務
+MID_MISSION_S201808TAPBTL01_D04_A1: 特殊:擊敗阿庫婭
+MID_MISSION_H_S201808TAPBTL01_D04_A1: 於難度困難的一「觸」即發點觸大戰中，\n擊敗第36～40層的BOSS・阿庫婭。
+MID_MISSION_S201808TAPBTL01_D04_A2: 過關第81～85層
+MID_MISSION_H_S201808TAPBTL01_D04_A2: 於一「觸」即發點觸大戰中\n過關第81～85層的關卡。
+MID_MISSION_S201808TAPBTL01_D04_A3: 過關關卡
+MID_MISSION_H_S201808TAPBTL01_D04_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201808TAPBTL02_TITLE: 點觸大戰
+MID_MISSION_S201808TAPBTL02_A1: 擊敗BOSS
+MID_MISSION_H_S201808TAPBTL02_A1: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201808TAPBTL02_A2: 擊敗BOSS
+MID_MISSION_H_S201808TAPBTL02_A2: 於一「觸」即發點觸大戰中擊敗BOSS。
+MID_MISSION_S201808TAPBTL02_A3: 過關關卡
+MID_MISSION_H_S201808TAPBTL02_A3: 過關一「觸」即發點觸大戰中的關卡。
+MID_MISSION_S201808TAPBTL02_A4: 過關特別關卡1
+MID_MISSION_H_S201808TAPBTL02_A4: 過關一「觸」即發點觸大戰中的特別關卡1。\n(特別關卡1可於特別關卡開放後遊玩)
+MID_MISSION_S201808TAPBTL02_A5: 過關第6～10層
+MID_MISSION_H_S201808TAPBTL02_A5: 於一「觸」即發點觸大戰中\n過關第6～10層的關卡。
+MID_MISSION_S201808TAPBTL02_A6: 過關第81～85層
+MID_MISSION_H_S201808TAPBTL02_A6: 於一「觸」即發點觸大戰中\n過關第81～85層的關卡。
+MPID_夏祭リョウマ: 龍馬
+MPID_夏祭エリンシア: 艾琳西亞
+MPID_夏祭マークス: 馬克斯
+MPID_夏祭ミカヤ: 米卡雅
+MPID_HONOR_夏祭リョウマ: 浴衣武士
+MPID_HONOR_夏祭エリンシア: 夏季天空的公主
+MPID_HONOR_夏祭マークス: 浴衣騎士
+MPID_HONOR_夏祭ミカヤ: 夏日景緻的少女
+MPID_H_夏祭リョウマ: 白夜王國的第一王子，個性直率且相當重情義。\n正在參加白夜王國祭拜神明的夏祭。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_夏祭エリンシア: 克里米亞王國的公主。心地善良，重視著人民及國家。\n看著在夏祭跳舞的人們歡愉的笑臉，感到十分幸福。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_H_夏祭マークス: 暗夜王國的第一王子，從不怠於自我鍛鍊。\n被招待至白夜王國的夏祭，身著白夜的服裝赴會。\n（登場作品：『ファイアーエムブレム　ｉｆ』）
+MPID_H_夏祭ミカヤ: 隸屬於義賊「曉團」，有著一頭閃耀銀髮的少女。\n因穿著不太習慣的夏祭服裝，有點不知所措。\n（登場作品：『ファイアーエムブレム　暁の女神』）
+MPID_VOICE_夏祭リョウマ: 中村悠一(Yuichi Nakamura)
+MPID_VOICE_夏祭エリンシア: 滝田樹里(Juri Takita)
+MPID_VOICE_夏祭マークス: 小西克幸(Katsuyuki Konishi)
+MPID_VOICE_夏祭ミカヤ: 桑谷夏子(Natuko Kuwatani)
+MPID_ILLUST_夏祭リョウマ: 北千里(Senri Kita)
+MPID_ILLUST_夏祭エリンシア: 麻谷知世(Tomoyo Asatani)
+MPID_ILLUST_夏祭マークス: п猫Ｒ(PenekoR)
+MPID_ILLUST_夏祭ミカヤ: チーコ(Chiko)
+MSID_第13迷宮の覇者1: 第１３迷宮的霸王１
+MSID_第13迷宮の覇者2: 第１３迷宮的霸王２
+MSID_第13迷宮の覇者3: 第１３迷宮的霸王３
+MSID_青天の舞扇: 青天舞扇
+MSID_青天の舞扇＋: 青天舞扇＋
+MSID_緑雲の舞扇: 綠雲舞扇
+MSID_緑雲の舞扇＋: 綠雲舞扇＋
+MSID_宵闇の団扇: 宵闇團扇
+MSID_宵闇の団扇＋: 宵闇團扇＋
+MSID_暁天の神楽鈴: 曉天的神樂鈴
+MSID_業火静水の舞い1: 業火靜水之舞１
+MSID_業火静水の舞い2: 業火靜水之舞２
+MSID_疾風大地の舞い1: 疾風大地之舞１
+MSID_疾風大地の舞い2: 疾風大地之舞２
+MSID_速さ魔防の紋章1: 速度魔防紋章１
+MSID_速さ魔防の紋章2: 速度魔防紋章２
+MSID_守備の波・奇数1: 防守之波・奇數１
+MSID_守備の波・奇数2: 防守之波・奇數２
+MSID_守備の波・奇数3: 防守之波・奇數３
+MSID_H_フォルクヴァング改: 若戰鬥開始時，自身ＨＰ低於８０％，\n戰鬥中的攻擊及防守＋７
+MSID_H_フェンサリル改: 戰鬥中抵銷敵人的＋強化狀態\n（抵銷範圍為鼓舞及支援等帶來的＋效果）
+MSID_H_ノーアトゥーン改: 若自身ＨＰ低於５０％，\n可移動至我方的相鄰格子
+MSID_H_第13迷宮の覇者1: 魔防＋１
+MSID_H_第13迷宮の覇者2: 魔防＋２
+MSID_H_第13迷宮の覇者3: 魔防＋３
+MSID_H_青天の舞扇: 克制重裝\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_青天の舞扇＋: 克制重裝\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_緑雲の舞扇: 克制龍\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_緑雲の舞扇＋: 克制龍\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_宵闇の団扇: 克制騎馬\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－５\n（直到敵人下次行動結束）
+MSID_H_宵闇の団扇＋: 克制騎馬\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格内的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_暁天の神楽鈴: 攻擊＋３　克制重裝、騎馬\n自己的戰鬥順序替換技能（埋伏、猛攻等）無效\n敵方的戰鬥順序替換技能（埋伏、猛攻等）無效
+MSID_H_業火静水の舞い1: 使用「歌唱」、「起舞」時，\n指定目標的攻擊＋２、魔防＋３
+MSID_H_業火静水の舞い2: 使用「歌唱」、「起舞」時，\n指定目標的攻擊＋３、魔防＋４
+MSID_H_疾風大地の舞い1: 使用「歌唱」、「起舞」時，\n指定目標的速度＋２、防守＋３
+MSID_H_疾風大地の舞い2: 使用「歌唱」、「起舞」時，\n指定目標的速度＋３、防守＋４
+MSID_H_速さ魔防の紋章1: 周圍１格內的我方，\n戰鬥中的速度及魔防＋２
+MSID_H_速さ魔防の紋章2: 周圍１格內的我方，\n戰鬥中的速度及魔防＋３
+MSID_H_守備の波・奇数1: 奇數回合開始時，自己和周圍１格內的我方單位\n防守＋２（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_守備の波・奇数2: 奇數回合開始時，自己和周圍１格內的我方單位\n防守＋４（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MSID_H_守備の波・奇数3: 奇數回合開始時，自己和周圍１格內的我方單位\n防守＋６（１回合）\n（周圍１格內沒有我方單位時，自己仍會得到強化）
+MID_CHAPTER_TITLE_CX022: 外傳２３
+MID_CHAPTER_CX022: 白夜的夏祭
+MID_STAGE_TITLE_X0221: 外傳２３—１節
+MID_STAGE_TITLE_X0222: 外傳２３—２節
+MID_STAGE_TITLE_X0223: 外傳２３—３節
+MID_STAGE_X0221: 奉獻給白色大地
+MID_STAGE_X0222: 古老諸神的黃昏
+MID_STAGE_X0223: 龍轉為風
+MID_STAGE_HONOR_T0037: 米卡雅　＆
+MID_STAGE_T0037: 薩札
+MID_STAGE_TITLE_PC011: 超難題１１
+MID_STAGE_PC011: 於分裂之地
+MID_STAGE_TITLE_BG_WATER_0011: 水之大庭園１
+MID_STAGE_TITLE_BG_WIND_0011: 風之大庭園１
+MID_STAGE_TITLE_SB_0013: 第１３迷宮
+MID_STAGE_HONOR_Q0023: 每週更新
+MID_STAGE_Q0023: 壓制戰
+MID_STAGE_HONOR_Q0024: 每週更新
+MID_STAGE_Q0024: 壓制戰
+MID_STAGE_HONOR_Q0025: 每週更新
+MID_STAGE_Q0025: 壓制戰
+MID_STAGE_HONOR_Q0026: 每週更新
+MID_STAGE_Q0026: 壓制戰
+MID_TAP_BATTLE_DATA_TITLE_0007: 迷宮祭典
+MID_MUSIC_NAME_BGM_MAP_FES_02: More Fan Fest
+MID_MUSIC_NAME_BGM_MAP_POPULARITY_01: Brave Heroes
+MID_MUSIC_NAME_BGM_MAP_FE13_06: 天命～炎

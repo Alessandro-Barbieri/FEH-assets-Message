@@ -1,0 +1,38 @@
+[Heroes Archive] (TIKI_SUMMER04)
+
+
+Heroes Message Name: Message
+
+
+MID_TIKI_SUMMER04_HOME1: Ouah ! Regardez, l'océan scintille !\nEt le ciel aussi ! Tout est si brillant !\nEt ça, c'est du sable ? J'adore !
+MID_TIKI_SUMMER04_HOME2: J'ai dormi dans le temple pendant\ntrès longtemps, alors j'ignore presque\ntout du monde extérieur.$k$pC'est pour ça que j'essaie de\nm'amuser autant que possible.
+MID_TIKI_SUMMER04_HOME3: Vous êtes un peu rouge... Vous\nn'auriez pas oublié de mettre de la\ncrème solaire, quand même ?
+MID_TIKI_SUMMER04_HOME4: J'ai repéré un gros oiseau blanc\ndehors, alors je vais essayer d'aller\nlui parler.$k$pVoulez-vous m'accompagner ?
+MID_TIKI_SUMMER04_HOME5: J'ai fait une statue en sable de\nMar-Mar ! M'aiderez-vous à la\nprotéger de l'eau ?
+MID_TIKI_SUMMER04_FRIEND: Vous êtes $Gami,amie| avec\n$Nf,\nn'est-ce pas ?$k$pÇa veut dire que moi aussi,\nje suis votre amie !
+MID_TIKI_SUMMER04_LEVEL1: Je vais devenir de plus en plus forte\npour pouvoir aider tous mes amis !
+MID_TIKI_SUMMER04_LEVEL2: Oui ! Ceux qui pensent que je ne suis\nqu'une enfant vont le regretter !
+MID_TIKI_SUMMER04_LEVEL3: Pause, j'ai du sable dans les yeux !\nQuelqu'un pourrait m'aider ?
+MID_TIKI_SUMMER04_SKILL: Merci de m'avoir rendue plus forte !\nJe vais m'entraîner encore plus.
+MID_TIKI_SUMMER04_JOIN: Bonjour, je suis Tiki ! Vous voulez\naller jouer sur la plage ? Je ne suis\npas bonne nageuse...$k$pMais je flotte vraiment bien !
+MID_TIKI_SUMMER04_STRONGEST: L'océan est si grand ! J'ignorais qu'il\ny avait tant d'eau ! N'est-ce pas\nincroyable, $Nu ?$k$pSi je me change en dragon, vous\npensez que je pourrai boire tout\nl'océan ? Je vais essayer !$k$pRRAARRRGH !$k$pBeurk ! C'est trop salé ! Pourquoi\nl'océan est-il salé ? Il vient de\npleuvoir et ce n'était pas salé.$k$pEt quand on mange un poisson de\nl'océan, il n'est pas salé ! Alors\npourquoi l'océan l'est-il ? Hein ?$k$pHé hé, c'est facile de vous parler !\nJ'aime vraiment nos discussions,\n$Nu.$k$pContinuons jusqu'à ce que j'aie\nsommeil. Je vais essayer de rester\néveillée le plus longtemps possible !$k$pBon, maintenant, à votre tour\nde goûter l'eau de mer.
+MID_TIKI_SUMMER04_VOICE01: えいっ
+MID_TIKI_SUMMER04_VOICE02: よいしょ
+MID_TIKI_SUMMER04_VOICE03: だめぇっ！
+MID_TIKI_SUMMER04_VOICE04: えええっ！？
+MID_TIKI_SUMMER04_VOICE05: J'adore éclabousser !
+MID_TIKI_SUMMER04_VOICE06: La température monte !
+MID_TIKI_SUMMER04_VOICE07: Je n'ai pas peur !
+MID_TIKI_SUMMER04_VOICE08: Na-na-nère !
+MID_TIKI_SUMMER04_VOICE09: Time to go?
+MID_TIKI_SUMMER04_VOICE10: *giggle*
+MID_TIKI_SUMMER04_VOICE11: This outfit's just right for the beach, don't you think?
+MID_TIKI_SUMMER04_VOICE12: Did you need me for something? I was hoping to go for a swim.
+MID_TIKI_SUMMER04_VOICE13: I just love the ocean! It's so very pretty, and really, really big!
+MID_TIKI_SUMMER04_VOICE14: Ugh, it's taking me so long to grow up.
+MID_TIKI_SUMMER04_VOICE15: Oh, I had the loveliest dream. I was playing at the beach with all my friends!
+MID_TIKI_SUMMER04_VOICE16: Playing this much always makes me...so sleepy...
+MID_TIKI_SUMMER04_VOICE17: Thank you for playing with me! It makes me ever so happy.
+MID_TIKI_SUMMER04_VOICE18: OK!
+MID_TIKI_SUMMER04_VOICE19: Phew!
+MID_TIKI_SUMMER04_VOICE20: Time for a swim?

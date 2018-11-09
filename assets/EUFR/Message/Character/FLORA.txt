@@ -1,0 +1,38 @@
+[Heroes Archive] (FLORA)
+
+
+Heroes Message Name: Message
+
+
+MID_FLORA_HOME1: Je suis la domestique de Corrin, mais\nje pourrais aussi offrir mes services à\nla famille royale d'Askr.
+MID_FLORA_HOME2: J'ai été prise en otage pour\nempêcher la tribu des glaces de\nse rebeller.$k$pMalgré cela, j'ai fini par apprécier\nl'endroit où j'étais...
+MID_FLORA_HOME3: Si vous êtes $Gdébordé,débordée|, partagez votre\nfardeau avec moi. Je peux m'occuper\nde toutes sortes de choses.$k$pPour être honnête, je ne me sens\npas très à l'aise quand je n'ai rien à\nfaire.
+MID_FLORA_HOME4: Je suis allée cueillir des plantes\nsauvages. Si vous avez le temps,\nque diriez-vous d'une tisane ?
+MID_FLORA_HOME5: Dans ma tribu, nous avons le pouvoir\nde créer de la neige. Je m'en suis\nservi pour faire cette petite sculpture.$k$pPeut-être que pour ma prochaine\nœuvre, je m'inspirerai $Gd'un grand,d'une grande|\n$Ginvocateur,invocatrice|...
+MID_FLORA_FRIEND: $Nf m'a demandé\nde venir vous saluer. Cela étant fait,\npermettez-moi de prendre congé.
+MID_FLORA_LEVEL1: Je crois que cette fois, je peux\nêtre fière de moi.
+MID_FLORA_LEVEL2: Je ne sais pas si ce sera suffisant...
+MID_FLORA_LEVEL3: Je crains de ne pas être très utile...
+MID_FLORA_SKILL: Merci, mais votre attention suffit\nà mon bonheur.
+MID_FLORA_JOIN: Je suis Flora, domestique de Nohr.\nAvez-vous vu ma jeune sœur Felicia ?\nJ'espère qu'elle se comporte bien.
+MID_FLORA_STRONGEST: Ah, $Nu.\nAvez-vous besoin de moi ? Si vous\nêtes $Gfatigué,fatiguée|, je peux faire du thé.$k$pOh, pardonnez-moi. Je suis peut-être\nun peu envahissante...$k$pQuand je vous vois, j'éprouve le\nbesoin de prendre soin de vous.$k$pEn fait, vous me faites penser à\nCorrin... Pourtant, vous ne vous\nressemblez pas vraiment.$k$pPeut-être est-ce dû à votre air\nmystérieux... ou au fait que vous\npassez beaucoup de temps avec moi.$k$pD'ailleurs, je me demande pourquoi...\nIl y a beaucoup d'autres héros,\net vous m'avez choisie.$k$pN'allez pas penser que je n'apprécie\npas ces moments. Bien au contraire.$k$pQuand je suis avec vous, je suis\nmoi-même. J'ai l'impression d'avoir\nvraiment de la valeur.$k$pMais plus important encore... Je peux\nêtre totalement sincère et exprimer\nce que je ressens vraiment...
+MID_FLORA_VOICE01: はいっ
+MID_FLORA_VOICE02: せやっ
+MID_FLORA_VOICE03: ううっ…！
+MID_FLORA_VOICE04: How disappointing...
+MID_FLORA_VOICE05: Plus un geste !
+MID_FLORA_VOICE06: Vous ne me laissez pas le choix...
+MID_FLORA_VOICE07: Ne me sous-estimez pas !
+MID_FLORA_VOICE08: Et voilà le travail.
+MID_FLORA_VOICE09: So...be it...
+MID_FLORA_VOICE10: Yes
+MID_FLORA_VOICE11: If you need help with any tasks, please let me know.
+MID_FLORA_VOICE12: If you have trouble getting out of bed in the morning, I have just the trick for slugabeds.
+MID_FLORA_VOICE13: Be careful where you put your hands. Wouldn't want you getting frostbite...
+MID_FLORA_VOICE14: There are so many wonderful Heroes here. It makes me a bit nervous, to be honest...
+MID_FLORA_VOICE15: You wield that divine weapon so masterfully... I really am kind of jealous.
+MID_FLORA_VOICE16: I found some broken dishes earlier. It was Felicia's turn to clean them, wasn't it...
+MID_FLORA_VOICE17: I always feel so good about myself after you take the time to chat with me.
+MID_FLORA_VOICE18: At your service.
+MID_FLORA_VOICE19: What do you need?
+MID_FLORA_VOICE20: To victory.

@@ -1787,9 +1787,9 @@ MSID_守備魔防の紋章1: Sube Def./Res. 1
 MSID_守備魔防の紋章2: Sube Def./Res. 2
 MSID_エンブラの加護: Favor de Embla
 MSID_H_ラグネル: La unidad puede contratacar sin importar\nla distancia a la que esté el enemigo.
-MSID_H_剛剣1: Si supera el Atq. del enemigo en 5 puntos o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
-MSID_H_剛剣2: Si supera el Atq. del enemigo en 3 puntos o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
-MSID_H_剛剣3: Si supera el Atq. del enemigo en 1 punto o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
+MSID_H_剛剣1: Si supera el Atq. del enemigo en 5 puntos o\nmás, -1 a la cuenta regresiva por cada ataque\nde la unidad. (Solo se aplica el valor más alto.\nNo acumulable).
+MSID_H_剛剣2: Si supera el Atq. del enemigo en 3 puntos o\nmás, -1 a la cuenta regresiva por cada ataque\nde la unidad. (Solo se aplica el valor más alto.\nNo acumulable).
+MSID_H_剛剣3: Si supera el Atq. del enemigo en 1 punto o\nmás, -1 a la cuenta regresiva por cada ataque\nde la unidad. (Solo se aplica el valor más alto.\nNo acumulable).
 MSID_H_水薙ぎ1: Si la unidad acomete al enemigo, no se producirán\nataques dobles. Si supera la Vel. del rival en 5\npuntos o más y este usa magia, bastón o piedra\ndragón, el enemigo no podrá contratacar.
 MSID_H_水薙ぎ2: Si la unidad acomete al enemigo, no se producirán\nataques dobles. Si supera la Vel. del rival en 3\npuntos o más y este usa magia, bastón o piedra\ndragón, el enemigo no podrá contratacar.
 MSID_H_水薙ぎ3: Si la unidad acomete al enemigo, no se producirán\nataques dobles. Si supera la Vel. del rival en 1\npunto o más y este usa magia, bastón o piedra\ndragón, el enemigo no podrá contratacar.
@@ -2930,9 +2930,9 @@ MSID_H_飛燕明鏡の一撃2: Vel. y Res. +4 durante un ataque\nsi lo inicia la
 MSID_H_緑魔の技量1: Mientras la unidad viva y use un grimorio verde,\nrecibe PH x 1.5. (Solo se aplica el valor más\nalto. No acumulable).
 MSID_H_緑魔の技量2: Mientras la unidad viva, quienes usen un grimorio\nverde en el batallón reciben PH x 1.5. (Solo se\naplica el valor más alto. No acumulable).
 MSID_H_緑魔の技量3: Mientras la unidad viva, quienes usen un grimorio\nverde en el batallón reciben PH x 2. (Solo se\naplica el valor más alto. No acumulable).
-MSID_H_歩行の鼓動1: Al inicio del turno, -1 a la cuenta regresiva a las\nunidades de infantería de tu batallón con PV\ninferior a la unidad en 5 o más. (Efecto acumulable\ncon los de otras habilidades).
-MSID_H_歩行の鼓動2: Al inicio del turno, -1 a la cuenta regresiva a las\nunidades de infantería de tu batallón con PV\ninferior a la unidad en 3 o más. (Efecto acumulable\ncon los de otras habilidades).
-MSID_H_歩行の鼓動3: Al inicio del turno, -1 a la cuenta regresiva a las\nunidades de infantería de tu batallón con PV\ninferior a la unidad en 1 o más. (Efecto acumulable\ncon los de otras habilidades).
+MSID_H_歩行の鼓動1: Al inicio del primer turno, -1 a la cuenta\nregresiva a las unidades de infantería\nde tu batallón con PV inferior a la unidad\nen 5 o más. (Efecto acumulable con los\nde otras habilidades).
+MSID_H_歩行の鼓動2: Al inicio del primer turno, -1 a la cuenta\nregresiva a las unidades de infantería\nde tu batallón con PV inferior a la unidad\nen 3 o más. (Efecto acumulable con los\nde otras habilidades).
+MSID_H_歩行の鼓動3: Al inicio del primer turno, -1 a la cuenta\nregresiva a las unidades de infantería\nde tu batallón con PV inferior a la unidad\nen 1 o más. (Efecto acumulable con los\nde otras habilidades).
 MID_CHAPTER_TITLE_CX008: Anexo 9
 MID_CHAPTER_CX008: Verano nohrio
 MID_STAGE_TITLE_X0081: Anexo 9 - Parte 1
@@ -3505,11 +3505,11 @@ MSID_速さの謀策1: Ardid Vel. 1
 MSID_速さの謀策2: Ardid Vel. 2
 MSID_速さの謀策3: Ardid Vel. 3
 MSID_H_聖剣ティルフィング: Otorga Res. +3. Durante un ataque contra un\nenemigo que use grimorios, la unidad recibe\nun 50 % menos de daño del primer ataque.
-MSID_H_瞬閃アイラの剣: Vel. +3. Si supera la Vel. del enemigo en 1 punto\no más, +1 a la cuenta regresiva por cada ataque de\nla unidad. (Si hay efectos de habilidades similares,\nsolo se aplica el que tenga el valor más alto).
+MSID_H_瞬閃アイラの剣: Otorga Vel. +3. Si supera la Vel. del enemigo\nen 1 punto o más, -1 a la cuenta regresiva\npor cada ataque de la unidad. (Solo se aplica\nel valor más alto. No acumulable).
 MSID_H_ファラフレイム: Al inicio del turno, todos los enemigos situados en\ncruz respecto a la unidad y con Res. inferior a ella\nen 1 o más sufren Atq. y Res. -4 hasta el fin de su\nturno.
 MSID_H_聖書ナーガ: Eficaz contra dragones. Las bonificaciones de las\nhabilidades del enemigo se anulan durante los\nataques.
 MSID_H_速さ魔防の応援: Vel. y Res. +3 a un aliado adyacente\nhasta el final del turno.
-MSID_H_剣姫の流星: Convierte un 40 % de la Vel. de la unidad\nen daño adicional. (No se puede legar).
+MSID_H_剣姫の流星: Aumenta el daño en una cuantía equivalente\nal 40 % de la Vel. de la unidad.\n(No se puede legar).
 MSID_H_聖騎士の加護: Si la unidad recibe ataques consecutivos\nde un enemigo a 2 casillas de distancia,\nel daño del segundo se reduce en un 80 %.\n(No se puede legar).
 MSID_H_追撃リング: Ataque doble garantizado si la unidad\ntiene el 50 % de PV o más al inicio\ndel ataque. (No se puede legar).
 MSID_H_リカバーリング: Devuelve 10 PV al principio de cada turno.\n(No se puede legar).
@@ -4077,13 +4077,13 @@ MSID_速さの大紋章2: Impulsar Vel. 2
 MSID_攻撃の紫煙1: Humo de Atq. 1
 MSID_攻撃の紫煙2: Humo de Atq. 2
 MSID_攻撃の紫煙3: Humo de Atq. 3
-MSID_H_烈剣デュランダル: Otorga Atq. +3. Si la unidad tiene más Atq.\nque el enemigo, +1 a la cuenta regresiva\npor ataque. (Solo se aplica el valor más\nalto. No acumulable).
+MSID_H_烈剣デュランダル: Otorga Atq. +3. Si supera el Atq. del enemigo\nen 1 punto o más, -1 a la cuenta regresiva\npor cada ataque de la unidad. (Solo se aplica\nel valor más alto. No acumulable).
 MSID_H_ゲイルスケグル: Otorga Def. +3. Los aliados en un radio de\n2 casillas que usen espadas, lanzas, hachas,\narcos o dagas reciben Atq. y Vel. +3 en ataques.
 MSID_H_ウルヴァン: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Si la unidad recibe\nataques consecutivos, el daño del segundo\nataque en adelante se reduce en un 80 %.
 MSID_H_ミュルグレ: Eficaz contra unidades aéreas. Otorga Vel. +3.\nSi el enemigo usa grimorios, las bonificaciones\nde sus habilidades, como Impulso o Potenciar,\nse anulan durante los ataques.
 MSID_H_金剛の構え1: Def. +2 cuando la unidad sufre un ataque.
 MSID_H_金剛の構え2: Def. +4 cuando la unidad sufre un ataque.
-MSID_H_金剛の呼吸: Def. +4  y +1 a la cuenta regresiva cuando la\nunidad sufre un ataque. (Si hay efectos de\nhabilidades similares, solo se aplica el que\ntenga el valor más alto).
+MSID_H_金剛の呼吸: Si el rival inicia el ataque, Def. +4  y -1 a la\ncuenta regresiva por cada ataque. (Solo se\naplica el valor más alto. No acumulable).
 MSID_H_飛燕金剛の一撃1: Vel. y Def. +2 durante un ataque\nsi lo inicia la unidad.
 MSID_H_飛燕金剛の一撃2: Vel. y Def. +4 durante un ataque\nsi lo inicia la unidad.
 MSID_H_ベオクの加護: Contra unidades aéreas y de caballería, las\nbonificaciones de las habilidades del enemigo,\ncomo Impulso o Potenciar, se anulan durante\nlos ataques. (No se puede legar).
@@ -4155,8 +4155,8 @@ MPID_VOICE_ルーテ: Brina Palencia
 MPID_VOICE_ワユ: Lani Minella
 MPID_ILLUST_ドルカス: Soeda Ippei (添田一平)
 MPID_ILLUST_ヨシュア: Fujiwara Ryo (冨士原良)
-MPID_ILLUST_ルーテ: 瀬尾公治
-MPID_ILLUST_ワユ: 米山舞
+MPID_ILLUST_ルーテ: Seo Kouji (瀬尾公治)
+MPID_ILLUST_ワユ: Yoneyama Mai (米山舞)
 MSID_気鋭ワユの剣: Hoja resoluta
 MSID_氷剣アウドムラ: Audhulma
 MSID_剛斧トマホーク: Gran tomahawk
@@ -4178,9 +4178,9 @@ MSID_H_HP魔防2: Otorga PV +4 y Res. +2.
 MSID_H_鬼神の構え1: Atq. +2 cuando la unidad sufre un ataque.
 MSID_H_鬼神の構え2: Atq. +4 cuando la unidad sufre un ataque.
 MSID_H_鬼神の構え3: Atq. +6 cuando la unidad sufre un ataque.
-MSID_H_柔剣1: Si supera la Vel. del enemigo en 5 puntos o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
-MSID_H_柔剣2: Si supera la Vel. del enemigo en 3 puntos o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
-MSID_H_柔剣3: Si supera la Vel. del enemigo en 1 punto o más,\n-1 a la cuenta regresiva por cada ataque de la\nunidad. (Si hay efectos de habilidades similares\nsolo se aplica el que tenga el valor más alto).
+MSID_H_柔剣1: Si supera la Vel. del enemigo en 5 puntos\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el valor\nmás alto. No acumulable).
+MSID_H_柔剣2: Si supera la Vel. del enemigo en 3 puntos\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el valor\nmás alto. No acumulable).
+MSID_H_柔剣3: Si supera la Vel. del enemigo en 1 punto\no más, -1 a la cuenta regresiva por cada\nataque de la unidad. (Solo se aplica el valor\nmás alto. No acumulable).
 MID_CHAPTER_TITLE_CX014: Anexo 15
 MID_CHAPTER_CX014: Héroes imprevistos
 MID_STAGE_TITLE_X0141: Anexo 15 - Parte 1

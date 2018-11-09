@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: -Bonif. por héroes de temporada-\nCuando derrotes a un enemigo\ncon un héroe de la temporada,\nganarás tres puntos adicionales.
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: Vencidos y aliados vivos
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: Vencidos y vivos
+MID_OCCUPATION_RESULT_DEFENCE_HUB: Defensa de camp.
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aLa batalla $a0 finalizará en breve.
+MID_OCCUPATION_LEFT_TIME_WARNING: No contarán los resultados tras la fase.
+MID_PORTRAIT_DAILY_BONUS_INFO_59: Gana 2 orbes cada día por superar un\nmapa, durante un máximo de 7 días.
+MID_PORTRAIT_HELP_DIALOG_03_02: -Orbes gratis diarios-\nGana 2 orbes cada día\npor superar un mapa,\ndurante un máximo de 7 días.
+MID_SEQUENTIAL_MAP_TERM_201809: Entrada al destino
+MID_TAP_BATTLE_CONFIG_REVERSE: Cambiar\nde dirección
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: -Cambiar de dirección-\nActiva esta opción para cambiar\nen qué lado de la pantalla\naparecen tus unidades\ny los enemigos.\n\n-Velocidad-\nAumenta la velocidad\nde movimiento de los enemigos\nhasta triplicarla. Esta opción\nno afecta a los jefes.
+MID_RELAY_HELP_DIALOG_00: ¡Nuevos aliados cada dos turnos!
+MID_RELAY_HELP_DIALOG_01: -Defensa por relevos-\n・ 5 aliados de una brigada de 20\nparticiparán en la batalla.\n・ En los turnos 3, 5 y 7, cinco\nnuevos aliados remplazarán\na tu equipo actual.\n・ La batalla termina en el turno 8\no cuando el enemigo destruya\ntu fuerte.
+MID_RELAY_HELP_DIALOG_02: -Fuertes-\n・ Se destruyen en tres ataques.\n・ Puedes teletransportarte\na un fuerte que controles.\n・ En ellos, las unidades\nrecuperan 10 PV al inicio\nde cada turno.\n・ Se consideran terreno\ndefensivo.
+MID_RELAY_HELP_DIALOG_03: -Campamentos-\n・ Se destruyen en dos ataques.\n・ Puedes teletransportarte\na un campamento que controles.\n・ En ellos, las unidades\nrecuperan 10 PV al inicio\nde cada turno.\n・ Se consideran terreno\ndefensivo.
+MID_RELAY_HELP_DIALOG_04: -Teletransporte-\nLas unidades adyacentes\na un fuerte o un campamento\nque controle tu bando pueden\nteletransportarse a una casilla\nadyacente a otro fuerte\no campamento bajo tu control.
+MID_RELAY_HELP_DIALOG_05: -Puntos en defensa por relevos-\nAl terminar la batalla, recibirás\npuntos.\n\nPuedes conseguir una puntuación\nmayor protegiendo tu fuerte y tus\ncampamentos y ayudando a tus\naliados a sobrevivir hasta que\notros los sustituyan.
+MID_RELAY_HELP_DIALOG_06: -Información adicional-\n・ Aparecerán refuerzos\nenemigos.\n・ No recibirás valor de héroe.
+MID_UNIT_EDIT_DISPOSE: Editar barracones
+MID_UNIT_EDIT_STOCK_GENERATE: Crear manual
+MID_UNIT_EDIT_STOCK_SELL: Canjear manuales
+MID_UNIT_EDIT_STOCK_LIST: Lista de manuales
+MID_UNIT_EDIT_STOCK_EMPTY: No tienes manuales.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: Elige un héroe y crea un manual de combate.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: Si envías a un héroe de vuelta\na su mundo, recibirás manuales de combate.
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: Crear
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: ¿Quieres crear\nun manual de combate?
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: Ten en cuenta que, si usas un héroe\npara crear un manual de combate,\nno podrás recuperarlo.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: El manual de combate no incluirá:
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・ Niveles y Exp
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・ Habilidades aprendidas
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・ Habilidades legadas o refinadas
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・ Cantidad de combinaciones
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・ Bendiciones recibidas
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: Si usas un héroe para crear\nun manual de combate,\nlo perderás de forma permanente.\n¿Seguro que quieres crear\nun manual de combate?
+MID_UNIT_EDIT_STOCK_SELL_LABEL: Canjear
+MID_UNIT_EDIT_STOCK_SELL_HELP1: Elige un manual para canjearlo.
+MID_UNIT_EDIT_STOCK_SELL_HELP2: ¿Cuántos manuales quieres canjear?
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a$a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: Canjear
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: ¿Quieres canjear tu selección?
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: Si canjeas un manual de combate,\nlo perderás de forma permanente.
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: Si canjeas un manual de combate,\nno podrás recuperarlo.\n\nConfirma tu decisión.
+MID_UNIT_EDIT_STOCK_LIST_HELP: Estos son los manuales de combate que tienes.
+MID_UNIT_EDIT_STOCK_HELP: -Manual de combate-\nPuedes usarlo en lugar de un aliado\nen menús como "Combinar héroes"\no "Legar habilidad".
+MID_UNIT_EDIT_PROMOTION_HELP1_2: Elige un héroe para aumentar su rareza (★).
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: Elige cuántos manuales de combate\nquieres mejorar.
+MID_UNIT_EDIT_SELL_WARNING_1: Ten en cuenta que, si envías un héroe\na su mundo, no podrás recuperarlo.
+MID_UNIT_EDIT_SELL_WARNING_2: Si envías a un héroe de vuelta\na su mundo, lo perderás\nde forma permanente.\n¿Seguro que quieres hacerlo?
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a$a0/$a1
+MID_STOCK_HELP_DIALOG_00: Mejora a tus héroes con manuales
+MID_STOCK_HELP_DIALOG_01: -Crear manuales de combate-\nSi envías a un héroe de vuelta\na su mundo, recibirás su manual\nde combate. Sin embargo,\nno podrás recuperar al héroe,\nasí que piénsatelo bien.
+MID_STOCK_HELP_DIALOG_02: -Usar manuales de combate (1)-\nPuedes usarlos en lugar\nde aliados en "Combinar héroes",\n"Legar habilidad" y otros menús.\n\nIgual que con los héroes, puedes\naumentar el nivel de rareza (★)\nde los manuales de combate\ncon la opción "Aumentar rareza".
+MID_STOCK_HELP_DIALOG_03: -Usar manuales de combate (2)-\nEl manual de combate no incluirá:\n\n・ Niveles y Exp\n・ Habilidades aprendidas\n・ Habilidades legadas\no refinadas\n・ Cantidad de combinaciones\n・ Bendiciones recibidas
+MID_STOCK_SELL_HELP_DIALOG_00: -Canjear manuales de combate-\nLos manuales se pueden canjear\npor plumas de héroe, pero\ndespués no podrás recuperarlos,\nasí que piénsatelo bien.
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: Has alcanzado el límite de manuales\nde combate. No puedes crear más.
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: Has alcanzado el límite de manuales\nde combate. No puedes aumentar\nla rareza de ninguno.
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: Priorizar
+MID_UNIT_EDIT_SKILL_SET_RESET: Restaurar set
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: ¿Vaciar este set?
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: -Aumentar el potencial-\nEs posible aumentar la rareza (★)\nde las unidades con ciertos\nobjetos. Incrementar la rareza\npermite liberar parte\nde su potencial.\n\nLa unidad vuelve al nivel 1, pero\npuede aprender habilidades más\npoderosas y mejorar los atributos\na mayor ritmo.
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: Has creado un manual\nde combate.\n\nPara ver tus manuales,\ntoca "Lista de manuales".
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: El canje se ha completado.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: -Editar brigadas-\nLas brigadas son equipos que\nse usan en los dominios rivales\ny en la defensa por relevos.\nPueden incluir hasta 20 unidades\nde tus barracones o de los de\namigos. Los espacios vacíos\nse llenarán automáticamente\ncon refuerzos.

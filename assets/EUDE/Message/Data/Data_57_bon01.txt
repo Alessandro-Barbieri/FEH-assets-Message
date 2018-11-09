@@ -1,0 +1,215 @@
+[Heroes Archive] (Data_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MWID_H_赤暗: R Dolch. Reichw.: 2 - Phys. Waffe. Ver.\ndes Angriffsziels reduziert Schaden.\nKann gegn. Statuswerte zeitw. senken.
+MWID_H_青暗: B Dolch. Reichw.: 2 - Phys. Waffe. Ver.\ndes Angriffsziels reduziert Schaden.\nKann gegn. Statuswerte zeitw. senken.
+MWID_H_緑暗: G Dolch. Reichw.: 2 - Phys. Waffe. Ver.\ndes Angriffsziels reduziert Schaden.\nKann gegn. Statuswerte zeitw. senken.
+MDAID_花のかんざし: Festliche Haarnadel
+MDAID_H_花のかんざし: Haarschmuck für hoshidische Feste.\nDie blumige Gestaltung findet bei\nvielen Anklang.
+MDAID_夏祭りのお面: Sommerfestmaske
+MDAID_H_夏祭りのお面: Eine Maske für hoshidische Feste.\nDas Drachengesicht ist besonders\nniedlich!
+MID_MISSION_S201808ARM01_TITLE: Waffenübungen
+MID_MISSION_S201808ARM01_A1: Schwert gewinnt
+MID_MISSION_H_S201808ARM01_A1: Lass einen Verbündeten mit Schwert\nGegner besiegen.
+MID_MISSION_S201808ARM01_A2: Lanze gewinnt
+MID_MISSION_H_S201808ARM01_A2: Lass einen Verbündeten mit Lanze\nGegner besiegen.
+MID_MISSION_S201808ARM01_A3: Axt gewinnt
+MID_MISSION_H_S201808ARM01_A3: Lass einen Verbündeten mit Axt\nGegner besiegen.
+MID_MISSION_S201808ARM01_A4: Farbloser Bogen gewinnt
+MID_MISSION_H_S201808ARM01_A4: Lass einen Verbündeten mit farblosem Bogen\nGegner besiegen.
+MID_MISSION_S201808ARM01_A5: Farbloser Dolch gewinnt
+MID_MISSION_H_S201808ARM01_A5: Lass einen Verbündeten mit farblosem Dolch\nGegner besiegen.
+MID_MISSION_S201808ARM01_A6: Rotes Buch gewinnt
+MID_MISSION_H_S201808ARM01_A6: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen.
+MID_MISSION_S201808ARM01_A7: Blaues Buch gewinnt
+MID_MISSION_H_S201808ARM01_A7: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen.
+MID_MISSION_S201808ARM01_A8: Grünes Buch gewinnt
+MID_MISSION_H_S201808ARM01_A8: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen.
+MID_MISSION_S201808ARM01_A9: Stab gewinnt
+MID_MISSION_H_S201808ARM01_A9: Lass einen Verbündeten mit Stab\nGegner besiegen.
+MID_MISSION_S201808ARM01_A10: Schwert gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A10: Lass einen Verbündeten mit Schwert\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201808ARM01_A11: Lanze gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A11: Lass einen Verbündeten mit Lanze\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201808ARM01_A12: Axt gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A12: Lass einen Verbündeten mit Axt\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201808ARM01_A13: F. Bogen gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A13: Lass einen Verbündeten mit farblosem Bogen\nGegner besiegen, die Level 35 oder höher sind.
+MID_MISSION_S201808ARM01_A14: F. Dolch gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A14: Lass einen Verbündeten mit farblosem Dolch\nGegner besiegen, die Level 35 oder höher sind.
+MID_MISSION_S201808ARM01_A15: R. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A15: Lass einen Verbündeten mit rotem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808ARM01_A16: B. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A16: Lass einen Verbündeten mit blauem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808ARM01_A17: G. Buch gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A17: Lass einen Verbündeten mit grünem\nBuch Gegner besiegen, die\nLevel 35 oder höher sind.
+MID_MISSION_S201808ARM01_A18: Stab gewinnt/Lv. 35+
+MID_MISSION_H_S201808ARM01_A18: Lass einen Verbündeten mit Stab\nGegner besiegen, die Level 35\noder höher sind.
+MID_MISSION_S201808KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201808KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201808KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Corrin & Azura mit Sharena:\nPrinzessin von Askr im Team.
+MID_MISSION_S201808KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201808KIZUNA01_A2: Gewinne den Treue-Heldenkampf\ngegen Corrin & Azura mit Anna\nim Team auf Extrem oder höher.
+MID_MISSION_S201808KIZUNA01_A3: Corrin besiegen
+MID_MISSION_H_S201808KIZUNA01_A3: Besiege Corrin: Schicksalsherr,\nder Level 40 oder höher ist, mit\nSharena: Prinzessin von Askr.
+MID_MISSION_S201808KIZUNA01_A4: Azura besiegen
+MID_MISSION_H_S201808KIZUNA01_A4: Besiege Azura: Herrin des Sees,\ndie Level 40 oder höher ist, mit\nAnna.
+MID_MISSION_S201808KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201808KIZUNA01_A5: Gewinne den Treue-Heldenkampf gegen\nCorrin & Azura auf Extrem oder höher\nnur mit berittenen Einheiten.
+MID_MISSION_S201808SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201808SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201808SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201808SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201808SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201808SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA02_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201808SENKA02_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201808SENKA02_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA02_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201808SENKA02_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA02_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201808SENKA02_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808SENKA02_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201808SENKA02_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201808STORY01_TITLE: Festival in Hoshido
+MID_MISSION_S201808STORY01_A1: Nebenq. 23 Tl. 1 - Extrem
+MID_MISSION_H_S201808STORY01_A1: Bewältige Nebenquest 23: Teil 1 auf Extrem\nmit einem Axtkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808STORY01_A2: Nebenq. 23 Tl. 2 - Extrem
+MID_MISSION_H_S201808STORY01_A2: Bewältige Nebenquest 23: Teil 2 auf Extrem\nmit einem Schwertkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808STORY01_A3: Nebenq. 23 Tl. 3 - Extrem
+MID_MISSION_H_S201808STORY01_A3: Bewältige Nebenquest 23: Teil 3 auf Extrem\nmit einem Lanzenkämpfer im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201808TAPBTL01_D01_A1: Lissa besiegen
+MID_MISSION_H_S201808TAPBTL01_D01_A1: Besiege den Boss Lissa auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Normal.
+MID_MISSION_S201808TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201808TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201808TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201808TAPBTL01_D02_A1: Lissa besiegen
+MID_MISSION_H_S201808TAPBTL01_D02_A1: Besiege den Boss Lissa auf den Ebenen\n-15 bis -19 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201808TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201808TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201808TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201808TAPBTL01_D03_A1: Azura besiegen
+MID_MISSION_H_S201808TAPBTL01_D03_A1: Besiege den Boss Azura auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Normal.
+MID_MISSION_S201808TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201808TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201808TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201808TAPBTL01_D04_A1: Azura besiegen
+MID_MISSION_H_S201808TAPBTL01_D04_A1: Besiege den Boss Azura auf den Ebenen\n-35 bis -39 im Tipp-Kampf auf Schwer.
+MID_MISSION_S201808TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201808TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201808TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201808TAPBTL02_A1: Boss-Stufen
+MID_MISSION_H_S201808TAPBTL02_A1: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201808TAPBTL02_A2: Boss-Stufen
+MID_MISSION_H_S201808TAPBTL02_A2: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201808TAPBTL02_A3: Stufen abschließen
+MID_MISSION_H_S201808TAPBTL02_A3: Schließe einige Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201808TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201808TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MID_MISSION_S201808TAPBTL02_A5: Ebenen -5 bis -9
+MID_MISSION_H_S201808TAPBTL02_A5: Schließe die Ebenen -5 bis -9\nim Tipp-Kampf ab.
+MID_MISSION_S201808TAPBTL02_A6: Ebenen -80 bis -84
+MID_MISSION_H_S201808TAPBTL02_A6: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MPID_夏祭リョウマ: Ryoma
+MPID_夏祭エリンシア: Elincia
+MPID_夏祭マークス: Xander
+MPID_夏祭ミカヤ: Micaiah
+MPID_HONOR_夏祭リョウマ: Yukata-Samurai
+MPID_HONOR_夏祭エリンシア: Sommeradelige
+MPID_HONOR_夏祭マークス: Yukata-Ritter
+MPID_HONOR_夏祭ミカヤ: Sommermorgen
+MPID_H_夏祭リョウマ: Kronprinz von Hoshido, der sehr direkt und\npflichtbewusst ist. Nimmt derzeit an einem\ntraditionellen hoshidischen Sommerfest teil.\nErscheint in Fire Emblem Fates.
+MPID_H_夏祭エリンシア: Die Prinzessin von Crimea, die sich um ihr Reich\nund ihr Volk sorgt. Sie ist erfreut über all die\nheiteren Tänze beim Sommerfest. Erscheint\nin Fire Emblem: Radiant Dawn
+MPID_H_夏祭マークス: Kronprinz von Nohr, der sich stets verbessern\nwill. Hat sich nach der Einladung zu einem\nhoshidischen Fest für ein traditionelles Gewand\nentschieden. Erscheint in Fire Emblem Fates.
+MPID_H_夏祭ミカヤ: Ein Mitglied des Bundes der Morgenröte mit\nsilbernem Haar. Die ungewohnte Kleidung für\ndas Sommerfest ist ihr nicht ganz geheuer.\nErscheint in Fire Emblem: Radiant Dawn.
+MPID_VOICE_夏祭リョウマ: Matt Mercer
+MPID_VOICE_夏祭エリンシア: Amanda Miller
+MPID_VOICE_夏祭マークス: George Spelvin
+MPID_VOICE_夏祭ミカヤ: Veronica Taylor
+MPID_ILLUST_夏祭リョウマ: Kita Senri (北千里)
+MPID_ILLUST_夏祭エリンシア: Asatani Tomoyo (麻谷知世)
+MPID_ILLUST_夏祭マークス: PenekoR (п猫Ｒ)
+MPID_ILLUST_夏祭ミカヤ: Chiko (チーコ)
+MSID_第13迷宮の覇者1: Überfall-Ass M 1
+MSID_第13迷宮の覇者2: Überfall-Ass M 2
+MSID_第13迷宮の覇者3: Überfall-Ass M 3
+MSID_青天の舞扇: Blauer Maiougi
+MSID_青天の舞扇＋: Blauer Maiougi+
+MSID_緑雲の舞扇: Grüner Maiougi
+MSID_緑雲の舞扇＋: Grüner Maiougi+
+MSID_宵闇の団扇: Abend-Uchiwa
+MSID_宵闇の団扇＋: Abend-Uchiwa+
+MSID_暁天の神楽鈴: Morgen-Suzu
+MSID_業火静水の舞い1: Lavatanz 1
+MSID_業火静水の舞い2: Lavatanz 2
+MSID_疾風大地の舞い1: Erdrutschtanz 1
+MSID_疾風大地の舞い2: Erdrutschtanz 2
+MSID_速さ魔防の紋章1: Ges./Res. ansp.1
+MSID_速さ魔防の紋章2: Ges./Res. ansp.2
+MSID_守備の波・奇数1: Ungrade Ver. 1
+MSID_守備の波・奇数2: Ungrade Ver. 2
+MSID_守備の波・奇数3: Ungrade Ver. 3
+MSID_H_フォルクヴァング改: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Ver. +7 im Kampf.
+MSID_H_フェンサリル改: Boni von Gegnern (z. B. durch\nStärken oder Sammeln) werden\nim Kampf aufgehoben.
+MSID_H_ノーアトゥーン改: Sind die KP der Einheit ≤ 50 %, kann sie\nauf ein benachbartes Feld eines\nbeliebigen Verbündeten ziehen.
+MSID_H_第13迷宮の覇者1: Verleiht Res. +1.
+MSID_H_第13迷宮の覇者2: Verleiht Res. +2.
+MSID_H_第13迷宮の覇者3: Verleiht Res. +3.
+MSID_H_青天の舞扇: Effektiv gegen gepanzerte Gegner. Hebt bei\nEinheit und Gegner Fähigkeiten auf, die die\nZugfolge ändern. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels nach dem Kampf\nVer./Res. -5 bis nach ihren nächsten Aktionen.
+MSID_H_青天の舞扇＋: Effektiv gegen gepanzerte Gegner. Hebt bei\nEinheit und Gegner Fähigkeiten auf, die die\nZugfolge ändern. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels nach dem Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_緑雲の舞扇: Effektiv gegen Drachen. Hebt bei Einheit und\nGegner Fähigkeiten auf, die die Zugfolge\nändern. Hat die Einheit angegriffen, erleiden\nZiel und Gegner im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf Ver./Res. -5\nbis nach ihren nächsten Aktionen.
+MSID_H_緑雲の舞扇＋: Effektiv gegen Drachen. Hebt bei Einheit und\nGegner Fähigkeiten auf, die die Zugfolge\nändern. Hat die Einheit angegriffen, erleiden\nZiel und Gegner im Umkreis von 2 Feldern\ndes Ziels nach dem Kampf Ver./Res. -7\nbis nach ihren nächsten Aktionen.
+MSID_H_宵闇の団扇: Effektiv gegen berittene Gegner. Hebt bei\nEinheit und Gegner Fähigkeiten auf, die die\nZugfolge ändern. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels nach dem Kampf\nVer./Res. -5 bis nach ihren nächsten Aktionen.
+MSID_H_宵闇の団扇＋: Effektiv gegen berittene Gegner. Hebt bei\nEinheit und Gegner Fähigkeiten auf, die die\nZugfolge ändern. Hat die Einheit angegriffen,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels nach dem Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_暁天の神楽鈴: Effektiv gegen gepanzerte und berittene\nGegner. Verleiht Angr. +3. Hebt bei\nEinheit und Gegner Fähigkeiten auf,\ndie die Zugfolge ändern.
+MSID_H_業火静水の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Angr. +2 und Res. +3.
+MSID_H_業火静水の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Angr. +3 und Res. +4.
+MSID_H_疾風大地の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +2 und Ver. +3.
+MSID_H_疾風大地の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +3 und Ver. +4.
+MSID_H_速さ魔防の紋章1: Verleiht benachbarten Verbündeten\nGes./Res. +2 im Kampf.
+MSID_H_速さ魔防の紋章2: Verleiht benachbarten Verbündeten\nGes./Res. +3 im Kampf.
+MSID_H_守備の波・奇数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nVer. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_守備の波・奇数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nVer. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_守備の波・奇数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nVer. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MID_CHAPTER_TITLE_CX022: Nebenquest 23
+MID_CHAPTER_CX022: Festival in Hoshido
+MID_STAGE_TITLE_X0221: Nebenq. 23: Tl. 1
+MID_STAGE_TITLE_X0222: Nebenq. 23: Tl. 2
+MID_STAGE_TITLE_X0223: Nebenq. 23: Tl. 3
+MID_STAGE_X0221: Zu Ehren des Landes
+MID_STAGE_X0222: Die Götter vergehen...
+MID_STAGE_X0223: Der Wind selbst
+MID_STAGE_HONOR_T0037: Treue-Heldenkampf
+MID_STAGE_T0037: M & S
+MID_STAGE_TITLE_PC011: Großmeister 11
+MID_STAGE_PC011: Geteiltes Land
+MID_STAGE_TITLE_BG_WATER_0011: Wasser 1
+MID_STAGE_TITLE_BG_WIND_0011: Wind 1
+MID_STAGE_TITLE_SB_0013: 13. Überfall
+MID_STAGE_HONOR_Q0023: Wöchentlich
+MID_STAGE_Q0023: Revierkampf
+MID_STAGE_HONOR_Q0024: Wöchentlich
+MID_STAGE_Q0024: Revierkampf
+MID_STAGE_HONOR_Q0025: Wöchentlich
+MID_STAGE_Q0025: Revierkampf
+MID_STAGE_HONOR_Q0026: Wöchentlich
+MID_STAGE_Q0026: Revierkampf
+MID_TAP_BATTLE_DATA_TITLE_0007: Festival der Helden
+MID_MUSIC_NAME_BGM_MAP_FES_02: Mehr Fanfestival
+MID_MUSIC_NAME_BGM_MAP_POPULARITY_01: Tapfere Helden
+MID_MUSIC_NAME_BGM_MAP_FE13_06: Göttl. Dekret (In Flammen)

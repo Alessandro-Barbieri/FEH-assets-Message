@@ -1,0 +1,38 @@
+[Heroes Archive] (MARKS_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARKS_BON01_HOME1: 身為暗夜王國的第一王子，\n可不能讓人看到我跳出笨拙的舞步……
+MID_MARKS_BON01_HOME2: 這就是白夜的夏祭啊。\n雖說早有耳聞，\n但的確是很振奮人心啊。
+MID_MARKS_BON01_HOME3: 怎麼了？在旁邊看就好嗎？\n我一開始也是這麼想……\n但只要跳看看，就能明白舞蹈的美妙之處。
+MID_MARKS_BON01_HOME4: 過去暗夜與白夜彼此不合，\n反覆上演無止盡的戰爭……\n但現在我們牽起友誼之手，一同前進。
+MID_MARKS_BON01_HOME5: 我一定要把這舞蹈的美妙之處告訴弟妹們，\n他們一定會很開心的。
+MID_MARKS_BON01_FRIEND: $Nf向你問候。\n我這身裝扮嗎……？\n這是白夜王國的神聖服裝。
+MID_MARKS_BON01_LEVEL1: 看看我的舞蹈吧！
+MID_MARKS_BON01_LEVEL2: 唔……\n還是有點放不開嗎……
+MID_MARKS_BON01_LEVEL3: 唔……\n手腳動作不太協調……！
+MID_MARKS_BON01_SKILL: 感謝你，\n看來我的舞蹈也能更上一層樓了。
+MID_MARKS_BON01_JOIN: 我是暗夜王國第一王子──馬克斯。\n也讓我加入……\n傳聞中的白夜夏祭舞蹈吧。
+MID_MARKS_BON01_STRONGEST: 「人類的歷史即為戰爭的歷史」……\n許多文獻上都這麼記載，\n這確實是不可抹滅的真相。$k$p但人類的存在並非只為了鬥爭與廝殺。$k$p有時也能笑著牽手圍成一圈，\n一同向前邁進。$k$p看看參加夏祭的人們，\n臉上露出多麼愉快的笑容！\n在這裡，沒有白夜與暗夜之分。$k$p祭典串聯了人們，使大家合為一體，\n但願這份和平能一直持續下去。
+MID_MARKS_BON01_VOICE01: 嘿！
+MID_MARKS_BON01_VOICE02: 喝！
+MID_MARKS_BON01_VOICE03: 嗚啊啊啊！
+MID_MARKS_BON01_VOICE04: 真不解風情……！
+MID_MARKS_BON01_VOICE05: 跳舞吧！
+MID_MARKS_BON01_VOICE06: 夏日的祝賀！
+MID_MARKS_BON01_VOICE07: 再更火熱一點！
+MID_MARKS_BON01_VOICE08: 祭典的時間到了！
+MID_MARKS_BON01_VOICE09: まだ…踊らねば…
+MID_MARKS_BON01_VOICE10: はっはっは
+MID_MARKS_BON01_VOICE11: 私が踊るぞ
+MID_MARKS_BON01_VOICE12: さあ、見るが良い
+MID_MARKS_BON01_VOICE13: 白夜の浴衣…なかなか良いものだ。軽く、動きやすい。
+MID_MARKS_BON01_VOICE14: む、どうした…？　浴衣の着方が間違っていたか？
+MID_MARKS_BON01_VOICE15: むう…夏祭りの踊りとやら、なかなかに難しい。
+MID_MARKS_BON01_VOICE16: 国によってさまざまな祭りが、人の営みがある…
+MID_MARKS_BON01_VOICE17: お前と共に、夏祭りを過ごしたいものだな…
+MID_MARKS_BON01_VOICE18: いいだろう
+MID_MARKS_BON01_VOICE19: 夏か…
+MID_MARKS_BON01_VOICE20: 踊ってみせよう

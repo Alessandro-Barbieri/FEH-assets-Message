@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: Flower Fortune Pin
+MDAID_H_花占いの髪飾り: A hairpin from Sumia. It's made from a\nflower she used for a flower fortune,\nwith a fresh and lovely scent.
+MDAID_花占いの髪飾り・極: Flower Fortune Pin EX
+MDAID_H_花占いの髪飾り・極: A hairpin from Sumia. It's made from a\nflower she used for a flower fortune,\nwith a refined and elegant scent.
+MDAID_令嬢のリボン: Damsel's Ribbon
+MDAID_H_令嬢のリボン: A hair ribbon from Maribelle. It's made\nfrom the highest quality fabric.
+MDAID_令嬢のリボン・極: Damsel's Ribbon EX
+MDAID_H_令嬢のリボン・極: A hair ribbon from Maribelle. It's made\nfrom the highest quality fabric and is\nlightly perfumed.
+MDAID_踊り子のマスク: Dancer's Mask
+MDAID_H_踊り子のマスク: A mask from Olivia. A dancer would\nwear this to project a mystical aura\nwhile performing.
+MDAID_踊り子のマスク・極: Dancer's Mask EX
+MDAID_H_踊り子のマスク・極: A mask from Olivia. A dancer would\nwear this to project an alluring aura\nwhile performing.
+MDAID_聖職者の帽子: Priest's Miter
+MDAID_H_聖職者の帽子: A hat from Libra. Worn in sacred\nplaces, it can bring peace of mind.
+MDAID_聖職者の帽子・極: Priest's Miter EX
+MDAID_H_聖職者の帽子・極: A hat from Libra. Worn in sacred\nplaces, it inspires a sense of solemnity\nand majesty.
+MID_MISSION_S201807ARENA01_TITLE: Arena
+MID_MISSION_S201807ARENA01_A1: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A1: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A2: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A2: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A3: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A3: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A4: Arena Assault: 3 in a Row
+MID_MISSION_H_S201807ARENA01_A4: Win three consecutive battles\nin Arena Assault.
+MID_MISSION_S201807ARENA01_A5: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A5: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A6: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A6: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A7: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A7: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A8: Arena Assault: 5 in a Row
+MID_MISSION_H_S201807ARENA01_A8: Win five consecutive battles\nin Arena Assault.
+MID_MISSION_S201807ARENA01_A9: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A10: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A11: Win Arena Duels
+MID_MISSION_H_S201807ARENA01_A11: Win Arena Duels at any difficulty.
+MID_MISSION_S201807ARENA01_A12: Arena Assault: 7 in a Row
+MID_MISSION_H_S201807ARENA01_A12: Win seven consecutive battles\nin Arena Assault.
+MID_MISSION_S201807SENKA02_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201807SENKA02_DAILY_A1: Clear Trial
+MID_MISSION_H_S201807SENKA02_DAILY_A1: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201807SENKA02_DAILY_A2: Clear Trial
+MID_MISSION_H_S201807SENKA02_DAILY_A2: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201807SENKA02_DAILY_A3: Clear Trial
+MID_MISSION_H_S201807SENKA02_DAILY_A3: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201807SENKA02_DAILY_A4: Clear Trial
+MID_MISSION_H_S201807SENKA02_DAILY_A4: Clear one of the final maps in Tempest Trials.
+MID_MISSION_S201807STORY02_TITLE: Prince of Ice
+MID_MISSION_S201807STORY02_A1: Clear 11-1 on Lunatic
+MID_MISSION_H_S201807STORY02_A1: Clear Book II, Chapter 11: Part 1 on Lunatic\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY02_A2: Clear 11-2 on Lunatic
+MID_MISSION_H_S201807STORY02_A2: Clear Book II, Chapter 11: Part 2 on Lunatic\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY02_A3: Clear 11-3 on Lunatic
+MID_MISSION_H_S201807STORY02_A3: Clear Book II, Chapter 11: Part 3 on Lunatic\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY02_A4: Clear 11-4 on Lunatic
+MID_MISSION_H_S201807STORY02_A4: Clear Book II, Chapter 11: Part 4 on Lunatic\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY02_A5: Clear 11-5 on Lunatic
+MID_MISSION_H_S201807STORY02_A5: Clear Book II, Chapter 11: Part 5 on Lunatic\nwith a lance ally on your team. All four allies\nmust survive.
+MPID_オリヴィエ2: Olivia
+MPID_スミア: Sumia
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ヴァルハルト: Walhart
+MPID_フリーズ: Hríd
+MPID_HONOR_オリヴィエ2: Sky-High Dancer
+MPID_HONOR_スミア: Maid of Flowers
+MPID_HONOR_マリアベル: Dire Damsel
+MPID_HONOR_リベラ: Fetching Friar
+MPID_HONOR_ヴァルハルト: The Conqueror
+MPID_H_オリヴィエ2: A dancer who travels widely and is quite gifted,\ndespite extreme shyness. Dancing in the sky\nhas opened new horizons of boldness for her!\nAppears in Fire Emblem Awakening.
+MPID_H_スミア: A gentle Shepherd who enjoys flower fortunes.\nShows talent at working with animals. Appears\nin Fire Emblem Awakening.
+MPID_H_マリアベル: A proud noble from one of Ylisse's most\nwell-to-do houses. A Shepherd and Lissa's\nbest friend. Appears in Fire Emblem Awakening.
+MPID_H_リベラ: An Ylissean priest with a calming mien. His\nfeatures are so lovely, he is often mistaken for\na woman. Appears in Fire Emblem Awakening.
+MPID_H_ヴァルハルト: The ruthless emperor of Valm. His hubris\ndrives him to conquer and subjugate.\nAppears in Fire Emblem Awakening.
+MPID_VOICE_オリヴィエ2: Karen Strassman
+MPID_VOICE_スミア: —
+MPID_VOICE_マリアベル: Melissa Fahn
+MPID_VOICE_リベラ: Cindy Robinson
+MPID_VOICE_ヴァルハルト: Richard Epcar
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: Kousei Horiguchi (恒星ホリグチ)
+MPID_ILLUST_リベラ: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_ヴァルハルト: Soeda Ippei (添田一平)
+MSID_スクルド: Skuld
+MSID_反攻の槍: Reprisal Lance
+MSID_反攻の槍＋: Reprisal Lance+
+MSID_ヴォルフベルグ: Wolf Berg
+MSID_倭棍: Wo Gùn
+MSID_倭棍＋: Wo Gùn+
+MSID_トリレンマ: Trilemma
+MSID_トリレンマ＋: Trilemma+
+MSID_金剛明鏡の構え1: Bracing Stance 1
+MSID_金剛明鏡の構え2: Bracing Stance 2
+MSID_攻撃守備の連携1: Atk/Def Link 1
+MSID_攻撃守備の連携2: Atk/Def Link 2
+MSID_攻撃守備の連携3: Atk/Def Link 3
+MSID_攻撃魔防の紋章1: Spur Atk/Res 1
+MSID_攻撃魔防の紋章2: Spur Atk/Res 2
+MSID_杖の技量1: Staff Valor 1
+MSID_杖の技量2: Staff Valor 2
+MSID_杖の技量3: Staff Valor 3
+MSID_H_スクルド: If Sing or Dance is used, grants\nAtk/Spd/Def/Res+3 to target.
+MSID_H_反攻の槍: If foe initiates combat, grants Atk+6 during\ncombat.
+MSID_H_反攻の槍＋: If foe initiates combat, grants Atk+6 during\ncombat.
+MSID_H_ヴォルフベルグ: Grants Def+3. If the number of foes within\n2 spaces (excluding target) ≥ the number of\nallies within 2 spaces (excluding unit),\ngrants Atk/Spd/Def/Res+4 during combat.
+MSID_H_倭棍: Deals +10 damage when Special triggers.
+MSID_H_倭棍＋: Deals +10 damage when Special triggers.
+MSID_H_トリレンマ: After combat, if unit attacked, inflicts the following\nstatus on foe through its next action: "If unit has\nweapon-triangle advantage, boosts Atk by 20%.\nIf unit has weapon-triangle disadvantage, reduces\nAtk by 20%."
+MSID_H_トリレンマ＋: After combat, if unit attacked, inflicts the following\nstatus on target and foes within 2 spaces of target\nthrough their next actions: "If unit has weapon-\ntriangle advantage, boosts Atk by 20%. If unit has\nweapon-triangle disadvantage, reduces Atk\nby 20%."
+MSID_H_金剛明鏡の構え1: If foe initiates combat, grants Def/Res+2 during\ncombat.
+MSID_H_金剛明鏡の構え2: If foe initiates combat, grants Def/Res+4 during\ncombat.
+MSID_H_攻撃守備の連携1: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Def+2 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃守備の連携2: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Def+4 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃守備の連携3: If a movement Assist skill (like Reposition,\nShove, Pivot, etc.) is used by unit or targets\nunit, grants Atk/Def+6 to unit and target ally\nor unit and targeting ally for 1 turn.
+MSID_H_攻撃魔防の紋章1: Grants Atk/Res+2 to adjacent allies\nduring combat.
+MSID_H_攻撃魔防の紋章2: Grants Atk/Res+3 to adjacent allies\nduring combat.
+MSID_H_杖の技量1: While unit lives and uses a staff, unit gets\n1.5x SP after combat or after using a healing\nAssist skill. (Only highest value applied.\nDoes not stack.)
+MSID_H_杖の技量2: While unit lives, all staff allies on team get\n1.5x SP after combat or after using healing\nAssist skills. (Only highest value applied.\nDoes not stack.)
+MSID_H_杖の技量3: While unit lives, all staff allies on team get\n2x SP after combat or after using healing\nAssist skills. (Only highest value applied.\nDoes not stack.)
+MID_CHAPTER_TITLE_C0211: Book II, Chapter 11
+MID_CHAPTER_C0211: Prince of Ice
+MID_STAGE_TITLE_S2111: Chapter 11-1
+MID_STAGE_TITLE_S2112: Chapter 11-2
+MID_STAGE_TITLE_S2113: Chapter 11-3
+MID_STAGE_TITLE_S2114: Chapter 11-4
+MID_STAGE_TITLE_S2115: Chapter 11-5
+MID_STAGE_S2111: The Enemy of My Enemy
+MID_STAGE_S2112: Flower Fortunes
+MID_STAGE_S2113: From the Depths of Hell
+MID_STAGE_S2114: Dance in the Sky
+MID_STAGE_S2115: Burnt-Bone Gorge
+MID_STAGE_HONOR_T0035: Bound Hero Battle
+MID_STAGE_T0035: L & E
+MID_STAGE_HONOR_T0036: The Conqueror
+MID_STAGE_T0036: Walhart
+MID_STAGE_TITLE_PB020: Skill Studies 20
+MID_STAGE_PB020: Trilemma Trickery

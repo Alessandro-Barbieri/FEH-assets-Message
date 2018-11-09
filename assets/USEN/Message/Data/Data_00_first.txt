@@ -1787,9 +1787,9 @@ MSID_守備魔防の紋章1: Spur Def/Res 1
 MSID_守備魔防の紋章2: Spur Def/Res 2
 MSID_エンブラの加護: Embla's Ward
 MSID_H_ラグネル: Unit can counterattack regardless of foe's range.
-MSID_H_剛剣1: If unit’s Atk ≥ foe’s Atk+5, grants Special\ncooldown charge +1 per attack. (Only highest\nvalue applied. Does not stack.)
-MSID_H_剛剣2: If unit’s Atk ≥ foe’s Atk+3, grants Special\ncooldown charge +1 per attack. (Only highest\nvalue applied. Does not stack.)
-MSID_H_剛剣3: If unit’s Atk > foe’s Atk, grants Special cooldown\ncharge +1 per attack. (Only highest value applied.\nDoes not stack.)
+MSID_H_剛剣1: If unit’s Atk ≥ foe’s Atk+5, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_剛剣2: If unit’s Atk ≥ foe’s Atk+3, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_剛剣3: If unit’s Atk > foe’s Atk, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
 MSID_H_水薙ぎ1: If unit initiates combat, unit cannot make a\nfollow-up attack. If unit’s Spd ≥ foe’s Spd+5 and\nfoe uses magic, staff, or dragonstone, foe cannot\ncounterattack.
 MSID_H_水薙ぎ2: If unit initiates combat, unit cannot make a\nfollow-up attack. If unit’s Spd ≥ foe’s Spd+3 and\nfoe uses magic, staff, or dragonstone, foe cannot\ncounterattack.
 MSID_H_水薙ぎ3: If unit initiates combat, unit cannot make a\nfollow-up attack. If unit’s Spd > foe’s Spd and foe\nuses magic, staff, or dragonstone, foe cannot\ncounterattack.
@@ -3505,11 +3505,11 @@ MSID_速さの謀策1: Spd Ploy 1
 MSID_速さの謀策2: Spd Ploy 2
 MSID_速さの謀策3: Spd Ploy 3
 MSID_H_聖剣ティルフィング: Grants Res+3. Reduces damage from magic foe's\nfirst attack by 50%.
-MSID_H_瞬閃アイラの剣: Grants Spd+3. If unit's Spd > foe's Spd, grants\nSpecial cooldown charge +1 per attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_瞬閃アイラの剣: Grants Spd+3. If unit's Spd > foe's Spd, grants\nSpecial cooldown charge +1 per unit's attack.\n(Only highest value applied. Does not stack.)
 MSID_H_ファラフレイム: At start of turn, inflicts Atk/Res-4 on foes in\ncardinal directions with Res < unit's Res through\ntheir next actions.
 MSID_H_聖書ナーガ: Effective against dragon foes. Neutralizes foe's\nbonuses (from skills like Fortify, Rally, etc.) during\ncombat.
 MSID_H_速さ魔防の応援: Grants Spd/Res+3 to target ally for 1 turn.
-MSID_H_剣姫の流星: Boosts damage dealt by 40% of unit's Spd.\n(Skill cannot be inherited.)
+MSID_H_剣姫の流星: Boosts damage by 40% of unit's Spd. (Skill\ncannot be inherited.)
 MSID_H_聖騎士の加護: If unit receives consecutive attacks and foe's\nRange = 2, reduces damage from foe's second\nattack onward by 80%. (Skill cannot be inherited.)
 MSID_H_追撃リング: At start of combat, if unit's HP ≥ 50%, unit makes\na guaranteed follow-up attack. (Skill cannot be\ninherited.)
 MSID_H_リカバーリング: At start of turn, restores 10 HP. (Skill cannot be\ninherited.)
@@ -4077,7 +4077,7 @@ MSID_速さの大紋章2: Drive Spd 2
 MSID_攻撃の紫煙1: Atk Smoke 1
 MSID_攻撃の紫煙2: Atk Smoke 2
 MSID_攻撃の紫煙3: Atk Smoke 3
-MSID_H_烈剣デュランダル: Grants Atk+3. If unit's Atk > foe's Atk, grants\nSpecial cooldown charge +1 per attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_烈剣デュランダル: Grants Atk+3. If unit's Atk > foe's Atk, grants\nSpecial cooldown charge +1 per unit's attack.\n(Only highest value applied. Does not stack.)
 MSID_H_ゲイルスケグル: Grants Def+3. If allies within 2 spaces use\nsword, lance, axe, bow, or dagger, grants\nAtk/Spd+3 to those allies during combat.
 MSID_H_ウルヴァン: Accelerates Special trigger (cooldown count-1).\nIf unit receives consecutive attacks, reduces\ndamage from foe's second attack onward by 80%.
 MSID_H_ミュルグレ: Effective against flying foes. Grants Spd+3.\nNeutralizes magic foe's bonuses (from skills like\nFortify, Rally, etc.) during combat.
@@ -4155,8 +4155,8 @@ MPID_VOICE_ルーテ: Brina Palencia
 MPID_VOICE_ワユ: Lani Minella
 MPID_ILLUST_ドルカス: Soeda Ippei (添田一平)
 MPID_ILLUST_ヨシュア: Fujiwara Ryo (冨士原良)
-MPID_ILLUST_ルーテ: 瀬尾公治
-MPID_ILLUST_ワユ: 米山舞
+MPID_ILLUST_ルーテ: Seo Kouji (瀬尾公治)
+MPID_ILLUST_ワユ: Yoneyama Mai (米山舞)
 MSID_気鋭ワユの剣: Resolute Blade
 MSID_氷剣アウドムラ: Audhulma
 MSID_剛斧トマホーク: Stout Tomahawk
@@ -4178,9 +4178,9 @@ MSID_H_HP魔防2: Grants HP+4, Res+2.
 MSID_H_鬼神の構え1: If foe initiates combat, grants Atk+2 during\ncombat.
 MSID_H_鬼神の構え2: If foe initiates combat, grants Atk+4 during\ncombat.
 MSID_H_鬼神の構え3: If foe initiates combat, grants Atk+6 during\ncombat.
-MSID_H_柔剣1: If unit’s Spd ≥ foe’s Spd+5, grants Special\ncooldown charge +1 per attack. (Only highest\nvalue applied. Does not stack.)
-MSID_H_柔剣2: If unit’s Spd ≥ foe’s Spd+3, grants Special\ncooldown charge +1 per attack. (Only highest\nvalue applied. Does not stack.)
-MSID_H_柔剣3: If unit’s Spd > foe’s Spd, grants Special\ncooldown charge +1 per attack. (Only highest\nvalue applied. Does not stack.)
+MSID_H_柔剣1: If unit’s Spd ≥ foe’s Spd+5, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_柔剣2: If unit’s Spd ≥ foe’s Spd+3, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
+MSID_H_柔剣3: If unit’s Spd > foe’s Spd, grants Special\ncooldown charge +1 per unit's attack. (Only\nhighest value applied. Does not stack.)
 MID_CHAPTER_TITLE_CX014: Paralogue 15
 MID_CHAPTER_CX014: Farfetched Heroes
 MID_STAGE_TITLE_X0141: Paralogue 15-1

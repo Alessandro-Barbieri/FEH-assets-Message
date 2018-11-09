@@ -1,0 +1,38 @@
+[Heroes Archive] (LAEGJARN_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_LAEGJARN_MIKATA01_HOME1: ここの気候は、ムスペルとも\nニフルとも違うのね…把握しておけば、\nいつか役に立つ時が来るかもしれない。
+MID_LAEGJARN_MIKATA01_HOME2: 私たちのムスペル王国は強者が絶対。\n弱者はただ、狩られる獲物でしかないわ。\nそれは、とても残酷なこと…
+MID_LAEGJARN_MIKATA01_HOME3: 妹は…レーヴァテインは私のすべてよ。\nあの子が無事でいてくれるなら…\n私はすべてを捧げても惜しくない。
+MID_LAEGJARN_MIKATA01_HOME4: 私には武の才は無かったわ。\nだから、非才なりに必死で考えた…\n弱者がムスペルで生き残る策を。
+MID_LAEGJARN_MIKATA01_HOME5: 疲れているのなら、休むと良いわ。\nあなたが眠っている間、\n私があなたを護衛するから。
+MID_LAEGJARN_MIKATA01_FRIEND: 我が名はレーギャルン。\n$Nfの将。\n我が主の命令で、挨拶に来たわ。
+MID_LAEGJARN_MIKATA01_LEVEL1: 炎竜ムスペルの血の力…\n制御してみせるわ。
+MID_LAEGJARN_MIKATA01_LEVEL2: 我が名はレーギャルン。\n$Nuの将。
+MID_LAEGJARN_MIKATA01_LEVEL3: 強くなければ、\nあの子を守れない…
+MID_LAEGJARN_MIKATA01_SKILL: この恩には必ず報いる…\n我が名において、誓うわ。
+MID_LAEGJARN_MIKATA01_JOIN: 私はムスペルの将レーギャルン。\n私を従わせたいのなら、妹に…\nレーヴァテインに一目会わせて。
+MID_LAEGJARN_MIKATA01_STRONGEST: 父上は苛烈な炎…弱者は、\nたとえ我が子であろうと躊躇なく殺す。\n幼い頃から…私はそれを見てきたわ。$k$p毎日が恐ろしかった…でも、私には、\n慕ってくれる妹がいた。\nあの子だけは守りたかった…$k$p誰かを守りたいという気持ちは、\n自分より遥かに強い力になる…\n妹のおかげで、私は強くなれたの。$k$p今の私は…\nあなたの将。あなたの鞘。\nあなたを守るために私はここにいる。$k$pあなたへの思いが…私の力。\n我が主よ。\nどうか、これからも共に…
+MID_LAEGJARN_MIKATA01_VOICE01: はぁっ！
+MID_LAEGJARN_MIKATA01_VOICE02: この…！
+MID_LAEGJARN_MIKATA01_VOICE03: きゃああっ！
+MID_LAEGJARN_MIKATA01_VOICE04: 屈辱を…
+MID_LAEGJARN_MIKATA01_VOICE05: 哀れね…
+MID_LAEGJARN_MIKATA01_VOICE06: 反逆には死を
+MID_LAEGJARN_MIKATA01_VOICE07: 妹を守るわ
+MID_LAEGJARN_MIKATA01_VOICE08: 容赦はできないわ
+MID_LAEGJARN_MIKATA01_VOICE09: レーヴァテイン…あなたは…どうか…
+MID_LAEGJARN_MIKATA01_VOICE10: ふっ…
+MID_LAEGJARN_MIKATA01_VOICE11: 私はレーギャルン。レーヴァテインは私の妹よ。
+MID_LAEGJARN_MIKATA01_VOICE12: きゃあっ…！？　な、なにをするの…？
+MID_LAEGJARN_MIKATA01_VOICE13: 私はどうなっても構わないわ。でも、妹のことは助けてあげて。
+MID_LAEGJARN_MIKATA01_VOICE14: 私は敵軍の将…虜囚の辱めを受ける覚悟はできているわ。
+MID_LAEGJARN_MIKATA01_VOICE15: 父上は炎…触れるものすべてを焼き、滅ぼさずにはいられない…
+MID_LAEGJARN_MIKATA01_VOICE16: レーヴァテイン…可愛い妹。どうか、あの子だけは…
+MID_LAEGJARN_MIKATA01_VOICE17: あなたみたいな人…はじめてよ。
+MID_LAEGJARN_MIKATA01_VOICE18: わかったわ
+MID_LAEGJARN_MIKATA01_VOICE19: どうすれば…
+MID_LAEGJARN_MIKATA01_VOICE20: あなたを信じるわ

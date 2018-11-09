@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: ◆ Bonus Appel aux armes ◆\nÀ chaque fois que vous battez un\nennemi avec un héros de l'Appel\naux armes, vous marquez trois\npoints supplémentaires.
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: Éliminations et survie
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: Éliminations et survie
+MID_OCCUPATION_RESULT_DEFENCE_HUB: Défense de camp
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aLa bataille $a0 se termine bientôt.
+MID_OCCUPATION_LEFT_TIME_WARNING: Après, les scores ne comptent pas.
+MID_PORTRAIT_DAILY_BONUS_INFO_59: Gagnez 2 orbes chaque jour en\nterminant une carte. (7 jours max.)
+MID_PORTRAIT_HELP_DIALOG_03_02: ◆ Orbes quotidien ◆\nChaque jour, vous pouvez gagner\n2 orbes en terminant une carte.\n(Sept jours maximum.)
+MID_SEQUENTIAL_MAP_TERM_201809: La porte du destin
+MID_TAP_BATTLE_CONFIG_REVERSE: Inverser\ngauche/droite
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: ◆ Inverser gauche/droite ◆\nActivez cette option pour\nintervertir les ennemis et vos\nalliés à l'écran.\n\n◆ Vitesse ◆\nLes ennemis peuvent se déplacer\njusqu'à trois fois plus rapidement.\nLes boss ne sont pas affectés.
+MID_RELAY_HELP_DIALOG_00: Nouveaux alliés tous les 2 tours !
+MID_RELAY_HELP_DIALOG_01: ◆ Défense en relais ◆\n・ Sur une brigade de 20 alliés,\ncinq rejoindront la bataille.\n・ Lors des tours 3, 5 et 7,\nl'équipe actuelle quitte le champ\nde bataille et cinq autres alliés\nfont leur entrée.\n・ La bataille prend fin au tour 8,\nou bien si votre forteresse\nest détruite.
+MID_RELAY_HELP_DIALOG_02: ◆ Forteresses ◆\n・ Il faut trois coups pour détruire\nune forteresse.\n・ Si vous contrôlez une forteresse,\nvous pouvez vous y téléporter.\n・ Dans une forteresse, les alliés\nrécupèrent 10 PV en début\nde tour.\n・ Une forteresse est une zone\ndéfensive.
+MID_RELAY_HELP_DIALOG_03: ◆ Camp ◆\n・ Il faut deux coups pour vaincre\nun camp.\n・ Si vous contrôlez un camp,\nvous pouvez vous y téléporter.\n・ Dans un camp, les alliés\nrécupèrent 10 PV en début\nde tour.\n・ Un camp est une zone\ndéfensive.
+MID_RELAY_HELP_DIALOG_04: ◆ Téléportation ◆\nLes alliés adjacents à un camp\nou une forteresse peuvent se\ntéléporter instantanément vers\nune case adjacente à un autre\ncamp ou forteresse que leur\néquipe contrôle.
+MID_RELAY_HELP_DIALOG_05: ◆ Score de défense en relais ◆\nUn score vous sera attribué à\nla fin de la bataille.\n\nPour obtenir un meilleur score,\nprotégez votre forteresse et vos\ncamps tout en évitant que vos\nalliés ne soient éliminés.
+MID_RELAY_HELP_DIALOG_06: ◆ Autres règles ◆\n・ L'ennemi reçoit des renforts.\n・ Il n'est pas possible de gagner\ndu mérite héroïque.
+MID_UNIT_EDIT_DISPOSE: Gérer la caserne
+MID_UNIT_EDIT_STOCK_GENERATE: Créer un livret militaire
+MID_UNIT_EDIT_STOCK_SELL: Échange de livrets
+MID_UNIT_EDIT_STOCK_LIST: Vos livrets militaires
+MID_UNIT_EDIT_STOCK_EMPTY: Aucun livret militaire.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: Sélectionnez un personnage pour créer un livret.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: Chaque héros dont vous vous séparez\nvous laissera un livret militaire.
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: Créer
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: Souhaitez-vous créer\nun livret militaire ?
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: Les personnages utilisés pour créer\ndes livrets militaires disparaîtront\nde votre caserne.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: Les éléments suivants ne seront pas\ninclus dans le livret militaire :
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・ Niveaux et EXP
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・ Aptitudes apprises
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・ Aptitudes transmises ou améliorées
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・ Nombre de fusions
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・ Bénédictions reçues
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: Une fois qu'un allié disparaît de\nvotre caserne, il est perdu de\nfaçon permanente. Voulez-vous\nquand même créer un livret\nmilitaire ?
+MID_UNIT_EDIT_STOCK_SELL_LABEL: Échanger
+MID_UNIT_EDIT_STOCK_SELL_HELP1: Sélectionnez le livret à échanger.
+MID_UNIT_EDIT_STOCK_SELL_HELP2: Nombre de livrets à échanger :
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a× $a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: Échanger
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: Échanger le ou les livrets\nmilitaires sélectionnés ?
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: Si vous échangez un livret militaire,\nil disparaîtra définitivement.
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: Une fois échangé, un livret\nmilitaire ne peut pas être\nrécupéré.\n\nVeuillez confirmer votre choix.
+MID_UNIT_EDIT_STOCK_LIST_HELP: Voici la liste de vos livrets militaires.
+MID_UNIT_EDIT_STOCK_HELP: ◆ Livret militaire ◆\nUn livret militaire peut remplacer un\nallié pour la transmission d'aptitude,\nla fusion d'alliés et plus encore.
+MID_UNIT_EDIT_PROMOTION_HELP1_2: Sélectionnez un allié pour augmenter son rang (★).
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: Sélectionnez le nombre de livrets\nmilitaires à améliorer.
+MID_UNIT_EDIT_SELL_WARNING_1: Les héros libérés disparaîtront\nde vos effectifs.
+MID_UNIT_EDIT_SELL_WARNING_2: Une fois qu'un allié disparaît de\nvotre caserne, il est perdu de\nfaçon permanente. Voulez-vous\nquand même vous en séparer ?
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a× $a0/$a1
+MID_STOCK_HELP_DIALOG_00: Améliorez vos alliés !
+MID_STOCK_HELP_DIALOG_01: ◆ Créer des livrets ◆\nVous pouvez choisir de vous\nséparer d'un allié et recevoir\nson livret militaire en échange.\nL'allié sera définitivement perdu,\nalors réfléchissez bien !
+MID_STOCK_HELP_DIALOG_02: ◆ Utiliser des livrets - 1 ◆\nUn livret militaire peut remplacer\nun allié lors de la transmission\nd'aptitude, de la fusion et plus\nencore.\n\nIl est possible d'utiliser la fonction\nAméliorer le rang (★) avec les\nlivrets militaires comme avec les\nhéros.
+MID_STOCK_HELP_DIALOG_03: ◆ Utiliser les livrets - 2 ◆\nLes données suivantes ne sont\npas dans le livret militaire :\n\n・ Niveaux et EXP\n・ Aptitudes apprises\n・ Aptitudes transmises ou\naméliorées\n・ Nombre de fusions\n・ Bénédictions conférées
+MID_STOCK_SELL_HELP_DIALOG_00: ◆ Échanger des livrets ◆\nUn livret militaire peut être\néchangé contre des plumes de\nhéros. Le livret militaire sera\ndéfinitivement perdu, alors\nréfléchissez bien.
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: Vous avez atteint le maximum de\nlivrets militaires. Vous ne pouvez pas\nen créer davantage.
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: Vous avez atteint le maximum de\nlivrets militaires. Vous ne pouvez pas\naméliorer le rang.
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: Ordre
+MID_UNIT_EDIT_SKILL_SET_RESET: Réinitialiser le set
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: Supprimer le contenu de ce set ?
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: ◆ Améliorer le rang d'un héros ◆\nVous pouvez utiliser des objets\npour améliorer le rang (★) d'un\nhéros.\n\nLe héros retombera au niveau 1,\nmais ses caractéristiques de\ndépart seront améliorées et il\naura accès à d'autres aptitudes.
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: Vous avez créé un livret militaire.\n\nPour voir la liste de vos livrets,\ntouchez Vos livrets militaires.
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: Échange terminé.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: ◆ Gérer brigades ◆\nLes brigades sont les équipes\nutilisées dans les modes Domaines\nrivaux et Défense en relais. Vous\npouvez choisir jusqu'à 20 alliés\nissus de votre caserne ou de celles\nde vos amis. Les emplacements\nvides seront automatiquement\nremplis.

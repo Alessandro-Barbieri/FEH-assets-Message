@@ -1,0 +1,38 @@
+[Heroes Archive] (KAMUI_F_DREAM01)
+
+
+Heroes Message Name: Message
+
+
+MID_KAMUI_F_DREAM01_HOME1: Alles ist gut... Ihr könnt Euch darauf\nverlassen, dass ich Euch vor all dem\nBösen der Welt beschützen werde.
+MID_KAMUI_F_DREAM01_HOME2: Azura ist ein ebenso schweres\nSchicksal beschieden wie mir. Daher\nkann ich sie nicht im Stich lassen.
+MID_KAMUI_F_DREAM01_HOME3: Wie schlecht die Dinge auch stehen\nmögen - wer an die Zukunft glaubt,\nhat die Kraft, nach vorn zu blicken.
+MID_KAMUI_F_DREAM01_HOME4: Lasst es mich wissen, wenn Ihr Euch\neinsam fühlt. Ich gebe Euch gerne\neinen Klaps auf die Schulter.
+MID_KAMUI_F_DREAM01_HOME5: Azuras Lächeln wärmt mein Herz. Ich\nwill Ihr so viel Kraft spenden, dass sie\nnie wieder aufhört zu lächeln.
+MID_KAMUI_F_DREAM01_FRIEND: Freundschaften sollte man wie alle\nguten Dinge pflegen. Bleibt mit\n$Nf in Kontakt.
+MID_KAMUI_F_DREAM01_LEVEL1: Je stärker ich werde, desto näher\nkomme ich meinen Idealen!
+MID_KAMUI_F_DREAM01_LEVEL2: Schritt für Schritt nähere ich mich\nmeinen Idealen!
+MID_KAMUI_F_DREAM01_LEVEL3: Ich kann nicht aufgeben. Der Traum\ndarf nicht enden!
+MID_KAMUI_F_DREAM01_SKILL: Danke, dass Ihr an mich denkt.\nEuer Vertrauen gibt mir Kraft.
+MID_KAMUI_F_DREAM01_JOIN: Ich heiße Corrin. Nun, da ich hier\nbin, müsst Ihr nie wieder weinen.\n
+MID_KAMUI_F_DREAM01_STRONGEST: Ob man mit einem schweren\nSchicksal geboren wurde oder\nman es auferlegt bekommt...$k$pMan kann immer einen Sinn darin\nfinden.$k$pSelbst wenn Ihr die Qualen nicht\nallein ertragt, gibt es andere, die\nEuren Weg in die Zukunft ebnen.$k$pDenkt daran, wenn Eure Zuversicht\nschwindet und die Hoffnung auf\neinen neuen Tag in weite Ferne rückt.$k$pVergesst nie all jene, die Euch\nunterstützen.$k$pEines Tages wird Euer Traum\nWirklichkeit... Gebt mir Eure Hand\nund wir schreiten gemeinsam voran.
+MID_KAMUI_F_DREAM01_VOICE01: せいっ！
+MID_KAMUI_F_DREAM01_VOICE02: Sweet dreams
+MID_KAMUI_F_DREAM01_VOICE03: きゃああっ！
+MID_KAMUI_F_DREAM01_VOICE04: だめ…
+MID_KAMUI_F_DREAM01_VOICE05: Schlafenszeit.
+MID_KAMUI_F_DREAM01_VOICE06: Gute Nacht!
+MID_KAMUI_F_DREAM01_VOICE07: Träume bringen Hoffnung.
+MID_KAMUI_F_DREAM01_VOICE08: Süße Träume.
+MID_KAMUI_F_DREAM01_VOICE09: I am so sleepy...
+MID_KAMUI_F_DREAM01_VOICE10: あはは
+MID_KAMUI_F_DREAM01_VOICE11: Azura has been feeling lonely. I need to console her...
+MID_KAMUI_F_DREAM01_VOICE12: You're not shy, are you? Just like me!
+MID_KAMUI_F_DREAM01_VOICE13: It's OK to run if you need to... Taking a break will help heal your wounds.
+MID_KAMUI_F_DREAM01_VOICE14: Wouldn't it be wonderful to return to the same happy dream every single night?
+MID_KAMUI_F_DREAM01_VOICE15: Having trouble sleeping? I can stay by your side until you fall asleep if you'd like.
+MID_KAMUI_F_DREAM01_VOICE16: I wonder if, someday, I'll return to the real world, too...
+MID_KAMUI_F_DREAM01_VOICE17: Help me watch over and protect her... Please.
+MID_KAMUI_F_DREAM01_VOICE18: Good morning.
+MID_KAMUI_F_DREAM01_VOICE19: I'm getting tired.
+MID_KAMUI_F_DREAM01_VOICE20: I remember my dream...

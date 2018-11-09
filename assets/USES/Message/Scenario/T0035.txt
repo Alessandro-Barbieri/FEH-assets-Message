@@ -1,0 +1,8 @@
+[Heroes Archive] (T0035)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_PLAIN_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_レオン,ch05_24_Leon_M_Normal,Face|$w0|Si cruzamos el río quedaremos\nexpuestos...$k$pElise, vamos a esperar aquí hasta\nque el enemigo ataque.$k$p$WmMPID_エリーゼ,ch05_25_Elise_F_Normal,Face|$w0|¡Qué buen plan!\n¡Eres un genio, Leo!$k$p$Sbs1000|

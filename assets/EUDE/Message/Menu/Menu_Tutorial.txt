@@ -405,7 +405,7 @@ MID_SHOP_EXPAND_CONFIRM: 1 Sphäre zahlen, um die Anzahl der\nmöglichen Verbün
 MID_SHOP_EXPAND_DECIDE: Bezahlen
 MID_SHOP_EXPAND_CANT_UNIT: Die Unterkünfte können nicht\nmehr erweitert werden.
 MID_SHOP_EXPAND_RESULT: Du hast 1 Sphäre gezahlt, um d. Anzahl\nd. möglichen Verbündeten zu erhöhen.
-MID_SHOP_UNIT_FULL_INFOR: Du hast die maximale Anzahl\nan Verbündeten erreicht.
+MID_SHOP_UNIT_FULL_INFOR: Du hast die maximale Anzahl\nan Verbündeten überschritten.
 MID_SHOP_UNIT_FULL_CAN_EXPAND: Bitte kaufe weitere Unterkünfte oder\nreduziere die Zahl der Verbündeten.
 MID_SHOP_UNIT_FULL_NO_EXPAND: Du musst Verbündete entlassen,\nwenn du neue hinzufügen möchtest.
 MID_SHOP_UNIT_FULL_EXPAND: Kaufen
@@ -590,7 +590,7 @@ MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: Fragmente und Kristalle\neinsetzen:\nVerb
 MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Helden zu Heldenfedern
 MID_UNIT_EDIT_SELL_HELP_DIALOG_01: Verbündete nach Hause senden:\nSendest du Verbündete zurück in\nihre Welten, erhältst du im Aus-\ntausch dafür Heldenfedern.\nDu verlierst diese Verbündeten\naber dauerhaft!
 MID_UNIT_EDIT_SELL_HELP_DIALOG_02: Favoriten:\nHast du einen Verbündeten als\nFavorit gesetzt, kannst du ihn\nnicht nach Hause senden oder\nauf andere Weise nutzen, bei\nder du ihn verlieren könntest.
-MID_UNIT_EDIT_SELL_HELP_DIALOG_03: Einen Verbündeten als\nFavoriten setzen:\nUm einen Verbündeten als\nFavorit zu setzen, berühre das\nHerz oben links in seinem Profil.\nBerühre es erneut, um den Status\nwieder zu ändern.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: Verbündete als Favoriten setzen:\nUm einen Verbündeten als Favorit\nzu setzen, berühre das Herz oben\nlinks in seinem Profil und wähle\ndie gewünschte Farbe. Tippe auf\n"Entfernen", um es zu entfernen.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Potential und die Zahl der ★
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: Potential freisetzen:\nErhöhst du die ★-Bewertung eines\nVerbündeten, setzt du mehr Poten-\ntial von ihm frei. Der Verbündete\nmuss Level 20 oder höher erreicht\nhaben und du benötigst besondere\nItems.\nDer Level des Verbündeten fällt\nauf 1. Aber mit einer höheren\n★-Bewertung verbessern sich die\nStatuswerte und stärkere Fähig-\nkeiten können erlernt werden.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: Verbündete mit 1-3 ★:\nUm ★-Bewertungen zu ver-\nbessern, werden Heldenfedern\nbenötigt. Diese können u.a. bei\nArenaduellen verdient werden.\nDu brauchst auch Orden, die\ndu im Übungsturm bekommst.
@@ -607,6 +607,12 @@ MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorit $a0
 MID_UNIT_EDIT_FAVORITE_NONE: Entfernen
 MID_UNIT_EDIT_FAVORITE_FILTER: Verbündete mit dem gewählten\nFavoritensymbol erscheinen zuerst.\nMarkiere Verbündete in ihrem\nProfilbildschirm als Favoriten.
 MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Frei
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT: Umbenennen
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT_SELECT: Wähle die Favoritenmarkierung,\ndie du umbenennen möchtest.
+MID_UNIT_EDIT_FAVORITE_NAME_PLACE_HOLDER: Namen eingeben.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK: Gib einen Favoritennamen ein.
+MID_UNIT_EDIT_FAVORITE_NAME_WARNING: Dein gewählter Name gilt für alle Helden,\ndie diesen Favoriten nutzen.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK_INFO: Höchstens 9 Zeichen. Einige\nSymbole sind nicht erlaubt.
 MID_UNIT_INFO_EXP_MAX: MAX
 MID_UNIT_INFO_TO_TALK: Berühren!
 MID_UNIT_INFO_NOW_TALK: Reden

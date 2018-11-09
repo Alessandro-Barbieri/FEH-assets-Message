@@ -1,0 +1,225 @@
+[Heroes Archive] (Data_582_legend08)
+
+
+Heroes Message Name: Message
+
+
+MDAID_貝殻の髪飾り・金: Goldene Muschelnadel
+MDAID_H_貝殻の髪飾り・金: Beweis für den Sieg über den\nLegendären Helden Marth.
+MDAID_水中ゴーグル・金: Goldene Taucherbrille
+MDAID_H_水中ゴーグル・金: Beweis für den Sieg über die\nLegendäre Heldin Daraen.
+MID_MISSION_M201809A_TITLE: Sep.-Quests (1)
+MID_MISSION_M201809A_A1: Blau besiegt Gegner
+MID_MISSION_H_M201809A_A1: Lass blaue Verbündete Gegner besiegen.
+MID_MISSION_M201809A_A2: Inf. besiegt Gegner
+MID_MISSION_H_M201809A_A2: Lass Infanterieeinheiten\nGegner besiegen.
+MID_MISSION_M201809A_A3: Grün besiegen
+MID_MISSION_H_M201809A_A3: Besiege grüne Gegner.
+MID_MISSION_M201809A_A4: Flieger besiegen
+MID_MISSION_H_M201809A_A4: Besiege Flugeinheiten.
+MID_MISSION_M201809A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201809A_A5: Gewinne Arenaduelle einer beliebigen\nSchwierigkeit.
+MID_MISSION_M201809A_A6: Rot besiegt Lv. 20+
+MID_MISSION_H_M201809A_A6: Lass rote Verbündete Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_M201809A_A7: Flieger besiegt Lv. 20+
+MID_MISSION_H_M201809A_A7: Lass fliegende Verbündete Gegner\nbesiegen, die Level 20 oder höher sind.
+MID_MISSION_M201809A_A8: Blau/Lv. 20+ besiegen
+MID_MISSION_H_M201809A_A8: Besiege blaue Gegner, die\nLevel 20 oder höher sind.
+MID_MISSION_M201809A_A9: Inf./Lv. 20+ besiegen
+MID_MISSION_H_M201809A_A9: Besiege Infanterieeinheiten, die\nLevel 20 oder höher sind.
+MID_MISSION_M201809A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201809A_A10: Gewinne Arenaduelle auf Mittel oder\nhöherer Schwierigkeit.
+MID_MISSION_M201809A_A11: Grün besiegt Lv. 35+
+MID_MISSION_H_M201809A_A11: Lass grüne Verbündete Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201809A_A12: Reiter besiegt Lv. 35+
+MID_MISSION_H_M201809A_A12: Lass berittene Verbündete Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201809A_A13: Rot/Lv. 35+ besiegen
+MID_MISSION_H_M201809A_A13: Besiege rote Gegner, die\nLevel 35 oder höher sind.
+MID_MISSION_M201809A_A14: Reiter/Lv. 35+ besiegen
+MID_MISSION_H_M201809A_A14: Besiege berittene Einheiten, die\nLevel 35 oder höher sind.
+MID_MISSION_M201809A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201809A_A15: Gewinne in der Arena im Schwierigkeitsgrad\n"Für Kenner".
+MID_MISSION_M201809B_TITLE: Sep.-Quests (2)
+MID_MISSION_M201809B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201809B_A1: Bewältige die erste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201809B_A2: Bewältige die zweite Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201809B_A3: Bewältige die dritte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201809B_A4: Bewältige die vierte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201809B_A5: Bewältige die fünfte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201809B_A6: Bewältige die sechste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201809B_A7: Bewältige die siebte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201809B_A8: Bewältige die achte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201809B_A9: Bewältige die neunte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201809B_A10: Bewältige die zehnte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201809B_A11: Bewältige die zehnte Stufe des Übungsturms\nnur mit Infanterieeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201809B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201809B_A12: Bewältige die zehnte Stufe des Übungsturms\nnur mit gepanzerten Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201809B_A13: Bewältige die zehnte Stufe des Übungsturms\nnur mit berittenen Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201809B_A14: Bewältige die zehnte Stufe des Übungsturms\nnur mit Flugeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201809C_TITLE: Sep.-Quests (3)
+MID_MISSION_M201809C_A1: Kap. 6 Tl. 1
+MID_MISSION_H_M201809C_A1: Bewältige Kapitel 6 - Teil 1. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809C_A2: Kap. 6 Tl. 2
+MID_MISSION_H_M201809C_A2: Bewältige Kapitel 6 - Teil 2 mit einem\nroten Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809C_A3: Kap. 6 Tl. 3
+MID_MISSION_H_M201809C_A3: Bewältige Kapitel 6 - Teil 3 mit einem\nblauen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809C_A4: Kap. 6 Tl. 4
+MID_MISSION_H_M201809C_A4: Bewältige Kapitel 6 - Teil 4 mit einem\ngrünen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809C_A5: Kap. 6 Tl. 5
+MID_MISSION_H_M201809C_A5: Bewältige Kapitel 6 - Teil 5 mit einem\nfarblosen Verbündeten im Team. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201809C_A6: Kap. 9 Tl. 1 - Schwer+
+MID_MISSION_H_M201809C_A6: Bewältige Kapitel 9 - Teil 1 auf Schwer oder\nhöher. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A7: Kap. 9 Tl. 2 - Schwer+
+MID_MISSION_H_M201809C_A7: Bewältige Kapitel 9 - Teil 2 auf Schwer oder\nhöher mit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A8: Kap. 9 Tl. 3 - Schwer+
+MID_MISSION_H_M201809C_A8: Bewältige Kapitel 9 - Teil 3 auf Schwer oder\nhöher mit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A9: Kap. 9 Tl. 4 - Schwer+
+MID_MISSION_H_M201809C_A9: Bewältige Kapitel 9 - Teil 4 auf Schwer oder\nhöher mit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A10: Kap. 9 Tl. 5 - Schwer+
+MID_MISSION_H_M201809C_A10: Bewältige Kapitel 9 - Teil 5 auf Schwer oder\nhöher mit einem farblosen Verbündeten im\nTeam. Alle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A11: Kap. 12 Tl. 1 - Extrem
+MID_MISSION_H_M201809C_A11: Bewältige Kapitel 12 - Teil 1 auf Extrem.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A12: Kap. 12 Tl. 2 - Extrem
+MID_MISSION_H_M201809C_A12: Bewältige Kapitel 12 - Teil 2 auf Extrem\nmit einem roten Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A13: Kap. 12 Tl. 3 - Extrem
+MID_MISSION_H_M201809C_A13: Bewältige Kapitel 12 - Teil 3 auf Extrem\nmit einem blauen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A14: Kap. 12 Tl. 4 - Extrem
+MID_MISSION_H_M201809C_A14: Bewältige Kapitel 12 - Teil 4 auf Extrem\nmit einem grünen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201809C_A15: Kap. 12 Tl. 5 - Extrem
+MID_MISSION_H_M201809C_A15: Bewältige Kapitel 12 - Teil 5 auf Extrem\nmit einem farblosen Verbündeten im Team.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201808BRAVE01_TITLE: Wächter von Askr
+MID_MISSION_S201808BRAVE01_A1: Alfonse greift an
+MID_MISSION_H_S201808BRAVE01_A1: Lass Alfonse: Prinz von Askr\neinen Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A2: Grün besiegen
+MID_MISSION_H_S201808BRAVE01_A2: Lass Alfonse: Prinz von Askr\ngrüne Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A3: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A3: Lass Alfonse: Prinz von Askr Axtkämpfer\nbesiegen, die Level 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A4: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A4: Lass Alfonse: Prinz von Askr grüne\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A5: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A5: Lass Alfonse: Prinz von Askr Infanterieeinheiten\nbesiegen, die Level 30 oder höher sind.
+MID_MISSION_S201808BRAVE01_A6: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A6: Lass Alfonse: Prinz von Askr gepanzerte\nEinheiten besiegen, die Level 30 oder\nhöher sind.
+MID_MISSION_S201808BRAVE01_A7: Sharena greift an
+MID_MISSION_H_S201808BRAVE01_A7: Lass Sharena: Prinzessin von Askr\neinen Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A8: Rot besiegen
+MID_MISSION_H_S201808BRAVE01_A8: Lass Sharena: Prinzessin von Askr\nrote Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A9: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A9: Lass Sharena: Prinzessin von Askr\nSchwertkämpfer besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A10: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A10: Lass Sharena: Prinzessin von Askr rote\nMagieanwender besiegen, die\nLevel 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A11: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A11: Lass Sharena: Prinzessin von Askr\nberittene Einheiten besiegen, die\nLevel 30 oder höher sind.
+MID_MISSION_S201808BRAVE01_A12: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A12: Lass Sharena: Prinzessin von Askr\nFlugeinheiten besiegen, die\nLevel 30 oder höher sind.
+MID_MISSION_S201808BRAVE01_A13: Anna greift an
+MID_MISSION_H_S201808BRAVE01_A13: Lass Anna einen Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A14: Blau besiegen
+MID_MISSION_H_S201808BRAVE01_A14: Lass Anna blaue Gegner besiegen.
+MID_MISSION_S201808BRAVE01_A15: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A15: Lass Anna Lanzenkämpfer besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A16: Lv. 20+ besiegen
+MID_MISSION_H_S201808BRAVE01_A16: Lass Anna blaue Magieanwender besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201808BRAVE01_A17: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A17: Lass Anna Infanterieeinheiten besiegen,\ndie Level 30 oder höher sind.
+MID_MISSION_S201808BRAVE01_A18: Lv. 30+ besiegen
+MID_MISSION_H_S201808BRAVE01_A18: Lass Anna berittene Einheiten besiegen,\ndie Level 30 oder höher sind.
+MID_MISSION_S201808DAISEIATU02_TITLE: Große Eroberung
+MID_MISSION_S201808DAISEIATU02_A1: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU02_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU02_A2: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU02_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU02_A3: GE: Punkte verdienen
+MID_MISSION_H_S201808DAISEIATU02_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201808DAISEIATU02_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201808DAISEIATU02_A4: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201808DAISEIATU02_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201808DAISEIATU02_A5: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201808DAISEIATU02_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201808DAISEIATU02_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201809VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201809VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201809VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A2: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201809VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A3: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201809VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A4: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201809VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A5: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201809VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201809VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201809VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201809VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201809VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201809VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201809VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201809VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201809VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201809VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201809VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201809VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201809VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201809VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201809VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201809VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201809VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201809VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201809VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A17: Gewinne Kämpfe im Wahlturnier\nmit einem roten Verbündeten in\ndeinem Team.
+MID_MISSION_S201809VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A18: Gewinne Kämpfe im Wahlturnier\nmit einem blauen Verbündeten in\ndeinem Team.
+MID_MISSION_S201809VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A19: Gewinne Kämpfe im Wahlturnier\nmit einem grünen Verbündeten in\ndeinem Team.
+MID_MISSION_S201809VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201809VOTE01_A20: Gewinne Kämpfe im Wahlturnier\nmit einem farblosen Verbündeten\nin deinem Team.
+MPID_ジャムカ: Jamke
+MPID_HONOR_ジャムカ: Prinz v. Verdane
+MPID_H_ジャムカ: Prinz von Verdane, der jedoch kein Blut eines\nHeiligen Ritters in sich trägt. Richtet den Bogen\ngegen seine Heimat, um den Krieg aufzuhalten.\nErscheint in FE: Genealogy of the Holy War.
+MPID_VOICE_ジャムカ: Joe Zieja
+MPID_ILLUST_ジャムカ: Suekane Kumiko (スエカネクミコ)
+MPID_伝承マルス: Marth
+MPID_HONOR_伝承マルス: Heldenkönig
+MPID_H_伝承マルス: Prinz von Altea. Nach dem Krieg der Schatten\nund dem Krieg der Heroen wird er zum ersten\nKönig der Allianz von Akaneia. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_伝承マルス: Yuri Lowenthal
+MPID_ILLUST_伝承マルス: Daisuke Izuka
+MPID_LEGEND_伝承マルス: Legendärer Effekt: Feuer\nVerbündetenbonus: KP +3, Res. +4\n\nGewährt Verbündeten diesen legendären\nEffekt in der Feuersaison, wenn sie mit\nFeuer gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_神剣ファルシオン: Erhab. Falchion
+MSID_炎の紋章: Fire Emblem
+MSID_封印の盾: Binding Shield
+MSID_歩行の柔撃1: Infanterieblitz 1
+MSID_歩行の柔撃2: Infanterieblitz 2
+MSID_歩行の柔撃3: Infanterieblitz 3
+MSID_H_神剣ファルシオン: Effektiv gegen Drachen. Verleiht\nGes. +3. Gewährt im Kampf Bonus auf\nAngr./Ges./Ver./Res. = aktueller Bonus\nauf jeden Statuswert der Einheit. Jeder\nWertebonus wird einzeln berechnet.
+MSID_H_炎の紋章: Erhöht Schaden um 30 % des Ges.-Werts der\nEinheit. Verleiht d. Einheit und allen Verb. nach\ndem Kampf Angr./Ges./Ver./Res. +4 für 1 Zug.\n(Verbündete erhalten Bonus auch, wenn\ndie Einheit den Kampf nicht überlebt.)
+MSID_H_封印の盾: Kämpft die Einheit gegen einen Drachen,\nführt sie garantiert einen Folgeangriff aus\nund der Gegner kann keinen Gegenangriff\noder Folgeangriff ausführen.
+MSID_H_歩行の柔撃1: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Ges. der Einheit um mind. 5\nhöher als Ges. des Gegners, wird die\nErholungszeit der Einheit pro Angriff um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_歩行の柔撃2: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Ges. der Einheit um mind. 3\nhöher als Ges. des Gegners, wird die\nErholungszeit der Einheit pro Angriff um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_歩行の柔撃3: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Ges. der Einheit höher\nals Ges. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff um 1 beschleunigt.\n(Bei mehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
+MID_STAGE_HONOR_T0038: Prinz von Verdane
+MID_STAGE_T0038: Jamke
+MID_STAGE_HONOR_L0006: Heldenkönig
+MID_STAGE_L0006: Marth
+MID_STAGE_TITLE_PB025: Fähigkeiten 25
+MID_STAGE_PB025: Binding Shield
+MID_STAGE_TITLE_PB026: Fähigkeiten 26
+MID_STAGE_PB026: Arkanum
+MID_STAGE_TITLE_PC012: Großmeister 12
+MID_STAGE_PC012: Brücke der Freundschaft

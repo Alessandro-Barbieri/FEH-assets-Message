@@ -1,0 +1,38 @@
+[Heroes Archive] (RIVIERA)
+
+
+Heroes Message Name: Message
+
+
+MID_RIVIERA_HOME1: ¿Hay algún templo por aquí?\nMe gustaría dedicar una oración\nal dios de Askr.$k$pVoy a pedirle que nos proteja a\ntodos. No quiero que os pase nada.
+MID_RIVIERA_HOME2: Cuando ejercía de sacerdote en\nYlisse, aprendí a blandir el hacha para\ndefender a su Alteza la Venerable.$k$pMás tarde me uní al ejército\nde Chrom.
+MID_RIVIERA_HOME3: El don que te permite invocar a\nhéroes de cualquier mundo es un\npoder como el de los dioses.$k$pPor favor, úsalo para guiarnos\ny protegernos.
+MID_RIVIERA_HOME4: ¿Me has llamado «sacerdotisa»?\nOh, todopoderosos...\nYa no sé qué hacer...$k$p¡Hasta $G el invocador,la invocadora| me confunde\ncon una mujer!
+MID_RIVIERA_HOME5: Estoy dibujando un paisaje.\nEsta tierra me inspira;\nes de una belleza casi sagrada...$k$pCreo que merece ser inmortalizada\nen un lienzo.
+MID_RIVIERA_FRIEND: Bendiciones. Te traigo buenas nuevas\nde $Nf.
+MID_RIVIERA_LEVEL1: Me siento más puro. Tal vez sea\nuna respuesta a mis plegarias.
+MID_RIVIERA_LEVEL2: ¡Oh, todopoderosos!\n¡Benditos seáis!
+MID_RIVIERA_LEVEL3: ¡Oh, todopoderosos!\n¿Por qué me ponéis a prueba?
+MID_RIVIERA_SKILL: Me inunda una luz cálida y pura.\nOs doy las gracias a ti y a los dioses.
+MID_RIVIERA_JOIN: Soy Libra, sacerdote del Sacro Reino\nde Ylisse. Los dioses me han guiado\nhasta aquí. Que Naga nos bendiga.
+MID_RIVIERA_STRONGEST: Vaya, me has pillado... Justo estaba\npintando un retrato tuyo.$k$pNo suelo hacerlo, pero tú me\nemocionas...$k$pTodo en ti es fascinante:\ntus movimientos, tus invocaciones,\ntu forma de hablar...$k$pHe empezado a pintar casi sin darme\ncuenta. Quizás, como me has\ninvocado, estoy unido a ti...$k$pPero me gustaría creer que el afecto\nque siento por ti me sale de dentro.$k$pMe alegro de haber podido compartir\nmis sentimientos contigo.$k$pDicho esto, ¿te importa que siga\npintando? Me encantaría estar a solas\ncontigo, aunque solo sea un rato.
+MID_RIVIERA_VOICE01: はいっ！
+MID_RIVIERA_VOICE02: せやっ！
+MID_RIVIERA_VOICE03: うあっ！
+MID_RIVIERA_VOICE04: そんな…！
+MID_RIVIERA_VOICE05: Dioses, perdonadme.
+MID_RIVIERA_VOICE06: ¡Arrepiéntete de tus pecados!
+MID_RIVIERA_VOICE07: ¡Empieza a rezar!
+MID_RIVIERA_VOICE08: ¡Por Naga!
+MID_RIVIERA_VOICE09: I can see the light...
+MID_RIVIERA_VOICE10: Yes
+MID_RIVIERA_VOICE11: You continue to fare well. I am glad of this.
+MID_RIVIERA_VOICE12: My appearance may not suggest it, but I'm quite capable of manual labor.
+MID_RIVIERA_VOICE13: Do my prayers to Naga reach her, even from this world?
+MID_RIVIERA_VOICE14: You wish to speak to me? Perhaps you wish to make confession.
+MID_RIVIERA_VOICE15: On my journey to the priesthood, I faced many hardships.
+MID_RIVIERA_VOICE16: A priest who takes a life...is indeed quite a sinner.
+MID_RIVIERA_VOICE17: Praying for safety on the battlefield is nothing more than a wish that another may be sacrificed. Even so...
+MID_RIVIERA_VOICE18: It will be so.
+MID_RIVIERA_VOICE19: Gods bless us.
+MID_RIVIERA_VOICE20: Guide us.

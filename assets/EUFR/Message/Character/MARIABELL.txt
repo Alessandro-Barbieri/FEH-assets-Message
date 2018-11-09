@@ -1,0 +1,38 @@
+[Heroes Archive] (MARIABELL)
+
+
+Heroes Message Name: Message
+
+
+MID_MARIABELL_HOME1: Sharena est vraiment charmante, ne\ntrouvez-vous pas ? Je vais peut-être\nl'inviter à prendre le thé avec Lissa...
+MID_MARIABELL_HOME2: Je fais partie des Veilleurs d'Ylisse.\nUne noble comme moi doit aider à\npréserver la paix.
+MID_MARIABELL_HOME3: Vous avez toujours l'air si $Goccupé,occupée|.\nPermettez-moi de patrouiller à\nvotre place.$k$pSi je croise des individus peu\nrecommandables, je me ferai un\nplaisir de leur donner une correction.
+MID_MARIABELL_HOME4: Ça roule ma poule ? Tu te la coules\ndouce ?$k$pPourquoi me regardez-vous ainsi ?\nJe m'entraîne simplement à parler\nl'argot du peuple de mon pays.
+MID_MARIABELL_HOME5: Je n'étudie pas simplement parce\nque c'est ce que l'on attend d'une\nfemme de mon rang.$k$pJe rêve de faire carrière dans la\nmagistrature.
+MID_MARIABELL_FRIEND: Tenez-vous $Gdroit,droite| !\n$Nf m'envoie\nici pour vous porter un cadeau.$k$pAprès tout le chemin que j'ai\nparcouru, vous pouvez au moins\nfaire l'effort d'être présentable.
+MID_MARIABELL_LEVEL1: Attention ! Je sais me défendre !
+MID_MARIABELL_LEVEL2: Il n'est vraiment pas difficile\nd'obtenir ce genre de résultat.
+MID_MARIABELL_LEVEL3: Ceci est complètement\ninacceptable...
+MID_MARIABELL_SKILL: Mes performances seront\nencore meilleures, à présent.
+MID_MARIABELL_JOIN: Je suis Maribelle, des Veilleurs\nd'Ylisse. Je suis prête à vous\naider si vous en avez besoin.
+MID_MARIABELL_STRONGEST: Pensez-vous vraiment que votre\nposture est acceptable ? N'êtes-vous\npas $Gcensé,censée| être $Gun grand héros,une grande héroïne| ?$k$pVous devriez vous montrer digne\nde ce titre en vous tenant bien\n$Gdroit,droite|.$k$pRedressez votre cou et gonflez\nvotre poitrine. Mais non, pas comme\nça !$k$pImaginez que vous êtes $Gligoté,ligotée| à une\nbarre de fer qui vous oblige à être\nrectiligne de la tête aux pieds...$k$pVoilà ! Vous voyez, quand vous y\nmettez du vôtre. Il faut dire que vous\npartiez sur de bonnes bases...$k$pMême une légère amélioration\npeut faire toute la différence.$k$pUne femme de mon rang ne peut pas\nse permettre d'obéir à quelqu'un qui\nmanque de manières...$k$pEt pourtant, même $Gtel,telle| que vous\nêtes, je vous suivrais jusqu'à bout du\nmonde.$k$pEt maintenant, le moment me semble\nbien choisi pour prendre le thé. Je\nn'utilise que les meilleures plantes.$k$pEt puisque vous avez déjà fait des\nefforts sur votre posture, je ne\ndirai rien sur votre manière de boire !
+MID_MARIABELL_VOICE01: はいっ！
+MID_MARIABELL_VOICE02: それっ！
+MID_MARIABELL_VOICE03: きゃあ！
+MID_MARIABELL_VOICE04: なんと野蛮な…！
+MID_MARIABELL_VOICE05: Grossière erreur.
+MID_MARIABELL_VOICE06: Je vais vous anéantir !
+MID_MARIABELL_VOICE07: Tremblez, charogne !
+MID_MARIABELL_VOICE08: Vous allez morfler !
+MID_MARIABELL_VOICE09: You brute.
+MID_MARIABELL_VOICE10: うふふ
+MID_MARIABELL_VOICE11: Faites attention quand vous jouez !
+MID_MARIABELL_VOICE12: Donnez le meilleur de vous-même !
+MID_MARIABELL_VOICE13: Tell me, is Lissa here? She's a dear friend of mine.
+MID_MARIABELL_VOICE14: You touched me! Without saying a thing! Do people in your world consider that some sort of greeting?
+MID_MARIABELL_VOICE15: Your summoning skills are so valuable. I have to admit—they're very impressive!
+MID_MARIABELL_VOICE16: Hmm. Perhaps a tea party is just the thing!
+MID_MARIABELL_VOICE17: If you have a sincere desire to improve your bearing, I'll take it on myself to instruct you.
+MID_MARIABELL_VOICE18: Yes.
+MID_MARIABELL_VOICE19: Onward!
+MID_MARIABELL_VOICE20: I'll do it!

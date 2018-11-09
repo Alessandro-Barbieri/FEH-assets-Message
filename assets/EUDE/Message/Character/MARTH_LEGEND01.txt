@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_LEGEND01_HOME1: Die sieben Königreiche von Akaneia\nvereinen sich... Und es ist der Wille\nder Völker, dass ich sie anführe.
+MID_MARTH_LEGEND01_HOME2: Der dunkle Schleier des Krieges, der\neinst über Akaneia lag, hat diese Welt\nerreicht... Ich kann ihn spüren.
+MID_MARTH_LEGEND01_HOME3: Sorgt Euch bitte nicht um mich. Man\nsieht es mir vielleicht nicht an, aber\nich musste schon vieles durchstehen.$k$pEuch würde etwas Erholung jedoch\nnicht schaden.
+MID_MARTH_LEGEND01_HOME4: Das hier? Oh, das ist eine Medizin,\ndie Shiida für mich gebraut hat.\nSie ist nur... etwas zu süß...
+MID_MARTH_LEGEND01_HOME5: Warum riskiert Ihr Euer Leben für\ndieses Königreich?$k$pSeht mich doch nicht so grimmig an!\nDas war eine ernst gemeinte Frage.
+MID_MARTH_LEGEND01_FRIEND: Seid gegrüßt! Ich habe nur Gutes\nüber Euch gehört. Bedankt Euch\nbei $Nf.
+MID_MARTH_LEGEND01_LEVEL1: Ich habe stets den Sieg vor Augen!
+MID_MARTH_LEGEND01_LEVEL2: Gut... Ich darf jetzt nur nicht\nnachlassen.
+MID_MARTH_LEGEND01_LEVEL3: Ist das der dunklen Präsenz\ngeschuldet, die ich spüre?
+MID_MARTH_LEGEND01_SKILL: Wenn wir unsere Kräfte bündeln,\nhat der Feind keine Chance!
+MID_MARTH_LEGEND01_JOIN: Mein Name ist Marth. Warum kämpft\nIhr? Und für wen? Was ist Eure\nVorstellung von Gerechtigkeit?
+MID_MARTH_LEGEND01_STRONGEST: Seit die Leute anfingen, mich den\nHeldenkönig zu nennen, denke ich\nviel über Gerechtigkeit nach.$k$pJeder Sieg ist für die Gegenseite eine\nNiederlage - woraufhin die Besiegten\nmit geballter Faust Rache schwören.$k$pDie Geschichte ist also dazu\nverdammt, sich bis in alle Zeit\nzu wiederholen.$k$pMein Vater lag darnieder und mein\nLand wurde geraubt... Ich weiß, was\nes bedeutet, Verluste zu erleiden.$k$pNachdem ich geflohen war, schwor\nich, mit meinen Kameraden meine\nHeimat wiederaufzubauen.$k$pEs war Nyna, die mir das Fire Emblem\nanvertraute... Und es stärkte meinen\nEntschluss, weiterzukämpfen.$k$pIch kämpfte nicht mehr aus Rache...\nIch kämpfte für das Volk.$k$pNur dank vieler Verbündeter, die\nmeinen Sinn für Gerechtigkeit\nteilten, konnte ich gewinnen.$k$pSie liehen mir ihre Kraft und wir\nzogen alle an einem Strang.$k$pUnd nun habe ich das Gefühl, dass\nauch Ihr diesen Gerechtigkeitssinn\nteilt.$k$pLasst uns an einem Strang ziehen,\n$Nu.
+MID_MARTH_LEGEND01_VOICE01: はっ！
+MID_MARTH_LEGEND01_VOICE02: 行こう！
+MID_MARTH_LEGEND01_VOICE03: うああっ！
+MID_MARTH_LEGEND01_VOICE04: ぼくはまだ…！
+MID_MARTH_LEGEND01_VOICE05: Wir kämpfen gemeinsam!
+MID_MARTH_LEGEND01_VOICE06: Ich gebe nicht nach!
+MID_MARTH_LEGEND01_VOICE07: Bis zum Ende!
+MID_MARTH_LEGEND01_VOICE08: Glänze, mein Falchion!
+MID_MARTH_LEGEND01_VOICE09: Forgive me, friends...
+MID_MARTH_LEGEND01_VOICE10: はは
+MID_MARTH_LEGEND01_VOICE11: I'm Marth, Prince of Altea.
+MID_MARTH_LEGEND01_VOICE12: Has something gotten into you?
+MID_MARTH_LEGEND01_VOICE13: Legendary Hero? Please, I've done nothing so grand as to earn such a title.
+MID_MARTH_LEGEND01_VOICE14: I can accomplish nothing on my own. It's thanks to my friends I've come as far as I have.
+MID_MARTH_LEGEND01_VOICE15: My hope is for people of all worlds to live happily.
+MID_MARTH_LEGEND01_VOICE16: If I'm not dependable, everyone else will suffer for it.
+MID_MARTH_LEGEND01_VOICE17: As a friend, you are irreplaceable. I will protect you.
+MID_MARTH_LEGEND01_VOICE18: Right.
+MID_MARTH_LEGEND01_VOICE19: What's my move?
+MID_MARTH_LEGEND01_VOICE20: Together.

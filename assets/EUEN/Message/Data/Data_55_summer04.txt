@@ -1,0 +1,267 @@
+[Heroes Archive] (Data_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_黄色いアヒル: Yellow Ducky
+MDAID_H_黄色いアヒル: A duck-shaped toy that floats on\nwater. The way it bobs up and down\nis very relaxing.
+MDAID_温泉手ぬぐい: Hand Towel
+MDAID_H_温泉手ぬぐい: A hand towel commonly used in hot\nsprings. Make sure to keep it dry!
+MID_MISSION_S201807KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201807KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201807KIZUNA01_A1: Clear the Bound Hero Battle against Raven &\nLucius with Alfonse: Prince of Askr on your\nteam.
+MID_MISSION_S201807KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201807KIZUNA01_A2: Clear the Bound Hero Battle against Raven &\nLucius on Lunatic or higher difficulty with Fjorm\non your team.
+MID_MISSION_S201807KIZUNA01_A3: Defeat Raven
+MID_MISSION_H_S201807KIZUNA01_A3: Defeat Raven at level 40 or higher with Alfonse:\nPrince of Askr.
+MID_MISSION_S201807KIZUNA01_A4: Defeat Lucius
+MID_MISSION_H_S201807KIZUNA01_A4: Defeat Lucius at level 40 or higher with Fjorm.
+MID_MISSION_S201807KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201807KIZUNA01_A5: Clear the Bound Hero Battle against Raven &\nLucius on Lunatic or higher difficulty using only\ninfantry allies.
+MID_MISSION_S201807SENKA01_DAILY_TITLE: Tempest Trials
+MID_MISSION_S201807SENKA01_DAILY_A1: Clear Trial
+MID_MISSION_H_S201807SENKA01_DAILY_A1: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201807SENKA01_DAILY_A2: Clear Trial
+MID_MISSION_H_S201807SENKA01_DAILY_A2: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201807SENKA01_DAILY_A3: Clear Trial
+MID_MISSION_H_S201807SENKA01_DAILY_A3: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201807SENKA01_DAILY_A4: Clear Trial
+MID_MISSION_H_S201807SENKA01_DAILY_A4: Clear one of the final maps in Tempest\nTrials.
+MID_MISSION_S201807STORY01_TITLE: A Sketchy Summer
+MID_MISSION_S201807STORY01_A1: Clear P22-1 on Lunatic
+MID_MISSION_H_S201807STORY01_A1: Clear Paralogue 22: Part 1 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY01_A2: Clear P22-2 on Lunatic
+MID_MISSION_H_S201807STORY01_A2: Clear Paralogue 22: Part 2 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807STORY01_A3: Clear P22-3 on Lunatic
+MID_MISSION_H_S201807STORY01_A3: Clear Paralogue 22: Part 3 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201807TAPBTL01_D01_TITLE: Tap Battle - Daily
+MID_MISSION_S201807TAPBTL01_D01_A1: Defeat Noire
+MID_MISSION_H_S201807TAPBTL01_D01_A1: Defeat the boss Noire on Floors 16-20 on\nNormal difficulty in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D01_A2: Clear Floors 21-25
+MID_MISSION_H_S201807TAPBTL01_D01_A2: Clear floors 21-25 in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D01_A3: Clear Stage
+MID_MISSION_H_S201807TAPBTL01_D01_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D02_TITLE: Tap Battle - Daily
+MID_MISSION_S201807TAPBTL01_D02_A1: Defeat Noire
+MID_MISSION_H_S201807TAPBTL01_D02_A1: Defeat the boss Noire on Floors 16-20 on\nHard difficulty in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D02_A2: Clear Floors 41-45
+MID_MISSION_H_S201807TAPBTL01_D02_A2: Clear floors 41-45 in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D02_A3: Clear Stage
+MID_MISSION_H_S201807TAPBTL01_D02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D03_TITLE: Tap Battle - Daily
+MID_MISSION_S201807TAPBTL01_D03_A1: Defeat Cordelia
+MID_MISSION_H_S201807TAPBTL01_D03_A1: Defeat the boss Cordelia on floors 36-40\non Normal difficulty in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D03_A2: Clear Floors 61-65
+MID_MISSION_H_S201807TAPBTL01_D03_A2: Clear floors 61-65 in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D03_A3: Clear Stage
+MID_MISSION_H_S201807TAPBTL01_D03_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D04_TITLE: Tap Battle - Daily
+MID_MISSION_S201807TAPBTL01_D04_A1: Defeat Cordelia
+MID_MISSION_H_S201807TAPBTL01_D04_A1: Defeat the boss Cordelia on floors 36-40\non Hard difficulty in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D04_A2: Clear Floors 81-85
+MID_MISSION_H_S201807TAPBTL01_D04_A2: Clear floors 81-85 in Tap Battle.
+MID_MISSION_S201807TAPBTL01_D04_A3: Clear Stage
+MID_MISSION_H_S201807TAPBTL01_D04_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201807TAPBTL02_TITLE: Tap Battle
+MID_MISSION_S201807TAPBTL02_A1: Clear Boss Stage
+MID_MISSION_H_S201807TAPBTL02_A1: Clear a boss stage in Tap Battle.
+MID_MISSION_S201807TAPBTL02_A2: Clear Boss Stage
+MID_MISSION_H_S201807TAPBTL02_A2: Clear a boss stage in Tap Battle.
+MID_MISSION_S201807TAPBTL02_A3: Clear Stage
+MID_MISSION_H_S201807TAPBTL02_A3: Clear a stage in Tap Battle.
+MID_MISSION_S201807TAPBTL02_A4: Clear Extra Stage 1
+MID_MISSION_H_S201807TAPBTL02_A4: Clear Extra Stage 1 in Tap Battle. (Extra Stage\n1 is playable after the Extra Stages unlock.)
+MID_MISSION_S201807TAPBTL02_A5: Clear Floors 6-10
+MID_MISSION_H_S201807TAPBTL02_A5: Clear floors 6-10 in Tap Battle.
+MID_MISSION_S201807TAPBTL02_A6: Clear Floors 81-85
+MID_MISSION_H_S201807TAPBTL02_A6: Clear floors 81-85 in Tap Battle.
+MPID_水着チキ: Tiki
+MPID_水着タクミ: Takumi
+MPID_水着カミラ: Camilla
+MPID_水着リンダ: Linde
+MPID_HONOR_水着チキ: Beachside Scion
+MPID_HONOR_水着タクミ: Prince at Play
+MPID_HONOR_水着カミラ: Tropical Beauty
+MPID_HONOR_水着リンダ: Summer Rays
+MPID_H_水着チキ: A young Divine Dragon once put into a\ntimeless sleep. Now super excited to play\nwith everyone at the beach. Appears in Fire\nEmblem: Mystery of the Emblem.
+MPID_H_水着タクミ: Prince of Hoshido who wields the divine\nbow Fujin Yumi. He is genuinely happy\nabout being able to spend time on a tropical\nisland. Appears in Fire Emblem Fates.
+MPID_H_水着カミラ: Princess of Nohr who dotes on her sibling\nCorrin. She's hoping someone can help her\napply tanning oil to protect her skin.\nAppears in Fire Emblem Fates.
+MPID_H_水着リンダ: Daughter of Pontifex Miloah from Archanea.\nShe's a bit flustered, since she's not wearing\nher usual robe. Appears in Fire Emblem:\nMystery of the Emblem.
+MPID_VOICE_水着チキ: Mela Lee
+MPID_VOICE_水着タクミ: Michael Sinterniklaas
+MPID_VOICE_水着カミラ: Misty Lee
+MPID_VOICE_水着リンダ: Julie Ann Taylor
+MPID_ILLUST_水着チキ: Gaou (がおう)
+MPID_ILLUST_水着タクミ: Tobi
+MPID_ILLUST_水着カミラ: Mikuro (みく郎)
+MPID_ILLUST_水着リンダ: Kippu (切符)
+MSID_義勇の槍: Dauntless Lance
+MSID_傭兵団の戦斧: Draconic Poleax
+MSID_カタリナの書: Reese's Tome
+MSID_第12迷宮の覇者1: Squad Ace L 1
+MSID_第12迷宮の覇者2: Squad Ace L 2
+MSID_第12迷宮の覇者3: Squad Ace L 3
+MSID_魚の弓: Fishie Bow
+MSID_魚の弓＋: Fishie Bow+
+MSID_ヒトデ: Starfish
+MSID_ヒトデ＋: Starfish+
+MSID_南国のジュース: Juicy Wave
+MSID_南国のジュース＋: Juicy Wave+
+MSID_真夏のブレス: Summer's Breath
+MSID_攻撃魔防の大覚醒1: Brazen Atk/Res 1
+MSID_攻撃魔防の大覚醒2: Brazen Atk/Res 2
+MSID_攻撃魔防の大覚醒3: Brazen Atk/Res 3
+MSID_魔防の波・奇数1: Odd Res Wave 1
+MSID_魔防の波・奇数2: Odd Res Wave 2
+MSID_魔防の波・奇数3: Odd Res Wave 3
+MSID_竜の技量1: Dragon Valor 1
+MSID_竜の技量2: Dragon Valor 2
+MSID_竜の技量3: Dragon Valor 3
+MSID_H_義勇の槍: Accelerates Special trigger (cooldown count-1).\nEffective against armored foes.
+MSID_H_傭兵団の戦斧: If unit has weapon-triangle advantage, boosts Atk\nby 20%. If unit has weapon-triangle disadvantage,\nreduces Atk by 20%.
+MSID_H_カタリナの書: During combat, boosts unit's Atk/Spd/Def/Res\nby number of adjacent allies × 2.
+MSID_H_飛燕金剛の構えR4: If foe initiates combat, grants Spd/Def+4\nduring combat.
+MSID_H_速さ魔防の謀策R4: At start of turn, inflicts Spd/Res-4 on foes in\ncardinal directions with Res < unit’s Res\nthrough their next actions.
+MSID_H_第12迷宮の覇者1: Grants Def+1.
+MSID_H_第12迷宮の覇者2: Grants Def+2.
+MSID_H_第12迷宮の覇者3: Grants Def+3.
+MSID_H_魚の弓: Effective against flying foes. If unit’s HP ≤ 75%\nand unit initiates combat, unit can make a\nfollow-up attack before foe can counterattack.
+MSID_H_魚の弓＋: Effective against flying foes. If unit’s HP ≤ 75%\nand unit initiates combat, unit can make a\nfollow-up attack before foe can counterattack.
+MSID_H_ヒトデ: If unit’s HP ≤ 75% and unit initiates combat, unit\ncan make a follow-up attack before foe can\ncounterattack. After combat, if unit attacked,\ninflicts Def/Res-5 on target and foes within 2\nspaces of target through their next actions.
+MSID_H_ヒトデ＋: If unit’s HP ≤ 75% and unit initiates combat, unit\ncan make a follow-up attack before foe can\ncounterattack. After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes within 2\nspaces of target through their next actions.
+MSID_H_南国のジュース: If unit’s HP ≤ 75% and unit initiates combat, unit\ncan make a follow-up attack before foe can\ncounterattack.
+MSID_H_南国のジュース＋: If unit’s HP ≤ 75% and unit initiates combat, unit\ncan make a follow-up attack before foe can\ncounterattack.
+MSID_H_真夏のブレス: Effective against dragon foes. Grants Def+3. If\nfoe initiates combat, grants Special cooldown\ncharge +1 per attack during combat. (Only\nhighest value applied. Does not stack.) If foe's\nRange = 2, calculates damage using the lower\nof foe's Def or Res.
+MSID_H_攻撃魔防の大覚醒1: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Res+3 during combat.
+MSID_H_攻撃魔防の大覚醒2: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Res+5 during combat.
+MSID_H_攻撃魔防の大覚醒3: At start of combat, if unit's HP ≤ 80%, grants\nAtk/Res+7 during combat.
+MSID_H_魔防の波・奇数1: At start of odd-numbered turns, grants Res+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_魔防の波・奇数2: At start of odd-numbered turns, grants Res+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_魔防の波・奇数3: At start of odd-numbered turns, grants Res+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_竜の技量1: While unit lives and uses a dragonstone,\nunit gets 1.5x SP. (Only highest value\napplied. Does not stack.)
+MSID_H_竜の技量2: While unit lives, all dragonstone allies\non team get 1.5x SP. (Only highest value\napplied. Does not stack.)
+MSID_H_竜の技量3: While unit lives, all dragonstone allies\non team get 2x SP. (Only highest value\napplied. Does not stack.)
+MID_CHAPTER_TITLE_CX021: Paralogue 22
+MID_CHAPTER_CX021: A Sketchy Summer
+MID_STAGE_TITLE_X0211: Paralogue 22-1
+MID_STAGE_TITLE_X0212: Paralogue 22-2
+MID_STAGE_TITLE_X0213: Paralogue 22-3
+MID_STAGE_X0211: A Distracted Duo
+MID_STAGE_X0212: A Playful Pair
+MID_STAGE_X0213: A Little Drawn Out
+MID_STAGE_TITLE_PA001: Basics 1
+MID_STAGE_PA001: Activate a Special Skill
+MID_STAGE_TITLE_PA002: Basics 2
+MID_STAGE_PA002: Red, Blue, and Green
+MID_STAGE_TITLE_PA003: Basics 3
+MID_STAGE_PA003: Ranged Attacks
+MID_STAGE_TITLE_PA004: Basics 4
+MID_STAGE_PA004: Can't Fight Back!
+MID_STAGE_TITLE_PA005: Basics 5
+MID_STAGE_PA005: Effective Attacks
+MID_STAGE_TITLE_PA006: Basics 6
+MID_STAGE_PA006: Attacking with Magic
+MID_STAGE_TITLE_PA007: Basics 7
+MID_STAGE_PA007: Understanding Breath
+MID_STAGE_TITLE_PA008: Basics 8
+MID_STAGE_PA008: Counterattacks
+MID_STAGE_TITLE_PA009: Basics 9
+MID_STAGE_PA009: Follow-Up Attacks
+MID_STAGE_TITLE_PA010: Basics 10
+MID_STAGE_PA010: Weaken Foes with Daggers
+MID_STAGE_TITLE_PA011: Basics 11
+MID_STAGE_PA011: Boosting with Rally
+MID_STAGE_TITLE_PA012: Basics 12
+MID_STAGE_PA012: Heal to Win
+MID_STAGE_TITLE_PA013: Basics 13
+MID_STAGE_PA013: Baiting Foes
+MID_STAGE_TITLE_PA014: Basics 14
+MID_STAGE_PA014: Escaping Danger
+MID_STAGE_TITLE_PA015: Basics 15
+MID_STAGE_PA015: Movement Tricks
+MID_STAGE_TITLE_PA016: Basics 16
+MID_STAGE_PA016: Sing and Dance
+MID_STAGE_TITLE_PA017: Basics 17
+MID_STAGE_PA017: Watch Your Cooldown
+MID_STAGE_TITLE_PA018: Basics 18
+MID_STAGE_PA018: Infantry Movement
+MID_STAGE_TITLE_PA019: Basics 19
+MID_STAGE_PA019: Armored Allies
+MID_STAGE_TITLE_PA020: Basics 20
+MID_STAGE_PA020: Cavalry Allies
+MID_STAGE_TITLE_PA021: Basics 21
+MID_STAGE_PA021: Flying Allies
+MID_STAGE_TITLE_PB001: Skill Studies 1
+MID_STAGE_PB001: Hone and Fortify
+MID_STAGE_TITLE_PB002: Skill Studies 2
+MID_STAGE_PB002: Stacking Spur Boosts
+MID_STAGE_TITLE_PB003: Skill Studies 3
+MID_STAGE_PB003: For Blade!
+MID_STAGE_TITLE_PB004: Skill Studies 4
+MID_STAGE_PB004: Vantage to Counter
+MID_STAGE_TITLE_PB005: Skill Studies 5
+MID_STAGE_PB005: Desperation
+MID_STAGE_TITLE_PB006: Skill Studies 6
+MID_STAGE_PB006: Using Quick Riposte
+MID_STAGE_TITLE_PB007: Skill Studies 7
+MID_STAGE_PB007: Ragnell's Distant Counter
+MID_STAGE_TITLE_PB008: Skill Studies 8
+MID_STAGE_PB008: Using Close Counter
+MID_STAGE_TITLE_PB009: Skill Studies 9
+MID_STAGE_PB009: Atk/Def Bond's Power
+MID_STAGE_TITLE_PB010: Skill Studies 10
+MID_STAGE_PB010: Dangerous Breakers
+MID_STAGE_TITLE_PB011: Skill Studies 11
+MID_STAGE_PB011: Steady Breath Rush
+MID_STAGE_TITLE_PB012: Skill Studies 12
+MID_STAGE_PB012: Vantage & Flashing Blade
+MID_STAGE_TITLE_PB013: Skill Studies 13
+MID_STAGE_PB013: Trigger Wrath
+MID_STAGE_TITLE_PB014: Skill Studies 14
+MID_STAGE_PB014: Guidance River Crossing
+MID_STAGE_TITLE_PB015: Skill Studies 15
+MID_STAGE_PB015: Flier Formation Soars
+MID_STAGE_TITLE_PB016: Skill Studies 16
+MID_STAGE_PB016: Led by Wings of Mercy
+MID_STAGE_TITLE_PB017: Skill Studies 17
+MID_STAGE_PB017: Move with Armor March
+MID_STAGE_TITLE_PB018: Skill Studies 18
+MID_STAGE_PB018: Spd Smoke Follow-Ups
+MID_STAGE_TITLE_PB019: Skill Studies 19
+MID_STAGE_PB019: Spd Ploy and the Forecast
+MID_STAGE_TITLE_PC001: Grandmaster 1
+MID_STAGE_PC001: Two Birds, One Stone
+MID_STAGE_TITLE_PC002: Grandmaster 2
+MID_STAGE_PC002: Brief Meetings
+MID_STAGE_TITLE_PC003: Grandmaster 3
+MID_STAGE_PC003: Counterattack Crew
+MID_STAGE_TITLE_PC004: Grandmaster 4
+MID_STAGE_PC004: Stalwart Defenders
+MID_STAGE_TITLE_PC005: Grandmaster 5
+MID_STAGE_PC005: Horse and Man as One
+MID_STAGE_TITLE_PC006: Grandmaster 6
+MID_STAGE_PC006: Jet-Black March
+MID_STAGE_TITLE_PC007: Grandmaster 7
+MID_STAGE_PC007: Caught in a Snare
+MID_STAGE_TITLE_PC008: Grandmaster 8
+MID_STAGE_PC008: Another Reunion
+MID_STAGE_TITLE_PC009: Grandmaster 9
+MID_STAGE_PC009: They Have the Princess!
+MID_STAGE_TITLE_SB_0012: 12th Assault
+MID_CHAPTER_ST_CX011: P. 21 & 22
+MID_STAGE_TITLE_ST_X0020: Paralogue 21
+MID_STAGE_TITLE_ST_X0021: Paralogue 22
+MID_STAGE_TITLE_ST_X1021: P. 21 & 22
+MID_STAGE_HONOR_Q0019: Weekly
+MID_STAGE_Q0019: Rival Domains
+MID_STAGE_HONOR_Q0020: Weekly
+MID_STAGE_Q0020: Rival Domains
+MID_STAGE_HONOR_Q0021: Weekly
+MID_STAGE_Q0021: Rival Domains
+MID_STAGE_HONOR_Q0022: Weekly
+MID_STAGE_Q0022: Rival Domains
+MID_TAP_BATTLE_DATA_TITLE_0006: Summer of Heroes
+MID_MUSIC_NAME_BGM_MAP_FE13_02: Prelude (Ablaze)
+MID_MUSIC_NAME_BGM_MENU_FRIEND1: Friendship
+MID_MUSIC_NAME_BGM_MENU_POST: Cast Your Vote

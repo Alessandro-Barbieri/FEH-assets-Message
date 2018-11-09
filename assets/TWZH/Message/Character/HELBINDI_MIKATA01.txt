@@ -1,0 +1,38 @@
+[Heroes Archive] (HELBINDI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_HELBINDI_MIKATA01_HOME1: 和我那個該死的故鄉相比，\n這裡簡直是天堂。\n但是，我還是更適合那個該死的故鄉。
+MID_HELBINDI_MIKATA01_HOME2: 我出生在垃圾般的底層社會，\n是個沒有錢、沒有地位的渾小子。\n除了依靠力量外，我也沒有其他選擇。
+MID_HELBINDI_MIKATA01_HOME3: 你問我是為了什麼戰鬥？\n不要動不動跑來問我這種無聊問題。
+MID_HELBINDI_MIKATA01_HOME4: 那個叫優爾格的臭小鬼\n也在這裡嗎？\n……不管是怎樣都無所謂啦。
+MID_HELBINDI_MIKATA01_HOME5: 如果有個叫梅妮雅的女人來這的話，\n記得跟我……啊～混帳！\n果然還是算了！
+MID_HELBINDI_MIKATA01_FRIEND: 啊？你問我有什麼事？\n為什麼我就非得告訴你啊？\n呿，$Nf那傢伙……
+MID_HELBINDI_MIKATA01_LEVEL1: 力量！只要有力量，\n無論是地位還是金錢，要什麼有什麼……！
+MID_HELBINDI_MIKATA01_LEVEL2: 哈！\n活該！
+MID_HELBINDI_MIKATA01_LEVEL3: 混帳！混帳！混帳！
+MID_HELBINDI_MIKATA01_SKILL: 謝啦。\n……啊？我道謝很奇怪嗎！？
+MID_HELBINDI_MIKATA01_JOIN: 我是穆斯貝爾的將領赫爾賓迪。\n喂……這是不是搞錯什麼了？\n我的末路肯定是地獄才對啊。
+MID_HELBINDI_MIKATA01_STRONGEST: 啊？你問為什麼我會服從你？$k$p問得好。\n說真的，\n我其實很想立刻宰了你，但……$k$p理由很簡單。\n野獸也一樣會服從強者，\n會對強者搖尾巴、露出肚皮。$k$p而我之前很恐懼國王，\n因為他很強，他能殺了我，\n但是，你更讓我感到恐懼。$k$p你可怕的地方不只是擁有召喚之力，\n而是讓我有種你擁有\n某種難以捉摸的力量的預感……$k$p所以，我不是把你當同伴或朋友，\n是因為你很強，所以才服從你。\n你可絕對別忘了這一點！
+MID_HELBINDI_MIKATA01_VOICE01: 喝啊～！
+MID_HELBINDI_MIKATA01_VOICE02: 去死吧！
+MID_HELBINDI_MIKATA01_VOICE03: 嘎啊啊！
+MID_HELBINDI_MIKATA01_VOICE04: 混帳……！
+MID_HELBINDI_MIKATA01_VOICE05: 嘎哈哈哈哈哈哈！
+MID_HELBINDI_MIKATA01_VOICE06: 倒下吧！
+MID_HELBINDI_MIKATA01_VOICE07: 真是煩人的垃圾！
+MID_HELBINDI_MIKATA01_VOICE08: 我真的生氣了……！
+MID_HELBINDI_MIKATA01_VOICE09: …ゴミみてえな…最期だ…な……
+MID_HELBINDI_MIKATA01_VOICE10: ぎゃははっ！
+MID_HELBINDI_MIKATA01_VOICE11: ヘルビンディだ！　俺の名をよくおぼえとけ！
+MID_HELBINDI_MIKATA01_VOICE12: 何見てんだてめー殺すぞ？
+MID_HELBINDI_MIKATA01_VOICE13: ありえねー…なんで俺がてめーなんぞの配下に…
+MID_HELBINDI_MIKATA01_VOICE14: 俺が何のために戦うか？　んなこたどーでもいいだろうが。
+MID_HELBINDI_MIKATA01_VOICE15: 俺みてーなクズに、なんでつきまとう？
+MID_HELBINDI_MIKATA01_VOICE16: 金だ…金さえあれば…あいつを…
+MID_HELBINDI_MIKATA01_VOICE17: 罪滅ぼしなんざする気はねーが、てめーの言うことは聞いてやる。
+MID_HELBINDI_MIKATA01_VOICE18: ああ？
+MID_HELBINDI_MIKATA01_VOICE19: 気に入らねーな
+MID_HELBINDI_MIKATA01_VOICE20: ぶち殺すぞ

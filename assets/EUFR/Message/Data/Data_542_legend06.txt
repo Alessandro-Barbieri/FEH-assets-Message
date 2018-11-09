@@ -1,0 +1,180 @@
+[Heroes Archive] (Data_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_M201807A_TITLE: Quêtes juil. (1)
+MID_MISSION_M201807A_A1: Victoire : unité verte
+MID_MISSION_H_M201807A_A1: Vaincre des ennemis avec des unités vertes.
+MID_MISSION_M201807A_A2: Victoire : cavalerie
+MID_MISSION_H_M201807A_A2: Vaincre des ennemis avec des cavaliers.
+MID_MISSION_M201807A_A3: Cible : unités rouges
+MID_MISSION_H_M201807A_A3: Vaincre des unités rouges.
+MID_MISSION_M201807A_A4: Cible : infanterie
+MID_MISSION_H_M201807A_A4: Vaincre des fantassins.
+MID_MISSION_M201807A_A5: Duelliste
+MID_MISSION_H_M201807A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201807A_A6: Domination : unité bleue
+MID_MISSION_H_M201807A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités bleues.
+MID_MISSION_M201807A_A7: Domination : infanterie
+MID_MISSION_H_M201807A_A7: Vaincre des ennemis de niveau 20 ou\nsupérieur avec des fantassins.
+MID_MISSION_M201807A_A8: Cible : unités vertes
+MID_MISSION_H_M201807A_A8: Vaincre des unités vertes de niveau 20\nou supérieur.
+MID_MISSION_M201807A_A9: Cible : cavalerie
+MID_MISSION_H_M201807A_A9: Vaincre des cavaliers de niveau 20 ou\nsupérieur.
+MID_MISSION_M201807A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201807A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201807A_A11: Domination : unité rouge
+MID_MISSION_H_M201807A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités rouges.
+MID_MISSION_M201807A_A12: Domination : vol
+MID_MISSION_H_M201807A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des unités volantes.
+MID_MISSION_M201807A_A13: Cible : unités bleues
+MID_MISSION_H_M201807A_A13: Vaincre des unités bleues de niveau 35\nou supérieur.
+MID_MISSION_M201807A_A14: Cible : unités volantes
+MID_MISSION_H_M201807A_A14: Vaincre des unités volantes de niveau 35\nou supérieur.
+MID_MISSION_M201807A_A15: Duelliste émérite
+MID_MISSION_H_M201807A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201807B_TITLE: Quêtes juil. (2)
+MID_MISSION_M201807B_A1: Tour : première strate
+MID_MISSION_H_M201807B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A2: Tour : deuxième strate
+MID_MISSION_H_M201807B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A3: Tour : troisième strate
+MID_MISSION_H_M201807B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A4: Tour : quatrième strate
+MID_MISSION_H_M201807B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A5: Tour : cinquième strate
+MID_MISSION_H_M201807B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A6: Tour : sixième strate
+MID_MISSION_H_M201807B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A7: Tour : septième strate
+MID_MISSION_H_M201807B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A8: Tour : huitième strate
+MID_MISSION_H_M201807B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A9: Tour : neuvième strate
+MID_MISSION_H_M201807B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A10: Tour : dixième strate
+MID_MISSION_H_M201807B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807B_A11: Tour : dixième strate
+MID_MISSION_H_M201807B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201807B_A12: Tour : dixième strate
+MID_MISSION_H_M201807B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités en armure et sans essuyer\nla moindre perte.
+MID_MISSION_M201807B_A13: Tour : dixième strate
+MID_MISSION_H_M201807B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201807B_A14: Tour : dixième strate
+MID_MISSION_H_M201807B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201807C_TITLE: Quêtes juil. (3)
+MID_MISSION_M201807C_A1: Chapitre 4 - Acte 1
+MID_MISSION_H_M201807C_A1: Terminer l'acte 1 du chapitre 4 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201807C_A2: Chapitre 4 - Acte 2
+MID_MISSION_H_M201807C_A2: Terminer l'acte 2 du chapitre 4 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807C_A3: Chapitre 4 - Acte 3
+MID_MISSION_H_M201807C_A3: Terminer l'acte 3 du chapitre 4 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807C_A4: Chapitre 4 - Acte 4
+MID_MISSION_H_M201807C_A4: Terminer l'acte 4 du chapitre 4 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807C_A5: Chapitre 4 - Acte 5
+MID_MISSION_H_M201807C_A5: Terminer l'acte 5 du chapitre 4 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807C_A6: Chap. 7 - Acte 1 (Difficile)
+MID_MISSION_H_M201807C_A6: Terminer l'acte 1 du chapitre 7 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201807C_A7: Chap. 7 - Acte 2 (Difficile)
+MID_MISSION_H_M201807C_A7: Terminer l'acte 2 du chapitre 7 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros sans essuyer la moindre perte.
+MID_MISSION_M201807C_A8: Chap. 7 - Acte 3 (Difficile)
+MID_MISSION_H_M201807C_A8: Terminer l'acte 3 du chapitre 7 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros sans essuyer la moindre perte.
+MID_MISSION_M201807C_A9: Chap. 7 - Acte 4 (Difficile)
+MID_MISSION_H_M201807C_A9: Terminer l'acte 4 du chapitre 7 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros sans essuyer la moindre perte.
+MID_MISSION_M201807C_A10: Chap. 7 - Acte 5 (Difficile)
+MID_MISSION_H_M201807C_A10: Terminer l'acte 5 du chapitre 7 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros sans essuyer la moindre perte.
+MID_MISSION_M201807C_A11: Chap. 10 - Acte 1 (Expert)
+MID_MISSION_H_M201807C_A11: Terminer l'acte 1 du chapitre 10 en Expert\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201807C_A12: Chap. 10 - Acte 2 (Expert)
+MID_MISSION_H_M201807C_A12: Terminer l'acte 2 du chapitre 10 en Expert\navec une unité rouge dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201807C_A13: Chap. 10 - Acte 3 (Expert)
+MID_MISSION_H_M201807C_A13: Terminer l'acte 3 du chapitre 10 en Expert\navec une unité bleue dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201807C_A14: Chap. 10 - Acte 4 (Expert)
+MID_MISSION_H_M201807C_A14: Terminer l'acte 4 du chapitre 10 en Expert\navec une unité verte dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201807C_A15: Chap. 10 - Acte 5 (Expert)
+MID_MISSION_H_M201807C_A15: Terminer l'acte 5 du chapitre 10 en Expert\navec une unité grise dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201806HERO02_TITLE: Grandes batailles
+MID_MISSION_S201806HERO02_A1: Lyon
+MID_MISSION_H_S201806HERO02_A1: Remporter la grande bataille contre Lyon,\nle prince de l'ombre, avec Sharena,\nla princesse d'Askr, dans votre équipe.
+MID_MISSION_S201806HERO02_A2: Lyon
+MID_MISSION_H_S201806HERO02_A2: Remporter la grande bataille contre Lyon, le\nprince de l'ombre, en Expert ou supérieur avec\nLyon, le prince de l'ombre, dans votre équipe.
+MID_MISSION_S201806HERO02_A3: Lyon
+MID_MISSION_H_S201806HERO02_A3: Avec Sharena, la princesse d'Askr, vaincre\nune version de niveau 40 ou supérieur\nde Lyon, le prince de l'ombre.
+MID_MISSION_S201806HERO02_A4: Lyon
+MID_MISSION_H_S201806HERO02_A4: Avec Lyon, le prince de l'ombre, vaincre\nune version de niveau 40 ou supérieur\nde Lyon, le prince de l'ombre.
+MID_MISSION_S201806HERO02_A5: Lyon
+MID_MISSION_H_S201806HERO02_A5: Remporter la grande bataille contre Lyon, le\nprince de l'ombre, en Expert ou supérieur avec\nune équipe d'unités volantes.
+MID_MISSION_S201807BLESS01_TITLE: Bénédiction du feu
+MID_MISSION_S201807BLESS01_A1: Victoire : héros béni (feu)
+MID_MISSION_H_S201807BLESS01_A1: Vaincre des ennemis avec des héros ayant reçu\nla bénédiction du feu (ne concerne pas les\nhéros légendaires de type Feu).
+MID_MISSION_S201807BLESS01_A2: Victoire : héros béni (feu)
+MID_MISSION_H_S201807BLESS01_A2: Vaincre des ennemis de niveau 20 ou supérieur\navec des héros ayant reçu la bénédiction du\nfeu (ne concerne pas les héros légendaires\nde type Feu).
+MID_MISSION_S201807BLESS01_A3: Victoire : héros béni (feu)
+MID_MISSION_H_S201807BLESS01_A3: Vaincre des unités rouges de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du feu (ne concerne pas les\nhéros légendaires de type Feu).
+MID_MISSION_S201807BLESS01_A4: Victoire : héros béni (feu)
+MID_MISSION_H_S201807BLESS01_A4: Vaincre des unités bleues de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du feu (ne concerne pas les\nhéros légendaires de type Feu).
+MID_MISSION_S201807BLESS01_A5: Victoire : héros béni (feu)
+MID_MISSION_H_S201807BLESS01_A5: Vaincre des unités vertes de niveau 35 ou\nsupérieur avec des héros ayant reçu la\nbénédiction du feu (ne concerne pas les\nhéros légendaires de type Feu).
+MID_MISSION_S201807BLESS01_A6: Tour : première strate
+MID_MISSION_H_S201807BLESS01_A6: Terminer la 1re strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nfeu (ne concerne pas les héros légendaires de\ntype Feu).
+MID_MISSION_S201807BLESS01_A7: Tour : cinquième strate
+MID_MISSION_H_S201807BLESS01_A7: Terminer la 5e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nfeu (ne concerne pas les héros légendaires de\ntype Feu).
+MID_MISSION_S201807BLESS01_A8: Tour : dixième strate
+MID_MISSION_H_S201807BLESS01_A8: Terminer la 10e strate de la tour d'entraînement\navec un héros ayant reçu la bénédiction du\nfeu (ne concerne pas les héros légendaires de\ntype Feu).
+MID_MISSION_S201807VOTE01_TITLE: Quêtes : tournoi
+MID_MISSION_S201807VOTE01_A1: Tournoi
+MID_MISSION_H_S201807VOTE01_A1: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201807VOTE01_A2: Tournoi
+MID_MISSION_H_S201807VOTE01_A2: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201807VOTE01_A3: Tournoi
+MID_MISSION_H_S201807VOTE01_A3: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201807VOTE01_A4: Tournoi
+MID_MISSION_H_S201807VOTE01_A4: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201807VOTE01_A5: Tournoi
+MID_MISSION_H_S201807VOTE01_A5: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201807VOTE01_A6: Tour : deuxième strate
+MID_MISSION_H_S201807VOTE01_A6: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201807VOTE01_A7: Tour : cinquième strate
+MID_MISSION_H_S201807VOTE01_A7: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201807VOTE01_A8: Tour : huitième strate
+MID_MISSION_H_S201807VOTE01_A8: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201807VOTE01_A9: Duelliste
+MID_MISSION_H_S201807VOTE01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807VOTE01_A10: Duelliste
+MID_MISSION_H_S201807VOTE01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201807VOTE01_A11: Duelliste intermédiaire
+MID_MISSION_H_S201807VOTE01_A11: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201807VOTE01_A12: Duelliste intermédiaire
+MID_MISSION_H_S201807VOTE01_A12: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201807VOTE01_A13: Tournoi
+MID_MISSION_H_S201807VOTE01_A13: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201807VOTE01_A14: Tournoi
+MID_MISSION_H_S201807VOTE01_A14: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201807VOTE01_A15: Tournoi
+MID_MISSION_H_S201807VOTE01_A15: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201807VOTE01_A16: Tournoi
+MID_MISSION_H_S201807VOTE01_A16: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MID_MISSION_S201807VOTE01_A17: Tournoi
+MID_MISSION_H_S201807VOTE01_A17: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201807VOTE01_A18: Tournoi
+MID_MISSION_H_S201807VOTE01_A18: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201807VOTE01_A19: Tournoi
+MID_MISSION_H_S201807VOTE01_A19: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201807VOTE01_A20: Tournoi
+MID_MISSION_H_S201807VOTE01_A20: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MPID_伝承ヘクトル: Hector
+MPID_HONOR_伝承ヘクトル: Marquis d'Ositia
+MPID_H_伝承ヘクトル: Après avoir pris le titre de marquis d'Ositia,\nHector décida de mener son peuple, armé\nde sa hache Armadès. Apparaît dans\nFire Emblem: The Blazing Blade.
+MPID_VOICE_伝承ヘクトル: Patrick Seitz
+MPID_ILLUST_伝承ヘクトル: Wada Sachiko (ワダサチコ)
+MPID_LEGEND_伝承ヘクトル: Effet légendaire : feu\nBoost pour les alliés : PV +3, Atq +2\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction du feu et que\ncette unité combat avec eux pendant la\nsaison du feu.
+MSID_天雷アルマーズ: Armadès foudre
+MSID_オスティアの鼓動: Pouls d'Ositia
+MSID_H_天雷アルマーズ: Confère Déf +3. S'il y a plus d'alliés\n(unité exclue) que d'ennemis (cible exclue)\nà 2 cases ou moins, l'ennemi ne peut pas\nréaliser de double-frappe.
+MSID_H_オスティアの鼓動: Au début du tour 1, compteur -1 pour les\nalliés dont le type de mouvement apparaît\ndeux fois ou moins dans l'équipe.
+MID_STAGE_HONOR_T0034: Héros liés
+MID_STAGE_T0034: M & H
+MID_STAGE_HONOR_L0004: Marquis d'Ositia
+MID_STAGE_L0004: Hector

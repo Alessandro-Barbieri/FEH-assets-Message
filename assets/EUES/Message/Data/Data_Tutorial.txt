@@ -1136,10 +1136,10 @@ MSID_H_リカバー: Dificulta la ejecución de habilidades especiales:\n+ 1 a l
 MSID_H_ヒール: Devuelve 7 PV tanto al objetivo como a la unidad.
 MSID_H_セインツ: Dificulta habilidades especiales:\n+ 1 a la cuenta atrás. El objetivo recupera\n7 PV más todo el daño sufrido por la unidad.\nEsta recupera la mitad del daño sufrido.
 MSID_H_リバース: Dificulta habilidades especiales: + 1 a la\ncuenta atrás. Si el objetivo tiene PV ≤ 50 %,\ncuantos menos tenga, más recuperará.\n(Mínimo de 7 PV.)
-MSID_H_入れ替え: La unidad ocupa la posición de un aliado\ny este pasa a una casilla adyacente.
+MSID_H_入れ替え: La unidad y un aliado intercambian posiciones.
 MSID_H_体当たり: Aleja a un aliado a una casilla de distancia.
 MSID_H_ぶちかまし: Aleja a un aliado a dos casillas de distancia.
-MSID_H_引き寄せ: La unidad se aleja una casilla de un aliado\nadyacente y lo arrastra hacia ella.
+MSID_H_引き寄せ: La unidad se aleja una casilla de un aliado\ny lo arrastra hacia ella.
 MSID_H_引き戻し: Desplaza a un aliado desde una casilla\nadyacente a la unidad a su opuesta.
 MSID_H_回り込み: Desplaza a la unidad desde una casilla\nadyacente a un aliado a su opuesta.
 MSID_H_攻撃の応援: Ata + 4 a un aliado adyacente\nhasta el final del turno.
@@ -1161,18 +1161,18 @@ MSID_H_太陽: La unidad recupera el 50 % del daño infligido.
 MSID_H_影月: Def y Res - 30 % al rival durante el ataque.
 MSID_H_月虹: Def y Res - 30 % al rival durante el ataque.
 MSID_H_月光: Def y Res - 50 % al rival durante el ataque.
-MSID_H_雪辱: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 30 %\ndel daño que ha sufrido.
-MSID_H_血讐: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 30 %\ndel daño que ha sufrido.
-MSID_H_復讐: La unidad aumenta el daño que inflige\nen una cuantía equivalente al 50 %\ndel daño que ha sufrido.
-MSID_H_伏竜: Ata + 30 %.
-MSID_H_竜裂: Ata + 30 %.
-MSID_H_竜穿: Ata + 50 %.
-MSID_H_蛍火: Convierte un 50 % de la Def de la unidad\nen daño adicional.
-MSID_H_緋炎: Convierte un 50 % de la Def de la unidad\nen daño adicional.
-MSID_H_華炎: Convierte un 80 % de la Def de la unidad\nen daño adicional.
-MSID_H_氷点: Convierte un 50 % de la Res de la unidad\nen daño adicional.
-MSID_H_氷蒼: Convierte un 50 % de la Res de la unidad\nen daño adicional.
-MSID_H_氷華: Convierte un 80 % de la Res de la unidad\nen daño adicional.
+MSID_H_雪辱: La unidad aumenta el daño en una cuantía\nequivalente al 30 % del daño que ha sufrido.
+MSID_H_血讐: La unidad aumenta el daño en una cuantía\nequivalente al 30 % del daño que ha sufrido.
+MSID_H_復讐: La unidad aumenta el daño en una cuantía\nequivalente al 50 % del daño que ha sufrido.
+MSID_H_伏竜: La unidad aumenta el daño en una cuantía\nequivalente al 30 % de su Ata.
+MSID_H_竜裂: La unidad aumenta el daño en una cuantía\nequivalente al 30 % de su Ata.
+MSID_H_竜穿: La unidad aumenta el daño en una cuantía\nequivalente al 50 % de su Ata.
+MSID_H_蛍火: La unidad aumenta el daño en una cuantía\nequivalente al 50 % de su Def.
+MSID_H_緋炎: La unidad aumenta el daño en una cuantía\nequivalente al 50 % de su Def.
+MSID_H_華炎: La unidad aumenta el daño en una cuantía\nequivalente al 80 % de su Def.
+MSID_H_氷点: La unidad aumenta el daño en una cuantía\nequivalente al 50 % de su Res.
+MSID_H_氷蒼: La unidad aumenta el daño en una cuantía\nequivalente al 50 % de su Res.
+MSID_H_氷華: La unidad aumenta el daño en una cuantía\nequivalente al 80 % de su Res.
 MSID_H_砕火: Antes de un ataque iniciado por esta unidad,\nlos rivales cercanos sufren daño igual a\nAta unidad - Def o Res rival.
 MSID_H_爆火: Antes de un ataque iniciado por esta unidad,\nlos rivales situados en los alrededores sufren\ndaño igual a Ata unidad - Def o Res rival.
 MSID_H_烈火: Antes de un ataque iniciado por esta unidad,\nlos rivales cercanos sufren daño igual a\n1,5 × (Ata unidad - Def o Res rival).

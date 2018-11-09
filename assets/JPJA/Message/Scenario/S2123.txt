@@ -1,0 +1,12 @@
+[Heroes Archive] (S2123)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_04
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Anger|まだあがきやがるのか、てめーら…\nいい加減諦めてくたばりやがれ！$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|なんなんだ…てめーらは…\nくそっ…諦められねーのは\n俺だって同じだ…！$k$p
+MID_SCENARIO_ENDING_BGM: BGM_EVENT_SERIOUS_03
+MID_SCENARIO_ENDING_IMAGE: 026_Muspel
+MID_SCENARIO_ENDING: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|勝てねえ…けど…\n勝たなきゃならねーんだ…$k$p俺が勝たなきゃ…\nあいつは…$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face|…ヘルビンディ、\nここにいたのね。$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face|あ？\nあんたか…俺に何の用だ？$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face|…あなたへの命令はここまでよ。\nもうこれ以上、\nあなたは戦わなくていい。$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face|あ？　何言ってんだ？\n俺は奴らをぶっ殺さなきゃ\nならねーんだろうが！$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face|それは私たちがやるわ。\nムスペル王族の責務として。\nあなたは戦場を離れなさい。$k$p安心しなさい。\nあなたが生きていることは\n父上には決して知らせたりしないわ。$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face|どういう風の吹き回しだ？\nなんで急にそんな話をしやがる？$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face_Pain|…………$k$p父上から聞かされたわ。\nヘルビンディ…\nあなたが黒灰の城で敗れた後…$k$p父上は見せしめに\nあなたたちの貧民街を焼き尽くし、\n皆殺しにしたそうよ…$k$pあなたの妹も…\n焼き殺されたと…そう聞いたわ…$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|…………$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face_Pain|…言いにくいけれど、だからもう…\nあなたが戦う必要はないの。\n私たちに従う必要も…$k$pだから、あなたは…$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|…………$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face|ヘルビンディ…？$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|…そうかよ…$k$p…よく…わかったぜ…$k$p$WmMPID_レーギャルン,ch00_11_Laegjarn_F_Normal,Face_Pain|…………$k$p$WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|…なら、そうだな…\n…俺は…これから…$k$p…これから…$k$p$Sbs150|

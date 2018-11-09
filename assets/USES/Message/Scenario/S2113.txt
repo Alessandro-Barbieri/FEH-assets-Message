@@ -1,0 +1,9 @@
+[Heroes Archive] (S2113)
+
+
+Heroes Message Name: Message
+
+
+MID_SCENARIO_MAP_BEGIN_BGM: BGM_EVENT_SERIOUS_01
+MID_SCENARIO_MAP_BEGIN: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Smile|¡Ajá! Con que aquí es donde se\nescondían, ratas inmundas. ¡Hoy\nes mi día de suerte!$k$pSé que quieren morir a manos del\nmejor, así que vine del infierno\nsolo para concederles ese deseo.$k$p$Sbs1000|
+MID_SCENARIO_MAP_END: $WmMPID_ヘルビンディ,ch00_12_Helbindi_M_Normal,Face_Pain|¡Váyanse al infierno!\nNo pienso... morir...$k$p

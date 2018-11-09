@@ -1,0 +1,38 @@
+[Heroes Archive] (HELBINDI_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_HELBINDI_MIKATA01_HOME1: Ici, c'est le paradis, comparé aux\ntaudis d'où je viens. Mais c'est là-bas\nque je suis à ma place.
+MID_HELBINDI_MIKATA01_HOME2: Je ne suis qu'une vermine de rien\ndu tout... Tout ce que j'ai, c'est\nma force.
+MID_HELBINDI_MIKATA01_HOME3: Vous voulez savoir pourquoi je me\nbats ? Ne me faites pas perdre mon\ntemps avec des questions stupides.
+MID_HELBINDI_MIKATA01_HOME4: Est-ce que cette morveuse d'Ylgr\nest dans le coin ? Non... Oubliez ça.
+MID_HELBINDI_MIKATA01_HOME5: Si vous voyez une fille du nom de\nMenja... Non, oubliez ça. Faites\ncomme si je n'avais rien dit.
+MID_HELBINDI_MIKATA01_FRIEND: Pourquoi je suis venu ici ? Pas pour\nsubir un interrogatoire, en tout cas.$k$pSi vous voulez des réponses,\nallez embêter $Nf.
+MID_HELBINDI_MIKATA01_LEVEL1: Quand on a de la force, on\npeut avoir tout ce qu'on veut !
+MID_HELBINDI_MIKATA01_LEVEL2: L'affaire est dans le sac !
+MID_HELBINDI_MIKATA01_LEVEL3: Non mais c'est pas vrai !
+MID_HELBINDI_MIKATA01_SKILL: Merci. Quoi ? Vous voulez une petite\nrévérence, en prime ?
+MID_HELBINDI_MIKATA01_JOIN: Je suis Helbindi, général de Múspell.\nC'est une blague, non ? Je suis censé\naller en enfer, pas ici.
+MID_HELBINDI_MIKATA01_STRONGEST: Hein ? Vous voulez savoir pourquoi\nje me bats pour vous ? Vous avez\nde ces questions...$k$pVous savez, moi aussi, ça m'étonne\nun peu. Dans le temps, j'ai liquidé\npas mal de gens dans votre genre.$k$pMais au final, c'est simple : même\nles bêtes féroces se prosternent\nquand un animal plus gros arrive.$k$pSurtr aurait pu me tuer facilement.\nEt vous... j'ai encore plus peur de\nce que vous pouvez faire.$k$pJe ne parle pas des invocations.\nMais il y a un truc... Je ne saurais\npas dire quoi.$k$pJ'ai le sentiment qu'un jour, vous\nallez faire... quelque chose.$k$pPour être clair, je ne suis pas votre\nallié, ni votre ami.  Vous êtes\n$Gpuissant,puissante|, je vous obéis. C'est tout.$k$pN'oubliez jamais ça.
+MID_HELBINDI_MIKATA01_VOICE01: おらぁっ！
+MID_HELBINDI_MIKATA01_VOICE02: Get dying!
+MID_HELBINDI_MIKATA01_VOICE03: がああっ！
+MID_HELBINDI_MIKATA01_VOICE04: Shit!
+MID_HELBINDI_MIKATA01_VOICE05: Ha ha ha !
+MID_HELBINDI_MIKATA01_VOICE06: Mourez.
+MID_HELBINDI_MIKATA01_VOICE07: Dégagez de là, vermine !
+MID_HELBINDI_MIKATA01_VOICE08: Ça suffit !
+MID_HELBINDI_MIKATA01_VOICE09: Nothing but filth…
+MID_HELBINDI_MIKATA01_VOICE10: Gyahaha!
+MID_HELBINDI_MIKATA01_VOICE11: The name's Helbindi! Remember it.
+MID_HELBINDI_MIKATA01_VOICE12: What're you looking at? Got a death wish?
+MID_HELBINDI_MIKATA01_VOICE13: This is a joke. Me, serve somebody like you?
+MID_HELBINDI_MIKATA01_VOICE14: Why do I fight? Does it matter? No. It doesn't.
+MID_HELBINDI_MIKATA01_VOICE15: Why're you spending time with filth like me?
+MID_HELBINDI_MIKATA01_VOICE16: Money. If I had money, I... I could do what I need to do.
+MID_HELBINDI_MIKATA01_VOICE17: I'll never apologize. But I can listen to what you have to say.
+MID_HELBINDI_MIKATA01_VOICE18: What?
+MID_HELBINDI_MIKATA01_VOICE19: Nope.
+MID_HELBINDI_MIKATA01_VOICE20: Dead meat.

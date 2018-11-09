@@ -1,0 +1,147 @@
+[Heroes Archive] (Data_56_kakusei02)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花占いの髪飾り: Horquilla floral
+MDAID_H_花占いの髪飾り: Horquilla de Sumia. Una margarita que\ndeshojó para saber el futuro. Posee\nuna fragancia fresca y agradable.
+MDAID_花占いの髪飾り・極: Horquilla floral +
+MDAID_H_花占いの髪飾り・極: Horquilla de Sumia. Una margarita que\ndeshojó para saber el futuro. Posee\nuna fragancia delicada y exquisita.
+MDAID_令嬢のリボン: Lazo de dama
+MDAID_H_令嬢のリボン: Lazo para el pelo de Maribelle. Está\nhecho con tela de la mejor calidad.
+MDAID_令嬢のリボン・極: Lazo de dama +
+MDAID_H_令嬢のリボン・極: Lazo para el pelo de Maribelle. Está\nhecho con tela de la mejor calidad\ny ligeramente perfumado.
+MDAID_踊り子のマスク: Máscara de bailarina
+MDAID_H_踊り子のマスク: Máscara de Olivia. Los bailarines\nla llevan para emitir un aura mística\nmientras actúan.
+MDAID_踊り子のマスク・極: Máscara de bailarina +
+MDAID_H_踊り子のマスク・極: Máscara de Olivia. Los bailarines\nla llevan para emitir un aura\ncautivadora mientras actúan.
+MDAID_聖職者の帽子: Mitra de sacerdote
+MDAID_H_聖職者の帽子: Sombrero de Libra. Se lleva en lugares\nsagrados y aporta sensación de paz.
+MDAID_聖職者の帽子・極: Mitra de sacerdote +
+MDAID_H_聖職者の帽子・極: Sombrero de Libra. Se lleva en lugares\nsagrados e inspira solemnidad y\nmajestuosidad.
+MID_MISSION_S201807ARENA01_TITLE: Coliseo
+MID_MISSION_S201807ARENA01_A1: Gladiador
+MID_MISSION_H_S201807ARENA01_A1: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A2: Gladiador
+MID_MISSION_H_S201807ARENA01_A2: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A3: Gladiador
+MID_MISSION_H_S201807ARENA01_A3: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A4: Asalto del coliseo: 3 mapas
+MID_MISSION_H_S201807ARENA01_A4: Gana tres batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201807ARENA01_A5: Gladiador
+MID_MISSION_H_S201807ARENA01_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A6: Gladiador
+MID_MISSION_H_S201807ARENA01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A7: Gladiador
+MID_MISSION_H_S201807ARENA01_A7: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A8: Asalto del coliseo: 5 mapas
+MID_MISSION_H_S201807ARENA01_A8: Gana cinco batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201807ARENA01_A9: Gladiador
+MID_MISSION_H_S201807ARENA01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A10: Gladiador
+MID_MISSION_H_S201807ARENA01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A11: Gladiador
+MID_MISSION_H_S201807ARENA01_A11: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201807ARENA01_A12: Asalto del coliseo: 7 mapas
+MID_MISSION_H_S201807ARENA01_A12: Gana siete batallas seguidas en\nel asalto del coliseo.
+MID_MISSION_S201807SENKA02_DAILY_TITLE: La Tormenta
+MID_MISSION_S201807SENKA02_DAILY_A1: Superar mapa
+MID_MISSION_H_S201807SENKA02_DAILY_A1: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201807SENKA02_DAILY_A2: Superar mapa
+MID_MISSION_H_S201807SENKA02_DAILY_A2: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201807SENKA02_DAILY_A3: Superar mapa
+MID_MISSION_H_S201807SENKA02_DAILY_A3: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201807SENKA02_DAILY_A4: Superar mapa
+MID_MISSION_H_S201807SENKA02_DAILY_A4: Supera uno de los mapas finales\nde la Tormenta.
+MID_MISSION_S201807STORY02_TITLE: Príncipe glacial
+MID_MISSION_S201807STORY02_A1: Cap. 11 - Parte 1 / Extr.
+MID_MISSION_H_S201807STORY02_A1: Supera la 1.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201807STORY02_A2: Cap. 11 - Parte 2 / Extr.
+MID_MISSION_H_S201807STORY02_A2: Supera la 2.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201807STORY02_A3: Cap. 11 - Parte 3 / Extr.
+MID_MISSION_H_S201807STORY02_A3: Supera la 3.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades, incluyendo\nuna con hacha, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201807STORY02_A4: Cap. 11 - Parte 4 / Extr.
+MID_MISSION_H_S201807STORY02_A4: Supera la 4.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades, incluyendo\nun espadachín, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201807STORY02_A5: Cap. 11 - Parte 5 / Extr.
+MID_MISSION_H_S201807STORY02_A5: Supera la 5.ª parte del capítulo 11 del libro II\nen modo extremo con 4 unidades, incluyendo\nun lancero, en tu batallón y sin sufrir bajas.
+MPID_オリヴィエ2: Olivia
+MPID_スミア: Sumia
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ヴァルハルト: Walhart
+MPID_フリーズ: Hríd
+MPID_HONOR_オリヴィエ2: Bailarina celeste
+MPID_HONOR_スミア: Dama floral
+MPID_HONOR_マリアベル: Dama estricta
+MPID_HONOR_リベラ: Fraile atractivo
+MPID_HONOR_ヴァルハルト: El Conquistador
+MPID_H_オリヴィエ2: A esta magnífica —aunque extremadamente\ntímida— bailarina le encanta viajar. Bailar\nen el cielo la ha vuelto más atrevida.\nAparece en Fire Emblem: Awakening.
+MPID_H_スミア: Miembro de los Custodios. Es muy tranquila\ny le gusta predecir el futuro deshojando\nmargaritas. Se le dan muy bien los animales.\nAparece en Fire Emblem: Awakening.
+MPID_H_マリアベル: Noble altiva de rancio abolengo. Es miembro\nde los Custodios y la mejor amiga de Lissa.\nAparece en Fire Emblem: Awakening.
+MPID_H_リベラ: Sacerdote ylissense de semblante tranquilo.\nSus rasgos son tan delicados\nque suelen confundirlo con una mujer.\nAparece en Fire Emblem: Awakening.
+MPID_H_ヴァルハルト: Fiero emperador de Valm. Su orgullo\ndesmesurado lo lleva a conquistar\ny someter territorios.\nAparece en Fire Emblem: Awakening.
+MPID_VOICE_オリヴィエ2: Karen Strassman
+MPID_VOICE_スミア: —
+MPID_VOICE_マリアベル: Melissa Fahn
+MPID_VOICE_リベラ: Cindy Robinson
+MPID_VOICE_ヴァルハルト: Richard Epcar
+MPID_ILLUST_オリヴィエ2: AKIRA
+MPID_ILLUST_スミア: pikomaro
+MPID_ILLUST_マリアベル: Kousei Horiguchi (恒星ホリグチ)
+MPID_ILLUST_リベラ: Miyajima Haru (ミヤジマハル)
+MPID_ILLUST_ヴァルハルト: Soeda Ippei (添田一平)
+MSID_スクルド: Skuld
+MSID_反攻の槍: Lanza represalia
+MSID_反攻の槍＋: Lanza represalia +
+MSID_ヴォルフベルグ: Barathrum
+MSID_倭棍: Wo Gùn
+MSID_倭棍＋: Wo Gùn +
+MSID_トリレンマ: Trilema
+MSID_トリレンマ＋: Trilema +
+MSID_金剛明鏡の構え1: Postura muralla 1
+MSID_金剛明鏡の構え2: Postura muralla 2
+MSID_攻撃守備の連携1: Nexo Ata/Def 1
+MSID_攻撃守備の連携2: Nexo Ata/Def 2
+MSID_攻撃守備の連携3: Nexo Ata/Def 3
+MSID_攻撃魔防の紋章1: Mejora Ata/Res 1
+MSID_攻撃魔防の紋章2: Mejora Ata/Res 2
+MSID_杖の技量1: Bastón heroico 1
+MSID_杖の技量2: Bastón heroico 2
+MSID_杖の技量3: Bastón heroico 3
+MSID_H_スクルド: Si la unidad usa Cantar o Bailar,\nel objetivo obtiene Ata, Vel, Def y Res + 3.
+MSID_H_反攻の槍: Si el rival inicia el ataque, la unidad\nobtiene Ata + 6 durante el enfrentamiento.
+MSID_H_反攻の槍＋: Si el rival inicia el ataque, la unidad\nobtiene Ata + 6 durante el enfrentamiento.
+MSID_H_ヴォルフベルグ: Otorga Def + 3. Si en un radio de dos casillas\nel número de enemigos es superior o igual\nal de aliados (sin contar a la unidad ni al\nrival), la unidad obtiene Ata, Vel, Def\ny Res + 4 en combate.
+MSID_H_倭棍: Inflige + 10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_倭棍＋: Inflige + 10 de daño cuando se ejecutan\nhabilidades especiales.
+MSID_H_トリレンマ: Tras un ataque, si la unidad actúa, provoca\neste efecto al rival en su próxima acción:\n"Con ventaja en el triángulo de armas,\nAta + 20 %. Con desventaja, Ata - 20 %."
+MSID_H_トリレンマ＋: Tras un ataque, si la unidad actúa, provoca\neste efecto al rival y a los enemigos\nen un radio de dos casillas a su alrededor\nen su próxima acción:\n"Con ventaja en el triángulo de armas,\nAta + 20 %. Con desventaja, Ata - 20 %."
+MSID_H_金剛明鏡の構え1: Si el rival inicia el ataque, la unidad\nobtiene Def y Res + 2 durante el enfrentamiento.
+MSID_H_金剛明鏡の構え2: Si el rival inicia el ataque, la unidad\nobtiene Def y Res + 4 durante el enfrentamiento.
+MSID_H_攻撃守備の連携1: Otorga Ata y Def + 2 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_攻撃守備の連携2: Otorga Ata y Def + 4 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_攻撃守備の連携3: Otorga Ata y Def + 6 a la unidad y al aliado\ndurante el resto del turno al usar o recibir\nhabilidades de apoyo de desplazamiento\n(p. ej. Refugio, Empujar, Teleportación, etc.).
+MSID_H_攻撃魔防の紋章1: Otorga Ata y Res + 2 en combate\na los aliados adyacentes.
+MSID_H_攻撃魔防の紋章2: Otorga Ata y Res + 3 en combate\na los aliados adyacentes.
+MSID_H_杖の技量1: Mientras la unidad viva, si usa un bastón,\nrecibe un 50 % más de PH tras un ataque\no tras usar una habilidad de apoyo.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_杖の技量2: Mientras la unidad viva, quienes usen un bastón\nen el batallón reciben un 50 % más de PH tras\nun ataque o tras usar una habilidad de apoyo.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_杖の技量3: Mientras la unidad viva, quienes usen un bastón\nen el batallón reciben un 100 % más de PH tras\nun ataque o tras usar una habilidad de apoyo.\n(Solo se aplica el valor más alto. No acumulable.)
+MID_CHAPTER_TITLE_C0211: Libro II - Cap. 11
+MID_CHAPTER_C0211: Príncipe glacial
+MID_STAGE_TITLE_S2111: Cap. 11 - Parte 1
+MID_STAGE_TITLE_S2112: Cap. 11 - Parte 2
+MID_STAGE_TITLE_S2113: Cap. 11 - Parte 3
+MID_STAGE_TITLE_S2114: Cap. 11 - Parte 4
+MID_STAGE_TITLE_S2115: Cap. 11 - Parte 5
+MID_STAGE_S2111: Enemigo de mi enemigo
+MID_STAGE_S2112: Deshojando margaritas
+MID_STAGE_S2113: Salido del infierno
+MID_STAGE_S2114: Danza celeste
+MID_STAGE_S2115: Desfiladero del Osario
+MID_STAGE_HONOR_T0035: Batalla de vínculos
+MID_STAGE_T0035: L y E
+MID_STAGE_HONOR_T0036: El Conquistador
+MID_STAGE_T0036: Walhart
+MID_STAGE_TITLE_PB020: Habilidades 20
+MID_STAGE_PB020: Trucos del Trilema

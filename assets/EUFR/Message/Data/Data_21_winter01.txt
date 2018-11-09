@@ -122,12 +122,12 @@ MSID_H_攻撃速さの大覚醒3: Si PV ≤ 80 % au début du combat, confère\n
 MSID_H_攻撃守備の大覚醒1: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +3 pendant le combat.
 MSID_H_攻撃守備の大覚醒2: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +5 pendant le combat.
 MSID_H_攻撃守備の大覚醒3: Si PV ≤ 80 % au début du combat, confère\nAtq/Déf +7 pendant le combat.
-MSID_H_攻撃隊形1: Si l'unité initie le combat et que PV = 100 %,\nelle effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
-MSID_H_攻撃隊形2: Si l'unité initie le combat et que PV ≥ 50 %,\nelle effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
-MSID_H_攻撃隊形3: Si l'unité initie le combat, elle effectue\nune double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
-MSID_H_迎撃隊形1: Si l'ennemi initie le combat et que PV ≥ 90 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
-MSID_H_迎撃隊形2: Si l'ennemi initie le combat et que PV ≥ 70 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
-MSID_H_迎撃隊形3: Si l'ennemi initie le combat et que PV ≥ 50 %,\nl'unité effectue une double frappe. Compteur -1\npar attaque. (Effet non cumulable.)
+MSID_H_攻撃隊形1: Si l'unité initie le combat et que PV = 100 %,\ncompteur -1 pour chaque attaque de l'unité, qui\neffectue une double frappe. (Effet non\ncumulable.)
+MSID_H_攻撃隊形2: Si l'unité initie le combat et que PV ≥ 50 %,\ncompteur -1 pour chaque attaque de l'unité,\nqui effectue une double frappe. (Effet non\ncumulable.)
+MSID_H_攻撃隊形3: Si l'unité initie le combat, compteur -1 pour\nchaque attaque de l'unité, qui effectue une\ndouble frappe. (Effet non cumulable.)
+MSID_H_迎撃隊形1: Si l'ennemi initie le combat et que PV ≥ 90 %,\ncompteur -1 pour chaque attaque de l'unité,\nqui effectue une double frappe. (Effet non\ncumulable.)
+MSID_H_迎撃隊形2: Si l'ennemi initie le combat et que PV ≥ 70 %,\ncompteur -1 pour chaque attaque de l'unité,\nqui effectue une double frappe. (Effet non\ncumulable.)
+MSID_H_迎撃隊形3: Si l'ennemi initie le combat et que PV ≥ 50 %,\ncompteur -1 pour chaque attaque de l'unité,\nqui effectue une double frappe. (Effet non\ncumulable.)
 MSID_H_赤魔の技量1: Si l'unité utilise un tome rouge et survit, elle reçoit\nPA x 1,5. (S'il y a plusieurs effets similaires,\nseul le plus puissant s'applique.)
 MSID_H_赤魔の技量2: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent PA x 1,5. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)
 MSID_H_赤魔の技量3: Si l'unité survit, toutes les unités dotées de tomes\nrouges de l'équipe reçoivent PA x 2. (S'il y a\nplusieurs effets similaires, seul le plus puissant\ns'applique.)

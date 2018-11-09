@@ -1,0 +1,38 @@
+[Heroes Archive] (FLORA)
+
+
+Heroes Message Name: Message
+
+
+MID_FLORA_HOME1: I serve my liege Corrin as a maid, but\nmaybe I'll offer my services to Prince\nAlfonse and Princess Sharena, too.
+MID_FLORA_HOME2: I was taken as a hostage to keep the\nIce Tribe from rebelling. Despite this,\nI really did grow to like that place...
+MID_FLORA_HOME3: If you find yourself too busy, please\nallow me to share in your burden. I'm\nmore than used to all sorts of tasks.$k$pTo be honest, I never feel quite right\nunless my hands are busy with some\nchore.
+MID_FLORA_HOME4: I was just out gathering some wild\nplants. Would you like a cup of herbal\ntea? If you have the time, that is.
+MID_FLORA_HOME5: I had some spare time, so I made this\nsmall figurine from snow. Those of us\nfrom the Ice Tribe can create snow.$k$pHmm... Maybe next time I'll create a\nfigurine of a certain Summoner...
+MID_FLORA_FRIEND: I've come with a greeting from your\nfriend $Nf.\nNow I'll take my leave, if I may.
+MID_FLORA_LEVEL1: I suppose I can be proud of\nthese results.
+MID_FLORA_LEVEL2: I don't know if this will be\nenough...
+MID_FLORA_LEVEL3: I'm afraid I'm not much help...
+MID_FLORA_SKILL: Thank you, but I'm happy enough\njust receiving your attention.
+MID_FLORA_JOIN: I'm Flora, a maid from Nohr. Have\nyou seen my younger sister Felicia? I\nhope she hasn't caused you trouble.
+MID_FLORA_STRONGEST: Ah, $Nu. Did\nyou need me for something? If you're\ntired, I'll prepare a cup of warm tea.$k$pI apologize if I seem overattentive at\ntimes, but when I see you, I feel so\ncompelled to take care of you.$k$pFor some reason, you remind me of\nmy liege, Corrin... Isn't that strange?\nYou do not resemble one another.$k$pMaybe it's because you both maintain\na rather mysterious air... Or that you\nboth spend so much time with me.$k$pWhy is that, anyway? There are many\nother Heroes you could give your\nattention to, yet you've chosen me.$k$pBut please don't think me\nunappreciative of our time together.\nQuite the opposite, in fact.$k$pI feel like I can be myself when I'm\nwith you. You make me feel like I'm\ntruly worth something.$k$pBut most importantly...I can be\ncompletely honest and express\nmy true feelings for you...
+MID_FLORA_VOICE01: はいっ
+MID_FLORA_VOICE02: せやっ
+MID_FLORA_VOICE03: ううっ…！
+MID_FLORA_VOICE04: How disappointing...
+MID_FLORA_VOICE05: Freeze!
+MID_FLORA_VOICE06: You leave me no choice...
+MID_FLORA_VOICE07: Don't underestimate me!
+MID_FLORA_VOICE08: I could do no less.
+MID_FLORA_VOICE09: So...be it...
+MID_FLORA_VOICE10: Yes
+MID_FLORA_VOICE11: If you need help with any tasks, please let me know.
+MID_FLORA_VOICE12: If you have trouble getting out of bed in the morning, I have just the trick for slugabeds.
+MID_FLORA_VOICE13: Be careful where you put your hands. Wouldn't want you getting frostbite...
+MID_FLORA_VOICE14: There are so many wonderful Heroes here. It makes me a bit nervous, to be honest...
+MID_FLORA_VOICE15: You wield that divine weapon so masterfully... I really am kind of jealous.
+MID_FLORA_VOICE16: I found some broken dishes earlier. It was Felicia's turn to clean them, wasn't it...
+MID_FLORA_VOICE17: I always feel so good about myself after you take the time to chat with me.
+MID_FLORA_VOICE18: At your service.
+MID_FLORA_VOICE19: What do you need?
+MID_FLORA_VOICE20: To victory.

@@ -1,0 +1,38 @@
+[Heroes Archive] (ETHLIN)
+
+
+Heroes Message Name: Message
+
+
+MID_ETHLIN_HOME1: Sigurd, Deirdre... Je ne peux pas\nm'empêcher de penser à cette\népoque heureuse...
+MID_ETHLIN_HOME2: Vous êtes aussi $Gnégligé,négligée| que mon\nfrère et mon mari ! Essayez de\nprendre soin de votre apparence.
+MID_ETHLIN_HOME3: Tout le monde a besoin d'une pause\nde temps en temps. Patientez un\ninstant et je vous préparerai un thé.
+MID_ETHLIN_HOME4: Altena... Leif... Je vous protégerai.\nJe le jure.
+MID_ETHLIN_HOME5: On dirait que la couture à votre\népaule s'est défaite.$k$pJe vais vous raccommoder ça. Je\nreprisais déjà d'autres vêtements,\nalors ça ne me dérange pas.
+MID_ETHLIN_FRIEND: Je suis Ethlyn.\n$Nf vous\ntransmet ses salutations.
+MID_ETHLIN_LEVEL1: Je suis la descendante du croisé\nBaldr. Je dois l'emporter, pour les\nenfants !
+MID_ETHLIN_LEVEL2: Peu importe les défis auxquels je fais\nface, je dois persévérer ! Je sais que\ntout finira bien.
+MID_ETHLIN_LEVEL3: C'est tout ce dont je suis capable...\nJ'ai peur d'être un fardeau.
+MID_ETHLIN_SKILL: J'ai l'impression d'être une nouvelle\nfemme ! Je me demande si Quan\nremarquera la différence...
+MID_ETHLIN_JOIN: Je suis Ethlyn, épouse de Quan, de la\nmaison Leonster. Demandez-moi ce\nque vous voulez, mais soyez $Gconcis,concise|.
+MID_ETHLIN_STRONGEST: Bonjour, $Nu.$k$pComment va votre famille ?\nDites-moi... votre cœur est-il déjà\nvoué à quelqu'un pour la vie ?$k$pMon frère et mon mari, Quan, sont\nirremplaçables. Je suis vraiment\nchanceuse de les avoir tous les deux.$k$pEt plus encore... ma fille, Altena,\net mon fils, Leif...$k$pQuand je vois leurs visages\nsouriants... Je peux tout endurer.$k$pPour ceux qui comptent le plus pour\nmoi, il n'y a rien d'impossible. Je\nn'ai pas peur de risquer ma vie.$k$pJ'espère que vous trouverez la même\nforce. Combattons ensemble, et\nn'abandonnons jamais !
+MID_ETHLIN_VOICE01: ええいっ！
+MID_ETHLIN_VOICE02: それっ！
+MID_ETHLIN_VOICE03: きゃああっ！
+MID_ETHLIN_VOICE04: そんな…
+MID_ETHLIN_VOICE05: Je vous protégerai !
+MID_ETHLIN_VOICE06: Pardonnez-moi !
+MID_ETHLIN_VOICE07: Jusqu'au bout !
+MID_ETHLIN_VOICE08: Tout ira bien, vous verrez !
+MID_ETHLIN_VOICE09: Quan, I'm so sorry...
+MID_ETHLIN_VOICE10: giggle
+MID_ETHLIN_VOICE11: Je suis là.
+MID_ETHLIN_VOICE12: N'abandonnez jamais !
+MID_ETHLIN_VOICE13: Just like my brother, am I? Well, when my mind is set on something, I won't back down. That's true.
+MID_ETHLIN_VOICE14: Oh, it's just you.
+MID_ETHLIN_VOICE15: My brother has a tendency to be reckless. I have to keep an eye on him, or I worry.
+MID_ETHLIN_VOICE16: I pray that Deirdre and my brother can lead a happy life together...
+MID_ETHLIN_VOICE17: Thank you for keeping me in your thoughts. You're very kind.
+MID_ETHLIN_VOICE18: Of course.
+MID_ETHLIN_VOICE19: Oh, sorry!
+MID_ETHLIN_VOICE20: Together, we can win.

@@ -1,0 +1,38 @@
+[Heroes Archive] (CELLICA_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_CELLICA_POPULARITY03_HOME1: 這是古代神官戰士的服裝。\n在拯救這個世界的戰役中，\n是個很合適的打扮吧？
+MID_CELLICA_POPULARITY03_HOME2: 希望世界和平……\n希望重要的人都平安無事……\n不能忘記向美拉大人如此祈禱。
+MID_CELLICA_POPULARITY03_HOME3: 我的青梅竹馬阿雷武是個既勇敢，\n個性也相當溫柔的一個人喔。\n我一直替他保管著這把劍。
+MID_CELLICA_POPULARITY03_HOME4: 我感覺有人在呼喚我，\n而且不只一個人，有很多聲音……\n那到底是什麼呢？
+MID_CELLICA_POPULARITY03_HOME5: 雖然祈禱也相當重要，\n但是身為神官戰士也不能怠於鍛鍊劍術。\n不知道是否有人可以當我的對手呢？
+MID_CELLICA_POPULARITY03_FRIEND: 我代替$Nf\n來探望你。\n最近還是老樣子嗎？
+MID_CELLICA_POPULARITY03_LEVEL1: 這股力量……\n一定是那些相信我的人賦予我的吧……
+MID_CELLICA_POPULARITY03_LEVEL2: 這是當然的結果。\n還不錯嘛。
+MID_CELLICA_POPULARITY03_LEVEL3: 哎呀……太可惜了。\n大概是狀態不好吧。
+MID_CELLICA_POPULARITY03_SKILL: 謝謝，\n我一定會努力回報你對我的信任。
+MID_CELLICA_POPULARITY03_JOIN: 我是賽莉卡，女神美拉大人的神官戰士。\n我剛剛聽到有聲音在呼喚我……\n是你的聲音嗎？
+MID_CELLICA_POPULARITY03_STRONGEST: 雖說不知道說這種話好不好，\n不過我其實很討厭戰鬥。\n可以的話，我不想傷害任何人。$k$p但想要守護重要的人事物，\n就必須戰鬥才行……\n這實在太矛盾了，你不覺得嗎？$k$p咦？我很溫柔……？\n才沒那回事呢。\n之前我還惹重要的人生氣了。$k$p他對戰鬥沒有一絲迷惘……\n完全不考慮自己也會受傷，\n而你，跟他有點像。$k$p或許是因為這樣，我才會想保護你吧。\n待在你身邊的話，\n我想自己應該也能找出為何戰鬥的答案。
+MID_CELLICA_POPULARITY03_VOICE01: 喝！
+MID_CELLICA_POPULARITY03_VOICE02: 這樣就……！
+MID_CELLICA_POPULARITY03_VOICE03: 嗚啊啊！
+MID_CELLICA_POPULARITY03_VOICE04: 不可以……！
+MID_CELLICA_POPULARITY03_VOICE05: 相信我！
+MID_CELLICA_POPULARITY03_VOICE06: 把心念化為力量……
+MID_CELLICA_POPULARITY03_VOICE07: 我不會輸的！
+MID_CELLICA_POPULARITY03_VOICE08: 把力量借給我！
+MID_CELLICA_POPULARITY03_VOICE09: そんな…アルム……
+MID_CELLICA_POPULARITY03_VOICE10: うーん…
+MID_CELLICA_POPULARITY03_VOICE11: この衣装は昔の神官戦士のものなんですって。似合うかしら？
+MID_CELLICA_POPULARITY03_VOICE12: えっ…？　びっくりしたわ。いたずらが好きなの？　…実は私も。
+MID_CELLICA_POPULARITY03_VOICE13: 神官戦士は剣も魔法も身につけなければいけないの。ミラさまをお守りするためよ。
+MID_CELLICA_POPULARITY03_VOICE14: この剣は、王家の人間しか使えない不思議な剣なの。
+MID_CELLICA_POPULARITY03_VOICE15: どんなに離れていても、いつもアルムがそばにいるような気がするわ。
+MID_CELLICA_POPULARITY03_VOICE16: アルム…どこにいてもあなたを想っているわ。あなたもそうでしょう？
+MID_CELLICA_POPULARITY03_VOICE17: あなたはこの世界の希望よ。その光を消さないために…私があなたを守るわ。
+MID_CELLICA_POPULARITY03_VOICE18: 大丈夫よ。
+MID_CELLICA_POPULARITY03_VOICE19: えっと…
+MID_CELLICA_POPULARITY03_VOICE20: 道をひらくわ

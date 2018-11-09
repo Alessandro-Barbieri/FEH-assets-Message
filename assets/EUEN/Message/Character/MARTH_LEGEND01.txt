@@ -1,0 +1,38 @@
+[Heroes Archive] (MARTH_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_MARTH_LEGEND01_HOME1: The seven kingdoms of Archanea are\nuniting... And the people say I should\nbe entrusted with them all.
+MID_MARTH_LEGEND01_HOME2: The darkness of war that once\nenveloped Archanea has reached\nthis world... I can feel it.
+MID_MARTH_LEGEND01_HOME3: Please, do not worry for my sake. I\nmay not quite look it, but I have seen\nmy fair share of conflict.$k$pYou should get some rest yourself,\nhowever.
+MID_MARTH_LEGEND01_HOME4: This? Oh, it's a medicinal drink Caeda\nmade for me. It's...just a little too\nsweet...
+MID_MARTH_LEGEND01_HOME5: Why do you risk your life to fight for\nthis kingdom? Heh, don't look so grim\nat receiving such a question.$k$pI simply wish to hear your true\nanswer.
+MID_MARTH_LEGEND01_FRIEND: Hail and well met! I have heard very\ngood things about you from your\nfriend $Nf.
+MID_MARTH_LEGEND01_LEVEL1: In pursuit of victory!
+MID_MARTH_LEGEND01_LEVEL2: Good... Now I just have to keep it up!
+MID_MARTH_LEGEND01_LEVEL3: Could this be the work of the dark\npresence I sense?
+MID_MARTH_LEGEND01_SKILL: If we combine our strengths, we shall\nnot fall to the enemy!
+MID_MARTH_LEGEND01_JOIN: My name is Marth. For what reason\nand for whom do you fight? I'd like to\nunderstand your ideas of justice.
+MID_MARTH_LEGEND01_STRONGEST: Ever since people began referring to\nme as Hero-King, I've been pondering\nthe true meaning of justice.$k$pVictory births the defeated, and the\ndefeated vow vengeance through\nclenched teeth.$k$pThis means history is forever doomed\nto repeat itself.$k$pMy father struck down, my country\nseized... I, too, have seen losses, so I\ncan empathize. $k$pAfter fleeing to safety, I swore to\nrestore my homeland with the help\nof my comrades.$k$pIt was Nyna who entrusted me with\nthe Fire Emblem...and it strengthened\nmy resolve to fight on.$k$pI no longer fought for vengeance... I\nfought for the people.$k$pI found victory only because I had\nfirst found so many allies who shared\nmy new sense of justice.$k$pThey lent me their strength, and we\nfought as one.$k$pAnd now, I have come to believe that\nyou share that same sense of justice.$k$pLet us continue to fight as one,\n$Nu.
+MID_MARTH_LEGEND01_VOICE01: はっ！
+MID_MARTH_LEGEND01_VOICE02: 行こう！
+MID_MARTH_LEGEND01_VOICE03: うああっ！
+MID_MARTH_LEGEND01_VOICE04: ぼくはまだ…！
+MID_MARTH_LEGEND01_VOICE05: We fight together!
+MID_MARTH_LEGEND01_VOICE06: I refuse to yield!
+MID_MARTH_LEGEND01_VOICE07: To the end!
+MID_MARTH_LEGEND01_VOICE08: Shine, Falchion!
+MID_MARTH_LEGEND01_VOICE09: Forgive me, friends...
+MID_MARTH_LEGEND01_VOICE10: はは
+MID_MARTH_LEGEND01_VOICE11: I'm Marth, Prince of Altea.
+MID_MARTH_LEGEND01_VOICE12: Has something gotten into you?
+MID_MARTH_LEGEND01_VOICE13: Legendary Hero? Please, I've done nothing so grand as to earn such a title.
+MID_MARTH_LEGEND01_VOICE14: I can accomplish nothing on my own. It's thanks to my friends I've come as far as I have.
+MID_MARTH_LEGEND01_VOICE15: My hope is for people of all worlds to live happily.
+MID_MARTH_LEGEND01_VOICE16: If I'm not dependable, everyone else will suffer for it.
+MID_MARTH_LEGEND01_VOICE17: As a friend, you are irreplaceable. I will protect you.
+MID_MARTH_LEGEND01_VOICE18: Right.
+MID_MARTH_LEGEND01_VOICE19: What's my move?
+MID_MARTH_LEGEND01_VOICE20: Together.

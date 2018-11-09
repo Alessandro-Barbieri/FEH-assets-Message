@@ -1,0 +1,178 @@
+[Heroes Archive] (Data_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_桃色のアヒル: Caneton pêche
+MDAID_H_桃色のアヒル: Un jouet en forme de canard qui\nflotte sur l'eau. Son mouvement\nest très apaisant.
+MDAID_夏うさぎの帽子: Chapeau lapin d'été
+MDAID_H_夏うさぎの帽子: Ce chapeau à l'effigie d'un lapin\nplein de personnalité a été porté par\nune héroïne qui adore l'été.
+MID_MISSION_S201809KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201809KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201809KIZUNA01_A1: Remporter la bataille de héros liés de Chrom\net Lissa avec Sharena, princesse d'Askr,\ndans votre équipe.
+MID_MISSION_S201809KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201809KIZUNA01_A2: Remporter la bataille de héros liés de Chrom et\nLissa en Expert ou supérieur avec Fjorm\ndans votre équipe.
+MID_MISSION_S201809KIZUNA01_A3: Chrom
+MID_MISSION_H_S201809KIZUNA01_A3: Vaincre une version de niveau 40 ou supérieur\nde Chrom, nouveau Saint-Roi, avec Sharena,\nprincesse d'Askr.
+MID_MISSION_S201809KIZUNA01_A4: Lissa
+MID_MISSION_H_S201809KIZUNA01_A4: Vaincre une version de niveau 40\nou supérieur de Lissa, sœur dévouée,\navec Fjorm.
+MID_MISSION_S201809KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201809KIZUNA01_A5: Remporter la bataille de héros liés de Chrom et\nLissa en Expert ou supérieur avec une équipe\ncomposée exclusivement d'unités volantes.
+MID_MISSION_S201809SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201809SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201809SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201809SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201809SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201809SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201809STORY01_TITLE: Poison sournois
+MID_MISSION_S201809STORY01_A1: Chap. 12 - Acte 1 (Expert)
+MID_MISSION_H_S201809STORY01_A1: Terminer Livre II, Chap. 12, Acte 1 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY01_A2: Chap. 12 - Acte 2 (Expert)
+MID_MISSION_H_S201809STORY01_A2: Terminer Livre II, Chap. 12, Acte 2 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte
+MID_MISSION_S201809STORY01_A3: Chap. 12 - Acte 3 (Expert)
+MID_MISSION_H_S201809STORY01_A3: Terminer Livre II, Chap. 12, Acte 3 (Expert) avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY01_A4: Chap. 12 - Acte 4 (Expert)
+MID_MISSION_H_S201809STORY01_A4: Terminer Livre II, Chap. 12, Acte 4 (Expert) avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809STORY01_A5: Chap. 12 - Acte 5 (Expert)
+MID_MISSION_H_S201809STORY01_A5: Terminer Livre II, Chap. 12, Acte 5 (Expert) avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201809TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201809TAPBTL01_D01_A1: Legault
+MID_MISSION_H_S201809TAPBTL01_D01_A1: Vaincre Legault dans les niveaux 16 - 20\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201809TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201809TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201809TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201809TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201809TAPBTL01_D02_A1: Legault
+MID_MISSION_H_S201809TAPBTL01_D02_A1: Vaincre Legault dans les niveaux 16 - 20\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201809TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201809TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201809TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201809TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201809TAPBTL01_D03_A1: Linus
+MID_MISSION_H_S201809TAPBTL01_D03_A1: Vaincre Linus dans les niveaux 36 - 40\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201809TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201809TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201809TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201809TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201809TAPBTL01_D04_A1: Linus
+MID_MISSION_H_S201809TAPBTL01_D04_A1: Vaincre Linus dans les niveaux 36 - 40\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201809TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201809TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201809TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201809TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201809TAPBTL02_A1: Boss
+MID_MISSION_H_S201809TAPBTL02_A1: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL02_A2: Boss
+MID_MISSION_H_S201809TAPBTL02_A2: Vaincre des boss dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL02_A3: Niveau
+MID_MISSION_H_S201809TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201809TAPBTL02_A4: Extra 1
+MID_MISSION_H_S201809TAPBTL02_A4: Terminer le niveau Extra 1 (disponible une\nfois que les niveaux Extra sont débloqués)\ndans le mode Bataille tactile.
+MPID_キュアン: Quan
+MPID_エスリン: Ethlyn
+MPID_レヴィン: Lewyn
+MPID_シルヴィア: Silvia
+MPID_HONOR_キュアン: Lancier lumineux
+MPID_HONOR_エスリン: Princesse joviale
+MPID_HONOR_レヴィン: Sage brise
+MPID_HONOR_シルヴィア: Artiste itinérante
+MPID_H_キュアン: Prince de Leonster et porteur de la lance\nGáe Bolg. Époux d'Ethlyn, la jeune sœur\nde son frère d'armes Sigurd. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_H_エスリン: Jeune sœur du seigneur Sigurd de Chalphy avec\nune soif d'idéal. Elle tient beaucoup à sa famille.\nSon mariage avec le prince Quan de Leonster\nlui a donné une fille et un garçon. Apparaît\ndans Fire Emblem: Genealogy of the Holy War.
+MPID_H_レヴィン: Prince de Silesse. Descendant de Ced, l'un\ndes douze croisés légendaires, et porteur\ndu tome du vent Forseti. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_H_シルヴィア: Danseuse itinérante et descendante du\ngrand prêtre Bragi. Son apparence délicate\ncache une nature farouche. Apparaît dans\nFire Emblem: Genealogy of the Holy War.
+MPID_VOICE_キュアン: Chris Hackney
+MPID_VOICE_エスリン: Allegra Clark
+MPID_VOICE_レヴィン: Steve Staley
+MPID_VOICE_シルヴィア: Laura Post
+MPID_ILLUST_キュアン: Aoji (あおじ)
+MPID_ILLUST_エスリン: kaya8
+MPID_ILLUST_レヴィン: Suda Ayaka (須田彩加)
+MPID_ILLUST_シルヴィア: Chiko (チーコ)
+MSID_セルジュの恐斧: Hache Zelcher
+MSID_オーディンの黒書: Grimoire d'Odin
+MSID_第14迷宮の覇者1: Assaut réussi N 1
+MSID_第14迷宮の覇者2: Assaut réussi N 2
+MSID_第14迷宮の覇者3: Assaut réussi N 3
+MSID_バリアの剣: Lame barrière
+MSID_バリアの剣＋: Lame barrière +
+MSID_ゲイボルグ: Gáe Bolg
+MSID_フォルセティ: Forseti
+MSID_速さ守備の応援＋: Rall. : Vit/Déf +
+MSID_飛燕金剛の構え1: Station stable 1
+MSID_飛燕金剛の構え2: Station stable 2
+MSID_奥義の螺旋1: Spirale spéciale 1
+MSID_奥義の螺旋2: Spirale spéciale 2
+MSID_奥義の螺旋3: Spirale spéciale 3
+MSID_疾風静水の舞い1: Danse déluge 1
+MSID_疾風静水の舞い2: Danse déluge 2
+MSID_H_セルジュの恐斧: Inflige Vit -5. Si l'unité initie le combat,\nelle attaque deux fois.
+MSID_H_オーディンの黒書: Ajoute la valeur totale des boosts de l'unité\naux dégâts infligés.
+MSID_H_ライナロック改: Confère Atq/Vit +5 pendant le combat. Si\nl'unité attaque, elle subit 5 dégâts après\nle combat
+MSID_H_攻撃速さの連携R6: Si une aptitude de soutien de déplacement\n(comme Bousculade, Pivot ou Traversée)\nest utilisée par l'unité ou sur l'unité, confère\nAtq/Vit +6 à la cible et à l'unité ayant utilisé\nl'aptitude pendant un tour.
+MSID_H_第14迷宮の覇者1: Confère Vit +1.
+MSID_H_第14迷宮の覇者2: Confère Vit +2.
+MSID_H_第14迷宮の覇者3: Confère Vit +3.
+MSID_H_バリアの剣: Si l'ennemi initie le combat, confère Rés +7\npendant le combat.
+MSID_H_バリアの剣＋: Si l'ennemi initie le combat, confère Rés +7\npendant le combat.
+MSID_H_ゲイボルグ: Si l'unité affronte un fantassin, une unité en\narmure ou un cavalier, confère Atq/Déf +5\npendant le combat.
+MSID_H_フォルセティ: Confère Vit +3. Si l'unité initie le combat et\nque PV ≥ 50 %, l'unité effectue immédiatement\nune double frappe si elle est capable d'en\nréaliser.
+MSID_H_速さ守備の応援＋: Confère Vit/Déf +6 à la cible pendant un tour.
+MSID_H_飛燕金剛の構え1: Si l'ennemi initie le combat, confère Vit/Déf +2\npendant le combat.
+MSID_H_飛燕金剛の構え2: Si l'ennemi initie le combat, confère Vit/Déf +4\npendant le combat.
+MSID_H_奥義の螺旋1: Si l'unité initie le combat et que son aptitude\nspéciale se déclenche avant ou pendant le\ncombat, compteur -1 après le combat.
+MSID_H_奥義の螺旋2: Si l'aptitude spéciale se déclenche avant ou\npendant le combat, compteur -1 après le\ncombat.
+MSID_H_奥義の螺旋3: Si l'aptitude spéciale se déclenche avant ou\npendant le combat, compteur -2 après le\ncombat.
+MSID_H_疾風静水の舞い1: Si l'aptitude Chant ou Danse est utilisée,\nconfère Vit +2 et Rés +3 à la cible.
+MSID_H_疾風静水の舞い2: Si l'aptitude Chant ou Danse est utilisée,\nconfère Vit +3 et Rés +4 à la cible.
+MID_CHAPTER_TITLE_C0212: Livre II, Chap. 12
+MID_CHAPTER_C0212: Poison sournois
+MID_STAGE_TITLE_S2121: Ch. 12 - Acte 1
+MID_STAGE_TITLE_S2122: Ch. 12 - Acte 2
+MID_STAGE_TITLE_S2123: Ch. 12 - Acte 3
+MID_STAGE_TITLE_S2124: Ch. 12 - Acte 4
+MID_STAGE_TITLE_S2125: Ch. 12 - Acte 5
+MID_STAGE_S2121: Suspicion
+MID_STAGE_S2122: L'héritier de la croisée
+MID_STAGE_S2123: La bête égarée
+MID_STAGE_S2124: Porté par la brise
+MID_STAGE_S2125: Le traître
+MID_STAGE_TITLE_BG_EARTH_0011: Terre 1
+MID_STAGE_TITLE_BG_FIRE_0011: Feu 1
+MID_STAGE_TITLE_BG_WATER_0012: Eau 2
+MID_STAGE_TITLE_BG_WIND_0012: Vent 2
+MID_STAGE_TITLE_BG_EARTH_0012: Terre 2
+MID_STAGE_TITLE_SB_0014: 14e assaut
+MID_CHAPTER_ST_C0206: Chapitres 11 et 12
+MID_STAGE_TITLE_ST_S0211: Chapitre 11
+MID_STAGE_TITLE_ST_S0212: Chapitre 12
+MID_STAGE_TITLE_ST_S1212: Chap. 11 et 12
+MID_STAGE_TITLE_PB027: Aptitudes 27
+MID_STAGE_PB027: Forseti et double frappe
+MID_STAGE_TITLE_PC013: Expertise 13
+MID_STAGE_PC013: Bravoure et raison
+MID_STAGE_HONOR_OCCUPATION: Événement
+MID_STAGE_OCCUPATION: Domaines rivaux
+MID_STAGE_HONOR_OCCUPATION_DEFENSE: Événement
+MID_STAGE_OCCUPATION_DEFENSE: Défense en relais
+MID_STAGE_TITLE_OCCUPATION_DEFENSE0: 1re carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE1: 2e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE2: 3e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE3: 4e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE4: 5e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE5: 6e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE6: 7e carte
+MID_STAGE_TITLE_OCCUPATION_DEFENSE7: 8e carte
+MID_HEADQUARTERS_RELAY_TUTORIAL_DIALOG_00: Protégez vos camps et votre fort.
+MID_WARPBASE_RELAY_TUTORIAL_DIALOG_00: Allez et venez entre vos bâtiments.
+MID_TAP_BATTLE_DATA_TITLE_0008: Adieux
+MID_MUSIC_NAME_BGM_MAP_FE07_03: Quête entre amis
+MID_MUSIC_NAME_BGM_MAP_FE15_03: Au bout du sentier
+MID_MUSIC_NAME_BGM_BATTLE_FE13_01: Entraînement (en frénésie)

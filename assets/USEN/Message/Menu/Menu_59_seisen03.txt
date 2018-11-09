@@ -1,0 +1,71 @@
+[Heroes Archive] (Menu_59_seisen03)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_DIALOG_HELP_07_02: Plus Three for Bonus Heroes:\nWhenever you defeat a foe using\na bonus Hero, you will earn three\nextra points toward your score.
+MID_OCCUPATION_MAP_SCORE_KILL_AND_ALIVE: Defeated + Surviving
+MID_OCCUPATION_RESULT_KILL_AND_ALIVE: Defeated + Surviving
+MID_OCCUPATION_RESULT_DEFENCE_HUB: Camp Defense
+MID_OCCUPATION_LEFT_TIME_WARNING_TEXT: $aBattle $a0 will end soon.
+MID_OCCUPATION_LEFT_TIME_WARNING: Results after round ends aren't counted.
+MID_PORTRAIT_DAILY_BONUS_INFO_59: Earn 2 Orbs every day by clearing a\nmap (for a maximum of seven days).
+MID_PORTRAIT_HELP_DIALOG_03_02: Daily Orb Reward:\nEarn 2 Orbs every day by clearing\na map (for a maximum of seven\ndays).
+MID_SEQUENTIAL_MAP_TERM_201809: Doorway to Destiny
+MID_TAP_BATTLE_CONFIG_REVERSE: Swap Left/Right
+MID_TAP_BATTLE_ENVIRONMENT_HELP_DIALOG_03: Swap Left/Right:\nTurn this option on to swap the\nside of the screen the foes and\nyour army appear on.\n\nSpeed:\nThe movement speed of foes can\nbe boosted to up to 3x normal.\nBoss movement speed is\nunaffected by this setting.
+MID_RELAY_HELP_DIALOG_00: After two turns, new allies arrive!
+MID_RELAY_HELP_DIALOG_01: Relay Defense:\n・ From a brigade of 20 total\nallies, five will join the battle.\n・ On turns 3, 5, and 7, your\ncurrent team of five will exit the\nbattlefield and five new allies will\nenter.\n・ The battle ends on turn 8 or\nif your fortress is destroyed.
+MID_RELAY_HELP_DIALOG_02: About Fortresses:\n・ It takes three hits to destroy a\nfortress.\n・ You can warp to a fortress you\ncontrol.\n・ Allies in your fortress recover\n10 HP at start of turn.\n・ Fortresses are considered\ndefensive terrain.
+MID_RELAY_HELP_DIALOG_03: About Camps:\n・ It takes two hits to defeat a\ncamp.\n・ You can warp to a camp you\ncontrol.\n・ Allies in a camp recover 10\nHP at start of turn.\n・ Camps are considered\ndefensive terrain.
+MID_RELAY_HELP_DIALOG_04: Warping:\nAllies adjacent to a fortress or\ncamp you control can instantly\nwarp to a space adjacent to\nanother fortress or camp you\ncontrol.
+MID_RELAY_HELP_DIALOG_05: Relay Defense Scoring:\nYou'll receive a score after\nthe battle has ended.\n\nYou can earn a higher score\nby protecting your fortress and\ncamps while helping your allies\nsurvive until they rotate out.
+MID_RELAY_HELP_DIALOG_06: More Rules for Relay Defense:\n・ Enemy reinforcements will\nappear.\n・ Hero Merit cannot be earned.
+MID_UNIT_EDIT_DISPOSE: Manage Barracks
+MID_UNIT_EDIT_STOCK_GENERATE: Create Combat Manual
+MID_UNIT_EDIT_STOCK_SELL: Exchange Manuals
+MID_UNIT_EDIT_STOCK_LIST: Your Manuals
+MID_UNIT_EDIT_STOCK_EMPTY: You have no Combat Manuals.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP1: Select a character to create a Combat Manual.
+MID_UNIT_EDIT_STOCK_GENERATE_HELP2: Return selected character to\nobtain a Combat Manual.
+MID_UNIT_EDIT_STOCK_GENERATE_DECIDE: Create
+MID_UNIT_EDIT_STOCK_GENERATE_CONFIRM_1: Would you like to create a\nCombat Manual?
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1: Characters that are used to create\na Combat Manual will be removed\nfrom your barracks.
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_TITLE: The following will not be included\nin the Combat Manual:
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_LEVEL_EXP: ・ Levels and EXP
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_1: ・ Skills that were learned
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_SKILL_ADDED_2: ・ Skills that were inherited or refined
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_CAPABILITY_BONUS: ・ The number of merges
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_1_LIST_BLESSING: ・ Blessings conferred
+MID_UNIT_EDIT_STOCK_GENERATE_WARNING_2: Once an ally is removed from\nyour barracks, you will lose the\nally permanently. Do you still want\nto create a Combat Manual?
+MID_UNIT_EDIT_STOCK_SELL_LABEL: Exchange
+MID_UNIT_EDIT_STOCK_SELL_HELP1: Select the manual to exchange.
+MID_UNIT_EDIT_STOCK_SELL_HELP2: Number of manuals to exchange?
+MID_UNIT_EDIT_STOCK_SELL_INPUT_AMOUNT: $a×$a0/$a1
+MID_UNIT_EDIT_STOCK_SELL_DECIDE: Exchange
+MID_UNIT_EDIT_STOCK_SELL_CONFIRM_1: Exchange the selected Combat\nManual(s)?
+MID_UNIT_EDIT_STOCK_SELL_WARNING_1: If you exchange a Combat Manual,\nit will be permanently lost.
+MID_UNIT_EDIT_STOCK_SELL_WARNING_2: Once exchanged, a Combat\nManual cannot be recovered.\n\nPlease confirm your choice.
+MID_UNIT_EDIT_STOCK_LIST_HELP: Here's a list of your Combat Manuals.
+MID_UNIT_EDIT_STOCK_HELP: Combat Manual:\nA Combat Manual can be used in\nplace of an ally in Merge Allies,\nInherit Skill, and more.
+MID_UNIT_EDIT_PROMOTION_HELP1_2: Select a character to raise ★ rating.
+MID_UNIT_EDIT_PROMOTION_HELP2_STOCK: Select the number of Combat Manuals to enhance.
+MID_UNIT_EDIT_SELL_WARNING_1: Allies that are sent home will be\nremoved from your barracks.
+MID_UNIT_EDIT_SELL_WARNING_2: Once an ally is removed from\nyour barracks, you will lose the\nally permanently. Do you still want\nto send them home?
+MID_UNIT_INFO_EXP_NONE: －
+MID_UNIT_EDIT_PROMOTION_STOCK_INPUT_AMOUNT: $a×$a0/$a1
+MID_STOCK_HELP_DIALOG_00: Combat Manuals improve allies!
+MID_STOCK_HELP_DIALOG_01: Creating Combat Manuals:\nYou can choose to send an ally\nhome and, in return, receive their\nCombat Manual. You will lose any\nally whose Combat Manual you\nobtain, so be careful.
+MID_STOCK_HELP_DIALOG_02: Using Combat Manuals 1:\nIn places where you might use\nan ally, such as Merge Allies or\nInherit Skill, you can use a combat\nManual instead.\n\nJust like a Hero, a Combat Manual\ncan have its ★ rating raised via\nUnlock Potential.
+MID_STOCK_HELP_DIALOG_03: Using Combat Manuals 2:\nThe following will not be included\nin the Combat Manual:\n\n・ Levels and EXP\n・ Skills that were learned\n・ Skills that were inherited or\nrefined\n・ The number of merges\n・ Blessings conferred
+MID_STOCK_SELL_HELP_DIALOG_00: Exchanging Combat Manuals:\nA Combat Manual can be\nexchanged for Hero Feathers.\nYou will lose any Combat Manual\nyou exchange for Hero Feathers,\nso be careful.
+MID_UNIT_EDIT_STOCK_ERROR_STOCK_MAX: You have reached the limit on Combat\nManuals. You cannot create any more.
+MID_UNIT_EDIT_PROMOTION_ERROR_STOCK_MAX: You have reached the limit on Combat\nManuals. You cannot unlock the\npotential of any more.
+MID_UNIT_EDIT_SKILL_INHERIT_STOCK_FILTER: Priority
+MID_UNIT_EDIT_SKILL_SET_RESET: Reset Skill Set
+MID_UNIT_EDIT_SKILL_SET_RESET_CONFIRM: Reset this skill set to default (blank)?
+MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01_01: Unlocking Ally Potential:\nIf you raise an ally's ★ rating, you'll\nunlock more of their potential.\nYou'll need specific items.\n\nThe ally's level will return to 1\nbut at a higher ★ rating. They will\nhave raised stats and access to\nstronger skills.
+MID_UNIT_EDIT_STOCK_COMPLETE_CONFIRM: You created a Combat Manual.\n\nTo see the list of Combat Manuals\nyou have, tap Your Manuals.
+MID_UNIT_EDIT_STOCK_SELL_COMPLETE_CONFIRM: Exchange completed.
+MID_UNIT_EDIT_LARGE_FORCE_HELP_DIALOG_01_01: Edit Brigades:\nA brigade is the team you use in\nRival Domains and Relay Defense.\nYou can choose up to 20 allies\nfrom your barracks or your\nfriends'. Any empty slots will\nautomatically be filled with\nreinforcements.

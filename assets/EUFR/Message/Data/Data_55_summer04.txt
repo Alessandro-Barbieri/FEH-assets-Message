@@ -1,0 +1,267 @@
+[Heroes Archive] (Data_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_黄色いアヒル: Caneton
+MDAID_H_黄色いアヒル: Un jouet en forme de canard qui\nflotte sur l'eau. Son mouvement\nest très relaxant.
+MDAID_温泉手ぬぐい: Serviette
+MDAID_H_温泉手ぬぐい: Une petite serviette utilisée dans les\nsources chaudes. Assurez-vous de\nla conserver au sec !
+MID_MISSION_S201807KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201807KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201807KIZUNA01_A1: Remporter la bataille de héros liés de Raven\net Lucius avec Alfonse, le prince d'Askr,\ndans votre équipe.
+MID_MISSION_S201807KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201807KIZUNA01_A2: Remporter la bataille de héros liés de Raven et\nLucius en Expert ou supérieur avec Fjorm\ndans votre équipe.
+MID_MISSION_S201807KIZUNA01_A3: Raven
+MID_MISSION_H_S201807KIZUNA01_A3: Vaincre une version de niveau 40 ou supérieur\nde Raven avec Alfonse, le prince d'Askr.
+MID_MISSION_S201807KIZUNA01_A4: Lucius
+MID_MISSION_H_S201807KIZUNA01_A4: Vaincre une version de niveau 40\nou supérieur de Lucius avec Fjorm.
+MID_MISSION_S201807KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201807KIZUNA01_A5: Remporter la bataille de héros liés de Raven et\nLucius en Expert ou supérieur avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201807SENKA01_DAILY_TITLE: La Tourmente
+MID_MISSION_S201807SENKA01_DAILY_A1: La Tourmente
+MID_MISSION_H_S201807SENKA01_DAILY_A1: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA01_DAILY_A2: La Tourmente
+MID_MISSION_H_S201807SENKA01_DAILY_A2: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA01_DAILY_A3: La Tourmente
+MID_MISSION_H_S201807SENKA01_DAILY_A3: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807SENKA01_DAILY_A4: La Tourmente
+MID_MISSION_H_S201807SENKA01_DAILY_A4: Terminer des cartes finales\ndans la Tourmente.
+MID_MISSION_S201807STORY01_TITLE: Un été artistique
+MID_MISSION_S201807STORY01_A1: Ann. 22 - Acte 1 (Expert)
+MID_MISSION_H_S201807STORY01_A1: Terminer l'acte 1 de l'annexe 22 en Expert avec\nune unité dotée d'une lance dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY01_A2: Ann. 22 - Acte 2 (Expert)
+MID_MISSION_H_S201807STORY01_A2: Terminer l'acte 2 de l'annexe 22 en Expert avec\nune unité dotée d'une hache dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807STORY01_A3: Ann. 22 - Acte 3 (Expert)
+MID_MISSION_H_S201807STORY01_A3: Terminer l'acte 3 de l'annexe 22 en Expert avec\nune unité dotée d'une épée dans une équipe de\nquatre héros et sans essuyer la moindre perte.
+MID_MISSION_S201807TAPBTL01_D01_TITLE: Tactile (quotidien)
+MID_MISSION_S201807TAPBTL01_D01_A1: Noire
+MID_MISSION_H_S201807TAPBTL01_D01_A1: Vaincre Noire dans les niveaux 16-20\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201807TAPBTL01_D01_A2: Niveaux 21 - 25
+MID_MISSION_H_S201807TAPBTL01_D01_A2: Terminer les niveaux 21 - 25 dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL01_D01_A3: Niveau
+MID_MISSION_H_S201807TAPBTL01_D01_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201807TAPBTL01_D02_TITLE: Tactile (quotidien)
+MID_MISSION_S201807TAPBTL01_D02_A1: Noire
+MID_MISSION_H_S201807TAPBTL01_D02_A1: Vaincre Noire dans les niveaux 16-20\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201807TAPBTL01_D02_A2: Niveaux 41 - 45
+MID_MISSION_H_S201807TAPBTL01_D02_A2: Terminer les niveaux 41 - 45 dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL01_D02_A3: Niveau
+MID_MISSION_H_S201807TAPBTL01_D02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201807TAPBTL01_D03_TITLE: Tactile (quotidien)
+MID_MISSION_S201807TAPBTL01_D03_A1: Cordelia
+MID_MISSION_H_S201807TAPBTL01_D03_A1: Vaincre Cordelia dans les niveaux 36-40\ndu mode Bataille tactile en Normal.
+MID_MISSION_S201807TAPBTL01_D03_A2: Niveaux 61 - 65
+MID_MISSION_H_S201807TAPBTL01_D03_A2: Terminer les niveaux 61 - 65 dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL01_D03_A3: Niveau
+MID_MISSION_H_S201807TAPBTL01_D03_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201807TAPBTL01_D04_TITLE: Tactile (quotidien)
+MID_MISSION_S201807TAPBTL01_D04_A1: Cordelia
+MID_MISSION_H_S201807TAPBTL01_D04_A1: Vaincre Cordelia dans les niveaux 36-40\ndu mode Bataille tactile en Difficile.
+MID_MISSION_S201807TAPBTL01_D04_A2: Niveaux 81 - 85
+MID_MISSION_H_S201807TAPBTL01_D04_A2: Terminer les niveaux 81 - 85 dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL01_D04_A3: Niveau
+MID_MISSION_H_S201807TAPBTL01_D04_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201807TAPBTL02_TITLE: Bataille tactile
+MID_MISSION_S201807TAPBTL02_A1: Boss
+MID_MISSION_H_S201807TAPBTL02_A1: Terminer des niveaux de boss dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL02_A2: Boss
+MID_MISSION_H_S201807TAPBTL02_A2: Terminer des niveaux de boss dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL02_A3: Niveau
+MID_MISSION_H_S201807TAPBTL02_A3: Terminer des niveaux dans le mode\nBataille tactile.
+MID_MISSION_S201807TAPBTL02_A4: Extra 1
+MID_MISSION_H_S201807TAPBTL02_A4: Terminer le niveau Extra 1 (disponible une\nfois que les niveaux Extra sont débloqués)\ndans le mode Bataille tactile.
+MID_MISSION_S201807TAPBTL02_A5: Niveaux 6-10
+MID_MISSION_H_S201807TAPBTL02_A5: Terminer les niveaux 6-10 dans\nle mode Bataille tactile.
+MID_MISSION_S201807TAPBTL02_A6: Niveaux 81-85
+MID_MISSION_H_S201807TAPBTL02_A6: Terminer les niveaux 81-85 dans\nle mode Bataille tactile.
+MPID_水着チキ: Tiki
+MPID_水着タクミ: Takumi
+MPID_水着カミラ: Camilla
+MPID_水着リンダ: Linde
+MPID_HONOR_水着チキ: Dragon balnéaire
+MPID_HONOR_水着タクミ: Prince détendu
+MPID_HONOR_水着カミラ: Beauté tropicale
+MPID_HONOR_水着リンダ: Mage du soleil
+MPID_H_水着チキ: Jeune Dragon Divin. Autrefois plongée\ndans un long sommeil, elle est maintenant\nimpatiente d'aller jouer à la plage. Apparaît\ndans Fire Emblem: Mystery of the Emblem.
+MPID_H_水着タクミ: Prince d'Hoshido et héritier de l'arc divin\nYumi Fujin. Il est vraiment content de\npasser du temps sur une île tropicale.\nApparaît dans Fire Emblem Fates.
+MPID_H_水着カミラ: Princesse de Nohr qui adore Corrin. Elle\nespère que quelqu'un l'aidera à mettre de\nla crème solaire pour protéger sa peau.\nApparaît dans Fire Emblem Fates.
+MPID_H_水着リンダ: Fille du pontife Miloah d'Akaneia.\nElle est troublée de ne pas porter\nsa robe habituelle. Apparaît dans\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_水着チキ: Mela Lee
+MPID_VOICE_水着タクミ: Michael Sinterniklaas
+MPID_VOICE_水着カミラ: Misty Lee
+MPID_VOICE_水着リンダ: Julie Ann Taylor
+MPID_ILLUST_水着チキ: Gaou (がおう)
+MPID_ILLUST_水着タクミ: Tobi
+MPID_ILLUST_水着カミラ: Mikuro (みく郎)
+MPID_ILLUST_水着リンダ: Kippu (切符)
+MSID_義勇の槍: Lance intrépide
+MSID_傭兵団の戦斧: Merlin du dragon
+MSID_カタリナの書: Tome de Reese
+MSID_第12迷宮の覇者1: Assaut réussi L 1
+MSID_第12迷宮の覇者2: Assaut réussi L 2
+MSID_第12迷宮の覇者3: Assaut réussi L 3
+MSID_魚の弓: Arc poisson
+MSID_魚の弓＋: Arc poisson +
+MSID_ヒトデ: Étoile de mer
+MSID_ヒトデ＋: Étoile de mer +
+MSID_南国のジュース: Jus tropical
+MSID_南国のジュース＋: Jus tropical +
+MSID_真夏のブレス: Souffle estival
+MSID_攻撃魔防の大覚醒1: Essor Atq/Rés 1
+MSID_攻撃魔防の大覚醒2: Essor Atq/Rés 2
+MSID_攻撃魔防の大覚醒3: Essor Atq/Rés 3
+MSID_魔防の波・奇数1: Impair Rés 1
+MSID_魔防の波・奇数2: Impair Rés 2
+MSID_魔防の波・奇数3: Impair Rés 3
+MSID_竜の技量1: Tech. dragon 1
+MSID_竜の技量2: Tech. dragon 2
+MSID_竜の技量3: Tech. dragon 3
+MSID_H_義勇の槍: Efficace contre les unités en armure.\nAccélère l'activation des aptitudes\nspéciales (compteur -1).
+MSID_H_傭兵団の戦斧: Si l'unité a l'avantage tactique, confère Atq +20 %.\nSi l'unité est en désavantage tactique, inflige\nAtq -20 %.
+MSID_H_カタリナの書: Pendant le combat, confère un boost\nd'Atq/Vit/Déf/Rés correspondant au\ndouble du nombre d'alliés adjacents.
+MSID_H_飛燕金剛の構えR4: Si l'ennemi initie le combat, confère Vit/Déf +4\npendant le combat.
+MSID_H_速さ魔防の謀策R4: En début de tour, inflige Vit/Rés -4 aux ennemis\nsitués sur la même ligne horizontale ou verticale\ndont la Rés est inférieure à celle de l'unité jusqu'à\nla fin de leur phase.
+MSID_H_第12迷宮の覇者1: Confère Déf +1.
+MSID_H_第12迷宮の覇者2: Confère Déf +2.
+MSID_H_第12迷宮の覇者3: Confère Déf +3.
+MSID_H_魚の弓: Efficace contre les unités volantes.\nSi l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser.
+MSID_H_魚の弓＋: Efficace contre les unités volantes.\nSi l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser.
+MSID_H_ヒトデ: Si l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser. Après\nle combat, si l'unité a attaqué, inflige Déf/Rés -5\nà la cible et aux ennemis à 2 cases ou moins\nde la cible jusqu'à la fin de leur phase.
+MSID_H_ヒトデ＋: Si l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser. Après\nle combat, si l'unité a attaqué, inflige Déf/Rés -7\nà la cible et aux ennemis à 2 cases ou moins\nde la cible jusqu'à la fin de leur phase.
+MSID_H_南国のジュース: Si l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser.
+MSID_H_南国のジュース＋: Si l'unité initie le combat et que PV ≤ 75 %,\nl'unité effectue immédiatement une double\nfrappe si elle est capable d'en réaliser.
+MSID_H_真夏のブレス: Efficace contre les dragons. Confère Déf +3.\nSi l'ennemi initie le combat, compteur -1 par\nattaque. (S'il y a plusieurs effets similaires, seul\nle plus puissant s'applique.) Les dégâts sont\ncalculés avec la Déf ou la Rés (la valeur la plus\nfaible) pour les ennemis avec une portée de 2.
+MSID_H_攻撃魔防の大覚醒1: Si PV ≤ 80 % au début du combat, confère\nAtq/Rés +3 pendant le combat.
+MSID_H_攻撃魔防の大覚醒2: Si PV ≤ 80 % au début du combat, confère\nAtq/Rés +5 pendant le combat.
+MSID_H_攻撃魔防の大覚醒3: Si PV ≤ 80 % au début du combat, confère\nAtq/Rés +7 pendant le combat.
+MSID_H_魔防の波・奇数1: Au début des tours impairs, confère\nRés +2 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_魔防の波・奇数2: Au début des tours impairs, confère\nRés +4 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_魔防の波・奇数3: Au début des tours impairs, confère\nRés +6 à l'unité et aux alliés adjacents\npendant un tour (l'unité reçoit ce boost\nmême s'il n'y a pas d'unités adjacentes).
+MSID_H_竜の技量1: Si l'unité utilise une dracopierre et survit, elle\nreçoit PA x 1,5. (S'il y a plusieurs effets\nsimilaires, seul le plus puissant s'applique.)
+MSID_H_竜の技量2: Si l'unité survit, toutes les unités dotées de\ndracopierres de l'équipe reçoivent PA x 1,5.\n(S'il y a plusieurs effets similaires, seul le plus\npuissant s'applique.)
+MSID_H_竜の技量3: Si l'unité survit, toutes les unités dotées de\ndracopierres de l'équipe reçoivent PA x 2.\n(S'il y a plusieurs effets similaires, seul le plus\npuissant s'applique.)
+MID_CHAPTER_TITLE_CX021: Annexe 22
+MID_CHAPTER_CX021: Un été artistique
+MID_STAGE_TITLE_X0211: Ann. 22 - Acte 1
+MID_STAGE_TITLE_X0212: Ann. 22 - Acte 2
+MID_STAGE_TITLE_X0213: Ann. 22 - Acte 3
+MID_STAGE_X0211: Duo distrait
+MID_STAGE_X0212: Duo joyeux
+MID_STAGE_X0213: Croquis d'été
+MID_STAGE_TITLE_PA001: Bases 1
+MID_STAGE_PA001: Aptitude spéciale
+MID_STAGE_TITLE_PA002: Bases 2
+MID_STAGE_PA002: Rouge, bleu et vert
+MID_STAGE_TITLE_PA003: Bases 3
+MID_STAGE_PA003: Attaques à distance
+MID_STAGE_TITLE_PA004: Bases 4
+MID_STAGE_PA004: Riposte impossible
+MID_STAGE_TITLE_PA005: Bases 5
+MID_STAGE_PA005: Attaques efficaces
+MID_STAGE_TITLE_PA006: Bases 6
+MID_STAGE_PA006: Attaques magiques
+MID_STAGE_TITLE_PA007: Bases 7
+MID_STAGE_PA007: Souffle
+MID_STAGE_TITLE_PA008: Bases 8
+MID_STAGE_PA008: Contre-attaques
+MID_STAGE_TITLE_PA009: Bases 9
+MID_STAGE_PA009: Doubles frappes
+MID_STAGE_TITLE_PA010: Bases 10
+MID_STAGE_PA010: Affaiblir avec les dagues
+MID_STAGE_TITLE_PA011: Bases 11
+MID_STAGE_PA011: Booster avec Ralliement
+MID_STAGE_TITLE_PA012: Bases 12
+MID_STAGE_PA012: Soigner pour gagner
+MID_STAGE_TITLE_PA013: Bases 13
+MID_STAGE_PA013: Attirer les ennemis
+MID_STAGE_TITLE_PA014: Bases 14
+MID_STAGE_PA014: Fuir le danger
+MID_STAGE_TITLE_PA015: Bases 15
+MID_STAGE_PA015: Aptitudes de déplacement
+MID_STAGE_TITLE_PA016: Bases 16
+MID_STAGE_PA016: Chant et Danse
+MID_STAGE_TITLE_PA017: Bases 17
+MID_STAGE_PA017: Surveiller le compteur
+MID_STAGE_TITLE_PA018: Bases 18
+MID_STAGE_PA018: Infanterie
+MID_STAGE_TITLE_PA019: Bases 19
+MID_STAGE_PA019: Unités en armure
+MID_STAGE_TITLE_PA020: Bases 20
+MID_STAGE_PA020: Cavaliers
+MID_STAGE_TITLE_PA021: Bases 21
+MID_STAGE_PA021: Unités volantes
+MID_STAGE_TITLE_PB001: Aptitudes 1
+MID_STAGE_PB001: Élan et Prudence
+MID_STAGE_TITLE_PB002: Aptitudes 2
+MID_STAGE_PB002: Cumuler les effets
+MID_STAGE_TITLE_PB003: Aptitudes 3
+MID_STAGE_PB003: Lames
+MID_STAGE_TITLE_PB004: Aptitudes 4
+MID_STAGE_PB004: Riposter avec Initiative
+MID_STAGE_TITLE_PB005: Aptitudes 5
+MID_STAGE_PB005: Adrénaline
+MID_STAGE_TITLE_PB006: Aptitudes 6
+MID_STAGE_PB006: Double riposte
+MID_STAGE_TITLE_PB007: Aptitudes 7
+MID_STAGE_PB007: Contre distant de Ragnell
+MID_STAGE_TITLE_PB008: Aptitudes 8
+MID_STAGE_PB008: Contre rapproché
+MID_STAGE_TITLE_PB009: Aptitudes 9
+MID_STAGE_PB009: Lien Atq/Déf
+MID_STAGE_TITLE_PB010: Aptitudes 10
+MID_STAGE_PB010: Aptitudes anti-arme
+MID_STAGE_TITLE_PB011: Aptitudes 11
+MID_STAGE_PB011: Souffle stable
+MID_STAGE_TITLE_PB012: Aptitudes 12
+MID_STAGE_PB012: Initiative et Lame véloce
+MID_STAGE_TITLE_PB013: Aptitudes 13
+MID_STAGE_PB013: Courroux
+MID_STAGE_TITLE_PB014: Aptitudes 14
+MID_STAGE_PB014: Regroupement
+MID_STAGE_TITLE_PB015: Aptitudes 15
+MID_STAGE_PB015: Formation air
+MID_STAGE_TITLE_PB016: Aptitudes 16
+MID_STAGE_PB016: Sauvetage
+MID_STAGE_TITLE_PB017: Aptitudes 17
+MID_STAGE_PB017: Déplacement cuirassé
+MID_STAGE_TITLE_PB018: Aptitudes 18
+MID_STAGE_PB018: Double frappe Fumée Vit
+MID_STAGE_TITLE_PB019: Aptitudes 19
+MID_STAGE_PB019: Ruse Vit et pronostics
+MID_STAGE_TITLE_PC001: Expertise 1
+MID_STAGE_PC001: D'une pierre deux coups
+MID_STAGE_TITLE_PC002: Expertise 2
+MID_STAGE_PC002: Brèves rencontres
+MID_STAGE_TITLE_PC003: Expertise 3
+MID_STAGE_PC003: Contre-attaques
+MID_STAGE_TITLE_PC004: Expertise 4
+MID_STAGE_PC004: Les protecteurs
+MID_STAGE_TITLE_PC005: Expertise 5
+MID_STAGE_PC005: Fidèle destrier
+MID_STAGE_TITLE_PC006: Expertise 6
+MID_STAGE_PC006: La marche du général
+MID_STAGE_TITLE_PC007: Expertise 7
+MID_STAGE_PC007: Pris au piège
+MID_STAGE_TITLE_PC008: Expertise 8
+MID_STAGE_PC008: Une nouvelle réunion
+MID_STAGE_TITLE_PC009: Expertise 9
+MID_STAGE_PC009: Princesse en détresse
+MID_STAGE_TITLE_SB_0012: 12e assaut
+MID_CHAPTER_ST_CX011: Annexes 21 et 22
+MID_STAGE_TITLE_ST_X0020: Annexe 21
+MID_STAGE_TITLE_ST_X0021: Annexe 22
+MID_STAGE_TITLE_ST_X1021: Annexes 21 et 22
+MID_STAGE_HONOR_Q0019: Hebdo.
+MID_STAGE_Q0019: Domaines rivaux
+MID_STAGE_HONOR_Q0020: Hebdo.
+MID_STAGE_Q0020: Domaines rivaux
+MID_STAGE_HONOR_Q0021: Hebdo.
+MID_STAGE_Q0021: Domaines rivaux
+MID_STAGE_HONOR_Q0022: Hebdo.
+MID_STAGE_Q0022: Domaines rivaux
+MID_TAP_BATTLE_DATA_TITLE_0006: L'été des héros
+MID_MUSIC_NAME_BGM_MAP_FE13_02: Prélude (en flammes)
+MID_MUSIC_NAME_BGM_MENU_FRIEND1: Amitié
+MID_MUSIC_NAME_BGM_MENU_POST: Votez

@@ -1,0 +1,38 @@
+[Heroes Archive] (MICAIAH_BON01)
+
+
+Heroes Message Name: Message
+
+
+MID_MICAIAH_BON01_HOME1: 感じるのは、\nいろんな人たちの喜び、笑い、活気…\nこれが夏祭りなのね…
+MID_MICAIAH_BON01_HOME2: お祭りの間だけは、人々は\n苦しいことや悲しいことを忘れて、\nみんなで楽しむことができる…
+MID_MICAIAH_BON01_HOME3: これが異国の衣装…\n初めてだから…戸惑ってしまうわ。\n…おかしくないかしら？
+MID_MICAIAH_BON01_HOME4: 以前は街で占い師をしていたの。\n良かったら、あなたのことも\n占ってあげましょうか？
+MID_MICAIAH_BON01_HOME5: 白夜王国の踊り…不思議な舞いね。\nサザならきっと、\n私より上手に踊れると思うわ。
+MID_MICAIAH_BON01_FRIEND: $Nfたちは\n夏祭りに出かけるそうよ。\n良かったら、あなたも一緒にどう？
+MID_MICAIAH_BON01_LEVEL1: みんなの心がひとつになる…\nそんなイメージを感じるの。
+MID_MICAIAH_BON01_LEVEL2: 上手く踊れるように\nなってきたみたい。
+MID_MICAIAH_BON01_LEVEL3: そんな…\n私の心に迷いがあったの？
+MID_MICAIAH_BON01_SKILL: ありがとう。私の踊りで\nお礼ができればいいけど…
+MID_MICAIAH_BON01_JOIN: 『暁の団』のミカヤよ。\n夏祭りに誘ってくれてありがとう。\n楽しい未来の予感がするわ。
+MID_MICAIAH_BON01_STRONGEST: みんなと一緒に笑い、踊り\n歌ったこの時間は…いつまでも\n心の中に輝き続ける…希望の灯火。$k$p私にはわかるの。\nこの輝きはきっと、みんなの未来に\n光をともしてくれるはずだと。$k$p戦いの日々は人々の心を疲弊させ\n膨れ上がった澱みは、大いなる災いを\n引きよせてしまうかもしれない…$k$pでも、今日の笑顔や楽しい気持ちは\nいつまでも色褪せない\n闇を祓う希望の光になると思うの。$k$p夏の日の、この輝きを胸に\n私は大切な人々と一緒に\n未来へと歩いていきたい…
+MID_MICAIAH_BON01_VOICE01: それっ！
+MID_MICAIAH_BON01_VOICE02: やっ！
+MID_MICAIAH_BON01_VOICE03: ええっ！？
+MID_MICAIAH_BON01_VOICE04: だめっ！
+MID_MICAIAH_BON01_VOICE05: 舞いましょう
+MID_MICAIAH_BON01_VOICE06: 友好のためなら
+MID_MICAIAH_BON01_VOICE07: 夏の祭事（さいじ）ね
+MID_MICAIAH_BON01_VOICE08: どんな踊りだって
+MID_MICAIAH_BON01_VOICE09: 踊り…疲れたのかしら…
+MID_MICAIAH_BON01_VOICE10: ええと…
+MID_MICAIAH_BON01_VOICE11: 白夜の舞いね
+MID_MICAIAH_BON01_VOICE12: 負けないで
+MID_MICAIAH_BON01_VOICE13: きゃっ！？　もう、ユンヌ、おとなしくして…
+MID_MICAIAH_BON01_VOICE14: 異国の衣装は、私たちとはずいぶん違うのね。でも、嫌いじゃない…
+MID_MICAIAH_BON01_VOICE15: え？　似合ってる？　…ありがとう。
+MID_MICAIAH_BON01_VOICE16: 白夜王国の夏祭り…きっと、神聖なまつりごとなのね。
+MID_MICAIAH_BON01_VOICE17: 私の踊りが見たいの？　そんなに言うなら、少しだけ…
+MID_MICAIAH_BON01_VOICE18: わかったわ
+MID_MICAIAH_BON01_VOICE19: 夏が来たのね…
+MID_MICAIAH_BON01_VOICE20: 踊ってみるわ

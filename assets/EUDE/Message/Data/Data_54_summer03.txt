@@ -88,9 +88,9 @@ MSID_H_強化無効・近距離3: Nutzt der Gegner Schwert, Lanze, Axt\noder Dra
 MSID_H_守備の共謀1: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -3 bis\nnach ihren nächsten Aktionen.
 MSID_H_守備の共謀2: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -5 bis\nnach ihren nächsten Aktionen.
 MSID_H_守備の共謀3: Verwendet die Einheit oder ein verbündetes\nZiel eine Sammeln-Beistehfähigkeit, erleiden\nGegner in Himmelsrichtungen Ver. -7 bis\nnach ihren nächsten Aktionen.
-MSID_H_歩行の剛撃1: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmind. 5 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
-MSID_H_歩行の剛撃2: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmind. 3 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
-MSID_H_歩行の剛撃3: Für Infanterieverbündete im Umkreis\nvon 2 Feldern gilt: Ist Angr. der Einheit\nhöher als Angr. des Gegners, wird die\nErholungszeit der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen\nEffekten wird nur der höchste angewandt.)
+MSID_H_歩行の剛撃1: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmindestens 5 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit pro Angriff\nder Einheit um 1 beschleunigt. (Bei mehreren\nähnlichen Effekten wird nur der höchste\nangewandt.)
+MSID_H_歩行の剛撃2: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit um\nmindestens 3 höher als Angr. des Gegners,\nwird die Erholungszeit der Einheit pro Angriff\nder Einheit um 1 beschleunigt. (Bei mehreren\nähnlichen Effekten wird nur der höchste\nangewandt.)
+MSID_H_歩行の剛撃3: Für Infanterieverbündete im Umkreis von\n2 Feldern gilt: Ist Angr. der Einheit höher als\nAngr. des Gegners, wird die Erholungszeit\nder Einheit pro Angriff der Einheit um 1\nbeschleunigt. (Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
 MID_CHAPTER_TITLE_CX020: Nebenquest 21
 MID_CHAPTER_CX020: Sommeranfang
 MID_STAGE_TITLE_X0201: Nebenq. 21: Tl. 1

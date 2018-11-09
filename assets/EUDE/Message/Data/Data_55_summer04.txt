@@ -1,0 +1,267 @@
+[Heroes Archive] (Data_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_黄色いアヒル: Quietscheente
+MDAID_H_黄色いアヒル: Eine Plastikente, die auf dem Wasser\ntreibt. Es ist entspannend anzusehen,\nwie sie vor sich hin dümpelt.
+MDAID_温泉手ぬぐい: Handtuch
+MDAID_H_温泉手ぬぐい: Ein Handtuch für Thermalquellen.\nPass auf, dass es trocken bleibt!
+MID_MISSION_S201807KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201807KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201807KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Raven & Lucius mit Alfonse,\ndem Prinzen von Askr im Team.
+MID_MISSION_S201807KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201807KIZUNA01_A2: Gewinne den Treue-Heldenkampf\ngegen Raven & Lucius mit Fjorm\nim Team auf Extrem oder höher.
+MID_MISSION_S201807KIZUNA01_A3: Raven besiegen
+MID_MISSION_H_S201807KIZUNA01_A3: Besiege Raven, der Level 40 oder höher\nist, mit Alfonse, dem Prinzen von Askr.
+MID_MISSION_S201807KIZUNA01_A4: Lucius besiegen
+MID_MISSION_H_S201807KIZUNA01_A4: Besiege Lucius, der Level 40\noder höher ist, mit Fjorm.
+MID_MISSION_S201807KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201807KIZUNA01_A5: Gewinne den Treue-Heldenkampf\ngegen Raven & Lucius mit einem\nInfanterieteam auf Extrem o. höher.
+MID_MISSION_S201807SENKA01_DAILY_TITLE: Sturmprüfung
+MID_MISSION_S201807SENKA01_DAILY_A1: Prüfung abschließen
+MID_MISSION_H_S201807SENKA01_DAILY_A1: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA01_DAILY_A2: Prüfung abschließen
+MID_MISSION_H_S201807SENKA01_DAILY_A2: Bewältige eine der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA01_DAILY_A3: Prüfung abschließen
+MID_MISSION_H_S201807SENKA01_DAILY_A3: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807SENKA01_DAILY_A4: Prüfung abschließen
+MID_MISSION_H_S201807SENKA01_DAILY_A4: Bewältige einige der letzten\nKarten der Sturmprüfung.
+MID_MISSION_S201807STORY01_TITLE: Bildschöner Sommer
+MID_MISSION_S201807STORY01_A1: Nebenq. 22 Tl. 1 - Extrem
+MID_MISSION_H_S201807STORY01_A1: Bewältige Nebenquest 22: Teil 1 auf\nExtrem mit einem Lanzenkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY01_A2: Nebenq. 22 Tl. 2 - Extrem
+MID_MISSION_H_S201807STORY01_A2: Bewältige Nebenquest 22: Teil 2 auf\nExtrem mit einem Axtkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807STORY01_A3: Nebenq. 22 Tl. 3 - Extrem
+MID_MISSION_H_S201807STORY01_A3: Bewältige Nebenquest 22: Teil 3 auf\nExtrem mit einem Schwertkämpfer.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201807TAPBTL01_D01_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201807TAPBTL01_D01_A1: Noire besiegen
+MID_MISSION_H_S201807TAPBTL01_D01_A1: Besiege den Boss Noire auf den Ebenen\n-15 bis -19 auf Normal im Tipp-Kampf.
+MID_MISSION_S201807TAPBTL01_D01_A2: Ebenen -20 bis -24
+MID_MISSION_H_S201807TAPBTL01_D01_A2: Schließe die Ebenen -20 bis -24\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D01_A3: Stufe abschließen
+MID_MISSION_H_S201807TAPBTL01_D01_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D02_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201807TAPBTL01_D02_A1: Noire besiegen
+MID_MISSION_H_S201807TAPBTL01_D02_A1: Besiege den Boss Noire auf den Ebenen\n-15 bis -19 auf Schwer im Tipp-Kampf.
+MID_MISSION_S201807TAPBTL01_D02_A2: Ebenen -40 bis -44
+MID_MISSION_H_S201807TAPBTL01_D02_A2: Schließe die Ebenen -40 bis -44\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D02_A3: Stufe abschließen
+MID_MISSION_H_S201807TAPBTL01_D02_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D03_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201807TAPBTL01_D03_A1: Cordelia besiegen
+MID_MISSION_H_S201807TAPBTL01_D03_A1: Besiege den Boss Cordelia auf den Ebenen\n-35 bis -39 auf Normal im Tipp-Kampf.
+MID_MISSION_S201807TAPBTL01_D03_A2: Ebenen -60 bis -64
+MID_MISSION_H_S201807TAPBTL01_D03_A2: Schließe die Ebenen -60 bis -64\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D03_A3: Stufe abschließen
+MID_MISSION_H_S201807TAPBTL01_D03_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D04_TITLE: Tipp-Kampf - Tägl.
+MID_MISSION_S201807TAPBTL01_D04_A1: Cordelia besiegen
+MID_MISSION_H_S201807TAPBTL01_D04_A1: Besiege den Boss Cordelia auf den Ebenen\n-35 bis -39 auf Schwer im Tipp-Kampf.
+MID_MISSION_S201807TAPBTL01_D04_A2: Ebenen -80 bis -84
+MID_MISSION_H_S201807TAPBTL01_D04_A2: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL01_D04_A3: Stufe abschließen
+MID_MISSION_H_S201807TAPBTL01_D04_A3: Schließe eine Stufe\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL02_TITLE: Tipp-Kampf
+MID_MISSION_S201807TAPBTL02_A1: Boss-Stufen
+MID_MISSION_H_S201807TAPBTL02_A1: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201807TAPBTL02_A2: Boss-Stufen
+MID_MISSION_H_S201807TAPBTL02_A2: Schließe Boss-Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201807TAPBTL02_A3: Stufen abschließen
+MID_MISSION_H_S201807TAPBTL02_A3: Schließe Stufen im\nTipp-Kampf ab.
+MID_MISSION_S201807TAPBTL02_A4: Extrastufe 1
+MID_MISSION_H_S201807TAPBTL02_A4: Schließe Extrastufe 1 im Tipp-Kampf ab.\n(Extrastufen müssen freigeschaltet sein.)
+MID_MISSION_S201807TAPBTL02_A5: Ebenen -5 bis -9
+MID_MISSION_H_S201807TAPBTL02_A5: Schließe die Ebenen -5 bis -9\nim Tipp-Kampf ab.
+MID_MISSION_S201807TAPBTL02_A6: Ebenen -80 bis -84
+MID_MISSION_H_S201807TAPBTL02_A6: Schließe die Ebenen -80 bis -84\nim Tipp-Kampf ab.
+MPID_水着チキ: Tiki
+MPID_水着タクミ: Takumi
+MPID_水着カミラ: Camilla
+MPID_水着リンダ: Linde
+MPID_HONOR_水着チキ: Strandgöttin
+MPID_HONOR_水着タクミ: Spielprinz
+MPID_HONOR_水着カミラ: Tropenschönheit
+MPID_HONOR_水着リンダ: Sonnenschein
+MPID_H_水着チキ: Eine junge Wyrmgöttin, die einst in einen\nzeitlosen Schlaf versetzt wurde. Freut sich\ndarauf, mit allen am Strand zu spielen.\nErscheint in FE: Mystery of the Emblem.
+MPID_H_水着タクミ: Prinz von Hoshido, der den heiligen\nBogen Fujin Yumi führt. Ist froh, Zeit\nauf einer Tropeninsel verbringen zu\nkönnen. Erscheint in Fire Emblem Fates.
+MPID_H_水着カミラ: Prinzessin von Nohr, die in Corrin\nvernarrt ist. Hofft, dass ihr jemand\nbeim Auftragen der Sonnencreme\nhilft. Erscheint in Fire Emblem Fates.
+MPID_H_水着リンダ: Tochter des Miloah von Akaneia. Ist\netwas nervös, weil sie nicht ihr\ngewohntes Kleid trägt. Erscheint in\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_水着チキ: Mela Lee
+MPID_VOICE_水着タクミ: Michael Sinterniklaas
+MPID_VOICE_水着カミラ: Misty Lee
+MPID_VOICE_水着リンダ: Julie Ann Taylor
+MPID_ILLUST_水着チキ: Gaou (がおう)
+MPID_ILLUST_水着タクミ: Tobi
+MPID_ILLUST_水着カミラ: Mikuro (みく郎)
+MPID_ILLUST_水着リンダ: Kippu (切符)
+MSID_義勇の槍: Kühne Lanze
+MSID_傭兵団の戦斧: Drachen-Stabaxt
+MSID_カタリナの書: Reeses Buch
+MSID_第12迷宮の覇者1: Überfall-Ass L 1
+MSID_第12迷宮の覇者2: Überfall-Ass L 2
+MSID_第12迷宮の覇者3: Überfall-Ass L 3
+MSID_魚の弓: Fischbogen
+MSID_魚の弓＋: Fischbogen+
+MSID_ヒトデ: Seestern
+MSID_ヒトデ＋: Seestern+
+MSID_南国のジュース: Saftige Welle
+MSID_南国のジュース＋: Saftige Welle+
+MSID_真夏のブレス: Sommeratem
+MSID_攻撃魔防の大覚醒1: Agr./Res. erh. 1
+MSID_攻撃魔防の大覚醒2: Agr./Res. erh. 2
+MSID_攻撃魔防の大覚醒3: Agr./Res. erh. 3
+MSID_魔防の波・奇数1: Ungrade Res. 1
+MSID_魔防の波・奇数2: Ungrade Res. 2
+MSID_魔防の波・奇数3: Ungrade Res. 3
+MSID_竜の技量1: Drachenmut 1
+MSID_竜の技量2: Drachenmut 2
+MSID_竜の技量3: Drachenmut 3
+MSID_H_義勇の槍: Effektiv gegen gepanzerte Gegner.\nBeschleunigt Spezialangriffe\n(Erholungszeit -1).
+MSID_H_傭兵団の戦斧: Hat die Einheit einen Waffen-Dreieck-\nVorteil, erhält sie Angr. +20 %. Hat\ndie Einheit einen Waffen-Dreieck-\nNachteil, erleidet sie Angr. -20 %.
+MSID_H_カタリナの書: Angr./Ges./Ver./Res. der Einh. werden\nim Kampf um Anzahl der benachbarten\nVerbündeten x 2 verstärkt.
+MSID_H_飛燕金剛の構えR4: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Ver. +4 im Kampf.
+MSID_H_速さ魔防の謀策R4: Gegner in Himmelsrichtungen mit\ngeringerer Res. als die Einheit erleiden\nzu Beginn des Zuges Ges./Res. -4 bis\nnach ihrer nächsten Aktion.
+MSID_H_第12迷宮の覇者1: Verleiht Ver. +1.
+MSID_H_第12迷宮の覇者2: Verleiht Ver. +2.
+MSID_H_第12迷宮の覇者3: Verleiht Ver. +3.
+MSID_H_魚の弓: Effektiv gegen Flugeinheiten. Initiiert die\nEinheit den Kampf und sind die KP der\nEinheit ≤ 75 %, kann sie einen Folgeangriff\nausführen, bevor der Gegner angreift.
+MSID_H_魚の弓＋: Effektiv gegen Flugeinheiten. Initiiert die\nEinheit den Kampf und sind die KP der\nEinheit ≤ 75 %, kann sie einen Folgeangriff\nausführen, bevor der Gegner angreift.
+MSID_H_ヒトデ: Initiiert die Einheit den Kampf und sind die KP\nder Einheit ≤ 75 %, kann sie einen Folgeangriff\nausführen, bevor der Gegner angreift. Hat die\nEinheit angegriffen, erleiden Ziel und Gegner im\nUmkreis von 2 Feldern des Ziels nach d. Kampf\nVer./Res. -5 bis nach ihren nächsten Aktionen.
+MSID_H_ヒトデ＋: Initiiert die Einheit den Kampf und sind die KP\nder Einheit ≤ 75 %, kann sie einen Folgeangriff\nausführen, bevor der Gegner angreift. Hat die\nEinheit angegriffen, erleiden Ziel und Gegner im\nUmkreis von 2 Feldern des Ziels nach d. Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_南国のジュース: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 75 %, kann sie\neinen Folgeangriff ausführen, bevor der\nGegner angreift.
+MSID_H_南国のジュース＋: Initiiert die Einheit den Kampf und sind\ndie KP der Einheit ≤ 75 %, kann sie\neinen Folgeangriff ausführen, bevor der\nGegner angreift.
+MSID_H_真夏のブレス: Effektiv gg. Drachen. Verleiht Ver. +3. Initiiert d.\nGegner d. Kampf, wird Erholungszeit d. Einheit\npro Angriff um 1 beschleunigt. (Bei mehreren\nähnl. Effekten wird nur d. höchste angewandt.)\nIst Rw. d. Gegners 2, wird Schaden durch seine\nVer. oder Res. berechnet (geringerer Wert gilt).
+MSID_H_攻撃魔防の大覚醒1: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Res. +3 im Kampf.
+MSID_H_攻撃魔防の大覚醒2: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Res. +5 im Kampf.
+MSID_H_攻撃魔防の大覚醒3: Sind die KP der Einheit zu Beginn\ndes Kampfes ≤ 80 %, erhält sie\nAngr./Res. +7 im Kampf.
+MSID_H_魔防の波・奇数1: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nRes. +2 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_魔防の波・奇数2: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nRes. +4 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_魔防の波・奇数3: Verleiht der Einheit und benachbarten\nVerbündeten zu Beginn ungerader Züge\nRes. +6 für 1 Zug. (Bonus wird auch\nohne benachbarte Verbündete gewährt.)
+MSID_H_竜の技量1: Überlebt die Einheit und verwendet\neinen Drachenstein, erhält sie FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_竜の技量2: Überlebt die Einheit, erhalten alle Nutzer\nvon Drachensteinen im Team FP x 1,5.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MSID_H_竜の技量3: Überlebt die Einheit, erhalten alle Nutzer\nvon Drachensteinen im Team FP x 2.\n(Bei mehreren ähnlichen Effekten\nwird nur der höchste angewandt.)
+MID_CHAPTER_TITLE_CX021: Nebenquest 22
+MID_CHAPTER_CX021: Bildschöner Sommer
+MID_STAGE_TITLE_X0211: Nebenq. 22: Tl. 1
+MID_STAGE_TITLE_X0212: Nebenq. 22: Tl. 2
+MID_STAGE_TITLE_X0213: Nebenq. 22: Tl. 3
+MID_STAGE_X0211: Abgelenktes Duo
+MID_STAGE_X0212: Verspieltes Duo
+MID_STAGE_X0213: Bilder des Grauens
+MID_STAGE_TITLE_PA001: Grundlagen 1
+MID_STAGE_PA001: Spezialangriff aktivieren
+MID_STAGE_TITLE_PA002: Grundlagen 2
+MID_STAGE_PA002: Rot, Blau und Grün
+MID_STAGE_TITLE_PA003: Grundlagen 3
+MID_STAGE_PA003: Fernangriffe
+MID_STAGE_TITLE_PA004: Grundlagen 4
+MID_STAGE_PA004: In die Enge getrieben
+MID_STAGE_TITLE_PA005: Grundlagen 5
+MID_STAGE_PA005: Effektive Angriffe
+MID_STAGE_TITLE_PA006: Grundlagen 6
+MID_STAGE_PA006: Mit Magie angreifen
+MID_STAGE_TITLE_PA007: Grundlagen 7
+MID_STAGE_PA007: Atemtechnik
+MID_STAGE_TITLE_PA008: Grundlagen 8
+MID_STAGE_PA008: Gegenangriffe
+MID_STAGE_TITLE_PA009: Grundlagen 9
+MID_STAGE_PA009: Folgeangriffe
+MID_STAGE_TITLE_PA010: Grundlagen 10
+MID_STAGE_PA010: Mit Dolchen schwächen
+MID_STAGE_TITLE_PA011: Grundlagen 11
+MID_STAGE_PA011: Sammelfähigkeiten
+MID_STAGE_TITLE_PA012: Grundlagen 12
+MID_STAGE_PA012: Heilende Kräfte
+MID_STAGE_TITLE_PA013: Grundlagen 13
+MID_STAGE_PA013: Gegner anlocken
+MID_STAGE_TITLE_PA014: Grundlagen 14
+MID_STAGE_PA014: Der Gefahr entkommen
+MID_STAGE_TITLE_PA015: Grundlagen 15
+MID_STAGE_PA015: Bewegungstricks
+MID_STAGE_TITLE_PA016: Grundlagen 16
+MID_STAGE_PA016: Singen und Tanzen
+MID_STAGE_TITLE_PA017: Grundlagen 17
+MID_STAGE_PA017: Erholungszeit beachten
+MID_STAGE_TITLE_PA018: Grundlagen 18
+MID_STAGE_PA018: Infanteriebewegung
+MID_STAGE_TITLE_PA019: Grundlagen 19
+MID_STAGE_PA019: Gepanzerte Einheiten
+MID_STAGE_TITLE_PA020: Grundlagen 20
+MID_STAGE_PA020: Berittene Einheiten
+MID_STAGE_TITLE_PA021: Grundlagen 21
+MID_STAGE_PA021: Flugeinheiten
+MID_STAGE_TITLE_PB001: Fähigkeiten 1
+MID_STAGE_PB001: Verbessern und Stärken
+MID_STAGE_TITLE_PB002: Fähigkeiten 2
+MID_STAGE_PB002: Effekte kombinieren
+MID_STAGE_TITLE_PB003: Fähigkeiten 3
+MID_STAGE_PB003: Für die Klinge!
+MID_STAGE_TITLE_PB004: Fähigkeiten 4
+MID_STAGE_PB004: Mit Vorteil kontern
+MID_STAGE_TITLE_PB005: Fähigkeiten 5
+MID_STAGE_PB005: Verzweiflung
+MID_STAGE_TITLE_PB006: Fähigkeiten 6
+MID_STAGE_PB006: Flinke Riposte
+MID_STAGE_TITLE_PB007: Fähigkeiten 7
+MID_STAGE_PB007: Ragnells Fernkonter
+MID_STAGE_TITLE_PB008: Fähigkeiten 8
+MID_STAGE_PB008: Nahkonter verwenden
+MID_STAGE_TITLE_PB009: Fähigkeiten 9
+MID_STAGE_PB009: Agr./Ver.-Band
+MID_STAGE_TITLE_PB010: Fähigkeiten 10
+MID_STAGE_PB010: Gefährliche Brecher
+MID_STAGE_TITLE_PB011: Fähigkeiten 11
+MID_STAGE_PB011: Fester Atem
+MID_STAGE_TITLE_PB012: Fähigkeiten 12
+MID_STAGE_PB012: Vorteil und Blitzklinge
+MID_STAGE_TITLE_PB013: Fähigkeiten 13
+MID_STAGE_PB013: Ingrimm auslösen
+MID_STAGE_TITLE_PB014: Fähigkeiten 14
+MID_STAGE_PB014: Mit Führung über Flüsse
+MID_STAGE_TITLE_PB015: Fähigkeiten 15
+MID_STAGE_PB015: Flugformation
+MID_STAGE_TITLE_PB016: Fähigkeiten 16
+MID_STAGE_PB016: Gnadenflügel
+MID_STAGE_TITLE_PB017: Fähigkeiten 17
+MID_STAGE_PB017: Mit Def. Marsch bewegen
+MID_STAGE_TITLE_PB018: Fähigkeiten 18
+MID_STAGE_PB018: Ges.-Rauch-Folgeangriffe
+MID_STAGE_TITLE_PB019: Fähigkeiten 19
+MID_STAGE_PB019: Ges.-Trick-Prognose
+MID_STAGE_TITLE_PC001: Großmeister 1
+MID_STAGE_PC001: Zwei auf einen Streich
+MID_STAGE_TITLE_PC002: Großmeister 2
+MID_STAGE_PC002: Kurze Begegnungen
+MID_STAGE_TITLE_PC003: Großmeister 3
+MID_STAGE_PC003: Die Gegenangreifer
+MID_STAGE_TITLE_PC004: Großmeister 4
+MID_STAGE_PC004: Treue Verteidiger
+MID_STAGE_TITLE_PC005: Großmeister 5
+MID_STAGE_PC005: Eins mit seinem Pferd
+MID_STAGE_TITLE_PC006: Großmeister 6
+MID_STAGE_PC006: Marsch des Generals
+MID_STAGE_TITLE_PC007: Großmeister 7
+MID_STAGE_PC007: In der Falle
+MID_STAGE_TITLE_PC008: Großmeister 8
+MID_STAGE_PC008: Neue Wiedervereinigung
+MID_STAGE_TITLE_PC009: Großmeister 9
+MID_STAGE_PC009: Prinzessin in Not
+MID_STAGE_TITLE_SB_0012: 12. Überfall
+MID_CHAPTER_ST_CX011: Nebenq. 21 & 22
+MID_STAGE_TITLE_ST_X0020: Nebenquest 21
+MID_STAGE_TITLE_ST_X0021: Nebenquest 22
+MID_STAGE_TITLE_ST_X1021: Nebenq. 21 & 22
+MID_STAGE_HONOR_Q0019: Wöchentlich
+MID_STAGE_Q0019: Revierkampf
+MID_STAGE_HONOR_Q0020: Wöchentlich
+MID_STAGE_Q0020: Revierkampf
+MID_STAGE_HONOR_Q0021: Wöchentlich
+MID_STAGE_Q0021: Revierkampf
+MID_STAGE_HONOR_Q0022: Wöchentlich
+MID_STAGE_Q0022: Revierkampf
+MID_TAP_BATTLE_DATA_TITLE_0006: Sommer der Helden
+MID_MUSIC_NAME_BGM_MAP_FE13_02: Vorspiel (In Flammen)
+MID_MUSIC_NAME_BGM_MENU_FRIEND1: Freundschaft
+MID_MUSIC_NAME_BGM_MENU_POST: Triff deine Wahl

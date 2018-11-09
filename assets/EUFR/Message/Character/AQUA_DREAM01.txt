@@ -1,0 +1,38 @@
+[Heroes Archive] (AQUA_DREAM01)
+
+
+Heroes Message Name: Message
+
+
+MID_AQUA_DREAM01_HOME1: Je ne comprends pas pourquoi vous\nm'avez invoquée. Personne ne veut\njamais me voir.$k$pJe dois être en train de rêver...
+MID_AQUA_DREAM01_HOME2: Ne vous sentez pas $Gobligé,obligée| d'être\n$Ggentil,gentille| avec moi...$k$pComme personne ne veut s'occuper\nde moi, j'ai appris à me débrouiller\ntoute seule.
+MID_AQUA_DREAM01_HOME3: Le monde est comme il est, on ne\npeut pas le changer. Vous n'êtes\npas d'accord ?
+MID_AQUA_DREAM01_HOME4: Vous voulez m'entendre chanter ?\nMais... Je ne suis pas si douée que\nça, vous savez...
+MID_AQUA_DREAM01_HOME5: Je ne peux faire confiance à\npersonne.$k$pDans un rêve, ça serait peut-être\ndifférent... C'est le seul endroit\noù personne ne peut me blesser.
+MID_AQUA_DREAM01_FRIEND: $Nf m'a demandé\nde venir vous saluer. Ne soyez pas\n$Gméchant,méchante| avec moi, s'il vous plaît.
+MID_AQUA_DREAM01_LEVEL1: Pour une fois, le sort ne s'acharne\npas contre moi... Je suis contente !
+MID_AQUA_DREAM01_LEVEL2: Je sens que je deviens\nplus puissante...
+MID_AQUA_DREAM01_LEVEL3: Je m'attendais à ça...
+MID_AQUA_DREAM01_SKILL: Pourquoi êtes-vous si $Ggentil,gentille|\navec moi ?
+MID_AQUA_DREAM01_JOIN: Je suis la princesse Azura de Nohr.\nVous n'allez pas être $Gméchant,méchante|\navec moi, si ?
+MID_AQUA_DREAM01_STRONGEST: Je détestais mon monde. J'avais\nl'impression d'être prisonnière.$k$pIl y avait des moments où j'aurais\nvoulu que tout disparaisse.$k$pMais tout le monde n'est pas\nméchant avec moi, et il y a ces voix\nqui me parlent dans mes rêves...$k$pEt puis il y a les gens comme vous.\nVous êtes très $Ggentil,gentille| avec moi, et\nvous me faites même des câlins.$k$pJe devrais peut-être rester encore\nun peu ici.$k$pJe ne sais pas ce qu'il va se passer...$k$pMais je crois que si je suis avec vous,\ntout ira bien.
+MID_AQUA_DREAM01_VOICE01: えい…
+MID_AQUA_DREAM01_VOICE02: 消えて
+MID_AQUA_DREAM01_VOICE03: きゃあっ！
+MID_AQUA_DREAM01_VOICE04: だめっ…
+MID_AQUA_DREAM01_VOICE05: Je peux le faire !
+MID_AQUA_DREAM01_VOICE06: Laissez-moi tranquille !
+MID_AQUA_DREAM01_VOICE07: Taisez-vous !
+MID_AQUA_DREAM01_VOICE08: Ça suffit !
+MID_AQUA_DREAM01_VOICE09: Don't want to die...
+MID_AQUA_DREAM01_VOICE10: Um...
+MID_AQUA_DREAM01_VOICE11: N'abandonnez pas.
+MID_AQUA_DREAM01_VOICE12: Vous êtes une grande personne, non ?
+MID_AQUA_DREAM01_VOICE13: Everybody's always picking on me... But you don't.
+MID_AQUA_DREAM01_VOICE14: Patting me on the head does not make me happy. Don't treat me like a child!
+MID_AQUA_DREAM01_VOICE15: I thought that things would never change… But you've shown me that they can.
+MID_AQUA_DREAM01_VOICE16: I never had a home... Until I came here.
+MID_AQUA_DREAM01_VOICE17: I'll stay here with you for a bit longer... If you want me to...
+MID_AQUA_DREAM01_VOICE18: Well...
+MID_AQUA_DREAM01_VOICE19: What's next?
+MID_AQUA_DREAM01_VOICE20: Together.

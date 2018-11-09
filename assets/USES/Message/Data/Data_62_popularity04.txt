@@ -1,0 +1,108 @@
+[Heroes Archive] (Data_62_popularity04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_ペレジアの冠: Corona plegiana
+MDAID_H_ペレジアの冠: Una corona que llevan los miembros\nde la Orden de Grima. Aversa la tenía\nen su poder.
+MDAID_ペレジアの冠・極: Corona plegiana +
+MDAID_H_ペレジアの冠・極: Una impresionante corona de oro\nreluciente. Aversa la tenía en su poder.
+MDAID_軍師の帽子: Gorro de estratega
+MDAID_H_軍師の帽子: Quienes llevan este gorro logran\nque sus compañeros cumplan\nsus órdenes. Le pertenece a Loki.
+MDAID_軍師の帽子・極: Gorro de estratega +
+MDAID_H_軍師の帽子・極: Quienes llevan este gorro logran que\ntodos se dobleguen ante sus deseos.\nLe pertenece a Loki.
+MDAID_探検帽: Gorro de explorador
+MDAID_H_探検帽: Kliff consiguió este gorro antes\nde aventurarse en búsqueda de\nreinos desconocidos.
+MDAID_探検帽・極: Gorro de explorador +
+MDAID_H_探検帽・極: El padre de Kliff encontró este gorro\ndurante sus viajes por tierras lejanas,\ncuando Kliff todavía era un niño.
+MDAID_ダークネスウィング: Alas de oscuridad
+MDAID_H_ダークネスウィング: Alas que porta Owain. Dice que\nposeen un poder único que ayuda\na vencer a la oscuridad.
+MDAID_ダークネスウィング・極: Alas de oscuridad +
+MDAID_H_ダークネスウィング・極: Alas que porta Owain. Dice que su\ncolor blanco inmaculado se debe a\nla influencia de poderes sagrados.
+MID_MISSION_S201810BLESS01_TITLE: Bendición de agua
+MID_MISSION_S201810BLESS01_A1: Victoria acuosa
+MID_MISSION_H_S201810BLESS01_A1: Vence a enemigos con un héroe\nque tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A2: Victoria acuosa
+MID_MISSION_H_S201810BLESS01_A2: Vence a enemigos de nivel 20 o superior\ncon un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A3: Victoria acuosa
+MID_MISSION_H_S201810BLESS01_A3: Vence a enemigos de tipo rojo de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A4: Victoria acuosa
+MID_MISSION_H_S201810BLESS01_A4: Vence a enemigos de tipo azul de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A5: Victoria acuosa
+MID_MISSION_H_S201810BLESS01_A5: Vence a enemigos de tipo verde de nivel 35 o\nsuperior con un héroe que tenga la bendición\nde agua. (Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A6: T. de práctica - Estrato 1
+MID_MISSION_H_S201810BLESS01_A6: Supera el primer estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A7: T. de práctica - Estrato 5
+MID_MISSION_H_S201810BLESS01_A7: Supera el quinto estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201810BLESS01_A8: T. de práctica - Estrato 10
+MID_MISSION_H_S201810BLESS01_A8: Supera el décimo estrato de la torre de práctica\ncon un héroe que tenga la bendición de agua.\n(Héroes legendarios no incluidos).
+MID_MISSION_S201810STORY02_TITLE: Vuelven los audaces
+MID_MISSION_S201810STORY02_A1: Anexo 26-1: extremo
+MID_MISSION_H_S201810STORY02_A1: Supera la 1.ª parte del anexo 26 en modo\nextremo con una unidad con hacha en tu\nbatallón. Los cuatro aliados deben sobrevivir.
+MID_MISSION_S201810STORY02_A2: Anexo 26-2: extremo
+MID_MISSION_H_S201810STORY02_A2: Supera la 2.ª parte del anexo 26 en modo\nextremo con un espadachín en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MID_MISSION_S201810STORY02_A3: Anexo 26-3: extremo
+MID_MISSION_H_S201810STORY02_A3: Supera la 3.ª parte del anexo 26 en modo\nextremo con un lancero en tu batallón.\nLos cuatro aliados deben sobrevivir.
+MPID_ウード: Owain
+MPID_インバース: Aversa
+MPID_ロキ味方: Loki
+MPID_クリフ: Kliff
+MPID_HONOR_ウード: El Elegido
+MPID_HONOR_インバース: Fémina oscura
+MPID_HONOR_ロキ味方: La embaucadora
+MPID_HONOR_クリフ: Espíritu inquieto
+MPID_H_ウード: Hijo de Lissa con personalidad un tanto\nextravagante. Le gusta ponerle nombres\ndramáticos a las armas.\nAparece en Fire Emblem Awakening.
+MPID_H_インバース: Astuta maga al servicio de Gangrel de Plegia.\nEs una experta usando sus encantos para\ndesarmar a sus enemigos y luego atacarlos.\nAparece en Fire Emblem Awakening.
+MPID_H_ロキ味方: Estratega de Múspell, el reino del fuego.\nLe gusta engañar y manipular a la gente.
+MPID_H_クリフ: Amigo de la infancia de Alm de Villamardán.\nLe encanta aprender y ansía descubrir el mundo.\nAparece en Fire Emblem Echoes: Shadows of\nValentia.
+MPID_VOICE_ウード: Kaiji Tang
+MPID_VOICE_インバース: Cindy Robinson
+MPID_VOICE_ロキ味方: Erika Ishii
+MPID_VOICE_クリフ: Christopher Patton
+MPID_ILLUST_ウード: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_インバース: PenekoR (п猫Ｒ)
+MPID_ILLUST_ロキ味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_クリフ: Tobi
+MSID_ミステルトィン: Misilteinn
+MSID_インバースの暗闇: Noche Aversa
+MSID_アロー: Sagittae
+MSID_ブルーフレイム: Llama azul
+MSID_大地静水の祝福: Lodobálsamo
+MSID_大地静水の祝福＋: Lodobálsamo +
+MSID_守備魔防の城塞1: Fort. Def./Res. 1
+MSID_守備魔防の城塞2: Fort. Def./Res. 2
+MSID_守備魔防の城塞3: Fort. Def./Res. 3
+MSID_無の死闘・歩行1: Lid pedestre G 1
+MSID_無の死闘・歩行2: Lid pedestre G 2
+MSID_無の死闘・歩行3: Lid pedestre G 3
+MSID_H_ミステルトィン: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Otorga -1 a la cuenta\nregresiva por cada ataque del rival durante\nel combate. (Solo se aplica el valor más alto.\nNo acumulable. La unidad recibe la bonificación\naunque el daño infligido sea 0).
+MSID_H_インバースの暗闇: Otorga Res. +3. Al inicio del turno, si los PV de\nun enemigo son inferiores a los de la unidad en\n3 puntos o menos y si el enemigo tiene otro\nenemigo adyacente, le inflige Atq., Vel., Def. y\nRes. -3 al enemigo y sus bonificaciones se\nvuelven penalizaciones en su próxima acción.
+MSID_H_アロー: Otorga Def. +3. Al inicio del ataque, si el Atq. del\nrival supera al de la unidad en 5 puntos o más, la\nunidad obtiene Atq., Vel., Def. y Res. +5 durante\nel enfrentamiento.
+MSID_H_ブルーフレイム: Aumenta el daño en 10 puntos, pero si hay\nun aliado en una casilla adyacente a la de\nla unidad, aumenta el daño en 25 puntos.
+MSID_H_大地静水の祝福: Al usar un bastón para curar a un aliado,\ntodos los aliados obtienen Def. y Res. +4\ndurante el resto del turno.
+MSID_H_大地静水の祝福＋: Al usar un bastón para curar a un aliado,\ntodos los aliados obtienen Def. y Res. +6\ndurante el resto del turno.
+MSID_H_守備魔防の城塞1: Otorga Def. y Res. +3.\nInflige Atq. -3.
+MSID_H_守備魔防の城塞2: Otorga Def. y Res. +4.\nInflige Atq. -3.
+MSID_H_守備魔防の城塞3: Otorga Def. y Res. +6.\nInflige Atq. -2.
+MSID_H_無の死闘・歩行1: Otorga PV +3. Si la unidad es de rareza 5 ★,\nnivel 40 y la suma de sus atributos es inferior\na 160, contará como 160 en modos como\nel coliseo. (Aparecerán rivales que otorgan\nmás puntos. La suma de atributos se calcula\nsin tener en cuenta las bonificaciones\nobtenidas al combinar héroes o mediante\nhabilidades).
+MSID_H_無の死闘・歩行2: Otorga PV +4. Si la unidad es de rareza 5 ★,\nnivel 40 y la suma de sus atributos es inferior\na 165, contará como 165 en modos como el\ncoliseo. (Aparecerán rivales que otorgan más\npuntos. La suma de atributos se calcula sin\ntener en cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades).
+MSID_H_無の死闘・歩行3: Otorga PV +5. Si la unidad es de rareza 5 ★,\nnivel 40 y la suma de sus atributos es inferior\na 170, contará como 170 en modos como el\ncoliseo. (Aparecerán rivales que otorgan más\npuntos. La suma de atributos se calcula sin\ntener en cuenta las bonificaciones obtenidas\nal combinar héroes o mediante habilidades).
+MID_CHAPTER_TITLE_CX025: Anexo 26
+MID_CHAPTER_CX025: Vuelven los audaces
+MID_STAGE_TITLE_X0251: Anexo 26 - Parte 1
+MID_STAGE_TITLE_X0252: Anexo 26 - Parte 2
+MID_STAGE_TITLE_X0253: Anexo 26 - Parte 3
+MID_STAGE_X0251: Féminas tenebrosas
+MID_STAGE_X0252: Pomposidad y sensatez
+MID_STAGE_X0253: Entre las sombras
+MID_STAGE_HONOR_T0042: Fémina oscura
+MID_STAGE_T0042: Aversa
+MID_STAGE_TITLE_ST_X0024: Anexo 25
+MID_STAGE_TITLE_ST_X0025: Anexo 26
+MID_STAGE_TITLE_ST_X1025: Anexos 25 y 26
+MID_CHAPTER_ST_CX013: Anexos 25 y 26
+MID_STAGE_TITLE_PB032: Habilidades 32
+MID_STAGE_PB032: ¡Misilteinn!
+MID_STAGE_TITLE_PC016: Maestría 16
+MID_STAGE_PC016: Usa tu Guía

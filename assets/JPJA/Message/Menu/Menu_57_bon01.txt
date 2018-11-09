@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $a階級$a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $a$a0から昇格！
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: 階級維持！
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $a$a0に降格しました。
+MID_ARENA_DIALOG_HELP_07: ◆ボーナスキャラの撃破ボーナス◆\nボーナスキャラが\n敵を１体撃破するごとに、\n勝利時のスコアに＋３が加算されます。\n\n（ver 2.8.0配信時のシーズンが終了し、\n　その次に開始されるシーズンから）
+MID_ARENA_RANK21: 至天の召喚王
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: 庭園
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: 大庭園
+MID_BLESSINGMAP_HELP_DIALOG_05: ◆大庭園◆\n・複数の部隊で戦います。\n\n・一度戦った英雄は、連戦中、\n　次以降のマップでは戦えません。\n（同じ英雄が複数いる場合は、\n　その全員が戦えなくなります）
+MID_ITEM_ARENA_CROWN: 闘技の王冠
+MID_ITEM_HELP_ARENA_CROWN: 伝承に謳われた召喚王の冠
+MID_SEQUENTIAL_MAP_TERM_201808: 我が名は混沌
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: ◆祝福ボーナス◆\n現在のシーズンの伝承英雄か、\n現在のシーズンの祝福付与された英雄が\n１体出撃するごとに、\n勝利時のスコアに＋１が加算されます。
+MID_SUMMON_WEAPON_TYPE: 召喚される英雄の武器種
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: この召喚は１度行うと終了です。\n人気No.１は「リン」です。
+MID_TAP_BATTLE_CONFIG_SPEED: スピード
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: ×1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: ×1.5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: ×2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: ×2.5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: ×3
+MID_CONQUER_HELP_DIALOG_06_02: ◆制圧戦のルール　その他◆\n・増援には伝承効果は発生しません。
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: すべて選択
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: すべて解除
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: 番号順に並べる
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: スキルセット編集・装備
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: スキルセット一括装備
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: スキルセットを変更するキャラクターを選択してください。
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: スキルセットを編集・装備してください。
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: セットするスキルを選択してください。
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: セットする聖印を選択してください。
+MID_UNIT_EDIT_SKILL_SET_EDIT: 編集する
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: スキルを選択
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: 聖印を選択
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: 装備中のスキル・聖印を選択
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: このスキルセットを削除しますか？
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: 削除する
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: 選択したスキル・聖印を\nスキルセットに保存しますか？
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: 保存する
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: 保存したスキルセットを\nすぐに装備しますか？
+MID_UNIT_EDIT_SKILL_SET_EQUIP: 装備する
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: 装備しない
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: スキルセットの編集を中止しますか？
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: 編集内容は破棄されます。
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: 中止する
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: 変更前
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: 変更後
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: 選択したスキルセットを\n装備しますか？
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: セット名を編集
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aスキルセット$a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: スキルセット名を入力
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: スキルセット名を入力してください。
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: スキルセット名は全キャラクターで共通です。
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: 名前は１２文字以内です。\n一部の記号は使用できません。
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: １人ずつ選択
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: 部隊から選択
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: 部隊から選択
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: 大部隊から選択
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: スキルセットを一括装備できる部隊がありません。
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: 選択したスキルセットを\n一括で装備しますか？
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: スキルセットが空のキャラクターは\n装備が変更されません。
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: スキルセットを一括装備するキャラクターを選択してください。
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: スキルセットを一括装備する部隊を選択してください。
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: 装備するスキルセットを選択してください。
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: 他のキャラクターが装備している\n聖印は外れます。
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: スキルセットの聖印が重複しているため、\n聖印を装備できないキャラクターがいます。
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: ◆スキルセット編集・装備◆\n装備するスキル・聖印を\nキャラクターごとに５つ\n登録できます。\n\nスキルセットを登録しておくと、\n登録したスキル・聖印を\nまとめて装備できるようになります。
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: ◆スキルセットを編集する◆\nスキルセットに登録したい\nスキル・聖印を選択して登録します。\n\n◆スキルセットを装備する◆\nスキルセットに登録されている\nスキル・聖印をまとめて装備します。
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: ◆セット名を編集する◆\nスキルセットの名前を\n編集することができます。\nスキルセット名は、\n全てのキャラクターで共通です。
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: ◆スキルセット一括装備◆\n複数のキャラクターに、\n「スキルセット編集・装備」メニューで\n登録したスキルセットを\n一括装備することができます。
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: ◆１人ずつ選択◆\nスキルセットを装備したい\nキャラクターを１人ずつ\n手動で選択することができます。
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: ◆部隊から選択◆\n部隊または大部隊に\n編成されているキャラクターを\n選択することができます。\n\n自軍のキャラクターが\n1人も含まれていない\n大部隊は表示されません。
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: ◆聖印の装備について◆\n複数のキャラクターに同じ聖印を\n装備しようとしている場合、\nソート順でより前にいる\nキャラクターが優先して装備します。

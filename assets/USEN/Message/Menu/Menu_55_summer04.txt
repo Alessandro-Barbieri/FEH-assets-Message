@@ -1,0 +1,45 @@
+[Heroes Archive] (Menu_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION: Event Recap
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP: Tempest Trials
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_OPENING: Opening
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_ENDING: Ending
+MID_EVENT_RECOLLECTION_INFO: Review dialogue from concluded events.
+MID_MAP_RETRY: Restart
+MID_MAP_RETRY_CONFIRM: Start again from the beginning?
+MID_MAP_RETRY_DECIDE: Restart
+MID_MAP_RETRY_CANCEL: Give Up
+MID_MAP_PHASE_WITH_LIMIT: $aPhase $a0/$a1
+MID_MISSION_PROGRESS_DIALOG_LIST_ACHIEVED_HELP: Claim your reward from the quest list.
+MID_OCCUPATION_HELP_DIALOG_08_02: GC Tiers:\n・Your GC Tier will increase\nbased on your cumulative score\nin battle.\n・As your GC Tier increases,\nmore points get added to areas\nadjacent to your selected area.\nThis begins with the next battle\nafter a GC Tier rank promotion.\n・You can also earn other\nrewards based on your GC Tier.
+MID_OCCUPATION_AREA_ALLY_RANKING_REINFORCE_ONLY: Helper
+MID_OCCUPATION_REWARD_SORT_RANK: Rank in Army
+MID_OCCUPATION_REWARD_RANK: Rank
+MID_OCCUPATION_RANKING: Current Standing
+MID_OCCUPATION_RANKING_SORT_TYPE: $aCurrent Standing: $a0
+MID_OCCUPATION_RANKING_SORT_TOP: Top Players
+MID_OCCUPATION_RANK_OUT_OF_RANGE: unranked
+MID_OCCUPATION_RANKING_UNCALCULATED: Now calculating rankings.
+MID_OCCUPATION_GAINED_REWARDTYPE_ROUND_RANK: $aGC: Rank in Army Reward - Battle $a0
+MID_OCCUPATION_RANKING_SCORE: Score
+MID_SEQUENTIAL_MAP_TERM_201807: Sweet Dreams
+MID_STAGE_SELECT_RULE_TURN_ENEMY_PHASE: $aTurns to win: $a0 (enemy phase)
+MID_STAGE_SELECT_PUZZLE: Tactics Drills
+MID_STAGE_SELECT_PUZZLE_INFO: Test your mettle!
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC: Basics
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC_INFO: Review the fundamentals\nand hone your technique.
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL: Skill Studies
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL_INFO: Learn how different skills\naffect the fight.
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS: Grandmaster
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS_INFO: Veteran tacticians, these\nchallenges are for you.
+MID_PUZZLE_HELP_DIALOG_00: Play and learn!
+MID_PUZZLE_HELP_DIALOG_01: Tactics Drills:\nBrush up on the rules of Fire\nEmblem Heroes, and hone your\ntactical skills while playing.\n\nEach map features a preselected\ngroup of allies.
+MID_PUZZLE_HELP_DIALOG_02: Grandmaster:\nThese maps are extremely\nchallenging!\n\nThey will be unlocked after you\nclear Book I, Chapter 13 in the\nmain story.
+MID_STAGE_OPEN_FIRST_PUZZLE: Tactics Drills have been unlocked.
+MID_STAGE_OPEN_NEW_PUZZLE: A new Tactics Drills map is\navailable.
+MID_STAGE_SELECT_RULE_PHASE: $aPhases to win: $a0
+MID_TAP_BATTLE_RESULT_COMMENT_FULL: Perfect!

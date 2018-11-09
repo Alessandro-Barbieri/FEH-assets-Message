@@ -1,0 +1,79 @@
+[Heroes Archive] (Menu_57_bon01)
+
+
+Heroes Message Name: Message
+
+
+MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aTier $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromoted from $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Tier maintained!
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDemoted from $a0
+MID_ARENA_DIALOG_HELP_07: Plus One for Bonus Heroes:\nWhenever you defeat a foe using\na bonus Hero, you will earn three\nextra points toward your score.\n\n(This goes into effect starting\nwith the season beginning\nafter ver. 2.8.0 is released.)
+MID_ARENA_RANK21: Great Summoner
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Gardens
+MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SEQUENTIAL: Grounds
+MID_BLESSINGMAP_HELP_DIALOG_05: Grounds:\n・ Fight using multiple teams.\n・ Heroes who participate in one\nbattle cannot participate in later\nbattles in a set. (Duplicate Heroes\ncannot be used later either.)
+MID_ITEM_ARENA_CROWN: Arena Crown
+MID_ITEM_HELP_ARENA_CROWN: A crown awarded to a legendary summoner.
+MID_SEQUENTIAL_MAP_TERM_201808: Chaos Named
+MID_CHAIN_ARENA_HELP_DIALOG_09_02: Blessing Bonus:\nEach time you send a Legendary\nor blessed Hero from the current\nseason into battle, you'll receive\na score bonus of +1 when battle\nconcludes.
+MID_SUMMON_WEAPON_TYPE: Weapon Types for Available Heroes
+MID_SUMMON_PULL_ONLY_ONCE_Summon_31_Popularity_01_Selected: The session ends when you select a Hero.\nThe colorless Hero Lyn is most popular!
+MID_TAP_BATTLE_CONFIG_SPEED: Speed
+MID_TAP_BATTLE_CONFIG_SPEED_100PC: × 1
+MID_TAP_BATTLE_CONFIG_SPEED_150PC: × 1.5
+MID_TAP_BATTLE_CONFIG_SPEED_200PC: × 2
+MID_TAP_BATTLE_CONFIG_SPEED_250PC: × 2.5
+MID_TAP_BATTLE_CONFIG_SPEED_300PC: × 3
+MID_CONQUER_HELP_DIALOG_06_02: More Rules for Rival Domains:\n・Legendary Effects will not\ntrigger for reinforcements.
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_ALL: Select All
+MID_UNIT_EDIT_FAVORITE_FILTER_TOGGLE_NONE: Clear All
+MID_UNIT_EDIT_FAVORITE_FILTER_CONFIG_ORDER: Sort by Number
+MID_UNIT_EDIT_SKILL_SET_EDIT_TITLE: Edit/Equip Skill Sets
+MID_UNIT_EDIT_SKILL_SET_LOAD_TITLE: Equip Skill Sets
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP1: Choose which ally's skill sets you'd like to change.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP2: Edit and equip skills here.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP3: Choose a skill.
+MID_UNIT_EDIT_SKILL_SET_EDIT_HELP4: Choose a Sacred Seal.
+MID_UNIT_EDIT_SKILL_SET_EDIT: Edit
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_SKILL: Select Skills
+MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ACCESSORY: Select Sacred Seal
+MID_UNIT_EDIT_SKILL_SET_EDIT_LOAD_CURRENT_SKILL: Use Current Equipment
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET_CONFIRM: Delete this skill set for this Hero?
+MID_UNIT_EDIT_SKILL_SET_EDIT_ERASE_SET: Delete
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_CONFIRM: Save the selected skills and\nSacred Seal to a skill set?
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE: Save
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_EQUIP_CONFIRM: Equip the saved skill set now?
+MID_UNIT_EDIT_SKILL_SET_EQUIP: Equip
+MID_UNIT_EDIT_SKILL_SET_EDIT_SAVE_NOT_EQUIP: Don't Equip
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_CONFIRM: Discard changes?
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_WARNING: Your changes will not be saved.
+MID_UNIT_EDIT_SKILL_SET_EDIT_CANCEL_DECIDE: Discard
+MID_UNIT_EDIT_SKILL_SET_EQUIP_BEFORE: Before
+MID_UNIT_EDIT_SKILL_SET_EQUIP_AFTER: After
+MID_UNIT_EDIT_SKILL_SET_EQUIP_CONFIRM: Equip the selected skill set?
+MID_UNIT_EDIT_SKILL_SET_EDIT_NAME: Edit Set Name
+MID_UNIT_EDIT_SKILL_SET_NAME_DEFAULT: $aSkill Set $a0
+MID_UNIT_EDIT_SKILL_SET_NAME_PLACE_HOLDER: Enter Skill Set Name
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK: Enter a name for this skill set.
+MID_UNIT_EDIT_SKILL_SET_NAME_WARNING: This name will be used for all allies using\nthis skill set.
+MID_UNIT_EDIT_SKILL_SET_NAME_ASK_INFO: Choose a name of 12 or fewer characters.\nSome symbols cannot be used.
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_UNIT: Select by Ally
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP: Select by Team
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_NORMAL_TROOP: Select by Team
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_OCCUPATION_TROOP: Select by Brigade
+MID_UNIT_EDIT_SKILL_SET_LOAD_SELECT_TROOP_NONE: No ally grouping of this type is available.
+MID_UNIT_EDIT_SKILL_SET_LOAD_CONFIRM: Equip the selected skill set?
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING: Allies with no skills selected for this\nskill set will not have their equipment\nchanged.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP1: Select an ally to equip a skill set on.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP2: Select a team to equip a skill set on.
+MID_UNIT_EDIT_SKILL_SET_LOAD_HELP3: Choose a skill set to equip.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING2: Any Sacred Seals currently equipped\non other allies will be removed.
+MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING3: The same Sacred Seal appears\nmultiple times in this set. It will be\nequipped on only one ally.
+MID_SKILL_SET_EDIT_HELP_DIALOG_00: Edit/Equip Skill Sets:\nSkill sets allow you to quickly\nswap out skills and Sacred Seals.\n\nYou can save up to five skill sets\nfor each ally.
+MID_SKILL_SET_EDIT_HELP_DIALOG_01: Edit Skill Sets:\nSelect the skills and Sacred Seal\nyou would like to save to the skill\nset.\n\nEquip Skill Sets:\nThe selected skills and Sacred\nSeals can all be equipped at once.
+MID_SKILL_SET_EDIT_HELP_DIALOG_02: Edit the Skill Set name:\nYou can edit the names of the skill\nsets you register. Note that skill\nset names will be shared among\nall characters.
+MID_SKILL_SET_LOAD_HELP_DIALOG_00: Equip Skill Sets:\nEquip one or more characters\nwith registered skill sets using the\nEdit/Equip Skill Sets menu.
+MID_SKILL_SET_LOAD_HELP_DIALOG_01: Select by Ally:\nSelect one ally at a time, and\nequip skill sets to them\nindividually.
+MID_SKILL_SET_LOAD_HELP_DIALOG_02: Select by Team\nYou can select from different\ntypes of teams and assign all team\nmembers skill sets simultaneously.\n\nBrigades that do not include any\nallies from your army will not be\ndisplayed.
+MID_SKILL_SET_LOAD_HELP_DIALOG_03: Equipping Sacred Seals:\nIf equipping skill sets will result in\nmultiple allies attempting to equip\nthe same Sacred Seal, the ally\nwho comes first in the sort order\nwill take priority.

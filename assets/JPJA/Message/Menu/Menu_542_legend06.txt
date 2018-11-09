@@ -1,0 +1,11 @@
+[Heroes Archive] (Menu_542_legend06)
+
+
+Heroes Message Name: Message
+
+
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_FIRE: 火の祝福を付与された英雄、または\n火の伝承英雄の数が不足しています。\n自軍部隊数×４人以上の英雄が必要です。\n（同じ英雄は１人とカウントされます）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WATER: 水の祝福を付与された英雄、または\n水の伝承英雄の数が不足しています。\n自軍部隊数×４人以上の英雄が必要です。\n（同じ英雄は１人とカウントされます）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_WIND: 風の祝福を付与された英雄、または\n風の伝承英雄の数が不足しています。\n自軍部隊数×４人以上の英雄が必要です。\n（同じ英雄は１人とカウントされます）
+MID_STAGE_SELECT_DETAIL_BIND_UNIT_TOTAL_EARTH: 地の祝福を付与された英雄、または\n地の伝承英雄の数が不足しています。\n自軍部隊数×４人以上の英雄が必要です。\n（同じ英雄は１人とカウントされます）
+MID_VOTE_TERM_201807: 宿命の対決

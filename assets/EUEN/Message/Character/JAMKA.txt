@@ -1,0 +1,38 @@
+[Heroes Archive] (JAMKA)
+
+
+Heroes Message Name: Message
+
+
+MID_JAMKA_HOME1: The smell of the earth and the trees...\nIt reminds me of my homeland,\nVerdane.$k$pWherever you find yourself, it's nice\nto see green.
+MID_JAMKA_HOME2: I find unscrupulous behavior\nabhorrent. I cannot abide those who\nabuse their authority.
+MID_JAMKA_HOME3: That tree, over there... Yes, that one...\nTake a long look at it. Rest your tired\neyes.
+MID_JAMKA_HOME4: If you would hunt, call on me. The\nforest is my second home. I crave\nrespite from the clamor of the castle.
+MID_JAMKA_HOME5: It's impossible to focus on keeping\nwatch with you hovering around me.\nReturn to your room, please.
+MID_JAMKA_FRIEND: I am Jamke, prince of Verdane. I\nbring you a token of esteem from\n$Nf.
+MID_JAMKA_LEVEL1: My senses—they sharpen.
+MID_JAMKA_LEVEL2: I have a long way yet to go.\nI will strive to maintain my\nfocus.
+MID_JAMKA_LEVEL3: I have confidence in my\nbow arm, but that alone is\nnot enough.
+MID_JAMKA_SKILL: Thanks to this, I head back\ninto battle with confidence.\nYou have my gratitude.
+MID_JAMKA_JOIN: I am the youngest son of King Batu of\nVerdane. If you aim to aid the weak,\nmy strength is yours to wield.
+MID_JAMKA_STRONGEST: In their weakness, my father and\nmy brothers were blinded to the\nworld and thought only of Verdane.$k$pMy words fell on deaf ears...and I\nhad no choice but to become a\ntraitor to my fatherland.$k$pMy family died before my eyes.$k$pI am not saying that I regret the\nchoice I made. I followed my\nconvictions.$k$pEvery day, however, I do wonder if\nthere was a path I could have chosen\nthat avoided the worst...$k$pOne day, you will be confronted by a\ndecision just as difficult as the one I\nmade.$k$pWhen that time comes, let your heart\nguide your hand. You must follow\nyour own beliefs.$k$pHold fast to your convictions. That is\nthe only way to avoid regret.
+MID_JAMKA_VOICE01: はぁっ！
+MID_JAMKA_VOICE02: せいっ！
+MID_JAMKA_VOICE03: うああっ！
+MID_JAMKA_VOICE04: 深手を…
+MID_JAMKA_VOICE05: Get out of here!
+MID_JAMKA_VOICE06: You villain!
+MID_JAMKA_VOICE07: I'll kill you if I have to.
+MID_JAMKA_VOICE08: You were warned.
+MID_JAMKA_VOICE09: So this is it...
+MID_JAMKA_VOICE10: Yes?
+MID_JAMKA_VOICE11: As a prince of Verdane, I was once Lord Sigurd's enemy.
+MID_JAMKA_VOICE12: Is that how you greet your countrymen?
+MID_JAMKA_VOICE13: I dislike strange magic. My father fell victim to it.
+MID_JAMKA_VOICE14: Is that clothing common where you come from? It's very interesting.
+MID_JAMKA_VOICE15: My own country considers me a traitor. Well, there is one who believes in me.
+MID_JAMKA_VOICE16: When the fighting ends, I hope, well... I have my plan.
+MID_JAMKA_VOICE17: You are a mystery to me... However, I feel that is why I can put my trust in you. I can't explain it…
+MID_JAMKA_VOICE18: Yes.
+MID_JAMKA_VOICE19: Guide my bow.
+MID_JAMKA_VOICE20: I am ready.

@@ -1,0 +1,38 @@
+[Heroes Archive] (LUCINA_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_LUCINA_LEGEND01_HOME1: さて、見回りの時間ですね。\nこちらの世界にもギムレーが現れたと\n噂で聞きましたし、集中しないと。
+MID_LUCINA_LEGEND01_HOME2: 普段と違う武具を身につけるのは\nなんだか落ち着かないですね。\nもっと鍛錬に励まないと…
+MID_LUCINA_LEGEND01_HOME3: $Nuさん、\n目の下にクマができていますよ。\nまた夜更けまで書物を読んでいたのですか？
+MID_LUCINA_LEGEND01_HOME4: 遠くの的に当てるコツですか？\n私、観察力には自信があるんです。\nあなたのこともよく見ていますよ。
+MID_LUCINA_LEGEND01_HOME5: えっ、この壁の穴…ですか？\nその…不可抗力というか…\n試射中に、つい力が入ってしまって…
+MID_LUCINA_LEGEND01_FRIEND: はじめまして。\n私はルキナ。故あって、\n本日はこのような装いで失礼致します。
+MID_LUCINA_LEGEND01_LEVEL1: 今なら天の綺羅星でも\n射抜ける気がします！
+MID_LUCINA_LEGEND01_LEVEL2: まずまずですね。\n経験を積んでいけば、\nもっと上達できるはずです。
+MID_LUCINA_LEGEND01_LEVEL3: す、すみません…\n剣のようには\nうまくいかないものですね…
+MID_LUCINA_LEGEND01_SKILL: 新しい力が身につく、この感覚…\n心が躍りますね。\n新しい衣装に袖を通したかのようです。
+MID_LUCINA_LEGEND01_JOIN: イーリス聖王国の聖王クロムが一子。\n伝承の偉大なる弓を携え、\nここに参上致しました。
+MID_LUCINA_LEGEND01_STRONGEST: $Nuさん、\nすみません、気が立ってしまって。\nそんなに怖い顔をしていましたか？$k$pこの世界にも、邪竜ギムレーが現れたと\n耳にしたものですから…\nはい。私の世界を破滅に導いた存在です。$k$pあの時の私には、力がなくて…\n父や母、大事な仲間達や、多くの人を\n守ることが出来ませんでした。$k$pまた同じ歴史を繰り返してしまうのではと\nひどく不安で、つい眉間に皺が…\n神器を手にしていてもだめですね。$k$pありがとう、$Nuさん。\nお言葉に甘えて、頼らせて下さい。\nもう二度と、大切な人を失わないために。
+MID_LUCINA_LEGEND01_VOICE01: ええいっ！
+MID_LUCINA_LEGEND01_VOICE02: それっ！
+MID_LUCINA_LEGEND01_VOICE03: きゃああっ！
+MID_LUCINA_LEGEND01_VOICE04: そんな…っ！
+MID_LUCINA_LEGEND01_VOICE05: 未来は変えられます
+MID_LUCINA_LEGEND01_VOICE06: 負けはしません！
+MID_LUCINA_LEGEND01_VOICE07: 決着をつけます！
+MID_LUCINA_LEGEND01_VOICE08: この世界に希望を！
+MID_LUCINA_LEGEND01_VOICE09: この世界に…希望を…
+MID_LUCINA_LEGEND01_VOICE10: ふふふっ
+MID_LUCINA_LEGEND01_VOICE11: 私はルキナ。未来から来た、クロムの娘です。
+MID_LUCINA_LEGEND01_VOICE12: きゃっ！？　…びっくりしてしまいました。
+MID_LUCINA_LEGEND01_VOICE13: この格好…いかがでしょうか？
+MID_LUCINA_LEGEND01_VOICE14: まさか、この世界にもギムレーが…？　もしそうなら、私は…
+MID_LUCINA_LEGEND01_VOICE15: 私たちの未来は救われました…お父様と、絆の力によって。
+MID_LUCINA_LEGEND01_VOICE16: ギムレー…私の全てを賭けて…あなたを倒します。
+MID_LUCINA_LEGEND01_VOICE17: 私はもう…負けません。あなたとの絆があるから…
+MID_LUCINA_LEGEND01_VOICE18: ええ
+MID_LUCINA_LEGEND01_VOICE19: 迷いますね…
+MID_LUCINA_LEGEND01_VOICE20: そうしましょう

@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_LEGEND01_HOME1: Ahora que soy marqués me paso\nel día encerrado en el castillo.\nYa no me muevo tanto como antes.$k$pPero aquí puedo hacerlo.\n¡Por eso me gusta este sitio!
+MID_HECTOR_LEGEND01_HOME2: Si mi hija y el hijo de Eliwood\nluchasen, no sé quién ganaría.\nNo luchan como hacíamos nosotros...
+MID_HECTOR_LEGEND01_HOME3: Como líder, debes tener todo bajo\ncontrol y mantener la calma. Que no\nparezca que estás holgazaneando.$k$p¿Qué? ¿Que me aplique el cuento?\nYa sabes que ese no es mi estilo.
+MID_HECTOR_LEGEND01_HOME4: Armads ha sido mi leal compañera\ndurante mucho tiempo. Le encanta\nluchar. ¡Seguro que disfruta aquí!
+MID_HECTOR_LEGEND01_HOME5: Este castillo es impresionante,\npero preferiría que los reinos\nno necesitasen protegerse.$k$pAlgún día habrá paz.
+MID_HECTOR_LEGEND01_FRIEND: Soy Hector, Marqués de Ositia.\nMe envía $Nf.$k$p¿Puedes hacer llegar su mensaje\na su destinatario?
+MID_HECTOR_LEGEND01_LEVEL1: ¡Esto ya es otra cosa! ¡Admirad\nel poder del gran lord Hector!
+MID_HECTOR_LEGEND01_LEVEL2: No está mal..., ¡pero soy capaz\nde mucho más!
+MID_HECTOR_LEGEND01_LEVEL3: ¿Eso es todo? Creo que\nhe perdido destreza...
+MID_HECTOR_LEGEND01_SKILL: Soy un diamante en bruto. Cuanto\nmás pulo mis habilidades, ¡más brillo!
+MID_HECTOR_LEGEND01_JOIN: Soy Hector, marqués de Ositia.\nArmads y yo estamos a tu servicio.$k$pLas presentaciones formales\nno son lo mío...
+MID_HECTOR_LEGEND01_STRONGEST: ¿Te sientas conmigo un rato?\nQuiero preguntarte una cosa.$k$p¿Crees en el destino?$k$pHasta hace poco me reía de esas\ncosas, pero ahora... todo es distinto.$k$pDa igual si crees en él o no;\nlo importante es que nunca te\narrepientas de tus decisiones.$k$pSi eres valiente, podrás con\ntodo lo que te depare el futuro.$k$pNo dudarás cuando se presenten\nsituaciones de vida o muerte.$k$pLos dos deberíamos tener eso\nen cuenta.$k$pYa sé que piensas no se me da bien\ndar discursos. Se te ve en la cara.\nNo estoy hecho para ser marqués.$k$pPero así es la vida... De vez\nen cuando me tocará dar lecciones.\nNo me lo tengas en cuenta.
+MID_HECTOR_LEGEND01_VOICE01: うおおっ！
+MID_HECTOR_LEGEND01_VOICE02: そらよっ！
+MID_HECTOR_LEGEND01_VOICE03: うああっ！
+MID_HECTOR_LEGEND01_VOICE04: ちぃっ！
+MID_HECTOR_LEGEND01_VOICE05: ¡Voy a acabar con esto!
+MID_HECTOR_LEGEND01_VOICE06: ¡No te duermas!
+MID_HECTOR_LEGEND01_VOICE07: ¡Ahora o nunca!
+MID_HECTOR_LEGEND01_VOICE08: ¡Armads!
+MID_HECTOR_LEGEND01_VOICE09: Was just...getting started...
+MID_HECTOR_LEGEND01_VOICE10: はははっ！
+MID_HECTOR_LEGEND01_VOICE11: Legendary Hero? Uh... I don't get it. You mean like the Eight Legends?
+MID_HECTOR_LEGEND01_VOICE12: Huh? You managed to sneak up on me? Oh... Good work.
+MID_HECTOR_LEGEND01_VOICE13: My brother's burden and his feelings for his people... I will carry them myself.
+MID_HECTOR_LEGEND01_VOICE14: Sitting on some throne isn't really my style... But...
+MID_HECTOR_LEGEND01_VOICE15: Someday my kid and Eliwood's will spar. That'll settle who's stronger, once and for all.
+MID_HECTOR_LEGEND01_VOICE16: War is coming. Someday, a terrible war...
+MID_HECTOR_LEGEND01_VOICE17: I'm counting on you. I want you to guide my children and me.
+MID_HECTOR_LEGEND01_VOICE18: Got it.
+MID_HECTOR_LEGEND01_VOICE19: Which one's mine?
+MID_HECTOR_LEGEND01_VOICE20: Let's get moving!

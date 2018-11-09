@@ -1,0 +1,45 @@
+[Heroes Archive] (Menu_55_summer04)
+
+
+Heroes Message Name: Message
+
+
+MID_EVENT_RECOLLECTION: Ver escenas
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP: La Tormenta
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_OPENING: Prólogo
+MID_EVENT_RECOLLECTION_SEQUENTIAL_MAP_ENDING: Epílogo
+MID_EVENT_RECOLLECTION_INFO: Ver diálogo de eventos pasados.
+MID_MAP_RETRY: Reiniciar
+MID_MAP_RETRY_CONFIRM: ¿Empezar desde el principio?
+MID_MAP_RETRY_DECIDE: Reiniciar
+MID_MAP_RETRY_CANCEL: Abandonar
+MID_MAP_PHASE_WITH_LIMIT: $aFase $a0/$a1
+MID_MISSION_PROGRESS_DIALOG_LIST_ACHIEVED_HELP: Recoge tu recompensa en la lista de retos.
+MID_OCCUPATION_HELP_DIALOG_08_02: -Rango de GC-\n・ Tu rango de GC aumentará\nen función de la puntuación\nganada en batallas.\n・ A medida que aumenta,\nlas zonas adyacentes a la\nseleccionada conseguirán más\npuntos. Esto ocurre a partir de\nla primera batalla tras haber\nsubido de rango de GC.\n・ También podrás ganar otras\nrecompensas según el rango.
+MID_OCCUPATION_AREA_ALLY_RANKING_REINFORCE_ONLY: Ayudante
+MID_OCCUPATION_REWARD_SORT_RANK: Rg. en ejército
+MID_OCCUPATION_REWARD_RANK: Rango
+MID_OCCUPATION_RANKING: Posición actual
+MID_OCCUPATION_RANKING_SORT_TYPE: $aPosición actual: $a0
+MID_OCCUPATION_RANKING_SORT_TOP: Mejores
+MID_OCCUPATION_RANK_OUT_OF_RANGE: -sin clasif.
+MID_OCCUPATION_RANKING_UNCALCULATED: Calculando rangos...
+MID_OCCUPATION_GAINED_REWARDTYPE_ROUND_RANK: $aGC: Rec. por rango en ejército - Batalla $a0
+MID_OCCUPATION_RANKING_SCORE: Puntos
+MID_SEQUENTIAL_MAP_TERM_201807: Dulces sueños
+MID_STAGE_SELECT_RULE_TURN_ENEMY_PHASE: $aTurnos para lograr la victoria: $a0 (fase enemiga)
+MID_STAGE_SELECT_PUZZLE: Maniobras
+MID_STAGE_SELECT_PUZZLE_INFO: ¡Demuestra tu valor!
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC: Fundamentos
+MID_STAGE_SELECT_PUZZLE_MODE_BASIC_INFO: Repasa los fundamentos\ny perfecciona tu técnica.
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL: Habilidades
+MID_STAGE_SELECT_PUZZLE_MODE_SKILL_INFO: Aprende los efectos\nde cada habilidad.
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS: Maestría
+MID_STAGE_SELECT_PUZZLE_MODE_TACTICS_INFO: Colección de retos para\nestrategas profesionales.
+MID_PUZZLE_HELP_DIALOG_00: ¡Juega y aprende!
+MID_PUZZLE_HELP_DIALOG_01: -Maniobras-\nRepasa las reglas de Fire Emblem\nHeroes y perfecciona tu estrategia\nmientras juegas.\n\nEn cada mapa aparece un grupo\nde aliados predefinido.
+MID_PUZZLE_HELP_DIALOG_02: -Maestría-\nEstos mapas son todo un desafío.\n\nSe desbloquean al superar\nel capítulo 13 del libro I\nde la historia principal.
+MID_STAGE_OPEN_FIRST_PUZZLE: Desbloqueaste el modo Maniobras.
+MID_STAGE_OPEN_NEW_PUZZLE: Hay un nuevo mapa disponible\nen el modo Maniobras.
+MID_STAGE_SELECT_RULE_PHASE: $aFases para lograr la victoria: $a0
+MID_TAP_BATTLE_RESULT_COMMENT_FULL: ¡Perfecto!

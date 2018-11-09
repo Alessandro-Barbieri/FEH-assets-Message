@@ -1,0 +1,38 @@
+[Heroes Archive] (HECTOR_LEGEND01)
+
+
+Heroes Message Name: Message
+
+
+MID_HECTOR_LEGEND01_HOME1: Als Marquis sitze ich den ganzen Tag\nin einem Schloss fest. Ich kann mich\nkaum noch frei bewegen.$k$pDa ist es hier um einiges besser!
+MID_HECTOR_LEGEND01_HOME2: Ich frage mich oft, wer bei einem\nÜbungskampf gewinnen würde:\nmeine Tochter oder Eliwoods Sohn.$k$pAber anscheinend ist es bei der\nheutigen Jugend nicht mehr üblich,\nsich in Übungskämpfen zu messen.
+MID_HECTOR_LEGEND01_HOME3: He, lungert nicht so herum. Ein\nAnführer muss wirken, als hätte\ner alles unter Kontrolle!$k$pWie? Das gilt auch für mich?\nOh bitte, jeder weiß, dass das\nnicht mein Stil ist.
+MID_HECTOR_LEGEND01_HOME4: Armads ist schon seit Langem\nmeine treue Begleiterin. Sie liebt\neinen guten Kampf.$k$pIch wette, ihr gefällt es hier!
+MID_HECTOR_LEGEND01_HOME5: Dieses Schloss ist wirklich\nbeeindruckend.$k$pIch hoffe aber, dass Königreiche bald\nohne Befestigungen auskommen\nund nur noch Frieden herrscht.
+MID_HECTOR_LEGEND01_FRIEND: Ich bin Hector, Marquis von Ositia.\nIch komme auf Geheiß von\n$Nf.$k$pKönnt Ihr Euch darum kümmern,\ndass meine Nachricht in die\nrichtigen Hände gelangt?
+MID_HECTOR_LEGEND01_LEVEL1: Oho, schon besser. Lord\nHectors wahre Macht!
+MID_HECTOR_LEGEND01_LEVEL2: Nicht übel... Aber ich kann\nmehr tun!
+MID_HECTOR_LEGEND01_LEVEL3: Äh... Ist das alles? Ich bin\nwohl außer Übung.
+MID_HECTOR_LEGEND01_SKILL: Ich bin wie ein Diamant. Mit\njedem Schliff strahle ich heller.
+MID_HECTOR_LEGEND01_JOIN: Ich bin Hector, Marquis von Ositia.\nArmads und ich stehen Euch zu\nDiensten.$k$pAch, schicke Begrüßungsformeln\nliegen mir einfach nicht.
+MID_HECTOR_LEGEND01_STRONGEST: Wollt Ihr Euch ein wenig zu mir\ngesellen? Ich wollte Euch etwas\nfragen.$k$pGlaubt Ihr... an das Schicksal?$k$pVor Kurzem hätte ich noch darüber\ngelacht, aber nun... tja. Die Zeiten\nhaben sich geändert.$k$pOb man ans Schicksal glaubt oder\nnicht, ist irrelevant. Man darf nur\nseine Entscheidungen nicht bereuen.$k$pSolange man standhaft bleibt,\nist man auf alles vorbereitet,\nwas die Zukunft bereithält.$k$pDann zögert man auch nicht in einer\nlebensbedrohlichen Lage.$k$pDas gilt für mich genauso wie für\nEuch. Das könnt Ihr mir glauben.\nEuer Blick ist Bestätigung genug.$k$pIch weiß, ich weiß, ich schwinge\nnormalerweise keine großen\nReden.$k$pIch bin für die Position eines Marquis\neinfach nicht geschaffen.$k$pAber die Dinge sind nun mal, wie sie\nsind. Also könnt Ihr Euch ruhig ab\nund zu eine Predigt von mir anhören.
+MID_HECTOR_LEGEND01_VOICE01: うおおっ！
+MID_HECTOR_LEGEND01_VOICE02: そらよっ！
+MID_HECTOR_LEGEND01_VOICE03: うああっ！
+MID_HECTOR_LEGEND01_VOICE04: ちぃっ！
+MID_HECTOR_LEGEND01_VOICE05: Jetzt ist Schluss!
+MID_HECTOR_LEGEND01_VOICE06: Ihr habt wohl geschlafen!
+MID_HECTOR_LEGEND01_VOICE07: Das war's!
+MID_HECTOR_LEGEND01_VOICE08: Armads!
+MID_HECTOR_LEGEND01_VOICE09: Was just...getting started...
+MID_HECTOR_LEGEND01_VOICE10: はははっ！
+MID_HECTOR_LEGEND01_VOICE11: Legendary Hero? Uh... I don't get it. You mean like the Eight Legends?
+MID_HECTOR_LEGEND01_VOICE12: Huh? You managed to sneak up on me? Oh... Good work.
+MID_HECTOR_LEGEND01_VOICE13: My brother's burden and his feelings for his people... I will carry them myself.
+MID_HECTOR_LEGEND01_VOICE14: Sitting on some throne isn't really my style... But...
+MID_HECTOR_LEGEND01_VOICE15: Someday my kid and Eliwood's will spar. That'll settle who's stronger, once and for all.
+MID_HECTOR_LEGEND01_VOICE16: War is coming. Someday, a terrible war...
+MID_HECTOR_LEGEND01_VOICE17: I'm counting on you. I want you to guide my children and me.
+MID_HECTOR_LEGEND01_VOICE18: Got it.
+MID_HECTOR_LEGEND01_VOICE19: Which one's mine?
+MID_HECTOR_LEGEND01_VOICE20: Let's get moving!

@@ -3509,7 +3509,7 @@ MSID_H_瞬閃アイラの剣: Otorga Vel + 3. Si supera la Vel del enemigo\nen 1
 MSID_H_ファラフレイム: Al inicio del turno, todos los enemigos situados\nen cruz respecto a la unidad y con Res inferior\na la suya sufren Ata y Res - 4 en su próxima\nacción.
 MSID_H_聖書ナーガ: Eficaz contra dragones. Las bonificaciones de las\nhabilidades del enemigo (p. ej. Potenciar, Impulso,\netc.) se anulan durante el ataque.
 MSID_H_速さ魔防の応援: Vel y Res + 3 a un aliado adyacente\nhasta el final del turno.
-MSID_H_剣姫の流星: Convierte un 40 % de la Vel de la unidad\nen daño adicional. (No se puede legar.)
+MSID_H_剣姫の流星: La unidad aumenta el daño en una cuantía\nequivalente al 40 % de su Vel.\n(No se puede legar.)
 MSID_H_聖騎士の加護: Si la unidad recibe ataques consecutivos\nde un enemigo a dos casillas de distancia,\na partir del segundo el daño se reduce\nen un 80 %. (No se puede legar.)
 MSID_H_追撃リング: Al inicio del ataque, si la unidad tiene\nPV ≥ 50 %, ejecuta un ataque doble garantizado.\n(No se puede legar.)
 MSID_H_リカバーリング: Al inicio del turno, devuelve 10 PV.\n(No se puede legar.)
@@ -4077,15 +4077,15 @@ MSID_速さの大紋章2: Impulsar Vel 2
 MSID_攻撃の紫煙1: Humo de Ata 1
 MSID_攻撃の紫煙2: Humo de Ata 2
 MSID_攻撃の紫煙3: Humo de Ata 3
-MSID_H_烈剣デュランダル: Otorga Ata + 3. Si la unidad tiene más Ata\nque el enemigo, - 1 a la cuenta atrás por ataque.\n(Solo se aplica el valor más alto. No acumulable.)
+MSID_H_烈剣デュランダル: Otorga Ata + 3. Si la unidad tiene más Ata\nque el enemigo, - 1 a la cuenta atrás\npor cada ataque de la unidad.\n(Solo se aplica el valor más alto. No acumulable.)
 MSID_H_ゲイルスケグル: Otorga Def + 3. Los aliados en un radio de\ndos casillas que usen espada, lanza, hacha,\narco o daga obtienen Ata y Vel + 3 en combate.
 MSID_H_ウルヴァン: Facilita la ejecución de habilidades especiales:\n- 1 a la cuenta atrás. Si la unidad recibe ataques\nconsecutivos, a partir del segundo el daño se\nreduce en un 80 %.
 MSID_H_ミュルグレ: Eficaz contra unidades aéreas. Otorga Vel + 3.\nSi el enemigo usa grimorios, las bonificaciones de\nsus habilidades (p. ej. Potenciar, Impulso, etc.)\nse anulan durante los ataques.
 MSID_H_金剛の構え1: Si el rival inicia el ataque, la unidad\nobtiene Def + 2 durante el enfrentamiento.
 MSID_H_金剛の構え2: Si el rival inicia el ataque, la unidad\nobtiene Def + 4 durante el enfrentamiento.
 MSID_H_金剛の呼吸: Si el rival inicia el ataque, la unidad obtiene\nDef + 4 y -1 a la cuenta atrás por cada ataque.\n(Solo se aplica el valor más alto. No acumulable.)
-MSID_H_飛燕金剛の一撃1: Si el rival inicia el ataque, la unidad\nobtiene Vel y Def + 2 durante el enfrentamiento.
-MSID_H_飛燕金剛の一撃2: Si el rival inicia el ataque, la unidad\nobtiene Vel y Def + 4 durante el enfrentamiento.
+MSID_H_飛燕金剛の一撃1: Si la unidad inicia el ataque, obtiene\nVel y Def + 2 durante el enfrentamiento.
+MSID_H_飛燕金剛の一撃2: Si la unidad inicia el ataque, obtiene\nVel y Def + 4 durante el enfrentamiento.
 MSID_H_ベオクの加護: Si el enemigo es una unidad aérea o de\ncaballería, sus bonificaciones de habilidades\n(p. ej. Potenciar, Impulso, etc.) se anulan\ndurante el ataque. (No se puede legar.)
 MSID_H_サカの加護: Si el rival usa espada, lanza o hacha,\nno puede contratacar. (No se puede legar.)
 MSID_H_速さの大紋章1: Otorga Vel + 2 en combate a los aliados\nen un radio de dos casillas.
@@ -4155,8 +4155,8 @@ MPID_VOICE_ルーテ: Brina Palencia
 MPID_VOICE_ワユ: Lani Minella
 MPID_ILLUST_ドルカス: Soeda Ippei (添田一平)
 MPID_ILLUST_ヨシュア: Fujiwara Ryo (冨士原良)
-MPID_ILLUST_ルーテ: 瀬尾公治
-MPID_ILLUST_ワユ: 米山舞
+MPID_ILLUST_ルーテ: Seo Kouji (瀬尾公治)
+MPID_ILLUST_ワユ: Yoneyama Mai (米山舞)
 MSID_気鋭ワユの剣: Hoja resoluta
 MSID_氷剣アウドムラ: Audhulma
 MSID_剛斧トマホーク: Gran tomahawk

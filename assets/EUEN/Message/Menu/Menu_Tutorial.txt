@@ -139,7 +139,7 @@ MID_CONFIG_BATTLE_ENEMY_BGM: Enemy Music
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_SIMPLE: Simple
 MID_CONFIG_SHOW_MAP_COMMAND_GUIDE_RICH: Guided
 MID_CONFIG_BATTLE_BGM: Battle Music
-MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Special Music Only
+MID_CONFIG_BATTLE_BGM_ONLY_SPECIAL: Special Only
 MID_TITLE_ASK_NAME: Enter a nickname.
 MID_TITLE_ASK_NAME_CAPTION: Enter a nickname.
 MID_TITLE_ASK_NAME_INFO: Names must be 12 characters or fewer.\nYou can change your name later. You\ncannot use some special symbols.
@@ -344,7 +344,7 @@ MID_MISSION_PROGRESS_DIALOG_TITLE: Quest Progress
 MID_MISSION_PROGRESS_DIALOG_TITLE_ACHIEVED: Quest Cleared!
 MID_MISSION_PROGRESS_DIALOG_PROGRESS: $a$a0/$a2 → $a1/$a2
 MID_MISSION_PROGRESS_DIALOG_PROGRESS_HELP: $aComplete $a0 more time(s) for reward.
-MID_MISSION_PROGRESS_DIALOG_ACHIEVED_HELP: Claim your reward from\nthe mission list.
+MID_MISSION_PROGRESS_DIALOG_ACHIEVED_HELP: Claim your reward from\nthe quest list.
 MID_MOVIE_SKIP: Skip this movie?
 MID_MOVIE_SKIP_BUTTON: Skip
 MID_SHOP: Shop
@@ -590,7 +590,7 @@ MID_UNIT_EDIT_LEVEL_UP_HELP_DIALOG_03: Using Shards and Crystals:\nShards are ne
 MID_UNIT_EDIT_SELL_HELP_DIALOG_00: Convert Heroes into Hero Feathers!
 MID_UNIT_EDIT_SELL_HELP_DIALOG_01: Sending Allies Home:\nYou can get Hero Feathers in\nexchange for allies you send\nback to their worlds. You will\nlose these allies permanently.
 MID_UNIT_EDIT_SELL_HELP_DIALOG_02: Favoriting Allies:\nIf you favorite an ally, you cannot\nsend the ally home or use it in\nany way that results in your\nlosing the ally permanently.
-MID_UNIT_EDIT_SELL_HELP_DIALOG_03: How to Favorite an Ally:\nTo favorite an ally, tap on the\nheart mark in the upper left of\nits ally profile. Tap again to\nremove it.
+MID_UNIT_EDIT_SELL_HELP_DIALOG_03: How to Favorite an Ally:\nTo favorite an ally, tap on the\nheart mark in the upper left of\nits ally profile then select the\npreferred heart color. Tap\nRemove to remove it.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_00: Unlock potential to increase ★!
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_01: Unlocking Ally Potential:\nIf you raise an ally's ★ rating, you'll\nunlock more of its potential. The\nally must be level 20 or higher.\nYou'll need specific items.\n\nIts level will return to 1, but at a\nhigher ★ rating, it will have raised\nstats and access to stronger skills.
 MID_UNIT_EDIT_PROMOTION_HELP_DIALOG_02: 1★ to 3★ Allies:\nTo raise the ★ rating of these\nallies, you'll need Hero Feathers\n(which you can get in many ways,\nincluding from Arena battles)\nand Badges (which you can get\nin the Training Tower).
@@ -607,6 +607,12 @@ MID_UNIT_EDIT_FAVORITE_TYPE: $aFavorite $a0
 MID_UNIT_EDIT_FAVORITE_NONE: Remove
 MID_UNIT_EDIT_FAVORITE_FILTER: Allies with the favorite mark you\nselect will show up first. You can\nmark allies as favorites on their\nprofile screens.
 MID_UNIT_EDIT_FAVORITE_FILTER_UNSET: Clear
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT: Edit Favorite Name
+MID_UNIT_EDIT_FAVORITE_NAME_EDIT_SELECT: Select the favorite mark that you\nwould like to rename.
+MID_UNIT_EDIT_FAVORITE_NAME_PLACE_HOLDER: Enter a name.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK: Enter a name for this favorite.
+MID_UNIT_EDIT_FAVORITE_NAME_WARNING: The name you choose will be applied to\nall allies using this favorite.
+MID_UNIT_EDIT_FAVORITE_NAME_ASK_INFO: Choose a name of 9 or fewer characters.\nSome symbols cannot be used.
 MID_UNIT_INFO_EXP_MAX: MAX
 MID_UNIT_INFO_TO_TALK: Tap!
 MID_UNIT_INFO_NOW_TALK: Speaking

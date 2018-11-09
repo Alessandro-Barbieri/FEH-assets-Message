@@ -1,0 +1,38 @@
+[Heroes Archive] (SMIA)
+
+
+Heroes Message Name: Message
+
+
+MID_SMIA_HOME1: Haben die Wächter von Askr einen\nPegasus-Stall? Ich würde mich gern\nmit dir um die Pegasi kümmern.$k$pDas ist eines der wenigen Dinge,\ndie ich gut kann.
+MID_SMIA_HOME2: Ich gehöre zu den Hirten von Mylord\nChrom.$k$pIch war eine Rekrutin, aber als ich\nmeinen Pegasus fand, wurde aus\nmir eine viel bessere Kämpferin.
+MID_SMIA_HOME3: Danke, dass du deinen Rundgang\nmachst. Aber pass bitte auf, wo du\nhinläufst.$k$pIch bin gerade hier in der Nähe\ngestolpert...
+MID_SMIA_HOME4: Soll ich für dich mein Blumenorakel\nbefragen? Keine Sorge, du musst\ndich nicht vor der Zukunft fürchten.$k$pSchlechte Vorhersagen bedeuten nur,\ndass man sich besonders anstrengen\nmuss, damit sie nicht eintreten.
+MID_SMIA_HOME5: Ich lese momentan den zweiten Band\nvon "Die Wahnsinnsgeschichten des\nverrückten Falkenritters".$k$pEs ist eines meiner Lieblingsbücher.\nWenn du willst, kann ich dir den\nersten Band ausleihen.
+MID_SMIA_FRIEND: Hallo! Ich bin gekommen, um\ndich recht herzlich von\n$Nf zu grüßen.$k$pEs hat mir nichts ausgemacht, hier\nzu warten. Ich habe mit den Helden\nBlumen gelegt.
+MID_SMIA_LEVEL1: Das macht mich so froh. Ich werde\nmich noch mehr anstrengen!
+MID_SMIA_LEVEL2: Wurde aber auch Zeit,\ndass ich vorankomme.
+MID_SMIA_LEVEL3: Oh, ich mach aber auch\ngar nichts richtig!
+MID_SMIA_SKILL: Ich hoffe, du machst dir\nmeinetwegen keine Umstände.
+MID_SMIA_JOIN: Ich bin Sumia von Chroms Hirten.\nIch bin etwas tollpatschig, aber ich\nwerde versuchen, behilflich zu sein!
+MID_SMIA_STRONGEST: Ich kann es, ich kann es nicht...\nIch kann es, ich ka-- Oh, hallo,\n$Nu.$k$pIch befrage gerade mein Blumen-\norakel, um herauszufinden, ob ich\neine richtige Heldin werden kann.$k$pGemeinsam mit dir zu kämpfen,\nhat den Ehrgeiz in mir geweckt.$k$pIch habe mir vorgenommen, nicht\nfür immer tollpatschig zu bleiben,\nsondern stärker zu werden.$k$pIch will eine Heldin werden, die\nzu Recht an deiner Seite kämpft.\nAber ich bin noch etwas unsicher...$k$pAlso dachte ich, ich befrage einfach\ndie Blumen. Ich kann es nicht, ich\nkann es... Ich kann nicht... Ich kann!$k$pWas für ein Glück! Die Blume sagt,\ndass ich es schaffen kann! Jetzt\nmuss ich es nur noch beweisen.$k$pSo ein Blumenorakel kann wirklich\neine beflügelnde Wirkung haben! Ich\nwerde zu deinen stärksten Flügeln.
+MID_SMIA_VOICE01: はい！
+MID_SMIA_VOICE02: えい！
+MID_SMIA_VOICE03: ひゃあっ！
+MID_SMIA_VOICE04: Not again...
+MID_SMIA_VOICE05: Es reicht!
+MID_SMIA_VOICE06: Aufgepasst!
+MID_SMIA_VOICE07: Ich bin dran!
+MID_SMIA_VOICE08: Ich gebe nicht auf!
+MID_SMIA_VOICE09: I'm sorry...
+MID_SMIA_VOICE10: Hi!
+MID_SMIA_VOICE11: Faring well?
+MID_SMIA_VOICE12: I'm sorry.  I try my best, but I'm pretty sure I'll always be clumsy.
+MID_SMIA_VOICE13: My pegusus is such a good girl! Yes she is!
+MID_SMIA_VOICE14: I just love how there are so many different kinds of flowers here... Even some I've never seen before!
+MID_SMIA_VOICE15: He loves me... He loves me not. He loves me... Oh! I was just doing flower fortunes.
+MID_SMIA_VOICE16: I need to train harder. It's not like I don't have potential...
+MID_SMIA_VOICE17: The fact that you believe in me... It makes me happier than words can express.
+MID_SMIA_VOICE18: Yes
+MID_SMIA_VOICE19: Here goes...
+MID_SMIA_VOICE20: I'm with you!

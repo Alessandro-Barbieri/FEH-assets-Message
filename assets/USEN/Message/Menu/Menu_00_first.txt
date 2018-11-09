@@ -458,7 +458,7 @@ MID_UNIT_EDIT_TROOP_INDEX: $aTeam $a0
 MID_UNIT_EDIT_TROOP_NAME_EDIT: Edit Team Name
 MID_UNIT_EDIT_TROOP_NAME_PLACE_HOLDER: Enter Team Name
 MID_UNIT_EDIT_TROOP_NAME_ASK: Please enter a name for this team.
-MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: Please choose a name 12 characters or less.\nNote that some symbols cannot be used.
+MID_UNIT_EDIT_TROOP_NAME_ASK_INFO: Choose a name of 12 or fewer characters.\nSome symbols cannot be used.
 MID_UNIT_EDIT_TROOP_SET_DEFENSE: Set Defensive Team
 MID_UNIT_EDIT_TROOP_NAME_EMPTY: ----------
 MID_UNIT_EDIT_ORGANIZE_HELP_DIALOG_04_701: Edit Team Name:\nUsing this option, you can name\nyour teams.\n\nSet Defensive Team:\nYou can set which team will\ndefend in the Arena. The team\nwill be marked by a shield icon.

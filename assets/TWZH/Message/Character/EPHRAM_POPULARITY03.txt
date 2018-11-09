@@ -1,0 +1,38 @@
+[Heroes Archive] (EPHRAM_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_EPHRAM_POPULARITY03_HOME1: 雖然身在一個全然未知的世界，\n但不可思議地一點也不覺得緊張。\n大概是因為感受到大家在呼喚我的緣故吧。
+MID_EPHRAM_POPULARITY03_HOME2: 父親大人是被譽為【勇王】的男人。\n以前我常常開玩笑，\n說父親大人可能會活得比我還久呢……
+MID_EPHRAM_POPULARITY03_HOME3: $Nu，怎麼了？\n你這樣有辦法踏上戰場嗎？\n身為一名將領體力也是必備的。
+MID_EPHRAM_POPULARITY03_HOME4: 我剛剛在看天上的星星。\n雖然我完全不懂這個世界的星圖，\n但星星的光輝依然很美麗呢。
+MID_EPHRAM_POPULARITY03_HOME5: 平常覺得艾莉可待在我身邊是理所當然的，\n現在這樣分離兩地讓我很掛心，\n真傷腦筋……不過只要她平安無事就好了。
+MID_EPHRAM_POPULARITY03_FRIEND: 我是艾夫拉姆。$Nf\n說你是個不錯的對手，\n要不要跟我比劃一下啊？
+MID_EPHRAM_POPULARITY03_LEVEL1: 不管是劍還是槍……\n我都會用這把斧將它們全部打倒。
+MID_EPHRAM_POPULARITY03_LEVEL2: 斧也挺不錯的，\n我的戰鬥手段又更多了。
+MID_EPHRAM_POPULARITY03_LEVEL3: ……身處逆境啊……\n不過這樣才有挑戰的價值。
+MID_EPHRAM_POPULARITY03_SKILL: 這就是新的力量啊……\n感覺不錯呢！
+MID_EPHRAM_POPULARITY03_JOIN: 我是路奈斯王國的王子艾夫拉姆。\n我會代替死於非命的父親琺竇，\n守護所有的人民。
+MID_EPHRAM_POPULARITY03_STRONGEST: 父親大人喪命、喪失了祖國……\n當一切崩毀後，\n我下定決心代替父親大人守護國家。$k$p但是當父親大人還在世時……\n我從沒想過這件事。$k$p「王位讓艾莉可繼承就好，\n我要精進槍術，成為傭兵……」\n我說的這些話，讓父親大人十分失望。$k$p要是父親大人見到現在的我……\n他會說些什麼呢？\n他會為此感到開心嗎……？$k$p不，他應該會訓斥我，\n說我還不夠成熟吧。\n一點也沒錯。$k$p我希望自己能成為更好的國王，\n這也是為了不讓父親大人再次失望。
+MID_EPHRAM_POPULARITY03_VOICE01: 嘿！
+MID_EPHRAM_POPULARITY03_VOICE02: 我要上了！
+MID_EPHRAM_POPULARITY03_VOICE03: 嗚啊～！
+MID_EPHRAM_POPULARITY03_VOICE04: 我的盔甲……！
+MID_EPHRAM_POPULARITY03_VOICE05: 勇往直前……
+MID_EPHRAM_POPULARITY03_VOICE06: 做好覺悟了嗎？
+MID_EPHRAM_POPULARITY03_VOICE07: 沒時間陪你玩了！
+MID_EPHRAM_POPULARITY03_VOICE08: 加姆！
+MID_EPHRAM_POPULARITY03_VOICE09: 父上……
+MID_EPHRAM_POPULARITY03_VOICE10: ふっ
+MID_EPHRAM_POPULARITY03_VOICE11: この格好か？　ルネス王国の甲冑だ。ああ、なかなかに重い…
+MID_EPHRAM_POPULARITY03_VOICE12: 俺の父はルネス王ファード。「勇王」と讃えられる勇ましい王だった。
+MID_EPHRAM_POPULARITY03_VOICE13: 国はエイリークに任せて、俺は大陸一の傭兵を目指す…昔は、そう言っていたな。
+MID_EPHRAM_POPULARITY03_VOICE14: この斧はガルム。リオンの祖国の武器だ…
+MID_EPHRAM_POPULARITY03_VOICE15: 父上は強かった。あの父上が敗れるなど、考えたこともなかった…
+MID_EPHRAM_POPULARITY03_VOICE16: 父上を殺したのは…リオン…俺の親友だ…
+MID_EPHRAM_POPULARITY03_VOICE17: お前を守らせてくれ。俺は、お前を失いたくない。
+MID_EPHRAM_POPULARITY03_VOICE18: そうだな
+MID_EPHRAM_POPULARITY03_VOICE19: どう攻める？
+MID_EPHRAM_POPULARITY03_VOICE20: 進むだけだ。

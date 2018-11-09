@@ -1,0 +1,101 @@
+[Heroes Archive] (Data_58_popularity03)
+
+
+Heroes Message Name: Message
+
+
+MDAID_重騎士の兜: Armored Helmet
+MDAID_H_重騎士の兜: This helmet from Hector was forged in\nOstia. It's pretty heavy, but nothing an\narmored knight can't handle.
+MDAID_重騎士の兜・極: Armored Helmet EX
+MDAID_H_重騎士の兜・極: The extravagant design of this Ostian\nhelmet contrasts with its battle marks\nto paint a vivid picture of its history.
+MDAID_勇王の兜: Restoration Helm
+MDAID_H_勇王の兜: The Restoration King's helmet, gifted\nby Ephraim. Forged in Renais, it's\nvery solid but surprisingly light.
+MDAID_勇王の兜・極: Restoration Helm EX
+MDAID_H_勇王の兜・極: The Restoration King's many victories\nare recounted in the dents and dings\nthat adorn this helmet.
+MDAID_王女の髪飾り: Princess's Diadem
+MDAID_H_王女の髪飾り: This diadem from Celica was largely\nfavored during the age of priestesses.\nIt's of an extremely dainty make.
+MDAID_王女の髪飾り・極: Princess's Diadem EX
+MDAID_H_王女の髪飾り・極: This was one of Celica's favorites in\nher younger days. Its well-worn look is\ntestament to how treasured it was.
+MDAID_皇女の頭飾り: Imperial Tiara
+MDAID_H_皇女の頭飾り: This imperial headpiece from Veronica\nwas forged in the Emblian Empire. It's\na bit large but is actually quite light.
+MDAID_皇女の頭飾り・極: Imperial Tiara EX
+MDAID_H_皇女の頭飾り・極: An imperial headpiece from Veronica,\nforged in the Emblian Empire. Passed\ndown by imperial princesses for ages.
+MID_MISSION_S201808STORY02_TITLE: Arrival of the Brave
+MID_MISSION_S201808STORY02_A1: Clear P24-1 on Lunatic
+MID_MISSION_H_S201808STORY02_A1: Clear Paralogue 24: Part 1 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808STORY02_A2: Clear P24-2 on Lunatic
+MID_MISSION_H_S201808STORY02_A2: Clear Paralogue 24: Part 2 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MID_MISSION_S201808STORY02_A3: Clear P24-3 on Lunatic
+MID_MISSION_H_S201808STORY02_A3: Clear Paralogue 24: Part 3 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MPID_総選挙セリカ: Celica
+MPID_総選挙ヴェロニカ: Veronica
+MPID_総選挙ヘクトル: Hector
+MPID_総選挙エフラム: Ephraim
+MPID_HONOR_総選挙セリカ: Warrior Priestess
+MPID_HONOR_総選挙ヴェロニカ: Brave Princess
+MPID_HONOR_総選挙ヘクトル: Brave Warrior
+MPID_HONOR_総選挙エフラム: Sacred Twin Lord
+MPID_H_総選挙セリカ: Princess of Zofia and warrior priestess in\nservice of the goddess Mila. Summoned\nwhile wielding a royal sword entrusted to\nher by Alm the Hero. Appears in Fire\nEmblem Echoes: Shadows of Valentia.
+MPID_H_総選挙ヴェロニカ: Imperial princess of the Emblian Empire.\nShe is seeking the whereabouts of her\nmissing beloved brother, Bruno.
+MPID_H_総選挙ヘクトル: Inherited the title of Marquess Ostia after\nthe sudden death of his elder brother. Here an\narmored knight, he wields the lance of one of\nthe Eight Legends. Appears in Fire Emblem:\nThe Blazing Blade.
+MPID_H_総選挙エフラム: Prince of Renais who protects his kingdom in\nplace of his deceased father, King Fado. He's\ntaken to using one of the Sacred Twins relics\nfrom Grado—the black axe Garm. Appears in\nFire Emblem: The Sacred Stones.
+MPID_VOICE_総選挙セリカ: Erica Lindbeck
+MPID_VOICE_総選挙ヴェロニカ: Wendee Lee
+MPID_VOICE_総選挙ヘクトル: Patrick Seitz
+MPID_VOICE_総選挙エフラム: Greg Chun
+MPID_ILLUST_総選挙セリカ: Hidari (左)
+MPID_ILLUST_総選挙ヴェロニカ: Kozaki Yusuke (コザキユースケ)
+MPID_ILLUST_総選挙ヘクトル: Kita Senri (北千里)
+MPID_ILLUST_総選挙エフラム: Wada Sachiko (ワダサチコ)
+MSID_王家の剣: Royal Sword
+MSID_マルテ: Maltet
+MSID_ガルム: Garm
+MSID_フリズスキャルヴ: Hliðskjálf
+MSID_業火疾風の祝福: Windfire Balm
+MSID_業火疾風の祝福＋: Windfire Balm+
+MSID_オスティアの反撃: Ostian Counter
+MSID_鬼神の一撃4: Death Blow 4
+MSID_獅子連斬: Double Lion
+MSID_奥義隊形1: Special Fighter 1
+MSID_奥義隊形2: Special Fighter 2
+MSID_奥義隊形3: Special Fighter 3
+MSID_魔防の波・偶数1: Even Res Wave 1
+MSID_魔防の波・偶数2: Even Res Wave 2
+MSID_魔防の波・偶数3: Even Res Wave 3
+MSID_近距離警戒1: Close Guard
+MSID_近距離警戒2: Close Guard 2
+MSID_近距離警戒3: Close Guard 3
+MSID_H_王家の剣: Grants Spd+3. If unit is within 2 spaces of an\nally, grants unit Special cooldown charge +1\nper unit's attack. (Only highest value applied.\nDoes not stack.)
+MSID_H_マルテ: Accelerates Special trigger (cooldown\ncount-1). If unit's HP ≥ 50% and foe initiates\ncombat, unit makes a guaranteed follow-up\nattack.
+MSID_H_ガルム: Grants Atk+3. If a bonus granted by a skill like\nRally or Hone and/or extra movement granted\nby a skill like Armor March or Armored Boots is\nactive, unit makes a guaranteed follow-up\nattack.
+MSID_H_フリズスキャルヴ: Foe cannot counterattack. After combat, if unit\nattacked, inflicts Atk/Spd/Def/Res-4 on target\nand foes within 2 spaces of target through their\nnext actions, and grants Atk/Spd/Def/Res+4 to\nunit and allies within 2 spaces for 1 turn.
+MSID_H_業火疾風の祝福: When healing an ally with a staff, grants\nAtk/Spd+4 to all allies for 1 turn.
+MSID_H_業火疾風の祝福＋: When healing an ally with a staff, grants\nAtk/Spd+6 to all allies for 1 turn.
+MSID_H_オスティアの反撃: Unit can counterattack regardless of foe's\nrange. If foe initiates combat, grants Atk/Def+4\nduring combat.
+MSID_H_鬼神の一撃4: If unit initiates combat, grants Atk+8 during\ncombat.
+MSID_H_獅子連斬: If unit's HP = 100% at start of combat and\nunit initiates combat, unit attacks twice, but\ndeals 1 damage to unit after combat. (Does\nnot stack.)
+MSID_H_奥義隊形1: At start of combat, if unit's HP ≥ 90%, grants\nSpecial cooldown charge +1 to unit and inflicts\nSpecial cooldown charge -1 on foe per attack.\n(Only highest value applied. Does not stack.)
+MSID_H_奥義隊形2: At start of combat, if unit's HP ≥ 70%, grants\nSpecial cooldown charge +1 to unit and inflicts\nSpecial cooldown charge -1 on foe per attack.\n(Only highest value applied. Does not stack.)
+MSID_H_奥義隊形3: At start of combat, if unit's HP ≥ 50%, grants\nSpecial cooldown charge +1 to unit and inflicts\nSpecial cooldown charge -1 on foe per attack.\n(Only highest value applied. Does not stack.)
+MSID_H_魔防の波・偶数1: At start of even-numbered turns, grants Res+2\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_魔防の波・偶数2: At start of even-numbered turns, grants Res+4\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_魔防の波・偶数3: At start of even-numbered turns, grants Res+6\nto unit and adjacent allies for 1 turn. (Bonus\ngranted to unit even if no allies are adjacent.)
+MSID_H_近距離警戒1: Allies within 2 spaces gain: "If foe uses sword,\nlance, axe, or dragonstone, grants Def/Res+2\nduring combat."
+MSID_H_近距離警戒2: Allies within 2 spaces gain: "If foe uses sword,\nlance, axe, or dragonstone, grants Def/Res+3\nduring combat."
+MSID_H_近距離警戒3: Allies within 2 spaces gain: "If foe uses sword,\nlance, axe, or dragonstone, grants Def/Res+4\nduring combat."
+MID_CHAPTER_TITLE_CX023: Paralogue 24
+MID_CHAPTER_CX023: Arrival of the Brave
+MID_STAGE_TITLE_X0231: Paralogue 24-1
+MID_STAGE_TITLE_X0232: Paralogue 24-2
+MID_STAGE_TITLE_X0233: Paralogue 24-3
+MID_STAGE_X0231: Princesses in Contrast
+MID_STAGE_X0232: Lords in Accord
+MID_STAGE_X0233: The Princess's Request
+MID_CHAPTER_ST_CX012: P. 23 & 24
+MID_STAGE_TITLE_ST_X0022: Paralogue 23
+MID_STAGE_TITLE_ST_X0023: Paralogue 24
+MID_STAGE_TITLE_ST_X1023: P. 23 & 24
+MID_STAGE_TITLE_PB023: Skill Studies 23
+MID_STAGE_PB023: Brave Hector and Ephraim
+MID_STAGE_TITLE_PB024: Skill Studies 24
+MID_STAGE_PB024: Brave Celica and Veronica

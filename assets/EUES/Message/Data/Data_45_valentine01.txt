@@ -241,7 +241,7 @@ MSID_H_ファルシオン覚醒改: Eficaz contra dragones. La unidad\nrecupera 
 MSID_H_ファルシオン外伝改: Eficaz contra dragones. La unidad\nrecupera 10 PV cada dos turnos.
 MSID_H_エッケザックス改: Al inicio del turno, Def - 6 a los enemigos\nsituados en un radio de dos casillas en su\npróxima acción. No afecta a dragones.
 MSID_H_先導R歩行飛行: Los aliados aéreos y de infantería\nen un radio de dos casillas podrán moverse\na una casilla adyacente a la de la unidad.
-MSID_H_TP変動R魔: Si el enemigo usa grimorio, - 1 a la cuenta\natrás. (Solo se aplica el valor más alto.\nNo acumulable.)
+MSID_H_TP変動R魔: Si el enemigo usa magia,\n- 1 a la cuenta atrás por cada ataque.\n(Solo se aplica el valor más alto. No acumulable.)
 MSID_H_大紋章R全2: Otorga Ata, Vel, Def y Res + 2 en combate\na los aliados en un radio de dos casillas.
 MSID_H_絆R全4: Si hay un aliado en una casilla\nadyacente, otorga a la unidad\nAta, Vel, Def y Res + 4 en combate.
 MSID_H_連撃消耗: Si la unidad inicia un ataque con el 100 %\nde PV, ataca dos veces y sufre 5 de daño\ntras el ataque.

@@ -1,0 +1,108 @@
+[Heroes Archive] (Data_62_popularity04)
+
+
+Heroes Message Name: Message
+
+
+MDAID_ペレジアの冠: Plegian Crown
+MDAID_H_ペレジアの冠: A crown said to be worn by members\nof the Grimleal. Aversa had it in her\npossession.
+MDAID_ペレジアの冠・極: Plegian Crown EX
+MDAID_H_ペレジアの冠・極: An impressive crown made of pure\ngold. Aversa had it in her possession.
+MDAID_軍師の帽子: Tactician's Hat
+MDAID_H_軍師の帽子: Those who wear this hat gain an air\nthat lulls companions into following\ntheir orders. It's Loki's.
+MDAID_軍師の帽子・極: Tactician's Hat EX
+MDAID_H_軍師の帽子・極: Those who wear this hat seem to find\neveryone bending to their whims. It's\nLoki's.
+MDAID_探検帽: Explorer's Hat
+MDAID_H_探検帽: Kliff got this hat in preparation for his\njourneys into unknown realms.
+MDAID_探検帽・極: Explorer's Hat EX
+MDAID_H_探検帽・極: When Kliff was but a boy, his father\nfound this hat in a far-off land during\nhis travels.
+MDAID_ダークネスウィング: Wings of Darkness
+MDAID_H_ダークネスウィング: Wings held by Owain. He says they\nhave a unique power useful for\nfighting the darkness.
+MDAID_ダークネスウィング・極: Wings of Darkness EX
+MDAID_H_ダークネスウィング・極: Wings held by Owain. He says that\nsacred powers changed them to the\npurest white.
+MID_MISSION_S201810BLESS01_TITLE: Water Blessing
+MID_MISSION_S201810BLESS01_A1: KO w/Water Blessed Hero
+MID_MISSION_H_S201810BLESS01_A1: Defeat a foe using a Hero that has the Water\nBlessing conferred on them. (Note: This is not a\nwater-type Legendary Hero.)
+MID_MISSION_S201810BLESS01_A2: KO w/Water Blessed Hero
+MID_MISSION_H_S201810BLESS01_A2: Defeat a foe that is level 20 or higher using a\nHero that has the Water Blessing conferred on\nthem. (Note: This is not a water-type\nLegendary Hero.)
+MID_MISSION_S201810BLESS01_A3: KO w/Water Blessed Hero
+MID_MISSION_H_S201810BLESS01_A3: Defeat a red foe that is level 35 or higher using\na Hero that has the Water Blessing conferred\non them. (Note: This is not a water-type\nLegendary Hero.)
+MID_MISSION_S201810BLESS01_A4: KO w/Water Blessed Hero
+MID_MISSION_H_S201810BLESS01_A4: Defeat a blue foe that is level 35 or higher\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201810BLESS01_A5: KO w/Water Blessed Hero
+MID_MISSION_H_S201810BLESS01_A5: Defeat a green foe that is level 35 or higher\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201810BLESS01_A6: Tower: 1st Stratum
+MID_MISSION_H_S201810BLESS01_A6: Clear the First Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201810BLESS01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201810BLESS01_A7: Clear the Fifth Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201810BLESS01_A8: Tower: 10th Stratum
+MID_MISSION_H_S201810BLESS01_A8: Clear the Tenth Stratum of the Training Tower\nusing a Hero that has the Water Blessing\nconferred on them. (Note: This is not a water-\ntype Legendary Hero.)
+MID_MISSION_S201810STORY02_TITLE: Brave Redux
+MID_MISSION_S201810STORY02_A1: Clear P26-1 on Lunatic
+MID_MISSION_H_S201810STORY02_A1: Clear Paralogue 26: Part 1 on Lunatic difficulty\nwith an axe ally on your team. All four allies\nmust survive.
+MID_MISSION_S201810STORY02_A2: Clear P26-2 on Lunatic
+MID_MISSION_H_S201810STORY02_A2: Clear Paralogue 26: Part 2 on Lunatic difficulty\nwith a sword ally on your team. All four allies\nmust survive.
+MID_MISSION_S201810STORY02_A3: Clear P26-3 on Lunatic
+MID_MISSION_H_S201810STORY02_A3: Clear Paralogue 26: Part 3 on Lunatic difficulty\nwith a lance ally on your team. All four allies\nmust survive.
+MPID_ウード: Owain
+MPID_インバース: Aversa
+MPID_ロキ味方: Loki
+MPID_クリフ: Kliff
+MPID_HONOR_ウード: Chosen One
+MPID_HONOR_インバース: Dark One
+MPID_HONOR_ロキ味方: The Trickster
+MPID_HONOR_クリフ: Curious Spirit
+MPID_H_ウード: Lissa's son who tends to be overly theatrical.\nHe loves to give weapons dramatic names.\nAppears in Fire Emblem Awakening.
+MPID_H_インバース: A wily mage who serves Gangrel of Plegia.\nExcels at using her charms to disarm and then\ndestroy her foes. Appears in Fire Emblem\nAwakening.
+MPID_H_ロキ味方: Strategist for Múspell, the Kingdom of Flame.\nLikes to play tricks and manipulate people.
+MPID_H_クリフ: Alm's childhood friend from Ram Village. Loves\nlearning and hungers to see more of the world.\nAppears in Fire Emblem Echoes: Shadows of\nValentia.
+MPID_VOICE_ウード: Kaiji Tang
+MPID_VOICE_インバース: Cindy Robinson
+MPID_VOICE_ロキ味方: Erika Ishii
+MPID_VOICE_クリフ: Christopher Patton
+MPID_ILLUST_ウード: Suekane Kumiko (スエカネクミコ)
+MPID_ILLUST_インバース: PenekoR (п猫Ｒ)
+MPID_ILLUST_ロキ味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_クリフ: Tobi
+MSID_ミステルトィン: Missiletainn
+MSID_インバースの暗闇: Aversa's Night
+MSID_アロー: Sagittae
+MSID_ブルーフレイム: Blue Flame
+MSID_大地静水の祝福: Earthwater Balm
+MSID_大地静水の祝福＋: Earthwater Balm+
+MSID_守備魔防の城塞1: Fort. Def/Res 1
+MSID_守備魔防の城塞2: Fort. Def/Res 2
+MSID_守備魔防の城塞3: Fort. Def/Res 3
+MSID_無の死闘・歩行1: C Duel Infantry 1
+MSID_無の死闘・歩行2: C Duel Infantry 2
+MSID_無の死闘・歩行3: C Duel Infantry 3
+MSID_H_ミステルトィン: Accelerates Special trigger (cooldown count-1).\nGrants Special cooldown charge +1 per foe's\nattack during combat. (Only highest value\napplied. Does not stack. Special cooldown\ncharge granted even if foe’s attack deals 0\ndamage.)
+MSID_H_インバースの暗闇: Grants Res+3. At start of turn, if any foe's HP ≤\nunit’s HP-3 and that foe is adjacent to another\nfoe, inflicts Atk/Spd/Def/Res-3 on that foe and\nbonuses on that foe become penalties through\nits next action.
+MSID_H_アロー: Grants Def+3. At start of combat, if foe's Atk ≥\nunit's Atk+5, grants Atk/Spd/Def/Res+5 during\ncombat.
+MSID_H_ブルーフレイム: Boosts damage by 10. If unit is adjacent to an\nally, boosts damage by 25 instead.
+MSID_H_大地静水の祝福: When healing an ally with a staff, grants\nDef/Res+4 to all allies for 1 turn.
+MSID_H_大地静水の祝福＋: When healing an ally with a staff, grants\nDef/Res+6 to all allies for 1 turn.
+MSID_H_守備魔防の城塞1: Grants Def/Res+3.\nInflicts Atk-3.
+MSID_H_守備魔防の城塞2: Grants Def/Res+4.\nInflicts Atk-3.
+MSID_H_守備魔防の城塞3: Grants Def/Res+6.\nInflicts Atk-2.
+MSID_H_無の死闘・歩行1: Grants HP+3. If unit is 5★ and level 40 and\nunit's stats total less than 160, treats unit's\nstats as 160 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_無の死闘・歩行2: Grants HP+4. If unit is 5★ and level 40 and\nunit's stats total less than 165, treats unit's\nstats as 165 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MSID_H_無の死闘・歩行3: Grants HP+5. If unit is 5★ and level 40 and\nunit's stats total less than 170, treats unit's\nstats as 170 in modes like Arena.\n(Higher-scoring opponents will appear.\nStat total calculation excludes any values\nadded by merges and skills.)
+MID_CHAPTER_TITLE_CX025: Paralogue 26
+MID_CHAPTER_CX025: Brave Redux
+MID_STAGE_TITLE_X0251: Paralogue 26-1
+MID_STAGE_TITLE_X0252: Paralogue 26-2
+MID_STAGE_TITLE_X0253: Paralogue 26-3
+MID_STAGE_X0251: Dark and Darker
+MID_STAGE_X0252: Cosmic and Earthly
+MID_STAGE_X0253: They Gather...
+MID_STAGE_HONOR_T0042: Dark One
+MID_STAGE_T0042: Aversa
+MID_STAGE_TITLE_ST_X0024: Paralogue 25
+MID_STAGE_TITLE_ST_X0025: Paralogue 26
+MID_STAGE_TITLE_ST_X1025: P. 25 & 26
+MID_CHAPTER_ST_CX013: P. 25 & 26
+MID_STAGE_TITLE_PB032: Skill Studies 32
+MID_STAGE_PB032: Missiletainn!
+MID_STAGE_TITLE_PC016: Grandmaster 16
+MID_STAGE_PC016: Guided by Guidance

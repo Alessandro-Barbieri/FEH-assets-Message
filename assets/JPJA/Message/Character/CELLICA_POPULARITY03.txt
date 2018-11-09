@@ -1,0 +1,38 @@
+[Heroes Archive] (CELLICA_POPULARITY03)
+
+
+Heroes Message Name: Message
+
+
+MID_CELLICA_POPULARITY03_HOME1: これは古い神官戦士の衣装なの。\nこの世界を救う戦いに\nふさわしいでしょう？
+MID_CELLICA_POPULARITY03_HOME2: 世界が平和でありますように、\n大切な人が無事でいますように……\nミラさまへのお祈りはかかさないわ。
+MID_CELLICA_POPULARITY03_HOME3: 幼なじみのアルムは勇敢だけど、\nとても優しいのよ。\nこの剣は彼から預かってきたの。
+MID_CELLICA_POPULARITY03_HOME4: 私、誰かに呼ばれた気がしたの。\nそれも一人じゃない、たくさんの……\nあれは何だったのかしら？
+MID_CELLICA_POPULARITY03_HOME5: お祈りも大事だけれど、神官戦士として\n剣の稽古も怠ってはいけないわね。\n誰か相手になってくれないかしら。
+MID_CELLICA_POPULARITY03_FRIEND: $Nfの代わりに\nあなたの様子を見に来たの。\n何も変わりはない？
+MID_CELLICA_POPULARITY03_LEVEL1: この力はきっと、私を信じてくれる人たちが\n与えてくれたのね……
+MID_CELLICA_POPULARITY03_LEVEL2: 順当な結果ね。\n悪くないんじゃないかしら。
+MID_CELLICA_POPULARITY03_LEVEL3: あら……残念だわ。\n調子が悪いのかしら。
+MID_CELLICA_POPULARITY03_SKILL: ありがとう。私を信じてくれるあなたに\nきっと報いてみせるわ。
+MID_CELLICA_POPULARITY03_JOIN: 私はセリカ。女神ミラさまの神官戦士よ。\n私を呼ぶ声が聞こえたのだけれど……\nあなたの声かしら？
+MID_CELLICA_POPULARITY03_STRONGEST: こんなことを言っていいかわからないけど\n私、本当は戦いが嫌いなの。\nできることなら誰も傷つけたくない。$k$pでも、大切な何かを守るためには\n戦わない訳にいかない……\n矛盾しているわ。そう思わない？$k$pえ？　私が優しい……？\nそんなことない。この間も大切な人を\n怒らせてしまったの。$k$p彼は戦うことに迷いがなくて……\n自分が傷つくことなんて考えていないの。\nあなたって、少し彼に似てるわね。$k$pだから守りたいって思うのかしら。\nあなたとなら、戦うことに\n何か答えが見つかる気がするわ。
+MID_CELLICA_POPULARITY03_VOICE01: はあっ！
+MID_CELLICA_POPULARITY03_VOICE02: これで…！
+MID_CELLICA_POPULARITY03_VOICE03: うあぁっ！
+MID_CELLICA_POPULARITY03_VOICE04: いけない…！
+MID_CELLICA_POPULARITY03_VOICE05: 私を信じて！
+MID_CELLICA_POPULARITY03_VOICE06: 思いを力に…
+MID_CELLICA_POPULARITY03_VOICE07: 負けないわ！
+MID_CELLICA_POPULARITY03_VOICE08: 力を貸して！
+MID_CELLICA_POPULARITY03_VOICE09: そんな…アルム……
+MID_CELLICA_POPULARITY03_VOICE10: うーん…
+MID_CELLICA_POPULARITY03_VOICE11: この衣装は昔の神官戦士のものなんですって。似合うかしら？
+MID_CELLICA_POPULARITY03_VOICE12: えっ…？　びっくりしたわ。いたずらが好きなの？　…実は私も。
+MID_CELLICA_POPULARITY03_VOICE13: 神官戦士は剣も魔法も身につけなければいけないの。ミラさまをお守りするためよ。
+MID_CELLICA_POPULARITY03_VOICE14: この剣は、王家の人間しか使えない不思議な剣なの。
+MID_CELLICA_POPULARITY03_VOICE15: どんなに離れていても、いつもアルムがそばにいるような気がするわ。
+MID_CELLICA_POPULARITY03_VOICE16: アルム…どこにいてもあなたを想っているわ。あなたもそうでしょう？
+MID_CELLICA_POPULARITY03_VOICE17: あなたはこの世界の希望よ。その光を消さないために…私があなたを守るわ。
+MID_CELLICA_POPULARITY03_VOICE18: 大丈夫よ。
+MID_CELLICA_POPULARITY03_VOICE19: えっと…
+MID_CELLICA_POPULARITY03_VOICE20: 道をひらくわ
