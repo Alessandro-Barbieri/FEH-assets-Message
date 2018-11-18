@@ -7,7 +7,7 @@ Heroes Message Name: Message
 MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRango $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aAscendiste desde $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: ¡Mantienes tu rango!
-MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDescendiste desde $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDescendiste a $a0
 MID_ARENA_DIALOG_HELP_07: -Bonif. por héroes de temporada-\nCuando derrotes a un enemigo\ncon un héroe de la temporada,\nganarás tres puntos adicionales.\n\n(A partir de la temporada que\nempieza tras el lanzamiento\nde la versión 2.8.0.).
 MID_ARENA_RANK21: Gran invocador
 MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Jardines

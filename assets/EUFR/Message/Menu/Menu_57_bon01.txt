@@ -7,7 +7,7 @@ Heroes Message Name: Message
 MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRang : $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromotion du $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rang conservé !
-MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRétrogradation du $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRétrogradation au $a0
 MID_ARENA_DIALOG_HELP_07: ◆ Bonus Appel aux armes ◆\nÀ chaque fois que vous battez un\nennemi avec un héros de l'Appel\naux armes, vous marquez trois\npoints supplémentaires.\n\n(Effectif à partir de la première\nsaison de la version 2.8.0.)
 MID_ARENA_RANK21: Grand invocateur
 MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Jardins

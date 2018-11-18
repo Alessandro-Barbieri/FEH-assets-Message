@@ -7,7 +7,7 @@ Heroes Message Name: Message
 MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aTier $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromoted from $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Tier maintained!
-MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDemoted from $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aDemoted to $a0
 MID_ARENA_DIALOG_HELP_07: Plus One for Bonus Heroes:\nWhenever you defeat a foe using\na bonus Hero, you will earn three\nextra points toward your score.\n\n(This goes into effect starting\nwith the season beginning\nafter ver. 2.8.0 is released.)
 MID_ARENA_RANK21: Great Summoner
 MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Gardens

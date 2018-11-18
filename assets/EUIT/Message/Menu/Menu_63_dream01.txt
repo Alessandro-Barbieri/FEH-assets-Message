@@ -330,7 +330,7 @@ MID_SCF_攻雷_HELP: $aPS -$a0 ai nemici posti sulla stessa colonna\ndella strut
 MID_SCF_攻軍師: Sala strategica (A)
 MID_SCF_攻軍師_HELP: $aSe un nemico ha PS pari o inferiori a $a0, è\nsulla stessa colonna della struttura e usa arco,\npugnale, magia o bastone all'inizio del turno,\npuò muoversi solo di 1 spazio durante la sua\nprossima azione.
 MID_SCF_攻回復: Torre lenitrice (A)
-MID_SCF_攻回復_HELP: $aRipristina $a0 PS agli alleati in un'area di\n5 righe e 3 colonne con al centro la struttura\nall'inizio del turno.
+MID_SCF_攻回復_HELP: $aRipristina $a0 PS agli alleati in un'area di\n3 righe e 5 colonne con al centro la struttura\nall'inizio del turno.
 MID_SCF_攻対歩行: Scuola fanteria (A)
 MID_SCF_攻対歩行_HELP: $aAtt/Vel/Dif/Res -$a0 ai nemici di fanteria\nposti sulla stessa colonna della struttura e su\nquelle adiacenti all'inizio del turno.\nPuoi posizionare solo una scuola alla volta.
 MID_SCF_攻対重装: Scuola corazza (A)

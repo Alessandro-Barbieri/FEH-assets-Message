@@ -330,7 +330,7 @@ MID_SCF_攻雷_HELP: $aAu début du tour 3, inflige $a0 dégâts\naux ennemis su
 MID_SCF_攻軍師: Salle tactique (A)
 MID_SCF_攻軍師_HELP: $aEn début de tour, les ennemis situés sur la\nmême colonne que la structure utilisant\narc/dague/magie/bâton et dont PV ≤ $a0\nne peuvent se déplacer que d'une case jusqu'à\nla fin de leur phase.
 MID_SCF_攻回復: Tour de soin (A)
-MID_SCF_攻回復_HELP: $aEn début de tour, rend $a0 PV aux alliés\nsitués dans un rectangle de 3 cases de long\nsur 5 de haut ayant pour centre la structure.
+MID_SCF_攻回復_HELP: $aEn début de tour, rend $a0 PV aux alliés\nsitués dans un rectangle de 5 cases de long\nsur 3 de haut ayant pour centre la structure.
 MID_SCF_攻対歩行: École infanterie (A)
 MID_SCF_攻対歩行_HELP: $aEn début de tour, inflige Atq/Vit/Déf/Rés -$a0\naux fantassins ennemis sur la même colonne\nque la structure et sur les colonnes adjacentes\njusqu'à la fin de leur phase.\nVous ne pouvez placer qu'une école à la fois.
 MID_SCF_攻対重装: École armure (A)

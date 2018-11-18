@@ -330,7 +330,7 @@ MID_SCF_攻雷_HELP: $aAt the start of turn 3, deals $a0 damage to\nfoes within 
 MID_SCF_攻軍師: Tactics Room (O)
 MID_SCF_攻軍師_HELP: $aAt start of turn, if any foes are within the same\ncolumn as structure and their HP ≤ $a0 and\nthey use bow, dagger, magic, or staff, restricts\nthose foes' movement to 1 space through\ntheir next actions.
 MID_SCF_攻回復: Healing Tower (O)
-MID_SCF_攻回復_HELP: $aAt start of turn, restores $a0 HP to allies\nwithin 5 rows and 3 columns centered on\nstructure.
+MID_SCF_攻回復_HELP: $aAt start of turn, restores $a0 HP to allies\nwithin 3 rows and 5 columns centered on\nstructure.
 MID_SCF_攻対歩行: Infantry School (O)
 MID_SCF_攻対歩行_HELP: $aAt start of turn, inflicts Atk/Spd/Def/Res-$a0\non infantry foes within 3 columns centered on\nstructure through their next actions.\nNote: Only one school can be placed at a time.
 MID_SCF_攻対重装: Armor School (O)

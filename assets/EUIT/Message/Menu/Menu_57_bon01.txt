@@ -7,7 +7,7 @@ Heroes Message Name: Message
 MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRango $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aPromozione dal $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rango mantenuto!
-MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRetrocessione dal $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aRetrocessione al $a0
 MID_ARENA_DIALOG_HELP_07: ◆+1 per gli eroi bonus◆\nPer ogni nemico sconfitto usando\nun eroe bonus, ottieni tre punti\nextra ai fini del tuo punteggio.\n\n(Questo bonus entrerà in vigore\ndalla prima stagione dopo\nl'uscita della versione 2.8.0.)
 MID_ARENA_RANK21: Grande Evocatore
 MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Parchi

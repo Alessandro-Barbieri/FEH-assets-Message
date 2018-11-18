@@ -7,7 +7,7 @@ Heroes Message Name: Message
 MID_ARENA_GAINED_REWARDTYPE_GRADE_PREFIX_FOR_UNDER_20: $aRang $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_UP: $aHochgestuft von $a0
 MID_ARENA_GAINED_REWARDTYPE_GRADE_KEEP: Rang beibehalten!
-MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aZurückgestuft von $a0
+MID_ARENA_GAINED_REWARDTYPE_GRADE_DOWN: $aZurückgestuft auf $a0
 MID_ARENA_DIALOG_HELP_07: Extrapunkt für Bonushelden:\nJedes Mal, wenn du mit einem\nBonushelden einen Gegner\nbesiegst, wird deine Gesamt-\npunktzahl um 3 erhöht.\n\n(Dies gilt ab der Saison, die\nnach der Veröffentlichung\nvon Ver. 2.8.0 beginnt.)
 MID_ARENA_RANK21: Großer Beschwörer
 MID_STAGE_SELECT_BLESSING_GARDEN_KIND_SINGLE: Gärten

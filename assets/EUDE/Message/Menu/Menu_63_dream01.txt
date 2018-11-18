@@ -330,7 +330,7 @@ MID_SCF_攻雷_HELP: $aGegner innerhalb von 3 Reihen und\n3 Spalten um das Objek
 MID_SCF_攻軍師: Taktikraum (A)
 MID_SCF_攻軍師_HELP: $aGegner innerhalb derselben Spalte wie dieses\nObjekt, die Bogen, Dolch, Magie oder Stab\nverwenden und deren KP zu Beginn des Zuges\n≤ $a0 sind, können sich bis nach ihren\nnächsten Aktionen nur 1 Feld bewegen.
 MID_SCF_攻回復: Heilungsturm (A)
-MID_SCF_攻回復_HELP: $aVerbündete innerhalb von 5 Reihen und\n3 Spalten um dieses Objekt erhalten\nzu Beginn des Zuges $a0 KP zurück.
+MID_SCF_攻回復_HELP: $aVerbündete innerhalb von 3 Reihen und\n5 Spalten um dieses Objekt erhalten\nzu Beginn des Zuges $a0 KP zurück.
 MID_SCF_攻対歩行: Infanterieschule (A)
 MID_SCF_攻対歩行_HELP: $aInfanteriegegner innerhalb von 3 Spalten um\ndieses Objekt erleiden zu Beginn des Zuges\nAngr./Ges./Ver./Res. -$a0 bis nach ihren\nnächsten Aktionen. Es kann stets nur eine\nSchule platziert werden.
 MID_SCF_攻対重装: Panzerschule (A)

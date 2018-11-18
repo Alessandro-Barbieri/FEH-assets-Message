@@ -345,11 +345,11 @@ MID_SCF_攻投石: 攻擊・投石機
 MID_SCF_攻投石_HELP: 回合開始時，破壞與此設備\n位在相同縱列且等級較低的敵方防衛設備\n（無法破壞防衛堡壘、陷阱、資源、裝飾）
 MID_SCF_落雷の罠A: 落雷陷阱
 MID_SCF_落雷の罠A_BATTLE: 陷阱
-MID_SCF_落雷の罠A_HELP: $a若敵人結束移動時位於設置的格子內，\n將給予敵人和周圍３格內的敵方$a0傷害\n（敵方身上的攻擊、輔助技能將被取消）
+MID_SCF_落雷の罠A_HELP: $a若敵人結束移動時位於設置的格子內，\n將給予敵人和周圍３格內的敵我雙方$a0傷害\n（敵方的攻擊、使用輔助技能的行動將被取消）
 MID_SCF_落雷の罠A_BATTLEHELP: 好像設置著什麼機關的地面
 MID_SCF_重圧の罠A: 重壓陷阱
 MID_SCF_重圧の罠A_BATTLE: 陷阱
-MID_SCF_重圧の罠A_HELP: $a若敵人結束移動時位於設置的格子內，\n敵人和周圍２格內的敵方中，ＨＰ$a0以下的敵人\n移動範圍限為最大１格\n（直到敵人下次行動結束）\n（敵方身上的攻擊、輔助技能將被取消）
+MID_SCF_重圧の罠A_HELP: $a若敵人結束移動時位於設置的格子內，\n將敵人和周圍２格內ＨＰ$a0以下的\n敵我雙方移動範圍限為最大１格\n（直到敵人下次行動結束）\n（敵方的攻擊、使用輔助技能的行動將被取消）
 MID_SCF_重圧の罠A_BATTLEHELP: 好像設置著什麼機關的地面
 MID_SCF_落雷の罠ダミー: 偽・落雷陷阱
 MID_SCF_落雷の罠ダミー_BATTLE: 陷阱
@@ -421,7 +421,7 @@ MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE: 防衛失敗評價
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_ESTIMATED_RATE_HELP: 目前的防衛成員\n防衛失敗時最多會下降的評價
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_0: 鎖定部隊
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_1: 解除鎖定
-MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_0: 要鎖定部隊嗎？\n\n鎖定後，部隊全員的\n等級、技能、聖印及祝福\n將維持在現有的狀態。\n（僅適用於飛空城防衛戰）
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_0: 要鎖定部隊嗎？\n\n要鎖定部隊嗎？\n鎖定後，部隊全員的等級、\n能力值、技能、聖印及祝福\n將維持在現有的狀態。\n（僅適用於飛空城防衛戰）
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_1: 要解除鎖定部隊嗎？\n\n解除後，\n將會反映部隊內全員的最新狀態。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_0: 鎖定
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_DECIDE_1: 解除
@@ -429,7 +429,7 @@ MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_LOCK_BTN_CANCEL: 返回
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_TEXT: 未設定防衛部隊。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_NO_UNIT_WARNING: 防衛部隊為０人時，\n將由等級４０的\n阿爾馮斯、夏蓉、安娜\n代為防衛。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_00: ◆編組防衛部隊◆\n可編組要配置在\n防衛地圖中的部隊。
-MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_01: ◆鎖定防衛部隊◆\n可鎖定部隊內全員的\n等級、能力、技能、聖印及祝福，\n使其不會被變更。\n（僅適用於飛空城防衛戰）\n※解除鎖定後，\n　將會反映部隊內全員的最新狀態。
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_01: ◆鎖定防衛部隊◆\n可鎖定部隊內全員的\n等級、能力值、技能、聖印及祝福，\n使其不會被變更。\n（僅適用於飛空城防衛戰）\n※解除鎖定後，\n　將會反映部隊內全員的最新狀態。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_02: ◆增加防衛部隊欄位◆\n只要飛空城中的位階上升，\n即可追加防衛部隊的第５、第６人欄位。\n※第一次開放追加欄位時\n　必須消耗飛空石。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_03: ◆防衛部隊欄位的位階條件◆\n・追加第５人：達到位階１１以上\n・追加第６人：達到位階１９以上\n※若未滿足位階條件，\n　追加的英雄將不會出擊。\n　將於再次提升位階後復活。
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_04: ◆防衛部隊為０人時◆\n將由等級４０的\n阿爾馮斯、夏蓉、安娜\n代為防衛。

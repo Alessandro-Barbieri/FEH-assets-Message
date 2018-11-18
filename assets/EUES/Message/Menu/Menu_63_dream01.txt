@@ -330,7 +330,7 @@ MID_SCF_攻雷_HELP: $aAl inicio del tercer turno, inflige $a0\nde daño a todos
 MID_SCF_攻軍師: Sala táctica (A)
 MID_SCF_攻軍師_HELP: $aAl inicio del turno, los enemigos situados\nen la misma columna que la estructura\ncon $a0 PV o menos y con arco, daga,\ngrimorio o bastón tienen un movimiento\nmáximo de 1 casilla en su próxima acción.
 MID_SCF_攻回復: Torre de cura (A)
-MID_SCF_攻回復_HELP: $aAl inicio del turno, devuelve $a0 PV a todos\nlos aliados en un radio de 5 filas y 3 columnas\nrespecto a la estructura.
+MID_SCF_攻回復_HELP: $aAl inicio del turno, devuelve $a0 PV a todos\nlos aliados en un radio de 3 filas y 5 columnas\nrespecto a la estructura.
 MID_SCF_攻対歩行: Liceo pedestre (A)
 MID_SCF_攻対歩行_HELP: $aAl inicio del turno, Ata, Vel, Def y Res - $a0\na las unidades de infantería enemigas en un\nradio de 3 columnas respecto a la estructura\nen su próxima acción.\nNota: Solo se puede colocar un liceo a la vez.
 MID_SCF_攻対重装: Liceo acoraz. (A)
