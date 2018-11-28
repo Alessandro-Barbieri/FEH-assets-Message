@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_642_legend11)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花のかんざし・金: Horquilla flores (oro)
+MDAID_H_花のかんざし・金: Trofeo de tu victoria contra la versión\nlegendaria de Hríd.
+MDAID_夏祭りのお面・金: Máscara dragont. (oro)
+MDAID_H_夏祭りのお面・金: Trofeo de tu victoria contra la versión\nlegendaria de Lucina.
+MDAID_重騎士の兜・金: Yelmo acorazado (oro)
+MDAID_H_重騎士の兜・金: Trofeo de tu victoria contra la versión\nlegendaria de Ryoma.
+MDAID_ニフルの冠: Corona de Nifl
+MDAID_H_ニフルの冠: La corona de Hríd está siempre fría\nal tacto y quien se la pone adopta la\nglacial actitud de su noble propietario.
+MDAID_ニフルの冠・極: Corona de Nifl +
+MDAID_H_ニフルの冠・極: Se cuenta que esta corona que adorna\nla cabeza de Hríd lleva generaciones\nen poder de la familia real de Nifl.
+MDAID_ニフルのお守り: Estrella de Nifl
+MDAID_H_ニフルのお守り: Un amuleto propiedad de Ylgr con\nadornos inspirados en el escudo\nde armas de Nifl.
+MDAID_ニフルのお守り・極: Estrella de Nifl +
+MDAID_H_ニフルのお守り・極: Un amuleto propiedad de Ylgr\nbendecido para garantizar la seguridad\nde quien lo lleva.
+MDAID_氷の花の髪飾り: Tocado floral de Nifl
+MDAID_H_氷の花の髪飾り: El tocado que luce Gunnthrá.\nLa flor que lo adorna es translúcida\ny fría al tacto, y jamás se marchita.
+MDAID_氷の花の髪飾り・極: Tocado floral de Nifl +
+MDAID_H_氷の花の髪飾り・極: El tocado que luce Gunnthrá. La flor\nque lo adorna, que jamás se marchita,\nsolo crece en ciertas regiones de Nifl.
+MDAID_氷の姫のティアラ: Tiara glacial
+MDAID_H_氷の姫のティアラ: La tiara que luce Fjorm. De exquisita\nmanufactura, resultó dañada durante\nla batalla contra Surtr.
+MDAID_氷の姫のティアラ・極: Tiara glacial +
+MDAID_H_氷の姫のティアラ・極: La tiara que luce Fjorm está adornada\npor frías y cristalinas gemas que\nprovienen de Nifl.
+MID_MISSION_M201812A_TITLE: Retos: dic. (1)
+MID_MISSION_M201812A_A1: Victoria cerúlea
+MID_MISSION_H_M201812A_A1: Vence a enemigos con\nunidades de tipo azul.
+MID_MISSION_M201812A_A2: Victoria pedestre
+MID_MISSION_H_M201812A_A2: Vence a enemigos con\nunidades de infantería.
+MID_MISSION_M201812A_A3: Objetivo: verde
+MID_MISSION_H_M201812A_A3: Vence a enemigos de tipo verde.
+MID_MISSION_M201812A_A4: Poder antiaéreo
+MID_MISSION_H_M201812A_A4: Vence a unidades aéreas.
+MID_MISSION_M201812A_A5: Gladiador
+MID_MISSION_H_M201812A_A5: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_M201812A_A6: Poderío carmesí
+MID_MISSION_H_M201812A_A6: Vence a enemigos de nivel 20\no superior con unidades de\ntipo rojo.
+MID_MISSION_M201812A_A7: Poderío aéreo
+MID_MISSION_H_M201812A_A7: Vence a enemigos de nivel 20\no superior con unidades aéreas.
+MID_MISSION_M201812A_A8: Objetivo: nivel 20+ azul
+MID_MISSION_H_M201812A_A8: Vence a enemigos de tipo azul\nde nivel 20 o superior.
+MID_MISSION_M201812A_A9: Objetivo: nivel 20+ a pie
+MID_MISSION_H_M201812A_A9: Vence a unidades de infantería\nde nivel 20 o superior.
+MID_MISSION_M201812A_A10: Gladiador curtido
+MID_MISSION_H_M201812A_A10: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_M201812A_A11: Gloria glauca
+MID_MISSION_H_M201812A_A11: Vence a enemigos de nivel 35\no superior con unidades de\ntipo verde.
+MID_MISSION_M201812A_A12: Gloria a caballo
+MID_MISSION_H_M201812A_A12: Vence a enemigos de nivel 35\no superior con unidades de caballería.
+MID_MISSION_M201812A_A13: Sublimación carmesí
+MID_MISSION_H_M201812A_A13: Vence a enemigos de tipo rojo\nde nivel 35 o superior.
+MID_MISSION_M201812A_A14: Sublimación a caballo
+MID_MISSION_H_M201812A_A14: Vence a unidades de caballería\nde nivel 35 o superior.
+MID_MISSION_M201812A_A15: Maestro gladiador
+MID_MISSION_H_M201812A_A15: Gana combates en el coliseo\nen el modo difícil.
+MID_MISSION_M201812B_TITLE: Retos: dic. (2)
+MID_MISSION_M201812B_A1: Torre de práctica - Nivel 1
+MID_MISSION_H_M201812B_A1: Supera el primer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A2: Torre de práctica - Nivel 2
+MID_MISSION_H_M201812B_A2: Supera el segundo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A3: Torre de práctica - Nivel 3
+MID_MISSION_H_M201812B_A3: Supera el tercer nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A4: Torre de práctica - Nivel 4
+MID_MISSION_H_M201812B_A4: Supera el cuarto nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A5: Torre de práctica - Nivel 5
+MID_MISSION_H_M201812B_A5: Supera el quinto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A6: Torre de práctica - Nivel 6
+MID_MISSION_H_M201812B_A6: Supera el sexto nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A7: Torre de práctica - Nivel 7
+MID_MISSION_H_M201812B_A7: Supera el séptimo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_M201812B_A8: Supera el octavo nivel de la torre\nde práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A9: Torre de práctica - Nivel 9
+MID_MISSION_H_M201812B_A9: Supera el noveno nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A10: Torre de práctica - Nivel 10
+MID_MISSION_H_M201812B_A10: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nen tu batallón y sin sufrir bajas.
+MID_MISSION_M201812B_A11: Torre de práctica - Nivel 10
+MID_MISSION_H_M201812B_A11: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde infantería y sin sufrir bajas.
+MID_MISSION_M201812B_A12: Torre de práctica - Nivel 10
+MID_MISSION_H_M201812B_A12: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nacorazadas y sin sufrir bajas.
+MID_MISSION_M201812B_A13: Torre de práctica - Nivel 10
+MID_MISSION_H_M201812B_A13: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\nde caballería y sin sufrir bajas.
+MID_MISSION_M201812B_A14: Torre de práctica - Nivel 10
+MID_MISSION_H_M201812B_A14: Supera el décimo nivel de la\ntorre de práctica con 4 unidades\naéreas y sin sufrir bajas.
+MID_MISSION_M201812C_TITLE: Retos: dic. (3)
+MID_MISSION_M201812C_A1: Cap. 2 - Parte 1
+MID_MISSION_H_M201812C_A1: Supera la 1.ª parte del capítulo 2\ncon 4 unidades y sin sufrir bajas.
+MID_MISSION_M201812C_A2: Cap. 2 - Parte 2
+MID_MISSION_H_M201812C_A2: Supera la 2.ª parte del capítulo 2 con\n4 unidades, incluyendo una de tipo\nrojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A3: Cap. 2 - Parte 3
+MID_MISSION_H_M201812C_A3: Supera la 3.ª parte del capítulo 2 con\n4 unidades, incluyendo una de tipo\nazul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A4: Cap. 2 - Parte 4
+MID_MISSION_H_M201812C_A4: Supera la 4.ª parte del capítulo 2 con\n4 unidades, incluyendo una de tipo\nverde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A5: Cap. 2 - Parte 5
+MID_MISSION_H_M201812C_A5: Supera la 5.ª parte del capítulo 2 con\n4 unidades, incluyendo una de tipo\ngris, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A6: Cap. 5 - Parte 1 / Difícil+
+MID_MISSION_H_M201812C_A6: Supera la 1.ª parte del capítulo 5\nen modo difícil o superior con\n4 unidades y sin sufrir bajas.
+MID_MISSION_M201812C_A7: Cap. 5 - Parte 2 / Difícil+
+MID_MISSION_H_M201812C_A7: Supera la 2.ª parte del capítulo 5 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo rojo, en tu batallón y sin bajas.
+MID_MISSION_M201812C_A8: Cap. 5 - Parte 3 / Difícil+
+MID_MISSION_H_M201812C_A8: Supera la 3.ª parte del capítulo 5 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo azul, en tu batallón y sin bajas.
+MID_MISSION_M201812C_A9: Cap. 5 - Parte 4 / Difícil+
+MID_MISSION_H_M201812C_A9: Supera la 4.ª parte del capítulo 5 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo verde, en tu batallón y sin bajas.
+MID_MISSION_M201812C_A10: Cap. 5 - Parte 5 / Difícil+
+MID_MISSION_H_M201812C_A10: Supera la 5.ª parte del capítulo 5 en modo\ndifícil o superior con 4 unidades, incluyendo\nuna de tipo gris, en tu batallón y sin bajas.
+MID_MISSION_M201812C_A11: Cap. 8 - Parte 1 / Extremo
+MID_MISSION_H_M201812C_A11: Supera la 1.ª parte del capítulo 8 en modo\nextremo con 4 unidades y sin sufrir bajas.
+MID_MISSION_M201812C_A12: Cap. 8 - Parte 2 / Extremo
+MID_MISSION_H_M201812C_A12: Supera la 2.ª parte del capítulo 8 en modo\nextremo con 4 unidades, incluyendo una\nde tipo rojo, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A13: Cap. 8 - Parte 3 / Extremo
+MID_MISSION_H_M201812C_A13: Supera la 3.ª parte del capítulo 8 en modo\nextremo con 4 unidades, incluyendo una\nde tipo azul, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A14: Cap. 8 - Parte 4 / Extremo
+MID_MISSION_H_M201812C_A14: Supera la 4.ª parte del capítulo 8 en modo\nextremo con 4 unidades, incluyendo una\nde tipo verde, en tu batallón y sin sufrir bajas.
+MID_MISSION_M201812C_A15: Cap. 8 - Parte 5 / Extremo
+MID_MISSION_H_M201812C_A15: Supera la 5.ª parte del capítulo 8 en modo\nextremo con 4 unidades, incluyendo una\nde tipo gris, en tu batallón y sin sufrir bajas.
+MID_MISSION_S201812CHARA01_TITLE: Tres héroes
+MID_MISSION_S201812CHARA01_A1: Vencer enemigos
+MID_MISSION_H_S201812CHARA01_A1: Vence a un enemigo.
+MID_MISSION_S201812CHARA01_A2: Vencer con Olivia
+MID_MISSION_H_S201812CHARA01_A2: Vence a enemigos con Olivia,\nBailarina tímida.
+MID_MISSION_S201812CHARA01_A3: Vencer con Corrin
+MID_MISSION_H_S201812CHARA01_A3: Vence a enemigos con Corrin,\nHija del destino.
+MID_MISSION_S201812CHARA01_B1: Objetivo: nivel 20+
+MID_MISSION_H_S201812CHARA01_B1: Vence a enemigos de nivel 20 o superior\ncon Olivia, Bailarina tímida.
+MID_MISSION_S201812CHARA01_B2: Objetivo: nivel 20+
+MID_MISSION_H_S201812CHARA01_B2: Vence a enemigos de nivel 20\no superior con Corrin, Hija del destino.
+MID_MISSION_S201812CHARA01_B3: Objetivo: nivel 20+
+MID_MISSION_H_S201812CHARA01_B3: Vence a enemigos de nivel 20\no superior con Azama.
+MID_MISSION_S201812CHARA01_C1: Objetivo: nivel 35+
+MID_MISSION_H_S201812CHARA01_C1: Vence a enemigos de nivel 35 o superior\ncon Olivia, Bailarina tímida.
+MID_MISSION_S201812CHARA01_C2: Objetivo: nivel 35+
+MID_MISSION_H_S201812CHARA01_C2: Vence a enemigos de nivel 35\no superior con Corrin, Hija del destino.
+MID_MISSION_S201812CHARA01_C3: Objetivo: nivel 35+
+MID_MISSION_H_S201812CHARA01_C3: Vence a enemigos de nivel 35\no superior con Azama.
+MID_MISSION_S201812KIZUNA01_TITLE: Batalla de vínculos
+MID_MISSION_S201812KIZUNA01_A1: Superar batalla
+MID_MISSION_H_S201812KIZUNA01_A1: Gana la batalla de vínculos contra Seliph\ny Julia con Sharena, Princesa de Askr,\nen tu batallón.
+MID_MISSION_S201812KIZUNA01_A2: Superar batalla
+MID_MISSION_H_S201812KIZUNA01_A2: Gana la batalla de vínculos contra Selpih\ny Julia en modo extremo o superior\ncon Alfonse, Príncipe de Askr, en tu batallón.
+MID_MISSION_S201812KIZUNA01_A3: Derrotar a Seliph
+MID_MISSION_H_S201812KIZUNA01_A3: Con Sharena, Princesa de Askr, derrota a\nSeliph en su versión de nivel 40 o superior.
+MID_MISSION_S201812KIZUNA01_A4: Derrotar a Julia
+MID_MISSION_H_S201812KIZUNA01_A4: Con Alfonse, Príncipe de Askr, derrota a\nJulia en su versión de nivel 40 o superior.
+MID_MISSION_S201812KIZUNA01_A5: Superar batalla
+MID_MISSION_H_S201812KIZUNA01_A5: Gana la batalla de vínculos contra Seliph y\nJulia en modo extremo o superior con\nun batallón de unidades de infantería.
+MID_MISSION_S201812VOTE01_TITLE: Torneo de votos
+MID_MISSION_S201812VOTE01_A1: Torneo de votos
+MID_MISSION_H_S201812VOTE01_A1: Imponte en batallas del torneo de votos.
+MID_MISSION_S201812VOTE01_A2: Torneo de votos
+MID_MISSION_H_S201812VOTE01_A2: Imponte en batallas del torneo de votos.
+MID_MISSION_S201812VOTE01_A3: Torneo de votos
+MID_MISSION_H_S201812VOTE01_A3: Imponte en batallas del torneo de votos.
+MID_MISSION_S201812VOTE01_A4: Torneo de votos
+MID_MISSION_H_S201812VOTE01_A4: Imponte en batallas del torneo de votos.
+MID_MISSION_S201812VOTE01_A5: Torneo de votos
+MID_MISSION_H_S201812VOTE01_A5: Imponte en batallas del torneo de votos.
+MID_MISSION_S201812VOTE01_A6: Torre de práctica - Nivel 2
+MID_MISSION_H_S201812VOTE01_A6: Supera el segundo nivel de la\ntorre de práctica.
+MID_MISSION_S201812VOTE01_A7: Torre de práctica - Nivel 5
+MID_MISSION_H_S201812VOTE01_A7: Supera el quinto nivel de la\ntorre de práctica.
+MID_MISSION_S201812VOTE01_A8: Torre de práctica - Nivel 8
+MID_MISSION_H_S201812VOTE01_A8: Supera el octavo nivel de la\ntorre de práctica.
+MID_MISSION_S201812VOTE01_A9: Gladiador
+MID_MISSION_H_S201812VOTE01_A9: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201812VOTE01_A10: Gladiador
+MID_MISSION_H_S201812VOTE01_A10: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201812VOTE01_A11: Gladiador curtido
+MID_MISSION_H_S201812VOTE01_A11: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201812VOTE01_A12: Gladiador curtido
+MID_MISSION_H_S201812VOTE01_A12: Vence a rivales de nivel normal\no superior en el coliseo.
+MID_MISSION_S201812VOTE01_A13: Torneo de votos: rojo
+MID_MISSION_H_S201812VOTE01_A13: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201812VOTE01_A14: Torneo de votos: azul
+MID_MISSION_H_S201812VOTE01_A14: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201812VOTE01_A15: Torneo de votos: verde
+MID_MISSION_H_S201812VOTE01_A15: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201812VOTE01_A16: Torneo de votos: gris
+MID_MISSION_H_S201812VOTE01_A16: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MID_MISSION_S201812VOTE01_A17: Torneo de votos: rojo
+MID_MISSION_H_S201812VOTE01_A17: Imponte en batallas del torneo\nde votos con una unidad de tipo\nrojo en tu batallón.
+MID_MISSION_S201812VOTE01_A18: Torneo de votos: azul
+MID_MISSION_H_S201812VOTE01_A18: Imponte en batallas del torneo\nde votos con una unidad de tipo\nazul en tu batallón.
+MID_MISSION_S201812VOTE01_A19: Torneo de votos: verde
+MID_MISSION_H_S201812VOTE01_A19: Imponte en batallas del torneo\nde votos con una unidad de tipo\nverde en tu batallón.
+MID_MISSION_S201812VOTE01_A20: Torneo de votos: gris
+MID_MISSION_H_S201812VOTE01_A20: Imponte en batallas del torneo\nde votos con una unidad de tipo\ngris en tu batallón.
+MPID_HONOR_フリーズ: Hoja glacial
+MPID_H_フリーズ: El mayor de los príncipes de Nifl, el reino\ndel hielo. Es calmado y estable, y siempre está\npreparado para enfrentarse a cualquier peligro.
+MPID_VOICE_フリーズ: Mark P. Whitten
+MPID_ILLUST_フリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_フリーズ: Efecto legendario: Viento\nMejora de aliados: PV + 3, Def + 4\n\nOtorga este efecto legendario a los\naliados al participar en una batalla\ndurante la temporada de viento si se\nha otorgado la bendición de viento.
+MSID_ギョッル: Gjöll
+MSID_凍結の封印: Hechizo glacial
+MSID_H_ギョッル: Otorga Ata + 3. Si el enemigo sufre\npenalizaciones de habilidades como Pánico o\nReducir, o efectos negativos,\ncomo restricciones de desplazamiento\no de contrataque, la unidad realiza un ataque\ndoble garantizado y el rival no puede realizarlo.
+MSID_H_凍結の封印: Al inicio del turno, si la unidad tiene\nPV ≥ 50 %, Ata y Vel - 6 al rival que tenga\nmenos Res en su próxima acción.
+MID_STAGE_HONOR_L0009: Hoja glacial
+MID_STAGE_L0009: Hríd
+MID_STAGE_TITLE_PB036: Habilidades 36
+MID_STAGE_PB036: Los hechizos de Nifl
+MID_STAGE_TITLE_PC019: Maestría 19
+MID_STAGE_PC019: Trilema estratégico

@@ -164,10 +164,10 @@ MSID_H_攻撃速さの絆R魔杖: Si la unidad se encuentra en un radio\nde dos 
 MSID_H_第11迷宮の覇者1: Otorga PV + 3.
 MSID_H_第11迷宮の覇者2: Otorga PV + 4.
 MSID_H_第11迷宮の覇者3: Otorga PV + 5.
-MSID_H_剣姫の刀: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Si supera\nla Vel del enemigo en 1 punto o más,\nconvierte un 70 % de la diferencia de\natributos en daño adicional. (Máximo de + 7\nde daño. Combina bien con Espejismo Vel.)
+MSID_H_剣姫の刀: Facilita la ejecución de habilidades\nespeciales: - 1 a la cuenta atrás. Si supera\nla Vel del enemigo en 1 punto o más, inflige\nun 70 % de la diferencia de atributos\ncomo daño adicional. (Máximo de + 7 de daño.\nCombina bien con Espejismo Vel.)
 MSID_H_粛清の暗器: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef y Res - 5 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
 MSID_H_粛清の暗器＋: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef y Res - 7 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
-MSID_H_ギガスカリバー: Otorga Vel + 3. Si supera la Vel\ndel enemigo en 1 punto o más, convierte\nun 70 % de la diferencia de atributos\nen daño adicional. (Máximo de + 7 de daño.\nCombina bien con Espejismo Vel.)
+MSID_H_ギガスカリバー: Otorga Vel + 3. Si supera la Vel\ndel enemigo en 1 punto o más, inflige\nun 70 % de la diferencia de atributos\ncomo daño adicional. (Máximo de + 7 de daño.\nCombina bien con Espejismo Vel.)
 MSID_H_曲技飛行1: Si la unidad tiene el 100 % de PV,\npodrá moverse a una casilla adyacente\na un aliado de infantería, acorazado o\nde caballería en un radio de dos casillas.
 MSID_H_曲技飛行2: Si la unidad tiene PV ≥ 50 %,\npodrá moverse a una casilla adyacente\na un aliado de infantería, acorazado o\nde caballería en un radio de dos casillas.
 MSID_H_曲技飛行3: La unidad podrá moverse a una casilla\nadyacente a un aliado de infantería,\nacorazado o de caballería en un radio\nde dos casillas.
