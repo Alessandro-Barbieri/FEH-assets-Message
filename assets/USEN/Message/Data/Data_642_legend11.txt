@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_642_legend11)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花のかんざし・金: Gold Flower Hairpin
+MDAID_H_花のかんざし・金: Proof of victory over Legendary Hríd.
+MDAID_夏祭りのお面・金: Gold Summer Mask
+MDAID_H_夏祭りのお面・金: Proof of victory over Legendary Lucina.
+MDAID_重騎士の兜・金: Gold Armored Helmet
+MDAID_H_重騎士の兜・金: Proof of victory over Legendary Ryoma.
+MDAID_ニフルの冠: Crown of Nifl
+MDAID_H_ニフルの冠: Hríd's crown. It's always cold to the\ntouch, and if you place it on your\nhead, your demeanor will remain cool.
+MDAID_ニフルの冠・極: Crown of Nifl EX
+MDAID_H_ニフルの冠・極: Hríd's crown. It has been passed down\nin the royal family of Nifl for\ngenerations, or so it is said.
+MDAID_ニフルのお守り: Star of Nifl
+MDAID_H_ニフルのお守り: A good luck charm that belongs to\nYlgr. The decoration comes from Nifl's\ncoat of arms.
+MDAID_ニフルのお守り・極: Star of Nifl EX
+MDAID_H_ニフルのお守り・極: A good luck charm that belongs to\nYlgr. It has been blessed to ensure\nthe safety of its bearer.
+MDAID_氷の花の髪飾り: Frostflower Band
+MDAID_H_氷の花の髪飾り: Gunnthrá's frostflower. Translucent\nand cold to the touch, this bloom will\nnever melt.
+MDAID_氷の花の髪飾り・極: Frostflower Band EX
+MDAID_H_氷の花の髪飾り・極: Gunnthrá's frostflower. Though it\nblossoms only in some regions of Nifl,\nit will never melt—anywhere.
+MDAID_氷の姫のティアラ: Chilly Tiara
+MDAID_H_氷の姫のティアラ: Fjorm's tiara. Though it is of exquisite\nworkmanship, it was damaged in the\nbattle against Surtr.
+MDAID_氷の姫のティアラ・極: Chilly Tiara EX
+MDAID_H_氷の姫のティアラ・極: Fjorm's tiara. The gems that decorate\nit are clear and cold, and they come\nfrom Nifl.
+MID_MISSION_M201812A_TITLE: Dec Quests (1)
+MID_MISSION_M201812A_A1: KO Foe w/Blue
+MID_MISSION_H_M201812A_A1: Defeat a foe with a blue ally.
+MID_MISSION_M201812A_A2: KO Foe w/Infantry
+MID_MISSION_H_M201812A_A2: Defeat a foe with an infantry ally.
+MID_MISSION_M201812A_A3: KO Green Foe
+MID_MISSION_H_M201812A_A3: Defeat a green foe.
+MID_MISSION_M201812A_A4: KO Flying Foe
+MID_MISSION_H_M201812A_A4: Defeat a flying foe.
+MID_MISSION_M201812A_A5: Win Arena Duels
+MID_MISSION_H_M201812A_A5: Win Arena Duels on any difficulty.
+MID_MISSION_M201812A_A6: KO Lvl. 20+ Foe w/Red
+MID_MISSION_H_M201812A_A6: Defeat a foe that is level 20 or higher with a\nred ally.
+MID_MISSION_M201812A_A7: KO Lvl. 20+ Foe w/Flier
+MID_MISSION_H_M201812A_A7: Defeat a foe that is level 20 or higher with a\nflying ally.
+MID_MISSION_M201812A_A8: KO Lvl. 20+ Blue Foe
+MID_MISSION_H_M201812A_A8: Defeat a blue foe that is level 20 or higher.
+MID_MISSION_M201812A_A9: KO Lvl. 20+ Infantry Foe
+MID_MISSION_H_M201812A_A9: Defeat an infantry foe that is level 20 or higher.
+MID_MISSION_M201812A_A10: Win Int.+ Arena Duels
+MID_MISSION_H_M201812A_A10: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_M201812A_A11: KO Lvl. 35+ Foe w/Green
+MID_MISSION_H_M201812A_A11: Defeat a foe that is level 35 or higher with a\ngreen ally.
+MID_MISSION_M201812A_A12: KO Lvl. 35+ Foe w/Cavalry
+MID_MISSION_H_M201812A_A12: Defeat a foe that is level 35 or higher with a\ncavalry ally.
+MID_MISSION_M201812A_A13: KO Lvl. 35+ Red Foe
+MID_MISSION_H_M201812A_A13: Defeat a red foe that is level 35 or higher.
+MID_MISSION_M201812A_A14: KO Lvl. 35+ Cavalry Foe
+MID_MISSION_H_M201812A_A14: Defeat a cavalry foe that is level 35 or higher.
+MID_MISSION_M201812A_A15: Win Adv. Arena Duels
+MID_MISSION_H_M201812A_A15: Win Arena Duels on Advanced difficulty.
+MID_MISSION_M201812B_TITLE: Dec Quests (2)
+MID_MISSION_M201812B_A1: Tower: 1st Stratum
+MID_MISSION_H_M201812B_A1: Clear the first stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A2: Tower: 2nd Stratum
+MID_MISSION_H_M201812B_A2: Clear the second stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A3: Tower: 3rd Stratum
+MID_MISSION_H_M201812B_A3: Clear the third stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A4: Tower: 4th Stratum
+MID_MISSION_H_M201812B_A4: Clear the fourth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A5: Tower: 5th Stratum
+MID_MISSION_H_M201812B_A5: Clear the fifth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A6: Tower: 6th Stratum
+MID_MISSION_H_M201812B_A6: Clear the sixth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A7: Tower: 7th Stratum
+MID_MISSION_H_M201812B_A7: Clear the seventh stratum of the Training\nTower. All four allies must survive.
+MID_MISSION_M201812B_A8: Tower: 8th Stratum
+MID_MISSION_H_M201812B_A8: Clear the eighth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A9: Tower: 9th Stratum
+MID_MISSION_H_M201812B_A9: Clear the ninth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A10: Tower: 10th Stratum
+MID_MISSION_H_M201812B_A10: Clear the tenth stratum of the Training Tower.\nAll four allies must survive.
+MID_MISSION_M201812B_A11: Tower: 10th Stratum
+MID_MISSION_H_M201812B_A11: Clear the tenth stratum of the Training Tower\nusing only infantry allies. All four allies must\nsurvive.
+MID_MISSION_M201812B_A12: Tower: 10th Stratum
+MID_MISSION_H_M201812B_A12: Clear the tenth stratum of the Training Tower\nusing only armored allies. All four allies must\nsurvive.
+MID_MISSION_M201812B_A13: Tower: 10th Stratum
+MID_MISSION_H_M201812B_A13: Clear the tenth stratum of the Training Tower\nusing only cavalry allies. All four allies must\nsurvive.
+MID_MISSION_M201812B_A14: Tower: 10th Stratum
+MID_MISSION_H_M201812B_A14: Clear the tenth stratum of the Training Tower\nusing only flying allies. All four allies must\nsurvive.
+MID_MISSION_M201812C_TITLE: Dec Quests (3)
+MID_MISSION_M201812C_A1: Clear 2-1
+MID_MISSION_H_M201812C_A1: Clear Chapter 2: Part 1. All four allies must\nsurvive.
+MID_MISSION_M201812C_A2: Clear 2-2
+MID_MISSION_H_M201812C_A2: Clear Chapter 2: Part 2 with a red ally on your\nteam. All four allies must survive.
+MID_MISSION_M201812C_A3: Clear 2-3
+MID_MISSION_H_M201812C_A3: Clear Chapter 2: Part 3 with a blue ally on your\nteam. All four allies must survive.
+MID_MISSION_M201812C_A4: Clear 2-4
+MID_MISSION_H_M201812C_A4: Clear Chapter 2: Part 4 with a green ally on\nyour team. All four allies must survive.
+MID_MISSION_M201812C_A5: Clear 2-5
+MID_MISSION_H_M201812C_A5: Clear Chapter 2: Part 5 with a colorless ally on\nyour team. All four allies must survive.
+MID_MISSION_M201812C_A6: Clear 5-1 on Hard+
+MID_MISSION_H_M201812C_A6: Clear Chapter 5: Part 1 on Hard or higher\ndifficulty. All four allies must survive.
+MID_MISSION_M201812C_A7: Clear 5-2 on Hard+
+MID_MISSION_H_M201812C_A7: Clear Chapter 5: Part 2 on Hard or higher\ndifficulty with a red ally on your team. All four\nallies must survive.
+MID_MISSION_M201812C_A8: Clear 5-3 on Hard+
+MID_MISSION_H_M201812C_A8: Clear Chapter 5: Part 3 on Hard or higher\ndifficulty with a blue ally on your team. All four\nallies must survive.
+MID_MISSION_M201812C_A9: Clear 5-4 on Hard+
+MID_MISSION_H_M201812C_A9: Clear Chapter 5: Part 4 on Hard or higher\ndifficulty with a green ally on your team. All\nfour allies must survive.
+MID_MISSION_M201812C_A10: Clear 5-5 on Hard+
+MID_MISSION_H_M201812C_A10: Clear Chapter 5: Part 5 on Hard or higher\ndifficulty with a colorless ally on your team. All\nfour allies must survive.
+MID_MISSION_M201812C_A11: Clear 8-1 on Lunatic
+MID_MISSION_H_M201812C_A11: Clear Chapter 8: Part 1 on Lunatic difficulty.\nAll four allies must survive.
+MID_MISSION_M201812C_A12: Clear 8-2 on Lunatic
+MID_MISSION_H_M201812C_A12: Clear Chapter 8: Part 2 on Lunatic difficulty\nwith a red ally on your team. All four allies must\nsurvive.
+MID_MISSION_M201812C_A13: Clear 8-3 on Lunatic
+MID_MISSION_H_M201812C_A13: Clear Chapter 8: Part 3 on Lunatic difficulty\nwith a blue ally on your team. All four allies\nmust survive.
+MID_MISSION_M201812C_A14: Clear 8-4 on Lunatic
+MID_MISSION_H_M201812C_A14: Clear Chapter 8: Part 4 on Lunatic difficulty\nwith a green ally on your team. All four allies\nmust survive.
+MID_MISSION_M201812C_A15: Clear 8-5 on Lunatic
+MID_MISSION_H_M201812C_A15: Clear Chapter 8: Part 5 on Lunatic difficulty\nwith a colorless ally on your team. All four allies\nmust survive.
+MID_MISSION_S201812CHARA01_TITLE: Three Heroes
+MID_MISSION_S201812CHARA01_A1: KO Foe
+MID_MISSION_H_S201812CHARA01_A1: Defeat a foe.
+MID_MISSION_S201812CHARA01_A2: KO with Olivia
+MID_MISSION_H_S201812CHARA01_A2: Defeat a foe with Olivia: Blushing Beauty.
+MID_MISSION_S201812CHARA01_A3: KO with Corrin
+MID_MISSION_H_S201812CHARA01_A3: Defeat a foe with Corrin: Fateful Princess.
+MID_MISSION_S201812CHARA01_B1: KO Lvl. 20+ Foe
+MID_MISSION_H_S201812CHARA01_B1: Defeat a foe that is level 20 or higher with\nOlivia: Blushing Beauty.
+MID_MISSION_S201812CHARA01_B2: KO Lvl. 20+ Foe
+MID_MISSION_H_S201812CHARA01_B2: Defeat a foe that is level 20 or higher with\nCorrin: Fateful Princess.
+MID_MISSION_S201812CHARA01_B3: KO Lvl. 20+ Foe
+MID_MISSION_H_S201812CHARA01_B3: Defeat a foe that is level 20 or higher with\nAzama.
+MID_MISSION_S201812CHARA01_C1: KO Lvl. 35+ Foe
+MID_MISSION_H_S201812CHARA01_C1: Defeat a foe that is level 35 or higher with\nOlivia: Blushing Beauty.
+MID_MISSION_S201812CHARA01_C2: KO Lvl. 35+ Foe
+MID_MISSION_H_S201812CHARA01_C2: Defeat a foe that is level 35 or higher with\nCorrin: Fateful Princess.
+MID_MISSION_S201812CHARA01_C3: KO Lvl. 35+ Foe
+MID_MISSION_H_S201812CHARA01_C3: Defeat a foe that is level 35 or higher with\nAzama.
+MID_MISSION_S201812KIZUNA01_TITLE: Bound Hero Battle
+MID_MISSION_S201812KIZUNA01_A1: Clear Bound Hero Battle
+MID_MISSION_H_S201812KIZUNA01_A1: Clear the Bound Hero Battle against Seliph and\nJulia with Sharena: Princess of Askr on your\nteam.
+MID_MISSION_S201812KIZUNA01_A2: Clear Bound Hero Battle
+MID_MISSION_H_S201812KIZUNA01_A2: Clear the Bound Hero Battle against Seliph and\nJulia on Lunatic or higher difficulty with\nAlfonse: Prince of Askr on your team.
+MID_MISSION_S201812KIZUNA01_A3: Defeat Seliph
+MID_MISSION_H_S201812KIZUNA01_A3: Defeat Seliph at level 40 or higher with\nSharena: Princess of Askr.
+MID_MISSION_S201812KIZUNA01_A4: Defeat Julia
+MID_MISSION_H_S201812KIZUNA01_A4: Defeat Julia at level 40 or higher with Alfonse:\nPrince of Askr.
+MID_MISSION_S201812KIZUNA01_A5: Clear Bound Hero Battle
+MID_MISSION_H_S201812KIZUNA01_A5: Clear the Bound Hero Battle against Seliph and\nJulia on Lunatic or higher difficulty using only\ninfantry allies.
+MID_MISSION_S201812VOTE01_TITLE: Voting Gauntlet
+MID_MISSION_S201812VOTE01_A1: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A1: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201812VOTE01_A2: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A2: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201812VOTE01_A3: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A3: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201812VOTE01_A4: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A4: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201812VOTE01_A5: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A5: Win a battle in the Voting Gauntlet.
+MID_MISSION_S201812VOTE01_A6: Tower: 2nd Stratum
+MID_MISSION_H_S201812VOTE01_A6: Clear the second stratum of the Training Tower.
+MID_MISSION_S201812VOTE01_A7: Tower: 5th Stratum
+MID_MISSION_H_S201812VOTE01_A7: Clear the fifth stratum of the Training Tower.
+MID_MISSION_S201812VOTE01_A8: Tower: 8th Stratum
+MID_MISSION_H_S201812VOTE01_A8: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201812VOTE01_A9: Win Arena Duels
+MID_MISSION_H_S201812VOTE01_A9: Win Arena Duels at any difficulty.
+MID_MISSION_S201812VOTE01_A10: Win Arena Duels
+MID_MISSION_H_S201812VOTE01_A10: Win Arena Duels at any difficulty.
+MID_MISSION_S201812VOTE01_A11: Win Int.+ Arena Duels
+MID_MISSION_H_S201812VOTE01_A11: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201812VOTE01_A12: Win Int.+ Arena Duels
+MID_MISSION_H_S201812VOTE01_A12: Win Arena Duels on Intermediate or higher\ndifficulty.
+MID_MISSION_S201812VOTE01_A13: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A13: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201812VOTE01_A14: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A14: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201812VOTE01_A15: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A15: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201812VOTE01_A16: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A16: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MID_MISSION_S201812VOTE01_A17: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A17: Win a battle in the Voting Gauntlet with a red\nally on your team.
+MID_MISSION_S201812VOTE01_A18: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A18: Win a battle in the Voting Gauntlet with a blue\nally on your team.
+MID_MISSION_S201812VOTE01_A19: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A19: Win a battle in the Voting Gauntlet with a green\nally on your team.
+MID_MISSION_S201812VOTE01_A20: Voting Gauntlet
+MID_MISSION_H_S201812VOTE01_A20: Win a battle in the Voting Gauntlet with a\ncolorless ally on your team.
+MPID_HONOR_フリーズ: Icy Blade
+MPID_H_フリーズ: The eldest prince of Nifl, Kingdom of Ice.\nWith a steady, calm demeanor, he's always\nprepared for danger.
+MPID_VOICE_フリーズ: Mark P. Whitten
+MPID_ILLUST_フリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_フリーズ: Legendary Effect: Wind\nAlly Boost: HP+3, Def+4\n\nGrants allies this Legendary Effect\nduring Wind season, if the Wind\nblessing has been conferred and if\nthis unit enters battle with them.
+MSID_ギョッル: Gjöll
+MSID_凍結の封印: Freezing Seal
+MSID_H_ギョッル: Grants Atk+3. If a penalty inflicted by a skill like\nPanic or Threaten and/or a negative status\neffect (preventing counterattacks or restricting\nmovement) is active on foe, unit makes a\nguaranteed follow-up attack and foe cannot.
+MSID_H_凍結の封印: At start of turn, if unit's HP ≥ 50%, inflicts\nAtk/Spd-6 on foe on the enemy team with\nthe lowest Res through its next action.
+MID_STAGE_HONOR_L0009: Icy Blade
+MID_STAGE_L0009: Hríd
+MID_STAGE_TITLE_PB036: Skill Studies 36
+MID_STAGE_PB036: The Seals of Nifl
+MID_STAGE_TITLE_PC019: Grandmaster 19
+MID_STAGE_PC019: Dazzling Trilemma

@@ -81,27 +81,27 @@ MEID_ブルーノ: ???
 MEID_ヴェロニカ: Veronica
 MEID_H_ソードファイター: Foot soldier who uses a\nsword. Average ability.
 MEID_H_ソードアーマー: Armored knight skilled with\na sword. Moves slowly.
-MEID_H_ソードナイト: Mounted soldier who uses a sword.\nMoves far, but can't enter woods.
+MEID_H_ソードナイト: Mounted soldier who uses a sword.\nMoves far, but can't enter forests.
 MEID_H_ソードペガサス: Pegasus rider with a sword. Flies over rivers\nand mountains. Weak against bows.
 MEID_H_ランスファイター: Foot soldier who uses a\nlance. Average ability.
 MEID_H_ランスアーマー: Armored knight skilled with\na lance. Moves slowly.
-MEID_H_ランスナイト: Mounted soldier who uses a lance.\nMoves far, but can't enter woods.
+MEID_H_ランスナイト: Mounted soldier who uses a lance.\nMoves far, but can't enter forests.
 MEID_H_ランスペガサス: Pegasus rider with a lance. Flies over rivers\nand mountains. Weak against bows.
 MEID_H_アクスファイター: Foot soldier who uses an\naxe. Average ability.
 MEID_H_アクスアーマー: Armored knight skilled with\nan axe. Moves slowly.
-MEID_H_アクスナイト: Mounted soldier who uses an axe.\nMoves far, but can't enter woods.
+MEID_H_アクスナイト: Mounted soldier who uses an axe.\nMoves far, but can't enter forests.
 MEID_H_アクスペガサス: Pegasus rider with an axe. Flies over rivers\nand mountains. Weak against bows.
 MEID_H_ボウファイター: Foot soldier who uses a\nbow. Average ability.
-MEID_H_ボウナイト: Mounted soldier who uses a bow.\nMoves far, but can't enter woods.
+MEID_H_ボウナイト: Mounted soldier who uses a bow.\nMoves far, but can't enter forests.
 MEID_H_シーフ: A thief who uses daggers, which\nlower an enemy's stats.
 MEID_H_レッドマージ: A wielder of red magic\nwith average ability.
-MEID_H_レッドナイト: Mounted soldier who uses red magic.\nMoves far, but can't enter woods.
+MEID_H_レッドナイト: Mounted soldier who uses red magic.\nMoves far, but can't enter forests.
 MEID_H_ブルーマージ: A wielder of blue magic\nwith average ability.
-MEID_H_ブルーナイト: Mounted soldier who uses blue magic.\nMoves far, but can't enter woods.
+MEID_H_ブルーナイト: Mounted soldier who uses blue magic.\nMoves far, but can't enter forests.
 MEID_H_グリーンマージ: A wielder of green magic\nwith average ability.
-MEID_H_グリーンナイト: Mounted soldier who uses green magic.\nMoves far, but can't enter woods.
+MEID_H_グリーンナイト: Mounted soldier who uses green magic.\nMoves far, but can't enter forests.
 MEID_H_シスター: A unit that uses staves to heal and\nhinder. Average ability.
-MEID_H_ロッドナイト: Mounted unit that uses staves to heal and\nhinder. Moves far, but can't enter woods.
+MEID_H_ロッドナイト: Mounted unit that uses staves to heal and\nhinder. Moves far, but can't enter forests.
 MEID_H_ブルーノ: A masked knight whose identity\nand motives are a mystery.
 MEID_H_ヴェロニカ: Imperial princess of the Emblian Empire.\nUses Heroes against the Askran Kingdom.
 MEID_HONOR_ブルーノ: Masked Knight
