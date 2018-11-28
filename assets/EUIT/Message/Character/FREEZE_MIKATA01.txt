@@ -1,0 +1,38 @@
+[Heroes Archive] (FREEZE_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_FREEZE_MIKATA01_HOME1: La pace di questa nazione dipende da\nte. La protezione che le offri vale più\ndi qualsiasi tesoro.
+MID_FREEZE_MIKATA01_HOME2: È grazie a tutto ciò che hai fatto se\nNifl può risorgere. Non dimenticherò\nmai il debito che abbiamo verso di te.
+MID_FREEZE_MIKATA01_HOME3: Ti prego, riposati un po'. La fatica\noffusca il giudizio... Prenderò io il tuo\nposto, non preoccuparti.
+MID_FREEZE_MIKATA01_HOME4: So che sono un po' freddo e per\nquesto mi scuso, ma non è nelle mie\ncorde ridere e scherzare.
+MID_FREEZE_MIKATA01_HOME5: Finché avrò fiato non scorderò mai\ndi aver fallito nel difendere il mio\npopolo e le mie sorelle.
+MID_FREEZE_MIKATA01_FRIEND: Sono Hríd, il primo principe di Nifl,\nil regno del ghiaccio. Ho una missiva\nda parte di $Nf.
+MID_FREEZE_MIKATA01_LEVEL1: Un risultato eccellente, non trovi?
+MID_FREEZE_MIKATA01_LEVEL2: Un risultato... ragionevole.
+MID_FREEZE_MIKATA01_LEVEL3: Alquanto insoddisfacente.
+MID_FREEZE_MIKATA01_SKILL: Grazie. Per proteggere ciò che amo,\nmi serve forza in abbondanza.
+MID_FREEZE_MIKATA01_JOIN: Sono Hríd, il primo principe di Nifl,\nil regno del ghiaccio. Giuro sul mio\nnome di esserti d'aiuto.
+MID_FREEZE_MIKATA01_STRONGEST: Il mio era un regno pacifico come\ntanti. Sempre abbiamo cercato\nalleanze e mai il conflitto.$k$pNifl era puro come la neve appena\ncaduta, ma quando Múspell ci invase,\ncambiò tutto.$k$pUn cuore che cerca solo la pace è\nprezioso, ma chi lo possiede è una\npreda facile. E io lo so bene.$k$pAnche se voglio la pace, no...\nSICCOME la voglio, devo essere forte.$k$pDevo essere la lama che protegge\nil regno. D'ora in poi non lascerò che\nnulla minacci l'indipendenza di Nifl.
+MID_FREEZE_MIKATA01_VOICE01: はっ！
+MID_FREEZE_MIKATA01_VOICE02: 無駄だ
+MID_FREEZE_MIKATA01_VOICE03: うああっ！
+MID_FREEZE_MIKATA01_VOICE04: まだだ…
+MID_FREEZE_MIKATA01_VOICE05: È inevitabile.
+MID_FREEZE_MIKATA01_VOICE06: Resterai di ghiaccio.
+MID_FREEZE_MIKATA01_VOICE07: Inverno perenne!
+MID_FREEZE_MIKATA01_VOICE08: Ti gelerò!
+MID_FREEZE_MIKATA01_VOICE09: Sorry, Fjorm...
+MID_FREEZE_MIKATA01_VOICE10: ふっ…
+MID_FREEZE_MIKATA01_VOICE11: I am Hrid, the eldest prince of Nifl.
+MID_FREEZE_MIKATA01_VOICE12: Hm? Oh, sorry. It's going to take me a while to get used to that.
+MID_FREEZE_MIKATA01_VOICE13: My homeland is completely covered in snow, as far as the eye can see. I happen to think it's beautiful.
+MID_FREEZE_MIKATA01_VOICE14: You have warm hands.
+MID_FREEZE_MIKATA01_VOICE15: You're very mysterious. But spending time with you puts me at ease, all the same...
+MID_FREEZE_MIKATA01_VOICE16: Protecting my homeland was my duty. And I failed in that duty.
+MID_FREEZE_MIKATA01_VOICE17: I will lend you my strength. Ask whatever you need of me. I'll do what I can.
+MID_FREEZE_MIKATA01_VOICE18: Understood.
+MID_FREEZE_MIKATA01_VOICE19: What next?
+MID_FREEZE_MIKATA01_VOICE20: Waiting for orders.

@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_642_legend11)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花のかんざし・金: Forcina a fiori d'oro
+MDAID_H_花のかんざし・金: Un trofeo per la vittoria contro\nla versione leggendaria di Hríd.
+MDAID_夏祭りのお面・金: Maschera estiva d'oro
+MDAID_H_夏祭りのお面・金: Un trofeo per la vittoria contro\nla versione leggendaria di Lucina.
+MDAID_重騎士の兜・金: Elmo corazzato d'oro
+MDAID_H_重騎士の兜・金: Un trofeo per la vittoria contro\nla versione leggendaria di Ryoma.
+MDAID_ニフルの冠: Corona di Nifl
+MDAID_H_ニフルの冠: La corona di Hríd, in grado di\nmantenere fredda la mente di\nchi la indossa.
+MDAID_ニフルの冠・極: Corona di Nifl+
+MDAID_H_ニフルの冠・極: Corona tramandata per generazioni\nnella famiglia reale di Nifl e che ora\ncinge il capo di Hríd.
+MDAID_ニフルのお守り: Stella di Nifl
+MDAID_H_ニフルのお守り: Un portafortuna appartenente a Ylgr.\nLa decorazione è ispirata al blasone\ndi Nifl.
+MDAID_ニフルのお守り・極: Stella di Nifl+
+MDAID_H_ニフルのお守り・極: Un portafortuna appartenente a Ylgr,\nche è stato consacrato per assicurare\nil benessere di chi lo indossa.
+MDAID_氷の花の髪飾り: Fiore di Nifl
+MDAID_H_氷の花の髪飾り: Il fiore di Gunnthrá. Traslucido e\nfreddo al tatto, questo bocciolo\nnon si scioglierà mai.
+MDAID_氷の花の髪飾り・極: Fiore di Nifl+
+MDAID_H_氷の花の髪飾り・極: Il fiore di Gunnthrá, che fiorisce solo in\nalcune zone di Nifl ma che non si\nscioglie mai, in nessun luogo.
+MDAID_氷の姫のティアラ: Tiara gelida
+MDAID_H_氷の姫のティアラ: La tiara di Fjorm. Un oggetto di\npregiata fattura che si è danneggiato\nnella battaglia contro Surtr.
+MDAID_氷の姫のティアラ・極: Tiara gelida+
+MDAID_H_氷の姫のティアラ・極: La tiara di Fjorm. Le gemme che la\ndecorano sono limpide e fredde e\nsi trovano in abbondanza in Nifl.
+MID_MISSION_M201812A_TITLE: Imprese dic. (1)
+MID_MISSION_M201812A_A1: Vinci con unità blu
+MID_MISSION_H_M201812A_A1: Sconfiggi un nemico con unità di tipo blu.
+MID_MISSION_M201812A_A2: Vinci con unità di fanteria
+MID_MISSION_H_M201812A_A2: Sconfiggi un nemico con unità di fanteria.
+MID_MISSION_M201812A_A3: Batti nemici verdi
+MID_MISSION_H_M201812A_A3: Sconfiggi un nemico di tipo verde.
+MID_MISSION_M201812A_A4: Batti unità volanti
+MID_MISSION_H_M201812A_A4: Sconfiggi un nemico volante.
+MID_MISSION_M201812A_A5: Arena: vinci duelli
+MID_MISSION_H_M201812A_A5: Vinci duelli nell'arena a qualsiasi livello di\ndifficoltà.
+MID_MISSION_M201812A_A6: Rosso batte nem. Liv 20+
+MID_MISSION_H_M201812A_A6: Sconfiggi un nemico di livello 20 o superiore\ncon unità di tipo rosso.
+MID_MISSION_M201812A_A7: Volante batte nem. Liv 20+
+MID_MISSION_H_M201812A_A7: Sconfiggi un nemico di livello 20 o superiore\ncon unità volanti.
+MID_MISSION_M201812A_A8: Batti nemici blu Liv 20+
+MID_MISSION_H_M201812A_A8: Sconfiggi un nemico di tipo blu di livello 20\no superiore.
+MID_MISSION_M201812A_A9: Batti fanteria Liv 20+
+MID_MISSION_H_M201812A_A9: Sconfiggi un nemico di fanteria di livello 20\no superiore.
+MID_MISSION_M201812A_A10: Arena: vinci duelli int.+
+MID_MISSION_H_M201812A_A10: Vinci duelli nell'arena di livello intermedio\no superiore.
+MID_MISSION_M201812A_A11: Verde batte nem. Liv 35+
+MID_MISSION_H_M201812A_A11: Sconfiggi un nemico di livello 35 o superiore\ncon unità di tipo verde.
+MID_MISSION_M201812A_A12: Cavall. batte nem. Liv 35+
+MID_MISSION_H_M201812A_A12: Sconfiggi un nemico di livello 35 o superiore\ncon unità a cavallo.
+MID_MISSION_M201812A_A13: Batti nemici rossi Liv 35+
+MID_MISSION_H_M201812A_A13: Sconfiggi un nemico di tipo rosso di livello 35\no superiore.
+MID_MISSION_M201812A_A14: Batti cavalleria Liv 35+
+MID_MISSION_H_M201812A_A14: Sconfiggi un nemico a cavallo di livello 35\no superiore.
+MID_MISSION_M201812A_A15: Arena: vinci duelli av.
+MID_MISSION_H_M201812A_A15: Vinci duelli nell'arena di livello avanzato.
+MID_MISSION_M201812B_TITLE: Imprese dic. (2)
+MID_MISSION_M201812B_A1: Torre: vinci al 1º piano
+MID_MISSION_H_M201812B_A1: Completa il primo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A2: Torre: vinci al 2º piano
+MID_MISSION_H_M201812B_A2: Completa il secondo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A3: Torre: vinci al 3º piano
+MID_MISSION_H_M201812B_A3: Completa il terzo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A4: Torre: vinci al 4º piano
+MID_MISSION_H_M201812B_A4: Completa il quarto piano della\ntorre di allenamento. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201812B_A5: Torre: vinci al 5º piano
+MID_MISSION_H_M201812B_A5: Completa il quinto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A6: Torre: vinci al 6º piano
+MID_MISSION_H_M201812B_A6: Completa il sesto piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A7: Torre: vinci al 7º piano
+MID_MISSION_H_M201812B_A7: Completa il settimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A8: Torre: vinci all'8º piano
+MID_MISSION_H_M201812B_A8: Completa l'ottavo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A9: Torre: vinci al 9º piano
+MID_MISSION_H_M201812B_A9: Completa il nono piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A10: Torre: vinci al 10º piano
+MID_MISSION_H_M201812B_A10: Completa il decimo piano della torre\ndi allenamento. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812B_A11: Torre: vinci al 10º piano
+MID_MISSION_H_M201812B_A11: Completa il decimo piano della torre di\nallenamento con sole unità di fanteria.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812B_A12: Torre: vinci al 10º piano
+MID_MISSION_H_M201812B_A12: Completa il decimo piano della torre di\nallenamento con soli alleati corazzati.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812B_A13: Torre: vinci al 10º piano
+MID_MISSION_H_M201812B_A13: Completa il decimo piano della torre di\nallenamento con soli alleati a cavallo.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812B_A14: Torre: vinci al 10º piano
+MID_MISSION_H_M201812B_A14: Completa il decimo piano della torre di\nallenamento con soli alleati volanti. Tutti\ne 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_TITLE: Imprese dic. (3)
+MID_MISSION_M201812C_A1: Completa 2-1
+MID_MISSION_H_M201812C_A1: Completa il cap. 2, parte 1. Tutti e 4 gli alleati\ndevono sopravvivere.
+MID_MISSION_M201812C_A2: Completa 2-2
+MID_MISSION_H_M201812C_A2: Completa il cap. 2, parte 2 con un'unità rossa\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201812C_A3: Completa 2-3
+MID_MISSION_H_M201812C_A3: Completa il cap. 2, parte 3 con un'unità blu\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201812C_A4: Completa 2-4
+MID_MISSION_H_M201812C_A4: Completa il cap. 2, parte 4 con un'unità verde\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201812C_A5: Completa 2-5
+MID_MISSION_H_M201812C_A5: Completa il cap. 2, parte 5 con un'unità neutra\nin squadra. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201812C_A6: Completa 5-1 difficile+
+MID_MISSION_H_M201812C_A6: Completa il cap. 5, parte 1 al livello di difficoltà\ndifficile o superiore. Tutti e 4 gli alleati devono\nsopravvivere.
+MID_MISSION_M201812C_A7: Completa 5-2 difficile+
+MID_MISSION_H_M201812C_A7: Completa il cap. 5, parte 2 con un'unità rossa\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_A8: Completa 5-3 difficile+
+MID_MISSION_H_M201812C_A8: Completa il cap. 5, parte 3 con un'unità blu\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_A9: Completa 5-4 difficile+
+MID_MISSION_H_M201812C_A9: Completa il cap. 5, parte 4 con un'unità verde\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_A10: Completa 5-5 difficile+
+MID_MISSION_H_M201812C_A10: Completa il cap. 5, parte 5 con un'unità neutra\nin squadra alla difficoltà difficile o superiore.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_A11: Completa 8-1 folle
+MID_MISSION_H_M201812C_A11: Completa il cap. 8, parte 1 al livello di difficoltà\nfolle. Tutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_M201812C_A12: Completa 8-2 folle
+MID_MISSION_H_M201812C_A12: Completa il cap. 8, parte 2 al livello di difficoltà\nfolle con un'unità rossa in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201812C_A13: Completa 8-3 folle
+MID_MISSION_H_M201812C_A13: Completa il cap. 8, parte 3 al livello di difficoltà\nfolle con un'unità blu in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201812C_A14: Completa 8-4 folle
+MID_MISSION_H_M201812C_A14: Completa il cap. 8, parte 4 al livello di difficoltà\nfolle con un'unità verde in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_M201812C_A15: Completa 8-5 folle
+MID_MISSION_H_M201812C_A15: Completa il cap. 8, parte 5 al livello di difficoltà\nfolle con un'unità neutra in squadra. Tutti e 4\ngli alleati devono sopravvivere.
+MID_MISSION_S201812CHARA01_TITLE: Tre eroi
+MID_MISSION_S201812CHARA01_A1: Vinci
+MID_MISSION_H_S201812CHARA01_A1: Sconfiggi un nemico.
+MID_MISSION_S201812CHARA01_A2: Vinci con Olivia
+MID_MISSION_H_S201812CHARA01_A2: Usa Olivia, la mammoletta, per sconfiggere\nun nemico.
+MID_MISSION_S201812CHARA01_A3: Vinci con Corrin
+MID_MISSION_H_S201812CHARA01_A3: Usa Corrin, la princ. del fato, per sconfiggere\nun nemico.
+MID_MISSION_S201812CHARA01_B1: Batti nemici Liv 20+
+MID_MISSION_H_S201812CHARA01_B1: Usa Olivia, la mammoletta, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201812CHARA01_B2: Batti nemici Liv 20+
+MID_MISSION_H_S201812CHARA01_B2: Usa Corrin, la princ. del fato, per sconfiggere\nun nemico di livello 20 o superiore.
+MID_MISSION_S201812CHARA01_B3: Batti nemici Liv 20+
+MID_MISSION_H_S201812CHARA01_B3: Usa Azama per sconfiggere un nemico\ndi livello 20 o superiore.
+MID_MISSION_S201812CHARA01_C1: Batti nemici Liv 35+
+MID_MISSION_H_S201812CHARA01_C1: Usa Olivia, la mammoletta, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201812CHARA01_C2: Batti nemici Liv 35+
+MID_MISSION_H_S201812CHARA01_C2: Usa Corrin, la princ. del fato, per sconfiggere\nun nemico di livello 35 o superiore.
+MID_MISSION_S201812CHARA01_C3: Batti nemici Liv 35+
+MID_MISSION_H_S201812CHARA01_C3: Usa Azama per sconfiggere un nemico\ndi livello 35 o superiore.
+MID_MISSION_S201812KIZUNA01_TITLE: Battaglia legame
+MID_MISSION_S201812KIZUNA01_A1: Vinci Battaglia legame
+MID_MISSION_H_S201812KIZUNA01_A1: Vinci la Battaglia legame contro Seliph e Julia\ncon Sharena, la principessa di Askr, in squadra.
+MID_MISSION_S201812KIZUNA01_A2: Vinci Battaglia legame
+MID_MISSION_H_S201812KIZUNA01_A2: Vinci la Battaglia legame contro Seliph e Julia\nal livello di difficoltà folle o superiore con\nAlfonse, il principe di Askr, in squadra.
+MID_MISSION_S201812KIZUNA01_A3: Batti Seliph
+MID_MISSION_H_S201812KIZUNA01_A3: Batti Seliph di livello 40 o superiore con\nSharena, la principessa di Askr.
+MID_MISSION_S201812KIZUNA01_A4: Batti Julia
+MID_MISSION_H_S201812KIZUNA01_A4: Batti Julia di livello 40 o superiore con\nAlfonse, il principe di Askr.
+MID_MISSION_S201812KIZUNA01_A5: Vinci Battaglia legame
+MID_MISSION_H_S201812KIZUNA01_A5: Vinci la Battaglia legame contro Seliph e Julia\nal livello di difficoltà folle o superiore con\nuna squadra di sole unità di fanteria.
+MID_MISSION_S201812VOTE01_TITLE: Sfida ai voti
+MID_MISSION_S201812VOTE01_A1: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A1: Vinci una battaglia nella sfida ai voti.
+MID_MISSION_S201812VOTE01_A2: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A2: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201812VOTE01_A3: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A3: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201812VOTE01_A4: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A4: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201812VOTE01_A5: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A5: Vinci battaglie nella sfida ai voti.
+MID_MISSION_S201812VOTE01_A6: Torre: vinci al 2º piano
+MID_MISSION_H_S201812VOTE01_A6: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201812VOTE01_A7: Torre: vinci al 5º piano
+MID_MISSION_H_S201812VOTE01_A7: Vinci al quinto piano della torre\ndi allenamento.
+MID_MISSION_S201812VOTE01_A8: Torre: vinci all'8º piano
+MID_MISSION_H_S201812VOTE01_A8: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201812VOTE01_A9: Arena: vinci duelli
+MID_MISSION_H_S201812VOTE01_A9: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201812VOTE01_A10: Arena: vinci duelli
+MID_MISSION_H_S201812VOTE01_A10: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201812VOTE01_A11: Arena: vinci duelli int.+
+MID_MISSION_H_S201812VOTE01_A11: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201812VOTE01_A12: Arena: vinci duelli int.+
+MID_MISSION_H_S201812VOTE01_A12: Vinci duelli nell'arena di livello\nintermedio o superiore.
+MID_MISSION_S201812VOTE01_A13: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A13: Vinci una battaglia nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201812VOTE01_A14: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A14: Vinci una battaglia nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201812VOTE01_A15: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A15: Vinci una battaglia nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201812VOTE01_A16: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A16: Vinci una battaglia nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MID_MISSION_S201812VOTE01_A17: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A17: Vinci battaglie nella sfida ai voti\ncon un'unità rossa nella tua squadra.
+MID_MISSION_S201812VOTE01_A18: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A18: Vinci battaglie nella sfida ai voti\ncon un'unità blu nella tua squadra.
+MID_MISSION_S201812VOTE01_A19: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A19: Vinci battaglie nella sfida ai voti\ncon un'unità verde nella tua squadra.
+MID_MISSION_S201812VOTE01_A20: Sfida ai voti
+MID_MISSION_H_S201812VOTE01_A20: Vinci battaglie nella sfida ai voti\ncon un'unità neutra nella tua squadra.
+MPID_HONOR_フリーズ: La lama gelata
+MPID_H_フリーズ: Il principe primogenito di Nifl, il regno\ndel ghiaccio. Dai nervi saldi e sempre\npadrone di sé, è pronto ad affrontare il\npericolo in qualsiasi momento.
+MPID_VOICE_フリーズ: Mark P. Whitten
+MPID_ILLUST_フリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_フリーズ: Effetto leggendario: vento\nIncremento alleato: PS +3, Dif +4\n\nSe l'unità scende in battaglia durante\nla stagione del vento con alleati che hanno\nil Dono del vento, quest'ultimi ricevono\nl'effetto leggendario.
+MSID_ギョッル: Gjöll
+MSID_凍結の封印: Sigillo glaciale
+MSID_H_ギョッル: Conferisce Att +3. Se il nemico è afflitto da\npenalità causate da abilità come Panico o Mina,\no effetti di stato negativi (come incapacità di\ncontrattaccare e movimenti limitati), attacco\ndoppio per l'unità e non per il nemico.
+MSID_H_凍結の封印: Se l'unità ha il 50% o più dei PS all'inizio\ndel turno, Att/Vel -6 al nemico con la Res\nminore durante la sua prossima azione.
+MID_STAGE_HONOR_L0009: La lama gelata
+MID_STAGE_L0009: Hríd
+MID_STAGE_TITLE_PB036: Le abilità: 36
+MID_STAGE_PB036: I sigilli di Nifl
+MID_STAGE_TITLE_PC019: Per veterani: 19
+MID_STAGE_PC019: Un trio tremendo

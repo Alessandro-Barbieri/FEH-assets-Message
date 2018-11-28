@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: Grandi conquiste
+MID_MISSION_S201811DAISEIATU01_A1: GC: ottieni punti
+MID_MISSION_H_S201811DAISEIATU01_A1: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201811DAISEIATU01_A2: GC: ottieni punti
+MID_MISSION_H_S201811DAISEIATU01_A2: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201811DAISEIATU01_A3: GC: ottieni punti
+MID_MISSION_H_S201811DAISEIATU01_A3: Ottieni punti in Grandi conquiste.
+MID_MISSION_S201811DAISEIATU01_A4: Torre: vinci al 2º piano
+MID_MISSION_H_S201811DAISEIATU01_A4: Vinci al secondo piano della torre\ndi allenamento.
+MID_MISSION_S201811DAISEIATU01_A5: Torre: vinci all'8º piano
+MID_MISSION_H_S201811DAISEIATU01_A5: Vinci all'ottavo piano della torre\ndi allenamento.
+MID_MISSION_S201811DAISEIATU01_A6: Arena: vinci duelli
+MID_MISSION_H_S201811DAISEIATU01_A6: Vinci duelli nell'arena a qualsiasi\nlivello di difficoltà.
+MID_MISSION_S201811STORY02_TITLE: Nifl e Múspell
+MID_MISSION_S201811STORY02_A1: Completa parte 1 folle
+MID_MISSION_H_S201811STORY02_A1: Completa la parte 1 con un'unità armata di\nlancia in squadra al livello di difficoltà folle.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201811STORY02_A2: Completa parte 2 folle
+MID_MISSION_H_S201811STORY02_A2: Completa la parte 2 con un'unità armata di\nascia in squadra al livello di difficoltà folle.\nTutti e 4 gli alleati devono sopravvivere.
+MID_MISSION_S201811STORY02_A3: Completa parte 3 folle
+MID_MISSION_H_S201811STORY02_A3: Completa la parte 3 con un'unità armata di\nspada in squadra al livello di difficoltà folle.\nTutti e 4 gli alleati devono sopravvivere.
+MPID_ヘル影: ???
+MPID_スルト味方: Surtr
+MPID_ガーネフ: Gharnef
+MPID_HONOR_ユルグ: Il fiocco di neve
+MPID_HONOR_スルト味方: Il re del fuoco
+MPID_HONOR_ガーネフ: Pontefice oscuro
+MPID_H_ユルグ: La più giovane principessa di Nifl, il regno\ndel ghiaccio. Ingenua e molto curiosa, desidera\ntanto esplorare nuovi orizzonti.
+MPID_H_スルト味方: Re di Múspell, il regno del fuoco. Nelle sue\nvene scorre il sangue del drago del fuoco.\nÈ un sovrano severo il cui desiderio di\nconquista è implacabile.
+MPID_H_ガーネフ: Studente di Gotoh, il Saggio bianco. Tramò per\nriportare in vita Medeus, il Drago ombra, e\npoter dominare il mondo intero. Compare in\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_ユルグ: Megan Lee
+MPID_VOICE_スルト味方: —
+MPID_VOICE_ガーネフ: DC Douglas
+MPID_ILLUST_ユルグ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_スルト味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: Sylgr
+MSID_マフー: Imhullu
+MSID_金剛の構え4: Posa decisa 4
+MSID_魔道の刃1: Lama incantata 1
+MSID_魔道の刃2: Lama incantata 2
+MSID_魔道の刃3: Lama incantata 3
+MSID_炎王の威嚇: Minaccia di Surtr
+MSID_H_シュルグ: Conferisce Vel +3. Se l'unità ha Vel superiore\nrispetto al nemico all'inizio dello scontro,\nconferisce Att/Vel +4 durante lo scontro.\nSe l'unità ha attaccato, infligge Dif/Res -7 al\nbersaglio e ai nemici entro 2 spazi dal bersaglio\ndopo lo scontro durante le loro prossime azioni.
+MSID_H_マフー: Conferisce Res +3. Infligge PS -5 ai nemici che\nnon usano la magia e che si trovano in un'area\ndi 5 colonne con al centro quella dell'unità\nall'inizio del turno 3 e gli impedisce di\ncontrattaccare durante le loro prossime azioni.
+MSID_H_金剛の構え4: Se il nemico attacca per primo, Dif +8 all'unità\ndurante lo scontro e ritarda l'attivazione\ndell'abilità speciale del nemico (contatore +1)\na ogni attacco. (Non cumulabile; si applica solo\nil valore più alto.)
+MSID_H_魔道の刃1: Se l'unità ha tutti i PS ed è adiacente a\nun alleato che usa la magia all'inizio dello\nscontro, il danno è calcolato usando Dif o Res\ndel nemico (il valore più basso).
+MSID_H_魔道の刃2: Se l'unità ha almeno il 50% dei PS ed è\nadiacente a un alleato che usa la magia\nall'inizio dello scontro, il danno è calcolato\nusando Dif o Res del nemico (il valore più\nbasso).
+MSID_H_魔道の刃3: Se l'unità è adiacente a un alleato che usa\nla magia all'inizio dello scontro, il danno è\ncalcolato usando Dif o Res del nemico (il valore\npiù basso).
+MSID_H_炎王の威嚇: Se l'unità si trova entro 2 spazi da un nemico\nall'inizio del turno, Att/Vel/Dif/Res +4 all'unità\nper 1 turno e Att/Vel/Dif/Res -4 ai nemici entro\n2 spazi durante le loro prossime azioni.
+MID_CHAPTER_TITLE_CXX04: Cronache 4
+MID_CHAPTER_CXX04: I sussurri della morte
+MID_STAGE_TITLE_XX004: Cronache 4
+MID_STAGE_XX004: I sussurri
+MID_STAGE_HONOR_V0271: Nifl e Múspell
+MID_STAGE_V0271: Parte 1
+MID_STAGE_HONOR_V0272: Nifl e Múspell
+MID_STAGE_V0272: Parte 2
+MID_STAGE_HONOR_V0273: Nifl e Múspell
+MID_STAGE_V0273: Parte 3
+MID_STAGE_HONOR_T0044: Pontefice oscuro
+MID_STAGE_T0044: Gharnef
+MID_STAGE_TITLE_PB035: Le abilità: 35
+MID_STAGE_PB035: Un solido legame
+MID_STAGE_TITLE_PC018: Per veterani: 18
+MID_STAGE_PC018: Demolizione
