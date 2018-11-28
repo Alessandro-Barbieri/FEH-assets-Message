@@ -264,7 +264,7 @@ MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: -Terreno-\nCambia el terreno de tu 
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: Ataca al enemigo ¡y defiéndete!
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: -Asaltos etéreos-\nColoca estructuras, un equipo\nde defensa y otros elementos\nen tus mapas y ataca a enemigos\no defiéndete de ellos para\nconseguir más altitud.\n\nSi las defensas son derrotadas\nen siete turnos, la victoria\nes para el atacante.
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: -Éter-\nSirve para participar en Asaltos\netéreos. Se restaura en una\ncantidad fija cada día y se\nrestaura por completo para\nel inicio de una nueva temporada.\nNota: No se puede restaurar\nsobre el límite máximo.\nCuanta más altitud tengas, más\néter necesitarás para combatir.
-MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: -Altitud y rango-\nTu altitud variará en función\nde tus resultados en ataque\ny defensa. Tu rango se calcula\nen función de tu altitud.\nAl inicio de cada temporada,\ncomenzarás con una altitud\nque se determinará en función\ndel rango del que partas.
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: -Altitud y rango-\n・ Tu altitud variará en función\nde tus resultados en ataque\ny defensa.\n・ Tu rango se calcula en función\nde tu altitud.\n・ Al inicio de cada temporada,\ncomenzarás con una altitud\ndistinta según tu rango (a partir\ndel rango 12 de AE).
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: -Conseguir altitud-\n・ Si usas a un héroe de la\ntemporada en tu grupo de asalto,\nrecibirás +20 de altitud.\n・ No se reducirá la altitud\nmáxima de las defensas.\n・ Si usas a varios héroes\nde la temporada, solo aplica\nla bonificación del héroe\ncon mayor valor.\n・ Lograrás menos altitud si tu\ngrupo de asalto es derrotado.
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: -Condiciones especiales-\nSi tu altitud es de 4000\no menos, las derrotas en\nataque y en defensa\nno reducirán tu altitud.
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: -Otros datos-\nSi una batalla no finaliza\nadecuadamente, no cambiará\nla altitud total del atacante\nni la del defensor.
@@ -408,7 +408,7 @@ MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_00: -Editar grupos de asalto-\nElige
 MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_01: -Altitud máxima-\nLa cantidad máxima de altitud\nque puedes obtener cuando\nun grupo de asalto logra una\nvictoria en un ataque.
 MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_02: -Ampliar los grupos de asalto-\nSi subes de rango en Asaltos\netéreos podrás añadir una quinta\nunidad a tu grupo de asalto.\nNecesitarás piedras etéreas\npara desbloquear espacios\npara unidades adicionales.
 MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_03: -Espacios adicionales-\nPara poder añadir una quinta\nunidad a un grupo de asalto,\ndeberás tener rango 11 o superior.
-MID_UNIT_EDIT_SKYCASTLE_DEFENSE: Editar equipo de defensa
+MID_UNIT_EDIT_SKYCASTLE_DEFENSE: Edit. equipo de defensa
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP: Edita tu equipo de defensa.
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_00: $aAlcanza\nrg. $a0
 MID_UNIT_EDIT_SKYCASTLE_DEFENSE_BUYSLOT_BTN_01: Añadir\naliado

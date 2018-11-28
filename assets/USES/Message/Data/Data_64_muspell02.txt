@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: Grandes conquistas
+MID_MISSION_S201811DAISEIATU01_A1: GC: Ganar puntos
+MID_MISSION_H_S201811DAISEIATU01_A1: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201811DAISEIATU01_A2: GC: Ganar puntos
+MID_MISSION_H_S201811DAISEIATU01_A2: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201811DAISEIATU01_A3: GC: Ganar puntos
+MID_MISSION_H_S201811DAISEIATU01_A3: Gana puntos en las Grandes conquistas.
+MID_MISSION_S201811DAISEIATU01_A4: T. de práctica - Estrato 2
+MID_MISSION_H_S201811DAISEIATU01_A4: Supera el segundo estrato\nde la torre de práctica.
+MID_MISSION_S201811DAISEIATU01_A5: T. de práctica - Estrato 8
+MID_MISSION_H_S201811DAISEIATU01_A5: Supera el octavo estrato de\nla torre de práctica.
+MID_MISSION_S201811DAISEIATU01_A6: Gladiador
+MID_MISSION_H_S201811DAISEIATU01_A6: Vence a rivales de cualquier\nnivel de dificultad en el coliseo.
+MID_MISSION_S201811STORY02_TITLE: Nifl y Múspell
+MID_MISSION_S201811STORY02_A1: Parte 1: Extremo
+MID_MISSION_H_S201811STORY02_A1: Supera la 1.ª parte en modo extremo con un\nlancero en tu batallón. Los cuatro aliados\ndeben sobrevivir.
+MID_MISSION_S201811STORY02_A2: Parte 2: Extremo
+MID_MISSION_H_S201811STORY02_A2: Supera la 2.ª parte en modo extremo con una\nunidad con hacha en tu batallón. Los cuatro\naliados deben sobrevivir.
+MID_MISSION_S201811STORY02_A3: Parte 3: Extremo
+MID_MISSION_H_S201811STORY02_A3: Supera la 3.ª parte en modo extremo con un\nespadachín en tu batallón. Los cuatro aliados\ndeben sobrevivir.
+MPID_ヘル影: (?)
+MPID_スルト味方: Surtr
+MPID_ガーネフ: Gharnef
+MPID_HONOR_ユルグ: Frescura natural
+MPID_HONOR_スルト味方: Soberano ígneo
+MPID_HONOR_ガーネフ: Pontífice Oscuro
+MPID_H_ユルグ: La princesa más joven de Nifl, el reino del hielo.\nEs de carácter inocente y naturaleza curiosa,\nsiempre dispuesta a explorar nuevos horizontes.
+MPID_H_スルト味方: Rey de Múspell, el reino del fuego. Por sus\nvenas corre la sangre del dragón ígneo.\nUn soberano cruel con una sed de conquista\ninsaciable.
+MPID_H_ガーネフ: Discípulo de Gotoh, el Sabio Blanco.\nIdeó un plan para resucitar al dragón\nsombrío Medeus y convertirse así en\namo y señor del mundo. Aparece en\nFire Emblem: Mystery of the Emblem.
+MPID_VOICE_ユルグ: Megan Lee
+MPID_VOICE_スルト味方: —
+MPID_VOICE_ガーネフ: DC Douglas
+MPID_ILLUST_ユルグ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_スルト味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: Sylgr
+MSID_マフー: Imhullu
+MSID_金剛の構え4: Postura firme 4
+MSID_魔道の刃1: Espada mágica 1
+MSID_魔道の刃2: Espada mágica 2
+MSID_魔道の刃3: Espada mágica 3
+MSID_炎王の威嚇: Desafío de Surtr
+MSID_H_シュルグ: Otorga Vel. +3. Si la Vel. de la unidad es mayor\nque la del rival al inicio del ataque, otorga Atq.\ny Vel. +4 durante el combate. Tras un ataque,\nsi la unidad ha acometido al rival, Def. y Res. -7\nal rival y a todos los enemigos en un radio\nde dos casillas del rival en su próxima acción.
+MSID_H_マフー: Otorga Res. +3. Al inicio del tercer turno, los\nenemigos que no usan magia en un radio de\n5 columnas sufren 5 puntos de daño y un\nestado alterado que les impide contratacar\nen su próxima acción.
+MSID_H_金剛の構え4: Si el rival inicia el ataque, Def. +8 a la unidad\ny +1 a la cuenta regresiva del rival por cada\nataque. (Solo se aplica el valor más alto.\nNo acumulable).
+MSID_H_魔道の刃1: Si la unidad tiene 100 % de PV y un aliado\nque use magia en una casilla adyacente al\ninicio del ataque, el daño se calcula a partir\nde la Def. o Res. del enemigo (la que tenga\nel valor más bajo).
+MSID_H_魔道の刃2: Si la unidad tiene 50 % de PV o más y un aliado\nque use magia en una casilla adyacente al\ninicio del ataque, el daño se calcula a partir\nde la Def. o Res. del enemigo (la que tenga\nel valor más bajo).
+MSID_H_魔道の刃3: Si la unidad tiene un aliado que use magia\nen una casilla adyacente al inicio del ataque,\nel daño se calcula a partir de la Def. o Res.\ndel enemigo (la que tenga el valor más bajo).
+MSID_H_炎王の威嚇: Si la unidad se encuentra en un radio de dos\ncasillas de un rival al inicio del turno, recibe\nAtq., Vel., Def. y Res +4 durante un turno e\ninflige Atq., Vel., Def. y Res. -4 a los enemigos\nen un radio de dos casillas en su próxima acción.
+MID_CHAPTER_TITLE_CXX04: Epopeya 4
+MID_CHAPTER_CXX04: Murmullos mortales
+MID_STAGE_TITLE_XX004: Epopeya 4
+MID_STAGE_XX004: Murmullos
+MID_STAGE_HONOR_V0271: Nifl y Múspell
+MID_STAGE_V0271: Parte 1
+MID_STAGE_HONOR_V0272: Nifl y Múspell
+MID_STAGE_V0272: Parte 2
+MID_STAGE_HONOR_V0273: Nifl y Múspell
+MID_STAGE_V0273: Parte 3
+MID_STAGE_HONOR_T0044: Pontífice Oscuro
+MID_STAGE_T0044: Gharnef
+MID_STAGE_TITLE_PB035: Habilidades 35
+MID_STAGE_PB035: Lazos indestructibles
+MID_STAGE_TITLE_PC018: Maestría 18
+MID_STAGE_PC018: ¡Al ataque!

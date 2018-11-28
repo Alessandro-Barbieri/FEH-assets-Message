@@ -164,10 +164,10 @@ MSID_H_攻撃速さの絆R魔杖: Si la unidad se encuentra en un radio de\ndos 
 MSID_H_第11迷宮の覇者1: Otorga PV +3.
 MSID_H_第11迷宮の覇者2: Otorga PV +4.
 MSID_H_第11迷宮の覇者3: Otorga PV +5.
-MSID_H_剣姫の刀: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Si supera la Vel. del\nenemigo en 1 punto o más, convierte un 70 %\nde la diferencia de atributos en daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
+MSID_H_剣姫の刀: Facilita la ejecución de habilidades especiales\n(-1 a la cuenta regresiva). Si supera la Vel. del\nenemigo en 1 punto o más, inflige un 70 % de\nla diferencia de atributos como daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
 MSID_H_粛清の暗器: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef. y Res. -5 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
 MSID_H_粛清の暗器＋: Convierte la cantidad total de bonificaciones\ndel rival en daño adicional en combate.\nTras un ataque, si la unidad actúa, inflige\nDef. y Res. -7 al rival y a todos los enemigos\nen un radio de dos casillas del rival\nen su próxima acción.
-MSID_H_ギガスカリバー: Otorga Vel. +3. Si supera la Vel. del enemigo\nen 1 punto o más, convierte un 70 % de la\ndiferencia de atributos en daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
+MSID_H_ギガスカリバー: Otorga Vel. +3. Si supera la Vel. del enemigo\nen 1 punto o más, inflige un 70 % de la\ndiferencia de atributos como daño adicional.\n(Máximo de +7 de daño. Combina bien con\nVel. fantasma).
 MSID_H_曲技飛行1: Si la unidad tiene PV = 100 %, podrá\nmoverse a una casilla adyacente a un\naliado de infantería, acorazado, o de\ncaballería en un radio de dos casillas.
 MSID_H_曲技飛行2: Si la unidad tiene PV ≥ 50 %, podrá\nmoverse a una casilla adyacente a un\naliado de infantería, acorazado, o de\ncaballería en un radio de dos casillas.
 MSID_H_曲技飛行3: La unidad podrá moverse a una casilla\nadyacente a un aliado de infantería, acorazado,\no de caballería en un radio de dos casillas.

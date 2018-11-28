@@ -40,7 +40,7 @@ MID_UNIT_EDIT_SKILL_WARNING_REFINE: Esta habilidad refinada no se puede legar.
 MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_00: ¡Refina armas y aumenta su poder!
 MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_01: -Refinería de armas-\nAquí puedes refinar armas para\naumentar su poder.\n\nPara ello necesitarás piedras de\nrefinado, PH y medallas del coliseo\n(que se consiguen en el coliseo).
 MID_UNIT_EDIT_WEAPON_REFINE_HELP_DIALOG_02: -Rocío divino-\nPara refinar algunas armas,\nnecesitarás rocío divino\nen vez de piedras de refinado.\n\nPuedes crearlo en la refinería\nde armas con piedras de refinado.
-MID_UNIT_EDIT_BLESSING: Conferir bendiciones
+MID_UNIT_EDIT_BLESSING: Conferir bendición
 MID_UNIT_EDIT_BLESSING_HELP_DIALOG_00: ¡Bendición de héroes legendarios!
 MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01: -Conferir bendiciones-\nPuedes conferir bendiciones\na tus aliados usando objetos\nde bendición.\n\nNo se pueden conferir a Fjorm\nu otros héroes legendarios.
 MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02: -Efectos de bendiciones 1-\nLos aliados bendecidos reciben\nel doble de PH de lo normal.\n\nAunque no se pueden conferir\nbendiciones a los héroes\nlegendarios, estos siempre\nganarán el doble de PH\nen las batallas.
