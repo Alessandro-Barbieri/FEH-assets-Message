@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: Grand Conquests
+MID_MISSION_S201811DAISEIATU01_A1: GC: Earn Score
+MID_MISSION_H_S201811DAISEIATU01_A1: Earn points in Grand Conquests.
+MID_MISSION_S201811DAISEIATU01_A2: GC: Earn Score
+MID_MISSION_H_S201811DAISEIATU01_A2: Earn points in Grand Conquests.
+MID_MISSION_S201811DAISEIATU01_A3: GC: Earn Score
+MID_MISSION_H_S201811DAISEIATU01_A3: Earn points in Grand Conquests.
+MID_MISSION_S201811DAISEIATU01_A4: Tower: 2nd Stratum
+MID_MISSION_H_S201811DAISEIATU01_A4: Clear the second stratum of the Training Tower.
+MID_MISSION_S201811DAISEIATU01_A5: Tower: 8th Stratum
+MID_MISSION_H_S201811DAISEIATU01_A5: Clear the eighth stratum of the Training Tower.
+MID_MISSION_S201811DAISEIATU01_A6: Win Arena Duels
+MID_MISSION_H_S201811DAISEIATU01_A6: Win Arena Duels on any difficulty.
+MID_MISSION_S201811STORY02_TITLE: Nifl and Múspell
+MID_MISSION_S201811STORY02_A1: Clear Part 1 on Lunatic
+MID_MISSION_H_S201811STORY02_A1: Clear Part 1 on Lunatic difficulty with a lance\nally on your team. All four allies must survive.
+MID_MISSION_S201811STORY02_A2: Clear Part 2 on Lunatic
+MID_MISSION_H_S201811STORY02_A2: Clear Part 2 on Lunatic difficulty with an axe\nally on your team. All four allies must survive.
+MID_MISSION_S201811STORY02_A3: Clear Part 3 on Lunatic
+MID_MISSION_H_S201811STORY02_A3: Clear Part 3 on Lunatic difficulty with a sword\nally on your team. All four allies must survive.
+MPID_ヘル影: ???
+MPID_スルト味方: Surtr
+MPID_ガーネフ: Gharnef
+MPID_HONOR_ユルグ: Fresh Snowfall
+MPID_HONOR_スルト味方: Ruler of Flame
+MPID_HONOR_ガーネフ: Dark Pontifex
+MPID_H_ユルグ: The youngest princess of Nifl, the Kingdom of\nIce. Naive and brimming with curiosity, she's\neager to explore new horizons.
+MPID_H_スルト味方: King of Múspell, the Kingdom of Flame. Carries\nthe blood of the Flame Dragon. A harsh ruler\nwhose desire for conquest is relentless.
+MPID_H_ガーネフ: A student of Gotoh, the White Sage. Hatched a\nscheme to revive the Shadow Dragon, Medeus,\nand rule the world. Appears in Fire Emblem:\nMystery of the Emblem.
+MPID_VOICE_ユルグ: Megan Lee
+MPID_VOICE_スルト味方: —
+MPID_VOICE_ガーネフ: DC Douglas
+MPID_ILLUST_ユルグ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_スルト味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: Sylgr
+MSID_マフー: Imhullu
+MSID_金剛の構え4: Steady Stance 4
+MSID_魔道の刃1: Sorcery Blade 1
+MSID_魔道の刃2: Sorcery Blade 2
+MSID_魔道の刃3: Sorcery Blade 3
+MSID_炎王の威嚇: Surtr's Menace
+MSID_H_シュルグ: Grants Spd+3. At start of combat, if unit's\nSpd > foe's Spd, grants Atk/Spd+4 during\ncombat. After combat, if unit attacked, inflicts\nDef/Res-7 on target and foes within 2 spaces\nof target through their next actions.
+MSID_H_マフー: Grants Res+3. At the start of turn 3, deals 5\ndamage to non-magic foes within 5 columns\ncentered on unit, and inflicts status on those\nfoes preventing counterattacks through their\nnext actions.
+MSID_H_金剛の構え4: If foe initiates combat, grants Def+8 during\ncombat and inflicts Special cooldown charge -1\non foe per attack. (Only highest value applied.\nDoes not stack.)
+MSID_H_魔道の刃1: At start of combat, if unit's HP = 100% and\nunit is adjacent to a magic ally, calculates\ndamage using the lower of foe's Def or Res.
+MSID_H_魔道の刃2: At start of combat, if unit's HP ≥ 50% and unit\nis adjacent to a magic ally, calculates damage\nusing the lower of foe's Def or Res.
+MSID_H_魔道の刃3: At start of combat, if unit is adjacent to a magic\nally, calculates damage using the lower of foe's\nDef or Res.
+MSID_H_炎王の威嚇: At start of turn, if unit is within 2 spaces of a\nfoe, grants Atk/Spd/Def/Res+4 for 1 turn and\ninflicts Atk/Spd/Def/Res-4 on foes within 2\nspaces through their next actions.
+MID_CHAPTER_TITLE_CXX04: Xenologue 4
+MID_CHAPTER_CXX04: Whispers of Death
+MID_STAGE_TITLE_XX004: Xenologue 4
+MID_STAGE_XX004: Whispers
+MID_STAGE_HONOR_V0271: Nifl and Múspell
+MID_STAGE_V0271: Part 1
+MID_STAGE_HONOR_V0272: Nifl and Múspell
+MID_STAGE_V0272: Part 2
+MID_STAGE_HONOR_V0273: Nifl and Múspell
+MID_STAGE_V0273: Part 3
+MID_STAGE_HONOR_T0044: Dark Pontifex
+MID_STAGE_T0044: Gharnef
+MID_STAGE_TITLE_PB035: Skill Studies 35
+MID_STAGE_PB035: Unbreakable Bond
+MID_STAGE_TITLE_PC018: Grandmaster 18
+MID_STAGE_PC018: Break Through!

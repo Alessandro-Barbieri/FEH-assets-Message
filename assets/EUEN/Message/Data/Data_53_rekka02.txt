@@ -164,10 +164,10 @@ MSID_H_攻撃速さの絆R魔杖: If unit is within 2 spaces of magic or staff a
 MSID_H_第11迷宮の覇者1: Grants HP+3.
 MSID_H_第11迷宮の覇者2: Grants HP+4.
 MSID_H_第11迷宮の覇者3: Grants HP+5.
-MSID_H_剣姫の刀: Accelerates Special trigger (cooldown\ncount-1). If unit's Spd > foe's Spd, boosts\ndamage dealt by 70% of difference between\nstats. (Maximum bonus of +7 damage.\nCombos with Phantom Spd.)
+MSID_H_剣姫の刀: Accelerates Special trigger (cooldown count-1).\nIf unit's Spd > foe's Spd, deals damage = 70%\nof difference between stats. (Maximum bonus\nof +7 damage. Combos with Phantom Spd.)
 MSID_H_粛清の暗器: Adds total bonuses on foe to damage dealt\nduring combat. After combat, if unit attacked,\ninflicts Def/Res-5 on target and foes within\n2 spaces of target through their next actions.
 MSID_H_粛清の暗器＋: Adds total bonuses on foe to damage dealt\nduring combat. After combat, if unit attacked,\ninflicts Def/Res-7 on target and foes within\n2 spaces of target through their next actions.
-MSID_H_ギガスカリバー: Grants Spd+3. If unit's Spd > foe's Spd,\nboosts damage dealt by 70% of difference\nbetween stats. (Maximum bonus of +7\ndamage. Combos with Phantom Spd.)
+MSID_H_ギガスカリバー: Grants Spd+3. If unit's Spd > foe's Spd, deals\ndamage = 70% of difference between stats.\n(Maximum bonus of +7 damage. Combos with\nPhantom Spd.)
 MSID_H_曲技飛行1: If unit's HP = 100%, unit can move to a space\nadjacent to any infantry, armored, or cavalry\nally within 2 spaces.
 MSID_H_曲技飛行2: If unit's HP ≥ 50%, unit can move to a space\nadjacent to any infantry, armored, or cavalry\nally within 2 spaces.
 MSID_H_曲技飛行3: Unit can move to a space adjacent to any\ninfantry, armored, or cavalry ally within 2\nspaces.
