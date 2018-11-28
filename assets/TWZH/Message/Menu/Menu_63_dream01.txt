@@ -264,7 +264,7 @@ MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: ◆變更地形◆\n變更飛空城
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: 在自己與對手的飛空城進行攻防戰！
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: ◆飛空城◆\n在地圖上配置設備及部隊，\n以評價制配對對手，\n進行攻擊、防衛的戰鬥。\n\n若攻擊方於７回合內\n將防衛部隊全數殲滅，\n即可獲得勝利。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: ◆能量◆\n於飛空城進行對戰將消耗能量。\n經過１天後會回復一定數量，\n賽季開始時會完全回復。\n※回復量超過最大值時，\n　只會回復至最大值。\n\n評價越高時，\n對戰消費量也越高。
-MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: ◆評價與位階◆\n・評價會隨著\n　攻擊及防衛的戰績而變動。\n・位階將根據評價變動。\n・下個賽季將以\n　各位階規定的評價開始計算。
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: ◆評價與位階◆\n・評價會隨著\n　攻擊及防衛的戰績而變動。\n・位階將根據評價變動。\n・下個賽季將以\n　各位階規定的評價開始計算。\n（位階１２以上時）
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: ◆獲得的評價◆\n・將獎勵角色編入攻擊部隊中，\n　獲得評價將會＋２０。\n※防衛方的下降量不會變化。\n※若選擇複數角色時僅取最大值。\n\n・若攻擊部隊成員被擊敗，\n　可獲得的評價將會減少。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: ◆評價不會下降的特殊條件◆\n・評價為４０００以下時，\n　不會因為攻擊失敗、防衛失敗\n　而使評價下降。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: ◆評價　其他◆\n對戰未正常結束時，\n攻擊方及防衛方的評價皆不會變動。

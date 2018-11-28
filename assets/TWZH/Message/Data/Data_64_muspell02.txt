@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: 大壓制戰
+MID_MISSION_S201811DAISEIATU01_A1: 於大壓制戰中獲得得分
+MID_MISSION_H_S201811DAISEIATU01_A1: 於大壓制戰中獲得得分。
+MID_MISSION_S201811DAISEIATU01_A2: 於大壓制戰中獲得得分
+MID_MISSION_H_S201811DAISEIATU01_A2: 於大壓制戰中獲得得分。
+MID_MISSION_S201811DAISEIATU01_A3: 於大壓制戰中獲得得分
+MID_MISSION_H_S201811DAISEIATU01_A3: 於大壓制戰中獲得得分。
+MID_MISSION_S201811DAISEIATU01_A4: 突破修練之塔・第2層
+MID_MISSION_H_S201811DAISEIATU01_A4: 過關修練之塔・第2層。
+MID_MISSION_S201811DAISEIATU01_A5: 突破修練之塔・第8層
+MID_MISSION_H_S201811DAISEIATU01_A5: 過關修練之塔・第8層。
+MID_MISSION_S201811DAISEIATU01_A6: 在鬥技場獲勝
+MID_MISSION_H_S201811DAISEIATU01_A6: 在鬥技場獲勝。
+MID_MISSION_S201811STORY02_TITLE: 尼福爾與穆斯貝爾
+MID_MISSION_S201811STORY02_A1: 特殊:突破其之1(困難)
+MID_MISSION_H_S201811STORY02_A1: 我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關其之1(困難)。
+MID_MISSION_S201811STORY02_A2: 特殊:突破其之2(困難)
+MID_MISSION_H_S201811STORY02_A2: 我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關其之2(困難)。
+MID_MISSION_S201811STORY02_A3: 特殊:突破其之3(困難)
+MID_MISSION_H_S201811STORY02_A3: 我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關其之3(困難)。
+MPID_ヘル影: ？？？
+MPID_スルト味方: 斯爾特
+MPID_ガーネフ: 加內夫
+MPID_HONOR_ユルグ: 柔軟的新雪
+MPID_HONOR_スルト味方: 炎之王
+MPID_HONOR_ガーネフ: 暗黑魔王
+MPID_H_ユルグ: 冰之王國尼福爾的第三公主。個性天真爛漫。\n好奇心相當旺盛，喜歡四處觀察。
+MPID_H_スルト味方: 炎之王國穆斯貝爾的國王，繼承了炎龍的血脈。\n個性嚴厲冷酷，擁有極強的征服慾。
+MPID_H_ガーネフ: 白之賢者迦圖的其中一位弟子。\n企圖復活暗黑龍梅迪烏斯並掌控世界。\n（登場作品：『ファイアーエムブレム　紋章の謎』）
+MPID_VOICE_ユルグ: 大空直美(Naomi Ohzora)
+MPID_VOICE_スルト味方: 玄田哲章(Tessyo Genda)
+MPID_VOICE_ガーネフ: 成田剣(Ken Narita)
+MPID_ILLUST_ユルグ: 前嶋重機(Shigeki Maeshima)
+MPID_ILLUST_スルト味方: 前嶋重機(Shigeki Maeshima)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: 休爾格
+MSID_マフー: 摩忽
+MSID_金剛の構え4: 金剛架勢４
+MSID_魔道の刃1: 魔道之刃１
+MSID_魔道の刃2: 魔道之刃２
+MSID_魔道の刃3: 魔道之刃３
+MSID_炎王の威嚇: 炎王威嚇
+MSID_H_シュルグ: 速度＋３\n若戰鬥開始時，速度高於敵人的話，\n戰鬥中自己的攻擊及速度＋４\n若在戰鬥時進行攻擊，戰鬥後\n對方與其周圍２格內的敵人防守及魔防－７\n（直到敵人下次行動結束）
+MSID_H_マフー: 魔防＋３\n第３回合開始時，為位於自身縱向５列內\n魔法以外的敵人附加無法反擊的異常狀態\n（直到敵人下次行動結束）\n且給予上述對象５傷害
+MSID_H_金剛の構え4: 受到敵人攻擊時，戰鬥中的防守＋８\n且敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值）
+MSID_H_魔道の刃1: 若戰鬥開始時，自身ＨＰ為１００％，\n且和我方魔法單位相鄰時，\n以敵方防守及魔防中較低方計算傷害
+MSID_H_魔道の刃2: 若戰鬥開始時，自身ＨＰ高於５０％，\n且和我方魔法單位相鄰時，\n以敵方防守及魔防中較低方計算傷害
+MSID_H_魔道の刃3: 若戰鬥開始時，\n自身和我方魔法單位相鄰時，\n以敵方防守及魔防中較低方計算傷害
+MSID_H_炎王の威嚇: 回合開始時，若周圍２格內有敵人，\n則自己的攻擊、速度、防守、魔防＋４（１回合）\n且周圍２格內敵人的攻擊、速度、防守、魔防－４\n（直到敵人下次行動結束）
+MID_CHAPTER_TITLE_CXX04: 異傳４
+MID_CHAPTER_CXX04: 死亡細語
+MID_STAGE_TITLE_XX004: 異傳４
+MID_STAGE_XX004: 死亡細語
+MID_STAGE_HONOR_V0271: 尼福爾與穆斯貝爾
+MID_STAGE_V0271: 其之１
+MID_STAGE_HONOR_V0272: 尼福爾與穆斯貝爾
+MID_STAGE_V0272: 其之２
+MID_STAGE_HONOR_V0273: 尼福爾與穆斯貝爾
+MID_STAGE_V0273: 其之３
+MID_STAGE_HONOR_T0044: 暗黑魔王
+MID_STAGE_T0044: 加內夫
+MID_STAGE_TITLE_PB035: 技能篇３５
+MID_STAGE_PB035: 少女們的羈絆之力
+MID_STAGE_TITLE_PC018: 超難題１８
+MID_STAGE_PC018: 突破包圍網吧
