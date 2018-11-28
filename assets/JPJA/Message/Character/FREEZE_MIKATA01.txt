@@ -1,0 +1,38 @@
+[Heroes Archive] (FREEZE_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_FREEZE_MIKATA01_HOME1: この国の平和は、\n君たちによって守られている…\nそれは宝石のように貴いものだ。
+MID_FREEZE_MIKATA01_HOME2: 君たちのおかげで、\n我々はニフル王国を再興できた。\n君たちへの恩は決して忘れない。
+MID_FREEZE_MIKATA01_HOME3: 少し休息を取ると良い。\n疲労は判断を鈍らせる…\n私が見張りを務めよう。
+MID_FREEZE_MIKATA01_HOME4: 融通の利かない性格ですまない。\n冗談の一つも言えればいいのだろうが…\n…すまない、私には不向きなようだ。
+MID_FREEZE_MIKATA01_HOME5: 民や妹たちを守るべき自分が\nその役割を果たせなかった…\nそのことは、決して忘れることはできない。
+MID_FREEZE_MIKATA01_FRIEND: 私はニフル王国第一王子フリーズ。\n$Nfからの\n挨拶状を届けるためにここへ来た。
+MID_FREEZE_MIKATA01_LEVEL1: 非常に良い結果と\n言っていいだろう。
+MID_FREEZE_MIKATA01_LEVEL2: 妥当な結果と\n言うべきだろう。
+MID_FREEZE_MIKATA01_LEVEL3: 良くない結果だと\n言わざるを得ない…
+MID_FREEZE_MIKATA01_SKILL: ありがとう。\n守るために、私は力が欲しい。
+MID_FREEZE_MIKATA01_JOIN: 私はニフル王国第一王子フリーズ。\n私もニフル王族の一人として、\n君の力となることをここに誓おう。
+MID_FREEZE_MIKATA01_STRONGEST: ニフル王国は平和を愛し、\n他国との友好的な絆を望む、\n心優しい国だった。$k$pだが、白雪のように純粋な祖国は\nあのムスペルに侵略され…\n何もかもを奪い尽くされた。$k$p平和を思う心は貴い…だが、\nそれは敵にとっては絶好の獲物だ。\n私はこの身で、それを思い知った。$k$p平和を望むのだとしても…いや、\n平和を望むのであればこそ、\n強くなければならない。$k$p私は国と民を守る剣となる。\nもう二度と、奪わせはしない…
+MID_FREEZE_MIKATA01_VOICE01: はっ！
+MID_FREEZE_MIKATA01_VOICE02: 無駄だ
+MID_FREEZE_MIKATA01_VOICE03: うああっ！
+MID_FREEZE_MIKATA01_VOICE04: まだだ…
+MID_FREEZE_MIKATA01_VOICE05: 逃がしはしない
+MID_FREEZE_MIKATA01_VOICE06: 敵に慈悲はない
+MID_FREEZE_MIKATA01_VOICE07: 最後の一撃だ
+MID_FREEZE_MIKATA01_VOICE08: 命よ凍れ
+MID_FREEZE_MIKATA01_VOICE09: すまない…フィヨルム…
+MID_FREEZE_MIKATA01_VOICE10: ふっ…
+MID_FREEZE_MIKATA01_VOICE11: 私はフリーズ…ニフルの第一王子だ。
+MID_FREEZE_MIKATA01_VOICE12: ？　すまない…あまりそういう挨拶には慣れていない
+MID_FREEZE_MIKATA01_VOICE13: 私の祖国は一面の雪景色…だが、私はそれを美しいと思う。
+MID_FREEZE_MIKATA01_VOICE14: 君の手は、温かいのだな…
+MID_FREEZE_MIKATA01_VOICE15: 君は不思議な人だな…一緒にいると心が安らぐ
+MID_FREEZE_MIKATA01_VOICE16: 祖国を守るのが私の務め…私はそれを果たせなかった…
+MID_FREEZE_MIKATA01_VOICE17: 私は君に従う。私にできることはなんでも言って欲しい。
+MID_FREEZE_MIKATA01_VOICE18: わかった
+MID_FREEZE_MIKATA01_VOICE19: どうする、か…
+MID_FREEZE_MIKATA01_VOICE20: 命令が欲しい

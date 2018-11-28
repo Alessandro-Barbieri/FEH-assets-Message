@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: 大制圧戦
+MID_MISSION_S201811DAISEIATU01_A1: 大制圧戦でスコアを獲得
+MID_MISSION_H_S201811DAISEIATU01_A1: 大制圧戦でスコアを獲得。
+MID_MISSION_S201811DAISEIATU01_A2: 大制圧戦でスコアを獲得
+MID_MISSION_H_S201811DAISEIATU01_A2: 大制圧戦でスコアを獲得。
+MID_MISSION_S201811DAISEIATU01_A3: 大制圧戦でスコアを獲得
+MID_MISSION_H_S201811DAISEIATU01_A3: 大制圧戦でスコアを獲得。
+MID_MISSION_S201811DAISEIATU01_A4: 修練の塔・第２階層突破
+MID_MISSION_H_S201811DAISEIATU01_A4: 修練の塔・第２階層をクリア。
+MID_MISSION_S201811DAISEIATU01_A5: 修練の塔・第８階層突破
+MID_MISSION_H_S201811DAISEIATU01_A5: 修練の塔・第８階層をクリア。
+MID_MISSION_S201811DAISEIATU01_A6: 闘技場で勝利
+MID_MISSION_H_S201811DAISEIATU01_A6: 闘技場で勝利。
+MID_MISSION_S201811STORY02_TITLE: ニフルとムスペル
+MID_MISSION_S201811STORY02_A1: 特殊：その１ルナ突破
+MID_MISSION_H_S201811STORY02_A1: 槍の仲間を自軍に入れて、\nその１ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201811STORY02_A2: 特殊：その２ルナ突破
+MID_MISSION_H_S201811STORY02_A2: 斧の仲間を自軍に入れて、\nその２ルナティックを\n４人全員生存でクリア。
+MID_MISSION_S201811STORY02_A3: 特殊：その３ルナ突破
+MID_MISSION_H_S201811STORY02_A3: 剣の仲間を自軍に入れて、\nその３ルナティックを\n４人全員生存でクリア。
+MPID_ヘル影: ？？？
+MPID_スルト味方: スルト
+MPID_ガーネフ: ガーネフ
+MPID_HONOR_ユルグ: 柔らかな新雪
+MPID_HONOR_スルト味方: 炎の王
+MPID_HONOR_ガーネフ: 暗黒の魔王
+MPID_H_ユルグ: 氷の王国ニフルの第三王女。天真爛漫。\n好奇心旺盛で、色々な場所を見るのが好き。
+MPID_H_スルト味方: 炎の王国ムスペルの王。炎竜の血を引く。\n苛烈な性格で、征服欲が極めて強い。
+MPID_H_ガーネフ: 白の賢者ガトーの弟子の一人。\n暗黒竜メディウスを復活させ、世界支配を目論む。\n（登場：『ファイアーエムブレム 紋章の謎』）
+MPID_VOICE_ユルグ: 大空直美
+MPID_VOICE_スルト味方: 玄田哲章
+MPID_VOICE_ガーネフ: 成田剣
+MPID_ILLUST_ユルグ: 前嶋重機
+MPID_ILLUST_スルト味方: 前嶋重機
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: シュルグ
+MSID_マフー: マフー
+MSID_金剛の構え4: 金剛の構え４
+MSID_魔道の刃1: 魔道の刃１
+MSID_魔道の刃2: 魔道の刃２
+MSID_魔道の刃3: 魔道の刃３
+MSID_炎王の威嚇: 炎王の威嚇
+MSID_H_シュルグ: 速さ＋３\n戦闘開始時、速さが敵より１以上高い時、\n戦闘中、攻撃、速さ＋４\n戦闘中に攻撃していれば、戦闘後に\n敵と、その周囲２マスの敵の\n守備、魔防－７（敵の次回行動終了まで）
+MSID_H_マフー: 魔防＋３\n３ターン目開始時、自身を中心とした縦５列以内の\n魔法以外の敵に反撃不可の状態異常を付与\n（敵の次回行動終了まで）\nかつ、５ダメージを与える
+MSID_H_金剛の構え4: 敵から攻撃された時、戦闘中、守備＋８\nかつ、敵の奥義発動カウント変動量－１\n（同系統効果複数時、最大値適用）
+MSID_H_魔道の刃1: 戦闘開始時、自身のＨＰが１００％で\n自身が味方の魔法と隣接している場合、\n敵の守備か魔防の低い方でダメージ計算
+MSID_H_魔道の刃2: 戦闘開始時、自身のＨＰが５０％以上で\n自身が味方の魔法と隣接している場合、\n敵の守備か魔防の低い方でダメージ計算
+MSID_H_魔道の刃3: 戦闘開始時、\n自身が味方の魔法と隣接している場合、\n敵の守備か魔防の低い方でダメージ計算
+MSID_H_炎王の威嚇: ターン開始時、周囲２マス以内に敵がいる場合、\n自分の攻撃、速さ、守備、魔防＋４（１ターン）、かつ\n周囲２マス以内の敵の攻撃、速さ、守備、魔防－４\n（敵の次回行動終了まで）
+MID_CHAPTER_TITLE_CXX04: 異伝４
+MID_CHAPTER_CXX04: 死が囁く
+MID_STAGE_TITLE_XX004: 異伝４
+MID_STAGE_XX004: 死が囁く
+MID_STAGE_HONOR_V0271: ニフルとムスペル
+MID_STAGE_V0271: その１
+MID_STAGE_HONOR_V0272: ニフルとムスペル
+MID_STAGE_V0272: その２
+MID_STAGE_HONOR_V0273: ニフルとムスペル
+MID_STAGE_V0273: その３
+MID_STAGE_HONOR_T0044: 暗黒の魔王
+MID_STAGE_T0044: ガーネフ
+MID_STAGE_TITLE_PB035: スキル編３５
+MID_STAGE_PB035: 少女たちの絆の力
+MID_STAGE_TITLE_PC018: 超難問１８
+MID_STAGE_PC018: 包囲網を突破せよ

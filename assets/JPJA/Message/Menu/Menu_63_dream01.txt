@@ -264,7 +264,7 @@ MID_SKYCASTLE_EDIT_FLOOREDIT_HELP_DIALOG_01: ◆地形の変更◆\n飛空城の
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_00: 自分とライバルの飛空城で攻防戦！
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_01: ◆飛空城◆\nマップに設備や部隊を配置し、\n攻撃と防衛を行う\nレート制の戦いです。\n\n７ターン以内に\n防衛部隊を全滅させると、\n攻撃側の勝利となります。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_02: ◆エナジー◆\n飛空城で対戦を行う際に消費し、\n１日経つと一定量回復し、\nシーズン開始時に全回復します。\n※最大値を超える回復は、\n　最大値でストップします。\n\nレートが上がるほど、\n消費量も多くなります。
-MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: ◆レートと位階◆\n・攻撃と防衛の\n　戦績によってレートが変動します。\n・レートによって位階が決まります。\n・次シーズンは、位階ごとに\n　規定のレートから開始します。
+MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_03: ◆レートと位階◆\n・攻撃と防衛の\n　戦績によってレートが変動します。\n・レートによって位階が決まります。\n・次シーズンは、位階ごとに\n　規定のレートから開始します。\n（位階１２以上の場合）
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_04: ◆獲得レート◆\n・ボーナスキャラを攻撃部隊に入れると\n　獲得レートが＋２０されます。\n※このときの防衛側の下降量は\n　変化しません。\n※複数選択時、合計せず最大値を適用。\n・攻撃部隊が撃破されてしまうと、\n　獲得レートは減少します。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_05: ◆レートが下降しない特別条件◆\n・レート４０００以下のとき、\n　攻撃失敗・防衛失敗による\n　レートの下降は発生しません。
 MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_06: ◆レート　その他◆\n対戦が正常に終了しなかった場合、\n攻撃防衛ともにレートは変動しません。
