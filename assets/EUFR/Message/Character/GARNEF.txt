@@ -1,0 +1,38 @@
+[Heroes Archive] (GARNEF)
+
+
+Heroes Message Name: Message
+
+
+MID_GARNEF_HOME1: Il y a tant d'offrandes potentielles\npour l'autel des ténèbres, ici...$k$pOh, vous m'écoutiez ? Cela ne vous\nregarde pas !
+MID_GARNEF_HOME2: C'est moi que le Sage blanc aurait\ndû choisir !$k$pMiloah n'était qu'un beau parleur.\nLe successeur légitime, c'était moi !
+MID_GARNEF_HOME3: Ceux qui oseront s'opposer à moi\nconnaîtront la terreur de la magie\nnoire interdite.
+MID_GARNEF_HOME4: Vous êtes trop $Gpuissant,puissante| pour perdre\nvotre temps ici. Vous devriez écouter\nvos véritables désirs...
+MID_GARNEF_HOME5: Ne faites pas un bruit ! Il ne faut pas\nque j'attire l'attention. Pas ici...
+MID_GARNEF_FRIEND: Cet endroit a sa part de ténèbres...\nOn peut encore sentir l'odeur\ndu sang versé pendant les guerres.
+MID_GARNEF_LEVEL1: Tant que je détiens la magie noire,\nje suis immortel.
+MID_GARNEF_LEVEL2: Seul un parfait inconscient peut oser\nm'affronter !
+MID_GARNEF_LEVEL3: Comment...
+MID_GARNEF_SKILL: Par les ténèbres et la lumière des\nétoiles, ma volonté sera faite...
+MID_GARNEF_JOIN: Je suis le pontife Gharnef. Certains\nm'appellent le Pontife maléfique.$k$pCe surnom me convient. Ensemble,\nnous plongerons le monde dans\nles ténèbres !
+MID_GARNEF_STRONGEST: Je vois dans votre regard que vous\nsavez déjà quelle question je vais\nvous poser...$k$pQuelle est la source de votre\npouvoir ? Cela reste un mystère pour\nmoi. Qu'êtes-vous, au juste ?$k$pJe suis le Pontife maléfique. Tous\nme craignent. Je ne suis plus humain,\net mes ténèbres chassent la lumière.$k$pPour vos ennemis, vous devez être\ntout aussi $Gterrifiant,terrifiante| que moi...$k$pAprès tout, c'est vous qui contrôlez\nceux qui leur apportent la mort,\ntel $Gun,une| marionnettiste démoniaque.$k$pHé hé hé... Vous n'avez pas l'air de\ncomprendre... Mais nous ne sommes\npas si différents, vous et moi.$k$p$Nu,\nstratège maléfique...$k$pDominez vos adversaires. Forcez-les\nà se prosterner à vos pieds.$k$pVous aurez votre monde, j'aurai\nle mien, et nous les gouvernerons\ncomme bon nous semble.
+MID_GARNEF_VOICE01: Ha!
+MID_GARNEF_VOICE02: Die!
+MID_GARNEF_VOICE03: Ugghh!
+MID_GARNEF_VOICE04: Miscalculation...
+MID_GARNEF_VOICE05: Les ténèbres l'emportent toujours !
+MID_GARNEF_VOICE06: Quelle imprudence.
+MID_GARNEF_VOICE07: Je ne peux pas mourir.
+MID_GARNEF_VOICE08: Imhullu !
+MID_GARNEF_VOICE09: I shall await you.
+MID_GARNEF_VOICE10: Heh heh heh...
+MID_GARNEF_VOICE11: Heh heh heh... 'Tis I, Gharnef.
+MID_GARNEF_VOICE12: Make no mistake... I am well aware that the inferno awaits me.
+MID_GARNEF_VOICE13: Miloah's daughter... Linde, was it? A little girl does not possess the power to defeat me.
+MID_GARNEF_VOICE14: The power of the Dragon Scion Tiki is not to be underestimated...
+MID_GARNEF_VOICE15: Long ago, I was one of the White Sage's two disciples. His other disciple? Why, he was murdered. By my own hand.
+MID_GARNEF_VOICE16: So, White Sage... Do you scorn the student who strayed from the path you set?
+MID_GARNEF_VOICE17: You wish to command the Dark Pontifex? Heh heh heh... What a fool you are.
+MID_GARNEF_VOICE18: Very well.
+MID_GARNEF_VOICE19: Cower before Imhullu.
+MID_GARNEF_VOICE20: The world will end.

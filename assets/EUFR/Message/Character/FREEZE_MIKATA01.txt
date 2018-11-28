@@ -1,0 +1,38 @@
+[Heroes Archive] (FREEZE_MIKATA01)
+
+
+Heroes Message Name: Message
+
+
+MID_FREEZE_MIKATA01_HOME1: La protection que vous offrez à ce\nmonde est plus précieuse que tous\nles joyaux qui sont dans ses coffres.
+MID_FREEZE_MIKATA01_HOME2: Grâce à vous tous, Nifl va pouvoir\nrenaître de ses cendres. Nous avons\nune dette éternelle envers vous.
+MID_FREEZE_MIKATA01_HOME3: La fatigue peut troubler le jugement...\nVous devriez vous reposer.\nJe monterai la garde à votre place.
+MID_FREEZE_MIKATA01_HOME4: Pardonnez-moi si j'ai l'air distant.$k$pJ'aimerais pouvoir plaisanter pour\nbriser la glace, mais ce n'est pas\ndans ma nature.
+MID_FREEZE_MIKATA01_HOME5: Mon devoir était de protéger mon\npeuple et mes sœurs, et j'ai échoué.\nJe ne me le pardonnerai jamais.
+MID_FREEZE_MIKATA01_FRIEND: Je suis Hríd, premier prince de Nifl.\n$Nf m'envoie\nvous transmettre ses salutations.
+MID_FREEZE_MIKATA01_LEVEL1: Belle performance,\nne trouvez-vous pas ?
+MID_FREEZE_MIKATA01_LEVEL2: C'est un résultat... acceptable.
+MID_FREEZE_MIKATA01_LEVEL3: Ça n'est pas suffisant.
+MID_FREEZE_MIKATA01_SKILL: Merci. J'ai besoin de force pour\nprotéger tout ce qui m'est cher.
+MID_FREEZE_MIKATA01_JOIN: Je suis Hríd, premier prince de Nifl.\nJe jure sur mon honneur de tout\nfaire pour vous aider.
+MID_FREEZE_MIKATA01_STRONGEST: Mon royaume a toujours été\npacifique. Nous cherchions les\nalliances, pas les conflits.$k$pNifl était aussi pur que la neige qui\nvient de tomber. Mais après l'attaque\nde Múspell, tout a changé.$k$pJ'ai appris à mes dépens que les\nnations qui ne désirent que la paix\npeuvent être des proies faciles.$k$pPour que Nifl puisse être en paix,\nil faut que je devienne plus fort.$k$pJe dois protéger mon royaume contre\ntout ce qui pourrait le menacer.
+MID_FREEZE_MIKATA01_VOICE01: はっ！
+MID_FREEZE_MIKATA01_VOICE02: 無駄だ
+MID_FREEZE_MIKATA01_VOICE03: うああっ！
+MID_FREEZE_MIKATA01_VOICE04: まだだ…
+MID_FREEZE_MIKATA01_VOICE05: Vous ne m'échapperez pas.
+MID_FREEZE_MIKATA01_VOICE06: Refroidissez vos ardeurs.
+MID_FREEZE_MIKATA01_VOICE07: Je ne retiendrai pas mes coups !
+MID_FREEZE_MIKATA01_VOICE08: Par le pouvoir de la glace !
+MID_FREEZE_MIKATA01_VOICE09: Sorry, Fjorm...
+MID_FREEZE_MIKATA01_VOICE10: ふっ…
+MID_FREEZE_MIKATA01_VOICE11: I am Hrid, the eldest prince of Nifl.
+MID_FREEZE_MIKATA01_VOICE12: Hm? Oh, sorry. It's going to take me a while to get used to that.
+MID_FREEZE_MIKATA01_VOICE13: My homeland is completely covered in snow, as far as the eye can see. I happen to think it's beautiful.
+MID_FREEZE_MIKATA01_VOICE14: You have warm hands.
+MID_FREEZE_MIKATA01_VOICE15: You're very mysterious. But spending time with you puts me at ease, all the same...
+MID_FREEZE_MIKATA01_VOICE16: Protecting my homeland was my duty. And I failed in that duty.
+MID_FREEZE_MIKATA01_VOICE17: I will lend you my strength. Ask whatever you need of me. I'll do what I can.
+MID_FREEZE_MIKATA01_VOICE18: Understood.
+MID_FREEZE_MIKATA01_VOICE19: What next?
+MID_FREEZE_MIKATA01_VOICE20: Waiting for orders.

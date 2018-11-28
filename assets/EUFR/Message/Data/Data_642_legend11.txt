@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_642_legend11)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花のかんざし・金: Fleur à cheveux d'or
+MDAID_H_花のかんざし・金: Trophée pour une victoire contre la\nversion légendaire de Hríd.
+MDAID_夏祭りのお面・金: Masque estival d'or
+MDAID_H_夏祭りのお面・金: Trophée pour une victoire contre la\nversion légendaire de Lucina.
+MDAID_重騎士の兜・金: Casque cuirassé d'or
+MDAID_H_重騎士の兜・金: Trophée pour une victoire contre la\nversion légendaire de Ryoma.
+MDAID_ニフルの冠: Couronne de Nifl
+MDAID_H_ニフルの冠: Couronne ayant appartenu à Hríd.\nFraîche au toucher, elle permet à\nson porteur de garder la tête froide.
+MDAID_ニフルの冠・極: Couronne de Nifl EX
+MDAID_H_ニフルの冠・極: Couronne ayant appartenu Hríd. On\nraconte qu'elle appartient à la famille\nroyale de Nifl depuis des générations.
+MDAID_ニフルのお守り: Étoile de Nifl
+MDAID_H_ニフルのお守り: Porte-bonheur ayant appartenu à Ylgr,\ndécoré avec les armoiries de Nifl.
+MDAID_ニフルのお守り・極: Étoile de Nifl EX
+MDAID_H_ニフルのお守り・極: Porte-bonheur ayant appartenu à Ylgr.\nIl a été béni pour assurer la sécurité\nde son porteur.
+MDAID_氷の花の髪飾り: Fleur de Nifl
+MDAID_H_氷の花の髪飾り: Cette fleur froide et transparente\nayant appartenu à Gunnthrá ne fond\njamais.
+MDAID_氷の花の髪飾り・極: Fleur de Nifl EX
+MDAID_H_氷の花の髪飾り・極: Fleur ayant appartenu à Gunnthrá. Elle\nn'éclot que dans certaines régions de\nNifl, mais elle ne fond jamais.
+MDAID_氷の姫のティアラ: Tiare glaciale
+MDAID_H_氷の姫のティアラ: Tiare de qualité ayant appartenu à\nFjorm. Elle a été endommagée\npendant la bataille contre Surtr.
+MDAID_氷の姫のティアラ・極: Tiare glaciale EX
+MDAID_H_氷の姫のティアラ・極: Tiare ayant appartenu à Fjorm. Elle\nest ornée de gemmes froides et\ntransparentes venant de Nifl.
+MID_MISSION_M201812A_TITLE: Quêtes déc. (1)
+MID_MISSION_M201812A_A1: Victoire : unité bleue
+MID_MISSION_H_M201812A_A1: Vaincre des ennemis avec des unités bleues.
+MID_MISSION_M201812A_A2: Victoire : infanterie
+MID_MISSION_H_M201812A_A2: Vaincre des ennemis avec des fantassins.
+MID_MISSION_M201812A_A3: Cible : unités vertes
+MID_MISSION_H_M201812A_A3: Vaincre des unités vertes.
+MID_MISSION_M201812A_A4: Cible : unités volantes
+MID_MISSION_H_M201812A_A4: Vaincre des unités volantes.
+MID_MISSION_M201812A_A5: Duelliste
+MID_MISSION_H_M201812A_A5: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_M201812A_A6: Domination : unité rouge
+MID_MISSION_H_M201812A_A6: Vaincre des ennemis de niveau 20\nou supérieur avec des unités rouges.
+MID_MISSION_M201812A_A7: Domination : unité volante
+MID_MISSION_H_M201812A_A7: Vaincre des ennemis de niveau 20\nou supérieur avec des unités volantes.
+MID_MISSION_M201812A_A8: Cible : unités bleues
+MID_MISSION_H_M201812A_A8: Vaincre des unités bleues de niveau 20\nou supérieur.
+MID_MISSION_M201812A_A9: Cible : infanterie
+MID_MISSION_H_M201812A_A9: Vaincre des fantassins de niveau 20\nou supérieur.
+MID_MISSION_M201812A_A10: Duelliste intermédiaire
+MID_MISSION_H_M201812A_A10: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_M201812A_A11: Domination : unité verte
+MID_MISSION_H_M201812A_A11: Vaincre des ennemis de niveau 35\nou supérieur avec des unités vertes.
+MID_MISSION_M201812A_A12: Domination : cavalerie
+MID_MISSION_H_M201812A_A12: Vaincre des ennemis de niveau 35 ou\nsupérieur avec des cavaliers.
+MID_MISSION_M201812A_A13: Cible : unités rouges
+MID_MISSION_H_M201812A_A13: Vaincre des unités rouges de niveau 35\nou supérieur.
+MID_MISSION_M201812A_A14: Cible : cavalerie
+MID_MISSION_H_M201812A_A14: Vaincre des cavaliers de niveau 35\nou supérieur.
+MID_MISSION_M201812A_A15: Duelliste émérite
+MID_MISSION_H_M201812A_A15: Remporter des duels en arène de catégorie\nVétéran.
+MID_MISSION_M201812B_TITLE: Quêtes déc. (2)
+MID_MISSION_M201812B_A1: Tour : première strate
+MID_MISSION_H_M201812B_A1: Terminer la 1re strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A2: Tour : deuxième strate
+MID_MISSION_H_M201812B_A2: Terminer la 2e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A3: Tour : troisième strate
+MID_MISSION_H_M201812B_A3: Terminer la 3e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A4: Tour : quatrième strate
+MID_MISSION_H_M201812B_A4: Terminer la 4e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A5: Tour : cinquième strate
+MID_MISSION_H_M201812B_A5: Terminer la 5e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A6: Tour : sixième strate
+MID_MISSION_H_M201812B_A6: Terminer la 6e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A7: Tour : septième strate
+MID_MISSION_H_M201812B_A7: Terminer la 7e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A8: Tour : huitième strate
+MID_MISSION_H_M201812B_A8: Terminer la 8e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A9: Tour : neuvième strate
+MID_MISSION_H_M201812B_A9: Terminer la 9e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A10: Tour : dixième strate
+MID_MISSION_H_M201812B_A10: Terminer la 10e strate de la tour d'entraînement\navec une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812B_A11: Tour : dixième strate
+MID_MISSION_H_M201812B_A11: Terminer la 10e strate de la tour d'entraînement\navec quatre fantassins et sans essuyer\nla moindre perte.
+MID_MISSION_M201812B_A12: Tour : dixième strate
+MID_MISSION_H_M201812B_A12: Terminer la 10e strate de la tour d'entraînement\navec quatre unités en armure et sans essuyer\nla moindre perte.
+MID_MISSION_M201812B_A13: Tour : dixième strate
+MID_MISSION_H_M201812B_A13: Terminer la 10e strate de la tour d'entraînement\navec quatre cavaliers et sans essuyer\nla moindre perte.
+MID_MISSION_M201812B_A14: Tour : dixième strate
+MID_MISSION_H_M201812B_A14: Terminer la 10e strate de la tour d'entraînement\navec quatre unités volantes et sans essuyer\nla moindre perte.
+MID_MISSION_M201812C_TITLE: Quêtes déc. (3)
+MID_MISSION_M201812C_A1: Chapitre 2 - Acte 1
+MID_MISSION_H_M201812C_A1: Terminer l'acte 1 du chapitre 2 avec une équipe\nde quatre héros et sans essuyer la moindre\nperte.
+MID_MISSION_M201812C_A2: Chapitre 2 - Acte 2
+MID_MISSION_H_M201812C_A2: Terminer l'acte 2 du chapitre 2 avec une unité\nrouge dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812C_A3: Chapitre 2 - Acte 3
+MID_MISSION_H_M201812C_A3: Terminer l'acte 3 du chapitre 2 avec une unité\nbleue dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812C_A4: Chapitre 2 - Acte 4
+MID_MISSION_H_M201812C_A4: Terminer l'acte 4 du chapitre 2 avec une unité\nverte dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812C_A5: Chapitre 2 - Acte 5
+MID_MISSION_H_M201812C_A5: Terminer l'acte 5 du chapitre 2 avec une unité\ngrise dans une équipe de quatre héros et sans\nessuyer la moindre perte.
+MID_MISSION_M201812C_A6: Chap. 5 - Acte 1 (Difficile)
+MID_MISSION_H_M201812C_A6: Terminer l'acte 1 du chapitre 5 en Difficile ou\nsupérieur avec une équipe de quatre héros\net sans essuyer la moindre perte.
+MID_MISSION_M201812C_A7: Chap. 5 - Acte 2 (Difficile)
+MID_MISSION_H_M201812C_A7: Terminer l'acte 2 du chapitre 5 en Difficile ou\nsupérieur avec une unité rouge dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A8: Chap. 5 - Acte 3 (Difficile)
+MID_MISSION_H_M201812C_A8: Terminer l'acte 3 du chapitre 5 en Difficile ou\nsupérieur avec une unité bleue dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A9: Chap. 5 - Acte 4 (Difficile)
+MID_MISSION_H_M201812C_A9: Terminer l'acte 4 du chapitre 5 en Difficile ou\nsupérieur avec une unité verte dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A10: Chap. 5 - Acte 5 (Difficile)
+MID_MISSION_H_M201812C_A10: Terminer l'acte 5 du chapitre 5 en Difficile ou\nsupérieur avec une unité grise dans une équipe\nde quatre héros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A11: Chap. 8 - Acte 1 (Expert)
+MID_MISSION_H_M201812C_A11: Terminer l'acte 1 du chapitre 8 en Expert avec\nune équipe de quatre héros et sans essuyer\nla moindre perte.
+MID_MISSION_M201812C_A12: Chap. 8 - Acte 2 (Expert)
+MID_MISSION_H_M201812C_A12: Terminer l'acte 2 du chapitre 8 en Expert avec\nune unité rouge dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A13: Chap. 8 - Acte 3 (Expert)
+MID_MISSION_H_M201812C_A13: Terminer l'acte 3 du chapitre 8 en Expert avec\nune unité bleue dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A14: Chap. 8 - Acte 4 (Expert)
+MID_MISSION_H_M201812C_A14: Terminer l'acte 4 du chapitre 8 en Expert avec\nune unité verte dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_M201812C_A15: Chap. 8 - Acte 5 (Expert)
+MID_MISSION_H_M201812C_A15: Terminer l'acte 5 du chapitre 8 en Expert avec\nune unité grise dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201812CHARA01_TITLE: Trois héros
+MID_MISSION_S201812CHARA01_A1: Victoire
+MID_MISSION_H_S201812CHARA01_A1: Vaincre des ennemis.
+MID_MISSION_S201812CHARA01_A2: Victoire : Olivia
+MID_MISSION_H_S201812CHARA01_A2: Vaincre des ennemis avec Olivia,\ndanseuse gracieuse.
+MID_MISSION_S201812CHARA01_A3: Victoire : Corrin
+MID_MISSION_H_S201812CHARA01_A3: Vaincre des ennemis avec Corrin,\nmain du destin.
+MID_MISSION_S201812CHARA01_B1: Cible : niveau ≥ 20
+MID_MISSION_H_S201812CHARA01_B1: Vaincre des ennemis de niveau 20 ou supérieur\navec Olivia, danseuse gracieuse.
+MID_MISSION_S201812CHARA01_B2: Cible : niveau ≥ 20
+MID_MISSION_H_S201812CHARA01_B2: Vaincre des ennemis de niveau 20 ou supérieur\navec Corrin, main du destin.
+MID_MISSION_S201812CHARA01_B3: Cible : niveau ≥ 20
+MID_MISSION_H_S201812CHARA01_B3: Vaincre des ennemis de niveau 20 ou supérieur\navec Azama.
+MID_MISSION_S201812CHARA01_C1: Cible : niveau ≥ 35
+MID_MISSION_H_S201812CHARA01_C1: Vaincre des ennemis de niveau 35 ou supérieur\navec Olivia, danseuse gracieuse.
+MID_MISSION_S201812CHARA01_C2: Cible : niveau ≥ 35
+MID_MISSION_H_S201812CHARA01_C2: Vaincre des ennemis de niveau 35 ou supérieur\navec Corrin, main du destin.
+MID_MISSION_S201812CHARA01_C3: Cible : niveau ≥ 35
+MID_MISSION_H_S201812CHARA01_C3: Vaincre des ennemis de niveau 35 ou supérieur\navec Azama.
+MID_MISSION_S201812KIZUNA01_TITLE: Héros liés
+MID_MISSION_S201812KIZUNA01_A1: Bataille de héros liés
+MID_MISSION_H_S201812KIZUNA01_A1: Remporter la bataille de héros liés de Seliph\net Julia avec Sharena, princesse d'Askr,\ndans votre équipe.
+MID_MISSION_S201812KIZUNA01_A2: Bataille de héros liés
+MID_MISSION_H_S201812KIZUNA01_A2: Remporter la bataille de héros liés de Seliph\net Julia en Expert ou supérieur avec Alfonse,\nprince d'Askr, dans votre équipe.
+MID_MISSION_S201812KIZUNA01_A3: Seliph
+MID_MISSION_H_S201812KIZUNA01_A3: Vaincre une version de niveau 40 ou supérieur\nde Seliph avec Sharena, princesse d'Askr.
+MID_MISSION_S201812KIZUNA01_A4: Julia
+MID_MISSION_H_S201812KIZUNA01_A4: Vaincre une version de niveau 40 ou supérieur\nde Julia avec Alfonse, prince d'Askr.
+MID_MISSION_S201812KIZUNA01_A5: Bataille de héros liés
+MID_MISSION_H_S201812KIZUNA01_A5: Remporter la bataille de héros liés de Seliph et\nJulia en Expert ou supérieur avec une équipe\ncomposée exclusivement de fantassins.
+MID_MISSION_S201812VOTE01_TITLE: Quêtes : tournoi
+MID_MISSION_S201812VOTE01_A1: Tournoi
+MID_MISSION_H_S201812VOTE01_A1: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201812VOTE01_A2: Tournoi
+MID_MISSION_H_S201812VOTE01_A2: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201812VOTE01_A3: Tournoi
+MID_MISSION_H_S201812VOTE01_A3: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201812VOTE01_A4: Tournoi
+MID_MISSION_H_S201812VOTE01_A4: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201812VOTE01_A5: Tournoi
+MID_MISSION_H_S201812VOTE01_A5: Remporter des batailles au cours d'un tournoi.
+MID_MISSION_S201812VOTE01_A6: Tour : deuxième strate
+MID_MISSION_H_S201812VOTE01_A6: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201812VOTE01_A7: Tour : cinquième strate
+MID_MISSION_H_S201812VOTE01_A7: Terminer la 5e strate de la tour d'entraînement.
+MID_MISSION_S201812VOTE01_A8: Tour : huitième strate
+MID_MISSION_H_S201812VOTE01_A8: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201812VOTE01_A9: Duelliste
+MID_MISSION_H_S201812VOTE01_A9: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201812VOTE01_A10: Duelliste
+MID_MISSION_H_S201812VOTE01_A10: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201812VOTE01_A11: Duelliste intermédiaire
+MID_MISSION_H_S201812VOTE01_A11: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201812VOTE01_A12: Duelliste intermédiaire
+MID_MISSION_H_S201812VOTE01_A12: Remporter des duels en arène de catégorie\nIntermédiaire ou supérieure.
+MID_MISSION_S201812VOTE01_A13: Tournoi
+MID_MISSION_H_S201812VOTE01_A13: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201812VOTE01_A14: Tournoi
+MID_MISSION_H_S201812VOTE01_A14: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201812VOTE01_A15: Tournoi
+MID_MISSION_H_S201812VOTE01_A15: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201812VOTE01_A16: Tournoi
+MID_MISSION_H_S201812VOTE01_A16: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MID_MISSION_S201812VOTE01_A17: Tournoi
+MID_MISSION_H_S201812VOTE01_A17: Remporter des batailles au cours d'un tournoi\navec une unité rouge dans votre équipe.
+MID_MISSION_S201812VOTE01_A18: Tournoi
+MID_MISSION_H_S201812VOTE01_A18: Remporter des batailles au cours d'un tournoi\navec une unité bleue dans votre équipe.
+MID_MISSION_S201812VOTE01_A19: Tournoi
+MID_MISSION_H_S201812VOTE01_A19: Remporter des batailles au cours d'un tournoi\navec une unité verte dans votre équipe.
+MID_MISSION_S201812VOTE01_A20: Tournoi
+MID_MISSION_H_S201812VOTE01_A20: Remporter des batailles au cours d'un tournoi\navec une unité grise dans votre équipe.
+MPID_HONOR_フリーズ: Lame glaciale
+MPID_H_フリーズ: Premier prince de Nifl, le monde des\nglaces. Il est réfléchi, calme et toujours\nprêt à faire face au danger.
+MPID_VOICE_フリーズ: Mark P. Whitten
+MPID_ILLUST_フリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_フリーズ: Effet légendaire : vent\nBoost pour les alliés : PV +3, Déf +4\n\nLes alliés bénéficient de l'effet légendaire\ns'ils ont reçu la bénédiction du vent et que\ncette unité combat avec eux pendant la\nsaison du vent.
+MSID_ギョッル: Gjöll
+MSID_凍結の封印: Sceau du froid
+MSID_H_ギョッル: Confère Atq +3. Si l'ennemi est affecté par\nun malus (caractéristiques réduites, effets des\naptitudes comme Panique, restrictions de\ndéplacement et de riposte, etc.), l'unité\neffectue une double frappe et empêche\nl'ennemi d'en réaliser.
+MSID_H_凍結の封印: En début de tour, si PV ≥ 50 %, inflige\nAtq/Vit -6 à l'ennemi ayant la Rés la\nplus basse jusqu'à la fin de sa phase.
+MID_STAGE_HONOR_L0009: Lame glaciale
+MID_STAGE_L0009: Hríd
+MID_STAGE_TITLE_PB036: Aptitudes 36
+MID_STAGE_PB036: Les sceaux de Nifl
+MID_STAGE_TITLE_PC019: Expertise 19
+MID_STAGE_PC019: Trilemme éblouissant

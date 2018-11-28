@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: Grande conquête
+MID_MISSION_S201811DAISEIATU01_A1: GC : score
+MID_MISSION_H_S201811DAISEIATU01_A1: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201811DAISEIATU01_A2: GC : score
+MID_MISSION_H_S201811DAISEIATU01_A2: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201811DAISEIATU01_A3: GC : score
+MID_MISSION_H_S201811DAISEIATU01_A3: Marquer des points dans\nla grande conquête.
+MID_MISSION_S201811DAISEIATU01_A4: Tour : deuxième strate
+MID_MISSION_H_S201811DAISEIATU01_A4: Terminer la 2e strate de la tour d'entraînement.
+MID_MISSION_S201811DAISEIATU01_A5: Tour : huitième strate
+MID_MISSION_H_S201811DAISEIATU01_A5: Terminer la 8e strate de la tour d'entraînement.
+MID_MISSION_S201811DAISEIATU01_A6: Duelliste
+MID_MISSION_H_S201811DAISEIATU01_A6: Remporter des duels en arène dans n'importe\nquelle catégorie.
+MID_MISSION_S201811STORY02_TITLE: Nifl et Múspell
+MID_MISSION_S201811STORY02_A1: Phase 1 (Expert)
+MID_MISSION_H_S201811STORY02_A1: Terminer la phase 1 en Expert avec une unité\ndotée d'une lance dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201811STORY02_A2: Phase 2 (Expert)
+MID_MISSION_H_S201811STORY02_A2: Terminer la phase 2 en Expert avec une unité\ndotée d'une hache dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MID_MISSION_S201811STORY02_A3: Phase 3 (Expert)
+MID_MISSION_H_S201811STORY02_A3: Terminer la phase 3 en Expert avec une unité\ndotée d'une épée dans une équipe de quatre\nhéros et sans essuyer la moindre perte.
+MPID_ヘル影: ???
+MPID_スルト味方: Surtr
+MPID_ガーネフ: Gharnef
+MPID_HONOR_ユルグ: Flocon de neige
+MPID_HONOR_スルト味方: Souverain du feu
+MPID_HONOR_ガーネフ: Pontife maléfique
+MPID_H_ユルグ: Princesse cadette de Nifl, le monde des\nglaces. Naïve et pleine de curiosité, elle a\nenvie de découvrir de nouveaux horizons.
+MPID_H_スルト味方: Roi de Múspell, le monde des flammes.\nSouverain cruel dont le désir de conquête\nne connaît pas de limites. Le sang du dragon\ndes flammes coule dans ses veines.
+MPID_H_ガーネフ: Disciple de Gotoh, le Sage blanc. Il a tenté\nde faire revenir à la vie Medeus, le Dragon\nd'ombre, afin de dominer le monde. Apparaît\ndans Fire Emblem: Mystery of the Emblem.
+MPID_VOICE_ユルグ: Megan Lee
+MPID_VOICE_スルト味方: —
+MPID_VOICE_ガーネフ: DC Douglas
+MPID_ILLUST_ユルグ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_スルト味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: Sylgr
+MSID_マフー: Imhullu
+MSID_金剛の構え4: Posture stable 4
+MSID_魔道の刃1: Lame magique 1
+MSID_魔道の刃2: Lame magique 2
+MSID_魔道の刃3: Lame magique 3
+MSID_炎王の威嚇: Menace de Surtr
+MSID_H_シュルグ: Confère Vit +3. Si Vit de l'unité > Vit\nde l'ennemi au début du combat, confère\nAtq/Vit +4 pendant le combat. Après le\ncombat, si l'unité a attaqué, inflige Déf/Rés -7\nà la cible et aux ennemis à 2 cases ou moins\nde la cible jusqu'à la fin de leur phase.
+MSID_H_マフー: Confère Rés +3. Au début du tour 3, inflige\n5 dégâts aux ennemis n'utilisant pas la magie\nsitués sur cinq colonnes centrées sur l'unité,\net les empêche de riposter jusqu'à la fin de\nleur phase.
+MSID_H_金剛の構え4: Si l'ennemi initie le combat, confère Déf +8\nà l'unité pendant le combat et inflige\ncompteur +1 par attaque à l'ennemi.\n(S'il y a plusieurs effets similaires, seul le plus\npuissant s'applique.)
+MSID_H_魔道の刃1: Si PV = 100 % et que l'unité se trouve à côté\nd'un allié utilisant la magie au début du\ncombat, les dégâts sont calculés avec la Déf ou\nla Rés de l'ennemi (la valeur la plus faible).
+MSID_H_魔道の刃2: Si PV ≥ 50 % et que l'unité se trouve à côté\nd'un allié utilisant la magie au début du\ncombat, les dégâts sont calculés avec la Déf ou\nla Rés de l'ennemi (la valeur la plus faible).
+MSID_H_魔道の刃3: Si l'unité se trouve à côté d'un allié utilisant\nla magie au début du combat, les dégâts sont\ncalculés avec la Déf ou la Rés de l'ennemi\n(la valeur la plus faible).
+MSID_H_炎王の威嚇: En début de tour, si l'unité se trouve à 2 cases\nou moins d'un ennemi, confère\nAtq/Vit/Dés/Rés +4 pendant un tour et inflige\nAtq/Vit/Dés/Rés -4 aux ennemis à 2 cases ou\nmoins jusqu'à la fin de leur phase.
+MID_CHAPTER_TITLE_CXX04: Xénologue 4
+MID_CHAPTER_CXX04: Murmures mortels
+MID_STAGE_TITLE_XX004: Xénologue 4
+MID_STAGE_XX004: Murmures
+MID_STAGE_HONOR_V0271: Nifl et Múspell
+MID_STAGE_V0271: Phase 1
+MID_STAGE_HONOR_V0272: Nifl et Múspell
+MID_STAGE_V0272: Phase 2
+MID_STAGE_HONOR_V0273: Nifl et Múspell
+MID_STAGE_V0273: Phase 3
+MID_STAGE_HONOR_T0044: Pontife maléfique
+MID_STAGE_T0044: Gharnef
+MID_STAGE_TITLE_PB035: Aptitudes 35
+MID_STAGE_PB035: Un lien inébranlable
+MID_STAGE_TITLE_PC018: Expertise 18
+MID_STAGE_PC018: Passe-muraille

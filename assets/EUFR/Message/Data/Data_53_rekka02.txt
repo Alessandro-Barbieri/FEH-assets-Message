@@ -164,10 +164,10 @@ MSID_H_攻撃速さの絆R魔杖: Si l'unité se trouve à 2 cases ou moins\nd'u
 MSID_H_第11迷宮の覇者1: Confère PV +3.
 MSID_H_第11迷宮の覇者2: Confère PV +4.
 MSID_H_第11迷宮の覇者3: Confère PV +5.
-MSID_H_剣姫の刀: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si Vit de l'unité > Vit de\nl'ennemi, augmente les dégâts infligés à\nhauteur de 70 % de la différence (7 dégâts\nmaximum). Cumulable avec Bluff Vit.
+MSID_H_剣姫の刀: Accélère l'activation des aptitudes spéciales\n(compteur -1). Si Vit de l'unité > Vit de\nl'ennemi, inflige des dégâts à hauteur de 70 %\nde la différence (7 dégâts maximum).\nCumulable avec Bluff Vit.
 MSID_H_粛清の暗器: Pendant le combat, ajoute la valeur totale\ndes boosts de l'ennemi aux dégâts infligés.\nAprès le combat, si l'unité a attaqué, inflige\nDéf/Rés -5 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
 MSID_H_粛清の暗器＋: Pendant le combat, ajoute la valeur totale\ndes boosts de l'ennemi aux dégâts infligés.\nAprès le combat, si l'unité a attaqué, inflige\nDéf/Rés -7 à la cible et aux ennemis à\n2 cases ou moins de la cible jusqu'à la fin\nde leur phase.
-MSID_H_ギガスカリバー: Confère Vit +3. Si Vit de l'unité > Vit de\nl'ennemi, augmente les dégâts infligés à\nhauteur de 70 % de la différence (7 dégâts\nmaximum). Cumulable avec Bluff Vit.
+MSID_H_ギガスカリバー: Confère Vit +3. Si Vit de l'unité > Vit de\nl'ennemi, inflige des dégâts à hauteur de 70 %\nde la différence (7 dégâts maximum).\nCumulable avec Bluff Vit.
 MSID_H_曲技飛行1: Si PV = 100 %, l'unité peut se déplacer\njusqu'à une case adjacente à un fantassin,\nune unité en armure ou un cavalier allié\nsitué à 2 cases ou moins.
 MSID_H_曲技飛行2: Si PV ≥ 50 %, l'unité peut se déplacer\njusqu'à une case adjacente à un fantassin,\nune unité en armure ou un cavalier allié\nsitué à 2 cases ou moins.
 MSID_H_曲技飛行3: L'unité peut se déplacer jusqu'à une case\nadjacente à un fantassin, une unité en\narmure ou un cavalier allié situé à 2 cases\nou moins.

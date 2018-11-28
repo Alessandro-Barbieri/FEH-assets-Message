@@ -81,27 +81,27 @@ MEID_ブルーノ: ???
 MEID_ヴェロニカ: Veronica
 MEID_H_ソードファイター: Fantassin armé d'une épée.\nCaractéristiques moyennes.
 MEID_H_ソードアーマー: Chevalier cuirassé armé d'une épée.\nSe déplace lentement.
-MEID_H_ソードナイト: Cavalier armé d'une épée. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les bois.
+MEID_H_ソードナイト: Cavalier armé d'une épée. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les forêts.
 MEID_H_ソードペガサス: Chevalier pégase armé d'une épée.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
 MEID_H_ランスファイター: Fantassin armé d'une lance.\nCaractéristiques moyennes.
 MEID_H_ランスアーマー: Chevalier cuirassé armé d'une lance.\nSe déplace lentement.
-MEID_H_ランスナイト: Cavalier armé d'une lance. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les bois.
+MEID_H_ランスナイト: Cavalier armé d'une lance. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les forêts.
 MEID_H_ランスペガサス: Chevalier pégase armé d'une lance.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
 MEID_H_アクスファイター: Fantassin armé d'une hache.\nCaractéristiques moyennes.
 MEID_H_アクスアーマー: Chevalier cuirassé armé d'une hache.\nSe déplace lentement.
-MEID_H_アクスナイト: Cavalier armé d'une hache. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les bois.
+MEID_H_アクスナイト: Cavalier armé d'une hache. Se déplace\nrapidement, mais ne peut s'aventurer\ndans les forêts.
 MEID_H_アクスペガサス: Chevalier pégase armé d'une hache.\nPeut survoler monts et rivières, mais\nest vulnérable aux arcs.
 MEID_H_ボウファイター: Fantassin armé d'un arc.\nCaractéristiques moyennes.
 MEID_H_ボウナイト: Chevalier cuirassé armé d'un arc.\nSe déplace lentement.
 MEID_H_シーフ: Voleur qui se sert de dagues pour réduire\nles caractéristiques de l'ennemi.
 MEID_H_レッドマージ: Adepte de la magie écarlate aux\ncaractéristiques moyennes.
-MEID_H_レッドナイト: Cavalier adepte de la magie écarlate.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les bois.
+MEID_H_レッドナイト: Cavalier adepte de la magie écarlate.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les forêts.
 MEID_H_ブルーマージ: Adepte de la magie azur aux\ncaractéristiques moyennes.
-MEID_H_ブルーナイト: Cavalier adepte de la magie azur.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les bois.
+MEID_H_ブルーナイト: Cavalier adepte de la magie azur.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les forêts.
 MEID_H_グリーンマージ: Adepte de la magie verdoyante aux\ncaractéristiques moyennes.
-MEID_H_グリーンナイト: Cavalier adepte de la magie verdoyante.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les bois.
+MEID_H_グリーンナイト: Cavalier adepte de la magie verdoyante.\nSe déplace rapidement, mais ne peut\ns'aventurer dans les forêts.
 MEID_H_シスター: Unité se servant de bâtons pour soigner\nses alliés ou affliger ses ennemis.\nCaractéristiques moyennes.
-MEID_H_ロッドナイト: Cavalier pouvant soigner ses alliés ou affliger\nses ennemis. Se déplace rapidement,\nmais ne peut s'aventurer dans les bois.
+MEID_H_ロッドナイト: Cavalier pouvant soigner ses alliés ou affliger\nses ennemis. Se déplace rapidement,\nmais ne peut s'aventurer dans les forêts.
 MEID_H_ブルーノ: Chevalier masqué à l'identité et\naux motivations inconnues.
 MEID_H_ヴェロニカ: Princesse de l'empire emblain.\nInvoque des héros dans le but\nd'envahir le royaume d'Askr.
 MEID_HONOR_ブルーノ: Chevalier masqué
