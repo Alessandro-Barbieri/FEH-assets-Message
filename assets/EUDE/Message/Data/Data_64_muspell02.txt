@@ -1,0 +1,71 @@
+[Heroes Archive] (Data_64_muspell02)
+
+
+Heroes Message Name: Message
+
+
+MID_MISSION_S201811DAISEIATU01_TITLE: Große Eroberung
+MID_MISSION_S201811DAISEIATU01_A1: GE: Punkte verdienen
+MID_MISSION_H_S201811DAISEIATU01_A1: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201811DAISEIATU01_A2: GE: Punkte verdienen
+MID_MISSION_H_S201811DAISEIATU01_A2: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201811DAISEIATU01_A3: GE: Punkte verdienen
+MID_MISSION_H_S201811DAISEIATU01_A3: Verdiene Punkte bei der\nGroßen Eroberung.
+MID_MISSION_S201811DAISEIATU01_A4: Übungsturm: 2. Stufe
+MID_MISSION_H_S201811DAISEIATU01_A4: Bewältige die zweite Stufe des Übungsturms.
+MID_MISSION_S201811DAISEIATU01_A5: Übungsturm: 8. Stufe
+MID_MISSION_H_S201811DAISEIATU01_A5: Bewältige die achte Stufe des Übungsturms.
+MID_MISSION_S201811DAISEIATU01_A6: Gewinne Arenaduelle
+MID_MISSION_H_S201811DAISEIATU01_A6: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201811STORY02_TITLE: Nifl und Múspell
+MID_MISSION_S201811STORY02_A1: Teil 1 - Extrem
+MID_MISSION_H_S201811STORY02_A1: Bewältige Teil 1 im Modus Extrem\nmit einem Lanzenkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201811STORY02_A2: Teil 2 - Extrem
+MID_MISSION_H_S201811STORY02_A2: Bewältige Teil 2 im Modus Extrem\nmit einem Axtkämpfer. Alle\nVerbündeten müssen überleben.
+MID_MISSION_S201811STORY02_A3: Teil 3 - Extrem
+MID_MISSION_H_S201811STORY02_A3: Bewältige Teil 3 im Modus Extrem\nmit einem Schwertkämpfer. Alle\nVerbündeten müssen überleben.
+MPID_ヘル影: ???
+MPID_スルト味方: Surtr
+MPID_ガーネフ: Gharnef
+MPID_HONOR_ユルグ: Frischer Schnee
+MPID_HONOR_スルト味方: Feuerherrscher
+MPID_HONOR_ガーネフ: Dunkler Priester
+MPID_H_ユルグ: Die jüngste Prinzessin von Nifl, dem Eiskönig-\nreich. Naiv und wissbegierig. Will neue\nHorizonte ergründen.
+MPID_H_スルト味方: König von Múspell, dem Feuerkönigreich.\nTrägt das Blut des Feuerdrachen in sich.\nEin strenger, eroberungswütiger Herrscher.
+MPID_H_ガーネフ: Ein Schüler von Gotoh, dem Weißen Weisen.\nPlante, den Schattendrachen Medeus wiederzu-\nbeleben und über die Welt zu herrschen. Er-\nscheint in Fire Emblem: Mystery of the Emblem.
+MPID_VOICE_ユルグ: Megan Lee
+MPID_VOICE_スルト味方: —
+MPID_VOICE_ガーネフ: DC Douglas
+MPID_ILLUST_ユルグ: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_スルト味方: Maeshima Shigeki (前嶋重機)
+MPID_ILLUST_ガーネフ: HACCAN
+MSID_シュルグ: Sylgr
+MSID_マフー: Imhullu
+MSID_金剛の構え4: Fester Stand 4
+MSID_魔道の刃1: Magieklinge 1
+MSID_魔道の刃2: Magieklinge 2
+MSID_魔道の刃3: Magieklinge 3
+MSID_炎王の威嚇: Surtrs Geißel
+MSID_H_シュルグ: Verleiht Ges. +3. Ist Ges. der Einheit zu Beginn\ndes Kampfes > Ges. des Gegners, erhält die\nEinheit Angr./Ges. +4 im Kampf. Hat die Einheit\nden Kampf initiiert, erleiden Ziel und Gegner im\nUmkreis von 2 Feldern des Ziels nach d. Kampf\nVer./Res. -7 bis nach ihren nächsten Aktionen.
+MSID_H_マフー: Verleiht Res. +3. Gegner (außer Magier)\ninnerhalb von 5 Spalten um die Einheit erleiden\nzu Beginn des 3. Zuges 5 Schaden und können\nbis nach ihren nächsten Aktionen nicht kontern.
+MSID_H_金剛の構え4: Initiiert der Gegner den Kampf, erhält die\nEinheit Ver. +8 im Kampf und die Erholungszeit\ndes Gegners wird um 1 zurückgesetzt.\n(Bei mehreren ähnlichen Effekten wird\nnur der höchste angewandt.)
+MSID_H_魔道の刃1: Sind die KP der Einheit zu Beginn des\nKampfes = 100% und befindet sich Einheit\nneben einem verbündeten Magiebenutzer, wird\nSchaden durch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_魔道の刃2: Sind die KP der Einheit zu Beginn des\nKampfes ≥ 50% und befindet sich Einheit\nneben einem verbündeten Magiebenutzer, wird\nSchaden durch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_魔道の刃3: Befindet sich Einheit zu Beginn des Kampfes\nneben einem verbündeten Magiebenutzer, wird\nSchaden durch Ver. oder Res. des Gegners\nberechnet (geringerer Wert gilt).
+MSID_H_炎王の威嚇: Befindet sich die Einheit zu Beginn des Zuges\nim Umkreis von 2 Feldern eines Gegners,\nerhält sie Angr./Ges./Ver./Res. +4 für 1 Zug\nund Gegner im Umkreis von 2 Feldern\nerleiden Angr./Ges./Ver./Res. -4 bis nach\nihren nächsten Aktionen.
+MID_CHAPTER_TITLE_CXX04: Andere Welten 4
+MID_CHAPTER_CXX04: Todesgeflüster
+MID_STAGE_TITLE_XX004: Andere Welten 4
+MID_STAGE_XX004: Geflüster
+MID_STAGE_HONOR_V0271: Nifl und Múspell
+MID_STAGE_V0271: Teil 1
+MID_STAGE_HONOR_V0272: Nifl und Múspell
+MID_STAGE_V0272: Teil 2
+MID_STAGE_HONOR_V0273: Nifl und Múspell
+MID_STAGE_V0273: Teil 3
+MID_STAGE_HONOR_T0044: Dunkler Priester
+MID_STAGE_T0044: Gharnef
+MID_STAGE_TITLE_PB035: Fähigkeiten 35
+MID_STAGE_PB035: Beständiges Band
+MID_STAGE_TITLE_PC018: Großmeister 18
+MID_STAGE_PC018: Durchbruch!

@@ -1,0 +1,205 @@
+[Heroes Archive] (Data_642_legend11)
+
+
+Heroes Message Name: Message
+
+
+MDAID_花のかんざし・金: Goldene Festhaarnadel
+MDAID_H_花のかんざし・金: Beweis für den Sieg über den\nLegendären Helden Hríd.
+MDAID_夏祭りのお面・金: Gold. Sommermaske
+MDAID_H_夏祭りのお面・金: Beweis für den Sieg über die\nLegendäre Heldin Lucina.
+MDAID_重騎士の兜・金: Goldener Panzerhelm
+MDAID_H_重騎士の兜・金: Beweis für den Sieg über den\nLegendären Helden Ryoma.
+MDAID_ニフルの冠: Krone von Nifl
+MDAID_H_ニフルの冠: Hríds Krone. Sie fühlt sich stets kalt\nan. Wenn man sie aufsetzt, bringt\neinen nichts aus der Ruhe.
+MDAID_ニフルの冠・極: Krone von Nifl+
+MDAID_H_ニフルの冠・極: Hríds Krone. Es wird erzählt, sie\nwürde seit Generationen in der\nKönigsfamilie Nifls weitergereicht.
+MDAID_ニフルのお守り: Stern von Nifl
+MDAID_H_ニフルのお守り: Ein Glücksbringer, der Ylgr gehört.\nDas Motiv gleicht Nifls Wappen.
+MDAID_ニフルのお守り・極: Stern von Nifl+
+MDAID_H_ニフルのお守り・極: Ein Glücksbringer, der Ylgr gehört.\nEr wurde gesegnet, um den Schutz\ndes Trägers zu gewährleisten.
+MDAID_氷の花の髪飾り: Eisblume
+MDAID_H_氷の花の髪飾り: Gunnthrás Eisblume. Transparent und\nkalt. Diese Blume wird nie schmelzen.
+MDAID_氷の花の髪飾り・極: Eisblume+
+MDAID_H_氷の花の髪飾り・極: Gunnthrás Eisblume. Sie blüht nur in\nwenigen Gebieten Nifls, ist jedoch\nüberall vor dem Schmelzen gefeit.
+MDAID_氷の姫のティアラ: Eisige Tiara
+MDAID_H_氷の姫のティアラ: Fjorms Tiara. Das Produkt spezieller\nHandwerkskunst. Sie wurde im Kampf\ngegen Surtr beschädigt.
+MDAID_氷の姫のティアラ・極: Eisige Tiara+
+MDAID_H_氷の姫のティアラ・極: Fjorms Tiara. Die eingebetteten\nJuwelen sind rein und kalt. Sie\nstammen aus Nifl.
+MID_MISSION_M201812A_TITLE: Dez.-Quests (1)
+MID_MISSION_M201812A_A1: Blau besiegt Gegner
+MID_MISSION_H_M201812A_A1: Lass blaue Verbündete Gegner besiegen.
+MID_MISSION_M201812A_A2: Inf. besiegt Gegner
+MID_MISSION_H_M201812A_A2: Lass Infanterieeinheiten Gegner besiegen.
+MID_MISSION_M201812A_A3: Grün besiegen
+MID_MISSION_H_M201812A_A3: Besiege grüne Gegner.
+MID_MISSION_M201812A_A4: Flieger besiegen
+MID_MISSION_H_M201812A_A4: Besiege Flugeinheiten.
+MID_MISSION_M201812A_A5: Gewinne Arenaduelle
+MID_MISSION_H_M201812A_A5: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_M201812A_A6: Rot besiegt Lv. 20+
+MID_MISSION_H_M201812A_A6: Lass rote Verbündete Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_M201812A_A7: Flieger besiegt Lv. 20+
+MID_MISSION_H_M201812A_A7: Lass verbündete Flugeinheiten Gegner\nbesiegen, die Level 20 oder höher sind.
+MID_MISSION_M201812A_A8: Blau Lv. 20+ besiegen
+MID_MISSION_H_M201812A_A8: Besiege blaue Gegner, die Level 20 oder\nhöher sind.
+MID_MISSION_M201812A_A9: Inf. Lv. 20+ besiegen
+MID_MISSION_H_M201812A_A9: Besiege Infanterieeinheiten, die Level 20\noder höher sind.
+MID_MISSION_M201812A_A10: Arenaduelle / Mittel+
+MID_MISSION_H_M201812A_A10: Gewinne Arenaduelle auf mittlerem\noder höherem Schwierigkeitsgrad.
+MID_MISSION_M201812A_A11: Grün besiegt Lv. 35+
+MID_MISSION_H_M201812A_A11: Lass grüne Verbündete Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201812A_A12: Reiter besiegt Lv. 35+
+MID_MISSION_H_M201812A_A12: Lass Verbündete berittene Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_M201812A_A13: Besiege Rot Level 35+
+MID_MISSION_H_M201812A_A13: Besiege rote Gegner, die Level 35 oder\nhöher sind.
+MID_MISSION_M201812A_A14: Besiege Reiter Lv. 35+
+MID_MISSION_H_M201812A_A14: Besiege berittene Einheiten, die Level 35 oder\nhöher sind.
+MID_MISSION_M201812A_A15: Arenaduelle - Für Kenner
+MID_MISSION_H_M201812A_A15: Gewinne Arenaduelle auf dem\nSchwierigkeitsgrad "Für Kenner".
+MID_MISSION_M201812B_TITLE: Dez.-Quests (2)
+MID_MISSION_M201812B_A1: Übungsturm: 1. Stufe
+MID_MISSION_H_M201812B_A1: Bewältige die erste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A2: Übungsturm: 2. Stufe
+MID_MISSION_H_M201812B_A2: Bewältige die zweite Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A3: Übungsturm: 3. Stufe
+MID_MISSION_H_M201812B_A3: Bewältige die dritte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A4: Übungsturm: 4. Stufe
+MID_MISSION_H_M201812B_A4: Bewältige die vierte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A5: Übungsturm: 5. Stufe
+MID_MISSION_H_M201812B_A5: Bewältige die fünfte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A6: Übungsturm: 6. Stufe
+MID_MISSION_H_M201812B_A6: Bewältige die sechste Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A7: Übungsturm: 7. Stufe
+MID_MISSION_H_M201812B_A7: Bewältige die siebte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_M201812B_A8: Bewältige die achte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A9: Übungsturm: 9. Stufe
+MID_MISSION_H_M201812B_A9: Bewältige die neunte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A10: Übungsturm: 10. Stufe
+MID_MISSION_H_M201812B_A10: Bewältige die zehnte Stufe des Übungsturms.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812B_A11: Übungsturm: 10. Stufe
+MID_MISSION_H_M201812B_A11: Bewältige die zehnte Stufe des Übungsturms\nnur mit Infanterieeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201812B_A12: Übungsturm: 10. Stufe
+MID_MISSION_H_M201812B_A12: Bewältige die zehnte Stufe des Übungsturms\nnur mit gepanzerten Einheiten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812B_A13: Übungsturm: 10. Stufe
+MID_MISSION_H_M201812B_A13: Bewältige die zehnte Stufe des Übungsturms\nnur mit berittenen Einheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201812B_A14: Übungsturm: 10. Stufe
+MID_MISSION_H_M201812B_A14: Bewältige die zehnte Stufe des Übungsturms\nnur mit Flugeinheiten. Alle Verbündeten\nmüssen überleben.
+MID_MISSION_M201812C_TITLE: Dez.-Quests (3)
+MID_MISSION_M201812C_A1: Kap. 2 Tl. 1
+MID_MISSION_H_M201812C_A1: Bewältige Kap. 2/Tl. 1. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A2: Kap. 2 Tl. 2
+MID_MISSION_H_M201812C_A2: Bewältige Kap. 2/Tl. 2 mit einem\nroten Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A3: Kap. 2 Tl. 3
+MID_MISSION_H_M201812C_A3: Bewältige Kap. 2/Tl. 3 mit einem\nblauen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A4: Kap. 2 Tl. 4
+MID_MISSION_H_M201812C_A4: Bewältige Kap. 2/Tl. 4 mit einem\ngrünen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A5: Kap. 2 Tl. 5
+MID_MISSION_H_M201812C_A5: Bewältige Kap. 2/Tl. 5 mit einem\nfarblosen Verbündeten. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A6: Kap. 5 Tl. 1 - Schwer+
+MID_MISSION_H_M201812C_A6: Bewältige Kap. 5/Tl. 1 im\nModus Schwer oder höher. Alle\nVerbündeten müssen überleben.
+MID_MISSION_M201812C_A7: Kap. 5 Tl. 2 - Schwer+
+MID_MISSION_H_M201812C_A7: Bewältige Kap. 5/Tl. 2 mit einem roten\nVerbündeten im Modus Schwer o. höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A8: Kap. 5 Tl. 3 - Schwer+
+MID_MISSION_H_M201812C_A8: Bewältige Kap. 5/Tl. 3 mit einem blauen\nVerbündeten im Modus Schwer o. höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A9: Kap. 5 Tl. 4 - Schwer+
+MID_MISSION_H_M201812C_A9: Bewältige Kap. 5/Tl. 4 mit einem grünen\nVerbündeten im Modus Schwer o. höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A10: Kap. 5 Tl. 5 - Schwer+
+MID_MISSION_H_M201812C_A10: Bewältige Kap. 5/Tl. 5 mit einem farblosen\nVerbündeten im Modus Schwer o. höher.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A11: Kap. 8 Tl. 1 - Extrem
+MID_MISSION_H_M201812C_A11: Bewältige Kap. 8/Tl. 1 im Modus\nExtrem. Alle Verbündeten müssen\nüberleben.
+MID_MISSION_M201812C_A12: Kap. 8 Tl. 2 - Extrem
+MID_MISSION_H_M201812C_A12: Bewältige Kap. 8/Tl. 2 im Modus\nExtrem mit einem roten Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A13: Kap. 8 Tl. 3 - Extrem
+MID_MISSION_H_M201812C_A13: Bewältige Kap. 8/Tl. 3 im Modus\nExtrem mit einem blauen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A14: Kap. 8 Tl. 4 - Extrem
+MID_MISSION_H_M201812C_A14: Bewältige Kap. 8/Tl. 4 im Modus\nExtrem mit einem grünen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_M201812C_A15: Kap. 8 Tl. 5 - Extrem
+MID_MISSION_H_M201812C_A15: Bewältige Kap. 8/Tl. 5 im Modus\nExtrem mit einem farblosen Verbündeten.\nAlle Verbündeten müssen überleben.
+MID_MISSION_S201812CHARA01_TITLE: Drei Helden
+MID_MISSION_S201812CHARA01_A1: Gegner besiegen
+MID_MISSION_H_S201812CHARA01_A1: Besiege einen Gegner.
+MID_MISSION_S201812CHARA01_A2: Olivia greift an
+MID_MISSION_H_S201812CHARA01_A2: Lass Olivia: Zarte Schönheit\neinige Gegner besiegen.
+MID_MISSION_S201812CHARA01_A3: Corrin greift an
+MID_MISSION_H_S201812CHARA01_A3: Lass Corrin: Schicksalsherrin\neinige Gegner besiegen.
+MID_MISSION_S201812CHARA01_B1: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201812CHARA01_B1: Lass Olivia: Zarte Schönheit einige Gegner\nbesiegen, die Level 20 oder höher sind.
+MID_MISSION_S201812CHARA01_B2: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201812CHARA01_B2: Lass Corrin: Schicksalsherrin einige Gegner\nbesiegen, die Level 20 oder höher sind.
+MID_MISSION_S201812CHARA01_B3: Gegner Lv. 20+ besiegen
+MID_MISSION_H_S201812CHARA01_B3: Lass Azama einige Gegner besiegen,\ndie Level 20 oder höher sind.
+MID_MISSION_S201812CHARA01_C1: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201812CHARA01_C1: Lass Olivia: Zarte Schönheit einige Gegner\nbesiegen, die Level 35 oder höher sind.
+MID_MISSION_S201812CHARA01_C2: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201812CHARA01_C2: Lass Corrin: Schicksalsherrin einige Gegner\nbesiegen, die Level 35 oder höher sind.
+MID_MISSION_S201812CHARA01_C3: Gegner Lv. 35+ besiegen
+MID_MISSION_H_S201812CHARA01_C3: Lass Azama einige Gegner besiegen,\ndie Level 35 oder höher sind.
+MID_MISSION_S201812KIZUNA01_TITLE: Treue-Heldenkampf
+MID_MISSION_S201812KIZUNA01_A1: Treue-Heldenkampf
+MID_MISSION_H_S201812KIZUNA01_A1: Gewinne den Treue-Heldenkampf\ngegen Seliph und Julia mit\nSharena: Prinzessin von Askr im Team.
+MID_MISSION_S201812KIZUNA01_A2: Treue-Heldenkampf
+MID_MISSION_H_S201812KIZUNA01_A2: Gewinne den Treue-Heldenkampf gegen\nSeliph und Julia mit Alfonse: Prinz von Askr\nim Team auf Extrem oder höher.
+MID_MISSION_S201812KIZUNA01_A3: Seliph besiegen
+MID_MISSION_H_S201812KIZUNA01_A3: Besiege Seliph, der Level 40 oder höher\nist, mit Sharena: Prinzessin von Askr.
+MID_MISSION_S201812KIZUNA01_A4: Julia besiegen
+MID_MISSION_H_S201812KIZUNA01_A4: Besiege Julia, die Level 40 oder höher\nist, mit Alfonse: Prinz von Askr.
+MID_MISSION_S201812KIZUNA01_A5: Treue-Heldenkampf
+MID_MISSION_H_S201812KIZUNA01_A5: Gewinne den Treue-Heldenkampf\ngegen Seliph und Julia mit einem\nInfanterieteam auf Extrem oder höher.
+MID_MISSION_S201812VOTE01_TITLE: Wahlturnier
+MID_MISSION_S201812VOTE01_A1: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A1: Gewinne einen Kampf\nim Wahlturnier.
+MID_MISSION_S201812VOTE01_A2: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A2: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201812VOTE01_A3: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A3: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201812VOTE01_A4: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A4: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201812VOTE01_A5: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A5: Gewinne Kämpfe\nim Wahlturnier.
+MID_MISSION_S201812VOTE01_A6: Übungsturm: 2. Stufe
+MID_MISSION_H_S201812VOTE01_A6: Bewältige die zweite Stufe\ndes Übungsturms.
+MID_MISSION_S201812VOTE01_A7: Übungsturm: 5. Stufe
+MID_MISSION_H_S201812VOTE01_A7: Bewältige die fünfte Stufe\ndes Übungsturms.
+MID_MISSION_S201812VOTE01_A8: Übungsturm: 8. Stufe
+MID_MISSION_H_S201812VOTE01_A8: Bewältige die achte Stufe\ndes Übungsturms.
+MID_MISSION_S201812VOTE01_A9: Gewinne Arenaduelle
+MID_MISSION_H_S201812VOTE01_A9: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201812VOTE01_A10: Gewinne Arenaduelle
+MID_MISSION_H_S201812VOTE01_A10: Gewinne Arenaduelle eines\nbeliebigen Schwierigkeitsgrads.
+MID_MISSION_S201812VOTE01_A11: Arenaduelle / Mittel+
+MID_MISSION_H_S201812VOTE01_A11: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201812VOTE01_A12: Arenaduelle / Mittel+
+MID_MISSION_H_S201812VOTE01_A12: Gewinne Arenaduelle auf\nmittlerem oder höherem\nSchwierigkeitsgrad.
+MID_MISSION_S201812VOTE01_A13: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A13: Gewinne einen Kampf im\nWahlturnier mit einem roten\nVerbündeten in deinem Team.
+MID_MISSION_S201812VOTE01_A14: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A14: Gewinne einen Kampf im\nWahlturnier mit einem blauen\nVerbündeten in deinem Team.
+MID_MISSION_S201812VOTE01_A15: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A15: Gewinne einen Kampf im\nWahlturnier mit einem grünen\nVerbündeten in deinem Team.
+MID_MISSION_S201812VOTE01_A16: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A16: Gewinne einen Kampf im\nWahlturnier mit einem farblosen\nVerbündeten in deinem Team.
+MID_MISSION_S201812VOTE01_A17: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A17: Gewinne Kämpfe im Wahlturnier\nmit einem roten Verbündeten in\ndeinem Team.
+MID_MISSION_S201812VOTE01_A18: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A18: Gewinne Kämpfe im Wahlturnier\nmit einem blauen Verbündeten in\ndeinem Team.
+MID_MISSION_S201812VOTE01_A19: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A19: Gewinne Kämpfe im Wahlturnier\nmit einem grünen Verbündeten in\ndeinem Team.
+MID_MISSION_S201812VOTE01_A20: Wahlturnier
+MID_MISSION_H_S201812VOTE01_A20: Gewinne Kämpfe im Wahlturnier\nmit einem farblosen Verbündeten\nin deinem Team.
+MPID_HONOR_フリーズ: Eisige Klinge
+MPID_H_フリーズ: Der älteste Prinz aus Nifl, dem Eiskönigreich.\nStrahlt Ruhe und Gelassenheit aus und ist\nstets auf Gefahr vorbereitet.
+MPID_VOICE_フリーズ: Mark P. Whitten
+MPID_ILLUST_フリーズ: Maeshima Shigeki (前嶋重機)
+MPID_LEGEND_フリーズ: Legendärer Effekt: Wind\nVerbündetenbonus: KP +3, Ver. +4\n\nGewährt Verbündeten diesen legendären\nEffekt in der Windsaison, wenn sie mit\nWind gesegnet wurden und mit dieser\nEinheit in den Kampf ziehen.
+MSID_ギョッル: Gjöll
+MSID_凍結の封印: Frostsiegel
+MSID_H_ギョッル: Verleiht Angr. +3. Wirkt eine Fähigkeit wie\nPanik oder Gefährden und/oder ein negativer\nStatuseffekt (keine Gegenangriffe oder\neingeschränkte Bewegung) auf einen Gegner,\nführt die Einheit garantiert einen Folgeangriff\naus, der Gegner nicht.
+MSID_H_凍結の封印: Sind die KP der Einheit zu Beginn des\nZuges ≥ 50 %, erleidet der Gegner mit\nder geringsten Res. bis nach seiner\nnächsten Aktion Angr./Ges. -6.
+MID_STAGE_HONOR_L0009: Eisige Klinge
+MID_STAGE_L0009: Hríd
+MID_STAGE_TITLE_PB036: Fähigkeiten 36
+MID_STAGE_PB036: Die Siegel von Nifl
+MID_STAGE_TITLE_PC019: Großmeister 19
+MID_STAGE_PC019: Schrilles Trilemma

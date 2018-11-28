@@ -127,9 +127,9 @@ MSID_H_フォルセティ: Verleiht Ges. +3. Initiiert die Einheit den\nKampf un
 MSID_H_速さ守備の応援＋: Verleiht einem Verbündeten\nGes./Ver. +6 für 1 Zug.
 MSID_H_飛燕金剛の構え1: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Ver. +2 im Kampf.
 MSID_H_飛燕金剛の構え2: Initiiert der Gegner den Kampf, erhält\ndie Einheit Ges./Ver. +4 im Kampf.
-MSID_H_奥義の螺旋1: Initiiert die Einheit den Kampf und wird ihr\nSpezialangriff vor oder nach dem Angriff\nausgelöst, erhält die Einheit danach\n(Erholungszeit -1).
-MSID_H_奥義の螺旋2: Wird der Spezialangriff vor oder nach dem\nAngriff ausgelöst, erhält die Einheit danach\n(Erholungszeit -1).
-MSID_H_奥義の螺旋3: Wird der Spezialangriff vor oder nach dem\nAngriff ausgelöst, erhält die Einheit danach\n(Erholungszeit -2).
+MSID_H_奥義の螺旋1: Initiiert die Einheit den Kampf und wird ihr\nSpezialangriff vor oder während des\nKampfes ausgelöst, erhält die Einheit\nnach dem Kampf Erholungszeit -1.
+MSID_H_奥義の螺旋2: Wird der Spezialangriff vor oder während\ndes Kampfes ausgelöst, erhält die Einheit\nnach dem Kampf Erholungszeit -1.
+MSID_H_奥義の螺旋3: Wird der Spezialangriff vor oder während\ndes Kampfes ausgelöst, erhält die Einheit\nnach dem Kampf Erholungszeit -2.
 MSID_H_疾風静水の舞い1: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +2 und Res. +3.
 MSID_H_疾風静水の舞い2: Wird Singen oder Tanzen eingesetzt,\nerhält das Ziel Ges. +3 und Res. +4.
 MID_CHAPTER_TITLE_C0212: Buch II: Kapitel 12

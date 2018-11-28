@@ -92,16 +92,16 @@ MEID_H_アクスアーマー: Gepanzerter Ritter, geschickt im Umgang\nmit der A
 MEID_H_アクスナイト: Soldat zu Pferde, der eine Axt führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_アクスペガサス: Pegasusreiter, der eine Axt führt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
 MEID_H_ボウファイター: Fußsoldat, der einen Bogen führt.\nDurchschnittliche Fähigkeiten.
-MEID_H_ボウナイト: Gepanzerter Ritter, geschickt im Umgang\nmit dem Bogen. Bewegt sich langsam.
+MEID_H_ボウナイト: Soldat zu Pferde, der den Bogen führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_シーフ: Dieb zu Pferde, der den Bogen führt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_レッドマージ: Pegasusreiter, der rote Magie wirkt.\nFlüsse oder Berge sind für ihn keine\nHindernisse. Schwach gegen Bogen.
 MEID_H_レッドナイト: Soldat zu Pferde, der rote Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_ブルーマージ: Ein Anwender blauer Magie.\nDurchschnittliche Fähigkeiten.
-MEID_H_ブルーナイト: Soldat zu Pferde, der blaue Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber Wälder nicht betreten.
+MEID_H_ブルーナイト: Soldat zu Pferde, der blaue Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_グリーンマージ: Ein Anwender grüner Magie.\nDurchschnittliche Fähigkeiten.
-MEID_H_グリーンナイト: Soldat zu Pferde, der grüne Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber Wälder nicht betreten.
+MEID_H_グリーンナイト: Soldat zu Pferde, der grüne Magie wirkt.\nEr hat einen großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_シスター: Eine Einheit, die Stäbe zum\nHeilen und Hindern einsetzt.\nDurchschnittliche Fähigkeiten.
-MEID_H_ロッドナイト: Soldat zu Pferde. Heilt/hindert mit\nStäben. Hat einen großen Bewegungs-\nradius, kann aber Wälder nicht betreten.
+MEID_H_ロッドナイト: Soldat zu Pferde. Heilt/hindert mit\nStäben. Hat großen Bewegungsradius,\nkann aber keine Wälder betreten.
 MEID_H_ブルーノ: Ein maskierter Ritter, dessen Identität\nund Motive mysteriös bleiben.
 MEID_H_ヴェロニカ: Prinzessin des Emblanischen Imperiums.\nSie nutzt Helden, um in Askr einzufallen.
 MEID_HONOR_ブルーノ: Maskierter Ritter

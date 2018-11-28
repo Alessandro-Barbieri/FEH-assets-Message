@@ -164,10 +164,10 @@ MSID_H_攻撃速さの絆R魔杖: Befindet sich die Einheit im Umkreis\nvon 2 Fe
 MSID_H_第11迷宮の覇者1: Verleiht KP +3.
 MSID_H_第11迷宮の覇者2: Verleiht KP +4.
 MSID_H_第11迷宮の覇者3: Verleiht KP +5.
-MSID_H_剣姫の刀: Beschleunigt Spezialangriffe (Erholungszeit -1).\nIst Ges. der Einheit höher als Ges. des Gegners,\nwird der Schaden um 70 % des Wertunterschieds\nerhöht. (Maximal +7 Schaden. Kann mit\nPhantom-Ges. kombiniert werden.)
+MSID_H_剣姫の刀: Beschleunigt Spezialangriffe (Erholungszeit -1).\nIst Ges. der Einheit höher als Ges. des Gegners,\nwird Schaden in Höhe von 70 % des Wertunter-\nschieds zugefügt. (Maximal +7 Schaden. Kann\nmit Phantom-Ges. kombiniert werden.)
 MSID_H_粛清の暗器: Erhöht den verursachten Schaden im\nKampf um Boni des Gegners. Nach dem\nKampf: Hat die Einheit den Kampf initiiert,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels Ver./Res. -5 bis nach\nihren nächsten Aktionen.
 MSID_H_粛清の暗器＋: Erhöht den verursachten Schaden im\nKampf um Boni des Gegners. Nach dem\nKampf: Hat die Einheit den Kampf initiiert,\nerleiden Ziel und Gegner im Umkreis von\n2 Feldern des Ziels Ver./Res. -7 bis nach\nihren nächsten Aktionen.
-MSID_H_ギガスカリバー: Verleiht Ges. +3. Ist Ges. der Einheit\nhöher als Ges. des Gegners, wird der\nSchaden um 70 % des Wertunterschieds\nerhöht. (Maximal +7 Schaden. Kann mit\nPhantom-Ges. kombiniert werden.)
+MSID_H_ギガスカリバー: Verleiht Ges. +3. Ist Ges. der Einheit höher als\nGes. des Gegners, wird Schaden in Höhe von\n70 % des Wertunterschieds zugefügt.\n(Maximal +7 Schaden. Kann mit Phantom-Ges.\nkombiniert werden.)
 MSID_H_曲技飛行1: Sind die KP der Einheit = 100 %, kann sie\nsich auf ein benachbartes Feld einer\nbeliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit\nim Umkreis von 2 Feldern bewegen.
 MSID_H_曲技飛行2: Sind die KP der Einheit ≥ 50 %, kann sie\nsich auf ein benachbartes Feld einer\nbeliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit\nim Umkreis von 2 Feldern bewegen.
 MSID_H_曲技飛行3: Einheit kann sich auf ein benachbartes Feld\neiner beliebigen verbündeten Infanterieeinheit,\nberittenen oder gepanzerten Einheit im\nUmkreis von 2 Feldern bewegen.
